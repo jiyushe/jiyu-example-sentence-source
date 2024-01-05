@@ -1,5 +1,7 @@
 # inapplicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inapplicable.md)
+
 <p><span class="chinese">你的计划好像不适用。</span><span class="english">Your plan seems inapplicable.</span></p>
 
 <p><span class="chinese">这个原则对这件事不适用。</span><span class="english">The principle is inapplicable to the case.</span></p>

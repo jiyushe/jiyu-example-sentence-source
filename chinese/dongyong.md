@@ -1,5 +1,7 @@
 # 冬泳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongyong.md)
+
 <p><span class="chinese">在大城市冬泳。</span><span class="english">Big city winter swimming.</span></p>
 
 <p><span class="chinese">在俄罗斯，“海象”俱乐部就是由冬泳爱好者组成的。</span><span class="english">In Russia, “walrus” clubs perform this function.</span></p>

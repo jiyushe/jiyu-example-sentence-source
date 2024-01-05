@@ -1,5 +1,7 @@
 # yawing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yawing.md)
+
 <p><span class="chinese">它们在低风速下会发生强烈的偏离。</span><span class="english">They were subject to violent yawing at low wind speeds.</span></p>
 
 <p><span class="chinese">研究解决无尾布局横航向稳定性的气动力措施。</span><span class="english">To study the way to settle the yawing and rolling stability.</span></p>

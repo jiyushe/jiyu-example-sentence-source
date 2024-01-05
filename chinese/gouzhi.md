@@ -1,5 +1,7 @@
 # 购置
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouzhi.md)
+
 <p><span class="chinese">这是为厨房购置的吗？</span><span class="english">Sub-Zero addition for her kitchen?</span></p>
 
 <p><span class="chinese">这是为厨房购置的吗？</span><span class="english">A Sub-Zero addition for her kitchen?</span></p>

@@ -1,5 +1,7 @@
 # 主机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuji.md)
+
 <p><span class="chinese">连接主机失败。</span><span class="english">Connection to host falled.</span></p>
 
 <p><span class="chinese">使用基于名字的虚拟主机。</span><span class="english">Use name-based virtual hosting.</span></p>

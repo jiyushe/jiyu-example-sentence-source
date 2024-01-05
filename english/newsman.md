@@ -1,5 +1,7 @@
 # newsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newsman.md)
+
 <p><span class="chinese">他假充记者混了进去。</span><span class="english">He posed as a newsman to get in.</span></p>
 
 <p><span class="chinese">他假装新闻记者混了进去。</span><span class="english">He posed as a newsman to get in.</span></p>

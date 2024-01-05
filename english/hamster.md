@@ -1,5 +1,7 @@
 # hamster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hamster.md)
+
 <p><span class="chinese">仓鼠琴弹的很好啊。</span><span class="english">That hamster is truly good on the piano.</span></p>
 
 <p><span class="chinese">描绘着仓鼠给她做数学试卷的景象。</span><span class="english">She pictured the hamster writing her math exam.</span></p>

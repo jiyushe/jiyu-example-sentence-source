@@ -1,5 +1,7 @@
 # 铁矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiekuang.md)
+
 <p><span class="chinese">煤层和铁矿混杂在一起。</span><span class="english">Coal seams intermixed with iron ore.</span></p>
 
 <p><span class="chinese">这里的铁矿储藏量很丰富。</span><span class="english">The place here is rich in iron ore reserves.</span></p>

@@ -1,5 +1,7 @@
 # 茫茫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangmang_1.md)
+
 <p><span class="chinese">茫茫沙漠中瀚海之一粟。</span><span class="english">A grain of desert sand.</span></p>
 
 <p><span class="chinese">她逃入茫茫夜色中。</span><span class="english">She fled into the night.</span></p>

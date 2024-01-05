@@ -1,5 +1,7 @@
 # moccasin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moccasin.md)
+
 <p><span class="chinese">披着世纪晨曦在莫辛卡平滩踏足</span><span class="english">Moccasin Flat at century’s dawn</span></p>
 
 <p><span class="chinese">高统鹿皮靴设计用以穿在长统靴里的一种软鞋或柔软的鞋。</span><span class="english">A moccasin or soft shoe designed to be worn inside a boot.</span></p>

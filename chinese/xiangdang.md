@@ -1,5 +1,7 @@
 # 相当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangdang.md)
+
 <p><span class="chinese">桑迪相当高。</span><span class="english">Sandy's quite tall.</span></p>
 
 <p><span class="chinese">ush相当受欢迎，</span><span class="english">Rush's quite popular</span></p>

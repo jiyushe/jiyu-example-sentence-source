@@ -1,5 +1,7 @@
 # mucin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mucin.md)
+
 <p><span class="chinese">未见细胞内黏液小滴。</span><span class="english">Intracellular mucin droplets are not identifiable.</span></p>
 
 <p><span class="chinese">很多肿瘤细胞有明显的黏液空泡。</span><span class="english">Many of the neoplastic cells have clear vacuoles of mucin.</span></p>

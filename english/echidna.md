@@ -1,5 +1,7 @@
 # echidna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/echidna.md)
+
 <p><span class="chinese">针鼹带领澳大利亚队防守。</span><span class="english">The Echidna leads the GTMS Team Australia defense.</span></p>
 
 <p><span class="chinese">鸭嘴兽和针鼹是产卵哺乳动物。</span><span class="english">The platypus and the echidna are egg-laying mammals.</span></p>

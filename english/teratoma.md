@@ -1,5 +1,7 @@
 # teratoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teratoma.md)
+
 <p><span class="chinese">这是混有畸胎瘤的胚胎癌。</span><span class="english">This is embryonal carcinoma mixed with teratoma.</span></p>
 
 <p><span class="chinese">未成熟畸胎瘤的恶性程度可逆转。</span><span class="english">Malignant degree of immature teratoma can be reverse.</span></p>

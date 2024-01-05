@@ -1,5 +1,7 @@
 # capable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capable.md)
+
 <p><span class="chinese">他是精明能干的人。</span><span class="english">He is capable man.</span></p>
 
 <p><span class="chinese">他是个能干的小组长。</span><span class="english">He is a capable group leader.</span></p>

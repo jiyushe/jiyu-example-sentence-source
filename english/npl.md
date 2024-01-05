@@ -1,5 +1,7 @@
 # npl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/npl.md)
+
 <p><span class="chinese">NPL在中国各主要港口销售二手集装箱。</span><span class="english">NPL sales used shipping containers at chinese main ports.</span></p>
 
 <p><span class="chinese">这是该省最大规模的向外资出售不良资产项目。</span><span class="english">This is the largest NPL sold to foreign capital in that province.</span></p>

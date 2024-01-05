@@ -1,5 +1,7 @@
 # encephalitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encephalitis.md)
+
 <p><span class="chinese">WNV的表现很像圣路易脑膜炎。</span><span class="english">WNV behaves a lot like St . Louis encephalitis.</span></p>
 
 <p><span class="chinese">夏天幼儿怎样预防病毒性脑炎？</span><span class="english">How does cheeper prevent summer virus sex encephalitis?</span></p>

@@ -1,5 +1,7 @@
 # 学无止境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuewuzhijing.md)
+
 <p><span class="chinese">学无止境。</span><span class="english">There is no end to learning.</span></p>
 
 <p><span class="chinese">学无止境，向各位学习了！</span><span class="english">Endless learning . I learn from all guys.</span></p>

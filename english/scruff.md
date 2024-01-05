@@ -1,5 +1,7 @@
 # scruff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scruff.md)
+
 <p><span class="chinese">某专家对明星造型的评价</span><span class="english">An expert rates the scruff of the stars.</span></p>
 
 <p><span class="chinese">抓住某人的胳臂、掐住某人的脖子等。</span><span class="english">Catch sb by the ARM, throat, scruff of the neck, etc.</span></p>

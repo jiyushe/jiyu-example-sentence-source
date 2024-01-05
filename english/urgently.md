@@ -1,5 +1,7 @@
 # urgently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urgently.md)
+
 <p><span class="chinese">因此，改革刻不容缓。</span><span class="english">So reform is urgently needed.</span></p>
 
 <p><span class="chinese">他急切恳求我帮他一个忙。</span><span class="english">He urgently begged a favour of me.</span></p>

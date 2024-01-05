@@ -1,5 +1,7 @@
 # policewoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/policewoman.md)
+
 <p><span class="chinese">她是女警察。</span><span class="english">She's a policewoman.</span></p>
 
 <p><span class="chinese">她是一个警察吗？</span><span class="english">Is she a policewoman?</span></p>

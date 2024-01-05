@@ -1,5 +1,7 @@
 # 渎职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duzhi.md)
+
 <p><span class="chinese">他因渎职而受到降级处分。</span><span class="english">He was degraded from office for his dereliction of duty.</span></p>
 
 <p><span class="chinese">有些将军渎职并且不忠实于法国。</span><span class="english">Some of my generals are not loyal to their duties and to France.</span></p>

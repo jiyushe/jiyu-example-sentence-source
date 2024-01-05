@@ -1,5 +1,7 @@
 # upstart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upstart.md)
+
 <p><span class="chinese">这样一个小财主也敢跟我逗嘴皮子。</span><span class="english">An upstart like that dares to bandy words with me!</span></p>
 
 <p><span class="chinese">坦桑尼亚政府还不习惯成为暴发户。</span><span class="english">Tanzania’s government is not accustomed to upstart s.</span></p>

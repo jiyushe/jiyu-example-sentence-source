@@ -1,5 +1,7 @@
 # 节衣缩食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieyisuoshi.md)
+
 <p><span class="chinese">那我们就节衣缩食吧。</span><span class="english">We'll scrimp and save.</span></p>
 
 <p><span class="chinese">我取消了信用卡，生活开始节衣缩食。</span><span class="english">I canceled the credit card, and began to live more frugally.</span></p>

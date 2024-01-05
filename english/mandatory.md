@@ -1,5 +1,7 @@
 # mandatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mandatory.md)
+
 <p><span class="chinese">这是强制性的。</span><span class="english">This is mandatory.</span></p>
 
 <p><span class="chinese">分组作业是强制的。</span><span class="english">Sections are mandatory.</span></p>

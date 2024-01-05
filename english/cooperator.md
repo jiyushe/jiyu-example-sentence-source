@@ -1,5 +1,7 @@
 # cooperator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cooperator.md)
+
 <p><span class="chinese">你是一个合作者或是一个搭便车的免费使用者？</span><span class="english">Are You a Cooperator or a Free Rider?</span></p>
 
 <p><span class="chinese">我们与供应商是密切的合作伙伴。</span><span class="english">We are the close cooperator of our suppliers.</span></p>

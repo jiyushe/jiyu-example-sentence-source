@@ -1,5 +1,7 @@
 # diffract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffract.md)
+
 <p><span class="chinese">他们在贝尔实验室完成了这项工作，他们发现实际上，电子确实发生了衍射。</span><span class="english">They did this in Bell Laboratories, and they found that, in fact, the electrons did diffract.</span></p>
 
 <p><span class="chinese">机器人晶体创造出许许多多个晶体，不过它们的衍射现象并不明显。</span><span class="english">The robotic crystallization process made plenty of crystals, but they did not diffract very well.</span></p>

@@ -1,5 +1,7 @@
 # suspicion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suspicion.md)
+
 <p><span class="chinese">他设法避嫌。</span><span class="english">He managed to avert suspicion.</span></p>
 
 <p><span class="chinese">想办法不要让他起疑心。</span><span class="english">Try not to arouse his suspicion.</span></p>

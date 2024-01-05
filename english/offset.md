@@ -1,5 +1,7 @@
 # offset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offset.md)
+
 <p><span class="chinese">零基列偏移。</span><span class="english">Zero-based column offset.</span></p>
 
 <p><span class="chinese">收支相抵。</span><span class="english">The gains offset the losses.</span></p>

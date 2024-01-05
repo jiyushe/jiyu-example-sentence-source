@@ -1,5 +1,7 @@
 # asleep 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asleep.md)
+
 <p><span class="chinese">皮球睡着了。</span><span class="english">Ball falls asleep.</span></p>
 
 <p><span class="chinese">我是指睡着的事。</span><span class="english">I mean falling asleep.</span></p>

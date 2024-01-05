@@ -1,5 +1,7 @@
 # 出发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chufa.md)
+
 <p><span class="chinese">一切准备好了，出发。</span><span class="english">All set to go.</span></p>
 
 <p><span class="chinese">从这里出发，看世界。</span><span class="english">The eye on earth.</span></p>

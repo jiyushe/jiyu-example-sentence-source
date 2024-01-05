@@ -1,5 +1,7 @@
 # 马奶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manai.md)
+
 <p><span class="chinese">喝的酒以马奶代。</span><span class="english">Their wine was mare's milk.</span></p>
 
 <p><span class="chinese">它是用马奶、牛奶或者羊奶制成的。</span><span class="english">It's made from mare's, cow's or ewe's milk.</span></p>

@@ -1,5 +1,7 @@
 # 旗手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishou.md)
+
 <p><span class="chinese">旗手就位！</span><span class="english">The standard-bearer!</span></p>
 
 <p><span class="chinese">他曽在四年前的雅典担任过旗手。</span><span class="english">Yao carried the flag four yours ago in Athens.</span></p>

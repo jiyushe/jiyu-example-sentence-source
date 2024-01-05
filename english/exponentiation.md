@@ -1,5 +1,7 @@
 # exponentiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exponentiation.md)
+
 <p><span class="chinese">我们需要知道求幂运算的逆运算的难度。</span><span class="english">We need to know how hard it is to reverse the exponentiation.</span></p>
 
 <p><span class="chinese">首先我会写一个,迭代乘法的过程。</span><span class="english">So I'm going to build something that's going to do iterative exponentiation.</span></p>

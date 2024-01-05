@@ -1,5 +1,7 @@
 # monadic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monadic.md)
+
 <p><span class="chinese">如何使用一个亚历克斯一元词法分析器与快乐吗?。</span><span class="english">How to use an Alex monadic lexer with Happy?</span></p>
 
 <p><span class="chinese">含指针程序的模块单子切片。</span><span class="english">Modular monadic slicing for programs with pointers.</span></p>

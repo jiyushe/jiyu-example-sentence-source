@@ -1,5 +1,7 @@
 # 蒸腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengteng.md)
+
 <p><span class="chinese">在闷热蒸腾的夏天正午</span><span class="english">In the sweltering haze of summer-noon</span></p>
 
 <p><span class="chinese">路面蒸腾的热浪混合着汽车尾气扑面而来。</span><span class="english">The odor of hot pavement and auto exhaust blew into thecar.</span></p>

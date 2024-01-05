@@ -1,5 +1,7 @@
 # gastroscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastroscopy.md)
+
 <p><span class="chinese">什么是胃镜检查？</span><span class="english">What is a Gastroscopy?</span></p>
 
 <p><span class="chinese">胃镜下胃黏膜活检示低分化腺癌。</span><span class="english">Mucosal biopsy by gastroscopy showed low differentiated adenocarcinoma.</span></p>

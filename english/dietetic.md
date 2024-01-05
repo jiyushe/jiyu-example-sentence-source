@@ -1,5 +1,7 @@
 # dietetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dietetic.md)
+
 <p><span class="chinese">这是现存最早的专着和饮食治疗。</span><span class="english">It is the extant and earliest monograph on dietetic treatment.</span></p>
 
 <p><span class="chinese">这种食疗食品有滋补营养的效用。</span><span class="english">This sort of dietetic food has the effect of nourishing the human Body.</span></p>

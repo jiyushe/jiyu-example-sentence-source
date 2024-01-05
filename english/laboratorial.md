@@ -1,5 +1,7 @@
 # laboratorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laboratorial.md)
+
 <p><span class="chinese">这种处理可以推动定性推理的研究从QSIM的实验室阶段走向实际应用领域。</span><span class="english">This study can urge QSIM from the laboratorial stage to the real applications.</span></p>
 
 <p><span class="chinese">最后对二者共燃的实验研究进行了较深入地分析。</span><span class="english">Finally, it analyzes the laboratorial results of co-firing of biomass and coal in detail.</span></p>

@@ -1,5 +1,7 @@
 # bonus 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonus.md)
+
 <p><span class="chinese">陈阿四喜出望外。</span><span class="english">O Chen four bonus.</span></p>
 
 <p><span class="chinese">他们意外获得的发现呢？</span><span class="english">Their bonus discovery?</span></p>

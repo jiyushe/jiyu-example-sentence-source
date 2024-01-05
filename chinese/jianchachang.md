@@ -1,5 +1,7 @@
 # 检察长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianchachang.md)
+
 <p><span class="chinese">他因向检察长行贿而被警方拘捕。</span><span class="english">He was arrested for subsidizing the chief procurator.</span></p>
 
 <p><span class="chinese">区检察长对盗用公款者提出起诉。</span><span class="english">The district attorney has a good suit against the embezzler.</span></p>

@@ -1,5 +1,7 @@
 # temperamental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temperamental.md)
+
 <p><span class="chinese">最近天气变幻无常，阴晴不定。</span><span class="english">The weather has been temperamental lately.</span></p>
 
 <p><span class="chinese">预祝天下第一气质美女情人节快乐！</span><span class="english">Wish the world a temperamental belle happy valentine's day!</span></p>

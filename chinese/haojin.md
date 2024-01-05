@@ -1,5 +1,7 @@
 # 耗尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haojin.md)
+
 <p><span class="chinese">但精力耗尽是件坏事么？</span><span class="english">But is burnout a bad thing?</span></p>
 
 <p><span class="chinese">他的生命正在慢慢耗尽。</span><span class="english">His life was slowly draining away.</span></p>

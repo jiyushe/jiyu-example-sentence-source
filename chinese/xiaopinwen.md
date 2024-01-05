@@ -1,5 +1,7 @@
 # 小品文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaopinwen.md)
+
 <p><span class="chinese">培根的多数小品文都很简洁。</span><span class="english">Most of Bacons essays are concise.</span></p>
 
 <p><span class="chinese">梁氏小品文具有独特的艺术风格。</span><span class="english">Liang's essay has a peculiar style of art.</span></p>

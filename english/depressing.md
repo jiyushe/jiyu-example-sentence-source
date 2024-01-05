@@ -1,5 +1,7 @@
 # depressing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depressing.md)
+
 <p><span class="chinese">电影非常令人沮丧而且还虎头蛇尾的。</span><span class="english">It's just very depressing and anticlimactic.</span></p>
 
 <p><span class="chinese">一周当中，最让你郁闷的是哪一天？</span><span class="english">What is the most depressing day of the week?</span></p>

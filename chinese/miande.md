@@ -1,5 +1,7 @@
 # 免得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miande.md)
+
 <p><span class="chinese">及时缝一针，免得遇色狼。</span><span class="english">A stich in time saves crime.</span></p>
 
 <p><span class="chinese">免得损伤脾肺之气。</span><span class="english">Lest damage the gas of lienal lung.</span></p>

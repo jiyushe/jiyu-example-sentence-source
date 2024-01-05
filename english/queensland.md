@@ -1,5 +1,7 @@
 # queensland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/queensland.md)
+
 <p><span class="chinese">另一个原因是昆土兰州</span><span class="english">Another major factor is the state of Queensland.</span></p>
 
 <p><span class="chinese">昆士兰州，一群绵羊在牧场上吃草。</span><span class="english">A herd of sheep grazes in a pasture in Queensland.</span></p>

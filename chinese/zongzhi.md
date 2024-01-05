@@ -1,5 +1,7 @@
 # 宗旨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongzhi.md)
+
 <p><span class="chinese">这就是多元化的宗旨。</span><span class="english">That is the aim of pluralism.</span></p>
 
 <p><span class="chinese">这也是本文撰著的宗旨所在。</span><span class="english">This is also why I make this paper.</span></p>

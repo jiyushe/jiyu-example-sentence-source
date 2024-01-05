@@ -1,5 +1,7 @@
 # interrupt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interrupt.md)
+
 <p><span class="chinese">对不起，叨光您了。</span><span class="english">Sorry to interrupt you.</span></p>
 
 <p><span class="chinese">抱歉打扰你</span><span class="english">Sorry to interrupt you.</span></p>

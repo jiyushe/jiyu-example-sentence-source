@@ -1,5 +1,7 @@
 # fluorescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluorescent.md)
+
 <p><span class="chinese">大两线荧光显示屏。</span><span class="english">Large Two-Line Fluorescent Display.</span></p>
 
 <p><span class="chinese">可配装环形荧光灯。</span><span class="english">Suitable for annular fluorescent lamp.</span></p>

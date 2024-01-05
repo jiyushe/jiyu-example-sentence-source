@@ -1,5 +1,7 @@
 # vitamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitamine.md)
+
 <p><span class="chinese">缺乏这种维生素会使人生病。</span><span class="english">Lacking of the vitamine can make a person fall ill.</span></p>
 
 <p><span class="chinese">日粮中添加硒对山羊瘤胃消化代谢的影响。</span><span class="english">Effects of vitamine and selenium on some rumen parameters in lambs.</span></p>

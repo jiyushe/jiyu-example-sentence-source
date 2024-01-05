@@ -1,5 +1,7 @@
 # crackled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crackled.md)
+
 <p><span class="chinese">火在炉中噼噼啪啪地响。</span><span class="english">A fire crackled on the hearth.</span></p>
 
 <p><span class="chinese">桌上的收音机劈啪作响。</span><span class="english">The radios on his desk crackled.</span></p>

@@ -1,5 +1,7 @@
 # 定量分析
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingliangfenxi.md)
+
 <p><span class="chinese">我想用定量分析。</span><span class="english">And I try to be quantitative with you.</span></p>
 
 <p><span class="chinese">光谱分析仪的定量分析有许多种方法。</span><span class="english">There are many methods in its quantitative spectral analyses.</span></p>

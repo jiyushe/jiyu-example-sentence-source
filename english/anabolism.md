@@ -1,5 +1,7 @@
 # anabolism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anabolism.md)
+
 <p><span class="chinese">这些过程叫作合成代谢和分解代谢。</span><span class="english">These processes are called anabolism and catabolism.</span></p>
 
 <p><span class="chinese">这是一个时刻进行着的过程，包括合成代谢和分解代谢两种类型。</span><span class="english">It's a never-ending, two-part process of anabolism and catabolism.</span></p>

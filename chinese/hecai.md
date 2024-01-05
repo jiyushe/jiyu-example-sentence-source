@@ -1,5 +1,7 @@
 # 喝彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hecai.md)
+
 <p><span class="chinese">七名吴士大声喝彩。</span><span class="english">His seven friends cheered.</span></p>
 
 <p><span class="chinese">为火箭喝彩。20连胜。</span><span class="english">Bravo rox. 20 is phenomenal.</span></p>

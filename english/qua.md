@@ -1,5 +1,7 @@
 # qua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qua.md)
+
 <p><span class="chinese">巴布·马利是雷鬼乐不可缺少的灵魂人物。</span><span class="english">Bob Marley was the sine qua non of reggae music.</span></p>
 
 <p><span class="chinese">这就是所谓阉割的功用，作为意符化。</span><span class="english">This is called the function of castration qua signifying.</span></p>

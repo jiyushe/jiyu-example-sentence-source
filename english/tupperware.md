@@ -1,5 +1,7 @@
 # tupperware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tupperware.md)
+
 <p><span class="chinese">这样的话，保鲜盒就成为你的好朋友了哦。</span><span class="english">At that point, Tupperware containers become your new best friend.</span></p>
 
 <p><span class="chinese">灯的配件由塔珀家用塑料制品沙拉碗构成。</span><span class="english">The light fittings are composed of best selling Tupperware salad bowls.</span></p>

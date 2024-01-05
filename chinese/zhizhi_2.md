@@ -1,5 +1,7 @@
 # 直至
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhi_2.md)
+
 <p><span class="chinese">现在如此，直至永远。</span><span class="english">Now and for evermore.</span></p>
 
 <p><span class="chinese">乘梦飞翔，直至天空之上。</span><span class="english">Let me fly. Up to the sky.</span></p>

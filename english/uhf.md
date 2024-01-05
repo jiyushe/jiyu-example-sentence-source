@@ -1,5 +1,7 @@
 # uhf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uhf.md)
+
 <p><span class="chinese">硅UHF混频二极管用于全频道电视机。</span><span class="english">Si UHF mixer diodes are used in all-channel TV sets.</span></p>
 
 <p><span class="chinese">研制了一套GIS中局部放电的特高频检测系统。</span><span class="english">UHF partial discharge detection system for GIS is developed.</span></p>

@@ -1,5 +1,7 @@
 # puck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puck.md)
+
 <p><span class="chinese">冰球被打出了争球圈。</span><span class="english">And the puck cleared out to center ice.</span></p>
 
 <p><span class="chinese">你们知道,冰球大概是这么大</span><span class="english">So again, you know, what hockey puck is this big?</span></p>

@@ -1,5 +1,7 @@
 # 雏形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuxing_1.md)
+
 <p><span class="chinese">这才是形式主义的雏形。</span><span class="english">This is really the origin of formalism.</span></p>
 
 <p><span class="chinese">一个崭新的世界正在他们的身边初现雏形。</span><span class="english">Around them, a whole new world is taking shape.</span></p>

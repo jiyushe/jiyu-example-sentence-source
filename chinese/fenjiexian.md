@@ -1,5 +1,7 @@
 # 分界线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenjiexian.md)
+
 <p><span class="chinese">篱笆是威尔士农田的分界线。</span><span class="english">Hedgerows separate fields in Wales.</span></p>
 
 <p><span class="chinese">一个中心的分界线就是特性或者产品。</span><span class="english">A central dividing line is feature or product.</span></p>

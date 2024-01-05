@@ -1,5 +1,7 @@
 # 望而却步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangerquebu.md)
+
 <p><span class="chinese">这种害怕让我望而却步。</span><span class="english">It kind of scared me off it.</span></p>
 
 <p><span class="chinese">你方价格高得令人望而却步。</span><span class="english">Your price is on the high side.</span></p>

@@ -1,5 +1,7 @@
 # 鼹鼠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshu_1.md)
+
 <p><span class="chinese">鼹鼠挖坑道。</span><span class="english">A mole mines its way.</span></p>
 
 <p><span class="chinese">鼹鼠在地里挖了许多洞。</span><span class="english">A mole holed the field.</span></p>

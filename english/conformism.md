@@ -1,5 +1,7 @@
 # conformism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conformism.md)
+
 <p><span class="chinese">逃避自由最常见的方法是随波逐流，无时不地唯时尚是从。</span><span class="english">But the most occurring mechanism to escape freedom is, being everywhere in vogue, conformism.</span></p>
 
 <p><span class="chinese">军队的指挥架构在重因循守旧、轻建树功勋的路上越走越远。</span><span class="english">Increasingly, the military is creating a command structure that rewards conformism and ignores merit.</span></p>

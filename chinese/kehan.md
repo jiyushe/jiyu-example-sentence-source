@@ -1,5 +1,7 @@
 # 可汗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kehan.md)
+
 <p><span class="chinese">他容易冲动，会得罪契丹可汗。</span><span class="english">He is too emotional. He may offend the Khitan Khan.</span></p>
 
 <p><span class="chinese">而他，仅仅是中国大可汗的一个大臣而已。</span><span class="english">He, in turn, was vassal to the Great Khan of China.</span></p>

@@ -1,5 +1,7 @@
 # violator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/violator.md)
+
 <p><span class="chinese">违者将被开除。</span><span class="english">Violator will be dismissed.</span></p>
 
 <p><span class="chinese">他受到破坏协定的指责。</span><span class="english">He was stigmatized as a violator of the agreement.</span></p>

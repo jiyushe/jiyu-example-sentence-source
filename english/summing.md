@@ -1,5 +1,7 @@
 # summing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summing.md)
+
 <p><span class="chinese">这也是他总结的亮剑精神所在。</span><span class="english">This was his summing up the spirit of the Liang Jian.</span></p>
 
 <p><span class="chinese">如今她们都六十出头，到了人生算总帐的时候了。</span><span class="english">Now they were both past sixty, the time for summing up.</span></p>

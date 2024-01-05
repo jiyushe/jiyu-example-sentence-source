@@ -1,5 +1,7 @@
 # intoxicated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intoxicated.md)
+
 <p><span class="chinese">沁人心肺的花香。</span><span class="english">Intoxicated fragrance of flowers.</span></p>
 
 <p><span class="chinese">美丽的夜色让我沉醉。</span><span class="english">The beauty of the night intoxicated me.</span></p>

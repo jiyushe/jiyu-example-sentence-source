@@ -1,5 +1,7 @@
 # recreational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recreational.md)
+
 <p><span class="chinese">俭朴的生活，放弃一些娱乐性的购物。</span><span class="english">Live with less. Give up recreational shopping.</span></p>
 
 <p><span class="chinese">的缩写，意为“四轮驱动的休闲运动车”。</span><span class="english">Recreational Active Vehiclewith 4-wheel drive.</span></p>

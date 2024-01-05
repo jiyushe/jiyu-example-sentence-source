@@ -1,5 +1,7 @@
 # 石像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiang_2.md)
+
 <p><span class="chinese">我不认识那位石像鬼。</span><span class="english">I did not know the gargoyle.</span></p>
 
 <p><span class="chinese">呆如石像，抬头向上空凝视着她，而她膨胀着</span><span class="english">Stare up at her petrified, while she swells</span></p>

@@ -1,5 +1,7 @@
 # hangzhou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hangzhou.md)
+
 <p><span class="chinese">我们住在杭州。</span><span class="english">We live in Hangzhou.</span></p>
 
 <p><span class="chinese">杭州的风味菜是什么？</span><span class="english">What's special food of Hangzhou?</span></p>

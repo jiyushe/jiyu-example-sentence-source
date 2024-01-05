@@ -1,5 +1,7 @@
 # shipment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipment.md)
+
 <p><span class="chinese">它是怎样处理出货的？</span><span class="english">How does it handle shipment?</span></p>
 
 <p><span class="chinese">允许分批装运。</span><span class="english">Partial shipment is allowed.</span></p>

@@ -1,5 +1,7 @@
 # 俊秀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junxiu.md)
+
 <p><span class="chinese">俊秀的蒙塔古啊，我真的太痴心了。</span><span class="english">In truth, fair Montague, I am too fond.</span></p>
 
 <p><span class="chinese">明澈，俊秀，健康的眼睛。</span><span class="english">Clear, beautiful and healthy looking eyes.</span></p>

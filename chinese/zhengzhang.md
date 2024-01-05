@@ -1,5 +1,7 @@
 # 证章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhang.md)
+
 <p><span class="chinese">消防队员和警察都佩戴证章。</span><span class="english">Firemen and policemen wear badges.</span></p>
 
 <p><span class="chinese">那个带着移民局证章的大个子爱尔兰人瞧着他。</span><span class="english">The big Irishman with the Immigration badge looked at him.</span></p>

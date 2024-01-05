@@ -1,5 +1,7 @@
 # queenly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/queenly.md)
+
 <p><span class="chinese">罗赛蒂的女王似的女人肖像。</span><span class="english">Rosetti's queenly portraits of women.</span></p>
 
 <p><span class="chinese">所有的都是高尚、优雅、伟大而无私的！</span><span class="english">All is gracious, gentle, great and queenly.</span></p>

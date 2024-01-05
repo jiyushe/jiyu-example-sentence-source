@@ -1,5 +1,7 @@
 # barely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barely.md)
+
 <p><span class="chinese">他几乎连头都没点一下。</span><span class="english">He barely nods.</span></p>
 
 <p><span class="chinese">我与他仅仅是点头之交。</span><span class="english">I barely know him.</span></p>

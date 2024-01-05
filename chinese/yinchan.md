@@ -1,5 +1,7 @@
 # 引产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinchan.md)
+
 <p><span class="chinese">她的孩子晚了四个星期仍未出生，因此要给她引产。</span><span class="english">She had to induced because the baby was four weeks late.</span></p>
 
 <p><span class="chinese">医生常常使用强效药来为孕妇引产。</span><span class="english">Doctors often induce labor in pregnant women with powerful drugs.</span></p>

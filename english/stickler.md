@@ -1,5 +1,7 @@
 # stickler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stickler.md)
+
 <p><span class="chinese">我决非拘泥于权威的人。</span><span class="english">I am no stickler for authority.</span></p>
 
 <p><span class="chinese">你拘泥于细节和数据。</span><span class="english">You're a stickler for details and data.</span></p>

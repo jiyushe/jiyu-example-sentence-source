@@ -1,5 +1,7 @@
 # writing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/writing.md)
+
 <p><span class="chinese">我喜欢写作。</span><span class="english">I enjoy writing.</span></p>
 
 <p><span class="chinese">写演说词。</span><span class="english">Writing speeches.</span></p>

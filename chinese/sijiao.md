@@ -1,5 +1,7 @@
 # 嘶叫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sijiao.md)
+
 <p><span class="chinese">驴感到很得意，他高声地嘶叫，却被人认了出来。</span><span class="english">The ass felt quite proud.</span></p>
 
 <p><span class="chinese">我听见有马的嘶叫声。</span><span class="english">I've heard some horses nickering.</span></p>

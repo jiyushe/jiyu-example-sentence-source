@@ -1,5 +1,7 @@
 # shiftless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shiftless.md)
+
 <p><span class="chinese">他过着得过且过的日子。</span><span class="english">He lives in a shiftless way.</span></p>
 
 <p><span class="chinese">没有雄心的人被称为没出息的或者懒惰的人。</span><span class="english">A person without ambition is said to be shiftless.</span></p>

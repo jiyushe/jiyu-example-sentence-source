@@ -1,5 +1,7 @@
 # sparkler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparkler.md)
+
 <p><span class="chinese">托斯是如何得到这枚特别的饰品的呢？</span><span class="english">So how did Toth land on the special sparkler?</span></p>
 
 <p><span class="chinese">一个男孩在美国独立纪念日上玩烟火。</span><span class="english">A boy plays with a sparkler on the Fourth of July.</span></p>

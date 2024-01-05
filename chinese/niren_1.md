@@ -1,5 +1,7 @@
 # 泥人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niren_1.md)
+
 <p><span class="chinese">不多不少，捏成两个泥人。</span><span class="english">No less, knead into two clay figurine.</span></p>
 
 <p><span class="chinese">铁有生命的泥人现在和运动员被救出。</span><span class="english">Iron Golems are now saved with the player.</span></p>

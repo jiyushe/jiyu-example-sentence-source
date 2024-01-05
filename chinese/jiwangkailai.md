@@ -1,5 +1,7 @@
 # 继往开来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiwangkailai.md)
+
 <p><span class="chinese">今年是中法关系继往开来的一年。</span><span class="english">This year is pivotal to China-France relations.</span></p>
 
 <p><span class="chinese">鲜红旗帜，高高飘扬，继往开来，神圣集结。</span><span class="english">Bright red flags, flying high, abroad, sacred rally.</span></p>

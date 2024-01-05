@@ -1,5 +1,7 @@
 # afrikaner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afrikaner.md)
+
 <p><span class="chinese">上世纪50年代，一对白人夫妇生下了一个黑人女儿莱恩。</span><span class="english">Laing was a black child born in the 1950s to a white Afrikaner couple.</span></p>
 
 <p><span class="chinese">他建立一个世俗的南非荷神话是呼应了深刻的社会现实主义。</span><span class="english">He builds an Afrikaner mythology of mundanity that echoes a realism of social profundity.</span></p>

@@ -1,5 +1,7 @@
 # numbers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numbers.md)
+
 <p><span class="chinese">这些数字怎么了？</span><span class="english">What about the numbers?</span></p>
 
 <p><span class="chinese">五和九是奇数。</span><span class="english">Fivenine are odd numbers.</span></p>

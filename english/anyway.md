@@ -1,5 +1,7 @@
 # anyway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anyway.md)
+
 <p><span class="chinese">这不重要,跳过</span><span class="english">Forget it, anyway.</span></p>
 
 <p><span class="chinese">我无论怎样都爱你。</span><span class="english">Hey, I love U anyway.</span></p>

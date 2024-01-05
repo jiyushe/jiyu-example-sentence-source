@@ -1,5 +1,7 @@
 # cyberculture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyberculture.md)
+
 <p><span class="chinese">然而，校园网络文化的主阵地是大学校园。</span><span class="english">However, the main land of campus cyberculture is in the universities.</span></p>
 
 <p><span class="chinese">关于网络文化的性质和功能问题，国内学界迄今为止仍众说纷纭。</span><span class="english">The academic circle at home has so far been arguing about the nature and function of cyberculture.</span></p>

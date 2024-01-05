@@ -1,5 +1,7 @@
 # crossfire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossfire.md)
+
 <p><span class="chinese">在交火时三名罪犯全部被击中。</span><span class="english">All three criminals got shot in the crossfire.</span></p>
 
 <p><span class="chinese">在与罪犯交火时三名警察被击中。</span><span class="english">Three cops got shot in the crossfire with the criminals.</span></p>

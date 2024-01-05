@@ -1,5 +1,7 @@
 # levin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/levin.md)
+
 <p><span class="chinese">对此，李文却从不在意。</span><span class="english">In this regard, Levin never care.</span></p>
 
 <p><span class="chinese">简娜·列文是这些黑洞搜寻者中的一员。</span><span class="english">One black hole hunter is Janna Levin.</span></p>

@@ -1,5 +1,7 @@
 # biotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biotherapy.md)
+
 <p><span class="chinese">并对新的生物靶向治疗作了展望。</span><span class="english">Novel target biotherapy for lung ca ncer is prospected.</span></p>
 
 <p><span class="chinese">TLR4有望成为肿瘤生物治疗的新靶点。</span><span class="english">TLR4 is expected to become a new target for cancer biotherapy.</span></p>

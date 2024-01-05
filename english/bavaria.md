@@ -1,5 +1,7 @@
 # bavaria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bavaria.md)
+
 <p><span class="chinese">巴伐利亚是个思想很传统的地区。</span><span class="english">Bavaria is a tradition-minded place.</span></p>
 
 <p><span class="chinese">1867年路德维希二世和他的未婚妻索菲公爵夫人在巴伐利亚。</span><span class="english">Ludwig II and his fiance, Duchess Sophie in Bavaria in 1867.</span></p>

@@ -1,5 +1,7 @@
 # 邮报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youbao_1.md)
+
 <p><span class="chinese">1959年每日邮报理想家园展览的海报</span><span class="english">Daily Mail Ideal Home Exhibition Poster</span></p>
 
 <p><span class="chinese">老大只有纽约邮报一块小地盘。</span><span class="english">Lachlan had little turf to call his own but the Post.</span></p>

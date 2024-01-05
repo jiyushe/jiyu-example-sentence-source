@@ -1,5 +1,7 @@
 # 抛头露面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paotoulumian.md)
+
 <p><span class="chinese">我不好意思抛头露面。</span><span class="english">I should be ashamed to show my face in public.</span></p>
 
 <p><span class="chinese">她非常怕羞，她不喜欢抛头露面。</span><span class="english">She is very shy. She doesn't like to show her face.</span></p>

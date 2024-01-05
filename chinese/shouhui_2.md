@@ -1,5 +1,7 @@
 # 收回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouhui_2.md)
+
 <p><span class="chinese">随即收回之前的话</span><span class="english">And they take them back.</span></p>
 
 <p><span class="chinese">我要尽快将其收回。</span><span class="english">Let me have it back soon.</span></p>

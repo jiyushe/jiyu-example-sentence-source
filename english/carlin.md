@@ -1,5 +1,7 @@
 # carlin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carlin.md)
+
 <p><span class="chinese">这是到目前为止在中国发现的最大的开林型黄金矿床。</span><span class="english">This is the largest Carlin gold deposit discovered in China so far.</span></p>
 
 <p><span class="chinese">开林型和似开林型黄金已成为中国主要的黄金资源。</span><span class="english">Carlin and Carlin-like gold has become China's major gold resources.</span></p>

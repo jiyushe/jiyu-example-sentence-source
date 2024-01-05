@@ -1,5 +1,7 @@
 # 拌和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banhuo.md)
+
 <p><span class="chinese">我在拌和配料做蛋糕。</span><span class="english">I'm mixing a cake.</span></p>
 
 <p><span class="chinese">缓缓地拌和鸡蛋。</span><span class="english">Gently fold in the eggs.</span></p>

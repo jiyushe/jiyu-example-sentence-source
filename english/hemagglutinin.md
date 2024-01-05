@@ -1,5 +1,7 @@
 # hemagglutinin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemagglutinin.md)
+
 <p><span class="chinese">其血凝素受体为糖类。</span><span class="english">The receptor for hemagglutinin may be a carbohydrate.</span></p>
 
 <p><span class="chinese">在较温暖、适宜的细胞体内，这种红血球凝聚素呈现液态。</span><span class="english">Inside a nice, warm cell, the hemagglutinin is liquid.</span></p>

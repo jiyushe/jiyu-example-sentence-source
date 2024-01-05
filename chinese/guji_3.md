@@ -1,5 +1,7 @@
 # 孤寂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guji_3.md)
+
 <p><span class="chinese">孤寂的酌着马提尼。</span><span class="english">sipping martinis, all alone.</span></p>
 
 <p><span class="chinese">城市愈大，孤寂愈深。</span><span class="english">Agreat city, a great solitude.</span></p>

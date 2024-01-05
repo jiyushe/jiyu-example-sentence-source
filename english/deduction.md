@@ -1,5 +1,7 @@
 # deduction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deduction.md)
+
 <p><span class="chinese">这一点是会被扣很多分的。</span><span class="english">The penalty is a high deduction in points.</span></p>
 
 <p><span class="chinese">应付的赔偿不作以新换旧的扣减。</span><span class="english">Claim payable without deduction new for old.</span></p>

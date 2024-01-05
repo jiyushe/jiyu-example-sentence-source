@@ -1,5 +1,7 @@
 # 游览
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youlan_1.md)
+
 <p><span class="chinese">我很享受这些游览。</span><span class="english">I loved these tours.</span></p>
 
 <p><span class="chinese">我们常常乘快艇游览。</span><span class="english">We often go yachting.</span></p>

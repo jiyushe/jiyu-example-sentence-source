@@ -1,5 +1,7 @@
 # admiring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admiring.md)
+
 <p><span class="chinese">我对他越来越钦敬。</span><span class="english">I fell more and more admiring him.</span></p>
 
 <p><span class="chinese">赞叹着它们紧闭的黑色脊背</span><span class="english">admiring their compact black bodies</span></p>

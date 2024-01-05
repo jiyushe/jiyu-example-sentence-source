@@ -1,5 +1,7 @@
 # faro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faro.md)
+
 <p><span class="chinese">对…下赌注，如在法罗牌中。</span><span class="english">Slang To bet against, as in faro.</span></p>
 
 <p><span class="chinese">在瓦宾法鲁岛上，时间仿佛是静止不动的。</span><span class="english">Wabin Faro in the island, time seems static.</span></p>

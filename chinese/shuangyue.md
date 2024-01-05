@@ -1,5 +1,7 @@
 # 爽约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangyue.md)
+
 <p><span class="chinese">他从不爽约。</span><span class="english">He did not obey.</span></p>
 
 <p><span class="chinese">我才不会爽约哪。</span><span class="english">No, I won't break the appointment.</span></p>

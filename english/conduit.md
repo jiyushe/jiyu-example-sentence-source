@@ -1,5 +1,7 @@
 # conduit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conduit.md)
+
 <p><span class="chinese">是通过怎样的渠道呢</span><span class="english">What's the conduit?</span></p>
 
 <p><span class="chinese">敷设在室内，隧道，电缆沟，管道等固定场合。</span><span class="english">Flaying indoor, in tunnels, ducts, conduit etc.</span></p>

@@ -1,5 +1,7 @@
 # naples
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naples.md)
+
 <p><span class="chinese">到过那不勒斯，死而无憾。</span><span class="english">See Naples and die.</span></p>
 
 <p><span class="chinese">他选择了去到那不勒斯。</span><span class="english">He opted to go to Naples.</span></p>

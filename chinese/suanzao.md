@@ -1,5 +1,7 @@
 # 酸枣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanzao.md)
+
 <p><span class="chinese">酸枣加白糖，安眠大帮忙。</span><span class="english">Sugared wild jujube brings people sound sleep.</span></p>
 
 <p><span class="chinese">第二天，海天给了乐儿几个酸枣。</span><span class="english">The next day, the sea gave both some zizyphus jujube.</span></p>

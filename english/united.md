@@ -1,5 +1,7 @@
 # united
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/united.md)
+
 <p><span class="chinese">分离还是合好？</span><span class="english">Separate or united?</span></p>
 
 <p><span class="chinese">更何况他们团结一致。</span><span class="english">And they are united.</span></p>

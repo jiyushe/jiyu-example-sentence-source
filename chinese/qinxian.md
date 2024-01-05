@@ -1,5 +1,7 @@
 # 琴弦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinxian.md)
+
 <p><span class="chinese">刘宪华加油！琴弦支爱你！</span><span class="english">HenryLau fighting! Strings love you!</span></p>
 
 <p><span class="chinese">他漫不经心地拨弄着鲁特琴的琴弦。</span><span class="english">He idly plucked the strings of the lute.</span></p>

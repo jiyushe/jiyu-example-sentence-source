@@ -1,5 +1,7 @@
 # cater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cater.md)
+
 <p><span class="chinese">晚宴将筵开50席，其中45席供会员认购。</span><span class="english">The dinner will cater for 50 tables.</span></p>
 
 <p><span class="chinese">这些低级趣味正从其所好。</span><span class="english">The low tastes just cater his needs.</span></p>

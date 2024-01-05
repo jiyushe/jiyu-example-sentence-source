@@ -1,5 +1,7 @@
 # cornus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornus.md)
+
 <p><span class="chinese">山茱萸中的皂甙是山茱萸的主要代表成分。</span><span class="english">Saponin is one of the chief ingredients in Cornus officinalis fruits.</span></p>
 
 <p><span class="chinese">本试验对红瑞木硬枝扦插技术与插穗生根成活的关系进行了研究。</span><span class="english">It is studied the relationship between the hardwood cutting techniques of Cornus alba L.</span></p>

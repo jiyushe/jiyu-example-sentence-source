@@ -1,5 +1,7 @@
 # 出战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuzhan.md)
+
 <p><span class="chinese">可能出战是家庭为重。</span><span class="english">Darlington is family oriented.</span></p>
 
 <p><span class="chinese">有一次，我代表全班出战，并且旗开得胜。</span><span class="english">One time, I took on the whole class and won.</span></p>

@@ -1,5 +1,7 @@
 # pensively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pensively.md)
+
 <p><span class="chinese">他若有所思地盯着那幅油画。</span><span class="english">Pensively he stared at the painting.</span></p>
 
 <p><span class="chinese">艾丽斯若有所思地凝视着窗外。</span><span class="english">Alice gazed pensively through the window.</span></p>

@@ -1,5 +1,7 @@
 # paddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paddle.md)
+
 <p><span class="chinese">亚视桨轮胎审查。</span><span class="english">Vehicle review paddle tires.</span></p>
 
 <p><span class="chinese">想去游下泳或踢踢水吗？</span><span class="english">Want to go for a swim or paddle?</span></p>

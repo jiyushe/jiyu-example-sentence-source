@@ -1,5 +1,7 @@
 # 足不出户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zubuchuhu.md)
+
 <p><span class="chinese">如今她几乎足不出户。</span><span class="english">She is now practically housebound.</span></p>
 
 <p><span class="chinese">他因病完全足不出户。</span><span class="english">His illness has left him completely house-bound.</span></p>

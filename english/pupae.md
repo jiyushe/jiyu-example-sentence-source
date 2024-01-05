@@ -1,5 +1,7 @@
 # pupae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pupae.md)
+
 <p><span class="chinese">卵、幼虫利蛹的历期有待进一步研究。</span><span class="english">The development of egg, larva and pupae need further study.</span></p>
 
 <p><span class="chinese">工蚁蛹的过冷却点均显著低于其成虫和幼虫。</span><span class="english">Worker pupae had lower SCPs than worker adults and worker pupae.</span></p>

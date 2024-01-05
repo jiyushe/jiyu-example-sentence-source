@@ -1,5 +1,7 @@
 # 收市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoushi_3.md)
+
 <p><span class="chinese">中国沪指创下两个月以来收市新高。</span><span class="english">China's stocks hit two-month high.</span></p>
 
 <p><span class="chinese">收市前，道琼斯工业平均指数上升65点，报14，975点。</span><span class="english">Before the close, Dow was up 65 at 14,975.</span></p>

@@ -1,5 +1,7 @@
 # visualise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visualise.md)
+
 <p><span class="chinese">明确你的目标。</span><span class="english">Visualise your goals.</span></p>
 
 <p><span class="chinese">想象如果克服了这个障碍，自己会有什么样的感觉。</span><span class="english">Visualise how you will feel when you overcome this obstacle.</span></p>

@@ -1,5 +1,7 @@
 # submergence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submergence.md)
+
 <p><span class="chinese">淹涝胁迫对水稻生产造成了严重的危害。</span><span class="english">Submergence stress does severe harm to rice production.</span></p>
 
 <p><span class="chinese">玉米幼苗受淹水胁迫导致根系缺氧。</span><span class="english">Submergence stress result in oxygen limitation in maize roots.</span></p>

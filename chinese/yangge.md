@@ -1,5 +1,7 @@
 # 秧歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangge.md)
+
 <p><span class="chinese">高跷舞的基本动作是秧歌步。</span><span class="english">Stilt dance basic moves are Yangko step.</span></p>
 
 <p><span class="chinese">另一种著名的民间舞蹈是秧歌。</span><span class="english">Another well-known folk dance is the Yangge.</span></p>

@@ -1,5 +1,7 @@
 # 通信员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxinyuan_1.md)
+
 <p><span class="chinese">你会是一位更好的通信员。</span><span class="english">You're a better communicator.</span></p>
 
 <p><span class="chinese">科技与环境通信员，BBC新闻</span><span class="english">Science and environment correspondent, BBC News</span></p>

@@ -1,5 +1,7 @@
 # leben
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leben.md)
+
 <p><span class="chinese">宝宝多大可以喝酸奶呢？</span><span class="english">How old can the baby drink leben?</span></p>
 
 <p><span class="chinese">您在中国现在的生活如何？</span><span class="english">Wie ist Ihr Leben jetzt in China?</span></p>

@@ -1,5 +1,7 @@
 # uncrossed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncrossed.md)
+
 <p><span class="chinese">她放下交叉的腿，弄平裙子。</span><span class="english">She uncrossed her legs and smoothed her skirt.</span></p>
 
 <p><span class="chinese">若是坐着，同样不能交叉双腿。</span><span class="english">If you’re sitting, your legs should also be uncrossed.</span></p>

@@ -1,5 +1,7 @@
 # 无恙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyang_1.md)
+
 <p><span class="chinese">这里天气渐凉，家人平安无恙。</span><span class="english">The weather's cool.</span></p>
 
 <p><span class="chinese">但愿他平安无恙的回来。</span><span class="english">May he come back safe and sound!</span></p>

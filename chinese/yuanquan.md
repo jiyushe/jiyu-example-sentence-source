@@ -1,5 +1,7 @@
 # 圆圈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanquan.md)
+
 <p><span class="chinese">使用圆圈。</span><span class="english">Use circles.</span></p>
 
 <p><span class="chinese">围成一个圆圈。</span><span class="english">Create a circle.</span></p>

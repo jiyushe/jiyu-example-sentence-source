@@ -1,5 +1,7 @@
 # 沦丧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunsang.md)
+
 <p><span class="chinese">可以说是道德沦丧。</span><span class="english">It can be said of moral turpitude.</span></p>
 
 <p><span class="chinese">代价是战略的丢失和道德的沦丧。</span><span class="english">The price is strategic and moral bankruptcy.</span></p>

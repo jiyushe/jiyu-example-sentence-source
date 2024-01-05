@@ -1,5 +1,7 @@
 # cubical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cubical.md)
+
 <p><span class="chinese">我的办公隔间挨着一扇大窗户。</span><span class="english">My cubical is right next to a big window.</span></p>
 
 <p><span class="chinese">立方体建筑结构脆弱且不经济。</span><span class="english">Cubical buildings are structurally weak and uneconomic.</span></p>

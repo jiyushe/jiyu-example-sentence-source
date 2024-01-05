@@ -1,5 +1,7 @@
 # nixie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nixie.md)
+
 <p><span class="chinese">能在数码管上显示键码。</span><span class="english">To nixie tube display key code.</span></p>
 
 <p><span class="chinese">对于那些追求独特的朋友来说这款手表真是再好不过了。</span><span class="english">The Nixie Watch is great somebody that wants to be unique.</span></p>

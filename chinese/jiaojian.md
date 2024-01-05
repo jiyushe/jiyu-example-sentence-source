@@ -1,5 +1,7 @@
 # 矫健
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojian.md)
+
 <p><span class="chinese">你可以沿海滩到处发现身材矫健的人。</span><span class="english">You can find great bods everywhere along the beach.</span></p>
 
 <p><span class="chinese">他的儿子已发展为一个矫健勤劳的小伙子。</span><span class="english">His son has grown up into a sturdy hardworking young man.</span></p>

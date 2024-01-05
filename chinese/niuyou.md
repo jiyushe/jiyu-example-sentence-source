@@ -1,5 +1,7 @@
 # 牛油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuyou.md)
+
 <p><span class="chinese">牛油树成长了！</span><span class="english">Grow an Avocado Tree!</span></p>
 
 <p><span class="chinese">牛油花生味的？</span><span class="english">Peanut Butter flavor?</span></p>

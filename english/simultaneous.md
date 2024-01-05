@@ -1,5 +1,7 @@
 # simultaneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simultaneous.md)
+
 <p><span class="chinese">这件事几乎是与那件事同时发生的。</span><span class="english">This event was almost simultaneous with that one.</span></p>
 
 <p><span class="chinese">三个同时发生的音爆回荡在墙壁间。</span><span class="english">Three simultaneous sonic booms echoed off the walls.</span></p>

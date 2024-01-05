@@ -1,5 +1,7 @@
 # 仓库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cangku.md)
+
 <p><span class="chinese">数据仓库是什么？</span><span class="english">What is data warehousing?</span></p>
 
 <p><span class="chinese">那时候南市场更像是仓库，</span><span class="english">It was more like warehouses</span></p>

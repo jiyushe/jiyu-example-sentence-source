@@ -1,5 +1,7 @@
 # dinosaurian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dinosaurian.md)
+
 <p><span class="chinese">“恐龙”挺有意思，跟我们互动，还跟我们玩躲猫猫。</span><span class="english">" Dinosaurian " quite interesting, interact with us, still play with us hide cat.</span></p>
 
 <p><span class="chinese">如果你吻一个女人，你的心跳达到30，那肯定是恐龙。</span><span class="english">If you kiss a woman, your heartbeat is achieved 30, that affirmation is dinosaurian.</span></p>

@@ -1,5 +1,7 @@
 # cotter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cotter.md)
+
 <p><span class="chinese">你应该听听他是怎么说你的。</span><span class="english">You should hear what Cotter says of you.</span></p>
 
 <p><span class="chinese">明天他就就要给卡特·派克签署命令。</span><span class="english">On the morrow he would draft orders for Cotter Pyke.</span></p>

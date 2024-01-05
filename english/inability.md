@@ -1,5 +1,7 @@
 # inability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inability.md)
+
 <p><span class="chinese">难道苟且的活着是一种生命的维护吗？</span><span class="english">Is the inability live an assertion of life?</span></p>
 
 <p><span class="chinese">看到他们无力管理的惨状，我都觉得好笑。</span><span class="english">I’m amazed to see their inability to govern.</span></p>

@@ -1,5 +1,7 @@
 # 占领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanling.md)
+
 <p><span class="chinese">士兵们占领了这座城池。</span><span class="english">The soldiers seized the city.</span></p>
 
 <p><span class="chinese">与敌人谈判的城市，等于一半被占领。</span><span class="english">A city that parleys is half gotten.</span></p>

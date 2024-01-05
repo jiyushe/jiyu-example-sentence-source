@@ -1,5 +1,7 @@
 # deadline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deadline.md)
+
 <p><span class="chinese">咱们能否赶得及期限？</span><span class="english">Can we make the deadline?</span></p>
 
 <p><span class="chinese">我必需赶得上最后期限。</span><span class="english">I ought to meet the deadline.</span></p>

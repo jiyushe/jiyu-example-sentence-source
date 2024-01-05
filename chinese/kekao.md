@@ -1,5 +1,7 @@
 # 可靠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kekao.md)
+
 <p><span class="chinese">绝对不可靠。</span><span class="english">Absolutely not.</span></p>
 
 <p><span class="chinese">是的，当然可靠。</span><span class="english">Yeah, I definitely.</span></p>

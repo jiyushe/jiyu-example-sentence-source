@@ -1,5 +1,7 @@
 # prerequisite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prerequisite.md)
+
 <p><span class="chinese">成功的第一步即是成为偏执狂。</span><span class="english">Monomania is a prerequisite of success.</span></p>
 
 <p><span class="chinese">麻省理工学院的18.02课程是这门课程的必备先修课程。</span><span class="english">MIT's 18.02 is a prerequisite for this course.</span></p>

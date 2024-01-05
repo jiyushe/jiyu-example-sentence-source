@@ -1,5 +1,7 @@
 # 维他命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weitaming.md)
+
 <p><span class="chinese">莓果中含有维他命C。</span><span class="english">berries contain vitamin C.</span></p>
 
 <p><span class="chinese">今天你吃了维他命了吗？</span><span class="english">Have you taken your vitamins?</span></p>

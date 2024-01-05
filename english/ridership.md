@@ -1,5 +1,7 @@
 # ridership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ridership.md)
+
 <p><span class="chinese">广州BRT的客流量已经超出亚洲的各个其他公交系统。</span><span class="english">Ridership has already shattered the figures of other bus systems in Asia.</span></p>
 
 <p><span class="chinese">确实，长干线路已经吸引了众多的乘客。</span><span class="english">Already, the longer routes elsewhere appear to draw much heavier ridership.</span></p>

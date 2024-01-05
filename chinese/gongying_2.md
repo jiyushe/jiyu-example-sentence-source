@@ -1,5 +1,7 @@
 # 供应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongying_2.md)
+
 <p><span class="chinese">更多供应正源源而来。</span><span class="english">More supply is on the way.</span></p>
 
 <p><span class="chinese">从供应曲线上面跳下去吧！</span><span class="english">Go jump off a supply curve!</span></p>

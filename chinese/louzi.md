@@ -1,5 +1,7 @@
 # 篓子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/louzi.md)
+
 <p><span class="chinese">请把废物放在篓子里。</span><span class="english">Please put your waste in the basket.</span></p>
 
 <p><span class="chinese">不一会儿就给换了一个空篓子。</span><span class="english">It was soon replaced with an empty one.</span></p>

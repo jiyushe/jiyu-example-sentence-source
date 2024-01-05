@@ -1,5 +1,7 @@
 # flagon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagon.md)
+
 <p><span class="chinese">你也可以大杯地喝。</span><span class="english">You can drink them by the flagon.</span></p>
 
 <p><span class="chinese">要我说嘛，这个酒壶就挺好的。</span><span class="english">In my opinion, this flagon is just excellent.</span></p>

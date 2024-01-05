@@ -1,5 +1,7 @@
 # 扫清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saoqing.md)
+
 <p><span class="chinese">当然，这些措施并不能扫清道路上的障碍。</span><span class="english">Still, those measures may not unclog roads.</span></p>
 
 <p><span class="chinese">他派遣三排去扫清道路。</span><span class="english">He detailed the third platoon to clear a path.</span></p>

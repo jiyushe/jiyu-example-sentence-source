@@ -1,5 +1,7 @@
 # 输家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujia_2.md)
+
 <p><span class="chinese">军队是赢家，群氓是输家。</span><span class="english">Armies win and mobs lose.</span></p>
 
 <p><span class="chinese">但对输家意味着什么呢？</span><span class="english">But what about the losers?</span></p>

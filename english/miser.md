@@ -1,5 +1,7 @@
 # miser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miser.md)
+
 <p><span class="chinese">那个守财奴渴望得到金子。</span><span class="english">The miser hungered for gold.</span></p>
 
 <p><span class="chinese">上天保佑她不要嫁给一个吝啬鬼。</span><span class="english">Bless her from marrying a miser.</span></p>

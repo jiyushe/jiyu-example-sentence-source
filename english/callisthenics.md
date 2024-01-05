@@ -1,5 +1,7 @@
 # callisthenics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/callisthenics.md)
+
 <p><span class="chinese">体操能提高关节的柔韧性和肌肉的和谐性。</span><span class="english">Callisthenics can improve joint flexibility and muscle tone.</span></p>
 
 <p><span class="chinese">要不，换换方式，去跳舞或随着所喜欢的音乐节拍做健美体操。</span><span class="english">For a change, try dancing or doing callisthenics in time to your favourite tunes.</span></p>

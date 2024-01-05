@@ -1,5 +1,7 @@
 # rucksack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rucksack.md)
+
 <p><span class="chinese">帆布背包中的东西塞到爆？</span><span class="english">Rucksack packed to bursting point?</span></p>
 
 <p><span class="chinese">她背着一个帆布背包。</span><span class="english">She was carrying a rucksack on her back.</span></p>

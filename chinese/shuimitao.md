@@ -1,5 +1,7 @@
 # 水蜜桃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimitao.md)
+
 <p><span class="chinese">水蜜桃、珍珠。</span><span class="english">Peaches and pearls.</span></p>
 
 <p><span class="chinese">这些是水蜜桃味的。</span><span class="english">They are honey peach flavor.</span></p>

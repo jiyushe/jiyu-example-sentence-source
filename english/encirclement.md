@@ -1,5 +1,7 @@
 # encirclement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encirclement.md)
+
 <p><span class="chinese">这是一个令印度人害怕的包围。</span><span class="english">That has the Indians fearing encirclement.</span></p>
 
 <p><span class="chinese">巴基斯坦害怕被印度及其盟友包围。</span><span class="english">Pakistan fears encirclement by India and its ally.</span></p>

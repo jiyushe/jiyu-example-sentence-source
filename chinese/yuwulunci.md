@@ -1,5 +1,7 @@
 # 语无伦次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuwulunci.md)
+
 <p><span class="chinese">她语无伦次地诉说她悲惨的命运。</span><span class="english">She raved out her bitter fate.</span></p>
 
 <p><span class="chinese">那人语无伦次地问话。</span><span class="english">The man was asking, grammar wavering.</span></p>

@@ -1,5 +1,7 @@
 # francesca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/francesca.md)
+
 <p><span class="chinese">弗朗西斯卡是意大利排球选手。</span><span class="english">Francesca is an Italian volleyball player.</span></p>
 
 <p><span class="chinese">弗朗西丝卡拉开一个抽屉找开瓶的扳子。</span><span class="english">Francesca slid open a drawer to look for an opener.</span></p>

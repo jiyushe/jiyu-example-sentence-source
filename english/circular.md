@@ -1,5 +1,7 @@
 # circular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circular.md)
+
 <p><span class="chinese">它也不完全是圆形的。</span><span class="english">Nor is it entirely circular.</span></p>
 
 <p><span class="chinese">至关重要的炮弹总是哑弹。</span><span class="english">The crucial circular is a dud.</span></p>

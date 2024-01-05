@@ -1,5 +1,7 @@
 # proximate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proximate.md)
+
 <p><span class="chinese">表1攥样的工业分析。</span><span class="english">Table 1 Proximate analysis of coal samples.</span></p>
 
 <p><span class="chinese">本次复苏的“近因”是传统性的。</span><span class="english">The proximate causes of this recovery are traditional.</span></p>

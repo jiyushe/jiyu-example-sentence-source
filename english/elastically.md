@@ -1,5 +1,7 @@
 # elastically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elastically.md)
+
 <p><span class="chinese">这个球可以有弹性地弹跳。</span><span class="english">The ball can bounce elastically.</span></p>
 
 <p><span class="chinese">我们说，这种材料具有弹性。</span><span class="english">The material is said to behave elastically.</span></p>

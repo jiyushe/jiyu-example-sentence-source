@@ -1,5 +1,7 @@
 # confuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confuse.md)
+
 <p><span class="chinese">迷惑肝区肿大？</span><span class="english">Confuse liver area swelling?</span></p>
 
 <p><span class="chinese">迷团渐渐解开…</span><span class="english">Confuse a group gradually unlock.</span></p>

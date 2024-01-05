@@ -1,5 +1,7 @@
 # rani
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rani.md)
+
 <p><span class="chinese">我是王妃。我来自新加坡。</span><span class="english">I'm Rani. I'm from Singapore.</span></p>
 
 <p><span class="chinese">天看上去好像要下雨了，别忘了带伞。</span><span class="english">As though, it'll rani , don't forget to take umbrella with you.</span></p>

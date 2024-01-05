@@ -1,5 +1,7 @@
 # sill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sill.md)
+
 <p><span class="chinese">吹散的尘土堆积在窗台上。</span><span class="english">Blown soil mounded on the window sill.</span></p>
 
 <p><span class="chinese">饭菜仍然在灶上蒸着。</span><span class="english">The meal was sill steamed on the stove.</span></p>

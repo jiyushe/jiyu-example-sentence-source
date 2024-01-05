@@ -1,5 +1,7 @@
 # 生擒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqin.md)
+
 <p><span class="chinese">格斗中他们生擒了三名囚犯。</span><span class="english">They took 3 prisoner in the fight.</span></p>
 
 <p><span class="chinese">毕竟，伴侣是需要被生擒的猎物。</span><span class="english">After all, a mate is prey to be captured alive.</span></p>

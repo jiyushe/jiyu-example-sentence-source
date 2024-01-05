@@ -1,5 +1,7 @@
 # 陈词滥调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chencilandiao.md)
+
 <p><span class="chinese">避免陈词滥调和法律术语。</span><span class="english">Avoid cliches and legalese.</span></p>
 
 <p><span class="chinese">我知道这是陈词滥调。</span><span class="english">I know it's a cornball thing.</span></p>

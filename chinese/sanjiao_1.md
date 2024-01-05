@@ -1,5 +1,7 @@
 # 三角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjiao_1.md)
+
 <p><span class="chinese">他是三角恐龙。</span><span class="english">He is a Triceratops.</span></p>
 
 <p><span class="chinese">这是栋有三角墙的房子。</span><span class="english">This is a gabled house.</span></p>

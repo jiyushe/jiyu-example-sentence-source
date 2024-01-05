@@ -1,5 +1,7 @@
 # 觥筹交错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchoujiaocuo.md)
+
 <p><span class="chinese">而致辞声和觥筹交错的祝酒声也变小了，成了嘟囔和叮当作响之声。</span><span class="english">The speeches and the clash of toasts dwindled to murmuring and tinkling.</span></p>
 
 <p><span class="chinese">当这些人觥筹交错的时候,他们就把这些可怜的孩子们丢在了一边</span><span class="english">These people are all drinking and leaving these poor little children to their own devices.</span></p>

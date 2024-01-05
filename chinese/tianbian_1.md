@@ -1,5 +1,7 @@
 # 天边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianbian_1.md)
+
 <p><span class="chinese">灌溉天边朝露。</span><span class="english">Dew irrigation horizon.</span></p>
 
 <p><span class="chinese">挽起一面轻纱，看清天边月牙。</span><span class="english">Take a veil, see the horizon moon.</span></p>

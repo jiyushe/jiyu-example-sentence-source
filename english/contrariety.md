@@ -1,5 +1,7 @@
 # contrariety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrariety.md)
+
 <p><span class="chinese">矛盾有两种形式。</span><span class="english">Contrariety then has two forms.</span></p>
 
 <p><span class="chinese">凡没有对立面的事物都不能有运动。</span><span class="english">All things that have no contrariety can not be moved.</span></p>

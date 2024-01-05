@@ -1,5 +1,7 @@
 # 婆娘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poniang.md)
+
 <p><span class="chinese">她是一个懒婆娘。</span><span class="english">She is a slatternly female.</span></p>
 
 <p><span class="chinese">这老婆娘对我恨这入骨。</span><span class="english">The old girl hates my guts.</span></p>

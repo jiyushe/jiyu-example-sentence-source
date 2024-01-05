@@ -1,5 +1,7 @@
 # themselves 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/themselves_1.md)
+
 <p><span class="chinese">银行家自己么？</span><span class="english">The bankers themselves?</span></p>
 
 <p><span class="chinese">他们讲得都病倒了。</span><span class="english">They talk themselves ill.</span></p>

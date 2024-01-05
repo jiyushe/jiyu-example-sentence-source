@@ -1,5 +1,7 @@
 # 公函
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonghan.md)
+
 <p><span class="chinese">她今天早晨收到了几封公函。</span><span class="english">She received several official letters this morning.</span></p>
 
 <p><span class="chinese">这封信应写成公函的形式。</span><span class="english">OFFICIAL】The letter should be written in an official style.</span></p>

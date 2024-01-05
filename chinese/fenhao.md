@@ -1,5 +1,7 @@
 # 分号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenhao.md)
+
 <p><span class="chinese">它当然是一个分号。</span><span class="english">So it's definitely the semicolon.</span></p>
 
 <p><span class="chinese">分号标志一行的结尾。</span><span class="english">The semicolons to terminate lines.</span></p>

@@ -1,5 +1,7 @@
 # vicuna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vicuna.md)
+
 <p><span class="chinese">穿小羊驼，吃甜味薄烧鲔鱼片。</span><span class="english">Wearing vicuña. Eating ahi tuna.</span></p>
 
 <p><span class="chinese">小羊驼是骆驼家族中体型最小的成员。</span><span class="english">The vicuna is the smallest member of the camel family.</span></p>

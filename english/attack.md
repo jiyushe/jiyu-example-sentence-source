@@ -1,5 +1,7 @@
 # attack 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attack.md)
+
 <p><span class="chinese">从上面攻击！</span><span class="english">Attack from above!</span></p>
 
 <p><span class="chinese">端口扫描攻击。</span><span class="english">Port scanning attack.</span></p>

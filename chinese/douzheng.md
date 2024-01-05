@@ -1,5 +1,7 @@
 # 斗争
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douzheng.md)
+
 <p><span class="chinese">他与罪恶作斗争。</span><span class="english">He warred against vice.</span></p>
 
 <p><span class="chinese">他与绝望作斗争。</span><span class="english">He fought against despair.</span></p>

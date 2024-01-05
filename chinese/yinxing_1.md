@@ -1,5 +1,7 @@
 # 阴性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxing_1.md)
+
 <p><span class="chinese">腰大肌牵张试验显阴性。</span><span class="english">Psoas stretch is negative.</span></p>
 
 <p><span class="chinese">所有的检查结果都是阴性。</span><span class="english">All the tests have come back negative.</span></p>

@@ -1,5 +1,7 @@
 # 骨子里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzili.md)
+
 <p><span class="chinese">骨子里有声音告诉我，跟她说话吧。</span><span class="english">Something was telling me to talk to her.</span></p>
 
 <p><span class="chinese">法国人骨子里是传统主义者。</span><span class="english">The French are at heart traditionalists.</span></p>

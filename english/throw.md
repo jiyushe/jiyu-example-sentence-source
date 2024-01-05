@@ -1,5 +1,7 @@
 # throw 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throw.md)
+
 <p><span class="chinese">把她扔出去！</span><span class="english">Throw her out!</span></p>
 
 <p><span class="chinese">把这丢到外面去。</span><span class="english">Throw that outside.</span></p>

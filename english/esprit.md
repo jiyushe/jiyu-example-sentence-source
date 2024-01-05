@@ -1,5 +1,7 @@
 # esprit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esprit.md)
+
 <p><span class="chinese">你有没有去过Esprit任何一间的分店？</span><span class="english">Have you ever been to any Esprit shop?</span></p>
 
 <p><span class="chinese">荷花团队精神，可能是一个例外！</span><span class="english">The Lotus Esprit might be an exception!</span></p>

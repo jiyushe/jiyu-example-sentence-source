@@ -1,5 +1,7 @@
 # cachinnation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cachinnation.md)
+
 <p><span class="chinese">白狼大笑起来。</span><span class="english">The white wolf cachinnation get up.</span></p>
 
 <p><span class="chinese">这一说法却召来了网友的哄笑。</span><span class="english">This one view however call in the netizen's cachinnation.</span></p>

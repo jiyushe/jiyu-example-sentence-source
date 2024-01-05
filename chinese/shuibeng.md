@@ -1,5 +1,7 @@
 # 水泵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuibeng.md)
+
 <p><span class="chinese">拆下水泵皮带轮。</span><span class="english">Remove water pump belt pulley.</span></p>
 
 <p><span class="chinese">水泵轴连轴承是轴承的一种。</span><span class="english">Water pump bearing is a bearing.</span></p>

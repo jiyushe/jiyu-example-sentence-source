@@ -1,5 +1,7 @@
 # permeation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permeation.md)
+
 <p><span class="chinese">渗透率最低点对应的转速为最佳转速。</span><span class="english">There is an optimal speed at the lowest permeation ratio.</span></p>
 
 <p><span class="chinese">碳膜分离气体的机理主要为分子筛分。</span><span class="english">Molecular sieving appears to contribute to the gas permeation.</span></p>

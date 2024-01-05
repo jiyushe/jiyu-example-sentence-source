@@ -1,5 +1,7 @@
 # 背负
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beifu.md)
+
 <p><span class="chinese">背负着俗世的浮尘和愧罪。</span><span class="english">Guilty of dust and sin.</span></p>
 
 <p><span class="chinese">日本将要背负骂名。</span><span class="english">Japan would get the blame.</span></p>

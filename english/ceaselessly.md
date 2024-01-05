@@ -1,5 +1,7 @@
 # ceaselessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceaselessly.md)
+
 <p><span class="chinese">那个伤员呻吟不止。</span><span class="english">The wounded man moaned ceaselessly.</span></p>
 
 <p><span class="chinese">热衷的事情就是不断地挣钱。</span><span class="english">He hankers after making money ceaselessly.</span></p>

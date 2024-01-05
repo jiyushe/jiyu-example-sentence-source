@@ -1,5 +1,7 @@
 # engagement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engagement.md)
+
 <p><span class="chinese">那是一枚订婚戒指。</span><span class="english">It was an engagement ring.</span></p>
 
 <p><span class="chinese">建立互动关系是关键。</span><span class="english">Building engagement is key.</span></p>

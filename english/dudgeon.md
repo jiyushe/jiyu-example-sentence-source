@@ -1,5 +1,7 @@
 # dudgeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dudgeon.md)
+
 <p><span class="chinese">他愤怒地噔噔走出了屋子。</span><span class="english">He stomped out of the room in high dudgeon.</span></p>
 
 <p><span class="chinese">他愤怒地噔噔走出了屋子。</span><span class="english">He stomped out of the room in high dudgeon.</span></p>

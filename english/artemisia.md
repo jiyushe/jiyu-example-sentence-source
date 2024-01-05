@@ -1,5 +1,7 @@
 # artemisia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artemisia.md)
+
 <p><span class="chinese">青蒿素是从黄花蒿中提取出来的。</span><span class="english">Artemisinin is extracted from the plant, Artemisia annua.</span></p>
 
 <p><span class="chinese">“蒌蒿满地芦芽短，正是河豚欲上时”。</span><span class="english">Lou Artemisia Montreal Lo buds short, is to globefish when.</span></p>

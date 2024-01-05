@@ -1,5 +1,7 @@
 # laying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laying.md)
+
 <p><span class="chinese">他们在铺设下水道。</span><span class="english">They are laying sewers.</span></p>
 
 <p><span class="chinese">这些母鸡产蛋很多。</span><span class="english">These hens are laying well.</span></p>

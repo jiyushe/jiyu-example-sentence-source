@@ -1,5 +1,7 @@
 # 祖传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuchuan.md)
+
 <p><span class="chinese">我有祖传的秘方。</span><span class="english">I have a secret recipe.</span></p>
 
 <p><span class="chinese">本店是祖传推拿手法店。</span><span class="english">Our shop is the ancestral manipulation.</span></p>

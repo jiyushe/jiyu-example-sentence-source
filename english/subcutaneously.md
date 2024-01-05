@@ -1,5 +1,7 @@
 # subcutaneously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subcutaneously.md)
+
 <p><span class="chinese">膜片植入大鼠皮下，观察其降解情况。</span><span class="english">The films were implanted subcutaneously in rats and the turnover of the films was examined.</span></p>
 
 <p><span class="chinese">方法分别利用CCL_4腹腔注射和皮下注射的方法制备大鼠肝纤维化模型。</span><span class="english">Methods CCL4 was injected intraperitoneally or subcutaneously to make rat liver fibrosis model.</span></p>

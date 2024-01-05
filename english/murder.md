@@ -1,5 +1,7 @@
 # murder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murder.md)
+
 <p><span class="chinese">在当中把杀机深藏。</span><span class="english">For murder to hide.</span></p>
 
 <p><span class="chinese">他因犯谋杀罪而被处绞刑。</span><span class="english">He was swung for murder.</span></p>

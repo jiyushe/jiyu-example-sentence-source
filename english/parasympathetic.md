@@ -1,5 +1,7 @@
 # parasympathetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parasympathetic.md)
+
 <p><span class="chinese">副交感神经系统使身体放松。</span><span class="english">Parasympathetic System relaxes the body.</span></p>
 
 <p><span class="chinese">副交感神经既增加张力，也加强运动，并松弛括约肌。</span><span class="english">The parasympathetic nerves enhance both tone and motility, and relax sphincters.</span></p>

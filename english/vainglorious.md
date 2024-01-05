@@ -1,5 +1,7 @@
 # vainglorious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vainglorious.md)
+
 <p><span class="chinese">她是个爱虚荣的女性。</span><span class="english">She is a vainglorious woman.</span></p>
 
 <p><span class="chinese">我恳求莫要在说些不敬的吹捧了。</span><span class="english">Make no vainglorious boasts, I beg you.</span></p>

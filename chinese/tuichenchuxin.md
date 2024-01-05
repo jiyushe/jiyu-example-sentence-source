@@ -1,5 +1,7 @@
 # 推陈出新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuichenchuxin.md)
+
 <p><span class="chinese">现在是推陈出新的时候了。</span><span class="english">It is time to try something new!</span></p>
 
 <p><span class="chinese">为答谢广大忠诚顾客，美食品种更在不断地推陈出新。</span><span class="english">Meanwhile, new menu are constantly developed to cater to the clientele.</span></p>

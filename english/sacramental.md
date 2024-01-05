@@ -1,5 +1,7 @@
 # sacramental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacramental.md)
+
 <p><span class="chinese">自然对一个圣徒来说是神圣的。</span><span class="english">Nature to a saint is sacramental.</span></p>
 
 <p><span class="chinese">对一个圣徒来说，自然是神圣的。</span><span class="english">Nature to a saint is sacramental.</span></p>

@@ -1,5 +1,7 @@
 # 支使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishi_5.md)
+
 <p><span class="chinese">习惯已经支使了你。</span><span class="english">the habit has got you.</span></p>
 
 <p><span class="chinese">他们支使他清洗汽车。</span><span class="english">They made him wash the car.</span></p>

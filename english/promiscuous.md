@@ -1,5 +1,7 @@
 # promiscuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promiscuous.md)
+
 <p><span class="chinese">利用RT-PCR方法检测小鼠胸腺异位基因表达水平。</span><span class="english">The level of promiscuous gene expression was detected by RT-PCR.</span></p>
 
 <p><span class="chinese">如果说有什么东西是我厌恶的，那我厌恶随意廉价的性行为。</span><span class="english">If there is one thing I don't like it is cheap and promiscuous sex.</span></p>

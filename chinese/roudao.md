@@ -1,5 +1,7 @@
 # 柔道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roudao.md)
+
 <p><span class="chinese">听起来和柔道、空手道，跆拳道差不多。</span><span class="english">It sounds like Judo , Karate or TKD.</span></p>
 
 <p><span class="chinese">58岁的普京是柔道黑带。</span><span class="english">Putin, 58, has a black belt in judo.</span></p>

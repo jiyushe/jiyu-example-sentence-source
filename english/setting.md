@@ -1,5 +1,7 @@
 # setting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/setting.md)
+
 <p><span class="chinese">日将暝。</span><span class="english">The sun is setting.</span></p>
 
 <p><span class="chinese">落领不齐。</span><span class="english">Misaligned collar setting.</span></p>

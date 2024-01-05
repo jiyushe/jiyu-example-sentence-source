@@ -1,5 +1,7 @@
 # 将官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangguan.md)
+
 <p><span class="chinese">一个军衔位于少将之上和大将之下的将官。</span><span class="english">A general officer ranking above a major general and below a full general.</span></p>
 
 <p><span class="chinese">我不理解他们为什么这么生气，每个人都将官升一级的。</span><span class="english">I don't understand why they're so upset. Everyone in al-Qaida just got a promotion.</span></p>

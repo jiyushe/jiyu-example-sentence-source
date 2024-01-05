@@ -1,5 +1,7 @@
 # stagnancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stagnancy.md)
+
 <p><span class="chinese">国际上，日本经济的长期低迷就是一个典型的例子。</span><span class="english">Such as the economy of Japan has been stagnancy in long time.</span></p>
 
 <p><span class="chinese">是什么因素造成这种停滞不前的现象，这个问题值得我们深思。</span><span class="english">What caused this stagnancy is an issue for us to ponder over.</span></p>

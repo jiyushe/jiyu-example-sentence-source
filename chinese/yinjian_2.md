@@ -1,5 +1,7 @@
 # 阴间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinjian_2.md)
+
 <p><span class="chinese">阴间哪，你的毁灭在那里？</span><span class="english">Where is your destruction o sheol ?</span></p>
 
 <p><span class="chinese">阴间即使派来牛头马面。</span><span class="english">Even if cattle, horsed were sent from hell.</span></p>

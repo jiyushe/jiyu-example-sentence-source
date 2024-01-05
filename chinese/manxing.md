@@ -1,5 +1,7 @@
 # 慢性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manxing.md)
+
 <p><span class="chinese">我们是慢性学习者。</span><span class="english">We are slow learners.</span></p>
 
 <p><span class="chinese">慢性心脏疾病咋办？</span><span class="english">Chronic heart disease?</span></p>

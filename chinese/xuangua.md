@@ -1,5 +1,7 @@
 # 悬挂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuangua.md)
+
 <p><span class="chinese">悬挂手提袋。</span><span class="english">Hanging tote bags.</span></p>
 
 <p><span class="chinese">它正好悬挂在山崖上方。</span><span class="english">It just hung over the cliff.</span></p>

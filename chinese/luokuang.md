@@ -1,5 +1,7 @@
 # 箩筐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luokuang.md)
+
 <p><span class="chinese">箩筐是那样脏，莲藕也跟被烟熏了似的脏兮兮的。</span><span class="english">Basket is so dirty, Lotus also be smoked with a dirty-like.</span></p>
 
 <p><span class="chinese">他女朋友有一箩筐，有点算是万人迷了。</span><span class="english">He has a lot of girlfriends and is a bit of a heartbreaker.</span></p>

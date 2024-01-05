@@ -1,5 +1,7 @@
 # 残酷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canku.md)
+
 <p><span class="chinese">而且也同样是残酷的。</span><span class="english">And it's also cruel.</span></p>
 
 <p><span class="chinese">永诀了，残酷的世界啊。</span><span class="english">Good-bye, cruel world.</span></p>

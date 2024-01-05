@@ -1,5 +1,7 @@
 # 伤势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshi_2.md)
+
 <p><span class="chinese">假装或夸大伤势。</span><span class="english">Feigning, or exaggerating injury.</span></p>
 
 <p><span class="chinese">令兄的伤势怎样了？</span><span class="english">How are the wounds of your brother?</span></p>

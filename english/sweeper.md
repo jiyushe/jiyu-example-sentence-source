@@ -1,5 +1,7 @@
 # sweeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweeper.md)
+
 <p><span class="chinese">微软自己的“系统清理器”独立工具。</span><span class="english">Microsoft Standalone System Sweeper.</span></p>
 
 <p><span class="chinese">本实用新型涉及扫地车。</span><span class="english">The utility model relates to a sweeper.</span></p>

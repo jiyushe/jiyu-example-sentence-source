@@ -1,5 +1,7 @@
 # bivariate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bivariate.md)
+
 <p><span class="chinese">结果进行t检验及直线相关分析。</span><span class="english">Results were analyzed by T test and Bivariate correlation.</span></p>
 
 <p><span class="chinese">方法双变量多水平模型，最小二乘法。</span><span class="english">Methods Multilevel bivariate models, Ordinary least square estimation.</span></p>

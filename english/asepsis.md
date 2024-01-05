@@ -1,5 +1,7 @@
 # asepsis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asepsis.md)
+
 <p><span class="chinese">血卟啉注射液就是血卟啉的无菌水溶液。</span><span class="english">Hematoporphyrinactual injection is an asepsis liquor of hematoporphyrin.</span></p>
 
 <p><span class="chinese">治疗无菌性股骨头坏死有什么特效药？</span><span class="english">Is head of femur of remedial asepsis sex necrotic what specific is there?</span></p>

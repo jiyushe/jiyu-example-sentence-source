@@ -1,5 +1,7 @@
 # bleachers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleachers.md)
+
 <p><span class="chinese">各种设备接线在可装卸的绿色看台之下蜿蜒缠绕。</span><span class="english">Wires snaked from below the portable green bleachers.</span></p>
 
 <p><span class="chinese">用于搭设临时的观礼台和看台。</span><span class="english">For the erection of temporary viewing stand and bleachers.</span></p>

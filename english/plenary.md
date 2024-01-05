@@ -1,5 +1,7 @@
 # plenary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plenary.md)
+
 <p><span class="chinese">当年的三中全会决定了两件事。</span><span class="english">The 3rd Plenary Session decided on two things.</span></p>
 
 <p><span class="chinese">开幕式结束后即转入全体会议。</span><span class="english">Following the ceremony was the plenary meeting.</span></p>

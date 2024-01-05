@@ -1,5 +1,7 @@
 # tryst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tryst.md)
+
 <p><span class="chinese">我独自去赴幽会。</span><span class="english">I came out alone on my way to my tryst.</span></p>
 
 <p><span class="chinese">没想到他们的幽会却被采青看到了。</span><span class="english">Did not think their tryst was seen in green.</span></p>

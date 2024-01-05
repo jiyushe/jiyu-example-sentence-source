@@ -1,5 +1,7 @@
 # 征询
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengxun.md)
+
 <p><span class="chinese">使用不自信、征询许可的身体语言</span><span class="english">Using Insecure, Approval-Seeking Body Language.</span></p>
 
 <p><span class="chinese">她征询卫斯里究竟推荐何人来担当此重任。</span><span class="english">She asked Wesley to recommend someone for the position.</span></p>

@@ -1,5 +1,7 @@
 # repot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repot.md)
+
 <p><span class="chinese">她已经交了报告。</span><span class="english">She has already handed in her repot.</span></p>
 
 <p><span class="chinese">今天我们要移植醉仙桃。</span><span class="english">Today we're going to repot Mandrakes.</span></p>

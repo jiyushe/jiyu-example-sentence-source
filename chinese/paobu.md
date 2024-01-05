@@ -1,5 +1,7 @@
 # 跑步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paobu.md)
+
 <p><span class="chinese">我喜欢跑步。</span><span class="english">I like running.</span></p>
 
 <p><span class="chinese">我们也喜爱跑步！</span><span class="english">We love running, too.</span></p>

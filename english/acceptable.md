@@ -1,5 +1,7 @@
 # acceptable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acceptable.md)
+
 <p><span class="chinese">这不能让人接受。</span><span class="english">This is not acceptable.</span></p>
 
 <p><span class="chinese">什么是可以吃的</span><span class="english">What's acceptable to eat?</span></p>

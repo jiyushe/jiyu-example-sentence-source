@@ -1,5 +1,7 @@
 # chauvinistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chauvinistic.md)
+
 <p><span class="chinese">沙文主义者的或与其有关的。</span><span class="english">Of or relating to a chauvinistic patriot.</span></p>
 
 <p><span class="chinese">邦德电影有时赞颂了邦德性格中的沙文主义。</span><span class="english">The Bond films glorify the sometimes chauvinistic persona of Bond.</span></p>

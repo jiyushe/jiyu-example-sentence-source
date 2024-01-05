@@ -1,5 +1,7 @@
 # 同性恋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxinglian.md)
+
 <p><span class="chinese">同性恋能结婚吗？</span><span class="english">Should gays marry?</span></p>
 
 <p><span class="chinese">什么是同性恋？</span><span class="english">What is homosexuality?</span></p>

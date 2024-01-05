@@ -1,5 +1,7 @@
 # decisive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decisive.md)
+
 <p><span class="chinese">胡有果断的作风。</span><span class="english">Hu has a decisive personality.</span></p>
 
 <p><span class="chinese">事在人为。</span><span class="english">Human effort is the decisive factor.</span></p>

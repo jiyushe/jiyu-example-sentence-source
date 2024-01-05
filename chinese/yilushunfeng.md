@@ -1,5 +1,7 @@
 # 一路顺风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilushunfeng.md)
+
 <p><span class="chinese">我们祝她一路顺风。</span><span class="english">We wished her godspeed.</span></p>
 
 <p><span class="chinese">祝愿你们一路顺风…</span><span class="english">May you have a fine trip.</span></p>

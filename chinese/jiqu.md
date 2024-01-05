@@ -1,5 +1,7 @@
 # 汲取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiqu.md)
+
 <p><span class="chinese">那就从这里汲取力量吧！</span><span class="english">Then take strength from this.</span></p>
 
 <p><span class="chinese">他旋开桶塞汲取苹果酒。</span><span class="english">He tapped off cider from a cask.</span></p>

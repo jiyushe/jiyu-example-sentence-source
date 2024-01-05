@@ -1,5 +1,7 @@
 # lychee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lychee.md)
+
 <p><span class="chinese">这是一颗荔枝。</span><span class="english">It's a lychee.</span></p>
 
 <p><span class="chinese">这是一个荔枝。</span><span class="english">This is a lychee.</span></p>

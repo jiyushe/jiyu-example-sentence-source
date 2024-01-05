@@ -1,5 +1,7 @@
 # 组织液
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzhiye.md)
+
 <p><span class="chinese">不同的组织液有不同的pH水平。</span><span class="english">Different tissues have different pH levels.</span></p>
 
 <p><span class="chinese">我们要谨慎使用组织液药物。</span><span class="english">We should be careful with the tissue fluid medicine.</span></p>

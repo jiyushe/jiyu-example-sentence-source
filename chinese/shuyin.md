@@ -1,5 +1,7 @@
 # 树荫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuyin.md)
+
 <p><span class="chinese">没有树荫。</span><span class="english">No shade.</span></p>
 
 <p><span class="chinese">多叶的树下有树荫。</span><span class="english">Leafy trees cast shade.</span></p>

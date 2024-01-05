@@ -1,5 +1,7 @@
 # indigent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indigent.md)
+
 <p><span class="chinese">不过，你怎么知道谁是穷人呢?</span><span class="english">And how do you know when someone is indigent?</span></p>
 
 <p><span class="chinese">穷人总有无数贫困潦倒之处。</span><span class="english">For one poor man there are an hundred indigent.</span></p>

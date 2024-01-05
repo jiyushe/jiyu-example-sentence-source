@@ -1,5 +1,7 @@
 # lowliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowliness.md)
+
 <p><span class="chinese">耶稣是真正谦卑的伟大导师。</span><span class="english">Jesus is the great teacher of lowliness of heart.</span></p>
 
 <p><span class="chinese">事业上没有高低贵贱之分。</span><span class="english">There is neither lowliness nor nobleness in careers.</span></p>

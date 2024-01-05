@@ -1,5 +1,7 @@
 # lamentably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamentably.md)
+
 <p><span class="chinese">航空设施极其薄弱简陋。</span><span class="english">Aviation was lamentably weak and primitive.</span></p>
 
 <p><span class="chinese">我们强烈反对这个拙劣的、欠考虑的决定。</span><span class="english">We deplore this lamentably ill-advised decision.</span></p>

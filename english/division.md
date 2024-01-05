@@ -1,5 +1,7 @@
 # division
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/division.md)
+
 <p><span class="chinese">销售部。</span><span class="english">Sales Division.</span></p>
 
 <p><span class="chinese">他军队被数的,共有57,400名.</span><span class="english">His division numbers 57,400.</span></p>

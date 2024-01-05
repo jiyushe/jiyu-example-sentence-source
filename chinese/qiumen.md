@@ -1,5 +1,7 @@
 # 球门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiumen.md)
+
 <p><span class="chinese">可惜守门员将球挡出球门。</span><span class="english">But the goalie fenced it out.</span></p>
 
 <p><span class="chinese">史密斯在球门线失球。</span><span class="english">Smith fumbled at the goal line.</span></p>

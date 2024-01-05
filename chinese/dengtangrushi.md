@@ -1,5 +1,7 @@
 # 登堂入室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dengtangrushi.md)
+
 <p><span class="chinese">喔，一个失败者登堂入室了。</span><span class="english">Wow, a LOSER is in the house.</span></p>
 
 <p><span class="chinese">旅游新概念的登堂入室，使旅游的价值提升到一个崭新的高度。</span><span class="english">The new tourism concept reveals the tourist new ideas of the tourism value.</span></p>

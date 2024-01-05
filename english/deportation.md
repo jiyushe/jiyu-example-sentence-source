@@ -1,5 +1,7 @@
 # deportation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deportation.md)
+
 <p><span class="chinese">米莉正面临驱逐出境。</span><span class="english">Milly is facing deportation.</span></p>
 
 <p><span class="chinese">他如今注重于边界安全和递解非法移民问题。</span><span class="english">He now focuses on border security and deportation of illegal immigrants.</span></p>

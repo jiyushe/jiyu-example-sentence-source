@@ -1,5 +1,7 @@
 # wondrously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wondrously.md)
+
 <p><span class="chinese">我害怕失去这座有魅力的城市。</span><span class="english">I fear losing this wondrously magical city.</span></p>
 
 <p><span class="chinese">但是其中有些系外行星与地球非常相似。</span><span class="english">But some exoplanets are wondrously Earth-like.</span></p>

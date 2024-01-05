@@ -1,5 +1,7 @@
 # injective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/injective.md)
+
 <p><span class="chinese">您患的是急性传染性结膜炎。</span><span class="english">You have acute injective conjunctivitis.</span></p>
 
 <p><span class="chinese">另外，还给出了单射集的构造方法。</span><span class="english">In addition, the injective sets are constructed.</span></p>

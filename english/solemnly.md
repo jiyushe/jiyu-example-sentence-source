@@ -1,5 +1,7 @@
 # solemnly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solemnly.md)
+
 <p><span class="chinese">我肃穆地捧起我那沉重的心。</span><span class="english">I lift my heavy heart up solemnly.</span></p>
 
 <p><span class="chinese">“他比耶酥基督更伟大，”他庄重地说。</span><span class="english">“Greater’n② Jesus Christ,” he said solemnly.</span></p>

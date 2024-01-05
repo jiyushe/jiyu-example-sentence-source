@@ -1,5 +1,7 @@
 # 轮渡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lundu.md)
+
 <p><span class="chinese">您可以乘坐水面轮渡及园区内地铁过江。</span><span class="english">You can take a ferry or subway there.</span></p>
 
 <p><span class="chinese">你问对方可以乘轮渡过江吗？</span><span class="english">Can I take a ferry to cross the river?</span></p>

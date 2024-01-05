@@ -1,5 +1,7 @@
 # 公式化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshihua.md)
+
 <p><span class="chinese">这就是公式化解题的方法</span><span class="english">This is how you formulate problems.</span></p>
 
 <p><span class="chinese">没有剧情，没有特色，大多都是公式化。</span><span class="english">No plot, bno features. Many are stereotyped !</span></p>

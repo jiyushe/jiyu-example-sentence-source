@@ -1,5 +1,7 @@
 # electroacoustic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electroacoustic.md)
+
 <p><span class="chinese">宁夏银川监狱操场上，由囚犯组建的电声乐队在排练。</span><span class="english">A electroacoustic band made of prisoners are rehearsing on playground.</span></p>
 
 <p><span class="chinese">在英国伯明罕的大学一个关于电声学音乐工作室的指南。</span><span class="english">A guide to the Electroacoustic Music Studios at University of Birmingham, UK.</span></p>

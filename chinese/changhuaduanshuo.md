@@ -1,5 +1,7 @@
 # 长话短说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changhuaduanshuo.md)
+
 <p><span class="chinese">长话短说，Y!</span><span class="english">Long story short, Y!</span></p>
 
 <p><span class="chinese">我想把它长话短说吧。</span><span class="english">I want to make it short.</span></p>

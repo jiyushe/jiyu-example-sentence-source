@@ -1,5 +1,7 @@
 # matron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matron.md)
+
 <p><span class="chinese">保姆是个魔女。</span><span class="english">Matron is a sorceress.</span></p>
 
 <p><span class="chinese">而她对面是一个严肃的老寡妇。</span><span class="english">Beside her was a stern old matron.</span></p>

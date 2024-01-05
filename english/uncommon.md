@@ -1,5 +1,7 @@
 # uncommon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncommon.md)
+
 <p><span class="chinese">Jive的这个例子很常见。</span><span class="english">Jive is not an uncommon example.</span></p>
 
 <p><span class="chinese">这里是“非同寻常的知识。</span><span class="english">This has been Uncommon Knowledge.</span></p>

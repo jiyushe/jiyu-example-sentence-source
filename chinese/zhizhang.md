@@ -1,5 +1,7 @@
 # 执掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhang.md)
+
 <p><span class="chinese">你放开执掌他的那双手，一个浪头。</span><span class="english">You go in his hands, a wave.</span></p>
 
 <p><span class="chinese">但是让一个未经检验的年轻人在一个存在70岁以上老人政治阴谋的好战国家执掌权力会带来很多问题。</span><span class="english">But installing an untested young man at the top of a</span></p>

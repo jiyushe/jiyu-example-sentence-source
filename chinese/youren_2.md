@@ -1,5 +1,7 @@
 # 游人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youren_2.md)
+
 <p><span class="chinese">这些地方有很多游人。</span><span class="english">you do get a lot of tourists.</span></p>
 
 <p><span class="chinese">间有游人来往的花园边上。</span><span class="english">By some not unfrequented Garden-side.</span></p>

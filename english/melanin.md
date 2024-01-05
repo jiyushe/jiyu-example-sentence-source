@@ -1,5 +1,7 @@
 # melanin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melanin.md)
+
 <p><span class="chinese">黑色素使皮肤变黑是人被晒黑的原因。</span><span class="english">Melanin darkens the skin and is the cause of suntan.</span></p>
 
 <p><span class="chinese">多补充维生素C，促进黑色素代谢。</span><span class="english">Multi-vitamin C, the promotion of melanin metabolism.</span></p>

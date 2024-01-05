@@ -1,5 +1,7 @@
 # 打火石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahuoshi.md)
+
 <p><span class="chinese">史前人用打火石刀。</span><span class="english">Prehistoric man used flint knives.</span></p>
 
 <p><span class="chinese">马特说，“但有一个问题，我们需要一块打火石。”</span><span class="english">But there's one problem. We need a piece of flint.</span></p>

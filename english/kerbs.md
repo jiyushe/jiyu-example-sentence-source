@@ -1,5 +1,7 @@
 # kerbs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kerbs.md)
+
 <p><span class="chinese">正如我说过的，这是一个带两个路肩的弯道。</span><span class="english">As I said, it's one corner with two kerbs.</span></p>
 
 <p><span class="chinese">你对搬走路肩的计划知道些什么？你认为这对周日意味着什么？</span><span class="english">What did you know about the plans to remove the kerbs and what do you think it will mean for Sunday?</span></p>

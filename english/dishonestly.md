@@ -1,5 +1,7 @@
 # dishonestly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishonestly.md)
+
 <p><span class="chinese">由不诚实的手段带来的利益最后都会引来麻烦事。</span><span class="english">Profit made dishonestly always brings trouble.</span></p>
 
 <p><span class="chinese">靠奸诈所获得的财富总是会带来麻烦，一直会。</span><span class="english">Profit made dishonestly always brings trouble. Always.</span></p>

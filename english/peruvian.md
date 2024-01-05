@@ -1,5 +1,7 @@
 # peruvian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peruvian.md)
+
 <p><span class="chinese">鲍尔与他的秘鲁同事兴奋不已。</span><span class="english">Bauer and his Peruvian teammates were thrilled.</span></p>
 
 <p><span class="chinese">秘鲁总统会见中国海军高级官员。</span><span class="english">Peruvian president meets Chinese navy senior officer.</span></p>

@@ -1,5 +1,7 @@
 # transparency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transparency.md)
+
 <p><span class="chinese">透明度是硬道理。</span><span class="english">Transparency is the clincher.</span></p>
 
 <p><span class="chinese">透明是这个过程中的口号。</span><span class="english">Transparency is the watchword here.</span></p>

@@ -1,5 +1,7 @@
 # unspotted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unspotted.md)
+
 <p><span class="chinese">保持清白，为厚爱的良人。</span><span class="english">For Colltine's der love be kept unspotted.</span></p>
 
 <p><span class="chinese">我们必须保守自己不沾染世俗！</span><span class="english">We must keep ourselves unspotted from this world!</span></p>

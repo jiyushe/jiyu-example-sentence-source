@@ -1,5 +1,7 @@
 # 先知先觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhixianjue.md)
+
 <p><span class="chinese">梦能先知先觉吗？</span><span class="english">Can Dreams Predict the Future?</span></p>
 
 <p><span class="chinese">另一方面，他也算是先知先觉。</span><span class="english">One the other hand, he was way in advance.</span></p>

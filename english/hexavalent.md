@@ -1,5 +1,7 @@
 # hexavalent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hexavalent.md)
+
 <p><span class="chinese">作为钝化使用的六价铬。</span><span class="english">Hexavalent Chrome Cr-VI when used as a passivate.</span></p>
 
 <p><span class="chinese">六价铬和镉也已消灭的材料清单。</span><span class="english">Hexavalent chromium and cadmium have also been eliminated from the list of materials.</span></p>

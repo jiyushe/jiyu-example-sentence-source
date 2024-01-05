@@ -1,5 +1,7 @@
 # dogma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dogma.md)
+
 <p><span class="chinese">不要受单元测试的教条所限</span><span class="english">Don’t get stuck on unit testing dogma.</span></p>
 
 <p><span class="chinese">一个是对教条不顾一切地重新肯定。</span><span class="english">One is the defiant reaffirmation of dogma.</span></p>

@@ -1,5 +1,7 @@
 # ludicrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ludicrous.md)
+
 <p><span class="chinese">我显得跟傻冒似的。</span><span class="english">I looked ludicrous.</span></p>
 
 <p><span class="chinese">这简直荒唐。</span><span class="english">This was ludicrous.</span></p>

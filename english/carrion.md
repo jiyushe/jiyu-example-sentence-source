@@ -1,5 +1,7 @@
 # carrion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carrion.md)
+
 <p><span class="chinese">它们还喜欢吃腐肉。</span><span class="english">They are apt to eating carrion.</span></p>
 
 <p><span class="chinese">渡鸦爱觅腐尸。</span><span class="english">The raven will seek the carrion.</span></p>

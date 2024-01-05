@@ -1,5 +1,7 @@
 # guidepost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guidepost.md)
+
 <p><span class="chinese">让爱做你前行的路标。</span><span class="english">Let love be your guidepost.</span></p>
 
 <p><span class="chinese">路标上写了什么？</span><span class="english">What is written on that guidepost?</span></p>

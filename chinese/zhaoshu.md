@@ -1,5 +1,7 @@
 # 招数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoshu.md)
+
 <p><span class="chinese">不如试试这些省钱的小招数。</span><span class="english">Try these money-saving tips.</span></p>
 
 <p><span class="chinese">我再不会被那种招数骗倒了。</span><span class="english">I won't fall for that gag again.</span></p>

@@ -1,5 +1,7 @@
 # 铮铮铁骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhengtiegu.md)
+
 <p><span class="chinese">铮铮铁骨的黄鸣锋竟也流下了眼泪。</span><span class="english">Clank frame of huang feng unexpectedly also shed tears.</span></p>
 
 <p><span class="chinese">他们也将发现这个男人拥有铮铮铁骨。</span><span class="english">And they are going to find out this guy has got steel in his spine.</span></p>

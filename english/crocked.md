@@ -1,5 +1,7 @@
 # crocked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crocked.md)
+
 <p><span class="chinese">锅底的油烟弄脏了我的裤子。</span><span class="english">The pot crocked my trousers.</span></p>
 
 <p><span class="chinese">这次流行性感冒把他的身体弄垮了。</span><span class="english">This attack of influenza has crocked him up.</span></p>

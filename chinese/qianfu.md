@@ -1,5 +1,7 @@
 # 前夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfu.md)
+
 <p><span class="chinese">他是她的前夫。</span><span class="english">He was her ex-husband.</span></p>
 
 <p><span class="chinese">特丽莎的前夫约翰·亨氏是亨氏公司的法定继承人，他于1991年死于空难。</span><span class="english">He died in a 1991 plane crash.</span></p>

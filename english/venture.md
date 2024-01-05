@@ -1,5 +1,7 @@
 # venture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venture.md)
+
 <p><span class="chinese">我冒昧地不同意。</span><span class="english">I venture to disagree.</span></p>
 
 <p><span class="chinese">有人敢猜一下吗</span><span class="english">Can anyone venture a guess?</span></p>

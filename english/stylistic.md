@@ -1,5 +1,7 @@
 # stylistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stylistic.md)
+
 <p><span class="chinese">引人注目的样式因素都是额外的。</span><span class="english">All the stylistic eye candy was extra.</span></p>
 
 <p><span class="chinese">话轮转换是新兴的戏剧文体学分析方法。</span><span class="english">Turn-taking analysis is a method to study drama stylistic.</span></p>

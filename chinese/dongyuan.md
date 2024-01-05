@@ -1,5 +1,7 @@
 # 动员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongyuan.md)
+
 <p><span class="chinese">群众很快动员起来了。</span><span class="english">The masses mobilized quickly.</span></p>
 
 <p><span class="chinese">抗美援朝的胜利与政治动员密切相关。</span><span class="english">The victory of War to resist U.</span></p>

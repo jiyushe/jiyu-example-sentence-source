@@ -1,5 +1,7 @@
 # virginia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virginia.md)
+
 <p><span class="chinese">是弗吉尼亚·伍尔芙？</span><span class="english">Is it Virginia Woolf?</span></p>
 
 <p><span class="chinese">弗吉尼亚不懂。</span><span class="english">Virginia not understand.</span></p>

@@ -1,5 +1,7 @@
 # kindliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kindliness.md)
+
 <p><span class="chinese">爱是相伴、仁善和友情吗？</span><span class="english">Is it of companionship, kindliness and friendship?</span></p>
 
 <p><span class="chinese">好的行为应受到奖励，坏的行为应受到惩罚。</span><span class="english">Kindliness should be reward,bad behavior should be punish.</span></p>

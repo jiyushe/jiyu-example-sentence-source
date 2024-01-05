@@ -1,5 +1,7 @@
 # 招架不住
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaojiabuzhu.md)
+
 <p><span class="chinese">这份工作让他们有点招架不住了。</span><span class="english">The work has overwhelmed them a bit.</span></p>
 
 <p><span class="chinese">过多的改革会让学生招架不住。</span><span class="english">Too many students losing some of the reforms will.</span></p>

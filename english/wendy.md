@@ -1,5 +1,7 @@
 # wendy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wendy.md)
+
 <p><span class="chinese">你能肯定吗，温迪？</span><span class="english">Are you sure, Wendy?</span></p>
 
 <p><span class="chinese">文帝十一哥健康的男孩。</span><span class="english">Wendy is a healthy boy.</span></p>

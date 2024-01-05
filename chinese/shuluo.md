@@ -1,5 +1,7 @@
 # 数落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuluo.md)
+
 <p><span class="chinese">很抱歉我又数落你了，伙计。</span><span class="english">I'm sorry to ride you, pal.</span></p>
 
 <p><span class="chinese">一天早晨，他这样数落了他一次</span><span class="english">One morning, he threw him this admonition</span></p>

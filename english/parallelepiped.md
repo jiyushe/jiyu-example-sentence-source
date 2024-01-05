@@ -1,5 +1,7 @@
 # parallelepiped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parallelepiped.md)
+
 <p><span class="chinese">对移动板块的短结束被门闩修理平行六面体。</span><span class="english">To the short ends of the mobile plate are fixed the parallelepiped by bolts.</span></p>
 
 <p><span class="chinese">第五章讨论了四面体有限元的超逼近。</span><span class="english">In Chapter 4, we discuss superapproximation of the rectangular parallelepiped finite element.</span></p>

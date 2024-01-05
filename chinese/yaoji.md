@@ -1,5 +1,7 @@
 # 药剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoji.md)
+
 <p><span class="chinese">优选的第一种药剂是替加色罗。</span><span class="english">The preferred first agent is tegaserod.</span></p>
 
 <p><span class="chinese">一个零化学药剂的扑灭臭重新方法。</span><span class="english">A chemical-free method to treat bed bugs.</span></p>

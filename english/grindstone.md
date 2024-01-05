@@ -1,5 +1,7 @@
 # grindstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grindstone.md)
+
 <p><span class="chinese">他在磨石上磨斧。</span><span class="english">He grinds ax on the grindstone.</span></p>
 
 <p><span class="chinese">把磨刀石上的那把镰刀拿去。</span><span class="english">Take the sickle which is lying on the grindstone.</span></p>

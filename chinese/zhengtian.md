@@ -1,5 +1,7 @@
 # 整天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengtian.md)
+
 <p><span class="chinese">整天都是大晴天。</span><span class="english">Are big sunny day.</span></p>
 
 <p><span class="chinese">整天进进出出。</span><span class="english">In and out all day.</span></p>

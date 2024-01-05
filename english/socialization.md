@@ -1,5 +1,7 @@
 # socialization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/socialization.md)
+
 <p><span class="chinese">你怎样应对社会化的问题？</span><span class="english">How to you handle socialization?</span></p>
 
 <p><span class="chinese">首先，这是社会化问题。</span><span class="english">First, there is an issue of socialization.</span></p>

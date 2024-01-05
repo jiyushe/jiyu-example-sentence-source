@@ -1,5 +1,7 @@
 # 撒娇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sajiao.md)
+
 <p><span class="chinese">她是超级的会撒娇又黏人！</span><span class="english">She is a great snuggler!</span></p>
 
 <p><span class="chinese">沙米很喜欢玩耍与撒娇。</span><span class="english">Sammy loves to play and cuddle.</span></p>

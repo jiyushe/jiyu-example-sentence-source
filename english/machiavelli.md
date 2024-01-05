@@ -1,5 +1,7 @@
 # machiavelli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/machiavelli.md)
+
 <p><span class="chinese">马奇亚维利是佛罗伦萨人。</span><span class="english">Machiavelli was a Florentine.</span></p>
 
 <p><span class="chinese">马基雅维利给了他一把刀子。</span><span class="english">Machiavelli gives him a knife.</span></p>

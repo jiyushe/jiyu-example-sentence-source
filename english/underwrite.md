@@ -1,5 +1,7 @@
 # underwrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underwrite.md)
+
 <p><span class="chinese">我们保险公司一般承保水渍险。</span><span class="english">Our company generally underwrite W.P.A.</span></p>
 
 <p><span class="chinese">没有哪家西方投行同意对这些交易实行硬包销。</span><span class="english">No Western bank agreed to hard underwrite the offers.</span></p>

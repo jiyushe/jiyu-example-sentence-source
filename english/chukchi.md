@@ -1,5 +1,7 @@
 # chukchi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chukchi.md)
+
 <p><span class="chinese">楚克其族人总是试着突然袭击。</span><span class="english">The Chukchi always tried to attack suddenly.</span></p>
 
 <p><span class="chinese">年老的养鹿户鹿肉是楚科奇人的传统食物。</span><span class="english">Deer meat is the traditional food of the Chukchi.</span></p>

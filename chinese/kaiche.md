@@ -1,5 +1,7 @@
 # 开车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiche.md)
+
 <p><span class="chinese">我腻烦开车。</span><span class="english">I hate driving.</span></p>
 
 <p><span class="chinese">然后我开车走了。</span><span class="english">Then I drove on.</span></p>

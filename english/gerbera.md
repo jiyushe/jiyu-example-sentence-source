@@ -1,5 +1,7 @@
 # gerbera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gerbera.md)
+
 <p><span class="chinese">非洲菊白粉病菌孢子的发芽管。</span><span class="english">Fig. 2. Germ tubes of conidia of the gerbera powdery mildew fungus.</span></p>
 
 <p><span class="chinese">图2。非洲菊白粉病菌孢子的发芽管。</span><span class="english">Fig. 2. germ tubes of conidia of the gerbera powdery mildew fungus.</span></p>

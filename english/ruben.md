@@ -1,5 +1,7 @@
 # ruben
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruben.md)
+
 <p><span class="chinese">在为球队效力了两个赛季之后，罗本又伤了。</span><span class="english">After the team potency two seasons, Ruben was wounded again.</span></p>
 
 <p><span class="chinese">据媒体报道，玻利维亚国防部长鲁文？</span><span class="english">According to media reports, the Bolivian Defense Minister Ruben?</span></p>

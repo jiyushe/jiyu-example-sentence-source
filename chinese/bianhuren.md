@@ -1,5 +1,7 @@
 # 辩护人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianhuren.md)
+
 <p><span class="chinese">辩护人因传唤法官而被判藐视法庭。</span><span class="english">The advocate was held in contempt for subpoenaing the judge.</span></p>
 
 <p><span class="chinese">一个或一组高级律师也称之为辩护人。</span><span class="english">A barrister or a group of barrister is referred to as "counsel".</span></p>

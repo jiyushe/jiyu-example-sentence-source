@@ -1,5 +1,7 @@
 # 投产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touchan.md)
+
 <p><span class="chinese">这里将肯定会在这里投产。</span><span class="english">It will definitely be produced in HVF.</span></p>
 
 <p><span class="chinese">这个厂是去年投产的。</span><span class="english">This factory went into operation last year.</span></p>

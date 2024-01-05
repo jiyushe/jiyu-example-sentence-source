@@ -1,5 +1,7 @@
 # usable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usable.md)
+
 <p><span class="chinese">可用于网版印刷。</span><span class="english">Usable for screen printing.</span></p>
 
 <p><span class="chinese">文件系统现在是可用的。</span><span class="english">The file system is now usable.</span></p>

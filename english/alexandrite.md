@@ -1,5 +1,7 @@
 # alexandrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alexandrite.md)
+
 <p><span class="chinese">紫翠宝石激光器是迄今为止较好的固体可调谐激光器之一。</span><span class="english">Alexandrite laser is one of the superior tunable solid-lasers.</span></p>
 
 <p><span class="chinese">至今人们在亚历山大石的开采上几乎毫无起色。</span><span class="english">To date, very little mining of Russian Alexandrite is taking place.</span></p>

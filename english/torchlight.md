@@ -1,5 +1,7 @@
 # torchlight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torchlight.md)
+
 <p><span class="chinese">他借着微弱的电筒光看了条。</span><span class="english">He read the note in the dim torchlight.</span></p>
 
 <p><span class="chinese">游行者排成了火炬长龙。</span><span class="english">The marchers held a torchlight procession.</span></p>

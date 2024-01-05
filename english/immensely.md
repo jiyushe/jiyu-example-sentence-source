@@ -1,5 +1,7 @@
 # immensely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immensely.md)
+
 <p><span class="chinese">他似乎对她怀有无限的感激。</span><span class="english">He appeared immensely grateful to her.</span></p>
 
 <p><span class="chinese">和他们一起工作，我感到无比自豪。</span><span class="english">I am immensely proud to work with them.</span></p>

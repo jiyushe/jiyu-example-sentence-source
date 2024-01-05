@@ -1,5 +1,7 @@
 # symphonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symphonic.md)
+
 <p><span class="chinese">序曲还是交响诗?。</span><span class="english">Overture or symphonic poem?</span></p>
 
 <p><span class="chinese">交响幻想曲，作品49，“波希奥拉的女儿”</span><span class="english">Symphonic Fantasy, Op. 49, Pohjolas Daughter.</span></p>

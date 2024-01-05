@@ -1,5 +1,7 @@
 # load
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/load.md)
+
 <p><span class="chinese">加载紧固件。</span><span class="english">Load fastening.</span></p>
 
 <p><span class="chinese">井架的风载能力？</span><span class="english">Wind load capacity?</span></p>

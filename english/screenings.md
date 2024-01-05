@@ -1,5 +1,7 @@
 # screenings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screenings.md)
+
 <p><span class="chinese">该片也没有提前放映。</span><span class="english">There were no advance screenings.</span></p>
 
 <p><span class="chinese">向医生咨询你的癌症筛查结果。</span><span class="english">Consult your doctor for regular cancer screenings.</span></p>

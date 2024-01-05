@@ -1,5 +1,7 @@
 # 苦斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kudou.md)
+
 <p><span class="chinese">他们进行了一场苦斗。</span><span class="english">They fought a hard fight.</span></p>
 
 <p><span class="chinese">自觉不幸福的人，生命成了苦斗的战场。</span><span class="english">For those who are not, life is to fight a battle.</span></p>

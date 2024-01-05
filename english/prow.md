@@ -1,5 +1,7 @@
 # prow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prow.md)
+
 <p><span class="chinese">他站在船首看着大海。</span><span class="english">He stands on the prow looking at the sea.</span></p>
 
 <p><span class="chinese">这座岛的尾部，就像一艘巨大的叶子形成的船的船头。</span><span class="english">The end of the island is like a prow of a huge leafy ship.</span></p>

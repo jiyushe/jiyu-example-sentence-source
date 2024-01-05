@@ -1,5 +1,7 @@
 # saleswoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saleswoman.md)
+
 <p><span class="chinese">那位女售货员笑脸相迎。</span><span class="english">The saleswoman smiles a welcome.</span></p>
 
 <p><span class="chinese">“这是你的找零，”女店员说道。</span><span class="english">"Here's your change, " said the saleswoman.</span></p>

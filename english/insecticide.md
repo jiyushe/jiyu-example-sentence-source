@@ -1,5 +1,7 @@
 # insecticide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insecticide.md)
+
 <p><span class="chinese">我来喷点药水儿以及清凉剂。</span><span class="english">I'll spray insecticide and refreshing oil.</span></p>
 
 <p><span class="chinese">农民们给作物喷洒杀虫剂。</span><span class="english">The farmers dusted crops with an insecticide.</span></p>

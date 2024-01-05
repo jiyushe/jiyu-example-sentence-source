@@ -1,5 +1,7 @@
 # allograft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allograft.md)
+
 <p><span class="chinese">BK病毒肾病可导致肾移植失败。</span><span class="english">BK virus-associated nephropathy can progress to renal allograft loss.</span></p>
 
 <p><span class="chinese">结论该模型是一种可靠的移植物血管病的动物模型。</span><span class="english">Conclusion This animal model is reliable of cardiac allograft vasculopathy.</span></p>

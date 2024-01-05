@@ -1,5 +1,7 @@
 # americana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/americana.md)
+
 <p><span class="chinese">它们是真正的美国文典。</span><span class="english">They are real Americana.</span></p>
 
 <p><span class="chinese">中东的“美式和平”主义者</span><span class="english">The "Pax Americana" in the Middle East</span></p>

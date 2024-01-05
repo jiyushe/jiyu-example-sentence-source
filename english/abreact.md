@@ -1,5 +1,7 @@
 # abreact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abreact.md)
+
 <p><span class="chinese">怎么样发泄心里的不快乐?。</span><span class="english">How to abreact in the heart joyless ?</span></p>
 
 <p><span class="chinese">一个人工作上不快乐．我该怎么发泄？</span><span class="english">On one individual job joyless . How should I abreact?</span></p>

@@ -1,5 +1,7 @@
 # corse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corse.md)
+
 <p><span class="chinese">让他的尸首去夸耀它的陋穴和骨灰瓮。</span><span class="english">His corse may boast its urn and narrow cave.</span></p>
 
 <p><span class="chinese">我晕到在地，好像一具倒下的尸体。</span><span class="english">From death, and like a corse fell to the ground.</span></p>

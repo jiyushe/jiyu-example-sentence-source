@@ -1,5 +1,7 @@
 # counterfeiting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterfeiting.md)
+
 <p><span class="chinese">中国是出了名的仿造大国。</span><span class="english">China is well-known for counterfeiting.</span></p>
 
 <p><span class="chinese">制售假冒药品有大利可图。</span><span class="english">Counterfeiting medicines can be very lucrative.</span></p>

@@ -1,5 +1,7 @@
 # healthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/healthy.md)
+
 <p><span class="chinese">葫萝卜是是健康食品。</span><span class="english">Carrot is healthy food.</span></p>
 
 <p><span class="chinese">文帝十一哥健康的男孩。</span><span class="english">Wendy is a healthy boy.</span></p>

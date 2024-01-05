@@ -1,5 +1,7 @@
 # 工艺美术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyimeishu.md)
+
 <p><span class="chinese">他毕业于一所工艺美术学校。</span><span class="english">He graduated from a school of crafts and arts.</span></p>
 
 <p><span class="chinese">他于15岁时进人了工艺美术学校。</span><span class="english">He in 15 years old entered a person a craft art school.</span></p>

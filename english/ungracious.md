@@ -1,5 +1,7 @@
 # ungracious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ungracious.md)
+
 <p><span class="chinese">我们中必然没人愿做一个失礼的主人。</span><span class="english">Surely none of us would be an ungracious host.</span></p>
 
 <p><span class="chinese">简略的摘要并不意味着就要没吸引力。</span><span class="english">This curt sumMary is not meant to be ungracious.</span></p>

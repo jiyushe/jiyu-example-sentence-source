@@ -1,5 +1,7 @@
 # amah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amah.md)
+
 <p><span class="chinese">大牛，你看阿妈那么热情。</span><span class="english">Daniel, since Amah is so sincere.</span></p>
 
 <p><span class="chinese">韩佳你看，阿妈等着我们呢。</span><span class="english">Han Jia, look, Amah is waiting for us.</span></p>

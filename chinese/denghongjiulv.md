@@ -1,5 +1,7 @@
 # 灯红酒绿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/denghongjiulv.md)
+
 <p><span class="chinese">于上安心的出去灯红酒绿，夜夜歌乐。</span><span class="english">On peace of mind go out every night scene of debauchery, song music.</span></p>
 
 <p><span class="chinese">在这灯红酒绿的街头，我迷失在这纸醉金迷的世界里了！</span><span class="english">In this debauchery's street corner, I lost in this wanton and luxurious living world!</span></p>

@@ -1,5 +1,7 @@
 # skyway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skyway.md)
+
 <p><span class="chinese">我看见无尽的航线。</span><span class="english">I saw above me that endless skyway.</span></p>
 
 <p><span class="chinese">感谢您乘坐航路航空公司的航班。</span><span class="english">Thank you for flying with Skyway Airlines.</span></p>

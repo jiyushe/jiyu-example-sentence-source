@@ -1,5 +1,7 @@
 # 礼堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/litang_1.md)
+
 <p><span class="chinese">礼堂设计座位1560个。</span><span class="english">The hall seats 1560 persons.</span></p>
 
 <p><span class="chinese">我们在礼堂集合。</span><span class="english">We assembled in the auditorium.</span></p>

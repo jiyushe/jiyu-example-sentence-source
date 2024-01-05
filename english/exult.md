@@ -1,5 +1,7 @@
 # exult
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exult.md)
+
 <p><span class="chinese">我不能高兴的太早。</span><span class="english">I must not exult too soon.</span></p>
 
 <p><span class="chinese">啊，海岸欢呼，啊，钟声敲响！</span><span class="english">Exult O shores, and ring O bells!</span></p>

@@ -1,5 +1,7 @@
 # 侍女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shinv_2.md)
+
 <p><span class="chinese">瞧瞧月亮的侍女。</span><span class="english">Behold the handmaid of the moon.</span></p>
 
 <p><span class="chinese">侍女低头痴笑着。</span><span class="english">The maid lowered her chin and simpered.</span></p>

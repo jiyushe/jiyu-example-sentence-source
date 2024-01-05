@@ -1,5 +1,7 @@
 # lithostratigraphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithostratigraphic.md)
+
 <p><span class="chinese">长期以来，地质分层采用岩石地层单位界面。</span><span class="english">The stratigraphic horizons have long been divided according to a lithostratigraphic boundary.</span></p>
 
 <p><span class="chinese">挠曲坡折带宏观上控制了地层岩性油气藏的分布。</span><span class="english">In large scale, the flexure slope break controlled the distribution of lithostratigraphic reservoirs.</span></p>

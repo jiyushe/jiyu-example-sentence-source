@@ -1,5 +1,7 @@
 # 悬崖峭壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanyaqiaobi.md)
+
 <p><span class="chinese">路是通往悬崖峭壁的，而那悬崖却有一百英尺高……</span><span class="english">The road led to a cliff that was a hundred feet into the air.</span></p>
 
 <p><span class="chinese">攀上这悬崖峭壁需要勇气和力量。</span><span class="english">It takes courage and strength to climb up the perpendicular cliff.</span></p>

@@ -1,5 +1,7 @@
 # yamen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yamen.md)
+
 <p><span class="chinese">下榻与长春尹衙门。</span><span class="english">Yin Changchun stayed with the Yamen.</span></p>
 
 <p><span class="chinese">但是最早以前这可是一座衙门。</span><span class="english">But sometime earlier, it was a Yamen.</span></p>

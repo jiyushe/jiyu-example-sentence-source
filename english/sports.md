@@ -1,5 +1,7 @@
 # sports
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sports.md)
+
 <p><span class="chinese">运动外套？</span><span class="english">Sports coats?</span></p>
 
 <p><span class="chinese">她爱好体育。</span><span class="english">She loves sports.</span></p>

@@ -1,5 +1,7 @@
 # 良方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangfang.md)
+
 <p><span class="chinese">另一帖良方是宗教。</span><span class="english">Another cure is religion.</span></p>
 
 <p><span class="chinese">这是一个预览肌肤的良方。</span><span class="english">This is a preview of Focaccia recipe.</span></p>

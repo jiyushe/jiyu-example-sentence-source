@@ -1,5 +1,7 @@
 # hoar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoar.md)
+
 <p><span class="chinese">因为它呈灰白色。</span><span class="english">Because it shows hoar.</span></p>
 
 <p><span class="chinese">那位老人头发花白。</span><span class="english">The old man has hoar hair.</span></p>

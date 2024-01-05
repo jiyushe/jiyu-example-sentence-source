@@ -1,5 +1,7 @@
 # obviously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obviously.md)
+
 <p><span class="chinese">或者说3.14。</span><span class="english">Or 3.14. Obviously.</span></p>
 
 <p><span class="chinese">这显然是错误的。</span><span class="english">This is obviously wrong.</span></p>

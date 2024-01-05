@@ -1,5 +1,7 @@
 # hemostasia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemostasia.md)
+
 <p><span class="chinese">止血实验采用毛细玻璃管法和载玻片法。</span><span class="english">Hemostasia was assessed by the methods of glass tube and glass plate.</span></p>
 
 <p><span class="chinese">结果荆芥炒炭后鞣质含量增高，止血和凝血作用显著增强。</span><span class="english">RESULTS Carbonized catnip had higher content of tannin, and reinforced hemostasia and cruor effects.</span></p>

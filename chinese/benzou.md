@@ -1,5 +1,7 @@
 # 奔走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benzou.md)
+
 <p><span class="chinese">一整天四处奔走之后我的腿软了。</span><span class="english">My legs felt weak after a day of running around.</span></p>
 
 <p><span class="chinese">她一直在大街上四处奔走寻找工作。</span><span class="english">She's been tramping the streets looking for a job.</span></p>

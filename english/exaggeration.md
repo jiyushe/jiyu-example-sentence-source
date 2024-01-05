@@ -1,5 +1,7 @@
 # exaggeration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exaggeration.md)
+
 <p><span class="chinese">说投入有点夸张了。</span><span class="english">Well, jump in is a bit of an exaggeration.</span></p>
 
 <p><span class="chinese">为了达到良好效果，他这里用的是夸张手法。</span><span class="english">Here he was using exaggeration to good effect.</span></p>

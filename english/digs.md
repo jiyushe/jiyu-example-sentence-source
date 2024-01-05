@@ -1,5 +1,7 @@
 # digs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digs.md)
+
 <p><span class="chinese">当然，挖苦是能理解。</span><span class="english">The digs are understandable.</span></p>
 
 <p><span class="chinese">她会挖到一个锁起的盒子。</span><span class="english">She digs and sees a locked box.</span></p>

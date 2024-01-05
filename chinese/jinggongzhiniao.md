@@ -1,5 +1,7 @@
 # 惊弓之鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinggongzhiniao.md)
+
 <p><span class="chinese">他们已经成了惊弓之鸟。</span><span class="english">They have been very scared.</span></p>
 
 <p><span class="chinese">烫过的狗连冷水都怕。/一朝被蛇咬，十年怕井绳。/惊弓之鸟。</span><span class="english">The scalded dog fears cold water.</span></p>

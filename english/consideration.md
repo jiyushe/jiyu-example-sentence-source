@@ -1,5 +1,7 @@
 # consideration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consideration.md)
+
 <p><span class="chinese">考虑现实。</span><span class="english">Take it into consideration.</span></p>
 
 <p><span class="chinese">恩慈是体恤的爱。</span><span class="english">Kindness is love's consideration.</span></p>

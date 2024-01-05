@@ -1,5 +1,7 @@
 # troublemaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troublemaker.md)
+
 <p><span class="chinese">本周，不要制造麻烦，不要惹人讨厌。</span><span class="english">Don't be a pest or a troublemaker this week.</span></p>
 
 <p><span class="chinese">我不愿你认为我是个搬弄是非的人。</span><span class="english">I would hate you to think me a troublemaker.</span></p>

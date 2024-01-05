@@ -1,5 +1,7 @@
 # hedonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hedonic.md)
+
 <p><span class="chinese">这也有利于避免享乐性适应。</span><span class="english">This also helps to avoid hedonic adaptation.</span></p>
 
 <p><span class="chinese">Hassenzahl用一组锤子暗喻解释了享乐主义和实用主义。</span><span class="english">Hassenzahl explains the hedonic and pragmatic qualities with a hammer metaphor.</span></p>

@@ -1,5 +1,7 @@
 # 警惕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingti_1.md)
+
 <p><span class="chinese">应该警惕什么？</span><span class="english">Vigilance against what?</span></p>
 
 <p><span class="chinese">我们必须保持高度的警惕。</span><span class="english">We have to stay vigilant.</span></p>

@@ -1,5 +1,7 @@
 # pitchblende
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitchblende.md)
+
 <p><span class="chinese">沥青轴矿是主要工业矿物。</span><span class="english">The pitchblende is the chief industrial mineral.</span></p>
 
 <p><span class="chinese">沥青铀矿的同位素年龄为108—109百万年。</span><span class="english">The radiometric age of pitchblende is 109—108 m.</span></p>

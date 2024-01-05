@@ -1,5 +1,7 @@
 # 铁窗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiechuang_1.md)
+
 <p><span class="chinese">我有铁窗门做盾。</span><span class="english">I have a screen-door shield.</span></p>
 
 <p><span class="chinese">假如指控成立，现年55岁的约翰逊将面临40年铁窗生涯。</span><span class="english">If convicted, the 55-year-old could spend 40 years in prison.</span></p>

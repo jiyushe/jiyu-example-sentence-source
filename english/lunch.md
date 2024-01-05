@@ -1,5 +1,7 @@
 # lunch 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lunch.md)
+
 <p><span class="chinese">午餐是我付的账。</span><span class="english">I bought the lunch.</span></p>
 
 <p><span class="chinese">午饭时间到了。</span><span class="english">Itrs time for lunch.</span></p>

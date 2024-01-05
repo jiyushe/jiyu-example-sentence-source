@@ -1,5 +1,7 @@
 # stoker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stoker.md)
+
 <p><span class="chinese">当然这是很奇特的。治安的司炉。</span><span class="english">It certainly was singular that the stoker of order.</span></p>
 
 <p><span class="chinese">在惠特比停留期间，斯托克住在河边的一个小旅馆里。</span><span class="english">While in Whitby, Stoker stayed at a small inn on the river.</span></p>

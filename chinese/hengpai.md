@@ -1,5 +1,7 @@
 # 横排
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengpai.md)
+
 <p><span class="chinese">横排孔中心离地面距离。</span><span class="english">Roughing in center to ground.</span></p>
 
 <p><span class="chinese">战士们正列队站成一横排。</span><span class="english">The soldiers are standing in a row.</span></p>

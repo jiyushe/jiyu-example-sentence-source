@@ -1,5 +1,7 @@
 # ambient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambient.md)
+
 <p><span class="chinese">适用于环境温度-25？</span><span class="english">Ambient temperature is -25?</span></p>
 
 <p><span class="chinese">这也是一个很重要的一环。</span><span class="english">But it was an important ambient.</span></p>

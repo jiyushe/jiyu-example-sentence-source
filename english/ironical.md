@@ -1,5 +1,7 @@
 # ironical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ironical.md)
+
 <p><span class="chinese">因此，尽管秃头，爱讽刺，他倒做了领袖。</span><span class="english">Being thus ironical and bald, he was the leader.</span></p>
 
 <p><span class="chinese">“当然，”他带着讽刺的傲慢厉声说道。</span><span class="english">“Of course, ” he snapped with ironical arrogance.</span></p>

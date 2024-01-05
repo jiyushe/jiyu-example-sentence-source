@@ -1,5 +1,7 @@
 # 油污
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youwu.md)
+
 <p><span class="chinese">油污堵塞了下水道。</span><span class="english">Grease fouled the drain.</span></p>
 
 <p><span class="chinese">为什么可以在日光返辉中看到油污？</span><span class="english">Why is oil visible in sunglint?</span></p>

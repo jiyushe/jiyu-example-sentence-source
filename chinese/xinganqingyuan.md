@@ -1,5 +1,7 @@
 # 心甘情愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinganqingyuan.md)
+
 <p><span class="chinese">用心甘情愿的态度，过随遇而安的生活。</span><span class="english">Use of willing attitude, a happy-go-lucky life.</span></p>
 
 <p><span class="chinese">翀任何一件事情，只要心甘情愿，总是能够变得简单。</span><span class="english">Any one thing, as long as willing, always simple.</span></p>

@@ -1,5 +1,7 @@
 # 陶文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taowen.md)
+
 <p><span class="chinese">陶文距今也接近五千年。</span><span class="english">Tao is also close to five thousand years ago.</span></p>
 
 <p><span class="chinese">这些陶文被认为是汉字的雏形。</span><span class="english">These pottery inscriptions are believed to be an embryonic form of Chinese characters.</span></p>

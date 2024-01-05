@@ -1,5 +1,7 @@
 # 吮吸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunxi.md)
+
 <p><span class="chinese">我在吮吸你。</span><span class="english">I was sucking you.</span></p>
 
 <p><span class="chinese">不要吮吸得太过！</span><span class="english">Don't Suck too Hard!</span></p>

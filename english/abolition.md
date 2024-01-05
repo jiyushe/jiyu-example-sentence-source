@@ -1,5 +1,7 @@
 # abolition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abolition.md)
+
 <p><span class="chinese">第十一条，取缔不劳而获的收入。</span><span class="english">The abolition of incomes unearned by work.</span></p>
 
 <p><span class="chinese">许多人为废除奴隶制度而奋斗.</span><span class="english">Many men fought for the abolition of slavery.</span></p>

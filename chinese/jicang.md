@@ -1,5 +1,7 @@
 # 机舱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jicang.md)
+
 <p><span class="chinese">机舱内充满了烟味。</span><span class="english">The cabin is full of smoke.</span></p>
 
 <p><span class="chinese">整个机舱挺狭小的。</span><span class="english">The cabin is quite cramped.</span></p>

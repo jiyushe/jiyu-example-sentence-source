@@ -1,5 +1,7 @@
 # speedometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speedometer.md)
+
 <p><span class="chinese">这个速度计有毛病。</span><span class="english">The speedometer is faulty.</span></p>
 
 <p><span class="chinese">嗯，速度计磨损了。</span><span class="english">Well, the speedometer is worn out.</span></p>

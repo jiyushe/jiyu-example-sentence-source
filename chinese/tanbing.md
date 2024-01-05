@@ -1,5 +1,7 @@
 # 探病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanbing.md)
+
 <p><span class="chinese">探病时间是几时？</span><span class="english">Where are the visiting hours?</span></p>
 
 <p><span class="chinese">探病时间是上午8点到下午7点。</span><span class="english">The visiting hours are from 8am to 7 pm.</span></p>

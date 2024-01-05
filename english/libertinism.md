@@ -1,5 +1,7 @@
 # libertinism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libertinism.md)
+
 <p><span class="chinese">可以说弗洛伊德是当下享乐主义最有影响力的一位提倡者。</span><span class="english">Freud was thus the principal intellectual influence behind our current libertinism.</span></p>
 
 <p><span class="chinese">正当众人在美丽的沙滩中烧烤玩乐的时候，比利独自去潜水。</span><span class="english">Just when everybody is in beautiful beach barbecue libertinism when, billie dives alone.</span></p>

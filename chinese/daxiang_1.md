@@ -1,5 +1,7 @@
 # 大项
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxiang_1.md)
+
 <p><span class="chinese">三段论的大项必须出现两次。</span><span class="english">The major term of a syllogism must occur twice.</span></p>
 
 <p><span class="chinese">据悉，本届大运会设24个大项、306个小项。</span><span class="english">This Universiade will involve 24 sports with 306 events.</span></p>

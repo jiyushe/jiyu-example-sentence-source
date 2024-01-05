@@ -1,5 +1,7 @@
 # man 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/man.md)
+
 <p><span class="chinese">我是大男人。</span><span class="english">I’m a man.</span></p>
 
 <p><span class="chinese">再次顶一下强人。</span><span class="english">He's a man.</span></p>

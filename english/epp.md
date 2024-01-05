@@ -1,5 +1,7 @@
 # epp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epp.md)
+
 <p><span class="chinese">大家好，我是加拿大驻上海总领事艾伟敦。</span><span class="english">Hello, I am Consul General of Canada in Shanghai Weldon Epp.</span></p>
 
 <p><span class="chinese">完成基于EPP接口的多功能运动控制卡的电路设计与仿真。</span><span class="english">Multifunctional kinetic control card based on EPP interface of computer was developed.</span></p>

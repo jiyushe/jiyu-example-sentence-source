@@ -1,5 +1,7 @@
 # bauble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bauble.md)
+
 <p><span class="chinese">廉价珠宝是华而不实的装饰品。</span><span class="english">A bauble is a showy ornament of little value.</span></p>
 
 <p><span class="chinese">那个小摆设不能与这个大宝石相比较。</span><span class="english">That little bauble is not to be compared with this enormous jewel.</span></p>

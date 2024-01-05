@@ -1,5 +1,7 @@
 # 从头至尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congtouzhiwei.md)
+
 <p><span class="chinese">她把那封信从头至尾看了六次。</span><span class="english">She read the letter through six times.</span></p>
 
 <p><span class="chinese">从头至尾走一趟要两三个小时。</span><span class="english">It's a couple of hours to walk through.</span></p>

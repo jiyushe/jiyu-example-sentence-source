@@ -1,5 +1,7 @@
 # overemphasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overemphasis.md)
+
 <p><span class="chinese">有的人把上升的原因归结为过分强调少年时期的成功。</span><span class="english">Some attribute the rise to an overemphasis on early success.</span></p>
 
 <p><span class="chinese">过于强调任何一种都是片面的，不科学的。</span><span class="english">Overemphasis of domestication or foreignization is one-sided and not scientific.</span></p>

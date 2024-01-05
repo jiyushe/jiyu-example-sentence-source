@@ -1,5 +1,7 @@
 # coronet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coronet.md)
+
 <p><span class="chinese">这是在康科德的冠冕上的第一滴水明珠。</span><span class="english">It is a gem of the first water which Concord wears in her coronet.</span></p>
 
 <p><span class="chinese">正如我认为她喜欢的性质，我把花冠上她的头。</span><span class="english">As I think she likes the nature, I put a flower coronet on her head.</span></p>

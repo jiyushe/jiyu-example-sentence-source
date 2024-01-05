@@ -1,5 +1,7 @@
 # grabbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grabbing.md)
+
 <p><span class="chinese">那么抓住我的手这一条呢？</span><span class="english">And grabbing me by the hand?</span></p>
 
 <p><span class="chinese">你一直都在抓住逃跑的食物。</span><span class="english">You’ve been grabbing food on the run.</span></p>

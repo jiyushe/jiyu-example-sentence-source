@@ -1,5 +1,7 @@
 # pedicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedicle.md)
+
 <p><span class="chinese">脾脏能从其蒂撕脱。</span><span class="english">The spleen can be avulsed from its pedicle.</span></p>
 
 <p><span class="chinese">这些观念是根盘蒂结的。</span><span class="english">These ideas is the root plate pedicle junction.</span></p>

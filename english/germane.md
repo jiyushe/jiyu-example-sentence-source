@@ -1,5 +1,7 @@
 # germane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germane.md)
+
 <p><span class="chinese">他问了一些与论点相关的问题。</span><span class="english">He asks questions germane to the issue.</span></p>
 
 <p><span class="chinese">通便与身体关系密切，必须注意！</span><span class="english">Go to then with body germane , must pay attention to!</span></p>

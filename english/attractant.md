@@ -1,5 +1,7 @@
 # attractant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attractant.md)
+
 <p><span class="chinese">这种陷阱不用诱饵或其他引诱物。</span><span class="english">This type of trap uses no bait or other attractant.</span></p>
 
 <p><span class="chinese">该化合物可用于制备菊花瘿蚊性引诱剂。</span><span class="english">The compound is used for preparing a chrysanthemum gall midge sex attractant.</span></p>

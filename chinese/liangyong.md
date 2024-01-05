@@ -1,5 +1,7 @@
 # 两用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangyong.md)
+
 <p><span class="chinese">这种交通工具是水陆两用的。</span><span class="english">This is an amphibious vehicle.</span></p>
 
 <p><span class="chinese">护发品干、湿两用。</span><span class="english">Use hair products wet and dry.</span></p>

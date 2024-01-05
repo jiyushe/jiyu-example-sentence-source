@@ -1,5 +1,7 @@
 # 以礼相待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilixiangdai.md)
+
 <p><span class="chinese">他对爸妈总是以礼相待。</span><span class="english">He was never rude to his parents.</span></p>
 
 <p><span class="chinese">以礼相待那些对你粗暴无礼的人，那需要力量。</span><span class="english">It takes strength to do what is right.</span></p>

@@ -1,5 +1,7 @@
 # 显灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianling_3.md)
+
 <p><span class="chinese">马克思真的显灵了吗？</span><span class="english">Would Marx really object?</span></p>
 
 <p><span class="chinese">显灵板是用来联系灵界的鬼魂。</span><span class="english">The Ouija Board is used to contact spirits or entities.</span></p>

@@ -1,5 +1,7 @@
 # deadwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deadwood.md)
+
 <p><span class="chinese">你必须剔除朽木。</span><span class="english">You must remove the deadwood.</span></p>
 
 <p><span class="chinese">假如生命只是一根枯枝。</span><span class="english">If the life is just a deadwood.</span></p>

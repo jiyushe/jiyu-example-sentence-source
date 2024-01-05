@@ -1,5 +1,7 @@
 # 旗语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyu_2.md)
+
 <p><span class="chinese">发旗语识别信号。</span><span class="english">Making identification signals with flags.</span></p>
 
 <p><span class="chinese">那艘船上的信号员用旗语向另一艘船发送好消息。</span><span class="english">The signalman on the ship wigwagged the good news to the other ship.</span></p>

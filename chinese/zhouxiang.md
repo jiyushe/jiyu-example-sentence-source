@@ -1,5 +1,7 @@
 # 周详
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouxiang.md)
+
 <p><span class="chinese">你的意思是我的建议书不够周详吗？</span><span class="english">Do you mean that my proposal is not comprehensive?</span></p>
 
 <p><span class="chinese">我们已经拟好了周详的计划，准备一一实现这些目标。</span><span class="english">We have comprehensive plans to achieve these goals.</span></p>

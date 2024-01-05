@@ -1,5 +1,7 @@
 # racoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racoon.md)
+
 <p><span class="chinese">我们把后院的浣熊解放了！</span><span class="english">We released the racoon from our backyard!</span></p>
 
 <p><span class="chinese">母狐貍就又咬又追，毫不留情。</span><span class="english">Bitch racoon dog is bitten again chase after again, ruthless.</span></p>

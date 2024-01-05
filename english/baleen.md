@@ -1,5 +1,7 @@
 # baleen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baleen.md)
+
 <p><span class="chinese">大型鲸须鲸是最受关注的物种。</span><span class="english">Large baleen whales are of special concern.</span></p>
 
 <p><span class="chinese">布赖德鲸通过排出水流就可以捕食猎物。</span><span class="english">Baleen traps prey when the whale expels water.</span></p>

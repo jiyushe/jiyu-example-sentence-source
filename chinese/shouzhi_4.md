@@ -1,5 +1,7 @@
 # 收治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhi_4.md)
+
 <p><span class="chinese">医院收治的这类蛇伤病人不在少数！</span><span class="english">Hospital admission of such patients Snakebite a few!</span></p>
 
 <p><span class="chinese">目前，该患者已被玛嘉烈医院收治，病情稳定。</span><span class="english">He has been admitted to the Princess Margaret Hospital and is stable.</span></p>

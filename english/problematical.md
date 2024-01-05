@@ -1,5 +1,7 @@
 # problematical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/problematical.md)
+
 <p><span class="chinese">钉尖般的四趾，加上一个谜一般的拇指按钮。</span><span class="english">Four pin-point toes, and a problematical thumb-piece.</span></p>
 
 <p><span class="chinese">证据来自历史学家约瑟夫是有问题。</span><span class="english">The evidence from the historian Josephus is problematical.</span></p>

@@ -1,5 +1,7 @@
 # reputedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reputedly.md)
+
 <p><span class="chinese">据说，早期的岛上居民船只失事的人。</span><span class="english">Some early islanders were reputedly ship-wreckers.</span></p>
 
 <p><span class="chinese">据说奥斯本本人曾大力举荐克拉克。</span><span class="english">Mr Osborne himself reputedly pushed for Mr Clarke's appointment.</span></p>

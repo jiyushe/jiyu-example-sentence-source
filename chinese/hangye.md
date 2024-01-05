@@ -1,5 +1,7 @@
 # 行业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangye.md)
+
 <p><span class="chinese">外包行业还是会继续发展。</span><span class="english">That it will continue.</span></p>
 
 <p><span class="chinese">这都是些规模巨大的行业</span><span class="english">These are big industries.</span></p>

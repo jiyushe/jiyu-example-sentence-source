@@ -1,5 +1,7 @@
 # 世间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijian.md)
+
 <p><span class="chinese">世间食鱼者。</span><span class="english">Fish Eaters of the World.</span></p>
 
 <p><span class="chinese">世间之人，亦复如是。</span><span class="english">So are the people at large.</span></p>

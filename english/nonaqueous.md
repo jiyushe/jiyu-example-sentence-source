@@ -1,5 +1,7 @@
 # nonaqueous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonaqueous.md)
+
 <p><span class="chinese">我对非水溶剂电化学感兴趣。</span><span class="english">So, I'm interested in nonaqueous electrochemistry.</span></p>
 
 <p><span class="chinese">介绍了采用非水滴定测定柠檬酸钾含量的分析方法。</span><span class="english">In the paper the nonaqueous titration is used to determine potassium citrate content.</span></p>

@@ -1,5 +1,7 @@
 # 追击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuiji.md)
+
 <p><span class="chinese">这必定是一场了不得的跟踪追击。</span><span class="english">It must have been a wonderful chase.</span></p>
 
 <p><span class="chinese">莽应里派出一支军队对他进行追击。</span><span class="english">Bayin sent a force in pursuit of him.</span></p>

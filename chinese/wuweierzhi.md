@@ -1,5 +1,7 @@
 # 无为而治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuweierzhi.md)
+
 <p><span class="chinese">最后一条，是无为而治。</span><span class="english">Last 100, be do-nothing and treat.</span></p>
 
 <p><span class="chinese">他用无为而治的方法教养小孩。</span><span class="english">He tooks a hors-off approach when it gos to raising his kids.</span></p>

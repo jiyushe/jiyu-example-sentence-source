@@ -1,5 +1,7 @@
 # 说法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuofa.md)
+
 <p><span class="chinese">我喜欢这个说法。</span><span class="english">I love this phrase.</span></p>
 
 <p><span class="chinese">但这种说法是靠不住的。</span><span class="english">But it's unreliable.</span></p>

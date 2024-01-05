@@ -1,5 +1,7 @@
 # uri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uri.md)
+
 <p><span class="chinese">其中一位是年轻的尤里·盖勒，上司要他干掉一头猪。</span><span class="english">One of them, a youthful Uri Geller, was asked to kill a pig.</span></p>
 
 <p><span class="chinese">Uri达杜什是卡内基国际经济项目主任。</span><span class="english">Uri Dadush is the director of Carnegie's International Economics Program.</span></p>

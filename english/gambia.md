@@ -1,5 +1,7 @@
 # gambia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gambia.md)
+
 <p><span class="chinese">同年，费尔南迪斯发现冈比亚河。</span><span class="english">That same year, phil south diss found Gambia river.</span></p>
 
 <p><span class="chinese">记得离开冈比亚时，有人问我，“你去哪里？”</span><span class="english">I remember leaving Gambia and people ask me, “Where are you going?</span></p>

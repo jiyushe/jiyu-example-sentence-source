@@ -1,5 +1,7 @@
 # vertex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vertex.md)
+
 <p><span class="chinese">出度为零的顶点称作收点。</span><span class="english">A vertex with zero outdegree is called a sink.</span></p>
 
 <p><span class="chinese">一圈更正对端点作用。</span><span class="english">The one-loop correction to the vertex function.</span></p>

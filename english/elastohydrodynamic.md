@@ -1,5 +1,7 @@
 # elastohydrodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elastohydrodynamic.md)
+
 <p><span class="chinese">屈服膜厚是弹流润滑膜的下限。</span><span class="english">The yield thickness is the lower limit of elastohydrodynamic lubrication film thickness.</span></p>
 
 <p><span class="chinese">分析了不同的环境粘度对非稳态热弹流润滑的影响。</span><span class="english">The influence of oil ambient viscosity on non-steady-state thermal elastohydrodynamic lubrication was analyzed.</span></p>

@@ -1,5 +1,7 @@
 # naturalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naturalistic.md)
+
 <p><span class="chinese">我们反对自然主义和进化论。</span><span class="english">We reject both naturalistic and theistic evolution.</span></p>
 
 <p><span class="chinese">上了一层光晕，令他也看不真切。</span><span class="english">Ascend 1 F light is dizzy, make him also watch not naturalistic.</span></p>

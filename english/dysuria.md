@@ -1,5 +1,7 @@
 # dysuria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysuria.md)
+
 <p><span class="chinese">排尿中断和排尿疼痛，明显排尿困难。</span><span class="english">Interrupt urination, urination pain, and significant dysuria.</span></p>
 
 <p><span class="chinese">目的观察新斯的明用于术后尿潴留的效果及其副作用。</span><span class="english">Objective To observe the clinical effects of neostigmine on postoperative dysuria.</span></p>

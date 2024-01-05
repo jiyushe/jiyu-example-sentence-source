@@ -1,5 +1,7 @@
 # cerebellum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cerebellum.md)
+
 <p><span class="chinese">抑或是小脑中的一些额外的血管活性肽作用了？</span><span class="english">A little extra Vasoactive Peptide in the Cerebellum?</span></p>
 
 <p><span class="chinese">对小脑的怪袭是其特点之一。</span><span class="english">Raids to the cerebellum is one of strangely its characteristics.</span></p>

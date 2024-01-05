@@ -1,5 +1,7 @@
 # Caribbean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caribbean.md)
+
 <p><span class="chinese">可是艾米丽去加勒比度假去了。</span><span class="english">But Emily is on vacation in Caribbean.</span></p>
 
 <p><span class="chinese">我们要生产加勒比茶。</span><span class="english">We're going to be producing Caribbean teas.</span></p>

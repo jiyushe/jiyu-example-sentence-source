@@ -1,5 +1,7 @@
 # 歧途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qitu_2.md)
+
 <p><span class="chinese">她被引入歧途。</span><span class="english">She was led astray.</span></p>
 
 <p><span class="chinese">年轻女子易被引入歧途。</span><span class="english">Young girls are easily led astray.</span></p>

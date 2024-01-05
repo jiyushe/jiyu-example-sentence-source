@@ -1,5 +1,7 @@
 # chemisette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemisette.md)
+
 <p><span class="chinese">女人的目光更加贪婪了。</span><span class="english">The chemisette vision is more getting penurious more.</span></p>
 
 <p><span class="chinese">女人的时尚、女人的香奈儿精神，让这个世界更加美丽缤纷，我爱双C！</span><span class="english">Chemisette vogue, chemisette Chanel spirit, make this world more beautiful riotous , my love double C!</span></p>

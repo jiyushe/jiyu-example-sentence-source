@@ -1,5 +1,7 @@
 # draco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/draco.md)
+
 <p><span class="chinese">德拉古父亲送的一份礼物。</span><span class="english">A gift from Draco 's father.</span></p>
 
 <p><span class="chinese">德拉科最后会变成好人还是坏人？</span><span class="english">Will Draco end up good or evil?</span></p>

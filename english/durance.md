@@ -1,5 +1,7 @@
 # durance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/durance.md)
+
 <p><span class="chinese">难以长应付这高这深。</span><span class="english">Durance deal with that steep or deep.</span></p>
 
 <p><span class="chinese">或者有什麽可以将我的口舌囚禁至死？</span><span class="english">Or put my tongue in durance for to die?</span></p>

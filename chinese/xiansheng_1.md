@@ -1,5 +1,7 @@
 # 先声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiansheng_1.md)
+
 <p><span class="chinese">我先声明一件事</span><span class="english">Let me make one thing very clear.</span></p>
 
 <p><span class="chinese">一些人认为，三星公司是亚洲新型资本主义模式的先声。</span><span class="english">To some, Samsung is the harbinger of a new Asian model of capitalism.</span></p>

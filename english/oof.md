@@ -1,5 +1,7 @@
 # oof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oof.md)
+
 <p><span class="chinese">有两个男孩回家迷路了。</span><span class="english">Two oof the boys have lost their way home.</span></p>
 
 <p><span class="chinese">我们的最大优点是多样性和团体精神。</span><span class="english">Two oof our greatest strengths are diversity and community.</span></p>

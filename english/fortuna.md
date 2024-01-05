@@ -1,5 +1,7 @@
 # fortuna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortuna.md)
+
 <p><span class="chinese">在随后的几年里，福图纳陷入一种被剥夺了知觉的疯狂状态。</span><span class="english">Fortuna endured the madness of an existence deprived of senses for years.</span></p>
 
 <p><span class="chinese">在最终电影里，这个议会“福图纳”没有出现。</span><span class="english">In the finished film, this senatorial "Fortuna" did not appear on screen.</span></p>

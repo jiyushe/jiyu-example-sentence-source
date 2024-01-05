@@ -1,5 +1,7 @@
 # 歪歪扭扭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiwainiuniu.md)
+
 <p><span class="chinese">买一只歪歪扭扭的猫儿。</span><span class="english">He bought a crooked cat.</span></p>
 
 <p><span class="chinese">她的牙齿长得歪歪扭扭，人也有点胖。</span><span class="english">Her teeth were crooked, and she was a little overweight.</span></p>

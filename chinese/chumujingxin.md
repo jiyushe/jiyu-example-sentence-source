@@ -1,5 +1,7 @@
 # 触目惊心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chumujingxin.md)
+
 <p><span class="chinese">当时清扫工的状况是触目惊心的。</span><span class="english">At this time, the situation was appalling.</span></p>
 
 <p><span class="chinese">我们应当从这些触目惊心的事实中吸取教训。</span><span class="english">We should draw a moral from the startling fact.</span></p>

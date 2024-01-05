@@ -1,5 +1,7 @@
 # 衷肠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongchang_2.md)
+
 <p><span class="chinese">两人接吻了，也互诉衷肠。</span><span class="english">Two people kiss, also romantic ways.</span></p>
 
 <p><span class="chinese">他是我的月亮和午夜，我的儿郎我的倾诉衷肠。</span><span class="english">My moon, my midnight, my talk, my son.</span></p>

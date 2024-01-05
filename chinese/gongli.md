@@ -1,5 +1,7 @@
 # 公历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongli.md)
+
 <p><span class="chinese">"月"指一个公历月份。</span><span class="english">Month" means a calendar month.</span></p>
 
 <p><span class="chinese">它是公历什么时候呀?</span><span class="english">When is it on the Western calendar?</span></p>

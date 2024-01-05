@@ -1,5 +1,7 @@
 # inopportune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inopportune.md)
+
 <p><span class="chinese">在这种情况下，资源必然会在最不恰当的时候瘫痪。</span><span class="english">Inevitably, that resource will die at the most inopportune time.</span></p>
 
 <p><span class="chinese">问题是这些意外情况经常在不合适的时间发生。</span><span class="english">The problem is these issues will often arise at inopportune times.</span></p>

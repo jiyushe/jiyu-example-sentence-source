@@ -1,5 +1,7 @@
 # 讨厌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoyan.md)
+
 <p><span class="chinese">我甚至讨厌它。</span><span class="english">I hated it.</span></p>
 
 <p><span class="chinese">讨厌死她了。</span><span class="english">I hated her.</span></p>

@@ -1,5 +1,7 @@
 # 人民战争
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renminzhanzheng.md)
+
 <p><span class="chinese">我父亲是人民战争的强烈支持者。</span><span class="english">My father was a strong sympathizer of the People's War.</span></p>
 
 <p><span class="chinese">在西方，人们不大了解什么是人民战争。</span><span class="english">IN THE West, not much is understood about a people's war.</span></p>

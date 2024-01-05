@@ -1,5 +1,7 @@
 # seriously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seriously.md)
+
 <p><span class="chinese">他得了重病。</span><span class="english">He was seriously ill.</span></p>
 
 <p><span class="chinese">我严肃地批评了他！</span><span class="english">I animadversion seriously he!</span></p>

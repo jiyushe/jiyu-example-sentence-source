@@ -1,5 +1,7 @@
 # faust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faust.md)
+
 <p><span class="chinese">但浮士德博士仍然表示，变化是必须的。</span><span class="english">Still, Dr. Faust said, change is needed.</span></p>
 
 <p><span class="chinese">浮士德长大包围在弗吉尼亚州的雪兰多山谷的历史。</span><span class="english">Faust grew up surrounded by history in Virginia's Shenandoah Valley.</span></p>

@@ -1,5 +1,7 @@
 # purposeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purposeless.md)
+
 <p><span class="chinese">这朵花是没有目的的——它是没有用途的。</span><span class="english">And this flowering is purposeless -- it has no utility.</span></p>
 
 <p><span class="chinese">如果你认为现在的生活豪无目的，那么只要再看一下。</span><span class="english">If you find your present life purposeless just look again.</span></p>

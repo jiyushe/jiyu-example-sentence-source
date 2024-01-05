@@ -1,5 +1,7 @@
 # 秘密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mimi_2.md)
+
 <p><span class="chinese">这里不再有秘密。</span><span class="english">No more secrets here!</span></p>
 
 <p><span class="chinese">墓碑上的秘密。</span><span class="english">Secrets on gravestones.</span></p>

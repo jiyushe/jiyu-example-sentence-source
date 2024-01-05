@@ -1,5 +1,7 @@
 # 商界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangjie.md)
+
 <p><span class="chinese">结果证明他不适合在商界工作…</span><span class="english">A career in commerce proved uncongenial for him.</span></p>
 
 <p><span class="chinese">他已在商界取得立足之地。</span><span class="english">He has gained a footing in the commercial world.</span></p>

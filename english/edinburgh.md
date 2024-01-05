@@ -1,5 +1,7 @@
 # edinburgh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edinburgh.md)
+
 <p><span class="chinese">休谟在爱丁堡有一座房子。</span><span class="english">Hume had a house in Edinburgh.</span></p>
 
 <p><span class="chinese">我在爱丁堡参加过一次`母鸡派对`。</span><span class="english">I was at a hen party in Edinburgh.</span></p>

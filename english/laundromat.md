@@ -1,5 +1,7 @@
 # laundromat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laundromat.md)
+
 <p><span class="chinese">最近的自助洗衣店在哪里？</span><span class="english">Where is the nearest Laundromat?</span></p>
 
 <p><span class="chinese">没有。你必须去自动洗衣店洗衣服.</span><span class="english">No,you need to go to the laundromat.</span></p>

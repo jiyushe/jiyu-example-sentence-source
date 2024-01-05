@@ -1,5 +1,7 @@
 # exuberance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exuberance.md)
+
 <p><span class="chinese">到处是一派繁荣楼盛的景象。</span><span class="english">Signs of exuberance are everywhere.</span></p>
 
 <p><span class="chinese">繁荣是可以自我延续的。</span><span class="english">And exuberance can be self-perpetuating.</span></p>

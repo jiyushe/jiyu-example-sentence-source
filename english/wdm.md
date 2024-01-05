@@ -1,5 +1,7 @@
 # wdm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wdm.md)
+
 <p><span class="chinese">光栅型DWDM是一种很有发展潜力的密集波分复用器件。</span><span class="english">Blazed grating based WDM device is one kind of potential one in DWDM technology.</span></p>
 
 <p><span class="chinese">本文提出了一种新的WDM光网络功率管理方案，即同时考虑同频串扰和自发辐射噪声的总功率。</span><span class="english">In this paper, a new scheme of power management in WDM all optical network is proposed.</span></p>

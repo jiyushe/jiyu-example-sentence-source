@@ -1,5 +1,7 @@
 # irradiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irradiation.md)
+
 <p><span class="chinese">辐射还能对肉类进行消毒。</span><span class="english">Irradiation can also sterilize meat.</span></p>
 
 <p><span class="chinese">这都驱使着辐照杀菌愈来愈受主张。</span><span class="english">All of this drives advocates of irradiation crazy.</span></p>

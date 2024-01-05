@@ -1,5 +1,7 @@
 # vivisection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vivisection.md)
+
 <p><span class="chinese">活体解剖的受害者需要帮忙的。</span><span class="english">The victims of vivisection need a hand.</span></p>
 
 <p><span class="chinese">活体动物来进行研究的人。</span><span class="english">A lover of animals, especially one opposed to vivisection.</span></p>

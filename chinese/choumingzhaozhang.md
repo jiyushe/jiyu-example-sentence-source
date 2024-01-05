@@ -1,5 +1,7 @@
 # 臭名昭彰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choumingzhaozhang.md)
+
 <p><span class="chinese">凭什么我们要和像你这样臭名昭彰的恶棍打交道？</span><span class="english">Why should we make a deal with a notorious scoundrel like you?</span></p>
 
 <p><span class="chinese">这个臭名昭彰的地方在最近的历史中发生了许多事情。</span><span class="english">The infamous spot where so much has happened in recent history.</span></p>

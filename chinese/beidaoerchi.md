@@ -1,5 +1,7 @@
 # 背道而驰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beidaoerchi.md)
+
 <p><span class="chinese">这是同松冈的主见背道而驰的。</span><span class="english">This was contrary to Matsuoka's theme.</span></p>
 
 <p><span class="chinese">这和有效的防治计划背道而驰。</span><span class="english">That's antithetical to effective prevention programs.</span></p>

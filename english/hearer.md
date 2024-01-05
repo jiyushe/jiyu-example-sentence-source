@@ -1,5 +1,7 @@
 # hearer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hearer.md)
+
 <p><span class="chinese">更深入到现实中、更深入到听众中。</span><span class="english">Deeper into reality and deeper into the hearer.</span></p>
 
 <p><span class="chinese">这些道理在听者思想上产生了作用。</span><span class="english">These reasons operated on the mind of the hearer.</span></p>

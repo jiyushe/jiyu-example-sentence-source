@@ -1,5 +1,7 @@
 # remorseful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remorseful.md)
+
 <p><span class="chinese">站在法官面前时，麦道夫表现出了悔意。</span><span class="english">Standing in front of the judge, Madoff appeared remorseful.</span></p>
 
 <p><span class="chinese">似懊悔着大声拍打海岸上善变的白沙。</span><span class="english">Beating remorseful and loud the mutable sands of the sea-shore.</span></p>

@@ -1,5 +1,7 @@
 # contribute 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contribute.md)
+
 <p><span class="chinese">你做出了多少贡献？</span><span class="english">How much do you contribute?</span></p>
 
 <p><span class="chinese">你打算如何做出贡献？</span><span class="english">How do you plan to contribute?</span></p>

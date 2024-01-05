@@ -1,5 +1,7 @@
 # iguana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iguana.md)
+
 <p><span class="chinese">那么你可以买只宠物鬣蜥蜴给他。</span><span class="english">Well, you can buy him a pet iguana then.</span></p>
 
 <p><span class="chinese">他的左边坐着一只鬣蜥——他的宠物兼参谋。</span><span class="english">In his left sat an iguana , his pet and advisor.</span></p>

@@ -1,5 +1,7 @@
 # 孩儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haier.md)
+
 <p><span class="chinese">爹地，上帝爱小孩儿吗？</span><span class="english">Daddy, does God love children?</span></p>
 
 <p><span class="chinese">或者一个19岁的小毛孩儿？</span><span class="english">Or a 19-year-old, for that matter?</span></p>

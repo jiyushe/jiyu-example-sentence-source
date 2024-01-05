@@ -1,5 +1,7 @@
 # 密友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miyou.md)
+
 <p><span class="chinese">照她一个密友的话说，简直是“容光焕发”。</span><span class="english">One friend described her as "glowing".</span></p>
 
 <p><span class="chinese">向你的密友倾诉你的焦虑。</span><span class="english">Share your anxieties with a confidant.</span></p>

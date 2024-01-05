@@ -1,5 +1,7 @@
 # adios
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adios.md)
+
 <p><span class="chinese">再见，朋友！</span><span class="english">Adios amigos!</span></p>
 
 <p><span class="chinese">再会，我的朋友。</span><span class="english">Adios my friend.</span></p>

@@ -1,5 +1,7 @@
 # tunic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tunic.md)
+
 <p><span class="chinese">高品质的嵌花针织棉外衣。</span><span class="english">High-quality intarsia knit cotton tunic.</span></p>
 
 <p><span class="chinese">酸开始逐渐地腐蚀掉她束腰外衣的的边缘。</span><span class="english">The acid began to eat away at the edge of her tunic.</span></p>

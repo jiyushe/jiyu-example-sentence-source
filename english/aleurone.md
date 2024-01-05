@@ -1,5 +1,7 @@
 # aleurone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aleurone.md)
+
 <p><span class="chinese">去小麦糊粉小麦麸仍可作为动物饲料使用。</span><span class="english">The wheat bran without aleurone is still a good animal diet.</span></p>
 
 <p><span class="chinese">未萌发种子的糊粉粒含有水解酶。</span><span class="english">The aleurone grains of ungerminated seeds contain hydrolases.</span></p>

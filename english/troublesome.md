@@ -1,5 +1,7 @@
 # troublesome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troublesome.md)
+
 <p><span class="chinese">艺人都很麻烦。</span><span class="english">Artistes are very troublesome.</span></p>
 
 <p><span class="chinese">她今天咳得很厉害。</span><span class="english">Her cough is troublesome today.</span></p>

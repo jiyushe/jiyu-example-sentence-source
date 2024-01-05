@@ -1,5 +1,7 @@
 # etiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etiology.md)
+
 <p><span class="chinese">传染病病原学的新依据</span><span class="english">New Credibility for Infectious Etiology</span></p>
 
 <p><span class="chinese">肉状瘤病的病因尚不清楚。</span><span class="english">The etiology of sarcoidosis is unknown.</span></p>

@@ -1,5 +1,7 @@
 # centurion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centurion.md)
+
 <p><span class="chinese">百夫长为甚麽对耶稣有信心?。</span><span class="english">Why did the centurion have faith in Jesus?</span></p>
 
 <p><span class="chinese">这个百夫长很可能是希律·安提帕的军队中的一个军官。</span><span class="english">This centurion was probably a member of Herod Antipas's forces.</span></p>

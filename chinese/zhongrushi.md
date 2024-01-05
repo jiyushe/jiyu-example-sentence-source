@@ -1,5 +1,7 @@
 # 钟乳石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongrushi.md)
+
 <p><span class="chinese">在石灰华和钟乳石上进行攀爬。</span><span class="english">Amazing climbing on tufas and stalagtites.</span></p>
 
 <p><span class="chinese">洞中的钟乳石千姿百态，形状奇特。</span><span class="english">Mix of the stalactite cave, strange shapes.</span></p>

@@ -1,5 +1,7 @@
 # deepfreeze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deepfreeze.md)
+
 <p><span class="chinese">每个贝位的冷藏箱电源方向都是相同的吗？</span><span class="english">Is every power direction of deepfreeze the same?</span></p>
 
 <p><span class="chinese">压缩式冷藏箱是最常见的种类。</span><span class="english">Compressing type deepfreeze is the commonest sort.</span></p>

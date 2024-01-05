@@ -1,5 +1,7 @@
 # perilous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perilous.md)
+
 <p><span class="chinese">她放弃了那个有风险的计划。</span><span class="english">She dinged the perilous plan.</span></p>
 
 <p><span class="chinese">那危险的时刻就是现在。</span><span class="english">That perilous moment, alas, is now.</span></p>

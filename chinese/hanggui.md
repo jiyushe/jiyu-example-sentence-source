@@ -1,5 +1,7 @@
 # 行规
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanggui.md)
+
 <p><span class="chinese">对于年龄小的学生而言，行规是个很大的问题。</span><span class="english">As in most young age groups, discipline is an issue.</span></p>
 
 <p><span class="chinese">对模特来说，尽可能地保持纤瘦是行规。</span><span class="english">It is the rule for model to keep as thin as possible.</span></p>

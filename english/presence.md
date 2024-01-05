@@ -1,5 +1,7 @@
 # presence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presence.md)
+
 <p><span class="chinese">敬请惠临。</span><span class="english">Your presence is requested.</span></p>
 
 <p><span class="chinese">我监测到有人渣的存在。</span><span class="english">I detect the presence of scum.</span></p>

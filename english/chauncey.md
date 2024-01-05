@@ -1,5 +1,7 @@
 # chauncey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chauncey.md)
+
 <p><span class="chinese">朗多对比卢普斯三节的防守十分成功。</span><span class="english">Rondo did his with three quarters of brilliant defense on Chauncey Billups.</span></p>
 
 <p><span class="chinese">卡梅隆安东尼也可能会试水自由球员市场，比卢普斯也没有其它更好的选择。</span><span class="english">Carmelo Anthony might test that same market and Chauncey Billups could be left with no other choice.</span></p>

@@ -1,5 +1,7 @@
 # 骨节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujie.md)
+
 <p><span class="chinese">每公升在案件公开骨节方法。</span><span class="english">Per litre in case of open-beck method.</span></p>
 
 <p><span class="chinese">现在这个骨节上我关心的是我的成绩。</span><span class="english">The things I care about at this point is my grades.</span></p>

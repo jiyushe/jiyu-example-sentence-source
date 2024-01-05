@@ -1,5 +1,7 @@
 # musician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musician.md)
+
 <p><span class="chinese">他是个有天资的音于封。</span><span class="english">He is a gifted musician.</span></p>
 
 <p><span class="chinese">我是一个纽约职业音乐家。</span><span class="english">I'm a working New York musician.</span></p>

@@ -1,5 +1,7 @@
 # 趁早
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenzao.md)
+
 <p><span class="chinese">而且，我们将趁早动手。</span><span class="english">And we’ll do it early.</span></p>
 
 <p><span class="chinese">人生苦短，趁早偷情。</span><span class="english">Life is short. Have an affair.</span></p>

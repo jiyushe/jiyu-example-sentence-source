@@ -1,5 +1,7 @@
 # internality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internality.md)
+
 <p><span class="chinese">洁白无瑕的颜色就是生命的内在。</span><span class="english">This pure white color is the internality of life.</span></p>
 
 <p><span class="chinese">会计信息市场存在着内部性特征。</span><span class="english">Accounting information market has the character of internality.</span></p>

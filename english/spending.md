@@ -1,5 +1,7 @@
 # spending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spending.md)
+
 <p><span class="chinese">从控制你的花销开始。</span><span class="english">To begin, curb your spending.</span></p>
 
 <p><span class="chinese">中国消费者在烧钱。</span><span class="english">Chinese consumers are spending.</span></p>

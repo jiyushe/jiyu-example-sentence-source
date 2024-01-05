@@ -1,5 +1,7 @@
 # terse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terse.md)
+
 <p><span class="chinese">看看这段代码有多么简洁？</span><span class="english">See how terse that code is?</span></p>
 
 <p><span class="chinese">书中语言简洁而准确。</span><span class="english">The language is terse and precise.</span></p>

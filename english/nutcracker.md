@@ -1,5 +1,7 @@
 # nutcracker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutcracker.md)
+
 <p><span class="chinese">破冰船“纳特可利克”号将给你护航。</span><span class="english">Ice-breaker Nutcracker will escort you.</span></p>
 
 <p><span class="chinese">如果你想吃核桃，钳子会帮助你打开它坚硬的外壳。</span><span class="english">If you want to shell a walnut, it helps to have a nutcracker.</span></p>

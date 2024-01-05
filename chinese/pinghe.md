@@ -1,5 +1,7 @@
 # 平和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinghe.md)
+
 <p><span class="chinese">今天，我选择平和。</span><span class="english">I choose peace today.</span></p>
 
 <p><span class="chinese">愿平和与你们所有人同在！</span><span class="english">Peace be with you all!</span></p>

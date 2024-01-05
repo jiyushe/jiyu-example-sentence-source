@@ -1,5 +1,7 @@
 # 哑巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaba.md)
+
 <p><span class="chinese">做思想的哑巴圣徒。</span><span class="english">Be crazy dumb saint of the mind.</span></p>
 
 <p><span class="chinese">只有哑巴才妒忌多嘴的人。</span><span class="english">Only the dumb envy the talkative.</span></p>

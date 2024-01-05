@@ -1,5 +1,7 @@
 # 下半夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabanye.md)
+
 <p><span class="chinese">凯尔每晚在外面一呆就是到下半夜。</span><span class="english">Cal stays out every night until after midnight.</span></p>
 
 <p><span class="chinese">现在已经是下半夜了，但我依然在办公室里。</span><span class="english">It is past midnight, but I remain in my office.</span></p>

@@ -1,5 +1,7 @@
 # 异乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiang_2.md)
+
 <p><span class="chinese">身在异乡，它又在寻求什么？</span><span class="english">In alien parts what does it seek?</span></p>
 
 <p><span class="chinese">哦，你在行驶向异乡的何处？</span><span class="english">Oh to what foreign land do you sail?</span></p>

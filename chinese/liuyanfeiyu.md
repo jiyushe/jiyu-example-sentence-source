@@ -1,5 +1,7 @@
 # 流言蜚语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuyanfeiyu.md)
+
 <p><span class="chinese">不要传播流言蜚语。</span><span class="english">Stop gossiping.</span></p>
 
 <p><span class="chinese">她不屑于散布流言蜚语。</span><span class="english">She is above petty gossiping.</span></p>

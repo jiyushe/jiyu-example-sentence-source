@@ -1,5 +1,7 @@
 # illustrator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illustrator.md)
+
 <p><span class="chinese">其实我不愿意成为一名插画师。</span><span class="english">I actually hated being an Illustrator.</span></p>
 
 <p><span class="chinese">张葱是一名插画家、漫画家。</span><span class="english">Baiiiiiiii is an illustrator and comic artist.</span></p>

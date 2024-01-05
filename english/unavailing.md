@@ -1,5 +1,7 @@
 # unavailing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unavailing.md)
+
 <p><span class="chinese">抗议全部无用。</span><span class="english">All our protests were unavailing.</span></p>
 
 <p><span class="chinese">但是，我的努力似乎是白费劲。</span><span class="english">But all my efforts appeared unavailing.</span></p>

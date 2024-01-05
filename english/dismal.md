@@ -1,5 +1,7 @@
 # dismal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dismal.md)
+
 <p><span class="chinese">多么阴晦的天气！</span><span class="english">What dismal weather!</span></p>
 
 <p><span class="chinese">罗斯在可怕的昏迷中嚎叫。</span><span class="english">Los howl'd in a dismal stupor.</span></p>

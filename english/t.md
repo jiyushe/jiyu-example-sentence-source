@@ -1,5 +1,7 @@
 # t
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/t.md)
+
 <p><span class="chinese">我们不该那么做。</span><span class="english">We shouldn t.</span></p>
 
 <p><span class="chinese">那么程序会怎么做呢？会显示答案为。</span><span class="english">t prints out 0.</span></p>

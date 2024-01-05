@@ -1,5 +1,7 @@
 # pterygoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pterygoid.md)
+
 <p><span class="chinese">观察咬肌、颞肌、翼外肌的组织形态学改变。</span><span class="english">The histological changes of the masseter, temporal and lateral pterygoid muscles were observed.</span></p>
 
 <p><span class="chinese">研究背景翼管神经切断求治疗血管运动性鼻炎的效果不理想。</span><span class="english">Background The oporation treatment for vasomotor rhinitis by cutting off canalis pterygoid nervus is not very effective.</span></p>

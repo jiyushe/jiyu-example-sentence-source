@@ -1,5 +1,7 @@
 # archimedes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archimedes.md)
+
 <p><span class="chinese">浮计的原理是以阿基米德定律为根据的。</span><span class="english">Hydrometers is based on the Archimedes Law.</span></p>
 
 <p><span class="chinese">阿基米德在泡澡时灵感迸发。</span><span class="english">Archimedes had his eureka moment in the bath.</span></p>

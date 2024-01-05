@@ -1,5 +1,7 @@
 # diction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diction.md)
+
 <p><span class="chinese">好的表达意味着精确和接近精确。</span><span class="english">Good diction means the exact or near exact.</span></p>
 
 <p><span class="chinese">老师，默写必须每隔一行写吗？</span><span class="english">Sir, must we write the diction every other line?</span></p>

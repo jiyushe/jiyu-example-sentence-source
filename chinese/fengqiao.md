@@ -1,5 +1,7 @@
 # 枫桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengqiao.md)
+
 <p><span class="chinese">留下一段真情，让它停泊在枫桥边。</span><span class="english">Leaving behind a truth, let it moor at the Maple Bridge.</span></p>
 
 <p><span class="chinese">公司位于诸暨市轻纺衬衫之乡——枫桥镇。</span><span class="english">Our company is located in the country of shirt, Fengqiao Town, Zhuji City.</span></p>

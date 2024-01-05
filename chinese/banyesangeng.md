@@ -1,5 +1,7 @@
 # 半夜三更
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banyesangeng.md)
+
 <p><span class="chinese">我出走那是半夜三更一片寂静。</span><span class="english">I went out in the still of the night.</span></p>
 
 <p><span class="chinese">当我到达那里是已是半夜三更。</span><span class="english">And it was already mid-night when I arrived there.</span></p>

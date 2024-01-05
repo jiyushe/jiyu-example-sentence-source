@@ -1,5 +1,7 @@
 # triumvirate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triumvirate.md)
+
 <p><span class="chinese">法萨罗战役结束了第一次三头统治时期的战乱。</span><span class="english">The Battle of Pharsalus ended the wars of the First Triumvirate.</span></p>
 
 <p><span class="chinese">据说“三巨头”倾向于雇佣一名四十来岁的主编。</span><span class="english">The triumvirate is said to put a high priority on hiring a forty-something.</span></p>

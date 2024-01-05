@@ -1,5 +1,7 @@
 # safflower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/safflower.md)
+
 <p><span class="chinese">红花籽油来源！</span><span class="english">Safflower Oil Source!</span></p>
 
 <p><span class="chinese">作为替代，可使用植物油、红花油或花生油。</span><span class="english">Instead, use vegetable, safflower or peanut oil.</span></p>

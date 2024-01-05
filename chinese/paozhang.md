@@ -1,5 +1,7 @@
 # 炮仗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paozhang.md)
+
 <p><span class="chinese">炮仗砰地一声点响了。</span><span class="english">The firecracker went Off with a bang.</span></p>
 
 <p><span class="chinese">过年的炮仗元宵的灯喜庆余韵又欢腾。</span><span class="english">New Year fireworks lamp yuanxiao festival finish and exultation.</span></p>

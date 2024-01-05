@@ -1,5 +1,7 @@
 # 弯路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanlu.md)
+
 <p><span class="chinese">如果你一开始走了弯路，问题很快又会出现。</span><span class="english">“If you do it wrong, it will come back again”.</span></p>
 
 <p><span class="chinese">并且不要在过程中被葫芦迷惑而走了弯路。</span><span class="english">And try not to get detoured by Hulu along the way.</span></p>

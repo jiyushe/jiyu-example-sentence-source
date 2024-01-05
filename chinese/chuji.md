@@ -1,5 +1,7 @@
 # 出击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuji.md)
+
 <p><span class="chinese">他并不需要出击。</span><span class="english">He needn't have bothered.</span></p>
 
 <p><span class="chinese">迅速出击！现在出击！</span><span class="english">Strike quickly! Strike now!</span></p>

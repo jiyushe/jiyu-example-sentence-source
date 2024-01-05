@@ -1,5 +1,7 @@
 # india
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/india.md)
+
 <p><span class="chinese">这里就是印度。</span><span class="english">This is India.</span></p>
 
 <p><span class="chinese">教授艾图·克里，关于印度的讲解。</span><span class="english">Atul Kohli on India.</span></p>

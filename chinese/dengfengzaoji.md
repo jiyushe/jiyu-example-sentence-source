@@ -1,5 +1,7 @@
 # 登峰造极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dengfengzaoji.md)
+
 <p><span class="chinese">巴罗的反凯恩斯观点登峰造极。</span><span class="english">Barro's anti-Keynesianism is at the extreme end.</span></p>
 
 <p><span class="chinese">公司股东的集体沉默在管理界几乎达到了登峰造极的地步。</span><span class="english">In the governance world, that's about as silent as shareholders can be.</span></p>

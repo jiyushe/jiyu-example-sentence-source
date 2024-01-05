@@ -1,5 +1,7 @@
 # washerwoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washerwoman.md)
+
 <p><span class="chinese">哪一个洗衣女工想要手表？</span><span class="english">Which washerwoman wants to watch?</span></p>
 
 <p><span class="chinese">但是洗衣妇注意到了他的眼光。</span><span class="english">But the washerwoman felt his eyes.</span></p>

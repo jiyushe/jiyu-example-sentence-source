@@ -1,5 +1,7 @@
 # facilitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facilitate.md)
+
 <p><span class="chinese">促进组件的重用。</span><span class="english">Facilitate reuse of components.</span></p>
 
 <p><span class="chinese">许多现代发明便利了家务劳动。</span><span class="english">Modern inventions facilitate housework.</span></p>

@@ -1,5 +1,7 @@
 # biochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biochemical.md)
+
 <p><span class="chinese">分子与生化寄生虫学。</span><span class="english">Molecular and Biochemical Parasitology.</span></p>
 
 <p><span class="chinese">老鼠和人类有类似的生化途径。</span><span class="english">Rats and humans have similar biochemical pathways.</span></p>

@@ -1,5 +1,7 @@
 # 制剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiji.md)
+
 <p><span class="chinese">两种制剂具有更高的生物安全性。</span><span class="english">The two agents had higher bio-safety.</span></p>
 
 <p><span class="chinese">固定小剂量复方制剂使用方便。</span><span class="english">Fixed low-dose combinations are easy to use.</span></p>

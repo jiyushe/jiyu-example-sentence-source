@@ -1,5 +1,7 @@
 # ballistics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballistics.md)
+
 <p><span class="chinese">一位弹道学家正在犯罪现场提取证据。</span><span class="english">A ballistics expert was taking evidence at the scene of the crime.</span></p>
 
 <p><span class="chinese">一位弹道学家正在犯法现场提取证据。</span><span class="english">A ballistics expert were taking evidence at the scene of the crime.</span></p>

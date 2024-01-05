@@ -1,5 +1,7 @@
 # 狂傲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangao.md)
+
 <p><span class="chinese">不谦虚也不狂傲。</span><span class="english">No more modest than immodest.</span></p>
 
 <p><span class="chinese">如今我们称狂傲的人为有福。</span><span class="english">But now we call the arrogant blessed.</span></p>

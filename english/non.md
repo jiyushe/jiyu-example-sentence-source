@@ -1,5 +1,7 @@
 # non
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/non.md)
+
 <p><span class="chinese">我不喜欢喝葡萄酒。</span><span class="english">Non mi piace il vino.</span></p>
 
 <p><span class="chinese">商务仓。非吸烟区。</span><span class="english">Busine cla . Non smoking.</span></p>

@@ -1,5 +1,7 @@
 # 引黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhuang.md)
+
 <p><span class="chinese">水力量测是引黄工程自动化系统的重要组成部分。</span><span class="english">The hydraulic measure is an important component of automatic system of YRDP.</span></p>
 
 <p><span class="chinese">引黄工程是山西人民的生命工程。</span><span class="english">The diversion works of Yellow River is a key project for people of Shanxi Province.</span></p>

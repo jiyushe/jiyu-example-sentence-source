@@ -1,5 +1,7 @@
 # aroma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aroma.md)
+
 <p><span class="chinese">孔玉芬？</span><span class="english">Bore jade aroma?</span></p>
 
 <p><span class="chinese">它有强烈的芳香。</span><span class="english">They have a powerful aroma.</span></p>

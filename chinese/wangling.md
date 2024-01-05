@@ -1,5 +1,7 @@
 # 亡灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangling.md)
+
 <p><span class="chinese">我是亡灵。蛆虫爬满我的身躯。</span><span class="english">I'm undead. Maggots crawled all over me.</span></p>
 
 <p><span class="chinese">是人为的阴谋，还是亡灵的咒怨？</span><span class="english">The plot is human, or the undead grudge?</span></p>

@@ -1,5 +1,7 @@
 # approbate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approbate.md)
+
 <p><span class="chinese">对于嘟嘟牛来说，则是广大网民对其功能的认可。</span><span class="english">To toot toot ox, it is broad netizen to its function approbate.</span></p>
 
 <p><span class="chinese">是的，没有什么是比获得别人的肯定与赞扬更能让人高兴的了。</span><span class="english">Yes, nothing can be more happy then this thing. Yot got other's faith and approbate.</span></p>

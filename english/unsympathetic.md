@@ -1,5 +1,7 @@
 # unsympathetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsympathetic.md)
+
 <p><span class="chinese">但是乔治无动于衷。</span><span class="english">But Geroge was unsympathetic.</span></p>
 
 <p><span class="chinese">乔布斯以控制狂兼冷血无情的面目出现。</span><span class="english">Mr Jobs emerges as a controlling and often unsympathetic character.</span></p>

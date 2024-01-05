@@ -1,5 +1,7 @@
 # carburettor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carburettor.md)
+
 <p><span class="chinese">您的汽化器怎么样?。</span><span class="english">How about your carburettor?</span></p>
 
 <p><span class="chinese">如果发动机空转得太慢或太快，应该调整汽化器。</span><span class="english">If an engine ticks over slowly or too fast an adjustment must be made to the carburettor.</span></p>

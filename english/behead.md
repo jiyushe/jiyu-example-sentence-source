@@ -1,5 +1,7 @@
 # behead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behead.md)
+
 <p><span class="chinese">他下令将两个队长斩首。</span><span class="english">He ordered to behead the two leaders.</span></p>
 
 <p><span class="chinese">亨利八世下令将安波林斩首。</span><span class="english">Henry VIII gave the order to behead Anne Boleyn.</span></p>

@@ -1,5 +1,7 @@
 # pantheon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pantheon.md)
+
 <p><span class="chinese">伊沃克人的精神至上观念里有着各种各样的神灵。</span><span class="english">Ewok spiritualism has a wide pantheon of gods and spirits.</span></p>
 
 <p><span class="chinese">也加到我们的众神里去吧“</span><span class="english">Well, we'll just add those into our pantheon of gods too."</span></p>

@@ -1,5 +1,7 @@
 # pitman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitman.md)
+
 <p><span class="chinese">第一长老教会在必新泽西。</span><span class="english">First Presbyterian Church in Pitman , New Jersey.</span></p>
 
 <p><span class="chinese">在机座中安装转向摇臂轴和侧盖。</span><span class="english">Install pitman shaft and side cover in the housing.</span></p>

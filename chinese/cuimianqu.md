@@ -1,5 +1,7 @@
 # 催眠曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuimianqu.md)
+
 <p><span class="chinese">我为她唱了一首催眠曲。</span><span class="english">I sang her a lullaby.</span></p>
 
 <p><span class="chinese">我给你唱催眠曲。</span><span class="english">I'll sing you a lullaby.</span></p>

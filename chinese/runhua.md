@@ -1,5 +1,7 @@
 # 润滑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/runhua.md)
+
 <p><span class="chinese">口感圆润滑顺。</span><span class="english">Round and smooth mouth.</span></p>
 
 <p><span class="chinese">点几滴润滑眼药水。</span><span class="english">Tried lubricating drops.</span></p>

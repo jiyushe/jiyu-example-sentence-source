@@ -1,5 +1,7 @@
 # 南北
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanbei.md)
+
 <p><span class="chinese">我们63路车是南北行驶的。</span><span class="english">No. 63 runs only north and south.</span></p>
 
 <p><span class="chinese">南北两极是地球的眼睛。</span><span class="english">North and south poles is Earth's eye.</span></p>

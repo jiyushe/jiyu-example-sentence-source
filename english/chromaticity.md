@@ -1,5 +1,7 @@
 # chromaticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromaticity.md)
+
 <p><span class="chinese">该模型将彩色数据分离为色彩和亮度两部分。</span><span class="english">This model separated the color data into chromaticity and brightness.</span></p>
 
 <p><span class="chinese">本文对昌乐蓝宝石进行了大量的颜色指数测量。</span><span class="english">Presented in this paper are the chromaticity indices of sapphire fromChangle.</span></p>

@@ -1,5 +1,7 @@
 # hoyt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoyt.md)
+
 <p><span class="chinese">霍伊特先生做出了很好的回应。</span><span class="english">Mr Hoyt airs some good responses.</span></p>
 
 <p><span class="chinese">法斯托也表达也对霍伊特法官的感谢。</span><span class="english">Mr. Fastow also add reed Judge Hoyt.</span></p>

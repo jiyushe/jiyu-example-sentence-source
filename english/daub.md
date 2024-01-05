@@ -1,5 +1,7 @@
 # daub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daub.md)
+
 <p><span class="chinese">不要把油漆涂得太厚。</span><span class="english">Don't daub the paint on too thickly.</span></p>
 
 <p><span class="chinese">下一道手续是在墙面上涂抹一层沙浆。</span><span class="english">I am not a good painter but I like to daub.</span></p>

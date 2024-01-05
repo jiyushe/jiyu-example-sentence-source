@@ -1,5 +1,7 @@
 # allegro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allegro.md)
+
 <p><span class="chinese">第四组是快板。</span><span class="english">The fourth group is allegro.</span></p>
 
 <p><span class="chinese">谐谑曲也可以是很快的快板的。</span><span class="english">The scherzo is marked allegro molto.</span></p>

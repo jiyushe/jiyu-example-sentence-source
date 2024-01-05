@@ -1,5 +1,7 @@
 # 排烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiyan.md)
+
 <p><span class="chinese">排烟系统。</span><span class="english">Smoke removal system.</span></p>
 
 <p><span class="chinese">我们家的烟囱正在排烟。</span><span class="english">The chimney of my house is smoking.</span></p>

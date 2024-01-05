@@ -1,5 +1,7 @@
 # singe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singe.md)
+
 <p><span class="chinese">不！绝不行！不过，我向我主发誓。</span><span class="english">No! Never! But l swear to the singe.</span></p>
 
 <p><span class="chinese">此房发卖，房子里有供暖摆设。</span><span class="english">That house is for singe. It has centring heating.</span></p>

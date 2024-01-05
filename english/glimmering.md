@@ -1,5 +1,7 @@
 # glimmering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glimmering.md)
+
 <p><span class="chinese">一灯荧然。</span><span class="english">A light is glimmering.</span></p>
 
 <p><span class="chinese">渔民修补微微发光的鱼网。</span><span class="english">A Fisherman mends a glimmering net.</span></p>

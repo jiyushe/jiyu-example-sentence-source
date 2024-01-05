@@ -1,5 +1,7 @@
 # 耐酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naisuan.md)
+
 <p><span class="chinese">本色耐酸碱胶板。</span><span class="english">Acid & Alkali bearing rubber sheet.</span></p>
 
 <p><span class="chinese">基地外层，耐酸午夜蓝色。</span><span class="english">Base finish is acid-resistant midnight blue.</span></p>

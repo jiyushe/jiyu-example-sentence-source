@@ -1,5 +1,7 @@
 # malnutrition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malnutrition.md)
+
 <p><span class="chinese">我们知道营养不良是一个大问题。</span><span class="english">We know that malnutrition is a big problem.</span></p>
 
 <p><span class="chinese">营养不良主要是因为偏食造成的。</span><span class="english">Malnutrition caused mainly because junk food.</span></p>

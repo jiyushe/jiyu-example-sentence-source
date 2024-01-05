@@ -1,5 +1,7 @@
 # countervail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countervail.md)
+
 <p><span class="chinese">缓存可以抵消服务器负载。</span><span class="english">The cache can countervail server load.</span></p>
 
 <p><span class="chinese">他的技巧优势抵消了对手的出色力量。</span><span class="english">His skills countervail his opponent's superior strength.</span></p>

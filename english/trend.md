@@ -1,5 +1,7 @@
 # trend 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trend.md)
+
 <p><span class="chinese">这是一个大趋势。</span><span class="english">It's a broad trend.</span></p>
 
 <p><span class="chinese">怎样么会是趋势呢？</span><span class="english">How is this a trend?</span></p>

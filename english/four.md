@@ -1,5 +1,7 @@
 # four
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/four.md)
+
 <p><span class="chinese">我看到了四棵树。</span><span class="english">I see four trees.</span></p>
 
 <p><span class="chinese">陈阿四喜出望外。</span><span class="english">O Chen four bonus.</span></p>

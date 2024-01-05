@@ -1,5 +1,7 @@
 # second 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/second.md)
+
 <p><span class="chinese">菲克第二定律。</span><span class="english">Fick"s second law."</span></p>
 
 <p><span class="chinese">出售二手房。</span><span class="english">Sell a second home.</span></p>

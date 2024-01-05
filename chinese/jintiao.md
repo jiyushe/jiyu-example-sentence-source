@@ -1,5 +1,7 @@
 # 金条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jintiao.md)
+
 <p><span class="chinese">金条是从雷子枫手中夺到的。</span><span class="english">Gold bars LeiZiFeng from hand to take.</span></p>
 
 <p><span class="chinese">窃贼偷去价值1000000英镑的金条。</span><span class="english">The thieves stole 1000000 in gold bullion.</span></p>

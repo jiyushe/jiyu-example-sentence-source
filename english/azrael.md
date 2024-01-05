@@ -1,5 +1,7 @@
 # azrael
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azrael.md)
+
 <p><span class="chinese">我从死神那里买的。</span><span class="english">I bought it from Azrael.</span></p>
 
 <p><span class="chinese">哦，对不起国王，我不应该说死神。</span><span class="english">Oh I'm sorry king, I shouldn't say Azrael.</span></p>

@@ -1,5 +1,7 @@
 # dissimulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissimulation.md)
+
 <p><span class="chinese">那个小偷谨慎而又掩饰着侵入了那间屋子。</span><span class="english">The thief intruded the house with caution and dissimulation.</span></p>
 
 <p><span class="chinese">在他这样的一个人，一种掩饰的习惯是一种阻挠，一个。</span><span class="english">A habit of dissimulation is a hindrance, and a poorness to him.</span></p>

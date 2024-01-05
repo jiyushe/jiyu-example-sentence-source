@@ -1,5 +1,7 @@
 # biphenyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biphenyl.md)
+
 <p><span class="chinese">结论该化合物有望成为含有联苯的新抗菌药物。</span><span class="english">Conclusion The compound is expected to be a new antibacterial bearing biphenyl.</span></p>
 
 <p><span class="chinese">藉由取代基效应观察化合物光物理性质及电化学特性的改变。</span><span class="english">We observe photophysical and electrochemistry property of biphenyl imide by substituent group effect.</span></p>

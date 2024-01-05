@@ -1,5 +1,7 @@
 # covent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covent.md)
+
 <p><span class="chinese">科芬园里有什么？</span><span class="english">What is there in Covent Garden?</span></p>
 
 <p><span class="chinese">科芬园是我最爱的地方。</span><span class="english">Covent Garden is my favourite place.</span></p>

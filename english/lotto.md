@@ -1,5 +1,7 @@
 # lotto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lotto.md)
+
 <p><span class="chinese">请让我赢个乐透吧！</span><span class="english">Please let me win the lotto.</span></p>
 
 <p><span class="chinese">把赢奖的乐透选择保存到文本文件中。</span><span class="english">We save winning lotto picks in a text file.</span></p>

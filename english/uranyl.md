@@ -1,5 +1,7 @@
 # uranyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uranyl.md)
+
 <p><span class="chinese">多水钼铀矿属铀酰钼酸盐类矿物。</span><span class="english">Moluranite is a mineral of uranyl molybdate group.</span></p>
 
 <p><span class="chinese">研究了铀酰离子在磷酸体系中的发光现象。</span><span class="english">Uranyl luminescence in phosphoric acid system is studied in this communication.</span></p>

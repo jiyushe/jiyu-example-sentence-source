@@ -1,5 +1,7 @@
 # 封地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengdi.md)
+
 <p><span class="chinese">她爱的是他的钱和封地。</span><span class="english">But she loves his money and his lands.</span></p>
 
 <p><span class="chinese">我将不娶妻，不封地，不生子。</span><span class="english">I shall take no wife, hold no lands, father no babies.</span></p>

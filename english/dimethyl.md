@@ -1,5 +1,7 @@
 # dimethyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimethyl.md)
+
 <p><span class="chinese">可用于测定防霉剂中的富马酸二甲酯含量。</span><span class="english">The method can be used to test the dimethyl fumarate in the mold inhibitor.</span></p>
 
 <p><span class="chinese">如前记载，二烃基和二甲基并不适合这个意图。</span><span class="english">As mentioned before, dialkyl dimethyl quats are not suitable for this purpose.</span></p>

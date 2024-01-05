@@ -1,5 +1,7 @@
 # unrecognized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrecognized.md)
+
 <p><span class="chinese">不能识别的编码序列值，请使用默认值。</span><span class="english">Unrecognized unicode collation values, using default values.</span></p>
 
 <p><span class="chinese">而且你还要经常面临你的表现不被赏识的境遇。</span><span class="english">As often as not, you'll be unrecognized for your performance.</span></p>

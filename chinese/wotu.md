@@ -1,5 +1,7 @@
 # 沃土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wotu.md)
+
 <p><span class="chinese">我知道那片棕红的沃土。</span><span class="english">I know to what brown country.</span></p>
 
 <p><span class="chinese">郁金香被种在沃土里。</span><span class="english">The tulips were bedded in rich soil.</span></p>

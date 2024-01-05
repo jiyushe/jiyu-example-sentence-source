@@ -1,5 +1,7 @@
 # nondestructive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nondestructive.md)
+
 <p><span class="chinese">实现了螺旋焊管无损检测的数字化。</span><span class="english">It realized digital of nondestructive testing for spiral welded pipe.</span></p>
 
 <p><span class="chinese">超声硬度计是一种普适的无损测试仪器。</span><span class="english">The ultrasonic hardness tester is an versatile nondestructive tester.</span></p>

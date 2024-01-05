@@ -1,5 +1,7 @@
 # radiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiation.md)
+
 <p><span class="chinese">光辐射远。</span><span class="english">Ray radiation far.</span></p>
 
 <p><span class="chinese">什么是辐射？</span><span class="english">What Is Radiation?</span></p>

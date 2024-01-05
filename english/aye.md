@@ -1,5 +1,7 @@
 # aye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aye.md)
+
 <p><span class="chinese">啊，很容易，我们可以挖地道进去。</span><span class="english">Aye , it's easy. We could tunnel our way in.</span></p>
 
 <p><span class="chinese">是的。龙来将她带向荣誉。</span><span class="english">Aye. The dragons have come to carry her to glory.</span></p>

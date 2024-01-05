@@ -1,5 +1,7 @@
 # resplendent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resplendent.md)
+
 <p><span class="chinese">哇，真是金碧辉煌啊！</span><span class="english">Wow, it is indeed resplendent !</span></p>
 
 <p><span class="chinese">坐在辉煌的结彩的堂上。</span><span class="english">Sitting in a resplendent hall bedecked with silk.</span></p>

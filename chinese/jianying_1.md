@@ -1,5 +1,7 @@
 # 剪影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianying_1.md)
+
 <p><span class="chinese">第二组曲，作品23，“剪影”</span><span class="english">Suite No. 2, Op. 23, Silhouettes.</span></p>
 
 <p><span class="chinese">拍摄对象成了剪影。</span><span class="english">The subject becomes a silhouette.</span></p>

@@ -1,5 +1,7 @@
 # sm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sm.md)
+
 <p><span class="chinese">你介意在这里抽烟吗？</span><span class="english">Do you mind sm oing here?</span></p>
 
 <p><span class="chinese">希明是健康食品的信徒。</span><span class="english">SM is a health food believer.</span></p>

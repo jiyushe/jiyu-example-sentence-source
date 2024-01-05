@@ -1,5 +1,7 @@
 # bes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bes.md)
+
 <p><span class="chinese">我花了大约一个小时，以获得它重新启动对我谱仪。</span><span class="english">It took me about an hour to get it reactivated on my BES.</span></p>
 
 <p><span class="chinese">滑水运动真正激发出了汤姆的活力与激情。</span><span class="english">Water-skiing rewhichley brings away the living bes in Linda.</span></p>

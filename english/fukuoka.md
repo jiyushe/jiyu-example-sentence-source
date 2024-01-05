@@ -1,5 +1,7 @@
 # fukuoka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fukuoka.md)
+
 <p><span class="chinese">离开石井先生的工作室后，我们乘坐巴士来到了福冈博物馆。</span><span class="english">Left Mr. Isii's studio, we went to Fukuoka Museum by bus.</span></p>
 
 <p><span class="chinese">第一届会议是1994年9月在日本福冈市召开的。</span><span class="english">The first summit was held in Fukuoka of Japan in September, 1994.</span></p>

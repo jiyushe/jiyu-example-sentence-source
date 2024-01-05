@@ -1,5 +1,7 @@
 # secrete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secrete.md)
+
 <p><span class="chinese">你能守住秘密吗？</span><span class="english">Could you keep a secrete?</span></p>
 
 <p><span class="chinese">唾腺分泌唾液。</span><span class="english">Glands in the mouth secrete saliva.</span></p>

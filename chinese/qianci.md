@@ -1,5 +1,7 @@
 # 前次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianci.md)
+
 <p><span class="chinese">自从我前次来这里已经有很长期了。</span><span class="english">It has been a long time since last came here.</span></p>
 
 <p><span class="chinese">会上署名通过前次会议记录。</span><span class="english">Minutes of last meeting were approved and signed.</span></p>

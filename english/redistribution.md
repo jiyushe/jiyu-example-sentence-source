@@ -1,5 +1,7 @@
 # redistribution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redistribution.md)
+
 <p><span class="chinese">正因如此，再分配是错误的。</span><span class="english">And that's why redistribution is wrong.</span></p>
 
 <p><span class="chinese">重新分配土地是红区政策中的一个根本要素。</span><span class="english">Redistribution of land was a fundamental of Red policy.</span></p>

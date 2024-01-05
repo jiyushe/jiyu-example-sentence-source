@@ -1,5 +1,7 @@
 # backing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backing.md)
+
 <p><span class="chinese">因为我刚刚在爱河里游回来。</span><span class="english">I am backing for love river just now.</span></p>
 
 <p><span class="chinese">邮件积滞在那个邮局里。</span><span class="english">Mail is backing up at the post office.</span></p>

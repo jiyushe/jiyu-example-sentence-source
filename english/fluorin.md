@@ -1,5 +1,7 @@
 # fluorin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluorin.md)
+
 <p><span class="chinese">CQF系列采用全氟塑料增强合金制造。</span><span class="english">CQF series pump is made up of fluorin plastic enhanced alloy.</span></p>
 
 <p><span class="chinese">结论氟保护膝防龋效果明显，操作简便，适合推广。</span><span class="english">Conclusion Applying the protecting lacquer contained fluorin to prevent caries had a significant effect.</span></p>

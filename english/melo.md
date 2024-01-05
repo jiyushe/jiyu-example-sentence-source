@@ -1,5 +1,7 @@
 # melo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melo.md)
+
 <p><span class="chinese">只要加强防守，AI和甜瓜就会去投不着边际的投篮的。</span><span class="english">Tighten up the D, AI and Melo will take ill-advised shots.</span></p>
 
 <p><span class="chinese">安吉勒斯·梅洛经营着一家餐馆，目标顾客是办公室工作人员。</span><span class="english">ngeles Melo manages a restaurant catering to office workers.</span></p>

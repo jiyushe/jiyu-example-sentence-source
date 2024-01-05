@@ -1,5 +1,7 @@
 # bodkin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bodkin.md)
+
 <p><span class="chinese">巴尼碰破大鼻子。</span><span class="english">Barney Bodkin broke his nose.</span></p>
 
 <p><span class="chinese">就能清偿宿债？谁甘心背负重担。</span><span class="english">With a bare bodkin? Who would fardels bear.</span></p>

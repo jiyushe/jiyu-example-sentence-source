@@ -1,5 +1,7 @@
 # regina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regina.md)
+
 <p><span class="chinese">他的母亲是里贾纳文德。</span><span class="english">His mother was Regina Wender.</span></p>
 
 <p><span class="chinese">最后，里贾纳被驱逐到奥斯威辛。</span><span class="english">Finally, Regina was deported to Auschwitz.</span></p>

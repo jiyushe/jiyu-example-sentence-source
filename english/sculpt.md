@@ -1,5 +1,7 @@
 # sculpt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sculpt.md)
+
 <p><span class="chinese">所以这里是一个快速造型我的工作基础上。</span><span class="english">So here is a quick base sculpt I worked on.</span></p>
 
 <p><span class="chinese">拉出发片以低角度手法处理。</span><span class="english">Take out by slice and sculpt with low angle.</span></p>

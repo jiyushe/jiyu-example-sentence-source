@@ -1,5 +1,7 @@
 # reptilian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reptilian.md)
+
 <p><span class="chinese">他令人厌恶地舔着他的嘴唇。</span><span class="english">He licked his lips in an unpleasantly reptilian way.</span></p>
 
 <p><span class="chinese">“类似蛇的爬行机器人本质上是轮式机器人”，邦加德说。</span><span class="english">"The snake and reptilian robots are, in essence, training wheels, " said Bongard.</span></p>

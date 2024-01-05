@@ -1,5 +1,7 @@
 # synthesizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synthesizer.md)
+
 <p><span class="chinese">双低功率频率合成器。</span><span class="english">Dual low-power frequency synthesizer.</span></p>
 
 <p><span class="chinese">我有一个四轨录音机和合成器。</span><span class="english">I had a four-track and a synthesizer then.</span></p>

@@ -1,5 +1,7 @@
 # 摇椅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyi_1.md)
+
 <p><span class="chinese">烦恼就像一把摇椅。</span><span class="english">Worry is like a rocking chair.</span></p>
 
 <p><span class="chinese">杰米坐上了摇椅。</span><span class="english">Jamie sat in the rocking chair.</span></p>

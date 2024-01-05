@@ -1,5 +1,7 @@
 # thu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thu.md)
+
 <p><span class="chinese">一段时间后，阿彤成了他的女朋友。</span><span class="english">After a period of time, Thu became Duat's girlfriend.</span></p>
 
 <p><span class="chinese">一段时间后，阿彤成了他的女朋友。</span><span class="english">After a period of time, Thu became Duat’s girlfriend.</span></p>

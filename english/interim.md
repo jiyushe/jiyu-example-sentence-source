@@ -1,5 +1,7 @@
 # interim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interim.md)
+
 <p><span class="chinese">请给我一张临时的收据。</span><span class="english">Please give me an interim receipt.</span></p>
 
 <p><span class="chinese">任这凄凉的间歇像浩瀚的海洋</span><span class="english">Let this sad interim like the ocean be</span></p>

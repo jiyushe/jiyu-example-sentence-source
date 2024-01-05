@@ -1,5 +1,7 @@
 # 过目不忘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guomubuwang.md)
+
 <p><span class="chinese">我对数字算是过目不忘吧。</span><span class="english">I had a very good memory for figures.</span></p>
 
 <p><span class="chinese">他戴着一顶令人过目不忘的山猫皮的帽子在自家门外招待了我们。</span><span class="english">He greets us outside his home wearing an impressive hat of lynx fur.</span></p>

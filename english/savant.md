@@ -1,5 +1,7 @@
 # savant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savant.md)
+
 <p><span class="chinese">但这正是玛丽莲·沃斯·莎凡特最喜欢出现的时刻。</span><span class="english">This, however, is when Marilyn vos Savant likes to show up.</span></p>
 
 <p><span class="chinese">壆者愚蠢的把壆校的冷却池当成游泳池。</span><span class="english">The savant foolishly took the school cooling pool because swimming pond.</span></p>

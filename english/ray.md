@@ -1,5 +1,7 @@
 # ray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ray.md)
+
 <p><span class="chinese">光辐射远。</span><span class="english">Ray radiation far.</span></p>
 
 <p><span class="chinese">它就是X光。</span><span class="english">This is ray optics.</span></p>

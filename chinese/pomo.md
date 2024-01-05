@@ -1,5 +1,7 @@
 # 泼墨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pomo.md)
+
 <p><span class="chinese">宣纸泼墨，画笔勾勒出轮廓。</span><span class="english">Rice paper Chinese ink, brush outline outline.</span></p>
 
 <p><span class="chinese">想象之大，世界都可以成为挥笔泼墨画布。</span><span class="english">This world is but a canvas to our imagination.</span></p>

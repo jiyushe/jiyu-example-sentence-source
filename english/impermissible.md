@@ -1,5 +1,7 @@
 # impermissible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impermissible.md)
+
 <p><span class="chinese">这种状态是完全不能容许的。</span><span class="english">Such a state of affairs is entirely impermissible.</span></p>
 
 <p><span class="chinese">这句话的实际含义是，不得以宗教的名义来干预政治。</span><span class="english">Impermissible to interfere in politics in the name of religion.</span></p>

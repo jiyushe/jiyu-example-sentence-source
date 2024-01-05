@@ -1,5 +1,7 @@
 # 推迟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuichi.md)
+
 <p><span class="chinese">他把这个倒楣的时刻推迟下去。</span><span class="english">He put off the evil hour.</span></p>
 
 <p><span class="chinese">下一次发情推迟了。</span><span class="english">The next estrus was delayed.</span></p>

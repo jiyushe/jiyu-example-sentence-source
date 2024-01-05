@@ -1,5 +1,7 @@
 # hurdling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurdling.md)
+
 <p><span class="chinese">基础训练对跨栏非常重要。</span><span class="english">B. Basic conditioning is very important to good hurdling.</span></p>
 
 <p><span class="chinese">个跨栏周期的平均速度是影响运动员能否夺冠的主要因素。</span><span class="english">The average speed of 9 periods of hurdling is the main factor in fluencing.</span></p>

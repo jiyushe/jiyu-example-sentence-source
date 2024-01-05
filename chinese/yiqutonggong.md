@@ -1,5 +1,7 @@
 # 异曲同工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqutonggong.md)
+
 <p><span class="chinese">但它往往会跟中文有些异曲同工之妙。</span><span class="english">It always has a curious coincidence with Chinese.</span></p>
 
 <p><span class="chinese">这与在美国流行的反重力瑜伽有异曲同工之妙。</span><span class="english">This is the same as anti-gravity yoga in the USA.</span></p>

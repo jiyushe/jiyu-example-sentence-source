@@ -1,5 +1,7 @@
 # subdivide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subdivide.md)
+
 <p><span class="chinese">你甚至还可以将这些时间再细分。</span><span class="english">You can even subdivide these times.</span></p>
 
 <p><span class="chinese">区域使你可以将项目分成多个更小的、更容易管理的部分。</span><span class="english">Areas allow you to subdivide a project into smaller, more manageable sections.</span></p>

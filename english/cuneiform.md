@@ -1,5 +1,7 @@
 # cuneiform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuneiform.md)
+
 <p><span class="chinese">也被称为「楔形骨」。</span><span class="english">Also called a cuneiform bone.</span></p>
 
 <p><span class="chinese">鸡爪印是楔形文字。</span><span class="english">The chicken scratch is cuneiform.</span></p>

@@ -1,5 +1,7 @@
 # botch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/botch.md)
+
 <p><span class="chinese">这一回可别把我的汽车修坏了。</span><span class="english">Don't botch up my car this time.</span></p>
 
 <p><span class="chinese">我的装潢工作做得实在是糟糕。</span><span class="english">I've made a real botch of the decorating.</span></p>

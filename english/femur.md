@@ -1,5 +1,7 @@
 # femur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/femur.md)
+
 <p><span class="chinese">这是一根大象的股骨。</span><span class="english">And here is the femur of an elephant.</span></p>
 
 <p><span class="chinese">这是一根小小的股骨。</span><span class="english">That's only a teeny, weeny little femur.</span></p>

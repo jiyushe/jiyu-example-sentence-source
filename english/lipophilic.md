@@ -1,5 +1,7 @@
 # lipophilic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lipophilic.md)
+
 <p><span class="chinese">结论月桂酰吲达帕胺为弱酸性亲脂性药物。</span><span class="english">Conclusions Lauroyl indapamide is a weak acid with lipophilic property.</span></p>
 
 <p><span class="chinese">这是一种以纳入媒体的亲水亲油性熊果苷。</span><span class="english">It is a way to incorporate the hydrophilic Arbutin in lipophilic media.</span></p>

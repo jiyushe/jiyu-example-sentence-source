@@ -1,5 +1,7 @@
 # 蒙蔽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengbi.md)
+
 <p><span class="chinese">不要被恨意蒙蔽了双眼。</span><span class="english">Don't be hate blind.</span></p>
 
 <p><span class="chinese">你的骄傲蒙蔽不了上帝！</span><span class="english">Your pride cannot blind God!</span></p>

@@ -1,5 +1,7 @@
 # part 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/part.md)
+
 <p><span class="chinese">他双唇微张。</span><span class="english">His lips part.</span></p>
 
 <p><span class="chinese">我清楚这部分。</span><span class="english">I know this part.</span></p>

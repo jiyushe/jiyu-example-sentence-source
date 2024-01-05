@@ -1,5 +1,7 @@
 # flammable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flammable.md)
+
 <p><span class="chinese">树脂和树胶也非常易燃。</span><span class="english">Resins and gums are highly flammable.</span></p>
 
 <p><span class="chinese">使用时会变得极易燃烧。</span><span class="english">R30 Can become highly flammable in use.</span></p>

@@ -1,5 +1,7 @@
 # chordal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chordal.md)
+
 <p><span class="chinese">笙能吹出一种特殊的和弦音色。</span><span class="english">It provides a unique Chordal sound texture.</span></p>
 
 <p><span class="chinese">随着弦高的减小，翘曲现象减轻，渐呈准直线。</span><span class="english">The warped phenomenon is mitigated when the chordal height decreases.</span></p>

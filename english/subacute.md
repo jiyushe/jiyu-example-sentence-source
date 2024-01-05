@@ -1,5 +1,7 @@
 # subacute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subacute.md)
+
 <p><span class="chinese">亚急性甲状腺炎的诊断及治疗。</span><span class="english">Diagnosis and treatment of subacute thyroiditis.</span></p>
 
 <p><span class="chinese">哦，等等，是亚急性硬化脑膜炎！</span><span class="english">No wait, it's subacute sclerosis panencephalitis!</span></p>

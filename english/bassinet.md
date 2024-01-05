@@ -1,5 +1,7 @@
 # bassinet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bassinet.md)
+
 <p><span class="chinese">你需要那个摇篮?。</span><span class="english">You really need the bassinet?</span></p>
 
 <p><span class="chinese">祖国东方文明的摇篮。</span><span class="english">My country Bassinet of east culture.</span></p>

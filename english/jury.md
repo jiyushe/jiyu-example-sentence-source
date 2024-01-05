@@ -1,5 +1,7 @@
 # jury 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jury.md)
+
 <p><span class="chinese">他被陪审团裁定罪名成立。</span><span class="english">He was convicted by a jury.</span></p>
 
 <p><span class="chinese">法官训示陪审团。</span><span class="english">The judge charged the jury.</span></p>

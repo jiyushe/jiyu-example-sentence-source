@@ -1,5 +1,7 @@
 # 倒胃口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoweikou.md)
+
 <p><span class="chinese">事实上，那可能会很让他倒胃口。</span><span class="english">In fact, it may be a big turnoff for him.</span></p>
 
 <p><span class="chinese">假如你吃太多巧克力会使你倒胃口。</span><span class="english">Chocolates start to cloy if you eat too many.</span></p>

@@ -1,5 +1,7 @@
 # 丑闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouwen.md)
+
 <p><span class="chinese">把所有的丑闻都说给我听。</span><span class="english">Give me all the dirt.</span></p>
 
 <p><span class="chinese">奴隶劳动的丑闻。</span><span class="english">Slave labor scandals.</span></p>

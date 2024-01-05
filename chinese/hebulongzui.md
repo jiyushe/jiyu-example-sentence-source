@@ -1,5 +1,7 @@
 # 合不拢嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hebulongzui.md)
+
 <p><span class="chinese">哇，你笑得都合不拢嘴啊。</span><span class="english">Wow, you are smiling from ear to ear.</span></p>
 
 <p><span class="chinese">小兔听了，笑得都合不拢嘴了。</span><span class="english">Xiaotu listened, smiling all of the 1930.</span></p>

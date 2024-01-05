@@ -1,5 +1,7 @@
 # scarlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scarlet.md)
+
 <p><span class="chinese">他患了猩红热。</span><span class="english">He's got scarlet fever.</span></p>
 
 <p><span class="chinese">田野穿上绯红色的衣袍。</span><span class="english">The field a scarlet gown.</span></p>

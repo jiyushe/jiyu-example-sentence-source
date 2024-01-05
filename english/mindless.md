@@ -1,5 +1,7 @@
 # mindless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mindless.md)
+
 <p><span class="chinese">“这帮助你避免了漫不经心的咀嚼”，她说。</span><span class="english">"It'll help you avoid mindless munching," she said.</span></p>
 
 <p><span class="chinese">“这帮助你避免了漫不经心的咀嚼”，她说。</span><span class="english">"It'll help you avoid mindless munching, " she said.</span></p>

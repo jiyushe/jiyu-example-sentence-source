@@ -1,5 +1,7 @@
 # prevaricate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prevaricate.md)
+
 <p><span class="chinese">他的搪塞之词是有根源的。</span><span class="english">He had good reason to prevaricate.</span></p>
 
 <p><span class="chinese">不要告诉我你的爱是一个谎言。</span><span class="english">Don't tell me your love is a prevaricate.</span></p>

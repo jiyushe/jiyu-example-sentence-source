@@ -1,5 +1,7 @@
 # summerly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summerly.md)
+
 <p><span class="chinese">为什么西瓜是夏天才有的水果？</span><span class="english">Why is watermelon fruit of summerly talent some?</span></p>
 
 <p><span class="chinese">为什么一到夏天后手上就喜欢长水泡？</span><span class="english">Why to like to grow bleb to hand of summerly Queen of heaven?</span></p>

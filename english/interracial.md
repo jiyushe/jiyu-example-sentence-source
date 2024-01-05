@@ -1,5 +1,7 @@
 # interracial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interracial.md)
+
 <p><span class="chinese">你对不同种族间的人约会有什么看法？</span><span class="english">What’s your take on interracial dating?</span></p>
 
 <p><span class="chinese">看看美国有名的混血种族家庭。</span><span class="english">A look at famous interracial families in America.</span></p>

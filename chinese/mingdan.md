@@ -1,5 +1,7 @@
 # 名单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingdan.md)
+
 <p><span class="chinese">名单真长啊。</span><span class="english">The list is too long.</span></p>
 
 <p><span class="chinese">是否有候补名单？</span><span class="english">Is there a waiting list?</span></p>

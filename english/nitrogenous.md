@@ -1,5 +1,7 @@
 # nitrogenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitrogenous.md)
+
 <p><span class="chinese">尿素是三种含氮废物之一。</span><span class="english">Urea is one of the three nitrogenous waste products.</span></p>
 
 <p><span class="chinese">胚乳中还包含许多含氮化合物。</span><span class="english">The endosperm also contains a numbers of nitrogenous compounds.</span></p>

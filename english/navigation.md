@@ -1,5 +1,7 @@
 # navigation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/navigation.md)
+
 <p><span class="chinese">导航。</span><span class="english">Navigation.</span></p>
 
 <p><span class="chinese">重置导航系统。</span><span class="english">Reseting navigation systems.</span></p>

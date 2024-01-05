@@ -1,5 +1,7 @@
 # typhoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typhoon.md)
+
 <p><span class="chinese">说异色倒是有一点。</span><span class="english">There was a threat of typhoon.</span></p>
 
 <p><span class="chinese">台风的势头已经减弱了。</span><span class="english">The typhoon had spent its fury.</span></p>

@@ -1,5 +1,7 @@
 # 说闲话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuoxianhua.md)
+
 <p><span class="chinese">不要说闲话。</span><span class="english">Avoid gossip.</span></p>
 
 <p><span class="chinese">如果他们知道了，他们就会说闲话。</span><span class="english">If they learn of it,they will talk.</span></p>

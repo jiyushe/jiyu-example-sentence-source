@@ -1,5 +1,7 @@
 # discomfort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discomfort.md)
+
 <p><span class="chinese">响铃痛苦或难受。</span><span class="english">Bell pain or discomfort.</span></p>
 
 <p><span class="chinese">一种很奇怪的不适感。</span><span class="english">A very strange type of discomfort.</span></p>

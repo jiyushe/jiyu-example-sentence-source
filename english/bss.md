@@ -1,5 +1,7 @@
 # bss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bss.md)
+
 <p><span class="chinese">本文主要探讨和研究了单榀张弦梁结构的找形计算分析理论。</span><span class="english">This paper is mainly about the theory of form-finding of single BSS.</span></p>
 
 <p><span class="chinese">首先，根据张弦梁结构各构件的受力特点，选择C。</span><span class="english">Firstly, according to the mechanical characteristics of BSS members, C.</span></p>

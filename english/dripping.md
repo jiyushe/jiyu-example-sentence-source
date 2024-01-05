@@ -1,5 +1,7 @@
 # dripping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dripping.md)
+
 <p><span class="chinese">他在淌汗。</span><span class="english">He was dripping sweat.</span></p>
 
 <p><span class="chinese">树木在滴着水。</span><span class="english">The trees were dripping.</span></p>

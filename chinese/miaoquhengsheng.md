@@ -1,5 +1,7 @@
 # 妙趣横生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaoquhengsheng.md)
+
 <p><span class="chinese">意想不到的事情，总是妙趣横生。</span><span class="english">The unexpected is always fun!</span></p>
 
 <p><span class="chinese">他们如此高傲自大，但同时也妙趣横生。</span><span class="english">They are so cocky but also funny.</span></p>

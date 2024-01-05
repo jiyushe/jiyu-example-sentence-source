@@ -1,5 +1,7 @@
 # osaka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osaka.md)
+
 <p><span class="chinese">我想要两张去大胶的往返票。</span><span class="english">I'd like two round-trip tickets to Osaka.</span></p>
 
 <p><span class="chinese">探花来自大阪南部的堺市。</span><span class="english">No. 3 is from the seaport of Sakai, south of Osaka.</span></p>

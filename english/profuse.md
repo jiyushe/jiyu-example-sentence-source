@@ -1,5 +1,7 @@
 # profuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profuse.md)
+
 <p><span class="chinese">皮肤开始变得苍白，并且大量冒虚汗。</span><span class="english">Skin becomes pale with profuse sweating.</span></p>
 
 <p><span class="chinese">宽大的裙子被风吹得鼓鼓的。</span><span class="english">Her profuse skirt bosomed out with the gusts.</span></p>

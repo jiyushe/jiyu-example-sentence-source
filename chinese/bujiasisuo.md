@@ -1,5 +1,7 @@
 # 不假思索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujiasisuo.md)
+
 <p><span class="chinese">我不假思索地脱口而出。</span><span class="english">I blurted out unthinkingly.</span></p>
 
 <p><span class="chinese">她不假思索地行动。</span><span class="english">She acted in an off-hand way.</span></p>

@@ -1,5 +1,7 @@
 # diaper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diaper.md)
+
 <p><span class="chinese">宝宝尿湿提醒尿裤。</span><span class="english">Baby wet diaper pants reminded.</span></p>
 
 <p><span class="chinese">帮我换一下小孩的尿布好吗？</span><span class="english">Can you change the baby's diaper?</span></p>

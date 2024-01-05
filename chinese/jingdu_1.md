@@ -1,5 +1,7 @@
 # 精度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdu_1.md)
+
 <p><span class="chinese">孔位精度高，互换性好。</span><span class="english">Hole location is of high precision.</span></p>
 
 <p><span class="chinese">那么计时时我要达到怎样的精度？</span><span class="english">How accurate should I do the timing?</span></p>

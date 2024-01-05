@@ -1,5 +1,7 @@
 # alfa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alfa.md)
+
 <p><span class="chinese">真难想象一辆阿尔法罗密欧车在日本生产。</span><span class="english">It's hard to comprehend an Alfa Romeo being built in Japan.</span></p>
 
 <p><span class="chinese">这个版本，但是，回拒了之后，菲亚特的阿尔法罗密欧的控制。</span><span class="english">This version was, however, nixed after Fiat took control of Alfa Romeo.</span></p>

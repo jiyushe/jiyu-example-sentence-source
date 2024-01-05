@@ -1,5 +1,7 @@
 # inexpressible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexpressible.md)
+
 <p><span class="chinese">不可说，是世界的本源。</span><span class="english">Inexpressible is where the world emerges.</span></p>
 
 <p><span class="chinese">这样死去是种无法形容的恐怖！</span><span class="english">Inexpressible is the horror of dying thus!</span></p>

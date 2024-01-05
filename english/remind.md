@@ -1,5 +1,7 @@
 # remind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remind.md)
+
 <p><span class="chinese">是否还是一个回文呢？让我提醒你一下。</span><span class="english">Let me remind you.</span></p>
 
 <p><span class="chinese">提醒他们呼吸！</span><span class="english">Remind them to breathe!</span></p>

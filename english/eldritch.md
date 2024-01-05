@@ -1,5 +1,7 @@
 # eldritch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eldritch.md)
+
 <p><span class="chinese">神秘的力量起源于何方？</span><span class="english">What is the origin of this eldritch power?</span></p>
 
 <p><span class="chinese">邪术巨人是神秘奥术知识的强大传承者。</span><span class="english">Eldritch giants are powerful scions of arcane lore.</span></p>

@@ -1,5 +1,7 @@
 # hypoxemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypoxemia.md)
+
 <p><span class="chinese">低血氧症是较可靠及敏感的早期诊断指标。</span><span class="english">Hypoxemia is a reliable and sensitive index for its early diagnosis.</span></p>
 
 <p><span class="chinese">结果6例临床表现为咳嗽、气急、呼吸困难和低氧血征。</span><span class="english">Results These 6 cases all had cough, progressive dyspnea and hypoxemia.</span></p>

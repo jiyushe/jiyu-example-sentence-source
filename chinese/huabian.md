@@ -1,5 +1,7 @@
 # 花边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huabian.md)
+
 <p><span class="chinese">接待花边关闭。</span><span class="english">Front lace-up closure.</span></p>
 
 <p><span class="chinese">花边系统之上。</span><span class="english">Lace-up system on top.</span></p>

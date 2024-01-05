@@ -1,5 +1,7 @@
 # 厌食症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshizheng.md)
+
 <p><span class="chinese">她们每个人都有厌食症。</span><span class="english">Each of whom had been diagnosed anorexic.</span></p>
 
 <p><span class="chinese">别再想这减肥了.如果你继续这么做,你会得厌食症的.</span><span class="english">Sorry, I don’t get it. What are you doing?</span></p>

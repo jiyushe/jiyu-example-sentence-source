@@ -1,5 +1,7 @@
 # 倍数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beishu.md)
+
 <p><span class="chinese">并条机总牵伸倍数高。</span><span class="english">High total draft up to draw frame.</span></p>
 
 <p><span class="chinese">那商店出售高倍数远镜。</span><span class="english">The shop sells high-powered binoculars.</span></p>

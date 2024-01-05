@@ -1,5 +1,7 @@
 # hubei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hubei.md)
+
 <p><span class="chinese">我是湖北人。</span><span class="english">I come from Hubei Province.</span></p>
 
 <p><span class="chinese">1828年，一个湖北剧团来到北京。</span><span class="english">In 1828 a troupe of Hubei came to Beijing.</span></p>

@@ -1,5 +1,7 @@
 # hammered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hammered.md)
+
 <p><span class="chinese">我们用锤子把它敲平。</span><span class="english">We hammered it flat.</span></p>
 
 <p><span class="chinese">他用手敲打院门。</span><span class="english">He hammered at the door.</span></p>

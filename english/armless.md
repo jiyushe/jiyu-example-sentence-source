@@ -1,5 +1,7 @@
 # armless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armless.md)
+
 <p><span class="chinese">凳子就是既没有靠背又没有扶手的椅子。</span><span class="english">A stool is a backless and armless seat.</span></p>
 
 <p><span class="chinese">我把头靠在她的一侧，一次没有臂膀的拥抱，一个温馨的轻推。</span><span class="english">I pushed my head into her side, an armless hug, a reassuring nudge.</span></p>

@@ -1,5 +1,7 @@
 # 小萝卜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoluobo.md)
+
 <p><span class="chinese">加芥末酱和小萝卜会很美味。</span><span class="english">It tastes great with mustard and radish.</span></p>
 
 <p><span class="chinese">噢！加芥末酱和小萝卜会很美味的。</span><span class="english">Oh, it tastes great with mustard and radish.</span></p>

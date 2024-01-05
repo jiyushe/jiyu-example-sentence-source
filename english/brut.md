@@ -1,5 +1,7 @@
 # brut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brut.md)
+
 <p><span class="chinese">是很好的餐前开胃酒，非常适合庆典场合饮用。</span><span class="english">Brut is very good as an aperitif.</span></p>
 
 <p><span class="chinese">这确实是一款很有潜质的年份香槟。</span><span class="english">In a word, this Vintage Brut is a very promising wine.</span></p>

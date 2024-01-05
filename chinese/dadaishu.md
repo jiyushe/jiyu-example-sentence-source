@@ -1,5 +1,7 @@
 # 大袋鼠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadaishu.md)
+
 <p><span class="chinese">两个金属铆钉在大袋鼠口袋上。</span><span class="english">Two large kangaroo pockets with metal rivets.</span></p>
 
 <p><span class="chinese">为了研究大袋鼠，他来到了澳大利亚。</span><span class="english">So as to make a study on kangaroos, he came to Australia.</span></p>

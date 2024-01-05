@@ -1,5 +1,7 @@
 # 吐露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tulu.md)
+
 <p><span class="chinese">他向我吐露心事。</span><span class="english">He unburdened himself to me.</span></p>
 
 <p><span class="chinese">没错儿，那是吐露港。</span><span class="english">You're right, it's Tolo Harbor.</span></p>

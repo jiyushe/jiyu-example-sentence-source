@@ -1,5 +1,7 @@
 # 衡器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengqi.md)
+
 <p><span class="chinese">两个控制均衡器。</span><span class="english">Two equalizers for control.</span></p>
 
 <p><span class="chinese">内置3与低切滤波器频段均衡器。</span><span class="english">Built-in 3-band EQ with low-cut filter.</span></p>

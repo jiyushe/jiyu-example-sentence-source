@@ -1,5 +1,7 @@
 # 心眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyan.md)
+
 <p><span class="chinese">当心眼珠子！</span><span class="english">Beware of eye pupil son!</span></p>
 
 <p><span class="chinese">她没有一点坏心眼。</span><span class="english">She is not bad mind at all.</span></p>

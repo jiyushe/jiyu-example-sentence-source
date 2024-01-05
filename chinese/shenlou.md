@@ -1,5 +1,7 @@
 # 渗漏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenlou.md)
+
 <p><span class="chinese">厨房的洗碗盆渗漏。</span><span class="english">The kitchen sink leaks.</span></p>
 
 <p><span class="chinese">雨水从屋顶渗漏下来。</span><span class="english">The rain percolated through the roof.</span></p>

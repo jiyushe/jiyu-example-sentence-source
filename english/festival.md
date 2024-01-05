@@ -1,5 +1,7 @@
 # festival
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/festival.md)
+
 <p><span class="chinese">春节是什么时候？</span><span class="english">When is spring festival?</span></p>
 
 <p><span class="chinese">中秋节快乐.</span><span class="english">happy Mid-Autumn Festival.</span></p>

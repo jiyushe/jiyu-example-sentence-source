@@ -1,5 +1,7 @@
 # syncopation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syncopation.md)
+
 <p><span class="chinese">切分法</span><span class="english">Syncopation.</span></p>
 
 <p><span class="chinese">什么是切分音？</span><span class="english">What is syncopation?</span></p>

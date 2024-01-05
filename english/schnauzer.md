@@ -1,5 +1,7 @@
 # schnauzer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schnauzer.md)
+
 <p><span class="chinese">黑色迷你雪纳瑞价格是多少呢？</span><span class="english">Black Miniature Schnauzer How much is it?</span></p>
 
 <p><span class="chinese">裁判将开除任何对胆怯的狗和凶恶的狗。</span><span class="english">The judge shall dismiss from the ring any shy or vicious Giant Schnauzer.</span></p>

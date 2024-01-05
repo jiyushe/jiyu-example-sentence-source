@@ -1,5 +1,7 @@
 # bunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bunt.md)
+
 <p><span class="chinese">不要短打。</span><span class="english">Don’t bunt.</span></p>
 
 <p><span class="chinese">杰克极力用短打打出投手投出的快球。</span><span class="english">Jack managed to bunt the fastball.</span></p>

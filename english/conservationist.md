@@ -1,5 +1,7 @@
 # conservationist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conservationist.md)
+
 <p><span class="chinese">庆祝生命的末期保育和带有灵感的作家。</span><span class="english">Celebrates the life of the late conservationist and inspirational writer Roger Deakin.</span></p>
 
 <p><span class="chinese">他是一位环保人士，经常宣传和支持大自然保护事业。</span><span class="english">He is an environmental conservationist and often advocates and supports natural causes.</span></p>

@@ -1,5 +1,7 @@
 # 拈阄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianjiu_1.md)
+
 <p><span class="chinese">兵丁就拈阄分他的衣服。</span><span class="english">And they parted his raiment, and cast lots.</span></p>
 
 <p><span class="chinese">兵丁就拈阄分他的衣服。</span><span class="english">And they divided up his clothes by casting lots.</span></p>

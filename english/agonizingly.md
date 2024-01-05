@@ -1,5 +1,7 @@
 # agonizingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agonizingly.md)
+
 <p><span class="chinese">那只乌龟以让人难受的慢速度爬行着。</span><span class="english">The tortoise crept along at an agonizingly slow speed.</span></p>
 
 <p><span class="chinese">如果那是真的，刚才打那几下就会很痛的。</span><span class="english">If it were real, that would have been agonizingly painful.</span></p>

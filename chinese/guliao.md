@@ -1,5 +1,7 @@
 # 骨料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guliao.md)
+
 <p><span class="chinese">此面积的大小由骨料粒度决定。</span><span class="english">The aggregate size determines the area.</span></p>
 
 <p><span class="chinese">复合骨料系混凝土中的普通骨料被轻骨料取代而成。</span><span class="english">The composite aggregate is composed of LWA and normal aggregate.</span></p>

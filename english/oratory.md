@@ -1,5 +1,7 @@
 # oratory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oratory.md)
+
 <p><span class="chinese">他以其雄辩术唤起民众。</span><span class="english">He roused the masses with his oratory.</span></p>
 
 <p><span class="chinese">我佩服某些政治家的辩才。</span><span class="english">I admire the oratory of some politicians.</span></p>

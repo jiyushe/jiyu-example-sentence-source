@@ -1,5 +1,7 @@
 # cook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cook.md)
+
 <p><span class="chinese">现在我可以煮菜了。</span><span class="english">Now I can cook.</span></p>
 
 <p><span class="chinese">我是一个绝对的厨师。</span><span class="english">I’m a very cook.</span></p>

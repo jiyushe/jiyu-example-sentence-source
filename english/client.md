@@ -1,5 +1,7 @@
 # client 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/client.md)
+
 <p><span class="chinese">创建客户机密钥库。</span><span class="english">Create client keystore.</span></p>
 
 <p><span class="chinese">那你的客户呢？</span><span class="english">What about your client?</span></p>

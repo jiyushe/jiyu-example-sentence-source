@@ -1,5 +1,7 @@
 # horeb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horeb.md)
+
 <p><span class="chinese">耶和华我们的神在何烈山与我们立约。</span><span class="english">The LORD our God made a covenant with us at Horeb.</span></p>
 
 <p><span class="chinese">上主我们的天主在曷勒布与我们立了约。</span><span class="english">The Lord our God made a covenant with us in Horeb.</span></p>

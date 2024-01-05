@@ -1,5 +1,7 @@
 # 羞怯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuqie.md)
+
 <p><span class="chinese">很多人摆脱了羞怯。</span><span class="english">Many outgrow their shyness.</span></p>
 
 <p><span class="chinese">羞怯是脱贫之敌。</span><span class="english">Bashfulness is an enemy to poverty.</span></p>

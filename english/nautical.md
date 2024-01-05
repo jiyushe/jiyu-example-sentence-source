@@ -1,5 +1,7 @@
 # nautical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nautical.md)
+
 <p><span class="chinese">在上一期中我谈到了海里和节。</span><span class="english">Yesterday I talked of nautical miles and knots.</span></p>
 
 <p><span class="chinese">急停车时纵移量2海里，横移3度。</span><span class="english">Advance 2 nautical miles transfer distance 3 degrees.</span></p>

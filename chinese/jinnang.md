@@ -1,5 +1,7 @@
 # 锦囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinnang.md)
+
 <p><span class="chinese">送上17个安全管理小锦囊，供您参考。</span><span class="english">Send 17 safety management tips for your reference.</span></p>
 
 <p><span class="chinese">当他们是一个有影响力的个人的锦囊团。</span><span class="english">Think of them as an influential, personal support team.</span></p>

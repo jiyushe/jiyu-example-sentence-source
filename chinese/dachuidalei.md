@@ -1,5 +1,7 @@
 # 大吹大擂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachuidalei.md)
+
 <p><span class="chinese">他总是大吹大擂他过去的记录。</span><span class="english">He always brage about his past record.</span></p>
 
 <p><span class="chinese">尽管他大吹大擂，但他还是个胆小鬼。</span><span class="english">With all his boasting, he is a coward.</span></p>

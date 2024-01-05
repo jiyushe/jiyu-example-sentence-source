@@ -1,5 +1,7 @@
 # 活该
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huogai.md)
+
 <p><span class="chinese">麦克和他的兄弟活该。</span><span class="english">Mike and his brother deserve it.</span></p>
 
 <p><span class="chinese">你他妈的活该你就是他妈的活该！</span><span class="english">You did fucking deserve it, you fucking sket !</span></p>

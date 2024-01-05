@@ -1,5 +1,7 @@
 # protractor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protractor.md)
+
 <p><span class="chinese">是一个带有很多同心圆的量角器。</span><span class="english">A protractor with many co-centre circles.</span></p>
 
 <p><span class="chinese">抱歉先生，这个量角器是怎么读的？</span><span class="english">Excuse me, sir. What does this protractor read?</span></p>

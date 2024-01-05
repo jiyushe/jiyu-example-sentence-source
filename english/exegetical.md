@@ -1,5 +1,7 @@
 # exegetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exegetical.md)
+
 <p><span class="chinese">再次重申，讲道不可能包括解经查考的所有内容。</span><span class="english">Again, it will be impossible to include everything from the exegetical study.</span></p>
 
 <p><span class="chinese">这些是约翰福音的研究者,争论很多的一些注解性问题。</span><span class="english">These are big exegetical problems that the Gospel of John poses and scholars argue about.</span></p>

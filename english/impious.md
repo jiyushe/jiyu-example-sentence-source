@@ -1,5 +1,7 @@
 # impious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impious.md)
+
 <p><span class="chinese">不虔诚的基督徒会受上帝惩罚吗？</span><span class="english">The quality or state of being impious.</span></p>
 
 <p><span class="chinese">不虔诚不虔诚的状态或性质。</span><span class="english">The quality or state of being impious.</span></p>

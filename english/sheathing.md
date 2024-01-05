@@ -1,5 +1,7 @@
 # sheathing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheathing.md)
+
 <p><span class="chinese">修正了拳套武器不正常遮罩的错误。</span><span class="english">Fixed an issue where Fist weapons were sheathing improperly.</span></p>
 
 <p><span class="chinese">国王点了点头，把剑插回到鞘里，士兵们赶紧走上来开枷锁。</span><span class="english">The king nodded, sheathing his blade, and they hurried over.</span></p>

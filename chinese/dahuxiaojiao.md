@@ -1,5 +1,7 @@
 # 大呼小叫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahuxiaojiao.md)
+
 <p><span class="chinese">请你们不要大呼小叫了，马刺的球迷们。</span><span class="english">Please don't Spurs fans.</span></p>
 
 <p><span class="chinese">但下次我要你不要喝酒的时候你别对我大呼小叫。</span><span class="english">But don't yell at me next time I tell you to stop drinking.</span></p>

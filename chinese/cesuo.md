@@ -1,5 +1,7 @@
 # 厕所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cesuo.md)
+
 <p><span class="chinese">堆肥厕所。</span><span class="english">Composting toilets.</span></p>
 
 <p><span class="chinese">厕所在哪里？</span><span class="english">Where's the lavatory?</span></p>

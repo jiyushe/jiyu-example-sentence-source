@@ -1,5 +1,7 @@
 # coccus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coccus.md)
+
 <p><span class="chinese">淋球菌是一种细菌。</span><span class="english">Drench coccus is a kind of bacterium.</span></p>
 
 <p><span class="chinese">金黄色葡萄球菌感染现在有治愈的机会吗?。</span><span class="english">Does infection of coccus of golden yellow grape have cured opportunity now?</span></p>

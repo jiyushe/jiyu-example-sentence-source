@@ -1,5 +1,7 @@
 # 赤膊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chibo.md)
+
 <p><span class="chinese">图为一男子赤膊走在“城中村”在一个小巷。</span><span class="english">Pictured is a male shirtless walk in the "Villages" in an alley.</span></p>
 
 <p><span class="chinese">个人而言，对于那些大热天赤膊跑步者我没什么意见。</span><span class="english">Personally, I don't have a problem with shirtless runners in the hot weather.</span></p>

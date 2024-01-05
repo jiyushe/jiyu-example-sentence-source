@@ -1,5 +1,7 @@
 # coronal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coronal.md)
+
 <p><span class="chinese">这被称为日冕物质抛射。</span><span class="english">These are called coronal mass ejections.</span></p>
 
 <p><span class="chinese">垂体CT为冠状位增强扫描。</span><span class="english">The pituitary CT was coronal strengthen scanning.</span></p>

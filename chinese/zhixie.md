@@ -1,5 +1,7 @@
 # 致谢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixie.md)
+
 <p><span class="chinese">最后是本文的致谢。</span><span class="english">Finally, thanks to this article.</span></p>
 
 <p><span class="chinese">南希微笑着向男管家致谢。</span><span class="english">Nancy smiled and thanked the butler.</span></p>

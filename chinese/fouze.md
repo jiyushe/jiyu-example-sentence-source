@@ -1,5 +1,7 @@
 # 否则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fouze.md)
+
 <p><span class="chinese">不许动！否则我开枪了！</span><span class="english">Freeze or I 'll shoot!</span></p>
 
 <p><span class="chinese">否则，登录失败。</span><span class="english">Otherwise, login fails.</span></p>

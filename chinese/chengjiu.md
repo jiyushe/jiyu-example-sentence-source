@@ -1,5 +1,7 @@
 # 成就
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengjiu.md)
+
 <p><span class="chinese">什么成就？</span><span class="english">What achievement?</span></p>
 
 <p><span class="chinese">才有了今天的成就。</span><span class="english">That's how we got here.</span></p>

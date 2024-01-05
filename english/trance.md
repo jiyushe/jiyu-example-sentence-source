@@ -1,5 +1,7 @@
 # trance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trance.md)
+
 <p><span class="chinese">你在书里讨论的有关“食物催眠”究竟是什么？</span><span class="english">What is a food trance?</span></p>
 
 <p><span class="chinese">他看上去有点神思恍惚。</span><span class="english">He seemed to be in a trance.</span></p>

@@ -1,5 +1,7 @@
 # opiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opiate.md)
+
 <p><span class="chinese">购物中心现在成了大众的镇痛剂。</span><span class="english">The shopping mall is now the opiate of the masses.</span></p>
 
 <p><span class="chinese">看它露水一般微弱的朦朦雾气，从黄金轮廓中散发出来。</span><span class="english">An opiate vapor, dewy, dim, Exhales from out her golden rim.</span></p>

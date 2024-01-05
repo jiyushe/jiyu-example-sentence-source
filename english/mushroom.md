@@ -1,5 +1,7 @@
 # mushroom 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mushroom.md)
+
 <p><span class="chinese">瞅瞅我又变蘑菇了！</span><span class="english">Me a mushroom now!</span></p>
 
 <p><span class="chinese">香菇切成小粒。</span><span class="english">Finely chop the mushroom.</span></p>

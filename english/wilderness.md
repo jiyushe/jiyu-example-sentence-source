@@ -1,5 +1,7 @@
 # wilderness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wilderness.md)
+
 <p><span class="chinese">那路是旷野。</span><span class="english">This is a wilderness road.</span></p>
 
 <p><span class="chinese">我们有土地，也有荒野。</span><span class="english">You have land and wilderness.</span></p>

@@ -1,5 +1,7 @@
 # pseudomonas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pseudomonas.md)
+
 <p><span class="chinese">但对绿脓杆菌未形成抑菌环。</span><span class="english">But the Pseudomonas aeruginosa has not formed antibiotics.</span></p>
 
 <p><span class="chinese">冷却肉上的初始菌相中以假单胞菌属为优势菌。</span><span class="english">The dominant bacteria in the initial count was Pseudomonas.</span></p>

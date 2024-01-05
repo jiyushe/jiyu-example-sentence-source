@@ -1,5 +1,7 @@
 # samurai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samurai.md)
+
 <p><span class="chinese">我是蓝武士阿啾！</span><span class="english">I'm a blue samurai !</span></p>
 
 <p><span class="chinese">我曾经是一个叫“严流”的武士。</span><span class="english">I was a samurai named Ganryu.</span></p>

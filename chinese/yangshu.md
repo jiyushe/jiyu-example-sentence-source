@@ -1,5 +1,7 @@
 # 样书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangshu.md)
+
 <p><span class="chinese">这些样书打折扣出售。</span><span class="english">A sample piece of fabric.</span></p>
 
 <p><span class="chinese">请寄一本样书给我。</span><span class="english">Please send a sample copy to me.</span></p>

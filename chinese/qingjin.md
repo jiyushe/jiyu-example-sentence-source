@@ -1,5 +1,7 @@
 # 倾尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjin.md)
+
 <p><span class="chinese">我们会倾尽全力让你飞翔！</span><span class="english">We make every effort to let you fly!</span></p>
 
 <p><span class="chinese">倾尽全力地过你的生活。</span><span class="english">Give your all to the life that you live.</span></p>

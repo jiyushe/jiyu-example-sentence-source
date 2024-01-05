@@ -1,5 +1,7 @@
 # 使劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijin_1.md)
+
 <p><span class="chinese">他使劲地赶牛。</span><span class="english">He drove the ox hard.</span></p>
 
 <p><span class="chinese">我们使劲挤了出去。</span><span class="english">We muscled our way out.</span></p>

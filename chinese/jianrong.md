@@ -1,5 +1,7 @@
 # 兼容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianrong.md)
+
 <p><span class="chinese">什么是不兼容的？</span><span class="english">What's not compatible?</span></p>
 
 <p><span class="chinese">与大多数夹板系统兼容。</span><span class="english">Compatible with most cleat systems.</span></p>

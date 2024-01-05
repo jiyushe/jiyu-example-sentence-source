@@ -1,5 +1,7 @@
 # 一切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqie.md)
+
 <p><span class="chinese">一切都是梦！</span><span class="english">Only a dream!</span></p>
 
 <p><span class="chinese">一切准备好了，出发。</span><span class="english">All set to go.</span></p>

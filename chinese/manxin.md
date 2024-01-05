@@ -1,5 +1,7 @@
 # 满心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manxin.md)
+
 <p><span class="chinese">他们就满心大怒。</span><span class="english">They were furious.</span></p>
 
 <p><span class="chinese">我满心欢喜。</span><span class="english">I am bursting with joy.</span></p>

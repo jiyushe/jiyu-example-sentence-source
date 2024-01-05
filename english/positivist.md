@@ -1,5 +1,7 @@
 # positivist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/positivist.md)
+
 <p><span class="chinese">在这个积极的分析方法中，它们是相同的。</span><span class="english">In the positivist approach, they are the same.</span></p>
 
 <p><span class="chinese">实证法学者肯定会得出不存在法律的结论。</span><span class="english">The positivist must then conclude that there is no law.</span></p>

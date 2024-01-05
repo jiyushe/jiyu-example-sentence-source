@@ -1,5 +1,7 @@
 # pickpocket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pickpocket.md)
+
 <p><span class="chinese">他们捉住一个扒手。</span><span class="english">They took up a pickpocket.</span></p>
 
 <p><span class="chinese">一个扒手偷走了他的手表。</span><span class="english">A pickpocket stole his watch.</span></p>

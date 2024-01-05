@@ -1,5 +1,7 @@
 # 猕猴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mihou.md)
+
 <p><span class="chinese">猕猴如此，人类又何尝不经受着同样的问题。</span><span class="english">And as with monkeys, so with humans.</span></p>
 
 <p><span class="chinese">请勿喂食猕猴及其它野生动物。</span><span class="english">Do not feed macaques and wild animals.</span></p>

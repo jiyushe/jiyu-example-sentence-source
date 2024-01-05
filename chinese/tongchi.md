@@ -1,5 +1,7 @@
 # 痛斥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongchi.md)
+
 <p><span class="chinese">他就是因水门事件而被痛斥的。</span><span class="english">He is reviled for his Watergate lies.</span></p>
 
 <p><span class="chinese">又或，他是否忿然痛斥百姓一顿？</span><span class="english">Did he turn on the people and scold them?</span></p>

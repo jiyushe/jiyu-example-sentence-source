@@ -1,5 +1,7 @@
 # feedback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feedback.md)
+
 <p><span class="chinese">籍此获得反馈和想法。</span><span class="english">Get feedback and get ideas.</span></p>
 
 <p><span class="chinese">请分享你的反馈。</span><span class="english">Please share your feedback.</span></p>

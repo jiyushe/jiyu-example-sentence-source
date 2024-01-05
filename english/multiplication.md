@@ -1,5 +1,7 @@
 # multiplication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiplication.md)
+
 <p><span class="chinese">我们已经看到了。</span><span class="english">I can do multiplication.</span></p>
 
 <p><span class="chinese">组合是乘法.</span><span class="english">Composition is multiplication.</span></p>

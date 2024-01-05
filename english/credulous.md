@@ -1,5 +1,7 @@
 # credulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/credulous.md)
+
 <p><span class="chinese">骗子寻寻无正轻信的玩家。</span><span class="english">Crook find no is credulous game player.</span></p>
 
 <p><span class="chinese">一个轻信的父亲，一个忠厚的哥哥。</span><span class="english">EDM A credulous father, and a brother noble.</span></p>

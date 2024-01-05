@@ -1,5 +1,7 @@
 # fondue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fondue.md)
+
 <p><span class="chinese">我们可以吃鸳鸯火锅。</span><span class="english">We can eat a Chinese Fondue.</span></p>
 
 <p><span class="chinese">为荷兰草莓准备好巧克力干酪</span><span class="english">Prepare strawberries with fondue chocolate.</span></p>

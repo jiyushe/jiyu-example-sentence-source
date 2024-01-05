@@ -1,5 +1,7 @@
 # magnetopause
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetopause.md)
+
 <p><span class="chinese">这种方法本身与磁层顶的法线方向无关。</span><span class="english">This method itself is independent of the normal directions on the magnetopause.</span></p>
 
 <p><span class="chinese">磁层顶边界层可以看作是受到非均匀太阳风动压冲击的边界层。</span><span class="english">Magnetopause boundary layer is always impacted by the solar wind from the bow shock.</span></p>

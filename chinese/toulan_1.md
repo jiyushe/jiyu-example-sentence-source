@@ -1,5 +1,7 @@
 # 投篮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toulan_1.md)
+
 <p><span class="chinese">我投篮技术很好。</span><span class="english">I shoot very well.</span></p>
 
 <p><span class="chinese">他投篮，但球没进。</span><span class="english">He shot, but missed it.</span></p>

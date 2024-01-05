@@ -1,5 +1,7 @@
 # dst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dst.md)
+
 <p><span class="chinese">DST的成功引来许多模仿者。</span><span class="english">However DST fares, it seems to attract copycats.</span></p>
 
 <p><span class="chinese">控制系统可直接读取百灵达、田岛花样。</span><span class="english">Control system can directly read the design of DST & DSB.</span></p>

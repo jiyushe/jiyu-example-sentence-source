@@ -1,5 +1,7 @@
 # cycle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cycle.md)
+
 <p><span class="chinese">我常骑自行车。</span><span class="english">I cycle a lot.</span></p>
 
 <p><span class="chinese">景气状况周期性地出现。</span><span class="english">Booms run in cycle.</span></p>

@@ -1,5 +1,7 @@
 # 交割
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoge.md)
+
 <p><span class="chinese">无本金交割合同中的结算货币是美元。</span><span class="english">Non-deliverable contracts are settled in dollars.</span></p>
 
 <p><span class="chinese">不可交割合约以美元结算。</span><span class="english">Non- deliverable contracts are settled in dollars.</span></p>

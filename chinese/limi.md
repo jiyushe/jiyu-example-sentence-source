@@ -1,5 +1,7 @@
 # 厘米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/limi.md)
+
 <p><span class="chinese">她的身高是165厘米。</span><span class="english">Her height is 165 cm.</span></p>
 
 <p><span class="chinese">我的父亲是180厘米高。</span><span class="english">My father is 180cm tall.</span></p>

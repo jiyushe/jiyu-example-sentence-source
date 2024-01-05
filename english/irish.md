@@ -1,5 +1,7 @@
 # irish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irish.md)
+
 <p><span class="chinese">一个爱尔兰的爵士迷！</span><span class="english">An Irish hipster!</span></p>
 
 <p><span class="chinese">但是我喜欢爱尔兰咖啡。</span><span class="english">But I love Irish coffee.</span></p>

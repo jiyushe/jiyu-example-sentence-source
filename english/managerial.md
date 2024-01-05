@@ -1,5 +1,7 @@
 # managerial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/managerial.md)
+
 <p><span class="chinese">她有没有什么管理经验？</span><span class="english">Does she have any managerial experience?</span></p>
 
 <p><span class="chinese">他们最需要的是管理人才。</span><span class="english">What they need most is managerial talent.</span></p>

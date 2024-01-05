@@ -1,5 +1,7 @@
 # 争艳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengyan.md)
+
 <p><span class="chinese">这是争艳彩池。</span><span class="english">Here is the Zhengyan Pool.</span></p>
 
 <p><span class="chinese">那儿的山花在春光中争艳</span><span class="english">There, when the turf in springtime flowers</span></p>

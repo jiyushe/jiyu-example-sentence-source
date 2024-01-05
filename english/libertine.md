@@ -1,5 +1,7 @@
 # libertine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libertine.md)
+
 <p><span class="chinese">我相信约翰不再是个浪子了。</span><span class="english">I believe John is not a libertine any more.</span></p>
 
 <p><span class="chinese">从自由不羁到一本正经，这样的转变实在是太彻底了。</span><span class="english">The transition from libertine to prig was so complete.</span></p>

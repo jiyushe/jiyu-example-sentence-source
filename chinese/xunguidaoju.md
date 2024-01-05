@@ -1,5 +1,7 @@
 # 循规蹈矩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunguidaoju.md)
+
 <p><span class="chinese">您尽可以把我想象成一个循规蹈矩的人。</span><span class="english">You can think I'm a wimp if you want.</span></p>
 
 <p><span class="chinese">变成一个循规蹈矩的人有其好处。</span><span class="english">Being a serious person has its benefits.</span></p>

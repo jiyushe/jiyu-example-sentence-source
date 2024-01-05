@@ -1,5 +1,7 @@
 # remand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remand.md)
+
 <p><span class="chinese">他从青少年拘留所潜逃了。</span><span class="english">He absconded from a remand home.</span></p>
 
 <p><span class="chinese">我们可以探索任何产品的押。</span><span class="english">We can explore any product of your remand.</span></p>

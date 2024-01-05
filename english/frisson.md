@@ -1,5 +1,7 @@
 # frisson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frisson.md)
+
 <p><span class="chinese">他心里有掠过一阵激动。</span><span class="english">Again a frisson of excitement swept through his heart.</span></p>
 
 <p><span class="chinese">多元文化的颤抖不过是一个快乐的副产品。</span><span class="english">The multicultural frisson is no more than a happy by-product.</span></p>

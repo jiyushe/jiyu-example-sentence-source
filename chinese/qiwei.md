@@ -1,5 +1,7 @@
 # 奇伟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiwei.md)
+
 <p><span class="chinese">是时候啦，夏季的光热多奇伟。</span><span class="english">Lord, it is time. This was a very big summer.</span></p>
 
 <p><span class="chinese">安定山瀑布奇伟壮不雅，上细中粗。</span><span class="english">Kiwi Peak spectacular waterfall, the fine in the rough.</span></p>

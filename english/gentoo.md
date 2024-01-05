@@ -1,5 +1,7 @@
 # gentoo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentoo.md)
+
 <p><span class="chinese">屈维维尔岛上住满着巴布亚企鹅。</span><span class="english">Cuverville Island was covered with gentoo penguins.</span></p>
 
 <p><span class="chinese">它们同南极洲的企鹅不一样，比较喜欢温带气候。</span><span class="english">Unlike true Antarctic penguins the gentoo prefers more temperate climes.</span></p>

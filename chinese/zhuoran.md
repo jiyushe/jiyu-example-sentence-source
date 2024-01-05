@@ -1,5 +1,7 @@
 # 卓然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoran.md)
+
 <p><span class="chinese">艺术之苗，卓然成长。</span><span class="english">Art Miller, stand growth.</span></p>
 
 <p><span class="chinese">在激烈的市场竞争中卓然超群。</span><span class="english">In the fierce competition in the market Zoran Maria.</span></p>

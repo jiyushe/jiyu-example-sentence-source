@@ -1,5 +1,7 @@
 # martingale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/martingale.md)
+
 <p><span class="chinese">鞅家伙是结束在基地附近的船首斜桅帽。</span><span class="english">The martingale guy was snapped at the base near the bowsprit cap.</span></p>
 
 <p><span class="chinese">这一系统被称为鞅系统，它已经存在多年。</span><span class="english">This system that is called the Martingale system and it has been around for years.</span></p>

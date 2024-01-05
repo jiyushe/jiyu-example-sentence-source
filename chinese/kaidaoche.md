@@ -1,5 +1,7 @@
 # 开倒车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaidaoche.md)
+
 <p><span class="chinese">船开倒车。</span><span class="english">The boat moved astern.</span></p>
 
 <p><span class="chinese">我的机器正在开倒车。</span><span class="english">My engines are going astern.</span></p>

@@ -1,5 +1,7 @@
 # ritually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ritually.md)
+
 <p><span class="chinese">首先要清洗尸体，并且仪式性的净化尸体。</span><span class="english">First, the body was washed and ritually purified.</span></p>
 
 <p><span class="chinese">受害者通常在遭受仪式性的折磨之后被残酷杀害。</span><span class="english">The killings are brutal, with victims ritually tortured.</span></p>

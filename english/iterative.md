@@ -1,5 +1,7 @@
 # iterative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iterative.md)
+
 <p><span class="chinese">但是在这个问题里。</span><span class="english">Whether it was recursive or iterative.</span></p>
 
 <p><span class="chinese">迭代剔除劣势策略</span><span class="english">Iterative Deletion of Dominated Strategies.</span></p>

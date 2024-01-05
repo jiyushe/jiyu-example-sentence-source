@@ -1,5 +1,7 @@
 # protective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protective.md)
+
 <p><span class="chinese">玩家可以给角色装备防具。</span><span class="english">You can wear protective gear.</span></p>
 
 <p><span class="chinese">他哥哥保护意识很强。</span><span class="english">His brother is very protective.</span></p>

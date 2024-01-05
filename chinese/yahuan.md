@@ -1,5 +1,7 @@
 # 丫环
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yahuan.md)
+
 <p><span class="chinese">所以丫环下了决心，要放走乌龟。</span><span class="english">So the maid made up her mind and let the turtle go.</span></p>
 
 <p><span class="chinese">为什么丫环会例外地同情这只龟呢？</span><span class="english">Why did the maid feel sorry for this particular turtle?</span></p>

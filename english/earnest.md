@@ -1,5 +1,7 @@
 # earnest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earnest.md)
+
 <p><span class="chinese">他听不进你的忠言。</span><span class="english">He is deaf to your earnest advice.</span></p>
 
 <p><span class="chinese">戏弄他人而使其失去理性是无礼的。</span><span class="english">I do not banter you, I am in earnest.</span></p>

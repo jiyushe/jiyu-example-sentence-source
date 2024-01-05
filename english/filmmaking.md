@@ -1,5 +1,7 @@
 # filmmaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filmmaking.md)
+
 <p><span class="chinese">它像在电影摄制建身房。</span><span class="english">It's like being at filmmaking gym.</span></p>
 
 <p><span class="chinese">好莱坞依然会是电影制作中心。</span><span class="english">It will always be a filmmaking center.</span></p>

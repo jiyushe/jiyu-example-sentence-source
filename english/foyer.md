@@ -1,5 +1,7 @@
 # foyer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foyer.md)
+
 <p><span class="chinese">我们肩并肩地坐着，然后去了休息室。</span><span class="english">We sat side by side, then went to the foyer.</span></p>
 
 <p><span class="chinese">让我们在珠宝戏院的休息室见面吧。</span><span class="english">Let's meet in the foyer of the Bijou Theater.</span></p>

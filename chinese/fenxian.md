@@ -1,5 +1,7 @@
 # 粉线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenxian.md)
+
 <p><span class="chinese">没错,就是绿线和粉线的交点</span><span class="english">All right, where the green and the pink line intersect.</span></p>
 
 <p><span class="chinese">为喷粉线的生产工艺、工艺过程和工装操作提供技术支持。</span><span class="english">Technical support to Production for painting methods , process, tools operations.</span></p>

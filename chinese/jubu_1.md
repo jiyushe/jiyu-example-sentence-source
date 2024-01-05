@@ -1,5 +1,7 @@
 # 局部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jubu_1.md)
+
 <p><span class="chinese">第二，许多嫉妒只是局部范围的。</span><span class="english">Second, a lot of envy is local.</span></p>
 
 <p><span class="chinese">局部可见粉红色类骨质。</span><span class="english">Focally, pink osteoid is present.</span></p>

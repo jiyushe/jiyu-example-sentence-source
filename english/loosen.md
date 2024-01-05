@@ -1,5 +1,7 @@
 # loosen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loosen.md)
+
 <p><span class="chinese">你刷牙的时候牙龈出血吗？</span><span class="english">Do you have any loosen teeth?</span></p>
 
 <p><span class="chinese">放松压紧螺帽工具。</span><span class="english">Loosen the compression nut tool.</span></p>

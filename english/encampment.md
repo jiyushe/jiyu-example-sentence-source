@@ -1,5 +1,7 @@
 # encampment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encampment.md)
+
 <p><span class="chinese">今天是设营第七天了——他们有自己的协会会议。</span><span class="english">It's Day Seven of the encampment -- they have AA meetings.</span></p>
 
 <p><span class="chinese">回神君，已经安排到营地。</span><span class="english">Return to utter being marquis, have yet sorted encampment.</span></p>

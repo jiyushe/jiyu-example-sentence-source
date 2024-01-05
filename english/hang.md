@@ -1,5 +1,7 @@
 # hang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hang.md)
+
 <p><span class="chinese">全靠你啦!</span><span class="english">All hang on you!</span></p>
 
 <p><span class="chinese">他们应当被绞死。</span><span class="english">They should hang.</span></p>

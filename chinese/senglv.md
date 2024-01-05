@@ -1,5 +1,7 @@
 # 僧侣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/senglv.md)
+
 <p><span class="chinese">僧侣手抄书籍。</span><span class="english">Monks copied books by hand.</span></p>
 
 <p><span class="chinese">僧袍不能使人成为僧侣。</span><span class="english">The cowl does not make the monk.</span></p>

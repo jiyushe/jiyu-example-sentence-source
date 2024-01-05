@@ -1,5 +1,7 @@
 # burmese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burmese.md)
+
 <p><span class="chinese">这个缅甸的边境城市到处都是黑帮。</span><span class="english">This is a gang-plagued Burmese border city.</span></p>
 
 <p><span class="chinese">缅甸语是缅甸的官方语言。</span><span class="english">Burmese is the official language of Myanmar.</span></p>

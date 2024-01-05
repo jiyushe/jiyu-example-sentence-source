@@ -1,5 +1,7 @@
 # friendliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/friendliness.md)
+
 <p><span class="chinese">一种睦邻友善之举。</span><span class="english">A sort of neighbourly friendliness.</span></p>
 
 <p><span class="chinese">他友善的微笑很快造成了友好的气氛。</span><span class="english">His kind smile soon generated friendliness.</span></p>

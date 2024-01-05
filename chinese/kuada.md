@@ -1,5 +1,7 @@
 # 夸大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuada.md)
+
 <p><span class="chinese">危险性被夸大了。</span><span class="english">The danger is overstated.</span></p>
 
 <p><span class="chinese">他们试图夸大金币的投资价值来转手</span><span class="english">They're trying to oversell.</span></p>

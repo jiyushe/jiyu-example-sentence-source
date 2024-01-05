@@ -1,5 +1,7 @@
 # conjuring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjuring.md)
+
 <p><span class="chinese">他擅长用银币变戏法。</span><span class="english">He is good at conjuring with silver coins.</span></p>
 
 <p><span class="chinese">你可以轻松的制造并且喝水在1个键上靠逻辑点击。</span><span class="english">You can condense conjuring and drinking onto a single button using click-logic.</span></p>

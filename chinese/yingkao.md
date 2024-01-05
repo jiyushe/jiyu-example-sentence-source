@@ -1,5 +1,7 @@
 # 应考
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingkao.md)
+
 <p><span class="chinese">应考的人很多。</span><span class="english">Many sat for the examination.</span></p>
 
 <p><span class="chinese">我做的一切就是学习和应考。</span><span class="english">All I is study and take exams.</span></p>

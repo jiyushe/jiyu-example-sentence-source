@@ -1,5 +1,7 @@
 # wherein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wherein.md)
+
 <p><span class="chinese">这跳蚤又是何罪之有呢？</span><span class="english">Wherein could this flea guilty be.</span></p>
 
 <p><span class="chinese">你们却说，你在何事上爱我们呢。</span><span class="english">Yet ye say, Wherein hast thou loved us?</span></p>

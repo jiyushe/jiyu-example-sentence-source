@@ -1,5 +1,7 @@
 # 拨付
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bofu.md)
+
 <p><span class="chinese">第二十四条合同款拨付。</span><span class="english">Twenty-fourth contract payment.</span></p>
 
 <p><span class="chinese">郑女士说，政府还需要拨付更多。</span><span class="english">It needs to provide more, Ms Zheng says.</span></p>

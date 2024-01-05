@@ -1,5 +1,7 @@
 # slick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slick.md)
+
 <p><span class="chinese">哈哈，但不会滑头。</span><span class="english">Haha, but not slick.</span></p>
 
 <p><span class="chinese">别被这个狡猾的忍者所愚弄！</span><span class="english">Do not be fooled by this slick ninja!</span></p>

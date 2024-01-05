@@ -1,5 +1,7 @@
 # 子时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishi_2.md)
+
 <p><span class="chinese">戊子年腊月第一天，子时！</span><span class="english">The first day to my space !</span></p>
 
 <p><span class="chinese">当绳子勾住房子时，它真的很糟。</span><span class="english">It's actually worse when the ropes have struck home.</span></p>

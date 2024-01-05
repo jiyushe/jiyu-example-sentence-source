@@ -1,5 +1,7 @@
 # neurotrophic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurotrophic.md)
+
 <p><span class="chinese">一旦产生严重的神经失养性角膜溃疡，角膜伤口的愈合将非常缓慢。</span><span class="english">Once the neurotrophic ulcer is fully established, the healing would be slow.</span></p>
 
 <p><span class="chinese">从鸡胚内提取具有神经营养生物活性的组分。</span><span class="english">To extract neurotrophic active substance from chicken embryo and study their bioactivity.</span></p>

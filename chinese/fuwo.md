@@ -1,5 +1,7 @@
 # 俯卧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuwo.md)
+
 <p><span class="chinese">叫他俯卧着。</span><span class="english">Tell him to bung upwards.</span></p>
 
 <p><span class="chinese">一只鹿俯卧在草堤上。</span><span class="english">A deer couched on a grassy bank.</span></p>

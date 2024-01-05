@@ -1,5 +1,7 @@
 # fifa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fifa.md)
+
 <p><span class="chinese">他能把国际足联变成家彩票店吗？</span><span class="english">Can he turn FIFA into a bookie's shop?</span></p>
 
 <p><span class="chinese">只有国际足联才有权取得该银行保函。</span><span class="english">Only FIFA has access to this bankguarantee.</span></p>

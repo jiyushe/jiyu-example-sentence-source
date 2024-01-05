@@ -1,5 +1,7 @@
 # 兴头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingtou.md)
+
 <p><span class="chinese">她对体育活动兴头很大。</span><span class="english">She is very keen on sport.</span></p>
 
 <p><span class="chinese">与人争辩正在兴头，你突然尖叫一声，“等一下！</span><span class="english">You suddenly shout, “Wait!</span></p>

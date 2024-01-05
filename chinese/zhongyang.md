@@ -1,5 +1,7 @@
 # 中央
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyang.md)
+
 <p><span class="chinese">在中央大街吗？</span><span class="english">On Main Street?</span></p>
 
 <p><span class="chinese">顺着中央大街走。</span><span class="english">Follow Main Street.</span></p>

@@ -1,5 +1,7 @@
 # 时常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichang_1.md)
+
 <p><span class="chinese">不但如此，我还时常和她讲话。</span><span class="english">I also talk to her.</span></p>
 
 <p><span class="chinese">时常是这样的。</span><span class="english">Time to time, yeah.</span></p>

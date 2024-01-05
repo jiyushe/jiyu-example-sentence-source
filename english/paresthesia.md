@@ -1,5 +1,7 @@
 # paresthesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paresthesia.md)
+
 <p><span class="chinese">最常发生的不良反应是感觉异常。</span><span class="english">The most frequent side effect was paresthesia.</span></p>
 
 <p><span class="chinese">术后并无神经麻木及感染现象，亦无张口受限情况。</span><span class="english">There was no paresthesia , infection, or limitation of mouth opening after surgery.</span></p>

@@ -1,5 +1,7 @@
 # overdid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overdid.md)
+
 <p><span class="chinese">你把鸡蛋煮得太老了。</span><span class="english">You  overdid the eggs.</span></p>
 
 <p><span class="chinese">他们当然过度报道了。</span><span class="english">Of course they overdid it.</span></p>

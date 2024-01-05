@@ -1,5 +1,7 @@
 # leukocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leukocyte.md)
+
 <p><span class="chinese">离氨酸、尿囊素、中性氨基酸。</span><span class="english">Leukocyte Extract, Allantoin, L-Lysine, Amino Caproic Acid.</span></p>
 
 <p><span class="chinese">离氨酸、尿囊素、中性氨基酸。</span><span class="english">Leukocyte Extract, Allantoin , L-Lysine, Amino Caproic Acid.</span></p>

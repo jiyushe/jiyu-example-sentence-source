@@ -1,5 +1,7 @@
 # adamancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adamancy.md)
+
 <p><span class="chinese">为何你是如此的坚强？</span><span class="english">Why are you so adamancy?</span></p>
 
 <p><span class="chinese">什么才是真正的坚强？</span><span class="english">What is just true adamancy?</span></p>

@@ -1,5 +1,7 @@
 # 器乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyue_1.md)
+
 <p><span class="chinese">现在换作了器乐。</span><span class="english">Instrumental now.</span></p>
 
 <p><span class="chinese">我妹妹想当一个器乐演奏家。</span><span class="english">My younger sister wants to be an instrumentalist.</span></p>

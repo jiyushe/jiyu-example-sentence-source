@@ -1,5 +1,7 @@
 # bitch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bitch.md)
+
 <p><span class="chinese">我就是你的小贱人。</span><span class="english">I am totally your bitch.</span></p>
 
 <p><span class="chinese">我也有张碧池脸诶！</span><span class="english">I have a bitch face too!</span></p>

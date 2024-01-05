@@ -1,5 +1,7 @@
 # 贴近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiejin.md)
+
 <p><span class="chinese">通俗歌曲相当贴近我们的现实生活。</span><span class="english">Pop songs are quite close to our real life.</span></p>
 
 <p><span class="chinese">舒适可拆洗坐垫，柔软的触觉更贴近宝宝。</span><span class="english">Soft quick detachable cushion can be washed.</span></p>

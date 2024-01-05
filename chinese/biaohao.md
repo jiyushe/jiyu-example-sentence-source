@@ -1,5 +1,7 @@
 # 标号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaohao.md)
+
 <p><span class="chinese">我方收到了标号为CL818的那批订货。</span><span class="english">We received our order No. CL 818 yesterday.</span></p>
 
 <p><span class="chinese">这个名字也可以是使用的方法标号。</span><span class="english">The name can also be the number of the method to use.</span></p>

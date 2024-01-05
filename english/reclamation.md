@@ -1,5 +1,7 @@
 # reclamation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reclamation.md)
+
 <p><span class="chinese">能对SF6电器开关的气体进行回收。</span><span class="english">Reclamation of the SF6 gas from the switch.</span></p>
 
 <p><span class="chinese">我哥哥在一个军垦农场任务。</span><span class="english">My brotIT stays on an Army reclamation farm.</span></p>

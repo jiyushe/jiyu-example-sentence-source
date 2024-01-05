@@ -1,5 +1,7 @@
 # kiribati
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiribati.md)
+
 <p><span class="chinese">基里巴斯的自然资源非常稀少。</span><span class="english">Kiribati has few natural resources.</span></p>
 
 <p><span class="chinese">基里巴斯预计人口达到103,000人。</span><span class="english">Kiribati has an estimated population of 103,000.</span></p>

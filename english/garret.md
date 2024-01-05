@@ -1,5 +1,7 @@
 # garret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garret.md)
+
 <p><span class="chinese">毫无疑问，他住在一间小阁楼上。</span><span class="english">No doubt he lived in a garret.</span></p>
 
 <p><span class="chinese">在过去的经验中我们每个人都有过海市蜃楼。</span><span class="english">We all have in our past a delightful garret.</span></p>

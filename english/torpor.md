@@ -1,5 +1,7 @@
 # torpor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torpor.md)
+
 <p><span class="chinese">这种决策上的迟缓可以追溯到多年前。</span><span class="english">The torpor dates back years.</span></p>
 
 <p><span class="chinese">一种冰凉的寒风使克莱尔从麻木状况中恢复过来。</span><span class="english">The shock of the icy air ended Claire's torpor.</span></p>

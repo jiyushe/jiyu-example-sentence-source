@@ -1,5 +1,7 @@
 # 逐鹿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhulu.md)
+
 <p><span class="chinese">我们还没定下举办演讲逐鹿的时间。</span><span class="english">We haudio-videoen't decided when to hold the speech contest.</span></p>
 
 <p><span class="chinese">我认为你们的产品可以使你们胜过逐鹿对手。</span><span class="english">The product gives you some edge over your competitors, I guess.</span></p>

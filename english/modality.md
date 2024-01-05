@@ -1,5 +1,7 @@
 # modality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modality.md)
+
 <p><span class="chinese">书籍形态设计是由书籍装帧设计演变而来的。</span><span class="english">Book modality from the book binding design evolved.</span></p>
 
 <p><span class="chinese">不同学者对于情态的分类也不同。</span><span class="english">Different scholars have made different classifications of modality.</span></p>

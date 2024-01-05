@@ -1,5 +1,7 @@
 # 打住
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhu.md)
+
 <p><span class="chinese">但是，就此打住！</span><span class="english">But hold it here!</span></p>
 
 <p><span class="chinese">我该就此打住了。</span><span class="english">I'm going to stop there.</span></p>

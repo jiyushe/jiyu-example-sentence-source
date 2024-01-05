@@ -1,5 +1,7 @@
 # 出土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chutu.md)
+
 <p><span class="chinese">小苗刚出土。</span><span class="english">The sprouts have just come up.</span></p>
 
 <p><span class="chinese">许多墓中都出土有竹弓。</span><span class="english">Bamboo bows were found in many tombs.</span></p>

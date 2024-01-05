@@ -1,5 +1,7 @@
 # percent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/percent.md)
+
 <p><span class="chinese">我百分百赞同。</span><span class="english">I agree one hundred percent.</span></p>
 
 <p><span class="chinese">我百分之百的肯定。</span><span class="english">I'm a hundred percent certain.</span></p>

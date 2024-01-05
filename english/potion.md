@@ -1,5 +1,7 @@
 # potion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potion.md)
+
 <p><span class="chinese">爱情是一副神造的。</span><span class="english">Love is a potion of philter God-made.</span></p>
 
 <p><span class="chinese">补充湿润剂，或检查药水。</span><span class="english">Added wetting agents, or check the potion.</span></p>

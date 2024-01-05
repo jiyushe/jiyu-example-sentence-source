@@ -1,5 +1,7 @@
 # 停产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingchan.md)
+
 <p><span class="chinese">LDV的工厂已于10个月前停产。</span><span class="english">Production at the LDV plant ceased 10 months ago.</span></p>
 
 <p><span class="chinese">对于工人来说，停产和裁员是灾难性的。</span><span class="english">For workers, the shutdowns and job losses are devastating.</span></p>

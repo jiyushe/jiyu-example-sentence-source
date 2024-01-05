@@ -1,5 +1,7 @@
 # 何以
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heyi.md)
+
 <p><span class="chinese">何以变卦?</span><span class="english">Why all this sudden change?</span></p>
 
 <p><span class="chinese">幸存者将何以果腹？</span><span class="english">What will the survivors eat?</span></p>

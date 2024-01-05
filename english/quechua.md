@@ -1,5 +1,7 @@
 # quechua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quechua.md)
+
 <p><span class="chinese">大多数工人是当地的盖丘亚族人。</span><span class="english">Most of the workers are indigenous Quechua people.</span></p>
 
 <p><span class="chinese">在克丘亚印地安语中，萨班卡亚是“火舌”的意思。</span><span class="english">The name Sabancaya means “tongue of fire” in the Quechua Indian language.</span></p>

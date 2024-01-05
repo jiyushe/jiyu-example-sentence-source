@@ -1,5 +1,7 @@
 # eradicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eradicate.md)
+
 <p><span class="chinese">而根除疟疾运动则未做到这一点。</span><span class="english">The campaign to eradicate malaria did not.</span></p>
 
 <p><span class="chinese">这些害虫，除治起来很困难。</span><span class="english">These pests are very difficult to eradicate.</span></p>

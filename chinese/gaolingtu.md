@@ -1,5 +1,7 @@
 # 高岭土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaolingtu.md)
+
 <p><span class="chinese">高岭土、芥子末等泥罨剂。</span><span class="english">A kaolin, mustard, ETC poultice.</span></p>
 
 <p><span class="chinese">同时，对高岭土有较高的除铁效率。</span><span class="english">Also, it has a higher iron-removal efficiency.</span></p>

@@ -1,5 +1,7 @@
 # minerva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minerva.md)
+
 <p><span class="chinese">智慧之神化身的猫头鹰是否真的只在黄昏翱翔？</span><span class="english">Does the owl of Minerva really fly only at dusk?</span></p>
 
 <p><span class="chinese">在朱诺、密涅瓦和维纳斯之间怎样才能做出选择呢？</span><span class="english">How could one choose among Juno, Minerva and Venus?</span></p>

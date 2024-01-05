@@ -1,5 +1,7 @@
 # hyphen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyphen.md)
+
 <p><span class="chinese">破折号比连字号长。</span><span class="english">The dash is longer than the hyphen.</span></p>
 
 <p><span class="chinese">在这样的单词中总是要使用连接号的。</span><span class="english">In such words a hyphen is always used.</span></p>

@@ -1,5 +1,7 @@
 # 中号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonghao.md)
+
 <p><span class="chinese">你是中号的。</span><span class="english">You're a medium.</span></p>
 
 <p><span class="chinese">这样的有中号的吗？</span><span class="english">Do you have this in medium ?</span></p>

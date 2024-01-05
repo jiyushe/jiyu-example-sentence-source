@@ -1,5 +1,7 @@
 # hydraulic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydraulic.md)
+
 <p><span class="chinese">手动或液压作业。</span><span class="english">Manual or hydraulic operation.</span></p>
 
 <p><span class="chinese">液压滚心轴夹紧。</span><span class="english">Hydraulic hob mandrel clamping.</span></p>

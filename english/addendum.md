@@ -1,5 +1,7 @@
 # addendum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addendum.md)
+
 <p><span class="chinese">文中补遗描述部分腕足类属种。</span><span class="english">This is an addendum to the book.</span></p>
 
 <p><span class="chinese">第三，对土地添附物进行保护。</span><span class="english">Third, protect land adding an addendum.</span></p>

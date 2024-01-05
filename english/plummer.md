@@ -1,5 +1,7 @@
 # plummer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plummer.md)
+
 <p><span class="chinese">我笔记上,写的是。</span><span class="english">I have in my notes here Christopher Plummer it was Christopher Plummer.</span></p>
 
 <p><span class="chinese">SNL立式轴承座是为自调心球轴承、球面滚子轴承和CARB轴承设计的。</span><span class="english">SNL plummer block housings are designed for self-aligning ball bearings, spherical roller bearings and CARB bearings.</span></p>

@@ -1,5 +1,7 @@
 # 随意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suiyi.md)
+
 <p><span class="chinese">他随意弹弄着吉他。</span><span class="english">He thrummed a guitar.</span></p>
 
 <p><span class="chinese">他生性十分随意</span><span class="english">He was very informal.</span></p>

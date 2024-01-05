@@ -1,5 +1,7 @@
 # 迅速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunsu.md)
+
 <p><span class="chinese">一条鱼迅速浮了上来。</span><span class="english">A fish bobbed up.</span></p>
 
 <p><span class="chinese">时间迅速流逝。</span><span class="english">Time ebbs away fast.</span></p>

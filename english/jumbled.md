@@ -1,5 +1,7 @@
 # jumbled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jumbled.md)
+
 <p><span class="chinese">宇宙过于杂乱无章，时间无法逆转？</span><span class="english">Universe Too Jumbled for Time to Reverse?</span></p>
 
 <p><span class="chinese">我手提箱里的一切都混在一起了。</span><span class="english">Everything in my suitcase was jumbled together.</span></p>

@@ -1,5 +1,7 @@
 # 墨盒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mohe.md)
+
 <p><span class="chinese">我为打印机购买新墨盒。</span><span class="english">I get new ink for the printer.</span></p>
 
 <p><span class="chinese">所有的机器都需要换新墨盒。</span><span class="english">All of the machines will need new cartridges.</span></p>

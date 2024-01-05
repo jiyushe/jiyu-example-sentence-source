@@ -1,5 +1,7 @@
 # 不过如此
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buguoruci.md)
+
 <p><span class="chinese">像我一样的教授也不过如此。</span><span class="english">I mean, professors like me.</span></p>
 
 <p><span class="chinese">群众的智慧也不过如此。</span><span class="english">So much for the wisdom of crowds.</span></p>

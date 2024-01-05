@@ -1,5 +1,7 @@
 # 八戒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bajie.md)
+
 <p><span class="chinese">八戒把你那颗手榴弹拿来。</span><span class="english">Pig bring you hand grenades are sinking.</span></p>
 
 <p><span class="chinese">八戒！不要忘了谁吃了最后一点食物！</span><span class="english">Baijie! Don't forget who ate my last meal!</span></p>

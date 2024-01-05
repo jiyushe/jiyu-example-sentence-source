@@ -1,5 +1,7 @@
 # song 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/song.md)
+
 <p><span class="chinese">一曲爱之旋律。</span><span class="english">A song of love.</span></p>
 
 <p><span class="chinese">记忆一首歌。</span><span class="english">Memorize a song.</span></p>

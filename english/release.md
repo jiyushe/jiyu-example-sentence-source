@@ -1,5 +1,7 @@
 # release
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/release.md)
+
 <p><span class="chinese">我和你解除婚约。</span><span class="english">I release you.</span></p>
 
 <p><span class="chinese">放松腹股沟。</span><span class="english">Release inner groins.</span></p>

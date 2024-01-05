@@ -1,5 +1,7 @@
 # backer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backer.md)
+
 <p><span class="chinese">将毛线剪为比圆直径约长1英寸的线段。</span><span class="english">Cut the yarn approx. 1″ longer than the diameter of your circle backer.</span></p>
 
 <p><span class="chinese">靠山山会倒，靠人人会跑，只有自己最可靠。</span><span class="english">Backer mountain would pour, by everybody will be run, only your most reliable.</span></p>

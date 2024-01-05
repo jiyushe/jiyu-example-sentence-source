@@ -1,5 +1,7 @@
 # shot 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shot.md)
+
 <p><span class="chinese">混蛋射击我！</span><span class="english">Varmint shot me!</span></p>
 
 <p><span class="chinese">谁想露一手？</span><span class="english">Who wants a shot?</span></p>

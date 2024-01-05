@@ -1,5 +1,7 @@
 # coupe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coupe.md)
+
 <p><span class="chinese">你他妈的在我车里干嘛？</span><span class="english">What the fuck are you doing in my coupe?</span></p>
 
 <p><span class="chinese">在这里梅赛德斯-奔驰有新的C级轿车。</span><span class="english">Mercedes Benz has the new C Class coupe here.</span></p>

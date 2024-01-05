@@ -1,5 +1,7 @@
 # bruce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bruce.md)
+
 <p><span class="chinese">我迷死李小龙了。</span><span class="english">I am crazy about Bruce Li.</span></p>
 
 <p><span class="chinese">你是第17代罗伯特布鲁斯伯爵。</span><span class="english">You're the 17th Roben't Bruce.</span></p>

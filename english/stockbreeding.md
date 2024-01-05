@@ -1,5 +1,7 @@
 # stockbreeding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stockbreeding.md)
+
 <p><span class="chinese">我国是世界上畜牧业资源最丰富的国家之一。</span><span class="english">China is famous for his stockbreeding all over the world.</span></p>
 
 <p><span class="chinese">这项技术在畜牧业中已经应用了许多年。</span><span class="english">This technology has been used for stockbreeding for many years.</span></p>

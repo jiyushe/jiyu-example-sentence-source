@@ -1,5 +1,7 @@
 # guava
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guava.md)
+
 <p><span class="chinese">芭乐，芭乐，真好吃。</span><span class="english">Guava guava, good to eat.</span></p>
 
 <p><span class="chinese">番石榴是一种热带水果，营养异常丰富，和任何其他健康果蔬相比都毫不逊色。</span><span class="english">Guava is a tropical super fruit.</span></p>

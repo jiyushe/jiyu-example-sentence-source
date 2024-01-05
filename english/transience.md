@@ -1,5 +1,7 @@
 # transience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transience.md)
+
 <p><span class="chinese">短暂性则是所有先锋者的第三个标志。</span><span class="english">The third is the transience of all pioneers.</span></p>
 
 <p><span class="chinese">赫斯特在此提醒观众的是生命的短暂。</span><span class="english">Here Hirst reminds the viewer of the transience of life.</span></p>

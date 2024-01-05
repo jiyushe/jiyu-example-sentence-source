@@ -1,5 +1,7 @@
 # 教义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyi_2.md)
+
 <p><span class="chinese">三位一体教义。</span><span class="english">The Doctrine of the Trinity.</span></p>
 
 <p><span class="chinese">他关于基督的教义是什么？</span><span class="english">What is his doctrine of Christ?</span></p>

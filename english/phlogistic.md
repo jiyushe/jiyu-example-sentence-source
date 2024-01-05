@@ -1,5 +1,7 @@
 # phlogistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phlogistic.md)
+
 <p><span class="chinese">附睾炎是怎么引起的？</span><span class="english">Is epididymis phlogistic how to cause?</span></p>
 
 <p><span class="chinese">光化性唇炎以下唇多见。</span><span class="english">Phlogistic the following lip sees actinic sex lip more.</span></p>

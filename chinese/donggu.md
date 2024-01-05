@@ -1,5 +1,7 @@
 # 冬菇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donggu.md)
+
 <p><span class="chinese">浸软冬菇，去蒂，切粒。</span><span class="english">Soak mushrooms, remove stalk and dice.</span></p>
 
 <p><span class="chinese">冬菇、虾米浸软切幼粒。</span><span class="english">Soak and dice mushroom and dried shrimp.</span></p>

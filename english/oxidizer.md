@@ -1,5 +1,7 @@
 # oxidizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxidizer.md)
+
 <p><span class="chinese">氧化剂管的凹陷使稳定性增强。</span><span class="english">Recessing the oxidizer tube improves stability.</span></p>
 
 <p><span class="chinese">这一术语习惯上即包括燃料，又包括氧化剂。</span><span class="english">The term customarily takes in both the fuel and the oxidizer.</span></p>

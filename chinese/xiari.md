@@ -1,5 +1,7 @@
 # 夏日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiari.md)
+
 <p><span class="chinese">夏日冲击！</span><span class="english">Foobar Summer Hit!</span></p>
 
 <p><span class="chinese">甜蜜夏日，香汗伶俐。</span><span class="english">Sweet summer sweat.</span></p>

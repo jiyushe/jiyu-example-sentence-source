@@ -1,5 +1,7 @@
 # 马帮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mabang.md)
+
 <p><span class="chinese">我们马帮辛苦一年。</span><span class="english">After a year full of hardships.</span></p>
 
 <p><span class="chinese">我呀，觉得马帮太辛苦了。</span><span class="english">I felt the caravan's life is too tough.</span></p>

@@ -1,5 +1,7 @@
 # talented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talented.md)
+
 <p><span class="chinese">你们有才华。</span><span class="english">You're so talented.</span></p>
 
 <p><span class="chinese">我可是个很不错的护士哦。</span><span class="english">I’m a very talented nurse.</span></p>

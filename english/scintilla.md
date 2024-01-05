@@ -1,5 +1,7 @@
 # scintilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scintilla.md)
+
 <p><span class="chinese">没有一点儿证据可以证实此事。</span><span class="english">Not a scintilla of evidence to prove it.</span></p>
 
 <p><span class="chinese">没有一点不利于我的证据。</span><span class="english">There isn't a scintilla of evidence against me.</span></p>

@@ -1,5 +1,7 @@
 # chiquita
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiquita.md)
+
 <p><span class="chinese">会议期间，世贸组织自助餐厅所售的香蕉上都贴着哥斯达黎加的“金吉达”商标。</span><span class="english">Bananas for sale in the WTO cafeteria during the talks carry Chiquita stickers from Costa Rica.</span></p>
 
 <p><span class="chinese">奇基塔香蕉公司支付了一大笔保护费，交换条件是这两个准军事组织停止屠杀行径和制造爆炸。</span><span class="english">Chiquita shelled out protection money to get the paramilitary groups to stop killing and bombing.</span></p>

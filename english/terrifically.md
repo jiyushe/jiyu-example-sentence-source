@@ -1,5 +1,7 @@
 # terrifically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrifically.md)
+
 <p><span class="chinese">今天真冷得够受。</span><span class="english">It's terrifically cold today.</span></p>
 
 <p><span class="chinese">我认为课程一直都进行的很棒。</span><span class="english">I thought the course had been going terrifically well.</span></p>

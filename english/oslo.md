@@ -1,5 +1,7 @@
 # oslo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oslo.md)
+
 <p><span class="chinese">塞尔玛是来自奥斯陆的武器贩运商。</span><span class="english">Thelma is an arms trafficker from Oslo.</span></p>
 
 <p><span class="chinese">但是，在奥斯陆的谈判中，我们同意分享那部分水。</span><span class="english">But in the Oslo talks, we agreed toshare that water.</span></p>

@@ -1,5 +1,7 @@
 # 霰弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandan_1.md)
+
 <p><span class="chinese">很好的弹道，很远的射程以及霰弹。</span><span class="english">Good animation, long range and shrapnel.</span></p>
 
 <p><span class="chinese">“人权观察”估算，库存霰弹总数可能达数十亿。</span><span class="english">HRW reckons the number of bomblets runs into the billions.</span></p>

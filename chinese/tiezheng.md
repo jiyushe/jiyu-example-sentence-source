@@ -1,5 +1,7 @@
 # 铁证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiezheng.md)
+
 <p><span class="chinese">在东京西部，一块被文明的社区围绕的土地，很可能埋藏了大屠杀的铁证。</span><span class="english">PROOF of mass murder could lie in a genteel enclave of west-central Tokyo.</span></p>
 
 <p><span class="chinese">这下终于有了铁证，马戎率兵回城捉拿王小红。</span><span class="english">This finally have the solid, w. connor rate return take WangXiaoGong soldiers.</span></p>

@@ -1,5 +1,7 @@
 # inhabitancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhabitancy.md)
+
 <p><span class="chinese">为使城市更适宜人居住和生活，建设山水园林城市成为重庆市的发展目标。</span><span class="english">For befitting human inhabitancy and living, constructing landscape city with mountains and rivers becomes Chongqing development goal.</span></p>
 
 <p><span class="chinese">其价值是可以帮助恢复定位辋川的原貌，以及帮助了解裴迪和王维在辋川的居住地点。</span><span class="english">This value can help restore and locate the landscape of wang chuan and help to know the inhabitancy of Pei di and Wang wei in wang chuan.</span></p>

@@ -1,5 +1,7 @@
 # 仁人志士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renrenzhishi.md)
+
 <p><span class="chinese">公司竭诚欢迎仁人志士莅临合作，共谋发展！</span><span class="english">Welcome all the friends at home and abroad to our company to negotiate and cooperate.</span></p>
 
 <p><span class="chinese">黄河流经山西，孕育了无数英雄豪杰、仁人志士。</span><span class="english">Yellow River flows through Shanxi, giving birth to countless heroes and people with lofty ideals.</span></p>

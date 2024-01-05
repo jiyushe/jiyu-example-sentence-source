@@ -1,5 +1,7 @@
 # 珐琅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/falang.md)
+
 <p><span class="chinese">白色颜色真正珐琅拨号盘。</span><span class="english">White color genuine enamel dial.</span></p>
 
 <p><span class="chinese">我很高兴，你保留了那些珐琅物品！</span><span class="english">I'm glad you've kept your enamels !</span></p>

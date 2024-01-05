@@ -1,5 +1,7 @@
 # unpaved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpaved.md)
+
 <p><span class="chinese">那里大部分还是泥巴路。</span><span class="english">Most roads are unpaved.</span></p>
 
 <p><span class="chinese">在这条巷子右转。</span><span class="english">Bucketing over the unpaved lane.</span></p>

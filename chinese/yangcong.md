@@ -1,5 +1,7 @@
 # 洋葱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangcong.md)
+
 <p><span class="chinese">把洋葱切细。</span><span class="english">Chop an onion finely.</span></p>
 
 <p><span class="chinese">妖怪就是像洋葱！</span><span class="english">Ogres are like onions!</span></p>

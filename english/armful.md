@@ -1,5 +1,7 @@
 # armful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armful.md)
+
 <p><span class="chinese">汤姆抱着一捆书。</span><span class="english">Tom is carrying an armful of books.</span></p>
 
 <p><span class="chinese">她带着满抱的小包离开了商店。</span><span class="english">She left the shop with an armful of parcels.</span></p>

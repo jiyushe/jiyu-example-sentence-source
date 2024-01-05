@@ -1,5 +1,7 @@
 # 无神论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushenlun.md)
+
 <p><span class="chinese">他的无神论也遭到同样的下场。</span><span class="english">It was the same with his atheism.</span></p>
 
 <p><span class="chinese">无神论是个非预言性组织。</span><span class="english">Atheism is a non-prophet organization.</span></p>

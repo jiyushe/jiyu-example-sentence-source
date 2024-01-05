@@ -1,5 +1,7 @@
 # iodate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iodate.md)
+
 <p><span class="chinese">最后提出了磺酸盐阴极反应的机理。</span><span class="english">The mechanism of eletroreduction of iodate are proposed here.</span></p>
 
 <p><span class="chinese">小鼠对碘酸钾的利用率低于对碘化钾的利用率。</span><span class="english">The utilization of potassium iodate is lower than that of potassium iodide.</span></p>

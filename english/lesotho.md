@@ -1,5 +1,7 @@
 # lesotho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lesotho.md)
+
 <p><span class="chinese">莱索托王国四周都与南非接壤。</span><span class="english">The Kingdom of Lesotho is completely bounded by South Africa.</span></p>
 
 <p><span class="chinese">“但是从汇款占GDP的比例来看，汤加、摩尔多瓦和莱索托是最大的汇款接收国”。</span><span class="english">Moldova and Lesotho that are the largest recipients of remittances.</span></p>

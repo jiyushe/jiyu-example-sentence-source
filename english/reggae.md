@@ -1,5 +1,7 @@
 # reggae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reggae.md)
+
 <p><span class="chinese">我好喜欢雷鬼乐。</span><span class="english">I love reggae music.</span></p>
 
 <p><span class="chinese">他们的音乐是雷鬼和嘻哈风格的组合。</span><span class="english">Their music is a cross of reggae with hip hop.</span></p>

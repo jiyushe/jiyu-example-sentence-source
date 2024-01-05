@@ -1,5 +1,7 @@
 # andy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andy.md)
+
 <p><span class="chinese">马普安拒绝了。</span><span class="english">Andy refused.</span></p>
 
 <p><span class="chinese">谢谢你，安迪。</span><span class="english">Thank you, Andy.</span></p>

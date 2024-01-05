@@ -1,5 +1,7 @@
 # according
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/according.md)
+
 <p><span class="chinese">根据智商得分，你从15岁至25岁最聪明。</span><span class="english">From 18-25, according to I.Q.</span></p>
 
 <p><span class="chinese">专家是不赞同这样的。</span><span class="english">Not according to the experts.</span></p>

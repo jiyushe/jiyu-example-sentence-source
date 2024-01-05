@@ -1,5 +1,7 @@
 # rhabdomyolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhabdomyolysis.md)
+
 <p><span class="chinese">肌病最严重的形式被称作横纹肌溶解。</span><span class="english">The most serious form of myopathy is called rhabdomyolysis.</span></p>
 
 <p><span class="chinese">知道横纹肌溶解是所有他汀类药物都有报道的罕见的不良事件。</span><span class="english">Understand that rhabdomyolysis is a rare adverse event reported with all stating.</span></p>

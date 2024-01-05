@@ -1,5 +1,7 @@
 # 真理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenli.md)
+
 <p><span class="chinese">道是真理。</span><span class="english">Tao is truth.</span></p>
 
 <p><span class="chinese">“什么是真理？”</span><span class="english">"What is truth?</span></p>

@@ -1,5 +1,7 @@
 # 开阔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaikuo.md)
+
 <p><span class="chinese">拥有开阔的思想。</span><span class="english">Have an open mind.</span></p>
 
 <p><span class="chinese">人要有开阔的胸襟。</span><span class="english">Always have an open mind.</span></p>

@@ -1,5 +1,7 @@
 # hole 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hole.md)
+
 <p><span class="chinese">由于孔深。</span><span class="english">Due to hole depth.</span></p>
 
 <p><span class="chinese">这是个什么洞？</span><span class="english">What is this hole?</span></p>

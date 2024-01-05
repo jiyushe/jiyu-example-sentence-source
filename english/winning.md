@@ -1,5 +1,7 @@
 # winning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winning.md)
+
 <p><span class="chinese">谁快要赢了？</span><span class="english">Whos winning?</span></p>
 
 <p><span class="chinese">我们赢定了。</span><span class="english">We are winning.</span></p>

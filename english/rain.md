@@ -1,5 +1,7 @@
 # rain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rain.md)
+
 <p><span class="chinese">我们需要雨。</span><span class="english">We need rain.</span></p>
 
 <p><span class="chinese">我想多下雨，和家里有一个更大的水窖。</span><span class="english">I want more rain.</span></p>

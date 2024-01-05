@@ -1,5 +1,7 @@
 # 农药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongyao.md)
+
 <p><span class="chinese">你常把这些农药四处乱放吗?</span><span class="english">Did you often mislay these farm chemicals?</span></p>
 
 <p><span class="chinese">直到今天，他仍不能接触农药。</span><span class="english">Up until today, he can't handle pesticides.</span></p>

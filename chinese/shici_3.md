@@ -1,5 +1,7 @@
 # 饰词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shici_3.md)
+
 <p><span class="chinese">加上这个量的修饰词,烦恼随之而来。</span><span class="english">Now adding that qualification opens the door to a worry.</span></p>
 
 <p><span class="chinese">朴实简练，很少添加饰词。</span><span class="english">He writes simply and succinctly, rarely adding too much adornment.</span></p>

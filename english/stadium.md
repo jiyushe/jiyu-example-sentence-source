@@ -1,5 +1,7 @@
 # stadium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stadium.md)
+
 <p><span class="chinese">这个体育馆有500个座位。</span><span class="english">The stadium seats 500.</span></p>
 
 <p><span class="chinese">这个体育场是新建的。</span><span class="english">This stadium is new-built.</span></p>

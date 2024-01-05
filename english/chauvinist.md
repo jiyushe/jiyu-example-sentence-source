@@ -1,5 +1,7 @@
 # chauvinist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chauvinist.md)
+
 <p><span class="chinese">男人是猪，这仍旧不算是阴事了。</span><span class="english">He is a male chauvinist pig.</span></p>
 
 <p><span class="chinese">杰克是个彻头彻尾的沙文主义者。</span><span class="english">Jack is a real chauvinist pig.</span></p>

@@ -1,5 +1,7 @@
 # conveniently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conveniently.md)
+
 <p><span class="chinese">我家就在公车站附近，非常方便。</span><span class="english">My house is conveniently near the bus-stop.</span></p>
 
 <p><span class="chinese">巧的是，潘基文刚好不在。</span><span class="english">Conveniently enough, Mr Ban will not be around.</span></p>

@@ -1,5 +1,7 @@
 # peaceable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peaceable.md)
+
 <p><span class="chinese">大部分情况下他们都很友好。</span><span class="english">In most cases they are friendly and peaceable.</span></p>
 
 <p><span class="chinese">他要我以后不要再做事了，享点清福。</span><span class="english">He wants me henceforth don't work afresh, enjoyed some peaceable life.</span></p>

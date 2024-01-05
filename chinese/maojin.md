@@ -1,5 +1,7 @@
 # 冒进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maojin.md)
+
 <p><span class="chinese">当然如果冒进推动这种变革，同时存在很大风险。</span><span class="english">But there are big risks, too, in aggressively pushing change.</span></p>
 
 <p><span class="chinese">中国陶金，在冒进的边缘游走?。</span><span class="english">Chinesepottery enterprise-roaming in the edge of rash advance?</span></p>

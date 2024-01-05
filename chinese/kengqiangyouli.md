@@ -1,5 +1,7 @@
 # 铿锵有力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kengqiangyouli.md)
+
 <p><span class="chinese">詹森的话语和想法铿锵有力。</span><span class="english">Jensen’s words and ideas are powerful.</span></p>
 
 <p><span class="chinese">她的演唱时而铿锵有力，时而柔美抒情。</span><span class="english">Her singing sometimes sonorous, powerful, sometimes soft lyrical.</span></p>

@@ -1,5 +1,7 @@
 # boyhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boyhood.md)
+
 <p><span class="chinese">我的少年时代像一个美丽的梦。</span><span class="english">The thought of my boyhood is like a dream.</span></p>
 
 <p><span class="chinese">迪贝的死，是我童年时代的一幕悲剧！</span><span class="english">Tippy'sdeath was the tragedy of my boyhood.</span></p>

@@ -1,5 +1,7 @@
 # hemostatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemostatic.md)
+
 <p><span class="chinese">结论口冰有抗炎镇痛止血作用。</span><span class="english">Conclusion OMI has anti-inflammatory, analgesic and hemostatic effects.</span></p>
 
 <p><span class="chinese">采用生物蛋白胶、止血纱布缝合加压处理创面出血。</span><span class="english">Suturing the resection surface with fibrin and absorbable hemostatic gauze.</span></p>

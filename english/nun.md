@@ -1,5 +1,7 @@
 # nun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nun.md)
+
 <p><span class="chinese">死了一个修女。</span><span class="english">A nun dies.</span></p>
 
 <p><span class="chinese">特瑞沙是一个修女。</span><span class="english">Mother Teresa is a nun.</span></p>

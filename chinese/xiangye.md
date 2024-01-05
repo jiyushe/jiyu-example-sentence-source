@@ -1,5 +1,7 @@
 # 乡野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangye.md)
+
 <p><span class="chinese">已是白天了，乡野又湿又低，好不凄凉。</span><span class="english">It was daylight and the country was wet, low and dismal looking.</span></p>
 
 <p><span class="chinese">火车停在乡野之中，前不着村后不着店。</span><span class="english">The train stopped in the middle of the country, getting us nowhere.</span></p>

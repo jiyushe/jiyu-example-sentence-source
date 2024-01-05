@@ -1,5 +1,7 @@
 # anthropocentric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropocentric.md)
+
 <p><span class="chinese">对这些人来说，这个以人类为中心的类比，即比喻，帮助就大了。</span><span class="english">For these people, the anthropocentric analogies — the metaphors — help enormously.</span></p>
 
 <p><span class="chinese">保护是人类中心在某种意义上说，它在促进有关人类福祉。</span><span class="english">Conservation is anthropocentric in the sense that it is interested in promoting human well-being.</span></p>

@@ -1,5 +1,7 @@
 # 面庞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianpang.md)
+
 <p><span class="chinese">她的腿长，线条优美，面庞娇美，只有11.5英寸高。</span><span class="english">She would be long limbed , shapely, beautiful, and only 11.5 inches tall.</span></p>
 
 <p><span class="chinese">来自塞内加尔的穆萨，面庞黝黑、两眼有神。</span><span class="english">Moussa from Senegal is a young man with a darkened face and bright piercing eyes.</span></p>

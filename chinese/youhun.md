@@ -1,5 +1,7 @@
 # 幽魂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youhun.md)
+
 <p><span class="chinese">马嵬坡的幽魂，可还记得来时路？</span><span class="english">Maweipo the ghost, still remember to go when the road?</span></p>
 
 <p><span class="chinese">女儿走了，留下我独自一人和幽魂们在一起。</span><span class="english">Then my daughter was gone and I was alone with ghosts.</span></p>

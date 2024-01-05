@@ -1,5 +1,7 @@
 # syntactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syntactic.md)
+
 <p><span class="chinese">什么是句法关系？</span><span class="english">What are syntactic relations?</span></p>
 
 <p><span class="chinese">语法规则是复杂的</span><span class="english">Now, the syntactic rules are complicated.</span></p>

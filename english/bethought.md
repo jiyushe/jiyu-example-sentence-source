@@ -1,5 +1,7 @@
 # bethought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bethought.md)
+
 <p><span class="chinese">我想了一下。</span><span class="english">I bethought myself a moment.</span></p>
 
 <p><span class="chinese">她想出了一个计划。</span><span class="english">She bethought herself of a plan.</span></p>

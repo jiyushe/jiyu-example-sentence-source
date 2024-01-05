@@ -1,5 +1,7 @@
 # premiership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premiership.md)
+
 <p><span class="chinese">总统任命他担任总理。</span><span class="english">The President designated him for premiership.</span></p>
 
 <p><span class="chinese">你喜欢看到凯尔特人和流浪者在顶极联赛比赛么?。</span><span class="english">Would u like 2 c celtic and rangers in the premiership?</span></p>

@@ -1,5 +1,7 @@
 # rite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rite.md)
+
 <p><span class="chinese">工资最低的工作是一段通道。</span><span class="english">The minimum-wage job is a rite of passage.</span></p>
 
 <p><span class="chinese">开快车不再是一种驾驶习惯。</span><span class="english">Driving fast is no longer a rite of passage.</span></p>

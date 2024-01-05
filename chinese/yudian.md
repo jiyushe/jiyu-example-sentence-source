@@ -1,5 +1,7 @@
 # 雨点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yudian.md)
+
 <p><span class="chinese">炸弹雨点般落下。</span><span class="english">The bombs came raining down.</span></p>
 
 <p><span class="chinese">她感觉到雨点打在我的脸上。</span><span class="english">I could feel rain on my face.</span></p>

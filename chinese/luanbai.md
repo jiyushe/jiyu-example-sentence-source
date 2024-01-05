@@ -1,5 +1,7 @@
 # 卵白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanbai.md)
+
 <p><span class="chinese">神经鞘瘤体现为S-100卵白染色强阳性。</span><span class="english">Schwannomas display strong S-100 protein staining.</span></p>
 
 <p><span class="chinese">溶菌酶是存在于卵白、泪和其他分泌物中的一种酶。</span><span class="english">Lysozyme is an enzyme found in egg white , tears, and other secretions.</span></p>

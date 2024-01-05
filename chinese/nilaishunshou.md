@@ -1,5 +1,7 @@
 # 逆来顺受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nilaishunshou.md)
+
 <p><span class="chinese">我要逆来顺受，忍气吞声强作欢笑。</span><span class="english">I'll grin and bear it.</span></p>
 
 <p><span class="chinese">或者你只是在逆来顺受的工作？</span><span class="english">Or do you just grin and bear it?</span></p>

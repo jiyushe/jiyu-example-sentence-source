@@ -1,5 +1,7 @@
 # 兀自
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzi.md)
+
 <p><span class="chinese">她的观众兀自嚼着口中的雪茄。</span><span class="english">Her audience chewed on its cigars.</span></p>
 
 <p><span class="chinese">只是兀自四处看看，静静倾听，偶尔做做梦。</span><span class="english">Free to do nothing but watch and listen and dream.</span></p>

@@ -1,5 +1,7 @@
 # selma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selma.md)
+
 <p><span class="chinese">在塞尔玛的那一天我非常高兴。</span><span class="english">I loved that day in Selma.</span></p>
 
 <p><span class="chinese">塞尔玛舅妈和默里舅舅跟在后头。</span><span class="english">Aunt Selma and Uncle Murray paced.</span></p>

@@ -1,5 +1,7 @@
 # 倾盆大雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingpendayu.md)
+
 <p><span class="chinese">他遇上一场倾盆大雨。</span><span class="english">He met a drench of rain.</span></p>
 
 <p><span class="chinese">倾盆大雨直泻下来。</span><span class="english">The rain was lashing down.</span></p>

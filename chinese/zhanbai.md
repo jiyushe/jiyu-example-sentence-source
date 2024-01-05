@@ -1,5 +1,7 @@
 # 战败
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanbai.md)
+
 <p><span class="chinese">因战败而绝望。</span><span class="english">Despair in Defeat.</span></p>
 
 <p><span class="chinese">不过也是战败的一方</span><span class="english">But party to a defeat.</span></p>

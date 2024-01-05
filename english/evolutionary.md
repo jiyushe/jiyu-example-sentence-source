@@ -1,5 +1,7 @@
 # evolutionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evolutionary.md)
+
 <p><span class="chinese">他的观点是从进化论角度出发的。</span><span class="english">So he's making the evolutionary argument.</span></p>
 
 <p><span class="chinese">见“蜘蛛进化关系网”</span><span class="english">See "Untangling Spiders' Evolutionary Web."</span></p>

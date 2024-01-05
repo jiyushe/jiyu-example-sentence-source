@@ -1,5 +1,7 @@
 # ascend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascend.md)
+
 <p><span class="chinese">汉语普通话的地位会不会上升？</span><span class="english">Will Mandarin ascend?</span></p>
 
 <p><span class="chinese">使用上升器上升。</span><span class="english">To ascend a rope using ascenders.</span></p>

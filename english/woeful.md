@@ -1,5 +1,7 @@
 # woeful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woeful.md)
+
 <p><span class="chinese">施特略夫用他那对愁苦的眼睛瞪了我一眼。</span><span class="english">Stroeve gave me a look with his woeful eyes.</span></p>
 
 <p><span class="chinese">悲伤的灵魂在无底的深潭里哭泣。</span><span class="english">Woeful souls are wailing in an abysmal pond.</span></p>

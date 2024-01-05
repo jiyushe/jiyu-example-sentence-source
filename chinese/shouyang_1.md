@@ -1,5 +1,7 @@
 # 收养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyang_1.md)
+
 <p><span class="chinese">老两口收养了一个儿子。</span><span class="english">The old couple adopted a son.</span></p>
 
 <p><span class="chinese">她只是当时被我小姨收养了。</span><span class="english">She just was adopted by my aunt.</span></p>

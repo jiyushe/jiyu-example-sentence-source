@@ -1,5 +1,7 @@
 # 本性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benxing.md)
+
 <p><span class="chinese">比如本性之类的东西。</span><span class="english">Things like their nature.</span></p>
 
 <p><span class="chinese">从本性上讲，男人是花心的。</span><span class="english">Men are polygamous by nature.</span></p>

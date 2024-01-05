@@ -1,5 +1,7 @@
 # anything
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anything.md)
+
 <p><span class="chinese">有什么是真实的么？</span><span class="english">Wass anything real?</span></p>
 
 <p><span class="chinese">好了,还有别的吗</span><span class="english">Good, anything else?</span></p>

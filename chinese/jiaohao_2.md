@@ -1,5 +1,7 @@
 # 较好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohao_2.md)
+
 <p><span class="chinese">你今天看上去气色较好。</span><span class="english">You look better today.</span></p>
 
 <p><span class="chinese">买一双质量较好的球鞋。</span><span class="english">Buy a good pair of sneakers.</span></p>

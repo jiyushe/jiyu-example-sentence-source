@@ -1,5 +1,7 @@
 # 名签
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingqian.md)
+
 <p><span class="chinese">你们把名签放到小提箱上了吗?。</span><span class="english">Have you put name tags on your suitcases yet?</span></p>
 
 <p><span class="chinese">确实用缩写名签武器损坏固定的闪电暴怒。</span><span class="english">Fixed Lightning Fury to do initial weapon damage.</span></p>

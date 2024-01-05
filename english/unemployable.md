@@ -1,5 +1,7 @@
 # unemployable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unemployable.md)
+
 <p><span class="chinese">他们得到的“奖励”是解雇和死亡威胁。</span><span class="english">They were rewarded by becoming practically unemployable and received death threats.</span></p>
 
 <p><span class="chinese">你难道真的会落到在街头挨饿或一直失业吗？</span><span class="english">Is it really that you are going to end up on the street starving or become unemployable?</span></p>

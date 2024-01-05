@@ -1,5 +1,7 @@
 # verily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verily.md)
+
 <p><span class="chinese">无疑，凯撒是主。</span><span class="english">Verily Caesar is lord.</span></p>
 
 <p><span class="chinese">他确是容忍的，确是至赦的。</span><span class="english">Verily He is Oft-Forbear, Most Forgiving !</span></p>

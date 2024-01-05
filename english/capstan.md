@@ -1,5 +1,7 @@
 # capstan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capstan.md)
+
 <p><span class="chinese">渔船绞机歌唱锚链缓缓降。</span><span class="english">The songs at the capstan at the hooker warping out.</span></p>
 
 <p><span class="chinese">绞盘式照排机的处事道理如图2所示。</span><span class="english">Capstan imagesetter works such as shown in Figure 2.</span></p>

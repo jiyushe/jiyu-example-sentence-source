@@ -1,5 +1,7 @@
 # divinatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divinatory.md)
+
 <p><span class="chinese">卦文是一个综合的含义提出了许多专家。</span><span class="english">The divinatory texts are a synthesis of the meanings proposed by many experts.</span></p>
 
 <p><span class="chinese">卦文是一种合成的意义提出了许多专家。</span><span class="english">The divinatory texts are a synthesis of the meanings proposed by many experts.</span></p>

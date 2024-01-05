@@ -1,5 +1,7 @@
 # 相安无事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianganwushi.md)
+
 <p><span class="chinese">一切都莫名其妙地相安无事，从这儿可以得到一个教训。</span><span class="english">Somehow it all works, and there is a lesson here.</span></p>
 
 <p><span class="chinese">但是，总统的角色与统帅的职责无法相安无事。</span><span class="english">But the president's role as commander in chief cut two ways.</span></p>

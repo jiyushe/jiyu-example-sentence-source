@@ -1,5 +1,7 @@
 # treason
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treason.md)
+
 <p><span class="chinese">强行分裂就是叛国。</span><span class="english">Disunion by force was treason.</span></p>
 
 <p><span class="chinese">他因叛国罪被斩首。</span><span class="english">He was beheaded for high treason.</span></p>

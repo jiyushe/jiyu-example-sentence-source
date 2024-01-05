@@ -1,5 +1,7 @@
 # glower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glower.md)
+
 <p><span class="chinese">恶狠狠地瞪着眼睛或一连串受惊吓的、迷惑的瞟视也是如此。</span><span class="english">So is a fierce, hostile glower or a series of frightened, bewildered glances.</span></p>
 
 <p><span class="chinese">联盟成员国不再需要像以前那样在谈判桌上怒目而视。</span><span class="english">The members of Club Med no longer need to glower across the table at each other.</span></p>

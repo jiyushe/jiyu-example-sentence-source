@@ -1,5 +1,7 @@
 # dealer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dealer.md)
+
 <p><span class="chinese">废品商。</span><span class="english">Junk dealer.</span></p>
 
 <p><span class="chinese">名字叫“商人丹”。</span><span class="english">It' s called Dealer Dan.</span></p>

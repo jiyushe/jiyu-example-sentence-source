@@ -1,5 +1,7 @@
 # inconsistency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconsistency.md)
+
 <p><span class="chinese">这不是简单的不一致。</span><span class="english">It's not simple inconsistency.</span></p>
 
 <p><span class="chinese">因此，您可以看到不一致性。</span><span class="english">So you can see the inconsistency.</span></p>

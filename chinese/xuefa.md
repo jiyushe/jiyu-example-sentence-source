@@ -1,5 +1,7 @@
 # 学法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuefa.md)
+
 <p><span class="chinese">他提议教我学法语。</span><span class="english">He made an offer to teach me French.</span></p>
 
 <p><span class="chinese">我除了学英语，还学法语。</span><span class="english">I'm learning French as well as English.</span></p>

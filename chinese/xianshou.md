@@ -1,5 +1,7 @@
 # 先手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshou.md)
+
 <p><span class="chinese">我接，你先手还是我先手？</span><span class="english">Retreat ? Hell ! We just got here!</span></p>
 
 <p><span class="chinese">先手的玩家可以开始他的第一个回合。</span><span class="english">The starting player takes his or her first turn.</span></p>

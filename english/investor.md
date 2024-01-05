@@ -1,5 +1,7 @@
 # investor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/investor.md)
+
 <p><span class="chinese">他是个大胆的投资者。</span><span class="english">He is a venturesome investor.</span></p>
 
 <p><span class="chinese">高盛是厚朴的一个投资者。</span><span class="english">Goldman is an investor in Hopu.</span></p>

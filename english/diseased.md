@@ -1,5 +1,7 @@
 # diseased
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diseased.md)
+
 <p><span class="chinese">你的右肺有病。</span><span class="english">Your right lung is diseased.</span></p>
 
 <p><span class="chinese">生病的植物往往是退绿的。</span><span class="english">Diseased plants are often chlorotic.</span></p>

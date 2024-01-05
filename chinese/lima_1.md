@@ -1,5 +1,7 @@
 # 立马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lima_1.md)
+
 <p><span class="chinese">小孩的母亲立马僵住了。</span><span class="english">The mother froze.</span></p>
 
 <p><span class="chinese">做一名英雄汉立马横枪！</span><span class="english">Be a hero in the affray!</span></p>

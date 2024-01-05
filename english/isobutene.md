@@ -1,5 +1,7 @@
 # isobutene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isobutene.md)
+
 <p><span class="chinese">因此，通过异丁烷脱氢扩大异丁烯的来源是必要的。</span><span class="english">Therefore, it is necessary to extend the resource of isobutene by dehydrogenation of butanes.</span></p>
 
 <p><span class="chinese">甲醇和异丁烯反应生产甲基叔丁基醚是目前最主要的工业化生产方法。</span><span class="english">The synthesis route from methanol and isobutene was the most important industrial production methods.</span></p>

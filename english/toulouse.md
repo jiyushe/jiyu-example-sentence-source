@@ -1,5 +1,7 @@
 # toulouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toulouse.md)
+
 <p><span class="chinese">当然也有例外，比如图卢兹的空客集团。</span><span class="english">There are exceptions—think of Airbus in Toulouse.</span></p>
 
 <p><span class="chinese">图卢兹前锋安德烈-皮埃尔·吉尼亚克渴望转会利物浦。</span><span class="english">Toulouse striker Andre-Pierre Gignac is keen on a move to Liverpool.</span></p>

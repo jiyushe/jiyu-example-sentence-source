@@ -1,5 +1,7 @@
 # 干警
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjing_1.md)
+
 <p><span class="chinese">接到报警后，公安干警迅速赶到现场。</span><span class="english">After receiving the alarm, police rushed to the scene.</span></p>
 
 <p><span class="chinese">在干警培训中对干训班的管理影响者培训的质量。</span><span class="english">The management of police training influences the quality of the training.</span></p>

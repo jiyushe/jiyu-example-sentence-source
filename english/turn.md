@@ -1,5 +1,7 @@
 # turn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turn.md)
+
 <p><span class="chinese">在这里拐入。</span><span class="english">Turn in here.</span></p>
 
 <p><span class="chinese">然后转身走掉。</span><span class="english">Then turn away.</span></p>

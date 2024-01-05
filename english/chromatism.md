@@ -1,5 +1,7 @@
 # chromatism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromatism.md)
+
 <p><span class="chinese">什么叫瓷砖的色差？</span><span class="english">What calls the chromatism of ceramic tile?</span></p>
 
 <p><span class="chinese">其次，釉面色差应尽可能小。</span><span class="english">Next, glaze chromatism should as far as possible small.</span></p>

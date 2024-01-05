@@ -1,5 +1,7 @@
 # certification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/certification.md)
+
 <p><span class="chinese">目前已经通过3C认证。</span><span class="english">Has passed 3C certification.</span></p>
 
 <p><span class="chinese">什么是代销商认证？</span><span class="english">What is Affiliate Certification?</span></p>

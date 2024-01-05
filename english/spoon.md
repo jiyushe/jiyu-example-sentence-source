@@ -1,5 +1,7 @@
 # spoon 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spoon.md)
+
 <p><span class="chinese">可以给我一把小匙吗?。</span><span class="english">May I have a spoon?</span></p>
 
 <p><span class="chinese">让我看看你的勺子。</span><span class="english">Show me your spoon.</span></p>

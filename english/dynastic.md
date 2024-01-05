@@ -1,5 +1,7 @@
 # dynastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dynastic.md)
+
 <p><span class="chinese">道教的仪礼空间与王朝的正统性。</span><span class="english">Taoist Ritual Space and Dynastic Legitimacy.</span></p>
 
 <p><span class="chinese">南京在其2500年的历史中是一个十朝古都。</span><span class="english">Nanjing was a dynastic capital 10 times during its 2,500-year history.</span></p>

@@ -1,5 +1,7 @@
 # inspired
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inspired.md)
+
 <p><span class="chinese">但是要接受他们的鼓励。</span><span class="english">But be inspired by them.</span></p>
 
 <p><span class="chinese">那是我迸发灵感之时。</span><span class="english">That is my inspired time.</span></p>

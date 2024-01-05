@@ -1,5 +1,7 @@
 # 再行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaixing.md)
+
 <p><span class="chinese">今天晚上不用再行杀戮。</span><span class="english">There’d be no more killing tonight.</span></p>
 
 <p><span class="chinese">那时所谓具有“好银行”名声的巴克莱再行收购，就能捡个便宜货。</span><span class="english">That would leave the "good bank" for Barclays to snap up.</span></p>

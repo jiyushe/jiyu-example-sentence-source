@@ -1,5 +1,7 @@
 # 益智
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhi_10.md)
+
 <p><span class="chinese">扫雷是一款非常流行的益智游戏。</span><span class="english">Minesweeping is a famous puzzle game.</span></p>
 
 <p><span class="chinese">六角一合是一个益智游戏的基础上六角砖。</span><span class="english">Hex-a-hop is a puzzle game based on hexagonal tiles.</span></p>

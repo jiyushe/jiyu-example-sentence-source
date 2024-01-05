@@ -1,5 +1,7 @@
 # bds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bds.md)
+
 <p><span class="chinese">企业发展服务的综合使用外部信号发生设备。</span><span class="english">BDS is integrated using outside signal occurrence equipment.</span></p>
 
 <p><span class="chinese">在这项研究中，重要设备的CCD相机和企业发展服务。</span><span class="english">In this research, importance equipment is CCD camera and BDS.</span></p>

@@ -1,5 +1,7 @@
 # enroll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enroll.md)
+
 <p><span class="chinese">参加这个新手训练营，从而了解更多内容。</span><span class="english">Enroll in this boot camp to learn more.</span></p>
 
 <p><span class="chinese">这所学校将于八月份招收新生。</span><span class="english">The school will enroll new students in August.</span></p>

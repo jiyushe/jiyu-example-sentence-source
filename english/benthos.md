@@ -1,5 +1,7 @@
 # benthos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benthos.md)
+
 <p><span class="chinese">全年各类群生物中，平均生物量及栖息密度都以软体动物居首位。</span><span class="english">The molluscs were the first in biomass and density of the benthos.</span></p>
 
 <p><span class="chinese">海底生物群——生活在沉积物上和沉积物里的动物——构成了这个巨大的生态系统。</span><span class="english">The benthos -- the animals living on and in the sediments -- populate this vast ecosystem.</span></p>

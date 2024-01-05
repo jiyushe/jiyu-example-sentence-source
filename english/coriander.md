@@ -1,5 +1,7 @@
 # coriander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coriander.md)
+
 <p><span class="chinese">用芫荽或欧芹和樱桃装饰。</span><span class="english">Garnish with coriander and cherry.</span></p>
 
 <p><span class="chinese">胡荽和胡荽叶是同一种香料。</span><span class="english">Coriander and cilantro are the same spice.</span></p>

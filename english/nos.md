@@ -1,5 +1,7 @@
 # nos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nos.md)
+
 <p><span class="chinese">同时可以抑制NOS活性。</span><span class="english">L-1 and inhibit NOS activity.</span></p>
 
 <p><span class="chinese">希望很快再见到你！</span><span class="english">Nos vemos pronto. See you soon.</span></p>

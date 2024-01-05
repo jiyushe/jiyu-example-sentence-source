@@ -1,5 +1,7 @@
 # bathtub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bathtub.md)
+
 <p><span class="chinese">妈妈在刷澡盆。</span><span class="english">Mummy is scrubbing the bathtub.</span></p>
 
 <p><span class="chinese">把澡盆里的水放出去。</span><span class="english">Let the water out of the bathtub.</span></p>

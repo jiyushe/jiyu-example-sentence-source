@@ -1,5 +1,7 @@
 # 对称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duichen.md)
+
 <p><span class="chinese">是的，对称。</span><span class="english">Right, it's symmetric.</span></p>
 
 <p><span class="chinese">我们需要对称。</span><span class="english">We need this symmetry.</span></p>

@@ -1,5 +1,7 @@
 # crematorium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crematorium.md)
+
 <p><span class="chinese">建造及营办一所新的火葬场。</span><span class="english">Construction and operation of a new crematorium.</span></p>
 
 <p><span class="chinese">你知道我那个开火葬场的朋友克里斯吧？</span><span class="english">You know my friend Chris who owns the crematorium ?</span></p>

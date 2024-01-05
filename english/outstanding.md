@@ -1,5 +1,7 @@
 # outstanding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outstanding.md)
+
 <p><span class="chinese">这是一张未兑现金的支票。</span><span class="english">This is an outstanding check.</span></p>
 
 <p><span class="chinese">学术上，徐是出色的。</span><span class="english">Academically Hsu was outstanding.</span></p>

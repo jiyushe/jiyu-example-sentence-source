@@ -1,5 +1,7 @@
 # 出口税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chukoushui.md)
+
 <p><span class="chinese">美国控诉中国对原材料设置出口税及出口配额。</span><span class="english">US accuse China for setting export duties and quotas on them.</span></p>
 
 <p><span class="chinese">免除任何码头费及任何出口税、关税、进口税费。</span><span class="english">Exemption from wharfage dues and any export tax, duty, impost and fees.</span></p>

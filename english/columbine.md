@@ -1,5 +1,7 @@
 # columbine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/columbine.md)
+
 <p><span class="chinese">科伦拜惨案的杀手给出的理由也颇为相似。</span><span class="english">The Columbine killers made similar arguments.</span></p>
 
 <p><span class="chinese">写文章的时间就处在卡罗拉多高校枪击案之后。</span><span class="english">This was after the Columbine High School shootings in Colorado.</span></p>

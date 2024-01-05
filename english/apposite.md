@@ -1,5 +1,7 @@
 # apposite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apposite.md)
+
 <p><span class="chinese">他的回答是得当的。</span><span class="english">His answer was apposite.</span></p>
 
 <p><span class="chinese">这番议论恰合这个情况。</span><span class="english">The argument is apposite to the case.</span></p>

@@ -1,5 +1,7 @@
 # decompress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decompress.md)
+
 <p><span class="chinese">这个需要解压缩才可以看到。</span><span class="english">The need to decompress before we can see.</span></p>
 
 <p><span class="chinese">为了消除紧张的情绪，我去夏威夷玩了一星期。</span><span class="english">I went to Hawaii for a week to decompress.</span></p>

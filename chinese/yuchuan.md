@@ -1,5 +1,7 @@
 # 渔船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuchuan.md)
+
 <p><span class="chinese">没有拖网渔船。</span><span class="english">There were no trawlers.</span></p>
 
 <p><span class="chinese">那些渔船正在卸货。</span><span class="english">The fishing boats are unlading.</span></p>

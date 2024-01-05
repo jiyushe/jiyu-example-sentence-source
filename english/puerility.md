@@ -1,5 +1,7 @@
 # puerility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puerility.md)
+
 <p><span class="chinese">天真是一种没有欲望的状态。</span><span class="english">Puerility is kind of a desire-free state.</span></p>
 
 <p><span class="chinese">我会努力把自己从幼稚变得成熟。</span><span class="english">I will try to get out from puerility and become more sophisticated.</span></p>

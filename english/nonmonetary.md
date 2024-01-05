@@ -1,5 +1,7 @@
 # nonmonetary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonmonetary.md)
+
 <p><span class="chinese">而今天，“群众生产”机器则基本不依靠货币经济的法则运行。</span><span class="english">Today’s peer-production machine runs in a mostly nonmonetary economy.</span></p>
 
 <p><span class="chinese">对同类产品的非货币经济而言，开放是一件美妙的事情。</span><span class="english">Openness is a wonderful thing in the nonmonetary economy of peer production.</span></p>

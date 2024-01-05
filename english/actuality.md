@@ -1,5 +1,7 @@
 # actuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actuality.md)
+
 <p><span class="chinese">等一下，我能够插句话吗？</span><span class="english">Wait, can I put in a chat actuality?</span></p>
 
 <p><span class="chinese">但当然最优的政体并不实际。</span><span class="english">But of course the best regime lacks actuality.</span></p>

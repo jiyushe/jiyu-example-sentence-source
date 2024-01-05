@@ -1,5 +1,7 @@
 # 引流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinliu.md)
+
 <p><span class="chinese">引流物应是软而易弯的。</span><span class="english">The drain should be soft and pliable.</span></p>
 
 <p><span class="chinese">对于PA，应行脓肿切开引流。</span><span class="english">Open drainage should be performed for PA.</span></p>

@@ -1,5 +1,7 @@
 # 殷墟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxu.md)
+
 <p><span class="chinese">大牛，这里就是殷墟文物的博物馆。</span><span class="english">Daniel, here we are at the Museum of Yin Ruins.</span></p>
 
 <p><span class="chinese">殷墟啊就是指商朝都城的遗址。</span><span class="english">It means the ruins of the Shang Dynasty's capital.</span></p>

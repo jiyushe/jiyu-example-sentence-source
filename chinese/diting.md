@@ -1,5 +1,7 @@
 # 谛听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diting.md)
+
 <p><span class="chinese">去歌唱吧，犹如无人在一边谛听。</span><span class="english">Sing like nobody’s listening.</span></p>
 
 <p><span class="chinese">谛听我的笛音婉转。</span><span class="english">Listening to my sweet pipings.</span></p>

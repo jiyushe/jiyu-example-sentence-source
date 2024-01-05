@@ -1,5 +1,7 @@
 # 润色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/runse.md)
+
 <p><span class="chinese">他给图画作最后的润色。</span><span class="english">He finished up a painting.</span></p>
 
 <p><span class="chinese">你需要给这首诗润色一下。</span><span class="english">You need to touch up the poem.</span></p>

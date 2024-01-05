@@ -1,5 +1,7 @@
 # 如果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruguo.md)
+
 <p><span class="chinese">如果平局就掷硬币</span><span class="english">Flip if tie.</span></p>
 
 <p><span class="chinese">人们在乎“如果”。</span><span class="english">People care if.</span></p>

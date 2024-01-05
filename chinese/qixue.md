@@ -1,5 +1,7 @@
 # 气血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixue.md)
+
 <p><span class="chinese">枣调和气血，润燥。</span><span class="english">Jujube reconcile Qi blood and moistening dryness.</span></p>
 
 <p><span class="chinese">经脉中的气血运行是循环贯注的，如环无端。</span><span class="english">Qi and blood in the meridians circulate in cycles.</span></p>

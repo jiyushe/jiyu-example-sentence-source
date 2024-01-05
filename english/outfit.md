@@ -1,5 +1,7 @@
 # outfit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outfit.md)
+
 <p><span class="chinese">你的衣服和发型真好看！</span><span class="english">I like your outfit and hairdo!</span></p>
 
 <p><span class="chinese">您瞧我这身行头。</span><span class="english">Look at this outfit I'm wearing.</span></p>

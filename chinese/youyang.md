@@ -1,5 +1,7 @@
 # 悠扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyang.md)
+
 <p><span class="chinese">其歌若悠扬丝竹。</span><span class="english">Its songs made of silk.</span></p>
 
 <p><span class="chinese">舒展成一曲悠扬的歌。</span><span class="english">Stretching into a song melodious.</span></p>

@@ -1,5 +1,7 @@
 # 分寸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fencun.md)
+
 <p><span class="chinese">要想当个好演员就要学会掌握道白的时间分寸。</span><span class="english">A good actor must learn the art of tinting.</span></p>
 
 <p><span class="chinese">幽默感是一种分寸感。</span><span class="english">A sense of humour is a sense of proportion.</span></p>

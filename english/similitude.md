@@ -1,5 +1,7 @@
 # similitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/similitude.md)
+
 <p><span class="chinese">他膀喜欢在说话中用比喻。</span><span class="english">He likes to talk in similitude.</span></p>
 
 <p><span class="chinese">本文还分析了附连水质量计算中的相似关系。</span><span class="english">The similitude principle regarding the added mass is analyzed.</span></p>

@@ -1,5 +1,7 @@
 # 优柔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yourou.md)
+
 <p><span class="chinese">我们是否认为自己害羞和优柔？</span><span class="english">Do we think we're shy and indecisive ?</span></p>
 
 <p><span class="chinese">用优柔的毛巾拍脸。</span><span class="english">Pat the f_ web with comfortlistingequdined on towel.</span></p>

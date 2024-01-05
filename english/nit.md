@@ -1,5 +1,7 @@
 # nit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nit.md)
+
 <p><span class="chinese">笼里夜莺不唱歌，浪里蛟龙任腾越。</span><span class="english">Nightingales will nit sing in a cage.</span></p>
 
 <p><span class="chinese">拉金正与詹姆斯。布朗迪，NIT的总裁会谈。</span><span class="english">Larkin's talking to James Brady, the president of NIT.</span></p>

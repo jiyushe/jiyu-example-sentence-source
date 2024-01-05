@@ -1,5 +1,7 @@
 # 无所顾忌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuoguji.md)
+
 <p><span class="chinese">他喝了酒无所顾忌地乱说起来。</span><span class="english">He loosened up under the liquor.</span></p>
 
 <p><span class="chinese">在这里，我们更无所顾忌一些。</span><span class="english">Here, we have a more reckless attitude.</span></p>

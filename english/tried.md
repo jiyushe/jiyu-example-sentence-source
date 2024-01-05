@@ -1,5 +1,7 @@
 # tried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tried.md)
+
 <p><span class="chinese">你有没有尝过？</span><span class="english">Have you tried any?</span></p>
 
 <p><span class="chinese">他试了试窗户。</span><span class="english">He tried the window.</span></p>

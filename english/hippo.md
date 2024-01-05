@@ -1,5 +1,7 @@
 # hippo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hippo.md)
+
 <p><span class="chinese">花豹和河马在比赛。</span><span class="english">The leopard is fast. The hippo is slow.</span></p>
 
 <p><span class="chinese">在395年，他成为希波皇室的主教。</span><span class="english">He was made Bishop of Hippo Regius in 395.</span></p>

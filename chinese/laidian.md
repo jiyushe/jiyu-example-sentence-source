@@ -1,5 +1,7 @@
 # 来电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laidian.md)
+
 <p><span class="chinese">如有需求请来函来电！</span><span class="english">If demand please call letters!</span></p>
 
 <p><span class="chinese">优达因感谢您的来电。</span><span class="english">Thank you for calling Yoyodyne.</span></p>

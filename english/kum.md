@@ -1,5 +1,7 @@
 # kum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kum.md)
+
 <p><span class="chinese">有人在哭泣，上帝，快来这里吧。</span><span class="english">Someone's crying, Lord, kum ba yah.</span></p>
 
 <p><span class="chinese">特别鸣谢李锦记提供本食谱。</span><span class="english">Special thanks to Lee Kum Kee for the recipe.</span></p>

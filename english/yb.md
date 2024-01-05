@@ -1,5 +1,7 @@
 # yb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yb.md)
+
 <p><span class="chinese">这是yB，气相摩尔分数。</span><span class="english">Here's yB. The gas mole fraction.</span></p>
 
 <p><span class="chinese">这是二点温度下的。</span><span class="english">yB This is yB at temperature two.</span></p>

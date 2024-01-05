@@ -1,5 +1,7 @@
 # 公尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchi.md)
+
 <p><span class="chinese">数以百千立方公尺。</span><span class="english">A couple hundred kilos.</span></p>
 
 <p><span class="chinese">这个玻璃缸有15公尺高。</span><span class="english">The tank is 15 meter tall.</span></p>

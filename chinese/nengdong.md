@@ -1,5 +1,7 @@
 # 能动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nengdong.md)
+
 <p><span class="chinese">人是构成社会有机体的能动主体。</span><span class="english">Human is a initiate subject constituting social organism.</span></p>
 
 <p><span class="chinese">而了解权则是一种积极的、能动的权利。</span><span class="english">The right of knowing, however, is an active and reactive right.</span></p>

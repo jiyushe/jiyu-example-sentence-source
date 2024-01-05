@@ -1,5 +1,7 @@
 # encrypt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encrypt.md)
+
 <p><span class="chinese">一种选择是不对密钥加密。</span><span class="english">One option is to not encrypt the key.</span></p>
 
 <p><span class="chinese">现在我们将使用那个密钥来加密数据。</span><span class="english">We'll now use that key to encrypt data.</span></p>

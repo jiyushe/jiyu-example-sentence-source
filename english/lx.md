@@ -1,5 +1,7 @@
 # lx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lx.md)
+
 <p><span class="chinese">LX提供了无可匹敌的活动范围。</span><span class="english">Back. The LX provides unparalleled range of motion.</span></p>
 
 <p><span class="chinese">第一辆售出的车是一辆型号为塔塔纳诺LX的银色汽车。</span><span class="english">The first sold car was a lunar silver Nano LX model.</span></p>

@@ -1,5 +1,7 @@
 # retrobulbar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrobulbar.md)
+
 <p><span class="chinese">目的探讨球后麻醉新入路的临床效果。</span><span class="english">Objective To explore the effect of the new route of retrobulbar anesthesia.</span></p>
 
 <p><span class="chinese">方法对23例绝对期青光眼采用球后注射氯丙嗪。</span><span class="english">Methoods Retrobulbar injection of chlorpromazine was used in 23 cases of absolute glaucoma.</span></p>

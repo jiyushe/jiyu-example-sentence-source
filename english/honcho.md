@@ -1,5 +1,7 @@
 # honcho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honcho.md)
+
 <p><span class="chinese">他是这儿的新头儿。</span><span class="english">He's the new honcho here.</span></p>
 
 <p><span class="chinese">克劳德是电影公司的老板。</span><span class="english">Claude is the studio's head honcho.</span></p>

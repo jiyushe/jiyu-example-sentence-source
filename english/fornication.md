@@ -1,5 +1,7 @@
 # fornication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fornication.md)
+
 <p><span class="chinese">这样人人都能通奸了？</span><span class="english">So everyone can roll in fornication?</span></p>
 
 <p><span class="chinese">在美国的一些州，通奸属于犯罪。</span><span class="english">Fornication is a crime in some American states.</span></p>

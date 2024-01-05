@@ -1,5 +1,7 @@
 # 苦心经营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuxinjingying.md)
+
 <p><span class="chinese">他们苦心经营的服装商店也以失败而告终。</span><span class="english">The garment store they so painstakingly built up also ended in failure.</span></p>
 
 <p><span class="chinese">经过十余年的苦心经营，诸葛亮终于登上了丞相的宝座。</span><span class="english">Zhuge Liang became the prime minister through elaboration over ten years.</span></p>

@@ -1,5 +1,7 @@
 # 日志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rizhi.md)
+
 <p><span class="chinese">船长记航海日志。</span><span class="english">The captain keeps a log.</span></p>
 
 <p><span class="chinese">打开一个已存在的测试日志。</span><span class="english">Open an existing test log.</span></p>

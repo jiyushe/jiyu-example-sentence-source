@@ -1,5 +1,7 @@
 # 曲艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quyi.md)
+
 <p><span class="chinese">他们演出了十五个生动的歌舞曲艺节目。</span><span class="english">They presented 15 lively songs, dances and ballads.</span></p>
 
 <p><span class="chinese">河南坠子，中国曲艺的一种，起源于河南，约有一百多年历史。</span><span class="english">This form of Dagu originated in Henan and has a history of over 100 years.</span></p>

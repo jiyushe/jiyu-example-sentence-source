@@ -1,5 +1,7 @@
 # fugitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fugitive.md)
+
 <p><span class="chinese">在逃犯中有部分是被抓获的。</span><span class="english">The fugitive is part is captured.</span></p>
 
 <p><span class="chinese">他只是我们的一个逃犯而已。</span><span class="english">He was just another fugitive to us.</span></p>

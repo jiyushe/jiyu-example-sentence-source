@@ -1,5 +1,7 @@
 # katie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/katie.md)
+
 <p><span class="chinese">凯蒂吃肥肉不消化。</span><span class="english">Katie can't digest fat.</span></p>
 
 <p><span class="chinese">麦格达，这是我的朋友凯蒂。</span><span class="english">Magda, this is my friend, Katie.</span></p>

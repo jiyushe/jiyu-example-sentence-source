@@ -1,5 +1,7 @@
 # companionship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/companionship.md)
+
 <p><span class="chinese">现在他至少有一种伙伴为伍了。</span><span class="english">So at least he had a kind of companionship.</span></p>
 
 <p><span class="chinese">雷斯脱看出她非常需要伴儿。</span><span class="english">Lester saw that she needed companionship badly.</span></p>

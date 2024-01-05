@@ -1,5 +1,7 @@
 # 着数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoshu_1.md)
+
 <p><span class="chinese">你会尽量避免使用那些着数</span><span class="english">And you avoid those sorts of moves.</span></p>
 
 <p><span class="chinese">同着数不尽的奴隶的凄苦。</span><span class="english">Along with innumerable servile miseries.</span></p>

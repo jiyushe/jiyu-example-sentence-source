@@ -1,5 +1,7 @@
 # 竭尽全力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejinquanli.md)
+
 <p><span class="chinese">请你竭尽全力，顺其自然吧。</span><span class="english">Do your best and let go.</span></p>
 
 <p><span class="chinese">医生竭尽全力救活她。</span><span class="english">Doctors fought to keep her alive.</span></p>

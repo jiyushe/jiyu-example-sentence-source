@@ -1,5 +1,7 @@
 # tantalising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tantalising.md)
+
 <p><span class="chinese">然而，即使再微小的证据，这在科学上也是极其诱人的。</span><span class="english">But even the slimmest of evidence makes this scientifically tantalising.</span></p>
 
 <p><span class="chinese">但是总会有一些似有若无的暗示表明优步希望继续采用这样的机制。</span><span class="english">There are tantalising hints that Uber hopes to follow this logic to its conclusion.</span></p>

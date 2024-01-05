@@ -1,5 +1,7 @@
 # vestigial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vestigial.md)
+
 <p><span class="chinese">残留边带?。</span><span class="english">VSB? Vestigial SideBand?</span></p>
 
 <p><span class="chinese">智牙是另一种退化遗留物。</span><span class="english">Wisdom teeth are another vestigial remnant.</span></p>

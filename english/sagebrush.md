@@ -1,5 +1,7 @@
 # sagebrush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sagebrush.md)
+
 <p><span class="chinese">他们使山艾树的数目受到控制。</span><span class="english">They keep sagebrush under control.</span></p>
 
 <p><span class="chinese">事实上他是知道灌木丛烧不起来。</span><span class="english">In point of fact, he knew the sagebrush would not burn.</span></p>

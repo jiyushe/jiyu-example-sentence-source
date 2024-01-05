@@ -1,5 +1,7 @@
 # 松柏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songbai.md)
+
 <p><span class="chinese">我们像松柏——宁折不弯。</span><span class="english">We should not bend as cypress and pine.</span></p>
 
 <p><span class="chinese">松柏四季常青。</span><span class="english">Pines and cypreesses are green all the year.</span></p>

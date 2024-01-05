@@ -1,5 +1,7 @@
 # 神父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenfu_1.md)
+
 <p><span class="chinese">那个去世的神父？</span><span class="english">The priest who died?</span></p>
 
 <p><span class="chinese">他就是亨利神父。</span><span class="english">This was Father Henry.</span></p>

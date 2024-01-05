@@ -1,5 +1,7 @@
 # academy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/academy.md)
+
 <p><span class="chinese">北京电影学院。</span><span class="english">Beijin Movie Academy.</span></p>
 
 <p><span class="chinese">还在警校。</span><span class="english">Still in the academy.</span></p>

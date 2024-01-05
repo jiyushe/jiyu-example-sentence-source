@@ -1,5 +1,7 @@
 # lymphoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lymphoma.md)
+
 <p><span class="chinese">在淋巴结中，NK细胞淋巴瘤很少。</span><span class="english">Nodal NK-cell lymphoma are quite rare.</span></p>
 
 <p><span class="chinese">未见淋巴瘤证据这样的病理报告是不够的。</span><span class="english">What made you so sure it was lymphoma?</span></p>

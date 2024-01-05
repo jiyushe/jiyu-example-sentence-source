@@ -1,5 +1,7 @@
 # 天鹅绒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianerong.md)
+
 <p><span class="chinese">我的脚爪像天鹅绒一般。</span><span class="english">See! My paws are velveted.</span></p>
 
 <p><span class="chinese">这毛皮有如天鹅绒般软滑。</span><span class="english">The fur was as soft as velvet.</span></p>

@@ -1,5 +1,7 @@
 # wooden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wooden.md)
+
 <p><span class="chinese">木栓或木钉。</span><span class="english">A wooden peg or pin.</span></p>
 
 <p><span class="chinese">木头梁或椽子语源。</span><span class="english">A wooden beam or rafter.</span></p>

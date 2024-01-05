@@ -1,5 +1,7 @@
 # ellipticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ellipticity.md)
+
 <p><span class="chinese">分析仿真了偏心率对相对动力学特性的影响。</span><span class="english">The influence of ellipticity on relative dynamics characteristic is analyzed.</span></p>
 
 <p><span class="chinese">本程序主要是为了测量圆形小工件物体的椭圆度。</span><span class="english">This program is mainly to measure the small circular piece object ellipticity.</span></p>

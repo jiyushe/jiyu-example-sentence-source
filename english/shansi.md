@@ -1,5 +1,7 @@
 # shansi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shansi.md)
+
 <p><span class="chinese">山西房屋的建造者是石头的切割者。</span><span class="english">The Shansi builders are stone cutters.</span></p>
 
 <p><span class="chinese">他曾一度参加过山西某县的统一战线政府。</span><span class="english">At one time, he joined a United Front government in Shansi.</span></p>

@@ -1,5 +1,7 @@
 # 苜蓿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muxu.md)
+
 <p><span class="chinese">唉。你这儿有苜蓿锤么?。</span><span class="english">Sigh. Do you have any lucern hammers?</span></p>
 
 <p><span class="chinese">家畜吃早春的苜蓿而上膘。</span><span class="english">Herds are fattening on the early clover.</span></p>

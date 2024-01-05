@@ -1,5 +1,7 @@
 # 东头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongtou.md)
+
 <p><span class="chinese">在伦敦的东头，他站在一家阴暗的公寓门前。</span><span class="english">He stood in front of a gloomy tenement house.</span></p>
 
 <p><span class="chinese">新界元朗东头工业区康业街9号。</span><span class="english">Hong Yip Street, Yuen Long, New Territories, Hong Kong.</span></p>

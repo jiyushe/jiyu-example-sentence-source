@@ -1,5 +1,7 @@
 # broadcast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broadcast.md)
+
 <p><span class="chinese">这种子用撒播法下种。</span><span class="english">The seeds were sown broadcast.</span></p>
 
 <p><span class="chinese">虚拟广播域?。</span><span class="english">VBD? Virtual Broadcast Domains?</span></p>

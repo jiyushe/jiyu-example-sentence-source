@@ -1,5 +1,7 @@
 # 风骚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengsao.md)
+
 <p><span class="chinese">你是一个爱卖弄风骚的人吗？</span><span class="english">Are you a good flirter?</span></p>
 
 <p><span class="chinese">你是否像艳妇一样风骚？</span><span class="english">Are you mean like a minx?</span></p>

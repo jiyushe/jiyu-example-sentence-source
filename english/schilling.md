@@ -1,5 +1,7 @@
 # schilling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schilling.md)
+
 <p><span class="chinese">克罗打电话到华盛顿饭店并通过先林安排好了会面。</span><span class="english">Krogh called the Washington Hotel and set up a meeting through Schilling.</span></p>
 
 <p><span class="chinese">尼克松可玩笑地捅了下先林的肩膀，并送了他们白宫的袖扣。</span><span class="english">Nixon playfully punched Schilling on the shoulder and gave both men White House cuff links.</span></p>

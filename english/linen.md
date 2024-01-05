@@ -1,5 +1,7 @@
 # linen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linen.md)
+
 <p><span class="chinese">这块料子是麻的。</span><span class="english">This material is linen.</span></p>
 
 <p><span class="chinese">脱下所有弄乱的布草。</span><span class="english">Remove all soiled linen.</span></p>

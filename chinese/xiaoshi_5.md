@@ -1,5 +1,7 @@
 # 消食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshi_5.md)
+
 <p><span class="chinese">用餐后，她开始弹奏起竖琴让我们饮酒消食。</span><span class="english">She began to harp us to drink after dinner.</span></p>
 
 <p><span class="chinese">杀害一个念着消食经过路的老教士？</span><span class="english">An old goodman of a priest, who passes along mumbling his prayers?</span></p>

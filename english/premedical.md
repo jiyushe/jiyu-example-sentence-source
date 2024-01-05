@@ -1,5 +1,7 @@
 # premedical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premedical.md)
+
 <p><span class="chinese">学习计划的圆满完成。</span><span class="english">A premedical program of study.</span></p>
 
 <p><span class="chinese">一种广告或宣传节目。</span><span class="english">A premedical program of study.</span></p>

@@ -1,5 +1,7 @@
 # willed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willed.md)
+
 <p><span class="chinese">她是一个意志坚强的人。</span><span class="english">She is a strong- willed person.</span></p>
 
 <p><span class="chinese">那个寡妇已经立遗嘱把她的全部财产处理掉。</span><span class="english">The widow has willed away all her fortune.</span></p>

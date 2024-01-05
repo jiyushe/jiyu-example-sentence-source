@@ -1,5 +1,7 @@
 # 转台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuantai.md)
+
 <p><span class="chinese">对我来说，它就是转台。</span><span class="english">For me, it was turntables.</span></p>
 
 <p><span class="chinese">某精密测试转台的设计。</span><span class="english">Design of a Precise Test Revolusion Plat.</span></p>

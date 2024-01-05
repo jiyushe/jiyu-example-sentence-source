@@ -1,5 +1,7 @@
 # guangdong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guangdong.md)
+
 <p><span class="chinese">广东也这么认为。</span><span class="english">Guangdong thinks so, too.</span></p>
 
 <p><span class="chinese">我住在广东顺德。</span><span class="english">I live in Guangdong Shunde.</span></p>

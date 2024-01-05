@@ -1,5 +1,7 @@
 # airfreight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airfreight.md)
+
 <p><span class="chinese">我想空运的主要优点是快。</span><span class="english">I suppose the main advantage of airfreight is speed.</span></p>
 
 <p><span class="chinese">大部分运送到海外的水果都是用空运以节省时间。</span><span class="english">Most fruit is sent overseas by airfreight in order to save time.</span></p>

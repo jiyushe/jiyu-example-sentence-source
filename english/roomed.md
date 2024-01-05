@@ -1,5 +1,7 @@
 # roomed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roomed.md)
+
 <p><span class="chinese">这两个学生住在一块。</span><span class="english">The two students roomed together.</span></p>
 
 <p><span class="chinese">她和南希在大学里合住一处。</span><span class="english">She and Nancy roomed together at college.</span></p>

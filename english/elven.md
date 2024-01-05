@@ -1,5 +1,7 @@
 # elven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elven.md)
+
 <p><span class="chinese">可是我怎么才能到精灵族的小岛呢？</span><span class="english">But how do I get to the Elven Isle?</span></p>
 
 <p><span class="chinese">我想要摧毁附近的一座精灵城市。</span><span class="english">I wish to destroy an Elven city near here.</span></p>

@@ -1,5 +1,7 @@
 # 格外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gewai.md)
+
 <p><span class="chinese">格外的成功。</span><span class="english">Extraordinarily successful.</span></p>
 
 <p><span class="chinese">你要格外小心。</span><span class="english">You have to be more careful.</span></p>

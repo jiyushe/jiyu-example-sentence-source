@@ -1,5 +1,7 @@
 # horoscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horoscope.md)
+
 <p><span class="chinese">我看过了我的星座运程。</span><span class="english">I said I have read my horoscope.</span></p>
 
 <p><span class="chinese">炼金术受到了占星术影响。</span><span class="english">Alchemy is influenced by horoscope.</span></p>

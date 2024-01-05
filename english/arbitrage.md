@@ -1,5 +1,7 @@
 # arbitrage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arbitrage.md)
+
 <p><span class="chinese">任何套利都无法修正错误定价。</span><span class="english">No arbitrage can correct the mispricing.</span></p>
 
 <p><span class="chinese">从那时候套利的成功到我现在所从事的事业的成功。</span><span class="english">From there, it was arbitrage and now what I do.</span></p>

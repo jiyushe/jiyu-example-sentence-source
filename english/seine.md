@@ -1,5 +1,7 @@
 # seine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seine.md)
+
 <p><span class="chinese">巴黎位于塞纳河畔。</span><span class="english">Paris stands on the Seine.</span></p>
 
 <p><span class="chinese">她，那雪，那塞纳河缲。</span><span class="english">Her, and the snow, and the Seine.</span></p>

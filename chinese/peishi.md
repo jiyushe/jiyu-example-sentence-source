@@ -1,5 +1,7 @@
 # 佩饰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peishi.md)
+
 <p><span class="chinese">确信你的佩饰符合你的身型。</span><span class="english">Make sure your accessories are in line with the size of your frame.</span></p>
 
 <p><span class="chinese">佩饰、手串、檀香扇皆可令身心平静而愉悦。</span><span class="english">Baldric , hand strings, sandalwood fan can make peace and pleasure physical.</span></p>

@@ -1,5 +1,7 @@
 # forementioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forementioned.md)
+
 <p><span class="chinese">动物模型正是在上述理论基础上建立的。</span><span class="english">Animal models are made on the basis of forementioned theories.</span></p>
 
 <p><span class="chinese">对上述理论结果中的大部分进行了数值仿真，以证实其有效性。</span><span class="english">Most of the forementioned control algorithms are simulated in order to verify their validity.</span></p>

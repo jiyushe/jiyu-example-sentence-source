@@ -1,5 +1,7 @@
 # restock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restock.md)
+
 <p><span class="chinese">他们知道他们不能再饲养动物。</span><span class="english">They know that they cannot restock.</span></p>
 
 <p><span class="chinese">每天我们检查少了什么酒，然后补上。</span><span class="english">Each day we check what’s missing and restock it.</span></p>

@@ -1,5 +1,7 @@
 # cowpox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cowpox.md)
+
 <p><span class="chinese">金纳从牛痘中发展了一种疫苗。</span><span class="english">Edward Jenner developed a vaccine from cowpox.</span></p>
 
 <p><span class="chinese">一天一个女孩儿来看他，女孩儿手上有个牛痘疮。</span><span class="english">One day a girl came to see him who had a cowpox sore on her hand.</span></p>

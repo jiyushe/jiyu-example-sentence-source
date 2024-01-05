@@ -1,5 +1,7 @@
 # 凶犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongfan.md)
+
 <p><span class="chinese">凶犯当场被抓住。</span><span class="english">The murderer was caught red-handed.</span></p>
 
 <p><span class="chinese">凶犯立即被拘捕了。</span><span class="english">The murderer was at once apprehended.</span></p>

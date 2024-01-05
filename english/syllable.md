@@ -1,5 +1,7 @@
 # syllable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syllable.md)
+
 <p><span class="chinese">你可以用第一个音节称呼我。</span><span class="english">You can use my first syllable.</span></p>
 
 <p><span class="chinese">一个音节一个音节地读单词。</span><span class="english">Read the word syllable by syllable.</span></p>

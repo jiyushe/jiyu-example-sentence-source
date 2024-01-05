@@ -1,5 +1,7 @@
 # 费尽心机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feijinxinji.md)
+
 <p><span class="chinese">您费尽心机学人是非分明。</span><span class="english">You tried to teach me right from wrong.</span></p>
 
 <p><span class="chinese">这就是他费尽心机搞到手的那幅油画。</span><span class="english">This is the painting which he worried out.</span></p>

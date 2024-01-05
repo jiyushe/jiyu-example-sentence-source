@@ -1,5 +1,7 @@
 # seductive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seductive.md)
+
 <p><span class="chinese">但是黑暗面是有诱惑力的。</span><span class="english">But the dark side of the force is seductive.</span></p>
 
 <p><span class="chinese">如此鼠标既养眼又倾情！</span><span class="english">So the mouse is a seductive and dedecates road!</span></p>

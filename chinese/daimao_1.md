@@ -1,5 +1,7 @@
 # 玳瑁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daimao_1.md)
+
 <p><span class="chinese">我超爱玳瑁眼镜框。</span><span class="english">I love tortoise shell frames.</span></p>
 
 <p><span class="chinese">而全球气候变化又是玳瑁海龟生存的另一个威胁。</span><span class="english">A further threat to the hawksbill turtle is global climate change.</span></p>

@@ -1,5 +1,7 @@
 # 消声匿迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshengniji.md)
+
 <p><span class="chinese">可是现在这些城镇多数已经消声匿迹了。</span><span class="english">Now, however, most signs of the towns have disappeared.</span></p>
 
 <p><span class="chinese">国家首相和总统今天还在，明天便已消声匿迹。</span><span class="english">Prime ministers and presidents are here today and gone tomorrow.</span></p>

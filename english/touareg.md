@@ -1,5 +1,7 @@
 # touareg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/touareg.md)
+
 <p><span class="chinese">这支团队努力的结果就是大众途锐。</span><span class="english">The result of their efforts is the Volkswagen Touareg.</span></p>
 
 <p><span class="chinese">除了更强大的R50没有已做了大量工作途锐。</span><span class="english">Apart from the more powerful R50 not much has been done to the Touareg.</span></p>

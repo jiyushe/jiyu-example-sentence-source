@@ -1,5 +1,7 @@
 # feeling 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feeling_1.md)
+
 <p><span class="chinese">感觉想睡了？</span><span class="english">Feeling sleepy?</span></p>
 
 <p><span class="chinese">这就是感觉。</span><span class="english">This is feeling.</span></p>

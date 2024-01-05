@@ -1,5 +1,7 @@
 # 从新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congxin.md)
+
 <p><span class="chinese">我们可以抺掉过去，从新开始吗？</span><span class="english">Can We Clean the Slate and Begin Again?</span></p>
 
 <p><span class="chinese">紧身直通裙从新流行起来了。</span><span class="english">A-line skirts are coming into fashion again.</span></p>

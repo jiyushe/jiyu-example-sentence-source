@@ -1,5 +1,7 @@
 # 炮灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paohui.md)
+
 <p><span class="chinese">当你有炮灰支援的时候才使用高斯炮。</span><span class="english">Use only with own cannon fodder.</span></p>
 
 <p><span class="chinese">塔利班真的不需要炮灰。</span><span class="english">They don't really need cannon fodder.</span></p>

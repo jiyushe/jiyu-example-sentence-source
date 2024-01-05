@@ -1,5 +1,7 @@
 # 昂首阔步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/angshoukuobu.md)
+
 <p><span class="chinese">他昂首阔步走上了主席台。</span><span class="english">He stalked up the rostrum.</span></p>
 
 <p><span class="chinese">他向后一转，昂首阔步地走开了。</span><span class="english">He turned round about and stalked off.</span></p>

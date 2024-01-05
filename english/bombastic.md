@@ -1,5 +1,7 @@
 # bombastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bombastic.md)
+
 <p><span class="chinese">这人说话太出位，在写字楼里没有朋友。</span><span class="english">The bombastic man has no friends in the office.</span></p>
 
 <p><span class="chinese">那个曾经夸夸其辞的演说家缄默不语。</span><span class="english">The once bombastic orator had himself lapsed into silence.</span></p>

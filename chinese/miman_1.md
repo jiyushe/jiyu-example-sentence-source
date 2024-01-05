@@ -1,5 +1,7 @@
 # 迷漫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miman_1.md)
+
 <p><span class="chinese">炙热的阳光，空气中迷漫着咸味，海浪有节奏地拍打着。</span><span class="english">Salty air. Rhythmic waves.</span></p>
 
 <p><span class="chinese">赣江风雪迷漫处。</span><span class="english">To the snow-swept River Gan.</span></p>

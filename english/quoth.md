@@ -1,5 +1,7 @@
 # quoth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quoth.md)
+
 <p><span class="chinese">我说过我喜欢英语。</span><span class="english">I like English, " quoth I."</span></p>
 
 <p><span class="chinese">乌鸦说“永不复还。”“先知！”</span><span class="english">Quoth the Raven, "Nevermore."</span></p>

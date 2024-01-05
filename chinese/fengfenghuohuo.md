@@ -1,5 +1,7 @@
 # 风风火火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengfenghuohuo.md)
+
 <p><span class="chinese">我们跳上单车，风风火火地向商场进发</span><span class="english">We jump on our bikes and peddle off to the arcade.</span></p>
 
 <p><span class="chinese">他们把社区活动搞得风风火火，有声有色。</span><span class="english">They successfully organized many activities in their community.</span></p>

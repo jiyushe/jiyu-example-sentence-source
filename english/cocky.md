@@ -1,5 +1,7 @@
 # cocky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cocky.md)
+
 <p><span class="chinese">有点小自大。</span><span class="english">a little cocky.</span></p>
 
 <p><span class="chinese">神气活现的微笑是很迷人的。</span><span class="english">A cocky smile is attractive.</span></p>

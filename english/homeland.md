@@ -1,5 +1,7 @@
 # homeland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homeland.md)
+
 <p><span class="chinese">他们奢谈祖国。</span><span class="english">They speak of homeland.</span></p>
 
 <p><span class="chinese">不再有国内安全保护。</span><span class="english">No more homeland security.</span></p>

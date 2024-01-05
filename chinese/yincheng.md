@@ -1,5 +1,7 @@
 # 音程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yincheng.md)
+
 <p><span class="chinese">辨认所弹奏的音程。</span><span class="english">Identify the interval played.</span></p>
 
 <p><span class="chinese">其他音程为不协和音程。</span><span class="english">Other intervals are dissonances.</span></p>

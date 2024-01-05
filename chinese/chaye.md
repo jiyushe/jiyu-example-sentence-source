@@ -1,5 +1,7 @@
 # 插页
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaye.md)
+
 <p><span class="chinese">这杂志里尽是插页！</span><span class="english">This magazine is full of lap flaps!</span></p>
 
 <p><span class="chinese">这是缺乏对中国插页地图。</span><span class="english">It is lacking a foldout map of China.</span></p>

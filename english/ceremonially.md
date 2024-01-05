@@ -1,5 +1,7 @@
 # ceremonially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceremonially.md)
+
 <p><span class="chinese">至于平安祭的肉，凡洁净的人都要吃。</span><span class="english">As for other meat, anyone ceremonially.</span></p>
 
 <p><span class="chinese">至于平安祭的肉、凡洁净的人都要吃。</span><span class="english">As for other meat, anyone ceremonially clean may eat it.</span></p>

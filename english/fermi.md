@@ -1,5 +1,7 @@
 # fermi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fermi.md)
+
 <p><span class="chinese">从十亿光年到零点一费米。</span><span class="english">From 1 billion light-years to 0.1 fermi.</span></p>
 
 <p><span class="chinese">首次建立超微粒子费密算符理论。</span><span class="english">The theory of Fermi operator is developed.</span></p>

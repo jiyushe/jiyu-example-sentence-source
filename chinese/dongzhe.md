@@ -1,5 +1,7 @@
 # 动辄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongzhe.md)
+
 <p><span class="chinese">我动辄就哭哭啼啼。</span><span class="english">I often cry.</span></p>
 
 <p><span class="chinese">一块羊脂白玉的价值动辄成千上万，甚至价值连城。</span><span class="english">One suet-jade may costs thousands of money or even priceless.</span></p>

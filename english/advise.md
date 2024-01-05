@@ -1,5 +1,7 @@
 # advise 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advise.md)
+
 <p><span class="chinese">请给点建议。</span><span class="english">Please advise.</span></p>
 
 <p><span class="chinese">我会照你的建议行事。</span><span class="english">I'll do as you advise.</span></p>

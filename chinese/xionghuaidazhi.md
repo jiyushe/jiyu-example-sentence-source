@@ -1,5 +1,7 @@
 # 胸怀大志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xionghuaidazhi.md)
+
 <p><span class="chinese">这些胸怀大志的演员勇于接受各样的挑战。</span><span class="english">These aspiring actors dare to take on many challenges.</span></p>
 
 <p><span class="chinese">大卫是个胸怀大志的编剧，也是我最信赖的朋友。</span><span class="english">David was an aspiring screenwriter and my most reliable friend.</span></p>

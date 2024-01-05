@@ -1,5 +1,7 @@
 # tacitly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tacitly.md)
+
 <p><span class="chinese">在阿拉巴马州，新法甚至可能会受人们心照不宣的欢迎。</span><span class="english">In Alabama, it might even be tacitly welcome.</span></p>
 
 <p><span class="chinese">这段插曲默默无言，却秘密而亲切。</span><span class="english">The episode was tacitly and secretly intimate.</span></p>

@@ -1,5 +1,7 @@
 # outlandish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outlandish.md)
+
 <p><span class="chinese">只是对不明就里的人而言，这一想法是偏狭的。</span><span class="english">The idea was outlandish only to the innocent.</span></p>
 
 <p><span class="chinese">因此，他们有时会有一些非常奇特的想法。</span><span class="english">As a result, they sometimes lunge at outlandish ideas.</span></p>

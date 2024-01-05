@@ -1,5 +1,7 @@
 # crease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crease.md)
+
 <p><span class="chinese">铁一起皱，针。</span><span class="english">Iron a crease and pin.</span></p>
 
 <p><span class="chinese">有一个摺痕我该怎麽办？</span><span class="english">There is a crease what can I do?</span></p>

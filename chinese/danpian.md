@@ -1,5 +1,7 @@
 # 单篇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danpian.md)
+
 <p><span class="chinese">今天是我们部落格有史以来有单篇文章超过200则读者意见。</span><span class="english">We've cleared 200 comments on a post for the first time in RAB history.</span></p>
 
 <p><span class="chinese">他灵活地把自己的文章添加到两个单篇的专栏里。</span><span class="english">He filled neatly two columns of the single-sheet issue with his article.</span></p>

@@ -1,5 +1,7 @@
 # 熔岩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongyan.md)
+
 <p><span class="chinese">火山喷出了熔岩。</span><span class="english">The volcano erupted molten lava.</span></p>
 
 <p><span class="chinese">火山喷发出熔岩。</span><span class="english">The volcano spurted molten lava.</span></p>

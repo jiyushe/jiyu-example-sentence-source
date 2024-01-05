@@ -1,5 +1,7 @@
 # controlling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/controlling.md)
+
 <p><span class="chinese">还有一些关于控制数据的担忧。</span><span class="english">There is worry about controlling data.</span></p>
 
 <p><span class="chinese">博士状的蠢货打压着真才实学。</span><span class="english">And folly, doctor-like, controlling skill.</span></p>

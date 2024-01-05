@@ -1,5 +1,7 @@
 # 抵制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhi_5.md)
+
 <p><span class="chinese">他们抵制会议。</span><span class="english">They boycotted the meeting.</span></p>
 
 <p><span class="chinese">现代社会是抵制爱的。</span><span class="english">Modern society is anti-love.</span></p>

@@ -1,5 +1,7 @@
 # 染缸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rangang.md)
+
 <p><span class="chinese">“染缸，”父亲说。</span><span class="english">“Dye vats, ” Father said.</span></p>
 
 <p><span class="chinese">他们现在都给染缸上了盖子。</span><span class="english">They have lids on the vats now.</span></p>

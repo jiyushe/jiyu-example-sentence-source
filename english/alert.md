@@ -1,5 +1,7 @@
 # alert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alert.md)
+
 <p><span class="chinese">充满机警。</span><span class="english">alert.</span></p>
 
 <p><span class="chinese">驾驶时保持警觉。</span><span class="english">Be alert when driving.</span></p>

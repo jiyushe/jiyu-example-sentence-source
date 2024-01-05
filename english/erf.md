@@ -1,5 +1,7 @@
 # erf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erf.md)
+
 <p><span class="chinese">丹凤眼ERF技术能解决什么问题？</span><span class="english">DFY the ERF technology to solve the problem?</span></p>
 
 <p><span class="chinese">电流变阀类装置在轴向压力作用下的缝隙流动方式是电流变液的主要工作状况之一。</span><span class="english">ERF flat gap flow is one of the main flowing manner in the applying of engineering.</span></p>

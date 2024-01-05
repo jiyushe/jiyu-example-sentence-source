@@ -1,5 +1,7 @@
 # 自负
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zifu_1.md)
+
 <p><span class="chinese">自负就像一匹马。</span><span class="english">Ego is like a horse.</span></p>
 
 <p><span class="chinese">自负并不性感。</span><span class="english">Arrogance is not sexy.</span></p>

@@ -1,5 +1,7 @@
 # weeklong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weeklong.md)
+
 <p><span class="chinese">为期一整个礼拜的旅程中，你只会经过一个村庄。</span><span class="english">You only pass by on village on the entire weeklong trip.</span></p>
 
 <p><span class="chinese">当然了，5年前你去爱尔兰岛一个星期的旅游并不能证明什么。</span><span class="english">That weeklong trip you took to Ireland five years ago won't cut it.</span></p>

@@ -1,5 +1,7 @@
 # 自生自灭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishengzimie.md)
+
 <p><span class="chinese">然而，这种成功可能会自生自灭。</span><span class="english">However, that success may have run its course.</span></p>
 
 <p><span class="chinese">任由这些土地自生自灭就能治愈我们的星球。</span><span class="english">Leave the land alone and allow it to heal our planet.</span></p>

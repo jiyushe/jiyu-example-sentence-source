@@ -1,5 +1,7 @@
 # feldspathic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feldspathic.md)
+
 <p><span class="chinese">在穆斯科克斯杂岩体中，铬铁矿矿层仅产于长石质橄榄岩中。</span><span class="english">The chromite deposits in the muskox complex occur only in feldspathic peridotite.</span></p>
 
 <p><span class="chinese">储集砂岩类型主要为矿物成熟度较低的岩屑砂岩和长石岩屑砂岩。</span><span class="english">The reservoir sandstones consist mostly of lithic sandstones and feldspathic litharenite with lower mineral maturity.</span></p>

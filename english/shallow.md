@@ -1,5 +1,7 @@
 # shallow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shallow.md)
+
 <p><span class="chinese">足趾浅肉色。</span><span class="english">Toes shallow color.</span></p>
 
 <p><span class="chinese">我才没那么肤浅呢。</span><span class="english">I’m not that shallow.</span></p>

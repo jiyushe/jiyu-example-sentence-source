@@ -1,5 +1,7 @@
 # 踏勘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/takan.md)
+
 <p><span class="chinese">我想再去踏勘一次。</span><span class="english">I would have liked to see the site again.</span></p>
 
 <p><span class="chinese">上世纪60年代初曾做过踏勘，含硫量较高。</span><span class="english">In the early 1960s, it has been surveyed with a higher sulfur content.</span></p>

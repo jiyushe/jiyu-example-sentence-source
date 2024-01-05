@@ -1,5 +1,7 @@
 # conflagration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conflagration.md)
+
 <p><span class="chinese">在过去，融合有时候就发生在冲突之前。</span><span class="english">In the past integration has sometimes gone before conflagration.</span></p>
 
 <p><span class="chinese">炎魔拉格纳罗斯统治着火、热以及火灾。</span><span class="english">Ragnaros the Firelord is ruler over flame, heat and conflagration.</span></p>

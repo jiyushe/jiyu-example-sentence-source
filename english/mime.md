@@ -1,5 +1,7 @@
 # mime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mime.md)
+
 <p><span class="chinese">有这种名字“水不复还。”</span><span class="english">With such mime as "Nevermore."</span></p>
 
 <p><span class="chinese">听课文录音，模仿录音朗读课文。</span><span class="english">Listen to the tape and mime it.</span></p>

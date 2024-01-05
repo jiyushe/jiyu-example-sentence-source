@@ -1,5 +1,7 @@
 # 知心话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixinhua.md)
+
 <p><span class="chinese">能说说知心话。</span><span class="english">Can say speaks frankly.</span></p>
 
 <p><span class="chinese">他把我告诉他的知心话告诉了每个人。</span><span class="english">He blabbed my confidences to every one.</span></p>

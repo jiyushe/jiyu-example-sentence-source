@@ -1,5 +1,7 @@
 # nu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nu.md)
+
 <p><span class="chinese">芬兰现在是自己的国家。</span><span class="english">Finland är ett eget land nu.</span></p>
 
 <p><span class="chinese">这是hv，X光出现了。</span><span class="english">This is h nu. X-rays coming in.</span></p>

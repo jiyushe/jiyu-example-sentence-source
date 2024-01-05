@@ -1,5 +1,7 @@
 # adjacency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjacency.md)
+
 <p><span class="chinese">线条带也可以拥有邻接信息。</span><span class="english">A line strip that also contains adjacency information.</span></p>
 
 <p><span class="chinese">此步骤的边可以在邻接矩阵中找到。</span><span class="english">The edges for this step can be found in the adjacency matrix.</span></p>

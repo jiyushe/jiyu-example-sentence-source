@@ -1,5 +1,7 @@
 # 远道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuandao.md)
+
 <p><span class="chinese">他们远道来到希律城。</span><span class="english">They come all the way to Herod's City.</span></p>
 
 <p><span class="chinese">有家人远道来看望自己真是不错。</span><span class="english">It’s nice to have family visit from far away.</span></p>

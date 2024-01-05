@@ -1,5 +1,7 @@
 # 凡夫俗子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanfusuzi.md)
+
 <p><span class="chinese">一个月前，他是一个凡夫俗子。</span><span class="english">A month ago, he was a man of men.</span></p>
 
 <p><span class="chinese">瞧啊，这些凡夫俗子是绝对想象不出的！</span><span class="english">Now, what mortal imagination could conceive it!</span></p>

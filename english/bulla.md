@@ -1,5 +1,7 @@
 # bulla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulla.md)
+
 <p><span class="chinese">你肯定认识波拉，没错的！</span><span class="english">You must know Bulla , surely !</span></p>
 
 <p><span class="chinese">由教皇颁发的官方文件是用印玺封住的。</span><span class="english">The official document issued by the pope was sealed with a bulla.</span></p>

@@ -1,5 +1,7 @@
 # 微利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weili_2.md)
+
 <p><span class="chinese">但另一条出路却是成为微利的公共事业公司。</span><span class="english">But the alternative is to become low-margin utilities.</span></p>
 
 <p><span class="chinese">无可否认，陶瓷行业的“微利时代”已经到来！</span><span class="english">Undeniably , the "slight-profit era" of the ceramic industry has come!</span></p>

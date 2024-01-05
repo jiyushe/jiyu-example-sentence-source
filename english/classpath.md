@@ -1,5 +1,7 @@
 # classpath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classpath.md)
+
 <p><span class="chinese">这些目录被添加到类路径。</span><span class="english">These directories are added to the classpath.</span></p>
 
 <p><span class="chinese">一定要确保类路径的设置正确。</span><span class="english">Make sure that your classpath is set correctly.</span></p>

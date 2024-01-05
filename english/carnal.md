@@ -1,5 +1,7 @@
 # carnal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carnal.md)
+
 <p><span class="chinese">它标志着肉体的胜利。</span><span class="english">It marks the triumph of the carnal.</span></p>
 
 <p><span class="chinese">肉体本能甲胄不再享有护甲加成。</span><span class="english">Harness of Carnal Instinct no longer has bonus armor.</span></p>

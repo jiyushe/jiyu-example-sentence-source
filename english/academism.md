@@ -1,5 +1,7 @@
 # academism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/academism.md)
+
 <p><span class="chinese">后来这种“印象派化”的表现风格就形成了日本油画的“学院派”。</span><span class="english">Later, the kind of performance style of "Impressionist" formed "the Academism.</span></p>
 
 <p><span class="chinese">在造型风格上，上海的建筑经历了从殖民地风格向学院派复古主义发展。</span><span class="english">The style of the architecture in shanghai changed from colony to academism reaction.</span></p>

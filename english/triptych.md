@@ -1,5 +1,7 @@
 # triptych
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triptych.md)
+
 <p><span class="chinese">Zigi本哈伊姆创造了三联混合媒体。</span><span class="english">Zigi Ben Haim created the triptych of mixed media.</span></p>
 
 <p><span class="chinese">这三项活动包括教育、信息和研究。</span><span class="english">This triptych consisted of education, information and research.</span></p>

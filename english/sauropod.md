@@ -1,5 +1,7 @@
 # sauropod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sauropod.md)
+
 <p><span class="chinese">蜥脚类恐龙的头基本上都是嘴。</span><span class="english">Sauropod heads are essentially all mouth.</span></p>
 
 <p><span class="chinese">这些新发现的蜥脚类化石似乎是同一种恐龙。</span><span class="english">All sauropod remains appear to come from the same genus of sauropod.</span></p>

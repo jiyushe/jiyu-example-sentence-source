@@ -1,5 +1,7 @@
 # gyrus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gyrus.md)
+
 <p><span class="chinese">它们再发出分支至海马各区和齿状回。</span><span class="english">They gave off branches to each subfield of the hippocampus and dentate gyrus.</span></p>
 
 <p><span class="chinese">局灶性脑缺血后亦可增加海马齿状回内神经发生。</span><span class="english">Focal ischemia also could raise the neurogenesis in hippocampus dentate gyrus.</span></p>

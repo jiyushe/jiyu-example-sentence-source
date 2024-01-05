@@ -1,5 +1,7 @@
 # adsorbability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adsorbability.md)
+
 <p><span class="chinese">并研究了不同浓度和羟基含量对吸附性的影响。</span><span class="english">The influence of hydroxyl content and concentration on adsorbability was also discussed.</span></p>
 
 <p><span class="chinese">重点讨论活性炭纤维植绒的工艺及其吸附性能。</span><span class="english">Discuss emphatically on the process of electrostatics flocking of activated carbon fiber and its adsorbability.</span></p>

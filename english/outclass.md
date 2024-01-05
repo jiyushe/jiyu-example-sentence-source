@@ -1,5 +1,7 @@
 # outclass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outclass.md)
+
 <p><span class="chinese">我们对工作成果的重视远远高于过程。</span><span class="english">We work for the attention far outclass process.</span></p>
 
 <p><span class="chinese">目标在水平、垂直两个方向上的小波能量要远高于背景。</span><span class="english">The energy of targets in horizontal and vertical direction outclass that of background.</span></p>

@@ -1,5 +1,7 @@
 # exogenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exogenous.md)
+
 <p><span class="chinese">外源脱落酸则对这三种糖均有促进效果。</span><span class="english">Exogenous ABA has advance in these three sugars.</span></p>
 
 <p><span class="chinese">政府重组同样可被看作是一外源性事件。</span><span class="english">Changes of government can be regarded as exogenous events too.</span></p>

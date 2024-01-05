@@ -1,5 +1,7 @@
 # 形成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingcheng_1.md)
+
 <p><span class="chinese">风是怎样形成的？</span><span class="english">How is wind formed?</span></p>
 
 <p><span class="chinese">台语是何时形成的呢？</span><span class="english">When is Taigi formed?</span></p>

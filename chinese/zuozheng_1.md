@@ -1,5 +1,7 @@
 # 作证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuozheng_1.md)
+
 <p><span class="chinese">秀水为你们作证！</span><span class="english">Xiushui testify to you!</span></p>
 
 <p><span class="chinese">其他的为这种材料作证。</span><span class="english">Others vouched for the material.</span></p>

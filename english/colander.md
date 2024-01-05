@@ -1,5 +1,7 @@
 # colander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colander.md)
+
 <p><span class="chinese">最后把南瓜泥放在一块粗棉布上过滤掉多余的水分。</span><span class="english">Drain the puree on cheesecloth in a colander to remove excess water.</span></p>
 
 <p><span class="chinese">当你把卷心菜煮开后，用漏勺把水滤掉。</span><span class="english">When you've boiled the cabbage, strain off the water through a colander.</span></p>

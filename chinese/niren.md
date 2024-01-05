@@ -1,5 +1,7 @@
 # 拟人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niren.md)
+
 <p><span class="chinese">仍是这只是武断的拟人论？</span><span class="english">Or is this just rampant anthropomorphism?</span></p>
 
 <p><span class="chinese">果真如此？还是这只是武断的拟人论？</span><span class="english">Really? Or is this just rampant anthropomorphism ?</span></p>

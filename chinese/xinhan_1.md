@@ -1,5 +1,7 @@
 # 心寒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhan_1.md)
+
 <p><span class="chinese">这些统计数据令人心寒。</span><span class="english">These are frightening statistics.</span></p>
 
 <p><span class="chinese">任何纷争都只会让人心寒。</span><span class="english">Any disputes will only be chilling.</span></p>

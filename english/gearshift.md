@@ -1,5 +1,7 @@
 # gearshift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gearshift.md)
+
 <p><span class="chinese">肯定是变速杆有问题。</span><span class="english">It must be the gearshift lever.</span></p>
 
 <p><span class="chinese">然其变速问题尚待解决。</span><span class="english">But the gearshift problem has not been solved.</span></p>

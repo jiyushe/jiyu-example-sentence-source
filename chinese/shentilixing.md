@@ -1,5 +1,7 @@
 # 身体力行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shentilixing.md)
+
 <p><span class="chinese">她没有身体力行她承诺的事情。</span><span class="english">She didn't always practise what she preached.</span></p>
 
 <p><span class="chinese">学习如何负担责任需要你的孩子身体力行和掌握机会。</span><span class="english">Taking responsibility takes practice and opportunity.</span></p>

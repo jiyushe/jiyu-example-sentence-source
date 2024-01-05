@@ -1,5 +1,7 @@
 # 救护站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuhuzhan.md)
+
 <p><span class="chinese">这个小小的救护站开始发生变化。</span><span class="english">The little life-saving station grew.</span></p>
 
 <p><span class="chinese">曾经的大面积的居留地，现在竟没有学校，也没有救护站。</span><span class="english">Once large settlement now has no school and aid station.</span></p>

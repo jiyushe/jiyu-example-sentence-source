@@ -1,5 +1,7 @@
 # chancellery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chancellery.md)
+
 <p><span class="chinese">它的任务是保护在帝国总理府的老希和他的官邸。</span><span class="english">Its job was to guard Hitler and his official residence in the Reich Chancellery.</span></p>
 
 <p><span class="chinese">韦伯离开总理府时，谢绝对此事向记者发表评论。</span><span class="english">Mr. Weber declined to comment to reporters as he left the Chancellery in Berlin.</span></p>

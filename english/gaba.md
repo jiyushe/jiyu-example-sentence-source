@@ -1,5 +1,7 @@
 # gaba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaba.md)
+
 <p><span class="chinese">同时发现含GABA的胼胝体神经元。</span><span class="english">GABA containing callosal neurons were also found.</span></p>
 
 <p><span class="chinese">丁酸是一种无毒的药物，能抑制免疫反应。</span><span class="english">GABA is a non-toxic drug that can suppress autoimmune reaction.</span></p>

@@ -1,5 +1,7 @@
 # sniffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sniffle.md)
+
 <p><span class="chinese">我心里有猛虎在细嗅蔷薇。</span><span class="english">In me the tiger sniffle the rose.</span></p>
 
 <p><span class="chinese">鲸鱼开始鼻子抽噎和咳嗽。</span><span class="english">The whale began to sniffle and cough.</span></p>

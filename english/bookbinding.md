@@ -1,5 +1,7 @@
 # bookbinding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookbinding.md)
+
 <p><span class="chinese">负责会计凭证汇总。装订及保管工作。</span><span class="english">Bookbinding and custody of the work.</span></p>
 
 <p><span class="chinese">对于这一类的图书装订方法有很多种，各有千秋。</span><span class="english">For this kind of bookbinding methods, is a great deal.</span></p>

@@ -1,5 +1,7 @@
 # 宽限
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanxian.md)
+
 <p><span class="chinese">这一期限最多可以宽限60天。</span><span class="english">A 60-day leeway could be offered on this deadline.</span></p>
 
 <p><span class="chinese">你能再宽限我一个月结帐吗？</span><span class="english">Could you give us another month to settle an account?</span></p>

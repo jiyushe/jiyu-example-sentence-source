@@ -1,5 +1,7 @@
 # superconducting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superconducting.md)
+
 <p><span class="chinese">超导相为针状晶体。</span><span class="english">The superconducting phase is needle-like crystal.</span></p>
 
 <p><span class="chinese">分析了超导辐射热探测器的响应率。</span><span class="english">The responsivity of the superconducting bolometer is analyzed.</span></p>

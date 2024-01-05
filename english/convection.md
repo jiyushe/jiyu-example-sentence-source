@@ -1,5 +1,7 @@
 # convection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convection.md)
+
 <p><span class="chinese">暖空气通过对流而上升。</span><span class="english">Warm air rises by convection.</span></p>
 
 <p><span class="chinese">你将会看到，能量传递活动变得很强。</span><span class="english">You see much stronger convection.</span></p>

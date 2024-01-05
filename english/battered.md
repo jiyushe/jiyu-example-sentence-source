@@ -1,5 +1,7 @@
 # battered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/battered.md)
+
 <p><span class="chinese">我们把那门砸掉了。</span><span class="english">We battered the door down.</span></p>
 
 <p><span class="chinese">引擎严重撞坏了。</span><span class="english">The engine was badly battered.</span></p>

@@ -1,5 +1,7 @@
 # coleoptile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coleoptile.md)
+
 <p><span class="chinese">上述化合物均能抑制小麦芽鞘的生长。</span><span class="english">These compounds inhibited the growth of wheat coleoptile.</span></p>
 
 <p><span class="chinese">水分胁迫明显抑制了胚芽鞘和主胚根的生长。</span><span class="english">Water stress obviously restrain growth of coleoptile and main radical.</span></p>

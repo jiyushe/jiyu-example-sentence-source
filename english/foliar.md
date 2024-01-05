@@ -1,5 +1,7 @@
 # foliar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foliar.md)
+
 <p><span class="chinese">害螨是常见的，并且还造成叶片扭曲。</span><span class="english">Spider mites are common and also cause foliar distortion.</span></p>
 
 <p><span class="chinese">避免天天浇水，频繁浇水，否则将导致叶片疾病。</span><span class="english">Avoid daily, frequent irrigation cycles that promote foliar disease.</span></p>

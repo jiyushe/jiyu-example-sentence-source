@@ -1,5 +1,7 @@
 # 单轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangui.md)
+
 <p><span class="chinese">什么是单轨火车？</span><span class="english">What is a monorail?</span></p>
 
 <p><span class="chinese">单轨小车是一种配套设备。</span><span class="english">Monorail trolley is a kind of ancillary facilities.</span></p>

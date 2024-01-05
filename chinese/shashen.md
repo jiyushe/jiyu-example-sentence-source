@@ -1,5 +1,7 @@
 # 沙参
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shashen.md)
+
 <p><span class="chinese">吴邦国邀请奥卡沙参议长和更多的摩洛哥参议员访问中国。</span><span class="english">Wu invited Okacha and more Moroccan senators to visit China.</span></p>
 
 <p><span class="chinese">口腔干燥可经常用麦冬，沙参等中药泡茶饮用。</span><span class="english">Dry mouth can often Ophiopogon japonicus, such as Chinese medicine Shashen tea drinking.</span></p>

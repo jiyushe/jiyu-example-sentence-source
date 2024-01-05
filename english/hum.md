@@ -1,5 +1,7 @@
 # hum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hum.md)
+
 <p><span class="chinese">将你的压力“嗡嗡”走。</span><span class="english">Hum your stress away.</span></p>
 
 <p><span class="chinese">消除交流哼声。</span><span class="english">Elimination of AC hum.</span></p>

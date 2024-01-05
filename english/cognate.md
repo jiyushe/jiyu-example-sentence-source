@@ -1,5 +1,7 @@
 # cognate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cognate.md)
+
 <p><span class="chinese">物理学及天文学为同性质的科学。</span><span class="english">Physics and astronomy are cognate science.</span></p>
 
 <p><span class="chinese">数学和天文学是互相关联的科学。</span><span class="english">Mathematics and astronomy are cognate sciences.</span></p>

@@ -1,5 +1,7 @@
 # 望月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangyue.md)
+
 <p><span class="chinese">曾几何时，不再抬头望月了呢？</span><span class="english">Only a short while ago, no longer looked Mochizuki. ?</span></p>
 
 <p><span class="chinese">望月水中，波光粼粼，微微月影被湖面拉长。</span><span class="english">Moon water, glittering, slightly elongated shadow is the lake.</span></p>

@@ -1,5 +1,7 @@
 # 累人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiren_1.md)
+
 <p><span class="chinese">这是很累人的工作。</span><span class="english">It is very tiring work.</span></p>
 
 <p><span class="chinese">这段路又长又累人。</span><span class="english">It was a long and tiring trip.</span></p>

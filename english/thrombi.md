@@ -1,5 +1,7 @@
 # thrombi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrombi.md)
+
 <p><span class="chinese">血栓的影像通过高分辨率显微镜。</span><span class="english">Thrombi were imaged via high-resolution confocal microscopy.</span></p>
 
 <p><span class="chinese">HU值与血栓中的血红蛋白含量呈线性相关关系。</span><span class="english">The HU count showed a linear correlation of the hemoglobin content of the thrombi.</span></p>

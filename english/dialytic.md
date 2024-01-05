@@ -1,5 +1,7 @@
 # dialytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dialytic.md)
+
 <p><span class="chinese">方法主要有血液透析和腹膜透析两种。</span><span class="english">The method basically has blood dialytic with peritonaeum dialytic two kinds.</span></p>
 
 <p><span class="chinese">第一，就现有透析技术而言IHD是否已经变得更安全，更有效？</span><span class="english">First, has IHD become safer and more efficacious with contemporary dialytic techniques?</span></p>

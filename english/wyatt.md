@@ -1,5 +1,7 @@
 # wyatt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wyatt.md)
+
 <p><span class="chinese">Wyatt先生是我的邻居。</span><span class="english">Mr. Wyatt is my neighbor.</span></p>
 
 <p><span class="chinese">怀亚特一针扎在他的脖子上。</span><span class="english">Wyatt stabs the man's neck.</span></p>

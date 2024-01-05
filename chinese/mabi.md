@@ -1,5 +1,7 @@
 # 麻痹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mabi.md)
+
 <p><span class="chinese">惊恐完全慑服了我，使我几乎麻痹。</span><span class="english">Panic paralyzed me.</span></p>
 
 <p><span class="chinese">——她们浑身麻痹，挤成一堆。</span><span class="english">And they huddle, numbed.</span></p>

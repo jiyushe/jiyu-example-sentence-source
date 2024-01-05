@@ -1,5 +1,7 @@
 # heroine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heroine.md)
+
 <p><span class="chinese">她被描绘成了一位女英雄。</span><span class="english">She is ticketed as a heroine.</span></p>
 
 <p><span class="chinese">那位女演员扮演女主角。</span><span class="english">The actress acts the part of the heroine.</span></p>

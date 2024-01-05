@@ -1,5 +1,7 @@
 # player
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/player.md)
+
 <p><span class="chinese">有请一位好手。</span><span class="english">A good player pls.</span></p>
 
 <p><span class="chinese">我是一个足球运动员。</span><span class="english">I'm a football player.</span></p>

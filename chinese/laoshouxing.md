@@ -1,5 +1,7 @@
 # 老寿星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoshouxing.md)
+
 <p><span class="chinese">这城中的老寿星们一年聚会一次。</span><span class="english">This is an annual meeting of all the Sarpedons in town.</span></p>
 
 <p><span class="chinese">据新科学家网站报道，在世界人口统计学中，百岁老寿星的人数增长速度最快。</span><span class="english">People over 100 are the fastest-growing demographic in the world.</span></p>

@@ -1,5 +1,7 @@
 # 师姑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shigu_2.md)
+
 <p><span class="chinese">新加坡的访视个案，好多师姑、师姐和师伯我都认识。</span><span class="english">A home visit case from Singapore, I knew most of the SG, SJ and SX.</span></p>
 
 <p><span class="chinese">我真的佩服蔡师姑对环保的坚持与用心。</span><span class="english">I truly admired Cai SG , in her determination to conserve and recycle.</span></p>

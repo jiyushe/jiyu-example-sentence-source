@@ -1,5 +1,7 @@
 # 捕风捉影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufengzhuoying.md)
+
 <p><span class="chinese">我从来不信捕风捉影的传闻。</span><span class="english">I never believe idle reports.</span></p>
 
 <p><span class="chinese">我再也受不了她的捕风捉影了！</span><span class="english">I can't stand her suspicion any more!</span></p>

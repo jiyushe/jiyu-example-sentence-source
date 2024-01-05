@@ -1,5 +1,7 @@
 # 名山大川
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingshandachuan.md)
+
 <p><span class="chinese">你知道这里有什么名山大川吗?。</span><span class="english">Do you know any famous mountains and great rivers here?</span></p>
 
 <p><span class="chinese">您能告诉我你们国家有什么名山大川吗？</span><span class="english">Can you tell me if there are any famous mountains and great rivers in your country?</span></p>

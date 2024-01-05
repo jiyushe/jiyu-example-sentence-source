@@ -1,5 +1,7 @@
 # cresting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cresting.md)
+
 <p><span class="chinese">在山顶的坦克是特别脆弱的。</span><span class="english">Tanks cresting a ridge are particularly vulnerable.</span></p>
 
 <p><span class="chinese">河和它的纳贡者正在到达绝顶他们的岸。</span><span class="english">The river and its tributaries are cresting their banks.</span></p>

@@ -1,5 +1,7 @@
 # suborder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suborder.md)
+
 <p><span class="chinese">鸣禽亚目一个科里的鸟。</span><span class="english">A bird of the suborder Oscines.</span></p>
 
 <p><span class="chinese">各亚目的相对数量与人为因素有密切关系。</span><span class="english">Each suborder has intimate relation with artificial factors.</span></p>

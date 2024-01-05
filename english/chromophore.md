@@ -1,5 +1,7 @@
 # chromophore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromophore.md)
+
 <p><span class="chinese">酶体系是通过破坏染料的发色体而达到去除浮色的目的。</span><span class="english">The mechanism was that enzyme system destroyed the chromophore of dyes.</span></p>
 
 <p><span class="chinese">如何提高有机生色团的非线性光学性能是这一领域的关键课题之一。</span><span class="english">How to improve the NLO of organic chromophore is the most important thing.</span></p>

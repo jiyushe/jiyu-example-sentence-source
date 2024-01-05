@@ -1,5 +1,7 @@
 # 命中率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhonglv.md)
+
 <p><span class="chinese">缓冲池命中率对于监控非常重要。</span><span class="english">Buffer pool hit ratio is very important to monitor.</span></p>
 
 <p><span class="chinese">但篮板弥补了他在命中率方面的劣势。</span><span class="english">Rebounding was his way of atoning for his inaccuracy.</span></p>

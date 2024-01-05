@@ -1,5 +1,7 @@
 # roundworm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roundworm.md)
+
 <p><span class="chinese">余下的就是蛔虫的研究。</span><span class="english">That left the roundworm.</span></p>
 
 <p><span class="chinese">蛔虫是罕见的在发达国家，如英国。</span><span class="english">Roundworm is rare in developed countries such as the UK.</span></p>

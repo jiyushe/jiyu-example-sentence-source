@@ -1,5 +1,7 @@
 # exploded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exploded.md)
+
 <p><span class="chinese">然后成本暴增。</span><span class="english">Then costs exploded.</span></p>
 
 <p><span class="chinese">他哄然大笑。</span><span class="english">He exploded with laughter.</span></p>

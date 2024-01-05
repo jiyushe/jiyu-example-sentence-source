@@ -1,5 +1,7 @@
 # epididymitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epididymitis.md)
+
 <p><span class="chinese">武汉最好的附睾炎医院？</span><span class="english">Wuhan best epididymitis hospital?</span></p>
 
 <p><span class="chinese">附睾炎会引起精索静脉曲张么？</span><span class="english">Is epididymitis able to arouse a varicocele?</span></p>

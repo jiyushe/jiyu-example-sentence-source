@@ -1,5 +1,7 @@
 # elements
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elements.md)
+
 <p><span class="chinese">一些装饰的细节。</span><span class="english">Some decor elements.</span></p>
 
 <p><span class="chinese">小的体积元。</span><span class="english">Little volume elements.</span></p>

@@ -1,5 +1,7 @@
 # asthmatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asthmatic.md)
+
 <p><span class="chinese">有哮喘吗？</span><span class="english">Asthmatic?</span></p>
 
 <p><span class="chinese">他是个哮喘病人。</span><span class="english">He is an asthmatic.</span></p>

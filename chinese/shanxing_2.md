@@ -1,5 +1,7 @@
 # 扇形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanxing_2.md)
+
 <p><span class="chinese">孔雀把尾羽展成扇形。</span><span class="english">The peacock fanned his tail.</span></p>
 
 <p><span class="chinese">那鸟有扇形的尾巴。</span><span class="english">The Bird has a fan-like tail.</span></p>

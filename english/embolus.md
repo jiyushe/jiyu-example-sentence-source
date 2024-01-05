@@ -1,5 +1,7 @@
 # embolus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embolus.md)
+
 <p><span class="chinese">这种栓子可导致病人死亡。</span><span class="english">Such an embolus will kill your patient.</span></p>
 
 <p><span class="chinese">鞍状栓子是猝死原因。</span><span class="english">Such a saddle embolus is a cause for sudden death.</span></p>

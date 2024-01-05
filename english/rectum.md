@@ -1,5 +1,7 @@
 # rectum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rectum.md)
+
 <p><span class="chinese">由盲肠，结肠和直肠组成。</span><span class="english">Composed of caecum, colon and rectum.</span></p>
 
 <p><span class="chinese">硬的塑料灌肠嘴会刺破直肠。</span><span class="english">Hard plastic enema tips can perforate the rectum.</span></p>

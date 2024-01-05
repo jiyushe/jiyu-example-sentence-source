@@ -1,5 +1,7 @@
 # amalgamative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amalgamative.md)
+
 <p><span class="chinese">虽然失去了一些机会，但最终与泡泡网的合并也让他很满足。</span><span class="english">Although lost a few chances, but final with hubble-bubble net amalgamative also make him very satisfactory.</span></p>
 
 <p><span class="chinese">常为单发，也可以多发，甚至合并其他类型的脑血管畸形。</span><span class="english">Often be single shot, also can send more, the cerebral blood-vessel of amalgamative even and other type is unbalanced.</span></p>

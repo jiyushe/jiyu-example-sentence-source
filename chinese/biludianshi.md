@@ -1,5 +1,7 @@
 # 闭路电视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biludianshi.md)
+
 <p><span class="chinese">在这儿，充斥着闭路电视监视系统。</span><span class="english">Closed-circuit TV surveillance is rife.</span></p>
 
 <p><span class="chinese">大会实况在大厅闭路电视上重播。</span><span class="english">Broadcast the event on a closed-circuit TV linkup.</span></p>

@@ -1,5 +1,7 @@
 # 唾手可得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoshoukede.md)
+
 <p><span class="chinese">幸福家庭不会唾手可得，尤其是在当今世风日下的社会。</span><span class="english">Making happy homes is not easy, especially in a corrupt society.</span></p>
 
 <p><span class="chinese">“不会有那么多唾手可得的胜利果实了”，吴女士表示。</span><span class="english">“There is not so much low-hanging fruit any more, ” adds Ms. Wu.</span></p>

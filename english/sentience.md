@@ -1,5 +1,7 @@
 # sentience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sentience.md)
+
 <p><span class="chinese">为什么最近的很多研究集中于胎儿感觉?。</span><span class="english">Why the recent interest in fetal sentience ?</span></p>
 
 <p><span class="chinese">有些人相信花有知觉能力。</span><span class="english">Some people believe in the sentience of flowers.</span></p>

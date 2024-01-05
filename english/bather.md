@@ -1,5 +1,7 @@
 # bather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bather.md)
+
 <p><span class="chinese">我有两个哥哥和一个姊姊。</span><span class="english">I have tow bather and one sister.</span></p>
 
 <p><span class="chinese">在这里沐浴可以体会到冲浪浴的乐趣。</span><span class="english">The bather might have had the feel of a surf bath.</span></p>

@@ -1,5 +1,7 @@
 # 兵戎相见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingrongxiangjian.md)
+
 <p><span class="chinese">国与国之间进行贸易往来比兵戎相见好得多。</span><span class="english">Trade between nations is much better than war.</span></p>
 
 <p><span class="chinese">他们不会再希望在战场上兵戎相见了。</span><span class="english">They would have no inclination to meet on the battlefield.</span></p>

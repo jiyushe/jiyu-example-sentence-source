@@ -1,5 +1,7 @@
 # soundless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soundless.md)
+
 <p><span class="chinese">积雪的盘子上的圆点般阒寂。</span><span class="english">Soundless as dots on a disk of snow.</span></p>
 
 <p><span class="chinese">软软的雨点儿开始降落，倾斜的，无声的。</span><span class="english">A soft rain began to fall, slanting, soundless.</span></p>

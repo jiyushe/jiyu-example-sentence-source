@@ -1,5 +1,7 @@
 # 无所适从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuoshicong.md)
+
 <p><span class="chinese">这么多的选择让我无所适从。</span><span class="english">For me, there are too many options.</span></p>
 
 <p><span class="chinese">我自己假想的想法却无所适从。</span><span class="english">I am self fanciful ideas but bewilder.</span></p>

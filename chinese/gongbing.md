@@ -1,5 +1,7 @@
 # 工兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongbing.md)
+
 <p><span class="chinese">工兵绕训练场列队行进。</span><span class="english">The army engineers paraded round drill squares.</span></p>
 
 <p><span class="chinese">地图上自带的坦克残骸将不能被轴心国工兵回收。</span><span class="english">Tank wrecks found on maps are no longer salvageable.</span></p>

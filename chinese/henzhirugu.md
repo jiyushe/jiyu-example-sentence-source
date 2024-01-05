@@ -1,5 +1,7 @@
 # 恨之入骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/henzhirugu.md)
+
 <p><span class="chinese">她过去曾深爱过他，但如今她对他恨之入骨。</span><span class="english">She loved he deeply ago, moreover, her hated his guts.</span></p>
 
 <p><span class="chinese">于是，有人拍手叫好，有人恨之入骨。</span><span class="english">Then, somebody clap applauds , somebody hate sb's guts.</span></p>

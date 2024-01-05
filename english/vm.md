@@ -1,5 +1,7 @@
 # vm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vm.md)
+
 <p><span class="chinese">每一个独立的虚拟机是一个普通用户空间线程。</span><span class="english">Each individual VM has plain userspace threads.</span></p>
 
 <p><span class="chinese">比方说，我对虚拟存储和核心内核很熟悉</span><span class="english">For example, I know the VM and core kernel really well</span></p>

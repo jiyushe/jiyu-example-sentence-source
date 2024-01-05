@@ -1,5 +1,7 @@
 # clit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clit.md)
+
 <p><span class="chinese">你知道她阴蒂在哪对吧？</span><span class="english">You know where her clit is, right?</span></p>
 
 <p><span class="chinese">把你的中指放在我的私处…</span><span class="english">Now put your index finger on my clit.</span></p>

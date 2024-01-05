@@ -1,5 +1,7 @@
 # 枪子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangzi.md)
+
 <p><span class="chinese">所以你就让他挨了枪子?。</span><span class="english">So you let him have it ?</span></p>
 
 <p><span class="chinese">这当然是难受的，但比挨枪子要好。</span><span class="english">Unpleasant, certainly, but better than being shot.</span></p>

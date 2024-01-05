@@ -1,5 +1,7 @@
 # 招领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoling.md)
+
 <p><span class="chinese">我建议你去失物招领处看看。</span><span class="english">I suggest you go to the Lost and Found.</span></p>
 
 <p><span class="chinese">这层有个失物招领处。</span><span class="english">There's a Lost and Found on this floor.</span></p>

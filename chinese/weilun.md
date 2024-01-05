@@ -1,5 +1,7 @@
 # 维纶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilun.md)
+
 <p><span class="chinese">我公司主要以生产维纶短纤二等品为主。</span><span class="english">I vinylon company to produce goods mainly second-class staple.</span></p>
 
 <p><span class="chinese">一般棉纺厂应该都可以生产含高强维纶的纱线。</span><span class="english">Cotton mill should in General can be produced with high-strength of vinylon yarn.</span></p>

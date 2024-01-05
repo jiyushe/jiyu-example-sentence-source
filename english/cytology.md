@@ -1,5 +1,7 @@
 # cytology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytology.md)
+
 <p><span class="chinese">诊断通过取肿块组织进行细胞学分析。</span><span class="english">Diagnosis is made through cytology of the mass.</span></p>
 
 <p><span class="chinese">液基细胞学制备尿液标本的作用。</span><span class="english">Usefulness of liquid-based preparation in urine cytology.</span></p>

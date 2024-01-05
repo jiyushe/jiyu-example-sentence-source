@@ -1,5 +1,7 @@
 # 过账
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guozhang.md)
+
 <p><span class="chinese">那个男人从没按时付过账。</span><span class="english">That fellow never pays his bills on time.</span></p>
 
 <p><span class="chinese">过账是在现金账户中进行的。</span><span class="english">The posting was made in the cash account.</span></p>

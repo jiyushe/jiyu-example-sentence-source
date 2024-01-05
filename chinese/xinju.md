@@ -1,5 +1,7 @@
 # 新居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinju.md)
+
 <p><span class="chinese">伊恩已经迁进新居了吗?。</span><span class="english">Has Ian moved to his new house yet?</span></p>
 
 <p><span class="chinese">我们有了一个舒适的新居。</span><span class="english">We have a comfortable new residence.</span></p>

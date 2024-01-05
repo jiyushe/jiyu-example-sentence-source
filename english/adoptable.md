@@ -1,5 +1,7 @@
 # adoptable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adoptable.md)
+
 <p><span class="chinese">工程中所采用的进度计划是风险可接受的方案。</span><span class="english">The adopted plan is the plan that the risk is adoptable.</span></p>
 
 <p><span class="chinese">针对黑色痘疤可采用的治疗方法？</span><span class="english">Does in the light of black blain scar adoptable treat a method?</span></p>

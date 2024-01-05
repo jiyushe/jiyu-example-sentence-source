@@ -1,5 +1,7 @@
 # islamabad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/islamabad.md)
+
 <p><span class="chinese">芭芭拉普莱特，伊斯兰堡报道。</span><span class="english">Barbara Plett reports from Islamabad.</span></p>
 
 <p><span class="chinese">伊斯兰堡是他的选区之一。</span><span class="english">Islamabad is part of his constituency.</span></p>

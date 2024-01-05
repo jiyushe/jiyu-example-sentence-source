@@ -1,5 +1,7 @@
 # 树梢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushao.md)
+
 <p><span class="chinese">沉睡在树梢。</span><span class="english">On the treetop.</span></p>
 
 <p><span class="chinese">高高地落自树梢。</span><span class="english">Falling from on high leaves.</span></p>

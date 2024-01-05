@@ -1,5 +1,7 @@
 # 到期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoqi.md)
+
 <p><span class="chinese">这张票据已到期。</span><span class="english">The bill is due.</span></p>
 
 <p><span class="chinese">票据即将到期。</span><span class="english">The bill will soon fall due.</span></p>

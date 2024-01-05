@@ -1,5 +1,7 @@
 # narcissism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narcissism.md)
+
 <p><span class="chinese">这是典型的自我陶醉。</span><span class="english">It's classic narcissism.</span></p>
 
 <p><span class="chinese">看哪，这赤裸裸的自恋之沙。</span><span class="english">Ah, the sands of narcissism.</span></p>

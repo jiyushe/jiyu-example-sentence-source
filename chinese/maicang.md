@@ -1,5 +1,7 @@
 # 埋藏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maicang.md)
+
 <p><span class="chinese">它已经被埋藏了起来</span><span class="english">They were buried.</span></p>
 
 <p><span class="chinese">埋藏一粒种子。</span><span class="english">Imbed a seed in it.</span></p>

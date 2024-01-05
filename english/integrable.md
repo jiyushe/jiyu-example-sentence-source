@@ -1,5 +1,7 @@
 # integrable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/integrable.md)
+
 <p><span class="chinese">可积系统，几何与拓扑。</span><span class="english">Integrable systems, geometry, and topology.</span></p>
 
 <p><span class="chinese">作为应用，利用屠格式得到了TC方程族的一个新的可积耦合。</span><span class="english">As the applications, a new integrable coupling of TC hierarchy by using the Tu scheme.</span></p>

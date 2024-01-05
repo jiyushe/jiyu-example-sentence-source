@@ -1,5 +1,7 @@
 # hypnosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypnosis.md)
+
 <p><span class="chinese">他还试图催眠。</span><span class="english">He also tried hypnosis.</span></p>
 
 <p><span class="chinese">他用催眠术作为治疗的一部分。</span><span class="english">He uses hypnosis as part of the treatment.</span></p>

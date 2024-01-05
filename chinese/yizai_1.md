@@ -1,5 +1,7 @@
 # 移栽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizai_1.md)
+
 <p><span class="chinese">他们正在把番茄秧移栽到地里。</span><span class="english">They are bedding out the tomatoes.</span></p>
 
 <p><span class="chinese">移栽到含泥炭的土壤里。</span><span class="english">Transplant the seedlings into peaty soil.</span></p>

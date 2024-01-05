@@ -1,5 +1,7 @@
 # thrill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrill.md)
+
 <p><span class="chinese">这太令我激动了。</span><span class="english">This is such a thrill for me.</span></p>
 
 <p><span class="chinese">我们喜欢未知带给我们的震撼。</span><span class="english">We love the thrill of the unknown.</span></p>

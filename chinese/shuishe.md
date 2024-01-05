@@ -1,5 +1,7 @@
 # 水蛇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuishe.md)
+
 <p><span class="chinese">蚯蚓逃命，水蛇上岸。</span><span class="english">Earthworm escape, water snakes come ashore.</span></p>
 
 <p><span class="chinese">我曾见一条水蛇横渡阿纳波河。</span><span class="english">I saw a water-serpent swim across the Anapo.</span></p>

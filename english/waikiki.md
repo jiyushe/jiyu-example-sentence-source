@@ -1,5 +1,7 @@
 # waikiki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waikiki.md)
+
 <p><span class="chinese">镀白金色海马胸针镶有蓝色水晶。</span><span class="english">Rhodium-plated seahorse brooch in Waikiki Blue crystal.</span></p>
 
 <p><span class="chinese">怀基基这里终年不冷不热。</span><span class="english">Waikiki is neither too hot nor too cold all the year round.</span></p>

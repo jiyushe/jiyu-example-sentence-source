@@ -1,5 +1,7 @@
 # sorrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorrow.md)
+
 <p><span class="chinese">欢乐或苦难的熬煎。</span><span class="english">Of joy or sorrow.</span></p>
 
 <p><span class="chinese">我对他的去世感到伤心。</span><span class="english">I sorrow for his death.</span></p>

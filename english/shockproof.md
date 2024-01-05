@@ -1,5 +1,7 @@
 # shockproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shockproof.md)
+
 <p><span class="chinese">埃尔的手表是防震的。</span><span class="english">Gabriel's watch is shockproof.</span></p>
 
 <p><span class="chinese">对于浪漫，有防震酒杯。</span><span class="english">For the romantic, there are shockproof wine glasses.</span></p>

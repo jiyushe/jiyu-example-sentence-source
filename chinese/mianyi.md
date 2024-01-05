@@ -1,5 +1,7 @@
 # 免役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianyi.md)
+
 <p><span class="chinese">头发突然脱落是患免役性疾病的征兆。</span><span class="english">Suffering from sudden hair loss is a sign of immune disease.</span></p>
 
 <p><span class="chinese">确定您的免役最新。您是在更高的风险为传染。</span><span class="english">Makesure your immunizations are up-to-date. You are at higher risk for infections.</span></p>

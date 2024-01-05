@@ -1,5 +1,7 @@
 # 字典
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zidian.md)
+
 <p><span class="chinese">这是一本好字典。</span><span class="english">This i a good dic'tionary.</span></p>
 
 <p><span class="chinese">他择选了一本字典给我。</span><span class="english">He chose a dictionary to me.</span></p>

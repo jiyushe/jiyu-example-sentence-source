@@ -1,5 +1,7 @@
 # aurum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aurum.md)
+
 <p><span class="chinese">他非常虚弱，几乎是一瘸一拐地走进奥兰姆护理中心的。</span><span class="english">He was so frail he practically limped into the Aurum Care Centre.</span></p>
 
 <p><span class="chinese">拉基开始慢慢恢复走动，如今能从家里走到奥兰姆护理中心。</span><span class="english">Lucky slowly started walking again and can now walk from his home to the Aurum Care Centre.</span></p>

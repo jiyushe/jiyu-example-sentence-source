@@ -1,5 +1,7 @@
 # mathematics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mathematics.md)
+
 <p><span class="chinese">数学能做到这一点。</span><span class="english">Mathematics can do that.</span></p>
 
 <p><span class="chinese">唐在学习数学上很聪明。</span><span class="english">Don is smart in mathematics.</span></p>

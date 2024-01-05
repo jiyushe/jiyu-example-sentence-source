@@ -1,5 +1,7 @@
 # 力臂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/libi_1.md)
+
 <p><span class="chinese">抗力的作用线到支点的垂直距离，叫做「抗力臂」。</span><span class="english">" The role of resistance to the pivot line of the vertical distance, called the "anti-arm.</span></p>
 
 <p><span class="chinese">他们用液压软管驱动的骨架、铰链咬合的齿轮和电缆连接的力臂来保持平衡。</span><span class="english">The dinos poised in the skeletal power of hydraulic hoses, chained gears, and cabled levers.</span></p>

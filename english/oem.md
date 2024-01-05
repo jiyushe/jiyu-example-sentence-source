@@ -1,5 +1,7 @@
 # oem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oem.md)
+
 <p><span class="chinese">普勒是一种纸张加工贴牌生产。</span><span class="english">Pooler is a paper-processing OEM.</span></p>
 
 <p><span class="chinese">阿尔格斯激光科技是一家生产OEM激光器件的制造公司。</span><span class="english">ARGES is a manufacturer for the OEM laser component market.</span></p>

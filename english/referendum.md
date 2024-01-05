@@ -1,5 +1,7 @@
 # referendum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/referendum.md)
+
 <p><span class="chinese">现在还很难说公民投票已经是囊中之物。</span><span class="english">Yet the referendum is not in the bag.</span></p>
 
 <p><span class="chinese">他向该委员会提交了一份备忘录。</span><span class="english">He tendered the committee a referendum.</span></p>

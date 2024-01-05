@@ -1,5 +1,7 @@
 # 开房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaifang.md)
+
 <p><span class="chinese">我把开房通知单给您。</span><span class="english">I'll give you the accommodation advice.</span></p>
 
 <p><span class="chinese">科比在主场比赛前都会去酒店开房来好好睡一会儿。</span><span class="english">Kobe Bryant checks into a hotel before home games for his pregame nap.</span></p>

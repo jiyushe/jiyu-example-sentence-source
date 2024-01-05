@@ -1,5 +1,7 @@
 # knotty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knotty.md)
+
 <p><span class="chinese">冠军之路铺满荆棘。</span><span class="english">The way to champion is knotty.</span></p>
 
 <p><span class="chinese">的确的确。一个棘手的问题。</span><span class="english">STUMPER a stumper . A knotty problem.</span></p>

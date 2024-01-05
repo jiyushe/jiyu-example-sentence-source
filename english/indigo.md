@@ -1,5 +1,7 @@
 # indigo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indigo.md)
+
 <p><span class="chinese">绿色，蓝色，靛蓝色。</span><span class="english">Green, Blue, Indigo.</span></p>
 
 <p><span class="chinese">这件衬衫是靛蓝色的。</span><span class="english">This shirt is of indigo blue.</span></p>

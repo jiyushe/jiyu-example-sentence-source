@@ -1,5 +1,7 @@
 # nida
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nida.md)
+
 <p><span class="chinese">在泥大当，太阳终于出来了。</span><span class="english">The sun came out when we reached Nida Dang.</span></p>
 
 <p><span class="chinese">澳大利亚国立戏剧学院是一所提供优秀的戏剧、电影、电视训练的中心。</span><span class="english">NIDA is, a centre of excellence in training for theatre, film and television.</span></p>

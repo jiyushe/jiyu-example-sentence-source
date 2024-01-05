@@ -1,5 +1,7 @@
 # gunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunk.md)
+
 <p><span class="chinese">那些粘粘的东西都是从哪里来的呢？</span><span class="english">Where did all that gunk come from?</span></p>
 
 <p><span class="chinese">黏稠的东西和机油一起流出来。</span><span class="english">Goop and gunk drains out with motor oil.</span></p>

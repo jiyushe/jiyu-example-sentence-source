@@ -1,5 +1,7 @@
 # 专业户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyehu.md)
+
 <p><span class="chinese">我是个列表专业户。</span><span class="english">I’m a list maker.</span></p>
 
 <p><span class="chinese">你会认为她现在都成结婚专业户了，但我真的不确定。</span><span class="english">You'd think she'd be a pro by now, but I don't know.</span></p>

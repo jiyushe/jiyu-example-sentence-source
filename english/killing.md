@@ -1,5 +1,7 @@
 # killing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/killing.md)
+
 <p><span class="chinese">这是在谋杀我。</span><span class="english">It's killing me.</span></p>
 
 <p><span class="chinese">你会弄死我的！</span><span class="english">You’re killing me!</span></p>

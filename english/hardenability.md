@@ -1,5 +1,7 @@
 # hardenability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardenability.md)
+
 <p><span class="chinese">在以往的研究中，硼主要用来提高钢的淬透性能。</span><span class="english">In the past research, boron is mainly used to improve the hardenability.</span></p>
 
 <p><span class="chinese">淬透性与等温回火温度无关。</span><span class="english">The hardenability is irrelevant to the isothermal tempering temperature.</span></p>

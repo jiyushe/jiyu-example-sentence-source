@@ -1,5 +1,7 @@
 # 主要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyao.md)
+
 <p><span class="chinese">主要是法律上的问题。</span><span class="english">Legal ones, mostly.</span></p>
 
 <p><span class="chinese">我将是主要的忏悔者。</span><span class="english">I'll be chief mourner.</span></p>

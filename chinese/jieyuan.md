@@ -1,5 +1,7 @@
 # 结怨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieyuan.md)
+
 <p><span class="chinese">记住，永远不要与人结怨。</span><span class="english">Never destroy your relationship with people.</span></p>
 
 <p><span class="chinese">这个妇人与邻居结怨甚深。</span><span class="english">That lady was at deep enmity with her neighbours.</span></p>

@@ -1,5 +1,7 @@
 # gluon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gluon.md)
+
 <p><span class="chinese">在这基础上分析了胶子喷注与夸克喷注的区别。</span><span class="english">The difference between gluon jet and quark jet is analyzed on these basis.</span></p>
 
 <p><span class="chinese">魅夸克有另一种特性，在探测夸克胶子介质时相当有用。</span><span class="english">Charm quarks have another characteristic useful for probing the quark- gluon medium.</span></p>

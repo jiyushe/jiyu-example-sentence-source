@@ -1,5 +1,7 @@
 # amazement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amazement.md)
+
 <p><span class="chinese">她用惧怕和骇怪的目光凝望着。</span><span class="english">She gazed in fear and amazement.</span></p>
 
 <p><span class="chinese">她惊奇得瞪著眼发愣。</span><span class="english">She was pop-eyed with amazement.</span></p>

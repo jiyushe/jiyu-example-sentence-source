@@ -1,5 +1,7 @@
 # radium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radium.md)
+
 <p><span class="chinese">镭疗了吗?</span><span class="english">Radium?</span></p>
 
 <p><span class="chinese">氡来自镭的衰变。</span><span class="english">Radon comes from radium decay.</span></p>

@@ -1,5 +1,7 @@
 # stamper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stamper.md)
+
 <p><span class="chinese">再进入压模机中压制成形。</span><span class="english">Which gets crammed into a press-form with a stamper inside.</span></p>
 
 <p><span class="chinese">接下来的过程时从母版生成一个生产压模。</span><span class="english">The next step is to produce a production stamper from the master.</span></p>

@@ -1,5 +1,7 @@
 # 伤疤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangba.md)
+
 <p><span class="chinese">是这些伤疤么？</span><span class="english">Is it the scars?</span></p>
 
 <p><span class="chinese">年代久远，伤疤依旧。</span><span class="english">Ages ago, scar remains.</span></p>

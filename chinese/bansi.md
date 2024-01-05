@@ -1,5 +1,7 @@
 # 半死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bansi.md)
+
 <p><span class="chinese">我们被吓个半死！</span><span class="english">You scared us half to death!</span></p>
 
 <p><span class="chinese">感谢他们把自己吓个半死？</span><span class="english">For scaring him half to death?</span></p>

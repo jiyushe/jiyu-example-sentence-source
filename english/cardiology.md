@@ -1,5 +1,7 @@
 # cardiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardiology.md)
+
 <p><span class="chinese">一般内科，家庭医学科，心脏内科，胸腔内科。</span><span class="english">General Medicine, Family Medicine, Cardiology Internal, Chest Medicine.</span></p>
 
 <p><span class="chinese">存活心肌的研究是目前心脏病学的研究热点之一。</span><span class="english">Study on viable myocardium is one of the hot issues in modern cardiology.</span></p>

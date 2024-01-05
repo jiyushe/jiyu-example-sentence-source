@@ -1,5 +1,7 @@
 # pliancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pliancy.md)
+
 <p><span class="chinese">运用光标暗示来表达受范性。</span><span class="english">Use cursor hinting to indicate pliancy.</span></p>
 
 <p><span class="chinese">可移动的分割线应该借助光标暗示显示其受范性。</span><span class="english">Movable splitters should always advertise their pliancy with cursor hinting.</span></p>

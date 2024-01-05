@@ -1,5 +1,7 @@
 # ferromagnetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferromagnetic.md)
+
 <p><span class="chinese">目的构造一维无阻尼铁磁链方程的多项式精确解。</span><span class="english">Aim To construct explicit and polynomial solutions of ferromagnetic chain equation.</span></p>
 
 <p><span class="chinese">在一维绝缘铁磁链系统基础上建立了一个磁振子-声子相互作用模型。</span><span class="english">A magnon-phonon interaction model is built in one dimensional insulated ferromagnetic chain.</span></p>

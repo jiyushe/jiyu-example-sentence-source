@@ -1,5 +1,7 @@
 # axillary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axillary.md)
+
 <p><span class="chinese">沿着我稚嫩的手臂，流进腋窝。</span><span class="english">Along my tender arm, into the axillary.</span></p>
 
 <p><span class="chinese">腋窝的，叶腋的，腋生的。</span><span class="english">Armpit, axilla, axillary cavity , axillary fossa.</span></p>

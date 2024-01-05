@@ -1,5 +1,7 @@
 # 追根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuigen.md)
+
 <p><span class="chinese">我们很难对大多数宗教节日追根朔源。</span><span class="english">It can be hard to keep track of the many religious holidays.</span></p>
 
 <p><span class="chinese">没有追根揭底必要，也知你我只有这样短暂的缘分，注定是这样的交叉而过。</span><span class="english">No it propose necessary, you me the only way short of fate, destined to be the cross.</span></p>

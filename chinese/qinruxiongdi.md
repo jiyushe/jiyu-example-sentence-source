@@ -1,5 +1,7 @@
 # 亲如兄弟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinruxiongdi.md)
+
 <p><span class="chinese">我只是在想我们，你知道，亲如兄弟。</span><span class="english">I just thought we'd, you know, fraternize.</span></p>
 
 <p><span class="chinese">他相信各民族间都应亲如兄弟。</span><span class="english">He believes in the brotherhood of all peoples.</span></p>

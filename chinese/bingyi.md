@@ -1,5 +1,7 @@
 # 兵役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyi.md)
+
 <p><span class="chinese">这个王子也对兵役没兴趣</span><span class="english">He also didn't like military service.</span></p>
 
 <p><span class="chinese">你没有债务，没有仇家，四年的兵役。</span><span class="english">You've got no debts, no enimies, four years of service.</span></p>

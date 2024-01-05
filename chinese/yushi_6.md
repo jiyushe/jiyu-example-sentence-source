@@ -1,5 +1,7 @@
 # 鱼市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushi_6.md)
+
 <p><span class="chinese">村里的鱼市买卖繁忙。</span><span class="english">The village fish markets are busy.</span></p>
 
 <p><span class="chinese">你爸爸在鱼市工作。</span><span class="english">Your dad works at the fish market.</span></p>

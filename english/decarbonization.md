@@ -1,5 +1,7 @@
 # decarbonization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decarbonization.md)
+
 <p><span class="chinese">先确认表面是否存在脱碳现象。</span><span class="english">Make sure decarbonization was not found on the surface of the sample.</span></p>
 
 <p><span class="chinese">升级改造需要资金，但这要比脱碳费用低。</span><span class="english">These changes will cost money, but they should be cheaper than decarbonization.</span></p>

@@ -1,5 +1,7 @@
 # 明人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingren_1.md)
+
 <p><span class="chinese">警察认明人质是迪特尔霍斯。</span><span class="english">Police identified the hostage as Dieter Hoss.</span></p>
 
 <p><span class="chinese">警察认明人质是迪特尔霍斯。</span><span class="english">Police identified the hostage as dieter hoses.</span></p>

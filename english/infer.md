@@ -1,5 +1,7 @@
 # infer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infer.md)
+
 <p><span class="chinese">嗯，你们可以推断一下。</span><span class="english">Well, you can kind of infer.</span></p>
 
 <p><span class="chinese">我们可以推断黑棋输了。</span><span class="english">We can infer that black lost.</span></p>

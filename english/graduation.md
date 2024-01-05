@@ -1,5 +1,7 @@
 # graduation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graduation.md)
+
 <p><span class="chinese">毕业后他开始从事写作。</span><span class="english">He took up writing after graduation.</span></p>
 
 <p><span class="chinese">我们毕业分配工作了。</span><span class="english">Our job assignment on graduation worked.</span></p>

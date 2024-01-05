@@ -1,5 +1,7 @@
 # leaflet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaflet.md)
+
 <p><span class="chinese">他们正在为慈善事业发传单。</span><span class="english">They were giving out the leaflet for the charity.</span></p>
 
 <p><span class="chinese">昨天她在信箱里发现了一张宣传单。</span><span class="english">Yesterday she found this  leaflet in her letter-box.</span></p>

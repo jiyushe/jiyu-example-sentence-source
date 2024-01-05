@@ -1,5 +1,7 @@
 # 滋扰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zirao.md)
+
 <p><span class="chinese">那些野餐的人受到了蜜蜂的滋扰。</span><span class="english">The picnickers were annoyed by the bees.</span></p>
 
 <p><span class="chinese">牧场上的马不断受马蝇滋扰。</span><span class="english">The horse in the meadow is pestered by flies.</span></p>

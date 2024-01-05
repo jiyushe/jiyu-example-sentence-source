@@ -1,5 +1,7 @@
 # 简朴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianpiao.md)
+
 <p><span class="chinese">她的衣着很简朴。</span><span class="english">Her dress is severely plain.</span></p>
 
 <p><span class="chinese">言承旭也是一个很简朴的人。</span><span class="english">Jerry Yan is also a simple person.</span></p>

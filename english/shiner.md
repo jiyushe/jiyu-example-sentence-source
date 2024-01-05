@@ -1,5 +1,7 @@
 # shiner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shiner.md)
+
 <p><span class="chinese">比利今天带着夏娜回家。</span><span class="english">Billy came home with a shiner today.</span></p>
 
 <p><span class="chinese">你有一双黑色的眼睛，炯炯有神。</span><span class="english">You had a black eye. A right bloody shiner.</span></p>

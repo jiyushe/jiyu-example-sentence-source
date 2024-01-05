@@ -1,5 +1,7 @@
 # 结实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshi_3.md)
+
 <p><span class="chinese">我的身体相当结实。</span><span class="english">I am a fairly strong man.</span></p>
 
 <p><span class="chinese">这些树每年结实。</span><span class="english">These trees fruit annually.</span></p>

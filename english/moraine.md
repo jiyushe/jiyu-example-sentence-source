@@ -1,5 +1,7 @@
 # moraine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moraine.md)
+
 <p><span class="chinese">地表覆盖着冰碛石。</span><span class="english">The ground is covered with moraine.</span></p>
 
 <p><span class="chinese">当地人告诉我说，莫莱茵湖是一颗晶莹碧透的蓝宝石。</span><span class="english">The local told me, Moraine Lake is a blue crystal gem.</span></p>

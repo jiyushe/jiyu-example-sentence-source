@@ -1,5 +1,7 @@
 # illy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illy.md)
+
 <p><span class="chinese">记得咖啡要喝本地“Illy”牌咖啡。</span><span class="english">Coffee has to be the local Illy brand.</span></p>
 
 <p><span class="chinese">手足口病的危害性？</span><span class="english">Does brothers mouth endanger a gender illy ?</span></p>

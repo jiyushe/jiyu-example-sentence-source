@@ -1,5 +1,7 @@
 # privity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/privity.md)
+
 <p><span class="chinese">契约相对性原则是契约法的基本原则。</span><span class="english">The privity of contract is a basic rule of contract law.</span></p>
 
 <p><span class="chinese">火灾，但由于承运人的实际过失或私谋所引起的除外。</span><span class="english">Fire, unless caused by the actual fault or privity of the carrier.</span></p>

@@ -1,5 +1,7 @@
 # 药棉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaomian.md)
+
 <p><span class="chinese">您是否需要一些药棉呢？</span><span class="english">Do you need some absorbent cotton?</span></p>
 
 <p><span class="chinese">她用药棉轻轻地按了按伤口。</span><span class="english">She dabbed at the cut with cotton wool.</span></p>

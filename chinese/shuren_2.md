@@ -1,5 +1,7 @@
 # 熟稔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuren_2.md)
+
 <p><span class="chinese">佛古森教授不仅熟稔学说与思想，更加理解人类。</span><span class="english">Professor Ferguson understood not only doctrines and ideas, but people.</span></p>
 
 <p><span class="chinese">学员还必须同时熟稔佛洛伊德理论，最后临床为病人进行精神分析。</span><span class="english">The candidates must also learn theory and, eventually, analyze patients.</span></p>

@@ -1,5 +1,7 @@
 # inventory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inventory.md)
+
 <p><span class="chinese">把快乐制成存货单。</span><span class="english">Take a joy inventory.</span></p>
 
 <p><span class="chinese">您如何检查您的清单？</span><span class="english">How do you check your inventory?</span></p>

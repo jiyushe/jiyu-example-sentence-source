@@ -1,5 +1,7 @@
 # parthenon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parthenon.md)
+
 <p><span class="chinese">当然帕特农神庙，是在雅典举行。</span><span class="english">The Parthenon , of course, is in Athens.</span></p>
 
 <p><span class="chinese">帕台农神庙是一座宏伟的建筑物。</span><span class="english">The Parthenon is a magnificent structure.</span></p>

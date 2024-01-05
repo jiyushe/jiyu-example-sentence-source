@@ -1,5 +1,7 @@
 # radiator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiator.md)
+
 <p><span class="chinese">我坐在电暖炉旁边。</span><span class="english">I sit by the radiator.</span></p>
 
 <p><span class="chinese">想念暖气片。</span><span class="english">I miss the heating radiator.</span></p>

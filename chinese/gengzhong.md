@@ -1,5 +1,7 @@
 # 耕种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gengzhong.md)
+
 <p><span class="chinese">这块土地太湿，无法耕种。</span><span class="english">This land is too wet to till.</span></p>
 
 <p><span class="chinese">在他那小块土地上，他只能采用单一耕种法。</span><span class="english">He had to singel-crop on his plot.</span></p>

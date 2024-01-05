@@ -1,5 +1,7 @@
 # 横切面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengqiemian.md)
+
 <p><span class="chinese">犁鼻软骨的横切面呈“J”形。</span><span class="english">The vomeronasal cartilage is J-shaped in cross-section.</span></p>
 
 <p><span class="chinese">燃烧试验发现蚊香燃烧时间与蚊香横切面积有关。</span><span class="english">The combustion property was related to the cross-sectional area of incense.</span></p>

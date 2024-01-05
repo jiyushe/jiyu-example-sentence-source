@@ -1,5 +1,7 @@
 # gamesmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gamesmanship.md)
+
 <p><span class="chinese">要得到份好工作往往需要“搏一把”。</span><span class="english">Getting a good job often requires a bit of gamesmanship.</span></p>
 
 <p><span class="chinese">这是虐待狂式交谈伎俩的一次小演习。</span><span class="english">It's an exercise in sadistic conversational gamesmanship.</span></p>

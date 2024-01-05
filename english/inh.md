@@ -1,5 +1,7 @@
 # inh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inh.md)
+
 <p><span class="chinese">而在他看来，生命本身就不完善。</span><span class="english">And life, inh is opinion, is a kludge.</span></p>
 
 <p><span class="chinese">一个农夫有四贷种子放在仓库里，他望了望他那空旷的田地。</span><span class="english">A far mer has four sacks of seed inh is barn and he looks at his empty field.</span></p>

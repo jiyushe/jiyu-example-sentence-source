@@ -1,5 +1,7 @@
 # 小报告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaobaogao.md)
+
 <p><span class="chinese">有人打了你的小报告吗？</span><span class="english">And someone just reported you?</span></p>
 
 <p><span class="chinese">他过去常打同学的小报告。</span><span class="english">He used to inform against his classmates.</span></p>

@@ -1,5 +1,7 @@
 # pertain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pertain.md)
+
 <p><span class="chinese">这些问题无关非现实的或可能的生物类别。</span><span class="english">They do not pertain to non-actual, possible creatures.</span></p>
 
 <p><span class="chinese">这里的标准将不同于其他地方适用的标准。</span><span class="english">The criteria will be different from those that pertain elsewhere.</span></p>

@@ -1,5 +1,7 @@
 # 兴国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingguo.md)
+
 <p><span class="chinese">江西兴国被称为著名的灰鹅之乡。</span><span class="english">Xingguo in jiangxi the of the famous grey geese.</span></p>
 
 <p><span class="chinese">教育是兴国之本，更是百年大计。</span><span class="english">Education is fundamental to a country's enduring prosperity.</span></p>

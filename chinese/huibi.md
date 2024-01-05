@@ -1,5 +1,7 @@
 # 回避
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huibi.md)
+
 <p><span class="chinese">的5.回避微妙话题。</span><span class="english">Avoid subtlety.</span></p>
 
 <p><span class="chinese">回避送衣服、香水。</span><span class="english">Avoid clothes or perfume.</span></p>

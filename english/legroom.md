@@ -1,5 +1,7 @@
 # legroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legroom.md)
+
 <p><span class="chinese">选择有更宽敞伸腿空间的飞机。</span><span class="english">Choose planes with more legroom.</span></p>
 
 <p><span class="chinese">购买一个有额外放腿空间的经济舱座位。</span><span class="english">Buy a coach seat with extra legroom.</span></p>

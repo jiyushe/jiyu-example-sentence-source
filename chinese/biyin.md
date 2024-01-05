@@ -1,5 +1,7 @@
 # 鼻音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyin.md)
+
 <p><span class="chinese">他讲话时带着鼻音。</span><span class="english">He spoke with a nasal twang.</span></p>
 
 <p><span class="chinese">他说话的时候，鼻音很重。</span><span class="english">He speaks with a heavy twang.</span></p>

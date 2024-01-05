@@ -1,5 +1,7 @@
 # 养神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangshen.md)
+
 <p><span class="chinese">当车拐进一个街角时，这个天使悠闲地闭上眼睛养神。</span><span class="english">The angel shut his eyes as the car crabbed around a corner.</span></p>
 
 <p><span class="chinese">天气好时你可以看到许多海龟在沙滩上养神。</span><span class="english">In fine weather you can find many green turtles reposing on the sand.</span></p>

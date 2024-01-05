@@ -1,5 +1,7 @@
 # yeo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yeo.md)
+
 <p><span class="chinese">罗武唯一的朋友便是同年纪的俊浩及宠物猫猫。</span><span class="english">His only friends are Junho and his cat yeo.</span></p>
 
 <p><span class="chinese">这是他们的一件大事，”Yeo说。</span><span class="english">It is quite a major thing for them," Yeo said.</span></p>

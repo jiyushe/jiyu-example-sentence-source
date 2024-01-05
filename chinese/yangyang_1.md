@@ -1,5 +1,7 @@
 # 扬扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangyang_1.md)
+
 <p><span class="chinese">他扬扬得意地举起了他的奖品。</span><span class="english">He held up the prize in triumph.</span></p>
 
 <p><span class="chinese">罗伯特正得意扬扬地看着我。</span><span class="english">Robert was looking at me triumphantly.</span></p>

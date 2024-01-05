@@ -1,5 +1,7 @@
 # 悄然无声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoranwusheng.md)
+
 <p><span class="chinese">厕所里一尘不染，悄然无声。</span><span class="english">The room was spotless and silent.</span></p>
 
 <p><span class="chinese">你醒来时间已经悄然无声地溜走。</span><span class="english">You wake up and time has slipped away.</span></p>

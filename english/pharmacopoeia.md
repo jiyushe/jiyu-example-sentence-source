@@ -1,5 +1,7 @@
 # pharmacopoeia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharmacopoeia.md)
+
 <p><span class="chinese">萃取后乳酸钙中铁盐含量达到药典标准。</span><span class="english">The calcium lactate by extraction could reach pharmacopoeia standard.</span></p>
 
 <p><span class="chinese">本方法简便、快捷、准确、重现性好，完成了国家药典委员会下达的任务。</span><span class="english">We have accomplished the mission that allotted by the Committee of Pharmacopoeia.</span></p>

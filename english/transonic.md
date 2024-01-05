@@ -1,5 +1,7 @@
 # transonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transonic.md)
+
 <p><span class="chinese">在跨音速马赫数范围内需要经验结果。</span><span class="english">Empirical results are needed in the transonic Mach regime.</span></p>
 
 <p><span class="chinese">在跨音速马赫数范围内需要经验结果。</span><span class="english">Empirical results are needed in the transonic mach regime.</span></p>

@@ -1,5 +1,7 @@
 # recrimination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recrimination.md)
+
 <p><span class="chinese">自我检讨和相互指责是以后的事。</span><span class="english">Review and recrimination will come later.</span></p>
 
 <p><span class="chinese">痛苦来临后，我立即开始辩护与反责。</span><span class="english">Immediately following the pain is the justification and recrimination.</span></p>

@@ -1,5 +1,7 @@
 # 必不可少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bibukeshao.md)
+
 <p><span class="chinese">但献身精神是必不可少的。</span><span class="english">But dedication is a must.</span></p>
 
 <p><span class="chinese">蔗糖是日常饮食中必不可少的。</span><span class="english">Sucrose is essentially table sugar.</span></p>

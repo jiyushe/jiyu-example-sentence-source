@@ -1,5 +1,7 @@
 # 生活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenghuo_1.md)
+
 <p><span class="chinese">生活是忙碌的。</span><span class="english">Life is busy.</span></p>
 
 <p><span class="chinese">我的生活满是乐趣。</span><span class="english">My life is joy.</span></p>

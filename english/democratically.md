@@ -1,5 +1,7 @@
 # democratically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/democratically.md)
+
 <p><span class="chinese">实行科学民主决策。</span><span class="english">We will make decisions scientifically and democratically.</span></p>
 
 <p><span class="chinese">昂山素季在1990年的民主选举中当选缅甸政府首脑。</span><span class="english">Suu Kyi was elected democratically as Burma’s president in 1990.</span></p>

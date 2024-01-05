@@ -1,5 +1,7 @@
 # 园林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanlin.md)
+
 <p><span class="chinese">他在园林里遇到了莉莎。</span><span class="english">He met Liza in his park.</span></p>
 
 <p><span class="chinese">想做一个园林设计师？</span><span class="english">Want to be a landscaper?</span></p>

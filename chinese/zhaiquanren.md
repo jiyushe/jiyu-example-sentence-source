@@ -1,5 +1,7 @@
 # 债权人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaiquanren.md)
+
 <p><span class="chinese">他对他的债权人赖账。</span><span class="english">He bilked his creditors.</span></p>
 
 <p><span class="chinese">债权人净资产值就是负债。</span><span class="english">The creditor'sequity is the same as liabilities.</span></p>

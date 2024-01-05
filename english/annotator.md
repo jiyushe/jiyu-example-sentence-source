@@ -1,5 +1,7 @@
 # annotator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annotator.md)
+
 <p><span class="chinese">标注器是基本的文本分析组件。</span><span class="english">An Annotator is the basic text analysis component.</span></p>
 
 <p><span class="chinese">用在表注释器内以选择一整列。</span><span class="english">Use inside the table annotator to select an entire column.</span></p>

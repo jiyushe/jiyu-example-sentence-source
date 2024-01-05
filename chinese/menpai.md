@@ -1,5 +1,7 @@
 # 门牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menpai.md)
+
 <p><span class="chinese">他给了她门牌号码。</span><span class="english">He gave her the number.</span></p>
 
 <p><span class="chinese">灿烂的阳光照在商店门牌上。</span><span class="english">The sun shines on the shop sighs.</span></p>

@@ -1,5 +1,7 @@
 # coagulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coagulation.md)
+
 <p><span class="chinese">加速血液凝固。</span><span class="english">Acceleration blood coagulation.</span></p>
 
 <p><span class="chinese">以什么来实现电凝呢？</span><span class="english">What to Achieve with Coagulation?</span></p>

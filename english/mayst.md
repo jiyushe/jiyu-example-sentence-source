@@ -1,5 +1,7 @@
 # mayst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mayst.md)
+
 <p><span class="chinese">你自己的榜样就会招来拒绝。</span><span class="english">By self-example mayst thou be denied.</span></p>
 
 <p><span class="chinese">你可能变心，而我全然不知。</span><span class="english">Thou mayst be false, and yet I know it not.</span></p>

@@ -1,5 +1,7 @@
 # joy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joy.md)
+
 <p><span class="chinese">我的生活满是乐趣。</span><span class="english">My life is joy.</span></p>
 
 <p><span class="chinese">你就是我的快乐。</span><span class="english">You are my Joy.</span></p>

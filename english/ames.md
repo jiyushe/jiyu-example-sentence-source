@@ -1,5 +1,7 @@
 # ames
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ames.md)
+
 <p><span class="chinese">你想的可真周到,艾姆斯。</span><span class="english">You thought of everything, Ames.</span></p>
 
 <p><span class="chinese">而且，艾姆斯市是招徕自己支持者投票的地方。</span><span class="english">Moreover, Ames is a bring-your-own-voters affair.</span></p>

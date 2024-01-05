@@ -1,5 +1,7 @@
 # gastroscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastroscope.md)
+
 <p><span class="chinese">做胃镜难受么？大概需要多少钱？</span><span class="english">Do gastroscope afflictive? How many money to need probably?</span></p>
 
 <p><span class="chinese">目的了解胃镜污染状况。</span><span class="english">OBJECTIVE To understand the status of gastroscope contamination.</span></p>

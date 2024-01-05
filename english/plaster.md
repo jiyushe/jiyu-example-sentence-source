@@ -1,5 +1,7 @@
 # plaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plaster.md)
+
 <p><span class="chinese">他贴一膏药。</span><span class="english">He applied a plaster.</span></p>
 
 <p><span class="chinese">你可以给我一个创口贴吗？</span><span class="english">Can you give me a plaster?</span></p>

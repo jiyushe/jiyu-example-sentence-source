@@ -1,5 +1,7 @@
 # cora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cora.md)
+
 <p><span class="chinese">柯拉完全是个服服贴贴的妻子。</span><span class="english">Cora is quite simply a browbeaten wife.</span></p>
 
 <p><span class="chinese">卡罗小心地端着卡拉的胡萝卜。</span><span class="english">Carol carefully carried Cora 's carrots.</span></p>

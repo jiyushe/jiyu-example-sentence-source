@@ -1,5 +1,7 @@
 # 载歌载舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaigezaiwu.md)
+
 <p><span class="chinese">我就想载歌载舞。</span><span class="english">I want to dance and sing.</span></p>
 
 <p><span class="chinese">整个夜晚人们载歌载舞。</span><span class="english">All night long, people dance and sing.</span></p>

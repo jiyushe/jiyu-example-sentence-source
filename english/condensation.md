@@ -1,5 +1,7 @@
 # condensation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condensation.md)
+
 <p><span class="chinese">有一点点凝结。</span><span class="english">A little bit of condensation.</span></p>
 
 <p><span class="chinese">金山和小文的笑容凝结。</span><span class="english">Jinshan and xiaowen condensation smile.</span></p>

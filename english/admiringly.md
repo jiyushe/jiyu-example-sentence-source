@@ -1,5 +1,7 @@
 # admiringly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admiringly.md)
+
 <p><span class="chinese">“看来你是个真正的世界公民。”我钦慕地说道。</span><span class="english">"You seem to be a genuine cosmopolite, " I said admiringly.</span></p>
 
 <p><span class="chinese">皇后试穿新衣帽时，皇上在一旁美滋滋地看着。</span><span class="english">As she tried on the new coat and hat, the tsar looked on admiringly.</span></p>

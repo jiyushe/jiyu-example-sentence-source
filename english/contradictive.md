@@ -1,5 +1,7 @@
 # contradictive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contradictive.md)
+
 <p><span class="chinese">学术是自由探索与遵循规范的矛盾与辩证统一。</span><span class="english">Their relation in academic activities is both contradictive and unitive.</span></p>
 
 <p><span class="chinese">乌克鲍尔是一个矛盾、虚伪的人，肩负着与我们许多人一样的责任。</span><span class="english">Uxbal is a contradictive and hypocritical character with similar responsibilities to so many of us.</span></p>

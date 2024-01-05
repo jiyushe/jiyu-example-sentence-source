@@ -1,5 +1,7 @@
 # dogleg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dogleg.md)
+
 <p><span class="chinese">这个球洞有个朝左的弯道。</span><span class="english">This hole has a dogleg to the left.</span></p>
 
 <p><span class="chinese">长右狗腿上斜四杆洞，果岭升起左。</span><span class="english">Upslope long Par 4, dogleg right, elevated green.</span></p>

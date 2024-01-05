@@ -1,5 +1,7 @@
 # 云山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunshan.md)
+
 <p><span class="chinese">云山，你知道么？</span><span class="english">Yun-shan, do you know what?</span></p>
 
 <p><span class="chinese">欢迎来到云山饭店。</span><span class="english">Welcome to the Yunshan Hotel.</span></p>

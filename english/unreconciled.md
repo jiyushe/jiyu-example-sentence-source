@@ -1,5 +1,7 @@
 # unreconciled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreconciled.md)
+
 <p><span class="chinese">然而，我不甘心。</span><span class="english">However, I am unreconciled.</span></p>
 
 <p><span class="chinese">而失败者是不会甘心的。</span><span class="english">And the loser is unreconciled.</span></p>

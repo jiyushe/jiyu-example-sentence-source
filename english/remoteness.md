@@ -1,5 +1,7 @@
 # remoteness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remoteness.md)
+
 <p><span class="chinese">雅库茨克的遥远也很不一般。</span><span class="english">Yakutsk's remoteness is also extraordinary.</span></p>
 
 <p><span class="chinese">那表现出了君主统治远隔性的悲哀部分。</span><span class="english">That’s a sad part of the remoteness of the monarchy.</span></p>

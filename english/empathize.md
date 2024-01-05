@@ -1,5 +1,7 @@
 # empathize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empathize.md)
+
 <p><span class="chinese">心领神会。</span><span class="english">Empathize.</span></p>
 
 <p><span class="chinese">也许第一个最关键的方法就是引起共鸣。</span><span class="english">The first and probably most important way is to empathize.</span></p>

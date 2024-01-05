@@ -1,5 +1,7 @@
 # 限令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianling_4.md)
+
 <p><span class="chinese">川普总统说，旅游限令对国家安全至关重要。</span><span class="english">The president said the order was vital for national security.</span></p>
 
 <p><span class="chinese">星期日，他限令内阁在100天内改进工作，否则就被罢免。</span><span class="english">On Sunday, he gave his cabinet 100 days to improve or be fired.</span></p>

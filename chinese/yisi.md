@@ -1,5 +1,7 @@
 # 意思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yisi.md)
+
 <p><span class="chinese">我的意思是，喜欢！</span><span class="english">I mean, sheesh!</span></p>
 
 <p><span class="chinese">我是什么意思呢？</span><span class="english">What do I mean?</span></p>

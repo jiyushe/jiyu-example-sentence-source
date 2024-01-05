@@ -1,5 +1,7 @@
 # bedclothes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedclothes.md)
+
 <p><span class="chinese">那孩子弄乱了床罩。</span><span class="english">The child had disarrayed the bedclothes.</span></p>
 
 <p><span class="chinese">你应该使被褥保持干净、干燥。</span><span class="english">You should keep your bedclothes clean and dry.</span></p>

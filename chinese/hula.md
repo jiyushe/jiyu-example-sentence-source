@@ -1,5 +1,7 @@
 # 呼啦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hula.md)
+
 <p><span class="chinese">风卷红旗呼啦呼啦地响。</span><span class="english">The red flags are flapping in the wind.</span></p>
 
 <p><span class="chinese">我有没有说过我会弄到票的？呼啦！</span><span class="english">Did I say I was gonna scour the tickets? Wola.</span></p>

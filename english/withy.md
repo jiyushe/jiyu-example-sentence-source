@@ -1,5 +1,7 @@
 # withy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/withy.md)
+
 <p><span class="chinese">钢索的柔韧性足够承受这样的重量。</span><span class="english">The cable is withy and strong enough to hold such weight.</span></p>
 
 <p><span class="chinese">建议购买那些手感细腻，柔韧性能佳的。</span><span class="english">The proposal buys those feel exquisite, of withy function beautiful.</span></p>

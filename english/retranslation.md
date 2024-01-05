@@ -1,5 +1,7 @@
 # retranslation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retranslation.md)
+
 <p><span class="chinese">也就是说我读过许多文学作品。</span><span class="english">Thereby, the retranslation of literary works is i.</span></p>
 
 <p><span class="chinese">重译或复译是文学翻译的必然趋势。</span><span class="english">Retranslation is a necessity of literary translation.</span></p>

@@ -1,5 +1,7 @@
 # nicety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nicety.md)
+
 <p><span class="chinese">他已经巧妙地排下了一天的工作程序。</span><span class="english">He figured out his program for the day to a nicety.</span></p>
 
 <p><span class="chinese">难道只有想象中的一切才会变得越来越美好。</span><span class="english">Is everything only in fancy becoming more and more nicety ?</span></p>

@@ -1,5 +1,7 @@
 # unlisted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlisted.md)
+
 <p><span class="chinese">他有一个未入册的电话号码。</span><span class="english">He had an unlisted number.</span></p>
 
 <p><span class="chinese">雪利敦路有个罗伯特C。布朗，但是号码没有列入电话簿。</span><span class="english">I have a Robert C. Brown on Sheridan Road, but it's an unlisted number.</span></p>

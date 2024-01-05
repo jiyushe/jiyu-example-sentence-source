@@ -1,5 +1,7 @@
 # 迷失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mishi_2.md)
+
 <p><span class="chinese">迷失在幸福里！</span><span class="english">Lost in the Happiness!</span></p>
 
 <p><span class="chinese">迷失在这假面舞会里。</span><span class="english">We're lost in a masquerade.</span></p>

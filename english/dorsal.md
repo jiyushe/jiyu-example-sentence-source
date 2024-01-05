@@ -1,5 +1,7 @@
 # dorsal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dorsal.md)
+
 <p><span class="chinese">如果她发烧，你可以给她做一下背部按摩。</span><span class="english">If she has fever, you can do the dorsal massage.</span></p>
 
 <p><span class="chinese">一条始于第一背脊骨基部。</span><span class="english">Starting at the base of the first dorsal spines.</span></p>

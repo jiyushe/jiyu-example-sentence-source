@@ -1,5 +1,7 @@
 # erigeron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erigeron.md)
+
 <p><span class="chinese">加拿大飞蓬是一种广泛分布于我国境内的入侵植物。</span><span class="english">Erigeron canadensis L. is an invasive plant widely distributed in China.</span></p>
 
 <p><span class="chinese">目的研究灯盏细辛视神经保护的活性成分。</span><span class="english">OBJECTIVE To investigate the optic neuroprotection components of Erigeron breviscapus.</span></p>

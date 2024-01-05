@@ -1,5 +1,7 @@
 # embolize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embolize.md)
+
 <p><span class="chinese">由于赘生物的易碎，因此极易脱落和引起栓塞。</span><span class="english">The friability explains how portions of the vegetation can break off and embolize.</span></p>
 
 <p><span class="chinese">目的评价应用球囊辅助技术栓塞颅内宽颈动脉瘤的效果。</span><span class="english">Objective To embolize intracranial wide-necked aneurYsms with balloon remodeling technique.</span></p>

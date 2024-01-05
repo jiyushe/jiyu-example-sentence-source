@@ -1,5 +1,7 @@
 # rosemary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosemary.md)
+
 <p><span class="chinese">芜荽，鼠尾草，迷迭香和百里香。</span><span class="english">Parsley sage, rosemary and thyme.</span></p>
 
 <p><span class="chinese">我很高兴小迷迭香在这里。</span><span class="english">I am glad Little Rosemary is here.</span></p>

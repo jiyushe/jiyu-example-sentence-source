@@ -1,5 +1,7 @@
 # vector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vector.md)
+
 <p><span class="chinese">向量求反。</span><span class="english">Negates a vector.</span></p>
 
 <p><span class="chinese">就是这个矢量。</span><span class="english">This is that vector.</span></p>

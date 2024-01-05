@@ -1,5 +1,7 @@
 # sericite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sericite.md)
+
 <p><span class="chinese">绢云母是一种质优价廉的矿物填料。</span><span class="english">Sericite is a new type of mineral filler.</span></p>
 
 <p><span class="chinese">分选出的绢云母矿物价值高。</span><span class="english">Valueof sericite ore is high by mineral seperation.</span></p>

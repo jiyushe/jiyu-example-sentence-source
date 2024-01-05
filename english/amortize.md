@@ -1,5 +1,7 @@
 # amortize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amortize.md)
+
 <p><span class="chinese">好的，我该分几年来摊销？</span><span class="english">How many years shall I amortize them?</span></p>
 
 <p><span class="chinese">费用在长期待摊费用账户中核算。</span><span class="english">Shall I amortize the long-term prepaid expenses?</span></p>

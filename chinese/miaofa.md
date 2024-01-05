@@ -1,5 +1,7 @@
 # 妙法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaofa.md)
+
 <p><span class="chinese">短讯是一个保持联系的妙法。</span><span class="english">Text messaging is a great way to stay connected.</span></p>
 
 <p><span class="chinese">他想出了一个解决困难的妙法。</span><span class="english">He thought out a good way to overcome the difficulty.</span></p>

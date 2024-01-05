@@ -1,5 +1,7 @@
 # 偏振
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianzhen.md)
+
 <p><span class="chinese">他停止偏振面板看着她。</span><span class="english">He unpolarized his faceplate and looked at her.</span></p>
 
 <p><span class="chinese">我极少在超广角镜头上使用偏振镜。</span><span class="english">I rarely use polarizers with ultra wide lenses.</span></p>

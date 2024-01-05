@@ -1,5 +1,7 @@
 # introgression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/introgression.md)
+
 <p><span class="chinese">在这种情况下可能发生渐渗现象。</span><span class="english">Introgression may take place in such situations.</span></p>
 
 <p><span class="chinese">实现它们之间的种质渗入是百合育种的主要方向之一。</span><span class="english">One of the main trends of lily breeding is to realize introgression between these groups.</span></p>

@@ -1,5 +1,7 @@
 # 死心塌地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixintadi.md)
+
 <p><span class="chinese">能让人对我死心塌地。</span><span class="english">Can make people hell-bent on me.</span></p>
 
 <p><span class="chinese">找一个值得死心塌地的人，好好爱。</span><span class="english">Find a worthy hell-bent person, love.</span></p>

@@ -1,5 +1,7 @@
 # 四化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihua.md)
+
 <p><span class="chinese">为四化而努力奋斗！</span><span class="english">Strive for the Four Modernizations!</span></p>
 
 <p><span class="chinese">有时候他四化分裂开他们。</span><span class="english">Sometimes he seemed to break them apart.</span></p>

@@ -1,5 +1,7 @@
 # grate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grate.md)
+
 <p><span class="chinese">要怎么磨碎整颗的肉豆蔻子？</span><span class="english">How do I grate whole nutmeg?</span></p>
 
 <p><span class="chinese">这种说法对我很刺耳。</span><span class="english">Such expressions rather grate on me.</span></p>

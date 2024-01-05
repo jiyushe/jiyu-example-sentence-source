@@ -1,5 +1,7 @@
 # retract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retract.md)
+
 <p><span class="chinese">她只好撤回她的控告。</span><span class="english">She had to retract her charge.</span></p>
 
 <p><span class="chinese">瓢虫可以将自己的头缩回到躯体中去。</span><span class="english">A ladybug can retract its head into its body.</span></p>

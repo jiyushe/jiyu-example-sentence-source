@@ -1,5 +1,7 @@
 # broaden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broaden.md)
+
 <p><span class="chinese">它们扩展建立。</span><span class="english">They broaden and build.</span></p>
 
 <p><span class="chinese">我们需要开阔我们的视野。</span><span class="english">We need to broaden our horizons.</span></p>

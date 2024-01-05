@@ -1,5 +1,7 @@
 # 耳旁风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erpangfeng.md)
+
 <p><span class="chinese">汤姆没把法官的警告当耳旁风。</span><span class="english">Tom heeded the judge's warning.</span></p>
 
 <p><span class="chinese">汤姆没把法官的警告当耳旁风。</span><span class="english">Linda heeded the judge's warning.</span></p>

@@ -1,5 +1,7 @@
 # morphine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morphine.md)
+
 <p><span class="chinese">泽克在谈到哺乳动物-制造的吗啡时说。</span><span class="english">Zenk said of the mammal-made morphine.</span></p>
 
 <p><span class="chinese">度冷丁是一种类似吗啡的药物。</span><span class="english">Meperidine is a drug similar to morphine.</span></p>

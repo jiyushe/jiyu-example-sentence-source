@@ -1,5 +1,7 @@
 # noninterference
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noninterference.md)
+
 <p><span class="chinese">文官治军、军队不干预内政的传统在宪法中得以体现。</span><span class="english">Thus the tradition of noninterference embodied in the Constitution.</span></p>
 
 <p><span class="chinese">我们互不干扰，从无怨言，从不争吵。</span><span class="english">Noninterference of our each other, from without complaint, never quarrel.</span></p>

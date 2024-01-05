@@ -1,5 +1,7 @@
 # fanaticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fanaticism.md)
+
 <p><span class="chinese">从狂热到野蛮，仅一步之遥。</span><span class="english">From fanaticism to barbarism is only one step.</span></p>
 
 <p><span class="chinese">告诉我，是怎么从做一桩善举，走上不归路的？</span><span class="english">At what point does a noble deed turn into fanaticism?</span></p>

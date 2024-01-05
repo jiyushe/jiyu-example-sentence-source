@@ -1,5 +1,7 @@
 # 民团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mintuan.md)
+
 <p><span class="chinese">征募的贵族民团和权贵的私军与他同行。</span><span class="english">With him went the noble levy and the private magnate armies.</span></p>
 
 <p><span class="chinese">贵族民团被解除他们义务，解散。</span><span class="english">The noble levy, deciding their duty was discharged, dispersed.</span></p>

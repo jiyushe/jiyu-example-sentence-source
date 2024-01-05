@@ -1,5 +1,7 @@
 # autograft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autograft.md)
+
 <p><span class="chinese">所有的病例都进行局部自体植骨。</span><span class="english">In all cases, local autograft was used.</span></p>
 
 <p><span class="chinese">自体髂嵴骨移植成为腰椎融合的传统方法。</span><span class="english">Iliac crest autograft bone has traditionally been used for lumbar fusion.</span></p>

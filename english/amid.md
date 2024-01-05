@@ -1,5 +1,7 @@
 # amid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amid.md)
+
 <p><span class="chinese">日日花前常病酒。</span><span class="english">Amid flowers I drink all day.</span></p>
 
 <p><span class="chinese">雨绵绵不断地下了一下午了。</span><span class="english">One day, amid a drizzling rain.</span></p>

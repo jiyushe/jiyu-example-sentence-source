@@ -1,5 +1,7 @@
 # surgical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surgical.md)
+
 <p><span class="chinese">他住在外科病房。</span><span class="english">He is in the surgical ward.</span></p>
 
 <p><span class="chinese">外科手术器械已收起来了。</span><span class="english">The surgical instruments were put away.</span></p>

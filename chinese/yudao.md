@@ -1,5 +1,7 @@
 # 遇到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yudao.md)
+
 <p><span class="chinese">看起来你遇到麻烦了。</span><span class="english">You look bothered.</span></p>
 
 <p><span class="chinese">我在一家酒吧遇到的她。</span><span class="english">I met her in a bar.</span></p>

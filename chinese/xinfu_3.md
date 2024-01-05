@@ -1,5 +1,7 @@
 # 心腹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfu_3.md)
+
 <p><span class="chinese">这个女人是她的心腹，给斯丹恩买通了的。</span><span class="english">Woman , woman , thou are accountable for this.</span></p>
 
 <p><span class="chinese">这是一种经济民族主义，稍有不慎即成心腹大患。</span><span class="english">This is economic nationalism, but of an insidious type.</span></p>

@@ -1,5 +1,7 @@
 # 小商品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshangpin.md)
+
 <p><span class="chinese">你好，欢迎光临浙商小商品网。</span><span class="english">Hello, Welcome to Zhejiang Commodity Net.</span></p>
 
 <p><span class="chinese">做服装小商品的商贸城就在火车站这一块。</span><span class="english">Apparel Commodity do business in the city railway station on this one.</span></p>

@@ -1,5 +1,7 @@
 # 小坐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozuo.md)
+
 <p><span class="chinese">直到你的到来，并与我小坐片刻。</span><span class="english">Until you come and sit awhile with me.</span></p>
 
 <p><span class="chinese">下班之后，我总喜欢在“夜巴黎”小坐片刻。</span><span class="english">After work, I always like "Night in Paris" sit awhile.</span></p>

@@ -1,5 +1,7 @@
 # 学力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueli.md)
+
 <p><span class="chinese">我和同学力强每天乘公共汽车上学。</span><span class="english">My classmate Li Qiang and I go to school by bys every day.</span></p>
 
 <p><span class="chinese">牛顿的运动三定律是现代学力学的重要组成部分。</span><span class="english">His three laws of motion form an essential component of modern physics.</span></p>

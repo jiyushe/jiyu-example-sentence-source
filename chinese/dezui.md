@@ -1,5 +1,7 @@
 # 得罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dezui.md)
+
 <p><span class="chinese">他们得罪了上帝。</span><span class="english">They had offended God.</span></p>
 
 <p><span class="chinese">要是我有什么地方得罪你了，那我很抱歉。</span><span class="english">I'm sorry if I offended you.</span></p>

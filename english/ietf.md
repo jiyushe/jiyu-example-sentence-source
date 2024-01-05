@@ -1,5 +1,7 @@
 # ietf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ietf.md)
+
 <p><span class="chinese">同时，也介绍了一个已经提交过的，针对IETF的解决方案。</span><span class="english">Also an introduction of a proposed solution for IETF.</span></p>
 
 <p><span class="chinese">MGCP是IETF制定的下一代网络中用于控制媒体网关的重要协议。</span><span class="english">MGCP is an important protocol used to control media gateway in next generation network developed by IETF.</span></p>

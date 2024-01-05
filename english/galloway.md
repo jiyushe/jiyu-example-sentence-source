@@ -1,5 +1,7 @@
 # galloway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galloway.md)
+
 <p><span class="chinese">加洛韦女士在首都工作。</span><span class="english">Ms. Galloway works in the nation's capital.</span></p>
 
 <p><span class="chinese">加洛韦教授说，动物性蛋白质起着巨大作用。</span><span class="english">Professor Galloway says animal protein plays a big part.</span></p>

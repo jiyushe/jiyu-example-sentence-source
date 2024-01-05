@@ -1,5 +1,7 @@
 # description 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/description.md)
+
 <p><span class="chinese">数据源描述。</span><span class="english">Data source description.</span></p>
 
 <p><span class="chinese">田雨符合耿玉斌的描述。</span><span class="english">Tian Yu fit Geng’s description.</span></p>

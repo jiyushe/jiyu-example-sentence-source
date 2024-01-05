@@ -1,5 +1,7 @@
 # potentiometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potentiometer.md)
+
 <p><span class="chinese">取出电位器螺丝的保护。</span><span class="english">Remove protection screw from the potentiometer.</span></p>
 
 <p><span class="chinese">数字电位器控制信号的输出强度，强度范围0―60毫安。</span><span class="english">The output intensity of digital potentiometer is 0-60 mA.</span></p>

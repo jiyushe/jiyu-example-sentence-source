@@ -1,5 +1,7 @@
 # stalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stalk.md)
+
 <p><span class="chinese">弯弯的背，像稻穗。</span><span class="english">She stoops like a rice stalk.</span></p>
 
 <p><span class="chinese">从淡绿茎秆里猛地冲出。</span><span class="english">Flung out of a pale green stalk.</span></p>

@@ -1,5 +1,7 @@
 # pledgor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pledgor.md)
+
 <p><span class="chinese">第六十四条出质人和质权人应当以书面形式订立质押合同。</span><span class="english">A pledgor and a pledgee shall conclude a pledge contract in writing.</span></p>
 
 <p><span class="chinese">在适用纽约州法律的信用支持附件或其它质押文件中被称为“出质人”。</span><span class="english">Referred to as Pledgor in the NY law CSA and other Pledge documentation.</span></p>

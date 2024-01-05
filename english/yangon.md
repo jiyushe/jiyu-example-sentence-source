@@ -1,5 +1,7 @@
 # yangon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yangon.md)
+
 <p><span class="chinese">自从成了英属缅甸的首都，仰光也没有了“灵魂”。</span><span class="english">Yangon had no "soul" either, when it became the capital of British Burma.</span></p>
 
 <p><span class="chinese">缅甸昨晚在该国最年夜都会仰光公告宵禁令。</span><span class="english">Myanmar issued on Tuesday night a curfew order in the country's biggest city of Yangon.</span></p>

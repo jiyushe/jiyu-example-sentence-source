@@ -1,5 +1,7 @@
 # alternator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alternator.md)
+
 <p><span class="chinese">检查电池或交流发电机。</span><span class="english">Check the battery or alternator.</span></p>
 
 <p><span class="chinese">我们需要这样的东西来推动这个交流发电机。</span><span class="english">We have the item that can move this alternator.</span></p>

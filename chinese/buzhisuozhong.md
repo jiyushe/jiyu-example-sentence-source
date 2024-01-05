@@ -1,5 +1,7 @@
 # 不知所终
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhisuozhong.md)
+
 <p><span class="chinese">他外出旅行不知所终。</span><span class="english">He got lost on the outward journey.</span></p>
 
 <p><span class="chinese">振锋转向曹老板入手，但曹老板已不知所终。</span><span class="english">Back to the boss of cao, but cao boss have go.</span></p>

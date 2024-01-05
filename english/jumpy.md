@@ -1,5 +1,7 @@
 # jumpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jumpy.md)
+
 <p><span class="chinese">见于神经质儿童、癫痫和神经官能症。</span><span class="english">See at jumpy children, epilepsy and neurosis.</span></p>
 
 <p><span class="chinese">如果时间太长，顾客会不耐烦的。</span><span class="english">The customers get jumpy if takes much longer.</span></p>

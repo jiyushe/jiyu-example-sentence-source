@@ -1,5 +1,7 @@
 # 穷苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongku.md)
+
 <p><span class="chinese">他出身于穷苦人家。</span><span class="english">He came from a poor family.</span></p>
 
 <p><span class="chinese">许多穷苦人聚集在门口。</span><span class="english">My hombres and me, we are poor people.</span></p>

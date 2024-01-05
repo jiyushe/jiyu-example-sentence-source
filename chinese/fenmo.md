@@ -1,5 +1,7 @@
 # 粉末
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenmo.md)
+
 <p><span class="chinese">紫红色粉末。</span><span class="english">Purple-red powder.</span></p>
 
 <p><span class="chinese">早晨的时候将剩余的粉末倒出。</span><span class="english">Dump out the powder in the morning.</span></p>

@@ -1,5 +1,7 @@
 # outweigh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outweigh.md)
+
 <p><span class="chinese">功大于过。</span><span class="english">One's merits outweigh one's short-comings.</span></p>
 
 <p><span class="chinese">不利因素远远超过了那可能获得的收益。</span><span class="english">The minuses far outweigh that possible gain.</span></p>

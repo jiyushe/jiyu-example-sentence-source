@@ -1,5 +1,7 @@
 # 遥控
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaokong.md)
+
 <p><span class="chinese">我犹有遥控汽車。</span><span class="english">I have a remote control car.</span></p>
 
 <p><span class="chinese">缸体加热器优于遥控启动器</span><span class="english">Block heaters beat remote starters</span></p>

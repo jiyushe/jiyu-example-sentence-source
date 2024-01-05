@@ -1,5 +1,7 @@
 # 压力锅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaliguo.md)
+
 <p><span class="chinese">他买了一个压力锅。</span><span class="english">He bought a pressure cooker.</span></p>
 
 <p><span class="chinese">安联球场就象一个压力锅。</span><span class="english">Allianz Arena will be a pressure cooker.</span></p>

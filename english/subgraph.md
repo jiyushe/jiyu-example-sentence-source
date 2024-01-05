@@ -1,5 +1,7 @@
 # subgraph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subgraph.md)
+
 <p><span class="chinese">你所要做的是将你的文字创建在一个子图中。</span><span class="english">All you need to do is create your text in a subgraph.</span></p>
 
 <p><span class="chinese">若图G含有生成欧拉子图，则称G是超欧拉的。</span><span class="english">A graph G is supereulerian if G has a spanning eulerian subgraph.</span></p>

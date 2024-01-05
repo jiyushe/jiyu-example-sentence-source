@@ -1,5 +1,7 @@
 # eprom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eprom.md)
+
 <p><span class="chinese">介绍了EPROM的潜能和设计应用。</span><span class="english">Introduced latent energy of EPROM & its design and application.</span></p>
 
 <p><span class="chinese">功放电路的控制逻辑由EPROM译码完成，简化了逻辑电路。</span><span class="english">The control logic of power switches is performed by EPROM chip.</span></p>

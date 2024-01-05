@@ -1,5 +1,7 @@
 # thievery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thievery.md)
+
 <p><span class="chinese">你知道，偷窃是人家的真实职业。</span><span class="english">You know, thievery is my true calling.</span></p>
 
 <p><span class="chinese">如果没有联带的后果，偷窃就不再有风险了。</span><span class="english">Thievery presents no risk if there are no further consequences.</span></p>

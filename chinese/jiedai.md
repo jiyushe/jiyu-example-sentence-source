@@ -1,5 +1,7 @@
 # 借贷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiedai.md)
+
 <p><span class="chinese">借贷记帐法原理。</span><span class="english">Debit-credit bookkeeping principle.</span></p>
 
 <p><span class="chinese">因此，国营企业被迫借贷。</span><span class="english">So state enterprises were forced to borrow.</span></p>

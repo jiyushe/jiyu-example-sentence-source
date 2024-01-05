@@ -1,5 +1,7 @@
 # GDP
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gdp.md)
+
 <p><span class="chinese">那就是整个GDP都无法再投资。</span><span class="english">The entire GDP cannot be invested.</span></p>
 
 <p><span class="chinese">这相当于喀拉拉邦国内生产总值的一半。</span><span class="english">This is equal to half Kerala’s GDP.</span></p>

@@ -1,5 +1,7 @@
 # 塘坝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangba.md)
+
 <p><span class="chinese">塘坝子葛仙山碳酸盐岩外来体中各种岩溶形态十分丰富。</span><span class="english">Gexianshan carbonate allochthon is rich in various karst features.</span></p>
 
 <p><span class="chinese">村民们准备自筹资金修建塘坝。</span><span class="english">The villagers have decided to raise funds to build a small reservoir.</span></p>

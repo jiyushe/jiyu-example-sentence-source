@@ -1,5 +1,7 @@
 # 白羽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiyu_1.md)
+
 <p><span class="chinese">白羽以为他这样想过于自私。</span><span class="english">BaiYu thought he think so too selfish.</span></p>
 
 <p><span class="chinese">小雏菊，那缀着白羽的金盾。</span><span class="english">The daisy, that white-feathered shield of gold.</span></p>

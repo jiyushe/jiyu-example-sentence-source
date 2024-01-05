@@ -1,5 +1,7 @@
 # marketing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marketing.md)
+
 <p><span class="chinese">我做市场。</span><span class="english">I do marketing.</span></p>
 
 <p><span class="chinese">原因在于市场营销和芬达的历史。</span><span class="english">Marketing and history.</span></p>

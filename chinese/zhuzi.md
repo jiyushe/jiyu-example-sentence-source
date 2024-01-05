@@ -1,5 +1,7 @@
 # 主子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzi.md)
+
 <p><span class="chinese">你们的主子是谁?。</span><span class="english">And who is your master?</span></p>
 
 <p><span class="chinese">奴才巴结主子。</span><span class="english">Underlings fawn on their bosses.</span></p>

@@ -1,5 +1,7 @@
 # talisman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talisman.md)
+
 <p><span class="chinese">让我走我会把这个护身符留给你的。</span><span class="english">Let me go and I will leave you this talisman.</span></p>
 
 <p><span class="chinese">另外，这将是对护符的最理想的测试。</span><span class="english">Plus, it will be the perfect test for the Talisman.</span></p>

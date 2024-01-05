@@ -1,5 +1,7 @@
 # islam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/islam.md)
+
 <p><span class="chinese">伊斯兰教有其优点。</span><span class="english">Islam has its merits.</span></p>
 
 <p><span class="chinese">伊斯兰都教授我们什么？</span><span class="english">What dose Islam teach?</span></p>

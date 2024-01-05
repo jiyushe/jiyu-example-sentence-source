@@ -1,5 +1,7 @@
 # bayern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bayern.md)
+
 <p><span class="chinese">拜仁在寻找一个边路防守球员。</span><span class="english">Bayern Munchen is looking for a defensive wing.</span></p>
 
 <p><span class="chinese">德国杯止步于四分之一决赛。</span><span class="english">FC Bayern DFB Cup campaign ended in the quarterfinals.</span></p>

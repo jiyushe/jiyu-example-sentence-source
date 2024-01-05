@@ -1,5 +1,7 @@
 # 老太太
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laotaitai.md)
+
 <p><span class="chinese">我看见一位老太太蹒跚前进。</span><span class="english">I saw an old woman barging.</span></p>
 
 <p><span class="chinese">这可怜的博斯克老太太。</span><span class="english">The poor old Bousque woman.</span></p>

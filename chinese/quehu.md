@@ -1,5 +1,7 @@
 # 确乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quehu.md)
+
 <p><span class="chinese">他们确乎是老朋友。</span><span class="english">They talked as old friends.</span></p>
 
 <p><span class="chinese">这确乎是很难见过或想到的场景。</span><span class="english">This is very difficult indeed be seen or thought of the scene.</span></p>

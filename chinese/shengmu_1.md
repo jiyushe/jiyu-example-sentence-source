@@ -1,5 +1,7 @@
 # 声母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengmu_1.md)
+
 <p><span class="chinese">徐闻黎话共有16个声母，49个韵母，8个声调。</span><span class="english">It has 16 initials, 49 finals and 8 tones.</span></p>
 
 <p><span class="chinese">韵母中的元音对声母系统演变的影响是其表现之一。</span><span class="english">Affection to initial from vowel is ont of them.</span></p>

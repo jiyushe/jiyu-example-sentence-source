@@ -1,5 +1,7 @@
 # attire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attire.md)
+
 <p><span class="chinese">看他们穿着奇装异服，他皱起了眉头。</span><span class="english">He frowns at their bizarre attire.</span></p>
 
 <p><span class="chinese">我把那些纽约套装都换成了夏威夷衬衫。</span><span class="english">I swapped my New York attire for Aloha shirts.</span></p>

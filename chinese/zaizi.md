@@ -1,5 +1,7 @@
 # 崽子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaizi.md)
+
 <p><span class="chinese">我完全不知道该把这个崽子怎麽办。</span><span class="english">I had no idea what to do with this whelp.</span></p>
 
 <p><span class="chinese">除了猪崽子以外，所有的孩子们都吃吃地笑开了。</span><span class="english">All the boys except Piggy started to giggle.</span></p>

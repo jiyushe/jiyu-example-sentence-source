@@ -1,5 +1,7 @@
 # 洋洋自得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangyangzide.md)
+
 <p><span class="chinese">峨眉老尼洋洋自得的说道。</span><span class="english">The E eyebrow old nun smugly says.</span></p>
 
 <p><span class="chinese">人们一定会联想到他的洋洋自得。</span><span class="english">One can certainly relate to his seeming elation.</span></p>

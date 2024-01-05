@@ -1,5 +1,7 @@
 # 流氓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liumang.md)
+
 <p><span class="chinese">你是个小流氓。</span><span class="english">You're a punk.</span></p>
 
 <p><span class="chinese">让我看看你，小流氓！</span><span class="english">Answer me, you scamp!</span></p>

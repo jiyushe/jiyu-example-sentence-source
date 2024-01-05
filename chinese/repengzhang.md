@@ -1,5 +1,7 @@
 # 热膨胀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/repengzhang.md)
+
 <p><span class="chinese">所有金属遇热膨胀，遇冷收缩。</span><span class="english">All metals expand with heat and contract with cold.</span></p>
 
 <p><span class="chinese">它们是热膨胀、汽化和介质击穿。</span><span class="english">They are thermal expansion, vaporization and dielectric breakdown.</span></p>

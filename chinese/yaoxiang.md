@@ -1,5 +1,7 @@
 # 遥想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoxiang.md)
+
 <p><span class="chinese">遥想那初春新叶。</span><span class="english">I thought of the new Spring leaves.</span></p>
 
 <p><span class="chinese">遥想当年，他是如此一个守口如瓶的人啊！</span><span class="english">Harking back, he was such a good guy who kept something dark!</span></p>

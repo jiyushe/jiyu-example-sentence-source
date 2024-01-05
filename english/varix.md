@@ -1,5 +1,7 @@
 # varix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varix.md)
+
 <p><span class="chinese">这种药可以缓解静脉曲张。</span><span class="english">This medicine can relieve the symptoms of varix.</span></p>
 
 <p><span class="chinese">门脉流量与食管静脉曲张严重程度相一致，并与曲张出血有关。</span><span class="english">The amount of portal blood flow paralleled the severity of esophageal varix.</span></p>

@@ -1,5 +1,7 @@
 # stile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stile.md)
+
 <p><span class="chinese">越过一段台阶在左边。</span><span class="english">It's left, over a stile.</span></p>
 
 <p><span class="chinese">帮助跛足的狗越过栅栏。</span><span class="english">Help a lame dog over stile.</span></p>

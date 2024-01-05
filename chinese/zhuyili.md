@@ -1,5 +1,7 @@
 # 注意力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyili.md)
+
 <p><span class="chinese">到底什么事物能让你的注意力分散呢？</span><span class="english">What distracts you?</span></p>
 
 <p><span class="chinese">他是一个注意力不集中的人。</span><span class="english">He is a scatterbrain.</span></p>

@@ -1,5 +1,7 @@
 # 莫名其妙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/momingqimiao.md)
+
 <p><span class="chinese">他的行为使她莫名其妙。</span><span class="english">His behaviour confounded her.</span></p>
 
 <p><span class="chinese">一半的时间，得到的结果都是莫名其妙。</span><span class="english">Half the time I get an odd result.</span></p>

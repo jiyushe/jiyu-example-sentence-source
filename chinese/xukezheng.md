@@ -1,5 +1,7 @@
 # 许可证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xukezheng.md)
+
 <p><span class="chinese">出口自动许可证号。</span><span class="english">Automatic export licence No.</span></p>
 
 <p><span class="chinese">没有许可证不准入内。</span><span class="english">No entrance without a permit.</span></p>

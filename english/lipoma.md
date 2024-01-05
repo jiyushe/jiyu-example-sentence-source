@@ -1,5 +1,7 @@
 # lipoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lipoma.md)
+
 <p><span class="chinese">是的，切实是脂肪瘤。</span><span class="english">Yes. it's lipoma.</span></p>
 
 <p><span class="chinese">恶性脂肪瘤会转癌吗？</span><span class="english">Can malign lipoma turn cancer?</span></p>

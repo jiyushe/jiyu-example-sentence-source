@@ -1,5 +1,7 @@
 # designee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/designee.md)
+
 <p><span class="chinese">培训将由现场经理或其指派的专员开展。</span><span class="english">Training will be performed by the site manager or their designee.</span></p>
 
 <p><span class="chinese">由客运铁路系统和联邦铁路局或其委派人员审计执行情况。</span><span class="english">Be audited for compliance by the passenger railroad and FRA or FRA’s designee.</span></p>

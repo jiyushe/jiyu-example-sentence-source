@@ -1,5 +1,7 @@
 # incubator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incubator.md)
+
 <p><span class="chinese">我还是去看了在保育箱里的Ilaria。</span><span class="english">I went to see Ilaria in her incubator.</span></p>
 
 <p><span class="chinese">孩子在恒温箱里待了两个多星期。</span><span class="english">They kept her in an incubator for two weeks.</span></p>

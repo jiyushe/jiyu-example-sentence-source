@@ -1,5 +1,7 @@
 # 受苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouku.md)
+
 <p><span class="chinese">求你不要叫我受苦。</span><span class="english">I beseech thee, torment me not.</span></p>
 
 <p><span class="chinese">跳跃，低落，生来受苦。</span><span class="english">Jumped, humped, born to suffer.</span></p>

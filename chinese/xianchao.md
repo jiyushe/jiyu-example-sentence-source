@@ -1,5 +1,7 @@
 # 现钞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianchao.md)
+
 <p><span class="chinese">今天的汇率现钞价是100美元可兑换730元。</span><span class="english">Today's rate is 730 yuan for 100 dollars in notes.</span></p>
 
 <p><span class="chinese">我们100美圆的现钞买入价是523元。</span><span class="english">Our buying rate for notes is 523 yuan for 100 dollars.</span></p>

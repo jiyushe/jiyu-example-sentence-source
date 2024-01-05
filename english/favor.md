@@ -1,5 +1,7 @@
 # favor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favor.md)
+
 <p><span class="chinese">我很赞同龙应台女士的观点。</span><span class="english">I am in favor of Mrs.</span></p>
 
 <p><span class="chinese">我可以请你帮个忙吗？</span><span class="english">May I ask you a favor?</span></p>

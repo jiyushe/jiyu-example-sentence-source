@@ -1,5 +1,7 @@
 # 解题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieti_2.md)
+
 <p><span class="chinese">这就是公式化解题的方法</span><span class="english">This is how you formulate problems.</span></p>
 
 <p><span class="chinese">这两本书都是以解题为主的。</span><span class="english">Both books are strongly solution-oriented.</span></p>

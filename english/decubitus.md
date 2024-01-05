@@ -1,5 +1,7 @@
 # decubitus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decubitus.md)
+
 <p><span class="chinese">患者常欲卧位以求疼痛缓解。</span><span class="english">The patients often want to lay decubitus for pain relief.</span></p>
 
 <p><span class="chinese">病人体位舒适，褥疮性溃疡部位及周围皮肤易于处理。</span><span class="english">Position client comfortably with area of decubitus ulcer and surrounding skin easily accessible.</span></p>

@@ -1,5 +1,7 @@
 # logbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logbook.md)
+
 <p><span class="chinese">每日记下工作日志。</span><span class="english">Rept on logbook daily.</span></p>
 
 <p><span class="chinese">对于过去的事情，我建议你做工作记录。</span><span class="english">For past events, I suggest a logbook.</span></p>

@@ -1,5 +1,7 @@
 # nutrient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutrient.md)
+
 <p><span class="chinese">防皱天然营养霜。</span><span class="english">C. anti-wrinkle nutrient cream.</span></p>
 
 <p><span class="chinese">头静脉的营养血管。</span><span class="english">The nutrient vessels of cephalic vein.</span></p>

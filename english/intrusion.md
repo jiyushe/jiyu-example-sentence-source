@@ -1,5 +1,7 @@
 # intrusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intrusion.md)
+
 <p><span class="chinese">你认为我的突然闯入不合时宜。</span><span class="english">You think my intrusion unseasonable.</span></p>
 
 <p><span class="chinese">科技是一个更大的干扰。</span><span class="english">Technology is an even greater intrusion.</span></p>

@@ -1,5 +1,7 @@
 # 力偶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liou.md)
+
 <p><span class="chinese">力偶分为静力偶和动力偶。</span><span class="english">The couple includes static and dynamic one.</span></p>
 
 <p><span class="chinese">它们形成两力偶使杆弯曲。</span><span class="english">They form two end couples to cause the bar to bend.</span></p>

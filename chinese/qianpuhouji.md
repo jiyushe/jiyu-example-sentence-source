@@ -1,5 +1,7 @@
 # 前仆后继
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianpuhouji.md)
+
 <p><span class="chinese">站立的人前仆后继，叠在他人身上。</span><span class="english">All the people who were standing fell over , piling up on.</span></p>
 
 <p><span class="chinese">即使新孟邦党不能赢得这场战争，但是孟邦人民将会前仆后继。</span><span class="english">Even is the NMSP fails to win this conflict, the Mon people will rise again.</span></p>

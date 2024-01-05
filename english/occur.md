@@ -1,5 +1,7 @@
 # occur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occur.md)
+
 <p><span class="chinese">它们为什么会出现？</span><span class="english">Why do they occur?</span></p>
 
 <p><span class="chinese">金属呈游离态的很少。</span><span class="english">Few metals occur free.</span></p>

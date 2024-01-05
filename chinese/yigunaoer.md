@@ -1,5 +1,7 @@
 # 一股脑儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yigunaoer.md)
+
 <p><span class="chinese">你把过去一股脑儿都挖了出来，那可都是见不得人的。</span><span class="english">You dig up the past, all you get is dirty.</span></p>
 
 <p><span class="chinese">她兴奋得很，把要讲的话一股脑儿都倒出来了。</span><span class="english">She got so excited that she poured out all she had to say at once.</span></p>

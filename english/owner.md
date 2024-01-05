@@ -1,5 +1,7 @@
 # owner 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/owner.md)
+
 <p><span class="chinese">主人家是谁？</span><span class="english">Who is the owner?</span></p>
 
 <p><span class="chinese">我和老板很熟。我不知道特出。</span><span class="english">I know the owner very well.</span></p>

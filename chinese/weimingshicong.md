@@ -1,5 +1,7 @@
 # 唯命是从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weimingshicong.md)
+
 <p><span class="chinese">铁腕人物手下一定有唯命是从的人。</span><span class="english">The strong men must have their stooges.</span></p>
 
 <p><span class="chinese">他默默无声地走来走去，一副唯命是从的样子。</span><span class="english">He went about very quiet, and in a way, submissive.</span></p>

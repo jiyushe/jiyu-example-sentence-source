@@ -1,5 +1,7 @@
 # streptomyces
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streptomyces.md)
+
 <p><span class="chinese">目的筛选红霉素链霉菌抗噬菌体菌株。</span><span class="english">Objective Screening Streptomyces erthreus antiphage strain.</span></p>
 
 <p><span class="chinese">因为四环素是由土壤中的一种细菌——链霉菌分泌而成。</span><span class="english">Because tetracycline’s secreted by a soil bacterium, Streptomyces.</span></p>

@@ -1,5 +1,7 @@
 # execution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/execution.md)
+
 <p><span class="chinese">这更像是一场执行枪决。</span><span class="english">This was more of an execution.</span></p>
 
 <p><span class="chinese">在敌人刑场上。</span><span class="english">At the enemy's execution court.</span></p>

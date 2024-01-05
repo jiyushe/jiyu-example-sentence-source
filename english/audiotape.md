@@ -1,5 +1,7 @@
 # audiotape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audiotape.md)
+
 <p><span class="chinese">录音情书。</span><span class="english">An audiotape letter.</span></p>
 
 <p><span class="chinese">你们现在只是在听录音带。</span><span class="english">Now, you're only listening to an audiotape.</span></p>

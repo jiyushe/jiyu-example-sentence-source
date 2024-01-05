@@ -1,5 +1,7 @@
 # cladding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cladding.md)
+
 <p><span class="chinese">此外，也可以提供上等木质覆层的夹心板。</span><span class="english">Also available with a prime-quality wood cladding.</span></p>
 
 <p><span class="chinese">大面积的石材幕墙充当了一个稳定的背景。</span><span class="english">Large-area stone cladding acts a steady background.</span></p>

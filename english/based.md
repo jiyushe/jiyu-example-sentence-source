@@ -1,5 +1,7 @@
 # based
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/based.md)
+
 <p><span class="chinese">基于PhP的前端。</span><span class="english">PhP based front-end.</span></p>
 
 <p><span class="chinese">石油是油性的。</span><span class="english">Petroleum is oil based.</span></p>

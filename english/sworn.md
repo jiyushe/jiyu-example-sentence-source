@@ -1,5 +1,7 @@
 # sworn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sworn.md)
+
 <p><span class="chinese">我曾发誓效忠国家！</span><span class="english">I have sworn an oath!</span></p>
 
 <p><span class="chinese">他是我的结拜兄弟。</span><span class="english">He's my sworn brother.</span></p>

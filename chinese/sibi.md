@@ -1,5 +1,7 @@
 # 四壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sibi.md)
+
 <p><span class="chinese">坑穴四壁是成阶地的。</span><span class="english">The walls of the craters are terraced.</span></p>
 
 <p><span class="chinese">四壁都涂以绿漆。</span><span class="english">The walls were besmeared with green paint.</span></p>

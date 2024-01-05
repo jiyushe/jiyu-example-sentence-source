@@ -1,5 +1,7 @@
 # 大学堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxuetang.md)
+
 <p><span class="chinese">1912年5月15日，京师大学堂更名为“国立北京大学”。</span><span class="english">" May 15, 1912, the Imperial Academy was renamed as "National Peking University".</span></p>
 
 <p><span class="chinese">休战后我们在「大学堂临时医院」做看护。</span><span class="english">After the ceasefire, we worked as nurses in the makeshift hospital in the university.</span></p>

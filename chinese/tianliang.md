@@ -1,5 +1,7 @@
 # 天亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianliang.md)
+
 <p><span class="chinese">在这天亮初晓的小巢中？</span><span class="english">In her nest to peep of day?</span></p>
 
 <p><span class="chinese">那晚我们痛饮到天亮。</span><span class="english">That night we partied until dawn.</span></p>

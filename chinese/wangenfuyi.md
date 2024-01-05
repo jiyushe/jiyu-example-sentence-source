@@ -1,5 +1,7 @@
 # 忘恩负义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangenfuyi.md)
+
 <p><span class="chinese">他的忘恩负义伤透了我的心。</span><span class="english">His ingratitude cut me to the heart.</span></p>
 
 <p><span class="chinese">把这个忘恩负义的混蛋踢出我们的国家。</span><span class="english">Kick the ingrate out of the country.</span></p>

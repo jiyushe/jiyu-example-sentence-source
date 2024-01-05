@@ -1,5 +1,7 @@
 # ube
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ube.md)
+
 <p><span class="chinese">你过去常常弹钢琴吗?。</span><span class="english">Did you uBe to play the piano?</span></p>
 
 <p><span class="chinese">2005年，UBE集团还建立了托德基金会。</span><span class="english">In 2005, UBE Group set up Tuode Foundation.</span></p>

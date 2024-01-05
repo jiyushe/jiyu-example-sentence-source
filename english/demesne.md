@@ -1,5 +1,7 @@
 # demesne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demesne.md)
+
 <p><span class="chinese">领地的占有者享有一定的特权。</span><span class="english">The tenants of the demesne enjoyed certain privileges.</span></p>
 
 <p><span class="chinese">土地的所有者享有一定的特权。</span><span class="english">The tenants of the demesne enjoyed certain privileges.</span></p>

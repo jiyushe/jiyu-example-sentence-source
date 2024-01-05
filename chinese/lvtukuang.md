@@ -1,5 +1,7 @@
 # 铝土矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvtukuang.md)
+
 <p><span class="chinese">岩溶堆积型铝土矿是国内新类型的铝土矿床。</span><span class="english">Karst accumulation bauxite orebody is a new kind of one in China.</span></p>
 
 <p><span class="chinese">铝土矿全部是风化作用形成的，无一例外。</span><span class="english">All of the bauxites are formed by weathering without any exception.</span></p>

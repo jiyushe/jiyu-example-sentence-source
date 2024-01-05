@@ -1,5 +1,7 @@
 # 山寨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanzhai.md)
+
 <p><span class="chinese">2011年会是山寨横行掂旎年吗？</span><span class="english">Will 2011 be the year of the copycat?</span></p>
 
 <p><span class="chinese">所以嘛，现在佛教徒正在用从伊斯兰教那山寨来的战术。</span><span class="english">So, now the Budhism is using tactics from Islam.</span></p>

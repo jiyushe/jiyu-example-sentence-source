@@ -1,5 +1,7 @@
 # ahimsa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ahimsa.md)
+
 <p><span class="chinese">当我们在瑜伽垫上练习时，“非暴力”究竟是什么意思呢？</span><span class="english">But what does it mean to practice Ahimsa on our yoga mats?</span></p>
 
 <p><span class="chinese">印度教的一个更深一层的特征就是非暴力的理念。</span><span class="english">A further characteristic of Hinduism is the ideal of ahimsa.</span></p>

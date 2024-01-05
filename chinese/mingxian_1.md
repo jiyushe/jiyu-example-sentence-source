@@ -1,5 +1,7 @@
 # 明显
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingxian_1.md)
+
 <p><span class="chinese">一点都不明显。</span><span class="english">Not at all obvious.</span></p>
 
 <p><span class="chinese">协同效应非常明显。</span><span class="english">Very cooperatively.</span></p>

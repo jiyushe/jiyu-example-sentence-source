@@ -1,5 +1,7 @@
 # 入手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushou.md)
+
 <p><span class="chinese">我们不妨从的发育阶段入手。</span><span class="english">We learn from development.</span></p>
 
 <p><span class="chinese">咱们客岁入手下手做那工作的。</span><span class="english">We began to do that job last year.</span></p>

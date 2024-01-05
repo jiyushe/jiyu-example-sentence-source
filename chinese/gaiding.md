@@ -1,5 +1,7 @@
 # 改订
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaiding.md)
+
 <p><span class="chinese">你好，我叫吉米。我想改订一下航班。</span><span class="english">Hello, I'm Jimmy. I'd like to change my flight.</span></p>
 
 <p><span class="chinese">你好，我叫李磊。我想改订一下航班。</span><span class="english">Hello, I'm Li Lei. I'd like to change my flight.</span></p>

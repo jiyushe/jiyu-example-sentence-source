@@ -1,5 +1,7 @@
 # trough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trough.md)
+
 <p><span class="chinese">猪把食槽拱翻了。</span><span class="english">The pig nosed the trough down.</span></p>
 
 <p><span class="chinese">槽体与承板。</span><span class="english">Trough solid and carrier plate.</span></p>

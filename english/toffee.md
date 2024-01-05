@@ -1,5 +1,7 @@
 # toffee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toffee.md)
+
 <p><span class="chinese">她把一块太妃糖塞进我的口中。</span><span class="english">She poked a toffee into my mouth.</span></p>
 
 <p><span class="chinese">她把一颗太妃糖塞进了我的口里。</span><span class="english">She poked a toffee into my mouth.</span></p>

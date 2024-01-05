@@ -1,5 +1,7 @@
 # harbinger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harbinger.md)
+
 <p><span class="chinese">在此，我们把巴宾斯奇迹象当作将要发生事情的预兆。</span><span class="english">Here, we have the Babinski sign as a harbinger of things to come.</span></p>
 
 <p><span class="chinese">镇上的人认为我们是被诅咒的，大火是我们出生的预兆。</span><span class="english">The town believed we were cursed, the fire a harbinger of our birth.</span></p>

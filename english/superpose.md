@@ -1,5 +1,7 @@
 # superpose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superpose.md)
+
 <p><span class="chinese">后来就一直放在上面没有更新。</span><span class="english">Later all the time superpose was not updated.</span></p>
 
 <p><span class="chinese">把你的网站要害词语都放在上面但是不能太多！</span><span class="english">The website key term you superpose but cannot too much!</span></p>

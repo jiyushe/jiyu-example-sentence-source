@@ -1,5 +1,7 @@
 # vessel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vessel.md)
+
 <p><span class="chinese">血管破裂。</span><span class="english">A blood vessel ruptured.</span></p>
 
 <p><span class="chinese">他有一个渔轮。</span><span class="english">He has a fishing vessel.</span></p>

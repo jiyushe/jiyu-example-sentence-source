@@ -1,5 +1,7 @@
 # letterhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/letterhead.md)
+
 <p><span class="chinese">使用你自己的信头。</span><span class="english">Use your own letterhead.</span></p>
 
 <p><span class="chinese">函件使用了看上去正式的世行信笺。</span><span class="english">Official-looking Bank letterhead was used.</span></p>

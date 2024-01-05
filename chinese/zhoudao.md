@@ -1,5 +1,7 @@
 # 周到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoudao.md)
+
 <p><span class="chinese">你想的真周到.</span><span class="english">How thoughtful of you.</span></p>
 
 <p><span class="chinese">我的爸爸充满思想，又体贴周到。</span><span class="english">My dad is thoughtful and nicey.</span></p>

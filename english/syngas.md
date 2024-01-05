@@ -1,5 +1,7 @@
 # syngas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syngas.md)
+
 <p><span class="chinese">人们也可以将合成气转化为别的物质。</span><span class="english">Syngas can also be converted into other things.</span></p>
 
 <p><span class="chinese">但利用这些技术和设备来产生合成气需要蒸汽和氧化作用。</span><span class="english">But those processes rely on steam or oxidation to produce the syngas.</span></p>

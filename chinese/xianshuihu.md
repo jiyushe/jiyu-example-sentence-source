@@ -1,5 +1,7 @@
 # 咸水湖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshuihu.md)
+
 <p><span class="chinese">所以我们去了蓝色咸水湖。</span><span class="english">So then we went to the Blue Lagoon.</span></p>
 
 <p><span class="chinese">中国最大的内陆湖泊和咸水湖。</span><span class="english">China's largest inland saltwater lake.</span></p>

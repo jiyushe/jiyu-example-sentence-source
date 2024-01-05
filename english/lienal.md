@@ -1,5 +1,7 @@
 # lienal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lienal.md)
+
 <p><span class="chinese">免得损伤脾肺之气。</span><span class="english">Lest damage the gas of lienal lung.</span></p>
 
 <p><span class="chinese">肝脾偶见肿大。</span><span class="english">Liver is lienal see occasionally intumescent.</span></p>

@@ -1,5 +1,7 @@
 # 长驱直入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changquzhiru.md)
+
 <p><span class="chinese">这支部队长驱直入，攻下了许多敌军军营。</span><span class="english">The Allied troops are advancing on the camp of the enemy.</span></p>
 
 <p><span class="chinese">这支部队长驱直入，攻下了许多敌军军营。</span><span class="english">The army fought its way down and captured many enemy camps.</span></p>

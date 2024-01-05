@@ -1,5 +1,7 @@
 # 探明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanming.md)
+
 <p><span class="chinese">地质学家探明了一个煤矿的藏量。</span><span class="english">The geologist proves up a coal deposit.</span></p>
 
 <p><span class="chinese">地质学家探明了一个煤矿的藏量。</span><span class="english">The geologist proves up a coal deposits.</span></p>

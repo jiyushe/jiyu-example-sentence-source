@@ -1,5 +1,7 @@
 # 风雨衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyuyi.md)
+
 <p><span class="chinese">她穿着那件新风雨衣，汗水浸湿了她的腋窝。</span><span class="english">Sweat drenched her armpits under the new coat.</span></p>
 
 <p><span class="chinese">唯一不同的是风雨衣——一件米色，一件黑色。</span><span class="english">The only difference was the raincoat-one black, one beige.</span></p>

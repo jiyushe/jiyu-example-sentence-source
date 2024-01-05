@@ -1,5 +1,7 @@
 # rune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rune.md)
+
 <p><span class="chinese">不再有符石魔法了。</span><span class="english">There will be no rune magic.</span></p>
 
 <p><span class="chinese">因此你永远带着这个符文。</span><span class="english">And so you wear the rune always.</span></p>

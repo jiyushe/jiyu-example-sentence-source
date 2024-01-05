@@ -1,5 +1,7 @@
 # intolerable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intolerable.md)
+
 <p><span class="chinese">今年夏天酷暑难耐。</span><span class="english">The heat is intolerable this summer.</span></p>
 
 <p><span class="chinese">这些语言不堪入耳。</span><span class="english">These remarks are intolerable to the ear.</span></p>

@@ -1,5 +1,7 @@
 # secular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secular.md)
+
 <p><span class="chinese">我们的社会是个世俗社会。</span><span class="english">Ours is a secular society.</span></p>
 
 <p><span class="chinese">没有世俗文化</span><span class="english">There's no secular culture.</span></p>

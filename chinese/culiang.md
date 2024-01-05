@@ -1,5 +1,7 @@
 # 粗粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/culiang.md)
+
 <p><span class="chinese">多吃些粗粮保持健康。</span><span class="english">Eat more roughage to keep healthy.</span></p>
 
 <p><span class="chinese">伙计，他们拿什么喂你的，粗粮？</span><span class="english">Dude, what were they feeding you, kibble?</span></p>

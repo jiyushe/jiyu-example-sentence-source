@@ -1,5 +1,7 @@
 # dissociate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissociate.md)
+
 <p><span class="chinese">我需要将氯分离。</span><span class="english">I need to dissociate the chlorine.</span></p>
 
 <p><span class="chinese">她努力使自己与自己的过去决裂。</span><span class="english">She tried to dissociate herself from her past.</span></p>

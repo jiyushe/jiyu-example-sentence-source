@@ -1,5 +1,7 @@
 # outsmart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outsmart.md)
+
 <p><span class="chinese">把搜索引擎比下去！</span><span class="english">Outsmart the search engines.</span></p>
 
 <p><span class="chinese">是的，有时你可以仅智取吧！</span><span class="english">Yes, and sometimes you can just outsmart yourself!</span></p>

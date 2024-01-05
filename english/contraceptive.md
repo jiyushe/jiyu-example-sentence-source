@@ -1,5 +1,7 @@
 # contraceptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contraceptive.md)
+
 <p><span class="chinese">避孕丸、避孕器、避孕剂。</span><span class="english">A contraceptive pill, device, drug, ETC.</span></p>
 
 <p><span class="chinese">此产品并没有杀精或避孕。</span><span class="english">This product is not a spermicide or contraceptive.</span></p>

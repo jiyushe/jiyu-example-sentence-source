@@ -1,5 +1,7 @@
 # sweety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweety.md)
+
 <p><span class="chinese">她是个美好的女子。</span><span class="english">She is a pretty, sweety girl.</span></p>
 
 <p><span class="chinese">嘿，你好啊，你迷路了吗亲爱的？</span><span class="english">Hey, there. Are you lost sweety?</span></p>

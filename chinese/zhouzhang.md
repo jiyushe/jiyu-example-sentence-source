@@ -1,5 +1,7 @@
 # 州长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouzhang.md)
+
 <p><span class="chinese">州长赦免了这个小偷。</span><span class="english">The governor pardoned the thief.</span></p>
 
 <p><span class="chinese">尊敬的华盛顿州英斯利州长。</span><span class="english">Governor Jay Inslee of Washington.</span></p>

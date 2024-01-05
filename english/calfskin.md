@@ -1,5 +1,7 @@
 # calfskin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calfskin.md)
+
 <p><span class="chinese">书的封面用精致的小牛皮制成。</span><span class="english">The book cover is made of fine calfskin leather.</span></p>
 
 <p><span class="chinese">即使是“食用”小牛犊也被用来制造高价的小牛犊皮。</span><span class="english">Even the hides of "veal" calves are made into high-priced calfskin.</span></p>

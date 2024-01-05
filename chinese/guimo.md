@@ -1,5 +1,7 @@
 # 鬼魔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guimo.md)
+
 <p><span class="chinese">是为撒旦和他的鬼魔准备的。</span><span class="english">Created for Satan and his demons.</span></p>
 
 <p><span class="chinese">鬼魔也信，却是战惊。</span><span class="english">Even the demons believe that--and shudder.</span></p>

@@ -1,5 +1,7 @@
 # 雅思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yasi.md)
+
 <p><span class="chinese">雅思考试的用途是什么？</span><span class="english">What is IELTS useful for?</span></p>
 
 <p><span class="chinese">雅思目前很热门。</span><span class="english">IELTS is very hot at the moment.</span></p>

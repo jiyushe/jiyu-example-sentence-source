@@ -1,5 +1,7 @@
 # 糖衣炮弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangyipaodan.md)
+
 <p><span class="chinese">精神的糖衣炮弹打中了一个靶子，就是薄一波。</span><span class="english">A spiritual one hit its target, Po I-po.</span></p>
 
 <p><span class="chinese">简直是胡说八道和糖衣炮弹。</span><span class="english">Complete Non-sense and Sugar Coated talk.</span></p>

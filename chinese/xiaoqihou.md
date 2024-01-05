@@ -1,5 +1,7 @@
 # 小气候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqihou.md)
+
 <p><span class="chinese">既然有如此巨大的游戏世界，是否有一些小气候。</span><span class="english">Given the huge size of the world, are there any microclimates?</span></p>
 
 <p><span class="chinese">受海风和地貌影响形成了小气候。</span><span class="english">Microclimates are created by the effects of altitude and aspect.</span></p>

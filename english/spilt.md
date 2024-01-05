@@ -1,5 +1,7 @@
 # spilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spilt.md)
+
 <p><span class="chinese">竟把汤水溅到我衣服上了。</span><span class="english">The soup is spilt on my suit.</span></p>
 
 <p><span class="chinese">墨水撒在桌子上了。</span><span class="english">The ink has spilt on the desk.</span></p>

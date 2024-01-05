@@ -1,5 +1,7 @@
 # 肩章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzhang.md)
+
 <p><span class="chinese">肩章上这些是金色的条纹？</span><span class="english">And the epaulets are gold bullion ?</span></p>
 
 <p><span class="chinese">在每个肩部的功能肩章。</span><span class="english">Functional epaulet at each shoulder.</span></p>

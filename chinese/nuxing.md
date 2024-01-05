@@ -1,5 +1,7 @@
 # 奴性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuxing.md)
+
 <p><span class="chinese">如果你不热爱自由，他们便会充满奴性。</span><span class="english">If you do not love freedom, they will be servile.</span></p>
 
 <p><span class="chinese">爱看见了罪的奴性，就寻找一个释放的途径。</span><span class="english">Love saw the malady of sin, and sought a balm of healing.</span></p>

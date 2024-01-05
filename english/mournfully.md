@@ -1,5 +1,7 @@
 # mournfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mournfully.md)
+
 <p><span class="chinese">猎犬凄厉地嚎叫。</span><span class="english">The hound bayed mournfully.</span></p>
 
 <p><span class="chinese">帽匠悲哀地摇摇头。</span><span class="english">The hatter shook his head mournfully.</span></p>

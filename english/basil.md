@@ -1,5 +1,7 @@
 # basil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basil.md)
+
 <p><span class="chinese">还要买一盆紫苏。</span><span class="english">And a basil plant.</span></p>
 
 <p><span class="chinese">巴兹尔知道老闆的下一步计划。</span><span class="english">Basil knew what his boss wanted next.</span></p>

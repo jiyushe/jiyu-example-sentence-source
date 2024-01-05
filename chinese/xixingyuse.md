@@ -1,5 +1,7 @@
 # 喜形于色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixingyuse.md)
+
 <p><span class="chinese">她喜形于色地昂首走了进来。</span><span class="english">She swept in, with her complacency.</span></p>
 
 <p><span class="chinese">他们又叫又笑，喜形于色。</span><span class="english">They shouted and laughed and cut round.</span></p>

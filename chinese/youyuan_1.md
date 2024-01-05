@@ -1,5 +1,7 @@
 # 幽远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyuan_1.md)
+
 <p><span class="chinese">你的琴声忽然幽远又哗然走近…</span><span class="english">You Yuan and your piano uproar suddenly approached.</span></p>
 
 <p><span class="chinese">中国诗歌短小精悍却意境幽远。</span><span class="english">The Chinese poems are short but the meaning is deep.</span></p>

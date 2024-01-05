@@ -1,5 +1,7 @@
 # 海神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haishen_1.md)
+
 <p><span class="chinese">这就是海神之河。</span><span class="english">This is the River Oceanus.</span></p>
 
 <p><span class="chinese">波赛冬是希腊海神。</span><span class="english">Poseidon was the Greek god of the sea.</span></p>

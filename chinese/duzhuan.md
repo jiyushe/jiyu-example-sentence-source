@@ -1,5 +1,7 @@
 # 杜撰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duzhuan.md)
+
 <p><span class="chinese">这个故事纯属杜撰。</span><span class="english">The story is fabricated indeed.</span></p>
 
 <p><span class="chinese">卫报杜撰了这个悲惨的故事。</span><span class="english">The Guardian tells the grim tale.</span></p>

@@ -1,5 +1,7 @@
 # 煎药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianyao.md)
+
 <p><span class="chinese">吃一煎药就会好的。</span><span class="english">One decoction will put you right.</span></p>
 
 <p><span class="chinese">有些药店提供煎药服务。</span><span class="english">Some drug stores offer decocting service.</span></p>

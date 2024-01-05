@@ -1,5 +1,7 @@
 # 活灵活现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huolinghuoxian.md)
+
 <p><span class="chinese">薛立是位不可思议，活灵活现的演讲者</span><span class="english">Shelly is an incredibly dynamic lecturer.</span></p>
 
 <p><span class="chinese">冰块内的观赏也同样栩栩如生，活灵活现。</span><span class="english">View within the ice also lifelike, vivid.</span></p>

@@ -1,5 +1,7 @@
 # snap 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snap.md)
+
 <p><span class="chinese">这是倒春寒。</span><span class="english">This is a cold snap.</span></p>
 
 <p><span class="chinese">大顶折断了！</span><span class="english">Big snap off the top!</span></p>

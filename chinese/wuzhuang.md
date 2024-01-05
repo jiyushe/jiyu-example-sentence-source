@@ -1,5 +1,7 @@
 # 武装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhuang.md)
+
 <p><span class="chinese">那只船已配备好武装。</span><span class="english">The ship was armed out.</span></p>
 
 <p><span class="chinese">人们都不想要武装</span><span class="english">People didn't want that.</span></p>

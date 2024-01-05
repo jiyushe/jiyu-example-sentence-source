@@ -1,5 +1,7 @@
 # convalescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convalescence.md)
+
 <p><span class="chinese">丰胸的恢复期要多长时间？</span><span class="english">Does the convalescence of breast enhancement want how long?</span></p>
 
 <p><span class="chinese">他的妻子则是腰间骨折，住院疗养应该无大碍！</span><span class="english">His wife is his waist fractures , hospital convalescence should be OK!</span></p>

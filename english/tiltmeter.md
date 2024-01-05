@@ -1,5 +1,7 @@
 # tiltmeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiltmeter.md)
+
 <p><span class="chinese">倾斜传感器是一种测量倾斜角度的仪器。</span><span class="english">Tiltmeter is a kind of sensor for tilt measurement.</span></p>
 
 <p><span class="chinese">它完全可以取代传统的水平摆倾斜仪。</span><span class="english">It can replace traditional horizontal pendulum tiltmeter completely.</span></p>

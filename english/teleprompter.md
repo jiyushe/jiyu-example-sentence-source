@@ -1,5 +1,7 @@
 # teleprompter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teleprompter.md)
+
 <p><span class="chinese">今天，奥巴马同样可以把这些话放在他的提词器上。</span><span class="english">Obama could put that on his teleprompter today.</span></p>
 
 <p><span class="chinese">我得说我看了他的演讲，觉得他不用提词器也没啥。</span><span class="english">I think he's doing just fine without his teleprompter.</span></p>

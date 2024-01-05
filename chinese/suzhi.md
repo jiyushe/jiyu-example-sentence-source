@@ -1,5 +1,7 @@
 # 素质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suzhi.md)
+
 <p><span class="chinese">这是素质教育吗？</span><span class="english">Is it a quality education?</span></p>
 
 <p><span class="chinese">你的管理队伍素质如何？</span><span class="english">How strong is your management team?</span></p>

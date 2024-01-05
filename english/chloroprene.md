@@ -1,5 +1,7 @@
 # chloroprene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chloroprene.md)
+
 <p><span class="chinese">简称CR，由氯丁二烯聚合制得。</span><span class="english">Short CR, obtained by the polymerization of chloroprene.</span></p>
 
 <p><span class="chinese">带子的主体材料有聚氨酯弹性体和氯丁橡胶两种。</span><span class="english">The main material used is polyurethane elastomer and chloroprene rubber.</span></p>

@@ -1,5 +1,7 @@
 # vashti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vashti.md)
+
 <p><span class="chinese">美术课结束了，但沃诗提还没有走。她坐在位子上。</span><span class="english">The art class was over, but Vashti sat glued to her chair.</span></p>
 
 <p><span class="chinese">沃诗提一直不停的尝试下去，又画出了许多不同颜色的点。</span><span class="english">Vashti keptexperimenting. Lot of little dots in many colours.</span></p>

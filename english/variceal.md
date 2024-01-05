@@ -1,5 +1,7 @@
 # variceal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variceal.md)
+
 <p><span class="chinese">货车的大小，宫底位置，大小和大型食管静脉曲张破裂出血的预测都是GV。</span><span class="english">GV size, fundal location, and large esophageal variceal size were predictive of GV bleed.</span></p>
 
 <p><span class="chinese">医生很快就会做内试镜检查和食道静脉结扎手术治疗。</span><span class="english">The doctor will do an endoscopic examination and esophageal variceal ligation treatment soon.</span></p>

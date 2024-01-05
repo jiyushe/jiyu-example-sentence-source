@@ -1,5 +1,7 @@
 # waistcoat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waistcoat.md)
+
 <p><span class="chinese">这件外套是毛棉混纺的。</span><span class="english">His waistcoat is beneath his coat.</span></p>
 
 <p><span class="chinese">但纳特金却在他西装背心的口袋里！</span><span class="english">But Nutkin was in his waistcoat pocket!</span></p>

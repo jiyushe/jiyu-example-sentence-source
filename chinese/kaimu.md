@@ -1,5 +1,7 @@
 # 开幕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaimu.md)
+
 <p><span class="chinese">展览会明天开幕。</span><span class="english">The exhibition will open tomorrow.</span></p>
 
 <p><span class="chinese">其中最早开幕的是「巴莎诺瓦餐饮会馆」。</span><span class="english">The first cafe to open was Bossa Nova.</span></p>

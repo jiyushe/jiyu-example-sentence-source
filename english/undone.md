@@ -1,5 +1,7 @@
 # undone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undone.md)
+
 <p><span class="chinese">我的拉锁开了。</span><span class="english">My zip has come undone.</span></p>
 
 <p><span class="chinese">我们的愚蠢把我们毁了。</span><span class="english">Our folly has undone us.</span></p>

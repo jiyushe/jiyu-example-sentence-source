@@ -1,5 +1,7 @@
 # esophageal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esophageal.md)
+
 <p><span class="chinese">一些亚硝胺能特异地引起动物食管癌。</span><span class="english">Some specific nitrosamines can cause animals to esophageal cancer.</span></p>
 
 <p><span class="chinese">进一步检测发现门脉高压伴食道静脉曲张。</span><span class="english">Further work-up showed portal hypertension with esophageal varices.</span></p>

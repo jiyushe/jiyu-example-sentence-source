@@ -1,5 +1,7 @@
 # poe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poe.md)
+
 <p><span class="chinese">爱伦坡的早年生活十分艰辛。</span><span class="english">Edgar Allan Poe had a very hard early life.</span></p>
 
 <p><span class="chinese">一位新的巫妖王坐魔兽世界巫妖王之怒在了冰封王座上。</span><span class="english">A new Lich King now took poe ion of the Frozen Throne.</span></p>

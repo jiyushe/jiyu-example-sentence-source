@@ -1,5 +1,7 @@
 # gtc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gtc.md)
+
 <p><span class="chinese">你可以看看2011年的官方网站在这里教学专业议会。</span><span class="english">You can check out the official GTC 2011 site here.</span></p>
 
 <p><span class="chinese">如有此处没有规定的范围，则条款和条约中都会提及。</span><span class="english">In the scope not regulated by herein Terms, GTC provisions apply.</span></p>

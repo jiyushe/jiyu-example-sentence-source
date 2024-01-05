@@ -1,5 +1,7 @@
 # stalwart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stalwart.md)
+
 <p><span class="chinese">这个王子高大魁伟。</span><span class="english">The prince is tall and stalwart.</span></p>
 
 <p><span class="chinese">这是怎样一棵伟岸的大树啊？</span><span class="english">What kind of a stalwart tree ah?</span></p>

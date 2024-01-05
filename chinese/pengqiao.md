@@ -1,5 +1,7 @@
 # 碰巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengqiao.md)
+
 <p><span class="chinese">我碰巧在那里。</span><span class="english">I chanced to be there.</span></p>
 
 <p><span class="chinese">小左只是碰巧持有这灵魂。</span><span class="english">Lefty happens to have it.</span></p>

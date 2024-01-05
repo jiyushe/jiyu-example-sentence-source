@@ -1,5 +1,7 @@
 # frenzied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frenzied.md)
+
 <p><span class="chinese">你听见这疯狂的闲谈了吗？</span><span class="english">Did you hear his frenzied tattle?</span></p>
 
 <p><span class="chinese">邮件进入了疯狂的扩张期。</span><span class="english">Mail into a frenzied period of expansion.</span></p>

@@ -1,5 +1,7 @@
 # fleece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleece.md)
+
 <p><span class="chinese">羊毛是最坏的倒出物。</span><span class="english">Fleece is the worst shedder.</span></p>
 
 <p><span class="chinese">它的羊毛白如雪。</span><span class="english">Its fleece is white as snowy.</span></p>

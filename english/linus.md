@@ -1,5 +1,7 @@
 # linus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linus.md)
+
 <p><span class="chinese">该隐和亚伯，莱纳斯和露西，里昂和诺埃尔。</span><span class="english">Cain and Abel, Linus and Lucy, Liam and Noel.</span></p>
 
 <p><span class="chinese">但倘若莱纳斯想要带你来日，就让咱们恬然处之吧。</span><span class="english">But if Linus wants to take you out, let's be nice about it.</span></p>

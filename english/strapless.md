@@ -1,5 +1,7 @@
 # strapless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strapless.md)
+
 <p><span class="chinese">方无领口。</span><span class="english">Strapless with square neckline.</span></p>
 
 <p><span class="chinese">无肩带的内衣集成振动器。</span><span class="english">Strapless lingerie with integrated vibrator.</span></p>

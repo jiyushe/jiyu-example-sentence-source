@@ -1,5 +1,7 @@
 # 一锅粥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiguozhou.md)
+
 <p><span class="chinese">酒吧里乱成了一锅粥。</span><span class="english">The bar is in chaos.</span></p>
 
 <p><span class="chinese">弗利丑闻使整个共和党乱成了一锅粥。</span><span class="english">Foley scandal has messed up the whole Republican Party.</span></p>

@@ -1,5 +1,7 @@
 # 消息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxi_1.md)
+
 <p><span class="chinese">快告诉我内幕消息！</span><span class="english">Give me the scoop!</span></p>
 
 <p><span class="chinese">给我最新的消息.</span><span class="english">Bring me up-to-date.</span></p>

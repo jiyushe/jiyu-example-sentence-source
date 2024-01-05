@@ -1,5 +1,7 @@
 # 甜润
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianrun.md)
+
 <p><span class="chinese">确实，她的声音很甜润。</span><span class="english">Indeed, her voice is sweet and melodious.</span></p>
 
 <p><span class="chinese">她甜润的嗓子使听众如醉如痴。</span><span class="english">She charmed her listeners with her sweet voice.</span></p>

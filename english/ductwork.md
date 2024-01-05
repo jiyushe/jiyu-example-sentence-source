@@ -1,5 +1,7 @@
 # ductwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ductwork.md)
+
 <p><span class="chinese">确保管道系统是绝缘的。</span><span class="english">Make sure ductwork is insulated.</span></p>
 
 <p><span class="chinese">所有管道系统内部的机框。</span><span class="english">All ductwork is internal to the dryer box.</span></p>

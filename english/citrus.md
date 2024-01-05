@@ -1,5 +1,7 @@
 # citrus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citrus.md)
+
 <p><span class="chinese">不喜欢柑橘？</span><span class="english">Not into citrus?</span></p>
 
 <p><span class="chinese">给我看看你的橘子皮。</span><span class="english">Show me your citrus peels.</span></p>

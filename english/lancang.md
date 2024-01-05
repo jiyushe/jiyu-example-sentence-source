@@ -1,5 +1,7 @@
 # lancang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lancang.md)
+
 <p><span class="chinese">那你就在这澜沧江之上。</span><span class="english">Than standing on the bank of the Lancang River.</span></p>
 
 <p><span class="chinese">澜沧河大峡谷表现出千差万别的形态。</span><span class="english">The Lancang River Big Canyon shows a variety of features.</span></p>

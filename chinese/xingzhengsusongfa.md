@@ -1,5 +1,7 @@
 # 行政诉讼法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzhengsusongfa.md)
+
 <p><span class="chinese">第一章主要介绍了行政诉讼法学方法论转变的必要性。</span><span class="english">The first chapter introduces shifty necessity of the administrative procedure legal methodology.</span></p>
 
 <p><span class="chinese">因此，重构行政诉讼法受案范围势在必行。</span><span class="english">Therefore, the reconstruction of scope of accepting cases of administrative litigation is imperative.</span></p>

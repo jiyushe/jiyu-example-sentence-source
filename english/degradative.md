@@ -1,5 +1,7 @@
 # degradative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degradative.md)
+
 <p><span class="chinese">论文首次对微生物降解落叶松单宁为儿茶素的过程进行了研究。</span><span class="english">Microbial degradative process from larch tannin to catechin was studied for the first time.</span></p>
 
 <p><span class="chinese">以可再生的优质TCF浆粕为原料，可自然降解。</span><span class="english">It is a kind of national degradative fiber which is made from regenerative superior TCF pulp.</span></p>

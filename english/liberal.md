@@ -1,5 +1,7 @@
 # liberal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberal.md)
+
 <p><span class="chinese">这里真的让人感到自由自在，</span><span class="english">It's really liberal</span></p>
 
 <p><span class="chinese">媒体是非常自由的。</span><span class="english">The media are too liberal.</span></p>

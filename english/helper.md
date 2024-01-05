@@ -1,5 +1,7 @@
 # helper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helper.md)
+
 <p><span class="chinese">我是某些人的小帮手。</span><span class="english">I am someone's helper.</span></p>
 
 <p><span class="chinese">谁是今天的小助手？</span><span class="english">Who is the helper today?</span></p>

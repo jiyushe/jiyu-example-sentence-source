@@ -1,5 +1,7 @@
 # 凭证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingzheng.md)
+
 <p><span class="chinese">负责会计凭证汇总。装订及保管工作。</span><span class="english">Bookbinding and custody of the work.</span></p>
 
 <p><span class="chinese">请让我看一下您的定房凭证，好吗？</span><span class="english">Can I have your hotel voucher, please?</span></p>

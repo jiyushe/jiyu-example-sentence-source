@@ -1,5 +1,7 @@
 # demonstrator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demonstrator.md)
+
 <p><span class="chinese">示威者推翻了一辆警车。</span><span class="english">The demonstrator turned over a police car.</span></p>
 
 <p><span class="chinese">一名示威者显然是由于受伤而死亡。</span><span class="english">One demonstrator died, apparently from his injuries.</span></p>

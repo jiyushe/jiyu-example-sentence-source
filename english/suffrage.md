@@ -1,5 +1,7 @@
 # suffrage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suffrage.md)
+
 <p><span class="chinese">妇女的参政权，1873</span><span class="english">Women'sRights to the Suffrage 1873</span></p>
 
 <p><span class="chinese">她在平等选举权联盟中一直很活跃。</span><span class="english">Mary was active in the Equal Suffrage League.</span></p>

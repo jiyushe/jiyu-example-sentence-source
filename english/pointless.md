@@ -1,5 +1,7 @@
 # pointless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pointless.md)
+
 <p><span class="chinese">任何这样做的企图都是没有意义的。</span><span class="english">Any attempt to do so is pointless.</span></p>
 
 <p><span class="chinese">因此许多争执都是不得要领的。</span><span class="english">So many arguments are so pointless.</span></p>

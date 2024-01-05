@@ -1,5 +1,7 @@
 # 寒毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanmao.md)
+
 <p><span class="chinese">她刮掉了腿上的寒毛。</span><span class="english">She shaved the hairs off her legs.</span></p>
 
 <p><span class="chinese">他走到卧室门口，后脖上的寒毛已经全部竖起来了。</span><span class="english">He came to the bedroomdoor. By now the hairs onthe back of his neck were standing straight out.</span></p>

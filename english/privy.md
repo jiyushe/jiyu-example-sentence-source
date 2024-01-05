@@ -1,5 +1,7 @@
 # privy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/privy.md)
+
 <p><span class="chinese">我们不照顾枢密院室的政府。</span><span class="english">We do not care for privy chamber of government.</span></p>
 
 <p><span class="chinese">很显然，主教对教区的记录很清楚。</span><span class="english">Clearly, the bishop was privy to parish records.</span></p>

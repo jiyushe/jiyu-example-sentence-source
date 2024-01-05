@@ -1,5 +1,7 @@
 # catabolism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catabolism.md)
+
 <p><span class="chinese">这些过程叫作合成代谢和分解代谢。</span><span class="english">These processes are called anabolism and catabolism.</span></p>
 
 <p><span class="chinese">第二个设计的实验是企图寻找分解代谢的迹象。</span><span class="english">A second experiment was designed to look for signs of catabolism.</span></p>

@@ -1,5 +1,7 @@
 # retell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retell.md)
+
 <p><span class="chinese">复述一个搞笑的笑话。</span><span class="english">Retell a funny joke.</span></p>
 
 <p><span class="chinese">你能复述这个故事吗？</span><span class="english">Can you retell the story?</span></p>

@@ -1,5 +1,7 @@
 # 嗓音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangyin.md)
+
 <p><span class="chinese">露西有甜美的嗓音。</span><span class="english">Lucy has a sweet voice.</span></p>
 
 <p><span class="chinese">他嗓音洪亮。</span><span class="english">He has a resonant voice.</span></p>

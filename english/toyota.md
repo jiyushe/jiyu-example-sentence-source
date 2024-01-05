@@ -1,5 +1,7 @@
 # toyota
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toyota.md)
+
 <p><span class="chinese">每一辆丰田汽车上都有我的名字。</span><span class="english">All Toyota vehicles bear my name.</span></p>
 
 <p><span class="chinese">丰田引擎能力如何？</span><span class="english">Q. How driveable is the Toyota engine?</span></p>

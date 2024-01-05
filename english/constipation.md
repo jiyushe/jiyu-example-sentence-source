@@ -1,5 +1,7 @@
 # constipation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constipation.md)
+
 <p><span class="chinese">不便秘才怪。</span><span class="english">Holy constipation. Just saying.</span></p>
 
 <p><span class="chinese">促进便秘——节约厕纸。</span><span class="english">Promote constipation -- save TP.</span></p>

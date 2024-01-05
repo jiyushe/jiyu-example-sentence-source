@@ -1,5 +1,7 @@
 # 消去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqu_2.md)
+
 <p><span class="chinese">这样就可以消去其中一个</span><span class="english">so you can eliminate.</span></p>
 
 <p><span class="chinese">,我们是如何消去db的呢？</span><span class="english">db How do we get rid of db?</span></p>

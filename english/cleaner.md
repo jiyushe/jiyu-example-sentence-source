@@ -1,5 +1,7 @@
 # cleaner 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleaner.md)
+
 <p><span class="chinese">你刚杀了个吸尘器。</span><span class="english">You killed the vacuum cleaner.</span></p>
 
 <p><span class="chinese">先用吸尘器将地毯灰尘吸净。</span><span class="english">Clean dust with vacuum cleaner.</span></p>

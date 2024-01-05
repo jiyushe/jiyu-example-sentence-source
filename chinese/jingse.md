@@ -1,5 +1,7 @@
 # 景色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingse.md)
+
 <p><span class="chinese">多美丽的景色啊！</span><span class="english">What a beautiful iew!</span></p>
 
 <p><span class="chinese">上雨崩村的景色…</span><span class="english">The view of up Yubeng.</span></p>

@@ -1,5 +1,7 @@
 # lampblack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lampblack.md)
+
 <p><span class="chinese">一种用灯黑浸染的塑性材料。</span><span class="english">A thermoplastic material impregnated with lampblack.</span></p>
 
 <p><span class="chinese">如抽油烟机用多大功率的？</span><span class="english">If smoke what lampblack machine uses much high-power?</span></p>

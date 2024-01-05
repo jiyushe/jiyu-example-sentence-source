@@ -1,5 +1,7 @@
 # 通讯社
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxunshe.md)
+
 <p><span class="chinese">通讯社有大约37000名学生。</span><span class="english">IPS has about 37,000 students.</span></p>
 
 <p><span class="chinese">路透社通讯社报道大量的逮捕行动。</span><span class="english">Reuters news agency reported large numbers of arrests.</span></p>

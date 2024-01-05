@@ -1,5 +1,7 @@
 # comforter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comforter.md)
+
 <p><span class="chinese">保惠师就是圣灵。</span><span class="english">The Comforter is the Holy Ghost.</span></p>
 
 <p><span class="chinese">她戴上一条长毛织围巾就出去了。</span><span class="english">She put on a comforter and went out.</span></p>

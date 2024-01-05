@@ -1,5 +1,7 @@
 # schmitt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schmitt.md)
+
 <p><span class="chinese">所有接口输入均为施密特触发式。</span><span class="english">All interface inputs are Schmitt triggered.</span></p>
 
 <p><span class="chinese">四2输入与非门施密特触发器输入。</span><span class="english">Quad 2-input NAND gate with schmitt trigger inputs.</span></p>

@@ -1,5 +1,7 @@
 # 舞动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudong.md)
+
 <p><span class="chinese">如光斑一样漂浮舞动。</span><span class="english">The flecks did float and dance.</span></p>
 
 <p><span class="chinese">舞蹈是足尖舞动的美丽诗篇。</span><span class="english">Dancing is the poetry of the foot.</span></p>

@@ -1,5 +1,7 @@
 # desk 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desk.md)
+
 <p><span class="chinese">这是一张课桌。</span><span class="english">This is a desk.</span></p>
 
 <p><span class="chinese">把它放在我的桌子上吧。</span><span class="english">Put it on my desk.</span></p>

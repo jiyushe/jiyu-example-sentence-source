@@ -1,5 +1,7 @@
 # 痊愈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanyu.md)
+
 <p><span class="chinese">我只希望他能痊愈。</span><span class="english">I only want him to recover.</span></p>
 
 <p><span class="chinese">她目前已完全痊愈。</span><span class="english">She has now fully recovered.</span></p>

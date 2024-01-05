@@ -1,5 +1,7 @@
 # factionalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/factionalism.md)
+
 <p><span class="chinese">闹派性要不要反对？</span><span class="english">Will they oppose factionalism or not?</span></p>
 
 <p><span class="chinese">该党也因派系斗争比以往更四分五裂。</span><span class="english">The party has also become more riven by factionalism than ever.</span></p>

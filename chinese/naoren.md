@@ -1,5 +1,7 @@
 # 恼人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoren.md)
+
 <p><span class="chinese">它很恼人。</span><span class="english">That bothered people.</span></p>
 
 <p><span class="chinese">这恼人的天气使我感到不称意。</span><span class="english">This miserable weather chesses me off.</span></p>

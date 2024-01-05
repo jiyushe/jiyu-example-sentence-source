@@ -1,5 +1,7 @@
 # malawi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malawi.md)
+
 <p><span class="chinese">Gilks和他的同事使用的资料数据来自南非和马拉维。</span><span class="english">Gilks and colleagues used data from South Africa and Malawi.</span></p>
 
 <p><span class="chinese">马拉维已经建立了一家人道主义无人机测试中心。</span><span class="english">Malawi has launched a testing center for humanitarian drones.</span></p>

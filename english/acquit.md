@@ -1,5 +1,7 @@
 # acquit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquit.md)
+
 <p><span class="chinese">法庭会宣判他无罪释放吗？</span><span class="english">Will the court acquit him of the crime?</span></p>
 
 <p><span class="chinese">我原谅爱德华的所有根本过错。</span><span class="english">I acquit Edward of all essential misconduct.</span></p>

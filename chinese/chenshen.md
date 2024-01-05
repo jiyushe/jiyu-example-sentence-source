@@ -1,5 +1,7 @@
 # 称身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenshen.md)
+
 <p><span class="chinese">这件衣服你穿了挺称身的。</span><span class="english">This coat fits you perfectly.</span></p>
 
 <p><span class="chinese">借来的衣服不称身。</span><span class="english">borrowed garments never fit well.</span></p>

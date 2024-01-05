@@ -1,5 +1,7 @@
 # spinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spinal.md)
+
 <p><span class="chinese">脊索但无真正的脊柱鱼类动物。</span><span class="english">The vertebrate spine or spinal column.</span></p>
 
 <p><span class="chinese">脊髓呼吸作为独立功法？</span><span class="english">Spinal Breathing as a Stand-Alone Practice?</span></p>

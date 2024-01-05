@@ -1,5 +1,7 @@
 # 葡萄架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putaojia.md)
+
 <p><span class="chinese">夏天，我想在葡萄架下荡秋千。</span><span class="english">In Summer, I want to swing under the grapes stem.</span></p>
 
 <p><span class="chinese">我构不到葡萄架，好心的王妃，你帮我摘吧。</span><span class="english">I can't reach up that high, please pick them for me.</span></p>

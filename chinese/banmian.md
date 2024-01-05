@@ -1,5 +1,7 @@
 # 版面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banmian.md)
+
 <p><span class="chinese">据说很好中。不过版面费很贵！</span><span class="english">It is just ok for me!</span></p>
 
 <p><span class="chinese">版面编排，将不胜感激。</span><span class="english">Mockups will be appreciated.</span></p>

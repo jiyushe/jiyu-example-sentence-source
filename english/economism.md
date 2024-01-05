@@ -1,5 +1,7 @@
 # economism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/economism.md)
+
 <p><span class="chinese">这两种创新观的局限性源于经济主义发展观与技术主义发展观。</span><span class="english">The limitation of the both two innovation views is originated from the development view of economism and technicism.</span></p>
 
 <p><span class="chinese">是民主公共文化的永久特徵，但是现代社会的思想主流却是经济主义。</span><span class="english">Although reasonable pluralism often characterizes the public culture of a democracy, the mainstream ideology in modern times is economism.</span></p>

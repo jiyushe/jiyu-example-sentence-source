@@ -1,5 +1,7 @@
 # anorexia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anorexia.md)
+
 <p><span class="chinese">食欲下降，特别厌食肉类食品。</span><span class="english">Loss of appetite, especially anorexia meat.</span></p>
 
 <p><span class="chinese">神经性厌食就是一个很好的例子。</span><span class="english">One example in my view is anorexia nervosa.</span></p>

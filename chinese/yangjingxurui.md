@@ -1,5 +1,7 @@
 # 养精蓄锐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangjingxurui.md)
+
 <p><span class="chinese">为明天的比赛而养精蓄锐吧。</span><span class="english">Save yourself for the game tomorrow.</span></p>
 
 <p><span class="chinese">养精蓄锐以应付今后你得去从事的繁重工作。</span><span class="english">Save your strength for the hard work you'll have to do later.</span></p>

@@ -1,5 +1,7 @@
 # 小卒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozu.md)
+
 <p><span class="chinese">而这些人只是些小兵小卒。</span><span class="english">And that's a little fish.</span></p>
 
 <p><span class="chinese">“夏威夷就如象棋比赛中的一名小卒无足轻重，”他接着说。</span><span class="english">“Hawaii is like a pawn in a chess game, ” he added.</span></p>

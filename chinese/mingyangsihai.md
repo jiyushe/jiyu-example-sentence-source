@@ -1,5 +1,7 @@
 # 名扬四海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingyangsihai.md)
+
 <p><span class="chinese">记住我的名字名扬四海。</span><span class="english">Remember my name Fame.</span></p>
 
 <p><span class="chinese">我们的交战将会名扬四海。</span><span class="english">The battle will be legendary.</span></p>

@@ -1,5 +1,7 @@
 # 夷为平地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiweipingdi.md)
+
 <p><span class="chinese">我会把这里给夷为平地。</span><span class="english">I'll raze this place to hell!</span></p>
 
 <p><span class="chinese">斯巴达将被战火夷为平地！</span><span class="english">Spart will burn to the ground.</span></p>

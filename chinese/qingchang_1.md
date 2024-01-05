@@ -1,5 +1,7 @@
 # 清唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingchang_1.md)
+
 <p><span class="chinese">那是春天甜美的清唱。</span><span class="english">Spring’s sweet  cantata.</span></p>
 
 <p><span class="chinese">清唱云不去，弹弦风飒来。</span><span class="english">Cappella clouds go, playing the string to wind Sa.</span></p>

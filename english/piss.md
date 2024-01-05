@@ -1,5 +1,7 @@
 # piss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piss.md)
+
 <p><span class="chinese">你气死我了。口语。</span><span class="english">You piss me off.</span></p>
 
 <p><span class="chinese">滚开，你们这群杂种！</span><span class="english">Piss off, you mongrels!</span></p>

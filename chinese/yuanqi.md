@@ -1,5 +1,7 @@
 # 元气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanqi.md)
+
 <p><span class="chinese">快速从骨痛热症恢复元气。</span><span class="english">Faster recovery from dengue infection.</span></p>
 
 <p><span class="chinese">在我宁静的力量中恢复元气。</span><span class="english">And in My quiet strength again be strong.</span></p>

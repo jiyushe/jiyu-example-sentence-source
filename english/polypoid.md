@@ -1,5 +1,7 @@
 # polypoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polypoid.md)
+
 <p><span class="chinese">剔除膀胱及输尿管周围多余脂肪组织。</span><span class="english">There were multiple polypoid tissue in the bladder.</span></p>
 
 <p><span class="chinese">息肉样病变的诊断为发育异常的息肉。</span><span class="english">The polypoid lesions were diagnosed as dysplastic polyps.</span></p>

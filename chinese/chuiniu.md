@@ -1,5 +1,7 @@
 # 吹牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuiniu.md)
+
 <p><span class="chinese">他爱吹牛。</span><span class="english">He likes to brag.</span></p>
 
 <p><span class="chinese">大牛，快别吹牛了！</span><span class="english">Daniel, don't talk big!</span></p>

@@ -1,5 +1,7 @@
 # landform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landform.md)
+
 <p><span class="chinese">他又使陆地水土流失，变得千沟万壑。</span><span class="english">He made land soil erosion, became fragmented landform.</span></p>
 
 <p><span class="chinese">丹霞地貌是一种独特的地貌景观资源。</span><span class="english">Danxia landform is a kind of particular landform scenery.</span></p>

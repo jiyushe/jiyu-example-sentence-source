@@ -1,5 +1,7 @@
 # possible 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/possible_1.md)
+
 <p><span class="chinese">不可能.</span><span class="english">Not possible.</span></p>
 
 <p><span class="chinese">不可能吗？</span><span class="english">Not possible?</span></p>

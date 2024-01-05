@@ -1,5 +1,7 @@
 # extensor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extensor.md)
+
 <p><span class="chinese">脊柱后伸肌群解剖结构特点。</span><span class="english">Spine after extensor group of anatomical characteristics.</span></p>
 
 <p><span class="chinese">伸肌腱撕裂伤可以由急诊医生进行修补。</span><span class="english">Extensor tendon lacerations can be repaired by emergency providers.</span></p>

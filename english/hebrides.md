@@ -1,5 +1,7 @@
 # hebrides
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hebrides.md)
+
 <p><span class="chinese">后来她被送到新赫布里的孤儿院。</span><span class="english">She was taken to an orphanage in New Hebrides.</span></p>
 
 <p><span class="chinese">这是发现于赫布里底群岛外海的苏格兰。</span><span class="english">It is found on the Hebrides Islands off the coast of Scotland.</span></p>

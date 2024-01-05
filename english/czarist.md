@@ -1,5 +1,7 @@
 # czarist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/czarist.md)
+
 <p><span class="chinese">他又被派去渗透沙俄警局。</span><span class="english">He was also assigned the duty of infiltrating the Czarist police.</span></p>
 
 <p><span class="chinese">在某些方面，俄罗斯帝国和后来的苏联，是最令人惊异的。</span><span class="english">In some ways the Russian empire, czarist then Soviet, was the most surprising.</span></p>

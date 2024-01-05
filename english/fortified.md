@@ -1,5 +1,7 @@
 # fortified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortified.md)
+
 <p><span class="chinese">难道你没看见那固若金汤的城墙?。</span><span class="english">Can't you see the fortified walls?</span></p>
 
 <p><span class="chinese">他们加固了大堤以防御洪水。</span><span class="english">They fortified the dam aginst the flood.</span></p>

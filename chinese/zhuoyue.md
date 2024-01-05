@@ -1,5 +1,7 @@
 # 卓越
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoyue.md)
+
 <p><span class="chinese">科托娃是注定成就卓越的。</span><span class="english">Kotova is destined for greatness.</span></p>
 
 <p><span class="chinese">小野马和卓越为7。</span><span class="english">Little Mustang and Eminent were 7.</span></p>

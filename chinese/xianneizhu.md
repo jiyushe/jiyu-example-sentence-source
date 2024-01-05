@@ -1,5 +1,7 @@
 # 贤内助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianneizhu.md)
+
 <p><span class="chinese">自己想当云狂的贤内助。</span><span class="english">He wanted to be a cloud of crazy.</span></p>
 
 <p><span class="chinese">他把妻子看做是贤内助。</span><span class="english">He looked upon his wife as the better half.</span></p>

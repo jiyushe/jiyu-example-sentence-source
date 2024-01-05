@@ -1,5 +1,7 @@
 # 无以
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyi_2.md)
+
 <p><span class="chinese">教授坐了下来，无以对答。</span><span class="english">The professor sat down.</span></p>
 
 <p><span class="chinese">无以规矩，不成方圆。</span><span class="english">No set rules, not a radius.</span></p>

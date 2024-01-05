@@ -1,5 +1,7 @@
 # 平行线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingxingxian.md)
+
 <p><span class="chinese">他用尺在纸上画上平行线。</span><span class="english">He ruled the paper with a ruler.</span></p>
 
 <p><span class="chinese">他证明了平行线的存在性。</span><span class="english">He proved the existence of parallel lines.</span></p>

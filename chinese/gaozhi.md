@@ -1,5 +1,7 @@
 # 告知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaozhi.md)
+
 <p><span class="chinese">玛丽被告知来接我们。</span><span class="english">Mary was told to meet us.</span></p>
 
 <p><span class="chinese">我告知他我的计划。</span><span class="english">I advertised him of my plan.</span></p>

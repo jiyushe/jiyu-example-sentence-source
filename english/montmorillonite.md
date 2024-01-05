@@ -1,5 +1,7 @@
 # montmorillonite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/montmorillonite.md)
+
 <p><span class="chinese">研究了钠型蒙脱石在水中的溶胀行为。</span><span class="english">The swelling behavior of montmorillonite in water was studied.</span></p>
 
 <p><span class="chinese">第一部分主要是铝交联蒙脱石制备方法的研究。</span><span class="english">The first part is about the preparation of Al-pillared montmorillonite.</span></p>

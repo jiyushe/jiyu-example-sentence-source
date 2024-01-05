@@ -1,5 +1,7 @@
 # waybill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waybill.md)
+
 <p><span class="chinese">请先填写一下运单。</span><span class="english">OK. Please fill the waybill first.</span></p>
 
 <p><span class="chinese">每份空运运单有三份正本以及至少六份副本。</span><span class="english">Each air waybill has three originals and at least 6 copies.</span></p>

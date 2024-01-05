@@ -1,5 +1,7 @@
 # fringe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fringe.md)
+
 <p><span class="chinese">刘海以0角度平剪处理。</span><span class="english">Cut the fringe by 0 degree.</span></p>
 
 <p><span class="chinese">她额前有刘海儿，戴着眼镜。</span><span class="english">She has a fringe and glass es.</span></p>

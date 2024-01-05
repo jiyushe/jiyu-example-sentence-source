@@ -1,5 +1,7 @@
 # 惊蛰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzhe.md)
+
 <p><span class="chinese">节气“惊蛰”是什么意思？</span><span class="english">What does the solar term Insects Awaken mean?</span></p>
 
 <p><span class="chinese">立春之后，很快就到了惊蛰。</span><span class="english">Insects awaken soon after the first day of spring.</span></p>

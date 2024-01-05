@@ -1,5 +1,7 @@
 # metaphor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metaphor.md)
+
 <p><span class="chinese">这是阳痿的隐喻。</span><span class="english">It's an impotence metaphor.</span></p>
 
 <p><span class="chinese">所以我比较喜欢这样的树的比喻。</span><span class="english">So I like this tree metaphor here.</span></p>

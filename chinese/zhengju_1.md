@@ -1,5 +1,7 @@
 # 正剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengju_1.md)
+
 <p><span class="chinese">两人都曾出演过正剧和喜剧。</span><span class="english">Both have done serious drama and comedy.</span></p>
 
 <p><span class="chinese">你所有的朋友都想去看一出很严肃的正剧。</span><span class="english">All of your friends wanna go see a play that's very serious.</span></p>

@@ -1,5 +1,7 @@
 # 从容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congrong.md)
+
 <p><span class="chinese">早动身，易从容，早开始，早成功。</span><span class="english">Early start makes easy stages.</span></p>
 
 <p><span class="chinese">他从容轻松地沿路行步。</span><span class="english">He was ambling along the road.</span></p>

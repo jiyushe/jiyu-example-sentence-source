@@ -1,5 +1,7 @@
 # royalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/royalist.md)
+
 <p><span class="chinese">我深信我女儿还太稚嫩，所谓的保皇意识在她的思想里还没有萌芽。</span><span class="english">My daughter, I'm confident, is no budding royalist.</span></p>
 
 <p><span class="chinese">你在王党里潜伏密探有多久了?。</span><span class="english">How long have you had agents amongst the Royalist party?</span></p>

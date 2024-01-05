@@ -1,5 +1,7 @@
 # hoplite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoplite.md)
+
 <p><span class="chinese">孩子们,这对方阵部队来说可是够爽</span><span class="english">Boy, that's a nice day for a hoplite.</span></p>
 
 <p><span class="chinese">重装步兵是为了方阵才存在的</span><span class="english">A hoplite only makes sense in a phalanx.</span></p>

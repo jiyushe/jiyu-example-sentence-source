@@ -1,5 +1,7 @@
 # 出奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuqi.md)
+
 <p><span class="chinese">一些街道出奇的安静。</span><span class="english">Some streets were eerily quiet.</span></p>
 
 <p><span class="chinese">我的声音出奇的淡定。</span><span class="english">My voice sounded strangely calm.</span></p>

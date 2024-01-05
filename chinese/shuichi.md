@@ -1,5 +1,7 @@
 # 水尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuichi.md)
+
 <p><span class="chinese">长江流域设置水尺的历史悠久。</span><span class="english">The setting up of water gauges in the Yangtze River valley has a long History.</span></p>
 
 <p><span class="chinese">请计算一下本班的装货水尺和集装箱箱数。</span><span class="english">Please calculate the loading scale and the number of containers of their shift.</span></p>

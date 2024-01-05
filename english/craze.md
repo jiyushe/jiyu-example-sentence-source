@@ -1,5 +1,7 @@
 # craze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craze.md)
+
 <p><span class="chinese">这种狂热正席卷日本。</span><span class="english">The craze is sweeping over Japan.</span></p>
 
 <p><span class="chinese">银纹是高聚物损伤的重要表现形式。</span><span class="english">Craze is an important form of polymer damage.</span></p>

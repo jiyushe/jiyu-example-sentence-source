@@ -1,5 +1,7 @@
 # parapet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parapet.md)
+
 <p><span class="chinese">这个栏杆是白色的。</span><span class="english">This parapet is white.</span></p>
 
 <p><span class="chinese">他探过身子去听她说话。</span><span class="english">He went to the parapet and leaned over.</span></p>

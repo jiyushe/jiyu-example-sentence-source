@@ -1,5 +1,7 @@
 # neighbor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neighbor.md)
+
 <p><span class="chinese">你的邻居。</span><span class="english">Your neighbor.</span></p>
 
 <p><span class="chinese">做个好邻居。</span><span class="english">Be a good neighbor.</span></p>

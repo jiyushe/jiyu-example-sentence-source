@@ -1,5 +1,7 @@
 # verbena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verbena.md)
+
 <p><span class="chinese">黄石沙地马鞭草是黄石公园湖边特有的植物。</span><span class="english">Yellowstone sand verbena are endemic to the Yellowstone's lakeshores.</span></p>
 
 <p><span class="chinese">金盏花可配搭柠檬片，薄荷，紫罗兰或马鞭草。</span><span class="english">Calendula may mix with lemon slice, peppermint, blue mallow or Verbena.</span></p>

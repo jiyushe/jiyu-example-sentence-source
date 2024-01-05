@@ -1,5 +1,7 @@
 # 传感器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanganqi.md)
+
 <p><span class="chinese">为何选择对射光束的传感器?。</span><span class="english">Why use a thru-beam sensor?</span></p>
 
 <p><span class="chinese">菲亚特Stilo装有停车传感器。</span><span class="english">Fiat Stilo with parking sensor”.</span></p>

@@ -1,5 +1,7 @@
 # jagger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jagger.md)
+
 <p><span class="chinese">我真的要停下了，还有米克·杰戈，你好吗？</span><span class="english">And I'd really like to stop. Mick Jagger . How 'bout you?</span></p>
 
 <p><span class="chinese">即便在66岁高龄，贾格尔还是能搞上各个年龄的姑娘。</span><span class="english">Even at the age of 66, Mick Jagger can get ladies of all ages.</span></p>

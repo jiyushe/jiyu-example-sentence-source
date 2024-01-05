@@ -1,5 +1,7 @@
 # sportswear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sportswear.md)
+
 <p><span class="chinese">到处都是身着运动装的人。</span><span class="english">It's all about easy sportswear.</span></p>
 
 <p><span class="chinese">我们是中国的运动服式经销商。</span><span class="english">We are exporters of sportswear of China.</span></p>

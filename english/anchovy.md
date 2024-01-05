@@ -1,5 +1,7 @@
 # anchovy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anchovy.md)
+
 <p><span class="chinese">你不吃鳀鱼？</span><span class="english">You don't eat anchovy?</span></p>
 
 <p><span class="chinese">一个小凤尾鱼酱增加。</span><span class="english">A little anchovy sauce is added.</span></p>

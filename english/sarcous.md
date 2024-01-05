@@ -1,5 +1,7 @@
 # sarcous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarcous.md)
+
 <p><span class="chinese">初学者要学会放松肌肉的技术。</span><span class="english">Abecedarian should learn to loosen sarcous technology.</span></p>
 
 <p><span class="chinese">同时发生的腰、大腿和臀部肌肉的痉挛可加重病情。</span><span class="english">Coinstantaneous waist, ham and coxal sarcous convulsion can accentuate illness.</span></p>

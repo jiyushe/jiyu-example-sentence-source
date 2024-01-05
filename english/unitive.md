@@ -1,5 +1,7 @@
 # unitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unitive.md)
+
 <p><span class="chinese">阿悦-奥兰尼亚是一位注册和谐生活教练。</span><span class="english">Ayo Olaniyan is a certified Unitive Life Coach.</span></p>
 
 <p><span class="chinese">全国一站服务统一标准、快速响应。</span><span class="english">One-Stop Service Unitive standard, Fast response.</span></p>

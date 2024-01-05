@@ -1,5 +1,7 @@
 # deliverance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deliverance.md)
+
 <p><span class="chinese">他试图凭己力催逼神施行拯救。</span><span class="english">He tried to force God's deliverance.</span></p>
 
 <p><span class="chinese">什么都不去想了该是多么好的解脱啊。</span><span class="english">What a deliverance not to have to think anymore.</span></p>

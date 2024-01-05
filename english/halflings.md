@@ -1,5 +1,7 @@
 # halflings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halflings.md)
+
 <p><span class="chinese">你停了下来，加入了一局已经进行了一半的掷骰子游戏。</span><span class="english">You stop and join some halflings playing a game of dice.</span></p>
 
 <p><span class="chinese">我家乡的半身人拿着铅板证明自己已经成年。</span><span class="english">Halflings of my village carry lead sheets to prove our manhood.</span></p>

@@ -1,5 +1,7 @@
 # 人丁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rending.md)
+
 <p><span class="chinese">英国诗人丁尼生，A。</span><span class="english">Alfred Tennyson, British poet.</span></p>
 
 <p><span class="chinese">论文中引用了英国诗人丁尼生的几行诗句。</span><span class="english">He quotes a few verses from Tennyson in his paper.</span></p>

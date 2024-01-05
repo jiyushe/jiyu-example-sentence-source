@@ -1,5 +1,7 @@
 # 活力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoli.md)
+
 <p><span class="chinese">我看到活力。</span><span class="english">I see energy.</span></p>
 
 <p><span class="chinese">你是那么活力充沛！</span><span class="english">You feel Alive!</span></p>

@@ -1,5 +1,7 @@
 # impossibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impossibility.md)
+
 <p><span class="chinese">不可能和无能者是最好的搭档。</span><span class="english">Impossibility and incapable persons are unique partners.</span></p>
 
 <p><span class="chinese">但是，他们没有充分考虑到衡量的不可能性。</span><span class="english">But they do not give sufficient weight to this impossibility.</span></p>

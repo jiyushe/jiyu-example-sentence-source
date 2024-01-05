@@ -1,5 +1,7 @@
 # 圣上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshang.md)
+
 <p><span class="chinese">这位小兄弟何以对当今圣上如此推崇？</span><span class="english">This small brothers why to nowadays angel up adore thus?</span></p>
 
 <p><span class="chinese">而为表圣上仁慈，通知严世藩将杨秀从轻发落。</span><span class="english">And for the table holy mercy, will inform YanShiFan Yang Xiu lenient.</span></p>

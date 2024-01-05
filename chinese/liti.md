@@ -1,5 +1,7 @@
 # 例题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liti.md)
+
 <p><span class="chinese">好，下面来做例题。</span><span class="english">OK. Let's do examples.</span></p>
 
 <p><span class="chinese">,我们来做一个例题。</span><span class="english">Well, so let's do an example.</span></p>

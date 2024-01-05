@@ -1,5 +1,7 @@
 # inhalation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhalation.md)
+
 <p><span class="chinese">深深缓慢地吸气。</span><span class="english">Deep, slow inhalation.</span></p>
 
 <p><span class="chinese">吸入可能致敏。</span><span class="english">May cause sensitization by inhalation.</span></p>

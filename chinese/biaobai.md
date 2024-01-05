@@ -1,5 +1,7 @@
 # 表白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaobai.md)
+
 <p><span class="chinese">这是表白爱情还是尽义务？</span><span class="english">Is this love, or obligation?</span></p>
 
 <p><span class="chinese">我要表白我的谢忱。</span><span class="english">I"d like to express my gratitude."</span></p>

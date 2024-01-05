@@ -1,5 +1,7 @@
 # hatchery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hatchery.md)
+
 <p><span class="chinese">在孵化网箱内进行鱼苗培育。</span><span class="english">Culture the fry in the hatchery cages.</span></p>
 
 <p><span class="chinese">养殖业也是通霄的重要产业。</span><span class="english">Fish hatchery is also an important industry in Tunghsiao.</span></p>

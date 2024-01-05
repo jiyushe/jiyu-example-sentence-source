@@ -1,5 +1,7 @@
 # overlying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overlying.md)
+
 <p><span class="chinese">包边缝用覆于其上的长针脚缝纫…</span><span class="english">To sew with long, overlying stitches.</span></p>
 
 <p><span class="chinese">胸腔的皮肤扩张远离胸骨。</span><span class="english">Draw the skin overlying your front ribs away from your sternum.</span></p>

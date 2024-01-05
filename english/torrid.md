@@ -1,5 +1,7 @@
 # torrid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torrid.md)
+
 <p><span class="chinese">炎热的长夏晒枯了青草。</span><span class="english">It was a torrid summer day.</span></p>
 
 <p><span class="chinese">铁骨铮铮，我们在火辣辣的太阳下不屈不挠，认真练习。</span><span class="english">With strong mind, we are dauntless and practicing hard in the torrid sun.</span></p>

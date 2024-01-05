@@ -1,5 +1,7 @@
 # bromate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bromate.md)
+
 <p><span class="chinese">从而得出溴酸盐是一类较为适宜的硫化染料氧化剂的结论。</span><span class="english">It is resulted that bromate is a suitable kind of oxidizing agent for sulfur dyes.</span></p>
 
 <p><span class="chinese">研究了饮用水臭氧催化氧化过程中溴酸盐的生成特点与控制效能。</span><span class="english">An investigation is given to the bromate formation of catalytic ozonation in treating drinking water.</span></p>

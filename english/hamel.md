@@ -1,5 +1,7 @@
 # hamel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hamel.md)
+
 <p><span class="chinese">阿麦尔先生从椅子上站了起来，面色十分苍白。</span><span class="english">Monsieur Hamel rose, pale as death, from his chair.</span></p>
 
 <p><span class="chinese">我诧异所有这一切时，韩麦尔先生已经坐到椅子上。</span><span class="english">While I was wondering about it all, M. Hamel mounted his chair.</span></p>

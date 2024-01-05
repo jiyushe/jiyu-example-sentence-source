@@ -1,5 +1,7 @@
 # 生丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengsi.md)
+
 <p><span class="chinese">他们用日本生丝和人造丝。</span><span class="english">They prefer to buy Japanese silk and rayon.</span></p>
 
 <p><span class="chinese">然后再收集起来，纺成生丝。</span><span class="english">These are then gathered and spun into raw silk thread.</span></p>

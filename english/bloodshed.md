@@ -1,5 +1,7 @@
 # bloodshed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodshed.md)
+
 <p><span class="chinese">但是为了这一切，就值得流血吗？</span><span class="english">But is all this worth the bloodshed?</span></p>
 
 <p><span class="chinese">它看到了营火和流血。</span><span class="english">It has seen campfires and bloodshed.</span></p>

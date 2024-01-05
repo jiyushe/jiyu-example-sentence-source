@@ -1,5 +1,7 @@
 # 洗漱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishu_1.md)
+
 <p><span class="chinese">洗漱用品.</span><span class="english">Toiletries.</span></p>
 
 <p><span class="chinese">穿衣，洗漱，出门。</span><span class="english">Clothe, wash the , and go out.</span></p>

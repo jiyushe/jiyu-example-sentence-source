@@ -1,5 +1,7 @@
 # flop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flop.md)
+
 <p><span class="chinese">印度模式却要砸锅。</span><span class="english">India's model is a flop.</span></p>
 
 <p><span class="chinese">失败还是前瞻？</span><span class="english">Palm Foleo flop or future?</span></p>

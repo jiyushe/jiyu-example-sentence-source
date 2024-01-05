@@ -1,5 +1,7 @@
 # cassette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cassette.md)
+
 <p><span class="chinese">是盒式磁带。</span><span class="english">They is cassette.</span></p>
 
 <p><span class="chinese">我的磁带盒嗡嗡响。</span><span class="english">My cassette deck has a buzz.</span></p>

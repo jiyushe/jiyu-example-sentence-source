@@ -1,5 +1,7 @@
 # sisyphus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sisyphus.md)
+
 <p><span class="chinese">我们应该认为西西弗斯是快乐着的。</span><span class="english">One must imagine Sisyphus happy.</span></p>
 
 <p><span class="chinese">西绪弗斯在地狱醒来。</span><span class="english">Sisyphus woke up in the underworld.</span></p>

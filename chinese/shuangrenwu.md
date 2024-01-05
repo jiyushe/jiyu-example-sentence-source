@@ -1,5 +1,7 @@
 # 双人舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangrenwu.md)
+
 <p><span class="chinese">当时的人们更喜欢跳新兴起的双人舞。</span><span class="english">Dancers liked the new couple dancing better.</span></p>
 
 <p><span class="chinese">三个朋友高兴地跳着双人舞！</span><span class="english">The three friends are happy dancing the dance for two!</span></p>

@@ -1,5 +1,7 @@
 # idea 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idea.md)
+
 <p><span class="chinese">我有一个主意。</span><span class="english">I get an idea.</span></p>
 
 <p><span class="chinese">他有了一个想法……</span><span class="english">He had an idea.</span></p>

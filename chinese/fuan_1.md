@@ -1,5 +1,7 @@
 # 伏案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuan_1.md)
+
 <p><span class="chinese">为什么盏灯伏案还要写呢？</span><span class="english">Why even writing desk lamp?</span></p>
 
 <p><span class="chinese">窗前，他伏案书写着寂寞。</span><span class="english">The window, his desk writing the lonely.</span></p>

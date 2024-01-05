@@ -1,5 +1,7 @@
 # keno
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keno.md)
+
 <p><span class="chinese">基诺卡特从他的马得到下来.</span><span class="english">Keno Carter got down from his horse.</span></p>
 
 <p><span class="chinese">但是你还没有看到有重大改革。</span><span class="english">But you play keno haven't seen dramatic reforms there.</span></p>

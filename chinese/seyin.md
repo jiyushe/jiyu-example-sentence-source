@@ -1,5 +1,7 @@
 # 塞音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/seyin.md)
+
 <p><span class="chinese">二是不送气双唇塞音的闭塞段时长最长。</span><span class="english">Second, the GAP of the unaspirated bilabial plosives is longest.</span></p>
 
 <p><span class="chinese">在闽南语里，比如潮州方言，同样有鼻冠塞音的存在。</span><span class="english">In Southern Min languages, such as Teochew, prenasalized stops are also found.</span></p>

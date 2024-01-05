@@ -1,5 +1,7 @@
 # ewan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ewan.md)
+
 <p><span class="chinese">如果有任何演员能胜任这个挑战，那就是伊万·麦克格雷戈。</span><span class="english">If any actor is up to the challenge, it's got to be Ewan McGregor.</span></p>
 
 <p><span class="chinese">我说，想象一下如果你去了美国，变成伊万·麦克格雷戈。</span><span class="english">Imagine if you'd gone to the States and become Ewan McGregor, I say.</span></p>

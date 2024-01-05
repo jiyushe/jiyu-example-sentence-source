@@ -1,5 +1,7 @@
 # shogunate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shogunate.md)
+
 <p><span class="chinese">日本幕府对西方开放，但被推翻。</span><span class="english">The shogunate opened Japan to the West, only to be overthrown.</span></p>
 
 <p><span class="chinese">经过了一个世纪的内战，德川幕府粉墨登场。</span><span class="english">The Tokugawa shogunate arose after over a century of civil war.</span></p>

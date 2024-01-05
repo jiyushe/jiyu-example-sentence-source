@@ -1,5 +1,7 @@
 # affliction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affliction.md)
+
 <p><span class="chinese">这种死，是一种哀伤。</span><span class="english">This death was an affliction.</span></p>
 
 <p><span class="chinese">你为何因损伤哀号呢。</span><span class="english">Why criest thou for thine affliction?</span></p>

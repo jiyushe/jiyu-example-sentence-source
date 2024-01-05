@@ -1,5 +1,7 @@
 # gone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gone.md)
+
 <p><span class="chinese">我的心死了。</span><span class="english">My heart is gone.</span></p>
 
 <p><span class="chinese">我们已经走远。</span><span class="english">We have gone far.</span></p>

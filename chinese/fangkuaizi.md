@@ -1,5 +1,7 @@
 # 方块字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangkuaizi.md)
+
 <p><span class="chinese">里面是古怪的方块字。</span><span class="english">In square, grotesque characters.</span></p>
 
 <p><span class="chinese">方块字那股难以抗拒的魅力，你不感觉到吗？</span><span class="english">Don't you feel the irresistible charm of Chinese words?</span></p>

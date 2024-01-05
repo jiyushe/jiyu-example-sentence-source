@@ -1,5 +1,7 @@
 # 无序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxu_1.md)
+
 <p><span class="chinese">长幼无序的结果怎样呢？</span><span class="english">What is the result of all this?</span></p>
 
 <p><span class="chinese">因此，这些属性是无序的。</span><span class="english">The attributes are thus unordered.</span></p>

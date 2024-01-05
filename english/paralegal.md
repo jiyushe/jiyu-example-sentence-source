@@ -1,5 +1,7 @@
 # paralegal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paralegal.md)
+
 <p><span class="chinese">所以我决定去一家律师事务所找一份律师助理的工作。</span><span class="english">so I decided to pursue a job as a paralegal at a law firm.</span></p>
 
 <p><span class="chinese">你认为作为一名律师助理，取得成功的关键品质是什么?。</span><span class="english">What do you think are the key qualities needed to succeed in the paralegal profession?</span></p>

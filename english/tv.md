@@ -1,5 +1,7 @@
 # tv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tv.md)
+
 <p><span class="chinese">电视还开着呢。</span><span class="english">Nomo is on TV.</span></p>
 
 <p><span class="chinese">野茂上电视了。</span><span class="english">Nomo is on TV.</span></p>

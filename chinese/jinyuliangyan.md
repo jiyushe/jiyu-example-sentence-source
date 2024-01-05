@@ -1,5 +1,7 @@
 # 金玉良言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyuliangyan.md)
+
 <p><span class="chinese">你是我书里的金玉良言。</span><span class="english">You're the words in my books.</span></p>
 
 <p><span class="chinese">听我说，这是我给你的金玉良言。</span><span class="english">Listen to me. I'm giving you pearls here.</span></p>

@@ -1,5 +1,7 @@
 # afforest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afforest.md)
+
 <p><span class="chinese">通辽地区丰产型杨树农田防护林营造技术。</span><span class="english">Afforest technology on high yield type shelter forest of poplar tree in tongliao area.</span></p>
 
 <p><span class="chinese">大面积植树造林绿化国土是跨世纪中国的一大课题。</span><span class="english">Land of afforest of large area afforestation is the one big task that crosses century China.</span></p>

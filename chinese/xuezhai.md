@@ -1,5 +1,7 @@
 # 血债
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuezhai.md)
+
 <p><span class="chinese">血债要用血来还。</span><span class="english">Blood will have blood.</span></p>
 
 <p><span class="chinese">这绝对是他的血债。</span><span class="english">It is definitely his blood work.</span></p>

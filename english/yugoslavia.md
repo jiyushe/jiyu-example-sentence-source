@@ -1,5 +1,7 @@
 # yugoslavia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yugoslavia.md)
+
 <p><span class="chinese">1973年出生于南斯拉夫的诺维萨德。</span><span class="english">Born in 1973, Novi Sad, Yugoslavia.</span></p>
 
 <p><span class="chinese">中国驻南联盟使馆有准确无误的标识。</span><span class="english">The Chinese Embassy in Yugoslavia has unmistakable markings.</span></p>

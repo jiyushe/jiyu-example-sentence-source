@@ -1,5 +1,7 @@
 # 母系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muxi_2.md)
+
 <p><span class="chinese">其母系辽宁人。</span><span class="english">His mother is a native of Liaoning.</span></p>
 
 <p><span class="chinese">根据母系的血缘，她是苏格兰的后裔。</span><span class="english">This is a kind of Scottish bagpipe.</span></p>

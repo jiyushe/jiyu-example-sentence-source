@@ -1,5 +1,7 @@
 # 充数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongshu.md)
+
 <p><span class="chinese">市政栽下充数的四棵残次品。</span><span class="english">Four raggedy excuses planted by the city.</span></p>
 
 <p><span class="chinese">艾加先生把他的女儿给你送来充数！</span><span class="english">Mr Edgar's sent you his daughter instead!</span></p>

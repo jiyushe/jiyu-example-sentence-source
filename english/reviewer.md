@@ -1,5 +1,7 @@
 # reviewer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reviewer.md)
+
 <p><span class="chinese">然而，该影片评论人认为不为此兴致盎然几乎是不可能的。</span><span class="english">Yet this reviewer found it impossible not to enjoy them.</span></p>
 
 <p><span class="chinese">有评论家说,每个美国公民都该读这本书。</span><span class="english">The reviewer say that every American citizen should read.</span></p>

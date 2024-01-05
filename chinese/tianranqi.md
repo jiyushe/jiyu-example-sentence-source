@@ -1,5 +1,7 @@
 # 天然气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianranqi.md)
+
 <p><span class="chinese">但是天然气供过于求怎么办？</span><span class="english">But what of our natural gas glut?</span></p>
 
 <p><span class="chinese">天然气是一种清洁燃料。</span><span class="english">Natural gas is a clean-burning fuel.</span></p>

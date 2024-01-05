@@ -1,5 +1,7 @@
 # 失密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shimi.md)
+
 <p><span class="chinese">这计划要求失密。</span><span class="english">This plgood requires secrecy.</span></p>
 
 <p><span class="chinese">我们的方案必需失密。</span><span class="english">Our plan must remain a secret.</span></p>

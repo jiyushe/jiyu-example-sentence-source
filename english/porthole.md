@@ -1,5 +1,7 @@
 # porthole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porthole.md)
+
 <p><span class="chinese">哦，亲爱的，那是舷窗！</span><span class="english">Oh dear, that's the porthole.</span></p>
 
 <p><span class="chinese">她强从舷窗挤过去。</span><span class="english">She jammed herself through the porthole.</span></p>

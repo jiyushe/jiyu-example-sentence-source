@@ -1,5 +1,7 @@
 # 孕育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunyu.md)
+
 <p><span class="chinese">痛苦孕育着勇气。</span><span class="english">Pain nourishes courage.</span></p>
 
 <p><span class="chinese">之所以孕育出这么伟大在人。</span><span class="english">In the gestate so great.</span></p>

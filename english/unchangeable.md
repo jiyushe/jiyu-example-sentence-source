@@ -1,5 +1,7 @@
 # unchangeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unchangeable.md)
+
 <p><span class="chinese">阿特曼的纯粹意识是不会改变的。</span><span class="english">The pure consciousness of the Atman is unchangeable.</span></p>
 
 <p><span class="chinese">如果你的能力是固有的，并且不可改变，怎样才会好？</span><span class="english">Which would be fine, if your abilities were innate and unchangeable.</span></p>

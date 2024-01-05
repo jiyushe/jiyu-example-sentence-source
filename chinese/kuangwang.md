@@ -1,5 +1,7 @@
 # 狂妄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangwang.md)
+
 <p><span class="chinese">这狂妄的人来见你有什么事呢？</span><span class="english">Why did this madman come to you?</span></p>
 
 <p><span class="chinese">狂妄是自己给的，要当心。</span><span class="english">Be grateful. Conceit is self-given.</span></p>

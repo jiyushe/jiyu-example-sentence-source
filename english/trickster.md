@@ -1,5 +1,7 @@
 # trickster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trickster.md)
+
 <p><span class="chinese">小丑走向魔术师。</span><span class="english">Clowns go to Trickster.</span></p>
 
 <p><span class="chinese">他是伟大的招摇撞骗。</span><span class="english">He is the great trickster.</span></p>

@@ -1,5 +1,7 @@
 # 半截
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banjie.md)
+
 <p><span class="chinese">就是别让自己把话说半截。</span><span class="english">Just be sure not to prattle on.</span></p>
 
 <p><span class="chinese">想到要去上学他的心就凉了半截。</span><span class="english">The idea of going to school left him cold.</span></p>

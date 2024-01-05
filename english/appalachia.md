@@ -1,5 +1,7 @@
 # appalachia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appalachia.md)
+
 <p><span class="chinese">当你和科恩兄弟在什么地方,比如,阿巴拉契亚,一起歌唱着</span><span class="english">You were singing with the Coen Brothers down somewhere in, you know, in Appalachia.</span></p>
 
 <p><span class="chinese">美国国家矿业协会的卢克·波波维奇认为这是一个时代的终结，新条例等同于对阿巴拉契亚地区的煤矿进行严格限制。</span><span class="english">That is tantamount to saying the intent is to strictly limit coal mining in Appalachia.</span></p>

@@ -1,5 +1,7 @@
 # cofounder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cofounder.md)
+
 <p><span class="chinese">创始人布赖恩克莱默正是基于此创立了这个地方。</span><span class="english">Cofounder Brian Kramer deliberately configured the space that way.</span></p>
 
 <p><span class="chinese">如果你和你的伙伴是非常认真的想干一番事业，那就开始干吧。</span><span class="english">If you and a potential cofounder are really serious about creating a business together, get started now.</span></p>

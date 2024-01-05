@@ -1,5 +1,7 @@
 # sunburnt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunburnt.md)
+
 <p><span class="chinese">我晒黑时，皮肤就脱落。</span><span class="english">My skin peeled when I got sunburnt.</span></p>
 
 <p><span class="chinese">在我晒过太阳后，我的皮肤脱皮了。</span><span class="english">When I was sunburnt , my skin peeled.</span></p>

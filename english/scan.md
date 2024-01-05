@@ -1,5 +1,7 @@
 # scan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scan.md)
+
 <p><span class="chinese">升级你的防毒软件。</span><span class="english">Update your virus scan.</span></p>
 
 <p><span class="chinese">我熟视无睹地拿余光一扫而过。</span><span class="english">I turned out to get a scan.</span></p>

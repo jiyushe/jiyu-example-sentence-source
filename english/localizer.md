@@ -1,5 +1,7 @@
 # localizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/localizer.md)
+
 <p><span class="chinese">现在到达航道。</span><span class="english">Come up the localizer now.</span></p>
 
 <p><span class="chinese">你现在转向航道了吗？</span><span class="english">Are you turning on the localizer now?</span></p>

@@ -1,5 +1,7 @@
 # scupper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scupper.md)
+
 <p><span class="chinese">排水口和排水管的材料为钢质。</span><span class="english">The scupper and outlet pipes are made of steel.</span></p>
 
 <p><span class="chinese">你打开所有的阀，堵上甲板排水管了吗？</span><span class="english">Have you opened all the valves and plug the deck scupper pipe?</span></p>

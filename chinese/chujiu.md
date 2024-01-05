@@ -1,5 +1,7 @@
 # 出九
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chujiu.md)
+
 <p><span class="chinese">特雷德韦曾考虑首先在六出九个事件，她出席了会议。</span><span class="english">Treadway had taking first place in six out of the nine events she attended.</span></p>
 
 <p><span class="chinese">我们都知道可以从五次衰退中预测出九次的经济学家。</span><span class="english">We all know about the economist who predicted nine of the past five recessions.</span></p>

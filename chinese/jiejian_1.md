@@ -1,5 +1,7 @@
 # 节俭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejian_1.md)
+
 <p><span class="chinese">为节俭立法。</span><span class="english">Legislated Frugality.</span></p>
 
 <p><span class="chinese">旅游与节俭的同伴。</span><span class="english">Travel with frugal companions.</span></p>

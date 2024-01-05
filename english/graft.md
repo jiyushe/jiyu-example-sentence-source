@@ -1,5 +1,7 @@
 # graft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graft.md)
+
 <p><span class="chinese">嫁接蒙导法也在不断改进。</span><span class="english">Graft mentor method is improving now.</span></p>
 
 <p><span class="chinese">嫁接嵌合体是嫁接杂种的一种类型。</span><span class="english">Graft chimera is a form of Graft hybrid.</span></p>

@@ -1,5 +1,7 @@
 # inquirer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inquirer.md)
+
 <p><span class="chinese">我给每位查询者发送了一份资料。</span><span class="english">I send each inquirer a packet of information.</span></p>
 
 <p><span class="chinese">“发现贫困很容易，”他告诉费城调查报。</span><span class="english">"It's easy to find the poverty, " he told the Philadelphia Inquirer.</span></p>

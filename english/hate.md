@@ -1,5 +1,7 @@
 # hate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hate.md)
+
 <p><span class="chinese">我痛恨罪恶。</span><span class="english">I hate sin.</span></p>
 
 <p><span class="chinese">我恨桃瑞园！</span><span class="english">I hate Tara!</span></p>

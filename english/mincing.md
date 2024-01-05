@@ -1,5 +1,7 @@
 # mincing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mincing.md)
+
 <p><span class="chinese">然后我们把所有肉放进绞肉机绞碎。</span><span class="english">Then we grind all the meat in the mincing machine.</span></p>
 
 <p><span class="chinese">行为特点是自吹自擂，装腔作势。</span><span class="english">Behavior characteristic is self- dramatizing , mincing.</span></p>

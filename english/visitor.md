@@ -1,5 +1,7 @@
 # visitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visitor.md)
+
 <p><span class="chinese">你可是个稀客。</span><span class="english">You are a rare visitor.</span></p>
 
 <p><span class="chinese">请把客人带进来。</span><span class="english">Show the visitor in, please.</span></p>

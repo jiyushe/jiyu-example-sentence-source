@@ -1,5 +1,7 @@
 # 纷乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenluan.md)
+
 <p><span class="chinese">我们来到一座纷乱的城市。</span><span class="english">We come to a city astir.</span></p>
 
 <p><span class="chinese">那是个政治上呈纷乱状态的时代。</span><span class="english">That is the age of political chaos.</span></p>

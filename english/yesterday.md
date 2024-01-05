@@ -1,5 +1,7 @@
 # yesterday 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yesterday.md)
+
 <p><span class="chinese">昨天天变冷了。</span><span class="english">It got cold yesterday.</span></p>
 
 <p><span class="chinese">像昨天一样沾满了泥点。</span><span class="english">Same spot as yesterday.</span></p>

@@ -1,5 +1,7 @@
 # modus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modus.md)
+
 <p><span class="chinese">或许这就是他独树一格的作法。</span><span class="english">Perhaps this was his modus operandi.</span></p>
 
 <p><span class="chinese">这我能理解。因为以前，逃避也是我惯用的伎俩。</span><span class="english">I understand this. Avoidance was my modus operandi.</span></p>

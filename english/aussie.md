@@ -1,5 +1,7 @@
 # aussie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aussie.md)
+
 <p><span class="chinese">我们都知道关于澳洲人的传奇。</span><span class="english">We all know the myth of the Aussie.</span></p>
 
 <p><span class="chinese">澳洲芝士薯条加色拉酱</span><span class="english">Aussie Cheese Fries with ranch dressing.</span></p>

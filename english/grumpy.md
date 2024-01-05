@@ -1,5 +1,7 @@
 # grumpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grumpy.md)
+
 <p><span class="chinese">爱生气有一个大鼻子。</span><span class="english">Grumpy has a big nose.</span></p>
 
 <p><span class="chinese">罗杰我们的暴躁引导者！</span><span class="english">Rodger our grumpy guide!</span></p>

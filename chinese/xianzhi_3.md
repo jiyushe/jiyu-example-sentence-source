@@ -1,5 +1,7 @@
 # 限制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhi_3.md)
+
 <p><span class="chinese">限制恶习。</span><span class="english">Limit vices.</span></p>
 
 <p><span class="chinese">速度限制？</span><span class="english">Speed limit?</span></p>

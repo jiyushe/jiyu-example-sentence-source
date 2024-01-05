@@ -1,5 +1,7 @@
 # minister
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minister.md)
+
 <p><span class="chinese">首任司事是谢干甫先生。</span><span class="english">The first lay minister was Mr.</span></p>
 
 <p><span class="chinese">当时没有外交部长</span><span class="english">There was no foreign minister.</span></p>

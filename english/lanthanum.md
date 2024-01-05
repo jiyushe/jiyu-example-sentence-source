@@ -1,5 +1,7 @@
 # lanthanum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lanthanum.md)
+
 <p><span class="chinese">过高的浓度对试管苗生长有一定抑制。</span><span class="english">High concentration of Lanthanum nitrate inhibited the plantlets growth.</span></p>
 
 <p><span class="chinese">对观察到的铬酸镧倾斜晶界进行了分析。</span><span class="english">The analysis of tilt boundary observed in lanthanum chromates was made.</span></p>

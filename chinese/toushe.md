@@ -1,5 +1,7 @@
 # 投射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toushe.md)
+
 <p><span class="chinese">还有投射机制。</span><span class="english">There is projection.</span></p>
 
 <p><span class="chinese">这就是投射。</span><span class="english">That'sall projection.</span></p>

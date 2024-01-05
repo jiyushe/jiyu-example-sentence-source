@@ -1,5 +1,7 @@
 # christening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christening.md)
+
 <p><span class="chinese">洗礼仪式的天是阳光充足的和明亮的。</span><span class="english">The day of the christening was sunny and bright.</span></p>
 
 <p><span class="chinese">女王的矢车菊蓝帽子在2013年乔治王子的洗礼时初次亮相。</span><span class="english">The Queen's cornflower blue hat got its first outing at Prince George's Christening in 2013.</span></p>

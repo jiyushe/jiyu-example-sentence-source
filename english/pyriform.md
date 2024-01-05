@@ -1,5 +1,7 @@
 # pyriform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyriform.md)
+
 <p><span class="chinese">梨中，以矩形或加长。</span><span class="english">Form pyriform to oblong or elongated.</span></p>
 
 <p><span class="chinese">主要作物是可变的脖子无花果梨形。</span><span class="english">Main crop figs are pyriform with variable necks.</span></p>

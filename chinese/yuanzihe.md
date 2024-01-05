@@ -1,5 +1,7 @@
 # 原子核
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzihe.md)
+
 <p><span class="chinese">那个铂原子核就是如此这般的一个骗子。</span><span class="english">That platinum is such a trickster.</span></p>
 
 <p><span class="chinese">原子核的电荷量是多少？</span><span class="english">What is the charge of the nucleus?</span></p>

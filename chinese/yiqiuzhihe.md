@@ -1,5 +1,7 @@
 # 一丘之貉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqiuzhihe.md)
+
 <p><span class="chinese">他们都有是一丘之貉。</span><span class="english">They are birds of a feather.</span></p>
 
 <p><span class="chinese">爱吹牛的人和骗子都是一丘之貉。</span><span class="english">A boaster and a liar are all one.</span></p>

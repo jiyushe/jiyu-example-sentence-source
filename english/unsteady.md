@@ -1,5 +1,7 @@
 # unsteady
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsteady.md)
+
 <p><span class="chinese">他的两腿还有点站不稳。</span><span class="english">He's a bit unsteady on his pins.</span></p>
 
 <p><span class="chinese">大卫用颤抖的手倒了两杯白兰地。</span><span class="english">David poured two brandies with an unsteady hand.</span></p>

@@ -1,5 +1,7 @@
 # phytochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phytochemistry.md)
+
 <p><span class="chinese">陕西巨集达植物化工有限公司是一家集研发、生产、自营出口于一体的植提企业。</span><span class="english">Our company is a phytochemistry enterprise that specializes in R&D, manufacture and export.</span></p>
 
 <p><span class="chinese">我公司是一家集研发，生产，自营出口于一体的植提企业。</span><span class="english">Our company is a phytochemistry enterpr ises, specializing in R&D, manufacturing and self-exporting.</span></p>

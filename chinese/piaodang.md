@@ -1,5 +1,7 @@
 # 飘荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaodang.md)
+
 <p><span class="chinese">一掌落叶随风飘荡，我就是落叶。</span><span class="english">I am that leaf.</span></p>
 
 <p><span class="chinese">还是只是到处随风飘荡。</span><span class="english">Stupid is as stupid does.</span></p>

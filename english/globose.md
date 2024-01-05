@@ -1,5 +1,7 @@
 # globose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/globose.md)
+
 <p><span class="chinese">结果调查发现危害木地板、木制品的害虫为裸蛛甲。</span><span class="english">Results The pests in floorboard were globose spider beetle.</span></p>
 
 <p><span class="chinese">这是按它的小，球状的胞果区分的一个形式。</span><span class="english">This is a form distinguished by its small, globose utricles.</span></p>

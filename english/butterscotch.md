@@ -1,5 +1,7 @@
 # butterscotch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butterscotch.md)
+
 <p><span class="chinese">比奶油糖果更深，有和黄金一样的色泽。</span><span class="english">Darker than butterscotch , but with the same golden tone.</span></p>
 
 <p><span class="chinese">在烤蛋糕时，我们可以做黄油硬糖汁。</span><span class="english">While the puddings are cooking, you can make the butterscotch sauce.</span></p>

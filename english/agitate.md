@@ -1,5 +1,7 @@
 # agitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agitate.md)
+
 <p><span class="chinese">你别太激动了，路易莎。</span><span class="english">Don't agitate yourself, Louisa.</span></p>
 
 <p><span class="chinese">告诉他不必自寻烦恼。</span><span class="english">Tell him not to agitate himself.</span></p>

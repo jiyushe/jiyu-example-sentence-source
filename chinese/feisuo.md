@@ -1,5 +1,7 @@
 # 飞梭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feisuo.md)
+
 <p><span class="chinese">在首部曲里，比思人演员组成了一个飞梭赛场乐队。</span><span class="english">In Episode I, Bith extras made up a Podrace arena band.</span></p>
 
 <p><span class="chinese">阿纳金对飞梭赛的热爱几乎完全出于偶然。</span><span class="english">Anakin's love of Podracing came about almost by accident.</span></p>

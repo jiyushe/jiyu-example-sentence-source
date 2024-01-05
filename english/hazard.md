@@ -1,5 +1,7 @@
 # hazard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hazard.md)
+
 <p><span class="chinese">什么是道德风险？</span><span class="english">What is moral hazard?</span></p>
 
 <p><span class="chinese">我来推测一下吧</span><span class="english">Let me hazard a guess here.</span></p>

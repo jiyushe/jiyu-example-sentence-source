@@ -1,5 +1,7 @@
 # 橘黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juhuang.md)
+
 <p><span class="chinese">傍晚天空的颜色是一片火红和橘黄相间。</span><span class="english">The evening sky flamed with red and orange.</span></p>
 
 <p><span class="chinese">目的探讨金橘黄酮的抗氧化效果。</span><span class="english">ObjectiveTo study the antioxidant effect of kumquat flavonoids.</span></p>

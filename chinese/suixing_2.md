@@ -1,5 +1,7 @@
 # 随行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suixing_2.md)
+
 <p><span class="chinese">另外程咬金夫妇亦随行。</span><span class="english">Another path bit golden couple also accompanying.</span></p>
 
 <p><span class="chinese">向他驰近的骑者是拿破仑和随行的两名副官。</span><span class="english">They were Napoleon and two adjutants escorting him.</span></p>

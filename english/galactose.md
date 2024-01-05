@@ -1,5 +1,7 @@
 # galactose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galactose.md)
+
 <p><span class="chinese">乳糖产生葡萄糖和半乳糖。</span><span class="english">Lactose gives glucose and galactose.</span></p>
 
 <p><span class="chinese">一种天然存在的单醣，化学式为C6H12O6。</span><span class="english">Galactose Organic compound, a monosaccharide, chemical formula C6H12O6.</span></p>

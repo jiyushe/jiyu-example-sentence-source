@@ -1,5 +1,7 @@
 # shipper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipper.md)
+
 <p><span class="chinese">重量据发货人报称。</span><span class="english">Weight as declare by shipper.</span></p>
 
 <p><span class="chinese">他是这个货的发货人。</span><span class="english">He is the shipper of this goods.</span></p>

@@ -1,5 +1,7 @@
 # missile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/missile.md)
+
 <p><span class="chinese">对地巡航导弹。</span><span class="english">Land Attack Crusie Missile.</span></p>
 
 <p><span class="chinese">导弹未击中目标。</span><span class="english">The missile overshot its target.</span></p>

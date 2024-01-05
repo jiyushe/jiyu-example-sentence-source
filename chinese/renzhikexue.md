@@ -1,5 +1,7 @@
 # 认知科学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzhikexue.md)
+
 <p><span class="chinese">认知科学就恰恰是这样。</span><span class="english">and Cognitive Science is exactly that.</span></p>
 
 <p><span class="chinese">但是，从现代认知科学的观点来看却并非如此。</span><span class="english">In the view of modern cognitive science, this is not the case.</span></p>

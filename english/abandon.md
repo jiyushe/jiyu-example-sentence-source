@@ -1,5 +1,7 @@
 # abandon 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abandon.md)
+
 <p><span class="chinese">你船船员准备弃船吗？</span><span class="english">Will you abandon vessel?</span></p>
 
 <p><span class="chinese">我永远不会撇弃你。</span><span class="english">I will never abandon you.</span></p>

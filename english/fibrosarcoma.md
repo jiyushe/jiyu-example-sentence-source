@@ -1,5 +1,7 @@
 # fibrosarcoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibrosarcoma.md)
+
 <p><span class="chinese">恶性血管瘤、纤维肉瘤预后较差。</span><span class="english">Angiosarcoma and fibrosarcoma has poor prognosis.</span></p>
 
 <p><span class="chinese">且形成肿瘤的病理表现与纤维肉瘤的特征相一致。</span><span class="english">The pathological characteristics of the tumors developed were similar to that of fibrosarcoma.</span></p>

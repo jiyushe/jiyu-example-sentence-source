@@ -1,5 +1,7 @@
 # 架构
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiagou.md)
+
 <p><span class="chinese">架构大逃亡。</span><span class="english">Architecture Great Escapes.</span></p>
 
 <p><span class="chinese">我们何时需要架构？</span><span class="english">When do we need architecture?</span></p>

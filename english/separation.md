@@ -1,5 +1,7 @@
 # separation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/separation.md)
+
 <p><span class="chinese">关注的分离。</span><span class="english">Separation of concerns.</span></p>
 
 <p><span class="chinese">所以没有割裂一说。</span><span class="english">So there is no separation.</span></p>

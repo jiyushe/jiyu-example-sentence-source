@@ -1,5 +1,7 @@
 # calorimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calorimeter.md)
+
 <p><span class="chinese">弹式热量计。</span><span class="english">Bomb Calorimeter.</span></p>
 
 <p><span class="chinese">我有T1下的反应物和量热计。</span><span class="english">I've got reactants and calorimeter at T1.</span></p>

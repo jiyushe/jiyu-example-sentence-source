@@ -1,5 +1,7 @@
 # 两地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangdi.md)
+
 <p><span class="chinese">单位里两地分居的人很多呢！</span><span class="english">The unit of separation many!</span></p>
 
 <p><span class="chinese">两地房地产都曾经历鼎盛时期</span><span class="english">They both had dramatic booms.</span></p>

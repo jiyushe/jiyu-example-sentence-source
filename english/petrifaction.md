@@ -1,5 +1,7 @@
 # petrifaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrifaction.md)
+
 <p><span class="chinese">这块化石可能存在超过二百万年了。</span><span class="english">This petrifaction may be existed over two million years.</span></p>
 
 <p><span class="chinese">在石油石化领域推广可收到较好的效果。</span><span class="english">It will be okay effect extending in petroleum and petrifaction areas.</span></p>

@@ -1,5 +1,7 @@
 # afterschool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterschool.md)
+
 <p><span class="chinese">我的同伙想在下学后踢足球。</span><span class="english">My friends want to play soccer afterschool.</span></p>
 
 <p><span class="chinese">嗯，就是差不多大概一千多，两千元，我在外面课外班上课，然后就是用压岁钱，要交学费。</span><span class="english">I use it to pay the tuition fee for my afterschool classes.</span></p>

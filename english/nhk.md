@@ -1,5 +1,7 @@
 # nhk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nhk.md)
+
 <p><span class="chinese">我们的巴士停在札幌NHK的前面。</span><span class="english">Our bus stopped in front of Sapporo's NHK.</span></p>
 
 <p><span class="chinese">她告诉日本广播协会巨浪打过来的时候，她们正在三楼的阳台。</span><span class="english">She told NHK that they were on a third-floor balcony when the giant wave hit.</span></p>

@@ -1,5 +1,7 @@
 # fairing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fairing.md)
+
 <p><span class="chinese">这是一种有效的曲线光顺方法。</span><span class="english">And it is a practicable method for fairing curves.</span></p>
 
 <p><span class="chinese">挥挥衣袖，告别昨日的云彩。</span><span class="english">Waving the gusset, fairing the cloud of yesterday.</span></p>

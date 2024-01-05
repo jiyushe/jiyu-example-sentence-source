@@ -1,5 +1,7 @@
 # unconvincing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconvincing.md)
+
 <p><span class="chinese">甚至他骑的骆驼也带着令人不可信的政客式的微笑。</span><span class="english">Even his camel wears an unconvincing politician's smile.</span></p>
 
 <p><span class="chinese">危机是由于监管不足的说法也站不住脚。</span><span class="english">The claim that the crisis was due to insufficient regulation is also unconvincing.</span></p>

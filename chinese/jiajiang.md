@@ -1,5 +1,7 @@
 # 嘉奖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiajiang.md)
+
 <p><span class="chinese">那位下士因作战英勇而受到嘉奖。</span><span class="english">The corporal was cited for bravery in battle.</span></p>
 
 <p><span class="chinese">他的贡献得到认可而受到嘉奖。</span><span class="english">He was rewarded in recognition of his service.</span></p>

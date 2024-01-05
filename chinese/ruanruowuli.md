@@ -1,5 +1,7 @@
 # 软弱无力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanruowuli.md)
+
 <p><span class="chinese">二元性不适合软弱无力的心。</span><span class="english">Duality is not for thefainted heart.</span></p>
 
 <p><span class="chinese">那把刀从他软弱无力的手中落下。</span><span class="english">The knife fell from his nerveless hand.</span></p>

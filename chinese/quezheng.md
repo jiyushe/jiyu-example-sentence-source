@@ -1,5 +1,7 @@
 # 确证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quezheng.md)
+
 <p><span class="chinese">我确证了这件事是真的。</span><span class="english">I confirmed that it was.</span></p>
 
 <p><span class="chinese">检查则提供确证的资料。</span><span class="english">Examination provides corroborative data.</span></p>

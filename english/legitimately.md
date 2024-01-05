@@ -1,5 +1,7 @@
 # legitimately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legitimately.md)
+
 <p><span class="chinese">一个可以合理提出的问题</span><span class="english">A question we can legitimately raise.</span></p>
 
 <p><span class="chinese">对于设计，我们能够更合理的更乐观的么？</span><span class="english">Can we be more legitimately optimistic about design?</span></p>

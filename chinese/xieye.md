@@ -1,5 +1,7 @@
 # 歇业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieye.md)
+
 <p><span class="chinese">这家店歇业三星期。</span><span class="english">The shop is closed for three weeks.</span></p>
 
 <p><span class="chinese">关厂歇业或无法依劳动契约给付工作报酬。</span><span class="english">The factory is shut down or failed to pay wages.</span></p>

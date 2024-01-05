@@ -1,5 +1,7 @@
 # exudate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exudate.md)
+
 <p><span class="chinese">胸水是漏出液还是渗出液？</span><span class="english">Is it transudate or exudate?</span></p>
 
 <p><span class="chinese">没有肺泡腔渗出物。</span><span class="english">Note that there is no alveolar exudate.</span></p>

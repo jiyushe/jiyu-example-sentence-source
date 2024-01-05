@@ -1,5 +1,7 @@
 # rampage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rampage.md)
+
 <p><span class="chinese">以往我们天下大乱。</span><span class="english">When we were lost in chaos and rampage.</span></p>
 
 <p><span class="chinese">打开报纸，你会发现年轻人张狂冲动。</span><span class="english">Read the newspaper and you'll find youth on the rampage.</span></p>

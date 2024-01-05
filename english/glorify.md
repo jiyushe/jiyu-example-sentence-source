@@ -1,5 +1,7 @@
 # glorify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glorify.md)
+
 <p><span class="chinese">他们唱圣诗赞美神。</span><span class="english">They sing hymns to glorify God.</span></p>
 
 <p><span class="chinese">活着的神，仁爱的神，我们荣耀祢的名。</span><span class="english">Living God, loving God, we glorify Your name.</span></p>

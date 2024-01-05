@@ -1,5 +1,7 @@
 # 凸显
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuxian.md)
+
 <p><span class="chinese">是什么凸显你在竞争中的独特？</span><span class="english">What makes you different from your competition?</span></p>
 
 <p><span class="chinese">今天，劳力士的广告则凸显了其与李娜之间的联系。</span><span class="english">Ads run by Rolex today have highlighted its ties to Li.</span></p>

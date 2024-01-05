@@ -1,5 +1,7 @@
 # 万般
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanban.md)
+
 <p><span class="chinese">一念放下，万般自在。</span><span class="english">A put down, all at home. Read.</span></p>
 
 <p><span class="chinese">万般皆下品，唯有读书高！</span><span class="english">Burnished inferior, only reading high!</span></p>

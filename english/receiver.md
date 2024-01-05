@@ -1,5 +1,7 @@
 # receiver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/receiver.md)
+
 <p><span class="chinese">爸爸把听筒递给我。</span><span class="english">Dad handed the receiver to me.</span></p>
 
 <p><span class="chinese">窝家跟贼一样坏。</span><span class="english">The receiver is as bad as the thief.</span></p>

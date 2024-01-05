@@ -1,5 +1,7 @@
 # oscilloscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oscilloscope.md)
+
 <p><span class="chinese">用VB实现示波器功能的一个CAD设计，很好用。</span><span class="english">VB oscilloscope function of a CAD design, easy to use.</span></p>
 
 <p><span class="chinese">由此对示波器也有了一定的了解。</span><span class="english">Which have been gained on the oscilloscope understanding.</span></p>

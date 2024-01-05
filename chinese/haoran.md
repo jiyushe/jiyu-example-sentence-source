@@ -1,5 +1,7 @@
 # 浩然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoran.md)
+
 <p><span class="chinese">白浩然也十分悲痛。</span><span class="english">White Hao Ran is also very sad.</span></p>
 
 <p><span class="chinese">刘浩然不要忘记你还有刹车的噶。</span><span class="english">Robin, Do not forget you have "break" in your car.</span></p>

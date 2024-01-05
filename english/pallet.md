@@ -1,5 +1,7 @@
 # pallet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pallet.md)
+
 <p><span class="chinese">其五可暂存缓冲托盘。</span><span class="english">Fifthly it can be used to buffer pallet.</span></p>
 
 <p><span class="chinese">不准用货叉挑翻货盘的方法取货。</span><span class="english">Never use the fork to overturn the pallet.</span></p>

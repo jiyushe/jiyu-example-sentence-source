@@ -1,5 +1,7 @@
 # 和风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hefeng_1.md)
+
 <p><span class="chinese">在和风中摇晃。</span><span class="english">It sways in the breeze.</span></p>
 
 <p><span class="chinese">里面低音边和风箱。</span><span class="english">Inside bass side and bellows.</span></p>

@@ -1,5 +1,7 @@
 # ceramics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceramics.md)
+
 <p><span class="chinese">俄南微晶4000零件手册。</span><span class="english">Onan Parts Manual 4000 ceramics.</span></p>
 
 <p><span class="chinese">您好，你们是鹰牌陶瓷公司吗？</span><span class="english">Hi, are you the Eagle Brand Ceramics?</span></p>

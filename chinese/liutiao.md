@@ -1,5 +1,7 @@
 # 柳条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liutiao.md)
+
 <p><span class="chinese">将牛柳条盛起，可伴饭或意粉同吃。</span><span class="english">Serve hot with pasta or rice.</span></p>
 
 <p><span class="chinese">柳条常用来编筐。</span><span class="english">Osier is used to make baskets.</span></p>

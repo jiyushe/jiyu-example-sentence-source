@@ -1,5 +1,7 @@
 # rulership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rulership.md)
+
 <p><span class="chinese">第五列的说明的是关于度数的每个区间的守护星体。</span><span class="english">The fifth column shows the degrees where rulership by term transfers.</span></p>
 
 <p><span class="chinese">在王权的相关研究中，女王的王权是-特殊但边缘的议题。</span><span class="english">Female rulership is a special but marginal topic among studies of kingship.</span></p>

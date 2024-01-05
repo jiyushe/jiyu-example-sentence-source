@@ -1,5 +1,7 @@
 # henrietta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/henrietta.md)
+
 <p><span class="chinese">不到一小时，亨利埃塔陷入了昏迷。</span><span class="english">Within an hour, Henrietta slipped into a coma.</span></p>
 
 <p><span class="chinese">纪念英国查理一世皇后海丽塔·玛丽。</span><span class="english">In honor of Henrietta Maria, Queen of Charles I of England"."</span></p>

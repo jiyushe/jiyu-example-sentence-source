@@ -1,5 +1,7 @@
 # tacan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tacan.md)
+
 <p><span class="chinese">该测试设备用于与塔康信标模拟器连接。</span><span class="english">The test set is used in conjunction with TACAN Beacon Simulators.</span></p>
 
 <p><span class="chinese">塔康信号的传播特性在不同的场地条件下是完全不同的。</span><span class="english">The spread characteristics of the Tacan signal are totally different under different place conditions.</span></p>

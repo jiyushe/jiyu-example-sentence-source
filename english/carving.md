@@ -1,5 +1,7 @@
 # carving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carving.md)
+
 <p><span class="chinese">这个木雕多少钱？</span><span class="english">How much is this wood carving?</span></p>
 
 <p><span class="chinese">那个木雕非常珍贵。</span><span class="english">That wood carving is very rare.</span></p>

@@ -1,5 +1,7 @@
 # 蜂拥而至
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyongerzhi.md)
+
 <p><span class="chinese">购买者闻讯蜂拥而至。</span><span class="english">Buyers who stampede in.</span></p>
 
 <p><span class="chinese">他们会蜂拥而至的！</span><span class="english">They’ll come flocking in!</span></p>

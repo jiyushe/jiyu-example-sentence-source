@@ -1,5 +1,7 @@
 # 论说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunshuo.md)
+
 <p><span class="chinese">她论说我贱视大卫。</span><span class="english">She told me about Dave.</span></p>
 
 <p><span class="chinese">尚存论说的群体即是市场。</span><span class="english">The community of discourse is the market.</span></p>

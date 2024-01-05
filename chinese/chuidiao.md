@@ -1,5 +1,7 @@
 # 垂钓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuidiao.md)
+
 <p><span class="chinese">我是垂钓者的浮萍。</span><span class="english">I was a fisherman's float.</span></p>
 
 <p><span class="chinese">有些垂钓者就是不走运。</span><span class="english">SOme fishermen are unlucky.</span></p>

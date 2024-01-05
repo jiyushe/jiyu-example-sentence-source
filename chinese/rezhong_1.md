@@ -1,5 +1,7 @@
 # 热衷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rezhong_1.md)
+
 <p><span class="chinese">她真是一个户外运动的热衷者。</span><span class="english">She's a real outdoorsy type.</span></p>
 
 <p><span class="chinese">埃米特热衷竞争——以任何的方式。</span><span class="english">Emmett likes competition–in any form.</span></p>

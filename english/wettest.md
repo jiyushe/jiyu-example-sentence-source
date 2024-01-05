@@ -1,5 +1,7 @@
 # wettest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wettest.md)
+
 <p><span class="chinese">多年来十月份从来没下过这么多雨。</span><span class="english">It was the wettest October in many years.</span></p>
 
 <p><span class="chinese">刚过去的这个夏季是50年来记录中雨水最多的.</span><span class="english">Last summer was the wettest on record for 50 years.</span></p>

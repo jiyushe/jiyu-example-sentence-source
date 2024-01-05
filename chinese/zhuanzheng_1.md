@@ -1,5 +1,7 @@
 # 转正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzheng_1.md)
+
 <p><span class="chinese">1979年，民办教师转正开始。</span><span class="english">In 1979, the work began.</span></p>
 
 <p><span class="chinese">现金流料于今年转正**</span><span class="english">CASH FLOW SEEN POSITIVE IN 2010</span></p>

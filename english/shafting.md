@@ -1,5 +1,7 @@
 # shafting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shafting.md)
+
 <p><span class="chinese">计算法轴系校中。</span><span class="english">Centering of shafting by calculation method.</span></p>
 
 <p><span class="chinese">文章对船舶推进轴系冲击特性进行试验研究。</span><span class="english">This paper studies on shock experiment for marine propulsive shafting.</span></p>

@@ -1,5 +1,7 @@
 # 百兽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baishou.md)
+
 <p><span class="chinese">就这样，狐狸借着老虎在百兽面前威风了一次。</span><span class="english">Thus the fox used the tiger.</span></p>
 
 <p><span class="chinese">狮子是百兽之王。</span><span class="english">The lion is the king of animals.</span></p>

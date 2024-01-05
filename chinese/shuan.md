@@ -1,5 +1,7 @@
 # 熟谙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuan.md)
+
 <p><span class="chinese">她对日语的熟谙使我惊奇。</span><span class="english">Her familiarity with Japanese surprised me.</span></p>
 
 <p><span class="chinese">约翰，李克，顺即答答，您们己己熟谙吗？</span><span class="english">By the way, do you know each other?John and Rick.</span></p>

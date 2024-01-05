@@ -1,5 +1,7 @@
 # 本事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benshi.md)
+
 <p><span class="chinese">我是个没本事的人。</span><span class="english">I am a very useless person.</span></p>
 
 <p><span class="chinese">但它还没有在水上行走的本事。</span><span class="english">But it cannot walk on water.</span></p>

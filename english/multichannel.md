@@ -1,5 +1,7 @@
 # multichannel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multichannel.md)
+
 <p><span class="chinese">决奈达隆具有多通道阻滞的电生理特性。</span><span class="english">It is a multichannel blocker with electrophysiological properties.</span></p>
 
 <p><span class="chinese">过去的几十年里，多频道电视台在英国经历了迅猛的增长。</span><span class="english">Over the past decade multichannel television has exploded in Britain.</span></p>

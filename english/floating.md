@@ -1,5 +1,7 @@
 # floating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floating.md)
+
 <p><span class="chinese">一个浮动的球状物在Mt。</span><span class="english">A floating orb in Mt.</span></p>
 
 <p><span class="chinese">浮子就是浮漂。</span><span class="english">Bobber is floating drift.</span></p>

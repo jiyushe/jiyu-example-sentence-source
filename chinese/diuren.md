@@ -1,5 +1,7 @@
 # 丢人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diuren.md)
+
 <p><span class="chinese">乔，你真给我们丢人！</span><span class="english">Jo, you're disgracing us!</span></p>
 
 <p><span class="chinese">真正丢人的是忘恩和无礼。</span><span class="english">Only ingratitude and rudeness can.</span></p>

@@ -1,5 +1,7 @@
 # 迫不及待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pobujidai.md)
+
 <p><span class="chinese">我迫不及待地想看看呢。</span><span class="english">I can't wait to see it.</span></p>
 
 <p><span class="chinese">他们迫不及待地要马上出发。</span><span class="english">They were champing to start.</span></p>

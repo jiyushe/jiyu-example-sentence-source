@@ -1,5 +1,7 @@
 # tapir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tapir.md)
+
 <p><span class="chinese">产于马来半岛和苏门答腊岛的貘。</span><span class="english">a tapir found in Malaya and Sumatra.</span></p>
 
 <p><span class="chinese">獐獏乡乡政府驻獐獏村。</span><span class="english">Franch tapir Rural Village Government in Franch tapir.</span></p>

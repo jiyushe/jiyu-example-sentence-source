@@ -1,5 +1,7 @@
 # dunhuang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dunhuang.md)
+
 <p><span class="chinese">爱是神秘的敦煌。</span><span class="english">Love is like the mysterious Dunhuang Grottos.</span></p>
 
 <p><span class="chinese">敦煌故地﹐亦曰阳关。</span><span class="english">The old town Dunhuang was also named Yang Pass.</span></p>

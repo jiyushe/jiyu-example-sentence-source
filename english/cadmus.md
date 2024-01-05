@@ -1,5 +1,7 @@
 # cadmus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cadmus.md)
+
 <p><span class="chinese">你的卡德默斯冒险之旅？</span><span class="english">Of your Cadmus adventure?</span></p>
 
 <p><span class="chinese">多年来，她一直试图进入卡德默斯城内部。</span><span class="english">For years, she had tried to get inside Project Cadmus.</span></p>

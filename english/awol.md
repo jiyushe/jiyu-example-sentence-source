@@ -1,5 +1,7 @@
 # awol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awol.md)
+
 <p><span class="chinese">关键信息的擅离职守。</span><span class="english">Key information is AWOL.</span></p>
 
 <p><span class="chinese">国家评论上的战争贩子也已经偃旗息鼓了。</span><span class="english">The love of war has gone AWOL at National Review.</span></p>

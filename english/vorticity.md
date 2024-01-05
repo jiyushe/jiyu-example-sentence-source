@@ -1,5 +1,7 @@
 # vorticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vorticity.md)
+
 <p><span class="chinese">涡度和凯尔文法则。</span><span class="english">Vorticity and Kelvin's theorem.</span></p>
 
 <p><span class="chinese">气旋性环流和气旋性涡度在对流层中层的700毫巴附近最强。</span><span class="english">The strongest cyclonic circulation and vorticity are at about 700 mb.</span></p>

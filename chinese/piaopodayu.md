@@ -1,5 +1,7 @@
 # 瓢泼大雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaopodayu.md)
+
 <p><span class="chinese">瓢泼大雨阻碍了我们的旅行。</span><span class="english">Heavy rain impeded our journey.</span></p>
 
 <p><span class="chinese">瓢泼大雨猛烈地下了起来。</span><span class="english">The rain commenced pouring violently down.</span></p>

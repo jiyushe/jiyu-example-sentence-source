@@ -1,5 +1,7 @@
 # gusher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gusher.md)
+
 <p><span class="chinese">这些疯狂喷涌的钱是从哪来的？</span><span class="english">And where did this insane gusher of money come from?</span></p>
 
 <p><span class="chinese">石油会沿着钢管上涌，如同自喷井那样喷射出来。</span><span class="english">The oil rushes up the tube and spouts up as a gusher.</span></p>

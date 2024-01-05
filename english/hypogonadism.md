@@ -1,5 +1,7 @@
 # hypogonadism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypogonadism.md)
+
 <p><span class="chinese">许多病人有低度的MR、行动失调和性腺发育不全。</span><span class="english">Most patients have some degree of MR, behavioural disorders and hypogonadism.</span></p>
 
 <p><span class="chinese">目的提高男性性腺功能低下症的诊断和治疗水平。</span><span class="english">Objective To improve the standard of diagnosis and treatment of male hypogonadism.</span></p>

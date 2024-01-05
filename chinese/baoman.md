@@ -1,5 +1,7 @@
 # 饱满
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoman.md)
+
 <p><span class="chinese">他的双颊血色饱满。</span><span class="english">His cheeks are veined.</span></p>
 
 <p><span class="chinese">饱满、浑厚、地道英文的秘诀------用口腔的后半部分发音!</span><span class="english">Use the back part of you mouth!</span></p>

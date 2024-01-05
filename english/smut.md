@@ -1,5 +1,7 @@
 # smut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smut.md)
+
 <p><span class="chinese">玉米丝黑穗病菌不能侵染高梁。</span><span class="english">Head smut fungus from corn did not infect sorghum.</span></p>
 
 <p><span class="chinese">我不认为喜剧就必须这么淫秽，才算好笑。</span><span class="english">I don't think a comedy has to have so much smut to be funny.</span></p>

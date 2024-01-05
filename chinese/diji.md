@@ -1,5 +1,7 @@
 # 低级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diji.md)
+
 <p><span class="chinese">这个笑话趣味低级。</span><span class="english">He always panders to low tastes.</span></p>
 
 <p><span class="chinese">我不喜欢这种庸俗低级的笑话。</span><span class="english">I hate this kind of cheap humour.</span></p>

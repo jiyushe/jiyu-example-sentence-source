@@ -1,5 +1,7 @@
 # cheeseburger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheeseburger.md)
+
 <p><span class="chinese">我要等我的吉士汉堡。</span><span class="english">I'll wait for my cheeseburger.</span></p>
 
 <p><span class="chinese">我要一个双层吉士堡和一杯饮料。</span><span class="english">Can I have a double cheeseburger and a drink?</span></p>

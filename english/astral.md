@@ -1,5 +1,7 @@
 # astral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astral.md)
+
 <p><span class="chinese">在没有星的时候，我们有火。</span><span class="english">At have no astral of time, we have fire.</span></p>
 
 <p><span class="chinese">尼尼伯，群星诸神之守门人，汝之门为吾而开！</span><span class="english">NINIB, Gatekeeper of the Astral Gods, Open Thy Gate to me!</span></p>

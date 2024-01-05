@@ -1,5 +1,7 @@
 # 苦酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kujiu.md)
+
 <p><span class="chinese">爱情是甜蜜的苦酒。</span><span class="english">Love is a sweet cup.</span></p>
 
 <p><span class="chinese">苦酒自己饮。</span><span class="english">Drink as you have brewed.</span></p>

@@ -1,5 +1,7 @@
 # amber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amber.md)
+
 <p><span class="chinese">这位是恩宝。</span><span class="english">This is Amber.</span></p>
 
 <p><span class="chinese">安伯可能是什么意思呢？</span><span class="english">What can Amber mean?</span></p>

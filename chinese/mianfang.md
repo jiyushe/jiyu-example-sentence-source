@@ -1,5 +1,7 @@
 # 棉纺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianfang.md)
+
 <p><span class="chinese">大约在1924年前后，作为棉纺工业中心的洛厄尔达到了自己的巅峰。</span><span class="english">Its peak as a textile centre was reached about 1924.</span></p>
 
 <p><span class="chinese">棉纺生产中棉结消除问题的研究。</span><span class="english">The study of reducing neps in cotton spinning process.</span></p>

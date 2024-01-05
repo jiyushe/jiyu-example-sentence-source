@@ -1,5 +1,7 @@
 # nominal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nominal.md)
+
 <p><span class="chinese">我们只象征性地付一点租金。</span><span class="english">We only pay a nominal rent.</span></p>
 
 <p><span class="chinese">标注的标称值。</span><span class="english">Nominal value of the dimension.</span></p>

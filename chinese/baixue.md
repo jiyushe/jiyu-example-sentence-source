@@ -1,5 +1,7 @@
 # 白雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baixue.md)
+
 <p><span class="chinese">他放走了白雪。</span><span class="english">He let Snow go.</span></p>
 
 <p><span class="chinese">宛如百合，皓似白雪。</span><span class="english">Lily-like, white as snow.</span></p>

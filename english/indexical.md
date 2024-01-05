@@ -1,5 +1,7 @@
 # indexical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indexical.md)
+
 <p><span class="chinese">看仿佛这个段子的那古代的原文一次有了索引的种类。</span><span class="english">It's seems this part of the ancient text was indexical in nature!</span></p>
 
 <p><span class="chinese">从而研究并构建出医技科室医疗质量评价体系。</span><span class="english">The indexical evaluation system on quality of medical care in medical detection department was established.</span></p>

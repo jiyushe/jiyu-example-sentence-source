@@ -1,5 +1,7 @@
 # unstable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unstable.md)
+
 <p><span class="chinese">因此He2，不稳定。</span><span class="english">And so He2 unstable.</span></p>
 
 <p><span class="chinese">你看到它是不稳定的。</span><span class="english">So you see it is unstable.</span></p>

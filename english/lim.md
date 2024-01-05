@@ -1,5 +1,7 @@
 # lim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lim.md)
+
 <p><span class="chinese">于是，林把没有诱铒的钩垂下水去。</span><span class="english">Then Lim lowered the hook without bait.</span></p>
 
 <p><span class="chinese">蔡林成为阿尔玛斯狄俄涅的创始人！</span><span class="english">Chae Lim becomes a creator of Almas Dione!</span></p>

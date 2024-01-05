@@ -1,5 +1,7 @@
 # showy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/showy.md)
+
 <p><span class="chinese">牡丹是艳丽的花。</span><span class="english">A peony is a showy flower.</span></p>
 
 <p><span class="chinese">坏人通常是喜欢炫耀的暴发户。</span><span class="english">Villains are frequently showy arrivistes.</span></p>

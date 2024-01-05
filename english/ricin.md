@@ -1,5 +1,7 @@
 # ricin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ricin.md)
+
 <p><span class="chinese">我想提醒大家的是蓖麻毒素是如何工作的。</span><span class="english">Let me remind you how ricin works.</span></p>
 
 <p><span class="chinese">蓖麻籽富含蓖麻毒素。</span><span class="english">Castor beans are filled with ricin.</span></p>

@@ -1,5 +1,7 @@
 # 章节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangjie.md)
+
 <p><span class="chinese">所有课程中的章节都是必修的</span><span class="english">Sections are also mandatory.</span></p>
 
 <p><span class="chinese">在谢伊写的这本书里，每一个英文字母都有独立的章节。</span><span class="english">Each letter gets its own chapter.</span></p>

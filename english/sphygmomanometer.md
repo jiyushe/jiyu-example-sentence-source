@@ -1,5 +1,7 @@
 # sphygmomanometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sphygmomanometer.md)
+
 <p><span class="chinese">宁波哪里有欧姆龙电子血压计？</span><span class="english">Where do there is ohm of dragon electron sphygmomanometer in Ningbo?</span></p>
 
 <p><span class="chinese">目的测试臂式电子血压计测量准确性。</span><span class="english">Objective To test the accuracy of the electronic sphygmomanometer arm.</span></p>

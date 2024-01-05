@@ -1,5 +1,7 @@
 # unobservable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unobservable.md)
+
 <p><span class="chinese">和海浪不同，波阵面或固定相平面是不能观测和不能发现的。</span><span class="english">Unlike an ocean wave, a wavefront or surface of constant phase is unobservable and undetectable.</span></p>
 
 <p><span class="chinese">在正常的认知过程中，觉知一晃而过，根本没有被注意到。</span><span class="english">In the process of ordinary perception, the Mindfulness step is so fleeting as to be unobservable.</span></p>

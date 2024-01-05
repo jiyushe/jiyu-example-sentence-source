@@ -1,5 +1,7 @@
 # unshared
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unshared.md)
+
 <p><span class="chinese">沿着几个分支传递非共享数据</span><span class="english">Passing unshared data along several branches</span></p>
 
 <p><span class="chinese">于是所有的子单元都会自动称为非共享的。</span><span class="english">All the nested subunits automatically become unshared.</span></p>

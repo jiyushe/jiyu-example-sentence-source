@@ -1,5 +1,7 @@
 # unofficial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unofficial.md)
+
 <p><span class="chinese">一个非官方的钟嘉欣蕃薯会！</span><span class="english">An unofficial fans club of Linda Chung!</span></p>
 
 <p><span class="chinese">在办公室中一个非正式的信条是“W.</span><span class="english">An unofficial credo around the office is “W.</span></p>

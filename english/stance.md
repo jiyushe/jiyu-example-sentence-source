@@ -1,5 +1,7 @@
 # stance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stance.md)
+
 <p><span class="chinese">我们的立场就是如此。</span><span class="english">This is our stance.</span></p>
 
 <p><span class="chinese">乌干达人赞同这一观点。</span><span class="english">Ugandans endorse this stance.</span></p>

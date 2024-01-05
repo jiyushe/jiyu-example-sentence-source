@@ -1,5 +1,7 @@
 # fao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fao.md)
+
 <p><span class="chinese">基松宾女士帮助撰写了粮农组织的这份报告。</span><span class="english">Ms. Quisumbing helped write the FAO report.</span></p>
 
 <p><span class="chinese">麦克杜格尔纪念讲演和粮农组织新的成员国</span><span class="english">McDougall Lecture and new FAO Member Country</span></p>

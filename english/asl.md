@@ -1,5 +1,7 @@
 # asl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asl.md)
+
 <p><span class="chinese">这些诗都是爱默生写的吗?。</span><span class="english">Were asl the poems written by Emerson?</span></p>
 
 <p><span class="chinese">视频聊天可以传达美国手语的这类元素。</span><span class="english">Video chat conveys these elements of ASL.</span></p>

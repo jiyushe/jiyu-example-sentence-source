@@ -1,5 +1,7 @@
 # 进攻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingong.md)
+
 <p><span class="chinese">我们不该进攻伊拉克。</span><span class="english">We were wrong in Iraq.</span></p>
 
 <p><span class="chinese">他们敦促我发起进攻。</span><span class="english">They urged me to attack.</span></p>

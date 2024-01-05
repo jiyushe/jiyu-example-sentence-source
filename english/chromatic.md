@@ -1,5 +1,7 @@
 # chromatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromatic.md)
+
 <p><span class="chinese">这个,它是一个半音音阶</span><span class="english">Well, that's a chromatic scale.</span></p>
 
 <p><span class="chinese">除了半音阶口琴，其余的都可以洗。</span><span class="english">You can water except the chromatic harmonica.</span></p>

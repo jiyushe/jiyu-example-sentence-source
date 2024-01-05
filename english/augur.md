@@ -1,5 +1,7 @@
 # augur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/augur.md)
+
 <p><span class="chinese">我预料改革会成功。</span><span class="english">I augur well for the reforms.</span></p>
 
 <p><span class="chinese">不断增加的销售量预示着好年景。</span><span class="english">Mounting sales augur a profitable year.</span></p>

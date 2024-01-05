@@ -1,5 +1,7 @@
 # lamp 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamp_1.md)
+
 <p><span class="chinese">神灯再现！</span><span class="english">Magic Lamp again!</span></p>
 
 <p><span class="chinese">光疗灯。</span><span class="english">Phototherapy lamp.</span></p>

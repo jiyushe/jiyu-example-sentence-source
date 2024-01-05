@@ -1,5 +1,7 @@
 # stamina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stamina.md)
+
 <p><span class="chinese">我是个没有毅力的人。</span><span class="english">I have no stamina.</span></p>
 
 <p><span class="chinese">神经生长液可增强小鼠的耐力。</span><span class="english">NGD can raise stamina of mice.</span></p>

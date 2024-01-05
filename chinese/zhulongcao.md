@@ -1,5 +1,7 @@
 # 猪笼草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhulongcao.md)
+
 <p><span class="chinese">这才是真正的亚洲猪笼草。</span><span class="english">This is true with Asian Pitcher Plants.</span></p>
 
 <p><span class="chinese">福建莆田有没有猪笼草？</span><span class="english">Do Fujian Pu Tian City have common nepenthes?</span></p>

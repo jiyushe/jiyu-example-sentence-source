@@ -1,5 +1,7 @@
 # realia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realia.md)
+
 <p><span class="chinese">通过歌曲营造一些过年的气氛，引起学生对学习内容的兴趣。</span><span class="english">Give commands and ask a pupil to act them out by using realia.</span></p>
 
 <p><span class="chinese">教师应注重教案的多样化和使用各种教具协助教学。</span><span class="english">Teachers should focus on creative lesson plans that are diverse and use a wide range realia.</span></p>

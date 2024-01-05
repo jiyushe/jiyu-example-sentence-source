@@ -1,5 +1,7 @@
 # dream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dream.md)
+
 <p><span class="chinese">要有一个梦想。</span><span class="english">Have a dream.</span></p>
 
 <p><span class="chinese">梦剧场。</span><span class="english">Dream Theater.</span></p>

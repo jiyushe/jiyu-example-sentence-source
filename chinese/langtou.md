@@ -1,5 +1,7 @@
 # 榔头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langtou.md)
+
 <p><span class="chinese">可以借给我你的榔头吗?。</span><span class="english">Can i borrow your hammer?</span></p>
 
 <p><span class="chinese">有一个榔头和很多大头针。</span><span class="english">Here is a hammer and lots of tacks.</span></p>

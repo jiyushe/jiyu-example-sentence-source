@@ -1,5 +1,7 @@
 # 内能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neineng.md)
+
 <p><span class="chinese">内能u加上pv是什么？</span><span class="english">What's u plus pV?</span></p>
 
 <p><span class="chinese">亥姆赫兹自由能A等于内能u减去。</span><span class="english">TS A is u minus TS.</span></p>

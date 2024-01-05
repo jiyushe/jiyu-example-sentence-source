@@ -1,5 +1,7 @@
 # 刀光剑影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoguangjianying.md)
+
 <p><span class="chinese">刀光剑影，刺伤我的眼睛。</span><span class="english">Of swords, stab my eyes.</span></p>
 
 <p><span class="chinese">它毫不畏惧刀光剑影。</span><span class="english">He does not shy away from the sword.</span></p>

@@ -1,5 +1,7 @@
 # wry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wry.md)
+
 <p><span class="chinese">法默带着一脸歪笑提示道。</span><span class="english">Farmer suggests with a wry smile.</span></p>
 
 <p><span class="chinese">铁山无奈苦笑。</span><span class="english">Iron mountain helpless wry smile.</span></p>

@@ -1,5 +1,7 @@
 # 脓肿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongzhong_1.md)
+
 <p><span class="chinese">用热敷布把脓肿包住。</span><span class="english">Apply hot compresses to a boil.</span></p>
 
 <p><span class="chinese">你能弹出一个牙床脓肿？。</span><span class="english">Can You Pop an Abscessed Tooth?</span></p>

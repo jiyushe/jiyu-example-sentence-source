@@ -1,5 +1,7 @@
 # kirsch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kirsch.md)
+
 <p><span class="chinese">浓郁的深色水果和樱桃酒的香气。</span><span class="english">A pronounced intensity of red fruits and kirsch.</span></p>
 
 <p><span class="chinese">我想要一杯没有甜味的雪利酒，不要樱桃酒。</span><span class="english">I think I'll have a Dry Sherry instead of the kirsch.</span></p>

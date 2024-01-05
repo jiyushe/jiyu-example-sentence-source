@@ -1,5 +1,7 @@
 # 扭动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niudong.md)
+
 <p><span class="chinese">扭动青春，舞出高潮！</span><span class="english">Twist youth dance climax!</span></p>
 
 <p><span class="chinese">他扭动他的双肩。</span><span class="english">He twitched his shoulders.</span></p>

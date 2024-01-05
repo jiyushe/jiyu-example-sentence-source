@@ -1,5 +1,7 @@
 # 一潭死水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yitansishui.md)
+
 <p><span class="chinese">我的灵魂是一潭死水。</span><span class="english">And my soul was a stagnant tide.</span></p>
 
 <p><span class="chinese">在今天，那过去的一潭死水已蜕变为尼亚加拉瀑布。</span><span class="english">Today the backwater has turned into Niagara Falls.</span></p>

@@ -1,5 +1,7 @@
 # monterrey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monterrey.md)
+
 <p><span class="chinese">在墨西哥接受电台现场采访。</span><span class="english">Live interview at Monterrey in Mexico.</span></p>
 
 <p><span class="chinese">争夺蒙特雷的战斗持续了三天，墨西哥军队投降了。</span><span class="english">The battle for Monterrey lasted three days. The Mexicans surrendered.</span></p>

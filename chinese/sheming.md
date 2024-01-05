@@ -1,5 +1,7 @@
 # 舍命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheming.md)
+
 <p><span class="chinese">借著他为我们的罪流血舍命。</span><span class="english">Through his shedding blood for our sins.</span></p>
 
 <p><span class="chinese">人为朋友舍命，人的爱心没有比这个更大的。</span><span class="english">Greater love hath no man than this, that a man lay down his life for his friends.</span></p>

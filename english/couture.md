@@ -1,5 +1,7 @@
 # couture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/couture.md)
+
 <p><span class="chinese">谁会想到这些宽腿牛仔裤可以变成如此时尚的东西？</span><span class="english">Who knew wide legs could be turned into something so couture?</span></p>
 
 <p><span class="chinese">兰迪·科裘饰演托尔·罗德，敢死队员，爆破专家。</span><span class="english">Randy Couture as Toll Road, an Expendable and demolitions expert.</span></p>

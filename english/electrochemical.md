@@ -1,5 +1,7 @@
 # electrochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrochemical.md)
+
 <p><span class="chinese">普通电池是电气化的细胞。</span><span class="english">Common batteries are electrochemical cells.</span></p>
 
 <p><span class="chinese">该材料适用于发光二极管、光催化剂和电化学电池。</span><span class="english">It is applied to LED, photocatalyst and electrochemical cell.</span></p>

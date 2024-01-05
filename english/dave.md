@@ -1,5 +1,7 @@
 # dave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dave.md)
+
 <p><span class="chinese">胡安住在纽约，他给住在俄勒冈州的的戴夫写了一封信。</span><span class="english">Dave lives in Oregon.</span></p>
 
 <p><span class="chinese">她论说我贱视大卫。</span><span class="english">She told me about Dave.</span></p>

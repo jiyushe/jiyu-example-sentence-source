@@ -1,5 +1,7 @@
 # aggie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggie.md)
+
 <p><span class="chinese">告诉我什么时候是你生日呀？</span><span class="english">Tell aggie when is your birthday?</span></p>
 
 <p><span class="chinese">眼下一个农学专业的毕业生能找到什么样的工作呢？</span><span class="english">What kind of a job can an aggie get these days?</span></p>

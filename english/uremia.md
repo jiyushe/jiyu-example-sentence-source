@@ -1,5 +1,7 @@
 # uremia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uremia.md)
+
 <p><span class="chinese">患有尿毒症可以治好吗?。</span><span class="english">With uremia can be cured?</span></p>
 
 <p><span class="chinese">他们向尿毒症患者卖了51枚肾。</span><span class="english">They sold 51 kidneys to uremia patients.</span></p>

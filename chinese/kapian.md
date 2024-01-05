@@ -1,5 +1,7 @@
 # 卡片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kapian.md)
+
 <p><span class="chinese">折叠这张卡片。</span><span class="english">Fold the card.</span></p>
 
 <p><span class="chinese">我将很高兴得到你的卡片。</span><span class="english">I'd like to have your QSL.</span></p>

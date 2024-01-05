@@ -1,5 +1,7 @@
 # bashful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bashful.md)
+
 <p><span class="chinese">她有点害羞。</span><span class="english">She is rather bashful.</span></p>
 
 <p><span class="chinese">她有点怕羞。</span><span class="english">She is rather bashful.</span></p>

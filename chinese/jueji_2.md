@@ -1,5 +1,7 @@
 # 绝迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueji_2.md)
+
 <p><span class="chinese">中国纯种汉人已经绝迹。</span><span class="english">Pure-blood Chinese Han ethnicity vanishes.</span></p>
 
 <p><span class="chinese">那场大火使森林里的鸟兽濒临绝迹。</span><span class="english">The fire had depleted the game in the forest.</span></p>

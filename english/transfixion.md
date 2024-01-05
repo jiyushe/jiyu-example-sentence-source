@@ -1,5 +1,7 @@
 # transfixion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transfixion.md)
+
 <p><span class="chinese">宫颈缝扎术的围术期护理对治疗和手术的效果起着重要的作用。</span><span class="english">Perioperative nursing is of great importance to the success of cervical transfixion.</span></p>
 
 <p><span class="chinese">单井循环地下换热系统运行时会产生热贯通问题，尤其是填砾抽灌同井和循环单井。</span><span class="english">There was the problem of thermal transfixion for SCWGHES, epically for GB-PRW and SCW.</span></p>

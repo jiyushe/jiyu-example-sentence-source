@@ -1,5 +1,7 @@
 # samar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samar.md)
+
 <p><span class="chinese">“鸟海”号的套材以1944年的萨马尔战役制作。</span><span class="english">Building the kit of IJN Chokai as seen in 1944 Battle of Samar.</span></p>
 
 <p><span class="chinese">他，还有他妻子和孩子，离开了萨马岛去了他们在罗科斯的家。</span><span class="english">He, together with his wife and children, left Samar and went home to Ilocos.</span></p>

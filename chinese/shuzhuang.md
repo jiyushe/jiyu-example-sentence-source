@@ -1,5 +1,7 @@
 # 树桩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzhuang.md)
+
 <p><span class="chinese">磕到了树桩上，胫部擦破了皮。</span><span class="english">I barked my shin on a tree stump.</span></p>
 
 <p><span class="chinese">现在她从树桩上站起身来看他。</span><span class="english">She rose from her seat to watch him.</span></p>

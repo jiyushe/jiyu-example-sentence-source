@@ -1,5 +1,7 @@
 # davy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/davy.md)
+
 <p><span class="chinese">琳达.雅各布爱她的狗——戴维。</span><span class="english">Linda Jacobs loves dog Davy.</span></p>
 
 <p><span class="chinese">戴维逐渐地取得进步。</span><span class="english">Davy made progress gradually.</span></p>

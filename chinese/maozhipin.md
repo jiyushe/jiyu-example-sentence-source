@@ -1,5 +1,7 @@
 # 毛织品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maozhipin.md)
+
 <p><span class="chinese">冬天穿毛织品。</span><span class="english">Wool in the winter.</span></p>
 
 <p><span class="chinese">毛织品必须是干净的。</span><span class="english">The wool must be clean.</span></p>

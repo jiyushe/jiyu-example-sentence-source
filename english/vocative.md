@@ -1,5 +1,7 @@
 # vocative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocative.md)
+
 <p><span class="chinese">呼格用于称呼别人的名字。</span><span class="english">The vocative case is used to address someone by name.</span></p>
 
 <p><span class="chinese">信息功能和祈使功能是其两大主要功能。</span><span class="english">Informative function and vocative function are the main functions of publicity materials.</span></p>

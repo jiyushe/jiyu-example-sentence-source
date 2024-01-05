@@ -1,5 +1,7 @@
 # 焰火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhuo_1.md)
+
 <p><span class="chinese">热闹的晚会和寂寞的焰火。</span><span class="english">Busy parties and lonely skyrockets.</span></p>
 
 <p><span class="chinese">华盛顿湖的焰火真的是非常的令人回味。</span><span class="english">The fireworks at the washington Lake is owesome!</span></p>

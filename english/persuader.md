@@ -1,5 +1,7 @@
 # persuader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persuader.md)
+
 <p><span class="chinese">奉承是最好的说服者。</span><span class="english">Flattery is the best persuader of people.</span></p>
 
 <p><span class="chinese">分别用于一个追求者和两个流氓身上。</span><span class="english">He apply his power on a persuader and two gangsters.</span></p>

@@ -1,5 +1,7 @@
 # bomb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bomb.md)
+
 <p><span class="chinese">弹式热量计。</span><span class="english">Bomb Calorimeter.</span></p>
 
 <p><span class="chinese">这枚炸弹是克莱琴斯基的。</span><span class="english">The bomb was his.</span></p>

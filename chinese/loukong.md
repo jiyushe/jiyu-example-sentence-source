@@ -1,5 +1,7 @@
 # 镂空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/loukong.md)
+
 <p><span class="chinese">白色的镂空沙发巾。</span><span class="english">White hollow out sofa cover.</span></p>
 
 <p><span class="chinese">一些有边框的则被称为“镂空花板”。</span><span class="english">Some have borders, is called "hollow out flower board".</span></p>

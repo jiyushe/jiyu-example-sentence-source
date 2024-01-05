@@ -1,5 +1,7 @@
 # glorified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glorified.md)
+
 <p><span class="chinese">他们就为我的缘故，归荣耀给神。</span><span class="english">And they glorified God in me.</span></p>
 
 <p><span class="chinese">那么神就会因你而得荣耀。</span><span class="english">Then God will be glorified in you.</span></p>

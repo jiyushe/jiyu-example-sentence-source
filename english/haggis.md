@@ -1,5 +1,7 @@
 # haggis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haggis.md)
+
 <p><span class="chinese">知道肉馅羊肚是什么吗？</span><span class="english">Don’t know what haggis is?</span></p>
 
 <p><span class="chinese">羊杂肠是苏格兰的传统食物。</span><span class="english">Haggis is Scotland's national dish.</span></p>

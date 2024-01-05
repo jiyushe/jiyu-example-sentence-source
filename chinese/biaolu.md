@@ -1,5 +1,7 @@
 # 表露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaolu.md)
+
 <p><span class="chinese">她很少表露自己的情绪。</span><span class="english">She seldom showed her feelings.</span></p>
 
 <p><span class="chinese">大家都表露出轻松愉快的神情。</span><span class="english">Everybody looked cheerful and happy.</span></p>

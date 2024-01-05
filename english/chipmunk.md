@@ -1,5 +1,7 @@
 # chipmunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chipmunk.md)
+
 <p><span class="chinese">那一个是花栗鼠爸爸？</span><span class="english">Which one's the daddy chipmunk?</span></p>
 
 <p><span class="chinese">那一个是花栗鼠爸爸？</span><span class="english">Now which one's the daddy chipmunk?</span></p>

@@ -1,5 +1,7 @@
 # 完税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanshui.md)
+
 <p><span class="chinese">你完税后净得多少?。</span><span class="english">What do you earn, net of tax?</span></p>
 
 <p><span class="chinese">我总是留着我的完税证明。</span><span class="english">I always saved my tax records.</span></p>

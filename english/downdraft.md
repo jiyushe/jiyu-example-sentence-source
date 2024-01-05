@@ -1,5 +1,7 @@
 # downdraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downdraft.md)
+
 <p><span class="chinese">吸式设计，可以产生相对焦油无气。</span><span class="english">Downdraft can be designed to produce relatively tar-free gas.</span></p>
 
 <p><span class="chinese">而倾斜的下沉气流前侧不利于窄带回波的形成。</span><span class="english">The front of inclining downdraft is unfavorable to the narrow-band echo.</span></p>

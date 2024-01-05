@@ -1,5 +1,7 @@
 # 浪人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langren.md)
+
 <p><span class="chinese">如何帮助无家的流浪人?。</span><span class="english">How to Help a Homeless Person?</span></p>
 
 <p><span class="chinese">如果浪人芽你五的时间。</span><span class="english">If the ranger shoots you five time.</span></p>

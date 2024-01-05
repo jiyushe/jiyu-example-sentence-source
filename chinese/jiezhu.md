@@ -1,5 +1,7 @@
 # 借助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezhu.md)
+
 <p><span class="chinese">他没有借助类固醇便办到了。</span><span class="english">And he did it all without steroids.</span></p>
 
 <p><span class="chinese">我借助她的帮助完成了这篇文章。</span><span class="english">I finished the essay through her help.</span></p>

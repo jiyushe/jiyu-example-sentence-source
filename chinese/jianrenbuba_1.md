@@ -1,5 +1,7 @@
 # 坚韧不拔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianrenbuba_1.md)
+
 <p><span class="chinese">坚韧不拔有别于勇猛。</span><span class="english">Fortitude is distinct from valour.</span></p>
 
 <p><span class="chinese">他喜欢他们的坚韧不拔和忠贞不二。</span><span class="english">He liked their toughness and their loyalty.</span></p>

@@ -1,5 +1,7 @@
 # 因材施教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yincaishijiao.md)
+
 <p><span class="chinese">因此，因材施教，进行分级教学是十分有必要的。</span><span class="english">Therefore, teach Students in accordance of their aptitude is essential.</span></p>
 
 <p><span class="chinese">声乐教学首先要因材施教，要做到对不同的学生，都要有行之有效的训练方法。</span><span class="english">According to the first vocal music teaching abilities, there must be effective training methods.</span></p>

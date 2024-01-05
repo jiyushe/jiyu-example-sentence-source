@@ -1,5 +1,7 @@
 # communicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communicable.md)
+
 <p><span class="chinese">传染性疾病控制已经基本实现疫苗防治。</span><span class="english">Communicable disease control has been mostly vaccine-based.</span></p>
 
 <p><span class="chinese">登革热是一种由过滤性病毒所引起的急性传染病。</span><span class="english">Dengue fever is an acute communicable disease caused by virus.</span></p>

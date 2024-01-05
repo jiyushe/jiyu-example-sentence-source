@@ -1,5 +1,7 @@
 # lion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lion.md)
+
 <p><span class="chinese">狮子我都杀过！</span><span class="english">I kill lion.</span></p>
 
 <p><span class="chinese">狮子会吼叫。</span><span class="english">A lion roars.</span></p>

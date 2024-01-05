@@ -1,5 +1,7 @@
 # 保持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baochi.md)
+
 <p><span class="chinese">保持凉爽。</span><span class="english">Stay cool.</span></p>
 
 <p><span class="chinese">保持其简短。</span><span class="english">Keep them short.</span></p>

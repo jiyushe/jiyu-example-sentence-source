@@ -1,5 +1,7 @@
 # bilberry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bilberry.md)
+
 <p><span class="chinese">在你的烤面包内摸上越桔的果酱。</span><span class="english">Spread bilberry jam on your morning toast.</span></p>
 
 <p><span class="chinese">或者每天吃越桔补品。</span><span class="english">Or take a bilberry supplement every morning.</span></p>

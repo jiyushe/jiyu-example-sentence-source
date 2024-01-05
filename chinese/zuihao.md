@@ -1,5 +1,7 @@
 # 最好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuihao.md)
+
 <p><span class="chinese">出来混，最好不要还！</span><span class="english">Easy come , easy go.</span></p>
 
 <p><span class="chinese">你最好慢慢走。</span><span class="english">You'd better go slow.</span></p>

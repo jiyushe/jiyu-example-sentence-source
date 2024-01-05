@@ -1,5 +1,7 @@
 # correspondent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correspondent.md)
+
 <p><span class="chinese">并问了她很多问题。</span><span class="english">She was a prolific correspondent.</span></p>
 
 <p><span class="chinese">科学记者，理查·德格雷.</span><span class="english">By Richard Gray, Science Correspondent.</span></p>

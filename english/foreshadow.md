@@ -1,5 +1,7 @@
 # foreshadow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreshadow.md)
+
 <p><span class="chinese">那些乌云预示着有一场暴风雨。</span><span class="english">Those dark clouds foreshadow a storm.</span></p>
 
 <p><span class="chinese">第一是因为这些措施有利于跨国银行的健康发展。</span><span class="english">The first is that they foreshadow an emerging international orthodoxy.</span></p>

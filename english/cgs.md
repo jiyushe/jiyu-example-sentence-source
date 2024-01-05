@@ -1,5 +1,7 @@
 # cgs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cgs.md)
+
 <p><span class="chinese">最后叙述了多个在城市小区中采用CGS技术的DHC工程状况。</span><span class="english">Finally, describes many DHC projects using CGS technology in city districts.</span></p>
 
 <p><span class="chinese">卵质膜反应是卵质与皮质颗粒包膜的重组过程。</span><span class="english">Egg membrane reactor is egg quality and coated the CGs reorganization process.</span></p>

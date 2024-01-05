@@ -1,5 +1,7 @@
 # geophone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geophone.md)
+
 <p><span class="chinese">检波器组合。一个组合包含许多排列很近的检波器。</span><span class="english">A geophone array. Nests can contain numerous closely spaced geophones.</span></p>
 
 <p><span class="chinese">沿两个检波器坐标轴记录的数据显示为一个时间函数。</span><span class="english">Data recorded along two geophone axes are displayed as a function of time.</span></p>

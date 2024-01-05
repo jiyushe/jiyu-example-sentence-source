@@ -1,5 +1,7 @@
 # 早年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaonian.md)
+
 <p><span class="chinese">春来拜早年，您好！</span><span class="english">Early spring to worship, hello!</span></p>
 
 <p><span class="chinese">他早年是个农民。</span><span class="english">He was a peasant in his early years.</span></p>

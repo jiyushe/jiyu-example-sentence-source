@@ -1,5 +1,7 @@
 # ownerless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ownerless.md)
+
 <p><span class="chinese">你认为在太空地球会无主吗？</span><span class="english">Do you think it would go ownerless in space?</span></p>
 
 <p><span class="chinese">在明清两代，钓鱼岛一直是中国海防体系中的一部分，因此，钓鱼岛并非无主之地。</span><span class="english">And China's coast defence contained Diaoyu islands in Ming and Qing dynasties. So, these islands were not ownerless in history.</span></p>

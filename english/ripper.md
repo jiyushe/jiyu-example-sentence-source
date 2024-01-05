@@ -1,5 +1,7 @@
 # ripper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ripper.md)
+
 <p><span class="chinese">但我更喜欢免费的DVD开膛手。</span><span class="english">But I much prefer Free DVD Ripper.</span></p>
 
 <p><span class="chinese">“开膛手杰克”，是大写的吗？</span><span class="english">"Jack the Ripper. " Is that capitalized?</span></p>

@@ -1,5 +1,7 @@
 # plating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plating.md)
+
 <p><span class="chinese">我们并且做金子和银镀层。</span><span class="english">We also do the gold and silver plating.</span></p>
 
 <p><span class="chinese">锌合金表壳表带电镀IP黑色。</span><span class="english">Zinc alloy plating watchcase IP black strap.</span></p>

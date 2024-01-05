@@ -1,5 +1,7 @@
 # 枝繁叶茂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhifanyemao.md)
+
 <p><span class="chinese">他是枝繁叶茂的无理性之蛇发妖树。</span><span class="english">It is a hydra-headed tree of unreason with a thousand roots.</span></p>
 
 <p><span class="chinese">三千多年的银杏树依然枝繁叶茂。</span><span class="english">This more-than-3,000-year-old gingko still has luxuriant foliage.</span></p>

@@ -1,5 +1,7 @@
 # 难舍难分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanshenanfen.md)
+
 <p><span class="chinese">她与那个男孩难舍难分。</span><span class="english">She is busy with that boy.</span></p>
 
 <p><span class="chinese">她对他一点也不觉得难舍难分。</span><span class="english">She did not in the least miss him.</span></p>

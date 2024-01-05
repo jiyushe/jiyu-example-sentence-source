@@ -1,5 +1,7 @@
 # 不分彼此
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufenbici.md)
+
 <p><span class="chinese">朋友间不分彼此。</span><span class="english">Between friends all is common.</span></p>
 
 <p><span class="chinese">我们都要幸福，不分彼此的幸福。</span><span class="english">We all be happy, regardless of each other's happiness.</span></p>

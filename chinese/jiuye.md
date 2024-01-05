@@ -1,5 +1,7 @@
 # 就业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuye.md)
+
 <p><span class="chinese">就业前景光明。</span><span class="english">Job prospects are bright.</span></p>
 
 <p><span class="chinese">其一是就业与住房的关系。</span><span class="english">One is the employment-housing nexus.</span></p>

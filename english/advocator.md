@@ -1,5 +1,7 @@
 # advocator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advocator.md)
+
 <p><span class="chinese">康派，精神奢华倡者。</span><span class="english">Advocator of Luxury in Spirit.</span></p>
 
 <p><span class="chinese">言术的申不害首先是法治论者。</span><span class="english">The warlock Shen Buhai is above all an advocator of law.</span></p>

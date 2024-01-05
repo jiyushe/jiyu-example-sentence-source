@@ -1,5 +1,7 @@
 # rapprochement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapprochement.md)
+
 <p><span class="chinese">1970年代初期的重点是恢复邦交。</span><span class="english">In the early 1970s, the focus was on rapprochement.</span></p>
 
 <p><span class="chinese">然而，这种亲善不能只看一面。</span><span class="english">However, the rapprochement has hardly been entirely one-sided.</span></p>

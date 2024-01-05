@@ -1,5 +1,7 @@
 # 身躯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqu.md)
+
 <p><span class="chinese">直到我的身躯化成灰。</span><span class="english">Till my body is dust.</span></p>
 
 <p><span class="chinese">爱,不仅爱你伟岸的身躯</span><span class="english">love,not only for you grand body</span></p>

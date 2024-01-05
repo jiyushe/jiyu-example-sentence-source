@@ -1,5 +1,7 @@
 # emigrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emigrant.md)
+
 <p><span class="chinese">他是个移居澳大利亚的英国人。</span><span class="english">He is a British emigrant to Australia.</span></p>
 
 <p><span class="chinese">还是个移民成功的典范。</span><span class="english">Still be the example of an emigrant success.</span></p>

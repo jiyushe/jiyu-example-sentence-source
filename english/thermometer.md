@@ -1,5 +1,7 @@
 # thermometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermometer.md)
+
 <p><span class="chinese">是波义耳定律。</span><span class="english">The ideal gas thermometer.</span></p>
 
 <p><span class="chinese">温度计上是华氏70度。</span><span class="english">The thermometer marked 70℉.</span></p>

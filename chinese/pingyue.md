@@ -1,5 +1,7 @@
 # 评阅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingyue.md)
+
 <p><span class="chinese">我们要感谢评阅人对我们的稿子所做的一切。</span><span class="english">We want to thank the referees for all that you do for our manuscript.</span></p>
 
 <p><span class="chinese">公众评阅从2009年11月14开始，到2010年1月13日结束。</span><span class="english">The public review started on November 14th 2009, and will end on January 13th 2010.</span></p>

@@ -1,5 +1,7 @@
 # dvb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dvb.md)
+
 <p><span class="chinese">目前，国内大力发展数字电视，所以针对数字视频广播方面的应用有着广阔的前景。</span><span class="english">At present, in China it is time to develop DTV, so the application of DVB has a bright future.</span></p>
 
 <p><span class="chinese">并研究了用到的多种技术，主要涉及到DVB系统、ATM技术、交织技术、CRC编码技术。</span><span class="english">I also studied some related technologies, such as DVB system, ATM technology, interleave technology, CRC code technology.</span></p>

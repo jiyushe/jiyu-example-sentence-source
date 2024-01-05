@@ -1,5 +1,7 @@
 # loess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loess.md)
+
 <p><span class="chinese">黄土回归。</span><span class="english">Loess regression.</span></p>
 
 <p><span class="chinese">黄土是一种特殊的粘性土。</span><span class="english">Loess is a special kind of clayed soil.</span></p>

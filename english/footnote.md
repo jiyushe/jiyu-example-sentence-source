@@ -1,5 +1,7 @@
 # footnote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footnote.md)
+
 <p><span class="chinese">一个小小的脚注。</span><span class="english">You know,a footnote.</span></p>
 
 <p><span class="chinese">所有其他的辩论都是它的脚注而已。</span><span class="english">All else is footnote.</span></p>

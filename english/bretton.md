@@ -1,5 +1,7 @@
 # bretton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bretton.md)
+
 <p><span class="chinese">布雷顿森林会议经常被比作是一场扑克游戏。</span><span class="english">Bretton Woods I is often compared to a poker game.</span></p>
 
 <p><span class="chinese">致使旧的布雷顿森林体系宣告结束。</span><span class="english">This brought an end to the old Bretton Woods System.</span></p>

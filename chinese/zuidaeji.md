@@ -1,5 +1,7 @@
 # 罪大恶极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuidaeji.md)
+
 <p><span class="chinese">为什么说过量生产“罪大恶极”？</span><span class="english">Why over-production is crime?</span></p>
 
 <p><span class="chinese">形容罪大恶极，即使处死刑也抵偿不了他的罪恶。</span><span class="english">Death still leaves a margin of inexpiable guilt.</span></p>

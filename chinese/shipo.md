@@ -1,5 +1,7 @@
 # 识破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shipo.md)
+
 <p><span class="chinese">我识破了那个骗局。</span><span class="english">I saw through the fraud.</span></p>
 
 <p><span class="chinese">你很快就会识破他的诡计。</span><span class="english">You'll be onto his tricks soon.</span></p>

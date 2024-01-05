@@ -1,5 +1,7 @@
 # direct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/direct.md)
+
 <p><span class="chinese">这是直达车吗？</span><span class="english">Is it direct train?</span></p>
 
 <p><span class="chinese">直接烫个梨花头。</span><span class="english">Direct hot a pear head.</span></p>

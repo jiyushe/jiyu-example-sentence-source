@@ -1,5 +1,7 @@
 # 入港
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rugang.md)
+
 <p><span class="chinese">它驾驶轮船安全入港。</span><span class="english">He guided the ship safely into harbor.</span></p>
 
 <p><span class="chinese">如果船只被拒绝入港，其他港口将被告知。</span><span class="english">If a ship is denied entry, other ports will be told.</span></p>

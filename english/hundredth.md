@@ -1,5 +1,7 @@
 # hundredth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hundredth.md)
+
 <p><span class="chinese">可能这是我第一百次，想要像爱因斯坦一样思考。</span><span class="english">For perhaps the hundredth time, I try to think like Einstein.</span></p>
 
 <p><span class="chinese">圣达菲正准备庆祝它立市四百周年。</span><span class="english">Santa Fe is preparing to celebrate its four hundredth anniversary.</span></p>

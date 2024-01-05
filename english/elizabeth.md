@@ -1,5 +1,7 @@
 # elizabeth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elizabeth.md)
+
 <p><span class="chinese">伊丽莎白.沃伦，何许人也？</span><span class="english">Who Is Elizabeth Warren?</span></p>
 
 <p><span class="chinese">伊丽莎白有些神色诧异。</span><span class="english">Elizabeth looked surprised.</span></p>

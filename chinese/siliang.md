@@ -1,5 +1,7 @@
 # 思量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siliang.md)
+
 <p><span class="chinese">他们两人思量了一会儿。</span><span class="english">They both thought for a minute.</span></p>
 
 <p><span class="chinese">当我细思量，万物在生长</span><span class="english">When I consider every thing that grows</span></p>

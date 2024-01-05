@@ -1,5 +1,7 @@
 # 铁马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiema.md)
+
 <p><span class="chinese">邮政是在铁马时期才开始发展起来的。</span><span class="english">It was during the Age of Iron Horse that delivery really started to pick up.</span></p>
 
 <p><span class="chinese">一只受油浸泡过的鸟对著铁马号供应船侧壁挣扎。</span><span class="english">An oil-soaked bird struggles against the side of an Iron Horse supply vessel.</span></p>

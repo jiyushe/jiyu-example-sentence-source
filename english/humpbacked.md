@@ -1,5 +1,7 @@
 # humpbacked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humpbacked.md)
+
 <p><span class="chinese">接着上帝又加上一点‘但是你的妻子将会是个驼背。’</span><span class="english">Then the Lord added, 'But your wife will be humpbacked.</span></p>
 
 <p><span class="chinese">接着，上帝又补充说'不过，你的妻子会是一个驼背。'。</span><span class="english">Then the Lord added, ' But your wife will be humpbacked.</span></p>

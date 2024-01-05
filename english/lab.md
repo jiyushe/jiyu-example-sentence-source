@@ -1,5 +1,7 @@
 # lab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lab.md)
+
 <p><span class="chinese">我是一个实验室里的技术员。</span><span class="english">I am a lab tech.</span></p>
 
 <p><span class="chinese">我有实验报告“</span><span class="english">I've got the lab report."</span></p>

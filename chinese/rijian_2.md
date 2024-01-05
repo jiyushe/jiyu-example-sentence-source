@@ -1,5 +1,7 @@
 # 日间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rijian_2.md)
+
 <p><span class="chinese">日间遮荫，夜间保护。</span><span class="english">A shade by day, defense by night.</span></p>
 
 <p><span class="chinese">塔什干，乌克兰，日间托儿所。</span><span class="english">Day nursery in Tashkent, Uzbekistan.</span></p>

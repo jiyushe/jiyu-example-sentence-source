@@ -1,5 +1,7 @@
 # axle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axle.md)
+
 <p><span class="chinese">于是,轮子在轴上旋转。</span><span class="english">Thus a wheel revolves on its axle.</span></p>
 
 <p><span class="chinese">用作软轴保护套管。</span><span class="english">Use for flexible axle applications.</span></p>

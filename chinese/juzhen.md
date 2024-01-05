@@ -1,5 +1,7 @@
 # 矩阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzhen.md)
+
 <p><span class="chinese">我们来做这种情况下的矩阵</span><span class="english">Let's produce that matrix.</span></p>
 
 <p><span class="chinese">视频矩阵终端?。</span><span class="english">VMT? Video Matrix Terminal?</span></p>

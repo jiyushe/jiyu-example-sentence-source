@@ -1,5 +1,7 @@
 # humorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humorous.md)
+
 <p><span class="chinese">这是一部幽默小说。</span><span class="english">This is a humorous novel.</span></p>
 
 <p><span class="chinese">超幽默的真人版“最后的晚餐”！</span><span class="english">How humorous the "Last Supper" is!</span></p>

@@ -1,5 +1,7 @@
 # 兔子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuzi.md)
+
 <p><span class="chinese">我捕获了一只兔子。</span><span class="english">I bagged a rabbit.</span></p>
 
 <p><span class="chinese">我祗是一只兔子。</span><span class="english">I'm just a rabbit.</span></p>

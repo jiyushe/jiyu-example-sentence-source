@@ -1,5 +1,7 @@
 # 放纵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangzong.md)
+
 <p><span class="chinese">放纵这种妒忌心？</span><span class="english">Or this envy?</span></p>
 
 <p><span class="chinese">两小时的放纵。</span><span class="english">Two hours of abandonment.</span></p>

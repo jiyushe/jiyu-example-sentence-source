@@ -1,5 +1,7 @@
 # 助攻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhugong_1.md)
+
 <p><span class="chinese">他们场均能够19分10个助攻。</span><span class="english">They average 19 points and 10 assists.</span></p>
 
 <p><span class="chinese">反过来，鲁尼仅仅助攻贝尔巴托夫一次。</span><span class="english">Rooney, in turn, has created only one for Berbatov.</span></p>

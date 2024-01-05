@@ -1,5 +1,7 @@
 # metastasize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metastasize.md)
+
 <p><span class="chinese">癌经常转移至淋巴管。</span><span class="english">Carcinomas often metastasize to lymphatics.</span></p>
 
 <p><span class="chinese">前列腺癌则通常向骨转移。</span><span class="english">Prostate cancers usually metastasize to bone.</span></p>

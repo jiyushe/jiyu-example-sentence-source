@@ -1,5 +1,7 @@
 # morphological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morphological.md)
+
 <p><span class="chinese">耳石的形态发育。</span><span class="english">The morphological development of otolith.</span></p>
 
 <p><span class="chinese">观察诱导细胞的形态学变化。</span><span class="english">Morphological change of induced cells was observed.</span></p>

@@ -1,5 +1,7 @@
 # france
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/france.md)
+
 <p><span class="chinese">他们来自法国。</span><span class="english">They come from France.</span></p>
 
 <p><span class="chinese">我们挤垮了法国。</span><span class="english">We were killing France.</span></p>

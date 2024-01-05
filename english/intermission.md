@@ -1,5 +1,7 @@
 # intermission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermission.md)
+
 <p><span class="chinese">幕间休息时有咖啡供应。</span><span class="english">Coffee was served during the intermission.</span></p>
 
 <p><span class="chinese">螺旋钻在一刻不停地挥舞着。</span><span class="english">Drills were set to work without intermission.</span></p>

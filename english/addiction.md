@@ -1,5 +1,7 @@
 # addiction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addiction.md)
+
 <p><span class="chinese">克服不良嗜好。</span><span class="english">Overcome an addiction.</span></p>
 
 <p><span class="chinese">我的工作就像是一个嗜好。</span><span class="english">My work was like an addiction.</span></p>

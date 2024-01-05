@@ -1,5 +1,7 @@
 # 贤人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianren_2.md)
+
 <p><span class="chinese">税收制度给某些贤人智士以"灵感"</span><span class="english">TAXATION SYSTEM “INSPIRES” WIT AND WISDOM</span></p>
 
 <p><span class="chinese">视贫穷如园中之花而像贤人一样耕植它吧！</span><span class="english">Dultivate poverty like a garden herb, like sage.</span></p>

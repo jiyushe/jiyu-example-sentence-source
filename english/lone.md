@@ -1,5 +1,7 @@
 # lone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lone.md)
+
 <p><span class="chinese">孤对电子。</span><span class="english">Lone pairs.</span></p>
 
 <p><span class="chinese">我是条独狼！</span><span class="english">I'm a lone wolf!</span></p>

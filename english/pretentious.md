@@ -1,5 +1,7 @@
 # pretentious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretentious.md)
+
 <p><span class="chinese">言过其辞的话让别人说吧。</span><span class="english">Let other people use the more pretentious words.</span></p>
 
 <p><span class="chinese">他的名声足以令最自负的剧作家为之不安。</span><span class="english">His great fame can upset most pretentious dramatis.</span></p>

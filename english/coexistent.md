@@ -1,5 +1,7 @@
 # coexistent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coexistent.md)
+
 <p><span class="chinese">这是气体--液体共存曲线。</span><span class="english">And the a gas liquid coexistent line.</span></p>
 
 <p><span class="chinese">在公民社会中，生活在和谐之中，也就是生活在公共真实之中。</span><span class="english">Life in harmony is coexistent with life in public truth.</span></p>

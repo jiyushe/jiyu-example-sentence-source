@@ -1,5 +1,7 @@
 # facto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facto.md)
+
 <p><span class="chinese">这么做会让H.264成为Web上codec事实上的标准。</span><span class="english">H.264 becomes the de facto codec for the Web.</span></p>
 
 <p><span class="chinese">根据事实本身，该合同已被视为取消。</span><span class="english">The contract is considered to be ipso facto cancelled.</span></p>

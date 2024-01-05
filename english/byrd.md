@@ -1,5 +1,7 @@
 # byrd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/byrd.md)
+
 <p><span class="chinese">罗伯特•伯德逝世，享年92岁。</span><span class="english">Robert Byrd died at the age of 92.</span></p>
 
 <p><span class="chinese">开始时伯德和他的助手们拍下了照片。</span><span class="english">At first Byrd and his men were able to take photographs.</span></p>

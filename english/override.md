@@ -1,5 +1,7 @@
 # override
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/override.md)
+
 <p><span class="chinese">你做过站了吗？</span><span class="english">Did you override your station?</span></p>
 
 <p><span class="chinese">这包括生成一个覆盖文件。</span><span class="english">This involves generating an override file.</span></p>

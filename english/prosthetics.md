@@ -1,5 +1,7 @@
 # prosthetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosthetics.md)
+
 <p><span class="chinese">大多数人的手机就像是他们的义肢。</span><span class="english">Most people's cell phones are prosthetics.</span></p>
 
 <p><span class="chinese">但她靠义肢学会了走路，骑自行车，游泳，还有各种运动。</span><span class="english">She learned to walk, bike, swim and play sports using prosthetics.</span></p>

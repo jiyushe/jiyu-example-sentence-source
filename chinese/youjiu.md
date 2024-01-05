@@ -1,5 +1,7 @@
 # 悠久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjiu.md)
+
 <p><span class="chinese">第一，历史悠久。</span><span class="english">First, long history.</span></p>
 
 <p><span class="chinese">维堡，位于丹麦，是一座拥有悠久历史的老城镇。</span><span class="english">Viborg is a city in Denmark.</span></p>

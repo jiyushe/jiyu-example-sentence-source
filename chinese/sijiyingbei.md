@@ -1,5 +1,7 @@
 # 死记硬背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sijiyingbei.md)
+
 <p><span class="chinese">靠死记硬背吗</span><span class="english">Is it all memorized?</span></p>
 
 <p><span class="chinese">不要死记硬背，而要活说活用。</span><span class="english">Don't memorise it, live it.</span></p>

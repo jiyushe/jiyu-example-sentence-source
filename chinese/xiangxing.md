@@ -1,5 +1,7 @@
 # 象形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxing.md)
+
 <p><span class="chinese">她给我写了一封用象形图案写的信。</span><span class="english">She hieroglyphed a letter to me.</span></p>
 
 <p><span class="chinese">学学梵文或象形文吧。</span><span class="english">Learn Sanskrit or hieroglyphics instead.</span></p>

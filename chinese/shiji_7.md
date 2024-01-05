@@ -1,5 +1,7 @@
 # 时机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiji_7.md)
+
 <p><span class="chinese">时机将很快成熟。</span><span class="english">Time will soon ripen.</span></p>
 
 <p><span class="chinese">但我一直在等时机。</span><span class="english">But I had bided my time.</span></p>

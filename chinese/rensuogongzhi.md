@@ -1,5 +1,7 @@
 # 人所共知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rensuogongzhi.md)
+
 <p><span class="chinese">布朗先生是个人所共知的喜欢揩油的人。</span><span class="english">Mr. Brown is known as a free loader.</span></p>
 
 <p><span class="chinese">中国的居民消费支出数据统计有出入，这人所共知。</span><span class="english">China's consumer-spending data are notoriously murky.</span></p>

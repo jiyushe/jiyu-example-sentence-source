@@ -1,5 +1,7 @@
 # subtropics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtropics.md)
+
 <p><span class="chinese">尤其在南方热带、亚热带地区。</span><span class="english">Especially in the south tropics, subtropics area.</span></p>
 
 <p><span class="chinese">苦瓜，起源于印度，分布于热带、亚热带地区。</span><span class="english">Bitter gourd is distributed to tropics and subtropics area.</span></p>

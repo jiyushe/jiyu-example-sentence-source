@@ -1,5 +1,7 @@
 # premiere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premiere.md)
+
 <p><span class="chinese">你要去电影首映会吗?</span><span class="english">Are you going to the movie premiere?</span></p>
 
 <p><span class="chinese">特别是首映会很宏大。</span><span class="english">And especially this premiere was huge.</span></p>

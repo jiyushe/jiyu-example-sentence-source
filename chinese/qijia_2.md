@@ -1,5 +1,7 @@
 # 齐家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijia_2.md)
+
 <p><span class="chinese">修身齐家博爱天下。</span><span class="english">Charity begins at home.</span></p>
 
 <p><span class="chinese">本厂以“信誉至上，质量第一”为宗旨，欢迎各客商加盟合作——齐家发展，共创双赢。</span><span class="english">We welcome customers for negotiations and cooperations. G-HOME development, and create a win-win situation.</span></p>

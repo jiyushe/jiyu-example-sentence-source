@@ -1,5 +1,7 @@
 # 会客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huike.md)
+
 <p><span class="chinese">他只根据预约会客。</span><span class="english">He will only see visitors by appointment.</span></p>
 
 <p><span class="chinese">会客中，请勿打扰是什么意思啊？</span><span class="english">Meeting in progress, please do not disturb.</span></p>

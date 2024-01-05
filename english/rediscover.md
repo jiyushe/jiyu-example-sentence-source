@@ -1,5 +1,7 @@
 # rediscover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rediscover.md)
+
 <p><span class="chinese">难道这不值得去重新发现吗？</span><span class="english">Would it not worthwhile to rediscover?</span></p>
 
 <p><span class="chinese">让我们在慢车道上去重新发现生活吧。</span><span class="english">Let's rediscover life in the slow lane.</span></p>

@@ -1,5 +1,7 @@
 # 滋生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zisheng_2.md)
+
 <p><span class="chinese">蚊子滋生于不流动的池塘里。</span><span class="english">Mosquitoes breed in still ponds.</span></p>
 
 <p><span class="chinese">死水滋生蚊子。</span><span class="english">Stagnant water breeds mosquitoes.</span></p>

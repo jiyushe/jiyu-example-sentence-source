@@ -1,5 +1,7 @@
 # 尿素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niaosu.md)
+
 <p><span class="chinese">脂肪，尿素，葡萄糖，氨基酸，矿物盐。</span><span class="english">Fat, urea, glucose, amino acids, salts.</span></p>
 
 <p><span class="chinese">血尿素氮及肌酐检查正常。</span><span class="english">The urea nitrogen and creatinine were normal.</span></p>

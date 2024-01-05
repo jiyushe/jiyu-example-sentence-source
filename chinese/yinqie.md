@@ -1,5 +1,7 @@
 # 殷切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinqie.md)
+
 <p><span class="chinese">但结局却吊着观众的胃口，电影迷们殷切的期待着这个系列的续集。</span><span class="english">But the end of the story left audiences hanging.</span></p>
 
 <p><span class="chinese">殷切希望韩国早日遭到原子弹的轰炸！！！</span><span class="english">I hope South Korea was bombed by A-bomb ASAP! ! !</span></p>

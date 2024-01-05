@@ -1,5 +1,7 @@
 # slurp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slurp.md)
+
 <p><span class="chinese">喝汤时，千万不要发出响声。</span><span class="english">Never slurp your soup loudly.</span></p>
 
 <p><span class="chinese">她啧地从杯子里喝了一口。</span><span class="english">She took a slurp from her mug.</span></p>

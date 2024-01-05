@@ -1,5 +1,7 @@
 # scenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scenic.md)
+
 <p><span class="chinese">这幅画看下去多美啊！</span><span class="english">How scenic this picture looks!</span></p>
 
 <p><span class="chinese">我喜欢看美的风景点。</span><span class="english">I love beautiful scenic spots.</span></p>

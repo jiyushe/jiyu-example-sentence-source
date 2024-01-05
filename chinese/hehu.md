@@ -1,5 +1,7 @@
 # 合乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hehu.md)
+
 <p><span class="chinese">这是合乎情理的。</span><span class="english">It stands to reason.</span></p>
 
 <p><span class="chinese">这是唯一合乎逻辑的。</span><span class="english">This is only logical.</span></p>

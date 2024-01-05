@@ -1,5 +1,7 @@
 # 亮度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangdu.md)
+
 <p><span class="chinese">低亮度的照明会</span><span class="english">Low lighting makes the room cozier.</span></p>
 
 <p><span class="chinese">它比正常亮度增加了90倍之多。</span><span class="english">It grew 90 times brighter than normal.</span></p>

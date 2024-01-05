@@ -1,5 +1,7 @@
 # frau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frau.md)
+
 <p><span class="chinese">这是王先生和王太太。</span><span class="english">Das sind Herr und Frau Wang.</span></p>
 
 <p><span class="chinese">吴先生和夫人是中国人。</span><span class="english">Herr und Frau Wu kommen aus China.</span></p>

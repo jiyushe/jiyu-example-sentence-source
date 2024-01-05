@@ -1,5 +1,7 @@
 # aberration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aberration.md)
+
 <p><span class="chinese">真正的隐士是一种罕见的病。</span><span class="english">The true hermit is a rare aberration.</span></p>
 
 <p><span class="chinese">现在看来，这只是短暂的畸变。</span><span class="english">Now that looks like a brief aberration.</span></p>

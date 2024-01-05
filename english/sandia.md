@@ -1,5 +1,7 @@
 # sandia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandia.md)
+
 <p><span class="chinese">在新墨西哥州的桑迪亚国家实验室，阳光采集器晚上处于休眠状态。</span><span class="english">SunCatchers at Sandia National Laboratories in New Mexico stand dormant at moonrise.</span></p>
 
 <p><span class="chinese">美国桑迪亚国家实验室物理，化学，纳米科学中心。</span><span class="english">Physical, Chemical, & Nano Sciences Center, Sandia National Laboratories, New Mexico.</span></p>

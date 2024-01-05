@@ -1,5 +1,7 @@
 # vile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vile.md)
+
 <p><span class="chinese">她的话里充满着恶毒的咒骂。</span><span class="english">Her talk was full of vile curses.</span></p>
 
 <p><span class="chinese">他是活物中最鄙俗的一种。</span><span class="english">He's the most vile kind of creature.</span></p>

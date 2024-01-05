@@ -1,5 +1,7 @@
 # impalpable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impalpable.md)
+
 <p><span class="chinese">信仰的玄妙力量。</span><span class="english">The impalpable power of faith.</span></p>
 
 <p><span class="chinese">我是一个非物质的无形化身。</span><span class="english">I am an immaterial impalpable incarnation.</span></p>

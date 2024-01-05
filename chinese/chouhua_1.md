@@ -1,5 +1,7 @@
 # 筹划
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouhua_1.md)
+
 <p><span class="chinese">德凡正在筹划一场婚礼。</span><span class="english">Devan is planning a wedding.</span></p>
 
 <p><span class="chinese">筹划一个读书会怎么样？</span><span class="english">How about plan a reading party.</span></p>

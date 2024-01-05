@@ -1,5 +1,7 @@
 # 蜀绣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuxiu.md)
+
 <p><span class="chinese">蜀绣的生产具有悠久的历史。</span><span class="english">Shu embroidery enjoys a long history.</span></p>
 
 <p><span class="chinese">粤绣和蜀绣，对吧？</span><span class="english">Yue embroidery and Shu embroidery, right?</span></p>

@@ -1,5 +1,7 @@
 # omnipotent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omnipotent.md)
+
 <p><span class="chinese">四枚万能的金镑。</span><span class="english">Four omnipotent sovereigns.</span></p>
 
 <p><span class="chinese">只有恒心——是万能的。</span><span class="english">Persistence alone is omnipotent.</span></p>

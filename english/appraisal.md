@@ -1,5 +1,7 @@
 # appraisal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appraisal.md)
+
 <p><span class="chinese">也许这都是评价。为什么？</span><span class="english">Maybe it's all appraisal. Why?</span></p>
 
 <p><span class="chinese">你有鉴定书吗？</span><span class="english">Do you have an appraisal certificate?</span></p>

@@ -1,5 +1,7 @@
 # 磕磕绊绊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kekebanban.md)
+
 <p><span class="chinese">在复苏的道路上总会有些磕磕绊绊的。</span><span class="english">There will be bumps on the road to recovery.</span></p>
 
 <p><span class="chinese">黑暗中磕磕绊绊还迷了路，还差点淹死。</span><span class="english">In the darkness they stumbled and squelched, lost their way and nearly drowned.</span></p>

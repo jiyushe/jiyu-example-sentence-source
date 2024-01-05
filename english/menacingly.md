@@ -1,5 +1,7 @@
 # menacingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menacingly.md)
+
 <p><span class="chinese">油画中的祖先在向下凝视着我们。</span><span class="english">The ancestor in the painting stared down at us menacingly.</span></p>
 
 <p><span class="chinese">外面的河岸上，隐约看到秃鹰们在蔚蓝的天空中盘旋。</span><span class="english">Outside, by the riverbank, vultures hovered menacingly in a cobalt sky.</span></p>

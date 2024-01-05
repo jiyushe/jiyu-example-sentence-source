@@ -1,5 +1,7 @@
 # tendon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tendon.md)
+
 <p><span class="chinese">捏住球节上方的筋腱。</span><span class="english">Pinch the tendon above the fetlock.</span></p>
 
 <p><span class="chinese">他没有任何身体上的问题，他膝盖的肌腱已全愈。</span><span class="english">The tendon in his knee is totally healed.</span></p>

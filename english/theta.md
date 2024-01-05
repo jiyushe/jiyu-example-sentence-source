@@ -1,5 +1,7 @@
 # theta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theta.md)
+
 <p><span class="chinese">那θ取值范围是什么呢？</span><span class="english">Now, what are the bounds for theta?</span></p>
 
 <p><span class="chinese">顺便说一下，θ的平均值是什么？</span><span class="english">By the way, what is the average of theta?</span></p>

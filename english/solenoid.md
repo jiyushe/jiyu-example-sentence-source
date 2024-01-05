@@ -1,5 +1,7 @@
 # solenoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solenoid.md)
+
 <p><span class="chinese">插件的指示灯螺线管。</span><span class="english">Plug-in solenoid with indicator light.</span></p>
 
 <p><span class="chinese">“丹弗斯”型状系列电磁阀。</span><span class="english">"DANFOSS" shape series solenoid valves.</span></p>

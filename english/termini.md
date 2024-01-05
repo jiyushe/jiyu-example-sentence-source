@@ -1,5 +1,7 @@
 # termini
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/termini.md)
+
 <p><span class="chinese">看不到时间胜利的脸，我总站在输的一方。</span><span class="english">Do not see the faces of victory I Termini on the losing side.</span></p>
 
 <p><span class="chinese">带着行李从终点站到酒店绝不成问题。</span><span class="english">It was no problem reaching the hotel from Termini with luggage.</span></p>

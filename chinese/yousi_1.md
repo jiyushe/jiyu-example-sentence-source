@@ -1,5 +1,7 @@
 # 游丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yousi_1.md)
+
 <p><span class="chinese">这是游丝的季节。</span><span class="english">This is gossamer season.</span></p>
 
 <p><span class="chinese">空中飘浮着游丝。</span><span class="english">Gossamer is floating in calm air.</span></p>

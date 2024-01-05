@@ -1,5 +1,7 @@
 # canoeing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canoeing.md)
+
 <p><span class="chinese">他们在河中划独木舟。</span><span class="english">They were canoeing in the river.</span></p>
 
 <p><span class="chinese">我们现在正在湖中划独木舟。</span><span class="english">We are canoeing in the lake now.</span></p>

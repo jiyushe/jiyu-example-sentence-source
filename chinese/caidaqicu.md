@@ -1,5 +1,7 @@
 # 财大气粗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caidaqicu.md)
+
 <p><span class="chinese">你看他财大气粗，就知道他是个暴发户。</span><span class="english">You can tell he is a parvenu.</span></p>
 
 <p><span class="chinese">涉及金额对财大气粗的通用来说不过是九牛一毛。</span><span class="english">The sums involved were small beer for a behemoth like GE.</span></p>

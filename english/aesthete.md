@@ -1,5 +1,7 @@
 # aesthete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aesthete.md)
+
 <p><span class="chinese">他现在是个审美家。</span><span class="english">He is an aesthete now.</span></p>
 
 <p><span class="chinese">他最初是一个唯美主义者。</span><span class="english">He begins as an aesthete.</span></p>

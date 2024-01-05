@@ -1,5 +1,7 @@
 # tightly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tightly.md)
+
 <p><span class="chinese">使用后须旋紧外盖！</span><span class="english">Cap tightly after using.</span></p>
 
 <p><span class="chinese">用箔纸盖严。</span><span class="english">Cover tightly with foil.</span></p>

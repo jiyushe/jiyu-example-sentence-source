@@ -1,5 +1,7 @@
 # elegiac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elegiac.md)
+
 <p><span class="chinese">比起怀旧更像是哀歌。</span><span class="english">It is elegiac rather than nostalgic.</span></p>
 
 <p><span class="chinese">那音乐有一种梦幻般的哀伤。</span><span class="english">The music has a dreamy, elegiac quality.</span></p>

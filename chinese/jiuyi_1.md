@@ -1,5 +1,7 @@
 # 就义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuyi_1.md)
+
 <p><span class="chinese">他就义了成功的机遇。</span><span class="english">He killed his chances of success.</span></p>
 
 <p><span class="chinese">势力以为就义者的痛苦是感恩戴德。</span><span class="english">Power takes as inacknowledgment the askews of its victims.</span></p>

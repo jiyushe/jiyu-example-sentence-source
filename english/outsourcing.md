@@ -1,5 +1,7 @@
 # outsourcing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outsourcing.md)
+
 <p><span class="chinese">我们了解外包的动力。</span><span class="english">We know the dynamics of outsourcing.</span></p>
 
 <p><span class="chinese">印度和菲律宾呼叫中心市场研究报告。</span><span class="english">Outsourcing Call Centers to India and the Philippines.</span></p>

@@ -1,5 +1,7 @@
 # tinplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinplate.md)
+
 <p><span class="chinese">求购废镀锡铁皮，数量不限。</span><span class="english">I need to buy any quantity of tinplate scrap.</span></p>
 
 <p><span class="chinese">我公司专业从事马口铁包装产品。</span><span class="english">My company specialized in tinplate packaging products.</span></p>

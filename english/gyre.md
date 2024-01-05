@@ -1,5 +1,7 @@
 # gyre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gyre.md)
+
 <p><span class="chinese">来吧，从圣火中，盘旋转动。</span><span class="english">Come from the holy fire, perne in a gyre.</span></p>
 
 <p><span class="chinese">主轴线回转的光栅修理起来。</span><span class="english">The main grating fix up in the gyre axis.</span></p>

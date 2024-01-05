@@ -1,5 +1,7 @@
 # anemometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anemometer.md)
+
 <p><span class="chinese">我们在那装了一个风速计。</span><span class="english">We've got a wind anemometer up there.</span></p>
 
 <p><span class="chinese">风速表是测量风的力量的仪器。</span><span class="english">The Anemometer is an instrument to measure the force of the wind.</span></p>

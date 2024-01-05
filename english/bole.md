@@ -1,5 +1,7 @@
 # bole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bole.md)
+
 <p><span class="chinese">想要偷吻你就得大胆点。</span><span class="english">You have to be bole to steal a kiss.</span></p>
 
 <p><span class="chinese">在榆树周围已是一片郁郁葱葱</span><span class="english">Round the elm-tree bole are in tiny leaf</span></p>

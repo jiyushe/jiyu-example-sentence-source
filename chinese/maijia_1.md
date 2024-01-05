@@ -1,5 +1,7 @@
 # 买家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maijia_1.md)
+
 <p><span class="chinese">每个买家通过资格预审的。</span><span class="english">Each buyer is pre-qualified.</span></p>
 
 <p><span class="chinese">这个价格吸引了许多买家。</span><span class="english">The price lured many buyers.</span></p>

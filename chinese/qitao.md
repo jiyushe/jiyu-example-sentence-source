@@ -1,5 +1,7 @@
 # 乞讨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qitao.md)
+
 <p><span class="chinese">他靠乞讨过活。</span><span class="english">He lives by begging.</span></p>
 
 <p><span class="chinese">他挨门挨户乞讨。</span><span class="english">He begged from door to door.</span></p>

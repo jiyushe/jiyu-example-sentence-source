@@ -1,5 +1,7 @@
 # conglutination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conglutination.md)
+
 <p><span class="chinese">术者经验、局部粘连严重和胆道变异是胆道损伤的主要原因。</span><span class="english">Inexperience of operators, sever local conglutination and bile duct aberrance are the chief causes of injuries.</span></p>
 
 <p><span class="chinese">高粘度酚醛树脂合成反应过程中，为了保证其均匀性，需高速立式搅拌。</span><span class="english">High speed mainshaft of vertical agitator is needed in the process of high conglutination phenol resins synthesis to keep evenness.</span></p>

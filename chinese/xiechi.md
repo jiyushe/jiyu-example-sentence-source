@@ -1,5 +1,7 @@
 # 胁持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiechi.md)
+
 <p><span class="chinese">国际货币基金组织和世界银行胁持整个国家。</span><span class="english">The IMF & World Bank take hostage entire nations.</span></p>
 
 <p><span class="chinese">他们持手枪威胁店员，并快速胁持一名女性人质。</span><span class="english">They threatened staff with handguns, and briefly took a woman hostage.</span></p>

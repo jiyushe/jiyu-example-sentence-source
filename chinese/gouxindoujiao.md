@@ -1,5 +1,7 @@
 # 勾心斗角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouxindoujiao.md)
+
 <p><span class="chinese">傲慢的贵族彼此勾心斗角。</span><span class="english">Proud nobles quarelled or plotted against each other.</span></p>
 
 <p><span class="chinese">勾心斗角在每个单位都司空见惯。</span><span class="english">Intrigue against each other is quotidian in every company.</span></p>

@@ -1,5 +1,7 @@
 # logic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logic.md)
+
 <p><span class="chinese">幻相的逻辑。</span><span class="english">Logic of Illusion.</span></p>
 
 <p><span class="chinese">这是他们的逻辑。</span><span class="english">That's their logic.</span></p>

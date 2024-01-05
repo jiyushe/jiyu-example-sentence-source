@@ -1,5 +1,7 @@
 # shinny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shinny.md)
+
 <p><span class="chinese">是一饔银光闪闪的白银啊！</span><span class="english">This is a pile of shinny silver!</span></p>
 
 <p><span class="chinese">很阳光的微笑，很高兴认识你！</span><span class="english">How a shinny smile ! Glad to know you!</span></p>

@@ -1,5 +1,7 @@
 # nj
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nj.md)
+
 <p><span class="chinese">给了网队一个机会，而他们也不客气的“笑纳”了。</span><span class="english">Gave NJ a chance and they took it.</span></p>
 
 <p><span class="chinese">我建议您参加南京一日游。</span><span class="english">I'd suggest you take the one-day tour of NJ.</span></p>

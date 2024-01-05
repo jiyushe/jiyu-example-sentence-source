@@ -1,5 +1,7 @@
 # overlong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overlong.md)
+
 <p><span class="chinese">工作时间过长。</span><span class="english">The working hours is overlong.</span></p>
 
 <p><span class="chinese">做你认为你必须做的吧，但别太久。</span><span class="english">Do what you feel you must, but do not tarry overlong.</span></p>

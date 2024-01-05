@@ -1,5 +1,7 @@
 # 小娃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaowa.md)
+
 <p><span class="chinese">小娃帮着爸爸看青蛙。</span><span class="english">Tops dude helping dad with his frogs.</span></p>
 
 <p><span class="chinese">小娃娃在亮光下眯起了眼睛。</span><span class="english">The baby squinted its eyes at the bright lights.</span></p>

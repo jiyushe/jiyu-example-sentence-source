@@ -1,5 +1,7 @@
 # suspense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suspense.md)
+
 <p><span class="chinese">这个悬念真让人激动！</span><span class="english">The suspense is so exciting!</span></p>
 
 <p><span class="chinese">读那本书时本人的心不断在悬着。</span><span class="english">That book kept me in suspense.</span></p>

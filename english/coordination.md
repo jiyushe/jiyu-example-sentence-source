@@ -1,5 +1,7 @@
 # coordination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coordination.md)
+
 <p><span class="chinese">我的手眼协调能力是零。</span><span class="english">My hand-eye coordination is zero.</span></p>
 
 <p><span class="chinese">妳的手脚协调度不太好耶…</span><span class="english">Your coordination is not so good, Li.</span></p>

@@ -1,5 +1,7 @@
 # salford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salford.md)
+
 <p><span class="chinese">我会留在索尔福德大学，因为</span><span class="english">I'll stay in Salford again because,</span></p>
 
 <p><span class="chinese">博士索尔福德是相当直率的他的工作。</span><span class="english">Salford is quite outspoken about his work.</span></p>

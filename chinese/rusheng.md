@@ -1,5 +1,7 @@
 # 儒生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rusheng.md)
+
 <p><span class="chinese">十年寒窗的儒生，也不一定是孤独的。</span><span class="english">Hanchuang decades of scholars, not necessarily be lonely.</span></p>
 
 <p><span class="chinese">该剧描写的是一位离开太太寻求性刺激而纵欲无度的儒生。</span><span class="english">The story focuses on a lustful young scholar who leaves his wife in search of sexual fulfillment.</span></p>

@@ -1,5 +1,7 @@
 # 差强人意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaqiangrenyi.md)
+
 <p><span class="chinese">你是个差强人意的吉他手吗？</span><span class="english">Are you a passable guitar player?</span></p>
 
 <p><span class="chinese">事实上，GPEI没有做也并非差强人意。</span><span class="english">In truth, the GPEI has not done badly.</span></p>

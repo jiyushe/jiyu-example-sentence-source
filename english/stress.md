@@ -1,5 +1,7 @@
 # stress 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stress.md)
+
 <p><span class="chinese">什么压力？</span><span class="english">What stress?</span></p>
 
 <p><span class="chinese">是的，压力。</span><span class="english">Ah yes, stress.</span></p>

@@ -1,5 +1,7 @@
 # plastid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plastid.md)
+
 <p><span class="chinese">顶质体是顶复门原虫所特有的一种类似植物质体的细胞器。</span><span class="english">Apicoplast is a unique organelle similar to plant plastid organelles.</span></p>
 
 <p><span class="chinese">种子常三棱状，常内卷在具海绵状纤维质体内。</span><span class="english">Seed Chang Sanleng shape, constant involute be in a fungous fiber plastid inside.</span></p>

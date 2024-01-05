@@ -1,5 +1,7 @@
 # 杂牌军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zapaijun.md)
+
 <p><span class="chinese">相反，杂牌军旧习气较重，保守色彩较浓。</span><span class="english">On the contrary, the regiments , close to the old China, had many elements of conservatism.</span></p>
 
 <p><span class="chinese">像绿脓杆菌这样的微生物曾经被认为是一支杂牌军，各自为战，互不联系。</span><span class="english">Microbes like P. aeruginosa were once thought of as disorganised renegades, each cell working alone.</span></p>

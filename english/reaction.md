@@ -1,5 +1,7 @@
 # reaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reaction.md)
+
 <p><span class="chinese">共析反应。</span><span class="english">Eutectoid reaction.</span></p>
 
 <p><span class="chinese">延迟你的反应。</span><span class="english">Delay your reaction.</span></p>

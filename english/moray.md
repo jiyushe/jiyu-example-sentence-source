@@ -1,5 +1,7 @@
 # moray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moray.md)
+
 <p><span class="chinese">但马里根本不听。</span><span class="english">But Moray didn’t listen.</span></p>
 
 <p><span class="chinese">可马里伯爵留了下来。</span><span class="english">But the Earl of Moray stayed.</span></p>

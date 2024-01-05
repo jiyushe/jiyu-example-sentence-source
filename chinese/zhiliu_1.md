@@ -1,5 +1,7 @@
 # 滞留
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiliu_1.md)
+
 <p><span class="chinese">机场没有滞留。</span><span class="english">No holdups at the airport.</span></p>
 
 <p><span class="chinese">还有很多持旅游签证，逾期滞留。</span><span class="english">Many others overstay their tourist visas.</span></p>

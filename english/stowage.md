@@ -1,5 +1,7 @@
 # stowage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stowage.md)
+
 <p><span class="chinese">认真检查安全积载。</span><span class="english">Check careful and safe stowage.</span></p>
 
 <p><span class="chinese">同意装卸方的积载图。</span><span class="english">Agree stowage plan with stevedores.</span></p>

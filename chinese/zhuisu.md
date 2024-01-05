@@ -1,5 +1,7 @@
 # 追溯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuisu.md)
+
 <p><span class="chinese">但是这项法规并无追溯效力。</span><span class="english">This is not retroactive.</span></p>
 
 <p><span class="chinese">他进一步往前追溯。</span><span class="english">He looks back even further.</span></p>

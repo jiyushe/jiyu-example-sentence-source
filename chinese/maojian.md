@@ -1,5 +1,7 @@
 # 冒尖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maojian.md)
+
 <p><span class="chinese">有人告诉我，刚到新公司不要太冒尖了。</span><span class="english">Someone suggested I keep a low profile after coming to a new company.</span></p>
 
 <p><span class="chinese">在博客圈冒尖的一个办法就是“在你成为伟大之前先显得伟大”。</span><span class="english">One of the ways you can make it in the blogosphere is by appearing bigger than you are until you actually get there.</span></p>

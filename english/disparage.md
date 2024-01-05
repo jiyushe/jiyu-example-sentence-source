@@ -1,5 +1,7 @@
 # disparage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disparage.md)
+
 <p><span class="chinese">我这么说并非和孩子们过不去。</span><span class="english">I'm not saying this to disparage kids.</span></p>
 
 <p><span class="chinese">你不应该轻视好的风度。</span><span class="english">You should not disparage good manners.</span></p>

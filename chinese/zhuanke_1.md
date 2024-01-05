@@ -1,5 +1,7 @@
 # 篆刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanke_1.md)
+
 <p><span class="chinese">我们有剪纸，刺绣，捏泥人和篆刻。</span><span class="english">We've got paper-cutting, embroidery, clay dolls and seal carving.</span></p>
 
 <p><span class="chinese">这里要提及刘阳先生的篆刻艺术。</span><span class="english">What should be mentioned here is Mr. Liu Yang's seal cutting art.</span></p>

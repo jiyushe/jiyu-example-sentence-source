@@ -1,5 +1,7 @@
 # lrv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lrv.md)
+
 <p><span class="chinese">本班车以兆康为终点站，所有乘客请于该站离开本班列车，多谢合作。</span><span class="english">This LRV will stop service at Siu Hong, all passenger please alight at that stop.</span></p>
 
 <p><span class="chinese">存在漏斗状左肾静脉时经常出现粗大侧支。</span><span class="english">Enlargement of collateral veins were often noticed when funnel-like LRV existed in normal person.</span></p>

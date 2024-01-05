@@ -1,5 +1,7 @@
 # 山谷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangu.md)
+
 <p><span class="chinese">你的山谷是什么颜色？</span><span class="english">How grue is your valley?</span></p>
 
 <p><span class="chinese">埋在下一个山谷的阴影中。</span><span class="english">In the next valley-glades.</span></p>

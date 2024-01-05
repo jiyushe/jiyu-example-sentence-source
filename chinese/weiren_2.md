@@ -1,5 +1,7 @@
 # 委任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiren_2.md)
+
 <p><span class="chinese">杰克被委任为联合主席。</span><span class="english">Jack was designated cochairman.</span></p>
 
 <p><span class="chinese">他们委任他为邮政局长。</span><span class="english">They appointed him as postmaster.</span></p>

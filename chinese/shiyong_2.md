@@ -1,5 +1,7 @@
 # 施用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyong_2.md)
+
 <p><span class="chinese">他只得施用这部公用电话。</span><span class="english">He had to use this public telephone.</span></p>
 
 <p><span class="chinese">动作包含施用逻辑。</span><span class="english">Actions contain the applicative logic.</span></p>

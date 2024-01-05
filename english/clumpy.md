@@ -1,5 +1,7 @@
 # clumpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clumpy.md)
+
 <p><span class="chinese">层理类型主要为块状层理、板状交错层理。</span><span class="english">Clumpy bedding and tabular cross-bedding are the main types.</span></p>
 
 <p><span class="chinese">尾巴短，或末端僵硬都属于严重缺陷。</span><span class="english">Tails too short, or with clumpy ends due to ankylosis, are serious faults.</span></p>

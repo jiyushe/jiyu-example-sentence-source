@@ -1,5 +1,7 @@
 # froth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/froth.md)
+
 <p><span class="chinese">甜菜泡沫?</span><span class="english">Beetroot froth?</span></p>
 
 <p><span class="chinese">巨浪使沙滩覆盖了泡沫。</span><span class="english">Giant waves froth the sand.</span></p>

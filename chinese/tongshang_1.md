@@ -1,5 +1,7 @@
 # 通商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshang_1.md)
+
 <p><span class="chinese">哪个条约将上海开放成了通商口岸？</span><span class="english">Which treaty opened Shanghai to foreign trade?</span></p>
 
 <p><span class="chinese">烟台，中国第一批对外开埠通商的城市之一。</span><span class="english">Yantai is one of China's earliest open port cities.</span></p>

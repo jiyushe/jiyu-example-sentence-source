@@ -1,5 +1,7 @@
 # picking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/picking.md)
+
 <p><span class="chinese">谁正在摘花？</span><span class="english">Who's picking flowers?</span></p>
 
 <p><span class="chinese">指数回升。</span><span class="english">The index is picking up.</span></p>

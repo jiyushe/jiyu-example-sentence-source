@@ -1,5 +1,7 @@
 # impostor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impostor.md)
+
 <p><span class="chinese">那个人结果却是一名冒充者。</span><span class="english">The man turned out to be an impostor.</span></p>
 
 <p><span class="chinese">那个伪装者用一本假护照旅行。</span><span class="english">The impostor traveled on a false passport.</span></p>

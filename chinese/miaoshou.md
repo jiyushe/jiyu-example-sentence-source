@@ -1,5 +1,7 @@
 # 妙手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaoshou.md)
+
 <p><span class="chinese">你是妙手吗？</span><span class="english">Are you an expert ?</span></p>
 
 <p><span class="chinese">妙手随意摄奇迹。</span><span class="english">Painters to random perturbation miracle.</span></p>

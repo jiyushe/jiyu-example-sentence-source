@@ -1,5 +1,7 @@
 # strum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strum.md)
+
 <p><span class="chinese">现在你喜欢的任何方法拨动弦，并录下它。</span><span class="english">Now strum the chord any way you like, and record it.</span></p>
 
 <p><span class="chinese">在吉他上，你随便拨个和弦，你就得到那个和弦了。</span><span class="english">In guitar you can strum a chord and you've got the sound.</span></p>

@@ -1,5 +1,7 @@
 # 弃权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiquan.md)
+
 <p><span class="chinese">我弃权不投票。</span><span class="english">I _ from voting.</span></p>
 
 <p><span class="chinese">我签了弃权书。</span><span class="english">I signed the waiver.</span></p>

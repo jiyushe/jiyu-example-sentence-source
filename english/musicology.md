@@ -1,5 +1,7 @@
 # musicology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musicology.md)
+
 <p><span class="chinese">音乐史学是音乐学的一个分支学科。</span><span class="english">The music historiography is a branch of musicology.</span></p>
 
 <p><span class="chinese">校定学在音乐学中也扮演着一个重要角色。</span><span class="english">Stemmatology also plays an important role in musicology.</span></p>

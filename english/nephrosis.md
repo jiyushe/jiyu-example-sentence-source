@@ -1,5 +1,7 @@
 # nephrosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephrosis.md)
+
 <p><span class="chinese">肾病和尿毒症各有什么症状？</span><span class="english">What symptom do nephrosis and uremia have each?</span></p>
 
 <p><span class="chinese">有肾病综合症的正月初七常平凡口腹应该注重那一些？</span><span class="english">How long does the hormone drug of nephrosis syndrome need to take?</span></p>

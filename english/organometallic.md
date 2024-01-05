@@ -1,5 +1,7 @@
 # organometallic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organometallic.md)
+
 <p><span class="chinese">金属有机化合物是不对称合成中常用的有机试剂。</span><span class="english">The organometallic compounds are organic reagents in common use for the asymmetric synthesis.</span></p>
 
 <p><span class="chinese">咔唑生物碱的研究进展，生物活性，有机金属合成汇集。</span><span class="english">Occurrence, Biological Activity, and Convergent Organometallic Synthesis of Carbazole Alkaloids.</span></p>

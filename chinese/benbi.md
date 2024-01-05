@@ -1,5 +1,7 @@
 # 本币
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benbi.md)
+
 <p><span class="chinese">因为人出去的少了本币又升值了，所以现实对外国俱乐部来说就是临时工太贵了。</span><span class="english">The strong real makes these journeymen more expensive for foreign clubs.</span></p>
 
 <p><span class="chinese">此外，只有2％的新兴市场本币债务以现有指数为基准。</span><span class="english">Only 2 percent of emerging market local currency debt is benchmarked against existing indices.</span></p>

@@ -1,5 +1,7 @@
 # throughout 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throughout.md)
+
 <p><span class="chinese">他搜遍了整个屋子。</span><span class="english">He searched throughout the room.</span></p>
 
 <p><span class="chinese">物价始终保持稳定。</span><span class="english">Prices remain stable throughout.</span></p>

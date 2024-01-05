@@ -1,5 +1,7 @@
 # gizmo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gizmo.md)
+
 <p><span class="chinese">这可是我自己想出来的娱乐设备。</span><span class="english">This is the entertainment gizmo that I want to own.</span></p>
 
 <p><span class="chinese">某天西斯可接到老友DJ吉默打来的电话。</span><span class="english">One day Sisco got a call from his old friend DJ Gizmo.</span></p>

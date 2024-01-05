@@ -1,5 +1,7 @@
 # bohai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bohai.md)
+
 <p><span class="chinese">海兴位于渤海湾沿岸。</span><span class="english">Haixing lies on the coast of the Bohai Sea.</span></p>
 
 <p><span class="chinese">塘沽是渤海湾上的一颗璀璨的明珠。</span><span class="english">Tanggu is a shining pearl over the Bohai Bay.</span></p>

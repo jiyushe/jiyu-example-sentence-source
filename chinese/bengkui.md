@@ -1,5 +1,7 @@
 # 崩溃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bengkui.md)
+
 <p><span class="chinese">所以它崩溃了。</span><span class="english">So it crashed.</span></p>
 
 <p><span class="chinese">黑莓崩溃？</span><span class="english">BlackBerry crumble?</span></p>

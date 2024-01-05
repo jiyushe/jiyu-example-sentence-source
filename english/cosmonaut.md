@@ -1,5 +1,7 @@
 # cosmonaut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmonaut.md)
+
 <p><span class="chinese">萨维茨卡娅同志生来简直就是要成为宇航员。</span><span class="english">Comrade Savitskaya was, simply, born to be a cosmonaut.</span></p>
 
 <p><span class="chinese">这是一个舱口，宇航员会从这里出来，搞个啥月球漫步的。</span><span class="english">It is the very hatch from where a cosmonaut came out to the Moon.</span></p>

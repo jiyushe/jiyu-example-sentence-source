@@ -1,5 +1,7 @@
 # periphery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periphery.md)
+
 <p><span class="chinese">对得住周围的一切？</span><span class="english">Periphery to lives all?</span></p>
 
 <p><span class="chinese">另一方面，美国在中国周边都画上了警戒线。</span><span class="english">On the other hand, the US cordons China's periphery.</span></p>

@@ -1,5 +1,7 @@
 # lockout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lockout.md)
+
 <p><span class="chinese">超出范围的温度锁定。</span><span class="english">Out-of-range temperature lockout.</span></p>
 
 <p><span class="chinese">那次停摆，赛季被缩减到50场比赛。</span><span class="english">That lockout shortened to the season to 50 games.</span></p>

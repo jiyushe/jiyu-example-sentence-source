@@ -1,5 +1,7 @@
 # 漫漫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manman_1.md)
+
 <p><span class="chinese">美国，我们已经走过漫漫长路。</span><span class="english">America, we have come so far.</span></p>
 
 <p><span class="chinese">那些醉醺醺的漫漫长夜！</span><span class="english">Long boozy nights around the fire!</span></p>

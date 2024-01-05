@@ -1,5 +1,7 @@
 # 禁闭室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinbishi.md)
+
 <p><span class="chinese">把她带下我的舰桥，扔到禁闭室去。</span><span class="english">Get her off my bridge, and throw her in the brig.</span></p>
 
 <p><span class="chinese">Pope召唤警卫过来关上了禁闭室的门。</span><span class="english">Pope calls for a guard, who shuts the Ad Seg door.</span></p>

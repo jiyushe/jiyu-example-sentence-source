@@ -1,5 +1,7 @@
 # recruiter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recruiter.md)
+
 <p><span class="chinese">通过招聘人员的那一关。</span><span class="english">Getting past the  recruiter.</span></p>
 
 <p><span class="chinese">让招聘员工了解你已经做过调查研究。</span><span class="english">Show the recruiter that you've done your research.</span></p>

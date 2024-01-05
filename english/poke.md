@@ -1,5 +1,7 @@
 # poke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poke.md)
+
 <p><span class="chinese">猪装在口袋里卖。</span><span class="english">Sell a pig in a poke.</span></p>
 
 <p><span class="chinese">小心不要戳到车车喔！</span><span class="english">But don't poke at the car!</span></p>

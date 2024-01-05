@@ -1,5 +1,7 @@
 # conference 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conference.md)
+
 <p><span class="chinese">他今天有一个会议。</span><span class="english">He's at a conference.</span></p>
 
 <p><span class="chinese">秦在一个新闻发布会上表示。</span><span class="english">Qin told a news conference that.</span></p>

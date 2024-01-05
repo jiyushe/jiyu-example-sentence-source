@@ -1,5 +1,7 @@
 # 水害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuihai.md)
+
 <p><span class="chinese">水害是煤矿的五大自然灾害之一。</span><span class="english">Water harm is one of the five natural calamities in mines.</span></p>
 
 <p><span class="chinese">桃园煤矿是一个受多种地下水害威胁的矿井。</span><span class="english">Taoyuan Coal Mine is the threatened mine by manifold groundwater.</span></p>

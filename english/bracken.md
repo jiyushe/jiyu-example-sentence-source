@@ -1,5 +1,7 @@
 # bracken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bracken.md)
+
 <p><span class="chinese">派翠克躲在围绕著羊齿植物的一个凹地里。</span><span class="english">Patrick hid in a hollow surrounded by bracken.</span></p>
 
 <p><span class="chinese">欧洲蕨在晴朗的秋天正变为暗金色。</span><span class="english">The bracken was turning to the dusky gold of a fine autumn.</span></p>

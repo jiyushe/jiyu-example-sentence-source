@@ -1,5 +1,7 @@
 # delectable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delectable.md)
+
 <p><span class="chinese">而口感宜人的无酒精鸡尾酒也荟萃于此。</span><span class="english">There is also a selection of delectable non-alcoholic cocktails.</span></p>
 
 <p><span class="chinese">我们可以吃到许多令人爽口的海鲜做成的菜，比如说龙虾和扇贝。</span><span class="english">We can get a lot of delectable seafood dishes, such as lob-ster and scallop.</span></p>

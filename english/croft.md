@@ -1,5 +1,7 @@
 # croft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croft.md)
+
 <p><span class="chinese">恐怕不能，克罗夫特先生。</span><span class="english">I´m afraid that he can´t, Mr. Croft.</span></p>
 
 <p><span class="chinese">你的朋友和家人是怎样看待你这位劳拉·克劳馥的?。</span><span class="english">What do your friends and family think of you as Lara Croft ?</span></p>

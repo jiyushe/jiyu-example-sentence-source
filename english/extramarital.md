@@ -1,5 +1,7 @@
 # extramarital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extramarital.md)
+
 <p><span class="chinese">他有婚外恋。</span><span class="english">He has an extramarital affair.</span></p>
 
 <p><span class="chinese">我认为一切婚外恋都是贪欲的产物。</span><span class="english">I think all extramarital love is the outcome of greed.</span></p>

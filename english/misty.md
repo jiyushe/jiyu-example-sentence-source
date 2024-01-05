@@ -1,5 +1,7 @@
 # misty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misty.md)
+
 <p><span class="chinese">你说什么了么？小霞？</span><span class="english">Did you say something, Misty?</span></p>
 
 <p><span class="chinese">这是个多雾的季节。</span><span class="english">E. g. This is a misty season.</span></p>

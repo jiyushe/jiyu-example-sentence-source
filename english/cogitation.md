@@ -1,5 +1,7 @@
 # cogitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cogitation.md)
+
 <p><span class="chinese">我经过再三考虑决定辞职。</span><span class="english">After much cogitation , I decide to resign.</span></p>
 
 <p><span class="chinese">做了仔细思考之后，他还是拒绝了邀请。</span><span class="english">After much cogitation he rejected the offer.</span></p>

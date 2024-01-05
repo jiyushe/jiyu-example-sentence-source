@@ -1,5 +1,7 @@
 # catchword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catchword.md)
+
 <p><span class="chinese">他突然想到这句流行语。</span><span class="english">He suddenly remembers the catchword.</span></p>
 
 <p><span class="chinese">一如既往，“稳定”是描述中国的流行语。</span><span class="english">As always, “stability” is the catchword for China.</span></p>

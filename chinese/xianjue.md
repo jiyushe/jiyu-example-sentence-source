@@ -1,5 +1,7 @@
 # 先决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjue.md)
+
 <p><span class="chinese">莫里斯关于先决问题的理论是值得商榷的。</span><span class="english">But his theory of preliminary question is open to question.</span></p>
 
 <p><span class="chinese">但另一方面，先决问题是，你进得了中国吗？</span><span class="english">On the other hand, can you even get into China in the first place?</span></p>

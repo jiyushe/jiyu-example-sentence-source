@@ -1,5 +1,7 @@
 # 去年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qunian.md)
+
 <p><span class="chinese">或者那已是去年的事了？</span><span class="english">Or was it a year ago?</span></p>
 
 <p><span class="chinese">这些都是我去年画的。</span><span class="english">I painted them last year.</span></p>

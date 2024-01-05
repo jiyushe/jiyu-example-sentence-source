@@ -1,5 +1,7 @@
 # probationary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/probationary.md)
+
 <p><span class="chinese">我想问一下试用期我的工资是多少。</span><span class="english">I want to know the wage in my probationary period.</span></p>
 
 <p><span class="chinese">很多公司实行90天的试用期，如果员工在试用期表现满意的话，可以从试用期名单中脱颖而出，成为正式员工。</span><span class="english">Many companies use aninety-day probationary period.</span></p>

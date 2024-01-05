@@ -1,5 +1,7 @@
 # carte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carte.md)
+
 <p><span class="chinese">你要吃客饭或者要点菜？</span><span class="english">Would you like the dinner or a la carte?</span></p>
 
 <p><span class="chinese">如果我有自由处理权，我不会滥用。</span><span class="english">I'll not abuse it if I am given carte blanche.</span></p>

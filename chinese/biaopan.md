@@ -1,5 +1,7 @@
 # 表盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaopan.md)
+
 <p><span class="chinese">蛋白银色表盘非常纯净和经典。</span><span class="english">The opaline silver dial is very pure and classic.</span></p>
 
 <p><span class="chinese">表盘的中央是一块烟灰色的玻璃。</span><span class="english">At the center of the dial is a piece of smoky glass.</span></p>

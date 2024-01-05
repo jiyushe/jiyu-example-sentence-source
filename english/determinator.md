@@ -1,5 +1,7 @@
 # determinator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/determinator.md)
+
 <p><span class="chinese">还着重讨论了红外碳硫分析仪设计中的一些可靠性技术。</span><span class="english">Specially it discussed some reliability technologies in the design of InfraredCarbon-Sulfur Determinator.</span></p>
 
 <p><span class="chinese">使用GX型—高温物性测试仪测定焊条药皮的熔点。</span><span class="english">With the aid of GX High-Temperature Physical Function Determinator the melting temperature of coating was measured.</span></p>

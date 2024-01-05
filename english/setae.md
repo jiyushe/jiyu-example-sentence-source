@@ -1,5 +1,7 @@
 # setae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/setae.md)
+
 <p><span class="chinese">腹部背面及腹面的刚毛均比模式种的长而多。</span><span class="english">The setae on abdomen, both dorsal and ventral are longer and more in number.</span></p>
 
 <p><span class="chinese">虽然壁虎每根刚毛产生的力量微不足道，但累积起来就很可观。</span><span class="english">Although the gecko setae of each power generated negligible, but accumulated very substantial.</span></p>

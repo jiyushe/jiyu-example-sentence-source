@@ -1,5 +1,7 @@
 # 边贸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianmao.md)
+
 <p><span class="chinese">第四部分论述边防建设对桂越边贸的影响。</span><span class="english">Part four discusses the construction of border on the impact of border trade between Guangxi and Vietnam.</span></p>
 
 <p><span class="chinese">第四章重点阐述新疆边境贸易发展面临的四个问题，并进行边贸政策层面的原因分析。</span><span class="english">Chapter IV focuses on the Xinjiang border trade four issues faced and the reasons for border trade at the policy level.</span></p>

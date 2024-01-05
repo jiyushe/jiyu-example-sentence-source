@@ -1,5 +1,7 @@
 # strategics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strategics.md)
+
 <p><span class="chinese">我的第一个公司拥有过两个战略投资者。</span><span class="english">I had two strategics in my first company.</span></p>
 
 <p><span class="chinese">如果你有知道其他伟大的战略投资者，请列出清单来。</span><span class="english">And if you know any great strategics please list them.</span></p>

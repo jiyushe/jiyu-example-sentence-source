@@ -1,5 +1,7 @@
 # 吃豆腐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chidoufu.md)
+
 <p><span class="chinese">他喜欢吃豆腐。</span><span class="english">He likes to eat tofu.</span></p>
 
 <p><span class="chinese">我们吃豆腐和牛肉。</span><span class="english">We have tofu and beef.</span></p>

@@ -1,5 +1,7 @@
 # 动静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongjing_2.md)
+
 <p><span class="chinese">小桃，有动静吗？</span><span class="english">Peach, any movement?</span></p>
 
 <p><span class="chinese">个月没动静。</span><span class="english">No movement in a month.</span></p>

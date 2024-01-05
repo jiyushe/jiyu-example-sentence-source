@@ -1,5 +1,7 @@
 # bristling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bristling.md)
+
 <p><span class="chinese">那动物有著一只须毛丛生的长鼻子。</span><span class="english">The creature had a long nose bristling with whiskers.</span></p>
 
 <p><span class="chinese">我赶忙从花丛里折下了一枝满是鲜艳粉嫩的杜鹃。</span><span class="english">I snapped a small limb bristling with hot pink azaleas off the bush.</span></p>

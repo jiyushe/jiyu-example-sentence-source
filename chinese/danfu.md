@@ -1,5 +1,7 @@
 # 单幅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danfu.md)
+
 <p><span class="chinese">这布是单幅还是双双幅的？</span><span class="english">Is this cloth single or double width?</span></p>
 
 <p><span class="chinese">这块料子是单幅的还是双幅的?。</span><span class="english">Is the material single width or double width?</span></p>

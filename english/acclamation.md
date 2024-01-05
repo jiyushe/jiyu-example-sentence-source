@@ -1,5 +1,7 @@
 # acclamation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acclamation.md)
+
 <p><span class="chinese">他在拥立声中被选为主席。</span><span class="english">He was elected chairman by acclamation.</span></p>
 
 <p><span class="chinese">在实践中已经以鼓掌方式选举。</span><span class="english">In practice elections have been by acclamation.</span></p>

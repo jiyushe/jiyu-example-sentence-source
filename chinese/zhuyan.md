@@ -1,5 +1,7 @@
 # 主演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyan.md)
+
 <p><span class="chinese">凯文·培根联合主演。</span><span class="english">Kevin Bacon co-stars.</span></p>
 
 <p><span class="chinese">该片由凯瑟琳·泽塔·琼斯主演。</span><span class="english">It stars Catherine Zeta-Jones.</span></p>

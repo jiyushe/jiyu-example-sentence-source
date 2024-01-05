@@ -1,5 +1,7 @@
 # brittany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brittany.md)
+
 <p><span class="chinese">布里特妮还能打开这些礼物吗？</span><span class="english">Would Brittany ever get to open them?</span></p>
 
 <p><span class="chinese">我仍记得布里塔尼来我们学校的那天。</span><span class="english">I remember the day Brittany came to our school.</span></p>

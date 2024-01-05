@@ -1,5 +1,7 @@
 # vermilion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vermilion.md)
+
 <p><span class="chinese">上面的家具色彩鲜红，富有光泽。</span><span class="english">The furniture on it is glossy vermilion.</span></p>
 
 <p><span class="chinese">赤色鸥有朱红色的细嘴和双腿。</span><span class="english">The yurikamome gull has a vermilion bill and legs.</span></p>

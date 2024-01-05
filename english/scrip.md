@@ -1,5 +1,7 @@
 # scrip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrip.md)
+
 <p><span class="chinese">价格是按游戏通货计算的。</span><span class="english">The price is set in scrip.</span></p>
 
 <p><span class="chinese">我们的老师马克，给了我们一个纸条。</span><span class="english">And our teacher Mark, He give me a scrip.</span></p>

@@ -1,5 +1,7 @@
 # 迷人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miren.md)
+
 <p><span class="chinese">多迷人的日出！</span><span class="english">And what sunrises!</span></p>
 
 <p><span class="chinese">蔼—一个迷人的女子。</span><span class="english">Ah--a charming woman.</span></p>

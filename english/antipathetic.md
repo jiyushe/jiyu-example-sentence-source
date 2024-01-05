@@ -1,5 +1,7 @@
 # antipathetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antipathetic.md)
+
 <p><span class="chinese">他天生就封新观念起反感。</span><span class="english">He is antipathetic to new ideas.</span></p>
 
 <p><span class="chinese">她非常讨厌现代的教育方式。</span><span class="english">She was antipathetic to modern ways of education.</span></p>

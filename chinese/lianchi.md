@@ -1,5 +1,7 @@
 # 廉耻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianchi.md)
+
 <p><span class="chinese">他可以去死了。不知廉耻的家伙。</span><span class="english">He can go die. This impudent guy.</span></p>
 
 <p><span class="chinese">没有廉耻的人，没有天良。</span><span class="english">He who has no shfeele has no conscience.</span></p>

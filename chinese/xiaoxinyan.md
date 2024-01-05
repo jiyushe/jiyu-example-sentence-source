@@ -1,5 +1,7 @@
 # 小心眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxinyan.md)
+
 <p><span class="chinese">你真是小心眼儿！</span><span class="english">You're being Petty!</span></p>
 
 <p><span class="chinese">他懂她的小心眼。</span><span class="english">He know she is petty.</span></p>

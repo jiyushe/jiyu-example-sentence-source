@@ -1,5 +1,7 @@
 # infringe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infringe.md)
+
 <p><span class="chinese">他们违犯了非歧视原则。</span><span class="english">They infringe the principle of non-discrimination.</span></p>
 
 <p><span class="chinese">伪劣商品侵越了消费者的合法权益。</span><span class="english">Counterfeit goods infringe customers' legal rights.</span></p>

@@ -1,5 +1,7 @@
 # 征用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengyong.md)
+
 <p><span class="chinese">士兵们征用了民房。</span><span class="english">The soldiers commandeered the houses.</span></p>
 
 <p><span class="chinese">可以征用食品和厨房用品。</span><span class="english">May requisition food and kitchen supplies.</span></p>

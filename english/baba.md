@@ -1,5 +1,7 @@
 # baba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baba.md)
+
 <p><span class="chinese">峇峇是土生华人男子。</span><span class="english">A baba is a Peranakan man.</span></p>
 
 <p><span class="chinese">但美赫巴巴中午没来。</span><span class="english">But Meher Baba did not come at noon.</span></p>

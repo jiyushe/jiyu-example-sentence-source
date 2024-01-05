@@ -1,5 +1,7 @@
 # 清洁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjie_1.md)
+
 <p><span class="chinese">身体要常保持清洁。</span><span class="english">Keep your body clean!</span></p>
 
 <p><span class="chinese">干湿双用，清洁，安全。</span><span class="english">Wet and dry dual-use.</span></p>

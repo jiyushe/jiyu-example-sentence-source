@@ -1,5 +1,7 @@
 # cogent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cogent.md)
+
 <p><span class="chinese">华盛顿的十字军们缺乏一个令人信服的回答。</span><span class="english">Washington’s crusaders lacked a cogent answer.</span></p>
 
 <p><span class="chinese">这位律师强有力的争辩博得陪审团之信服。</span><span class="english">The lawyer's cogent arguments convince the jury.</span></p>

@@ -1,5 +1,7 @@
 # broadly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broadly.md)
+
 <p><span class="chinese">他对着我咧嘴大笑。</span><span class="english">He grinned broadly at me.</span></p>
 
 <p><span class="chinese">当林妮望着她时，她坦然一笑。</span><span class="english">She smiled broadly at Lini's stare.</span></p>

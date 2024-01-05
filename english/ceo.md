@@ -1,5 +1,7 @@
 # ceo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceo.md)
+
 <p><span class="chinese">这是在全椒还是在伦敦？</span><span class="english">What is going on, CEO???</span></p>
 
 <p><span class="chinese">现在，我是谷歌公司的首席执行官。</span><span class="english">I'm now the CEO of Google.</span></p>

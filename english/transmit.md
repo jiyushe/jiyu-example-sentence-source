@@ -1,5 +1,7 @@
 # transmit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmit.md)
+
 <p><span class="chinese">金属传电。</span><span class="english">Metals transmit electricity.</span></p>
 
 <p><span class="chinese">而轴突负责传导。</span><span class="english">The trunks, or axons, transmit it.</span></p>

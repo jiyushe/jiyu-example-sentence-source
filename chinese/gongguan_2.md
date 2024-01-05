@@ -1,5 +1,7 @@
 # 共管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongguan_2.md)
+
 <p><span class="chinese">共管柏文维修规则通常在公寓管理法规中详细列出。</span><span class="english">Policies on condo repairs are specified by condominium bylaws.</span></p>
 
 <p><span class="chinese">提出了我国自然保护区的社区共管工作的几点建议。</span><span class="english">Suggestions for community co-management of natural resents in China are given.</span></p>

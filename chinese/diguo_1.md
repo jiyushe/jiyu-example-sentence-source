@@ -1,5 +1,7 @@
 # 递过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diguo_1.md)
+
 <p><span class="chinese">某甲递过我的吉他。</span><span class="english">Somebody pass my guitar.</span></p>
 
 <p><span class="chinese">我的父亲递过那个罐子。</span><span class="english">My dad passed me the can.</span></p>

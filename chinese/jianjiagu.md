@@ -1,5 +1,7 @@
 # 肩胛骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjiagu.md)
+
 <p><span class="chinese">当你做这个动作时，不要收紧肩胛骨。</span><span class="english">Do not tense your shoulders as you do this.</span></p>
 
 <p><span class="chinese">就象肩胛骨间的一座冰山</span><span class="english">like an iceberg between the shoulder blades</span></p>

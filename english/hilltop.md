@@ -1,5 +1,7 @@
 # hilltop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hilltop.md)
+
 <p><span class="chinese">我们在山顶野营。</span><span class="english">We tented on the hilltop.</span></p>
 
 <p><span class="chinese">这个城堡座落在山顶上。</span><span class="english">The castle lies on a hilltop.</span></p>

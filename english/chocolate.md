@@ -1,5 +1,7 @@
 # chocolate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chocolate.md)
+
 <p><span class="chinese">玫瑰和巧克力？</span><span class="english">Rose and chocolate?</span></p>
 
 <p><span class="chinese">你渴望巧克力吗？</span><span class="english">Are you craving chocolate?</span></p>

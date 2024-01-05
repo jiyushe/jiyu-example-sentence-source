@@ -1,5 +1,7 @@
 # 受降
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxiang.md)
+
 <p><span class="chinese">汝若怕死，早下马受降！</span><span class="english">Ifyou fear death, dismount and surrender.</span></p>
 
 <p><span class="chinese">县大队决议承受日自己的受降，却发现被国名党抢先了一步。</span><span class="english">County brigade, own resolution inherit ShouJiang, but found by the KMT beat us to the draw.</span></p>

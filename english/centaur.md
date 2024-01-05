@@ -1,5 +1,7 @@
 # centaur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centaur.md)
+
 <p><span class="chinese">半人马座从没有被这样使用过。</span><span class="english">The Centaur has never been used in this way before.</span></p>
 
 <p><span class="chinese">却说这怪物是个预言家，就像许多优秀的人马那样。</span><span class="english">Now this Centaur was a prophet as a good many Centaurs are.</span></p>

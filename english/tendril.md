@@ -1,5 +1,7 @@
 # tendril
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tendril.md)
+
 <p><span class="chinese">静脉为蔓状丛。</span><span class="english">Vein is tendril shape clump.</span></p>
 
 <p><span class="chinese">牵牛花用卷须攀着树干。</span><span class="english">The morning glory climbs the trunk with its tendril.</span></p>

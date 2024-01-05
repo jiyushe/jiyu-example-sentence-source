@@ -1,5 +1,7 @@
 # 从教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congjiao.md)
+
 <p><span class="chinese">布莱斯已从教五年。</span><span class="english">Blythe has taught for five years.</span></p>
 
 <p><span class="chinese">布莱斯已从教五年。</span><span class="english">Ms. Blythe has taught for five years.</span></p>

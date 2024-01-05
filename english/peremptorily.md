@@ -1,5 +1,7 @@
 # peremptorily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peremptorily.md)
+
 <p><span class="chinese">他们的宣传断然地转而持反对西方的路线。</span><span class="english">Their propaganda was peremptorily switched to an anti-western line.</span></p>
 
 <p><span class="chinese">响应系统紧急响应攻击事件并进行事件处理。</span><span class="english">Response system responds attack event peremptorily and processes event.</span></p>

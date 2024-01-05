@@ -1,5 +1,7 @@
 # elegance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elegance.md)
+
 <p><span class="chinese">可见它是有优势的。</span><span class="english">There is an elegance about it.</span></p>
 
 <p><span class="chinese">乔安娜具有一种天生的高雅气质。</span><span class="english">Joanna has natural grace and elegance.</span></p>

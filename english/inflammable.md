@@ -1,5 +1,7 @@
 # inflammable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflammable.md)
+
 <p><span class="chinese">这种易燃的物品是限量携带的。</span><span class="english">This kind of inflammable things should be limited.</span></p>
 
 <p><span class="chinese">一样东西如果含有燃素，它就能燃烧。</span><span class="english">A thing was inflammable if it contained phlogiston.</span></p>

@@ -1,5 +1,7 @@
 # extracurricular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extracurricular.md)
+
 <p><span class="chinese">有什么业余活动吗？</span><span class="english">Are there any extracurricular activities?</span></p>
 
 <p><span class="chinese">很高兴听说你终止了那个课外练习。</span><span class="english">Glad to hear you've ceased your extracurricular activities.</span></p>

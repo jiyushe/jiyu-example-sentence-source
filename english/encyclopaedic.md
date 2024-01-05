@@ -1,5 +1,7 @@
 # encyclopaedic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encyclopaedic.md)
+
 <p><span class="chinese">我还不知道你竟是这样渊博。</span><span class="english">I didn't know you were so encyclopaedic.</span></p>
 
 <p><span class="chinese">但是一个文本不能自成语言学或百科全书式的系统。</span><span class="english">But a text itself is not a linguistic or an encyclopaedic system.</span></p>

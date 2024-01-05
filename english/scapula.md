@@ -1,5 +1,7 @@
 # scapula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scapula.md)
+
 <p><span class="chinese">这时她开始在我肩胛骨处上下移动这个器物。</span><span class="english">Then she started moving the thing up and down the scapula.</span></p>
 
 <p><span class="chinese">翼状肩胛在临床上实不多见，且常常被忽略。</span><span class="english">Winging scapula is uncommon clinically and easily ignored.</span></p>

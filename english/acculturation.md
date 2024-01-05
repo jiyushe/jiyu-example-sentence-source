@@ -1,5 +1,7 @@
 # acculturation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acculturation.md)
+
 <p><span class="chinese">这是关于文化适应与婚姻的一项研究。</span><span class="english">This research is about acculturation and marriage.</span></p>
 
 <p><span class="chinese">更为关键的因素还是在于是否受到了美国文化观念的影响。</span><span class="english">Rather, the key factor is acculturation to American standards.</span></p>

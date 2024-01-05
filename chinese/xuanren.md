@@ -1,5 +1,7 @@
 # 选人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanren.md)
+
 <p><span class="chinese">而侯选人要是反对这个权利的话，他又会让支持这项权利的选民恼火。</span><span class="english">If he's against it, he angers voters who support the right.</span></p>
 
 <p><span class="chinese">有人问侯选人他会投票赞减税。</span><span class="english">Someone asked the candidate whether he'd vote to cut our taxes.</span></p>

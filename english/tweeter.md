@@ -1,5 +1,7 @@
 # tweeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tweeter.md)
+
 <p><span class="chinese">他们是一个两分频的结构，有一个2.5英寸的中音单元和1英寸的丝绢膜高音。</span><span class="english">They are of a two-way configuration, with a 2.5" midrange driver and 1"tweeter.</span></p>
 
 <p><span class="chinese">的“翅膀”持有的中端和高音单元可以看到地板上。</span><span class="english">The "wings" that hold the midrange and tweeter modules can be seen on the floor.</span></p>

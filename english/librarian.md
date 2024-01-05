@@ -1,5 +1,7 @@
 # librarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/librarian.md)
+
 <p><span class="chinese">我也是一名图书馆员。</span><span class="english">I am a librarian too.</span></p>
 
 <p><span class="chinese">图书馆梨园在图书馆里工作。</span><span class="english">A librarian works in a library.</span></p>

@@ -1,5 +1,7 @@
 # ely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ely.md)
+
 <p><span class="chinese">我们从伊利艾斯走到伊戈尔山。</span><span class="english">We walked from Ely to Eagle Mountain.</span></p>
 
 <p><span class="chinese">在伊利，明尼苏达州，有一个国际狼中心是向游客开放。</span><span class="english">In Ely , Minnesota, there is an International Wolf Center that is open to visitors.</span></p>

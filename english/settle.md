@@ -1,5 +1,7 @@
 # settle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/settle.md)
+
 <p><span class="chinese">你能在这里安家落户吗？</span><span class="english">Can you settle here?</span></p>
 
 <p><span class="chinese">我决不降低要求。</span><span class="english">I settle for no less.</span></p>

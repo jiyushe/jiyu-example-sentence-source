@@ -1,5 +1,7 @@
 # 炮艇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoting.md)
+
 <p><span class="chinese">雷达探测出一炮艇。</span><span class="english">A gunboat was detected by the radar.</span></p>
 
 <p><span class="chinese">炮艇朝陆地开炮。</span><span class="english">The gunboat opened fire on the mainland.</span></p>

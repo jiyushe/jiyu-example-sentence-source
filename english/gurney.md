@@ -1,5 +1,7 @@
 # gurney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gurney.md)
+
 <p><span class="chinese">一个上了面部磨砂的女人推着轮床在我身边走过。</span><span class="english">A woman in scrubs steered a gurney around us.</span></p>
 
 <p><span class="chinese">他们将亚历克西斯所卧的有轮子的病床，推入一辆等候的绿色运动型跑车中。</span><span class="english">They roll Alexis’ gurney to the waiting green SUV.</span></p>

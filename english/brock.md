@@ -1,5 +1,7 @@
 # brock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brock.md)
+
 <p><span class="chinese">布罗克拒绝就与斯通有关的问题接受采访。</span><span class="english">Mr. Brock declined to be interviewed about Mr. Stone.</span></p>
 
 <p><span class="chinese">布罗克穿过门口时摔了一跤，观众们窃笑起来。</span><span class="english">The audience tittered as Brock fell through the door.</span></p>

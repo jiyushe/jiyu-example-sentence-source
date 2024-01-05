@@ -1,5 +1,7 @@
 # 应急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingji.md)
+
 <p><span class="chinese">他们关掉了应急注水。</span><span class="english">They turn off the EIW.</span></p>
 
 <p><span class="chinese">到应急锚地去。</span><span class="english">Go to emergency anchorage.</span></p>

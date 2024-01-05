@@ -1,5 +1,7 @@
 # 天昏地暗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianhundian.md)
+
 <p><span class="chinese">可恶，看我的天昏地暗七杀大阵！</span><span class="english">Damn, I see her seven kill big!</span></p>
 
 <p><span class="chinese">为了每天一美元吹个天昏地暗。</span><span class="english">Blowin' my lungs out for a dollar a day.</span></p>

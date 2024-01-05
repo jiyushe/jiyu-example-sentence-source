@@ -1,5 +1,7 @@
 # enclose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enclose.md)
+
 <p><span class="chinese">我们附上人民币200的支票一张。</span><span class="english">We enclose a cheque fpr RMB 200.</span></p>
 
 <p><span class="chinese">随函寄去我方价目表一份。</span><span class="english">We enclose a copy of our pricelist.</span></p>

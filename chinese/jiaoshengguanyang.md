@@ -1,5 +1,7 @@
 # 娇生惯养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoshengguanyang.md)
+
 <p><span class="chinese">我并不娇生惯养，我可以自己做好这个。</span><span class="english">I'm not a mama's boy, I can do it by myself.</span></p>
 
 <p><span class="chinese">作为家中的老小被娇生惯养，我的愿望被满足了。</span><span class="english">Being the youngest and spoilt, my with was granted.</span></p>

@@ -1,5 +1,7 @@
 # preceding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preceding.md)
+
 <p><span class="chinese">一代更比一代强。</span><span class="english">Each generation surpasses the preceding one.</span></p>
 
 <p><span class="chinese">上面所述的要点都是具有连续性的因素。</span><span class="english">All of the preceding points are ones of continuity.</span></p>

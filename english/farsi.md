@@ -1,5 +1,7 @@
 # farsi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farsi.md)
+
 <p><span class="chinese">谷歌也有了波斯文翻译工具。</span><span class="english">Google also has a new Farsi translating tool.</span></p>
 
 <p><span class="chinese">我刚来时根本不会讲波斯语。</span><span class="english">I couldn’t speak Farsi when I first came here.</span></p>

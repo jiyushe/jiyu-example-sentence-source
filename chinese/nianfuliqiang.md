@@ -1,5 +1,7 @@
 # 年富力强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianfuliqiang.md)
+
 <p><span class="chinese">我希望在我年富力强时就能做到。</span><span class="english">I want to do it in my best years.</span></p>
 
 <p><span class="chinese">我们拥有一批年富力强。</span><span class="english">We have a number of prime of life.</span></p>

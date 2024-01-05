@@ -1,5 +1,7 @@
 # 粗纺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cufang_1.md)
+
 <p><span class="chinese">他们把那些粗纺毛线绕成团。</span><span class="english">They balled off the woollen yarn.</span></p>
 
 <p><span class="chinese">我这件粗纺花呢，既结实又暖和。</span><span class="english">My woolen clothes are not only durable, but also very warm.</span></p>

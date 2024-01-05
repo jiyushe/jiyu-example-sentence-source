@@ -1,5 +1,7 @@
 # gan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gan.md)
+
 <p><span class="chinese">他的名字叫甘英。</span><span class="english">His name was Gan Ying.</span></p>
 
 <p><span class="chinese">甘翁膝下二子。</span><span class="english">Old man Gan had two sons.</span></p>

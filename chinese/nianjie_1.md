@@ -1,5 +1,7 @@
 # 粘结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianjie_1.md)
+
 <p><span class="chinese">铺在马厩里的草已粘结成层。</span><span class="english">Litter in the barn has bedded down.</span></p>
 
 <p><span class="chinese">铺在猪圈里的草已粘结成层了。</span><span class="english">Litter in the pig sty has bedded down.</span></p>

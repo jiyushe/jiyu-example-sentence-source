@@ -1,5 +1,7 @@
 # malik
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malik.md)
+
 <p><span class="chinese">席夫·马利克其他新闻媒体于华盛顿联合报道</span><span class="english">Shiv Malik and agencies in Washington</span></p>
 
 <p><span class="chinese">为徐薇姊妹的家人祷告。</span><span class="english">Pray for the family of Mrs. Xuwei Malik.</span></p>

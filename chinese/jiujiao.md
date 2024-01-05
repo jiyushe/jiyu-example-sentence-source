@@ -1,5 +1,7 @@
 # 酒窖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiujiao.md)
+
 <p><span class="chinese">神父的酒窖和食品库。</span><span class="english">Their butteris and larders.</span></p>
 
 <p><span class="chinese">该酒窖藏潜力为八年。</span><span class="english">The cellaring potential is 8 years.</span></p>

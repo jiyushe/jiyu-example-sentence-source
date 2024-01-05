@@ -1,5 +1,7 @@
 # exfoliation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exfoliation.md)
+
 <p><span class="chinese">这是我最喜欢的磨砂产品了。</span><span class="english">This is my favorite exfoliation product!</span></p>
 
 <p><span class="chinese">表皮剥脱在生前或死后均可形成。</span><span class="english">In his skin exfoliation or after death can be formed.</span></p>

@@ -1,5 +1,7 @@
 # glibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glibly.md)
+
 <p><span class="chinese">她那喋喋不休的讲话一定会使你厌烦。</span><span class="english">To speak or chatter glibly and rapidly.</span></p>
 
 <p><span class="chinese">他口口声声表白不知道这件事。</span><span class="english">He glibly professed his ignorance of the affair.</span></p>

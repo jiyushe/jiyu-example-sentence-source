@@ -1,5 +1,7 @@
 # minimalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minimalism.md)
+
 <p><span class="chinese">你不能做的太过火！</span><span class="english">You can take minimalism too far!</span></p>
 
 <p><span class="chinese">这是一篇极端简约的伟大作品。</span><span class="english">It is a great piece about extreme minimalism.</span></p>

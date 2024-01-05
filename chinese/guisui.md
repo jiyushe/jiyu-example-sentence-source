@@ -1,5 +1,7 @@
 # 鬼祟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guisui.md)
+
 <p><span class="chinese">但是工作很鬼祟。</span><span class="english">But jobs are sneaky.</span></p>
 
 <p><span class="chinese">你比鬼祟还要坏。</span><span class="english">You're worse than sneaky.</span></p>

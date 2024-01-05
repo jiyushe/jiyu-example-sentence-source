@@ -1,5 +1,7 @@
 # panda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panda.md)
+
 <p><span class="chinese">特洛伊熊猫？</span><span class="english">Trojan panda?</span></p>
 
 <p><span class="chinese">但为什么是大熊猫？</span><span class="english">But why a panda?</span></p>

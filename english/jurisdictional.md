@@ -1,5 +1,7 @@
 # jurisdictional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jurisdictional.md)
+
 <p><span class="chinese">这个法院对国内案件有裁判权。</span><span class="english">This court has jurisdictional right over domestic cases.</span></p>
 
 <p><span class="chinese">治理具有程序和企业级的管辖边界。</span><span class="english">Governance has jurisdictional boundaries with programs as well as at the enterprise level.</span></p>

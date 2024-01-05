@@ -1,5 +1,7 @@
 # antiwar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiwar.md)
+
 <p><span class="chinese">他是反战争的先锋人物。</span><span class="english">And he is an antiwar pioneer.</span></p>
 
 <p><span class="chinese">这个演讲的主要内容是反战的。</span><span class="english">The sum and substance of the speech was antiwar.</span></p>

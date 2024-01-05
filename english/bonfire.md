@@ -1,5 +1,7 @@
 # bonfire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonfire.md)
+
 <p><span class="chinese">营火继续燃烧了几个钟头</span><span class="english">The bonfire blazed away for hours.</span></p>
 
 <p><span class="chinese">我们支上帐篷，生起篝火。</span><span class="english">We set up a tent and made a bonfire.</span></p>

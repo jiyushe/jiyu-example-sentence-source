@@ -1,5 +1,7 @@
 # 正楷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengkai.md)
+
 <p><span class="chinese">请用正楷填写此表。</span><span class="english">Please type or write legibly.</span></p>
 
 <p><span class="chinese">请用正楷大写字母写你的名字。</span><span class="english">Write your name in block letters.</span></p>

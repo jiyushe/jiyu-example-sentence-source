@@ -1,5 +1,7 @@
 # 鼓楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gulou.md)
+
 <p><span class="chinese">接下来，我们去了鼓楼。</span><span class="english">Next, we arrived at Gulou.</span></p>
 
 <p><span class="chinese">让我们在鼓楼公园前下车吧！</span><span class="english">Let's get off in front of Gulou Park.</span></p>

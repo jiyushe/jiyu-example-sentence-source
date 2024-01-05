@@ -1,5 +1,7 @@
 # eclampsia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eclampsia.md)
+
 <p><span class="chinese">惊厥是妊娠期可能发生的罕见并发症。</span><span class="english">Eclampsia is a rare disease that can develop during pregnancy.</span></p>
 
 <p><span class="chinese">一些那些在子痫前期发病原理也许介入。</span><span class="english">Some of those might be involved in the pathogenesis of pre- eclampsia.</span></p>

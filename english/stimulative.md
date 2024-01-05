@@ -1,5 +1,7 @@
 # stimulative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stimulative.md)
+
 <p><span class="chinese">不排尿或其他因素的刺激不能诱发惊厥发作。</span><span class="english">His seizures could not be induced by free of micturition or other stimulative factors.</span></p>
 
 <p><span class="chinese">皮棉产量构成因素间存在制约与促进的数量关系。</span><span class="english">Restrictive and stimulative quantity relationships existed among lint yield components.</span></p>

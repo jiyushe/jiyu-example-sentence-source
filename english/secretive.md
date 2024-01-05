@@ -1,5 +1,7 @@
 # secretive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secretive.md)
+
 <p><span class="chinese">他老是神秘兮兮。</span><span class="english">He's always so secretive.</span></p>
 
 <p><span class="chinese">熊是不合群的孤僻的动物。</span><span class="english">Bears are asocial secretive animals.</span></p>

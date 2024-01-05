@@ -1,5 +1,7 @@
 # retrieve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrieve.md)
+
 <p><span class="chinese">也没有办法找回。</span><span class="english">No way to retrieve it.</span></p>
 
 <p><span class="chinese">取出销钉连接器。</span><span class="english">Retrieve the pin connector.</span></p>

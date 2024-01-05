@@ -1,5 +1,7 @@
 # cardioid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardioid.md)
+
 <p><span class="chinese">或许可以，但是我大多数情况下会使用心型指向。</span><span class="english">Maybe, but I use cardioid most of the time.</span></p>
 
 <p><span class="chinese">作旋转的心脏线和旋转的星状线，且彼此维持正交。</span><span class="english">Construct rotating cardioid and astroid while remaining orthogonal to each other.</span></p>

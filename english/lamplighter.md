@@ -1,5 +1,7 @@
 # lamplighter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamplighter.md)
+
 <p><span class="chinese">此时此地，点灯的人是我。</span><span class="english">Here, the lamplighter is my.</span></p>
 
 <p><span class="chinese">“真不走运。”点灯人说。“早上好。”</span><span class="english">"I am unlucky, " said the lamplighter. "Good morning. "</span></p>

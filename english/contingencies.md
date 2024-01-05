@@ -1,5 +1,7 @@
 # contingencies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contingencies.md)
+
 <p><span class="chinese">或有费用是自愿性的关键。</span><span class="english">Contingencies are the key to voluntariness.</span></p>
 
 <p><span class="chinese">为各种情况和意外事件多做准备。</span><span class="english">Prepare for multiple scenarios and contingencies.</span></p>

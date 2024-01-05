@@ -1,5 +1,7 @@
 # 老是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoshi.md)
+
 <p><span class="chinese">他老是忘词。</span><span class="english">He forgets it.</span></p>
 
 <p><span class="chinese">老是目的弘远！</span><span class="english">Always aim high!</span></p>

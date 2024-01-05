@@ -1,5 +1,7 @@
 # canteen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canteen.md)
+
 <p><span class="chinese">这是家食品小卖部。</span><span class="english">This is a dry canteen.</span></p>
 
 <p><span class="chinese">餐厅就在我们楼栋旁边。</span><span class="english">Canteen is just around our building.</span></p>

@@ -1,5 +1,7 @@
 # 谢谢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiexie_2.md)
+
 <p><span class="chinese">不要，谢谢。</span><span class="english">No thanks.</span></p>
 
 <p><span class="chinese">不，谢谢。</span><span class="english">No, thanks.</span></p>

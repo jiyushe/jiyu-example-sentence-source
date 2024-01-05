@@ -1,5 +1,7 @@
 # 烧饼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaobing_1.md)
+
 <p><span class="chinese">制作美味可口的烧饼。</span><span class="english">To make delicious pancakes.</span></p>
 
 <p><span class="chinese">你要请我吃烧饼啊？</span><span class="english">You want to treat me to pita bread?</span></p>

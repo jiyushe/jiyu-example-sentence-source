@@ -1,5 +1,7 @@
 # mas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mas.md)
+
 <p><span class="chinese">我比较喜欢在家吃饭。</span><span class="english">Me gusta más comer en casa.</span></p>
 
 <p><span class="chinese">再论我看着马斯卡内萨。</span><span class="english">Further on I watched Mas Carnaza.</span></p>

@@ -1,5 +1,7 @@
 # 我辈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wobei.md)
+
 <p><span class="chinese">我辈都听，爱神差遣。</span><span class="english">Cupid he rules us all.</span></p>
 
 <p><span class="chinese">我辈还需努力，共赴小康大道！</span><span class="english">Also, to still need to well-off avenue.</span></p>

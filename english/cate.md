@@ -1,5 +1,7 @@
 # cate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cate.md)
+
 <p><span class="chinese">啤酒，文化和美食？布兰切特？</span><span class="english">Beer and culture and Cate? Blanchett?</span></p>
 
 <p><span class="chinese">妈妈饭香是一家中式快餐连锁店。</span><span class="english">Mama cate is a Chinese fast food chain.</span></p>

@@ -1,5 +1,7 @@
 # 赞美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanmei.md)
+
 <p><span class="chinese">赞美是什么？</span><span class="english">What is praise?</span></p>
 
 <p><span class="chinese">经常赞美她。</span><span class="english">Compliment her often.</span></p>

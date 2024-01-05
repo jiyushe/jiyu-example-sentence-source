@@ -1,5 +1,7 @@
 # maroon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maroon.md)
+
 <p><span class="chinese">旅行杯，在美丽的栗色。</span><span class="english">a travel mug, in beautiful maroon.</span></p>
 
 <p><span class="chinese">颜色适中，樱桃红里透着一圈栗色光环。</span><span class="english">Medium-intense, cherry-red color with a maroon rim.</span></p>

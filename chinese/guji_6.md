@@ -1,5 +1,7 @@
 # 顾及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guji_6.md)
+
 <p><span class="chinese">她们没有顾及任何障碍。</span><span class="english">They allowed for no obstacles.</span></p>
 
 <p><span class="chinese">他们不大顾及危险。</span><span class="english">They recked  little of  danger.</span></p>

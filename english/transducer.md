@@ -1,5 +1,7 @@
 # transducer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transducer.md)
+
 <p><span class="chinese">请勿用硬物刮划换能器。</span><span class="english">Don't scrape the transducer with hard objects.</span></p>
 
 <p><span class="chinese">压力开关、限制开关或模拟传感器。</span><span class="english">Pressure switch, limit switch or analog transducer.</span></p>

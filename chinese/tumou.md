@@ -1,5 +1,7 @@
 # 图谋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tumou.md)
+
 <p><span class="chinese">他们图谋加害于她。</span><span class="english">They have designed upon her.</span></p>
 
 <p><span class="chinese">但英国的图谋未能得逞。</span><span class="english">However, Britain's schemes failed.</span></p>

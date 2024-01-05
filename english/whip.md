@@ -1,5 +1,7 @@
 # whip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whip.md)
+
 <p><span class="chinese">他挥鞭作响。</span><span class="english">He snapped his whip.</span></p>
 
 <p><span class="chinese">我从没有抽过她。</span><span class="english">I never did whip her.</span></p>

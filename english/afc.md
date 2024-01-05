@@ -1,5 +1,7 @@
 # afc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afc.md)
+
 <p><span class="chinese">这是本会首次提供资讯给使者。</span><span class="english">This is the first time we have provided information to AFC.</span></p>
 
 <p><span class="chinese">就足球而言，亚足联相信未来将属于亚洲。</span><span class="english">The AFC believes that the future is Asian as far as football is concerned.</span></p>

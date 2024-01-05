@@ -1,5 +1,7 @@
 # caretaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caretaker.md)
+
 <p><span class="chinese">从许多方面说来，他都是吴尔芙的呵护者。</span><span class="english">In many ways, Leonard was Woolf's caretaker.</span></p>
 
 <p><span class="chinese">守墓人简直不敢相信自己的眼睛。</span><span class="english">The caretaker could hardly believe his eyes.</span></p>

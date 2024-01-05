@@ -1,5 +1,7 @@
 # relay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relay.md)
+
 <p><span class="chinese">这场接力赛谁赢了？</span><span class="english">Who won the relay race?</span></p>
 
 <p><span class="chinese">过电流脱扣试验。</span><span class="english">Over-current relay test.</span></p>

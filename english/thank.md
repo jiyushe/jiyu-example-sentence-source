@@ -1,5 +1,7 @@
 # thank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thank.md)
+
 <p><span class="chinese">来谢谢你。</span><span class="english">To thank you.</span></p>
 
 <p><span class="chinese">我们感谢你。</span><span class="english">We thank you.</span></p>

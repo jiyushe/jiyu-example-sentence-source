@@ -1,5 +1,7 @@
 # 护城河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huchenghe.md)
+
 <p><span class="chinese">你看，两边还有两条护城河呢。</span><span class="english">Look, there are two moats over there.</span></p>
 
 <p><span class="chinese">晨星称这种优势为“宽护城河”。</span><span class="english">Morningstar calls this edge a "wide moat.</span></p>

@@ -1,5 +1,7 @@
 # 专断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanduan.md)
+
 <p><span class="chinese">我觉得这个是主观专断。</span><span class="english">I think that it is arbitrary.</span></p>
 
 <p><span class="chinese">那是一种道德看法的专断。</span><span class="english">But that's arbitrary from a moral point of view.</span></p>

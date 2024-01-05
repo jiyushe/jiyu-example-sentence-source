@@ -1,5 +1,7 @@
 # 眼角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjiao.md)
+
 <p><span class="chinese">眼泪一滴滴地从我的眼角流下。</span><span class="english">Tears trickled out of the corners of my eyes.</span></p>
 
 <p><span class="chinese">她的眼角开始起皱了。</span><span class="english">She's beginning to get wrinkles round her eyes.</span></p>

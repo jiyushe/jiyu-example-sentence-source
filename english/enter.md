@@ -1,5 +1,7 @@
 # enter 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enter.md)
+
 <p><span class="chinese">按回车键。</span><span class="english">Press enter.</span></p>
 
 <p><span class="chinese">他们叫他进去。</span><span class="english">They bade him enter.</span></p>

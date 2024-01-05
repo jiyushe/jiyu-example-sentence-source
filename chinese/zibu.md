@@ -1,5 +1,7 @@
 # 滋补
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zibu.md)
+
 <p><span class="chinese">清凉的黄瓜皮肤滋补剂</span><span class="english">Refresh with a Cucumber Skin Tonic</span></p>
 
 <p><span class="chinese">他年老的父亲需要进些滋补的东西。</span><span class="english">His old father requires nine mile nuts.</span></p>

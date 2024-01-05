@@ -1,5 +1,7 @@
 # gerald
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gerald.md)
+
 <p><span class="chinese">他是不会的，"杰拉尔德说。</span><span class="english">“Nor will he,” said Gerald.</span></p>
 
 <p><span class="chinese">杰拉尔德爵士已经被收买了。</span><span class="english">Sir Gerald had been nobbled.</span></p>

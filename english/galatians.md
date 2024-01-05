@@ -1,5 +1,7 @@
 # galatians
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galatians.md)
+
 <p><span class="chinese">等等，加拉提亚人在做什么？</span><span class="english">Wait a minute,what are the Galatians doing?</span></p>
 
 <p><span class="chinese">很不幸我们没有加以太下书，也没有别的信。</span><span class="english">We don't have second Galatians unfortunately, or any other letters.</span></p>

@@ -1,5 +1,7 @@
 # longer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longer.md)
+
 <p><span class="chinese">他不再吸烟。</span><span class="english">He no longer smokes.</span></p>
 
 <p><span class="chinese">不要再混日子！</span><span class="english">No longer laze away.</span></p>

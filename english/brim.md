@@ -1,5 +1,7 @@
 # brim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brim.md)
+
 <p><span class="chinese">这顶帽子边很宽。</span><span class="english">This hat has a broad brim.</span></p>
 
 <p><span class="chinese">玻璃杯中的液体已满到要溢出来了。</span><span class="english">The glass is full to the brim.</span></p>

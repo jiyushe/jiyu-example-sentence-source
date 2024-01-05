@@ -1,5 +1,7 @@
 # 退守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuishou_1.md)
+
 <p><span class="chinese">冈根人退守至纳布沼泽群中的一处圣地内。</span><span class="english">The Gungans retreated to a sacred place within the Naboo swamps.</span></p>
 
 <p><span class="chinese">创造论者的退守策略在法律上的前景如何？</span><span class="english">What are the legal prospects of the creationist fallback strategy?</span></p>

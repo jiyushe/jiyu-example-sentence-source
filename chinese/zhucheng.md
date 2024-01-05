@@ -1,5 +1,7 @@
 # 著称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhucheng.md)
+
 <p><span class="chinese">他以力大无穷著称。</span><span class="english">He was known for his strength.</span></p>
 
 <p><span class="chinese">大连以其旅游业著称。</span><span class="english">Dalian is famous for its tourism.</span></p>

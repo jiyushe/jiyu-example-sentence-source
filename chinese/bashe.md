@@ -1,5 +1,7 @@
 # 跋涉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bashe.md)
+
 <p><span class="chinese">他吃力地利泥泞中跋涉。</span><span class="english">He slogged through the mud.</span></p>
 
 <p><span class="chinese">临睡之前我还需要跋涉很远…</span><span class="english">and miles to go before i sleep.</span></p>

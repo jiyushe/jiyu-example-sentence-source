@@ -1,5 +1,7 @@
 # krill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/krill.md)
+
 <p><span class="chinese">磷酸虾油也给你的健康带来足够大的效益。</span><span class="english">Krill oils have also proved to have enormous health benefits.</span></p>
 
 <p><span class="chinese">然而，磷虾油所含的奥美加-3脂肪酸都是附在磷脂的结构当中。</span><span class="english">The omega-3 fatty acids in krill oil are bound to phospholipids.</span></p>

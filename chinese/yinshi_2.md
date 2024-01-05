@@ -1,5 +1,7 @@
 # 阴湿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshi_2.md)
+
 <p><span class="chinese">天气寒冷、阴湿。</span><span class="english">It's like cold and rainy.</span></p>
 
 <p><span class="chinese">我的左膝一到阴湿天气就犯病。</span><span class="english">My left knee acts up in damp weather.</span></p>

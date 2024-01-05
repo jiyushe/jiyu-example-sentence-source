@@ -1,5 +1,7 @@
 # ardour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ardour.md)
+
 <p><span class="chinese">我必须说他的热情感染了我。</span><span class="english">I must say that his ardour infected me.</span></p>
 
 <p><span class="chinese">他对事业的热情激励着他的追随者。</span><span class="english">His ardour for the cause inspired his followers.</span></p>

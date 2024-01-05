@@ -1,5 +1,7 @@
 # transshipment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transshipment.md)
+
 <p><span class="chinese">不允许转船。</span><span class="english">Transshipment is allowed.</span></p>
 
 <p><span class="chinese">在香港转船如何?</span><span class="english">What's about transshipment at Hongkong?</span></p>

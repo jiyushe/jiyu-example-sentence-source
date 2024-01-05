@@ -1,5 +1,7 @@
 # 整枝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhi_3.md)
+
 <p><span class="chinese">这是整枝的最好时节。</span><span class="english">It's the best time to prune.</span></p>
 
 <p><span class="chinese">整枝是园艺植物控制生长，促进结果的主要措施。</span><span class="english">Pruning is primary measure of control growth and hasten fruiting in horticultural plant.</span></p>

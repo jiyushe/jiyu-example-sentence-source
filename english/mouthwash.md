@@ -1,5 +1,7 @@
 # mouthwash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mouthwash.md)
+
 <p><span class="chinese">去用一点漱口水。</span><span class="english">Go use some mouthwash.</span></p>
 
 <p><span class="chinese">用漱口水漱一下口。</span><span class="english">Gargle with this mouthwash.</span></p>

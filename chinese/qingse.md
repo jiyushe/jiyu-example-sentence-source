@@ -1,5 +1,7 @@
 # 青色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingse.md)
+
 <p><span class="chinese">在那青色的柳园里。</span><span class="english">Down by the Salley Gardens.</span></p>
 
 <p><span class="chinese">木—→主东方，春天，青色、绿色。</span><span class="english">Wood-For east, spring, cyan and green.</span></p>

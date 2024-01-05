@@ -1,5 +1,7 @@
 # 特此
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teci.md)
+
 <p><span class="chinese">特此证明。</span><span class="english">Hereby certify.</span></p>
 
 <p><span class="chinese">我特此保留我的评断。</span><span class="english">I hereby reserve my judgment.</span></p>

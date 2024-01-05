@@ -1,5 +1,7 @@
 # information
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/information.md)
+
 <p><span class="chinese">保存信息。</span><span class="english">Save the information.</span></p>
 
 <p><span class="chinese">关键信息的擅离职守。</span><span class="english">Key information is AWOL.</span></p>

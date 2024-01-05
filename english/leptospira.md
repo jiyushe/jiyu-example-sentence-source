@@ -1,5 +1,7 @@
 # leptospira
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leptospira.md)
+
 <p><span class="chinese">数据暗示钩端螺旋体更喜欢呆在喧闹的大城市。</span><span class="english">The data suggest that Leptospira prefers the excitement of the big city.</span></p>
 
 <p><span class="chinese">钩端螺旋体菌的抗生素耐药基因。</span><span class="english">Antibiotic Resistance Markers for Genetic Manipulations of Leptospira spp.</span></p>

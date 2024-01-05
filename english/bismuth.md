@@ -1,5 +1,7 @@
 # bismuth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bismuth.md)
+
 <p><span class="chinese">和那些少量金属元素一样，自然界里铋生成量很少。</span><span class="english">Bismuth occurs very rarely in nature.</span></p>
 
 <p><span class="chinese">测量了外延膜中铋的含量。</span><span class="english">The Bismuth content in the films was determined.</span></p>

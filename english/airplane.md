@@ -1,5 +1,7 @@
 # airplane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airplane.md)
+
 <p><span class="chinese">设置为飞机模式。</span><span class="english">Set airplane mode on.</span></p>
 
 <p><span class="chinese">这架飞机是适于飞行的。</span><span class="english">The airplane is airworthy.</span></p>

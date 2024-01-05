@@ -1,5 +1,7 @@
 # 同事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshi.md)
+
 <p><span class="chinese">她是我的同事。</span><span class="english">She’s my colleague.</span></p>
 
 <p><span class="chinese">我的同事们都指望我。</span><span class="english">My colleagues depend on me.</span></p>

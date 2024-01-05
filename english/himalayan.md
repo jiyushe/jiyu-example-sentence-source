@@ -1,5 +1,7 @@
 # himalayan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/himalayan.md)
+
 <p><span class="chinese">喜马拉雅山脉农家，卡林，不丹，1989。</span><span class="english">Himalayan Farm House, Khaling, Bhutan, 1989</span></p>
 
 <p><span class="chinese">某种金丝燕，大概是短嘴金丝燕。</span><span class="english">Some kind of swiftlet, presumably Himalayan.</span></p>

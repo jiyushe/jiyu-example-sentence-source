@@ -1,5 +1,7 @@
 # usury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usury.md)
+
 <p><span class="chinese">他们放高利贷。</span><span class="english">They lend out money on usury.</span></p>
 
 <p><span class="chinese">高利贷是指超过法定利率取息。</span><span class="english">Usury is interest in excess of a legal rate.</span></p>

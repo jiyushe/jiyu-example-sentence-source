@@ -1,5 +1,7 @@
 # 在所不惜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaisuobuxi.md)
+
 <p><span class="chinese">看起来，即便这位观众是错的也在所不惜。</span><span class="english">Even, it seems, when the audience is wrong.</span></p>
 
 <p><span class="chinese">义无返顾的飞向你，就算失去生命也在所不惜。</span><span class="english">Flying to you without concern for loss of life.</span></p>

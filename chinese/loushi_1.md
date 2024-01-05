@@ -1,5 +1,7 @@
 # 陋室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/loushi_1.md)
+
 <p><span class="chinese">欢迎来到我的陋室。</span><span class="english">Welcome to my humble abode.</span></p>
 
 <p><span class="chinese">这就是我居住的陋室。</span><span class="english">Here's the place where I'm kenneled.</span></p>

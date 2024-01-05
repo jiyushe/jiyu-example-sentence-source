@@ -1,5 +1,7 @@
 # disadvantageous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disadvantageous.md)
+
 <p><span class="chinese">纳米技术也同样存在一些负作用。</span><span class="english">Several disadvantageous effects of nanotechnologies also exist.</span></p>
 
 <p><span class="chinese">另外，技术水平是民营医疗利用的不利因素。</span><span class="english">Moreover, the technique level is a disadvantageous factor of PMP.</span></p>

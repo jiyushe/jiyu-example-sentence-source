@@ -1,5 +1,7 @@
 # aluminous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aluminous.md)
+
 <p><span class="chinese">异形长条铝扣板天花。</span><span class="english">Smallpox of abnormity strip aluminous gusset plate.</span></p>
 
 <p><span class="chinese">“青矾和明矾的药性”。</span><span class="english">"Green vitriol and aluminous property of a medicine ".</span></p>

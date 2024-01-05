@@ -1,5 +1,7 @@
 # ringworm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ringworm.md)
+
 <p><span class="chinese">你的狗有皮肤病。</span><span class="english">Your dog has ringworm.</span></p>
 
 <p><span class="chinese">是起的癣或湿疹吗？</span><span class="english">Is ringworm or eczema from it?</span></p>

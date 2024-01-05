@@ -1,5 +1,7 @@
 # kimchi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kimchi.md)
+
 <p><span class="chinese">试试我的朝鲜泡菜吧！</span><span class="english">Come, try my kimchi.</span></p>
 
 <p><span class="chinese">韩式午餐，很多的泡菜。</span><span class="english">Korean lunch food, so many kimchi.</span></p>

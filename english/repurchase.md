@@ -1,5 +1,7 @@
 # repurchase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repurchase.md)
+
 <p><span class="chinese">一些被称作倒转的购买合同的业务操作。</span><span class="english">Those operations are called reverse repurchase agreements.</span></p>
 
 <p><span class="chinese">而零息回购转债的发行便可以有效地解决这一问题。</span><span class="english">Zero coupon repurchase convertible bond can resolve the question.</span></p>

@@ -1,5 +1,7 @@
 # 着手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoshou.md)
+
 <p><span class="chinese">他开始认真着手那项新工作。</span><span class="english">He buckled to the new job.</span></p>
 
 <p><span class="chinese">大处着眼，小处着手。</span><span class="english">Start small, but think big.</span></p>

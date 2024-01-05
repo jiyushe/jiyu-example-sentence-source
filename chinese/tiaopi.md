@@ -1,5 +1,7 @@
 # 调皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaopi.md)
+
 <p><span class="chinese">他非常调皮。</span><span class="english">He is very mistiness.</span></p>
 
 <p><span class="chinese">坏小孩调皮捣蛋。</span><span class="english">The bad child is mischievous.</span></p>

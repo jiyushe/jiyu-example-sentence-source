@@ -1,5 +1,7 @@
 # insurable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insurable.md)
+
 <p><span class="chinese">任何性质的部分利益均可承保。</span><span class="english">A partial interest of any nature is insurable.</span></p>
 
 <p><span class="chinese">第三部分是人身保险中的保险利益。</span><span class="english">The third part is insurable interest in life insurance.</span></p>

@@ -1,5 +1,7 @@
 # 闪动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shandong_3.md)
+
 <p><span class="chinese">风吹得烛光闪动。</span><span class="english">The wind flared the candle.</span></p>
 
 <p><span class="chinese">影子在墙上闪动不定。</span><span class="english">Shadows flickered on the wall.</span></p>

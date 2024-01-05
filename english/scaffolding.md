@@ -1,5 +1,7 @@
 # scaffolding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scaffolding.md)
+
 <p><span class="chinese">工人们立刻搭了个管子脚手架。</span><span class="english">The workmen rigged up some tubular scaffolding at once.</span></p>
 
 <p><span class="chinese">使用脚手架安全地砌墙的改建车库。</span><span class="english">Use scaffolding to safely drywall your remodeled garage.</span></p>

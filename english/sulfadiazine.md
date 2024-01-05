@@ -1,5 +1,7 @@
 # sulfadiazine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfadiazine.md)
+
 <p><span class="chinese">磺胺嘧啶等药物。</span><span class="english">Medicines and so on sulfadiazine.</span></p>
 
 <p><span class="chinese">听说新上市的那种消火片有很大的副作用。</span><span class="english">It is said that the sulfadiazine in the market recently has great side effects.</span></p>

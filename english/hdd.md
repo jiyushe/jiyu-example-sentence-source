@@ -1,5 +1,7 @@
 # hdd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hdd.md)
+
 <p><span class="chinese">而行业平均厚度是9.5毫米。</span><span class="english">The average 2.5-inch HDD is a 9.5mm form factor.</span></p>
 
 <p><span class="chinese">把游戏灌到内置硬碟再重新运行试试看。</span><span class="english">Transfer the game to internal HDD and try again.</span></p>

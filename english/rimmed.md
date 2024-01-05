@@ -1,5 +1,7 @@
 # rimmed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rimmed.md)
+
 <p><span class="chinese">池塘边长了一圈树。</span><span class="english">Trees rimmed the pool.</span></p>
 
 <p><span class="chinese">把面包放入有边的烤盘中。</span><span class="english">Place bread on a rimmed baking sheet.</span></p>

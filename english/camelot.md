@@ -1,5 +1,7 @@
 # camelot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camelot.md)
+
 <p><span class="chinese">凯伊爵士出现了，他押送这位美国佬到卡米洛。</span><span class="english">Sir Kay appears and escorts the Yankee to Camelot.</span></p>
 
 <p><span class="chinese">各地的骑士们，欢迎各位来到camelot。</span><span class="english">Knights of the realm, it's a great honor to welcome you to Camelot.</span></p>

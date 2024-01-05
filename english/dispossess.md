@@ -1,5 +1,7 @@
 # dispossess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispossess.md)
+
 <p><span class="chinese">如果你付租金，他们就不能剥夺你的权利。</span><span class="english">If you pay your rent , they can't dispossess you.</span></p>
 
 <p><span class="chinese">法院裁定剥夺他的政治权力。</span><span class="english">The court ruled to dispossess his political rights.</span></p>

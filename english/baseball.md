@@ -1,5 +1,7 @@
 # baseball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baseball.md)
+
 <p><span class="chinese">一根棒球棒？</span><span class="english">A baseball bat?</span></p>
 
 <p><span class="chinese">还有一顶棒球帽。</span><span class="english">And a baseball cap.</span></p>

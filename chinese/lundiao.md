@@ -1,5 +1,7 @@
 # 论调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lundiao.md)
+
 <p><span class="chinese">他们改变了论调。</span><span class="english">They changed their tune.</span></p>
 
 <p><span class="chinese">为什么这个论调是可能的？</span><span class="english">Why did that seem possible?</span></p>

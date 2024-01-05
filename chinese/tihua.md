@@ -1,5 +1,7 @@
 # 提花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tihua.md)
+
 <p><span class="chinese">CC的图形提花，金色的皮革制造。</span><span class="english">Gold leather shoes with signature CC.</span></p>
 
 <p><span class="chinese">菩提花开烦恼尽。</span><span class="english">Worries melt when bodhi blooms so bright.</span></p>

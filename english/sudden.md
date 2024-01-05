@@ -1,5 +1,7 @@
 # sudden 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sudden.md)
+
 <p><span class="chinese">突然亮了一下。</span><span class="english">There was a sudden flash.</span></p>
 
 <p><span class="chinese">何以变卦?</span><span class="english">Why all this sudden change?</span></p>

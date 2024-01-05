@@ -1,5 +1,7 @@
 # 过日子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guorizi.md)
+
 <p><span class="chinese">他从不混过日子。</span><span class="english">He never goofs off.</span></p>
 
 <p><span class="chinese">我总不能靠喝西北风过日子！</span><span class="english">I can't live on air!</span></p>

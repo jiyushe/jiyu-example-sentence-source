@@ -1,5 +1,7 @@
 # bannister
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bannister.md)
+
 <p><span class="chinese">尼斯特是怎样做到这些的呢？</span><span class="english">How did Bannister do this?</span></p>
 
 <p><span class="chinese">然后Roger，Bannister出现。</span><span class="english">And then came along Roger Bannister.</span></p>

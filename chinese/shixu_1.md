@@ -1,5 +1,7 @@
 # 时序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixu_1.md)
+
 <p><span class="chinese">大暑之后，时序到了立秋。</span><span class="english">Dashu, the timing to Liqiu.</span></p>
 
 <p><span class="chinese">时序电路测试生成算法产生的向量存在冗余。</span><span class="english">And applies this method to the sequence circuit.</span></p>

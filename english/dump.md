@@ -1,5 +1,7 @@
 # dump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dump.md)
+
 <p><span class="chinese">把表土倒在这里。</span><span class="english">Dump the topsoil here.</span></p>
 
 <p><span class="chinese">正在进行放油。</span><span class="english">Fuel dump is in progress.</span></p>

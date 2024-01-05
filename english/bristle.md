@@ -1,5 +1,7 @@
 # bristle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bristle.md)
+
 <p><span class="chinese">当然，理论家不高兴了。</span><span class="english">So, of course, theoreticians bristle.</span></p>
 
 <p><span class="chinese">他的禽兽行为令人发指。</span><span class="english">His bestiality made people bristle with anger.</span></p>

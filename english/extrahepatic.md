@@ -1,5 +1,7 @@
 # extrahepatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrahepatic.md)
+
 <p><span class="chinese">这些肝外组织未见明显的病理损伤改变。</span><span class="english">There was not obvious pathological damage in those extrahepatic tissues.</span></p>
 
 <p><span class="chinese">环索奈德也经历更迅速地消除它的肝外代谢。</span><span class="english">Ciclesonide also undergoes extrahepatic metabolism that eliminates it even more rapidly.</span></p>

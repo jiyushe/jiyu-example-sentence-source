@@ -1,5 +1,7 @@
 # nocturnal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nocturnal.md)
+
 <p><span class="chinese">土豚是夜行动物。</span><span class="english">Aardvarks are nocturnal.</span></p>
 
 <p><span class="chinese">但是在夜间工作并非那么容易的事情。</span><span class="english">But being nocturnal ain’t easy.</span></p>

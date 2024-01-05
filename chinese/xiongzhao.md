@@ -1,5 +1,7 @@
 # 凶兆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongzhao.md)
+
 <p><span class="chinese">在印度，日食被认为是凶兆。</span><span class="english">In India, an eclipse is considered inauspicious.</span></p>
 
 <p><span class="chinese">这种压制对国家的未来预示着凶兆。</span><span class="english">And this dumbing down bodes ill for the nation's future.</span></p>

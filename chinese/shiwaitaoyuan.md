@@ -1,5 +1,7 @@
 # 世外桃源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwaitaoyuan.md)
+
 <p><span class="chinese">还要拥有一个世外桃源。</span><span class="english">Still have a xanadu.</span></p>
 
 <p><span class="chinese">北海真是一个世外桃源。</span><span class="english">Behai was a real escape!</span></p>

@@ -1,5 +1,7 @@
 # omnipresent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omnipresent.md)
+
 <p><span class="chinese">神是无所不在的。</span><span class="english">God is omnipresent.</span></p>
 
 <p><span class="chinese">无处不在的宽带接入即将来临了。</span><span class="english">Omnipresent broadband access is almost here.</span></p>

@@ -1,5 +1,7 @@
 # 出格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuge.md)
+
 <p><span class="chinese">尽管汽车是新的，仍然发出格格声。</span><span class="english">Thoughthe car is new,it rattles.</span></p>
 
 <p><span class="chinese">今日的出格菜是烤羊腿。</span><span class="english">Today's special is roast leg of lamb.</span></p>

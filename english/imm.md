@@ -1,5 +1,7 @@
 # imm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imm.md)
+
 <p><span class="chinese">传统的方法如交互多模型、广义伪贝叶斯算法等解决该类型问题的效果并不理想。</span><span class="english">The traditional methods such as IMM and GPB deal badly with this kind of problem.</span></p>
 
 <p><span class="chinese">托马斯还打算继续扩大生意，下一步，他准备开始在火柴棍上雕刻东西了。</span><span class="english">Imm told the paper he is also planning to start selling a range of engraved matchsticks.</span></p>

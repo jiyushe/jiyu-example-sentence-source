@@ -1,5 +1,7 @@
 # 不谋而合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bumouerhe.md)
+
 <p><span class="chinese">你的名字和我在中国的一个好朋友的名字不谋而合。</span><span class="english">Your name is the same with oen of my best friends in chian.</span></p>
 
 <p><span class="chinese">卡利古拉的推论和霍布斯、格老秀斯的不谋而合。</span><span class="english">The reasoning of Caligula agrees with that of Hobbes and Grotius.</span></p>

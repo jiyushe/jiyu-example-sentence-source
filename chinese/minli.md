@@ -1,5 +1,7 @@
 # 民力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minli.md)
+
 <p><span class="chinese">常州市民力轴承有限公司、常州市民力工具制造有限公司欢迎您！</span><span class="english">Wel to Changzhou Minli Bearing Co. , ltd. & Changzhou Minli Tools Manufacture co. , ltd.</span></p>
 
 <p><span class="chinese">王安石与宋神宗主要通过征调民力、调遣军队与招募饥民等途径来解决劳力问题。</span><span class="english">By means of conscripting labor, moving troops and recruiting famine refugee, the question of labor was settled.</span></p>

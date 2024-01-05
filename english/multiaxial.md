@@ -1,5 +1,7 @@
 # multiaxial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiaxial.md)
+
 <p><span class="chinese">介绍了多轴向技术在世界各国发展状况。</span><span class="english">The developments of multiaxial fabrics in the world are introduced.</span></p>
 
 <p><span class="chinese">结论多轴位点片是诊断隐匿性肋骨骨折的有效工具。</span><span class="english">Conclusion Multiaxial spot film is an effective tool to diagnose the occult rib fracture.</span></p>

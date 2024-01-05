@@ -1,5 +1,7 @@
 # telephony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telephony.md)
+
 <p><span class="chinese">对电话系统的破坏活动也会被检测到。</span><span class="english">Sabotage of telephony equipment is also detected.</span></p>
 
 <p><span class="chinese">允许修改话机状态，如电源，人机接口等。</span><span class="english">Allows modification of the telephony state – power on, mmi, etc.</span></p>

@@ -1,5 +1,7 @@
 # 连翘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianqiao.md)
+
 <p><span class="chinese">我站在旁边仍然在望着连翘。</span><span class="english">I was standing next to the forsythia is still looking at.</span></p>
 
 <p><span class="chinese">长绿植物，如杜鹃和连翘，年年开花。</span><span class="english">Perennials like the azalea and forsythia bloom year after year.</span></p>

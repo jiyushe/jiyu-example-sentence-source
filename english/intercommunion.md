@@ -1,5 +1,7 @@
 # intercommunion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercommunion.md)
+
 <p><span class="chinese">我们通过网络互相交流。</span><span class="english">We intercommunion each other over the network.</span></p>
 
 <p><span class="chinese">这种翻译活动对于中西文化交流的影响是双向的。</span><span class="english">The translation activities had great influences on the cultural intercommunion.</span></p>

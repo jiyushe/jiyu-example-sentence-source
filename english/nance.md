@@ -1,5 +1,7 @@
 # nance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nance.md)
+
 <p><span class="chinese">我认为努力会助你走很长的路。</span><span class="english">"I think effort will carry you a long way, "Larry Nance Jr. said.</span></p>
 
 <p><span class="chinese">最后，对目前纳米技术在装备中应用所存在的技术问题进行了总结。</span><span class="english">The existing problems of the application of nano-technology in ord- nance protection were summarized.</span></p>

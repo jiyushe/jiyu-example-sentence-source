@@ -1,5 +1,7 @@
 # 喝道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hedao.md)
+
 <p><span class="chinese">斯内普喝道。</span><span class="english">Snape snapped.</span></p>
 
 <p><span class="chinese">有人大声喝道。</span><span class="english">Someone loudly drinks a way.</span></p>

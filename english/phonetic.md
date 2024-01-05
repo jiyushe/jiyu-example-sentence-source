@@ -1,5 +1,7 @@
 # phonetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phonetic.md)
+
 <p><span class="chinese">语音符号是标音的符号。</span><span class="english">Phonetic symbols represent sounds.</span></p>
 
 <p><span class="chinese">课文有注音吗?</span><span class="english">Is the text marked with phonetic symbols?</span></p>

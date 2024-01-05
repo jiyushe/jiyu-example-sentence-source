@@ -1,5 +1,7 @@
 # 诊治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhi_2.md)
+
 <p><span class="chinese">组病人采用“三部诊治法”治疗。</span><span class="english">We treat the Group I by tridiagnosis.</span></p>
 
 <p><span class="chinese">目的提高脐尿管腺癌的诊治效果。</span><span class="english">Objective To improve the outcome of urachal carcinoma.</span></p>

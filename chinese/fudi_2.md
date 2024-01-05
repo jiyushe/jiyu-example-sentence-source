@@ -1,5 +1,7 @@
 # 府邸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fudi_2.md)
+
 <p><span class="chinese">在意大利期间，皮特一家居住在一栋十五世纪的府邸建筑里。</span><span class="english">They have been based in a 15th century palazzo during their stay.</span></p>
 
 <p><span class="chinese">奥德利庄院的府邸里从来不出现时髦的新灯。</span><span class="english">No newfangled lamps had ever made their appearance at Audley Court.</span></p>

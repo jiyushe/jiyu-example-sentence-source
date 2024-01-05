@@ -1,5 +1,7 @@
 # conserve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conserve.md)
+
 <p><span class="chinese">我们需要维护一切。</span><span class="english">We need to conserve everything.</span></p>
 
 <p><span class="chinese">你节约用水用能吗？</span><span class="english">Do you conserve water and energy?</span></p>

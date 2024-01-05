@@ -1,5 +1,7 @@
 # 小腹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaofu_1.md)
+
 <p><span class="chinese">我看着我的小腹。</span><span class="english">I look at my little belly.</span></p>
 
 <p><span class="chinese">你不想拥有平滑的小腹和结实的胸肌吗？</span><span class="english">Don't you want a washboard stomach and rock-hard pecs?</span></p>

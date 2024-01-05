@@ -1,5 +1,7 @@
 # bie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bie.md)
+
 <p><span class="chinese">中国是国际展览局的成员国。</span><span class="english">China is a BIE member state.</span></p>
 
 <p><span class="chinese">别里科夫脸色苍白，站起来。</span><span class="english">Bie Lee Kopf looked pale, stand up.</span></p>

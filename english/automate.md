@@ -1,5 +1,7 @@
 # automate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automate.md)
+
 <p><span class="chinese">许多银行已开始采用自动化技术。</span><span class="english">Many banks have begun to automate.</span></p>
 
 <p><span class="chinese">接下来，你将使这些功能实现自动化</span><span class="english">Next, you are going to automate these functions.</span></p>

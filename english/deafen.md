@@ -1,5 +1,7 @@
 # deafen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deafen.md)
+
 <p><span class="chinese">他让你变聋了吗？</span><span class="english">Did he deafen you?</span></p>
 
 <p><span class="chinese">这些输入信息使我们对现实充耳不闻、视而不见。</span><span class="english">These inputs deafen and blind us to reality.</span></p>

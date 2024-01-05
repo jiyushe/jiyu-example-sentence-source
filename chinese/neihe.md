@@ -1,5 +1,7 @@
 # 内核
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neihe.md)
+
 <p><span class="chinese">微内核。</span><span class="english">microkernels.</span></p>
 
 <p><span class="chinese">内核文本和数据。</span><span class="english">Kernal text and data.</span></p>

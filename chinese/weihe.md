@@ -1,5 +1,7 @@
 # 为何
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weihe.md)
+
 <p><span class="chinese">犬吠为何？</span><span class="english">Why Dogs Bark?</span></p>
 
 <p><span class="chinese">有人会问我为何如此确信。</span><span class="english">How can I be sure?</span></p>

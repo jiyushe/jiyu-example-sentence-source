@@ -1,5 +1,7 @@
 # 强大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangda.md)
+
 <p><span class="chinese">你是很强大的。</span><span class="english">You are powerful.</span></p>
 
 <p><span class="chinese">但是我们是强大的！</span><span class="english">But we are strong!</span></p>

@@ -1,5 +1,7 @@
 # 生死存亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengsicunwang.md)
+
 <p><span class="chinese">生死存亡的斗争。</span><span class="english">A life- and- death struggle.</span></p>
 
 <p><span class="chinese">这是关乎美国生死存亡的决定。</span><span class="english">This is about life and death in America.</span></p>

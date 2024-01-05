@@ -1,5 +1,7 @@
 # superclass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superclass.md)
+
 <p><span class="chinese">帮助者超类提供了实际的帮助</span><span class="english">The helper superclass offers real help</span></p>
 
 <p><span class="chinese">但是要记住，那个超类还在开发之中。</span><span class="english">But remember that the superclass is in progress.</span></p>

@@ -1,5 +1,7 @@
 # vila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vila.md)
+
 <p><span class="chinese">维拉维塔的生命置于阴凉处温泉斯隆街沙龙坚决。</span><span class="english">The Vila Vita Vital Spa puts Sloane Street salons firmly in the shade.</span></p>
 
 <p><span class="chinese">维拉维索萨继续参观公爵宫，回到里斯本。</span><span class="english">Continue to Vila Vicosa to visit the Ducal palace and return to Lisbon.</span></p>

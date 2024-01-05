@@ -1,5 +1,7 @@
 # ossetia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ossetia.md)
+
 <p><span class="chinese">弗拉季高加索是北奥塞梯的首府。</span><span class="english">Vladikavkaz is the capital of North Ossetia.</span></p>
 
 <p><span class="chinese">俄罗斯基本上已经在阿布哈兹和南奥赛梯站住了脚。</span><span class="english">Russia has dug itself in, basically, into Abkhazia and South Ossetia.</span></p>

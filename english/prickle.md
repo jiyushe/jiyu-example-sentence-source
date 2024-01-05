@@ -1,5 +1,7 @@
 # prickle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prickle.md)
+
 <p><span class="chinese">刺痛还是钝痛?。</span><span class="english">Prickle or dull pain?</span></p>
 
 <p><span class="chinese">松叶像针尖刺人。</span><span class="english">Pine needles prickle like pins.</span></p>

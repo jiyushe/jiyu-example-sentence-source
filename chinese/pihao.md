@@ -1,5 +1,7 @@
 # 癖好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pihao.md)
+
 <p><span class="chinese">她有开快车的癖好。</span><span class="english">She has a mania for driving fast.</span></p>
 
 <p><span class="chinese">卡扎菲上校是个集万千古怪癖好于一身的男人。</span><span class="english">Colonel Gaddafi is a man of eccentricities.</span></p>

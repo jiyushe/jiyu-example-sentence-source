@@ -1,5 +1,7 @@
 # 头晕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touyun.md)
+
 <p><span class="chinese">我感到头晕。</span><span class="english">I feel lightheaded.</span></p>
 
 <p><span class="chinese">我觉得头晕。</span><span class="english">I feel light-headed.</span></p>

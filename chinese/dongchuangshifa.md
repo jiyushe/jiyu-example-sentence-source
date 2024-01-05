@@ -1,5 +1,7 @@
 # 东窗事发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongchuangshifa.md)
+
 <p><span class="chinese">终于有一回东窗事发，我才大梦初醒。</span><span class="english">Then something happened and I woke up from the dream.</span></p>
 
 <p><span class="chinese">东窗事发，向南承担了所有的责任，被停职。</span><span class="english">Ally McBeal, bear all the responsibility to the south, has been suspended.</span></p>

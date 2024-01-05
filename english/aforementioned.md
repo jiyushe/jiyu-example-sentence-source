@@ -1,5 +1,7 @@
 # aforementioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aforementioned.md)
+
 <p><span class="chinese">以上奖金和设计成本费均含税。</span><span class="english">The aforementioned prize and design cost shall include tax.</span></p>
 
 <p><span class="chinese">我用上面提到的水加満了猫的水碟。</span><span class="english">I filled the cats" water dish with the aforementioned bottled water."</span></p>

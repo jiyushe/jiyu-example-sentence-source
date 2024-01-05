@@ -1,5 +1,7 @@
 # 段落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanluo.md)
+
 <p><span class="chinese">很多段落都有标红的痕迹。</span><span class="english">Many passages were marked in red.</span></p>
 
 <p><span class="chinese">这个段落的主题思想是什么?。</span><span class="english">What is the topic of the paragraph?</span></p>

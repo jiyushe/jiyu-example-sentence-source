@@ -1,5 +1,7 @@
 # 葡萄酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putaojiu.md)
+
 <p><span class="chinese">什么是酒塞葡萄酒？。</span><span class="english">What is Corked Wine?</span></p>
 
 <p><span class="chinese">我不喜欢喝葡萄酒。</span><span class="english">Non mi piace il vino.</span></p>

@@ -1,5 +1,7 @@
 # 马车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mache.md)
+
 <p><span class="chinese">把马车打发掉！</span><span class="english">Dismiss the carriage!</span></p>
 
 <p><span class="chinese">马车停下来，他被抓住了。</span><span class="english">It stopped. He was caught.</span></p>

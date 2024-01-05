@@ -1,5 +1,7 @@
 # 支撑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhicheng_2.md)
+
 <p><span class="chinese">戴有支撑作用的胸罩。</span><span class="english">Wear a supportive bra.</span></p>
 
 <p><span class="chinese">拆去支撑螺栓盖。</span><span class="english">Remove anchor bolt cover.</span></p>

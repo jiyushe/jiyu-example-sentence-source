@@ -1,5 +1,7 @@
 # 中子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzi.md)
+
 <p><span class="chinese">中子不带电。</span><span class="english">Neutron has no charge.</span></p>
 
 <p><span class="chinese">他并没有入射中子。</span><span class="english">He didn't shoot neutrals.</span></p>

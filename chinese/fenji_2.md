@@ -1,5 +1,7 @@
 # 粉剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenji_2.md)
+
 <p><span class="chinese">另一件事，你必须知道可湿性粉剂。</span><span class="english">Another thing, you must be know WP.</span></p>
 
 <p><span class="chinese">不要在潮湿的环境中使用粉剂。</span><span class="english">Don't use dusts in excessively damp situations.</span></p>

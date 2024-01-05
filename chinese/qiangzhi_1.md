@@ -1,5 +1,7 @@
 # 强制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangzhi_1.md)
+
 <p><span class="chinese">分组作业是强制的。</span><span class="english">Sections are mandatory.</span></p>
 
 <p><span class="chinese">她强制她小孩进食。</span><span class="english">She force-fed her kids.</span></p>

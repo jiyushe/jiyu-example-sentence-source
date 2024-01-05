@@ -1,5 +1,7 @@
 # accrete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accrete.md)
+
 <p><span class="chinese">请问合生元给宝宝吃好不好?。</span><span class="english">Excuse me accrete yuan had eaten to darling?</span></p>
 
 <p><span class="chinese">“和谐社会”是社会资源兼容共生的社会。</span><span class="english">Harmonious society " is the society with social compatible and accrete natural resources."</span></p>

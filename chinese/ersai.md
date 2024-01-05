@@ -1,5 +1,7 @@
 # 耳塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ersai.md)
+
 <p><span class="chinese">戴耳塞。</span><span class="english">Wear earplugs.</span></p>
 
 <p><span class="chinese">买个耳塞来用用。</span><span class="english">Buy and use earplugs.</span></p>

@@ -1,5 +1,7 @@
 # camouflage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camouflage.md)
+
 <p><span class="chinese">混乱是最好的伪装。</span><span class="english">Chaos is great camouflage.</span></p>
 
 <p><span class="chinese">对另一些生物而言，光亮则相当于保护色。</span><span class="english">For others, it is a form of camouflage.</span></p>

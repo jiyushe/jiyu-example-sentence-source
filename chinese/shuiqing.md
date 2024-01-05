@@ -1,5 +1,7 @@
 # 水情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiqing.md)
+
 <p><span class="chinese">非洲狮子已经适应了这里的水情，以便捕捉到非洲水牛。</span><span class="english">Lions in Duba have adapted to water in order to keep up with the buffalo.</span></p>
 
 <p><span class="chinese">通过实际水情测报项目的应用验证，该水情遥测终端取得了良好的效果。</span><span class="english">Proved by some hydrologic telemetric projects, the remote terminal unit works well.</span></p>

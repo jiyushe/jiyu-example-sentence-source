@@ -1,5 +1,7 @@
 # naught
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naught.md)
+
 <p><span class="chinese">五加零等于五。</span><span class="english">Five plus naught equals five.</span></p>
 
 <p><span class="chinese">他们所有的工作都是白做。</span><span class="english">All their work was for naught.</span></p>

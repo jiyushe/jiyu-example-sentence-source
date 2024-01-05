@@ -1,5 +1,7 @@
 # lucius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucius.md)
+
 <p><span class="chinese">卢修斯成了石匠的学徒。</span><span class="english">Lucius got apprenticed to a stonemason.</span></p>
 
 <p><span class="chinese">“当然是的，主人，”卢修斯？</span><span class="english">"Of course, my Lord, " said Lucius Malfoy.</span></p>

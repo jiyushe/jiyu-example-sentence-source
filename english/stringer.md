@@ -1,5 +1,7 @@
 # stringer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stringer.md)
+
 <p><span class="chinese">地板、支架、横梁四角支撑式结构。</span><span class="english">Floor, pedestals, stringer are four-sides support structure.</span></p>
 
 <p><span class="chinese">对于斯丁格和伊旺，底线永远是底线。</span><span class="english">The bottom line, for Stringer and Avon, is always the bottom line.</span></p>

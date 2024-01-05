@@ -1,5 +1,7 @@
 # whit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whit.md)
+
 <p><span class="chinese">我觉得没什么还说的。</span><span class="english">I don't say anythings whit me.</span></p>
 
 <p><span class="chinese">猫头鹰一点点嘟嘟叫。</span><span class="english">And the owl says to whit to whoooo.</span></p>

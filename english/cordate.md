@@ -1,5 +1,7 @@
 # cordate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cordate.md)
+
 <p><span class="chinese">基生叶长圆形，基部不心形。</span><span class="english">Basal leaf blade oblong, base not cordate.</span></p>
 
 <p><span class="chinese">表明鱼腥草黄酮有明显的抗抑郁活性。</span><span class="english">Flavonoids in Cordate houttuynia exerted obvious antidepressant activity.</span></p>

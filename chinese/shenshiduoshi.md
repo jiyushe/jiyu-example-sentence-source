@@ -1,5 +1,7 @@
 # 审时度势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshiduoshi.md)
+
 <p><span class="chinese">是审时度势的时候了。</span><span class="english">It was time to take stock of the situation.</span></p>
 
 <p><span class="chinese">不，你不会看到他们时，审时度势海岸线。</span><span class="english">No, you will not see them when sizing up the shoreline.</span></p>

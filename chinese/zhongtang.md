@@ -1,5 +1,7 @@
 # 中堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongtang.md)
+
 <p><span class="chinese">一般用柱子或开了门洞的墙将前廊与中堂分隔开。</span><span class="english">The narthex is usually separated from the nave by columns or a pierced wall.</span></p>
 
 <p><span class="chinese">中世纪的中堂一般分成许多架间，产生更长的效果。</span><span class="english">Medieval naves were generally divided into many bays, producing the effect of great length.</span></p>

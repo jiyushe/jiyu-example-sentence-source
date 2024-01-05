@@ -1,5 +1,7 @@
 # diagnosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diagnosis.md)
+
 <p><span class="chinese">首先是诊断。</span><span class="english">First, the diagnosis.</span></p>
 
 <p><span class="chinese">这种病症难以确诊。</span><span class="english">The case defies diagnosis.</span></p>

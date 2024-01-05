@@ -1,5 +1,7 @@
 # 杂役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zayi.md)
+
 <p><span class="chinese">杂役劳伦斯边工作边用柔和的假声低唱一首忧郁的歌曲</span><span class="english">in a soft falsetto as he works, the words</span></p>
 
 <p><span class="chinese">主任派遣一小组人去做杂役。</span><span class="english">The director detailed a group for fatigue duty.</span></p>

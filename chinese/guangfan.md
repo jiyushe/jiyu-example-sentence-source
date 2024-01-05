@@ -1,5 +1,7 @@
 # 广泛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangfan.md)
+
 <p><span class="chinese">HAP有广泛应用前景。</span><span class="english">HAP has wide applied future.</span></p>
 
 <p><span class="chinese">它有更广泛的意义。</span><span class="english">It has a wider significance.</span></p>

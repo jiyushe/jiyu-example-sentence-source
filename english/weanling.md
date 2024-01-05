@@ -1,5 +1,7 @@
 # weanling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weanling.md)
+
 <p><span class="chinese">对在断乳的猪食中对作为一个供选择的家畜饲料的宠物食品副产物进行评估。</span><span class="english">Evaluation of pet food by-product as an alternative feedstuff in weanling pig diets.</span></p>
 
 <p><span class="chinese">目的研究铅对大鼠钙的吸收和骨骼生长的影响。</span><span class="english">Objective To study the effect of lead on the calcium absorption and bone development in weanling rats.</span></p>

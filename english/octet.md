@@ -1,5 +1,7 @@
 # octet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octet.md)
+
 <p><span class="chinese">为什么呢，是为了得到一个稳定的单元。</span><span class="english">Why? To get a stable octet.</span></p>
 
 <p><span class="chinese">八位组为风，在电子商务大调，作品。</span><span class="english">Octet for winds in E flat major, Op.</span></p>

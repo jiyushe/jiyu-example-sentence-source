@@ -1,5 +1,7 @@
 # 洪流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongliu.md)
+
 <p><span class="chinese">涓涓小溪也会成为滚滚洪流。</span><span class="english">A trickle becomes a torrent.</span></p>
 
 <p><span class="chinese">杨照加入了这股洪流。</span><span class="english">Yang Zhao entered this onrush.</span></p>

@@ -1,5 +1,7 @@
 # yardstick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yardstick.md)
+
 <p><span class="chinese">从他的裤子里掉出来了一把尺子。</span><span class="english">A yardstick slides out of his pants.</span></p>
 
 <p><span class="chinese">正确的准绳只是这一刻。</span><span class="english">The correct yardstick is just for this moment.</span></p>

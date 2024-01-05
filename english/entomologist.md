@@ -1,5 +1,7 @@
 # entomologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entomologist.md)
+
 <p><span class="chinese">热带昆虫学家阿诺德·范豪斯也定居在这里。</span><span class="english">It is also home to a tropical entomologist named Arnold van Huis.</span></p>
 
 <p><span class="chinese">“这是压垮骆驼的那根稻草。”康乃尔另一位昆虫学者皮门特尔说。</span><span class="english">"That was the straw that broke the camel's back, " says David Pimentel, also an entomologist at Cornell.</span></p>

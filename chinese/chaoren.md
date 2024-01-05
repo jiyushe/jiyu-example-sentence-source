@@ -1,5 +1,7 @@
 # 超人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaoren.md)
+
 <p><span class="chinese">我是超人！</span><span class="english">I am Superman!</span></p>
 
 <p><span class="chinese">我是超人！</span><span class="english">I was Superman!</span></p>

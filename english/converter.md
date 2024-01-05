@@ -1,5 +1,7 @@
 # converter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/converter.md)
+
 <p><span class="chinese">矢量光栅转换器?。</span><span class="english">VRC? Vector Raster Converter?</span></p>
 
 <p><span class="chinese">电压频率变换器?。</span><span class="english">VFC?Voltage to Frequency Converter?</span></p>

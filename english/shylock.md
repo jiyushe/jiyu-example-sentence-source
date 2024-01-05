@@ -1,5 +1,7 @@
 # shylock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shylock.md)
+
 <p><span class="chinese">我很同情夏洛克。</span><span class="english">I am so sympathetic with Shylock.</span></p>
 
 <p><span class="chinese">想同夏洛克争论是没有用的。</span><span class="english">It is useless trying to argue with Shylock.</span></p>

@@ -1,5 +1,7 @@
 # likeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/likeness.md)
+
 <p><span class="chinese">我唯一真实的画像。</span><span class="english">The only true likeness of myself.</span></p>
 
 <p><span class="chinese">这位画家给他妻子画了一幅很好的肖像。</span><span class="english">The artist limned a good likeness of his wife.</span></p>

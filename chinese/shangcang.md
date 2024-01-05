@@ -1,5 +1,7 @@
 # 上苍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangcang.md)
+
 <p><span class="chinese">然后，我开始祈祷，感谢上苍给了我新的一天。</span><span class="english">Then I pray, thanking God for another day.</span></p>
 
 <p><span class="chinese">上苍给你一件礼物，就是今天有八万六千四百秒。</span><span class="english">God gave you a gift of 86,400 seconds today.</span></p>

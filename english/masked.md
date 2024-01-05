@@ -1,5 +1,7 @@
 # masked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masked.md)
+
 <p><span class="chinese">一个面具舞会?。</span><span class="english">A masked ball?</span></p>
 
 <p><span class="chinese">她的微笑掩饰了怒气。</span><span class="english">Her smile masked her anger.</span></p>

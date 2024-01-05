@@ -1,5 +1,7 @@
 # kinky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinky.md)
+
 <p><span class="chinese">我就喜欢你说些性变态的话。</span><span class="english">I love you when you talk kinky.</span></p>
 
 <p><span class="chinese">把一整卷粘毛器都黏上卷曲的私密毛发。</span><span class="english">Stick kinky pubes on a lint roller.</span></p>

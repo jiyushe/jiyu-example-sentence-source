@@ -1,5 +1,7 @@
 # 平视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingshi_2.md)
+
 <p><span class="chinese">埃米跪下身子，这样他们可以平视对方。</span><span class="english">Amy knelt down so that their eyes were level.</span></p>
 
 <p><span class="chinese">平视过去女人不正是男人的附属品吗？</span><span class="english">As the women used is not the property of men?</span></p>

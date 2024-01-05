@@ -1,5 +1,7 @@
 # 水力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuili_1.md)
+
 <p><span class="chinese">锅炉给水泵的水力压头是多少？</span><span class="english">How much is the dynamic head of BFP?</span></p>
 
 <p><span class="chinese">动态水力旋流器及其试验装置。</span><span class="english">Dynamic hydrocyclone and its test bed.</span></p>

@@ -1,5 +1,7 @@
 # 蜀汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuhan.md)
+
 <p><span class="chinese">第五部分总结蜀汉经学的影响。</span><span class="english">The fifth part sums up the effect of Confucian Classics in Shuhan.</span></p>
 
 <p><span class="chinese">第五章探讨蜀汉集团管理思想的目标要求。</span><span class="english">The fifth chapter is to discuss the management objectives of Shuhan.</span></p>

@@ -1,5 +1,7 @@
 # intangible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intangible.md)
+
 <p><span class="chinese">商誉作为一项无形资产入账。</span><span class="english">Goodwill is booked as an intangible asset.</span></p>
 
 <p><span class="chinese">汉夫特说这就是无形魅力之所在。</span><span class="english">Then, Hanft said, there's the intangible appeal.</span></p>

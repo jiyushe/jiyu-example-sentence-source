@@ -1,5 +1,7 @@
 # 不许
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxu.md)
+
 <p><span class="chinese">不许浪费食物。</span><span class="english">No wasting food.</span></p>
 
 <p><span class="chinese">不许与我说话。</span><span class="english">Speak not to me.</span></p>

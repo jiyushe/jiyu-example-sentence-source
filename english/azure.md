@@ -1,5 +1,7 @@
 # azure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azure.md)
+
 <p><span class="chinese">娃娃的眼睛是天蓝色的。</span><span class="english">The doll's eyes tinted azure.</span></p>
 
 <p><span class="chinese">我看见太阳照耀在清朗的天空中。</span><span class="english">I saw the sun out of a clear azure sky.</span></p>

@@ -1,5 +1,7 @@
 # manila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manila.md)
+
 <p><span class="chinese">我是奎松省，但我经常到马尼拉。</span><span class="english">Province but I often go to Manila too.</span></p>
 
 <p><span class="chinese">俄米塔─位于马尼拉市中心。</span><span class="english">In the heart of Manila , there is Ermita.</span></p>

@@ -1,5 +1,7 @@
 # unchanged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unchanged.md)
+
 <p><span class="chinese">所有没做变更的文件被忽略了。</span><span class="english">All unchanged files are ignored.</span></p>
 
 <p><span class="chinese">那朵白花怎么会动呢？</span><span class="english">Naduo white flowers how could unchanged?</span></p>

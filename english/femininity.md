@@ -1,5 +1,7 @@
 # femininity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/femininity.md)
+
 <p><span class="chinese">极其精致的女士贴身衬衫。</span><span class="english">Extremely sophisticated with figure-hugging femininity.</span></p>
 
 <p><span class="chinese">他的生命已经具备了够充足的女性成份。</span><span class="english">There was already more than enough femininity in his life.</span></p>

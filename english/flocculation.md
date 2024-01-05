@@ -1,5 +1,7 @@
 # flocculation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flocculation.md)
+
 <p><span class="chinese">其絮凝效果与絮凝剂的投加量存在着一定的关系，不宜过高或过低。</span><span class="english">The dosage of the flocculation can't be too high or low.</span></p>
 
 <p><span class="chinese">文中提出了絮凝过程的一种物理模型的设想。</span><span class="english">A model of flocculation phenomenon of particles is proposed.</span></p>

@@ -1,5 +1,7 @@
 # balky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balky.md)
+
 <p><span class="chinese">马逡巡不前拒绝跳过去。</span><span class="english">The balky horse refused the jump.</span></p>
 
 <p><span class="chinese">就像在许多人类课堂上的情况一样，事情别别扭扭地开始了。</span><span class="english">As in many a human classroom, things get off to a balky start.</span></p>

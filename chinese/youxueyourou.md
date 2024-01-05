@@ -1,5 +1,7 @@
 # 有血有肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxueyourou.md)
+
 <p><span class="chinese">我是约书亚，有血有肉的人类。</span><span class="english">I am Jeshua, man of flesh and blood.</span></p>
 
 <p><span class="chinese">我，约书亚，是一个有血有肉的人。</span><span class="english">I, Jeshua, was a man of flesh and blood.</span></p>

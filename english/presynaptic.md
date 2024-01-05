@@ -1,5 +1,7 @@
 # presynaptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presynaptic.md)
+
 <p><span class="chinese">这可能是腺苷参与镇痛的突触前抑制机制之一。</span><span class="english">This might be one of the mechanisms that underlie presynaptic inhibition in DRG.</span></p>
 
 <p><span class="chinese">应当考虑突触前的手术对临时突触的稳定性和相应功能的影响。</span><span class="english">Here, temporal synaptic stability and the functional consequences for presynaptic operation will be considered.</span></p>

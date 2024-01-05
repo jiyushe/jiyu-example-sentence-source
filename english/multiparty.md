@@ -1,5 +1,7 @@
 # multiparty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiparty.md)
+
 <p><span class="chinese">呼吁多党制民主仍然是禁忌，但别的就没什么了。</span><span class="english">Calls for a multiparty democracy remain taboo, but not much else.</span></p>
 
 <p><span class="chinese">这个多党民主将是反帝反封建的。</span><span class="english">This multiparty democracy will be anti-imperialist and anti-feudal.</span></p>

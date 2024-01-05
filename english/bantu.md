@@ -1,5 +1,7 @@
 # bantu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bantu.md)
+
 <p><span class="chinese">芳族的班图语言。</span><span class="english">The Bantu language of the Fang.</span></p>
 
 <p><span class="chinese">属于或关于茨瓦纳方言或说茨瓦纳的人的。</span><span class="english">Of or relating to a dialect of Sotho or the Bantu people who it.</span></p>

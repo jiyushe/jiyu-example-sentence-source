@@ -1,5 +1,7 @@
 # DJ
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dj.md)
+
 <p><span class="chinese">唱片师又放上一碟经典。</span><span class="english">DJ is putting on his usual disc.</span></p>
 
 <p><span class="chinese">你认为谁是最好的电台节目主持人？</span><span class="english">Who do you think is the best DJ?</span></p>

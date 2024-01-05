@@ -1,5 +1,7 @@
 # 资产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zichan.md)
+
 <p><span class="chinese">象牙塔资产。</span><span class="english">Ivory tower assets.</span></p>
 
 <p><span class="chinese">单击您的资产。</span><span class="english">Click on your asset.</span></p>

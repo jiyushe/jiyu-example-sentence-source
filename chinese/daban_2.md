@@ -1,5 +1,7 @@
 # 大班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daban_2.md)
+
 <p><span class="chinese">他把名片放在瘦子季曼的大班台上。</span><span class="english">He placed the card on Skinny Zyama’s desk.</span></p>
 
 <p><span class="chinese">它创造了另一个检查点大班分支。</span><span class="english">It created another check point at Taipan branch.</span></p>

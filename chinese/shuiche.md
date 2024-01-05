@@ -1,5 +1,7 @@
 # 水车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiche.md)
+
 <p><span class="chinese">水推动着水车来回转。</span><span class="english">Water moves the waterwheel.</span></p>
 
 <p><span class="chinese">别担心。我会报告您去水车站的路。</span><span class="english">Don't . I'll you the train station.</span></p>

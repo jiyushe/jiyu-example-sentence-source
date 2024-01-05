@@ -1,5 +1,7 @@
 # sympathise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sympathise.md)
+
 <p><span class="chinese">今天的社会主义者对此也许颇能引起共鸣。</span><span class="english">Socialists today might well sympathise with the sentiment.</span></p>
 
 <p><span class="chinese">你或许甚至发现你的内心在同情它们。</span><span class="english">You might even find it in your heart to sympathise with them.</span></p>

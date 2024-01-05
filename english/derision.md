@@ -1,5 +1,7 @@
 # derision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derision.md)
+
 <p><span class="chinese">他们在向小耗子大声地嘲笑道。</span><span class="english">they cried in derision.</span></p>
 
 <p><span class="chinese">她对他的嘲笑使他无地自容。</span><span class="english">She withered him with derision.</span></p>

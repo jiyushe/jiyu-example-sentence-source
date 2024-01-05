@@ -1,5 +1,7 @@
 # 告急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoji.md)
+
 <p><span class="chinese">女性精神健康问题告急</span><span class="english">Mental health of women in crisis</span></p>
 
 <p><span class="chinese">我们都既告急又高兴。</span><span class="english">All of us were nervous and excited.</span></p>

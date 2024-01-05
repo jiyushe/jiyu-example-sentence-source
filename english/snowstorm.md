@@ -1,5 +1,7 @@
 # snowstorm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowstorm.md)
+
 <p><span class="chinese">我可不想在这种鬼天气里跳伞。</span><span class="english">I'd hate to bail out in this snowstorm.</span></p>
 
 <p><span class="chinese">暴风雪增加了我们的困难。</span><span class="english">The snowstorm added to our difficulties.</span></p>

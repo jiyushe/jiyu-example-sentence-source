@@ -1,5 +1,7 @@
 # sizeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sizeable.md)
+
 <p><span class="chinese">绝大多数认为有罪。</span><span class="english">A pretty sizeable majority.</span></p>
 
 <p><span class="chinese">现在，一亿零四百八十万欧元的巨额资金注入，使得尤文拥有了强大的财政后盾。</span><span class="english">Now Juve can rely on a sizeable increase of capital, 104.8 million euros.</span></p>

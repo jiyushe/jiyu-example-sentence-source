@@ -1,5 +1,7 @@
 # caecum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caecum.md)
+
 <p><span class="chinese">我感到盲肠附近疼痛。</span><span class="english">I feel pain around the caecum.</span></p>
 
 <p><span class="chinese">食肉类动物的盲肠很小。</span><span class="english">Carnivorous animals have a very small caecum.</span></p>

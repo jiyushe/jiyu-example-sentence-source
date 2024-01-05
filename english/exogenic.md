@@ -1,5 +1,7 @@
 # exogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exogenic.md)
+
 <p><span class="chinese">这实际是一套外生铀矿床的“地球化学盆”模式。</span><span class="english">And it is the geochemical basin model of the exogenic U deposit.</span></p>
 
 <p><span class="chinese">海退时期的风暴作用是裸露的陆架上的主要外营力。</span><span class="english">At that time, the aeolation was the major exogenic force on the exposed shelf.</span></p>

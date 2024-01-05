@@ -1,5 +1,7 @@
 # 回复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huifu.md)
+
 <p><span class="chinese">洛佩兹回复。</span><span class="english">Lopez replies.</span></p>
 
 <p><span class="chinese">现在我是不能不回复了。</span><span class="english">Now I had to reply.</span></p>

@@ -1,5 +1,7 @@
 # andromeda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andromeda.md)
+
 <p><span class="chinese">仙女座议会代表Tolec表示</span><span class="english">Andromeda Council representative Tolec states</span></p>
 
 <p><span class="chinese">双鱼座位于仙女座的南边。</span><span class="english">Pisces is a constellation south of Andromeda.</span></p>

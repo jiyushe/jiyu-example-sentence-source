@@ -1,5 +1,7 @@
 # 谈何容易
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanherongyi.md)
+
 <p><span class="chinese">改变谈何容易。</span><span class="english">Change will not come easy.</span></p>
 
 <p><span class="chinese">取悦各方，谈何容易。</span><span class="english">It is hard to please all parties.</span></p>

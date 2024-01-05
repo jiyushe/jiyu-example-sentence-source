@@ -1,5 +1,7 @@
 # 号衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoyi.md)
+
 <p><span class="chinese">她试穿上结婚号衣。</span><span class="english">She tried on her bridal dress.</span></p>
 
 <p><span class="chinese">女性必须穿号衣吗?。</span><span class="english">should the ladies wear dresses?</span></p>

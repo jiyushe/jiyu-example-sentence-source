@@ -1,5 +1,7 @@
 # 遗迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiji_2.md)
+
 <p><span class="chinese">诺亚方舟遗迹被发现了？</span><span class="english">Noah's Ark Found?</span></p>
 
 <p><span class="chinese">说起在莆田的历史遗迹。</span><span class="english">As for Putian's historical sites.</span></p>

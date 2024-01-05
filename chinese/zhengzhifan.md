@@ -1,5 +1,7 @@
 # 政治犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhifan.md)
+
 <p><span class="chinese">他是个软弱的家伙，是个政治犯。</span><span class="english">He's one of the softies, one of the political prisoners.</span></p>
 
 <p><span class="chinese">他们冲击监狱，释放了政治犯。</span><span class="english">They stormed the jails and they freed political prisoners.</span></p>

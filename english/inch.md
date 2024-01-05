@@ -1,5 +1,7 @@
 # inch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inch.md)
+
 <p><span class="chinese">这树十英吋。</span><span class="english">The tree is ten inch.</span></p>
 
 <p><span class="chinese">倘若你只有一寸高。</span><span class="english">If youwere one inch tall.</span></p>

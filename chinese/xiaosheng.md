@@ -1,5 +1,7 @@
 # 小生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaosheng.md)
+
 <p><span class="chinese">她的工作是教国小生英语。</span><span class="english">Her job is teaching pupils English.</span></p>
 
 <p><span class="chinese">事实上，它是一种非常有用的小生物。</span><span class="english">Actually, it's a very useful creature.</span></p>

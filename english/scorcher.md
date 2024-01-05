@@ -1,5 +1,7 @@
 # scorcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scorcher.md)
+
 <p><span class="chinese">那是一个酷热的日子。</span><span class="english">The day was a scorcher.</span></p>
 
 <p><span class="chinese">昨天热得像火炉一样。</span><span class="english">What a scorcher it was yesterday!</span></p>

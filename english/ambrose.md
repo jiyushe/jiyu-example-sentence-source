@@ -1,5 +1,7 @@
 # ambrose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambrose.md)
+
 <p><span class="chinese">史蒂芬·安布罗斯是一位历史学家兼教师。</span><span class="english">Stephen Ambrose is a historian and teacher.</span></p>
 
 <p><span class="chinese">现在在阿姆布罗斯我们还有一个鹰嘴豆泥餐馆。</span><span class="english">We even have a Hummus restaurant now in Ambrose.</span></p>

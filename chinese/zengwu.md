@@ -1,5 +1,7 @@
 # 憎恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengwu.md)
+
 <p><span class="chinese">他们憎恶它。</span><span class="english">They hated it.</span></p>
 
 <p><span class="chinese">香品是我所憎恶的。</span><span class="english">Your incense is detestable to me.</span></p>

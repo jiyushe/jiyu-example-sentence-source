@@ -1,5 +1,7 @@
 # entrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrant.md)
+
 <p><span class="chinese">在一群夏季影片的骡子里，这是一匹罕见的纯种马。</span><span class="english">A rare pedigreed entrant in a summer of mules.</span></p>
 
 <p><span class="chinese">最积极的茶商当中，有一个是市场新手。</span><span class="english">One of the most aggressive players is a new entrant to the market.</span></p>

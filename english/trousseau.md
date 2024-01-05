@@ -1,5 +1,7 @@
 # trousseau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trousseau.md)
+
 <p><span class="chinese">这个柜子是为新娘的嫁妆而做的。</span><span class="english">The chest was made for a bride's trousseau.</span></p>
 
 <p><span class="chinese">我还要给你买嫁妆。</span><span class="english">And I think I'll buy your trousseau for you, too.</span></p>

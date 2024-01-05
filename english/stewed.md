@@ -1,5 +1,7 @@
 # stewed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stewed.md)
+
 <p><span class="chinese">炖蔬菜。</span><span class="english">Stewed vegetables.</span></p>
 
 <p><span class="chinese">他对我的到来感到不安。</span><span class="english">He stewed about my coming.</span></p>

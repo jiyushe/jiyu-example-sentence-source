@@ -1,5 +1,7 @@
 # 资财
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zicai_1.md)
+
 <p><span class="chinese">它们将抵消现代化的益处，并将耗尽资财。</span><span class="english">They cancel out the benefits of modernization. They break the bank.</span></p>
 
 <p><span class="chinese">人的资财，使他生命的赎价，穷乏人却听不见威吓的话。</span><span class="english">Wealth is a ransom for a person's life, but the poor get no threats.</span></p>

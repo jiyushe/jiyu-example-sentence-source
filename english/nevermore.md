@@ -1,5 +1,7 @@
 # nevermore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nevermore.md)
+
 <p><span class="chinese">乌鸦说“永不复还。”“先知！”</span><span class="english">Quoth the Raven, "Nevermore."</span></p>
 
 <p><span class="chinese">有这种名字“水不复还。”</span><span class="english">With such mime as "Nevermore."</span></p>

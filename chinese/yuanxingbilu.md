@@ -1,5 +1,7 @@
 # 原形毕露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanxingbilu.md)
+
 <p><span class="chinese">与原形毕露的一个古铜色雕像。</span><span class="english">A bronze statue with feet of clay.</span></p>
 
 <p><span class="chinese">这种一较高低的念头就使你原形毕露了。</span><span class="english">The very idea of keeping up betrays you.</span></p>

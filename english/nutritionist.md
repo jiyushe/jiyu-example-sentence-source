@@ -1,5 +1,7 @@
 # nutritionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutritionist.md)
+
 <p><span class="chinese">拜访营养学家。</span><span class="english">See a nutritionist.</span></p>
 
 <p><span class="chinese">你若是个持证营养师那对此会很有争议。</span><span class="english">Quite controversial if you’re a certified nutritionist.</span></p>

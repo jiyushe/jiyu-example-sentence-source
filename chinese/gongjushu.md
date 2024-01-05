@@ -1,5 +1,7 @@
 # 工具书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjushu.md)
+
 <p><span class="chinese">小朋友，你能利用工具书找出我的名字吗？</span><span class="english">Students, can you find my name in any reference book?</span></p>
 
 <p><span class="chinese">你们要搞会使用辞典和工具书。</span><span class="english">You have to learn how to use dictionary or reference-books.</span></p>

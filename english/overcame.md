@@ -1,5 +1,7 @@
 # overcame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overcame.md)
+
 <p><span class="chinese">但是他不久就从虚弱恢复过来。</span><span class="english">But he soon overcame this infirmity.</span></p>
 
 <p><span class="chinese">相较而言，意大利从来没有跨越地方主义。</span><span class="english">By contrast, Italy never overcame localism.</span></p>

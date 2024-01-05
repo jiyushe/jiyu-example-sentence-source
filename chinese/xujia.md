@@ -1,5 +1,7 @@
 # 虚假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xujia.md)
+
 <p><span class="chinese">是否有虚假的重叠？</span><span class="english">Are there false overlaps?</span></p>
 
 <p><span class="chinese">谨防“虚假之友”。</span><span class="english">Beware of "false friends."</span></p>

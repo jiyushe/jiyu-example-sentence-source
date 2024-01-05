@@ -1,5 +1,7 @@
 # clinton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clinton.md)
+
 <p><span class="chinese">克林顿将在1996年成为总统。</span><span class="english">Clinton in 96.</span></p>
 
 <p><span class="chinese">希拉里于本周五满60周岁。</span><span class="english">Hillary Clinton turns 60 on Friday.</span></p>

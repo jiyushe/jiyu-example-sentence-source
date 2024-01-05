@@ -1,5 +1,7 @@
 # guard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guard.md)
+
 <p><span class="chinese">我是红卫兵。</span><span class="english">I am a Red Guard.</span></p>
 
 <p><span class="chinese">谁来保卫她?。</span><span class="english">Who come guard her?</span></p>

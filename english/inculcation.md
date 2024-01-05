@@ -1,5 +1,7 @@
 # inculcation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inculcation.md)
+
 <p><span class="chinese">灌输是马克思主义政治教育的基本原则。</span><span class="english">Inculcation is the basic way of Marxist theory education.</span></p>
 
 <p><span class="chinese">小布什也深深记得父亲的谆谆教诲。</span><span class="english">Little Bush also deeply remember a father of inculcation.</span></p>

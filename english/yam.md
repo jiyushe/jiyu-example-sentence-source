@@ -1,5 +1,7 @@
 # yam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yam.md)
+
 <p><span class="chinese">山药有纤体、降血糖的功用。</span><span class="english">Yam have slimming, fall blood sugar function.</span></p>
 
 <p><span class="chinese">青岛哪的烤紫薯最好吃?。</span><span class="english">Which scorching purple yam has meal in Qingdao best?</span></p>

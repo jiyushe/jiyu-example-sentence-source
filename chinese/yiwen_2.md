@@ -1,5 +1,7 @@
 # 艺文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwen_2.md)
+
 <p><span class="chinese">孙艺文和夏乐安在厕所里写字。</span><span class="english">Sun Yiwen and Xia Lean are write in the toilet.</span></p>
 
 <p><span class="chinese">由此可见，其艺文生命的丰富性颇值得探究。</span><span class="english">Thus, the richness of its literature life, rather to be examined.</span></p>

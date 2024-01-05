@@ -1,5 +1,7 @@
 # 大大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dada.md)
+
 <p><span class="chinese">糊涂蛋有大大的耳朵。</span><span class="english">Dopey has big ears.</span></p>
 
 <p><span class="chinese">大宝有大大的耳朵。</span><span class="english">Dumbo has big ears.</span></p>

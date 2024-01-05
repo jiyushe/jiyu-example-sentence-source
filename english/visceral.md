@@ -1,5 +1,7 @@
 # visceral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visceral.md)
+
 <p><span class="chinese">有内脏与腔壁的腹膜。</span><span class="english">There are visceral and parietal peritoneal.</span></p>
 
 <p><span class="chinese">宰杀，脱毛，挖掉内脏。</span><span class="english">Slaughter, hair removal, dig out the visceral.</span></p>

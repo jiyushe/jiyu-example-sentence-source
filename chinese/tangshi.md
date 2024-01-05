@@ -1,5 +1,7 @@
 # 倘使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangshi.md)
+
 <p><span class="chinese">倘使事情还能更糟的话，它会的。</span><span class="english">If from can go wrong- it will.</span></p>
 
 <p><span class="chinese">倘使事情一传出去，要轰动一时的呢。</span><span class="english">It will make a nice row if that comes out.</span></p>

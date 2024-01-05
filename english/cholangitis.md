@@ -1,5 +1,7 @@
 # cholangitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cholangitis.md)
+
 <p><span class="chinese">胆管炎的证据是什么？</span><span class="english">What's evidence for cholangitis?</span></p>
 
 <p><span class="chinese">此类型的硬化性胆管炎在国外较为常见。</span><span class="english">This type of sclerosing cholangitis is prevalent abroad.</span></p>

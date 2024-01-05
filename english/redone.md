@@ -1,5 +1,7 @@
 # redone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redone.md)
+
 <p><span class="chinese">所有的法国盔甲是重做。</span><span class="english">All French armors are redone.</span></p>
 
 <p><span class="chinese">我们必须把屋顶重修一下。</span><span class="english">We must have the roof redone.</span></p>

@@ -1,5 +1,7 @@
 # fractional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fractional.md)
+
 <p><span class="chinese">常用对数的小数部分。</span><span class="english">The fractional part of a logarithm.</span></p>
 
 <p><span class="chinese">是通过部分准备金制度</span><span class="english">They do it with fractional reserves.</span></p>

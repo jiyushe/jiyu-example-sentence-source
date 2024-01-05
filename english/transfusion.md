@@ -1,5 +1,7 @@
 # transfusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transfusion.md)
+
 <p><span class="chinese">严重出血往往需要输血。</span><span class="english">Seere bleeding often requires blood transfusion.</span></p>
 
 <p><span class="chinese">输血后她很快就醒了过来。</span><span class="english">She soon came to her senses after a blood transfusion.</span></p>

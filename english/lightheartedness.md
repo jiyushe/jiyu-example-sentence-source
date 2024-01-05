@@ -1,5 +1,7 @@
 # lightheartedness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lightheartedness.md)
+
 <p><span class="chinese">幸福是一种平和，柔顺和无忧无虑的状态。</span><span class="english">It is peace and gentleness and lightheartedness.</span></p>
 
 <p><span class="chinese">然而，约翰这种轻松愉悦的心情没有持续很久。</span><span class="english">John's lightheartedness , however, did not last long.</span></p>

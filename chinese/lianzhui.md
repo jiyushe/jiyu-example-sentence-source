@@ -1,5 +1,7 @@
 # 连缀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianzhui.md)
+
 <p><span class="chinese">找出辅音连缀的单词。</span><span class="english">Find the words with consonant clusters.</span></p>
 
 <p><span class="chinese">秋天是最斑斓地，落叶黄、冷藏风，连缀不时地雨。</span><span class="english">Autumn is the most beautiful, yellow leaves, chill wind, continuous rain.</span></p>

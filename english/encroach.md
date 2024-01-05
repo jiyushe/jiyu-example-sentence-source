@@ -1,5 +1,7 @@
 # encroach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encroach.md)
+
 <p><span class="chinese">农业是郊区逐步蚕食，在这方面的下降。</span><span class="english">Farming is on the decline in this area as the suburbs gradually encroach.</span></p>
 
 <p><span class="chinese">一档电视节目不得侵占另一档节目的时间。</span><span class="english">One TV pro- gram is not permitted to encroach on time allotted to another.</span></p>

@@ -1,5 +1,7 @@
 # campagna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/campagna.md)
+
 <p><span class="chinese">你跑这么远从平原过来就为了说这个？</span><span class="english">You came all the way from campagna to say that?</span></p>
 
 <p><span class="chinese">宁夏平原是我国绿洲主要分布地区之一。</span><span class="english">Ningxia Campagna is our country oasis one of main distributinging areas.</span></p>

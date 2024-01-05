@@ -1,5 +1,7 @@
 # 儿童剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ertongju.md)
+
 <p><span class="chinese">上星期我们去儿童剧院。</span><span class="english">Last week we went to a Children's theatre.</span></p>
 
 <p><span class="chinese">上周我们去了一家儿童剧院。</span><span class="english">Last week we went to a children's theatre.</span></p>

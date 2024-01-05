@@ -1,5 +1,7 @@
 # 供不应求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongbuyingqiu.md)
+
 <p><span class="chinese">团队精神和协作供不应求。</span><span class="english">Teamwork and collaboration is in short supply.</span></p>
 
 <p><span class="chinese">这些货物供不应求。</span><span class="english">The demand for these goods exceeds the supply.</span></p>

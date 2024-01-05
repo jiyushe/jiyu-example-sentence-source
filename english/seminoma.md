@@ -1,5 +1,7 @@
 # seminoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seminoma.md)
+
 <p><span class="chinese">另例睾丸精原细胞瘤。</span><span class="english">Here is another seminoma of the testis.</span></p>
 
 <p><span class="chinese">精原细胞瘤的发生同样应遵循这个规律。</span><span class="english">The development of seminoma also follows this rule.</span></p>

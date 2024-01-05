@@ -1,5 +1,7 @@
 # stringent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stringent.md)
+
 <p><span class="chinese">严格地自我审查。</span><span class="english">Stringent self-censorship.</span></p>
 
 <p><span class="chinese">这台设备要求高标准。</span><span class="english">This instrument demands stringent specification.</span></p>

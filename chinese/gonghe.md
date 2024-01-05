@@ -1,5 +1,7 @@
 # 共和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonghe.md)
+
 <p><span class="chinese">它产生了共和主义。</span><span class="english">It led to Republicanism.</span></p>
 
 <p><span class="chinese">仿佛就是一个共和政体。</span><span class="english">It is like being in a republic.</span></p>

@@ -1,5 +1,7 @@
 # postmenopausal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postmenopausal.md)
+
 <p><span class="chinese">这个研究包括了近46000名绝经后妇女。</span><span class="english">The study included nearly 46,000 postmenopausal U.</span></p>
 
 <p><span class="chinese">减少痤疮，减少绝经后髋部骨折的危险。</span><span class="english">Can decrease the risk of postmenopausal hip fracture.</span></p>

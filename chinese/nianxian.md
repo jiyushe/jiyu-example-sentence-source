@@ -1,5 +1,7 @@
 # 年限
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianxian.md)
+
 <p><span class="chinese">这些机组的工作年限都已超过40年。</span><span class="english">The units are all more than 40 years old.</span></p>
 
 <p><span class="chinese">而当酒贮放年限太久也会衰退而有醋酸味。</span><span class="english">A wine that is too old may also be vinegary.</span></p>

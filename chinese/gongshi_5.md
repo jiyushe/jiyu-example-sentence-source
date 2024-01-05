@@ -1,5 +1,7 @@
 # 共识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshi_5.md)
+
 <p><span class="chinese">不幸的是，这种共识是错误的。</span><span class="english">Unhappily, this consensus is false.</span></p>
 
 <p><span class="chinese">这是他的一些共识，目标答案。</span><span class="english">Here are his common-sense, on-target.</span></p>

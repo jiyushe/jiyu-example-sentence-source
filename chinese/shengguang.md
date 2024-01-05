@@ -1,5 +1,7 @@
 # 声光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengguang.md)
+
 <p><span class="chinese">指标和声光报警。</span><span class="english">Audible and visual indicator alarm.</span></p>
 
 <p><span class="chinese">声光报警，在静音或嘈杂的环境中均可使用。</span><span class="english">Acousto-optic alarm, mute or noisy environment, all can use.</span></p>

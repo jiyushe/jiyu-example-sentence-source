@@ -1,5 +1,7 @@
 # pcp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pcp.md)
+
 <p><span class="chinese">五氯苯酚中所含的二恶英正是污染物。</span><span class="english">PCP contains dioxins as contamination.</span></p>
 
 <p><span class="chinese">HIV阳性，并有过卡式肺囊虫肺炎治疗史的病人</span><span class="english">HIV-positive people with a history of treated PCP.</span></p>

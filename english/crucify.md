@@ -1,5 +1,7 @@
 # crucify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crucify.md)
+
 <p><span class="chinese">他们说，把他钉十字架。</span><span class="english">They all answered, "Crucify him!"</span></p>
 
 <p><span class="chinese">是什麽把「和散那」变成了「钉他十字架」？</span><span class="english">What changed the "Hosannas" to "Crucify Him"?</span></p>

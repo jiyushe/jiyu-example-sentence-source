@@ -1,5 +1,7 @@
 # 圣水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshui_1.md)
+
 <p><span class="chinese">纯净的圣水洗礼著人居的岸沿。</span><span class="english">Of pure ablution round earth's human shores.</span></p>
 
 <p><span class="chinese">用圣水冲洗人间的岸滩。</span><span class="english">Of pure oblution round earth's human shores.</span></p>

@@ -1,5 +1,7 @@
 # walkway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walkway.md)
+
 <p><span class="chinese">从天篷走道被见到的密集的雨林。</span><span class="english">Dense Rainforest seen from Canopy Walkway.</span></p>
 
 <p><span class="chinese">人行道上的积雪差不多有两英尺厚。</span><span class="english">The walkway is buried in two feet of snow.</span></p>

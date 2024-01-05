@@ -1,5 +1,7 @@
 # plinth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plinth.md)
+
 <p><span class="chinese">后面是一尊放置在柱基上的宙斯半身像。</span><span class="english">Behind Nike, the bust of Zeus on a plinth.</span></p>
 
 <p><span class="chinese">这一举措旨在使第四柱基能成为当代艺术的代表符号。</span><span class="english">The move aims to become the fourth plinth of symbol of contemporary art.</span></p>

@@ -1,5 +1,7 @@
 # 宿主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suzhu.md)
+
 <p><span class="chinese">鸟类是西尼罗河病毒的宿主。</span><span class="english">Birds are the reservoir hosts of WNV.</span></p>
 
 <p><span class="chinese">他们为肺癌吸虫的中间宿主。</span><span class="english">They are intermediate hosts of lung flukes.</span></p>

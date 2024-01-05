@@ -1,5 +1,7 @@
 # eradication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eradication.md)
+
 <p><span class="chinese">他不担心销烟。</span><span class="english">He is not worried about eradication.</span></p>
 
 <p><span class="chinese">我指的是根除脊髓灰质炎。</span><span class="english">I am referring to polio eradication.</span></p>

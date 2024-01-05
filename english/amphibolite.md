@@ -1,5 +1,7 @@
 # amphibolite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amphibolite.md)
+
 <p><span class="chinese">属于角闪岩相产物。</span><span class="english">They belong to the amphibolite facies.</span></p>
 
 <p><span class="chinese">带内最高变质相达角闪岩相。</span><span class="english">The highest metamorphic facies in the zone reached amphibolite facies.</span></p>

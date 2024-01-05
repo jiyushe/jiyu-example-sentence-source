@@ -1,5 +1,7 @@
 # parameterize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parameterize.md)
+
 <p><span class="chinese">我们知道如何参数化这条直线。</span><span class="english">We know how to parameterize this line.</span></p>
 
 <p><span class="chinese">参数化其他的细节也非常容易。</span><span class="english">You can parameterize other details easily enough.</span></p>

@@ -1,5 +1,7 @@
 # 手纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhi_2.md)
+
 <p><span class="chinese">一些人乱扔鸡蛋和手纸。</span><span class="english">Some threw eggs and toilet paper.</span></p>
 
 <p><span class="chinese">没办法，只能拿别人用过的手纸擦了。</span><span class="english">I can't help but wipe my ass with used toilet paper.</span></p>

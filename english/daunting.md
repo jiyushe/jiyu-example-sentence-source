@@ -1,5 +1,7 @@
 # daunting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daunting.md)
+
 <p><span class="chinese">令人生畏的任务摆在我们面前。</span><span class="english">The task ahead of us was daunting.</span></p>
 
 <p><span class="chinese">这是一个让人望而生畏的数据。</span><span class="english">That is a daunting enough statistic.</span></p>

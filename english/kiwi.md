@@ -1,5 +1,7 @@
 # kiwi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiwi.md)
+
 <p><span class="chinese">我的名字叫几维。</span><span class="english">My name is Kiwi.</span></p>
 
 <p><span class="chinese">有机猕猴桃。</span><span class="english">This organic kiwi.</span></p>

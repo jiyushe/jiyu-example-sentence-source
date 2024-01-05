@@ -1,5 +1,7 @@
 # loth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loth.md)
+
 <p><span class="chinese">没了政府撑腰，私人企业掏起钱来心不甘情不愿。</span><span class="english">Without strong government backing, the private sector was loth to fork out.</span></p>
 
 <p><span class="chinese">但他同样也不情愿那片失败的领土落入基地组织的手中。</span><span class="english">But equally he is plainly loth to let that failed state slide further into the domain of al-Qaeda.</span></p>

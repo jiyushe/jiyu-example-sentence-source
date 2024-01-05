@@ -1,5 +1,7 @@
 # 不得要领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budeyaoling.md)
+
 <p><span class="chinese">你只是还不得要领啊。</span><span class="english">You just haven't got it right.</span></p>
 
 <p><span class="chinese">因此许多争执都是不得要领的。</span><span class="english">So many arguments are so pointless.</span></p>

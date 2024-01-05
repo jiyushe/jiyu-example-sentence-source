@@ -1,5 +1,7 @@
 # 恐怖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongbu.md)
+
 <p><span class="chinese">这景象使他们恐怖。</span><span class="english">The sight-fied them.</span></p>
 
 <p><span class="chinese">我认为这样做是令人恐怖的。</span><span class="english">I think that’s horrible.</span></p>

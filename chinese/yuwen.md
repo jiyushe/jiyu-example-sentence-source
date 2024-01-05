@@ -1,5 +1,7 @@
 # 与闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuwen.md)
+
 <p><span class="chinese">不能让这样的人与闻国家机密。</span><span class="english">We mustn't allow such a person access to confidential matters of the state.</span></p>
 
 <p><span class="chinese">但现在中国事敌人了，还让他与闻更多的美国机密，这适合吗？</span><span class="english">S. But now that China was hostile, was it reasonable to let him learn more U.</span></p>

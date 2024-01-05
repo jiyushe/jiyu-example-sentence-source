@@ -1,5 +1,7 @@
 # 非得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feidei.md)
+
 <p><span class="chinese">你非得服从命令不可。</span><span class="english">You must obey orders.</span></p>
 
 <p><span class="chinese">你不必非得跟我说。</span><span class="english">You don't have to tellme.</span></p>

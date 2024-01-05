@@ -1,5 +1,7 @@
 # amman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amman.md)
+
 <p><span class="chinese">安曼现代化城区里的古罗马露天剧场。</span><span class="english">The ancient Roman ampthitheatre set in modern central Amman.</span></p>
 
 <p><span class="chinese">她生活在纽约，但我们通过她在安曼的移动电话联系到了她。</span><span class="english">She lives in New York but we reached her on her mobile phone in Amman.</span></p>

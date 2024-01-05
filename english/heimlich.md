@@ -1,5 +1,7 @@
 # heimlich
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heimlich.md)
+
 <p><span class="chinese">因此我们应该知道著名的海姆利希时刻。</span><span class="english">And so we have known some famous Heimlich moments.</span></p>
 
 <p><span class="chinese">她本想自己尝试做海姆利克氏操作法但却无效。</span><span class="english">She attempted to perform the Heimlich maneuver on herself but it didn't work.</span></p>

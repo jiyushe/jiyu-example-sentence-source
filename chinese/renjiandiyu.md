@@ -1,5 +1,7 @@
 # 人间地狱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renjiandiyu.md)
+
 <p><span class="chinese">真的、真的是个人间地狱。</span><span class="english">Truly, a hell on earth.</span></p>
 
 <p><span class="chinese">博格宁曾经说回家就像被打入人间地狱一样。</span><span class="english">"By the time we got home," he once said, "it was hell on earth."</span></p>

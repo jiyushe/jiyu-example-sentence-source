@@ -1,5 +1,7 @@
 # auditor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auditor.md)
+
 <p><span class="chinese">查帐员审核了全部凭单。</span><span class="english">The auditor looked through all the vouchers.</span></p>
 
 <p><span class="chinese">稽核员开始审察帐务。</span><span class="english">The auditor began the examination of accounts.</span></p>

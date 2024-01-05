@@ -1,5 +1,7 @@
 # 缝纫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengren_1.md)
+
 <p><span class="chinese">他们喜欢缝纫。</span><span class="english">They love to sew.</span></p>
 
 <p><span class="chinese">有助于缝纫工的缝制。</span><span class="english">An overcast stitch or seam.</span></p>

@@ -1,5 +1,7 @@
 # masculine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masculine.md)
+
 <p><span class="chinese">他们害怕并且鄙视男性化。</span><span class="english">They fear and despise the masculine.</span></p>
 
 <p><span class="chinese">公牛，公羊，国王和男演员都是阳性的。</span><span class="english">Bull, ram, king and actor are masculine.</span></p>

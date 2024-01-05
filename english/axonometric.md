@@ -1,5 +1,7 @@
 # axonometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axonometric.md)
+
 <p><span class="chinese">这样的投影图称为轴测图。</span><span class="english">Such a projection is called axonometric projection.</span></p>
 
 <p><span class="chinese">在工程图中，斜轴测图是很有用的。</span><span class="english">In engineering, oblique axonometric drawing is useful.</span></p>

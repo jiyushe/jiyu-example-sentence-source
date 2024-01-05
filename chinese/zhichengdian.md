@@ -1,5 +1,7 @@
 # 支撑点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhichengdian.md)
+
 <p><span class="chinese">对精神性的追求是艺术发展的原动力和支撑点。</span><span class="english">Seeking after spirit is the impulsion of development of art.</span></p>
 
 <p><span class="chinese">在日常生活中，支撑点也是非常重要的。</span><span class="english">Handholds are needed also during the course of everyday life.</span></p>

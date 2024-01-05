@@ -1,5 +1,7 @@
 # 应变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingbian.md)
+
 <p><span class="chinese">但美联储将如何应变呢？</span><span class="english">But how will the Fed change?</span></p>
 
 <p><span class="chinese">去除冷加工后的应变。</span><span class="english">To remove strains after cold working.</span></p>

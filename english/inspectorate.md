@@ -1,5 +1,7 @@
 # inspectorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inspectorate.md)
+
 <p><span class="chinese">药政机构的检查部门是国家药政机构实施法规的武器。</span><span class="english">The government inspectorate represents the enforcement arm of the national drug regulatory authority.</span></p>
 
 <p><span class="chinese">从那里，“育种家种子”的制定和肯尼亚植物卫生检验服务的规管。</span><span class="english">From there, a "breeder seed" is developed and regulated by the Kenya Plant Health Inspectorate Service.</span></p>

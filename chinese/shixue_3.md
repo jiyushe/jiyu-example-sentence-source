@@ -1,5 +1,7 @@
 # 失血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixue_3.md)
+
 <p><span class="chinese">术中平均失血量500毫升。</span><span class="english">Median intraoperative blood loss was 500 mL.</span></p>
 
 <p><span class="chinese">别乱来，不要让他失血太多。</span><span class="english">Freeze, don't make him to lose too much blood.</span></p>

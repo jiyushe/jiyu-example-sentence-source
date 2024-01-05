@@ -1,5 +1,7 @@
 # patois
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patois.md)
+
 <p><span class="chinese">他会说当地方言。</span><span class="english">He speaks the local patois.</span></p>
 
 <p><span class="chinese">俚语是通俗的口头语，带有浓郁的地方色彩和民间韵味。</span><span class="english">As a patois , or colloquial , slang is permeated with rich local color and flavor.</span></p>

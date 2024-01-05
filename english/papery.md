@@ -1,5 +1,7 @@
 # papery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/papery.md)
+
 <p><span class="chinese">尼龙雨衣的手感又干又脆又薄，像纸一样。</span><span class="english">Linen raincoats have a crisp, papery feel.</span></p>
 
 <p><span class="chinese">我吃了一片药止住那薄薄的纸一样的感觉。</span><span class="english">I have taken a pill to kill The thin Papery feeling.</span></p>

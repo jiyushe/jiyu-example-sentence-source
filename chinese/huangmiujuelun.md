@@ -1,5 +1,7 @@
 # 荒谬绝伦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangmiujuelun.md)
+
 <p><span class="chinese">他的观点荒谬绝伦。</span><span class="english">His viewpoint was utterly absurd.</span></p>
 
 <p><span class="chinese">我不相信那个荒谬绝伦的故事。</span><span class="english">I didn't credit that absurd tale.</span></p>

@@ -1,5 +1,7 @@
 # promotive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promotive.md)
+
 <p><span class="chinese">奖励经费在业务经费中列支。</span><span class="english">Promotive funds is raised in the row in business funds.</span></p>
 
 <p><span class="chinese">一个民族的语言智慧总是在相续相生中变化。</span><span class="english">A nation's language wisdom always change in mutual promotive relations.</span></p>

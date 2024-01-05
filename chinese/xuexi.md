@@ -1,5 +1,7 @@
 # 学习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuexi.md)
+
 <p><span class="chinese">好好学习！</span><span class="english">Study!</span></p>
 
 <p><span class="chinese">努力学习。</span><span class="english">Study hard.</span></p>

@@ -1,5 +1,7 @@
 # castling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/castling.md)
+
 <p><span class="chinese">阻止其易位，并打通中心部分。</span><span class="english">Prevent castling and open the center.</span></p>
 
 <p><span class="chinese">检查它是否是好的进行易位。</span><span class="english">Check if it is good to conduct castling.</span></p>

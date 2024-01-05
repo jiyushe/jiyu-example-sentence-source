@@ -1,5 +1,7 @@
 # 脱发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuofa.md)
+
 <p><span class="chinese">这个年轻人开始迅速脱发。</span><span class="english">The young man was starting to bald rapidly.</span></p>
 
 <p><span class="chinese">潘婷防脱发洗发水就是个很好的例子。</span><span class="english">A good example is Pantene Hair Fall Control.</span></p>

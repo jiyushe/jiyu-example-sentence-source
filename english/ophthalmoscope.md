@@ -1,5 +1,7 @@
 # ophthalmoscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ophthalmoscope.md)
+
 <p><span class="chinese">应用激光扫描眼底镜录像血管造影测量眼血流指标。</span><span class="english">Measurement of ocular blood flow by scanning laser ophthalmoscope video angiography.</span></p>
 
 <p><span class="chinese">应用间接检眼镜直视下手术可大大提高手术成功率。</span><span class="english">Accurate tears localization with binocular indirect ophthalmoscope can increase successful rate.</span></p>

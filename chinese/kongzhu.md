@@ -1,5 +1,7 @@
 # 空竹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongzhu.md)
+
 <p><span class="chinese">爸爸收藏的空竹。</span><span class="english">My Dad's extensive collection of diabolos.</span></p>
 
 <p><span class="chinese">如果快速抖动的话，空竹就会发出很有特点的响声。</span><span class="english">If the fast-jitter, then we will send Cephalostachyum very characteristic sound.</span></p>

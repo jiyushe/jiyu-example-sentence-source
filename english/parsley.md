@@ -1,5 +1,7 @@
 # parsley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parsley.md)
+
 <p><span class="chinese">芜荽，鼠尾草，迷迭香和百里香。</span><span class="english">Parsley sage, rosemary and thyme.</span></p>
 
 <p><span class="chinese">小蜜蜂欧芹草本抗痘露。</span><span class="english">Burt's Bees Parsley Blemish Stick.</span></p>

@@ -1,5 +1,7 @@
 # 栈道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhandao.md)
+
 <p><span class="chinese">你明修栈道我暗渡陈仓咱各显其能。</span><span class="english">You're moving one way and I'm planning my way.</span></p>
 
 <p><span class="chinese">而盘面，分明就是明修栈道，暗渡陈仓。</span><span class="english">The disk, clearly is repairing the surreptitious.</span></p>

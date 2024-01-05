@@ -1,5 +1,7 @@
 # damp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damp.md)
+
 <p><span class="chinese">潮湿的木头不会着火。</span><span class="english">Damp Wood will not fire.</span></p>
 
 <p><span class="chinese">木头是湿的，点不着。</span><span class="english">Damp wood will not fire.</span></p>

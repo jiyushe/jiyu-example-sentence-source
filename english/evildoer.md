@@ -1,5 +1,7 @@
 # evildoer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evildoer.md)
+
 <p><span class="chinese">老娘法眼一开就知道你是个妖孽了。</span><span class="english">Hogan opened his aging mother know you are an evildoer.</span></p>
 
 <p><span class="chinese">耶和华会照着恶人所作的恶来报应他。</span><span class="english">The Lord shall repay the evildoer according to his wickedness.</span></p>

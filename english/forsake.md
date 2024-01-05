@@ -1,5 +1,7 @@
 # forsake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forsake.md)
+
 <p><span class="chinese">你必须革除你的坏习惯。</span><span class="english">You must forsake your bad habits.</span></p>
 
 <p><span class="chinese">耶和华说，我要撇弃你们。</span><span class="english">I will forsake you, declares the LORD.</span></p>

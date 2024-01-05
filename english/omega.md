@@ -1,5 +1,7 @@
 # omega
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omega.md)
+
 <p><span class="chinese">我是阿尔法，我是哦梅戛。</span><span class="english">I am Alpha and Omega.</span></p>
 
 <p><span class="chinese">我们也会考虑符号Ω</span><span class="english">We also looked at Omega Notation.</span></p>

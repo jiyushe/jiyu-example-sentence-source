@@ -1,5 +1,7 @@
 # 本义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benyi.md)
+
 <p><span class="chinese">而成功的本义就是指达到自己的愿望。</span><span class="english">The core of success is achieving one’s wishes.</span></p>
 
 <p><span class="chinese">很明显，“想法”这个词我们的理解应从它的本义去入手。</span><span class="english">Obviously the word must be taken in its proper sense.</span></p>

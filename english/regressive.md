@@ -1,5 +1,7 @@
 # regressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regressive.md)
+
 <p><span class="chinese">在某种意义上,这种税制结构是退化的</span><span class="english">So, in a sense, the tax structure was regressive.</span></p>
 
 <p><span class="chinese">这些丧尽天良的人需要在这里听一听真相。</span><span class="english">These regressive minds here need to here the truth.</span></p>

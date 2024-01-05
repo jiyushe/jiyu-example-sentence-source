@@ -1,5 +1,7 @@
 # arousal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arousal.md)
+
 <p><span class="chinese">从本质而言，这是个觉醒的过程。</span><span class="english">This is essentially a process of arousal.</span></p>
 
 <p><span class="chinese">即使你有真的性觉醒错觉。</span><span class="english">So even you can misattribute real arousal.</span></p>

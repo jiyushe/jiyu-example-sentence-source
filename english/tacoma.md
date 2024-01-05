@@ -1,5 +1,7 @@
 # tacoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tacoma.md)
+
 <p><span class="chinese">摄于塔科马市东北方。</span><span class="english">Taken from North east Tacoma.</span></p>
 
 <p><span class="chinese">塔科马的警方怎么说那个爆炸？</span><span class="english">What did tacoma pd say about the explosion?.</span></p>

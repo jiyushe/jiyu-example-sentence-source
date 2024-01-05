@@ -1,5 +1,7 @@
 # vibrancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vibrancy.md)
+
 <p><span class="chinese">它带来有活力感，令人眼花缭乱的颜色，和浓郁口味的食物。</span><span class="english">It lends vibrancy , dazzling color, and deep savoriness to foods.</span></p>
 
 <p><span class="chinese">需要什么才可以产生项目发起人所吹捧的活力？</span><span class="english">What does it take to generate the vibrancy so touted by the projects' initiators ?</span></p>

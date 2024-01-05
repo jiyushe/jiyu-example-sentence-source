@@ -1,5 +1,7 @@
 # piston
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piston.md)
+
 <p><span class="chinese">从齿条活塞上拆下工具。</span><span class="english">Remove tool from rack piston.</span></p>
 
 <p><span class="chinese">现在我的活塞在这里。</span><span class="english">There's my piston right there.</span></p>

@@ -1,5 +1,7 @@
 # insubstantial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insubstantial.md)
+
 <p><span class="chinese">之后，男人就是浮云了。</span><span class="english">After this, a man is as insubstantial as a cloud.</span></p>
 
 <p><span class="chinese">早期的飞行器是木头和胶粘合的脆弱机器。</span><span class="english">Early aircraft were insubstantial constructions of wood and glue.</span></p>

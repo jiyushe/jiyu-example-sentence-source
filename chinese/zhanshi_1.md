@@ -1,5 +1,7 @@
 # 战事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanshi_1.md)
+
 <p><span class="chinese">霍山城战事正酣。</span><span class="english">Huoshan height in city.</span></p>
 
 <p><span class="chinese">五百年里无战事。</span><span class="english">Five hundred years without a war.</span></p>

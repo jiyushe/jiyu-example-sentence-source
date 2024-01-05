@@ -1,5 +1,7 @@
 # tuffaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuffaceous.md)
+
 <p><span class="chinese">凝灰岩充填着整个盆地。</span><span class="english">The tuffaceous blanketed the entire basin.</span></p>
 
 <p><span class="chinese">凝灰岩充填着整个盆地。</span><span class="english">The tuffaceous blanketed the entire basin.</span></p>

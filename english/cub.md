@@ -1,5 +1,7 @@
 # cub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cub.md)
+
 <p><span class="chinese">那只幼兽是只小熊。</span><span class="english">A cub is a small bear.</span></p>
 
 <p><span class="chinese">师傅在襁褓中发现他。</span><span class="english">Shifu found him as a cub.</span></p>

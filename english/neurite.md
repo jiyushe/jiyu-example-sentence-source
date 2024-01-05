@@ -1,5 +1,7 @@
 # neurite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurite.md)
+
 <p><span class="chinese">它们是损伤后轴索反应性生长的天然抑制物。</span><span class="english">They serve as natural impediments to neurite growth in response to injury.</span></p>
 
 <p><span class="chinese">阳性克隆培养上清能促进PC12细胞突起生长。</span><span class="english">The culture supernatant could stimulate the neurite outgrowth of PC12 cells.</span></p>

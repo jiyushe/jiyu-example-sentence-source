@@ -1,5 +1,7 @@
 # harold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harold.md)
+
 <p><span class="chinese">哈罗德·贝尔瑟。</span><span class="english">Harold Belser.</span></p>
 
 <p><span class="chinese">哈罗德。邓洛普？</span><span class="english">The Harold Dunlop?</span></p>

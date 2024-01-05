@@ -1,5 +1,7 @@
 # leila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leila.md)
+
 <p><span class="chinese">一天晚上，莱拉独自站在花园里观察夜空。</span><span class="english">One night, Leila stood alone in the garden, watching the sky.</span></p>
 
 <p><span class="chinese">说明磊落的政治家的胸怀和历史的责任感。</span><span class="english">Leila Help-minded politicians and historical sense of responsibility.</span></p>

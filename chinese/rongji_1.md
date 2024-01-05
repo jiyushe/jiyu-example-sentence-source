@@ -1,5 +1,7 @@
 # 熔剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongji_1.md)
+
 <p><span class="chinese">主要用作碳硫分析助熔剂。</span><span class="english">Mainy used as flux for C-S analysis.</span></p>
 
 <p><span class="chinese">熔剂在高炉中起什么作用?。</span><span class="english">What do fluxes do in blast furnace smelting?</span></p>

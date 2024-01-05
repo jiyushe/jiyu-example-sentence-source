@@ -1,5 +1,7 @@
 # inflorescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflorescence.md)
+
 <p><span class="chinese">买麻藤雌雄异株，具穗状花序。</span><span class="english">G. montanum is dioecious with spike inflorescence.</span></p>
 
 <p><span class="chinese">花序轴“之”字形弯曲的有限花序。</span><span class="english">A determinate cymose inflorescence with a zigzag rachis.</span></p>

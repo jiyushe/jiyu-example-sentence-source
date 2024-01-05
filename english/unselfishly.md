@@ -1,5 +1,7 @@
 # unselfishly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unselfishly.md)
+
 <p><span class="chinese">她的慷慨鼓励了其他人无私地给予。</span><span class="english">Her generosity encouraged others to give unselfishly.</span></p>
 
 <p><span class="chinese">你无私地帮助我和其他人，上帝保佑你。</span><span class="english">God bless you for helping me and unselfishly serving others.</span></p>

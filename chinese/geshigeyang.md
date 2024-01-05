@@ -1,5 +1,7 @@
 # 各式各样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geshigeyang.md)
+
 <p><span class="chinese">此外还有其它各式各样的水禽。</span><span class="english">All kinds of waterfowl abound.</span></p>
 
 <p><span class="chinese">我常进食各式各样的食物。</span><span class="english">I always eat a variety of foods.</span></p>

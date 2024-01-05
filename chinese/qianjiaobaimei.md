@@ -1,5 +1,7 @@
 # 千娇百媚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianjiaobaimei.md)
+
 <p><span class="chinese">戏里的女子都是千娇百媚、万种风情。</span><span class="english">Women are drama , 10,000 kinds of customs.</span></p>
 
 <p><span class="chinese">她对丈夫总是千娇百媚。</span><span class="english">She is bewitchingly charming to her husband.</span></p>

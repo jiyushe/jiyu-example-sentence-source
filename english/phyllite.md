@@ -1,5 +1,7 @@
 # phyllite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phyllite.md)
+
 <p><span class="chinese">主要矿石类型有含铁碧玉岩型和蚀变千枚岩型。</span><span class="english">Jaspilite and altered phyllite are the main ore types.</span></p>
 
 <p><span class="chinese">矿床主岩为中泥盆统干枚岩、板岩。</span><span class="english">The host-rock of the ore deposit is phyllite and slate of Middle Devonian.</span></p>

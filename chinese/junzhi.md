@@ -1,5 +1,7 @@
 # 军职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junzhi.md)
+
 <p><span class="chinese">格兰特辞去军职，竞选总统。</span><span class="english">Grant resigned from the army to run for president.</span></p>
 
 <p><span class="chinese">另许多席位留给了“退役的”军职人员。</span><span class="english">Many others will be filled by "retired" army officers.</span></p>

@@ -1,5 +1,7 @@
 # 打手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashou.md)
+
 <p><span class="chinese">被称为“不走运的天才打手”。</span><span class="english">Talent goon who is not in luck by named.</span></p>
 
 <p><span class="chinese">好的，请你回去再做一个打手出界旗示。</span><span class="english">Ok, please go back and repeat the flag signal.</span></p>

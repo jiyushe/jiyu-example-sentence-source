@@ -1,5 +1,7 @@
 # carton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carton.md)
+
 <p><span class="chinese">按一下牛奶纸盒。</span><span class="english">Click on the milk carton.</span></p>
 
 <p><span class="chinese">封箱胶带请封2层。</span><span class="english">Do tape 2 layers of carton.</span></p>

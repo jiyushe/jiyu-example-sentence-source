@@ -1,5 +1,7 @@
 # tuxedo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuxedo.md)
+
 <p><span class="chinese">礼服出租店。</span><span class="english">The tuxedo rental store.</span></p>
 
 <p><span class="chinese">我希望雕像是穿一身礼服的。</span><span class="english">I want a tuxedo on the statue.</span></p>

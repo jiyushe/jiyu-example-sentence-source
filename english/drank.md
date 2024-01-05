@@ -1,5 +1,7 @@
 # drank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drank.md)
+
 <p><span class="chinese">他把这杯喝干了。</span><span class="english">He drank the cup dry.</span></p>
 
 <p><span class="chinese">他把酒喝干了。</span><span class="english">He drank the wine dry.</span></p>

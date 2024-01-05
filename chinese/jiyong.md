@@ -1,5 +1,7 @@
 # 急用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiyong.md)
+
 <p><span class="chinese">能不能快点，急用，谢谢。</span><span class="english">Can quickly, urgent need, thank you.</span></p>
 
 <p><span class="chinese">你要存钱，以备急用。</span><span class="english">Save money for yourself in case of emergencies.</span></p>

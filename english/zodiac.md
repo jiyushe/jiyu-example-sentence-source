@@ -1,5 +1,7 @@
 # zodiac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zodiac.md)
+
 <p><span class="chinese">“十二宫图”会影响我们吗？</span><span class="english">Does the zodiac affect us?</span></p>
 
 <p><span class="chinese">另有十二生肖中有蛇。</span><span class="english">Another twelve Chinese zodiac snake.</span></p>

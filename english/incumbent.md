@@ -1,5 +1,7 @@
 # incumbent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incumbent.md)
+
 <p><span class="chinese">我变为支持他是我们义不容辞的责任。</span><span class="english">I think it's incumbent upon us to support him.</span></p>
 
 <p><span class="chinese">现任CIDG首席网络架构师兼CEO。</span><span class="english">Incumbent CIDG Chief Network Architect and CEO.</span></p>

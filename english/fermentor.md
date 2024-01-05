@@ -1,5 +1,7 @@
 # fermentor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fermentor.md)
+
 <p><span class="chinese">为开展发酵罐分批补料高密度培养奠定了基础。</span><span class="english">It provided a good foundation for exploring fed-batch process in fermentor.</span></p>
 
 <p><span class="chinese">本文利用气升式发酵罐研究了黄原胶的发酵工艺。</span><span class="english">In this article, fermentation condition of Xanthan Gum in airlift fermentor was studied.</span></p>

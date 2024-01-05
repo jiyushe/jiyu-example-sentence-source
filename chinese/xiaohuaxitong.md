@@ -1,5 +1,7 @@
 # 消化系统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohuaxitong.md)
+
 <p><span class="chinese">小儿斜颈、小儿消化系统疾患。</span><span class="english">Young child torticollis, young child digesting system illness.</span></p>
 
 <p><span class="chinese">我们的消化系统是可以平静的接受一些细菌的。</span><span class="english">The body can take quite a bit of other bacteria in our ingestion.</span></p>

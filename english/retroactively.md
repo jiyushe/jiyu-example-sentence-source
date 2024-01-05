@@ -1,5 +1,7 @@
 # retroactively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retroactively.md)
+
 <p><span class="chinese">l该封顶计划没有追溯力。</span><span class="english">The cap won't apply retroactively.</span></p>
 
 <p><span class="chinese">司特纳斯碎纸机完全摧毁了敏感数据，如果您需要，甚至还可以追回。</span><span class="english">The Steganos Shredder destroys sensitive data completely and, if desired, even retroactively.</span></p>

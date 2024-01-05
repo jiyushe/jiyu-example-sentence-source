@@ -1,5 +1,7 @@
 # 咳血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kexue.md)
+
 <p><span class="chinese">他开始咳血了。</span><span class="english">He started coughing blood.</span></p>
 
 <p><span class="chinese">我不停地咳血。</span><span class="english">I cough blood all the time.</span></p>

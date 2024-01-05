@@ -1,5 +1,7 @@
 # fencing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fencing.md)
+
 <p><span class="chinese">击剑他是老手。</span><span class="english">He is an old hand at fencing.</span></p>
 
 <p><span class="chinese">在击剑时用的是把重剑。</span><span class="english">I use a heavy sabre in fencing.</span></p>

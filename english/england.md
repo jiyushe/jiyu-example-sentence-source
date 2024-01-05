@@ -1,5 +1,7 @@
 # england
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/england.md)
+
 <p><span class="chinese">去英国吗？</span><span class="english">Go to England?</span></p>
 
 <p><span class="chinese">一切为了英格兰。</span><span class="english">All out for England.</span></p>

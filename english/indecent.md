@@ -1,5 +1,7 @@
 # indecent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indecent.md)
+
 <p><span class="chinese">她还有些不雅照在流传。</span><span class="english">Her indecent photos are going around.</span></p>
 
 <p><span class="chinese">法庭判决她猥亵罪。</span><span class="english">Court acquits her of indecent assault.</span></p>

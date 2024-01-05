@@ -1,5 +1,7 @@
 # 荡气回肠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangqihuichang.md)
+
 <p><span class="chinese">不求荡气回肠，只求爱一场。</span><span class="english">Follows isolde, but not love a field.</span></p>
 
 <p><span class="chinese">来这里完全地感受并在让我荡气回肠。</span><span class="english">To feel complete here and now stirring within me.</span></p>

@@ -1,5 +1,7 @@
 # 三五成群
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanwuchengqun.md)
+
 <p><span class="chinese">客人们三五成群地来。</span><span class="english">The guests came in groups.</span></p>
 
 <p><span class="chinese">大家三五成群地去参加会议。</span><span class="english">Everyone trooped into the meeting.</span></p>

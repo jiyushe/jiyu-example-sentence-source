@@ -1,5 +1,7 @@
 # adrenalectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adrenalectomy.md)
+
 <p><span class="chinese">而腹腔镜下肾上腺切除也是安全的、有效的。</span><span class="english">Laparoscopic adrenalectomy is safe and effective for those well-selected patients.</span></p>
 
 <p><span class="chinese">结论腹腔镜肾上腺肿瘤切除术经后腹腔途径优于经腹腔途径。</span><span class="english">Conclusions Laparoscopic adrenalectomy is feasible for the treatment of adrenal tumors.</span></p>

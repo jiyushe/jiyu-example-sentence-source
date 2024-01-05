@@ -1,5 +1,7 @@
 # impactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impactive.md)
+
 <p><span class="chinese">色彩，是一切视觉元素中最活跃、最具冲击力的因素。</span><span class="english">Color is the most active and impactive factor in all optic elements.</span></p>
 
 <p><span class="chinese">不可将电池置于强机械冲击的场所，也不可用硬物击穿电池。</span><span class="english">Do not put battery at machine impactive places , and poke battery with hard things.</span></p>

@@ -1,5 +1,7 @@
 # banker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banker.md)
+
 <p><span class="chinese">一个银行家的各有所得。</span><span class="english">A banker of his own.</span></p>
 
 <p><span class="chinese">汤姆森先生是位银行家。</span><span class="english">Mr Toms is a banker.</span></p>

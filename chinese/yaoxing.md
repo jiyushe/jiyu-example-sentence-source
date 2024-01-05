@@ -1,5 +1,7 @@
 # 药性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoxing.md)
+
 <p><span class="chinese">这种药药性平和。</span><span class="english">This medicine is quite mild.</span></p>
 
 <p><span class="chinese">“青矾和明矾的药性”。</span><span class="english">"Green vitriol and aluminous property of a medicine ".</span></p>

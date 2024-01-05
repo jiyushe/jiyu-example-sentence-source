@@ -1,5 +1,7 @@
 # 成药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengyao.md)
+
 <p><span class="chinese">枇杷有很多营养，且可以做成药。</span><span class="english">Loquat has a lot of nutrition and can become medicine.</span></p>
 
 <p><span class="chinese">为该成药质量控制研究提供了参考依据。</span><span class="english">It provided a reference for the quality control of the drug.</span></p>

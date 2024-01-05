@@ -1,5 +1,7 @@
 # 乌骨鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuguji.md)
+
 <p><span class="chinese">喔，那叫做乌骨鸡汤。</span><span class="english">Oh, it's called silky fowl soup.</span></p>
 
 <p><span class="chinese">我们专门出产真空包装乌骨鸡和一般食品。</span><span class="english">We are specialized in silky fowl and food products.</span></p>

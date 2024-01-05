@@ -1,5 +1,7 @@
 # 清水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshui.md)
+
 <p><span class="chinese">一塘清水一塘莲。</span><span class="english">A pond of clear water with lotus.</span></p>
 
 <p><span class="chinese">清水刚进一步解释道。</span><span class="english">Clear water just further explained.</span></p>

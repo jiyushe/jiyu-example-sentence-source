@@ -1,5 +1,7 @@
 # communally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communally.md)
+
 <p><span class="chinese">大家在餐厅集体用餐。</span><span class="english">Meals are taken communally in the dining room.</span></p>
 
 <p><span class="chinese">相当常见的是，顾客们会共同来点菜。</span><span class="english">Quite often customers will order dishes communally.</span></p>

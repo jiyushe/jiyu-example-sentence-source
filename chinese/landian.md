@@ -1,5 +1,7 @@
 # 蓝靛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/landian.md)
+
 <p><span class="chinese">他滑落到蓝靛桶中。</span><span class="english">He slipped into an indigo tank.</span></p>
 
 <p><span class="chinese">蓝靛果是忍冬科植物。</span><span class="english">Lonicera edulis is the plant of Caprifoliaceae.</span></p>

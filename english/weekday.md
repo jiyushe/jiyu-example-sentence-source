@@ -1,5 +1,7 @@
 # weekday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weekday.md)
+
 <p><span class="chinese">我经常在周日去游泳。</span><span class="english">I often go swimming on weekday.</span></p>
 
 <p><span class="chinese">每个工作日都有两名编辑人员被雇用。</span><span class="english">About two new editorial workers are being hired every weekday.</span></p>

@@ -1,5 +1,7 @@
 # 探知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanzhi.md)
+
 <p><span class="chinese">尤其是在探知人的心理方面，会有各种各样的方法。</span><span class="english">in how to reach people and more numerous ways, so.</span></p>
 
 <p><span class="chinese">黑色的花蜜无法用来探知也无法作为法术材料。</span><span class="english">Black nectar cannot be used for scrying or as a power component.</span></p>

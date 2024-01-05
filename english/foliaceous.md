@@ -1,5 +1,7 @@
 # foliaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foliaceous.md)
+
 <p><span class="chinese">鸟雀林间寂，虫鸣叶底藏。</span><span class="english">The birds still worm sound foliaceous hide.</span></p>
 
 <p><span class="chinese">叶长带金边，色泽光亮。</span><span class="english">Foliaceous strip is gilt-edged, brightness of colour and lustre.</span></p>

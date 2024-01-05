@@ -1,5 +1,7 @@
 # mudguard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mudguard.md)
+
 <p><span class="chinese">车轮蹭著了挡泥板。</span><span class="english">The wheel's rubbing on the mudguard.</span></p>
 
 <p><span class="chinese">车轮蹭着挡泥板。</span><span class="english">The wheel' s rubbing on the mudguard.</span></p>

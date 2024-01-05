@@ -1,5 +1,7 @@
 # kahn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kahn.md)
+
 <p><span class="chinese">卡恩向来都是坦率直言的。</span><span class="english">Kahn has never been anything if not outspoken.</span></p>
 
 <p><span class="chinese">但是史蒂芬索德柏和他长期合作的剪辑师麦可康恩却不这麽想。</span><span class="english">But Steven Spielberg and his longtime editor Michael Kahn don't.</span></p>

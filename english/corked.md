@@ -1,5 +1,7 @@
 # corked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corked.md)
+
 <p><span class="chinese">什么是酒塞葡萄酒？。</span><span class="english">What is Corked Wine?</span></p>
 
 <p><span class="chinese">还有呢，这葡萄酒，偶看是走了味了。</span><span class="english">This wine here, I think it is corked.</span></p>

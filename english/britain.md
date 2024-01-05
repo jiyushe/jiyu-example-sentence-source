@@ -1,5 +1,7 @@
 # britain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/britain.md)
+
 <p><span class="chinese">在英国则不同。</span><span class="english">Not so in Britain.</span></p>
 
 <p><span class="chinese">接下来英国该怎么办？</span><span class="english">So what should Britain do?</span></p>

@@ -1,5 +1,7 @@
 # reg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reg.md)
+
 <p><span class="chinese">宣告REG时，记忆体不足。</span><span class="english">REG label alloc memory fail !</span></p>
 
 <p><span class="chinese">“这是非常简单在这里说，”注册。</span><span class="english">"It's pretty simply around here, " says Reg.</span></p>

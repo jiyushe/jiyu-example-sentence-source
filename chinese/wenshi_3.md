@@ -1,5 +1,7 @@
 # 温室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenshi_3.md)
+
 <p><span class="chinese">它们是温室气体。</span><span class="english">They are greenhouse gases.</span></p>
 
 <p><span class="chinese">植物园中的温室。</span><span class="english">Hothouse in Botanic gardens.</span></p>

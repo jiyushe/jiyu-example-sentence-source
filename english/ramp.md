@@ -1,5 +1,7 @@
 # ramp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramp.md)
+
 <p><span class="chinese">开上坡道就是了。</span><span class="english">Just go up the ramp.</span></p>
 
 <p><span class="chinese">把车开上坡道。</span><span class="english">Drive the car up the ramp.</span></p>

@@ -1,5 +1,7 @@
 # 并联
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binglian.md)
+
 <p><span class="chinese">逆变器是并联的吗?。</span><span class="english">Are the inverters connected parallel?</span></p>
 
 <p><span class="chinese">但有时阻力为并联布置。</span><span class="english">Sometimes resistances are installed in parallel.</span></p>

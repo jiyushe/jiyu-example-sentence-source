@@ -1,5 +1,7 @@
 # 订购
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinggou_1.md)
+
 <p><span class="chinese">他给我们订购了一台电视机。</span><span class="english">He ordered us a TV-set.</span></p>
 
 <p><span class="chinese">订购宫保鸡丁。</span><span class="english">Order of Kung Pao Chicken.</span></p>

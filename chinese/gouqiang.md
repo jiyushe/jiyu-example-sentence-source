@@ -1,5 +1,7 @@
 # 够呛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouqiang.md)
+
 <p><span class="chinese">我实在饿得够呛，一匹马都吃的下。</span><span class="english">I'm so hungry I could eat a horse.</span></p>
 
 <p><span class="chinese">关节炎把她折腾得够呛。</span><span class="english">Her arthritis troubles her greatly.</span></p>

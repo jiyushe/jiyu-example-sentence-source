@@ -1,5 +1,7 @@
 # hijacker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hijacker.md)
+
 <p><span class="chinese">有人告诉我，它可能是一个劫机者。</span><span class="english">I Was told it may be a hijacker.</span></p>
 
 <p><span class="chinese">最后，这名劫匪被判刑3年。</span><span class="english">The hijacker was sentenced to 3 years.</span></p>

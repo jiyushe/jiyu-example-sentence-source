@@ -1,5 +1,7 @@
 # depletion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depletion.md)
+
 <p><span class="chinese">也导出了两方法的耗尽层宽度公式。</span><span class="english">A formula of depletion layer width is also deduced.</span></p>
 
 <p><span class="chinese">可能有碱中毒和缺钾。</span><span class="english">Alkalosis and potassium depletion may be pronounced.</span></p>

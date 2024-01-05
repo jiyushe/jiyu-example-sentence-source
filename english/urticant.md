@@ -1,5 +1,7 @@
 # urticant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urticant.md)
+
 <p><span class="chinese">什么可以止痒消肿?。</span><span class="english">What can stop urticant detumescence?</span></p>
 
 <p><span class="chinese">皮肤骚痒有什么办法解决？</span><span class="english">Is skin coquettish urticant what method is solved?</span></p>

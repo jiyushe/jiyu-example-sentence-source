@@ -1,5 +1,7 @@
 # 六书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liushu.md)
+
 <p><span class="chinese">六书，最近发明的空气。</span><span class="english">Six books, most recently Invention of Air.</span></p>
 
 <p><span class="chinese">是一个能有介绍六书但却很有创造力及活力的网站。</span><span class="english">There will be a briefing book six but very creative and dynamic websites.</span></p>

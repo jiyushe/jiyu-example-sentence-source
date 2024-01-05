@@ -1,5 +1,7 @@
 # 养母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangmu_1.md)
+
 <p><span class="chinese">那个农民养母牛，种玉米。</span><span class="english">The farmer raises cows and corn.</span></p>
 
 <p><span class="chinese">我是由我的养母养大的。</span><span class="english">I am raised up by my foster mother.</span></p>

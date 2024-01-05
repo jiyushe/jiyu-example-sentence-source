@@ -1,5 +1,7 @@
 # declared
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/declared.md)
+
 <p><span class="chinese">他们声明反对战争。</span><span class="english">They declared against war.</span></p>
 
 <p><span class="chinese">他们表示拥护社会主义。</span><span class="english">They declared for socialism.</span></p>

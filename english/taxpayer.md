@@ -1,5 +1,7 @@
 # taxpayer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxpayer.md)
+
 <p><span class="chinese">简而言之，这意味着不再让纳税人救市。</span><span class="english">Simply put, this means no more taxpayer bailouts.</span></p>
 
 <p><span class="chinese">这不仅能巩固医保，也能节约纳税人的资金。</span><span class="english">This not only strengthens Medicare, it saves taxpayer dollars.</span></p>

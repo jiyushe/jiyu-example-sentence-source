@@ -1,5 +1,7 @@
 # vestal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vestal.md)
+
 <p><span class="chinese">我仿佛能够看见她们。</span><span class="english">Vestal virgins. I can see them.</span></p>
 
 <p><span class="chinese">维斯塔贞女也居住在古罗马广场。</span><span class="english">The Vestal Virgins lived at the Forum as well.</span></p>

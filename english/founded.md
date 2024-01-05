@@ -1,5 +1,7 @@
 # founded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/founded.md)
+
 <p><span class="chinese">我创立天使学。</span><span class="english">I founded Angelology.</span></p>
 
 <p><span class="chinese">这座城堡建于1371年。</span><span class="english">It was founded in 1371.</span></p>

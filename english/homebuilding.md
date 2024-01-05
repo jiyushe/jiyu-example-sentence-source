@@ -1,5 +1,7 @@
 # homebuilding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homebuilding.md)
+
 <p><span class="chinese">房地产开发订单在一年前更是提升了五分之一。</span><span class="english">Homebuilding orders are up by a fifth on a year ago.</span></p>
 
 <p><span class="chinese">房价下跌是中国狂热住宅建设的必然结果。</span><span class="english">Falling prices would be a natural outcome of China's frenetic pace of homebuilding.</span></p>

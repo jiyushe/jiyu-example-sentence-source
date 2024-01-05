@@ -1,5 +1,7 @@
 # 停职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhi_2.md)
+
 <p><span class="chinese">学校校长被停职检查。</span><span class="english">The principal was suspended.</span></p>
 
 <p><span class="chinese">那位副总统被停职了。</span><span class="english">The vice-president was dry-docked.</span></p>

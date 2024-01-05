@@ -1,5 +1,7 @@
 # 精练
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinglian.md)
+
 <p><span class="chinese">精练地阐明你的见解。</span><span class="english">Refine and clarify your vision.</span></p>
 
 <p><span class="chinese">精练历年真题。</span><span class="english">Zhenti scouring the calendar year.</span></p>

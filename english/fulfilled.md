@@ -1,5 +1,7 @@
 # fulfilled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fulfilled.md)
+
 <p><span class="chinese">你的愿望会满足的。</span><span class="english">Your wish shall be fulfilled.</span></p>
 
 <p><span class="chinese">信德，你的愿望会实现的。</span><span class="english">Sindu, your wish will be fulfilled.</span></p>

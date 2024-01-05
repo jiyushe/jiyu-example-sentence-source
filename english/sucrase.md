@@ -1,5 +1,7 @@
 # sucrase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sucrase.md)
+
 <p><span class="chinese">施肥对蔗糖酶和过氧化氢酶活性的影响较小。</span><span class="english">Fertilization shows no significant effects on the activities of catalase and sucrase.</span></p>
 
 <p><span class="chinese">深松耕还田显著提高土壤脲酶、蔗糖酶活性。</span><span class="english">Subsoiling returning could significantly increase soil urease activity and sucrase activity.</span></p>

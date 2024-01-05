@@ -1,5 +1,7 @@
 # 生分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengfen.md)
+
 <p><span class="chinese">男女生分角色问答唱。</span><span class="english">Identify roles boys and girls sing.</span></p>
 
 <p><span class="chinese">在付款前我们要先确认你的生分。</span><span class="english">In order to receive payout we need to verify your Identify.</span></p>

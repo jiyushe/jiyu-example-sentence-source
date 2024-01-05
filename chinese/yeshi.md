@@ -1,5 +1,7 @@
 # 野史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeshi.md)
+
 <p><span class="chinese">王宝钏是唐朝野史中痴情烈女的“楷模”。</span><span class="english">Wang Baochuan is the unofficial history of spoony women "model".</span></p>
 
 <p><span class="chinese">当然此乃口口相传野史，并不见正传。</span><span class="english">This is unofficial word of mouth, of course, does not see the True Story.</span></p>

@@ -1,5 +1,7 @@
 # missionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/missionary.md)
+
 <p><span class="chinese">其他书名传教士汉学硏究。</span><span class="english">The study of missionary sinology.</span></p>
 
 <p><span class="chinese">我们必须策励教友传教的工作。</span><span class="english">We need to motivate members to do missionary work.</span></p>

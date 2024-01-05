@@ -1,5 +1,7 @@
 # 分枝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzhi_1.md)
+
 <p><span class="chinese">茎竖立，分枝。</span><span class="english">The bine is erect, ramose.</span></p>
 
 <p><span class="chinese">茎竖立，分枝较少。</span><span class="english">The bine is erect, ramose less.</span></p>

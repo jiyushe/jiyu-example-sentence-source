@@ -1,5 +1,7 @@
 # fishpond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishpond.md)
+
 <p><span class="chinese">不带鱼网，别去鱼塘。</span><span class="english">Don't go to the fishpond without a net.</span></p>
 
 <p><span class="chinese">还有一个鱼池，满池游弋着金黄色的鲤鱼。</span><span class="english">There was a fishpond full of golden koi.</span></p>

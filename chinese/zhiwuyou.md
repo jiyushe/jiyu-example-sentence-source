@@ -1,5 +1,7 @@
 # 植物油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwuyou.md)
+
 <p><span class="chinese">我们用植物油煮菜。</span><span class="english">We use vegetable oil to cook.</span></p>
 
 <p><span class="chinese">我们用植物油烧菜。</span><span class="english">We use vegetable oil for cooking.</span></p>

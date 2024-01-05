@@ -1,5 +1,7 @@
 # fairytale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fairytale.md)
+
 <p><span class="chinese">爱情是一部忧伤的童话。</span><span class="english">Love is a sade -ending fairytale.</span></p>
 
 <p><span class="chinese">峨眉山有着童话般的美丽。</span><span class="english">Emei Shan took on a fairytale beauty.</span></p>

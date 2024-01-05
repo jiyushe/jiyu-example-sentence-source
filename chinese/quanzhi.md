@@ -1,5 +1,7 @@
 # 劝止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanzhi.md)
+
 <p><span class="chinese">文彦容许妈妈好好劝止姗姗。</span><span class="english">WenYan allows mother good would discourage it shan shan.</span></p>
 
 <p><span class="chinese">由于争吵仍然不停，我们想法劝止。</span><span class="english">As the argument was still going on, we tried to break it up.</span></p>

@@ -1,5 +1,7 @@
 # 歇脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiejiao_1.md)
+
 <p><span class="chinese">橡木长椅不仅仅是歇脚的地方。</span><span class="english">The oak bench was not just a foot rest.</span></p>
 
 <p><span class="chinese">他们在一家小餐馆歇脚，吃了顿干酪火锅。</span><span class="english">They stopped at a little cafe and had a fondue.</span></p>

@@ -1,5 +1,7 @@
 # phospholipase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phospholipase.md)
+
 <p><span class="chinese">磷脂酶D在大鼠外周血白细胞引爆中的作用。</span><span class="english">The role of phospholipase D in the priming.</span></p>
 
 <p><span class="chinese">主要研究磷脂酶D在UV-B辐射诱导气孔关闭中的作用。</span><span class="english">The role of phospholipase D in the UV-B-induced stomatal closure was studied.</span></p>

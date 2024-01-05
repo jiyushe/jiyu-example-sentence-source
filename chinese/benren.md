@@ -1,5 +1,7 @@
 # 本人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benren.md)
+
 <p><span class="chinese">本人是一个已死者。</span><span class="english">I was a goner.</span></p>
 
 <p><span class="chinese">顶下。本人也喜欢。</span><span class="english">I love it , too.</span></p>

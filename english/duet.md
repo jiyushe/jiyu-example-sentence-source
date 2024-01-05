@@ -1,5 +1,7 @@
 # duet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duet.md)
+
 <p><span class="chinese">来个二重唱吧。</span><span class="english">Let’s sing a duet.</span></p>
 
 <p><span class="chinese">我和某人唱二重唱。</span><span class="english">I sing with someone in duet.</span></p>

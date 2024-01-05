@@ -1,5 +1,7 @@
 # oolitic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oolitic.md)
+
 <p><span class="chinese">鲕状赤铁矿石是目前国内外公认的最难选的铁矿石类型之一。</span><span class="english">Oolitic hematite is considered as one of the most refractory iron ore type.</span></p>
 
 <p><span class="chinese">主要矿物是高岭石，常见豆状、鲕状和碎屑状构造。</span><span class="english">Their main mineral is kaolinite, usually in pisolitic, oolitic or clastic structure.</span></p>

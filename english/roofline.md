@@ -1,5 +1,7 @@
 # roofline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roofline.md)
+
 <p><span class="chinese">其婀娜多姿的身体首位的是一轿跑车般的车顶。</span><span class="english">Its curvaceous body is topped by a coupe-like roofline.</span></p>
 
 <p><span class="chinese">看到这些照片是横扫车顶和短后甲板。</span><span class="english">Visible in these photos are the sweep of the roofline and the stubby rear deck.</span></p>

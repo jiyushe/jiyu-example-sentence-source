@@ -1,5 +1,7 @@
 # variably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variably.md)
+
 <p><span class="chinese">这些囊被形态不一的变性纤维基质紧密分隔。</span><span class="english">The cysts were closely spaced with an intervening variably fibrotic stroma.</span></p>
 
 <p><span class="chinese">肺内体积较大但大小不一的癌转移性结节。</span><span class="english">Here are larger but still variably -sized nodules of metastatic carcinoma in lung.</span></p>

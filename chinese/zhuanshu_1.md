@@ -1,5 +1,7 @@
 # 撰述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanshu_1.md)
+
 <p><span class="chinese">这也是从事历史撰述的基本要求。</span><span class="english">This is the basic requirement of historical writing, too.</span></p>
 
 <p><span class="chinese">从历史撰述本身来看，叙事和议论是两个主要部分。</span><span class="english">Narrations and remarks are two primary sections of historical writing.</span></p>

@@ -1,5 +1,7 @@
 # heteronuclear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heteronuclear.md)
+
 <p><span class="chinese">在最后，我们会看一个,异核双原子分子的例子。</span><span class="english">Then at the end, we'll look at an example with a heteronuclear diatomic molecules.</span></p>
 
 <p><span class="chinese">在最后，我们会看一个，异核双原子分子的例子。</span><span class="english">Then at the end, we'll look at an example with a heteronuclear diatomic molecules.</span></p>

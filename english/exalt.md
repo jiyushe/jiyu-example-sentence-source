@@ -1,5 +1,7 @@
 # exalt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exalt.md)
+
 <p><span class="chinese">茼埘，伊斯兰教乜葙当尊崇“7”。</span><span class="english">Meanwhile, Islam also very exalt "7".</span></p>
 
 <p><span class="chinese">互补色加浓了彼此的色彩。</span><span class="english">Complementary colours exalt each other.</span></p>

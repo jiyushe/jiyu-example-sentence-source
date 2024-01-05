@@ -1,5 +1,7 @@
 # 标本兼治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaobenjianzhi.md)
+
 <p><span class="chinese">因此，我们需要采取多方面的措施，标本兼治，才能真正解决问题。</span><span class="english">We need to take many measures to be able to solve the problem completely.</span></p>
 
 <p><span class="chinese">总的看，这些重大政策措施，注重标本兼治、。</span><span class="english">These major policy measures as a whole target both symptoms and root causes.</span></p>

@@ -1,5 +1,7 @@
 # amuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amuse.md)
+
 <p><span class="chinese">你没能逗我开心！</span><span class="english">You failed to amuse me!</span></p>
 
 <p><span class="chinese">我的客户总是逗我。</span><span class="english">My clients never fail to amuse.</span></p>

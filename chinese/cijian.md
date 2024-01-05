@@ -1,5 +1,7 @@
 # 此间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cijian.md)
+
 <p><span class="chinese">此间已有传闻。</span><span class="english">It has been so rumoured here.</span></p>
 
 <p><span class="chinese">而地球母亲却永驻此间。</span><span class="english">The Earth Mother is here forever.</span></p>

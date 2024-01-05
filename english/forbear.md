@@ -1,5 +1,7 @@
 # forbear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forbear.md)
+
 <p><span class="chinese">但我要克制。</span><span class="english">But I forbear.</span></p>
 
 <p><span class="chinese">世界将如雪溶，太阳不再发光。</span><span class="english">The sun forbear to shine.</span></p>

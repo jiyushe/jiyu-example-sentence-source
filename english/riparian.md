@@ -1,5 +1,7 @@
 # riparian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riparian.md)
+
 <p><span class="chinese">在岸栖的栖息地内是一名好土壤装订工人。</span><span class="english">It is a good soil binder in riparian habitats.</span></p>
 
 <p><span class="chinese">新奥尔良的财富一直与其河岸的位置息息相关。</span><span class="english">The fortunes of New Orleans have always depended on its riparian location.</span></p>

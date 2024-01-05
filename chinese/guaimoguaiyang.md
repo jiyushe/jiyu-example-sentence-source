@@ -1,5 +1,7 @@
 # 怪模怪样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guaimoguaiyang.md)
+
 <p><span class="chinese">玛丽怪模怪样地看着汤姆。</span><span class="english">Mary looked at Tom very oddly.</span></p>
 
 <p><span class="chinese">他们穿著那种制服看起来怪模怪样的。</span><span class="english">That uniform makes them look absurd.</span></p>

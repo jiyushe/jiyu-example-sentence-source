@@ -1,5 +1,7 @@
 # catherine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catherine.md)
+
 <p><span class="chinese">你没事吧，瑟琳？</span><span class="english">You okay, Catherine?</span></p>
 
 <p><span class="chinese">凯瑟琳和她在一起。</span><span class="english">Catherine is with her.</span></p>

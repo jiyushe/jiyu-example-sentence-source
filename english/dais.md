@@ -1,5 +1,7 @@
 # dais
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dais.md)
+
 <p><span class="chinese">缓缓步向那高峰礼台之旁。</span><span class="english">Walking slowly to that peak of the wedding dais.</span></p>
 
 <p><span class="chinese">阿曼达也肯定很想亲手触发那个石祭台。</span><span class="english">Amanda must want to activate the stone dais as well.</span></p>

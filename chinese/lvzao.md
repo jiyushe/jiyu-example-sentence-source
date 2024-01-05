@@ -1,5 +1,7 @@
 # 绿藻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvzao.md)
+
 <p><span class="chinese">绿藻液颜色太深了，已经看不到水里的鱼了。</span><span class="english">The green algae solution is too dark to see the carp.</span></p>
 
 <p><span class="chinese">这是当地的龙，一只海生鬣蜥，它正在吃绿藻。</span><span class="english">The local dragon, a marine iguana, grazes on green algae.</span></p>

@@ -1,5 +1,7 @@
 # 汽轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qilun.md)
+
 <p><span class="chinese">汽轮发电机定子端部大锥环。</span><span class="english">Large stator-end cones for 000MW turbine generators.</span></p>
 
 <p><span class="chinese">汽轮机辅助润滑油泵是汽轮发电机组必不可少的辅助设备。</span><span class="english">The auxiliary lube oil pumps are necessary for turbo-generator.</span></p>

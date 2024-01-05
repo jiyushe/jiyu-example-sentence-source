@@ -1,5 +1,7 @@
 # ancestry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ancestry.md)
+
 <p><span class="chinese">我时常对我的祖先们很好奇。</span><span class="english">I often wondered my ancestry.</span></p>
 
 <p><span class="chinese">捷克人说的塞而维克语。</span><span class="english">A person of Japanese ancestry.</span></p>

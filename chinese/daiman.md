@@ -1,5 +1,7 @@
 # 怠慢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daiman.md)
+
 <p><span class="chinese">他没有怠慢一个人。</span><span class="english">He slighted no one.</span></p>
 
 <p><span class="chinese">怠慢继续着。</span><span class="english">The slights continued.</span></p>

@@ -1,5 +1,7 @@
 # convective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convective.md)
+
 <p><span class="chinese">念流云，忘天涯，转身，孤独依旧。</span><span class="english">Study of convective clouds, forget you, turn around, still lonely.</span></p>
 
 <p><span class="chinese">气旋锢囚期对流不稳定最弱。</span><span class="english">The weakest convective instability is at the occluded stages of cyclone.</span></p>

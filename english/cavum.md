@@ -1,5 +1,7 @@
 # cavum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavum.md)
+
 <p><span class="chinese">看起来，肾盂内尿潴留可能大大地促使肾盂肾炎的发生。</span><span class="english">Stagnation of piddle in the kidney cavum seems to greatly encourage pyelitis.</span></p>
 
 <p><span class="chinese">枪头内部设有空腔，为方便雷管与导爆索之间的连接。</span><span class="english">There is a cavum in the hammerhead for the connection of detonator and the detonating cord.</span></p>

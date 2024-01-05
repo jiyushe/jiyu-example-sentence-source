@@ -1,5 +1,7 @@
 # beatles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beatles.md)
+
 <p><span class="chinese">你喜欢披头士吗?</span><span class="english">Do you like the Beatles?</span></p>
 
 <p><span class="chinese">是吗?等等，我喜欢被头四。</span><span class="english">Wait, I like the Beatles.</span></p>

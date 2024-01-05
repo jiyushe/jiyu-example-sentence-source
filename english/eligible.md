@@ -1,5 +1,7 @@
 # eligible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eligible.md)
+
 <p><span class="chinese">只有公民有选举资格。</span><span class="english">Only citizens are eligible to vote.</span></p>
 
 <p><span class="chinese">这种人无资格谈情说爱。</span><span class="english">Such people are not eligible talked of love.</span></p>

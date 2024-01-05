@@ -1,5 +1,7 @@
 # reducible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reducible.md)
+
 <p><span class="chinese">溶液中同时存在几种可还原的离子。</span><span class="english">Several reducible ions are present in the solution.</span></p>
 
 <p><span class="chinese">提出了一般可约系统的定义。</span><span class="english">The definition of general reducible system is proposed.</span></p>

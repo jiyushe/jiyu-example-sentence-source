@@ -1,5 +1,7 @@
 # unsuited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsuited.md)
+
 <p><span class="chinese">我的性格不适合这种工作。</span><span class="english">I'm temperamentally unsuited to this job.</span></p>
 
 <p><span class="chinese">这个句子不适合女人用。</span><span class="english">It was a sentence that was unsuited for a woman's use.</span></p>

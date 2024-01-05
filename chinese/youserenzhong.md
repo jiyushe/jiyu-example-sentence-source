@@ -1,5 +1,7 @@
 # 有色人种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youserenzhong.md)
+
 <p><span class="chinese">在有色人种居住区有套二室的房子。</span><span class="english">They had a two-room house in a township.</span></p>
 
 <p><span class="chinese">全国有色人种协进会章将支持迈克尔·维克。</span><span class="english">NAACP chapter will be out to support Michael Vick.</span></p>

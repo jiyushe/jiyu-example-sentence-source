@@ -1,5 +1,7 @@
 # 舒缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuhuan_1.md)
+
 <p><span class="chinese">这样的节拍很舒缓</span><span class="english">It's very understated in terms of a beat.</span></p>
 
 <p><span class="chinese">按摩是舒缓压力的一剂妙方。</span><span class="english">Massage is a wonderful antidote to stress.</span></p>

@@ -1,5 +1,7 @@
 # chariot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chariot.md)
+
 <p><span class="chinese">他死在战车上，血流涌出他的车外，他是这个样子回来的。</span><span class="english">He died on the chariot.</span></p>
 
 <p><span class="chinese">带给我烈火的战骑。</span><span class="english">Bring me my chariot of fire!</span></p>

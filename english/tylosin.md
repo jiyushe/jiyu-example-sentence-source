@@ -1,5 +1,7 @@
 # tylosin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tylosin.md)
+
 <p><span class="chinese">兽医临床最常用的是红霉素和泰乐菌素。</span><span class="english">Erythromycin and tylosin were widely used in veterinary.</span></p>
 
 <p><span class="chinese">泰乐菌素是目前国际上广泛使用的兽用抗生素，国外对泰乐菌素的研究一直没有停止过。</span><span class="english">Tylosin was a kind of widely used antibiotics in the world. And studying have never been ceased.</span></p>

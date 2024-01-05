@@ -1,5 +1,7 @@
 # electric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electric.md)
+
 <p><span class="chinese">当然，棒球场上简直“电力十足”。</span><span class="english">Yeah, it's electric.</span></p>
 
 <p><span class="chinese">电风扇10元。</span><span class="english">Electric fan, 10 yuan.</span></p>

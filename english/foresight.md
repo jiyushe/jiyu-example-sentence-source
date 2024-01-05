@@ -1,5 +1,7 @@
 # foresight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foresight.md)
+
 <p><span class="chinese">妈妈教我未卜先知。</span><span class="english">My mother taught me FORESIGHT.</span></p>
 
 <p><span class="chinese">他所需要的是预见性。</span><span class="english">All he needs have is foresight.</span></p>

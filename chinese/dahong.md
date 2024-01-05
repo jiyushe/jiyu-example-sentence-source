@@ -1,5 +1,7 @@
 # 大红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahong.md)
+
 <p><span class="chinese">大红的利是又多收了一次。</span><span class="english">Bright red and is again overcharged once.</span></p>
 
 <p><span class="chinese">大红斑是木星大气层中一个古老的风暴。</span><span class="english">An Ancient Storm in the Jovian Atmosphere.</span></p>

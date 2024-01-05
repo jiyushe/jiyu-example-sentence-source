@@ -1,5 +1,7 @@
 # 翅翼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiyi.md)
+
 <p><span class="chinese">愿你被赐予飞翔的翅翼。</span><span class="english">May you be bestowed pennons to fly with.</span></p>
 
 <p><span class="chinese">如何以广展的翅翼飞过玄虚的高空。</span><span class="english">Passed on wide pinion through the lofty air.</span></p>

@@ -1,5 +1,7 @@
 # tickle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tickle.md)
+
 <p><span class="chinese">我全身都痒。</span><span class="english">I tickle all over.</span></p>
 
 <p><span class="chinese">还有在那里给脚趾挠痒痒？</span><span class="english">And where to tickle toes?</span></p>

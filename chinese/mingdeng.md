@@ -1,5 +1,7 @@
 # 明灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingdeng.md)
+
 <p><span class="chinese">理想是指路明灯。</span><span class="english">Ideal is the beacon.</span></p>
 
 <p><span class="chinese">理想是指路明灯。</span><span class="english">Ideal is the  beacon.</span></p>

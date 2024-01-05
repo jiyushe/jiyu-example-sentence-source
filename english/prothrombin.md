@@ -1,5 +1,7 @@
 # prothrombin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prothrombin.md)
+
 <p><span class="chinese">凝血酶原基因G20210A突变，可导致血浆凝血酶原水平升高。</span><span class="english">Prothrombin G20210A mutation can lead to plasma prothrombin level increase.</span></p>
 
 <p><span class="chinese">当组织损伤时，释放出凝血致活酶，把凝血酶原变成凝血酶。</span><span class="english">When the tissue damage, the release of thromboplastin to prothrombin into thrombin.</span></p>

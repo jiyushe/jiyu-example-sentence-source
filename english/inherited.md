@@ -1,5 +1,7 @@
 # inherited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inherited.md)
+
 <p><span class="chinese">习癖是遗传的。</span><span class="english">Habits are inherited.</span></p>
 
 <p><span class="chinese">大腹便便是可以遗传的吗？</span><span class="english">Is belly fat inherited?</span></p>

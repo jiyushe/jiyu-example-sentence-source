@@ -1,5 +1,7 @@
 # effectually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effectually.md)
+
 <p><span class="chinese">她只要跑上二十多步，就可消失在大森林中。</span><span class="english">Twenty steps would effectually bury her in the forest.</span></p>
 
 <p><span class="chinese">站在队伍的前头，这种姿势得到更加充分的表现。</span><span class="english">In front of the line this showed up even more effectually.</span></p>

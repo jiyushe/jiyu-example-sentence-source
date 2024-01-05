@@ -1,5 +1,7 @@
 # screwed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screwed.md)
+
 <p><span class="chinese">他在家，我完了。</span><span class="english">He's home. I'm screwed.</span></p>
 
 <p><span class="chinese">象鼻虫的身体是拧起来的。</span><span class="english">Weevils are screwed up.</span></p>

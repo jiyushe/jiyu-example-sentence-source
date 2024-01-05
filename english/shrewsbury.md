@@ -1,5 +1,7 @@
 # shrewsbury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrewsbury.md)
+
 <p><span class="chinese">“一条裙子，”什鲁斯伯里伯爵夫人毫不犹豫地说。</span><span class="english">"A skirt," said the Countess of Shrewsbury in the most decisive manner.</span></p>
 
 <p><span class="chinese">在塞文河的河水漫过堤岸后，什鲁斯伯里市也遭遇了洪水袭击。</span><span class="english">Shrewsbury also suffered flooding after the River Severn burst its banks.</span></p>

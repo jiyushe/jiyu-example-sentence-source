@@ -1,5 +1,7 @@
 # 小心谨慎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxinjinshen.md)
+
 <p><span class="chinese">我劝你要小心谨慎。</span><span class="english">I advise you to be cautious.</span></p>
 
 <p><span class="chinese">然而，我们必须小心谨慎。</span><span class="english">We must be cautious, however.</span></p>

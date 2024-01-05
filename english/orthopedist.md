@@ -1,5 +1,7 @@
 # orthopedist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthopedist.md)
+
 <p><span class="chinese">专长于诊断并治疗骨骼畸形和伤害。</span><span class="english">An orthopedist specializes in diagnosis and treatment of deformities and injuries to bones.</span></p>
 
 <p><span class="chinese">“商务部”安慰你大概是指专科如骨科或头痛。</span><span class="english">Doc" Comfort will probably refer you to a specialist, such as an orthopedist or a neurologist."</span></p>

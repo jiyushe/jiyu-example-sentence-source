@@ -1,5 +1,7 @@
 # 轰轰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/honghong_2.md)
+
 <p><span class="chinese">火焰从烟囱里轰轰地喷出来。</span><span class="english">The fire roars up the chimney.</span></p>
 
 <p><span class="chinese">时代的车轰轰地往前开。</span><span class="english">And the vehicle of life rumbles on.</span></p>

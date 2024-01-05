@@ -1,5 +1,7 @@
 # neurosurgeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurosurgeon.md)
+
 <p><span class="chinese">你应该见见哈森布什医生，这所医院的另一位神经科大夫。</span><span class="english">You need to meet Dr. Hassenbusch, another neurosurgeon on staff here.</span></p>
 
 <p><span class="chinese">琳达要当神经外科医生可真是希望渺茫。</span><span class="english">The chances of Linda becoming a neurosurgeon are about one in a googol.</span></p>

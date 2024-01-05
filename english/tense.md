@@ -1,5 +1,7 @@
 # tense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tense.md)
+
 <p><span class="chinese">过去时。</span><span class="english">Past tense.</span></p>
 
 <p><span class="chinese">她非常紧张。</span><span class="english">She is tense.</span></p>

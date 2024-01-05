@@ -1,5 +1,7 @@
 # 相思病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangsibing.md)
+
 <p><span class="chinese">我为你患了相思病。</span><span class="english">I'm love sick for you.</span></p>
 
 <p><span class="chinese">相思病无药医。</span><span class="english">No herb will cure lovesickness.</span></p>

@@ -1,5 +1,7 @@
 # 谋略
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moulve.md)
+
 <p><span class="chinese">显然，谢家华坚信文化为先的谋略。</span><span class="english">Tony clearly believes in a "culture first" approach.</span></p>
 
 <p><span class="chinese">最好的谋略是知道什么时候该退出。</span><span class="english">Of all the stratagems , to know when to quit is the best.</span></p>

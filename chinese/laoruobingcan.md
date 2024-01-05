@@ -1,5 +1,7 @@
 # 老弱病残
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoruobingcan.md)
+
 <p><span class="chinese">这些座位是留给老弱病残。</span><span class="english">The seats are reserved for old and sick people.</span></p>
 
 <p><span class="chinese">老弱病残人群需要特殊照顾。</span><span class="english">Vulnerable groups may need special arrangements.</span></p>

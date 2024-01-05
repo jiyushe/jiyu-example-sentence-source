@@ -1,5 +1,7 @@
 # breed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breed.md)
+
 <p><span class="chinese">母鸡的繁殖？</span><span class="english">The breed of hen?</span></p>
 
 <p><span class="chinese">老牛不下崽。</span><span class="english">Old cattle breed not.</span></p>

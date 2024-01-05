@@ -1,5 +1,7 @@
 # socialist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/socialist.md)
+
 <p><span class="chinese">社会主义。</span><span class="english">Socialist.</span></p>
 
 <p><span class="chinese">我是一个社会主义者。</span><span class="english">I’m a socialist.</span></p>

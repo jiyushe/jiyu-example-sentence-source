@@ -1,5 +1,7 @@
 # announced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/announced.md)
+
 <p><span class="chinese">我欢欣雀跃地宣布。</span><span class="english">I joyously announced.</span></p>
 
 <p><span class="chinese">市长为此节目报幕。</span><span class="english">The mayor announced the program.</span></p>

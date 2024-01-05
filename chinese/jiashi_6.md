@@ -1,5 +1,7 @@
 # 架势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashi_6.md)
+
 <p><span class="chinese">靖国神社大鸟居有多架势?。</span><span class="english">How big is the Torii of Yasukuni Shrine?</span></p>
 
 <p><span class="chinese">铃一响那两个拳击手就摆好迎击架势。</span><span class="english">The two fighters squared away when the bell rang.</span></p>

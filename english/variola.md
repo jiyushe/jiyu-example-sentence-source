@@ -1,5 +1,7 @@
 # variola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variola.md)
+
 <p><span class="chinese">病毒的名字叫天花病毒</span><span class="english">The name of the virus is variola.</span></p>
 
 <p><span class="chinese">卫生大会重申了销毁天花病毒储存是一项商定目标。</span><span class="english">The destruction of variola virus stocks was reaffirmed as the agreed goal.</span></p>

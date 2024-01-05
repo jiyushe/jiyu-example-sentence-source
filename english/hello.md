@@ -1,5 +1,7 @@
 # hello  
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hello.md)
+
 <p><span class="chinese">嗯，你好。</span><span class="english">Um, hello.</span></p>
 
 <p><span class="chinese">喂，喂。</span><span class="english">Hello, hello.</span></p>

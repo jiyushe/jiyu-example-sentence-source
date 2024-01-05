@@ -1,5 +1,7 @@
 # 装运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangyun.md)
+
 <p><span class="chinese">允许分批装运。</span><span class="english">Partial shipment is allowed.</span></p>
 
 <p><span class="chinese">这些米是用骆驼装运的。</span><span class="english">The rice is conveyed on camels.</span></p>

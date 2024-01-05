@@ -1,5 +1,7 @@
 # sudanese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sudanese.md)
+
 <p><span class="chinese">苏丹的那座化工厂被摧毁。</span><span class="english">The Sudanese chemical plant was destroyed.</span></p>
 
 <p><span class="chinese">随后，该基地由南苏丹士兵夺回。</span><span class="english">The base was later retaken by southern Sudanese soldiers.</span></p>

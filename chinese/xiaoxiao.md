@@ -1,5 +1,7 @@
 # 小小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxiao.md)
+
 <p><span class="chinese">做一回小小服务员。</span><span class="english">VII. I Am a Waiter!</span></p>
 
 <p><span class="chinese">你知道苏小小吗？</span><span class="english">You know Su Xiaoxiao?</span></p>

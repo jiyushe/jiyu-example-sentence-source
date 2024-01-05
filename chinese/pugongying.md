@@ -1,5 +1,7 @@
 # 蒲公英
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pugongying.md)
+
 <p><span class="chinese">蒲公英是那样妩媚动人。</span><span class="english">How lovely the dandelions are.</span></p>
 
 <p><span class="chinese">在每粒蒲公英种子的末端。</span><span class="english">On the end of every dandelion seed.</span></p>

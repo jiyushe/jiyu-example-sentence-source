@@ -1,5 +1,7 @@
 # 匈奴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongnu.md)
+
 <p><span class="chinese">我拿到了匈奴王的宝剑。</span><span class="english">I've got attila 's sword.</span></p>
 
 <p><span class="chinese">匈奴未灭，何以家为？</span><span class="english">The Hun is not out, why home?</span></p>

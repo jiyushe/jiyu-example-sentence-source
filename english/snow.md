@@ -1,5 +1,7 @@
 # snow 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snow.md)
+
 <p><span class="chinese">雪枭。</span><span class="english">Snow owls.</span></p>
 
 <p><span class="chinese">他放走了白雪。</span><span class="english">He let Snow go.</span></p>

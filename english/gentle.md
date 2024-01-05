@@ -1,5 +1,7 @@
 # gentle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentle.md)
+
 <p><span class="chinese">他吹起一阵清风。</span><span class="english">He sent a gentle breeze.</span></p>
 
 <p><span class="chinese">我的死穴就是温柔。</span><span class="english">My dieing point is gentle.</span></p>

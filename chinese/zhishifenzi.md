@@ -1,5 +1,7 @@
 # 知识分子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishifenzi.md)
+
 <p><span class="chinese">知识分子应受到尊重。</span><span class="english">Intellectuals should be esteemed.</span></p>
 
 <p><span class="chinese">我们以为他是个知识分子。</span><span class="english">We thought he was an intellectual.</span></p>

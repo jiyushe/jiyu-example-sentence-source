@@ -1,5 +1,7 @@
 # 远亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanqin.md)
+
 <p><span class="chinese">那么你一定是我的远亲了。</span><span class="english">Then you must be my cousin.</span></p>
 
 <p><span class="chinese">那两人是远亲。</span><span class="english">Those two people are distantly related.</span></p>

@@ -1,5 +1,7 @@
 # 穷追猛打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongzhuimengda.md)
+
 <p><span class="chinese">我们不反对在无人居住的地区穷追猛打。</span><span class="english">We are not opposed to hot pursuit in uninhabited areas.</span></p>
 
 <p><span class="chinese">凭他长期的经验，他只要找到了破绽就能抓住不放，穷追猛打。</span><span class="english">And when such an opening came, he knew by long experience to play for it and to play hard.</span></p>

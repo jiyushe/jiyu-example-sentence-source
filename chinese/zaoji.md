@@ -1,5 +1,7 @@
 # 遭际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoji.md)
+
 <p><span class="chinese">事实上，温庭筠诗名雄霸晚唐，他的人生遭际和倔强个性在唐末产生共鸣，温诗对唐末五代诗歌的影响远在李商隐之上。</span><span class="english">In fact, Wen's influences on poetry at the end of the Tang dynasty and Five Dynasties surpassed Li greatly.</span></p>
 
 <p><span class="chinese">梦阳晚年心态的这种变化，跟他的生平遭际密切相关。</span><span class="english">Such a change in his mentality was closely related to the difficulties and dangers he met with in his life.</span></p>

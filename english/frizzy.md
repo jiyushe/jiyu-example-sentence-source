@@ -1,5 +1,7 @@
 # frizzy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frizzy.md)
+
 <p><span class="chinese">有的人长着天然卷发。</span><span class="english">Some people have naturally frizzy hair.</span></p>
 
 <p><span class="chinese">将护手霜涂抹在头发上可防止其过于卷曲。</span><span class="english">Use hand lotion to keep your hair from getting too frizzy in the heat.</span></p>

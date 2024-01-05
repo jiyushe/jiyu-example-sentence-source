@@ -1,5 +1,7 @@
 # solemn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solemn.md)
+
 <p><span class="chinese">全场肃静无声。</span><span class="english">A solemn silence reigned.</span></p>
 
 <p><span class="chinese">所有的山盟海誓。</span><span class="english">All the solemn pledges of love.</span></p>

@@ -1,5 +1,7 @@
 # 罗经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luojing.md)
+
 <p><span class="chinese">本船配备有陀螺罗经。</span><span class="english">She is equipped with a gyrocompass.</span></p>
 
 <p><span class="chinese">用陀螺罗经检查锚位。</span><span class="english">Check anchor position by gyro-compass.</span></p>

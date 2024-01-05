@@ -1,5 +1,7 @@
 # 退潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuichao.md)
+
 <p><span class="chinese">抢救人员必须等待退潮。</span><span class="english">The salvors must wait for low tide.</span></p>
 
 <p><span class="chinese">退潮把鲸鱼搁浅在海滩上。</span><span class="english">The receding tide stranded the whale.</span></p>

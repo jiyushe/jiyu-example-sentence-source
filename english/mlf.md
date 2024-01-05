@@ -1,5 +1,7 @@
 # mlf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mlf.md)
+
 <p><span class="chinese">试验证明，NW196品种自然诱发MLF的能力较强。</span><span class="english">The experiments proved that NW196 grape was easy for naturally-induced MLF.</span></p>
 
 <p><span class="chinese">本研究采用人工模拟果酒，研究果酒成分对MLF的影响。</span><span class="english">The effects of fruit wine constituents on MLF were investigated by manual simulation.</span></p>

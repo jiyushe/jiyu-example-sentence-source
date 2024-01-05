@@ -1,5 +1,7 @@
 # disuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disuse.md)
+
 <p><span class="chinese">词不用就会成为废词。</span><span class="english">Words fall off by disuse.</span></p>
 
 <p><span class="chinese">汤匙因弃置不用而生锈了。</span><span class="english">The spoon has been rusty from disuse.</span></p>

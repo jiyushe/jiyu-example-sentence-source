@@ -1,5 +1,7 @@
 # 斗转星移
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douzhuanxingyi.md)
+
 <p><span class="chinese">三十年斗转星移。</span><span class="english">Three decades passed.</span></p>
 
 <p><span class="chinese">斗转星移，春来秋去，转眼间30年过去了。</span><span class="english">Time flies and 30 years have passed before one realizes it.</span></p>

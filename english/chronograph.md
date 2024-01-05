@@ -1,5 +1,7 @@
 # chronograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chronograph.md)
+
 <p><span class="chinese">黑色与白色夜光计时缎坚持完成指标和标志拨号。计时机芯。</span><span class="english">Black chronograph satin finish dial with white luminous stick indices and logo.</span></p>
 
 <p><span class="chinese">制作享誉全球的百年灵计时腕表的指针时，需要特别细心。</span><span class="english">Making a hand such as the famous Breitling chronograph hand calls for meticulous care.</span></p>

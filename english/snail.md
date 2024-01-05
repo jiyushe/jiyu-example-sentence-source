@@ -1,5 +1,7 @@
 # snail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snail.md)
+
 <p><span class="chinese">什么是极慢的邮件？</span><span class="english">What is snail mail?</span></p>
 
 <p><span class="chinese">蜗牛把触角缩了回去。</span><span class="english">The snail drew in its horns.</span></p>

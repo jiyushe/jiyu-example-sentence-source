@@ -1,5 +1,7 @@
 # 强迫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangpo.md)
+
 <p><span class="chinese">我强迫他做这件事。</span><span class="english">I forced him to do it.</span></p>
 
 <p><span class="chinese">所以，他还是不能强迫我付款。</span><span class="english">He could not force me to pay.</span></p>

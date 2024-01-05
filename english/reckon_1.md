@@ -1,5 +1,7 @@
 # reckon 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reckon_1.md)
+
 <p><span class="chinese">我想我们将在下星期去。</span><span class="english">I reckon we'll go next week.</span></p>
 
 <p><span class="chinese">你是这里的老板吧，我猜想。</span><span class="english">You are the boss here,I reckon.</span></p>

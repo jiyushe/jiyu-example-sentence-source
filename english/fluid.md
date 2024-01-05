@@ -1,5 +1,7 @@
 # fluid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluid.md)
+
 <p><span class="chinese">刹车油位低。</span><span class="english">Brake fluid level low.</span></p>
 
 <p><span class="chinese">空气中弥漫着清洁液的清香。</span><span class="english">It smelled of cleaning fluid.</span></p>

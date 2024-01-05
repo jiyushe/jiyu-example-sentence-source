@@ -1,5 +1,7 @@
 # 也罢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeba.md)
+
 <p><span class="chinese">不过，好也罢歹也罢，读书我倒是坚持不懈。</span><span class="english">But through good and evil I stuck to my books.</span></p>
 
 <p><span class="chinese">说我幼稚也好，不擅社交也罢，我不在乎。</span><span class="english">Call me naive, call me a social misfit, I don't care.</span></p>

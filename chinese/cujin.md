@@ -1,5 +1,7 @@
 # 促进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cujin.md)
+
 <p><span class="chinese">它能促进快乐。</span><span class="english">It promotes happiness.</span></p>
 
 <p><span class="chinese">安神、促进睡眠。</span><span class="english">Anshen and promote sleep.</span></p>

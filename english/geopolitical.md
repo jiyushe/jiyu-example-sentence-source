@@ -1,5 +1,7 @@
 # geopolitical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geopolitical.md)
+
 <p><span class="chinese">然而，从地缘政治的角度看，这绝对是影响巨大。</span><span class="english">But in geopolitical terms, it is a whopper.</span></p>
 
 <p><span class="chinese">可能造成高空核爆事件的地理政治状况有好几种。</span><span class="english">NUMBER OF GEOPOLITICAL scenarios could lead to a HANE incident.</span></p>

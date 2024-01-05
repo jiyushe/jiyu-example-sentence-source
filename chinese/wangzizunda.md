@@ -1,5 +1,7 @@
 # 妄自尊大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangzizunda.md)
+
 <p><span class="chinese">那妄自尊大的婊子是谁啊？</span><span class="english">Who was that self-important bitch?</span></p>
 
 <p><span class="chinese">她太妄自尊大了不可能道歉。</span><span class="english">It is too proud of her to apologise.</span></p>

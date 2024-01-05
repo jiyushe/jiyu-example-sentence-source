@@ -1,5 +1,7 @@
 # freewill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freewill.md)
+
 <p><span class="chinese">这是有关人士的自由意志选择，珍惜自己的许多谁一起生活。</span><span class="english">This is the freewill choice of those concerned who treasure their many lives together.</span></p>
 
 <p><span class="chinese">耶和华阿，求你悦纳我口中的赞美为供物，又将你的典章教训我。</span><span class="english">Accept, I beseech thee, the freewill offerings of my mouth, O LORD, and teach me thy judgments.</span></p>

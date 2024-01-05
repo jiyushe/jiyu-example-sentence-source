@@ -1,5 +1,7 @@
 # 冬瓜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donggua.md)
+
 <p><span class="chinese">她很可爱，不过是个矮冬瓜。</span><span class="english">She's cute, but she is a shrimp.</span></p>
 
 <p><span class="chinese">然后把冬瓜放在盘内。</span><span class="english">Then on the plate with wax gourd.</span></p>

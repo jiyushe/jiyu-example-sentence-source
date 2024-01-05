@@ -1,5 +1,7 @@
 # ecp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecp.md)
+
 <p><span class="chinese">催化剂颗粒形态对ECP中微量杂质成分非常敏感，ECP的质量是影响催化剂粒形最主要的原因。</span><span class="english">And the quality of ECP has the up-most effect on the morphology of catalyst particle.</span></p>
 
 <p><span class="chinese">ECP是设计用来调控过度活化免疫细胞的一种治疗手段。</span><span class="english">ECP is a therapeutic procedure designed to regulate the activity of overactive immune cells.</span></p>

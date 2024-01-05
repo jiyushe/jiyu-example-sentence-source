@@ -1,5 +1,7 @@
 # 并举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingju.md)
+
 <p><span class="chinese">应惩防并举、源头治理。</span><span class="english">It should be both punishment and prevention, control the source.</span></p>
 
 <p><span class="chinese">接触与遏制并举是冷战后的美国两任政府对朝政策的重要特徵。</span><span class="english">One of the most important characteristics of US policy towards D. P.</span></p>

@@ -1,5 +1,7 @@
 # 陈腐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenfu_1.md)
+
 <p><span class="chinese">另一个陈腐的方法，却很有效。</span><span class="english">Another trite one. But it works.</span></p>
 
 <p><span class="chinese">他的随笔或许带有陈腐的学究气。</span><span class="english">His essays can be Oxbridge musty.</span></p>

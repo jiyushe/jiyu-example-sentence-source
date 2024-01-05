@@ -1,5 +1,7 @@
 # 射线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shexian.md)
+
 <p><span class="chinese">这样我们就能得到一束射线。</span><span class="english">And so, we've got a beam.</span></p>
 
 <p><span class="chinese">射线路径呈圆弧状。</span><span class="english">The ray paths are circles.</span></p>

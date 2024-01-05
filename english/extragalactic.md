@@ -1,5 +1,7 @@
 # extragalactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extragalactic.md)
+
 <p><span class="chinese">我们用肉眼是看不到河外星系的。</span><span class="english">Extragalactic nebula is invisible to the naked eye.</span></p>
 
 <p><span class="chinese">“外星云”是“星系”的曾用名。</span><span class="english">"Extragalactic nebula" is a former name for "galaxy".</span></p>

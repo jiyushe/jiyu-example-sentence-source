@@ -1,5 +1,7 @@
 # cockroach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cockroach.md)
+
 <p><span class="chinese">他勇敢地用拖鞋打蟑螂。</span><span class="english">He bravely slippered a cockroach.</span></p>
 
 <p><span class="chinese">唤作踩死一只蟑螂呢？</span><span class="english">What about stepping on a cockroach?</span></p>

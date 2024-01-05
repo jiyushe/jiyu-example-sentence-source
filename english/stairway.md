@@ -1,5 +1,7 @@
 # stairway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stairway.md)
+
 <p><span class="chinese">只有一个楼梯吗？</span><span class="english">Is there only one stairway?</span></p>
 
 <p><span class="chinese">我应该走楼梯下去吗？</span><span class="english">Shall I go down the stairway?</span></p>

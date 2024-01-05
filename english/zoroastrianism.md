@@ -1,5 +1,7 @@
 # zoroastrianism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoroastrianism.md)
+
 <p><span class="chinese">你认为印度教和拜火教有什么联系？</span><span class="english">What connection do you think Hinduism has with Zoroastrianism?</span></p>
 
 <p><span class="chinese">未来往世书明确地把他们鉴别为琐罗亚斯德教徒。</span><span class="english">Bhavishya Purana explicitly identifies them with Zoroastrianism.</span></p>

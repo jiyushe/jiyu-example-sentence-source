@@ -1,5 +1,7 @@
 # antisepsis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antisepsis.md)
+
 <p><span class="chinese">实验探索自放热型防腐涂层。</span><span class="english">A new type antisepsis coating was exploited.</span></p>
 
 <p><span class="chinese">用于电镀、防腐及分析试剂。</span><span class="english">Used in electroplating, antisepsis and analytical reagent.</span></p>

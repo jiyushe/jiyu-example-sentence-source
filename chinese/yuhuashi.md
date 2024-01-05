@@ -1,5 +1,7 @@
 # 雨花石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhuashi.md)
+
 <p><span class="chinese">那边有个雨花石博物馆。</span><span class="english">There's a Yuhua pebble museum.</span></p>
 
 <p><span class="chinese">南京的雨花石也很著名哦！</span><span class="english">The stone is also very famous Nanjing Oh!</span></p>

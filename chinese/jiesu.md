@@ -1,5 +1,7 @@
 # 借宿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiesu.md)
+
 <p><span class="chinese">我能借宿一晚吗？</span><span class="english">Can you put me up for the night?</span></p>
 
 <p><span class="chinese">你今晚有借宿的地方吗?。</span><span class="english">Do you have lodging for tonight?</span></p>

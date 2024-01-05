@@ -1,5 +1,7 @@
 # triathlon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triathlon.md)
+
 <p><span class="chinese">加里参加三项全能运动训练。</span><span class="english">Gary is training for a triathlon.</span></p>
 
 <p><span class="chinese">你说你是一名铁人三项运动员。</span><span class="english">You said you're a triathlon player.</span></p>

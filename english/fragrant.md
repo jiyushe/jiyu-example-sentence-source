@@ -1,5 +1,7 @@
 # fragrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fragrant.md)
+
 <p><span class="chinese">芬芳香园玫瑰花。</span><span class="english">Fragrant incense rose garden.</span></p>
 
 <p><span class="chinese">花儿闻起来真香。</span><span class="english">The flower smells very fragrant.</span></p>

@@ -1,5 +1,7 @@
 # injun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/injun.md)
+
 <p><span class="chinese">你成了印第安人了，是吗？</span><span class="english">You turned Injun ,didn't you ?</span></p>
 
 <p><span class="chinese">噢，对了，法官大人，印第安·乔还在洞里呐！</span><span class="english">Oh, Judge, Injun Joe's in the cave!</span></p>

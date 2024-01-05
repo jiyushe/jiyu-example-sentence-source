@@ -1,5 +1,7 @@
 # 后继无人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houjiwuren.md)
+
 <p><span class="chinese">民间美术处于后继无人的濒危状态。</span><span class="english">Folk Art is in a endangered state of no heir.</span></p>
 
 <p><span class="chinese">中国女子跳水队后继无人的现象令人担忧。</span><span class="english">It is very worrying that there is no heir on the Chinese Womens Diving Team.</span></p>

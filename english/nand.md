@@ -1,5 +1,7 @@
 # nand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nand.md)
+
 <p><span class="chinese">四2输入与非门施密特触发器输入。</span><span class="english">Quad 2-input NAND gate with schmitt trigger inputs.</span></p>
 
 <p><span class="chinese">多电子原子中，原子轨道的能级取决于主量子数n和角量子数l。</span><span class="english">For many-electron atom, the orbital energies depend on both nand l.</span></p>

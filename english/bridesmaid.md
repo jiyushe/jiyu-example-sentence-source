@@ -1,5 +1,7 @@
 # bridesmaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bridesmaid.md)
+
 <p><span class="chinese">我当卡西的女傧相。</span><span class="english">I was bridesmaid to Cathy.</span></p>
 
 <p><span class="chinese">她在婚礼上担任女傧相。</span><span class="english">She was a bridesmaid at the wedding.</span></p>

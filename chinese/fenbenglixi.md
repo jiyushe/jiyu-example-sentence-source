@@ -1,5 +1,7 @@
 # 分崩离析
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenbenglixi.md)
+
 <p><span class="chinese">数年之间，古奇奥尼帝国分崩离析。</span><span class="english">The dissolution of the Guccione empire took years.</span></p>
 
 <p><span class="chinese">没有了汉民族中国早就分崩离析了。</span><span class="english">Without the Han China could never have held together.</span></p>

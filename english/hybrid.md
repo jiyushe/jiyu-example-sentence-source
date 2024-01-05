@@ -1,5 +1,7 @@
 # hybrid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hybrid.md)
+
 <p><span class="chinese">这是非常糟糕的混合”。</span><span class="english">It's a very mushy hybrid.</span></p>
 
 <p><span class="chinese">请看混合式工作空间。</span><span class="english">Enter the hybrid workplace.</span></p>

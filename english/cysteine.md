@@ -1,5 +1,7 @@
 # cysteine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cysteine.md)
+
 <p><span class="chinese">半胱氨酸是细胞内合成谷胱甘肽的关键性氨基酸。</span><span class="english">Cysteine is the crucial limiting amino acid for intracellular gsh synthesis.</span></p>
 
 <p><span class="chinese">半胱氨酸和雷尼替丁都不影响卡尼汀的稳定性。</span><span class="english">Nether cysteine nor ranitidine appaared to influence the stability of carnitine.</span></p>

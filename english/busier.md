@@ -1,5 +1,7 @@
 # busier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busier.md)
+
 <p><span class="chinese">东尼也比我忙很多。</span><span class="english">She is busier than I am.</span></p>
 
 <p><span class="chinese">你看来不错，比原来更忙</span><span class="english">You’ve been good busier than ever</span></p>

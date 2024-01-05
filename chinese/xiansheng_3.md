@@ -1,5 +1,7 @@
 # 显圣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiansheng_3.md)
+
 <p><span class="chinese">所有显圣者的启示者啊！</span><span class="english">O Thou Revealer of every Manifestation!</span></p>
 
 <p><span class="chinese">天主经在天我等父者，我等愿尔名显圣。</span><span class="english">Our Father in heaven,hallowed by your name.</span></p>

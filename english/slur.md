@@ -1,5 +1,7 @@
 # slur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slur.md)
+
 <p><span class="chinese">她没有讲话不清。</span><span class="english">She didn't slur.</span></p>
 
 <p><span class="chinese">在北京这样的诋毁是不允许的。</span><span class="english">Flemming is enraged by this slur.</span></p>

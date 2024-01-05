@@ -1,5 +1,7 @@
 # oval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oval.md)
+
 <p><span class="chinese">他有张鹅蛋脸。</span><span class="english">He has an oval face.</span></p>
 
 <p><span class="chinese">灰色椭圆形是小型飞船。</span><span class="english">The gray oval is a blimp.</span></p>

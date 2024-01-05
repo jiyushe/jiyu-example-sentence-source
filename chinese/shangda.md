@@ -1,5 +1,7 @@
 # 上达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangda.md)
+
 <p><span class="chinese">许多人相信这是自己的诉求上达天庭的最佳时候。</span><span class="english">Many believe it's also the best time for their prayers to be heard.</span></p>
 
 <p><span class="chinese">我和上了年纪，脾气温和的祖母一起住在宾夕法尼亚州的上达比。</span><span class="english">I was living with my meek old grandmother in Upper Darby, Pennsylvania.</span></p>

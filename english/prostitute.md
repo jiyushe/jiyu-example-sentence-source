@@ -1,5 +1,7 @@
 # prostitute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prostitute.md)
+
 <p><span class="chinese">一名正在街上拉客。</span><span class="english">A prostitute am soliciting on the road.</span></p>
 
 <p><span class="chinese">它如珠玑粉黛的浅浅蛾眉。</span><span class="english">It's shallow, such as Tamaki Prostitute Crescent.</span></p>

@@ -1,5 +1,7 @@
 # jura
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jura.md)
+
 <p><span class="chinese">汝拉州独有的传统，是旅游零售。</span><span class="english">Jura Legacy is exclusive to travel retail.</span></p>
 
 <p><span class="chinese">他物权为我国物权法制定中的最大难点。</span><span class="english">Jura in re aliana is a major difficulty in the making of China's jus in rem.</span></p>

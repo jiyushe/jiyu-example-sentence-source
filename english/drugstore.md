@@ -1,5 +1,7 @@
 # drugstore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drugstore.md)
+
 <p><span class="chinese">你喜欢开架的化妆品吗?。</span><span class="english">Do you like drugstore makeup?</span></p>
 
 <p><span class="chinese">拐角处有一家药铺。</span><span class="english">There is a drugstore around the corner.</span></p>

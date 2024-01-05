@@ -1,5 +1,7 @@
 # causation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/causation.md)
+
 <p><span class="chinese">我们相信因果关系只是我们头脑中的习惯。</span><span class="english">Our belied on causation is just our habit in mind.</span></p>
 
 <p><span class="chinese">过去Walgren过失犯罪和因果关系。</span><span class="english">Walgren goes over criminal negligence and causation.</span></p>

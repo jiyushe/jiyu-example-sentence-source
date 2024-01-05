@@ -1,5 +1,7 @@
 # 伸冤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyuan.md)
+
 <p><span class="chinese">这位神、就是那为我伸冤、使众民服在我以下的。</span><span class="english">He is the God who avenges me, who subdues nations under me.</span></p>
 
 <p><span class="chinese">这位上帝，就是那为我伸冤、使众民服在我以下的。</span><span class="english">He is the God who avenges me, who subdues nations under me.</span></p>

@@ -1,5 +1,7 @@
 # personhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/personhood.md)
+
 <p><span class="chinese">对于个人品质来说也有这样一种外形吗？</span><span class="english">Is there such a form for personhood?</span></p>
 
 <p><span class="chinese">消除企业的“人格权”。</span><span class="english">Remove the " personhood rights" of corporations.</span></p>

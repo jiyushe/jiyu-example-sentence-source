@@ -1,5 +1,7 @@
 # 间日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianri.md)
+
 <p><span class="chinese">打摆子，间日疟，三日疟，疟疾。</span><span class="english">AGUE, tertian fever, quartan fever, paludism.</span></p>
 
 <p><span class="chinese">间日疟原虫被人们忽略，这是由于它很少导致死亡。</span><span class="english">has been neglected because it is rarely fatal.</span></p>

@@ -1,5 +1,7 @@
 # 一目了然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimuliaoran.md)
+
 <p><span class="chinese">从开始的那天便一目了然</span><span class="english">As clean as on the starting day.</span></p>
 
 <p><span class="chinese">“这并非是个一目了然的案子，”他这样说。</span><span class="english">"This is no clear-cut case, " he said.</span></p>

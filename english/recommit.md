@@ -1,5 +1,7 @@
 # recommit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recommit.md)
+
 <p><span class="chinese">因此，让我们重新作出承诺，为这一事业而努力。</span><span class="english">So let us recommit ourselves to this cause.</span></p>
 
 <p><span class="chinese">好了，今天打算要求自己重新新再做点什么呢？</span><span class="english">So what are you going to recommit to today?</span></p>

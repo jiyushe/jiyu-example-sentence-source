@@ -1,5 +1,7 @@
 # 勾当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goudang.md)
+
 <p><span class="chinese">我成了他罪恶勾当的工具。</span><span class="english">I became the tool of his wicked deeds.</span></p>
 
 <p><span class="chinese">但她并没和他们调情或做其他勾当。</span><span class="english">But she doesn't flirt back or anything.</span></p>

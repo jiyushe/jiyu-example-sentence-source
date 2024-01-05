@@ -1,5 +1,7 @@
 # glowing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glowing.md)
+
 <p><span class="chinese">它在发光。</span><span class="english">It is glowing.</span></p>
 
 <p><span class="chinese">为什么它在发光？</span><span class="english">And why is it glowing?</span></p>

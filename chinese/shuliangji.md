@@ -1,5 +1,7 @@
 # 数量级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuliangji.md)
+
 <p><span class="chinese">它跨越了40个数量级。</span><span class="english">It covers 40 orders of magnitude.</span></p>
 
 <p><span class="chinese">我们一下子跌了3个数量级。</span><span class="english">We dropped 3 orders of magnitude.</span></p>

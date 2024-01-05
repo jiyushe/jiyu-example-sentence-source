@@ -1,5 +1,7 @@
 # 称作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengzuo.md)
+
 <p><span class="chinese">它被称作挖泥机。</span><span class="english">It is called dredge.</span></p>
 
 <p><span class="chinese">我们可以把这称作一次省亲。</span><span class="english">We can call it a visit.</span></p>

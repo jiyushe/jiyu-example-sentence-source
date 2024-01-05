@@ -1,5 +1,7 @@
 # esophagus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esophagus.md)
+
 <p><span class="chinese">食道癌是什么症状呢?。</span><span class="english">What symptom is esophagus cancer?</span></p>
 
 <p><span class="chinese">食道癌真的治不好吗?。</span><span class="english">Is esophagus cancer treated really?</span></p>

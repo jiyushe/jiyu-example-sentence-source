@@ -1,5 +1,7 @@
 # thorp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thorp.md)
+
 <p><span class="chinese">这是一个非常激动人心的发展，索普说。</span><span class="english">That is a tremendously exciting development, Thorp said.</span></p>
 
 <p><span class="chinese">索普女士在加利福吉亚大学欧文分校的加氢站加氢。</span><span class="english">Thorp fills up at a hydrogen station on the campus of the University at Irvine.</span></p>

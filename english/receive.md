@@ -1,5 +1,7 @@
 # receive 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/receive.md)
+
 <p><span class="chinese">我是怎么接受他的？</span><span class="english">How may I receive Him?</span></p>
 
 <p><span class="chinese">你有没有收到喜帖?。</span><span class="english">Did you receive invitation?</span></p>

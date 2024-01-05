@@ -1,5 +1,7 @@
 # 坐定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoding.md)
+
 <p><span class="chinese">然后你再花16年教丫们坐定和闭嘴。</span><span class="english">Then you spend the next 16 years telling them to sit down shut-up.</span></p>
 
 <p><span class="chinese">但是当他和其他乘客坐定后，舒服愉快的感觉又回来了。</span><span class="english">But when he, and the other passengers, are seated, well-being returns.</span></p>

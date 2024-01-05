@@ -1,5 +1,7 @@
 # ghent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghent.md)
+
 <p><span class="chinese">卢克请求黑客扎卡里斯·根特破解出全部记录。</span><span class="english">Luke asked slicer Zakarisz Ghent to extract the full recording.</span></p>
 
 <p><span class="chinese">根特抵达科洛桑两天后，就为阿克巴洗刷了罪名。</span><span class="english">Two days after his arrival on Coruscant, Ghent had Ackbar cleared.</span></p>

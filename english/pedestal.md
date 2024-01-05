@@ -1,5 +1,7 @@
 # pedestal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedestal.md)
+
 <p><span class="chinese">一根柱子立在柱脚上。</span><span class="english">A columnists on its pedestal.</span></p>
 
 <p><span class="chinese">我敬重斯坦福大学。</span><span class="english">I had Stanford on a pedestal.</span></p>

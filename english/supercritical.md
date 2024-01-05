@@ -1,5 +1,7 @@
 # supercritical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supercritical.md)
+
 <p><span class="chinese">研究硫酸钠在超临界水中的溶解度。</span><span class="english">The Solubility of sodium sulfate in supercritical water was studied.</span></p>
 
 <p><span class="chinese">超临界电厂的利用在世界范围相差很大。</span><span class="english">The use of supercritical plant has varied considerably through the world.</span></p>

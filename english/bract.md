@@ -1,5 +1,7 @@
 # bract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bract.md)
+
 <p><span class="chinese">崖柏属雌球果的苞鳞中没有倒转的维管束形成。</span><span class="english">There was no inverted vascular bundle developed in the bract scale of Thuja occidentals.</span></p>
 
 <p><span class="chinese">结果表明，花瓣、苞片和花萼上、下表皮均有气孔分布。</span><span class="english">The results showed that stomata distributed in upper and lower epidermis of petal, bract and calyx.</span></p>

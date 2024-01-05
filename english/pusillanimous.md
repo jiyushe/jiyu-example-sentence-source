@@ -1,5 +1,7 @@
 # pusillanimous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pusillanimous.md)
+
 <p><span class="chinese">软弱无力的人不会保卫他自己的家。</span><span class="english">The pusillanimous man would not defend his own family.</span></p>
 
 <p><span class="chinese">他的胆怯促使他未能援助被行抢的老人。</span><span class="english">His failure to help the old man who was being robbed was pusillanimous.</span></p>

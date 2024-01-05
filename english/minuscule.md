@@ -1,5 +1,7 @@
 # minuscule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minuscule.md)
+
 <p><span class="chinese">这个细微的触碰将会引起晶体的震颤。</span><span class="english">This minuscule nudge will set the crys tal vibrating.</span></p>
 
 <p><span class="chinese">在校学生在整个计划中其实只占了极小的一部分。</span><span class="english">The students are such a minuscule portion of this program.</span></p>

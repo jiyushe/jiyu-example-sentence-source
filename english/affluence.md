@@ -1,5 +1,7 @@
 # affluence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affluence.md)
+
 <p><span class="chinese">我们又一次看到富裕的优势。</span><span class="english">Again we see the advantage of affluence.</span></p>
 
 <p><span class="chinese">我们付予员工满足与丰裕。</span><span class="english">We bring contentment and affluence to employees.</span></p>

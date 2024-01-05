@@ -1,5 +1,7 @@
 # ramus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramus.md)
+
 <p><span class="chinese">在耻骨上支的后面，有的人缺如。</span><span class="english">It is behind superior ramus of pubis, some persons dont have it.</span></p>
 
 <p><span class="chinese">所有母线和分支母线都用热缩套管覆盖。</span><span class="english">All bus and the ramus bus are covered with pyrocondensation bushing.</span></p>

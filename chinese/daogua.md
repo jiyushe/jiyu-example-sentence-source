@@ -1,5 +1,7 @@
 # 倒挂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daogua.md)
+
 <p><span class="chinese">看！我在倒挂！呵呵！</span><span class="english">Look! I'm upside down! Hehe!</span></p>
 
 <p><span class="chinese">四只蝙蝠正在阁楼顶上倒挂着。</span><span class="english">Four bats are hanging in back attics.</span></p>

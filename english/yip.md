@@ -1,5 +1,7 @@
 # yip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yip.md)
+
 <p><span class="chinese">位于沿成业街的地面。</span><span class="english">It is at ground level along Shing Yip Street.</span></p>
 
 <p><span class="chinese">那个孤独的旅行者被野狗的狂吠声给吓坏了。</span><span class="english">The lonely traveler was scared by the yip of tykes.</span></p>

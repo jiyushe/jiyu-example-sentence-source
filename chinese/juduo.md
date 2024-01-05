@@ -1,5 +1,7 @@
 # 居多
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juduo.md)
+
 <p><span class="chinese">而晚餐时间则是当地人居多，</span><span class="english">dinner tends to be more locals</span></p>
 
 <p><span class="chinese">我们球队里北方人居多。</span><span class="english">Most of the players in our team are northerners.</span></p>

@@ -1,5 +1,7 @@
 # rio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rio.md)
+
 <p><span class="chinese">里约热内卢咸八宝饭，巴西</span><span class="english">FEIJOADA IN RIO DE JANEIRO, BRAZIL</span></p>
 
 <p><span class="chinese">里约热内卢是一个天然大海港。</span><span class="english">Rio de Janeiro is a big natural harbour.</span></p>

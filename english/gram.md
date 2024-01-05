@@ -1,5 +1,7 @@
 # gram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gram.md)
+
 <p><span class="chinese">多少钱一克？</span><span class="english">How much per a gram?</span></p>
 
 <p><span class="chinese">绿豆汤可以加蜂蜜吗?。</span><span class="english">Can gram soup add honey?</span></p>

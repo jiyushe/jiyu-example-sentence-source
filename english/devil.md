@@ -1,5 +1,7 @@
 # devil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devil.md)
+
 <p><span class="chinese">魔鬼天使。</span><span class="english">The devil angel.</span></p>
 
 <p><span class="chinese">乔装的魔鬼。</span><span class="english">Devil 1N disguise.</span></p>

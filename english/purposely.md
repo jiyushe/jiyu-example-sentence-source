@@ -1,5 +1,7 @@
 # purposely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purposely.md)
+
 <p><span class="chinese">他成心让我难堪。</span><span class="english">He purposely embarrassed me.</span></p>
 
 <p><span class="chinese">他是专程来这里拜访她们的。</span><span class="english">He was purposely coming to visit them.</span></p>

@@ -1,5 +1,7 @@
 # baptistery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baptistery.md)
+
 <p><span class="chinese">洗礼堂位于教堂以西，平面三角形，直径274米。</span><span class="english">Baptistery is located in the west of the church, flat triangle, diameter 274 m.</span></p>
 
 <p><span class="chinese">洗礼堂起源于作为战神马尔斯的罗马寺庙的信念持续了好几个世纪。</span><span class="english">The belief that the Baptistery originated as a Roman Temple of Mars persisted for centuries.</span></p>

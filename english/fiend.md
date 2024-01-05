@@ -1,5 +1,7 @@
 # fiend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiend.md)
+
 <p><span class="chinese">你魔鬼的邪恶的信使。</span><span class="english">Foul pre-currer of the fiend.</span></p>
 
 <p><span class="chinese">我无法和一个不会付出的恶魔一起生活。</span><span class="english">Beside a fiend who cannot give!</span></p>

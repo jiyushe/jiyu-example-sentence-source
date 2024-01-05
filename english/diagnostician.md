@@ -1,5 +1,7 @@
 # diagnostician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diagnostician.md)
+
 <p><span class="chinese">难怪你是个那么有名望的诊断专家。</span><span class="english">No wonder you're such a renowned diagnostician.</span></p>
 
 <p><span class="chinese">我只是想告诉你你开的处方并不高明。</span><span class="english">I mean to tell you that you are a poor diagnostician.</span></p>

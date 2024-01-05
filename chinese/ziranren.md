@@ -1,5 +1,7 @@
 # 自然人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranren.md)
+
 <p><span class="chinese">申请人必须是拥有良好声誉的自然人。</span><span class="english">Theapplicant must be a natural person with an impeccable reputation.</span></p>
 
 <p><span class="chinese">我保留了那些肯定是住在幽暗森林中的超自然人物。</span><span class="english">I kept the supernatural cast that I’m sure inhabited those dark woods.</span></p>

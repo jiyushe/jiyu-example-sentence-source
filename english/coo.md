@@ -1,5 +1,7 @@
 # coo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coo.md)
+
 <p><span class="chinese">这位出生于阿拉巴马的前任首席运营官是个什么样的人？</span><span class="english">What is the Alabama-born former COO like?</span></p>
 
 <p><span class="chinese">他们也对他们的婴儿咯咯咕咕的说话</span><span class="english">They would gaggle and coo back at the baby.</span></p>

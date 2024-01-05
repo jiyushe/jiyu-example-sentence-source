@@ -1,5 +1,7 @@
 # 紧紧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinjin.md)
+
 <p><span class="chinese">她紧紧地盯着它。</span><span class="english">She stared at it.</span></p>
 
 <p><span class="chinese">他紧紧握着我的手。</span><span class="english">He squeezed my hand.</span></p>

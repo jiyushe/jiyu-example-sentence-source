@@ -1,5 +1,7 @@
 # 实干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shigan.md)
+
 <p><span class="chinese">属学习、实干型的员工。</span><span class="english">A personnel of study and working.</span></p>
 
 <p><span class="chinese">努力实干是东荣的基本工作态度。</span><span class="english">Think of things clearly and work hard.</span></p>

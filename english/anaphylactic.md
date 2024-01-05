@@ -1,5 +1,7 @@
 # anaphylactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaphylactic.md)
+
 <p><span class="chinese">我可能会过敏性休克的。</span><span class="english">I could have gone into Anaphylactic Shock.</span></p>
 
 <p><span class="chinese">导致人类死亡的，是由于过敏性休克。</span><span class="english">Cases of human death have been due to anaphylactic shock.</span></p>

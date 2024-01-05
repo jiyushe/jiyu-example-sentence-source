@@ -1,5 +1,7 @@
 # inviolability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inviolability.md)
+
 <p><span class="chinese">这是整党的严肃性。</span><span class="english">This is the inviolability of Party consolidation.</span></p>
 
 <p><span class="chinese">我们只要让他知道我们是不可侵犯的。</span><span class="english">We as long as let him know us is an inviolability.</span></p>

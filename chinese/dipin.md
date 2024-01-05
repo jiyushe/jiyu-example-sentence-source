@@ -1,5 +1,7 @@
 # 低频
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dipin.md)
+
 <p><span class="chinese">它可以在低频传输使用。</span><span class="english">It can be used in LF transmissions.</span></p>
 
 <p><span class="chinese">它缺乏重中低频，和中低频。</span><span class="english">It lacks in the mid bass and lower mids.</span></p>

@@ -1,5 +1,7 @@
 # 几经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijing.md)
+
 <p><span class="chinese">几经磨难，我们才明白这个道理。</span><span class="english">Your father and I learned this the hard way.</span></p>
 
 <p><span class="chinese">几经碰撞，直至碰出爱情火花。</span><span class="english">After many collision, till touch a love scintilla.</span></p>

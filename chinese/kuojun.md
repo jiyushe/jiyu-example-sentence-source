@@ -1,5 +1,7 @@
 # 扩军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuojun.md)
+
 <p><span class="chinese">布什总统向国会提出资金请求以欲再一次扩军。</span><span class="english">President Bush is asking Congress for money for another troop surge.</span></p>
 
 <p><span class="chinese">我记得你承诺过会通过在阿富汗扩军而抓住他。</span><span class="english">I thought you promised to capture him by expanding teh Afghan troops.</span></p>

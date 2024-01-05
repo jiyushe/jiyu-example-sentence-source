@@ -1,5 +1,7 @@
 # animal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animal_1.md)
+
 <p><span class="chinese">动物细胞？</span><span class="english">Animal cell?</span></p>
 
 <p><span class="chinese">熊是动物。</span><span class="english">The bear is animal.</span></p>

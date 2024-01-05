@@ -1,5 +1,7 @@
 # 一举成名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijuchengming.md)
+
 <p><span class="chinese">她获得冠军，一举成名。</span><span class="english">He gloried in his winning the championship.</span></p>
 
 <p><span class="chinese">爱迪生很年轻时就因创造发明而一举成名。</span><span class="english">Edison won his spurs as an inventor while young.</span></p>

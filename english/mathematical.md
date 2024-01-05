@@ -1,5 +1,7 @@
 # mathematical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mathematical.md)
+
 <p><span class="chinese">他是一位数学天才。</span><span class="english">He was a mathematical prodigy.</span></p>
 
 <p><span class="chinese">那也和数学有关</span><span class="english">It's a mathematical thing too.</span></p>

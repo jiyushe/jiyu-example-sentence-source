@@ -1,5 +1,7 @@
 # 逸乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yile.md)
+
 <p><span class="chinese">我们不能坐等令逸乐盗取我们的生命！</span><span class="english">We can't wait for the pleasure to steal our life!</span></p>
 
 <p><span class="chinese">假如你在你的疑惧中，只寻求爱的和平与逸乐</span><span class="english">But if in your fear you would seek only love's peace and love's pleasure</span></p>

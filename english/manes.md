@@ -1,5 +1,7 @@
 # manes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manes.md)
+
 <p><span class="chinese">狮子为什么有鬃毛？</span><span class="english">Why do lions have manes?</span></p>
 
 <p><span class="chinese">她浏览了一下名单。</span><span class="english">She glanced down the list of manes.</span></p>

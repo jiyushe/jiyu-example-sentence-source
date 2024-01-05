@@ -1,5 +1,7 @@
 # 宏观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongguan.md)
+
 <p><span class="chinese">我们必须重新调整宏观经济政策。</span><span class="english">We must re-adjust macroeconomic policy.</span></p>
 
 <p><span class="chinese">遗传算法是一种宏观意义上的仿生算法。</span><span class="english">GA is mimic-life algorithm in grandness.</span></p>

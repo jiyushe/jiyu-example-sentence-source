@@ -1,5 +1,7 @@
 # militancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/militancy.md)
+
 <p><span class="chinese">但是军队称交战状态已经降到“临界点以下”的等级。</span><span class="english">But the army says militancy is down to a “subcritical” level.</span></p>
 
 <p><span class="chinese">内格罗蓬特说，要解决激进主义的问题没有单一的解决方案。</span><span class="english">He said there is no single solution to the issue of militancy.</span></p>

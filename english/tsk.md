@@ -1,5 +1,7 @@
 # tsk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tsk.md)
+
 <p><span class="chinese">不要咂嘴、咋舌、翻白眼或做无礼的手势。</span><span class="english">Do not smack your lips, "tsk", roll your eyes, or show disrespect with gestures.</span></p>
 
 <p><span class="chinese">提出了一种基于熵准则函数的TSK模糊系统建模方法。</span><span class="english">TSK fuzzy modeling approach based on entropy criteria is presented in this paper.</span></p>

@@ -1,5 +1,7 @@
 # 谐波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiebo.md)
+
 <p><span class="chinese">谐波分析测量法。</span><span class="english">Harmonic analysis measure method.</span></p>
 
 <p><span class="chinese">这是个简单谐波振荡。</span><span class="english">This is a simple harmonic oscillation.</span></p>

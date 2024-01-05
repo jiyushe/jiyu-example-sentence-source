@@ -1,5 +1,7 @@
 # gluteal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gluteal.md)
+
 <p><span class="chinese">这个症状叫臀肌失忆症。</span><span class="english">This is called gluteal amnesia.</span></p>
 
 <p><span class="chinese">结果臀肌挛缩症与肌肉注射关系十分密切。</span><span class="english">Results This is a disorder of contracture of gluteal muscles.</span></p>

@@ -1,5 +1,7 @@
 # ditty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ditty.md)
+
 <p><span class="chinese">我们都喜欢她的小曲。</span><span class="english">We all like her ditty.</span></p>
 
 <p><span class="chinese">他用颤抖的嗓音哼了一首稀奇古怪的古老小调。</span><span class="english">He quavered forth a quaint old ditty.</span></p>

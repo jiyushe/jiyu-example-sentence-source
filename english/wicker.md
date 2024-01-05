@@ -1,5 +1,7 @@
 # wicker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wicker.md)
+
 <p><span class="chinese">放鱼的柳条编织的篮子。</span><span class="english">A wicker basket used to hold fish.</span></p>
 
 <p><span class="chinese">她跪下来看，发现了柳条婴儿。</span><span class="english">Kneeling, she found the wicker baby.</span></p>

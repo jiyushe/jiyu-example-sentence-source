@@ -1,5 +1,7 @@
 # 纵深
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongshen.md)
+
 <p><span class="chinese">所谓战略纵深也就这么多。</span><span class="english">So much for strategic depth.</span></p>
 
 <p><span class="chinese">触向你心神之纵深处张望。</span><span class="english">They look into the beauty of thy mind.</span></p>

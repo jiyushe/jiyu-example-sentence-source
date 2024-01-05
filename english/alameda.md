@@ -1,5 +1,7 @@
 # alameda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alameda.md)
+
 <p><span class="chinese">“散步道路，我们对发射是主要的，你复印吗”？</span><span class="english">Alameda , we are prime for launch, do you copy?</span></p>
 
 <p><span class="chinese">这个系统帮助我们在阿拉米达县与贫穷作斗争。</span><span class="english">This system is helping us in our fight against poverty in Alameda County.</span></p>

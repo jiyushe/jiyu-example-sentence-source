@@ -1,5 +1,7 @@
 # cryptology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryptology.md)
+
 <p><span class="chinese">是我们密码破译部主任。</span><span class="english">It's the director of our Cryptology Department.</span></p>
 
 <p><span class="chinese">密码算法暴力破解是密码学的一个重要分支。</span><span class="english">Brute force attack on cryptographic algorithm is an important branch of cryptology.</span></p>

@@ -1,5 +1,7 @@
 # jubilant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jubilant.md)
+
 <p><span class="chinese">枪支爱好者现在十分庆幸。</span><span class="english">Gun-lovers are guardedly jubilant.</span></p>
 
 <p><span class="chinese">拉尔特在赛后说道。</span><span class="english">A jubilant Raelert said after the race.</span></p>

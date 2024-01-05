@@ -1,5 +1,7 @@
 # mirror 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mirror.md)
+
 <p><span class="chinese">镜中人。百听不厌。</span><span class="english">Man in the mirror.</span></p>
 
 <p><span class="chinese">忠实，镜照他们。</span><span class="english">Loyal, mirror them.</span></p>

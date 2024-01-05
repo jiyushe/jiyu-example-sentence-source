@@ -1,5 +1,7 @@
 # 耽搁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dange.md)
+
 <p><span class="chinese">不能再耽搁时间了。</span><span class="english">There's no time to lose.</span></p>
 
 <p><span class="chinese">耽搁了两周。</span><span class="english">Procrastinated for 2 weeks.</span></p>

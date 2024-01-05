@@ -1,5 +1,7 @@
 # shrivel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrivel.md)
+
 <p><span class="chinese">天旱使树叶枯萎。</span><span class="english">Leaves shrivel in autumn.</span></p>
 
 <p><span class="chinese">如此一来，心灵便会枯萎，黯淡无光。</span><span class="english">So we began to shrivel up inside.</span></p>

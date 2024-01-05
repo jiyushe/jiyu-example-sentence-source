@@ -1,5 +1,7 @@
 # multimillionaire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multimillionaire.md)
+
 <p><span class="chinese">千万富豪平均年龄为39岁。</span><span class="english">The average age of a multimillionaire is 39.</span></p>
 
 <p><span class="chinese">你离开的时候，我们调查发现你是一个千万富翁。</span><span class="english">While you were away, we checked you out and found that you are a multimillionaire.</span></p>

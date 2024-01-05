@@ -1,5 +1,7 @@
 # madras
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madras.md)
+
 <p><span class="chinese">他点了一份外卖的马德拉斯羔羊肉。</span><span class="english">He ordered a lamb madras to take away.</span></p>
 
 <p><span class="chinese">马德拉斯包装目前有员工79阿哥斯。</span><span class="english">Madras Packaging currently employs 79 in Argos.</span></p>

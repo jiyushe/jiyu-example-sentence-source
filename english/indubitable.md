@@ -1,5 +1,7 @@
 # indubitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indubitable.md)
+
 <p><span class="chinese">已有十分明确无疑的迹象。</span><span class="english">There have been indubitable signs already.</span></p>
 
 <p><span class="chinese">他的出色表现让这部电影成为了毋庸置疑的经典。</span><span class="english">His brilliance renders this film an indubitable classic.</span></p>

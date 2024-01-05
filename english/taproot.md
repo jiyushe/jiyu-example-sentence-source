@@ -1,5 +1,7 @@
 # taproot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taproot.md)
+
 <p><span class="chinese">直根圆筒状，约5毫米厚。</span><span class="english">Taproot cylindrical, ca. 5 mm thick.</span></p>
 
 <p><span class="chinese">直根长圆锥形，很少纺锤形。</span><span class="english">Taproot long-conic, rarely fusiform.</span></p>

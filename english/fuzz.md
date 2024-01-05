@@ -1,5 +1,7 @@
 # fuzz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fuzz.md)
+
 <p><span class="chinese">你也看不到上面有任何的长毛现象。</span><span class="english">You don\'t see any fuzz on it.</span></p>
 
 <p><span class="chinese">模糊测试的实现是一个非常简单的过程</span><span class="english">Fuzz testing is a very simple procedure to implement</span></p>

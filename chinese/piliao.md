@@ -1,5 +1,7 @@
 # 坯料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piliao.md)
+
 <p><span class="chinese">包括泥料、泥浆以及粉状坯料等。</span><span class="english">Including mud, mud and powder billets and so on.</span></p>
 
 <p><span class="chinese">采用方形坯料深拉延圆筒形件是一项新技术。</span><span class="english">With square blank to draw cylinder is a newly technology.</span></p>

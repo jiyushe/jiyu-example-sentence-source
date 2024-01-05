@@ -1,5 +1,7 @@
 # prussia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prussia.md)
+
 <p><span class="chinese">汉诺威市于1886年被并入普鲁士。</span><span class="english">Hanover was incorporated into Prussia in 1886.</span></p>
 
 <p><span class="chinese">在普鲁士,中产阶级也是小众群体</span><span class="english">The middle class was extremely small in Prussia.</span></p>

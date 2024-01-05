@@ -1,5 +1,7 @@
 # ilex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ilex.md)
+
 <p><span class="chinese">一片片金灿灿的颜色，满树沉甸甸的果实都是秋的馈赠。</span><span class="english">Golden color of a piece, are the fruits of Ilex heavy autumn gift.</span></p>
 
 <p><span class="chinese">枸骨为冬青科常绿植物，分布在中国南方大部分地区。</span><span class="english">Ilex Cornuta is evergreen holly plant , found in most parts of southern China.</span></p>

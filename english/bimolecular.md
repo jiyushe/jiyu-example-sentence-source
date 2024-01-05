@@ -1,5 +1,7 @@
 # bimolecular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bimolecular.md)
+
 <p><span class="chinese">自由基链的终止产生于双分子反应。</span><span class="english">Termination of free radical chairs occurs by a bimolecular reaction.</span></p>
 
 <p><span class="chinese">我们有两种物质反应生成另外的物质,或双分子的物质，等等。</span><span class="english">And we have two species reacting to form another species, or bimolecular stuff, et cetera.</span></p>

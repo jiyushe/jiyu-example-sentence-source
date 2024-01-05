@@ -1,5 +1,7 @@
 # median
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/median.md)
+
 <p><span class="chinese">随访显示中位生存时间是22.3个月。</span><span class="english">Median follow-up was 22.3 months.</span></p>
 
 <p><span class="chinese">中位随访时间是7年。</span><span class="english">Median follow-up time was 7 years.</span></p>

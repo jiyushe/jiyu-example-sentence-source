@@ -1,5 +1,7 @@
 # pill 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pill.md)
+
 <p><span class="chinese">百年不遇的讨厌鬼！</span><span class="english">The pill of the century!</span></p>
 
 <p><span class="chinese">徐是早上-事后避孕药。</span><span class="english">SEO is the morning-after pill.</span></p>

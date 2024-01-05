@@ -1,5 +1,7 @@
 # caricature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caricature.md)
+
 <p><span class="chinese">变成一个漫画家。</span><span class="english">Become a caricature artist.</span></p>
 
 <p><span class="chinese">但这是只卡通版的指示犬。</span><span class="english">But this was a caricature of the breed.</span></p>

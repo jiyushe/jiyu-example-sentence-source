@@ -1,5 +1,7 @@
 # intuit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intuit.md)
+
 <p><span class="chinese">我一家人都讲因努伊特语。</span><span class="english">My family all speak the Intuit language.</span></p>
 
 <p><span class="chinese">虽然谷歌与通胀调情，但却监控了就业。</span><span class="english">While Google flirts with inflation, Intuit monitors employment.</span></p>

@@ -1,5 +1,7 @@
 # cartilage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cartilage.md)
+
 <p><span class="chinese">膝闭节半月硬骨切除术。</span><span class="english">Excision of semilunar cartilage of knee joint.</span></p>
 
 <p><span class="chinese">它是软骨组织包裹喉形成。</span><span class="english">It is composed of cartilage which surrounds the larynx.</span></p>

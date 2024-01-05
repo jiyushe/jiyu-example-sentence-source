@@ -1,5 +1,7 @@
 # isolator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isolator.md)
+
 <p><span class="chinese">一个可选的减振器的试剂盒也已经推出。</span><span class="english">An optional vibration isolator kit is also available.</span></p>
 
 <p><span class="chinese">隔离器的倾斜正端面，为了纺织操作员接近。</span><span class="english">Inclined front face of Isolator to aid operator access.</span></p>

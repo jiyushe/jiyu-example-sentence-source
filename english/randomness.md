@@ -1,5 +1,7 @@
 # randomness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/randomness.md)
+
 <p><span class="chinese">创造力是很泛的一个概念。</span><span class="english">Creativity is randomness.</span></p>
 
 <p><span class="chinese">在这一点上，随机性大大地超过了科学家们的安排所起到的作用。</span><span class="english">Randomness trumped the scientists' effort.</span></p>

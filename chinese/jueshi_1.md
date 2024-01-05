@@ -1,5 +1,7 @@
 # 绝食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueshi_1.md)
+
 <p><span class="chinese">我每周绝食一天。</span><span class="english">I fast a day eery week.</span></p>
 
 <p><span class="chinese">上次我们全都参加了绝食抗议运动。</span><span class="english">All of us hunger-struck last time.</span></p>

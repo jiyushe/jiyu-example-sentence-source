@@ -1,5 +1,7 @@
 # appetency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appetency.md)
+
 <p><span class="chinese">我的个性温和，较具亲和力。</span><span class="english">My character geniality, have the appetency.</span></p>
 
 <p><span class="chinese">红玫瑰能激起男人的征服欲和分泌雄性激素，但是要与一个真正热情如火的红玫瑰生活，很多男人并没有这样的信心。</span><span class="english">Red rose can activize the man’s appetency of conquest.</span></p>

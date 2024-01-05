@@ -1,5 +1,7 @@
 # 远大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanda.md)
+
 <p><span class="chinese">不，那是远大梦想。</span><span class="english">No, it was the dream.</span></p>
 
 <p><span class="chinese">我们要有远大的抱负。</span><span class="english">We need to be ambitious.</span></p>

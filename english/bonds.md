@@ -1,5 +1,7 @@
 # bonds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonds.md)
+
 <p><span class="chinese">还是要现金和债卷？</span><span class="english">Or cash and bonds?</span></p>
 
 <p><span class="chinese">为什么，这些化学键是什么？</span><span class="english">Why? What are the bonds?</span></p>

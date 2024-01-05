@@ -1,5 +1,7 @@
 # 照亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoliang.md)
+
 <p><span class="chinese">女神啊，照亮我的道路！</span><span class="english">Gode light my path!</span></p>
 
 <p><span class="chinese">女神啊，照亮我的道路！</span><span class="english">Godess light my path!</span></p>

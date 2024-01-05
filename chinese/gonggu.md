@@ -1,5 +1,7 @@
 # 巩固
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonggu.md)
+
 <p><span class="chinese">他们还有什么可巩固的？</span><span class="english">What do they have to consolidate?</span></p>
 
 <p><span class="chinese">学生在操练完后，相反音小游戏巩固。</span><span class="english">Let's play an opposite voice game.</span></p>

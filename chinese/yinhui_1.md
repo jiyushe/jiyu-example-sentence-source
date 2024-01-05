@@ -1,5 +1,7 @@
 # 隐晦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhui_1.md)
+
 <p><span class="chinese">而你的理由有点隐晦</span><span class="english">It kind of implies your reason.</span></p>
 
 <p><span class="chinese">而隐晦得像犹太人的天宇</span><span class="english">And obscure as that heaven of the Jews</span></p>

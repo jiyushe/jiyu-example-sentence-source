@@ -1,5 +1,7 @@
 # flagstaff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagstaff.md)
+
 <p><span class="chinese">狂风把旗杆吹倒了。</span><span class="english">The gale blew down the flagstaff.</span></p>
 
 <p><span class="chinese">弗拉格斯塔夫似乎对工业不具有吸引力。</span><span class="english">Flagstaff can't seem to attract industry.</span></p>

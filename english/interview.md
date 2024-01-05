@@ -1,5 +1,7 @@
 # interview
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interview.md)
+
 <p><span class="chinese">我是来面试的。</span><span class="english">I have an interview.</span></p>
 
 <p><span class="chinese">面试一乙高新技术。</span><span class="english">Interview of a B. Tech.</span></p>

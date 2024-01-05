@@ -1,5 +1,7 @@
 # parlance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parlance.md)
+
 <p><span class="chinese">用销售用语讲，这叫做“审判结束”。</span><span class="english">In sales parlance this is a ‘trial close’.</span></p>
 
 <p><span class="chinese">用医药行业的术语来说，它必须是四价疫苗。</span><span class="english">In drug industry parlance it must be tetravalent.</span></p>

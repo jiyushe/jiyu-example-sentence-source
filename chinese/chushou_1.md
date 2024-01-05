@@ -1,5 +1,7 @@
 # 出手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushou_1.md)
+
 <p><span class="chinese">好的公寓要快出手。</span><span class="english">Good apartments go quickly!</span></p>
 
 <p><span class="chinese">铁虎警觉出手，与来人打斗起来。</span><span class="english">Iron tiger alert, and to fight.</span></p>

@@ -1,5 +1,7 @@
 # 百折不挠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baizhebunao.md)
+
 <p><span class="chinese">面对极端困苦而百折不挠。</span><span class="english">Perseverance in the face of extreme hardship.</span></p>
 
 <p><span class="chinese">他是一种古老的鱼，他绝对百折不挠。</span><span class="english">"He's an old fish, and he's absolutely relentless," Joe said.</span></p>

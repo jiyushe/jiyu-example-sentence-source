@@ -1,5 +1,7 @@
 # 习气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiqi.md)
+
 <p><span class="chinese">我学会了往养成这类习气。</span><span class="english">I was taught to cultivate it.</span></p>
 
 <p><span class="chinese">我没有受他这种不良习气影响。</span><span class="english">His bad manners don't sit with me.</span></p>

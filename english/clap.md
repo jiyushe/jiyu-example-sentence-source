@@ -1,5 +1,7 @@
 # clap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clap.md)
+
 <p><span class="chinese">现在，每读一个字母就拍一下手！</span><span class="english">Now, clap it!</span></p>
 
 <p><span class="chinese">拍拍手。</span><span class="english">Clap your hands.</span></p>

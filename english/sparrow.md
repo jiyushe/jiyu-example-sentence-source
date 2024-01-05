@@ -1,5 +1,7 @@
 # sparrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparrow.md)
+
 <p><span class="chinese">我的名字是杰克斯派洛船长。</span><span class="english">My name is Captain Jack Sparrow.</span></p>
 
 <p><span class="chinese">噌的一声飞上了树。</span><span class="english">The sparrow whizzed up into a tree.</span></p>

@@ -1,5 +1,7 @@
 # 纹理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenli_1.md)
+
 <p><span class="chinese">这个纹理是光照贴图么？</span><span class="english">Is this texture a lightmap?</span></p>
 
 <p><span class="chinese">这就是纹理的效果。</span><span class="english">This is where textures help.</span></p>

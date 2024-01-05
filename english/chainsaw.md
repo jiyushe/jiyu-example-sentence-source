@@ -1,5 +1,7 @@
 # chainsaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chainsaw.md)
+
 <p><span class="chinese">幸运的是，布里顿有一把电锯。</span><span class="english">Lucky for Britton, he had a chainsaw.</span></p>
 
 <p><span class="chinese">我送给丈夫的情人节礼物是电锯！</span><span class="english">I gave my husband a chainsaw for Valentine’s!</span></p>

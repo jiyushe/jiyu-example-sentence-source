@@ -1,5 +1,7 @@
 # alpha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alpha.md)
+
 <p><span class="chinese">我是阿尔法，我是哦梅戛。</span><span class="english">I am Alpha and Omega.</span></p>
 
 <p><span class="chinese">这一项是α点的化学势。</span><span class="english">Here it is at point alpha.</span></p>

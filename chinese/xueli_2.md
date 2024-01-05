@@ -1,5 +1,7 @@
 # 学理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueli_2.md)
+
 <p><span class="chinese">他从学理改为学文。</span><span class="english">He changed from science to art.</span></p>
 
 <p><span class="chinese">你要么学文，要么学理。</span><span class="english">You either study arts or science.</span></p>

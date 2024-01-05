@@ -1,5 +1,7 @@
 # fletcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fletcher.md)
+
 <p><span class="chinese">很好，弗莱契。</span><span class="english">Very well, Fletcher.</span></p>
 
 <p><span class="chinese">欧文•弗莱彻，鲍勃•戴维斯</span><span class="english">By OWEN FLETCHER And BOB DAVIS</span></p>

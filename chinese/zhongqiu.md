@@ -1,5 +1,7 @@
 # 中秋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongqiu.md)
+
 <p><span class="chinese">中秋快乐!</span><span class="english">Mid-Autumn happiness!</span></p>
 
 <p><span class="chinese">中秋人最念，最念在梦中！</span><span class="english">Mid-most read, most read in a dream!</span></p>

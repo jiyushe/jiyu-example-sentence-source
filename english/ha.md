@@ -1,5 +1,7 @@
 # ha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ha.md)
+
 <p><span class="chinese">天上蓝蓝飘彩霞。</span><span class="english">Choi Ha floating blue sky.</span></p>
 
 <p><span class="chinese">他们知道是怎么一回事。</span><span class="english">They knew what was ha ening.</span></p>

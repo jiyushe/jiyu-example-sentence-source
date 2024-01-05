@@ -1,5 +1,7 @@
 # nomad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nomad.md)
+
 <p><span class="chinese">非也，它是“专为现代趴趴走族设计的座椅设备”。</span><span class="english">No, it's a "seating device for the modern nomad."</span></p>
 
 <p><span class="chinese">来自游牧2货架上，与前有线保险丝。</span><span class="english">Comes mounted on Nomad 2 shelf, with pre-wired fuse.</span></p>

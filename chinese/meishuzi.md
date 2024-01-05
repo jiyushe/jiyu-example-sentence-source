@@ -1,5 +1,7 @@
 # 美术字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meishuzi.md)
+
 <p><span class="chinese">他热爱美术字。</span><span class="english">He loves calligraphy.</span></p>
 
 <p><span class="chinese">Reed大学在那时提供也许是全美最好的美术字课程。</span><span class="english">Reed College atthat time offered perhaps the best calligraphy instruction in thecountry.</span></p>

@@ -1,5 +1,7 @@
 # claptrap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/claptrap.md)
+
 <p><span class="chinese">你看一个星期的这类哗众取宠节目所学到的东西，比你看一年电视教育节目，都多。</span><span class="english">You learn more in one week watching this claptrap than you do all year on education TV.</span></p>
 
 <p><span class="chinese">这种哗众取宠的心态，无非就是想引起他人的注意嘛。</span><span class="english">This curry favour by claptrap attitude, nothing but is wants to attract the attention of others.</span></p>

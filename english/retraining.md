@@ -1,5 +1,7 @@
 # retraining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retraining.md)
+
 <p><span class="chinese">多少培训将被要求使用克里奥？</span><span class="english">How much retraining will be required to use Creo?</span></p>
 
 <p><span class="chinese">这需要对劳动力重新培训和重新权衡。</span><span class="english">This will require retraining and rebalancing of work force.</span></p>

@@ -1,5 +1,7 @@
 # cher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cher.md)
+
 <p><span class="chinese">最野性的人之一就是雪儿了。</span><span class="english">Cher is frequently one of the wildest.</span></p>
 
 <p><span class="chinese">因为今晚我将见到我的宝贝，乖乖！</span><span class="english">For tonight down I'm gonna see my ma cher amio.</span></p>

@@ -1,5 +1,7 @@
 # 金融
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinrong.md)
+
 <p><span class="chinese">我的意思是他们都懂金融</span><span class="english">I mean they understand it.</span></p>
 
 <p><span class="chinese">金融是罪恶的根源。</span><span class="english">Mfirsty is the root of evil.</span></p>

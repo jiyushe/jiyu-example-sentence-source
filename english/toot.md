@@ -1,5 +1,7 @@
 # toot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toot.md)
+
 <p><span class="chinese">司机冲我挥挥手，按了下喇叭。</span><span class="english">The driver gave me a wave and a toot.</span></p>
 
 <p><span class="chinese">司机冲我挥挥手，按了下喇叭。</span><span class="english">The driver gave me a wave and a toot.</span></p>

@@ -1,5 +1,7 @@
 # 财务公司
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caiwugongsi.md)
+
 <p><span class="chinese">不可向任何财务公司借钱。</span><span class="english">Loan to any financial company. Mag loan sa banko.</span></p>
 
 <p><span class="chinese">这是一个民族的总理非黄金汽车财务公司。</span><span class="english">It is one of the nation' premier non-prime auto finance company.</span></p>

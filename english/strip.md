@@ -1,5 +1,7 @@
 # strip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strip.md)
+
 <p><span class="chinese">一块儿布条。</span><span class="english">A strip of cloth.</span></p>
 
 <p><span class="chinese">就抽这条带子。</span><span class="english">Just pull on this strip.</span></p>

@@ -1,5 +1,7 @@
 # 稀稀拉拉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixilala.md)
+
 <p><span class="chinese">稀稀拉拉的雨点开始落下来。</span><span class="english">Spots of rain had begun to fall.</span></p>
 
 <p><span class="chinese">声音从一片稀稀拉拉的杂树林中传来。</span><span class="english">The voices were coming from a copse of straggly trees.</span></p>

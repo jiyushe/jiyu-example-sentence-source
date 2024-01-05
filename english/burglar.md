@@ -1,5 +1,7 @@
 # burglar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burglar.md)
+
 <p><span class="chinese">盗贼撬开了一扇窗。</span><span class="english">The burglar jimmied a window.</span></p>
 
 <p><span class="chinese">警察逮捕了窃贼。</span><span class="english">The Police arrested the burglar.</span></p>

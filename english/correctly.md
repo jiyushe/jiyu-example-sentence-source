@@ -1,5 +1,7 @@
 # correctly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correctly.md)
+
 <p><span class="chinese">我的理解正确吗？</span><span class="english">Have I understood correctly?</span></p>
 
 <p><span class="chinese">公安局系统正确上传。</span><span class="english">PSB System Upload correctly.</span></p>

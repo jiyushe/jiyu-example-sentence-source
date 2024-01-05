@@ -1,5 +1,7 @@
 # carnivore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carnivore.md)
+
 <p><span class="chinese">你形容自己是再生的肉食动物。</span><span class="english">You describe yourself as a born-again carnivore.</span></p>
 
 <p><span class="chinese">“没有哪一种食肉动物会错过一顿如此大的美餐的，”他补充到。</span><span class="english">"No carnivore worth its salt would pass up that kind of a meal," he added.</span></p>

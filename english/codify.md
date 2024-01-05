@@ -1,5 +1,7 @@
 # codify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/codify.md)
+
 <p><span class="chinese">第二步，将服务用例编写为服务测试。</span><span class="english">Second, codify the service use cases into service tests.</span></p>
 
 <p><span class="chinese">而从法律上确定这项禁令所需的谈判将是复杂的。</span><span class="english">The discussions necessary to codify this ban will be complex,” Rocca said.</span></p>

@@ -1,5 +1,7 @@
 # stocktaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stocktaking.md)
+
 <p><span class="chinese">今日盘货，停业半天。</span><span class="english">Closed for half a day for stocktaking.</span></p>
 
 <p><span class="chinese">何时作最后一次年度存货盘存?。</span><span class="english">When was your last annual stocktaking?</span></p>

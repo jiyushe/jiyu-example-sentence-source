@@ -1,5 +1,7 @@
 # intercrystalline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercrystalline.md)
+
 <p><span class="chinese">铅和铋两者都明显地增加试样高温拉伸时沿晶间断裂的倾向。</span><span class="english">Both Pb and Bi increased the tendency to intercrystalline fracture during hot tensile testing.</span></p>
 
 <p><span class="chinese">晶间潜卤水已普遍进入钾石盐析出阶段。</span><span class="english">The intercrystalline unconfined brine has extensively arrived at the stage of sylvite-precipitation.</span></p>

@@ -1,5 +1,7 @@
 # 食道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidao_1.md)
+
 <p><span class="chinese">一根骨头哽住他的食道。</span><span class="english">A bone has stuck in my throat.</span></p>
 
 <p><span class="chinese">现在我们的食道萎缩了。</span><span class="english">Now our gullets are shriveled.</span></p>

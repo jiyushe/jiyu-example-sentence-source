@@ -1,5 +1,7 @@
 # zeta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zeta.md)
+
 <p><span class="chinese">嘉芙莲薜达钟斯则是一位友善的空中服务员。</span><span class="english">Catherine Zeta Jones is a friendly flight attendant.</span></p>
 
 <p><span class="chinese">ZETA创始人及总裁内奥米·波拉特把城市看作她公司的巨大市场。</span><span class="english">ZETA founder and President Naomi Porat sees cities as her company's big market.</span></p>

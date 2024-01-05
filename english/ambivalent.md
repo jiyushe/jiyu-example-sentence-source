@@ -1,5 +1,7 @@
 # ambivalent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambivalent.md)
+
 <p><span class="chinese">实际上，当局对此的态度似乎相当矛盾。</span><span class="english">In fact, the state’s attitude seems ambivalent.</span></p>
 
 <p><span class="chinese">我和邦迪多年来有着好恶参半的关系。</span><span class="english">Bungy and I had an ambivalent relationship over years.</span></p>

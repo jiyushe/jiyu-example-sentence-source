@@ -1,5 +1,7 @@
 # 相助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzhu.md)
+
 <p><span class="chinese">就在此时，九门的各位出手相助。</span><span class="english">Just then, nine door of your help.</span></p>
 
 <p><span class="chinese">我们都感谢你不吝相助。</span><span class="english">We all appreciate your unstinting help.</span></p>

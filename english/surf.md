@@ -1,5 +1,7 @@
 # surf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surf.md)
+
 <p><span class="chinese">我们上网冲浪。</span><span class="english">We surf the Web.</span></p>
 
 <p><span class="chinese">闲暇是别忘上网冲浪。</span><span class="english">Surf the net leisure.</span></p>

@@ -1,5 +1,7 @@
 # daniel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daniel.md)
+
 <p><span class="chinese">丹尼尔，不好意思。</span><span class="english">Daniel. I'm sorry.</span></p>
 
 <p><span class="chinese">名审判官但以理驾到！</span><span class="english">Daniel come to judgment!</span></p>

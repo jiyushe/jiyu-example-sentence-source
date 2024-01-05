@@ -1,5 +1,7 @@
 # allah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allah.md)
+
 <p><span class="chinese">困境中总会记起上帝。</span><span class="english">People in trouble remember Allah.</span></p>
 
 <p><span class="chinese">真主在向他的仆民要求爱。</span><span class="english">Allah is asking love from His servants.</span></p>

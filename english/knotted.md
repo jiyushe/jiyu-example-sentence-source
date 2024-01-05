@@ -1,5 +1,7 @@
 # knotted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knotted.md)
+
 <p><span class="chinese">他气得连颌肌都暴突出来了。</span><span class="english">His jaw muscles knotted with anger.</span></p>
 
 <p><span class="chinese">她手臂的肌肉由于疲劳而突出出来。</span><span class="english">Her arm muscles have knotted with tiredness.</span></p>

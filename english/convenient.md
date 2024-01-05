@@ -1,5 +1,7 @@
 # convenient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convenient.md)
+
 <p><span class="chinese">还真不太方便。</span><span class="english">Not very convenient.</span></p>
 
 <p><span class="chinese">这里很方便。</span><span class="english">It was very convenient.</span></p>

@@ -1,5 +1,7 @@
 # swanning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swanning.md)
+
 <p><span class="chinese">一架飞机正在森林上空盘旋。</span><span class="english">An airplane was swanning over a forest.</span></p>
 
 <p><span class="chinese">现在我们正漫游欧洲，是吗?。</span><span class="english">Swanning around Europe nowadays, are we?</span></p>

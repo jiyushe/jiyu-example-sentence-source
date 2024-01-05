@@ -1,5 +1,7 @@
 # oscillator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oscillator.md)
+
 <p><span class="chinese">真空管振荡器?。</span><span class="english">VTO? Vacuum Tube Oscillator?</span></p>
 
 <p><span class="chinese">音频振荡器?。</span><span class="english">VFO? Voice Frequency Oscillator?</span></p>

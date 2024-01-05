@@ -1,5 +1,7 @@
 # afterworld
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterworld.md)
+
 <p><span class="chinese">并回顾了后世对其乐府诗的评价。</span><span class="english">The evaluation by afterworld will be retrospected.</span></p>
 
 <p><span class="chinese">笛卡儿的思想是其后世生命科学发展的出发点。</span><span class="english">Descartes' thought is the starting point of the life science afterworld.</span></p>

@@ -1,5 +1,7 @@
 # quell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quell.md)
+
 <p><span class="chinese">没有人知道如何平息这样的情绪。</span><span class="english">No one knows how to quell the uncertainty.</span></p>
 
 <p><span class="chinese">这种药可减轻你的喉痛。</span><span class="english">This medicine will quell your sore throat.</span></p>

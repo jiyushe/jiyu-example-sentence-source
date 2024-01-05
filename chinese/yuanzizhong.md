@@ -1,5 +1,7 @@
 # 原子钟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzizhong.md)
+
 <p><span class="chinese">科学家们于1949年制作了第一台原子钟。</span><span class="english">Scientists developed the first atomic clock in 1949.</span></p>
 
 <p><span class="chinese">这些原子钟是全球计时的标准。</span><span class="english">These clocks became the standard for global timekeeping.</span></p>

@@ -1,5 +1,7 @@
 # tumultuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tumultuous.md)
+
 <p><span class="chinese">他在职总统期间可谓波澜起伏。</span><span class="english">His term as president was tumultuous.</span></p>
 
 <p><span class="chinese">韩德胜的CEO之路从一开始就是坎坷不平的。</span><span class="english">Henderson's tenure as CEO was tumultuous from the start.</span></p>

@@ -1,5 +1,7 @@
 # legitimize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legitimize.md)
+
 <p><span class="chinese">即使我们不能使我们过去的关系合法化，我至少也能帮助你。</span><span class="english">If I cannot legitimize our former relations at least I can assist you.</span></p>
 
 <p><span class="chinese">肯尼亚政府一直犹豫着是否将非法占用的土地合法化。</span><span class="english">The Kenyan government is hesitant to legitimize illegally squatted land.</span></p>

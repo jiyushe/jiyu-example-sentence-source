@@ -1,5 +1,7 @@
 # 喧腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanteng.md)
+
 <p><span class="chinese">大会在一片喧腾声中开始了。</span><span class="english">The rally began in an uproar.</span></p>
 
 <p><span class="chinese">不停地喧腾起下午的艺术。</span><span class="english">Stir furiously the art of afternoon.</span></p>

@@ -1,5 +1,7 @@
 # 单调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dandiao.md)
+
 <p><span class="chinese">单调写一致性。</span><span class="english">Monotonic write consistency.</span></p>
 
 <p><span class="chinese">这是个单调的电影情节。</span><span class="english">It's a pedestrian movie plot.</span></p>

@@ -1,5 +1,7 @@
 # videographer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/videographer.md)
+
 <p><span class="chinese">一支运动队包括四名队员和一名摄像师。</span><span class="english">A team consists of 4 competitors and 1 videographer.</span></p>
 
 <p><span class="chinese">另外在前排就坐的还有摄影师和电视录像制作人。</span><span class="english">Also in the front row were the photographer and videographer.</span></p>

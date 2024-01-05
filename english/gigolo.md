@@ -1,5 +1,7 @@
 # gigolo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gigolo.md)
+
 <p><span class="chinese">你怎么会认识小白脸？</span><span class="english">How do you know a gigolo ?</span></p>
 
 <p><span class="chinese">工程师就像牛郎。</span><span class="english">Engineer is just like gigolo.</span></p>

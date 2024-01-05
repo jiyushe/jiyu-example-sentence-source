@@ -1,5 +1,7 @@
 # transpersonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transpersonal.md)
+
 <p><span class="chinese">高级的静修还有助于超个人目标的实现。</span><span class="english">Advanced meditation may promote the realization of transpersonal goals.</span></p>
 
 <p><span class="chinese">最高的超越个人的脉轮也是常指灵魂星。</span><span class="english">The highest located transpersonal chakra is also often referred to as the Soulstar.</span></p>

@@ -1,5 +1,7 @@
 # demyelination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demyelination.md)
+
 <p><span class="chinese">脱髓鞘的活动性的病灶可以显示为弥散受限。</span><span class="english">Active foci of demyelination may demonstrate restricted diffusion.</span></p>
 
 <p><span class="chinese">神经活检证实同时有脱髓鞘和轴索变性。</span><span class="english">Demyelination and axonal degeneration were confirmed electromicroscopicaly through sural nerve biopsy.</span></p>

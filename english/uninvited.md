@@ -1,5 +1,7 @@
 # uninvited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uninvited.md)
+
 <p><span class="chinese">但是我们没被邀请。</span><span class="english">But we were uninvited.</span></p>
 
 <p><span class="chinese">昨晚我被一位不速之客所打扰。</span><span class="english">I was disobliged by an uninvited guest last night.</span></p>

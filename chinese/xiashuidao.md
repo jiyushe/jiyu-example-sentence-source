@@ -1,5 +1,7 @@
 # 下水道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiashuidao.md)
+
 <p><span class="chinese">污水坑和下水道。</span><span class="english">sumps and drains.</span></p>
 
 <p><span class="chinese">通过下水道。</span><span class="english">Through the sewer.</span></p>

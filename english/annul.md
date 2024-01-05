@@ -1,5 +1,7 @@
 # annul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annul.md)
+
 <p><span class="chinese">的父母私奔夫妇试图取消婚姻。</span><span class="english">The parents of the eloped couple tried to annul the marriage.</span></p>
 
 <p><span class="chinese">对于任何人的法律，没有誓言，可以取消诫命和法令的上帝。</span><span class="english">For no man's law, no vow, can annul the commandment and ordinance of God.</span></p>

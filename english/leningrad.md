@@ -1,5 +1,7 @@
 # leningrad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leningrad.md)
+
 <p><span class="chinese">突破列宁格勒的封锁。</span><span class="english">Break-through in the Leningrad blockade.</span></p>
 
 <p><span class="chinese">在列宁格勒街道上运行的公交汽车。</span><span class="english">Another bus going along a street in Leningrad.</span></p>

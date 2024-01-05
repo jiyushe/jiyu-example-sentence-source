@@ -1,5 +1,7 @@
 # 遗传病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichuanbing.md)
+
 <p><span class="chinese">ESCs对于研究遗传病很有用。</span><span class="english">ESCs are useful for studying genetic disease.</span></p>
 
 <p><span class="chinese">RP是一组具有高度遗传异质性的单基因遗传病。</span><span class="english">Most forms of RP are monogenic and genetic heterogenetic.</span></p>

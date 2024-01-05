@@ -1,5 +1,7 @@
 # reaffirm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reaffirm.md)
+
 <p><span class="chinese">每年的联合国日，我们都重申我们的全球使命。</span><span class="english">Every year on UN Day, we  reaffirm our global mission.</span></p>
 
 <p><span class="chinese">重新写下你的目标不仅会再次肯定你的目标的内容。</span><span class="english">And by rewriting your goals you not only reaffirm what your goals are.</span></p>

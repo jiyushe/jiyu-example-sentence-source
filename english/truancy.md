@@ -1,5 +1,7 @@
 # truancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truancy.md)
+
 <p><span class="chinese">他的逃学一直是个问题。</span><span class="english">His truancy was a constant problem.</span></p>
 
 <p><span class="chinese">这显示学校的旷课问题比所想的严重。</span><span class="english">The school truancy problem is worse than thought.</span></p>

@@ -1,5 +1,7 @@
 # 晃悠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangyou.md)
+
 <p><span class="chinese">我们经常在联合广场上晃悠。</span><span class="english">so we would always hang out in Union Square.</span></p>
 
 <p><span class="chinese">夫人她讨厌看到工人在她家晃悠。</span><span class="english">Her ladyship won't want workmen under he feet.</span></p>

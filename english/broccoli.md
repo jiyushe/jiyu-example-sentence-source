@@ -1,5 +1,7 @@
 # broccoli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broccoli.md)
+
 <p><span class="chinese">或者是花菜。</span><span class="english">Or broccoli.</span></p>
 
 <p><span class="chinese">你喜欢吃花椰菜吗?。</span><span class="english">Do you like broccoli?</span></p>

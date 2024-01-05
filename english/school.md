@@ -1,5 +1,7 @@
 # school
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/school.md)
+
 <p><span class="chinese">暑假补习班？</span><span class="english">Summer school?</span></p>
 
 <p><span class="chinese">啊，中学。</span><span class="english">Ahh, high school.</span></p>

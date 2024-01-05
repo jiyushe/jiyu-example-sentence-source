@@ -1,5 +1,7 @@
 # groupware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groupware.md)
+
 <p><span class="chinese">群件很强大也很重要。</span><span class="english">Groupware is big and important.</span></p>
 
 <p><span class="chinese">如果需要，可以购买一个群件系统。</span><span class="english">If you need it, you can buy a groupware system.</span></p>

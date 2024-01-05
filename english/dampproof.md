@@ -1,5 +1,7 @@
 # dampproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dampproof.md)
+
 <p><span class="chinese">防油、防水、防潮、防霉、易清洗的建筑物墙面。</span><span class="english">Walls requiring grease &water proof, mould & dampproof.</span></p>
 
 <p><span class="chinese">将防潮布放在地面上，四个角必须完全覆盖。</span><span class="english">Set dampproof -cloth on the ground surface and the 4 corners should be set completely.</span></p>

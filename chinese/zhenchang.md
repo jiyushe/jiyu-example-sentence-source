@@ -1,5 +1,7 @@
 # 镇长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenchang.md)
+
 <p><span class="chinese">镇长说，盐。一个盐罐又从暗影递出来。</span><span class="english">A slicing knife came out from the dark.</span></p>
 
 <p><span class="chinese">邻家一位妇女向年已八十的法官斯蒂芬斯镇长抱怨。</span><span class="english">complained to the mayor, judge Stevens, eighty years old.</span></p>

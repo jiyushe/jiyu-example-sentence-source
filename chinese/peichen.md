@@ -1,5 +1,7 @@
 # 陪衬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peichen.md)
+
 <p><span class="chinese">让他一个人演独角戏吧，你就陪衬一下。</span><span class="english">Let hime solo, and you go along.</span></p>
 
 <p><span class="chinese">好花要有帅哥陪衬，陪衬一下。</span><span class="english">To spend to have handsome foil, foil look.</span></p>

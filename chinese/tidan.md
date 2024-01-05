@@ -1,5 +1,7 @@
 # 提单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tidan.md)
+
 <p><span class="chinese">联运提单、迟期提单、简式提单不能接受。</span><span class="english">Lading, shall not be acceptable.</span></p>
 
 <p><span class="chinese">提单的种类繁多。</span><span class="english">There are many types of bills of lading.</span></p>

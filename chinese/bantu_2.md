@@ -1,5 +1,7 @@
 # 版图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bantu_2.md)
+
 <p><span class="chinese">她曾统治过一个版图辽阔的帝国。</span><span class="english">She once ruled over a vast empire.</span></p>
 
 <p><span class="chinese">它俩的版图并非直接凌于彼此上方。</span><span class="english">They do not map directly onto each other.</span></p>

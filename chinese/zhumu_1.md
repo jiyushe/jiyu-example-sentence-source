@@ -1,5 +1,7 @@
 # 注目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhumu_1.md)
+
 <p><span class="chinese">这是惹人注目的构想。</span><span class="english">A striking formulation.</span></p>
 
 <p><span class="chinese">她炫示她的围巾以引我注目。</span><span class="english">Her flared her scarf to catch my eye.</span></p>

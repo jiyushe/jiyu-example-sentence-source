@@ -1,5 +1,7 @@
 # latitudinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latitudinal.md)
+
 <p><span class="chinese">海拔和纬度的变化趋势不明显。</span><span class="english">Elevational and latitudinal trends were not pronounced.</span></p>
 
 <p><span class="chinese">此纬度上的差别就意味着一件事---更冷的天气。</span><span class="english">This latitudinal distinction means one thing-cold weather.</span></p>

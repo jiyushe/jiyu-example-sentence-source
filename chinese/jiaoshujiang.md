@@ -1,5 +1,7 @@
 # 教书匠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoshujiang.md)
+
 <p><span class="chinese">老鞋一直以做教书匠讨生活。</span><span class="english">I have made a living by means of teaching.</span></p>
 
 <p><span class="chinese">不要做教书匠，要做教师。</span><span class="english">Don't be a knowledge teller, be a real teacher.</span></p>

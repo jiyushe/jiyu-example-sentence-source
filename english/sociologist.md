@@ -1,5 +1,7 @@
 # sociologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sociologist.md)
+
 <p><span class="chinese">马克斯·韦伯是一位伟大的、杰出的社会学家。</span><span class="english">Max Weber is a great and outstanding sociologist.</span></p>
 
 <p><span class="chinese">以凤凰村为例对人多地少的乡村经济发展之路进行了分析。</span><span class="english">This village has been investigated by the American sociologist D.</span></p>

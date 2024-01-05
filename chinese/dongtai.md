@@ -1,5 +1,7 @@
 # 动态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongtai.md)
+
 <p><span class="chinese">我们在寻找发展动态。</span><span class="english">We are looking for trends.</span></p>
 
 <p><span class="chinese">但是，我也会观察你们发展的动态。</span><span class="english">But, I also look at trends.</span></p>

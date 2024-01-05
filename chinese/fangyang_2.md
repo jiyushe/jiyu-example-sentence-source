@@ -1,5 +1,7 @@
 # 放羊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangyang_2.md)
+
 <p><span class="chinese">一个男孩放羊。</span><span class="english">A boy grazes sheep.</span></p>
 
 <p><span class="chinese">羊跟着放羊的转进村庄。</span><span class="english">Sheep follow the shepherd into the village.</span></p>

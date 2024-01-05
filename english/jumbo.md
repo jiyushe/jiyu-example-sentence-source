@@ -1,5 +1,7 @@
 # jumbo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jumbo.md)
+
 <p><span class="chinese">他在寻找詹菠太太。</span><span class="english">He's looking for Mrs. Jumbo.</span></p>
 
 <p><span class="chinese">江伯一定有好几吨重。</span><span class="english">Jumbo must weigh a few tons.</span></p>

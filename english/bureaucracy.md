@@ -1,5 +1,7 @@
 # bureaucracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bureaucracy.md)
+
 <p><span class="chinese">我们的行政机制也在改善。</span><span class="english">We also got better bureaucracy.</span></p>
 
 <p><span class="chinese">对于官僚主义，群众是不买帐的。</span><span class="english">The masses won't go for bureaucracy.</span></p>

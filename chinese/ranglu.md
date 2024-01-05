@@ -1,5 +1,7 @@
 # 让路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranglu.md)
+
 <p><span class="chinese">请借光让让路!</span><span class="english">Please make a way for us.</span></p>
 
 <p><span class="chinese">我从来不会给一个傻瓜让路。</span><span class="english">I will never make way for a fool.</span></p>

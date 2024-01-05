@@ -1,5 +1,7 @@
 # mortality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortality.md)
+
 <p><span class="chinese">凡胎就是缺点。</span><span class="english">Mortality is weakness.</span></p>
 
 <p><span class="chinese">所有的鱼都呈现出死亡反映。</span><span class="english">All the fish exhibited mortality response.</span></p>

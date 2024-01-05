@@ -1,5 +1,7 @@
 # 魔女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/monv.md)
+
 <p><span class="chinese">保姆是个魔女。</span><span class="english">Matron is a sorceress.</span></p>
 
 <p><span class="chinese">我们刚刚将魔女降服。</span><span class="english">We just exorcise the sorceress.</span></p>

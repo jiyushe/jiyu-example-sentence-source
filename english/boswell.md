@@ -1,5 +1,7 @@
 # boswell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boswell.md)
+
 <p><span class="chinese">我怎么能没有我的传记作家。</span><span class="english">I am lost without my Boswell.</span></p>
 
 <p><span class="chinese">鲍斯韦尔是詹森博士的传记作者。</span><span class="english">Boswell was dr johnson's biographer.</span></p>

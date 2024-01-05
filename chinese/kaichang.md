@@ -1,5 +1,7 @@
 # 开唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaichang.md)
+
 <p><span class="chinese">但他知道在歌唱时不再开唱。</span><span class="english">But that he knows in singing not to sing.</span></p>
 
 <p><span class="chinese">韩国团体和韩星频频来新开唱和会见粉丝，你们欢迎他们吗？</span><span class="english">Do you welcome the Korean stars and bands in town?</span></p>

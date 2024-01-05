@@ -1,5 +1,7 @@
 # dupe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dupe.md)
+
 <p><span class="chinese">任何的傻帽儿文件将会在视力上划除。</span><span class="english">Any dupe files will be deleted on sight.</span></p>
 
 <p><span class="chinese">被愚弄的人作为蠢物或工具而被人利用的人。</span><span class="english">A person used by another as a dupe or tool.</span></p>

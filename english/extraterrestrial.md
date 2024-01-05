@@ -1,5 +1,7 @@
 # extraterrestrial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extraterrestrial.md)
+
 <p><span class="chinese">超手性光束还可能有助于寻找外星生命。</span><span class="english">Superchiral light could even aid the search for extraterrestrial life.</span></p>
 
 <p><span class="chinese">人们认为，他们是天外来客或地心孩子。</span><span class="english">It is believed that they were Extraterrestrial or Hollow Earth Children.</span></p>

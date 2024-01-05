@@ -1,5 +1,7 @@
 # 第一夫人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyifuren.md)
+
 <p><span class="chinese">第一夫人米歇尔·奥巴马被封为名誉主席。</span><span class="english">First Lady Michelle Obama is the honorary chairmen.</span></p>
 
 <p><span class="chinese">每个人都知道，这是第一夫人优先关注的事情。</span><span class="english">Everyone knows that this is the first lady’s priority.</span></p>

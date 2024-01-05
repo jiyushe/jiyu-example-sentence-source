@@ -1,5 +1,7 @@
 # posthumous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posthumous.md)
+
 <p><span class="chinese">我是一个遗腹子。</span><span class="english">I was a posthumous child.</span></p>
 
 <p><span class="chinese">除了一个以外的所有的都是死后追授的。</span><span class="english">All but one have been posthumous.</span></p>

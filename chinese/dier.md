@@ -1,5 +1,7 @@
 # 第二
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dier.md)
+
 <p><span class="chinese">第三幕第二景</span><span class="english">Act , scene 2</span></p>
 
 <p><span class="chinese">现在这里又第二个关键词？</span><span class="english">How do I use it?</span></p>

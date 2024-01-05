@@ -1,5 +1,7 @@
 # humour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humour.md)
+
 <p><span class="chinese">鼓励幽默。</span><span class="english">Encourage humour.</span></p>
 
 <p><span class="chinese">她不无幽默。</span><span class="english">She is not without humour.</span></p>

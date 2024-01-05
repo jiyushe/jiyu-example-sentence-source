@@ -1,5 +1,7 @@
 # 生龙活虎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenglonghuohu.md)
+
 <p><span class="chinese">这种自由能让你生龙活虎。</span><span class="english">This freedom can energize you.</span></p>
 
 <p><span class="chinese">小伙子干起活来真是生龙活虎。</span><span class="english">The lads work with furious energy.</span></p>

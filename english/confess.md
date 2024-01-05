@@ -1,5 +1,7 @@
 # confess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confess.md)
+
 <p><span class="chinese">承认你的信仰！</span><span class="english">Confess your faith!</span></p>
 
 <p><span class="chinese">首先你得承认你会这样做。</span><span class="english">First confess you do it.</span></p>

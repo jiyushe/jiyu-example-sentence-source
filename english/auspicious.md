@@ -1,5 +1,7 @@
 # auspicious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auspicious.md)
+
 <p><span class="chinese">这是非常吉祥的。</span><span class="english">It is very auspicious.</span></p>
 
 <p><span class="chinese">谢谢你的吉言！</span><span class="english">Thank you for auspicious word!</span></p>

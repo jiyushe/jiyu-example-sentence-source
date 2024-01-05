@@ -1,5 +1,7 @@
 # oligosaccharide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oligosaccharide.md)
+
 <p><span class="chinese">这说明香菇寡糖是极有希望的抗肿瘤新药。</span><span class="english">Lentinan oligosaccharide is a quite promising new anti-tumor drug.</span></p>
 
 <p><span class="chinese">固相法是一种非常有前途的合成寡糖的方法。</span><span class="english">The solid-phase method has bright prospects for oligosaccharide synthesis.</span></p>

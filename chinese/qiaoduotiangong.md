@@ -1,5 +1,7 @@
 # 巧夺天工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoduotiangong.md)
+
 <p><span class="chinese">他们施巧夺天工计拖垮了敌人。</span><span class="english">They laid out the enemy by skilful manoeuvre.</span></p>
 
 <p><span class="chinese">这种巧夺天工只能归功于大自然。</span><span class="english">This wonder can only be credited to the nature.</span></p>

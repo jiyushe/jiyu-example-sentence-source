@@ -1,5 +1,7 @@
 # 公认
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongren.md)
+
 <p><span class="chinese">国际公认会计原则对其做出了定义</span><span class="english">The GAAP standards define this.</span></p>
 
 <p><span class="chinese">他是公认的最佳玩手。</span><span class="english">He was hailed as the best player.</span></p>

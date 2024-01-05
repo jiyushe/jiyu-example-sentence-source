@@ -1,5 +1,7 @@
 # algorism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algorism.md)
+
 <p><span class="chinese">介绍了算法原理，并给出了四种不同模式的算法公式。</span><span class="english">The algorism principle is introduced, and four different modes of the algorithm are given.</span></p>
 
 <p><span class="chinese">同时，作者通过大量实验，证明了本算法在实际应用中的可行性和有效性。</span><span class="english">The result of multiple experiments has testified the feasibility and efficiency of the algorism.</span></p>

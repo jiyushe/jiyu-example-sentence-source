@@ -1,5 +1,7 @@
 # 佯攻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanggong.md)
+
 <p><span class="chinese">于是我佯攻，试图欺骗它。</span><span class="english">I feinted, to deceive him.</span></p>
 
 <p><span class="chinese">为什么佯攻铭文是大雕文…</span><span class="english">Why is there a major glyph of feint?</span></p>

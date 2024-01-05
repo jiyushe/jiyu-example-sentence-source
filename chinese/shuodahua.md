@@ -1,5 +1,7 @@
 # 说大话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuodahua.md)
+
 <p><span class="chinese">我就知道韩佳爱说大话。</span><span class="english">I knew Han Jia loves bragging.</span></p>
 
 <p><span class="chinese">中国看不起说大话的人。</span><span class="english">Chinese look down on the bouncer.</span></p>

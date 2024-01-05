@@ -1,5 +1,7 @@
 # park
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/park.md)
+
 <p><span class="chinese">在一个公园。</span><span class="english">In a park.</span></p>
 
 <p><span class="chinese">在八一公园。</span><span class="english">In bayi park.</span></p>

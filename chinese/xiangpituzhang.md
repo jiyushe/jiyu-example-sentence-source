@@ -1,5 +1,7 @@
 # 橡皮图章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpituzhang.md)
+
 <p><span class="chinese">这是一个橡皮图章。</span><span class="english">This is. rubber stamp.</span></p>
 
 <p><span class="chinese">而在实际上，他们只是价钱昂贵的橡皮图章而已。</span><span class="english">In practice, they act as expensive rubber stamps.</span></p>

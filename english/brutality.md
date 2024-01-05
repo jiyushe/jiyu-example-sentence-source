@@ -1,5 +1,7 @@
 # brutality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brutality.md)
+
 <p><span class="chinese">但你在陆地上也能找到同样多的暴虐。</span><span class="english">But you will find as much brutality by land.</span></p>
 
 <p><span class="chinese">说起在哥伦比亚的生活，不能不提到警察和野蛮的聚众人群。</span><span class="english">Police and crowd brutality is a fact of life in Colombia.</span></p>

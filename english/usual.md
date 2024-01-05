@@ -1,5 +1,7 @@
 # usual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usual.md)
+
 <p><span class="chinese">照常进行转换。</span><span class="english">Transform as usual.</span></p>
 
 <p><span class="chinese">一切如常。</span><span class="english">Things are as usual.</span></p>

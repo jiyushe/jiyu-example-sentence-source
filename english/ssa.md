@@ -1,5 +1,7 @@
 # ssa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ssa.md)
+
 <p><span class="chinese">之后他们可以再换回他们的掸邦军制服。</span><span class="english">They can return to their SSA uniforms afterwards.</span></p>
 
 <p><span class="chinese">2007年缅甸军政府曾邀请南掸邦军举行了一次和平会谈。</span><span class="english">The Burma Army invited the SSA 'South' for a peace talk in 2007.</span></p>

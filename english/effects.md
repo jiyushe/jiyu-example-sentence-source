@@ -1,5 +1,7 @@
 # effects
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effects.md)
+
 <p><span class="chinese">无副作用。</span><span class="english">No side effects.</span></p>
 
 <p><span class="chinese">是三大主要因素。</span><span class="english">Those are big main effects.</span></p>

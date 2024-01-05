@@ -1,5 +1,7 @@
 # sew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sew.md)
+
 <p><span class="chinese">你会缝衣服吗？</span><span class="english">Can you sew?</span></p>
 
 <p><span class="chinese">他们喜欢缝纫。</span><span class="english">They love to sew.</span></p>

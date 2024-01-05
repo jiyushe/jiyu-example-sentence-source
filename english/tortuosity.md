@@ -1,5 +1,7 @@
 # tortuosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tortuosity.md)
+
 <p><span class="chinese">视网膜小动脉弯曲合并复发性视网膜出血在1958第一次被提出。</span><span class="english">Retinal arteriolar tortuosity with retinal hemorrhage was first described in 1958.</span></p>
 
 <p><span class="chinese">椎动脉扭曲与颈椎退行性变有关。</span><span class="english">There was a correlation between vertebral artery tortuosity and cervical spondylotic change.</span></p>

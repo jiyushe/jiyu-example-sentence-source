@@ -1,5 +1,7 @@
 # 磷虾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linxia.md)
+
 <p><span class="chinese">然而，磷虾油所含的奥美加-3脂肪酸都是附在磷脂的结构当中。</span><span class="english">The omega-3 fatty acids in krill oil are bound to phospholipids.</span></p>
 
 <p><span class="chinese">海洋里有大量的叫做磷虾的微小海洋动物。</span><span class="english">The ocean contains huge amounts of tiny sea-animals called Krill.</span></p>

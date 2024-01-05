@@ -1,5 +1,7 @@
 # nebuchadnezzar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nebuchadnezzar.md)
+
 <p><span class="chinese">这事都临到尼布甲尼撒王。</span><span class="english">All this came upon the king Nebuchadnezzar.</span></p>
 
 <p><span class="chinese">这是我─尼布甲尼撒王所做的梦。</span><span class="english">This dream I king Nebuchadnezzar have seen.</span></p>

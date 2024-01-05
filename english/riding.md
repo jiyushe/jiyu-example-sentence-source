@@ -1,5 +1,7 @@
 # riding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riding.md)
+
 <p><span class="chinese">高空乘骑。</span><span class="english">Riding High.</span></p>
 
 <p><span class="chinese">骑车比走路快。</span><span class="english">Riding beats walking.</span></p>

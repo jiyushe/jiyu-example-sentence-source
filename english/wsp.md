@@ -1,5 +1,7 @@
 # wsp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wsp.md)
+
 <p><span class="chinese">WSP的模板，谁可以指导我，因为我自己做。</span><span class="english">WSP templates who can guide me as I do it myself.</span></p>
 
 <p><span class="chinese">让我们从一开始把遭受战祸社会项目代码一个WAP之一。</span><span class="english">Let's start converting code from a WSP project to a WAP one.</span></p>

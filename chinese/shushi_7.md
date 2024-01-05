@@ -1,5 +1,7 @@
 # 舒适
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushi_7.md)
+
 <p><span class="chinese">车厢里紧凑而舒适。</span><span class="english">It’s compact but cosy.</span></p>
 
 <p><span class="chinese">他们舒适地在床上蜷着。</span><span class="english">He lay awake in his bed.</span></p>

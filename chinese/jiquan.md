@@ -1,5 +1,7 @@
 # 集权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiquan.md)
+
 <p><span class="chinese">热带集权国家具有欺骗性。</span><span class="english">Tropical totalitarianism is deceptive.</span></p>
 
 <p><span class="chinese">专制集权者的绝对相同点。</span><span class="english">The absolute similarity of the absolutistic powers.</span></p>

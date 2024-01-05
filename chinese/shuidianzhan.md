@@ -1,5 +1,7 @@
 # 水电站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuidianzhan.md)
+
 <p><span class="chinese">水电站必须有拦河坝。</span><span class="english">A water power station must have a dam.</span></p>
 
 <p><span class="chinese">俄罗斯水力发电公司说已经关闭了水电站。</span><span class="english">RusHydro said the plant had been shut down.</span></p>

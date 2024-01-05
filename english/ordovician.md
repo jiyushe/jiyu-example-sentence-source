@@ -1,5 +1,7 @@
 # ordovician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ordovician.md)
+
 <p><span class="chinese">纸房地区具有早奥陶世海相火山岩存在。</span><span class="english">Marine volcanics of Early Ordovician was found in Zhifang region.</span></p>
 
 <p><span class="chinese">华南下、中奥陶统紫台组命名地点在贵州印江紫台。</span><span class="english">The Lower to Middle Ordovician Zitai Formation is named by Mu et al.</span></p>

@@ -1,5 +1,7 @@
 # 五方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wufang.md)
+
 <p><span class="chinese">试用自己的文字定义什麽是「五方连体」。</span><span class="english">Definite the "Pentominoes-Cube" in your own words.</span></p>
 
 <p><span class="chinese">阿弥陀佛是五方佛之一。</span><span class="english">Amitabha Buddha is one of the five meditating Buddhas.</span></p>

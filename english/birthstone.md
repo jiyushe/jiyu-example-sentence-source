@@ -1,5 +1,7 @@
 # birthstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birthstone.md)
+
 <p><span class="chinese">五月的诞生石是翡翠。</span><span class="english">May's birthstone is the emerald.</span></p>
 
 <p><span class="chinese">五月的诞生石是翡翠。</span><span class="english">May's birthstone is the emerald.</span></p>

@@ -1,5 +1,7 @@
 # confidently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confidently.md)
+
 <p><span class="chinese">我自信地说道。</span><span class="english">I said confidently.</span></p>
 
 <p><span class="chinese">他充满自信地大步走过大厅。</span><span class="english">He strode confidently across the hall.</span></p>

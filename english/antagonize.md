@@ -1,5 +1,7 @@
 # antagonize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antagonize.md)
+
 <p><span class="chinese">他有袭警的暴力倾向。</span><span class="english">He tends to antagonize the police.</span></p>
 
 <p><span class="chinese">没有一家公司能与中国抗衡。</span><span class="english">No company can afford to antagonize China.</span></p>

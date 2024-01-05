@@ -1,5 +1,7 @@
 # 去路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qulu.md)
+
 <p><span class="chinese">兰如剑挡住了他的去路。</span><span class="english">Such as sword stood in his way.</span></p>
 
 <p><span class="chinese">杜库伯爵挡住了他们的去路。</span><span class="english">Count Dooku stood in their path.</span></p>

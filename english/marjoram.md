@@ -1,5 +1,7 @@
 # marjoram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marjoram.md)
+
 <p><span class="chinese">一点都不喜欢。</span><span class="english">Well, as a pig loves marjoram.</span></p>
 
 <p><span class="chinese">据说牛至有杀菌的特性。</span><span class="english">It's said that marjoram has antiseptic qualities.</span></p>

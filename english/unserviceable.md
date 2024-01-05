@@ -1,5 +1,7 @@
 # unserviceable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unserviceable.md)
+
 <p><span class="chinese">由于过度磨损而不可用。</span><span class="english">Unserviceable due to excessive wear.</span></p>
 
 <p><span class="chinese">螺纹损坏后不可用。</span><span class="english">To damage threads to an unserviceable condition.</span></p>

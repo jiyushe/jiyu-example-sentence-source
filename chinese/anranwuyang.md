@@ -1,5 +1,7 @@
 # 安然无恙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anranwuyang.md)
+
 <p><span class="chinese">上校，但愿她安然无恙。</span><span class="english">And I hope she is well.</span></p>
 
 <p><span class="chinese">如果吃人的狮子的无人看管逍遥法外，有没有可以安然无恙?。</span><span class="english">Can anyone be safe if a man-eating lion is at large?</span></p>

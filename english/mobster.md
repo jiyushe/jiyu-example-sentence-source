@@ -1,5 +1,7 @@
 # mobster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mobster.md)
+
 <p><span class="chinese">你会看起来像一名小黑道。</span><span class="english">You'll look like a little mobster.</span></p>
 
 <p><span class="chinese">他们计划把歹徒杀死。</span><span class="english">They planned to bump off the mobster.</span></p>

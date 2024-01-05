@@ -1,5 +1,7 @@
 # reit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reit.md)
+
 <p><span class="chinese">一位不愿具名的银行家说,"REIT投资者就像被汽车灯照住的小鹿一样动弹不得."</span><span class="english">The REIT investors are stuck like a deer in headlights.</span></p>
 
 <p><span class="chinese">采用瑞图专利同步技术，提升机构由制动电机驱动。</span><span class="english">The Reit patent synchronous device driven by electric brake motor is equipped.</span></p>

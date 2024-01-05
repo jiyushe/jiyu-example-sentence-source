@@ -1,5 +1,7 @@
 # landmark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landmark.md)
+
 <p><span class="chinese">这个路标是什么？</span><span class="english">What is the landmark?</span></p>
 
 <p><span class="chinese">它可是楠溪江的标志性景观。</span><span class="english">It is a landmark of the Nanxi River.</span></p>

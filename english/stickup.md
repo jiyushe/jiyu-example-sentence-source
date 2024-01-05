@@ -1,5 +1,7 @@
 # stickup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stickup.md)
+
 <p><span class="chinese">玻璃棉的接缝处应尽量靠紧，避免产生缝隙，用胶带将所有接缝处粘贴牢固。</span><span class="english">Glass cotton seams of should as far as possible, avoid to produce close aperture, tape will all juncture stickup and firm.</span></p>
 
 <p><span class="chinese">但记者仔细观察发现，这些水龙头仅粘贴一些纸质的标签，甚至无任何标记。</span><span class="english">But the reporter observes discovery carefully, these faucet only a few more stickup papery label, do not have any mark even.</span></p>

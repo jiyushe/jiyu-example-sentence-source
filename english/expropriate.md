@@ -1,5 +1,7 @@
 # expropriate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expropriate.md)
+
 <p><span class="chinese">他说，如果这些加工厂试图停止生产，他将无偿没收。</span><span class="english">If they try to stop production he said, I’ll expropriate them and pay nothing.</span></p>
 
 <p><span class="chinese">另一种流行的赚钱方式是一些“贪婪”的王子从平民那征用土地。</span><span class="english">Another popular money-making scheme saw some "greedy princes" expropriate land from commoners.</span></p>

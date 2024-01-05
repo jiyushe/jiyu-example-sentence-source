@@ -1,5 +1,7 @@
 # 金本位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinbenwei.md)
+
 <p><span class="chinese">于是，英国成为了一个金本位制度的国家。</span><span class="english">So   England became on the gold standard.</span></p>
 
 <p><span class="chinese">如果基于金本位，这些就不会发生。</span><span class="english">On a gold standard this cannot take place.</span></p>

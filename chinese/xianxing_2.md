@@ -1,5 +1,7 @@
 # 线形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxing_2.md)
+
 <p><span class="chinese">呈流线形艇体。</span><span class="english">Assumes the streamline shape hull.</span></p>
 
 <p><span class="chinese">线形文字A的历史更为悠久，约在公元前18世纪左右。</span><span class="english">Linear A is older, from the 18th century BC.</span></p>

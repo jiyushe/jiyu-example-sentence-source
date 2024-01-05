@@ -1,5 +1,7 @@
 # 建军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjun.md)
+
 <p><span class="chinese">从石建军的作品中，我们能够读出这种宗教情感。</span><span class="english">In Jianjun Shi's paintings, we can find such religious sentiment.</span></p>
 
 <p><span class="chinese">勤俭建军、艰苦奋斗是人民军队的优良传统。</span><span class="english">Plain living and hard working is the people's army's fine tradition.</span></p>

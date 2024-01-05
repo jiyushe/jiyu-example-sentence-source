@@ -1,5 +1,7 @@
 # 吊装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaozhuang.md)
+
 <p><span class="chinese">可吊装、堆码、叉举。</span><span class="english">Top lift. Stackable, Fork lift.</span></p>
 
 <p><span class="chinese">你的货已起吊装船了。</span><span class="english">Your goods have hoisted to the ship.</span></p>

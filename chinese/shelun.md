@@ -1,5 +1,7 @@
 # 社论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shelun.md)
+
 <p><span class="chinese">我每天都读社论。</span><span class="english">I read the editorials every day.</span></p>
 
 <p><span class="chinese">一个公关人员给我展示了这篇社论。</span><span class="english">I was shown this editorial by a PR.</span></p>

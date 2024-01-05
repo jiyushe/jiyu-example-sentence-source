@@ -1,5 +1,7 @@
 # espy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/espy.md)
+
 <p><span class="chinese">我指的是他的女友，啵莉*发现。</span><span class="english">I refer to his girl, Polly Espy.</span></p>
 
 <p><span class="chinese">恋爱一旦遭失败，缺点全都看出来。</span><span class="english">Where love fails we espy all faults.</span></p>

@@ -1,5 +1,7 @@
 # 足下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuxia.md)
+
 <p><span class="chinese">来到了母亲萨雅玛足下的蓝色莲花上。</span><span class="english">To the blue lotus flower of Mother Syama's feet.</span></p>
 
 <p><span class="chinese">我愿是您足下大地，支撑您每一步履。</span><span class="english">Let me be Your ground, To support Your every step.</span></p>

@@ -1,5 +1,7 @@
 # soap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soap.md)
+
 <p><span class="chinese">洗衣皂？</span><span class="english">Laundry soap?</span></p>
 
 <p><span class="chinese">这种肥皂嫁接是个不错的办法。</span><span class="english">Soap grafting is good.</span></p>

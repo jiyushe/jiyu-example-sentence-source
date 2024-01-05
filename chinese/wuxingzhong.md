@@ -1,5 +1,7 @@
 # 无形中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxingzhong.md)
+
 <p><span class="chinese">她无形中成了我们的顾问。</span><span class="english">She has virtually become our adviser.</span></p>
 
 <p><span class="chinese">无形中自己都觉得变成熟了，呵呵。</span><span class="english">Virtually change their mature feel, huhu.</span></p>

@@ -1,5 +1,7 @@
 # 塌陷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taxian.md)
+
 <p><span class="chinese">房基塌陷。</span><span class="english">The foundations have sunk.</span></p>
 
 <p><span class="chinese">那座桥在暴风雨中塌陷了。</span><span class="english">The bridge buckled in the storm.</span></p>

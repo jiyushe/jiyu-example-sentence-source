@@ -1,5 +1,7 @@
 # 义子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizi.md)
+
 <p><span class="chinese">定义子类使之可以在父类使用的任何地方使用。</span><span class="english">Define subclasses so they may be used anywhere their superclasses may be used.</span></p>
 
 <p><span class="chinese">善良的老夫妇将那个流浪儿收为义子。</span><span class="english">The kind-hearted old couple adopted the street urchin to be their adoptive son.</span></p>

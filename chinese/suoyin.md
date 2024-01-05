@@ -1,5 +1,7 @@
 # 索引
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoyin.md)
+
 <p><span class="chinese">全文索引。</span><span class="english">Full-text indexes.</span></p>
 
 <p><span class="chinese">您已经拥有了一个索引。</span><span class="english">So you have an index.</span></p>

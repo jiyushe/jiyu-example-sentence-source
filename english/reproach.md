@@ -1,5 +1,7 @@
 # reproach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reproach.md)
+
 <p><span class="chinese">你责备你自己吗？</span><span class="english">Do you reproach yourself?</span></p>
 
 <p><span class="chinese">一句责难的话也没有。</span><span class="english">Not one word of reproach.</span></p>

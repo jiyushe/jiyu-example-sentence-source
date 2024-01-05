@@ -1,5 +1,7 @@
 # annuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annuity.md)
+
 <p><span class="chinese">它就叫做年金</span><span class="english">That's called an annuity.</span></p>
 
 <p><span class="chinese">于是出现了年金抵押贷款</span><span class="english">We now have annuity mortgages.</span></p>

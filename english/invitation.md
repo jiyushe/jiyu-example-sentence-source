@@ -1,5 +1,7 @@
 # invitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invitation.md)
+
 <p><span class="chinese">有人邀请我们。</span><span class="english">We have an invitation.</span></p>
 
 <p><span class="chinese">对于我，这就是一封邀请函。</span><span class="english">To me, it’s an invitation.</span></p>

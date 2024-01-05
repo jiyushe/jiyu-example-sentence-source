@@ -1,5 +1,7 @@
 # padang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/padang.md)
+
 <p><span class="chinese">今天我们熟悉称作“大草场”的地方。</span><span class="english">Today we are familiar with what is referred to as the Padang.</span></p>
 
 <p><span class="chinese">古晋的独立广场和毗邻的独立皇宫酒店。</span><span class="english">Kuching's Merdeka Palace Hotel &Suites and the adjoining Padang Merdeka.</span></p>

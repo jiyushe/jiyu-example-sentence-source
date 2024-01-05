@@ -1,5 +1,7 @@
 # slade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slade.md)
+
 <p><span class="chinese">苏正在上她的新老师斯莱德先生的课。</span><span class="english">Sue is having a lesson with her new teacher, Mr Slade.</span></p>
 
 <p><span class="chinese">叫我斯莱德先生，叫我上校，如果你一定要这样，别叫我长官。</span><span class="english">Call me Mr. Slade , call me Colonel if you must, just don't call me sir.</span></p>

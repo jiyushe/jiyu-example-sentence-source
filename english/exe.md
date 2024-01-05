@@ -1,5 +1,7 @@
 # exe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exe.md)
+
 <p><span class="chinese">运行安装程序，上面有删除选项。</span><span class="english">Run setup. exe and select remove SQL Server.</span></p>
 
 <p><span class="chinese">一个查看系统中所有svchost.exe加载服务的小工具。</span><span class="english">A program to see what all those svchost.exe are running.</span></p>

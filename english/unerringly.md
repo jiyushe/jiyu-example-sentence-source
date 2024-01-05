@@ -1,5 +1,7 @@
 # unerringly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unerringly.md)
+
 <p><span class="chinese">没错，我是找到答案。</span><span class="english">Unerringly , I find out the answer.</span></p>
 
 <p><span class="chinese">他们完全明白应追求什么。</span><span class="english">They knew unerringly what to aspire to.</span></p>

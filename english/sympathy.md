@@ -1,5 +1,7 @@
 # sympathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sympathy.md)
+
 <p><span class="chinese">共感是良药。</span><span class="english">Sympathy is medicine.</span></p>
 
 <p><span class="chinese">我寄给她一封慰问信。</span><span class="english">I sent her a letter of sympathy.</span></p>

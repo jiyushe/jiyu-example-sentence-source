@@ -1,5 +1,7 @@
 # turbulent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turbulent.md)
+
 <p><span class="chinese">在狂暴的风雪中震颤。</span><span class="english">In tempests turbulent.</span></p>
 
 <p><span class="chinese">水势汹涌。</span><span class="english">The current is turbulent.</span></p>

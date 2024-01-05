@@ -1,5 +1,7 @@
 # 盘古
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangu.md)
+
 <p><span class="chinese">可是，盘古也累死了。</span><span class="english">But, Pan Gu has also been tired to death.</span></p>
 
 <p><span class="chinese">总之，宇宙即盘古，盘古即宇宙。</span><span class="english">In all, the universe and Pangu combine in one.</span></p>

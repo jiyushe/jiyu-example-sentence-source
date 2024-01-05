@@ -1,5 +1,7 @@
 # iniquitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iniquitous.md)
+
 <p><span class="chinese">当然，许多历史学家认为这是极不公正的。</span><span class="english">Many historians, of course, regard this as iniquitous.</span></p>
 
 <p><span class="chinese">要求他们马上削减是不公平的并且会让他们越发贫穷。</span><span class="english">Immediate cuts would be iniquitous and punish their poor.</span></p>

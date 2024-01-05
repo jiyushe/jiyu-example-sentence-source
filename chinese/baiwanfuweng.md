@@ -1,5 +1,7 @@
 # 百万富翁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiwanfuweng.md)
+
 <p><span class="chinese">他有个百万富翁的父亲。</span><span class="english">He had a millionaire father.</span></p>
 
 <p><span class="chinese">谁想成为百万富翁？</span><span class="english">Who wants to be a millionnaire?</span></p>

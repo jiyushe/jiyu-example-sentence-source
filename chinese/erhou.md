@@ -1,5 +1,7 @@
 # 尔后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erhou.md)
+
 <p><span class="chinese">尔后突然之间它黯淡下来。</span><span class="english">Then, just as suddenly, it faded.</span></p>
 
 <p><span class="chinese">他先微笑，尔后开始发言。</span><span class="english">He prefaced his remarks with a smile.</span></p>

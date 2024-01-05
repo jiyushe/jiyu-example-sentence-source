@@ -1,5 +1,7 @@
 # 颅骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lugu.md)
+
 <p><span class="chinese">x光显示颅骨没有骨折。</span><span class="english">X-rays showed the skull to be unfractured.</span></p>
 
 <p><span class="chinese">他从窗子摔了出去，跌裂了颅骨。</span><span class="english">He fell out of the window and cracked his skull.</span></p>

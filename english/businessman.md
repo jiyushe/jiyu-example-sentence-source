@@ -1,5 +1,7 @@
 # businessman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/businessman.md)
+
 <p><span class="chinese">它是多么逗人喜爱的小狗啊！</span><span class="english">He is a cute businessman.</span></p>
 
 <p><span class="chinese">舒先生是一名商人。</span><span class="english">Mr. Shu is a businessman.</span></p>

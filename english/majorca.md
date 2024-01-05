@@ -1,5 +1,7 @@
 # majorca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/majorca.md)
+
 <p><span class="chinese">我到马略卡岛去了。</span><span class="english">I've been to Majorca.</span></p>
 
 <p><span class="chinese">去西班牙的马略卡岛度假。</span><span class="english">A holiday in Spain, in Majorca.</span></p>

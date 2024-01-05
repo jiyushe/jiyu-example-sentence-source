@@ -1,5 +1,7 @@
 # 满腔热忱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manqiangrechen.md)
+
 <p><span class="chinese">他满腔热忱地从事工作。</span><span class="english">He took up his pursuit with ardor.</span></p>
 
 <p><span class="chinese">沃尔夫满腔热忱地迎接新生活。</span><span class="english">Wolfe embraced his new life with gusto.</span></p>

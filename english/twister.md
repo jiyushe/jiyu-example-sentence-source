@@ -1,5 +1,7 @@
 # twister
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twister.md)
+
 <p><span class="chinese">我像转圈圈般的在比赛吗?。</span><span class="english">Do I race in a twister?</span></p>
 
 <p><span class="chinese">那真是个难题。</span><span class="english">That is a real twister.</span></p>

@@ -1,5 +1,7 @@
 # 灵堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingtang.md)
+
 <p><span class="chinese">带者瘟疫肆虐张狂，直把婚礼变成灵堂。</span><span class="english">And blights with Plagues the Marriage hearse.</span></p>
 
 <p><span class="chinese">甚至请他的客人跟他一块到祖先的灵堂里去。</span><span class="english">that he invited his guests to join him in the Hall of Ancestors.</span></p>

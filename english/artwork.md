@@ -1,5 +1,7 @@
 # artwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artwork.md)
+
 <p><span class="chinese">这是最终的图档。</span><span class="english">Here is the final artwork.</span></p>
 
 <p><span class="chinese">将图形文件发送给编辑。</span><span class="english">Send the artwork files to your editor.</span></p>

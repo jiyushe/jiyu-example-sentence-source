@@ -1,5 +1,7 @@
 # klan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/klan.md)
+
 <p><span class="chinese">你在讨论种族主义的时候不可能将三K党排除在外。</span><span class="english">And you can't discuss racism and not include the Klan.</span></p>
 
 <p><span class="chinese">他干的就是搞了个叫做“三K党”的组织。</span><span class="english">What he did was, he started up this club called the Ku Klux Klan.</span></p>

@@ -1,5 +1,7 @@
 # 饴糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yitang.md)
+
 <p><span class="chinese">味道好像饴糖，没什么特别的。</span><span class="english">Sort of caramel but nothing too exciting.</span></p>
 
 <p><span class="chinese">我喜欢吃甜食—糖果，饼干，饴糖苹果---所有的东西。</span><span class="english">I love to eat sweets--candy, cookies, caramel apples--- everything.</span></p>

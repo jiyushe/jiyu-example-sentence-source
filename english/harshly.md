@@ -1,5 +1,7 @@
 # harshly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harshly.md)
+
 <p><span class="chinese">他待妻子苛刻。</span><span class="english">He treats his wife harshly.</span></p>
 
 <p><span class="chinese">你没有什么理由这样严厉地批评他。</span><span class="english">You had little cause to judge him so harshly.</span></p>

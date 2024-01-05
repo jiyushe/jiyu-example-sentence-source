@@ -1,5 +1,7 @@
 # 蚊子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenzi_1.md)
+
 <p><span class="chinese">蚊子会叮人。</span><span class="english">Mosquitoes bite.</span></p>
 
 <p><span class="chinese">蚊子多的地方。</span><span class="english">A place with lots of mosquitos.</span></p>

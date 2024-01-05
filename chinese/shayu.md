@@ -1,5 +1,7 @@
 # 沙鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shayu.md)
+
 <p><span class="chinese">有沙鱼吗？</span><span class="english">Were there any sharks?</span></p>
 
 <p><span class="chinese">当然，是沙鱼蜥蜴喽。</span><span class="english">The sandfish lizard, of course.</span></p>

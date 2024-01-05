@@ -1,5 +1,7 @@
 # 奴隶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuli_1.md)
+
 <p><span class="chinese">我们是奴隶吗？</span><span class="english">Are we Slaves?</span></p>
 
 <p><span class="chinese">奴隶劳动的丑闻。</span><span class="english">Slave labor scandals.</span></p>

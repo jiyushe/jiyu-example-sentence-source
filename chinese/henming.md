@@ -1,5 +1,7 @@
 # 狠命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/henming.md)
+
 <p><span class="chinese">她狠命地鞭打他一顿。</span><span class="english">She whipped him like forty.</span></p>
 
 <p><span class="chinese">愤怒之下，他抓住孩子狠命地摇。</span><span class="english">Don't shake your fist at me.</span></p>

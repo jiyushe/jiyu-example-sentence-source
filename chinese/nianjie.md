@@ -1,5 +1,7 @@
 # 年节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianjie.md)
+
 <p><span class="chinese">一年一个新年节，一人一个新年梦。</span><span class="english">Everyone have a dream of happy new year.</span></p>
 
 <p><span class="chinese">年节更是民众娱乐狂欢的节日。</span><span class="english">The festival is the populace entertainment festival.</span></p>

@@ -1,5 +1,7 @@
 # amiably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amiably.md)
+
 <p><span class="chinese">她咧着嘴向我们亲切地微笑。</span><span class="english">She grinned amiably at us.</span></p>
 
 <p><span class="chinese">海关官员亲切地微笑。</span><span class="english">The customs man smiles amiably.</span></p>

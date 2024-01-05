@@ -1,5 +1,7 @@
 # 玩意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanyi_1.md)
+
 <p><span class="chinese">一个社交玩意？</span><span class="english">A social thingy?</span></p>
 
 <p><span class="chinese">但这些玩意确实会失效。</span><span class="english">But these things do fail.</span></p>

@@ -1,5 +1,7 @@
 # afar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afar.md)
+
 <p><span class="chinese">他一小时走10英里。</span><span class="english">He airings ten afar an hour.</span></p>
 
 <p><span class="chinese">远水难救近火。</span><span class="english">Water afar quenches not fire.</span></p>

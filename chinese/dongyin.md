@@ -1,5 +1,7 @@
 # 动因
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongyin.md)
+
 <p><span class="chinese">成本分配率是指单位成本动因应负担的成本。</span><span class="english">The cost rate is the cost per cost driver.</span></p>
 
 <p><span class="chinese">曾鸣说，这是拆分淘宝的动因。</span><span class="english">Zeng Ming, this is split Taobao motivation.</span></p>

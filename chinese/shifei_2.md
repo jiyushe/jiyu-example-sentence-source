@@ -1,5 +1,7 @@
 # 是非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifei_2.md)
+
 <p><span class="chinese">它必须是非空的。</span><span class="english">It must be non-null.</span></p>
 
 <p><span class="chinese">人是能辨是非的动物。</span><span class="english">Man is a moral being.</span></p>

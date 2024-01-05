@@ -1,5 +1,7 @@
 # vegetal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vegetal.md)
+
 <p><span class="chinese">蕴含C&G、丰富植物萃取精华及尿囊素。</span><span class="english">Contains C&G , rich vegetal extract essence &allantoin.</span></p>
 
 <p><span class="chinese">在植物香气的背景之上有杏花和甘菊花香。</span><span class="english">Almond blossom and floral notes of camomile on a vegetal background.</span></p>

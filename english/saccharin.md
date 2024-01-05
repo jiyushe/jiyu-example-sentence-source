@@ -1,5 +1,7 @@
 # saccharin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saccharin.md)
+
 <p><span class="chinese">一些研究显示糖精和啮齿动物的癌症有关。</span><span class="english">Some studies have linked saccharin to cancer in rodents.</span></p>
 
 <p><span class="chinese">使用阿斯巴甜和代糖也有助于消除你对真糖的欲望。</span><span class="english">Using aspartame and saccharin may also help purge the urge for real sugar.</span></p>

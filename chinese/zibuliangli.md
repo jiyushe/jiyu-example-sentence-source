@@ -1,5 +1,7 @@
 # 自不量力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zibuliangli.md)
+
 <p><span class="chinese">我认为你是奸诈自不量力的小…</span><span class="english">I think you are a sneaky.</span></p>
 
 <p><span class="chinese">别太自不量力了，你还有很多要学。</span><span class="english">We didn't have enough to get by.</span></p>

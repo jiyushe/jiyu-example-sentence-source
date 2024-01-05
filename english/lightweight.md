@@ -1,5 +1,7 @@
 # lightweight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lightweight.md)
+
 <p><span class="chinese">落叶轻盈地舞蹈。</span><span class="english">Deciduous lightweight and dance.</span></p>
 
 <p><span class="chinese">什么是轻量级容器？</span><span class="english">What are lightweight containers?</span></p>

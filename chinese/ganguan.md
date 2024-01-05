@@ -1,5 +1,7 @@
 # 干管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganguan.md)
+
 <p><span class="chinese">她关闭了自来水的干管。</span><span class="english">She turned the water off at the mains.</span></p>
 
 <p><span class="chinese">干管移动是由于水锤撞击的缘故，也有一部分是由于水流在管道中流动引起的。</span><span class="english">The movement in piping mains is caused by shock and partially by the flow of water through the mains.</span></p>

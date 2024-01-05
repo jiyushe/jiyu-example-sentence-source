@@ -1,5 +1,7 @@
 # cbd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cbd.md)
+
 <p><span class="chinese">他们竟然在中心商业区盖了一个小殿！！！</span><span class="english">How could they build a shrine in CBD !</span></p>
 
 <p><span class="chinese">住宅和各种企业都在中心商业区附近。</span><span class="english">Housing and diverse businesses are located near the CBD.</span></p>

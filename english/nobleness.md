@@ -1,5 +1,7 @@
 # nobleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nobleness.md)
+
 <p><span class="chinese">因为她伟大而且高贵，她一动。</span><span class="english">Because of that great nobleness of hers.</span></p>
 
 <p><span class="chinese">这是一种无以伦比的高尚境界。</span><span class="english">This is a kind of incomparable nobleness realm.</span></p>

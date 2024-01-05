@@ -1,5 +1,7 @@
 # cornucopia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornucopia.md)
+
 <p><span class="chinese">实际上，他的象征是丰饶之角。</span><span class="english">In fact, his symbol is the  cornucopia.</span></p>
 
 <p><span class="chinese">要想在生活聚宝盆中获取真正的财富。</span><span class="english">To get a real cornucopia of life's wealth.</span></p>

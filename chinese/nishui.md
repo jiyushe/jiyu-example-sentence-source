@@ -1,5 +1,7 @@
 # 泥水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nishui.md)
+
 <p><span class="chinese">泥水慢慢地变清澈了。</span><span class="english">The muddy water cleared slowly.</span></p>
 
 <p><span class="chinese">谁会在乎泥水池沼在想什么呢？</span><span class="english">So who cares what the bog thinks?</span></p>

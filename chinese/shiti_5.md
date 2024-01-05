@@ -1,5 +1,7 @@
 # 诗体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiti_5.md)
+
 <p><span class="chinese">她以无韵诗体作诗。</span><span class="english">A poem With weak rhymes halts.</span></p>
 
 <p><span class="chinese">她以无韵诗体作诗。</span><span class="english">It was in blank verse that she sang.</span></p>

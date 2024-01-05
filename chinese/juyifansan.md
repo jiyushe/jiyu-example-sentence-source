@@ -1,5 +1,7 @@
 # 举一反三
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juyifansan.md)
+
 <p><span class="chinese">举一反三检查其他测量系统的MSA，检查结果无类似问题。</span><span class="english">Check other measuring system's MSA and find no like problem existing.</span></p>
 
 <p><span class="chinese">我有个逻辑思维的头脑，举一反三的速度比班里其他人更快。</span><span class="english">I have a logical mind so I can draw inferences quicker than the others in my class.</span></p>

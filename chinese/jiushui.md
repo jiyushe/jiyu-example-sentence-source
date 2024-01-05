@@ -1,5 +1,7 @@
 # 酒水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiushui.md)
+
 <p><span class="chinese">记得用现金付酒水钱。</span><span class="english">Use cash to pay for the drinks.</span></p>
 
 <p><span class="chinese">您昨晚用过小冰箱的酒水吗？</span><span class="english">Did you use your mini-bar last night?</span></p>

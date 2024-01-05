@@ -1,5 +1,7 @@
 # cytochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytochemistry.md)
+
 <p><span class="chinese">细胞免疫化学法检测巨核细胞MPL。</span><span class="english">Immune cytochemistry was used to detect MPL on megakaryocyte.</span></p>
 
 <p><span class="chinese">以透射电镜法及细胞化学染色方法对紫露草雄蕊毛的结构进行了观察。</span><span class="english">EM and cytochemistry methods are used to observe the structures of Tradescantia stamen hairs.</span></p>

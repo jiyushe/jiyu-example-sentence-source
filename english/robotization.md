@@ -1,5 +1,7 @@
 # robotization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robotization.md)
+
 <p><span class="chinese">机器人化是提高工程机械施工控制自动化的关键问题。</span><span class="english">Robotization is a significant measure to improve automation of construction machines.</span></p>
 
 <p><span class="chinese">缆索自动爬升是在役缆索维护机器人化的最关键问题。</span><span class="english">Cable automatic climbing was the key problem of the maintenance robotization for in-service cables.</span></p>

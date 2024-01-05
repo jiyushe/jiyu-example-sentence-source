@@ -1,5 +1,7 @@
 # cursed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cursed.md)
+
 <p><span class="chinese">被诅咒的人是残忍的。</span><span class="english">The cursed are cruel.</span></p>
 
 <p><span class="chinese">路易吉喊着，诅咒着。</span><span class="english">Luigi shouted and cursed.</span></p>

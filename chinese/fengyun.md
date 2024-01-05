@@ -1,5 +1,7 @@
 # 风韵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyun.md)
+
 <p><span class="chinese">而是美丽和风韵的肥料。</span><span class="english">But beautiful and Charm of the fertilizer.</span></p>
 
 <p><span class="chinese">翻译时设法把握住原文中难以捉摸的风韵。</span><span class="english">Try to catch the elusive charm of the original in translation.</span></p>

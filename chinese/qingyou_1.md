@@ -1,5 +1,7 @@
 # 清幽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyou_1.md)
+
 <p><span class="chinese">它的花是白色的，清幽而淡雅。</span><span class="english">Its flowers are white, quiet and elegant.</span></p>
 
 <p><span class="chinese">月光依旧是清幽，只是多了一抹黯淡。</span><span class="english">The moonlight is still quiet, only a dim.</span></p>

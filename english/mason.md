@@ -1,5 +1,7 @@
 # mason
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mason.md)
+
 <p><span class="chinese">你是泥水匠梅森吗？</span><span class="english">Are You a Mason?</span></p>
 
 <p><span class="chinese">他是一位满怀职责的互济会员。</span><span class="english">He's a Mason fulfilling a duty.</span></p>

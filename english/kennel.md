@@ -1,5 +1,7 @@
 # kennel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kennel.md)
+
 <p><span class="chinese">好的松狮犬舍在哪里啊？</span><span class="english">Good Chow kennel where ah?</span></p>
 
 <p><span class="chinese">欢迎走近我们的松狮犬舍。</span><span class="english">Welcome To Our Chow Chow Kennel.</span></p>

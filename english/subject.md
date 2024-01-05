@@ -1,5 +1,7 @@
 # subject 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subject.md)
+
 <p><span class="chinese">我喜欢这个主题。</span><span class="english">I love the subject.</span></p>
 
 <p><span class="chinese">它是一门新兴的交叉学科。</span><span class="english">It is a new subject.</span></p>

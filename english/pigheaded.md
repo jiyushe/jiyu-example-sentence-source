@@ -1,5 +1,7 @@
 # pigheaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pigheaded.md)
+
 <p><span class="chinese">头脑多么顽固，心胸多么狭隘的蠢家伙！</span><span class="english">What a pigheaded narrow-minded jerk!</span></p>
 
 <p><span class="chinese">她只是一根筋，但并无恶意。</span><span class="english">She is only pigheaded but not hostility.</span></p>

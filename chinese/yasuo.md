@@ -1,5 +1,7 @@
 # 压缩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yasuo.md)
+
 <p><span class="chinese">压缩页眉。</span><span class="english">Compressed headers.</span></p>
 
 <p><span class="chinese">一般的文本压缩器。</span><span class="english">General text compressors.</span></p>

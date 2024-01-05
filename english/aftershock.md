@@ -1,5 +1,7 @@
 # aftershock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aftershock.md)
+
 <p><span class="chinese">每次余震都让李女士心有余悸。</span><span class="english">Every aftershock terrifies Ms. Li.</span></p>
 
 <p><span class="chinese">我们刚刚感觉到了余震。</span><span class="english">We're feeling an aftershock right now, Kiran.</span></p>

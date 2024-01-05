@@ -1,5 +1,7 @@
 # biofeedback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biofeedback.md)
+
 <p><span class="chinese">在很多情况下，生物反馈训练更加有效。</span><span class="english">In some cases, biofeedback training may help.</span></p>
 
 <p><span class="chinese">本文介绍一种生物信息反馈治疗装置。</span><span class="english">This paper describes an electrotherapy device with biofeedback.</span></p>

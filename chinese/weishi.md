@@ -1,5 +1,7 @@
 # 为时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishi.md)
+
 <p><span class="chinese">妥协为时不远？</span><span class="english">Is a compromise in sight?</span></p>
 
 <p><span class="chinese">为时整学期的专题和论文。</span><span class="english">Semester-long project and paper.</span></p>

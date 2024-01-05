@@ -1,5 +1,7 @@
 # triad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triad.md)
+
 <p><span class="chinese">我们讨论了三和弦的根音。</span><span class="english">We've talked about the root of the triad.</span></p>
 
 <p><span class="chinese">后来印度教的三神一体。</span><span class="english">The triad of divinities of later hinduism.</span></p>

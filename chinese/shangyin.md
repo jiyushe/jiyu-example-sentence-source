@@ -1,5 +1,7 @@
 # 上瘾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangyin.md)
+
 <p><span class="chinese">我对网上聊天上瘾。</span><span class="english">I'm addicted to net-chat.</span></p>
 
 <p><span class="chinese">当然，爱上瘾听上去更顺耳。</span><span class="english">Love addict sounds nicer for sure.</span></p>

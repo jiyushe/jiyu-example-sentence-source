@@ -1,5 +1,7 @@
 # wastewater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wastewater.md)
+
 <p><span class="chinese">大出口排出废水。</span><span class="english">The huge outlet debouched the wastewater.</span></p>
 
 <p><span class="chinese">用升流式石灰石滤池中和处理废水。</span><span class="english">A lime filtering cell is used to treat wastewater.</span></p>

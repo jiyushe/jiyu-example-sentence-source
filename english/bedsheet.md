@@ -1,5 +1,7 @@
 # bedsheet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedsheet.md)
+
 <p><span class="chinese">是那有衬里的舒适棉被吗？</span><span class="english">The cozy bedsheet with lining?</span></p>
 
 <p><span class="chinese">搬进来了，没有床单和被套。</span><span class="english">There is no bedsheet and quilt cover here.</span></p>

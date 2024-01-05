@@ -1,5 +1,7 @@
 # till
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/till.md)
+
 <p><span class="chinese">直到约会？</span><span class="english">Till date?</span></p>
 
 <p><span class="chinese">我今日才算看见了！</span><span class="english">I see till tody!</span></p>

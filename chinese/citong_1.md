@@ -1,5 +1,7 @@
 # 刺痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/citong_1.md)
+
 <p><span class="chinese">泪水刺痛了我的眼睛。</span><span class="english">Tears prick my eyes.</span></p>
 
 <p><span class="chinese">刺痛还是钝痛?。</span><span class="english">Prickle or dull pain?</span></p>

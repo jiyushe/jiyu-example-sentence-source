@@ -1,5 +1,7 @@
 # sensuously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensuously.md)
+
 <p><span class="chinese">她跳舞时扭动着臀部十分诱人。</span><span class="english">She swayed her hips sensuously as she danced.</span></p>
 
 <p><span class="chinese">灵魂既有居住的地方，当然是在空间中，可以用感官去表象的。</span><span class="english">Of course, if the soul have a seat, it is in space and sensuously envisaged.</span></p>

@@ -1,5 +1,7 @@
 # token
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/token.md)
+
 <p><span class="chinese">代币一枚多少钱？</span><span class="english">How much is a token?</span></p>
 
 <p><span class="chinese">作为代表你爱的信物？</span><span class="english">As a token of your love?</span></p>

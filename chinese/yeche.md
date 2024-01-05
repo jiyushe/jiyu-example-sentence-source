@@ -1,5 +1,7 @@
 # 夜车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeche.md)
+
 <p><span class="chinese">我开了一整晚夜车。</span><span class="english">I just pulled an all-nighter.</span></p>
 
 <p><span class="chinese">我乘夜车到那个城镇去。</span><span class="english">I took the night train to the town.</span></p>

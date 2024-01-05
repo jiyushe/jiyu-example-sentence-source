@@ -1,5 +1,7 @@
 # commando
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commando.md)
+
 <p><span class="chinese">那名突击队员用木炭把他的脸涂黑。</span><span class="english">The commando blackened his face with charcoal.</span></p>
 
 <p><span class="chinese">我是特种兵之火凤凰即特种兵之火凤凰。</span><span class="english">I am the fire phoenix commando special forces fire phoenix.</span></p>

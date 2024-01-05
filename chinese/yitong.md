@@ -1,5 +1,7 @@
 # 一通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yitong.md)
+
 <p><span class="chinese">抱歉胡说了一通。</span><span class="english">Sorry for the drivel.</span></p>
 
 <p><span class="chinese">她乱骂一通。</span><span class="english">She damned right and left.</span></p>

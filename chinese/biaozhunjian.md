@@ -1,5 +1,7 @@
 # 标准件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozhunjian.md)
+
 <p><span class="chinese">适当的时候使用标准件。</span><span class="english">Use standard components when appropriate.</span></p>
 
 <p><span class="chinese">标准化的基本概念和标准件。</span><span class="english">Concepts of standardization and standard parts.</span></p>

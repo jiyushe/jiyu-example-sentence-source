@@ -1,5 +1,7 @@
 # 掣肘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chezhou.md)
+
 <p><span class="chinese">白宫期望通过一项大型工作法案的努力一直处于被掣肘状态。</span><span class="english">White House efforts to pass a big jobs bill have been stymied.</span></p>
 
 <p><span class="chinese">可以肯定的是，参议院的“中间派议员”为拯救经济倾尽了掣肘之力。</span><span class="english">To be sure, “centrists” in the Senate have hobbled efforts to rescue the economy.</span></p>

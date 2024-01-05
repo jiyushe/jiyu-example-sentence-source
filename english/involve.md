@@ -1,5 +1,7 @@
 # involve 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/involve.md)
+
 <p><span class="chinese">它必须涉及外界的人与事。</span><span class="english">I involve it, I learn it.</span></p>
 
 <p><span class="chinese">云雾笼罩着山顶。</span><span class="english">Clouds involve the mountain top.</span></p>

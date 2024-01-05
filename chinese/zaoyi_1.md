@@ -1,5 +1,7 @@
 # 造诣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoyi_1.md)
+
 <p><span class="chinese">圣·约翰是一个造诣很深、学识渊博的学者。</span><span class="english">St John was only twenty-nine, sir.</span></p>
 
 <p><span class="chinese">他人物画造诣最高。</span><span class="english">His best field was figure painting.</span></p>

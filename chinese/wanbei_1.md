@@ -1,5 +1,7 @@
 # 晚辈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanbei_1.md)
+
 <p><span class="chinese">作为一个晚辈，我们应该尊敬老人。</span><span class="english">As a junior, we should respect the old.</span></p>
 
 <p><span class="chinese">那些你所创造出的吸血鬼是你的晚辈。</span><span class="english">Those thou create are thine own childer.</span></p>

@@ -1,5 +1,7 @@
 # 筑造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzao.md)
+
 <p><span class="chinese">⊙、绿色社会，动手筑造。</span><span class="english">Green society, began to build.</span></p>
 
 <p><span class="chinese">他们筑造土坝以阻挡上涨的洪水。</span><span class="english">They built banks of earth to hold back the rising flood.</span></p>

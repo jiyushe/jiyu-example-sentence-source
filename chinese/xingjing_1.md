@@ -1,5 +1,7 @@
 # 行经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingjing_1.md)
+
 <p><span class="chinese">一只熊在鹿行经的路线上出现。</span><span class="english">A bear appeared in the path of the deer.</span></p>
 
 <p><span class="chinese">美国在亚洲的行经最终以失败告终。</span><span class="english">The American mission to Asia ended in failure.</span></p>

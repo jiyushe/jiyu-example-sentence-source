@@ -1,5 +1,7 @@
 # debutante
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debutante.md)
+
 <p><span class="chinese">社交舞会是每个女孩子向往的。</span><span class="english">A debutante ball is all a girl could ask for.</span></p>
 
 <p><span class="chinese">“我本该告诉你，”少女回答道，“巧克力吃多了会腐蚀牙齿。”</span><span class="english">"I get to HAs talked you, " replied the debutante.</span></p>

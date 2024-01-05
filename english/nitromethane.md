@@ -1,5 +1,7 @@
 # nitromethane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitromethane.md)
+
 <p><span class="chinese">他们能将甲烷硝化成硝基甲烷。</span><span class="english">They were able to nitrate methane to nitromethane.</span></p>
 
 <p><span class="chinese">什么样的燃料使用，汽油，甲醇或硝基甲烷？</span><span class="english">What kind of fuel is used, gasoline, methanol or nitromethane ?</span></p>

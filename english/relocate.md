@@ -1,5 +1,7 @@
 # relocate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relocate.md)
+
 <p><span class="chinese">他下个月将迁至英国工作。</span><span class="english">He will relocate next month in British.</span></p>
 
 <p><span class="chinese">他们发现非重新安置不可。</span><span class="english">They found themselves compelled to relocate.</span></p>

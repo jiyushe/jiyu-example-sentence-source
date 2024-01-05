@@ -1,5 +1,7 @@
 # 婚纱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunsha.md)
+
 <p><span class="chinese">我爸爸拥有一间婚纱摄影室。</span><span class="english">My dad has a wedding studio.</span></p>
 
 <p><span class="chinese">那婚纱肯定有几十斤重。</span><span class="english">That thing must weigh 50 pounds.</span></p>

@@ -1,5 +1,7 @@
 # degraded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degraded.md)
+
 <p><span class="chinese">他因酗酒而受到降级处分。</span><span class="english">He was degraded for being drunk.</span></p>
 
 <p><span class="chinese">我为你的卑劣行为感到脸红。</span><span class="english">I blushed for your degraded conduct.</span></p>

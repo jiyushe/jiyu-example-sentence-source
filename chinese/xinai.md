@@ -1,5 +1,7 @@
 # 心爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinai.md)
+
 <p><span class="chinese">他和他心爱的人私奔了。</span><span class="english">He elopes with his lover.</span></p>
 
 <p><span class="chinese">还带着心爱的五弦琴。</span><span class="english">With the banjo on my knee.</span></p>

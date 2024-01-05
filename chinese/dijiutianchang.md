@@ -1,5 +1,7 @@
 # 地久天长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dijiutianchang.md)
+
 <p><span class="chinese">愿友谊地久天长！</span><span class="english">Long live the friendship!</span></p>
 
 <p><span class="chinese">不求地久天长，只求在身旁。</span><span class="english">Not forever, but in the side.</span></p>

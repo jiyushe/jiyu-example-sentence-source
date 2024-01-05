@@ -1,5 +1,7 @@
 # unsalable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsalable.md)
+
 <p><span class="chinese">滞销书将于下周削价出售。</span><span class="english">The unsalable books are to be remaindered next week.</span></p>
 
 <p><span class="chinese">在空置住宅中，中高档以上的滞销严重。</span><span class="english">In vacant residential, high-grade, more unsalable serious.</span></p>

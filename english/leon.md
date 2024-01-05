@@ -1,5 +1,7 @@
 # leon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leon.md)
+
 <p><span class="chinese">陈礼嘉在钢琴课上。</span><span class="english">Leon on piano class.</span></p>
 
 <p><span class="chinese">利昂喜欢小狮子。</span><span class="english">Leon loves little lions.</span></p>

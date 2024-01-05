@@ -1,5 +1,7 @@
 # suspicious 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suspicious.md)
+
 <p><span class="chinese">冷静，怀疑。</span><span class="english">Cool, suspicious.</span></p>
 
 <p><span class="chinese">对此，我表示怀疑。</span><span class="english">Already I’m suspicious.</span></p>

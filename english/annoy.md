@@ -1,5 +1,7 @@
 # annoy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annoy.md)
+
 <p><span class="chinese">您真使我厌烦，还不如杀了我。</span><span class="english">You annoy me. Kill me, rather.</span></p>
 
 <p><span class="chinese">你开始激怒我了，脑虫。</span><span class="english">You begin to annoy me, Cerebrate.</span></p>

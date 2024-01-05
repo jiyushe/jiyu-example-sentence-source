@@ -1,5 +1,7 @@
 # 顺道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shundao.md)
+
 <p><span class="chinese">你需要顺道共搭一部车吗？</span><span class="english">Do you need a carpool?</span></p>
 
 <p><span class="chinese">他常常顺道来家看我。</span><span class="english">He often drops in to see me.</span></p>

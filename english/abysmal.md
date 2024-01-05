@@ -1,5 +1,7 @@
 # abysmal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abysmal.md)
+
 <p><span class="chinese">还是方木更加深不可测？</span><span class="english">Is square still wood more abysmal?</span></p>
 
 <p><span class="chinese">那个人权纪录不堪入目的人。</span><span class="english">with abysmal human rights records.</span></p>

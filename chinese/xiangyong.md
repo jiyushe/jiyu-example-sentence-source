@@ -1,5 +1,7 @@
 # 享用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyong.md)
+
 <p><span class="chinese">这就等于是让你免费享用了中国美食，因此你会非常开心。</span><span class="english">So you will be very glad.</span></p>
 
 <p><span class="chinese">加一片薄荷叶装饰即可享用。</span><span class="english">Garnish with mint leave and serve.</span></p>

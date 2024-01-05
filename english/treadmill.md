@@ -1,5 +1,7 @@
 # treadmill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treadmill.md)
+
 <p><span class="chinese">我有一个跑步机。</span><span class="english">I own a treadmill.</span></p>
 
 <p><span class="chinese">所以你在跑步机上跑。</span><span class="english">So you've run on the treadmill.</span></p>

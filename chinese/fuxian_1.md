@@ -1,5 +1,7 @@
 # 赋闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuxian_1.md)
+
 <p><span class="chinese">赋闲在家已有数月？</span><span class="english">Out of work for months?</span></p>
 
 <p><span class="chinese">现在我赋闲在家，请问我的档案在什么地方？</span><span class="english">Now, I stay idle at home, can I file in the where?</span></p>

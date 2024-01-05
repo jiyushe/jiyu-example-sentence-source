@@ -1,5 +1,7 @@
 # nickelodeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nickelodeon.md)
+
 <p><span class="chinese">录的是尼克频道和迪士尼频道的一些卡通类的，</span><span class="english">some for some cartoons on Nickelodeon and Disney Channel,</span></p>
 
 <p><span class="chinese">了解如何在这个自由绘画画课视频尼克卡通人物海绵宝宝。</span><span class="english">Learn how to draw the Nickelodeon cartoon character SpongeBob SquarePants in this free drawing lesson video.</span></p>

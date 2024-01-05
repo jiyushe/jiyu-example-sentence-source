@@ -1,5 +1,7 @@
 # leninist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leninist.md)
+
 <p><span class="chinese">我们必须永远坚持马克思列宁主义原则。</span><span class="english">We must always hold on to the Marxist- Leninist Principles.</span></p>
 
 <p><span class="chinese">也就是说，列宁主张的领导者们仅仅是暂时的哲人王。</span><span class="english">Leninist leaders, in other words, are only temporary Philosopher-Kings.</span></p>

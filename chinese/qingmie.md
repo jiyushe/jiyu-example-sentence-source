@@ -1,5 +1,7 @@
 # 轻蔑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingmie.md)
+
 <p><span class="chinese">他们对我说的话表示轻蔑。</span><span class="english">They spit on what I said.</span></p>
 
 <p><span class="chinese">亲暱必生轻蔑。</span><span class="english">Familiarity brings contempt.</span></p>

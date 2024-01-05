@@ -1,5 +1,7 @@
 # souvenir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/souvenir.md)
+
 <p><span class="chinese">我要将它保存下来作为纪念。</span><span class="english">I'll keep it for a souvenir.</span></p>
 
 <p><span class="chinese">这个相机是纪念品。</span><span class="english">This camera is for souvenir.</span></p>

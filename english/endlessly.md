@@ -1,5 +1,7 @@
 # endlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endlessly.md)
+
 <p><span class="chinese">无尽的迷人。</span><span class="english">It's endlessly fascinating.</span></p>
 
 <p><span class="chinese">游行队伍没完没了地缓慢前进。</span><span class="english">The parade dragged by endlessly.</span></p>

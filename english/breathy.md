@@ -1,5 +1,7 @@
 # breathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breathy.md)
+
 <p><span class="chinese">她的声音柔和，带有气息。</span><span class="english">Her voice was soft and breathy.</span></p>
 
 <p><span class="chinese">反之你也可以发出极大的呼气声。</span><span class="english">Or you can have a very breathy voice.</span></p>

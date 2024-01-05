@@ -1,5 +1,7 @@
 # 予以
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyi.md)
+
 <p><span class="chinese">那你怎么予以控制呢？</span><span class="english">How do you take control?</span></p>
 
 <p><span class="chinese">巴图林娜对这一指控予以否认。</span><span class="english">Baturina denies the allegation.</span></p>

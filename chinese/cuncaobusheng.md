@@ -1,5 +1,7 @@
 # 寸草不生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuncaobusheng.md)
+
 <p><span class="chinese">在他们脚下是寸草不生的土地。</span><span class="english">Beneath them the earth was naked of grass.</span></p>
 
 <p><span class="chinese">这里寸草不生，连石头都是灼热的。</span><span class="english">The grass is defeated and the stones are burning.</span></p>

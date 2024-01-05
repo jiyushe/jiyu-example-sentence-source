@@ -1,5 +1,7 @@
 # 力促
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/licu.md)
+
 <p><span class="chinese">享受东方花园，力促奥林匹克。</span><span class="english">Enjoy the Garden, enhance the Games.</span></p>
 
 <p><span class="chinese">他力促各州实行事故赔偿制度。</span><span class="english">He urged the State to adopt accident compensation system.</span></p>

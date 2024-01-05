@@ -1,5 +1,7 @@
 # reject
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reject.md)
+
 <p><span class="chinese">我拒绝这些选择。</span><span class="english">I reject these choices.</span></p>
 
 <p><span class="chinese">赫里史肯定会拒绝它。</span><span class="english">Herrick be bind to reject it.</span></p>

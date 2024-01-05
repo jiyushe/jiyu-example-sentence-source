@@ -1,5 +1,7 @@
 # cardiopulmonary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardiopulmonary.md)
+
 <p><span class="chinese">心肺复苏或CPR有助于停止跳动的心脏。</span><span class="english">Cardiopulmonary resuscitation, or CPR, is helped for a stopped heart.</span></p>
 
 <p><span class="chinese">大家还观看了红会心肺复苏的培训视频。</span><span class="english">Then they watched the training video of cardiopulmonary resuscitation.</span></p>

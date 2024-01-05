@@ -1,5 +1,7 @@
 # 闪身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshen_1.md)
+
 <p><span class="chinese">他从她身边闪身躲过。</span><span class="english">He dodged past her.</span></p>
 
 <p><span class="chinese">拳击手学习急速扭头和闪身。</span><span class="english">A boxer learns to bob and weave.</span></p>

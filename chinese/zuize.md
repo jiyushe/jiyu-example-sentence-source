@@ -1,5 +1,7 @@
 # 罪责
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuize.md)
+
 <p><span class="chinese">这完全是在开脱罪责。</span><span class="english">It is a perfect alibi.</span></p>
 
 <p><span class="chinese">吉姆将罪责推脱得一干二净。</span><span class="english">Jim kissed off all raps.</span></p>

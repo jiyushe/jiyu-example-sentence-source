@@ -1,5 +1,7 @@
 # 典礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianli.md)
+
 <p><span class="chinese">现在我们结束典礼的部分。</span><span class="english">We now conclude the ceremony.</span></p>
 
 <p><span class="chinese">开学典礼是哪天？</span><span class="english">When was the opening ceremony?</span></p>

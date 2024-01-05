@@ -1,5 +1,7 @@
 # 探亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanqin.md)
+
 <p><span class="chinese">你是否准备让你家人来英国探亲？</span><span class="english">Whether or not will your relatives go to UK to visit you ?</span></p>
 
 <p><span class="chinese">外国留学生的陪读家属，应作为探亲者申请L签证。</span><span class="english">Family members accompanying students shall apply for L visa only.</span></p>

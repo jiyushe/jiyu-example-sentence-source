@@ -1,5 +1,7 @@
 # ferritic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferritic.md)
+
 <p><span class="chinese">对铁素体不锈钢带焊接冷轧技术进行了试验研究。</span><span class="english">Test of cold rolling welded ferritic stainless steel strip was carried out.</span></p>
 
 <p><span class="chinese">钢的铁素体或奥氏体晶粒度的测度。</span><span class="english">Macrographic determination of the ferritic or austenitic grain size of steels.</span></p>

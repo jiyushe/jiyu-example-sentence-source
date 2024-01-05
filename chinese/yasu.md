@@ -1,5 +1,7 @@
 # 雅俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yasu.md)
+
 <p><span class="chinese">他的艺术格调清丽简约，雅俗之间，充满诗情画意。</span><span class="english">His artistic style is elegant and simple, full of poetic charm.</span></p>
 
 <p><span class="chinese">这三个词语的雅俗程度和在句中的位置有所不同。</span><span class="english">They differ In degree of formality and position In the sentence.</span></p>

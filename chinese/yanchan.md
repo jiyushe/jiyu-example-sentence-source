@@ -1,5 +1,7 @@
 # 眼馋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanchan.md)
+
 <p><span class="chinese">我觉得饭菜点得太多了，我是眼馋肚饱呀。</span><span class="english">I guess my eyes are bigger than my stomach.</span></p>
 
 <p><span class="chinese">不过惠普、IBM以及戴尔也在对同一份数据中心的奖金眼馋着。</span><span class="english">But HP, IBM, and Dell have their eyes on the same data center prize.</span></p>

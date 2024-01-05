@@ -1,5 +1,7 @@
 # senegalese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senegalese.md)
+
 <p><span class="chinese">Sow家庭是与塞内加尔政府合作的志愿人员。</span><span class="english">The Sow family are volunteers who work with the Senegalese Government.</span></p>
 
 <p><span class="chinese">以一辆欧洲汽车的价格，塞内加尔人可以购买两辆中国汽车。</span><span class="english">For the price of one European vehicle, a Senegalese can purchase two Chinese cars.</span></p>

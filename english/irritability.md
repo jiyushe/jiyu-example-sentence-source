@@ -1,5 +1,7 @@
 # irritability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irritability.md)
+
 <p><span class="chinese">怎么预防过敏性鼻炎？</span><span class="english">How to prevent irritability rhinitis?</span></p>
 
 <p><span class="chinese">过敏性角膜炎上怎么治疗？</span><span class="english">How to treat on irritability keratitis?</span></p>

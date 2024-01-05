@@ -1,5 +1,7 @@
 # pecs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pecs.md)
+
 <p><span class="chinese">你不想拥有平滑的小腹和结实的胸肌吗？</span><span class="english">Don't you want a washboard stomach and rock-hard pecs?</span></p>
 
 <p><span class="chinese">做得好，这项工作是有利的内部和外部佩奇。</span><span class="english">Done properly, this exercise is good for inner and outer pecs.</span></p>

@@ -1,5 +1,7 @@
 # guatemala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guatemala.md)
+
 <p><span class="chinese">在危地马拉，我失去了家庭。</span><span class="english">I lost my family while in Guatemala.</span></p>
 
 <p><span class="chinese">危地马拉市一名妇女在工厂上准备着彩饰陶罐。</span><span class="english">A woman prepares pinatas at a factory in Guatemala City.</span></p>

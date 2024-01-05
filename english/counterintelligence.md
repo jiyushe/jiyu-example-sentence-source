@@ -1,5 +1,7 @@
 # counterintelligence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterintelligence.md)
+
 <p><span class="chinese">我父亲曾经在反情报机关工作。</span><span class="english">My father used to work in counterintelligence.</span></p>
 
 <p><span class="chinese">几个月的时间里他接受训练。</span><span class="english">Within months he was being trained in counterintelligence.</span></p>

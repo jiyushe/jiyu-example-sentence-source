@@ -1,5 +1,7 @@
 # 看破红尘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanpohongchen.md)
+
 <p><span class="chinese">看破红尘，望穿秋水，又能怎样？</span><span class="english">See through Red Dust, for ages, but also what?</span></p>
 
 <p><span class="chinese">他已看破红尘，出家当和尚了。</span><span class="english">He has died to worldly matters and become a Buddhist monk.</span></p>

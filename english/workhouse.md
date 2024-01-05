@@ -1,5 +1,7 @@
 # workhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workhouse.md)
+
 <p><span class="chinese">这是个工场</span><span class="english">Here is a workhouse.</span></p>
 
 <p><span class="chinese">她在济贫院呆了多久了？</span><span class="english">How long was she in the workhouse?</span></p>

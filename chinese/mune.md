@@ -1,5 +1,7 @@
 # 木讷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mune.md)
+
 <p><span class="chinese">木讷的接受着亲吻。</span><span class="english">Muna acceptance of a kiss.</span></p>
 
 <p><span class="chinese">那个木讷的男人走了进来。</span><span class="english">The dumber man walked out.</span></p>

@@ -1,5 +1,7 @@
 # plumber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plumber.md)
+
 <p><span class="chinese">我们还请得起水管工。</span><span class="english">We can afford a plumber.</span></p>
 
 <p><span class="chinese">这水管工人的手脚很俐落。</span><span class="english">The plumber did a clean job.</span></p>

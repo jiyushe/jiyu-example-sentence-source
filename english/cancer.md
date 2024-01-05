@@ -1,5 +1,7 @@
 # cancer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cancer.md)
+
 <p><span class="chinese">经历癌症。</span><span class="english">Through cancer.</span></p>
 
 <p><span class="chinese">吸烟和癌.</span><span class="english">Smoking and Cancer.</span></p>

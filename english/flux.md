@@ -1,5 +1,7 @@
 # flux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flux.md)
+
 <p><span class="chinese">就让我们从通量开始吧。</span><span class="english">Well, let's start with flux.</span></p>
 
 <p><span class="chinese">一切都在不断变化。</span><span class="english">It was all in a state of flux.</span></p>

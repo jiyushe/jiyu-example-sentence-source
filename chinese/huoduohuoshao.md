@@ -1,5 +1,7 @@
 # 或多或少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoduohuoshao.md)
+
 <p><span class="chinese">或多或少，他们感到累了。</span><span class="english">More or less they felt tired.</span></p>
 
 <p><span class="chinese">他们或多或少是武装了的。</span><span class="english">They were armed after a fashion.</span></p>

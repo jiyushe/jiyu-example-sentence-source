@@ -1,5 +1,7 @@
 # 农妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongfu_1.md)
+
 <p><span class="chinese">她是个疯农妇。</span><span class="english">She is a mad peasant woman.</span></p>
 
 <p><span class="chinese">夜里，农妇躺在床上，忐忑不安辗转难眠。</span><span class="english">The farmer went to bed that night feeling troubled.</span></p>

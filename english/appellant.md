@@ -1,5 +1,7 @@
 # appellant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appellant.md)
+
 <p><span class="chinese">申诉人有机会正式呈现它的案例。</span><span class="english">The appellant have the opportunity to present the case.</span></p>
 
 <p><span class="chinese">因此驳回上诉人谢金国等45人的起诉。</span><span class="english">Thus dismissed, the appellant would rank 45 indictments.</span></p>

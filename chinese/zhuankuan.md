@@ -1,5 +1,7 @@
 # 专款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuankuan.md)
+
 <p><span class="chinese">我们必须草拟一份新的援助方案，然后再拨专款。</span><span class="english">We had to write a new aid formula, then fund it.</span></p>
 
 <p><span class="chinese">国会已拨下专款建那条公路。</span><span class="english">Congress has appropriated money for building the highway.</span></p>

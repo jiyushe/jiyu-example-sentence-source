@@ -1,5 +1,7 @@
 # 盟军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengjun.md)
+
 <p><span class="chinese">在“大姨妈”日的盟军护士们。</span><span class="english">Allied nurses on their lady-days.</span></p>
 
 <p><span class="chinese">盟军侦查员，吉佐，所罗门群岛，2002。</span><span class="english">Allied Scout, Gizo, Solomon Islands, 2002</span></p>

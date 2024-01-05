@@ -1,5 +1,7 @@
 # 造就
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaojiu_1.md)
+
 <p><span class="chinese">是什么造就了一名纵火犯？</span><span class="english">What makes an arsonist?</span></p>
 
 <p><span class="chinese">于是神造就他成为英雄。</span><span class="english">God made a hero out of him.</span></p>

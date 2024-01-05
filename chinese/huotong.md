@@ -1,5 +1,7 @@
 # 伙同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huotong.md)
+
 <p><span class="chinese">他伙同那个窃贼抢劫银行。</span><span class="english">He abetted the thief in robbing the bank.</span></p>
 
 <p><span class="chinese">她伙同那些粗野的男孩对付我。</span><span class="english">She ganged up on me with those rough boys.</span></p>

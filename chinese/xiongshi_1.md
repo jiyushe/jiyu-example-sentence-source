@@ -1,5 +1,7 @@
 # 雄师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongshi_1.md)
+
 <p><span class="chinese">中国是东方的雄师。</span><span class="english">China is a strong lion in the East.</span></p>
 
 <p><span class="chinese">雄师的最高体重达到了439磅，但是现在这只雄师已经死了。</span><span class="english">The male lion topped out at 439 lb, but now dead.</span></p>

@@ -1,5 +1,7 @@
 # mettle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mettle.md)
+
 <p><span class="chinese">2016年是赂“考验我们气魄”的一年。</span><span class="english">And this year is a test of our mettle.</span></p>
 
 <p><span class="chinese">沧海横流，方显出英雄本色。</span><span class="english">When the seas are in turmoil, heroes are on their mettle.</span></p>

@@ -1,5 +1,7 @@
 # 已然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiran_1.md)
+
 <p><span class="chinese">然而此刻，采收苹果于我，已然足够。</span><span class="english">But I am done with apple-picking now.</span></p>
 
 <p><span class="chinese">刘洪园承认，市场已然发生变化。</span><span class="english">Mr Liu admits the market has changed.</span></p>

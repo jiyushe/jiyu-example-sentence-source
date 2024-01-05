@@ -1,5 +1,7 @@
 # 假充
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiachong.md)
+
 <p><span class="chinese">他假充记者混了进去。</span><span class="english">He posed as a newsman to get in.</span></p>
 
 <p><span class="chinese">他信教纯属假充样子。</span><span class="english">His religion was a mere pretence.</span></p>

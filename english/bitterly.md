@@ -1,5 +1,7 @@
 # bitterly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bitterly.md)
+
 <p><span class="chinese">她悲痛地哭了很久。</span><span class="english">She cried long and bitterly.</span></p>
 
 <p><span class="chinese">蠢事后悔已极。</span><span class="english">He bitterly repented his folly.</span></p>

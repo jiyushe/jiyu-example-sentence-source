@@ -1,5 +1,7 @@
 # 正极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengji_3.md)
+
 <p><span class="chinese">一板为正极，另一板为负极。</span><span class="english">One plate is positive, the other negative.</span></p>
 
 <p><span class="chinese">负电子将会被带到正极上去。</span><span class="english">It will be drawn to the positive electrode.</span></p>

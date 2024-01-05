@@ -1,5 +1,7 @@
 # 探查
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tancha_1.md)
+
 <p><span class="chinese">海洋研究人员到海底去探查。</span><span class="english">Aquanauts go to the floor of the sea.</span></p>
 
 <p><span class="chinese">他派出一名特工去鲍尔的家探查情况。</span><span class="english">He posts an agent to the Bauer house.</span></p>

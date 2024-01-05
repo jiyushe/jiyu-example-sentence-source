@@ -1,5 +1,7 @@
 # neanderthal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neanderthal.md)
+
 <p><span class="chinese">我认为尼安德特人死了很久了。</span><span class="english">I thought Neanderthal man was long dead.</span></p>
 
 <p><span class="chinese">瑞尔-萨尔瓦多认为，后一种新的文化其实是尼安德特人的。</span><span class="english">Riel-Salvatore believes this new culture was Neanderthal.</span></p>

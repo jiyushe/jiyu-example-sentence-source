@@ -1,5 +1,7 @@
 # 哇哇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wawa.md)
+
 <p><span class="chinese">便哇哇地哭起来。</span><span class="english">Then the ground cry.</span></p>
 
 <p><span class="chinese">那婴儿哇哇地哭了一夜。</span><span class="english">The baby howled all night.</span></p>

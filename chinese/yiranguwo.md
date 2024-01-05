@@ -1,5 +1,7 @@
 # 依然故我
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiranguwo.md)
+
 <p><span class="chinese">我还是依然故我。</span><span class="english">I am still my old self.</span></p>
 
 <p><span class="chinese">我，是我，还是我。依然故我！</span><span class="english">I just want to be myself!</span></p>

@@ -1,5 +1,7 @@
 # ruggedness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruggedness.md)
+
 <p><span class="chinese">鼠笼式感应电动机以其坚固耐用和低成本著称。</span><span class="english">Squirrel-cage motors are known for their ruggedness and low cost.</span></p>
 
 <p><span class="chinese">液力式传动，双液压马达。</span><span class="english">RUGGEDNESS . Hydrostatic transmission, dual hydraulic wheel motors.</span></p>

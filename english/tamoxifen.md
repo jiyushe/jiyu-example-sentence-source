@@ -1,5 +1,7 @@
 # tamoxifen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tamoxifen.md)
+
 <p><span class="chinese">激素治疗包括三苯氧胺和芳香酶抑制剂。</span><span class="english">Hormone therapy includes tamoxifen and aromatase inhibitors.</span></p>
 
 <p><span class="chinese">之后，她服用抗雌激素的三苯氧胺长达五年。</span><span class="english">After that, she is put on the anti-estrogen Tamoxifen for five years.</span></p>

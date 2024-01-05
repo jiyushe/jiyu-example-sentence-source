@@ -1,5 +1,7 @@
 # hoodlum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoodlum.md)
+
 <p><span class="chinese">小流氓用匕首向我刺来。</span><span class="english">The hoodlum stabbed at me with a dagger.</span></p>
 
 <p><span class="chinese">高提一开始是个残暴卤莽的混混。</span><span class="english">John Gotti was a violent and reckless hoodlum from his earliest days.</span></p>

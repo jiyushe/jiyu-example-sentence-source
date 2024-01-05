@@ -1,5 +1,7 @@
 # 救兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiubing.md)
+
 <p><span class="chinese">我知道你会带救兵回来。</span><span class="english">I know you're coming back with reinforcements.</span></p>
 
 <p><span class="chinese">在短短的两小时内，韦布将军的救兵就可望到达。</span><span class="english">In two short hours we may look for succor from Webb.</span></p>

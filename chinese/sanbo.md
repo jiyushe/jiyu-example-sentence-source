@@ -1,5 +1,7 @@
 # 散播
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanbo.md)
+
 <p><span class="chinese">这个传言四处散播。</span><span class="english">And it's been passed around.</span></p>
 
 <p><span class="chinese">他们到处暗中散播谣言。</span><span class="english">They buzzed rumours everywhere.</span></p>

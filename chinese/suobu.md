@@ -1,5 +1,7 @@
 # 所部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suobu.md)
+
 <p><span class="chinese">所部售完，明天请早。</span><span class="english">All out now, come earlier tomorrow.</span></p>
 
 <p><span class="chinese">然而，随着6月7日黎明到来，中尉所部战斗于完全意外，完全陌生之地形环境。</span><span class="english">But beginning at dawn, June 7, they were fighting in a terrain completely unexpected and unfamiliar to them.</span></p>

@@ -1,5 +1,7 @@
 # 首位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouwei_2.md)
+
 <p><span class="chinese">历史上的今天-首位澳大利亚出生的总督</span><span class="english">first Australian-born Governor-General of Australia</span></p>
 
 <p><span class="chinese">如果当选，拜登将成为首位天主教徒副总统。</span><span class="english">If elected, Biden would be the first Catholic vice president.</span></p>

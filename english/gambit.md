@@ -1,5 +1,7 @@
 # gambit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gambit.md)
+
 <p><span class="chinese">把这称作他的德里兵法吧。</span><span class="english">Call it his Delhi gambit.</span></p>
 
 <p><span class="chinese">又有谁是这样的一种策略的范例呢？</span><span class="english">What is an example of such a clever gambit?</span></p>

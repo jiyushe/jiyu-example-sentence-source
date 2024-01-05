@@ -1,5 +1,7 @@
 # 中听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongting.md)
+
 <p><span class="chinese">它能让其他人在邮件中听到你说出自己的名字。</span><span class="english">It lets others hear you say it yourself in your e-mail.</span></p>
 
 <p><span class="chinese">撒母耳说，我耳中听见有羊叫，牛呜，是从哪里来的呢。</span><span class="english">And Samuel said, "What then is this bleating of the sheep".</span></p>

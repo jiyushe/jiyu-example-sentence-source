@@ -1,5 +1,7 @@
 # 历史唯物主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishiweiwuzhuyi.md)
+
 <p><span class="chinese">哈贝马斯的理论的一个重要来源是历史唯物主义。</span><span class="english">Historical materialism is one of important sources of Jurgen habermas' theory.</span></p>
 
 <p><span class="chinese">这是辩证唯物主义、历史唯物主义的基本点。</span><span class="english">This is the fundamental point of dialectical materialism and the history materialism.</span></p>

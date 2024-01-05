@@ -1,5 +1,7 @@
 # guiana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guiana.md)
+
 <p><span class="chinese">邮票是1856年1美分的英国属圭亚那。</span><span class="english">The stamp is an 1856 one-cent British Guiana.</span></p>
 
 <p><span class="chinese">任何邮票收藏家想以自己的一个仙英属圭亚那。</span><span class="english">Any stamp collector would like to own the one-cent British Guiana.</span></p>

@@ -1,5 +1,7 @@
 # homeostatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homeostatic.md)
+
 <p><span class="chinese">结论艾灸具有调衡作用。</span><span class="english">Conclusion Moxa-cone moxibustion possesses homeostatic effect.</span></p>
 
 <p><span class="chinese">这是为自己建了个膝头的自我平衡反馈闭环。</span><span class="english">This is the homeostatic feedback loop making a lap for itself.</span></p>

@@ -1,5 +1,7 @@
 # siege
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siege.md)
+
 <p><span class="chinese">他指挥了围攻柏林的战役。</span><span class="english">He captained the siege of Berlin.</span></p>
 
 <p><span class="chinese">新闻记者把她的公寓围得水泄不通。</span><span class="english">The press laid siege to her flat.</span></p>

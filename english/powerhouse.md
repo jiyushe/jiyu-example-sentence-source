@@ -1,5 +1,7 @@
 # powerhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/powerhouse.md)
+
 <p><span class="chinese">这是一个新的经济巨人。</span><span class="english">This is the new economic powerhouse.</span></p>
 
 <p><span class="chinese">十堰是我国南方汽车工业的重镇。</span><span class="english">Shiyan is an auto powerhouse in the south China.</span></p>

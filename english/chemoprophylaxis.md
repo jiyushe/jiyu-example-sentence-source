@@ -1,5 +1,7 @@
 # chemoprophylaxis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemoprophylaxis.md)
+
 <p><span class="chinese">化学是推荐替代疫苗鸡蛋过敏的人。</span><span class="english">Chemoprophylaxis is the recommended substitute for vaccination in people with egg allergy.</span></p>
 
 <p><span class="chinese">密切接触者的化学预防和高危人群组的预防接种正在进行。</span><span class="english">Chemoprophylaxis of close contacts and vaccination of high-risk population groups is ongoing.</span></p>

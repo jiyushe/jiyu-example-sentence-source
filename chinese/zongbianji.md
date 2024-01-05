@@ -1,5 +1,7 @@
 # 总编辑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongbianji.md)
+
 <p><span class="chinese">他们是总编辑。</span><span class="english">They are editors-in-chief.</span></p>
 
 <p><span class="chinese">房间里有三位总编辑。</span><span class="english">There are three editors-in-chief in the room.</span></p>

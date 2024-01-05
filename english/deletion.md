@@ -1,5 +1,7 @@
 # deletion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deletion.md)
+
 <p><span class="chinese">对敏感词的监测就意味着自动删除。</span><span class="english">Their detection means automatic deletion.</span></p>
 
 <p><span class="chinese">迭代剔除劣势策略</span><span class="english">Iterative Deletion of Dominated Strategies.</span></p>

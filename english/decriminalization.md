@@ -1,5 +1,7 @@
 # decriminalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decriminalization.md)
+
 <p><span class="chinese">他为大麻合法化而斗争。</span><span class="english">He's campaigning for the decriminalization of cannabis.</span></p>
 
 <p><span class="chinese">国内外关于非犯罪化的概念有不同的表述。</span><span class="english">The concept of decriminalization is defined differently at home and overseas.</span></p>

@@ -1,5 +1,7 @@
 # punch 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punch.md)
+
 <p><span class="chinese">我呢，我很想喝一点儿潘趣酒①。</span><span class="english">I'd love a little punch.</span></p>
 
 <p><span class="chinese">拳击手挡住了一拳。</span><span class="english">The boxer turned a punch.</span></p>

@@ -1,5 +1,7 @@
 # waylaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waylaid.md)
+
 <p><span class="chinese">他在她回家的路上伏击了她，让她把工资交出来。</span><span class="english">He waylaid her on her way home and demand ed her wages.</span></p>
 
 <p><span class="chinese">很不幸，在半路却遭到盗贼的伏击，盗贼偷走了马修的马、剑还有金钱逃走了。</span><span class="english">But robbers waylaid him and made off with his horse, sword, and money.</span></p>

@@ -1,5 +1,7 @@
 # 灵动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingdong.md)
+
 <p><span class="chinese">挺喜欢这种装饰画，很有灵动的气息。</span><span class="english">Like the rhythm of these paintings.</span></p>
 
 <p><span class="chinese">那个女生手指灵动，弹奏出美妙的旋律。</span><span class="english">The girl fingers smart, play the melody.</span></p>

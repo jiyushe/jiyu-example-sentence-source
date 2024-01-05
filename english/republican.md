@@ -1,5 +1,7 @@
 # republican
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/republican.md)
+
 <p><span class="chinese">没有歧视的意思，如果你是共和党人也一样。</span><span class="english">It’s O.K. if you’re a Republican.</span></p>
 
 <p><span class="chinese">我大叫“你变成一个同性恋的共和党了！”</span><span class="english">I howled , you ' ve become a gay republican.</span></p>

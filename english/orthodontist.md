@@ -1,5 +1,7 @@
 # orthodontist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthodontist.md)
+
 <p><span class="chinese">今天我去看牙医。</span><span class="english">Today, I went to see my orthodontist.</span></p>
 
 <p><span class="chinese">今天我被一个专业牙医弄穿了嘴唇。</span><span class="english">Today I got my lip pierced. By the orthodontist. FML.</span></p>

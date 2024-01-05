@@ -1,5 +1,7 @@
 # ruinous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruinous.md)
+
 <p><span class="chinese">尼莱吉哈奇有一个毁灭性的经理人。</span><span class="english">Nyiregyhazi had ruinous managers.</span></p>
 
 <p><span class="chinese">一场破坏性的罢工之后，工会突然服软了。</span><span class="english">After a ruinous strike, the union caved in.</span></p>

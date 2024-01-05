@@ -1,5 +1,7 @@
 # 牌楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pailou.md)
+
 <p><span class="chinese">西安府西门外的牌楼。</span><span class="english">Arches outside the east gate of Sianfu.</span></p>
 
 <p><span class="chinese">在这附近可看到漂亮的牌楼。</span><span class="english">The beautiful gate below can be seen nearby.</span></p>

@@ -1,5 +1,7 @@
 # 萌生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengsheng.md)
+
 <p><span class="chinese">岩浆中萌生的蕨类植物，夏威夷</span><span class="english">Fern Growing From Lava, Hawaii</span></p>
 
 <p><span class="chinese">毕业后，她萌生了一个想法。</span><span class="english">After graduation, she had an idea.</span></p>

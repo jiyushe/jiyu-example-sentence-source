@@ -1,5 +1,7 @@
 # 转述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanshu_3.md)
+
 <p><span class="chinese">我只是转述他的话。</span><span class="english">I am merely reporting what he said.</span></p>
 
 <p><span class="chinese">钱先生转述少林寺方丈释永信的话说。</span><span class="english">Mr. Qian relayed Shaolin Temple abbot Shi as saying.</span></p>

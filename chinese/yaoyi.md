@@ -1,5 +1,7 @@
 # 徭役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyi.md)
+
 <p><span class="chinese">商办采木实质上是一种加于商人的封建徭役。</span><span class="english">In fact, it was a kind of obligation of businessman.</span></p>
 
 <p><span class="chinese">希望能远离长城，找到一个没有徭役的地方。</span><span class="english">He wanted a place without conscripting far away from the Great Wall.</span></p>

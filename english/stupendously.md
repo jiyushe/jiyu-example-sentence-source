@@ -1,5 +1,7 @@
 # stupendously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stupendously.md)
+
 <p><span class="chinese">他是个非常多产的作家。</span><span class="english">He is a stupendously swift writer.</span></p>
 
 <p><span class="chinese">这就是一个了不起的重要时刻。</span><span class="english">This was a stupendously important moment.</span></p>

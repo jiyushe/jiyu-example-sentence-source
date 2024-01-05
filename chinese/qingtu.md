@@ -1,5 +1,7 @@
 # 倾吐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtu.md)
+
 <p><span class="chinese">使我倾斜，然后让我倾吐！</span><span class="english">Tip me over and pour me out!</span></p>
 
 <p><span class="chinese">我向他倾吐我的种种烦恼。</span><span class="english">I unloaded all my troubles on him.</span></p>

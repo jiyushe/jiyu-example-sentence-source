@@ -1,5 +1,7 @@
 # unclouded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unclouded.md)
+
 <p><span class="chinese">实相只能显示给未受蒙蔽的心灵。</span><span class="english">Reality can dawn only on an unclouded mind.</span></p>
 
 <p><span class="chinese">晴天作为一日的结束，几乎可以算是快乐的一天。</span><span class="english">The end of an unclouded day. Almost a happy one, " Mr."</span></p>

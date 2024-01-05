@@ -1,5 +1,7 @@
 # morally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morally.md)
+
 <p><span class="chinese">这不仅是道德上错误的行为。</span><span class="english">It not only was wrong morally.</span></p>
 
 <p><span class="chinese">堕胎从道德上讲合乎情理吗？</span><span class="english">Is abortion morally defensible?</span></p>

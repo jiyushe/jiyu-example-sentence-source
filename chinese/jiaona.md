@@ -1,5 +1,7 @@
 # 缴纳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaona.md)
+
 <p><span class="chinese">安东尼从未缴纳罚款。</span><span class="english">Anthony never paid the fine.</span></p>
 
 <p><span class="chinese">您缴纳考试费的方法?。</span><span class="english">How did you pay the test fee?</span></p>

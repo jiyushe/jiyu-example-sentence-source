@@ -1,5 +1,7 @@
 # 诱变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youbian.md)
+
 <p><span class="chinese">毒品也是诱变效应。</span><span class="english">The drug is also mutagenic effects.</span></p>
 
 <p><span class="chinese">用NG诱变枯草杆菌168所得的一个突变型。</span><span class="english">A mutant of B. subtilis 168 mutagenized with NG.</span></p>

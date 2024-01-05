@@ -1,5 +1,7 @@
 # straitjacket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straitjacket.md)
+
 <p><span class="chinese">抑或是想给其套上“紧身衣”？</span><span class="english">Or is he trussing her up in a golden straitjacket?</span></p>
 
 <p><span class="chinese">州警们只好给他束缚固定在担架上，抬走了。</span><span class="english">He was carried away in a straitjacket strapped to a stretcher.</span></p>

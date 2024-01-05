@@ -1,5 +1,7 @@
 # fourfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fourfold.md)
+
 <p><span class="chinese">电手基本是电头疼痛的四倍。</span><span class="english">Electric hand is basic be electric head ache is fourfold.</span></p>
 
 <p><span class="chinese">电站附近的铯-134和铯-137含量也超过标准4倍以上。</span><span class="english">Levels of cesium-134 and cesium-137 rose nearly fourfold.</span></p>

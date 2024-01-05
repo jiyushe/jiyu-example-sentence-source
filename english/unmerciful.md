@@ -1,5 +1,7 @@
 # unmerciful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmerciful.md)
+
 <p><span class="chinese">历史既公正，又无情。</span><span class="english">History is both fair and unmerciful.</span></p>
 
 <p><span class="chinese">他们聊了一个过分长的时间。</span><span class="english">They chatted for an unmerciful length of time.</span></p>

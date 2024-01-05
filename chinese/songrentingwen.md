@@ -1,5 +1,7 @@
 # 耸人听闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songrentingwen.md)
+
 <p><span class="chinese">那部耸人听闻的书曾轰动一时。</span><span class="english">He had a sensation of dizziness.</span></p>
 
 <p><span class="chinese">那部耸人听闻的书曾轰动一时。</span><span class="english">The outrageous book created a sensation.</span></p>

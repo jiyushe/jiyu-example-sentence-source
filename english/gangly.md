@@ -1,5 +1,7 @@
 # gangly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gangly.md)
+
 <p><span class="chinese">我从没见过像他那样又瘦又高的人。</span><span class="english">I had never seen a chap as tall and gangly as he was.</span></p>
 
 <p><span class="chinese">你召唤出一个野蛮瘦长的阴暗模糊的生物，完全听命于你。</span><span class="english">You summon a feral, gangly creature of shadow and mist to do your bidding.</span></p>

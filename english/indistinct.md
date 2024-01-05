@@ -1,5 +1,7 @@
 # indistinct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indistinct.md)
+
 <p><span class="chinese">我对她只有模糊的印象。</span><span class="english">I only have indistinct memory of her.</span></p>
 
 <p><span class="chinese">被盖处细胞层次不明显。</span><span class="english">The cell layers in tegmentum were indistinct.</span></p>

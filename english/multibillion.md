@@ -1,5 +1,7 @@
 # multibillion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multibillion.md)
+
 <p><span class="chinese">斯蒂格利茨也批评了美国政府对几家大型银行所施行的数十亿美元舒困方案。</span><span class="english">He also criticized the U.S. government's multibillion dollar rescue of the leading banks.</span></p>
 
 <p><span class="chinese">然而许多人预计,市场不会回到零售蓬勃发展年代时动辄数以十亿美元计交易的盛况.</span><span class="english">However, many do not expect a return to the multibillion dollar deals from the boom years of retail.</span></p>

@@ -1,5 +1,7 @@
 # 眼科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanke_1.md)
+
 <p><span class="chinese">汉译英--上星期他作了眼科检查。</span><span class="english">He had an eye test last week.</span></p>
 
 <p><span class="chinese">怎样做LASIK眼科手术?</span><span class="english">How is LASIK eye surgery done?</span></p>

@@ -1,5 +1,7 @@
 # lisp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lisp.md)
+
 <p><span class="chinese">最后，就是这个经常被误解的“同志型口齿不清”。</span><span class="english">Finally, there is the much-misdescribed "gay lisp".</span></p>
 
 <p><span class="chinese">这个Lisp的变种类似圆弧，被认为是稳定的。</span><span class="english">This lisp dialect is similar to Arc and is considered stable.</span></p>

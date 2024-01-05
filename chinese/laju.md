@@ -1,5 +1,7 @@
 # 拉锯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laju.md)
+
 <p><span class="chinese">他用毛巾拉锯般擦背。</span><span class="english">He sawed the towel across his back.</span></p>
 
 <p><span class="chinese">他象拉锯那样用刀切面包。</span><span class="english">He sawed at the loaf of bread with his knife.</span></p>

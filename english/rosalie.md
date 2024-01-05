@@ -1,5 +1,7 @@
 # rosalie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosalie.md)
+
 <p><span class="chinese">爱德华转向罗莎莉。</span><span class="english">Edward turned to Rosalie.</span></p>
 
 <p><span class="chinese">金发的女孩，那是罗莎莉。</span><span class="english">The blond girl, that's Rosalie.</span></p>

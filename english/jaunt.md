@@ -1,5 +1,7 @@
 # jaunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jaunt.md)
+
 <p><span class="chinese">他们经常逍遥自在地四处游览，特别是在夏天。</span><span class="english">They jaunt about quite a lot,especially during the summer.</span></p>
 
 <p><span class="chinese">这是他们第一次做长途旅游，孩子们还没出世。</span><span class="english">The picture was taken on their first jaunt before their children were born.</span></p>

@@ -1,5 +1,7 @@
 # 裂缝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liefeng.md)
+
 <p><span class="chinese">那么，这个裂缝是什么呢？</span><span class="english">So what is this crack?</span></p>
 
 <p><span class="chinese">它爆开了第一道裂缝。</span><span class="english">The first crack appears.</span></p>

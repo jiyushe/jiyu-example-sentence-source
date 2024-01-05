@@ -1,5 +1,7 @@
 # analyser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analyser.md)
+
 <p><span class="chinese">所以他就变成了分析者。</span><span class="english">So he becomes the analyser.</span></p>
 
 <p><span class="chinese">所以说，分析意味着时间和分析者。</span><span class="english">So analysis implies time and analyser.</span></p>

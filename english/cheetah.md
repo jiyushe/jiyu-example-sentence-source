@@ -1,5 +1,7 @@
 # cheetah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheetah.md)
+
 <p><span class="chinese">印度豹跑得非常快。</span><span class="english">The cheetah runs very fast.</span></p>
 
 <p><span class="chinese">我们是坐印度豹来到这里的吗？</span><span class="english">L Didn't we come here on a cheetah?</span></p>

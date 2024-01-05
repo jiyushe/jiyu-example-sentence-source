@@ -1,5 +1,7 @@
 # 新民主主义革命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinminzhuzhuyigeming.md)
+
 <p><span class="chinese">我们为什么要搞新民主主义革命？</span><span class="english">Why do we want to the new-democratic revolution?</span></p>
 
 <p><span class="chinese">第三部分对恽代英的新民主主义革命理论进行评价。</span><span class="english">The third part carries on the appraisal of Yun Daiying's New Democratic Revolution theory.</span></p>

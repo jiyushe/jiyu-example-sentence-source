@@ -1,5 +1,7 @@
 # 着魔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaomo.md)
+
 <p><span class="chinese">公共领域正在着魔，有人死亡了。</span><span class="english">The public realm goes potty and people die.</span></p>
 
 <p><span class="chinese">在人生中还有像成就一样如此令人着魔的东西吗？</span><span class="english">Is there anything in life so disenchanting as attainment?</span></p>

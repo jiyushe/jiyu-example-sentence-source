@@ -1,5 +1,7 @@
 # mana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mana.md)
+
 <p><span class="chinese">加黑黑黑到你的魔法力池中。</span><span class="english">Add BBB to your mana pool.</span></p>
 
 <p><span class="chinese">将此异能视为魔法力源使用。</span><span class="english">Play this ability as a mana source.</span></p>

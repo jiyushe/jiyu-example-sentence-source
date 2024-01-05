@@ -1,5 +1,7 @@
 # ganglia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ganglia.md)
+
 <p><span class="chinese">窝器内有三叉神经节的神经纤维。</span><span class="english">The pit organ contains nerve fibres known as trigeminal ganglia.</span></p>
 
 <p><span class="chinese">目的探讨邻关节骨囊肿的影像学诊断。</span><span class="english">Objective To study the imaging diagnosis of intraosseous ganglia.</span></p>

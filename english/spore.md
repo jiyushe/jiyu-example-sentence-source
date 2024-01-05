@@ -1,5 +1,7 @@
 # spore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spore.md)
+
 <p><span class="chinese">每个孢就像个小蘑菇。</span><span class="english">Each spore is like a little mushroom.</span></p>
 
 <p><span class="chinese">孢子呈椭圆形，表面呈不规则突起、疣状。</span><span class="english">The spore is oval and has a warty surface.</span></p>

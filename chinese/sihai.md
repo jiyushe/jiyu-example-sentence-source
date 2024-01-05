@@ -1,5 +1,7 @@
 # 四海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihai.md)
+
 <p><span class="chinese">我和四海咋弄啊？</span><span class="english">What can Sihai and I do?</span></p>
 
 <p><span class="chinese">五绝四海云茫茫。</span><span class="english">The sea of clouds is vast.</span></p>

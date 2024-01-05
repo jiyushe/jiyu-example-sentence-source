@@ -1,5 +1,7 @@
 # 权力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanli_1.md)
+
 <p><span class="chinese">他们崇拜权力。</span><span class="english">They adored it.</span></p>
 
 <p><span class="chinese">那是在我的权力以内。</span><span class="english">It is within my power.</span></p>

@@ -1,5 +1,7 @@
 # these
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/these.md)
+
 <p><span class="chinese">这些委托人又是谁</span><span class="english">Who are these?</span></p>
 
 <p><span class="chinese">这算是罪孽吗？</span><span class="english">Are these sins?</span></p>

@@ -1,5 +1,7 @@
 # neutrality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neutrality.md)
+
 <p><span class="chinese">厂商中立。</span><span class="english">Vendor neutrality.</span></p>
 
 <p><span class="chinese">电中性原则不允许这样。</span><span class="english">Charge neutrality won't allow for it.</span></p>

@@ -1,5 +1,7 @@
 # 遥相呼应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoxianghuying.md)
+
 <p><span class="chinese">天军天使遥相呼应。</span><span class="english">From heaven in answer rang.</span></p>
 
 <p><span class="chinese">这句口号和后来的社会达尔文主义种族观几有遥相呼应之势。</span><span class="english">It struck powerful echoes in a time of social Darwinist racism.</span></p>

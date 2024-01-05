@@ -1,5 +1,7 @@
 # uncontaminated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncontaminated.md)
+
 <p><span class="chinese">一般来说，这段尿是未被污染的。</span><span class="english">As a rule this portion is uncontaminated.</span></p>
 
 <p><span class="chinese">无化学战剂存在。</span><span class="english">An uncontaminated area where there are no chemical agents present.</span></p>

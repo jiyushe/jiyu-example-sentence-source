@@ -1,5 +1,7 @@
 # 炭笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanbi.md)
+
 <p><span class="chinese">你可以用炭笔画画。</span><span class="english">You can use charcoal to draw pictures.</span></p>
 
 <p><span class="chinese">下面是一个使用稍多炭笔的示例。</span><span class="english">Here's an example with a little more charcoal.</span></p>

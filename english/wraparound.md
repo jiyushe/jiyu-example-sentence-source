@@ -1,5 +1,7 @@
 # wraparound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wraparound.md)
+
 <p><span class="chinese">面罩型太阳眼镜能为你提供额外的防护。</span><span class="english">Wraparound sunglasses provide extra defence.</span></p>
 
 <p><span class="chinese">软鞋是由概括的皮革，类似莫卡辛。</span><span class="english">The soft shoe was made of wraparound leather, similar to a moccasin.</span></p>

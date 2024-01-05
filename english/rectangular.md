@@ -1,5 +1,7 @@
 # rectangular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rectangular.md)
+
 <p><span class="chinese">未来，创造一个红色矩形框。</span><span class="english">Next, create a red rectangular box.</span></p>
 
 <p><span class="chinese">其余的都是正方形或长方形的。</span><span class="english">The rest are square or rectangular.</span></p>

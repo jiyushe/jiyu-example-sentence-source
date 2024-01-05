@@ -1,5 +1,7 @@
 # 无价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujia_2.md)
+
 <p><span class="chinese">你是无价的。</span><span class="english">You are priceless.</span></p>
 
 <p><span class="chinese">她自己就是一注无价的嫁奁。</span><span class="english">She is herself a dowry.</span></p>

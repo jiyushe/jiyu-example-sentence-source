@@ -1,5 +1,7 @@
 # 七嘴八舌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizuibashe.md)
+
 <p><span class="chinese">学生们七嘴八舌，说什么的都有，比如。</span><span class="english">What does this word mean in your eyes?</span></p>
 
 <p><span class="chinese">七嘴八舌话春晚，你最喜欢的春晚节目是什么？</span><span class="english">Which is your favorite program in the Spring Festival Gala?</span></p>

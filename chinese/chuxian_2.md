@@ -1,5 +1,7 @@
 # 出险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuxian_2.md)
+
 <p><span class="chinese">还，路易莎又遭遇两次毒杀阴谋，只是幸运出险。</span><span class="english">Meanwhile, Louisa suffered another two poison plot, a fluke of danger.</span></p>
 
 <p><span class="chinese">所保货物，如遇出险，本公司凭本保险单及其他有关证件给付赔偿。</span><span class="english">Claims, if any, payable on surrender of this Policy together with other relevant documents.</span></p>

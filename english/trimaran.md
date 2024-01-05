@@ -1,5 +1,7 @@
 # trimaran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trimaran.md)
+
 <p><span class="chinese">但是，关于三体船的深入研究还刚刚起步。</span><span class="english">In fact the comprehensive research of trimaran is just at the beginning.</span></p>
 
 <p><span class="chinese">为今后三体船在结构设计方面提供了参考。</span><span class="english">This thesis provides a reference for the trimaran structural design in the future.</span></p>

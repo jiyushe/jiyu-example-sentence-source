@@ -1,5 +1,7 @@
 # 说唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuochang.md)
+
 <p><span class="chinese">你喜欢说唱音乐吗？</span><span class="english">Do you like rap music?</span></p>
 
 <p><span class="chinese">我对说唱乐不感兴趣。</span><span class="english">I'm not very keen on Rap.</span></p>

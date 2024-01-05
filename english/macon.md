@@ -1,5 +1,7 @@
 # macon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macon.md)
+
 <p><span class="chinese">可是我们不能到梅肯去。</span><span class="english">But we couldn't be going to Macon.</span></p>
 
 <p><span class="chinese">博纳，赛布利，欧塞尔和梅森都在这里。</span><span class="english">Beaune, Chablis, Auxerre and Macon are here.</span></p>

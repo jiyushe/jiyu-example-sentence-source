@@ -1,5 +1,7 @@
 # metamorphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metamorphic.md)
+
 <p><span class="chinese">太监能做变性手术吗?。</span><span class="english">Can eunuch become metamorphic operation?</span></p>
 
 <p><span class="chinese">现在一个变性手术差不多要多少钱？</span><span class="english">How many money does a metamorphic operation want almost now?</span></p>

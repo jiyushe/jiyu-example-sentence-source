@@ -1,5 +1,7 @@
 # calorie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calorie.md)
+
 <p><span class="chinese">多少人支持低卡路里饮食</span><span class="english">How many low calorie diet?</span></p>
 
 <p><span class="chinese">卡路里的理论显然是错误的。</span><span class="english">The calorie theory is just plain wrong.</span></p>

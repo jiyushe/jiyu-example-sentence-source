@@ -1,5 +1,7 @@
 # 专题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanti.md)
+
 <p><span class="chinese">专题地图是甚麽？</span><span class="english">What are thematic maps?</span></p>
 
 <p><span class="chinese">我也喜欢专题报道这样的节目。</span><span class="english">I also like special reports.</span></p>

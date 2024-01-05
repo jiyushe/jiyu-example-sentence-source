@@ -1,5 +1,7 @@
 # riyadh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riyadh.md)
+
 <p><span class="chinese">她在利雅德法院审判中的案子不久后终结。</span><span class="english">Her case, tried in a Riyadh court, was later dropped.</span></p>
 
 <p><span class="chinese">接着，她先后访问了沙特阿拉伯的利雅得和吉达。</span><span class="english">She continued on to Riyadh and Jeddah in Saudi Arabia.</span></p>

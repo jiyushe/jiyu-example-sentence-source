@@ -1,5 +1,7 @@
 # 为伍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwu.md)
+
 <p><span class="chinese">当然，我们无需与他们为伍。</span><span class="english">We shouldn’t join them, of course.</span></p>
 
 <p><span class="chinese">他宁愿自由自在地与垃圾为伍。</span><span class="english">He preferred living freely wth rubbish.</span></p>

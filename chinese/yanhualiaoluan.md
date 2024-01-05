@@ -1,5 +1,7 @@
 # 眼花缭乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhualiaoluan.md)
+
 <p><span class="chinese">它会让人眼花缭乱吗？</span><span class="english">Would it have bedazzled people?</span></p>
 
 <p><span class="chinese">耀眼的灯光照得他眼花缭乱。</span><span class="english">The bright lights bedazzled him.</span></p>

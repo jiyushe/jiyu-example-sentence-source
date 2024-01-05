@@ -1,5 +1,7 @@
 # stomatology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stomatology.md)
+
 <p><span class="chinese">对话与鸿儒笑，没有口腔医学接触。</span><span class="english">Talk and laugh with Hongru, contacts without STOMATOLOGY.</span></p>
 
 <p><span class="chinese">但有一点，一定要选择正规医院的口腔科！</span><span class="english">But one thing must be the formal selection of stomatology hospital!</span></p>

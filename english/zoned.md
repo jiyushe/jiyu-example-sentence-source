@@ -1,5 +1,7 @@
 # zoned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoned.md)
+
 <p><span class="chinese">医院区已被划为隔离区。</span><span class="english">The hospital area has been zoned off.</span></p>
 
 <p><span class="chinese">美国和加拿大划分了邮区。</span><span class="english">And Canada are zoned for postal delivery.</span></p>

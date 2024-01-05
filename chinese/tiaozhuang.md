@@ -1,5 +1,7 @@
 # 条状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaozhuang.md)
+
 <p><span class="chinese">将芒果去皮，将果肉切成条状。</span><span class="english">Peel the mango, cut it into slivers.</span></p>
 
 <p><span class="chinese">跑道式——很像飞机起落跑道，一丝不留，但剩下一条窄窄的条状毛发。</span><span class="english">Take everything off but a narrow strip of hair.</span></p>

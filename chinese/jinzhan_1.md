@@ -1,5 +1,7 @@
 # 进站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzhan_1.md)
+
 <p><span class="chinese">一辆公交车进站了。</span><span class="english">Along comes a bus.</span></p>
 
 <p><span class="chinese">进站更换锥和弯曲车轴。</span><span class="english">Replace pitted cones and bent axles.</span></p>

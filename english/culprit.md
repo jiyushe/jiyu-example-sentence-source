@@ -1,5 +1,7 @@
 # culprit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culprit.md)
+
 <p><span class="chinese">电视是首犯。</span><span class="english">Television was the first culprit.</span></p>
 
 <p><span class="chinese">警方正在追捕肇事逃逸者</span><span class="english">Police are hunting for the hit-and-run culprit.</span></p>

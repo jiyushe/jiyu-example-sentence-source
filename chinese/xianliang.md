@@ -1,5 +1,7 @@
 # 贤良
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianliang.md)
+
 <p><span class="chinese">再说这不正是贤良的父母应该去做的吗？</span><span class="english">Isn't that what good parents are supposed to do?</span></p>
 
 <p><span class="chinese">人们常说的“贤良淑德”，就是她身上表现出来的东西吧！</span><span class="english">People often say that good shu virtuous, is what her show!</span></p>

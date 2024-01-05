@@ -1,5 +1,7 @@
 # 展览
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanlan.md)
+
 <p><span class="chinese">展览者说。</span><span class="english">Exhibitor said.</span></p>
 
 <p><span class="chinese">2010年的展览上有些新东西。</span><span class="english">We have some news for 2010.</span></p>

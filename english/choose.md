@@ -1,5 +1,7 @@
 # choose 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choose.md)
+
 <p><span class="chinese">但我选择不。</span><span class="english">I choose not.</span></p>
 
 <p><span class="chinese">如何选择投连?。</span><span class="english">How to choose ?</span></p>

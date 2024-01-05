@@ -1,5 +1,7 @@
 # phantasm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phantasm.md)
+
 <p><span class="chinese">其崇高幻像中形成她的手。</span><span class="english">Her Noble Phantasm formed in her hand.</span></p>
 
 <p><span class="chinese">她是唯一能用空想具现化的死徒。</span><span class="english">She is the only Dead Apostle who managed to use Marble Phantasm.</span></p>

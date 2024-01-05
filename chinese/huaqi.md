@@ -1,5 +1,7 @@
 # 花旗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaqi.md)
+
 <p><span class="chinese">而且，花旗集团所有员工都非常喜欢他。</span><span class="english">And he is extremely well liked at Citi.</span></p>
 
 <p><span class="chinese">并且办了张花旗银行的教育基金信用卡。</span><span class="english">I also have a Upromise credit card with Citi.</span></p>

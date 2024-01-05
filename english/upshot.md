@@ -1,5 +1,7 @@
 # upshot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upshot.md)
+
 <p><span class="chinese">凯思的预言应验了，我们该由此得出什么结论？</span><span class="english">The upshot of Kass' prediction?</span></p>
 
 <p><span class="chinese">那么这一切的结果会是什么呢？</span><span class="english">So what is the upshot of all this?</span></p>

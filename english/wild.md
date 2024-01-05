@@ -1,5 +1,7 @@
 # wild
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wild.md)
+
 <p><span class="chinese">一头野山羊。</span><span class="english">A wild goat.</span></p>
 
 <p><span class="chinese">他们吃的是野果。</span><span class="english">They eat wild fruits.</span></p>

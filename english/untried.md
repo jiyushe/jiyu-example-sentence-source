@@ -1,5 +1,7 @@
 # untried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untried.md)
+
 <p><span class="chinese">她选了两个没有经验的演员饰演主角。</span><span class="english">She chose two untried actors for the leading roles.</span></p>
 
 <p><span class="chinese">另一方面，MDB相对来说还是一种很新鲜的事物，没有经过很多的检验。</span><span class="english">On the other hand, MDBs are relatively new and untried.</span></p>

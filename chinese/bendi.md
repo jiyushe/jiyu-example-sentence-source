@@ -1,5 +1,7 @@
 # 本地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bendi.md)
+
 <p><span class="chinese">谁来为本地新闻支付费用？</span><span class="english">Who pays for local news?</span></p>
 
 <p><span class="chinese">本地配置能力。</span><span class="english">Ability to deploy natively.</span></p>

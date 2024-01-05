@@ -1,5 +1,7 @@
 # psalm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psalm.md)
+
 <p><span class="chinese">牧师喃喃地念赞美诗。</span><span class="english">The minister droned out the psalm.</span></p>
 
 <p><span class="chinese">达味诗歌，交与乐官，和以弦乐。</span><span class="english">Unto the end, in verses. A psalm of David.</span></p>

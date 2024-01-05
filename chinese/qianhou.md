@@ -1,5 +1,7 @@
 # 前后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianhou.md)
+
 <p><span class="chinese">那是1925年的圣诞前后。</span><span class="english">It was Christmastime 1925.</span></p>
 
 <p><span class="chinese">体例前后不一致。</span><span class="english">The style is inconsistent.</span></p>

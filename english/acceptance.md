@@ -1,5 +1,7 @@
 # acceptance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acceptance.md)
+
 <p><span class="chinese">他的接纳GMH.</span><span class="english">His acceptance GMH.</span></p>
 
 <p><span class="chinese">木讷的接受着亲吻。</span><span class="english">Muna acceptance of a kiss.</span></p>

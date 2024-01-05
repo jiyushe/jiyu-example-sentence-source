@@ -1,5 +1,7 @@
 # 钻探
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuantan.md)
+
 <p><span class="chinese">相反，他告诉我们去钻探。</span><span class="english">Instead, he told us to go drilling.</span></p>
 
 <p><span class="chinese">海沃德作为一名钻探地质学家于1982年加入了BP。</span><span class="english">Hayward started at BP as a rig geologist in 1982.</span></p>

@@ -1,5 +1,7 @@
 # oxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxide.md)
+
 <p><span class="chinese">二氧化铀，好了。</span><span class="english">Uranium oxide. Okay.</span></p>
 
 <p><span class="chinese">氧化镁。</span><span class="english">Magnesium oxide works.</span></p>

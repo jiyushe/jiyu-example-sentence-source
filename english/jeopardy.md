@@ -1,5 +1,7 @@
 # jeopardy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeopardy.md)
+
 <p><span class="chinese">但现在这一切都处于危险之中。</span><span class="english">All of this is now in jeopardy.</span></p>
 
 <p><span class="chinese">他还说自己的人身安全处于险境。</span><span class="english">He also said his personal safety was in jeopardy.</span></p>

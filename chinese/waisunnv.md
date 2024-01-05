@@ -1,5 +1,7 @@
 # 外孙女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waisunnv.md)
+
 <p><span class="chinese">唐纳德·特朗普添外孙女了。</span><span class="english">Donald Trump has a new grandchild.</span></p>
 
 <p><span class="chinese">她的外孙女詹妮·丽贝卡，还是艾米莉？</span><span class="english">Her granddaughter Jenny Rebecca, or is it Emily?</span></p>

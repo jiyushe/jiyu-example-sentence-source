@@ -1,5 +1,7 @@
 # 扰动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/raodong.md)
+
 <p><span class="chinese">DEMETER已经经常观测到了类似的扰动。</span><span class="english">DEMETER has very often observed similar disturbances.</span></p>
 
 <p><span class="chinese">它可以对离岸200英里的大气扰动进行监视。</span><span class="english">It provides a 200-mile look into offshore disturbances.</span></p>

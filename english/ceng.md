@@ -1,5 +1,7 @@
 # ceng
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceng.md)
+
 <p><span class="chinese">曾音却伸了个头进来。</span><span class="english">Ceng Yin was stretched head in.</span></p>
 
 <p><span class="chinese">我笑著蹭到他怀?。</span><span class="english">I smile Ceng to arrive his bosom.</span></p>

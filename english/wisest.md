@@ -1,5 +1,7 @@
 # wisest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wisest.md)
+
 <p><span class="chinese">这是他说过最有智慧的话。</span><span class="english">It's the wisest thing he ever said.</span></p>
 
 <p><span class="chinese">有时候，孩子是我们当中最聪明的。</span><span class="english">Sometimes kids are the wisest of us all.</span></p>

@@ -1,5 +1,7 @@
 # pebbly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pebbly.md)
+
 <p><span class="chinese">我每天沿着一条浅的有卵石的小溪跋涉。</span><span class="english">I wade down a shallow pebbly stream daily.</span></p>
 
 <p><span class="chinese">这个基岩开始大量的含砾砂岩。</span><span class="english">This pedestal rock began as a mass of pebbly sandstone.</span></p>

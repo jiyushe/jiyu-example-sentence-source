@@ -1,5 +1,7 @@
 # compote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compote.md)
+
 <p><span class="chinese">有黑色浆果香，香料味以及果盘的清香。</span><span class="english">Black fruit , spice and fruit compote dominate the nose.</span></p>
 
 <p><span class="chinese">喜欢的话，可以跟上适量苹果泥一起食用。</span><span class="english">Sprinkle powdered sugar and serve with apple compote if desired.</span></p>

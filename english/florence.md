@@ -1,5 +1,7 @@
 # florence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/florence.md)
+
 <p><span class="chinese">佛罗伦萨曾是一个共和国。</span><span class="english">Florence was a republic.</span></p>
 
 <p><span class="chinese">我们还需要1450年佛罗伦萨的氛围。</span><span class="english">You also need Florence in 1450.</span></p>

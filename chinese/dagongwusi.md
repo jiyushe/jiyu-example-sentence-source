@@ -1,5 +1,7 @@
 # 大公无私
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dagongwusi.md)
+
 <p><span class="chinese">他体贴温柔，大公无私。</span><span class="english">He’s very thoughtful and unselfish.</span></p>
 
 <p><span class="chinese">我不可能做到大公无私。</span><span class="english">It is impossible for me to be impartial.</span></p>

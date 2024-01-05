@@ -1,5 +1,7 @@
 # altogether
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/altogether.md)
+
 <p><span class="chinese">或者完全忘掉了。</span><span class="english">Or missed it altogether.</span></p>
 
 <p><span class="chinese">我们统共10个人。</span><span class="english">We're altogether ten people.</span></p>

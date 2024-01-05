@@ -1,5 +1,7 @@
 # sobbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sobbing.md)
+
 <p><span class="chinese">我不由得呜呜咽咽地哭起来。</span><span class="english">I broke out crying and sobbing.</span></p>
 
 <p><span class="chinese">她听见地下室传来的哭泣声。</span><span class="english">She heard sobbing from the basement.</span></p>

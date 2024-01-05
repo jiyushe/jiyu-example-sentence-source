@@ -1,5 +1,7 @@
 # herbaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herbaceous.md)
+
 <p><span class="chinese">Mucuna是一种草本类蔬菜。</span><span class="english">Mucuna is a herbaceous vegetable.</span></p>
 
 <p><span class="chinese">清新的迷迭香，青香，凉气，药草。</span><span class="english">Fresh rosemary, green, cooling, herbaceous.</span></p>

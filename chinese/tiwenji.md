@@ -1,5 +1,7 @@
 # 体温计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiwenji.md)
+
 <p><span class="chinese">把体温计放到嘴里。</span><span class="english">Put a thermometer in the mouth.</span></p>
 
 <p><span class="chinese">哦，我知道了，给我体温计看一下。</span><span class="english">Oh, Iknow. Give me the thermometer.</span></p>

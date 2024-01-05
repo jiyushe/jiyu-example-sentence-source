@@ -1,5 +1,7 @@
 # alkyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkyl.md)
+
 <p><span class="chinese">卤化烷与亚硝酸钠反应。</span><span class="english">Alkyl halides are reacted with sodium nitrite.</span></p>
 
 <p><span class="chinese">解决这一问题的一般办法是避免使用烷基卤。</span><span class="english">The general answer to this problem is to avoid alkyl halides.</span></p>

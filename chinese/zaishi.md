@@ -1,5 +1,7 @@
 # 在世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaishi.md)
+
 <p><span class="chinese">我也交给他们一个在世上的使命。</span><span class="english">I give them a mission in the world.</span></p>
 
 <p><span class="chinese">也可在世卫组织网页上读取。</span><span class="english">It is also available on the WHO website.</span></p>

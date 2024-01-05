@@ -1,5 +1,7 @@
 # 整齐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengqi_1.md)
+
 <p><span class="chinese">他们整齐有序.</span><span class="english">They are in order.</span></p>
 
 <p><span class="chinese">他总是穿戴整齐。</span><span class="english">He always dresses neatly.</span></p>

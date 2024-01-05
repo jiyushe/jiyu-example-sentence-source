@@ -1,5 +1,7 @@
 # outfox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outfox.md)
+
 <p><span class="chinese">她会轻易地瞒过他。</span><span class="english">She can easily outfox him.</span></p>
 
 <p><span class="chinese">有没有人知道如何战胜命运呢？</span><span class="english">Does anyone know how to outfox destiny?</span></p>

@@ -1,5 +1,7 @@
 # intaglio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intaglio.md)
+
 <p><span class="chinese">是一种间接凹版的方法。</span><span class="english">It is an indirect intaglio printing process.</span></p>
 
 <p><span class="chinese">凹版制卡和会员卡制作。</span><span class="english">Intaglio business card printing and membership card.</span></p>

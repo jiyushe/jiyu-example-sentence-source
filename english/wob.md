@@ -1,5 +1,7 @@
 # wob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wob.md)
+
 <p><span class="chinese">当转速一定时，提高钻压不利于防斜打直。</span><span class="english">The increased WOB is not good for deviation control.</span></p>
 
 <p><span class="chinese">钻头使用初期要慢一点转，钻压要低一点。</span><span class="english">Slow RPM and light WOB are needed in drilling with a new bit at the beginning.</span></p>

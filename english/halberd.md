@@ -1,5 +1,7 @@
 # halberd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halberd.md)
+
 <p><span class="chinese">奥博德夏戟兵是身穿板甲的丹麦精锐部队。</span><span class="english">Skilled Danish halberd unit armoured in plate armour.</span></p>
 
 <p><span class="chinese">在地上的杂物间，你发现一柄迅捷戟。</span><span class="english">Among the rubbish, you find a Halberd of the Swiftwatch.</span></p>

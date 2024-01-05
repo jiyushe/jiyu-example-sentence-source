@@ -1,5 +1,7 @@
 # ataxia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ataxia.md)
+
 <p><span class="chinese">这些症状之后就是共济失调。</span><span class="english">These signs are followed by ataxia.</span></p>
 
 <p><span class="chinese">该疾病自幼犬期发病并导致渐进性共济失调。</span><span class="english">It results in progressive ataxia beginning at a young age.</span></p>

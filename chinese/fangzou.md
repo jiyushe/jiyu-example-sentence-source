@@ -1,5 +1,7 @@
 # 放走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangzou.md)
+
 <p><span class="chinese">他放走了白雪。</span><span class="english">He let Snow go.</span></p>
 
 <p><span class="chinese">他把老鼠放走了。</span><span class="english">He sets Mouse free.</span></p>

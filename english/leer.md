@@ -1,5 +1,7 @@
 # leer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leer.md)
+
 <p><span class="chinese">乐儿安慰着他。</span><span class="english">LeEr comfort him.</span></p>
 
 <p><span class="chinese">她父亲懒懒的瞥了她一眼。</span><span class="english">Her father gave a lazy leer.</span></p>

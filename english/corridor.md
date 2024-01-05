@@ -1,5 +1,7 @@
 # corridor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corridor.md)
+
 <p><span class="chinese">她消失在走廊尽头。</span><span class="english">She disappeared down the corridor.</span></p>
 
 <p><span class="chinese">对呀。这串楼有上下两层。</span><span class="english">Yes. This corridor has two stories.</span></p>

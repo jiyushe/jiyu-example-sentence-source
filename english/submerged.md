@@ -1,5 +1,7 @@
 # submerged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submerged.md)
+
 <p><span class="chinese">然后，他又潜入了水下。</span><span class="english">Then he submerged again.</span></p>
 
 <p><span class="chinese">船身只有一半浸在水里。</span><span class="english">A ship is only half submerged.</span></p>

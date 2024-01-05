@@ -1,5 +1,7 @@
 # pariah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pariah.md)
+
 <p><span class="chinese">它变成了一个贱民。</span><span class="english">It became a pariah.</span></p>
 
 <p><span class="chinese">中国就是个卖祖求荣的贱民嘛。</span><span class="english">China is a pariah and would sell their own mother.</span></p>

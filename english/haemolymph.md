@@ -1,5 +1,7 @@
 # haemolymph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haemolymph.md)
+
 <p><span class="chinese">海藻糖酶活性在侵染初期也明显降低。</span><span class="english">The activity of haemolymph trehalase also decreased in infected silkworm.</span></p>
 
 <p><span class="chinese">血淋巴中阳离子水平受阳离子外泌的控制。</span><span class="english">The haemolymph cation levels were held by controlled excretion of the cations.</span></p>

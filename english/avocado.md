@@ -1,5 +1,7 @@
 # avocado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avocado.md)
+
 <p><span class="chinese">牛油树成长了！</span><span class="english">Grow an Avocado Tree!</span></p>
 
 <p><span class="chinese">我每天吃半个鳄梨。</span><span class="english">I eat half an avocado every day.</span></p>

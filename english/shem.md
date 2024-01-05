@@ -1,5 +1,7 @@
 # shem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shem.md)
+
 <p><span class="chinese">愿迦南作闪的奴仆。</span><span class="english">May Canaan be the slave of Shem.</span></p>
 
 <p><span class="chinese">拉玛的儿子是示巴，底但。</span><span class="english">Shem was the ancestor of all the sons of Eber.</span></p>

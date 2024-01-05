@@ -1,5 +1,7 @@
 # 一言为定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyanweiding.md)
+
 <p><span class="chinese">好！一言为定。</span><span class="english">Ok, it's a deal.</span></p>
 
 <p><span class="chinese">我向你保证，一言为定。</span><span class="english">I give you my word.</span></p>

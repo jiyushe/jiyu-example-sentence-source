@@ -1,5 +1,7 @@
 # 旧事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiushi_1.md)
+
 <p><span class="chinese">他们旧事重提，揭开了旧的伤痕。</span><span class="english">Their redux reopens old wounds.</span></p>
 
 <p><span class="chinese">六朝旧事，一江流水，万感天涯暮。</span><span class="english">The Six Dynasties, river water, Tianya million mu.</span></p>

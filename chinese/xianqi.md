@@ -1,5 +1,7 @@
 # 先期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianqi.md)
+
 <p><span class="chinese">但是，苹果电脑的先期成本更高。</span><span class="english">But Apple computers cost more upfront.</span></p>
 
 <p><span class="chinese">是否进行电镀的先期质量策划？</span><span class="english">Does the plater perform advanced quality planning?</span></p>

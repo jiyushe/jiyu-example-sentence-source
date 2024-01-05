@@ -1,5 +1,7 @@
 # 争光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengguang.md)
+
 <p><span class="chinese">我们培养孩子，也是要为国争光！</span><span class="english">We raise our children to bring glory to the country!</span></p>
 
 <p><span class="chinese">他在科学上的贡献为我们国家争光。</span><span class="english">His contributions to science do honor to our country.</span></p>

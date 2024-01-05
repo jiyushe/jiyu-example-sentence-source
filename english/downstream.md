@@ -1,5 +1,7 @@
 # downstream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downstream.md)
+
 <p><span class="chinese">我们漂向了下游。</span><span class="english">We had drifted downstream.</span></p>
 
 <p><span class="chinese">鲑鳟鱼斜向地顺流而下。</span><span class="english">The trout angled downstream.</span></p>

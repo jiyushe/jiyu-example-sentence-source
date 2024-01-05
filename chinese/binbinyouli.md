@@ -1,5 +1,7 @@
 # 彬彬有礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binbinyouli.md)
+
 <p><span class="chinese">听了这话，女推销员彬彬有礼地报以微笑。</span><span class="english">The salesgirl smiled politely.</span></p>
 
 <p><span class="chinese">他对我彬彬有礼地鞠了一躬。</span><span class="english">He made a very civil bow to me.</span></p>

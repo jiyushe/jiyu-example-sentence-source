@@ -1,5 +1,7 @@
 # scarves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scarves.md)
+
 <p><span class="chinese">那些丝巾真漂亮。</span><span class="english">Those silk scarves are lovely.</span></p>
 
 <p><span class="chinese">这些丝巾产自于义大利。</span><span class="english">These silk scarves are made in Italy.</span></p>

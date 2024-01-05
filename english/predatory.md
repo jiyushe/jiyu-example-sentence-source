@@ -1,5 +1,7 @@
 # predatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predatory.md)
+
 <p><span class="chinese">这种算法被称为掠夺交易。</span><span class="english">This is called predatory trading.</span></p>
 
 <p><span class="chinese">掠夺成性的女暴发户们的客厅。</span><span class="english">The drawing-rooms of predatory new-rich women.</span></p>

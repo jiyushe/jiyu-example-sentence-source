@@ -1,5 +1,7 @@
 # necessitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necessitous.md)
+
 <p><span class="chinese">‘贫穷的人就是没有自由的人。’</span><span class="english">Necessitous men are not free men.</span></p>
 
 <p><span class="chinese">这是最急需的项目。</span><span class="english">It is the most necessitous project.</span></p>

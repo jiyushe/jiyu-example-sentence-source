@@ -1,5 +1,7 @@
 # cookies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cookies.md)
+
 <p><span class="chinese">烘烤饼干。</span><span class="english">Bake cookies.</span></p>
 
 <p><span class="chinese">我喜欢曲奇。</span><span class="english">I love cookies.</span></p>

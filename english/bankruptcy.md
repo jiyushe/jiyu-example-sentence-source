@@ -1,5 +1,7 @@
 # bankruptcy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bankruptcy.md)
+
 <p><span class="chinese">他因破产而身心交瘁。</span><span class="english">The bankruptcy curled him up.</span></p>
 
 <p><span class="chinese">通用较不反对声请破产了吗?</span><span class="english">GM LESS OPPOSED TO BANKRUPTCY?</span></p>

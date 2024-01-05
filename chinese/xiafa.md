@@ -1,5 +1,7 @@
 # 下发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiafa.md)
+
 <p><span class="chinese">侵略者在雾色的掩护下发起了进攻。</span><span class="english">The invaders attacked under a cloak of fog.</span></p>
 
 <p><span class="chinese">我已经下发了一个包含考试信息的纸张。</span><span class="english">So I've handed out an information sheet about it.</span></p>

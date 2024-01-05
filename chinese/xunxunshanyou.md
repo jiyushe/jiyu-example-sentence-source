@@ -1,5 +1,7 @@
 # 循循善诱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunxunshanyou.md)
+
 <p><span class="chinese">循循善诱，诲人不倦的是老师。</span><span class="english">Coaxing, teaching is a teacher.</span></p>
 
 <p><span class="chinese">她循循善诱地劝他改掉坏脾气。</span><span class="english">She coaxed him out of his bad temper.</span></p>

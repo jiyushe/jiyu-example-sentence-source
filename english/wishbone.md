@@ -1,5 +1,7 @@
 # wishbone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wishbone.md)
+
 <p><span class="chinese">向如愿骨许愿是一项古老的习俗。</span><span class="english">Wishing upon a wishbone is an ancient custom.</span></p>
 
 <p><span class="chinese">铝臂支架和偏心轴套。</span><span class="english">Aluminium wishbone braces and eccentric bushings.</span></p>

@@ -1,5 +1,7 @@
 # phobic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phobic.md)
+
 <p><span class="chinese">数学恐惧症没什么大不了的</span><span class="english">It's fine to be math phobic.</span></p>
 
 <p><span class="chinese">我害怕很多东西</span><span class="english">I'm phobic of all sorts of things.</span></p>

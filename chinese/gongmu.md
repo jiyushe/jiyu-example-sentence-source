@@ -1,5 +1,7 @@
 # 公墓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongmu.md)
+
 <p><span class="chinese">烈士被葬在公墓。</span><span class="english">The martyr lies in the cemetery.</span></p>
 
 <p><span class="chinese">她父亲安葬在一处公墓。</span><span class="english">Her father was laid in a cemetery.</span></p>

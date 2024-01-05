@@ -1,5 +1,7 @@
 # gall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gall.md)
+
 <p><span class="chinese">使山谷上下为之喜悦?。</span><span class="english">Making gall the vales rejoice?</span></p>
 
 <p><span class="chinese">左膝关节为何无名肿痛？</span><span class="english">Left knee joint why anonymous gall?</span></p>

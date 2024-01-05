@@ -1,5 +1,7 @@
 # 延伸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshen.md)
+
 <p><span class="chinese">这是一个延伸。</span><span class="english">That is a stretch.</span></p>
 
 <p><span class="chinese">海岸线向南延伸。</span><span class="english">The coastline bent south.</span></p>

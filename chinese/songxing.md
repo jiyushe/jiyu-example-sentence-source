@@ -1,5 +1,7 @@
 # 送行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songxing.md)
+
 <p><span class="chinese">谢谢你来为我送行。</span><span class="english">Thank you for coming to see me off.</span></p>
 
 <p><span class="chinese">我们去车站为她送行。</span><span class="english">We went to the station to see her off.</span></p>

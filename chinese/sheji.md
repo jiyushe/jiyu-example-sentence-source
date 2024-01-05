@@ -1,5 +1,7 @@
 # 射击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheji.md)
+
 <p><span class="chinese">混蛋射击我！</span><span class="english">Varmint shot me!</span></p>
 
 <p><span class="chinese">他们向船射击。</span><span class="english">They shot at the ship.</span></p>

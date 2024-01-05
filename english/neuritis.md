@@ -1,5 +1,7 @@
 # neuritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuritis.md)
+
 <p><span class="chinese">如何治疗末梢神经炎谢谢！！！</span><span class="english">How to treat end neuritis thank! ! !</span></p>
 
 <p><span class="chinese">什么药治疗肋间神经炎？</span><span class="english">What medicine treats the neuritis between costal region?</span></p>

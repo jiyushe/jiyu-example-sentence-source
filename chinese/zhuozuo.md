@@ -1,5 +1,7 @@
 # 拙作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuozuo.md)
+
 <p><span class="chinese">有些是拙作，而有些则使他成为最伟大的作家。</span><span class="english">Some are flops and some make him the greatest writer.</span></p>
 
 <p><span class="chinese">这是拙作，敬请指正。</span><span class="english">Here's my book. I respectfully request that you point out the mistakes.</span></p>

@@ -1,5 +1,7 @@
 # volga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volga.md)
+
 <p><span class="chinese">伏尔加酒店建设场景。</span><span class="english">Volga Hotel construction.</span></p>
 
 <p><span class="chinese">孩子们在伏尔加河上旅行。</span><span class="english">Children travelling to Moscow on Volga river.</span></p>

@@ -1,5 +1,7 @@
 # beautifully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beautifully.md)
+
 <p><span class="chinese">这块丝绢有美丽的褶皱。</span><span class="english">This silk drapes beautifully.</span></p>
 
 <p><span class="chinese">但画面看起来美极了。</span><span class="english">But it turned out beautifully.</span></p>

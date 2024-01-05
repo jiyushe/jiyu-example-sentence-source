@@ -1,5 +1,7 @@
 # choppy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choppy.md)
+
 <p><span class="chinese">大海开始变得波涛起伏。</span><span class="english">The sea began getting choppy.</span></p>
 
 <p><span class="chinese">所有这些折磨着脑袋，就如小船在大洋风浪中般无助。</span><span class="english">All these events toss the mind like a boat on a choppy ocean.</span></p>

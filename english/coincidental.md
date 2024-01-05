@@ -1,5 +1,7 @@
 # coincidental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coincidental.md)
+
 <p><span class="chinese">有一种萍水相逢叫美丽。</span><span class="english">A coincidental meeting can be beauty.</span></p>
 
 <p><span class="chinese">然而，许多不良事件属于偶合病状。</span><span class="english">Many events are, however, coincidental medical conditions.</span></p>

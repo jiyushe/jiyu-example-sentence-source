@@ -1,5 +1,7 @@
 # exultant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exultant.md)
+
 <p><span class="chinese">他发出了狂欢的喊叫。</span><span class="english">He gave an exultant shout.</span></p>
 
 <p><span class="chinese">他发出狂欢的呼喊。</span><span class="english">He give an exultant shout.</span></p>

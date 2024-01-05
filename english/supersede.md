@@ -1,5 +1,7 @@
 # supersede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supersede.md)
+
 <p><span class="chinese">我办公室中的任何一个人都可以接替你的经理职务。</span><span class="english">Any one could supersede you as manager in my office.</span></p>
 
 <p><span class="chinese">今后，机器人必将取代人类的繁重劳动。</span><span class="english">In the future, robots will supersede human beings for very heavy work.</span></p>

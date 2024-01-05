@@ -1,5 +1,7 @@
 # peridot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peridot.md)
+
 <p><span class="chinese">主要以批发销售橄榄石原料及成品为主。</span><span class="english">Peridot raw material and Peridot finished product.</span></p>
 
 <p><span class="chinese">裂纹翠榄石对应黄色或蓝色插槽。</span><span class="english">Jagged Deep Peridot Matches a Yellow or Blue Socket.</span></p>

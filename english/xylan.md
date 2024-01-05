@@ -1,5 +1,7 @@
 # xylan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xylan.md)
+
 <p><span class="chinese">木聚糖和木质素生物油产量较低，表现出较好的热稳定性。</span><span class="english">The bio-oil from xylan and lignin shows a higher thermal stability.</span></p>
 
 <p><span class="chinese">目前安全有效的方法就是通过生物技术即利用木聚糖酶降解木聚糖。</span><span class="english">Xylanase degradation of xylan is the most safe and effective method at present.</span></p>

@@ -1,5 +1,7 @@
 # psychotherapist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychotherapist.md)
+
 <p><span class="chinese">与心理医生谈话是解除他许多忧虑和深藏的愤怒的方法。</span><span class="english">Talking to a psychotherapist was a way of unburdening himself of a lot of worries and buried anger.</span></p>
 
 <p><span class="chinese">如果这些方法都没有用，你仍然感觉到自己有压力，那就去见一个专业顾问或心理咨询师。</span><span class="english">If none of these tricks work and you still find yourself stressed, see a professional counselor or psychotherapist.</span></p>

@@ -1,5 +1,7 @@
 # reluctantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reluctantly.md)
+
 <p><span class="chinese">“是的”我勉强的承认。</span><span class="english">“Yes, ” I admit reluctantly.</span></p>
 
 <p><span class="chinese">她勉强地举起手来。</span><span class="english">She upheld her hand reluctantly.</span></p>

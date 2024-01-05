@@ -1,5 +1,7 @@
 # triode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triode.md)
+
 <p><span class="chinese">三极管能升高电压。</span><span class="english">The triode steps up voltage.</span></p>
 
 <p><span class="chinese">外加阳极就构成了三极管。</span><span class="english">Extra anode was added to make up a triode.</span></p>

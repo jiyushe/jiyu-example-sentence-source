@@ -1,5 +1,7 @@
 # 演化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhua.md)
+
 <p><span class="chinese">它们共同演化。</span><span class="english">They evolved together.</span></p>
 
 <p><span class="chinese">这就是技术演化的一部分。</span><span class="english">It\'s part of the evolution.</span></p>

@@ -1,5 +1,7 @@
 # reorientation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reorientation.md)
+
 <p><span class="chinese">基督教信仰却通过‘重新定位’解决了这一历史难题。</span><span class="english">Christianity answers this historical challenge by reorientation.</span></p>
 
 <p><span class="chinese">英语教师的角色再定位要注意四个方面。</span><span class="english">Four aspects should be paid attention to in the role reorientation of teachers of English.</span></p>

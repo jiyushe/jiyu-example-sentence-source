@@ -1,5 +1,7 @@
 # trigonometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trigonometry.md)
+
 <p><span class="chinese">他的三角学分数很低。</span><span class="english">He received a low mark for trigonometry.</span></p>
 
 <p><span class="chinese">球面三角学向量法。</span><span class="english">Vector approach to spherical trigonometry.</span></p>

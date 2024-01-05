@@ -1,5 +1,7 @@
 # 告假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojia.md)
+
 <p><span class="chinese">去看看大夫吧，我帮你告假。</span><span class="english">Go to the doctor nd I'll sk leve for you.</span></p>
 
 <p><span class="chinese">得到老师允许，他告假两天。</span><span class="english">He took two days off within the teacher's permission.</span></p>

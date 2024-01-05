@@ -1,5 +1,7 @@
 # loader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loader.md)
+
 <p><span class="chinese">什么是引导加载程序？</span><span class="english">What is a boot loader?</span></p>
 
 <p><span class="chinese">载入器返回1退出当前状态。</span><span class="english">Loader returned 1 exit status.</span></p>

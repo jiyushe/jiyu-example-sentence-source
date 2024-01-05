@@ -1,5 +1,7 @@
 # 铅中毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzhongdu.md)
+
 <p><span class="chinese">铅中毒会引起视觉失认吗?。</span><span class="english">Can lead poisoning cause visual agnosia?</span></p>
 
 <p><span class="chinese">浙江一锡箔作坊600人铅中毒。</span><span class="english">Lead poisoning sickens 600 in East China.</span></p>

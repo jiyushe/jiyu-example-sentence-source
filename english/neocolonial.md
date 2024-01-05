@@ -1,5 +1,7 @@
 # neocolonial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neocolonial.md)
+
 <p><span class="chinese">他把美国军队看作新殖民主义的占领工具。</span><span class="english">He came to view America's military as an instrument of neocolonial occupation.</span></p>
 
 <p><span class="chinese">这场斗争是一剂混杂着对新殖民主义和经济动荡愤恨不平的混合毒药。</span><span class="english">The struggle is an unusually toxic mix of neocolonial resentment and economic unrest.</span></p>

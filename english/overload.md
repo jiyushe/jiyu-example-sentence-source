@@ -1,5 +1,7 @@
 # overload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overload.md)
+
 <p><span class="chinese">他们提供超量的数据。</span><span class="english">They provided an overload of data.</span></p>
 
 <p><span class="chinese">马达附有过负荷保护装置。</span><span class="english">Motor comes with overload protector.</span></p>

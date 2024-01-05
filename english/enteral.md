@@ -1,5 +1,7 @@
 # enteral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enteral.md)
+
 <p><span class="chinese">而肠内营养更符合人体生理特性。</span><span class="english">Further more, enteral nutrition more accord with peoples physiology.</span></p>
 
 <p><span class="chinese">截至目前这个概念是不充分的研究肠内营养。</span><span class="english">Up to now this concept is not studied adequately for enteral nutrition.</span></p>

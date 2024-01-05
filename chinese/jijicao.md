@@ -1,5 +1,7 @@
 # 芨芨草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijicao.md)
+
 <p><span class="chinese">芨芨草的斗鱼都有不同的颜色和图案。</span><span class="english">Each of the betta splendens have different colors and patterns.</span></p>
 
 <p><span class="chinese">斑块的大小和数量在一定程度上反应了芨芨草群落的退化状况。</span><span class="english">The number and size of patches may reflect the degradation of A. splendens community.</span></p>

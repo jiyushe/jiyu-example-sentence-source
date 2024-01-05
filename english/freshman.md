@@ -1,5 +1,7 @@
 # freshman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freshman.md)
+
 <p><span class="chinese">我是普林斯顿大学一年级的一名新生。</span><span class="english">I'm a freshman at Princeton.</span></p>
 
 <p><span class="chinese">这是大一新生的必修课吗？</span><span class="english">Is it required for freshman?</span></p>

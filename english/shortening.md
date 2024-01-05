@@ -1,5 +1,7 @@
 # shortening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortening.md)
+
 <p><span class="chinese">试着在奔跑的时候缩短步幅。</span><span class="english">Try shortening your stride when you run.</span></p>
 
 <p><span class="chinese">摆在前面的道路是一天天变短的。</span><span class="english">The road ahead was shortening by the day.</span></p>

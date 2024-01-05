@@ -1,5 +1,7 @@
 # 百战百胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baizhanbaisheng.md)
+
 <p><span class="chinese">疗肝脏疾病，百战百胜！</span><span class="english">Cure liver disease, ever victorious !</span></p>
 
 <p><span class="chinese">这种心理战术运用得当，无不百战百胜。</span><span class="english">This psychological tactics used properly, without the.</span></p>

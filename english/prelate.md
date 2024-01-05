@@ -1,5 +1,7 @@
 # prelate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prelate.md)
+
 <p><span class="chinese">法兰克诗人和查理曼宫廷的高级教士。</span><span class="english">Frankish poet and prelate at the court of Charlemagne.</span></p>
 
 <p><span class="chinese">没有人会是一个民间的主，一个总主教或主教，而他是在大罪。</span><span class="english">Nobody is a civil lord, a prelate or a bishop while he is in mortal sin.</span></p>

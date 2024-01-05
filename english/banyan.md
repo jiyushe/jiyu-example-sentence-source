@@ -1,5 +1,7 @@
 # banyan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banyan.md)
+
 <p><span class="chinese">那么为什么选榕树呢？</span><span class="english">So why Banyan?</span></p>
 
 <p><span class="chinese">你说的就是这棵大榕树啊？</span><span class="english">You mean this huge banyan tree?</span></p>

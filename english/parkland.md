@@ -1,5 +1,7 @@
 # parkland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parkland.md)
+
 <p><span class="chinese">我们柏龄校园有一个壮观的海滨位置容易到达的一个充满活力的城市。</span><span class="english">Our parkland campus has a spectacular seafront location within easy reach of a vibrant city.</span></p>
 
 <p><span class="chinese">斯旺西大学是一套轧钢柏龄俯瞰雄伟壮观横扫斯旺西海湾。</span><span class="english">Swansea University is set in rolling parkland overlooking the majestic sweep of Swansea Bay.</span></p>

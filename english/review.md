@@ -1,5 +1,7 @@
 # review
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/review.md)
+
 <p><span class="chinese">回顾你的一天。</span><span class="english">Review your day.</span></p>
 
 <p><span class="chinese">不需要审查。</span><span class="english">No review needed.</span></p>

@@ -1,5 +1,7 @@
 # 无赖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wulai.md)
+
 <p><span class="chinese">这无赖！</span><span class="english">Ah! The rascal!</span></p>
 
 <p><span class="chinese">这是十足的无赖作风。</span><span class="english">This is flat knavery.</span></p>

@@ -1,5 +1,7 @@
 # 轻生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingsheng_1.md)
+
 <p><span class="chinese">他感到悲观绝望，随时都会轻生。</span><span class="english">He was feeling black and ready to do himself in.</span></p>
 
 <p><span class="chinese">他们不相信自己的儿子会轻生。</span><span class="english">They don't believe their son would have taken his life.</span></p>

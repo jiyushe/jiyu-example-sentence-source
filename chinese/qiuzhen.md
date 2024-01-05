@@ -1,5 +1,7 @@
 # 丘疹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuzhen.md)
+
 <p><span class="chinese">不要紧压也不要采摘在丘疹。</span><span class="english">Do not squeeze or pick at the pimples.</span></p>
 
 <p><span class="chinese">斑丘疹这一术语应禁用。</span><span class="english">The term maculopapular should not be used.</span></p>

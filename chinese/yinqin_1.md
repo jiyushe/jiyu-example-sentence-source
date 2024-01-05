@@ -1,5 +1,7 @@
 # 殷勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinqin_1.md)
+
 <p><span class="chinese">他殷勤地侍候她。</span><span class="english">He danced attendance on her.</span></p>
 
 <p><span class="chinese">作者也不总是那么殷勤。</span><span class="english">Vogel is not always officious.</span></p>

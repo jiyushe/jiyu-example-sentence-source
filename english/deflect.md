@@ -1,5 +1,7 @@
 # deflect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deflect.md)
+
 <p><span class="chinese">转移或者回避敏感话题。</span><span class="english">Deflect or evade the sensitive ones.</span></p>
 
 <p><span class="chinese">该梁将弯成一个圆弧。</span><span class="english">The beam will deflect into a circular arc.</span></p>

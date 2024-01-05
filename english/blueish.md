@@ -1,5 +1,7 @@
 # blueish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blueish.md)
+
 <p><span class="chinese">颜色是类似蓝色的那种。</span><span class="english">That color is blueish.</span></p>
 
 <p><span class="chinese">皮肤将会由红色变得苍白或者发蓝。</span><span class="english">Your skin will change from red to pale or blueish.</span></p>

@@ -1,5 +1,7 @@
 # duchenne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duchenne.md)
+
 <p><span class="chinese">本发明涉及一种治疗杜兴氏肌营养不良疾病的药物。</span><span class="english">The present invention is one medicine for treating Duchenne muscular dystrophy.</span></p>
 
 <p><span class="chinese">有趣的是只有十分之一的人,可以伪装真正的微笑。</span><span class="english">What's interesting is about only one out of every ten people can fake a Duchenne smile.</span></p>

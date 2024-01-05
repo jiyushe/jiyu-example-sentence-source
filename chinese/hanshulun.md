@@ -1,5 +1,7 @@
 # 函数论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanshulun.md)
+
 <p><span class="chinese">的函数论方法与亏指标理论。</span><span class="english">Tichmarsh's functional method and the deficiency index theory.</span></p>
 
 <p><span class="chinese">赋环空间是几何函数论的最新发展。</span><span class="english">The ringed space is a recent development of the geometric function theory.</span></p>

@@ -1,5 +1,7 @@
 # cogency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cogency.md)
+
 <p><span class="chinese">欧盟委员会建议的背后还有一些深层次的原因。</span><span class="english">Still, the underlying reasons for it have some cogency.</span></p>
 
 <p><span class="chinese">这个概念本身的中肯性,也存在着问题。</span><span class="english">there is the problem with the very cogency of the idea itself.</span></p>

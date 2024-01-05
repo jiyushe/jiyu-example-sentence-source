@@ -1,5 +1,7 @@
 # passional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passional.md)
+
 <p><span class="chinese">然而，他却有一颗火热的心。</span><span class="english">However, he has a passional heart.</span></p>
 
 <p><span class="chinese">自己是一个热情地女孩，喜好乐于助人。</span><span class="english">I am a passional girl with warm and kind heart.</span></p>

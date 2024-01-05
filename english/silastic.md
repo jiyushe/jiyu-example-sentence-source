@@ -1,5 +1,7 @@
 # silastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silastic.md)
+
 <p><span class="chinese">铝压铸外壳，硅橡胶密封圈，钢化玻璃。</span><span class="english">Die cast aluminum housing, Silastic ring, Tempered glass.</span></p>
 
 <p><span class="chinese">同时，主要由硅橡胶制作的胸罩呈细网结构。</span><span class="english">The bra produced mainly with silastic has fine netted structure.</span></p>

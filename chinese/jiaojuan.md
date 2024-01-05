@@ -1,5 +1,7 @@
 # 交卷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojuan.md)
+
 <p><span class="chinese">我们必须现在交卷吗？</span><span class="english">Must we hand in our papers now?</span></p>
 
 <p><span class="chinese">期中考试限两小时交卷。</span><span class="english">Two hours were allowed for the final examination.</span></p>

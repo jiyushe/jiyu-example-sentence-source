@@ -1,5 +1,7 @@
 # 苗子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaozi.md)
+
 <p><span class="chinese">我是极好的苗子。</span><span class="english">I am a perfect candidate.</span></p>
 
 <p><span class="chinese">谁是真正的王位苗子?。</span><span class="english">Who was the true heir to the throne?</span></p>

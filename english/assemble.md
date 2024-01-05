@@ -1,5 +1,7 @@
 # assemble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assemble.md)
+
 <p><span class="chinese">组装准备铜焊的部件。</span><span class="english">Assemble parts to be brazed.</span></p>
 
 <p><span class="chinese">召集对于计划的支持。</span><span class="english">Assemble support for the plan.</span></p>

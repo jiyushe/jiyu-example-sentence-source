@@ -1,5 +1,7 @@
 # permissibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permissibility.md)
+
 <p><span class="chinese">具有耐振性、防盗性、防爆性、防弹性。</span><span class="english">It possesses resistance to vibration, guard against theft, permissibility and bulletproof ability.</span></p>
 
 <p><span class="chinese">例如对同性恋的道德容许度的问题，关于把婚姻的目的作为一个社会惯例。</span><span class="english">About the moral permissibility of homosexuality. About the proper ends of marriage as a social institution.</span></p>

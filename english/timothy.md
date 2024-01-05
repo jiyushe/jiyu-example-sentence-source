@@ -1,5 +1,7 @@
 # timothy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timothy.md)
+
 <p><span class="chinese">那男孩的名叫威伦。</span><span class="english">The boy's name is Timothy.</span></p>
 
 <p><span class="chinese">一系列黄东明摄影作品。</span><span class="english">A series of Timothy Huang's photographs.</span></p>

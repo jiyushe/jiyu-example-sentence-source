@@ -1,5 +1,7 @@
 # pneumothorax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pneumothorax.md)
+
 <p><span class="chinese">张力性气胸的表现是什么？</span><span class="english">The performance of tension pneumothorax What is this?</span></p>
 
 <p><span class="chinese">气胸是此类疾病最常见的症状。</span><span class="english">Pneumothorax is the most common presentation of this disorder.</span></p>

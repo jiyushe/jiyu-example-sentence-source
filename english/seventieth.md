@@ -1,5 +1,7 @@
 # seventieth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seventieth.md)
+
 <p><span class="chinese">他们祝贺他七十岁寿辰。</span><span class="english">They congratulated him on his seventieth birthday.</span></p>
 
 <p><span class="chinese">后天是父亲的七十岁生日。</span><span class="english">The day after tomorrow is father's seventieth birthday.</span></p>

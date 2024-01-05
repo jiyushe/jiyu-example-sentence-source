@@ -1,5 +1,7 @@
 # parataxis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parataxis.md)
+
 <p><span class="chinese">同素逆序借代词大多数属于并列式结构，以名词居多。</span><span class="english">They are mostly parataxis and most of them are nouns.</span></p>
 
 <p><span class="chinese">第三章讨论形合和意合在英汉和汉英翻译中的应用。</span><span class="english">The relativity of hypotaxis and parataxis is also discussed in this chapter.</span></p>

@@ -1,5 +1,7 @@
 # scaphoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scaphoid.md)
+
 <p><span class="chinese">先天性舟状骨裂是很罕见的病例。</span><span class="english">Congenital bipartite scaphoid is a very rare condition.</span></p>
 
 <p><span class="chinese">舟状骨缺血性坏死的原因有很多。</span><span class="english">Avascular necrosis of scaphoid is related to various etiologies.</span></p>

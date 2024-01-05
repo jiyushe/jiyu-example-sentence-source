@@ -1,5 +1,7 @@
 # 四脚朝天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sijiaochaotian.md)
+
 <p><span class="chinese">他摔了个四脚朝天。</span><span class="english">His feet stuck up in the air.</span></p>
 
 <p><span class="chinese">我的敌人四脚朝天树下躺。</span><span class="english">My foe outstretched beneath the tree.</span></p>

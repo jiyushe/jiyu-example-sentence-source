@@ -1,5 +1,7 @@
 # 任人摆布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renrenbaibu.md)
+
 <p><span class="chinese">他讨厌任人摆布。</span><span class="english">He hates being pushed around.</span></p>
 
 <p><span class="chinese">他们拒绝任人摆布。</span><span class="english">They refused to be dictated to.</span></p>

@@ -1,5 +1,7 @@
 # pdd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pdd.md)
+
 <p><span class="chinese">PDD是一种相当罕见地神经疾病。</span><span class="english">Fortunately, PDD is an extremely rare disorder.</span></p>
 
 <p><span class="chinese">在很多方面，PDD患者的身体变成了他们的累赘。</span><span class="english">In many respects, the body of a PDD victim becomes their puppet.</span></p>

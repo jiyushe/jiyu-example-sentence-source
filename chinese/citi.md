@@ -1,5 +1,7 @@
 # 磁体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/citi.md)
+
 <p><span class="chinese">组错磁体的临界现象?。</span><span class="english">Do frustrated magnets go critical?</span></p>
 
 <p><span class="chinese">磁体牵引铁或钢等物体。</span><span class="english">A magnet pulls on objects of iron or steel.</span></p>

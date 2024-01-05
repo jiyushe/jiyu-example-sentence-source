@@ -1,5 +1,7 @@
 # 偷情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touqing.md)
+
 <p><span class="chinese">人生苦短，趁早偷情。</span><span class="english">Life is short. Have an affair.</span></p>
 
 <p><span class="chinese">你听说他最近偷情的事了吗?。</span><span class="english">Have you heard about his latest amour?</span></p>

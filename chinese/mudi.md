@@ -1,5 +1,7 @@
 # 墓地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mudi.md)
+
 <p><span class="chinese">教堂的墓地一阵雨。</span><span class="english">A churchyard shower.</span></p>
 
 <p><span class="chinese">我也在建造墓地。</span><span class="english">I constructed Necropolis.</span></p>

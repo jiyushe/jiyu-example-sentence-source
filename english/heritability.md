@@ -1,5 +1,7 @@
 # heritability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heritability.md)
+
 <p><span class="chinese">分析结果表明，羊的产奶量的遗传力为0.527。</span><span class="english">The heritability of milk production was 0.527.</span></p>
 
 <p><span class="chinese">在此基础上进而估算出遗传力等遗传参数。</span><span class="english">Genetic parameters of heritability etc. are estimated accordingly.</span></p>

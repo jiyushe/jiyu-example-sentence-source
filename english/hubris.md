@@ -1,5 +1,7 @@
 # hubris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hubris.md)
+
 <p><span class="chinese">傲慢在这里也有很大的影响。</span><span class="english">Hubris has a big impact here too.</span></p>
 
 <p><span class="chinese">但是，极度的高傲自信开罪了神灵。</span><span class="english">But the gods are offended by hubris.</span></p>

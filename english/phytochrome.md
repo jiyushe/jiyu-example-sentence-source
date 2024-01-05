@@ -1,5 +1,7 @@
 # phytochrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phytochrome.md)
+
 <p><span class="chinese">这个方法终将有助于检识细胞内同光敏色素发生反应的物质。</span><span class="english">This method should eventually help to identify substances that phytochrome reacts with inside the cell.</span></p>
 
 <p><span class="chinese">暗示光敏色素是PFSR雌性育性光敏性的光受体。</span><span class="english">It was indicated that phytochrome is the photoreceptor of female photoperiod-sensitive sterility in PFSR.</span></p>

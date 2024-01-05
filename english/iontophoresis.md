@@ -1,5 +1,7 @@
 # iontophoresis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iontophoresis.md)
+
 <p><span class="chinese">结论氟离子导入对于牙本质小管有一定封闭作用。</span><span class="english">Conclusion Fluoride iontophoresis can effectively occlude the dentine tubules.</span></p>
 
 <p><span class="chinese">目的考察吡罗昔康凝胶的体外经皮离子导入。</span><span class="english">OBJECTIVE To investigate the transdermal iontophoresis of piroxicam gel in vitro.</span></p>

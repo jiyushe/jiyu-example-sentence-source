@@ -1,5 +1,7 @@
 # translucence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/translucence.md)
+
 <p><span class="chinese">半透明给予材质以传送和散播光的能力。</span><span class="english">Translucence gives the material the ability to transmit and diffuse light.</span></p>
 
 <p><span class="chinese">淡绿色磨砂半透明的玻璃洗脸盆，看着干净、雅致。</span><span class="english">Virescent the vitreous lavatory that grinds arenaceous translucence , look at clean, refined.</span></p>

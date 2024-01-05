@@ -1,5 +1,7 @@
 # undershot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undershot.md)
+
 <p><span class="chinese">飞机着陆未达飞机跑道。</span><span class="english">The plane undershot the runway.</span></p>
 
 <p><span class="chinese">上颚或下颚突出为失格。</span><span class="english">Undershot or overshot bite is a disqualification.</span></p>

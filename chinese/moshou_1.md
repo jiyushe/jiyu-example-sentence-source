@@ -1,5 +1,7 @@
 # 魔手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moshou_1.md)
+
 <p><span class="chinese">法师，人们称他作魔手—修。</span><span class="english">He is known as Hugh the Hand, Magicka.</span></p>
 
 <p><span class="chinese">来吧，魔手-修不可能是你的真名。</span><span class="english">Come, Hugh the Hand can't be your real name.</span></p>

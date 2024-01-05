@@ -1,5 +1,7 @@
 # 打赌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadu_2.md)
+
 <p><span class="chinese">我打赌，你会的。</span><span class="english">You will, I bet.</span></p>
 
 <p><span class="chinese">我打赌你当时很逗人喜爱。</span><span class="english">I bet you were cute.</span></p>

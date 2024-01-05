@@ -1,5 +1,7 @@
 # 铜门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongmen.md)
+
 <p><span class="chinese">中央铜门上的浮雕。</span><span class="english">Relief on the main bronze door.</span></p>
 
 <p><span class="chinese">中央铜门上的浮雕。</span><span class="english">Reliefs above the central bronze door.</span></p>

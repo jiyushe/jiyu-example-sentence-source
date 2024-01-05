@@ -1,5 +1,7 @@
 # 天生丽质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianshenglizhi.md)
+
 <p><span class="chinese">天的女儿是丽质，因为天生丽质。</span><span class="english">Days is the daughter of Lizhi because born beautiful.</span></p>
 
 <p><span class="chinese">天生丽质会妨碍一个女生的智力发展么？</span><span class="english">Does being attractive hamper a coed’s intellectual development?</span></p>

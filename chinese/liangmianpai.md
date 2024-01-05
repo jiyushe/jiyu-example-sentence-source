@@ -1,5 +1,7 @@
 # 两面派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangmianpai.md)
+
 <p><span class="chinese">我是个两面派！</span><span class="english">I'm two-faced!</span></p>
 
 <p><span class="chinese">它在耍两面派。</span><span class="english">It played both sides.</span></p>

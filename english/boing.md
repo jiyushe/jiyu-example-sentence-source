@@ -1,5 +1,7 @@
 # boing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boing.md)
+
 <p><span class="chinese">另一则博客BoingBoing分享了从1984年开始的苹果商业情况。</span><span class="english">The blog Boing Boing shared an early Apple commercial from 1984.</span></p>
 
 <p><span class="chinese">拳击是一项粗野的运动，在比赛中一方力求击倒另一方。</span><span class="english">Boing is a rough sort in which one boxer tries to knock the other out.</span></p>

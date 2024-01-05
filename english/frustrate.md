@@ -1,5 +1,7 @@
 # frustrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frustrate.md)
+
 <p><span class="chinese">否则你会很挫败。</span><span class="english">Otherwise you’ll just frustrate yourself.</span></p>
 
 <p><span class="chinese">哪种类型的人会让你有挫败惑?。</span><span class="english">What types of people would frustrate you?</span></p>

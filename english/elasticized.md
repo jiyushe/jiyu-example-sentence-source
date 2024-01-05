@@ -1,5 +1,7 @@
 # elasticized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elasticized.md)
+
 <p><span class="chinese">松紧下摆和袖口。</span><span class="english">Elasticized hem and cuffs.</span></p>
 
 <p><span class="chinese">弹性舒适的袖子。</span><span class="english">Elasticized sleeves for comfort.</span></p>

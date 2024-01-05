@@ -1,5 +1,7 @@
 # pouch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pouch.md)
+
 <p><span class="chinese">什么东东去眼袋？</span><span class="english">What can go pouch?</span></p>
 
 <p><span class="chinese">有什么办法能去眼袋？</span><span class="english">What method can go pouch?</span></p>

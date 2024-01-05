@@ -1,5 +1,7 @@
 # chromosphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromosphere.md)
+
 <p><span class="chinese">拍摄实际的色球层很困难。</span><span class="english">It is difficult to photograph the actual chromosphere.</span></p>
 
 <p><span class="chinese">这是一个关于干旱与太阳黑子活动周期有关的令人感到有趣的理论。</span><span class="english">A bright and hot area in the sun's chromosphere , usually associated with a sunspot.</span></p>

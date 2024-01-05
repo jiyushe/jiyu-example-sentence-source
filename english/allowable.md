@@ -1,5 +1,7 @@
 # allowable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allowable.md)
+
 <p><span class="chinese">哪些值是真正被允许的？</span><span class="english">What exactly are the allowable values?</span></p>
 
 <p><span class="chinese">现在的总数是美国和欧洲许可数量的20倍。</span><span class="english">It's now 20 times the allowable amounts in the US and Europe.</span></p>

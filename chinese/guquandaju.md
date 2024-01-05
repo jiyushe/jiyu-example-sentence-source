@@ -1,5 +1,7 @@
 # 顾全大局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guquandaju.md)
+
 <p><span class="chinese">我们必须顾全大局。</span><span class="english">We must take the overall situation into account.</span></p>
 
 <p><span class="chinese">你经常提醒自己顾全大局。</span><span class="english">You often remind yourself of the "bigger picture. ""</span></p>

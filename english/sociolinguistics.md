@@ -1,5 +1,7 @@
 # sociolinguistics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sociolinguistics.md)
+
 <p><span class="chinese">社会语言学主要通过研究社会因素来研究语言。</span><span class="english">Sociolinguistics studies language mainly through the study of the social factors.</span></p>
 
 <p><span class="chinese">网络语言属于社会语言学范畴，是一种新颖、奇特、另类的语言形式。</span><span class="english">Netspeak belongs to sociolinguistics. It is a novel, peculiar and special language form.</span></p>

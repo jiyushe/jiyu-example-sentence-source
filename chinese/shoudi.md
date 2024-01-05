@@ -1,5 +1,7 @@
 # 受敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoudi.md)
+
 <p><span class="chinese">对他像对我一样，因为他会保护你不背部受敌。</span><span class="english">Treat him as u would me, and he guard ur back for u.</span></p>
 
 <p><span class="chinese">与后者不同，他没有四面受敌的心态，也不需要蜷缩在柏林墙背后。</span><span class="english">Unlike them, he had no siege mentality, and needed no Berlin Wall to huddle behind.</span></p>

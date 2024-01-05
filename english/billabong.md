@@ -1,5 +1,7 @@
 # billabong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billabong.md)
+
 <p><span class="chinese">有个快乐的流浪汉，宿在水塘旁。</span><span class="english">Once a jolly swagman camped by a billabong.</span></p>
 
 <p><span class="chinese">跑来一只肥羊，低头喝水在池旁。</span><span class="english">Down came a jumbuck to drink beside the billabong.</span></p>

@@ -1,5 +1,7 @@
 # 宇宙观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhouguan.md)
+
 <p><span class="chinese">再者，在中国人的宇宙观中，北斗七星高悬于昆仑上之上。</span><span class="english">Also, in Chinese cosmology, the Big Dipper hangs above Mount Kunlun.</span></p>
 
 <p><span class="chinese">这个组织是安排在打昏，根据佛教宇宙观。</span><span class="english">This group was laid out and arranged in accordance with Buddhist cosmology.</span></p>

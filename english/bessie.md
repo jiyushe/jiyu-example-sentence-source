@@ -1,5 +1,7 @@
 # bessie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bessie.md)
+
 <p><span class="chinese">贝西问。</span><span class="english">Bessie asked.</span></p>
 
 <p><span class="chinese">它使贝西头晕眼花。</span><span class="english">It made Bessie dizzy.</span></p>

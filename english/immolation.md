@@ -1,5 +1,7 @@
 # immolation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immolation.md)
+
 <p><span class="chinese">全我是旁观者，也是角色的参与者。</span><span class="english">The whole immolation is the observer and the participator in the roles.</span></p>
 
 <p><span class="chinese">泰熙说自己的阿谁人要爱她私下的样子。</span><span class="english">KTH said she hopes to find a guy who loves her inner private immolation.</span></p>

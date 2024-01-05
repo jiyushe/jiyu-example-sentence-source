@@ -1,5 +1,7 @@
 # 恼羞成怒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoxiuchengnu.md)
+
 <p><span class="chinese">他恼羞成怒，都要气炸了。</span><span class="english">He felt he would burst with anger and shame.</span></p>
 
 <p><span class="chinese">这样的一个小过失就让他恼羞成怒。</span><span class="english">He just flied into rage at such a peccadillo!</span></p>

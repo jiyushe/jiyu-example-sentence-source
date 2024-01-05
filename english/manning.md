@@ -1,5 +1,7 @@
 # manning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manning.md)
+
 <p><span class="chinese">佩顿曼宁是一个真正的领域的一般。</span><span class="english">Peyton Manning is a true field general.</span></p>
 
 <p><span class="chinese">他们的婚姻终结了，曼宁搬了出家。</span><span class="english">The marriage ended, and Manning moved out.</span></p>

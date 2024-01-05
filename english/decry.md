@@ -1,5 +1,7 @@
 # decry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decry.md)
+
 <p><span class="chinese">然而，预言继续谴责了美国的衰落。</span><span class="english">And yet doomsayers continue to decry America's decline.</span></p>
 
 <p><span class="chinese">在美国，来自宗教界的声音，既有赞扬也有抨击资本主义秩序的。</span><span class="english">In America religious voices both praise and decry the capitalist order.</span></p>

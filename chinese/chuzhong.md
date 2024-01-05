@@ -1,5 +1,7 @@
 # 出众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuzhong.md)
+
 <p><span class="chinese">都很出众，-都很出众。，All，smart。，–</span><span class="english">All smart.</span></p>
 
 <p><span class="chinese">他是一位才华出众的作家。</span><span class="english">He is a marvelously able author.</span></p>

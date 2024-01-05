@@ -1,5 +1,7 @@
 # 女巫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvwu.md)
+
 <p><span class="chinese">疯狂的贝蒂是一个女巫。</span><span class="english">Batty Betty is a witch.</span></p>
 
 <p><span class="chinese">十个小女巫天上飞。</span><span class="english">Ten witches in the sky.</span></p>

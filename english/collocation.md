@@ -1,5 +1,7 @@
 # collocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collocation.md)
+
 <p><span class="chinese">什么是搭配？</span><span class="english">What is collocation?</span></p>
 
 <p><span class="chinese">第一条定义是动词go和介词ahead的简单搭配，算不上短语。</span><span class="english">The first item is simple collocation.</span></p>

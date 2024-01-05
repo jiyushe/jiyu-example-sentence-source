@@ -1,5 +1,7 @@
 # anarchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anarchy.md)
+
 <p><span class="chinese">地拉那完全陷入无政府状态。</span><span class="english">Tirana is in total anarchy.</span></p>
 
 <p><span class="chinese">世界呈现出一片混乱。</span><span class="english">Mere anarchy is loosed upon the world.</span></p>

@@ -1,5 +1,7 @@
 # 偏见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianjian.md)
+
 <p><span class="chinese">放弃你的偏见。</span><span class="english">Discard your prejudices.</span></p>
 
 <p><span class="chinese">它存在着偏见。</span><span class="english">So there is a bias there.</span></p>

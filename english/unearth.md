@@ -1,5 +1,7 @@
 # unearth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unearth.md)
+
 <p><span class="chinese">更多的关于挖掘自信心的方法.</span><span class="english">More ways to unearth unshakeable confidence.</span></p>
 
 <p><span class="chinese">当你更深地挖掘，你便是“窃取”你所发掘的了。</span><span class="english">When you dig deeper you steal what you unearth.</span></p>

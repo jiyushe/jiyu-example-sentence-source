@@ -1,5 +1,7 @@
 # orientalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orientalist.md)
+
 <p><span class="chinese">看起来简直就像19世纪东方绘画。</span><span class="english">It looks like it came straight out of some 19th century orientalist painting.</span></p>
 
 <p><span class="chinese">如果我真的是一个东方学者或种族主义者，管理员早就把我封号了。</span><span class="english">If I am really a Orientalist or racist, the administrator already kick me out.</span></p>

@@ -1,5 +1,7 @@
 # 王水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangshui.md)
+
 <p><span class="chinese">王水法说。</span><span class="english">Aqua regia method, said.</span></p>
 
 <p><span class="chinese">然而，“王水”对钛却无可奈何。</span><span class="english">However, the "aqua regia" to titanium was no alternative.</span></p>

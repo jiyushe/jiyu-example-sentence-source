@@ -1,5 +1,7 @@
 # 家宅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazhai.md)
+
 <p><span class="chinese">接着，他派了一队支援去鲍尔的家宅。</span><span class="english">Nina sends backup to the Bauer home.</span></p>
 
 <p><span class="chinese">在新英格兰有许多古老的家宅。</span><span class="english">There are many old homesteads in New England.</span></p>

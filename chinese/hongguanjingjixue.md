@@ -1,5 +1,7 @@
 # 宏观经济学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongguanjingjixue.md)
+
 <p><span class="chinese">当然，宏观经济学不失为一个颇有价值的研究领域。</span><span class="english">Certainly it is a worthy field of study.</span></p>
 
 <p><span class="chinese">塞谬尔斯先生是位宏观经济学专家。</span><span class="english">Mr. Samuels is an expert in macroeconomics.</span></p>

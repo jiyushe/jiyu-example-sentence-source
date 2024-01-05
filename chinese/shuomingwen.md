@@ -1,5 +1,7 @@
 # 说明文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuomingwen.md)
+
 <p><span class="chinese">说明文告诉我们与一个话题相关的事实。</span><span class="english">Information books tell us facts about a topic.</span></p>
 
 <p><span class="chinese">定义说明文可用演绎法或归纳法展开。</span><span class="english">A definition paper may be either deductive or inductive.</span></p>

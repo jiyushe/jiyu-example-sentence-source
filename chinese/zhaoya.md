@@ -1,5 +1,7 @@
 # 爪牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoya.md)
+
 <p><span class="chinese">位低的“盗贼”成了他们的爪牙。</span><span class="english">Petty thieves were their minions.</span></p>
 
 <p><span class="chinese">如黑铁一般的爪牙，如黑夜一般的外相。</span><span class="english">Claws of black steel. Fur as dark night.</span></p>

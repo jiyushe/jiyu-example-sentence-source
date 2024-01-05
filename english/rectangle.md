@@ -1,5 +1,7 @@
 # rectangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rectangle.md)
+
 <p><span class="chinese">它就是长方形的。</span><span class="english">It's just a rectangle.</span></p>
 
 <p><span class="chinese">长方形就被选中了，然后把目标移至刚建的新层上.</span><span class="english">Now the rectangle will be selected.</span></p>

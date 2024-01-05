@@ -1,5 +1,7 @@
 # brigade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brigade.md)
+
 <p><span class="chinese">每一支维修队都有自己的厨师。</span><span class="english">Each brigade has its own cook.</span></p>
 
 <p><span class="chinese">现在他是我们市一个消防大队的队长。</span><span class="english">Now he leads a fire brigade in our city.</span></p>

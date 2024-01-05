@@ -1,5 +1,7 @@
 # facile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facile.md)
+
 <p><span class="chinese">最方便的答案是多种方法的普查。</span><span class="english">The facile answer is a multimethod approach.</span></p>
 
 <p><span class="chinese">“它有一个GPS接收器”这是不假思索就可以得到的回答。</span><span class="english">"It's got a GPS receiver, " is the facile answer.</span></p>

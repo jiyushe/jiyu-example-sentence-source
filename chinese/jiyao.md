@@ -1,5 +1,7 @@
 # 机要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiyao.md)
+
 <p><span class="chinese">丢失文件是机要人员的过失。</span><span class="english">Mary is hunting about for her lost dog.</span></p>
 
 <p><span class="chinese">客户机要连接到哪些数据库？</span><span class="english">To which databases do the clients connect?</span></p>

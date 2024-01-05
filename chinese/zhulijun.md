@@ -1,5 +1,7 @@
 # 主力军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhulijun.md)
+
 <p><span class="chinese">在非洲，妇女一直是从事农业的主力军。</span><span class="english">Women farmers are the backbone of African agriculture.</span></p>
 
 <p><span class="chinese">只有在主力军承受过重压力时才会召来预备部队。</span><span class="english">The auxiliary units are called in only when the main force has been overtaxed.</span></p>

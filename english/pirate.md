@@ -1,5 +1,7 @@
 # pirate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pirate.md)
+
 <p><span class="chinese">玛丽的女海盗阅读。</span><span class="english">The female pirate Mary Read.</span></p>
 
 <p><span class="chinese">那么，这是一张盗版碟了。</span><span class="english">Then, it must be a pirate copy.</span></p>

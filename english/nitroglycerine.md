@@ -1,5 +1,7 @@
 # nitroglycerine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitroglycerine.md)
+
 <p><span class="chinese">硝化甘油几乎不与水混溶。</span><span class="english">Nitroglycerine is hardly miscible with water.</span></p>
 
 <p><span class="chinese">硝化甘油几乎不与水混溶。</span><span class="english">Nitroglycerine is hardly miscible with water.</span></p>

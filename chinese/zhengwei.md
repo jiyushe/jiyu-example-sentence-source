@@ -1,5 +1,7 @@
 # 政委
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengwei.md)
+
 <p><span class="chinese">政委坚持将此书列为禁书。</span><span class="english">The commissar insisted on indexing the book.</span></p>
 
 <p><span class="chinese">我认为政委同志太过奖了…</span><span class="english">I think comrade commissar's been overgenerous.</span></p>

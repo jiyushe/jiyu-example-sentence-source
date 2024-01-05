@@ -1,5 +1,7 @@
 # elephantine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elephantine.md)
+
 <p><span class="chinese">因为有一个墨绿色的巨大长鼻子，加林丹被昵称为“长鼻子”。</span><span class="english">Garindan is nicknamed "Long Snoot, " for his long, green-black elephantine trunk.</span></p>
 
 <p><span class="chinese">象猫一样地反复无常，我行我素的性格。</span><span class="english">The ground is capricious like elephantine cat, the disposition of persist one's old ways.</span></p>

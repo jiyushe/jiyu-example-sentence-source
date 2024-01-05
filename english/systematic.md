@@ -1,5 +1,7 @@
 # systematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/systematic.md)
+
 <p><span class="chinese">这就是系统化。</span><span class="english">It's systematic.</span></p>
 
 <p><span class="chinese">对于所有其他系统的知识呢？</span><span class="english">What about all other systematic knowledge?</span></p>

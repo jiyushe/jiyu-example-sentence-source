@@ -1,5 +1,7 @@
 # 地砖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhuan.md)
+
 <p><span class="chinese">白色长沙发，白色地毯，白色地砖。</span><span class="english">White couch, white carpets, white tile.</span></p>
 
 <p><span class="chinese">祁县哪里的地砖30左右质量可靠呢？</span><span class="english">Where Qi county field brick 30 or so mass is reliable?</span></p>

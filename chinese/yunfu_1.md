@@ -1,5 +1,7 @@
 # 孕妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunfu_1.md)
+
 <p><span class="chinese">她生产孕妇服装。</span><span class="english">She makes maternity clothes.</span></p>
 
 <p><span class="chinese">该孕妇曾患妊娠毒血症。</span><span class="english">The mother had toxemia of pregnancy.</span></p>

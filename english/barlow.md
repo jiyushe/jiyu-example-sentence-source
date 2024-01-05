@@ -1,5 +1,7 @@
 # barlow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barlow.md)
+
 <p><span class="chinese">我在市政大厅采访了巴洛。</span><span class="english">I interviewed Barlow at city hall.</span></p>
 
 <p><span class="chinese">三个警察立刻赶过来逮捕了巴洛夫人。</span><span class="english">Three policemen then arrived and arrested Mrs. Barlow.</span></p>

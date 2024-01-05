@@ -1,5 +1,7 @@
 # 实体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiti_1.md)
+
 <p><span class="chinese">一是领办实体模式。</span><span class="english">Set up entity mode.</span></p>
 
 <p><span class="chinese">这些是合法实体。</span><span class="english">These are legal entities.</span></p>

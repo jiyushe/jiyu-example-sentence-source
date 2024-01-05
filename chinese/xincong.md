@@ -1,5 +1,7 @@
 # 信从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xincong.md)
+
 <p><span class="chinese">他不慌不忙地将信从信封里取出打开来。</span><span class="english">Slowly he pulled the letter out of the envelop, and unfolded it.</span></p>
 
 <p><span class="chinese">信从一个人手中传到另一个人手里，直到大家都看过了。</span><span class="english">The letter passed from one to another until everyone had read it.</span></p>

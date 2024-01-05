@@ -1,5 +1,7 @@
 # 金科玉律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinkeyulv.md)
+
 <p><span class="chinese">不要违反“金科玉律”</span><span class="english">Don’t violate the golden rules</span></p>
 
 <p><span class="chinese">搭货船旅行的金科玉律</span><span class="english">The Golden Rules of Cargo Ship Travel</span></p>

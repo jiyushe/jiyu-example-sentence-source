@@ -1,5 +1,7 @@
 # 通电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongdian.md)
+
 <p><span class="chinese">地面对ATC通电测试工作正常。</span><span class="english">Ground power-on test for ATC OK.</span></p>
 
 <p><span class="chinese">那位电工切断了通电电路。</span><span class="english">The electrician killed the live circuit.</span></p>

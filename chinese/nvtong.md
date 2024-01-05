@@ -1,5 +1,7 @@
 # 女童
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvtong.md)
+
 <p><span class="chinese">女童军是忠心的。</span><span class="english">Girl Scout is loyal.</span></p>
 
 <p><span class="chinese">女童军是忠心的。</span><span class="english">A Girl Scout is loyal.</span></p>

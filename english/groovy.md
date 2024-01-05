@@ -1,5 +1,7 @@
 # groovy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groovy.md)
+
 <p><span class="chinese">怎么可能快乐阿，干这么滥的活。</span><span class="english">You can't be happy by doing something groovy.</span></p>
 
 <p><span class="chinese">来自前例的Runner.groovy可以如平时一样运行。</span><span class="english">Runner.groovy from the previous example can run as is.</span></p>

@@ -1,5 +1,7 @@
 # 方剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangji.md)
+
 <p><span class="chinese">其方剂之组成则以君、臣、佐、使之团队精神为规范。</span><span class="english">The formation of formula has group spirit with cascade class.</span></p>
 
 <p><span class="chinese">不要方剂把图层都放在’header’层文件夹里面。</span><span class="english">Don’t forget to put all these graphics inside the “header” layer</span></p>

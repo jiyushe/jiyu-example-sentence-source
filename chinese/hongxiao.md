@@ -1,5 +1,7 @@
 # 哄笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongxiao.md)
+
 <p><span class="chinese">人们开始交头接耳并且哄笑。</span><span class="english">People began to talk and laugh.</span></p>
 
 <p><span class="chinese">舞蹈演员被一片哄笑声赶下了舞台。</span><span class="english">The dancer was laughed off the stage.</span></p>

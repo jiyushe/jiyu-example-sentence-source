@@ -1,5 +1,7 @@
 # methodist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methodist.md)
+
 <p><span class="chinese">你能和卫理公会教徒结婚吗？</span><span class="english">Could you actually marry a Methodist?</span></p>
 
 <p><span class="chinese">卫理公会圣钟之声我还能听见。</span><span class="english">I can still hear the sounds of those Methodist bells.</span></p>

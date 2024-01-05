@@ -1,5 +1,7 @@
 # sloe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sloe.md)
+
 <p><span class="chinese">她自酿的葡萄酒是特别强劲。</span><span class="english">Her sloe wine was especially strong.</span></p>
 
 <p><span class="chinese">你最好慢下来，不要那么快地舞蹈。</span><span class="english">You'd better sloe down. Don't dance so fast.</span></p>

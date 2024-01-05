@@ -1,5 +1,7 @@
 # fitness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fitness.md)
+
 <p><span class="chinese">在免费健康类排49名。</span><span class="english">No. 49 in free Fitness.</span></p>
 
 <p><span class="chinese">还有健身卡啊！</span><span class="english">Also has the fitness card!</span></p>

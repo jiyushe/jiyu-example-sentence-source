@@ -1,5 +1,7 @@
 # trooper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trooper.md)
+
 <p><span class="chinese">我有凝结了同类一个骑兵。</span><span class="english">I'd clotted like a trooper.</span></p>
 
 <p><span class="chinese">这个骑兵超假了。</span><span class="english">The trooper overstayed his leave.</span></p>

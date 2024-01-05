@@ -1,5 +1,7 @@
 # 比比皆是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bibijieshi.md)
+
 <p><span class="chinese">数据库技能“比比皆是”。</span><span class="english">Database skills are a "dime-a-dozen."</span></p>
 
 <p><span class="chinese">世界上令人神往的地方比比皆是。</span><span class="english">The world is full of fascinating places.</span></p>

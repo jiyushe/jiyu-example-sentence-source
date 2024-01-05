@@ -1,5 +1,7 @@
 # 可恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kewu.md)
+
 <p><span class="chinese">水是可恶的。</span><span class="english">Water is sneaky.</span></p>
 
 <p><span class="chinese">不要可恶地打小报告，杰克。</span><span class="english">Don't be a rat fink, Jack.</span></p>

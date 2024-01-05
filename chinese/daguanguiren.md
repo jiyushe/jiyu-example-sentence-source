@@ -1,5 +1,7 @@
 # 达官贵人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daguanguiren.md)
+
 <p><span class="chinese">金钱可结交许多达官贵人。</span><span class="english">Money can buy a lot of influence.</span></p>
 
 <p><span class="chinese">许多本地的达官贵人都参加了葬礼。</span><span class="english">Many of the local dignitaries attended the funeral.</span></p>

@@ -1,5 +1,7 @@
 # harpsichord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harpsichord.md)
+
 <p><span class="chinese">长笛四重奏，双簧管，大提琴和大键琴。</span><span class="english">Quartet for Flute, Oboe, Cello and Harpsichord.</span></p>
 
 <p><span class="chinese">我很欣赏“古键琴演奏会”在纪尾井大厅。</span><span class="english">I'm entertained by Ton Koopman Harpsichord Recital at Kioi Hall.</span></p>

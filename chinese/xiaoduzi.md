@@ -1,5 +1,7 @@
 # 小肚子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoduzi.md)
+
 <p><span class="chinese">我喜欢有小肚子的消防员。</span><span class="english">I like firefighters with love handle.</span></p>
 
 <p><span class="chinese">缩得厉害，小肚子也疼得厉害。</span><span class="english">Yes, terrible contractions and pain in lower abdomen, too.</span></p>

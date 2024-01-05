@@ -1,5 +1,7 @@
 # 提拨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tibo.md)
+
 <p><span class="chinese">提拨金可随员工的薪资水准…</span><span class="english">Contributions can depend on your salary level.</span></p>
 
 <p><span class="chinese">动态提拨准备是否能影响经理人的行为，亦是个问题。</span><span class="english">Whether dynamic provisions influenced managers' behaviour is also questionable.</span></p>

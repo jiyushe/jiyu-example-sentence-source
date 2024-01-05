@@ -1,5 +1,7 @@
 # 夜空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yekong.md)
+
 <p><span class="chinese">夜空移动著，他们都是活著的。</span><span class="english">It moves. They are all alive.</span></p>
 
 <p><span class="chinese">一轮明月在夜空中移动。</span><span class="english">A full moon rode in the night sky.</span></p>

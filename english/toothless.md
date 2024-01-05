@@ -1,5 +1,7 @@
 # toothless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toothless.md)
+
 <p><span class="chinese">无齿的中国队令球迷愤怒！！！</span><span class="english">Toothless China incur Fans' Fury! ! !</span></p>
 
 <p><span class="chinese">守门狗不应成为无牙的老虎。</span><span class="english">A watchdog should not be a toothless tiger.</span></p>

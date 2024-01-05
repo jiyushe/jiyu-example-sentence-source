@@ -1,5 +1,7 @@
 # bagel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bagel.md)
+
 <p><span class="chinese">我下了楼，吃了一个面包圈。</span><span class="english">I go down, have a bagel.</span></p>
 
 <p><span class="chinese">是啊，裸体贝果游戏?。</span><span class="english">Yeah. That naked bagel game?</span></p>

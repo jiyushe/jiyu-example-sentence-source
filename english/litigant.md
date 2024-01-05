@@ -1,5 +1,7 @@
 # litigant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litigant.md)
+
 <p><span class="chinese">一次审案时，竟在法庭上与当事人大打出手。</span><span class="english">But in a trial, he fight with the litigant on court.</span></p>
 
 <p><span class="chinese">有具体的诉讼请求和事实、理由。</span><span class="english">There are concrete litigant requests, facts and reasons.</span></p>

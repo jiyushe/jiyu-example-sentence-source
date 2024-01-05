@@ -1,5 +1,7 @@
 # accession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accession.md)
+
 <p><span class="chinese">有时，财产也可以通过添附获得。</span><span class="english">Sometimes property is acquired by accession.</span></p>
 
 <p><span class="chinese">添附是民法上的一项重要制度。</span><span class="english">Accession is an important system of civil law.</span></p>

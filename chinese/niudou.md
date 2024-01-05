@@ -1,5 +1,7 @@
 # 牛痘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niudou.md)
+
 <p><span class="chinese">种了一次牛痘，起预防作用。</span><span class="english">Vaccination has a preventive effect.</span></p>
 
 <p><span class="chinese">我的小孩种了牛痘以防天花。</span><span class="english">My child was vaccinated against smallpox.</span></p>

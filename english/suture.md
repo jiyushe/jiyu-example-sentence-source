@@ -1,5 +1,7 @@
 # suture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suture.md)
+
 <p><span class="chinese">那是缝合线。</span><span class="english">It's suture.</span></p>
 
 <p><span class="chinese">医用羊肠线，适用于妇科手术。</span><span class="english">The catgut suture applies to Gynaecologic surgery.</span></p>

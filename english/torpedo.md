@@ -1,5 +1,7 @@
 # torpedo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torpedo.md)
+
 <p><span class="chinese">有一艘护航舰被鱼雷击中。</span><span class="english">A frigate was struck by a torpedo.</span></p>
 
 <p><span class="chinese">无论是皇家空军的轰炸机或是鱼雷艇都还没能威胁到她。</span><span class="english">bomb or torpedo had yet shaken her.</span></p>

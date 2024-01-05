@@ -1,5 +1,7 @@
 # 椒盐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyan_1.md)
+
 <p><span class="chinese">椒盐游水濑尿虾，成只龙虾仔咁大。</span><span class="english">Live shrimp as big as a small lobster!</span></p>
 
 <p><span class="chinese">用麻绳构造一个椒盐卷饼形状。</span><span class="english">Form a pretzel-like shape with the twine.</span></p>

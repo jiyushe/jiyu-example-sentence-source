@@ -1,5 +1,7 @@
 # indict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indict.md)
+
 <p><span class="chinese">检察官两次决定不起诉小泽一郎。</span><span class="english">Prosecutors twice decided not to indict him.</span></p>
 
 <p><span class="chinese">我可以告你诱拐中学生。</span><span class="english">I can indict you for abducting high school student.</span></p>

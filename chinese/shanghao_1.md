@@ -1,5 +1,7 @@
 # 商号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanghao_1.md)
+
 <p><span class="chinese">许多商号在这场经济恐慌中破产了。</span><span class="english">Many firms went bung in the panic.</span></p>
 
 <p><span class="chinese">我们是香港旅游协会的会员商号。</span><span class="english">We're member of the Hong Kong Tourist Association.</span></p>

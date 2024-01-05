@@ -1,5 +1,7 @@
 # 骨力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guli_3.md)
+
 <p><span class="chinese">他的书法作品骨力遒劲，不失为一位大家。</span><span class="english">His calligraphy is full of strength and he is really worthy of being called a master.</span></p>
 
 <p><span class="chinese">松质骨的显微结构是影响骨力学性能的重要因素。</span><span class="english">Trabecular microstructure is an important factor that influences the bone biomechanical properties.</span></p>

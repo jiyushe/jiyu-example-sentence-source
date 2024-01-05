@@ -1,5 +1,7 @@
 # 东边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongbian.md)
+
 <p><span class="chinese">东边往出冒大太阳。</span><span class="english">From the east, suns pop.</span></p>
 
 <p><span class="chinese">三重市是在台北的东边吗？</span><span class="english">Is Sanchung City east of Taipei?</span></p>

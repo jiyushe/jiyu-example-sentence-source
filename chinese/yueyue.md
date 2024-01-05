@@ -1,5 +1,7 @@
 # 月月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueyue.md)
+
 <p><span class="chinese">月月年年过去了。</span><span class="english">Over the months an the years.</span></p>
 
 <p><span class="chinese">商户须预先缴付六个月月费。</span><span class="english">The fee is a 6-month pre-payment.</span></p>

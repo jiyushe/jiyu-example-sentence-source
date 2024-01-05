@@ -1,5 +1,7 @@
 # 肉感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rougan.md)
+
 <p><span class="chinese">她总是懒洋洋的，富于肉感。</span><span class="english">She had a lazy sensual body.</span></p>
 
 <p><span class="chinese">在这种情境之下，生活总是糜烂的，肉感的。</span><span class="english">Life is always mushy and sensual under these conditions.</span></p>

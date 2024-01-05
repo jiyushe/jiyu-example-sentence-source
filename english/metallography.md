@@ -1,5 +1,7 @@
 # metallography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metallography.md)
+
 <p><span class="chinese">轴承工作表面的金相组织和残余奥氏体对寿命的影响。</span><span class="english">The relations of metallography and remains austenitic to bearing's life.</span></p>
 
 <p><span class="chinese">金相图象特征信息提取是进行金相分析的关键。</span><span class="english">The extracting features of metallography is the key to metallographic analysis.</span></p>

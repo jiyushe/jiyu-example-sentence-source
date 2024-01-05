@@ -1,5 +1,7 @@
 # usenet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usenet.md)
+
 <p><span class="chinese">这是一个非常好的，免费的新闻阅读器，将感兴趣的所有新闻组新手。</span><span class="english">It is a very good, free newsreader that will be of interest to all Usenet newbies.</span></p>
 
 <p><span class="chinese">最近，马克大量的研究工作是关注那些寻找技术支持的Usenet新闻组中的行为模式。</span><span class="english">Much of Marc’s recent work has looked at behavioral patterns in technical support newsgroups in Usenet.</span></p>

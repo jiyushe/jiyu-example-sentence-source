@@ -1,5 +1,7 @@
 # 拳手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanshou.md)
+
 <p><span class="chinese">他是你指导的出拳最狠的拳手吗？</span><span class="english">Is he the hardest puncher you've dealt with?</span></p>
 
 <p><span class="chinese">当那个拳手被人打倒时，人群开始寒笑他。</span><span class="english">The crowd jeered when the boxer was knocked down.</span></p>

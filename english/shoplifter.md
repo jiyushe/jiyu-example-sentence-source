@@ -1,5 +1,7 @@
 # shoplifter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoplifter.md)
+
 <p><span class="chinese">我想他是个扒手。</span><span class="english">I believe he is a shoplifter.</span></p>
 
 <p><span class="chinese">阿德里恩感觉就像一个窃贼。</span><span class="english">Adrian felt like a shoplifter.</span></p>

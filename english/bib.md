@@ -1,5 +1,7 @@
 # bib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bib.md)
+
 <p><span class="chinese">我可以替您系上围兜吗？</span><span class="english">May I tie on your bib?</span></p>
 
 <p><span class="chinese">婴儿的名字在围兜上。</span><span class="english">The baby is wearing a bib.</span></p>

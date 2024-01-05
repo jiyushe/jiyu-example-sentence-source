@@ -1,5 +1,7 @@
 # acutely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acutely.md)
+
 <p><span class="chinese">我相信他们会记住父亲，儿子对男人间的差距体会得更为深刻了。</span><span class="english">My son feels the man-sized gap more acutely.</span></p>
 
 <p><span class="chinese">先前他亮显地妒忌我的胜利。</span><span class="english">Previously he was acutely appetent of my success.</span></p>

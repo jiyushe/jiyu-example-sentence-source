@@ -1,5 +1,7 @@
 # soundproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soundproof.md)
+
 <p><span class="chinese">这个摄影棚并不隔音。</span><span class="english">The studio isn't soundproof.</span></p>
 
 <p><span class="chinese">隔音玻璃挡住了里边的动静。</span><span class="english">Soundproof glass muffled any noise, however.</span></p>

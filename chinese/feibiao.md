@@ -1,5 +1,7 @@
 # 飞镖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feibiao.md)
+
 <p><span class="chinese">该飞镖不能养活自己。</span><span class="english">The dart cannot feed itself.</span></p>
 
 <p><span class="chinese">投掷回飞镖是一种危险的游戏。</span><span class="english">Boomeranging is a dangerous game.</span></p>

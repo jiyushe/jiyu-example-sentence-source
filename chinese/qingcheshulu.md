@@ -1,5 +1,7 @@
 # 轻车熟路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingcheshulu.md)
+
 <p><span class="chinese">他在暗处轻车熟路。</span><span class="english">He knows his way in the dark.</span></p>
 
 <p><span class="chinese">女服务生捧来菜单递给茉莉，后者轻车熟路地点菜。</span><span class="english">The waitress passes a fine menu to Molly who orders dishes adroitly.</span></p>

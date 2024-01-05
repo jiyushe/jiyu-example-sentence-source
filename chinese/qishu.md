@@ -1,5 +1,7 @@
 # 漆树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishu.md)
+
 <p><span class="chinese">空气里有漆树、橙树和桉树的味道。</span><span class="english">There was the smell of sumac, orange and eucalyptus.</span></p>
 
 <p><span class="chinese">毒漆树毛茸茸的藤条落得满地都是。</span><span class="english">Furry ropes of poison sumac veined across the ground.</span></p>

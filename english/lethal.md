@@ -1,5 +1,7 @@
 # lethal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lethal.md)
+
 <p><span class="chinese">好在这些致命生物又游走了。</span><span class="english">But the lethal creature bobbed off.</span></p>
 
 <p><span class="chinese">这些刀都是绝对致命的。</span><span class="english">All these knives are absolutely lethal.</span></p>

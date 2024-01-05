@@ -1,5 +1,7 @@
 # 对撞机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duizhuangji.md)
+
 <p><span class="chinese">对撞机就是这样。</span><span class="english">Collider data do that.</span></p>
 
 <p><span class="chinese">购买所有升级介子对撞机。</span><span class="english">Purchase all upgrades for the Meson Collider.</span></p>

@@ -1,5 +1,7 @@
 # 罗纹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luowen_1.md)
+
 <p><span class="chinese">罗纹立领。</span><span class="english">Ribbed stand collar.</span></p>
 
 <p><span class="chinese">罗纹袖口，甚至缝下摆。</span><span class="english">Ribbed cuffs, even-sewn hem.</span></p>

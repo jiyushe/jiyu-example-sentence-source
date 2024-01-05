@@ -1,5 +1,7 @@
 # gaga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaga.md)
+
 <p><span class="chinese">他有点儿老糊涂了。</span><span class="english">He has gone quite gaga.</span></p>
 
 <p><span class="chinese">于是你疯癫，不能正确的看待事情。</span><span class="english">And then you are gaga and can't see things right.</span></p>

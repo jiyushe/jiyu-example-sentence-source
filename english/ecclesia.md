@@ -1,5 +1,7 @@
 # ecclesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecclesia.md)
+
 <p><span class="chinese">我们把教会当做“神的家”。</span><span class="english">You see the ecclesia is the "house of God".</span></p>
 
 <p><span class="chinese">而在基督的身体里，也就是教会，那也是这样。</span><span class="english">So it is also in the body of Christ, the ecclesia.</span></p>

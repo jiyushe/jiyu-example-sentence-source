@@ -1,5 +1,7 @@
 # 翅膀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chibang.md)
+
 <p><span class="chinese">画两个大翅膀。</span><span class="english">Draw two big wings.</span></p>
 
 <p><span class="chinese">擦抹我的翅膀。</span><span class="english">Shall brush my wing.</span></p>

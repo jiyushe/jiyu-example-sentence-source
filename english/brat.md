@@ -1,5 +1,7 @@
 # brat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brat.md)
+
 <p><span class="chinese">你就像一个满腹牢骚的小屁孩。</span><span class="english">You sound like a whiny brat.</span></p>
 
 <p><span class="chinese">但演得却是一个被宠坏的毛头小子。</span><span class="english">He is just a brat spoiled kid.</span></p>

@@ -1,5 +1,7 @@
 # 洋洋洒洒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangyangsasa.md)
+
 <p><span class="chinese">洋洋洒洒不知多少轮回。</span><span class="english">I do not know how many copious and fluent.</span></p>
 
 <p><span class="chinese">可是今日，它却洋洋洒洒，放肆，任性。</span><span class="english">But today, it eloquent, wanton, self-willed.</span></p>

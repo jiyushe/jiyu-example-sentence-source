@@ -1,5 +1,7 @@
 # 斐然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiran.md)
+
 <p><span class="chinese">凝神于心，禅意斐然。</span><span class="english">Focus on the heart, Zen strikings.</span></p>
 
 <p><span class="chinese">她是华尔街一名业绩斐然的经纪人。</span><span class="english">She's a hotshot broker on Wall Street.</span></p>

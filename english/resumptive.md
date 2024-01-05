@@ -1,5 +1,7 @@
 # resumptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resumptive.md)
+
 <p><span class="chinese">此外，通过复指代词左移位可以起到强调和夸张的作用。</span><span class="english">In addition resumptive pronouns can make contribution to emphasis and exaggeration.</span></p>
 
 <p><span class="chinese">头部稳定时，右臂入水，再开始下一慢慢呼气的过程。</span><span class="english">When the head is stable, sword arm enters water, resumptive below one slowly expiratory process.</span></p>

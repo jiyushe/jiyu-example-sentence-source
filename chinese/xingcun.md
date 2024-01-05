@@ -1,5 +1,7 @@
 # 幸存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingcun.md)
+
 <p><span class="chinese">这个人幸存了</span><span class="english">This person survived.</span></p>
 
 <p><span class="chinese">这个人幸存了。</span><span class="english">This person survived.</span></p>

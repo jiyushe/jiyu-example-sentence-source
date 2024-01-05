@@ -1,5 +1,7 @@
 # 选辑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanji_2.md)
+
 <p><span class="chinese">您的精选辑包括三首新曲目。</span><span class="english">Your anthology includes 3 new tracks.</span></p>
 
 <p><span class="chinese">你从我的DVD代表作选辑里已经看过我最近的两个项目了。</span><span class="english">You've seen my two most recent projects in my DVD portfolio.</span></p>

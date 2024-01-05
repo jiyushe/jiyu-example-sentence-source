@@ -1,5 +1,7 @@
 # clam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clam.md)
+
 <p><span class="chinese">请给我蛤蛎浓汤。</span><span class="english">Clam chowder, please.</span></p>
 
 <p><span class="chinese">极深者至四五百尺，拾蚌篮中。</span><span class="english">The deep to feet up, clam basket.</span></p>

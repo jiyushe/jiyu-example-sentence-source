@@ -1,5 +1,7 @@
 # realistic 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realistic.md)
+
 <p><span class="chinese">我把它叫做现实。</span><span class="english">I call it realistic.</span></p>
 
 <p><span class="chinese">制定符合实际的目标。</span><span class="english">Sett realistic goals.</span></p>

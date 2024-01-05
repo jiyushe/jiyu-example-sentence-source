@@ -1,5 +1,7 @@
 # 说书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuoshu.md)
+
 <p><span class="chinese">他是我们的说书人。</span><span class="english">He was our storyteller.</span></p>
 
 <p><span class="chinese">你觉得自己是谁，一个说书的婊子？</span><span class="english">What are you, like a clich movie bitch?</span></p>

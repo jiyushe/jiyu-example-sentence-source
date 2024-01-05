@@ -1,5 +1,7 @@
 # fashion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fashion.md)
+
 <p><span class="chinese">时尚界人士会“穿一条裤管的裤子”。</span><span class="english">Fashion people do.</span></p>
 
 <p><span class="chinese">时尚的环圈设计。</span><span class="english">Ring desain fashion.</span></p>

@@ -1,5 +1,7 @@
 # billing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billing.md)
+
 <p><span class="chinese">无法变更请款货币！</span><span class="english">Unable to switch billing currency!</span></p>
 
 <p><span class="chinese">以小时计费很好的弥补了双方的短板。</span><span class="english">Hourly billing serves both of these ends.</span></p>

@@ -1,5 +1,7 @@
 # 王室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangshi_2.md)
+
 <p><span class="chinese">他声称跟王室有亲戚关系。</span><span class="english">He claims kindred with royalty.</span></p>
 
 <p><span class="chinese">他于1208年左右继承王室。</span><span class="english">He was crowned king circa 1208.</span></p>

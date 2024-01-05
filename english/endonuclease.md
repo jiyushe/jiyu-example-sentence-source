@@ -1,5 +1,7 @@
 # endonuclease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endonuclease.md)
+
 <p><span class="chinese">PCR产物经限制性内切酶消化、序列测定及分析。</span><span class="english">PCR products were digested with endonuclease and sequenced.</span></p>
 
 <p><span class="chinese">通过核酸内切酶酶切分析及测序鉴定载体结构。</span><span class="english">The structure of vector was identified by endonuclease analyzing and base sequencing.</span></p>

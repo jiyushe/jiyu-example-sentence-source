@@ -1,5 +1,7 @@
 # ruching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruching.md)
+
 <p><span class="chinese">褶饰在肩上。</span><span class="english">Ruching at the shoulders.</span></p>
 
 <p><span class="chinese">膨化袖褶饰在接缝处的细节。</span><span class="english">Puffed sleeves with ruching details at seams.</span></p>

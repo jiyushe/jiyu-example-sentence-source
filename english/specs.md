@@ -1,5 +1,7 @@
 # specs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specs.md)
+
 <p><span class="chinese">我需要一副新眼镜。</span><span class="english">I need a new pair of specs.</span></p>
 
 <p><span class="chinese">配置规格是共享的吗？</span><span class="english">Are there shared config specs?</span></p>

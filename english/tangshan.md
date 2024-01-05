@@ -1,5 +1,7 @@
 # tangshan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangshan.md)
+
 <p><span class="chinese">唐山在我眼中是座催人奋进的城市。</span><span class="english">Tangshan in my eyes is an inspiring city.</span></p>
 
 <p><span class="chinese">我来自特性掸人城市，河北省。</span><span class="english">I come from Tangshan city, Hebei Province.</span></p>

@@ -1,5 +1,7 @@
 # elfin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elfin.md)
+
 <p><span class="chinese">他是一个有着小精灵脸庞的小男孩。</span><span class="english">He is a little boy with an elfin face.</span></p>
 
 <p><span class="chinese">悠悠精灵舞，一枕落花香。</span><span class="english">Leisurely elfin dance, a pillow fall flowers.</span></p>

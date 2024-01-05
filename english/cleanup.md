@@ -1,5 +1,7 @@
 # cleanup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleanup.md)
+
 <p><span class="chinese">现在点击磁盘清理。</span><span class="english">Now click Disk Cleanup.</span></p>
 
 <p><span class="chinese">此参数用于快速清除。</span><span class="english">Used for quick cleanup.</span></p>

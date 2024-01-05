@@ -1,5 +1,7 @@
 # revere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revere.md)
+
 <p><span class="chinese">学生尊敬这位老教授。</span><span class="english">Students revere the old professor.</span></p>
 
 <p><span class="chinese">以色列的后裔，都要惧怕他。</span><span class="english">Revere him, all you descendants of Israel!</span></p>

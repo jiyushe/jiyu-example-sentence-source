@@ -1,5 +1,7 @@
 # slag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slag.md)
+
 <p><span class="chinese">摒除种族的偏见，他是对的。</span><span class="english">The ethnic slag aside, he was right.</span></p>
 
 <p><span class="chinese">结晶器保护渣系列化分析研究。</span><span class="english">The seriation of mold slag is studied.</span></p>

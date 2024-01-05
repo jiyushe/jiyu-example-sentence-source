@@ -1,5 +1,7 @@
 # mildew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mildew.md)
+
 <p><span class="chinese">霜霉病可能很严重。</span><span class="english">Downy mildew can be severe.</span></p>
 
 <p><span class="chinese">霉味或很重的味在衣服上。</span><span class="english">Mildew or heavily odor garment.</span></p>

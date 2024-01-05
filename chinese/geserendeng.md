@@ -1,5 +1,7 @@
 # 各色人等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geserendeng.md)
+
 <p><span class="chinese">各色人等参加了那个会议。</span><span class="english">A mix of people attended the meeting.</span></p>
 
 <p><span class="chinese">观众中各色人等都有，有地产所有者、租赁人和流浪汉。</span><span class="english">The audience consisted of a motley crowd of property owners, renters, and drifters.</span></p>

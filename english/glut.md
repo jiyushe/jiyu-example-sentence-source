@@ -1,5 +1,7 @@
 # glut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glut.md)
+
 <p><span class="chinese">但是天然气供过于求怎么办？</span><span class="english">But what of our natural gas glut?</span></p>
 
 <p><span class="chinese">能不能喂饱无餍的死亡？</span><span class="english">Can these glut the greedy palate of Death?</span></p>

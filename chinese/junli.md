@@ -1,5 +1,7 @@
 # 军礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junli.md)
+
 <p><span class="chinese">这位将军是以最隆重的军礼下葬。</span><span class="english">This general was buried with full military honors.</span></p>
 
 <p><span class="chinese">他行军礼时碰起鞋后跟来象舞蹈家一样熟练。</span><span class="english">He clicked his heels as perfectly as a dancer does.</span></p>

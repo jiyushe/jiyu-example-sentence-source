@@ -1,5 +1,7 @@
 # 低头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ditou.md)
+
 <p><span class="chinese">他惭愧地低头不语。</span><span class="english">His head in shame.</span></p>
 
 <p><span class="chinese">他们拒绝在暴力面前低头。</span><span class="english">They refused to bow force.</span></p>

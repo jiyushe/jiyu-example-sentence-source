@@ -1,5 +1,7 @@
 # 工序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongxu.md)
+
 <p><span class="chinese">全部工序的基础是从制胎开始的。</span><span class="english">All steps begin with mold-making.</span></p>
 
 <p><span class="chinese">这就是“杀青”工序了。</span><span class="english">This is the "fixation" procedure.</span></p>

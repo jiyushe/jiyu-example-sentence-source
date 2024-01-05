@@ -1,5 +1,7 @@
 # 红扑扑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongpupu.md)
+
 <p><span class="chinese">他那红扑扑的两颊亮光光的。</span><span class="english">His red cheeks were shiny.</span></p>
 
 <p><span class="chinese">喝了几杯酒，脸上红扑扑的。</span><span class="english">After a few drinks his face flushed.</span></p>

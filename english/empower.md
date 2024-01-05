@@ -1,5 +1,7 @@
 # empower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empower.md)
+
 <p><span class="chinese">授与你两岁大的孩子权利。</span><span class="english">Empower your 2-year-old.</span></p>
 
 <p><span class="chinese">我授权我的代理人处理此项交易。</span><span class="english">I empower my agent to make the deal for me.</span></p>

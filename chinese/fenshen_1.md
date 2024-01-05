@@ -1,5 +1,7 @@
 # 分身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshen_1.md)
+
 <p><span class="chinese">你这分身已在我体内成形。</span><span class="english">This thy self-separation has taken body in me.</span></p>
 
 <p><span class="chinese">影迷的来信，秉宪都有认真的看，只是分身伐术无法一一回覆。</span><span class="english">He does read all fan letters but cannot reply to all.</span></p>

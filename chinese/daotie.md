@@ -1,5 +1,7 @@
 # 倒贴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daotie.md)
+
 <p><span class="chinese">孟山都倒贴农民钱去买它的竞争者的除草剂。</span><span class="english">Monsanto has been paying farmers to use its competitors' herbicides.</span></p>
 
 <p><span class="chinese">这是一个值得你倒贴钱劝他别再瞎写的作家。</span><span class="english">This is one man I'd gladly help support by PAYING HIM to stop writing.</span></p>

@@ -1,5 +1,7 @@
 # 粗率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/culv.md)
+
 <p><span class="chinese">他的粗率无礼的举止触怒了她。</span><span class="english">She was offended by his abrupt manner.</span></p>
 
 <p><span class="chinese">他的粗率无礼的举止触怒了她。</span><span class="english">His manner was abrupt to the point of rudeness.</span></p>

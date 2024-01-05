@@ -1,5 +1,7 @@
 # verse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verse.md)
+
 <p><span class="chinese">他善于作诗。</span><span class="english">He is good at verse.</span></p>
 
 <p><span class="chinese">他擅长作诗。</span><span class="english">He is good at verse.</span></p>

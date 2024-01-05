@@ -1,5 +1,7 @@
 # evapotranspiration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evapotranspiration.md)
+
 <p><span class="chinese">植物通过水分蒸发调节绿色屋顶的温度。</span><span class="english">Plants in green roofs regulate their temperatures through evapotranspiration.</span></p>
 
 <p><span class="chinese">蒸散是土壤蒸发和植物蒸腾的总称。</span><span class="english">Evapotranspiration is the sum of soil evaporation and vegetation transpiration.</span></p>

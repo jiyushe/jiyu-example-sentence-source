@@ -1,5 +1,7 @@
 # interjection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interjection.md)
+
 <p><span class="chinese">第一章主要讨论感叹词的产生。</span><span class="english">The first one is to discuss the beginning of Interjection.</span></p>
 
 <p><span class="chinese">第二章主要讨论有关感叹词的界定问题。</span><span class="english">The second chapter discussed the problem of defining an interjection.</span></p>

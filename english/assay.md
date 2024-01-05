@@ -1,5 +1,7 @@
 # assay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assay.md)
+
 <p><span class="chinese">腐植酸钠如何化验?。</span><span class="english">Humic acerbity natrium how assay?</span></p>
 
 <p><span class="chinese">这种矿石经分析证明含金百分之七十五。</span><span class="english">The ore assay 75 percent of gold.</span></p>

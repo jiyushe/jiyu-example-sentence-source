@@ -1,5 +1,7 @@
 # 刻印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keyin.md)
+
 <p><span class="chinese">岁月在他的脸上刻印了很多皱纹。</span><span class="english">Age stamped his face with lines.</span></p>
 
 <p><span class="chinese">将这些细节深深地刻印在你的记忆里。</span><span class="english">Impress them strongly on your memory.</span></p>

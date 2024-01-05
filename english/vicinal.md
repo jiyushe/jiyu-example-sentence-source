@@ -1,5 +1,7 @@
 # vicinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vicinal.md)
+
 <p><span class="chinese">邻二醇可以有效地转化为壬酸和相应的二元酸单甲酯。</span><span class="english">Vicinal diol can be effectively translated into azelaic acid and the corresponding dicarboxylic acid monomethyl ester.</span></p>
 
 <p><span class="chinese">该文介绍了一种快捷、可靠的测定啤酒中双乙酰含量的分析法。</span><span class="english">A rapid and reliable analytical method for the detection of diacetyl and other vicinal Diketones in beer was described.</span></p>

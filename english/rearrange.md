@@ -1,5 +1,7 @@
 # rearrange
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rearrange.md)
+
 <p><span class="chinese">重写——重做——重排。</span><span class="english">Rewrite, redo, and rearrange.</span></p>
 
 <p><span class="chinese">你重新安排这些部分，它就改变了。</span><span class="english">You rearrange the parts, the thing changes.</span></p>

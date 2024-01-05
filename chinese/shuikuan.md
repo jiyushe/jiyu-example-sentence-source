@@ -1,5 +1,7 @@
 # 税款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuikuan.md)
+
 <p><span class="chinese">递送货物税款未付。</span><span class="english">DDU Delivered Duty unpaid.</span></p>
 
 <p><span class="chinese">我到哪里领退税款呢。</span><span class="english">Where can I get the refund.</span></p>

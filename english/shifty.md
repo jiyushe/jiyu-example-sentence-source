@@ -1,5 +1,7 @@
 # shifty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shifty.md)
+
 <p><span class="chinese">他是个贼头贼脑的家伙。</span><span class="english">He is a shifty fellow.</span></p>
 
 <p><span class="chinese">他看起来是个鬼头鬼脑的下流社会的角色。</span><span class="english">He looked like a shifty underworld character.</span></p>

@@ -1,5 +1,7 @@
 # 东拼西凑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongpinxicou.md)
+
 <p><span class="chinese">城市是个巨大的东拼西凑的现实。</span><span class="english">The city is a huge patchwork of realities.</span></p>
 
 <p><span class="chinese">她东拼西凑，弄出了一餐很不错的午饭来。</span><span class="english">She made up a good lunch from bits and pieces.</span></p>

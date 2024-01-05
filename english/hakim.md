@@ -1,5 +1,7 @@
 # hakim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hakim.md)
+
 <p><span class="chinese">伊兰哈基姆从以色列飞抵。</span><span class="english">Eran Hakim flew in from Israel.</span></p>
 
 <p><span class="chinese">阿卜杜勒哈基姆Belhadj，45岁，是新利比亚最有权势的人物之一。</span><span class="english">Abdel Hakim Belhadj, 45, is one of the most powerful men of the new Libya.</span></p>

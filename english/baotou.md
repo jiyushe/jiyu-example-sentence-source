@@ -1,5 +1,7 @@
 # baotou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baotou.md)
+
 <p><span class="chinese">但是，包头为此付出了高昂的代价。</span><span class="english">But Baotou has paid a steep price for its supremacy.</span></p>
 
 <p><span class="chinese">包头某科技股份公司成立于2003年。</span><span class="english">A science and technology company in Baotou was founded in 2003.</span></p>

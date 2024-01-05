@@ -1,5 +1,7 @@
 # demography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demography.md)
+
 <p><span class="chinese">你研究过人口学吗？</span><span class="english">Have you studied demography?</span></p>
 
 <p><span class="chinese">在波斯尼亚，人口政治学是高级政治。</span><span class="english">In Bosnia, demography is high politics.</span></p>

@@ -1,5 +1,7 @@
 # plateau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plateau.md)
+
 <p><span class="chinese">蒙古高原啊！</span><span class="english">Mongolia plateau Ah!</span></p>
 
 <p><span class="chinese">在高原建立一个兵营。</span><span class="english">Build a Barracks on your plateau.</span></p>

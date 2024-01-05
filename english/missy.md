@@ -1,5 +1,7 @@
 # missy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/missy.md)
+
 <p><span class="chinese">你是不能阻止我的，小蜜。</span><span class="english">You can't stop me, missy.</span></p>
 
 <p><span class="chinese">你还记得吗，米西？</span><span class="english">Don't you remember, Missy?</span></p>

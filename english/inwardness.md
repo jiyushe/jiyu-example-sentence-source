@@ -1,5 +1,7 @@
 # inwardness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inwardness.md)
+
 <p><span class="chinese">然而，央行此举另有深意。</span><span class="english">However, the central bank this otherwise inwardness.</span></p>
 
 <p><span class="chinese">这应该是此次政策出台的应有深意。</span><span class="english">This should be the current policy was due inwardness.</span></p>

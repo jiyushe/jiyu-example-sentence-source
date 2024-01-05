@@ -1,5 +1,7 @@
 # 金像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinxiang_1.md)
+
 <p><span class="chinese">所有他的臣民都要在金像前俯伏敬拜。</span><span class="english">All his subjects had to bow before it.</span></p>
 
 <p><span class="chinese">他常常在回家的路孤岛余生12金像上顺便来看看我。</span><span class="english">He usually dro in at my place on his way home.</span></p>

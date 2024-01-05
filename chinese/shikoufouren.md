@@ -1,5 +1,7 @@
 # 矢口否认
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shikoufouren.md)
+
 <p><span class="chinese">他矢口否认这个指控。</span><span class="english">He flatly denied the charge.</span></p>
 
 <p><span class="chinese">江川问其是否有中国姑娘，小岛矢口否认。</span><span class="english">Jiangchuan is there a Chinese girl, ask the island denied.</span></p>

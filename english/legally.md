@@ -1,5 +1,7 @@
 # legally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legally.md)
+
 <p><span class="chinese">它不具有法律强制性</span><span class="english">It's not legally enforceable.</span></p>
 
 <p><span class="chinese">我如何能在法律上保护自己呢？</span><span class="english">What do I need to legally protect myself?</span></p>

@@ -1,5 +1,7 @@
 # tasmanian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tasmanian.md)
+
 <p><span class="chinese">大蜘蛛尸罗的叫声实际上是袋獾的叫声。</span><span class="english">Shelob's shriek is actually the sound of a Tasmanian devil.</span></p>
 
 <p><span class="chinese">塔斯马尼亚重要产业部部长，大卫?勒文尼对此上诉表示欢迎。</span><span class="english">Tasmanian Primary Industries Minister David Llewellyn has welcomed the appeal.</span></p>

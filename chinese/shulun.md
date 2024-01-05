@@ -1,5 +1,7 @@
 # 数论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shulun.md)
+
 <p><span class="chinese">代数，数论，费尔马大定理等介绍。</span><span class="english">Algebra, Number Theory, Fermat's Last Theorem, etc.</span></p>
 
 <p><span class="chinese">在任意一本有关数论的书中，素数都是一个大的论题。</span><span class="english">The topic of primes is a large part of any book on number theory.</span></p>

@@ -1,5 +1,7 @@
 # unbind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbind.md)
+
 <p><span class="chinese">女孩开始解开编起来的头发。</span><span class="english">The girl started to unbind her braided hair.</span></p>
 
 <p><span class="chinese">协调器发送一个ZDO解除绑定请求给第一个设备。</span><span class="english">Send a ZDO Unbind Request to the first device.</span></p>

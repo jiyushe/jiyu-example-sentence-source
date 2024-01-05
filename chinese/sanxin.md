@@ -1,5 +1,7 @@
 # 散心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanxin.md)
+
 <p><span class="chinese">如果可以我想散心旅行。</span><span class="english">If I want to travel trip.</span></p>
 
 <p><span class="chinese">因此，按照莫兰说的那样，“注意晨练多走走，或者饭后出门散心。</span><span class="english">So “go for a morning walk or a lunchtime stroll.</span></p>

@@ -1,5 +1,7 @@
 # gruesome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gruesome.md)
+
 <p><span class="chinese">再次回到那次可怕事故。</span><span class="english">So here's the gruesome accident.</span></p>
 
 <p><span class="chinese">你不得好死，孩子！</span><span class="english">You deserve a gruesome death, boy!</span></p>

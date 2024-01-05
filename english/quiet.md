@@ -1,5 +1,7 @@
 # quiet 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quiet.md)
+
 <p><span class="chinese">约瑟夫沉默不语。</span><span class="english">Joseph was quiet.</span></p>
 
 <p><span class="chinese">喜欢这种沉寂无扰。</span><span class="english">I love this quiet.</span></p>

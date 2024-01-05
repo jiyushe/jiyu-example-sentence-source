@@ -1,5 +1,7 @@
 # solitarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solitarily.md)
+
 <p><span class="chinese">他一生孤独的为摆脱恐惧的自由而战，并且最终获得了自由！</span><span class="english">All his life he fought to free himself from fear solitarily and he made it!</span></p>
 
 <p><span class="chinese">大牛，丹顶鹤在繁殖的时候啊是要独居的。</span><span class="english">Daniel, during the breeding season, the red-crested cranes live solitarily.</span></p>

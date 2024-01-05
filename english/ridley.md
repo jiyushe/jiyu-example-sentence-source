@@ -1,5 +1,7 @@
 # ridley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ridley.md)
+
 <p><span class="chinese">里德利拿起一支铅笔，不停地在手里摆弄着。</span><span class="english">Ridley picked up a pencil and fiddled with it.</span></p>
 
 <p><span class="chinese">里德利以一种吹毛求疵的超然态度看待他的作品。</span><span class="english">Ridley viewed his work with a cynical detachment.</span></p>

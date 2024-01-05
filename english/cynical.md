@@ -1,5 +1,7 @@
 # cynical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cynical.md)
+
 <p><span class="chinese">他皮笑肉不笑。</span><span class="english">He smiled a cynical smile.</span></p>
 
 <p><span class="chinese">为什么你如此的愤世嫉俗？</span><span class="english">Why are you always so cynical?</span></p>

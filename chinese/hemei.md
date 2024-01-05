@@ -1,5 +1,7 @@
 # 和美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hemei.md)
+
 <p><span class="chinese">我要和美兰妮结婚了。</span><span class="english">I'm going to marry Melanie.</span></p>
 
 <p><span class="chinese">大英帝国的支持者和美提人。</span><span class="english">A. United Empire Loyalists and Métis.</span></p>

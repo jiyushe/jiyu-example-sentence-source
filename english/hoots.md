@@ -1,5 +1,7 @@
 # hoots
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoots.md)
+
 <p><span class="chinese">等待是时间的足蹄。</span><span class="english">Waiting is the hoots of time.</span></p>
 
 <p><span class="chinese">他的演讲遭到了轻蔑的嘘声。</span><span class="english">His speech was greeted with loud hoots.</span></p>

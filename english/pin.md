@@ -1,5 +1,7 @@
 # pin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pin.md)
+
 <p><span class="chinese">锁紧大钩销子。</span><span class="english">Lock the hook pin.</span></p>
 
 <p><span class="chinese">木栓或木钉。</span><span class="english">A wooden peg or pin.</span></p>

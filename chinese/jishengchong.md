@@ -1,5 +1,7 @@
 # 寄生虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jishengchong.md)
+
 <p><span class="chinese">而寄生虫拥有表决权。</span><span class="english">And the parasites vote.</span></p>
 
 <p><span class="chinese">他们是美国的寄生虫。</span><span class="english">They are parasites on America.</span></p>

@@ -1,5 +1,7 @@
 # 搬运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banyun_1.md)
+
 <p><span class="chinese">帮助他们搬运东西。</span><span class="english">Help them carry something.</span></p>
 
 <p><span class="chinese">那家公司承办搬运业务。</span><span class="english">That company does removals.</span></p>

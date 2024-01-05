@@ -1,5 +1,7 @@
 # 感受器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshouqi.md)
+
 <p><span class="chinese">直接作用于外周化学感受器。</span><span class="english">Act directly to peripheral chemoreceptor.</span></p>
 
 <p><span class="chinese">该装置与机体的压力感受器一起工作。</span><span class="english">The device works with the body's baroreceptors.</span></p>

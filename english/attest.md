@@ -1,5 +1,7 @@
 # attest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attest.md)
+
 <p><span class="chinese">我自己便能证实这一点。</span><span class="english">I can attest to that myself.</span></p>
 
 <p><span class="chinese">赞恩斯•塞浦瑞斯能够证明这一点。</span><span class="english">Zanes Cypress can attest to that.</span></p>

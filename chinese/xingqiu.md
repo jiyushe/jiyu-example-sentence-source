@@ -1,5 +1,7 @@
 # 星球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingqiu.md)
+
 <p><span class="chinese">丹尼星球。</span><span class="english">Planet Denny's.</span></p>
 
 <p><span class="chinese">爱丽亚星球的天气怎么样？</span><span class="english">Hows the weather in Ellia?</span></p>

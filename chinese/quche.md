@@ -1,5 +1,7 @@
 # 驱车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quche.md)
+
 <p><span class="chinese">我们驱车向北行了十英里路。</span><span class="english">We drove north for 10 miles.</span></p>
 
 <p><span class="chinese">喝完茶，我们驱车去买菜。</span><span class="english">After tea, we drove to buy food.</span></p>

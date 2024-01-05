@@ -1,5 +1,7 @@
 # 疥疮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiechuang.md)
+
 <p><span class="chinese">疥疮，学名疥螨。</span><span class="english">This is a scabies mite.</span></p>
 
 <p><span class="chinese">疥螨会引起疥疮。</span><span class="english">Itch mites cause scabies.</span></p>

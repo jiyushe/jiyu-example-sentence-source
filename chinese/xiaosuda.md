@@ -1,5 +1,7 @@
 # 小苏打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaosuda.md)
+
 <p><span class="chinese">可用小苏打水擦亮你的银器。</span><span class="english">Use it with water to  polish your silver.</span></p>
 
 <p><span class="chinese">可用小苏打清洗你的垃圾罐。</span><span class="english">Wash your  garbage cans with baking soda.</span></p>

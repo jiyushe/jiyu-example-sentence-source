@@ -1,5 +1,7 @@
 # traffic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traffic.md)
+
 <p><span class="chinese">交通阻塞。</span><span class="english">Traffic blocking.</span></p>
 
 <p><span class="chinese">慢车道?。</span><span class="english">Slow traffic lane?</span></p>

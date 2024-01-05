@@ -1,5 +1,7 @@
 # confessional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confessional.md)
+
 <p><span class="chinese">我的个人网站上有一个“忏悔室”。</span><span class="english">I have a Confessional on my website.</span></p>
 
 <p><span class="chinese">不久，又一个男的来忏悔。</span><span class="english">Soon after, another man enters the confessional.</span></p>

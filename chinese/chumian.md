@@ -1,5 +1,7 @@
 # 出面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chumian.md)
+
 <p><span class="chinese">政府需要出面。</span><span class="english">The governments need to step up.</span></p>
 
 <p><span class="chinese">事实上，持怀疑观点的人已经出面放话了。</span><span class="english">The doubters, in fact, have already come forward.</span></p>

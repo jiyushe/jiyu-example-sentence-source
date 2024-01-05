@@ -1,5 +1,7 @@
 # 委员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyuan.md)
+
 <p><span class="chinese">他当选为委员。</span><span class="english">He was elected to the committee.</span></p>
 
 <p><span class="chinese">“万事开头难嘛，”NTC委员说道。</span><span class="english">Teething problems, say NTC members.</span></p>

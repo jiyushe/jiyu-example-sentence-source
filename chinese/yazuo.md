@@ -1,5 +1,7 @@
 # 雅座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yazuo.md)
+
 <p><span class="chinese">是的，我们还有一间雅座可以安排宴席。</span><span class="english">Yes, we still have a private room for banquets.</span></p>
 
 <p><span class="chinese">一楼浴池，二楼旅馆饭庄，有雅座。</span><span class="english">The first floor bath, second floor hotel Fanzhuang, in private.</span></p>

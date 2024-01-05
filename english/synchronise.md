@@ -1,5 +1,7 @@
 # synchronise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchronise.md)
+
 <p><span class="chinese">将配乐和电影情节进行同步合成。</span><span class="english">Synchronise the score with the film action.</span></p>
 
 <p><span class="chinese">大标题组–用一个免费的在线帐户同步化你的新闻供养。</span><span class="english">HeadLine Groups – Synchronise your news feeds with a free online account.</span></p>

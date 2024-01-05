@@ -1,5 +1,7 @@
 # riprap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riprap.md)
+
 <p><span class="chinese">以椭圆流速分布公式出发，建立了抛石位移计算公式。</span><span class="english">Formulas of the displacement of riprap are derived from the elliptic velocity formula.</span></p>
 
 <p><span class="chinese">在抛石层中进行防渗止水，一直是工程技术人员面临的一个难题。</span><span class="english">Anti-seepage treatment in riprap layer has always been a hard problem to engineers and technicians.</span></p>

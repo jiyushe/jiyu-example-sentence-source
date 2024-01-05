@@ -1,5 +1,7 @@
 # 偏方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianfang.md)
+
 <p><span class="chinese">听说过一种生洋葱的偏方吗？</span><span class="english">Heard the one about the raw onion?</span></p>
 
 <p><span class="chinese">这位赤脚医生有治疗白浊的偏方。</span><span class="english">The doctor has a way to treat gonorrhea.</span></p>

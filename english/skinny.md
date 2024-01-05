@@ -1,5 +1,7 @@
 # skinny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skinny.md)
+
 <p><span class="chinese">我怕你这双枯瘦的手！</span><span class="english">I fear thy skinny hand!</span></p>
 
 <p><span class="chinese">枯瘦干黄的手掌。</span><span class="english">Skinny stem yellow palms.</span></p>

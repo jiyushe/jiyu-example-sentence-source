@@ -1,5 +1,7 @@
 # yen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yen.md)
+
 <p><span class="chinese">日元在回升。</span><span class="english">The yen is turning up.</span></p>
 
 <p><span class="chinese">我可以用日币付吗？</span><span class="english">Can I pay in Japanese yen ?</span></p>

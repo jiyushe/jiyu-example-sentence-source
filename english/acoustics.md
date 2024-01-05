@@ -1,5 +1,7 @@
 # acoustics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acoustics.md)
+
 <p><span class="chinese">这个大厅音响效果好。</span><span class="english">The hall has good acoustics.</span></p>
 
 <p><span class="chinese">这是什么声学原理呢</span><span class="english">What about the acoustics here?</span></p>

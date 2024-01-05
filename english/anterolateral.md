@@ -1,5 +1,7 @@
 # anterolateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anterolateral.md)
+
 <p><span class="chinese">降支股前外侧皮瓣。</span><span class="english">Skin flap of anterolateral region of thigh.</span></p>
 
 <p><span class="chinese">经右前外侧入路行椎体后凸成形术获得成功。</span><span class="english">Kyphoplasty was performed successfully through a right anterolateral approach.</span></p>

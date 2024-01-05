@@ -1,5 +1,7 @@
 # nobler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nobler.md)
+
 <p><span class="chinese">他比他的邻居出身高贵。</span><span class="english">He was nobler than his neighbours.</span></p>
 
 <p><span class="chinese">一个并不比另一个更高明，更高尚。</span><span class="english">One is not higher, nobler than the other.</span></p>

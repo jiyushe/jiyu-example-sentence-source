@@ -1,5 +1,7 @@
 # excise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excise.md)
+
 <p><span class="chinese">她必须切除每一片癌变的组织。</span><span class="english">She must excise every scrap of cancerous tissue.</span></p>
 
 <p><span class="chinese">术中不切断股直肌的起点，减少损伤。</span><span class="english">To decrease the damage, don't excise rectus femoris.</span></p>

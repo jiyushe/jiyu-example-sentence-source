@@ -1,5 +1,7 @@
 # shortcut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortcut.md)
+
 <p><span class="chinese">我找到一条近路。</span><span class="english">I found a shortcut.</span></p>
 
 <p><span class="chinese">你能不能走捷径？</span><span class="english">Can you take a shortcut?</span></p>

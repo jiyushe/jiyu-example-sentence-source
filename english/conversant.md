@@ -1,5 +1,7 @@
 # conversant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conversant.md)
+
 <p><span class="chinese">他通晓世界史。</span><span class="english">He is conversant in world history.</span></p>
 
 <p><span class="chinese">我们的经理懂得管帐轨制。</span><span class="english">Our manager is conversant with account system.</span></p>

@@ -1,5 +1,7 @@
 # cricket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cricket.md)
+
 <p><span class="chinese">那是个蛐蛐。</span><span class="english">She is a cricket.</span></p>
 
 <p><span class="chinese">我喜欢打板球。</span><span class="english">I like to play cricket.</span></p>

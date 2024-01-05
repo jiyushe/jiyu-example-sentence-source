@@ -1,5 +1,7 @@
 # sunshade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunshade.md)
+
 <p><span class="chinese">你注意到我把遮阳伞放哪儿了吗?。</span><span class="english">Did you notice where I put my sunshade?</span></p>
 
 <p><span class="chinese">她的手腕套在阳伞上那编织成的饰环里。</span><span class="english">Wrist through the braided jess of her sunshade.</span></p>

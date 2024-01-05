@@ -1,5 +1,7 @@
 # valet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valet.md)
+
 <p><span class="chinese">先生.只能代客停车.</span><span class="english">Valet parking only, sir.</span></p>
 
 <p><span class="chinese">可以.但是只能代客停车.</span><span class="english">Yes, but it`s valet parking only.</span></p>

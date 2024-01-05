@@ -1,5 +1,7 @@
 # internalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internalize.md)
+
 <p><span class="chinese">想到快乐，注入内心。</span><span class="english">Think about it. Internalize it.</span></p>
 
 <p><span class="chinese">换言之，热情帮你将效率内化。</span><span class="english">In other words, passion helps you internalize the efficiency.</span></p>

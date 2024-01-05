@@ -1,5 +1,7 @@
 # modulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modulation.md)
+
 <p><span class="chinese">一种调制解调设备。</span><span class="english">A modulation and demodulation device.</span></p>
 
 <p><span class="chinese">被测信号为脉冲调制信号。</span><span class="english">The input signal is pulse modulation.</span></p>

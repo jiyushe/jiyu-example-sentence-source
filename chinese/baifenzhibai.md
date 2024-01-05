@@ -1,5 +1,7 @@
 # 百分之百
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baifenzhibai.md)
+
 <p><span class="chinese">我百分之百的肯定。</span><span class="english">I'm a hundred percent certain.</span></p>
 
 <p><span class="chinese">那还用说，我吻了，姨妈，百分之百的肯定。</span><span class="english">Why, yes, I did, auntie—certain sure.</span></p>

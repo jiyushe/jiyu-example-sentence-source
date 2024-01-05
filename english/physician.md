@@ -1,5 +1,7 @@
 # physician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physician.md)
+
 <p><span class="chinese">我的父亲是位医生。</span><span class="english">My father is a physician.</span></p>
 
 <p><span class="chinese">世界上没有一成不变的东西。</span><span class="english">The inalterable routine of a physician.</span></p>

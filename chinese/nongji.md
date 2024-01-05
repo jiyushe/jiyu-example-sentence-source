@@ -1,5 +1,7 @@
 # 农技
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongji.md)
+
 <p><span class="chinese">把他誉为“农技铁人”。</span><span class="english">Put him as the "Agricultural Iron Man."</span></p>
 
 <p><span class="chinese">八是完善理顺农技推广体系。</span><span class="english">Eighth, consummate the system of popularizing agricultural technique.</span></p>

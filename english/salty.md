@@ -1,5 +1,7 @@
 # salty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salty.md)
+
 <p><span class="chinese">是咸食？</span><span class="english">Is it a salty food?</span></p>
 
 <p><span class="chinese">所以说读书是咸的。</span><span class="english">So reading is salty.</span></p>

@@ -1,5 +1,7 @@
 # 转战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzhan.md)
+
 <p><span class="chinese">乔许亚是业馀的网球选手，但他希望有一天能转战职业。</span><span class="english">Joshua is an amateur tennis player, but he hopes to turn professional one day.</span></p>
 
 <p><span class="chinese">刘永行转战上海，在铝业、发电厂和金融产业上进行投资。</span><span class="english">Yongxing moved to Shanghai and invested in aluminum, power plants and finance.</span></p>

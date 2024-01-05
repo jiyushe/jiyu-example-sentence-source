@@ -1,5 +1,7 @@
 # selfsame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selfsame.md)
+
 <p><span class="chinese">他们俩都是那一天出生的。</span><span class="english">They were both born on that selfsame day.</span></p>
 
 <p><span class="chinese">他在同一天获得两块金牌。</span><span class="english">He won two gold medals on the selfsame day.</span></p>

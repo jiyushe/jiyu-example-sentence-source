@@ -1,5 +1,7 @@
 # 外方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waifang.md)
+
 <p><span class="chinese">马的内方肢在外方肢前方交叉越过。</span><span class="english">The inside legs pass and cross in front of the outside legs.</span></p>
 
 <p><span class="chinese">若外方人在你们的地域内，与你住在一起，不可欺压他。</span><span class="english">When an alien resides with you in your land, do not molest him.</span></p>

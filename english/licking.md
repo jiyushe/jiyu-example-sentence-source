@@ -1,5 +1,7 @@
 # licking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/licking.md)
+
 <p><span class="chinese">不要舔舐筷子。</span><span class="english">Licking your chopsticks.</span></p>
 
 <p><span class="chinese">熊熊的火焰舔舐着墙脚。</span><span class="english">Flames are licking at their walls.</span></p>

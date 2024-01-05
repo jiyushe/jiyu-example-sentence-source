@@ -1,5 +1,7 @@
 # 事前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqian.md)
+
 <p><span class="chinese">做事前我会定计划和目标。</span><span class="english">I plan ahead and set goals.</span></p>
 
 <p><span class="chinese">赛事前，他已把那头牡马详细检验。</span><span class="english">He vetted the stallion before the race.</span></p>

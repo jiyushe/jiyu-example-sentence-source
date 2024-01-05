@@ -1,5 +1,7 @@
 # comptroller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comptroller.md)
+
 <p><span class="chinese">例如，我们现有的,美国货币监理署。</span><span class="english">For example, we have the Office of the Comptroller of the Currency.</span></p>
 
 <p><span class="chinese">委员会无法威胁联邦法庭，因为他们有审计官。</span><span class="english">The board couldn't buffalo the federal courts as it had the Comptroller.</span></p>

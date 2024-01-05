@@ -1,5 +1,7 @@
 # 感染力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganranli.md)
+
 <p><span class="chinese">很有感染力。</span><span class="english">and it's contagious, you know.</span></p>
 
 <p><span class="chinese">很明显，演说缺少感染力。</span><span class="english">Obvisouly the speech lacked punch.</span></p>

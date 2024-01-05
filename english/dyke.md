@@ -1,5 +1,7 @@
 # dyke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyke.md)
+
 <p><span class="chinese">防疫堤防几丈高？</span><span class="english">How high a dyke?</span></p>
 
 <p><span class="chinese">洪水冲垮了堤坝。</span><span class="english">The flood waters burst the dyke.</span></p>

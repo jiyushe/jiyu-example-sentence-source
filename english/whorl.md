@@ -1,5 +1,7 @@
 # whorl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whorl.md)
+
 <p><span class="chinese">求，旋舞多开器。要没有毒的，感谢。</span><span class="english">The demand , whorl dance fire an implement much.</span></p>
 
 <p><span class="chinese">一次偶然的机遇，让我们相聚在炫舞里。</span><span class="english">A accidental chance, lets us meet at whorl dance li.</span></p>

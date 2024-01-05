@@ -1,5 +1,7 @@
 # crabby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crabby.md)
+
 <p><span class="chinese">最近感觉易怒吗？</span><span class="english">Feeling crabby lately?</span></p>
 
 <p><span class="chinese">我对工作很来气。</span><span class="english">I fell crabby at work.</span></p>

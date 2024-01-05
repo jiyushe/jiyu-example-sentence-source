@@ -1,5 +1,7 @@
 # 转送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuansong.md)
+
 <p><span class="chinese">你运气不错在精神病区转送过来一个人…</span><span class="english">As luck would have it, I found him in the Psych Ward.</span></p>
 
 <p><span class="chinese">资料元经常无法转送到它们的目的地。</span><span class="english">Datagrams cannot always be forwarded to their destinations.</span></p>

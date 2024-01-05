@@ -1,5 +1,7 @@
 # fabricate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fabricate.md)
+
 <p><span class="chinese">在下一节中，我们将制作的网页gussets坐骑。</span><span class="english">In the next section, we will fabricate the web gussets.</span></p>
 
 <p><span class="chinese">无论弯头、方管还是圆管都可制作接合。</span><span class="english">Can fabricate and joint together either bent or rect. pipe.</span></p>

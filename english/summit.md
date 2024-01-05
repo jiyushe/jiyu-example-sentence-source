@@ -1,5 +1,7 @@
 # summit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summit.md)
+
 <p><span class="chinese">云笼罩着山顶。</span><span class="english">Clouds enshrouded the summit.</span></p>
 
 <p><span class="chinese">拉斯姆森在北约峰会上说。</span><span class="english">Rasmussen said at the NATO summit.</span></p>

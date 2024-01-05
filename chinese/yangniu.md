@@ -1,5 +1,7 @@
 # 养牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangniu.md)
+
 <p><span class="chinese">他们在农场上养牛。</span><span class="english">They keep cattle on their farm.</span></p>
 
 <p><span class="chinese">养牛大多是为了提供奶制品。</span><span class="english">Cattle are raised mostly for dairy.</span></p>

@@ -1,5 +1,7 @@
 # electroless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electroless.md)
+
 <p><span class="chinese">用SKM分析了化学镀钴磷薄膜样品。</span><span class="english">Electroless plating Co-P films were also studied by SKM.</span></p>
 
 <p><span class="chinese">化学镀镍气缸的耐腐蚀性。</span><span class="english">Electroless nickel-plated cylinders for corrosion resistance.</span></p>

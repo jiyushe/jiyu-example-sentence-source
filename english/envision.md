@@ -1,5 +1,7 @@
 # envision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/envision.md)
+
 <p><span class="chinese">我无法想像他是总统。</span><span class="english">I cannot envision him as president.</span></p>
 
 <p><span class="chinese">或者你也可以把傻瓜看成一个泡泡。</span><span class="english">Or you can envision the idiot in a bubble.</span></p>

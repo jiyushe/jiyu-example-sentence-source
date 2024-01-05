@@ -1,5 +1,7 @@
 # expansionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expansionism.md)
+
 <p><span class="chinese">我们也需要海绵国家来吸收中国的扩张主义。</span><span class="english">We also need sponge-countries to absorbChinese expansionism.</span></p>
 
 <p><span class="chinese">卡塞尔仍然是欧洲浣熊扩散的主要城市。</span><span class="english">Kassel remains the capital city of raccoon expansionism in Europe.</span></p>

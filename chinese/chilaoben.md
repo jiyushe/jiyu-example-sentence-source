@@ -1,5 +1,7 @@
 # 吃老本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chilaoben.md)
+
 <p><span class="chinese">他不做生意光吃老本。</span><span class="english">He does no business but lives on his capital.</span></p>
 
 <p><span class="chinese">看来我们再也不能靠吃老本过曰子了。</span><span class="english">It seems that we can no longer afford to rest on our Laurels.</span></p>

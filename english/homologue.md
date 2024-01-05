@@ -1,5 +1,7 @@
 # homologue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homologue.md)
+
 <p><span class="chinese">右脑中对应布洛卡区的这个脑区，对于一个人是否擅长跳舞有没有影响？</span><span class="english">What role might the homologue to Broca's area have in enabling a person to dance?</span></p>
 
 <p><span class="chinese">同时与20世纪象征诗人的“客观对应物”也有共同之处，都努力使生命的本真呈现出来。</span><span class="english">It also had something in common with 20-century imagist poetry's objective homologue.</span></p>

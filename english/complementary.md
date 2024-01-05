@@ -1,5 +1,7 @@
 # complementary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complementary.md)
+
 <p><span class="chinese">红色和绿色是互补色。</span><span class="english">And green are complementary colors.</span></p>
 
 <p><span class="chinese">我想他们是非常互补的。</span><span class="english">I think they are very complementary.</span></p>

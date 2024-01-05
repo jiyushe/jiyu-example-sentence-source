@@ -1,5 +1,7 @@
 # spirometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spirometry.md)
+
 <p><span class="chinese">所有适宜的参与者都做了肺量测量。</span><span class="english">Spirometry was performed on all eligible participants.</span></p>
 
 <p><span class="chinese">如果你的症状和肺功能测试并不能清楚地表明你患有哮喘，那么你就可以进行这项试验。</span><span class="english">This test may be performed if your symptoms and spirometry test do not clearly show asthma.</span></p>

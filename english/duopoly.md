@@ -1,5 +1,7 @@
 # duopoly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duopoly.md)
+
 <p><span class="chinese">以下哪一项最好地描述了双头垄断？</span><span class="english">Which of the following best describes duopoly ?</span></p>
 
 <p><span class="chinese">你们有多少人学过古诺双寡头模型</span><span class="english">How many of you have seen Cournot Duopoly before?</span></p>

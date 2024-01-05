@@ -1,5 +1,7 @@
 # expropriation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expropriation.md)
+
 <p><span class="chinese">部分甚至会面临资产被没收的境地。</span><span class="english">Some may even face the expropriation of their assets.</span></p>
 
 <p><span class="chinese">已经用以留水的土地能否保证不会被征用？</span><span class="english">Will the land used to keep the water be protected from expropriation?</span></p>

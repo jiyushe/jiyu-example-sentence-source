@@ -1,5 +1,7 @@
 # garnish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garnish.md)
+
 <p><span class="chinese">冰过的七喜，饰以莱姆片。</span><span class="english">Garnish with a lime slice.</span></p>
 
 <p><span class="chinese">装饰菜盘的意思是？</span><span class="english">To garnish a dish, means to?</span></p>

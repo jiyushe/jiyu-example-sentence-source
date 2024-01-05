@@ -1,5 +1,7 @@
 # 罪魁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuikui.md)
+
 <p><span class="chinese">电动汽车昂贵的罪魁是蓄电池。</span><span class="english">What makes an EV expensive is the battery.</span></p>
 
 <p><span class="chinese">水火金钱是忠仆，应用不该是罪魁。</span><span class="english">Fire, water, and money are good servants, but bad masters.</span></p>

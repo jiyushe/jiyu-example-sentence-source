@@ -1,5 +1,7 @@
 # 客房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kefang.md)
+
 <p><span class="chinese">早上好，客房服务！</span><span class="english">Good morning, room service!</span></p>
 
 <p><span class="chinese">客房管理部，我可以进来吗?。</span><span class="english">House keeping. May I help you?</span></p>

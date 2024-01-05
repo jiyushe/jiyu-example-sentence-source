@@ -1,5 +1,7 @@
 # proximity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proximity.md)
+
 <p><span class="chinese">第一个是邻近性。</span><span class="english">One is proximity.</span></p>
 
 <p><span class="chinese">这是一个邻近度和程度问题。</span><span class="english">It is a question of proximity and degree.</span></p>

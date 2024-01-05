@@ -1,5 +1,7 @@
 # condenses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condenses.md)
+
 <p><span class="chinese">水蒸气凝成了小水滴。</span><span class="english">Steam condenses into drops of water.</span></p>
 
 <p><span class="chinese">冷风使水蒸汽凝结成雨。</span><span class="english">The cold wind condenses vapor into rain.</span></p>

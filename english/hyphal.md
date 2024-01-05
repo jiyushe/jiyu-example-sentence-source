@@ -1,5 +1,7 @@
 # hyphal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyphal.md)
+
 <p><span class="chinese">实验证明，菌丝片段分离法效果良好。</span><span class="english">The experiment proved the good result of hyphal fragment separation.</span></p>
 
 <p><span class="chinese">菌丝生长停止后，菌丝顶端钙调素浓度梯度消失。</span><span class="english">When the growth of hyphal tip cease, it shows an even Calmodulin distribution.</span></p>

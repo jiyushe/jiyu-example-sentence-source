@@ -1,5 +1,7 @@
 # officially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/officially.md)
+
 <p><span class="chinese">我正式皈依。</span><span class="english">I'm officially a convert.</span></p>
 
 <p><span class="chinese">我现在正式是一名博主。</span><span class="english">I’m officially a ProBlogger now.</span></p>

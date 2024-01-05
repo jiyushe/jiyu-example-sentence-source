@@ -1,5 +1,7 @@
 # subprogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subprogram.md)
+
 <p><span class="chinese">方面子程序用作一类称作方面编织器的新编译器的一部分。</span><span class="english">The aspect subprogram is used as part of a new</span></p>
 
 <p><span class="chinese">使用宏程序和子程序编程，可以减少数控编程者的重复劳动。</span><span class="english">It can reduce repetitive labor of NC coder using macro-program and subprogram.</span></p>

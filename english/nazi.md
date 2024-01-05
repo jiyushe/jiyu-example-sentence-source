@@ -1,5 +1,7 @@
 # nazi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nazi.md)
+
 <p><span class="chinese">我很气，叫了他一声“死纳粹”。</span><span class="english">" Nazi death" I said angrily.</span></p>
 
 <p><span class="chinese">文学和艺术都反映它们的时代。</span><span class="english">The psychohistory of the Nazi era.</span></p>

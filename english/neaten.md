@@ -1,5 +1,7 @@
 # neaten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neaten.md)
+
 <p><span class="chinese">要不要把两边修修齐？</span><span class="english">Shall I neaten up the side?</span></p>
 
 <p><span class="chinese">我正在整理矮书架上的书。</span><span class="english">I am neaten the books on the low bookshelf.</span></p>

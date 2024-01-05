@@ -1,5 +1,7 @@
 # 雨靴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxue_2.md)
+
 <p><span class="chinese">但这就是雨靴的用途。</span><span class="english">But that's what the rain boots are for.</span></p>
 
 <p><span class="chinese">雨锲入庄重的雨靴。</span><span class="english">Rain implant in the serious rain boots.</span></p>

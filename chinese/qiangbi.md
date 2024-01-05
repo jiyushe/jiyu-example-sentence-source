@@ -1,5 +1,7 @@
 # 墙壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangbi.md)
+
 <p><span class="chinese">所有墙壁都是白的。</span><span class="english">All the walls are white.</span></p>
 
 <p><span class="chinese">他们把墙壁挖穿了。</span><span class="english">They dug through the wall.</span></p>

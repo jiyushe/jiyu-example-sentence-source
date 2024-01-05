@@ -1,5 +1,7 @@
 # 利落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liluo.md)
+
 <p><span class="chinese">那把小刀切起来不利落。</span><span class="english">That knife doesn't cut clean.</span></p>
 
 <p><span class="chinese">这把刀切起来不利落。</span><span class="english">This knife doesn't cut cleanly.</span></p>

@@ -1,5 +1,7 @@
 # thermocoagulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermocoagulation.md)
+
 <p><span class="chinese">目的研究微波热凝在鼻窦内窥镜术中的临床作用。</span><span class="english">Objective To research the clinical effect of microwave thermocoagulation in endonasal sinus surgery.</span></p>
 
 <p><span class="chinese">结论射频热凝固微创技术是治疗早期子宫良性病变安全有效的新途径。</span><span class="english">Conclusion Radio-frequency thermocoagulation microtraumatic technology provides a new method to treat cervical benign lesions.</span></p>

@@ -1,5 +1,7 @@
 # 灾民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaimin.md)
+
 <p><span class="chinese">灾民的需求是巨大的。</span><span class="english">And, the needs are vast.</span></p>
 
 <p><span class="chinese">政府向灾民发放了救济品。</span><span class="english">The government provide alms to the victims.</span></p>

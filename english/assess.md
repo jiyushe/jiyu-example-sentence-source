@@ -1,5 +1,7 @@
 # assess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assess.md)
+
 <p><span class="chinese">那你该怎么评估收益？</span><span class="english">How do you assess that?</span></p>
 
 <p><span class="chinese">我们需要去评价它吗？</span><span class="english">Do we need to assess it?</span></p>

@@ -1,5 +1,7 @@
 # 不管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buguan.md)
+
 <p><span class="chinese">不管是荒野还是浓雾，它都是美妙的！</span><span class="english">It’s all wonderful.</span></p>
 
 <p><span class="chinese">韩佳也不管我。</span><span class="english">Han Jia left me too.</span></p>

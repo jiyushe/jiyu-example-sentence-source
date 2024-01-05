@@ -1,5 +1,7 @@
 # expunge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expunge.md)
+
 <p><span class="chinese">你没办法抹杀自己的过去.</span><span class="english">And you have no way to expunge your past.</span></p>
 
 <p><span class="chinese">从需求文档中除去此垃圾。</span><span class="english">Expunge this junk from the requirements document.</span></p>

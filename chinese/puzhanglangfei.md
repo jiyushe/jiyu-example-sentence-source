@@ -1,5 +1,7 @@
 # 铺张浪费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puzhanglangfei.md)
+
 <p><span class="chinese">我痛恨铺张浪费。</span><span class="english">I hate waste and excess.</span></p>
 
 <p><span class="chinese">铺张浪费将会是个大问题。</span><span class="english">Extravagance will be a problem.</span></p>

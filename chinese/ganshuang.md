@@ -1,5 +1,7 @@
 # 干爽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshuang.md)
+
 <p><span class="chinese">保持您的双脚清洁干爽。</span><span class="english">Keep your feet clean and dry.</span></p>
 
 <p><span class="chinese">有人说，当夜晚干爽、舒馨。</span><span class="english">Some say when nights are dry and dear.</span></p>

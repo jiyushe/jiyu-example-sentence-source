@@ -1,5 +1,7 @@
 # reversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reversion.md)
+
 <p><span class="chinese">野草意味着均值回归。</span><span class="english">And "pigweed" all started with "mean reversion.</span></p>
 
 <p><span class="chinese">在精神状态层面，我们经历了同他们相似的逆转。</span><span class="english">There has been a similar reversion in our mental attitudes.</span></p>

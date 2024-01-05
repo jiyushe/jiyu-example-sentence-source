@@ -1,5 +1,7 @@
 # 大哥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dage.md)
+
 <p><span class="chinese">只要叫我迪夫大哥就好了。</span><span class="english">Just call me Big Brother Dave.</span></p>
 
 <p><span class="chinese">大哥继续奔波于各大慈善事业</span><span class="english">Jackie Continues Charitable Work</span></p>

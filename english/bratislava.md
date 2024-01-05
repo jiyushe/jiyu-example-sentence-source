@@ -1,5 +1,7 @@
 # bratislava
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bratislava.md)
+
 <p><span class="chinese">警察还下令所有人撤离布拉迪斯拉发国际机机场。</span><span class="english">Also police ordered all people to leave the international airport in Bratislava.</span></p>
 
 <p><span class="chinese">在斯洛伐克首都布拉迪斯拉郊区，一名男子枪杀了7人，随后饮弹自尽。</span><span class="english">A gunman has killed seven people in a suburb of the Slovak capital Bratislava before turning the gun on himself.</span></p>

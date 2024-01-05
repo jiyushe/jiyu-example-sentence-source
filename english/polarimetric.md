@@ -1,5 +1,7 @@
 # polarimetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polarimetric.md)
+
 <p><span class="chinese">对1975年天鹅座新星进行了偏振测光。</span><span class="english">Polarimetric observations of Nova Cygni 1975 are presented.</span></p>
 
 <p><span class="chinese">为了作旋光度分析，你将会把香芹酮转变为缩胺基脲。</span><span class="english">You will convert the carvone to its semicarbazone for use in a polarimetric analysis.</span></p>

@@ -1,5 +1,7 @@
 # hdl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hdl.md)
+
 <p><span class="chinese">低密度脂蛋白和高密度脂蛋白都增加了,这不对</span><span class="english">It raises both LDL and HDL this can't be right.</span></p>
 
 <p><span class="chinese">它可能降低了高密度脂蛋白,但我要回去查一查</span><span class="english">It probably lowers HDL but I'll have to go back and check that.</span></p>

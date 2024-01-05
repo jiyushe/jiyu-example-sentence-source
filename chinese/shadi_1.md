@@ -1,5 +1,7 @@
 # 沙堤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shadi_1.md)
+
 <p><span class="chinese">沙堤和障碍正在修建。</span><span class="english">Sand banks and barriers are being built.</span></p>
 
 <p><span class="chinese">今天的河流有着高高的泥堤、沙堤和弯道。</span><span class="english">Rivers today have high muddy banks, sandbars and bends.</span></p>

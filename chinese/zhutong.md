@@ -1,5 +1,7 @@
 # 竹筒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhutong.md)
+
 <p><span class="chinese">劈开竹筒，就可以吃饭了！</span><span class="english">Split bamboo, you can lunch!</span></p>
 
 <p><span class="chinese">竹筒当作水烟袋。</span><span class="english">Bamboo tubes are used as hookah.</span></p>

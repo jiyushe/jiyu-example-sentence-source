@@ -1,5 +1,7 @@
 # gin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gin.md)
+
 <p><span class="chinese">不过我是认真的，金儿。</span><span class="english">But I'm serious, Gin.</span></p>
 
 <p><span class="chinese">伯顿呷了一口杜松子香槟酒。</span><span class="english">Burton sipped his gin fizz.</span></p>

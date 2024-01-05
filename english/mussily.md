@@ -1,5 +1,7 @@
 # mussily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mussily.md)
+
 <p><span class="chinese">颞颌关节功能紊乱怎么治疗，应该注意什么?。</span><span class="english">How is function of Nie jaw joint treated mussily , what should notice?</span></p>
 
 <p><span class="chinese">本病多与精神过度紧张，导致内分泌功能紊乱有关。</span><span class="english">This disease is much as het-up as spirit, bring about endocrine function to be concerned mussily.</span></p>

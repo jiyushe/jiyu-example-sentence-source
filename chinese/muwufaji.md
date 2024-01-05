@@ -1,5 +1,7 @@
 # 目无法纪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muwufaji.md)
+
 <p><span class="chinese">他们目无法纪。</span><span class="english">They trampled law and order under foot.</span></p>
 
 <p><span class="chinese">这将使每个目无法纪之徒都对法律充满恐惧。</span><span class="english">That should put the fear of the law in any wayward person.</span></p>

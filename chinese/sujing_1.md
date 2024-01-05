@@ -1,5 +1,7 @@
 # 肃静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sujing_1.md)
+
 <p><span class="chinese">法庭内保持肃静。</span><span class="english">Order in the court.</span></p>
 
 <p><span class="chinese">全场肃静无声。</span><span class="english">A solemn silence reigned.</span></p>

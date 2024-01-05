@@ -1,5 +1,7 @@
 # viscount
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viscount.md)
+
 <p><span class="chinese">本人拥有子爵权利的女子爵。</span><span class="english">A noblewoman holding the rank of viscount in her own right.</span></p>
 
 <p><span class="chinese">18蒙克顿子爵，2006年11月23号，致乔治·蒙博特的信</span><span class="english">Viscount Monckton, 23rd November 2006. Letter to George Monbiot</span></p>

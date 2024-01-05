@@ -1,5 +1,7 @@
 # cuff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuff.md)
+
 <p><span class="chinese">鸡英上袖位打褶。</span><span class="english">Pleated cuff at sleeve join.</span></p>
 
 <p><span class="chinese">检查袖带是否偏小？</span><span class="english">Is the Pressure Cuff Too Small ?</span></p>

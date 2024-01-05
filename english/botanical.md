@@ -1,5 +1,7 @@
 # botanical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/botanical.md)
+
 <p><span class="chinese">你去过植物博物馆吗？</span><span class="english">Have you ever been to the Botanical Museum?</span></p>
 
 <p><span class="chinese">我不太熟悉植物学方面的名称。</span><span class="english">I am not very familiar with botanical names.</span></p>

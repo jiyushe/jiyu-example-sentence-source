@@ -1,5 +1,7 @@
 # narrowband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narrowband.md)
+
 <p><span class="chinese">两张照片都用窄波段滤光镜和不同颜色映射。</span><span class="english">Both images were made using narrowband filters and different color mappings.</span></p>
 
 <p><span class="chinese">同时也计算了两个水听器噪声的宽带和窄带空间相关系数。</span><span class="english">The wideband and narrowband correlations for two hydrophones were also calculated.</span></p>

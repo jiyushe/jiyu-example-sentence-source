@@ -1,5 +1,7 @@
 # assiduously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assiduously.md)
+
 <p><span class="chinese">他们为造福于后代而勤奋地劳动。</span><span class="english">They labour assiduously for the benefit of future generations.</span></p>
 
 <p><span class="chinese">某学生刻苦学习英语，终有小成。</span><span class="english">Some students study English assiduously , the end has small Cheng.</span></p>

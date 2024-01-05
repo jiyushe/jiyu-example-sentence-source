@@ -1,5 +1,7 @@
 # standard 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/standard.md)
+
 <p><span class="chinese">标准轨距?。</span><span class="english">Standard Gauge?</span></p>
 
 <p><span class="chinese">这么写很规范</span><span class="english">This much is standard.</span></p>

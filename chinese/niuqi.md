@@ -1,5 +1,7 @@
 # 牛气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuqi.md)
+
 <p><span class="chinese">“金牛贺岁，牛气年年”其实是说——牛年来到，祝福年年都有牛运。</span><span class="english">The year of the Ox is coming , and I wish you best luck year and year.</span></p>
 
 <p><span class="chinese">而尽管有牛气的上升，长期趋势仍然强势向下。</span><span class="english">And despite a bull rally, the long-term trend can still point very strongly down.</span></p>

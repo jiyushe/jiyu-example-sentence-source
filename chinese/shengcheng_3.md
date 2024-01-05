@@ -1,5 +1,7 @@
 # 省城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengcheng_3.md)
+
 <p><span class="chinese">我辗转漂到了省城。</span><span class="english">I turn to the provincial capital.</span></p>
 
 <p><span class="chinese">那年他被省城一所大学录取了。</span><span class="english">He was admitted to the university of provincial capital.</span></p>

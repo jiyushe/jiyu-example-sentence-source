@@ -1,5 +1,7 @@
 # 远路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanlu.md)
+
 <p><span class="chinese">你走了远路后，必定会饿。</span><span class="english">You must hungry after your long walk.</span></p>
 
 <p><span class="chinese">频频回头的人，自然走不了远路。</span><span class="english">Frequently, natural go back not the most direct way.</span></p>

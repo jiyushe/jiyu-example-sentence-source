@@ -1,5 +1,7 @@
 # 刚柔相济
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gangrouxiangji.md)
+
 <p><span class="chinese">我们为外国友人展示刚柔相济的太极拳。</span><span class="english">We show Tiji to our foreign friends.</span></p>
 
 <p><span class="chinese">一个适应良好的人应该具有刚柔相济的双性化人格特征。</span><span class="english">A person who is adapting well should have tough, but androgyny.</span></p>

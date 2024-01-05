@@ -1,5 +1,7 @@
 # manual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manual.md)
+
 <p><span class="chinese">我喜欢手动挡的。</span><span class="english">I prefer the manual.</span></p>
 
 <p><span class="chinese">手排挡或自动排挡？</span><span class="english">Manual or automatic?</span></p>

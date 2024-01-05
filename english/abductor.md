@@ -1,5 +1,7 @@
 # abductor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abductor.md)
+
 <p><span class="chinese">诱拐者会叫他们名字。</span><span class="english">An abductor can then call them by name.</span></p>
 
 <p><span class="chinese">大喊、尖叫、搏斗和逃离可能的拐骗者。</span><span class="english">Yell, scream, fight and run from any potential abductor.</span></p>

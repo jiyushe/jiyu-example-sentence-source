@@ -1,5 +1,7 @@
 # centre 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centre.md)
+
 <p><span class="chinese">沿着中央大街走。</span><span class="english">Go along Centre Street.</span></p>
 
 <p><span class="chinese">旺角中心第二期。</span><span class="english">Mong Kok Centre phase Ⅱ.</span></p>

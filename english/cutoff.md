@@ -1,5 +1,7 @@
 # cutoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutoff.md)
+
 <p><span class="chinese">为什么截止日期会是这样呢？</span><span class="english">Why the cutoff date?</span></p>
 
 <p><span class="chinese">在什么地方是有捷径的。</span><span class="english">There is a cutoff somewhere.</span></p>

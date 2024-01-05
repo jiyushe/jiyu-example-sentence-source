@@ -1,5 +1,7 @@
 # 一毛不拔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimaobuba.md)
+
 <p><span class="chinese">我老板是个一毛不拔的人。</span><span class="english">My boss is a skinflint.</span></p>
 
 <p><span class="chinese">她老板是个一毛不拔的人。</span><span class="english">Her boss is a skinflint.</span></p>

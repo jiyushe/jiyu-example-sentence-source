@@ -1,5 +1,7 @@
 # wizardly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wizardly.md)
+
 <p><span class="chinese">今天是神奇的一天！</span><span class="english">Today was a wizardly day for me!</span></p>
 
 <p><span class="chinese">在我的职业生涯中，就多次碰到过它。</span><span class="english">I've run across these wizardly beasts a number of times in my career.</span></p>

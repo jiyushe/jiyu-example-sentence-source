@@ -1,5 +1,7 @@
 # 恶棍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/egun.md)
+
 <p><span class="chinese">他是一个彻头彻尾的恶棍。</span><span class="english">He is a thorough scoundrel.</span></p>
 
 <p><span class="chinese">那些恶棍说黑话。</span><span class="english">Those rogues pattered flash.</span></p>

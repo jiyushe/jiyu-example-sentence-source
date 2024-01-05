@@ -1,5 +1,7 @@
 # alum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alum.md)
+
 <p><span class="chinese">明矾可以澄清浊水。</span><span class="english">Alum will settle turbid water.</span></p>
 
 <p><span class="chinese">明矾有许多用法，这只是其中一种。</span><span class="english">Alum has a lot of uses. This is only one of them.</span></p>

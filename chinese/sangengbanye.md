@@ -1,5 +1,7 @@
 # 三更半夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangengbanye.md)
+
 <p><span class="chinese">直到三更半夜吗？</span><span class="english">Until late at night?</span></p>
 
 <p><span class="chinese">要么在三更半夜时，要么在大雨滂沱中。</span><span class="english">At night. In the rain.</span></p>

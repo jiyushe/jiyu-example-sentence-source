@@ -1,5 +1,7 @@
 # gaff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaff.md)
+
 <p><span class="chinese">我现在还有那根鱼钩，“他说。</span><span class="english">"I have the gaff now, " he said.</span></p>
 
 <p><span class="chinese">大鱼就用特制的鱼钩钩住。</span><span class="english">The bigger ones get hooked with a special gaff.</span></p>

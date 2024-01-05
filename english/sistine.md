@@ -1,5 +1,7 @@
 # sistine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sistine.md)
+
 <p><span class="chinese">他们翻修了西斯廷教堂的天花板。</span><span class="english">They renovated the ceiling of the sistine chapel.</span></p>
 
 <p><span class="chinese">西斯廷教堂的棚顶的绘画由米开朗基罗绘制。</span><span class="english">The Sistine Chapel ceiling painted by Michelangelo.</span></p>

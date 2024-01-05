@@ -1,5 +1,7 @@
 # paneling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paneling.md)
+
 <p><span class="chinese">比比皆是的木镶板很易弯曲变形。</span><span class="english">The abundant wood paneling is prone to warping.</span></p>
 
 <p><span class="chinese">对于丰富，温暖的环境，硬木镶板是不会被淘汰的。</span><span class="english">For a rich, warm setting, hardwood paneling can't be beat.</span></p>

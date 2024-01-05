@@ -1,5 +1,7 @@
 # gray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gray.md)
+
 <p><span class="chinese">灰灰的暗。</span><span class="english">Dark gray.</span></p>
 
 <p><span class="chinese">小灰鸽？</span><span class="english">Little gray pigeon?</span></p>

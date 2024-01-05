@@ -1,5 +1,7 @@
 # downwind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downwind.md)
+
 <p><span class="chinese">保证下风处的窗口通风。</span><span class="english">Keep a downwind window open.</span></p>
 
 <p><span class="chinese">在顺风航行时，可将活动龙骨板提起，以减少阻力，加快航速</span><span class="english">The centerboard can be raised for faster downwind sailing</span></p>

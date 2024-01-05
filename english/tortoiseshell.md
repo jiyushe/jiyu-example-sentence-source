@@ -1,5 +1,7 @@
 # tortoiseshell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tortoiseshell.md)
+
 <p><span class="chinese">更绝的是一人一把刀一个龟壳，刻甲骨文！</span><span class="english">No more is one of a tortoiseshell a knife, carved Oracle!</span></p>
 
 <p><span class="chinese">街心处一只龟甲猫正在追逐着一片败叶。</span><span class="english">Down in the street a tortoiseshell cat was chasing a dead leaf, " etc."</span></p>

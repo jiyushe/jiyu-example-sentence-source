@@ -1,5 +1,7 @@
 # 荣获
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ronghuo.md)
+
 <p><span class="chinese">他荣获1973年冠军称号。</span><span class="english">He won the crown in1973.</span></p>
 
 <p><span class="chinese">此外，怀恩豪斯还荣获最佳新艺术家称号。</span><span class="english">She was also named Best New Artist.</span></p>

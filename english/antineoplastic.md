@@ -1,5 +1,7 @@
 # antineoplastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antineoplastic.md)
+
 <p><span class="chinese">紫草脂肪乳液注射剂的体外抗肿瘤实验。</span><span class="english">Antineoplastic experiment of shikonin lipid emulsion in vitro.</span></p>
 
 <p><span class="chinese">本文就多胺类似物及其抗肿瘤的作用机制作一综述。</span><span class="english">This paper reviews polyamine analogue and its antineoplastic mechanism.</span></p>

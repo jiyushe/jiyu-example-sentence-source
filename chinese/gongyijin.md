@@ -1,5 +1,7 @@
 # 公益金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyijin.md)
+
 <p><span class="chinese">心光成为公益金会员。</span><span class="english">Becomes a member of the Community Chest.</span></p>
 
 <p><span class="chinese">法定公益金、福利费的使用方案。</span><span class="english">The use scheme of statutory welfare reserve and welfare funds.</span></p>

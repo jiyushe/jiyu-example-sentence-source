@@ -1,5 +1,7 @@
 # saddest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saddest.md)
+
 <p><span class="chinese">瑞特·霍勒斯的遭遇是其中最悲惨的一个了。</span><span class="english">The Rita Hayworth story is one of the saddest.</span></p>
 
 <p><span class="chinese">白毛女的遭遇可算是最悲惨的。</span><span class="english">The white-haired girl's story is one of the saddest.</span></p>

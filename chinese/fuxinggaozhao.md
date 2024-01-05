@@ -1,5 +1,7 @@
 # 福星高照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuxinggaozhao.md)
+
 <p><span class="chinese">祝在新的一年里福星高照。</span><span class="english">Good luck in the year ahead.</span></p>
 
 <p><span class="chinese">我父亲一生福星高照。</span><span class="english">My father was born under a lucky star.</span></p>

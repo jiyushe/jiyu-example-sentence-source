@@ -1,5 +1,7 @@
 # vitiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitiate.md)
+
 <p><span class="chinese">一字之差即可使合同作废。</span><span class="english">A single word may vitiate a contract.</span></p>
 
 <p><span class="chinese">但这不会威胁到他的奖学金。</span><span class="english">But this does not vitiate his scholarship.</span></p>

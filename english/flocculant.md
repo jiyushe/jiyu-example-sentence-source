@@ -1,5 +1,7 @@
 # flocculant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flocculant.md)
+
 <p><span class="chinese">微生物絮凝剂是一类新型絮凝剂。</span><span class="english">Microbial flocculant is a new type of flocculant.</span></p>
 
 <p><span class="chinese">飘絮风中走，满头雪花共白首。</span><span class="english">Whitehead flocculant floating away in the wind, with snow.</span></p>

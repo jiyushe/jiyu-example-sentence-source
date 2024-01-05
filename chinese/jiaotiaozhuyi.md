@@ -1,5 +1,7 @@
 # 教条主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotiaozhuyi.md)
+
 <p><span class="chinese">我不知道你是否意识到这一点，你这个教条主义者。</span><span class="english">I wonder if you realize that, you dogmatist.</span></p>
 
 <p><span class="chinese">教条主义是盲目自高自大的全副面目。</span><span class="english">Dogmatism is puppyish come to its full growth.</span></p>

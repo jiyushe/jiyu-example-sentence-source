@@ -1,5 +1,7 @@
 # 终老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonglao.md)
+
 <p><span class="chinese">祝我久居深海，孤独终老。</span><span class="english">Wish me good deep, alone.</span></p>
 
 <p><span class="chinese">你会爱我到终老吗？</span><span class="english">Would you love me 'til the end?</span></p>

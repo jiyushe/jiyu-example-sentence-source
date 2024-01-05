@@ -1,5 +1,7 @@
 # contemporary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contemporary.md)
+
 <p><span class="chinese">当代艺术画廊？</span><span class="english">A contemporary art gallery?</span></p>
 
 <p><span class="chinese">我不喜欢现代式的设计。</span><span class="english">I don't like contemporary design.</span></p>

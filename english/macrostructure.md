@@ -1,5 +1,7 @@
 # macrostructure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macrostructure.md)
+
 <p><span class="chinese">同时从企业层次和宏观层次进行案例分析。</span><span class="english">Finally, a case is analyzed from the viewpoint of enterprises and macrostructure.</span></p>
 
 <p><span class="chinese">本文讨论语篇中的语用宏观结构理论及其相关的概念。</span><span class="english">This paper discusses the pragmatic macrostructure in discourse and its related notions.</span></p>

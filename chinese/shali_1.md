@@ -1,5 +1,7 @@
 # 砂砾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shali_1.md)
+
 <p><span class="chinese">砂砾上有阳光的味道。</span><span class="english">Smell of sun on gravel.</span></p>
 
 <p><span class="chinese">地面平坦，铺着又细又硬的砂砾。</span><span class="english">It was le vel, and covered with fine hard gravel.</span></p>

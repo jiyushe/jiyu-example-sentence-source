@@ -1,5 +1,7 @@
 # alike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alike.md)
+
 <p><span class="chinese">，我们想法一样么？</span><span class="english">Do we think alike?</span></p>
 
 <p><span class="chinese">因为我们太相似了。</span><span class="english">Because we're alike.</span></p>

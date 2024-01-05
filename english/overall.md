@@ -1,5 +1,7 @@
 # overall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overall.md)
+
 <p><span class="chinese">但总体的消息还是令人鼓舞。</span><span class="english">But the news overall is cheerier.</span></p>
 
 <p><span class="chinese">总之花椒全身都是宝。</span><span class="english">Overall pepper body is a treasure.</span></p>

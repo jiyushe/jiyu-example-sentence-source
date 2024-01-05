@@ -1,5 +1,7 @@
 # mucus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mucus.md)
+
 <p><span class="chinese">其中五例为脂肪瘤，一例为黏液囊肿。</span><span class="english">There were 5 lipomas and 1 mucus cyst.</span></p>
 
 <p><span class="chinese">你的大便里有血或粘液吗？</span><span class="english">Be there any blood or mucus in your stool?</span></p>

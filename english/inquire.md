@@ -1,5 +1,7 @@
 # inquire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inquire.md)
+
 <p><span class="chinese">询问有关乐队成员的事。</span><span class="english">Inquire about bandmates.</span></p>
 
 <p><span class="chinese">我要打听一下火车的运行时刻。</span><span class="english">I'll inquire about the trains.</span></p>

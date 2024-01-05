@@ -1,5 +1,7 @@
 # superweapon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superweapon.md)
+
 <p><span class="chinese">美军最先进的超级武器已然在北京的卧榻之旁悄然露面。</span><span class="english">A new class of U.S. superweapon had suddenly surfaced nearby.</span></p>
 
 <p><span class="chinese">空间裂缝发生器是战斗中直接使用的最有效的超武。</span><span class="english">The Rift Generator is the most effective superweapon to use in direct combat.</span></p>

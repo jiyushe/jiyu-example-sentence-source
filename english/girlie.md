@@ -1,5 +1,7 @@
 # girlie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/girlie.md)
+
 <p><span class="chinese">别担心，你这个小丫头。</span><span class="english">Now, don't you worry, girlie.</span></p>
 
 <p><span class="chinese">在后台的“娘娘腔”，在公平的状态显示。</span><span class="english">Backstage at the "girlie" show at the state fair.</span></p>

@@ -1,5 +1,7 @@
 # 拼杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinsha.md)
+
 <p><span class="chinese">这些是州是他们拼杀的“战场”。</span><span class="english">These are the "battleground" states.</span></p>
 
 <p><span class="chinese">我希望在旁边有个同在战场上拼杀过的哥们聊聊天。</span><span class="english">I want to have an American GI to talk with.</span></p>

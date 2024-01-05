@@ -1,5 +1,7 @@
 # 随俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suisu.md)
+
 <p><span class="chinese">让你的身体随俗浮沉吧！</span><span class="english">Let your entire body go with the flow!</span></p>
 
 <p><span class="chinese">大多数人这样做只是随俗而已。</span><span class="english">They just do so out of social customs.</span></p>

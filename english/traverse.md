@@ -1,5 +1,7 @@
 # traverse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traverse.md)
+
 <p><span class="chinese">我们乘卡车横穿沙漠。</span><span class="english">We traverse the desert by truck.</span></p>
 
 <p><span class="chinese">你的孙子杜凌宇呢？</span><span class="english">Does your grandson Du traverse Yu?</span></p>

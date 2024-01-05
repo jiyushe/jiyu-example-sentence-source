@@ -1,5 +1,7 @@
 # 文思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wensi.md)
+
 <p><span class="chinese">文思枯竭。</span><span class="english">Literary thought is dried up.</span></p>
 
 <p><span class="chinese">西恩。埃文思还是适应性很强。</span><span class="english">Sean Evans again has been very adaptable.</span></p>

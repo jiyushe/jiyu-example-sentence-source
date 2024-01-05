@@ -1,5 +1,7 @@
 # gasbag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gasbag.md)
+
 <p><span class="chinese">他一直在说,的确是个话匣子,话太多了.</span><span class="english">He talks all the time ,he is a gasbag.</span></p>
 
 <p><span class="chinese">您知道我还听到些什么吗?。</span><span class="english">Mrs Gasbag Do you know what else I heard?</span></p>

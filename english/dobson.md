@@ -1,5 +1,7 @@
 # dobson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dobson.md)
+
 <p><span class="chinese">我听说您和多布森要结婚了。</span><span class="english">I hear you will marry with Dobson.</span></p>
 
 <p><span class="chinese">首先是杜布森怪错了人。</span><span class="english">The first is that Mr Dobson is wrong.</span></p>

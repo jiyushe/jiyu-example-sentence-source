@@ -1,5 +1,7 @@
 # giddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giddy.md)
+
 <p><span class="chinese">我的头有点儿发昏。</span><span class="english">I feel a bit giddy.</span></p>
 
 <p><span class="chinese">那么我头晕了没有呢？</span><span class="english">And did I feel giddy?</span></p>

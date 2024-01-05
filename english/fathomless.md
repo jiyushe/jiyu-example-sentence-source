@@ -1,5 +1,7 @@
 # fathomless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fathomless.md)
+
 <p><span class="chinese">我知道一口深不可测的井。</span><span class="english">I know of a fathomless well.</span></p>
 
 <p><span class="chinese">深不见底儿，就像所有物件儿的来源。</span><span class="english">Fathomless , it seems to be the origin of all things.</span></p>

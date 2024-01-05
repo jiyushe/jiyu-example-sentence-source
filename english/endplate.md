@@ -1,5 +1,7 @@
 # endplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endplate.md)
+
 <p><span class="chinese">没有一个合适的端板尺寸将会阻止翼根绕流。</span><span class="english">No endplate of reasonable size will prevent tip flow.</span></p>
 
 <p><span class="chinese">目的研究椎体终板在脊柱前路椎体间植骨融合手术中的作用。</span><span class="english">Objective To study the role of endplate in anterior interbody spinal fusion.</span></p>

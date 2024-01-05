@@ -1,5 +1,7 @@
 # sideband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sideband.md)
+
 <p><span class="chinese">残留边带?。</span><span class="english">VSB? Vestigial SideBand?</span></p>
 
 <p><span class="chinese">残留边带抑制载波?。</span><span class="english">VS-SC? Vestigial Sideband Suppressed Carrier?</span></p>

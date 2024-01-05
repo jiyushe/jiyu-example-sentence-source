@@ -1,5 +1,7 @@
 # jeer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeer.md)
+
 <p><span class="chinese">我很喜欢人们嘲笑我。</span><span class="english">I love it when people jeer me.</span></p>
 
 <p><span class="chinese">请不要嘲笑我的努力。</span><span class="english">Please don't jeer at my efforts.</span></p>

@@ -1,5 +1,7 @@
 # 珠算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhusuan.md)
+
 <p><span class="chinese">他们还学习珠算。</span><span class="english">They also learned to use the abacus.</span></p>
 
 <p><span class="chinese">珠算在我国有着悠久的历史。</span><span class="english">At Abacus our country has a long history.</span></p>

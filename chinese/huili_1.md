@@ -1,5 +1,7 @@
 # 回礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huili_1.md)
+
 <p><span class="chinese">他给我送了回礼。</span><span class="english">He sent me a return present.</span></p>
 
 <p><span class="chinese">或许，公众也只是“回礼”罢了。</span><span class="english">Perhaps the public is simply returning the favour.</span></p>

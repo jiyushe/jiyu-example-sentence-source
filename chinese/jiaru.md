@@ -1,5 +1,7 @@
 # 假如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaru.md)
+
 <p><span class="chinese">假如那是真爱。</span><span class="english">If it is real.</span></p>
 
 <p><span class="chinese">假如我爱上了你。</span><span class="english">If I loved you.</span></p>

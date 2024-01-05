@@ -1,5 +1,7 @@
 # instinctual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instinctual.md)
+
 <p><span class="chinese">无需语言，它的冲动是本能和仪式的。</span><span class="english">Lacking language, its impulses are instinctual and ritualistic.</span></p>
 
 <p><span class="chinese">这样一种怀抱宝宝的方式对于成年人来说也许就是一种本能的行为。</span><span class="english">Most adults find this is a very instinctual position for holding a baby.</span></p>

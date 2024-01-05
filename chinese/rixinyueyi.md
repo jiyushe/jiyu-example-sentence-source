@@ -1,5 +1,7 @@
 # 日新月异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rixinyueyi.md)
+
 <p><span class="chinese">这真是一个日新月异的世界。</span><span class="english">Itrs really a fast-changing world.</span></p>
 
 <p><span class="chinese">她又有历史的沧桑感，但是又在日新月异的变化着。</span><span class="english">She has a long history, but has changes everyday.</span></p>

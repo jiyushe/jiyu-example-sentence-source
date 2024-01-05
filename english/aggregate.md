@@ -1,5 +1,7 @@
 # aggregate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggregate.md)
+
 <p><span class="chinese">只是聚合数据？</span><span class="english">Aggregate Data Only?</span></p>
 
 <p><span class="chinese">数据是否正确地聚合？</span><span class="english">Does the data aggregate correctly?</span></p>

@@ -1,5 +1,7 @@
 # fabaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fabaceous.md)
+
 <p><span class="chinese">鼻子上的豆豆怎么消去啊?。</span><span class="english">The fabaceous beans on nose how expunction?</span></p>
 
 <p><span class="chinese">夏天为什么豆豆猛长?。</span><span class="english">Summer why does fabaceous beans grow suddenly?</span></p>

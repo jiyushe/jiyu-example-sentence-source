@@ -1,5 +1,7 @@
 # specialist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specialist.md)
+
 <p><span class="chinese">我想看专家门诊。</span><span class="english">I want to see the specialist.</span></p>
 
 <p><span class="chinese">我是个做学问的，一个专家。</span><span class="english">I was a scholar, a specialist.</span></p>

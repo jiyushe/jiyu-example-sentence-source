@@ -1,5 +1,7 @@
 # 通途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongtu.md)
+
 <p><span class="chinese">道路从来不可能总是平坦的通途。</span><span class="english">The path has never been perfect.</span></p>
 
 <p><span class="chinese">这一发现可能为相关药物的研制打开一条通途。</span><span class="english">The finding may open up an avenue of drug discovery for the disease.</span></p>

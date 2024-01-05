@@ -1,5 +1,7 @@
 # ramrod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramrod.md)
+
 <p><span class="chinese">她已经75岁了，腰板仍然笔直。</span><span class="english">At 75, she's still ramrod straight.</span></p>
 
 <p><span class="chinese">这士兵站得笔直。</span><span class="english">The soldier stood stiff as a ramrod.</span></p>

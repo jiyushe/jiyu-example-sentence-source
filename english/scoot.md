@@ -1,5 +1,7 @@
 # scoot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scoot.md)
+
 <p><span class="chinese">快走，否则你将太迟了。</span><span class="english">Scoot , or you will be late.</span></p>
 
 <p><span class="chinese">嘿，布兰迪，你能坐过去一点吗？</span><span class="english">Hey, Brandi. Could you scoot a little?</span></p>

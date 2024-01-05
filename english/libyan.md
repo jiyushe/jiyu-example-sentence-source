@@ -1,5 +1,7 @@
 # Libyan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libyan.md)
+
 <p><span class="chinese">他永远都在利人民的心中。</span><span class="english">He is in the hearts of the Libyan people.</span></p>
 
 <p><span class="chinese">利比亚官立部队夺回被叛军占领的城市。</span><span class="english">Libyan gov't troops retake rebel-held town.</span></p>

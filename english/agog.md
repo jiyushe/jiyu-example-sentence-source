@@ -1,5 +1,7 @@
 # agog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agog.md)
+
 <p><span class="chinese">林怎么了”优优急切的问道。</span><span class="english">Forest how" good asks agog."</span></p>
 
 <p><span class="chinese">大家都急于知道发生了什么。</span><span class="english">All agog to know what had happened.</span></p>

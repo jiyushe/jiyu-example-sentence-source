@@ -1,5 +1,7 @@
 # syrinx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syrinx.md)
+
 <p><span class="chinese">我们在此报道一例罕见的由CEI所致的瘘管形成。</span><span class="english">We report a rare complication of syrinx formation resulting from a CEI.</span></p>
 
 <p><span class="chinese">当非chiariI型畸形的病人发现脊髓空洞时，通常需要排外恶性肿瘤。</span><span class="english">Always exclude malignancy when a syrinx is identified in the non-Chiari I patient.</span></p>

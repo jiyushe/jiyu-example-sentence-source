@@ -1,5 +1,7 @@
 # 金秋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinqiu.md)
+
 <p><span class="chinese">十月金秋，不见不散！</span><span class="english">See you this October!</span></p>
 
 <p><span class="chinese">一到金秋，满山枫叶降红。</span><span class="english">One to autumn red fall leaves Manshan.</span></p>

@@ -1,5 +1,7 @@
 # eccrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eccrine.md)
+
 <p><span class="chinese">源自汗腺的上皮癌是罕见的。</span><span class="english">Eccrine carcinoma of the sweat gland is rare.</span></p>
 
 <p><span class="chinese">我们报道一例40岁男性发生在臀部的小汗腺汗孔瘤。</span><span class="english">We reported one case of eccrine poroma, which was located on the hip of a 40-year-old man.</span></p>

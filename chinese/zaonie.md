@@ -1,5 +1,7 @@
 # 造孽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaonie.md)
+
 <p><span class="chinese">嗯，我已经必须承认，这些都是造孽钱。</span><span class="english">Well, I must confess, these are scruples.</span></p>
 
 <p><span class="chinese">爱神，造孽！若其信守誓言。</span><span class="english">And Love, be false! if _he_, too keep one oath.</span></p>

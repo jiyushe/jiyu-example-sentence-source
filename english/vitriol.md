@@ -1,5 +1,7 @@
 # vitriol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitriol.md)
+
 <p><span class="chinese">“青矾和明矾的药性”。</span><span class="english">"Green vitriol and aluminous property of a medicine ".</span></p>
 
 <p><span class="chinese">接踵而来的针对茅先生的刻薄批判即使在我预料之中，仍使我不胜讶异。</span><span class="english">The ensuing vitriol against Mr. Mao was, to me, both expected and surprising.</span></p>

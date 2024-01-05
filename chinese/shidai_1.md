@@ -1,5 +1,7 @@
 # 时代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidai_1.md)
+
 <p><span class="chinese">铁器时代。</span><span class="english">The Age of Iron.</span></p>
 
 <p><span class="chinese">灵魂乐的时代！</span><span class="english">The song of soul!</span></p>

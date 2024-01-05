@@ -1,5 +1,7 @@
 # 赶车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganche.md)
+
 <p><span class="chinese">不就是替一个有权有势的乡绅赶车吗？</span><span class="english">Does not he drive for Squire Make-a-stir?</span></p>
 
 <p><span class="chinese">有一次，他看见有几个赶车的人正在熬煮粉红色的花。</span><span class="english">Once he saw several drivers boiling pink flowers.</span></p>

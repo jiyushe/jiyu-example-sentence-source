@@ -1,5 +1,7 @@
 # fetter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fetter.md)
+
 <p><span class="chinese">生命在于打破束缚。</span><span class="english">Life is always breaking fetter.</span></p>
 
 <p><span class="chinese">不，他认为这儿子是系缚他的镣铐。</span><span class="english">He regarded his first and only son as a fetter.</span></p>

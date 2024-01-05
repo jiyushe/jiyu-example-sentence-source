@@ -1,5 +1,7 @@
 # 种田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongtian_1.md)
+
 <p><span class="chinese">种田苦。</span><span class="english">Farming is hard.</span></p>
 
 <p><span class="chinese">他们靠种田过活。</span><span class="english">They live off the farmland.</span></p>

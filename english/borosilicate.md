@@ -1,5 +1,7 @@
 # borosilicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borosilicate.md)
+
 <p><span class="chinese">我可以用硼硅玻璃来做。</span><span class="english">I could make this out of borosilicate glass.</span></p>
 
 <p><span class="chinese">这个特别烘箱是用于退火硼硅玻璃。</span><span class="english">This particular oven is used for annealing borosilicate glass.</span></p>

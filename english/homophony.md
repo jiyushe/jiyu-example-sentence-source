@@ -1,5 +1,7 @@
 # homophony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homophony.md)
+
 <p><span class="chinese">谐音是汉语里一种普遍存在的语言现象。</span><span class="english">Homophony is a phenomenon widely existed in Chinese.</span></p>
 
 <p><span class="chinese">谐音作为一种具有汉民族文化特色的修辞手段，与汉文化的关系极为密切。</span><span class="english">As a culture-centered feature in Chinese rhetoric, homophony is closely related to Chinese culture.</span></p>

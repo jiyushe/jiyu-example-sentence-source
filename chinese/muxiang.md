@@ -1,5 +1,7 @@
 # 木香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muxiang.md)
+
 <p><span class="chinese">鸡足山木香坪的主人是谁？</span><span class="english">Who is the master of Jizulotus mountain?</span></p>
 
 <p><span class="chinese">关于川木香属的界限问题。</span><span class="english">On circumscription of the genus Dolomiaea DC.</span></p>

@@ -1,5 +1,7 @@
 # unripe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unripe.md)
+
 <p><span class="chinese">吃没熟的苹果使他得了病。</span><span class="english">Eating the unripe apples made him ill.</span></p>
 
 <p><span class="chinese">生花生皮能治白血病吗？</span><span class="english">Can unripe earthnut skin treat leukaemia?</span></p>

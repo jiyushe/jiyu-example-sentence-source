@@ -1,5 +1,7 @@
 # vichy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vichy.md)
+
 <p><span class="chinese">薇姿在博客社区上道歉。</span><span class="english">Vichy apologized to the blog community.</span></p>
 
 <p><span class="chinese">法国的维希在二战期间成为了德国的傀儡政府。</span><span class="english">The Vichy in France during the Second World War were German Stooges.</span></p>

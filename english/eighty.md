@@ -1,5 +1,7 @@
 # eighty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eighty.md)
+
 <p><span class="chinese">他八十二岁。</span><span class="english">He's eighty two.</span></p>
 
 <p><span class="chinese">我考了八十几分.</span><span class="english">I got an eighty something.</span></p>

@@ -1,5 +1,7 @@
 # rescuer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rescuer.md)
+
 <p><span class="chinese">耶稣是最终的救助者。</span><span class="english">Jesus is the ultimate rescuer.</span></p>
 
 <p><span class="chinese">医疗救护员已正式成为我国的新职业。</span><span class="english">Medical rescuer becomes a new job in China.</span></p>

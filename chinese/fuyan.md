@@ -1,5 +1,7 @@
 # 敷衍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyan.md)
+
 <p><span class="chinese">从不敷衍？</span><span class="english">And will not palter?</span></p>
 
 <p><span class="chinese">不要敷衍我！</span><span class="english">Don't palter with me!</span></p>

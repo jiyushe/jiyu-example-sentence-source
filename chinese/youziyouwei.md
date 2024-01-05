@@ -1,5 +1,7 @@
 # 有滋有味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youziyouwei.md)
+
 <p><span class="chinese">想让床第生活更加有滋有味吗？</span><span class="english">Want to spice things up in the bedroom?</span></p>
 
 <p><span class="chinese">过好现在的每一天，而且过得有滋有味。</span><span class="english">Live each day in the present, and take it beautiful.</span></p>

@@ -1,5 +1,7 @@
 # 自律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zilv.md)
+
 <p><span class="chinese">锻炼自律性。</span><span class="english">Practice self-discipline.</span></p>
 
 <p><span class="chinese">你能做到自律吗？</span><span class="english">Do you have self-discipline?</span></p>

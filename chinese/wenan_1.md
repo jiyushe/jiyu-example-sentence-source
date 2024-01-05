@@ -1,5 +1,7 @@
 # 问安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenan_1.md)
+
 <p><span class="chinese">他向李先生问安。</span><span class="english">He asked after Mr. Lee.</span></p>
 
 <p><span class="chinese">喔，很抱歉。请问安是哪位？</span><span class="english">Oh, I'm sorry. Who's Ann?</span></p>

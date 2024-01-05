@@ -1,5 +1,7 @@
 # potter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potter.md)
+
 <p><span class="chinese">做“哈利·波特”有时还真是件麻烦事。</span><span class="english">being Harry Potter.</span></p>
 
 <p><span class="chinese">詹姆·波特还活着？</span><span class="english">Is James Potter still alive?</span></p>

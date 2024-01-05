@@ -1,5 +1,7 @@
 # 缔约国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyueguo.md)
+
 <p><span class="chinese">委员会主席，缔约国。生效。</span><span class="english">Director-General, signatory States. Come into force.</span></p>
 
 <p><span class="chinese">每个缔约国都有权在辽阔的中国市场进行贸易。</span><span class="english">Each signatory would have the right to trade in the vast China market.</span></p>

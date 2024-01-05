@@ -1,5 +1,7 @@
 # 满不在乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manbuzaihu.md)
+
 <p><span class="chinese">他满不在乎地打算用这笔钱。</span><span class="english">He did not scruple to use it.</span></p>
 
 <p><span class="chinese">她满不在乎的态度把他给激怒了。</span><span class="english">He was niggled by her careless attitude.</span></p>

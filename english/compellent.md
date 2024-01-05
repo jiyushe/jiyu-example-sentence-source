@@ -1,5 +1,7 @@
 # compellent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compellent.md)
+
 <p><span class="chinese">国家也采取很多强制性措施在一定的地区禁止使用粘土砖。</span><span class="english">Our government has utilized many compellent measures to forbid the use of clay.</span></p>
 
 <p><span class="chinese">最大的疑问是二者都未从地质上提出令人信服的解释。</span><span class="english">The most important doubt is that neither theory provides the compellent geological explanation.</span></p>

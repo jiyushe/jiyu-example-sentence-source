@@ -1,5 +1,7 @@
 # jammer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jammer.md)
+
 <p><span class="chinese">甚高频干扰台?。</span><span class="english">VHFJ? Very High Frequency Jammer?</span></p>
 
 <p><span class="chinese">每一个带天线的模块可单独作为某频段的屏蔽器使用。</span><span class="english">Each module with antenna can be used as a single jammer.</span></p>

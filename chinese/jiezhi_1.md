@@ -1,5 +1,7 @@
 # 借支
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezhi_1.md)
+
 <p><span class="chinese">我能借支烟吗？</span><span class="english">Can I bum a smoke?</span></p>
 
 <p><span class="chinese">我可以借支笔吗？</span><span class="english">May I borrow a pen?</span></p>

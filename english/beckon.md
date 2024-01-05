@@ -1,5 +1,7 @@
 # beckon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beckon.md)
+
 <p><span class="chinese">托斯卡纳山城镇招手。</span><span class="english">Tuscan hill towns beckon.</span></p>
 
 <p><span class="chinese">她勾勾手指向他示意。</span><span class="english">She crooked her finger to beckon him.</span></p>

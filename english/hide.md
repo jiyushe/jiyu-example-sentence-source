@@ -1,5 +1,7 @@
 # hide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hide.md)
+
 <p><span class="chinese">我们能在你这儿躲躲吗？</span><span class="english">Can we hide here?</span></p>
 
 <p><span class="chinese">藏风吹之。</span><span class="english">Hide wind to blow.</span></p>

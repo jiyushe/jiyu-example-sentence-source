@@ -1,5 +1,7 @@
 # debited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debited.md)
+
 <p><span class="chinese">银行把一笔十镑的帐记入史密斯先生借方栏。</span><span class="english">The bank debited ￡10 from Mr Smith's account.</span></p>
 
 <p><span class="chinese">商店把购货金额记入她的账户的借方。</span><span class="english">The store debited the purchase to her account.</span></p>

@@ -1,5 +1,7 @@
 # seoul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seoul.md)
+
 <p><span class="chinese">他的首站是首尔。</span><span class="english">His first stop is Seoul.</span></p>
 
 <p><span class="chinese">在首尔会记住您的爱。</span><span class="english">Seoul reminds me of oue love.</span></p>

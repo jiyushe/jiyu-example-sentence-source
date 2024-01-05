@@ -1,5 +1,7 @@
 # pointedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pointedly.md)
+
 <p><span class="chinese">他显然忽略了这问题。</span><span class="english">He pointedly ignored the question.</span></p>
 
 <p><span class="chinese">华伦先生是个保守派，但是与政治无关。</span><span class="english">Mr Warren is conservative but pointedly non-political.</span></p>

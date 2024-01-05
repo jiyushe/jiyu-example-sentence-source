@@ -1,5 +1,7 @@
 # 亡国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangguo.md)
+
 <p><span class="chinese">这样的民主是否正是亡国亡台之路！</span><span class="english">Is not such a democracy squarely on the road to national perdition?</span></p>
 
 <p><span class="chinese">三国都在不安的观望，没有一国能付得起小小的吉尔吉斯坦亡国的代价。</span><span class="english">All are looking on uneasily, and none can afford for tiny Kyrgyzstan to fail.</span></p>

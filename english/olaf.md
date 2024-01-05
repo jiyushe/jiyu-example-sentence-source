@@ -1,5 +1,7 @@
 # olaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olaf.md)
+
 <p><span class="chinese">我喜欢你，奥拉夫。</span><span class="english">I love you, Olaf.</span></p>
 
 <p><span class="chinese">嗨，我是奥拉夫。我喜欢热情的拥抱。</span><span class="english">Hi, I'm Olaf and I like warm hugs.</span></p>

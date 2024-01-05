@@ -1,5 +1,7 @@
 # 无形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxing_3.md)
+
 <p><span class="chinese">他们是无形的。</span><span class="english">They are invisible.</span></p>
 
 <p><span class="chinese">你是无形的吗？</span><span class="english">Are you a discarnate?</span></p>

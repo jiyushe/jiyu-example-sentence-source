@@ -1,5 +1,7 @@
 # antidumping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antidumping.md)
+
 <p><span class="chinese">反规避措施是反倾销法的重要组成部分。</span><span class="english">Anti-circumvention measure is the important component of antidumping law.</span></p>
 
 <p><span class="chinese">倾销幅度测算是裁定倾销以及实施反倾销措施的依据和基础。</span><span class="english">Estimation of dumping ranges is the basis of carrying out antidumping measures.</span></p>

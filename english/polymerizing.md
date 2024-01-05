@@ -1,5 +1,7 @@
 # polymerizing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymerizing.md)
+
 <p><span class="chinese">其作用是使微管稳定和发生多聚化从而抑制瘤细胞。</span><span class="english">It blocks tumor cells by stabilizing and polymerizing microtubules.</span></p>
 
 <p><span class="chinese">有人建议在硝化之前，把甘油聚合。</span><span class="english">Some people proposed polymerizing the glycerine prior to nitration.</span></p>

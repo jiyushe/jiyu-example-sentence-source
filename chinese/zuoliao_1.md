@@ -1,5 +1,7 @@
 # 作料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoliao_1.md)
+
 <p><span class="chinese">然后，它们能被用作作料。</span><span class="english">Then, they could be used as ingredients.</span></p>
 
 <p><span class="chinese">维也纳的很多顶级厨师都在这里购买作料。</span><span class="english">This is where top chefs like to get their ingredients.</span></p>

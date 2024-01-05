@@ -1,5 +1,7 @@
 # dwindle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dwindle.md)
+
 <p><span class="chinese">中国的资本流入也会逐渐减少。</span><span class="english">Capital flows into China could also dwindle.</span></p>
 
 <p><span class="chinese">网咖的数目正开始逐渐减少中。</span><span class="english">The number of Internet cafes is starting to dwindle.</span></p>

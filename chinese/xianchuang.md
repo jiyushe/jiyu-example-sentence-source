@@ -1,5 +1,7 @@
 # 舷窗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianchuang.md)
+
 <p><span class="chinese">哦，亲爱的，那是舷窗！</span><span class="english">Oh dear, that's the porthole.</span></p>
 
 <p><span class="chinese">他再看了看打开的舷窗。</span><span class="english">He looked again at the open port.</span></p>

@@ -1,5 +1,7 @@
 # 闻名遐迩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenmingxiaer.md)
+
 <p><span class="chinese">作为一个温泉胜地，这镇子闻名遐迩。</span><span class="english">The town is famous as a hot-spring resort.</span></p>
 
 <p><span class="chinese">成功的滋味蕴含在以优质而闻名遐迩的产品之中！</span><span class="english">Success lies in products well-known for good quality.</span></p>

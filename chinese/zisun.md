@@ -1,5 +1,7 @@
 # 子孙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zisun.md)
+
 <p><span class="chinese">他是直系子孙。</span><span class="english">He is the lineal descendant.</span></p>
 
 <p><span class="chinese">和散那归于大卫的子孙！</span><span class="english">Hosanna to the Son of David!</span></p>

@@ -1,5 +1,7 @@
 # luggage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luggage.md)
+
 <p><span class="chinese">我讨厌行李。</span><span class="english">I hate luggage.</span></p>
 
 <p><span class="chinese">这些行李都是我的。</span><span class="english">All this luggage is mine.</span></p>

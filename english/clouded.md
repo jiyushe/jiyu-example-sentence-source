@@ -1,5 +1,7 @@
 # clouded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clouded.md)
+
 <p><span class="chinese">焦虑使他愁眉不展。</span><span class="english">Worry clouded his brow.</span></p>
 
 <p><span class="chinese">他因年老而记忆模糊。</span><span class="english">Age has clouded his memory.</span></p>

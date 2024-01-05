@@ -1,5 +1,7 @@
 # uneconomical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uneconomical.md)
+
 <p><span class="chinese">寄一盘新磁带过去不合算。</span><span class="english">It would be uneconomical to send a brand new tape.</span></p>
 
 <p><span class="chinese">蒸汽吞吐可进行至不经济时为止。</span><span class="english">Huff and puff is continued until it becomes uneconomical.</span></p>

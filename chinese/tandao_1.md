@@ -1,5 +1,7 @@
 # 谈道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tandao_1.md)
+
 <p><span class="chinese">咱们便不会能佳好谈道吗?。</span><span class="english">Can't we work it out?</span></p>
 
 <p><span class="chinese">像你这种人，我怎能跟你谈道呢？</span><span class="english">How could I talk about Tao with you?</span></p>

@@ -1,5 +1,7 @@
 # 干系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganxi_1.md)
+
 <p><span class="chinese">我懒不懒，与你这厮有何干系？</span><span class="english">I owe this to our team.</span></p>
 
 <p><span class="chinese">这与建造商有什么干系呢</span><span class="english">What does that do to builders?</span></p>

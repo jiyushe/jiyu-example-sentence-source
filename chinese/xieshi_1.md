@@ -1,5 +1,7 @@
 # 斜视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieshi_1.md)
+
 <p><span class="chinese">他像个野兽斜视你！</span><span class="english">He squints at you like a beast!</span></p>
 
 <p><span class="chinese">米契自出生就有斜视。</span><span class="english">Mitch has been cross-eyed from birth.</span></p>

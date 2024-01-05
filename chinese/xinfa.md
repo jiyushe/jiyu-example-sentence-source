@@ -1,5 +1,7 @@
 # 新法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfa.md)
+
 <p><span class="chinese">新官新法。</span><span class="english">New lords, new laws.</span></p>
 
 <p><span class="chinese">他发明了一种制丝新法。</span><span class="english">He invented a smart story.</span></p>

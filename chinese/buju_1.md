@@ -1,5 +1,7 @@
 # 布局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buju_1.md)
+
 <p><span class="chinese">描述长屋的布局。</span><span class="english">Describe a longhouse.</span></p>
 
 <p><span class="chinese">布局来不得慢动作。</span><span class="english">Layout so slow motion.</span></p>

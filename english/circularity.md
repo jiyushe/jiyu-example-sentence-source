@@ -1,5 +1,7 @@
 # circularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circularity.md)
+
 <p><span class="chinese">为什么他们的自然运动会是环形的呢？</span><span class="english">Why circularity be there natural motion ?</span></p>
 
 <p><span class="chinese">心灵可以构想出完美的圆形</span><span class="english">The mind can think about perfect circularity.</span></p>

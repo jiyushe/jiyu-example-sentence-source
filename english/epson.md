@@ -1,5 +1,7 @@
 # epson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epson.md)
+
 <p><span class="chinese">爱普生，富可视，夏普，3M，日立投影机华南区分销商。</span><span class="english">Epson , InFocus, Sharp , 3M, Hitachi projector distributor from Southern China.</span></p>
 
 <p><span class="chinese">目前TI、奥图码、爱普生等众多品牌都推出了微型投影机。</span><span class="english">Currently, TI, Optoma and Epson all have launched the products of mini projector.</span></p>

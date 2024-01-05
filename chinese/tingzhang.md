@@ -1,5 +1,7 @@
 # 庭长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhang.md)
+
 <p><span class="chinese">庭长把这问题重说了一遍。</span><span class="english">The President repeated the question.</span></p>
 
 <p><span class="chinese">第三，关于法庭的工作人员与庭长。</span><span class="english">Thirdly, for what concerns clerks and ministers.</span></p>

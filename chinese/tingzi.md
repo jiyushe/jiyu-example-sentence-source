@@ -1,5 +1,7 @@
 # 亭子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzi.md)
+
 <p><span class="chinese">我喜欢那个亭子。</span><span class="english">I like the gloriette.</span></p>
 
 <p><span class="chinese">古色古香的亭子。</span><span class="english">The old-timey gloriette.</span></p>

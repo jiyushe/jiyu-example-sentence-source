@@ -1,5 +1,7 @@
 # addict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addict.md)
+
 <p><span class="chinese">我以前是一名吸毒者。</span><span class="english">I am a former drug addict.</span></p>
 
 <p><span class="chinese">汤森特医生是个嗜药成癖的瘾君子。</span><span class="english">Dr. Townsend was a drug addict.</span></p>

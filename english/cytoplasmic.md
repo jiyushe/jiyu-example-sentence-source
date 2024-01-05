@@ -1,5 +1,7 @@
 # cytoplasmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytoplasmic.md)
+
 <p><span class="chinese">细胞质的组分能通过选择性的自噬作用被摄取。</span><span class="english">Cytoplasmic components may well be scavenged by selective autophagy.</span></p>
 
 <p><span class="chinese">坏死的肝细胞和细胞质的起泡是被观察到了。</span><span class="english">Necrosis of hepatocytes and cytoplasmic blebbing were also observed.</span></p>

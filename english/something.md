@@ -1,5 +1,7 @@
 # something
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/something.md)
+
 <p><span class="chinese">做点儿什么。</span><span class="english">Do something.</span></p>
 
 <p><span class="chinese">我有话要说。</span><span class="english">Can I say something?</span></p>

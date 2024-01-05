@@ -1,5 +1,7 @@
 # meatus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meatus.md)
+
 <p><span class="chinese">中上鼻道息肉可以引起邻近骨质吸收脱钙。</span><span class="english">Poly ps in superior and middle meatus may cause bone absorption and decalcification.</span></p>
 
 <p><span class="chinese">后胸廓缩小，食管入口黏膜再次内翻，发声结束。</span><span class="english">After that, thorax shrink, the meatus of esophagus turn in again, the voice behavior is over.</span></p>

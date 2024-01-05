@@ -1,5 +1,7 @@
 # 与世长辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushichangci.md)
+
 <p><span class="chinese">第三天夜里便与世长辞。</span><span class="english">And the next night he died.</span></p>
 
 <p><span class="chinese">是的，这位流行天王也不幸与世长辞了。</span><span class="english">Yes, the King of Pop is dead as well.</span></p>

@@ -1,5 +1,7 @@
 # ecce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecce.md)
+
 <p><span class="chinese">结论非超乳小切口ECCE手术更适合中国国情。</span><span class="english">Conclusions Non-phacoemulsification small incision ECCE is more beneficial to the Chinese situations.</span></p>
 
 <p><span class="chinese">目的探讨过熟期白内障小切口囊外摘出人工晶状体植入手术方法，减少并发症，提高疗效。</span><span class="english">Objective To investigate the effect of small incision ECCE and IOL implantation for hypermature cataract.</span></p>

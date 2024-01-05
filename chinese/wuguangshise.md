@@ -1,5 +1,7 @@
 # 五光十色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuguangshise.md)
+
 <p><span class="chinese">这是一幅由草地，河流，树木组成的五光十色的镶嵌画。</span><span class="english">It's a rich mosaic of meadows, rivers and woods.</span></p>
 
 <p><span class="chinese">五光十色的灯笼照亮了漆黑的夜晚。</span><span class="english">The colorful bright lanterns light up the night.</span></p>

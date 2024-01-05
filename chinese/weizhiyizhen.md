@@ -1,5 +1,7 @@
 # 为之一振
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizhiyizhen.md)
+
 <p><span class="chinese">你使我觉得精神为之一振。</span><span class="english">You make me feel like a brand-new man.</span></p>
 
 <p><span class="chinese">但是，把咖啡残渣变废为宝的想法可能还是能使你为之一振吧！</span><span class="english">Still, it's an idea that could perk you up.</span></p>

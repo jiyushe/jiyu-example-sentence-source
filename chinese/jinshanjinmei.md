@@ -1,5 +1,7 @@
 # 尽善尽美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshanjinmei.md)
+
 <p><span class="chinese">尽善尽美并非目标。</span><span class="english">Perfection is not the goal.</span></p>
 
 <p><span class="chinese">沙哲汗要把他爱妃的陵墓修得尽善尽美。</span><span class="english">Shah Jehan wanted his wife's tomb to be perfect.</span></p>

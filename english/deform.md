@@ -1,5 +1,7 @@
 # deform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deform.md)
+
 <p><span class="chinese">不可以永远变形。</span><span class="english">You can't deform it forever.</span></p>
 
 <p><span class="chinese">材料开始变形。</span><span class="english">The material begins to deform.</span></p>

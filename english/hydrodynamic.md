@@ -1,5 +1,7 @@
 # hydrodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrodynamic.md)
+
 <p><span class="chinese">下落雨滴由于流体动力作用而破碎。</span><span class="english">Falling raindrops break up through hydrodynamic effects.</span></p>
 
 <p><span class="chinese">流体动力散逸可能也剥夺了土卫六的大部份大气。</span><span class="english">Hydrodynamic escape may have stripped Titan of much of its air, too.</span></p>

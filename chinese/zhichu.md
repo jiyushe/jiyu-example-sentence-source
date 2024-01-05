@@ -1,5 +1,7 @@
 # 指出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhichu.md)
+
 <p><span class="chinese">好吧，过世的纳博科夫想指出一些东西。</span><span class="english">Okay. Nabokov, be gone.</span></p>
 
 <p><span class="chinese">华生明确地指出了这一点。</span><span class="english">And Watson was explicit.</span></p>

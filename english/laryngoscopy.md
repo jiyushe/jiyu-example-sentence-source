@@ -1,5 +1,7 @@
 # laryngoscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laryngoscopy.md)
+
 <p><span class="chinese">CTVL是纤维喉镜的很好补充手段。</span><span class="english">CTVL is a good complementary method of laryngoscopy.</span></p>
 
 <p><span class="chinese">有位朋友最近做了喉镜检查。</span><span class="english">I have a friend who recently underwent a laryngoscopy.</span></p>

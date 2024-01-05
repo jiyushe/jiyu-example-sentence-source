@@ -1,5 +1,7 @@
 # 议论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilun.md)
+
 <p><span class="chinese">我不赞成背后议论别人。</span><span class="english">I don't approve of gossip.</span></p>
 
 <p><span class="chinese">别总是你在大发议论，跟我平等地谈话。</span><span class="english">Don't talk at  me, talk to me.</span></p>

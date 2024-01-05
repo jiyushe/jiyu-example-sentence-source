@@ -1,5 +1,7 @@
 # 不衰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushuai.md)
+
 <p><span class="chinese">伟大的艺术能持续数百年不衰。</span><span class="english">Gread art endures for centuries.</span></p>
 
 <p><span class="chinese">历久而不衰的绝妙好曲！</span><span class="english">Another good song from Sarah Chen.</span></p>

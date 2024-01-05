@@ -1,5 +1,7 @@
 # 土方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tufang.md)
+
 <p><span class="chinese">土方工程在几小时内就完成了。</span><span class="english">The earthwork was cast up in a few hours.</span></p>
 
 <p><span class="chinese">我公司是一家以做土方工程的公司！</span><span class="english">Our company is an earthwork to do business!</span></p>

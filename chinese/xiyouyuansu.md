@@ -1,5 +1,7 @@
 # 稀有元素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyouyuansu.md)
+
 <p><span class="chinese">去年发现了一种稀有元素。</span><span class="english">A rare element was found last year.</span></p>
 
 <p><span class="chinese">其中某些岩体发育有稀有元素矿化。</span><span class="english">There is metallization of rare elements in some of the granite bodies.</span></p>

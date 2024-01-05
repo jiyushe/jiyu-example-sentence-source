@@ -1,5 +1,7 @@
 # magistrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magistrate.md)
+
 <p><span class="chinese">潘是一个县的县令。</span><span class="english">Pan was a county magistrate.</span></p>
 
 <p><span class="chinese">你竟敢藐视推事？</span><span class="english">How dare you bully a magistrate?</span></p>

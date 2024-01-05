@@ -1,5 +1,7 @@
 # 茸毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongmao_2.md)
+
 <p><span class="chinese">植物的茸毛像针一样细。</span><span class="english">The hairs on a plant are fine like threads.</span></p>
 
 <p><span class="chinese">我什么都看不见，但可以感受到它身上的茸毛摩擦着我的鼻孔。</span><span class="english">I can't see a thing, but I can feel his fuzz in my nostrils.</span></p>

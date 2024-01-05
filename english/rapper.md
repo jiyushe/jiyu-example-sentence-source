@@ -1,5 +1,7 @@
 # rapper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapper.md)
+
 <p><span class="chinese">你现在又像个卖唱的了？</span><span class="english">So, you're like a rapper now?</span></p>
 
 <p><span class="chinese">欧阳靖12岁第一次听到黑人说唱歌手L。</span><span class="english">At the age of 12 Gin Oy first heard the rapper L.</span></p>

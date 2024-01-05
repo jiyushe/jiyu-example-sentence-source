@@ -1,5 +1,7 @@
 # submicron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submicron.md)
+
 <p><span class="chinese">深亚微米芯片设计的会带来许多新的挑战。</span><span class="english">Deep submicron IC design will bring many new challenges.</span></p>
 
 <p><span class="chinese">并在亚微米的抗辐射加固电路中成功应用。</span><span class="english">We have applyed it in submicron radiation-hard circuit successfully.</span></p>

@@ -1,5 +1,7 @@
 # neurosyphilis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurosyphilis.md)
+
 <p><span class="chinese">这是神经梅毒造成的。</span><span class="english">This is caused by neurosyphilis.</span></p>
 
 <p><span class="chinese">神经梅毒的诊断目前尚无金标准。</span><span class="english">There is no golden standard available now in diagnosing neurosyphilis.</span></p>

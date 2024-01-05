@@ -1,5 +1,7 @@
 # northamptonshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northamptonshire.md)
+
 <p><span class="chinese">他很快就要离开北安普敦郡，就连这点小小的委屈也不会常要你来承受。</span><span class="english">He leaves Northamptonshire so soon, that even this slight sacrifice cannot be often demanded.</span></p>
 
 <p><span class="chinese">在牛津郡和北安普敦郡，车队所需的一切都应有尽有。</span><span class="english">Almost everything a racing team needs can be found without leaving Oxfordshire or Northamptonshire.</span></p>

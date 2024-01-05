@@ -1,5 +1,7 @@
 # observability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/observability.md)
+
 <p><span class="chinese">我们认为这是由于团队成员间的相互可观测性引起的。</span><span class="english">We argue that this is due to the partial mutual observability between the team members.</span></p>
 
 <p><span class="chinese">分析了感应电动机系统的能控性与能观测性。</span><span class="english">The controllability and observability of induction motor systems are analyzed in this paper.</span></p>

@@ -1,5 +1,7 @@
 # demigod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demigod.md)
+
 <p><span class="chinese">他们把他当作半神和神秘的导师。</span><span class="english">They considered him a demigod and mysterious teacher.</span></p>
 
 <p><span class="chinese">崇拜半神的神职人员也是十分的稀有。</span><span class="english">Priesthoods based on the worship of a demigod are extremely rare.</span></p>

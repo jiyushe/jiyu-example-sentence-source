@@ -1,5 +1,7 @@
 # anyways
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anyways.md)
+
 <p><span class="chinese">反正他总是要迟到。</span><span class="english">He's always late anyways.</span></p>
 
 <p><span class="chinese">我清楚明白这中间的风险，无论如何还是决定出发去旅行。</span><span class="english">I knew the risks and decided to go anyways.</span></p>

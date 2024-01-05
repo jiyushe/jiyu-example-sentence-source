@@ -1,5 +1,7 @@
 # 山城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shancheng.md)
+
 <p><span class="chinese">霍山城战事正酣。</span><span class="english">Huoshan height in city.</span></p>
 
 <p><span class="chinese">靠近喀山城了。</span><span class="english">Approaching the city of Kazan.</span></p>

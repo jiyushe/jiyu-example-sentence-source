@@ -1,5 +1,7 @@
 # aneurysm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aneurysm.md)
+
 <p><span class="chinese">近肾主动脉瘤的治疗。</span><span class="english">Treatment for pararenal aortic aneurysm.</span></p>
 
 <p><span class="chinese">甚至是年轻人也有可能得动脉瘤。</span><span class="english">Even somebody who's young could have an aneurysm.</span></p>

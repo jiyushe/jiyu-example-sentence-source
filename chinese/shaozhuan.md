@@ -1,5 +1,7 @@
 # 烧砖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaozhuan.md)
+
 <p><span class="chinese">生产的不烧砖在平炉钢包渣线上使用，取得了较好效果。</span><span class="english">The brick gained favorable application result in the ladle slag line.</span></p>
 
 <p><span class="chinese">我们须先烧砖和从林子里运来木材，然后才能修建。</span><span class="english">Before we could build we had to fire bricks and carry timber from the forests.</span></p>

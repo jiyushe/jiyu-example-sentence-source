@@ -1,5 +1,7 @@
 # 鸣禽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingqin.md)
+
 <p><span class="chinese">鸣禽亚目一个科里的鸟。</span><span class="english">A bird of the suborder Oscines.</span></p>
 
 <p><span class="chinese">强烈如鸣禽厌恶猫。</span><span class="english">More than a catbird hates a cat.</span></p>

@@ -1,5 +1,7 @@
 # seismologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seismologist.md)
+
 <p><span class="chinese">同时一位地震学家在报纸上也写道这次灾难是可以预料到的。</span><span class="english">Also in the newspaper, a seismologist wrote that the country's disaster was foreseeable.</span></p>
 
 <p><span class="chinese">海啸是罕见事件。</span><span class="english">“Tsunamis are rare events, ” said Paul Huang, a seismologist with the tsunami warning center.</span></p>

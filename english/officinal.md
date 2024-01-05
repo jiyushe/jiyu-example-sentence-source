@@ -1,5 +1,7 @@
 # officinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/officinal.md)
+
 <p><span class="chinese">目的对厚朴和滇藏木兰进行鉴别。</span><span class="english">Object To identify Magnolia officinal and Campbell magnolia.</span></p>
 
 <p><span class="chinese">它具有良好的药用价值和深度开发利用价值。</span><span class="english">It has good officinal value and deepness development to use value.</span></p>

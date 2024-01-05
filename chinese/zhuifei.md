@@ -1,5 +1,7 @@
 # 追肥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuifei.md)
+
 <p><span class="chinese">每次追肥应在中耕后进行。</span><span class="english">Top dressing should be carried out after intertillage at a time.</span></p>
 
 <p><span class="chinese">结果表明，滴灌随水追肥技术有明显的增产节肥作用。</span><span class="english">Results showed that drip fertilization had the significant effects on yield.</span></p>

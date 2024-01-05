@@ -1,5 +1,7 @@
 # incredulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incredulous.md)
+
 <p><span class="chinese">他用怀疑的神情问我。</span><span class="english">He asked me with an incredulous look.</span></p>
 
 <p><span class="chinese">凯尔西巡官对此显得越发难以置信。</span><span class="english">Inspector Kelsey looked still more incredulous.</span></p>

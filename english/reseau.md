@@ -1,5 +1,7 @@
 # reseau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reseau.md)
+
 <p><span class="chinese">本文主要阐述了网格技术在气象系统中的应用研究。</span><span class="english">This paper mainly expounded the application of reseau technology in the weather systems.</span></p>
 
 <p><span class="chinese">从某种意义上说，云计算是网格计算模型自然而然的进一步发展。</span><span class="english">In some sense, cloud computation is the further progress with reseau computation automatical model.</span></p>

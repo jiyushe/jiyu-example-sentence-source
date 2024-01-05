@@ -1,5 +1,7 @@
 # 自爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziai.md)
+
 <p><span class="chinese">没有哪样东西能够取代自爱。</span><span class="english">Nothing can replace self love.</span></p>
 
 <p><span class="chinese">自爱使人生纯洁。</span><span class="english">Self-love makes your life pure.</span></p>

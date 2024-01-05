@@ -1,5 +1,7 @@
 # shiver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shiver.md)
+
 <p><span class="chinese">爱迪浑身一颤。</span><span class="english">Eddie felt a shiver.</span></p>
 
 <p><span class="chinese">他打了个寒噤。</span><span class="english">He got a cold shiver.</span></p>

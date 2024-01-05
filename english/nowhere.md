@@ -1,5 +1,7 @@
 # nowhere 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nowhere.md)
+
 <p><span class="chinese">他无处可去。</span><span class="english">He had nowhere to go.</span></p>
 
 <p><span class="chinese">迪西没有地方坐。</span><span class="english">Dipsy had nowhere to sit.</span></p>

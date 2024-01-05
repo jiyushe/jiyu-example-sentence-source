@@ -1,5 +1,7 @@
 # retroreflector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retroreflector.md)
+
 <p><span class="chinese">采用角锥棱镜作为敏感单元并后向反射光束，减小了仪器结构体积。</span><span class="english">A cube-corner retroreflector is used to reduce the volume of the device.</span></p>
 
 <p><span class="chinese">月球车一号返回的信号强度是月球车二号的五倍。</span><span class="english">Lunokhod 1's retroreflector returned a signal actually about five times better than returned by Lunokhod 2.</span></p>

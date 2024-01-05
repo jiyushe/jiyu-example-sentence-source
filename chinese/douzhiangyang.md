@@ -1,5 +1,7 @@
 # 斗志昂扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douzhiangyang.md)
+
 <p><span class="chinese">他们知道事业正义，并因此斗志昂扬。</span><span class="english">They knew of it and motivated by it.</span></p>
 
 <p><span class="chinese">他们奔向战场时哼着歌，年少力强，斗志昂扬</span><span class="english">They went with songs to the battle, they were young</span></p>

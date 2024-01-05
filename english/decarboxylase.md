@@ -1,5 +1,7 @@
 # decarboxylase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decarboxylase.md)
+
 <p><span class="chinese">苹果酸酶是CAM植物一种重要脱羧酶。</span><span class="english">NADP-malic enzyme is an important decarboxylase in CAM plants.</span></p>
 
 <p><span class="chinese">酪氨酸脱羧酶与发酵食品中酪胺的产生密切相关。</span><span class="english">Tyrosine decarboxylase is closely related to tyramine production of fermented food.</span></p>

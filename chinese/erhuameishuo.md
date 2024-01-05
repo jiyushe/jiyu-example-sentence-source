@@ -1,5 +1,7 @@
 # 二话没说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erhuameishuo.md)
+
 <p><span class="chinese">他二话没说离开了房间。</span><span class="english">He left the room without saying anything.</span></p>
 
 <p><span class="chinese">那个大块头二话没说，跟着走了过去。</span><span class="english">Without a word, the larger gangster followed.</span></p>

@@ -1,5 +1,7 @@
 # signor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signor.md)
+
 <p><span class="chinese">维太里先生举起一只手。</span><span class="english">Signor Vitelli held up a hand.</span></p>
 
 <p><span class="chinese">这是卡萨诺瓦的宅邸吗？</span><span class="english">Is this the palazzo of Signor Casanova?</span></p>

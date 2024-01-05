@@ -1,5 +1,7 @@
 # 灶神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoshen.md)
+
 <p><span class="chinese">袁珂先生曾证蟑螂是灶神，本文作支持补说。</span><span class="english">According to Mr. Yuan Ke, cockroach is kitchen god.</span></p>
 
 <p><span class="chinese">灶神信仰是土族群众之诸多信仰之一。</span><span class="english">The belief of kitchen god is one of beliefs of the Tus.</span></p>

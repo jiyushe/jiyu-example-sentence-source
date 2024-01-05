@@ -1,5 +1,7 @@
 # stern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stern.md)
+
 <p><span class="chinese">送出艉缆。</span><span class="english">Send out stern lines.</span></p>
 
 <p><span class="chinese">警戒森严。</span><span class="english">The caution is stern.</span></p>

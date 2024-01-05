@@ -1,5 +1,7 @@
 # fane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fane.md)
+
 <p><span class="chinese">一个夏天，梵出国旅游了。</span><span class="english">One summer, Fane traveled abroad.</span></p>
 
 <p><span class="chinese">白色雅致的神殿在日光中闪烁。</span><span class="english">The white and graceful fane gleamed brightly in the sun.</span></p>

@@ -1,5 +1,7 @@
 # 落得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luode.md)
+
 <p><span class="chinese">球落得很轻很稳。</span><span class="english">That ball landed very softly.</span></p>
 
 <p><span class="chinese">冬天的太阳落得早。</span><span class="english">The sun sets early in winter.</span></p>

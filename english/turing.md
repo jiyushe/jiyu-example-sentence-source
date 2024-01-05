@@ -1,5 +1,7 @@
 # turing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turing.md)
+
 <p><span class="chinese">它叫做图灵兼容性。</span><span class="english">It's called Turing compatibility.</span></p>
 
 <p><span class="chinese">图灵测试是一个单边测试。</span><span class="english">The Turing test is a one-sided test.</span></p>

@@ -1,5 +1,7 @@
 # leukemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leukemic.md)
+
 <p><span class="chinese">异搏定和红霉素对白血病细胞MDR有逆转作用。</span><span class="english">Verapamil and erythromycin could reverse the MDR of leukemic cells.</span></p>
 
 <p><span class="chinese">不同类型白血病细胞核基质蛋白存在差异。</span><span class="english">New nuclear matrix proteins appeared in leukemic cells and varied among leukemic cells.</span></p>

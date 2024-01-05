@@ -1,5 +1,7 @@
 # 近作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzuo.md)
+
 <p><span class="chinese">我已经得到了他的近作。</span><span class="english">I have already got his latest work.</span></p>
 
 <p><span class="chinese">许多读者对她的近作很不满意。</span><span class="english">Many readers were offended with her latest book.</span></p>

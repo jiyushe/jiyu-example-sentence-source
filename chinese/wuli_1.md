@@ -1,5 +1,7 @@
 # 屋里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuli_1.md)
+
 <p><span class="chinese">他被禁闭在一间屋里。</span><span class="english">He was shut in a room.</span></p>
 
 <p><span class="chinese">我住在一间新屋里。</span><span class="english">I live in a new house.</span></p>

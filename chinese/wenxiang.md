@@ -1,5 +1,7 @@
 # 蚊香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxiang.md)
+
 <p><span class="chinese">狗狗专用的盘圈型蚊香。</span><span class="english">Mosquito coil for dogs.</span></p>
 
 <p><span class="chinese">卫生纸，洗粉，火柴，蚊香，油漆刷。</span><span class="english">Toilet Paper, Detergent, Matches, Mosquito Coil, Paint Brushes.</span></p>

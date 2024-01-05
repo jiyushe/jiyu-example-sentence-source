@@ -1,5 +1,7 @@
 # equilibrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equilibrate.md)
+
 <p><span class="chinese">将所有材料平衡至进行层析的温度。</span><span class="english">Equilibrate all material to the temperature at which the chromatography will be performed.</span></p>
 
 <p><span class="chinese">你可以决定不去遵守某些法则，但是你必须下功夫去平衡你的效果。</span><span class="english">You can decide not to follow some of them so you know you must work to equilibrate the result.</span></p>

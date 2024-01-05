@@ -1,5 +1,7 @@
 # 无可厚非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wukehoufei.md)
+
 <p><span class="chinese">这无可厚非</span><span class="english">It's not a vice.</span></p>
 
 <p><span class="chinese">他无可厚非是认真的。</span><span class="english">He was legit serious.</span></p>

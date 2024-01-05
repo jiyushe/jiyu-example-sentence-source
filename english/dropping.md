@@ -1,5 +1,7 @@
 # dropping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dropping.md)
+
 <p><span class="chinese">于是停止了筑城的事。</span><span class="english">Xue city is dropping out.</span></p>
 
 <p><span class="chinese">出口引水员下船?。</span><span class="english">DOP Dropping?outward pilot?</span></p>

@@ -1,5 +1,7 @@
 # 铅球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianqiu_1.md)
+
 <p><span class="chinese">铅球的动作名称是哪三个？</span><span class="english">Is the shot action name three?</span></p>
 
 <p><span class="chinese">他创造了铅球的新纪录。</span><span class="english">He has hung up a new record for shot put.</span></p>

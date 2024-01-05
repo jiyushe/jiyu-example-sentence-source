@@ -1,5 +1,7 @@
 # 咏叹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongtan.md)
+
 <p><span class="chinese">他走的是一条从为个人咏叹到为人民呼号的道路。</span><span class="english">It was a road from singing for himself to crying out for people.</span></p>
 
 <p><span class="chinese">月和剑两个意象统一于作者反复咏叹的秋的意象上。</span><span class="english">The images of moon and sword were unified in the image of autumn.</span></p>

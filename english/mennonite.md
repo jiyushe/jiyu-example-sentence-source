@@ -1,5 +1,7 @@
 # mennonite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mennonite.md)
+
 <p><span class="chinese">当地人会教你如何做饭、缝衣。</span><span class="english">The local Mennonite community will teach you how to cook and sew.</span></p>
 
 <p><span class="chinese">在加拿大安大略省伊劳拉镇上的一座门诺派农场中，一头母牛正在照料刚出生的牛犊。</span><span class="english">A cow cares for her newborn calf on a Mennonite farm in Elora, Ontario, Canada.</span></p>

@@ -1,5 +1,7 @@
 # thymectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thymectomy.md)
+
 <p><span class="chinese">此患者于2006年因患胸腺瘤而接受胸腺切除术。</span><span class="english">In 2006, she had a thymectomy for thymoma.</span></p>
 
 <p><span class="chinese">结论外科手术是治疗重症肌无力危象的方法之一。</span><span class="english">Conclusion Emergency thymectomy is the treatment of choice for crisis of myasthenia gravis.</span></p>

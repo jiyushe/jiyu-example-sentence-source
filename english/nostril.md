@@ -1,5 +1,7 @@
 # nostril
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nostril.md)
+
 <p><span class="chinese">开始交替鼻孔呼吸。</span><span class="english">Start with alternate nostril breathing.</span></p>
 
 <p><span class="chinese">左鼻孔代表女性化、温吞、平静和镇定。</span><span class="english">Left nostril is feminine, nurturing, calm and cooling.</span></p>

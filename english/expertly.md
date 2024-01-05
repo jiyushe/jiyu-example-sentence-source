@@ -1,5 +1,7 @@
 # expertly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expertly.md)
+
 <p><span class="chinese">护士熟练地敷药包扎了伤口。</span><span class="english">The nurse dressed the wound expertly.</span></p>
 
 <p><span class="chinese">当他还是孩子的时候，就学会了如何制版。</span><span class="english">He learned to plate expertly while still a boy.</span></p>

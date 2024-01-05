@@ -1,5 +1,7 @@
 # 东汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donghan.md)
+
 <p><span class="chinese">东汉辞赋家、散文家、书法家。</span><span class="english">Han Fu family, essayist, calligrapher.</span></p>
 
 <p><span class="chinese">东汉时称为刺，故名片又称名刺。</span><span class="english">Han dynasty, so called ci card, say again MingCi.</span></p>

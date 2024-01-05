@@ -1,5 +1,7 @@
 # applied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applied.md)
+
 <p><span class="chinese">他贴一膏药。</span><span class="english">He applied a plaster.</span></p>
 
 <p><span class="chinese">该枪已经用于制管实验中。</span><span class="english">It's applied in experiment.</span></p>

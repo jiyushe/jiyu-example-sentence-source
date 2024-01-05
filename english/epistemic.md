@@ -1,5 +1,7 @@
 # epistemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epistemic.md)
+
 <p><span class="chinese">衷心祝愿他青春永驻，艺术尝新。</span><span class="english">Sincerely wish him eternal youth, art epistemic.</span></p>
 
 <p><span class="chinese">我们可以休整这条认知准确性的来绕过这个问题。</span><span class="english">We could revise the Epistemic Accuracy Theory to get around this problem.</span></p>

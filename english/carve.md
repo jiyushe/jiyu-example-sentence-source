@@ -1,5 +1,7 @@
 # carve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carve.md)
+
 <p><span class="chinese">他没事儿刻字干吗呀？</span><span class="english">Why did he carve it?</span></p>
 
 <p><span class="chinese">留出一些时间俩工作。</span><span class="english">Carve out some time to work.</span></p>

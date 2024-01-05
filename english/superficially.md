@@ -1,5 +1,7 @@
 # superficially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superficially.md)
+
 <p><span class="chinese">浅薄地表达深厚感情。</span><span class="english">To express deep feelings superficially.</span></p>
 
 <p><span class="chinese">那些铜制器具表面镀了一层黄铜。</span><span class="english">Those copper articles were superficially brassed.</span></p>

@@ -1,5 +1,7 @@
 # prospecting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prospecting.md)
+
 <p><span class="chinese">因此，找矿重点是寻找矿源层。</span><span class="english">Therefore, ore prospecting was cast about for source bed.</span></p>
 
 <p><span class="chinese">他们正在采用一种新的勘探方法寻找石油。</span><span class="english">They are using a new prospecting method to quest for oil.</span></p>

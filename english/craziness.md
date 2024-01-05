@@ -1,5 +1,7 @@
 # craziness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craziness.md)
+
 <p><span class="chinese">这股疯狂劲儿可不只存在于中东。</span><span class="english">It’s not just all the craziness in the Middle East.</span></p>
 
 <p><span class="chinese">想要远离使你抓狂的圣诞节大采购？</span><span class="english">Want to get out of the craziness of Christmas shopping?</span></p>

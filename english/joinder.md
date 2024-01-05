@@ -1,5 +1,7 @@
 # joinder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joinder.md)
+
 <p><span class="chinese">想象竞合犯的本质是实质的一罪。</span><span class="english">The essence of the imaginative joinder offenses is one crime.</span></p>
 
 <p><span class="chinese">认为对于合同诈骗罪同种数罪，应实行数罪并罚。</span><span class="english">I think that the court should of joinder of punishments for plural crimes of contract fraud.</span></p>

@@ -1,5 +1,7 @@
 # epididymis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epididymis.md)
+
 <p><span class="chinese">附睾炎是怎么引起的？</span><span class="english">Is epididymis phlogistic how to cause?</span></p>
 
 <p><span class="chinese">附睾是精子的储存库。</span><span class="english">The epididymis is a storage reservoir for sperm.</span></p>

@@ -1,5 +1,7 @@
 # presentational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presentational.md)
+
 <p><span class="chinese">表象训练是一种运动心理训练的方法。</span><span class="english">Presentational training is one mentality training method.</span></p>
 
 <p><span class="chinese">表现型站点的例子有新闻或产品文档页面。</span><span class="english">Examples of presentational sites are news or product documentation pages.</span></p>

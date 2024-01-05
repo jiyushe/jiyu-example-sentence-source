@@ -1,5 +1,7 @@
 # 家家户户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiajiahuhu.md)
+
 <p><span class="chinese">家家户户的院子里，也都盖满了葡萄。</span><span class="english">Each courtyard had a grape trellis.</span></p>
 
 <p><span class="chinese">家家户户烧纸钱，安鬼平和鬼团圆。</span><span class="english">Every family, Ann demons and ghosts.</span></p>

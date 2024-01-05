@@ -1,5 +1,7 @@
 # erg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erg.md)
+
 <p><span class="chinese">如果尔格骑队正处于召唤失调，则忽略此效果。</span><span class="english">Ignore this effect if Erg Raiders has summoning sickness.</span></p>
 
 <p><span class="chinese">ERG帽子可卷起，使用方便，大范围可调，保证贴合舒适。</span><span class="english">Attached, roll-up, ERG hood Easy use, wide adjustment, great fit.</span></p>

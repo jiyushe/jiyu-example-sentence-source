@@ -1,5 +1,7 @@
 # 拔苗助长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bamiaozhuzhang.md)
+
 <p><span class="chinese">为了防止复发，拔苗助长是绝对不可以的。</span><span class="english">But it's important not to rush things to avoid setbacks.</span></p>
 
 <p><span class="chinese">这便是龟兔赛跑、守株待兔和拔苗助长。</span><span class="english">This is willing and, tortoise and the haste makes waste.</span></p>

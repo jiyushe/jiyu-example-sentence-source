@@ -1,5 +1,7 @@
 # 专制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzhi.md)
+
 <p><span class="chinese">二是专制型。</span><span class="english">Two is absolutist type.</span></p>
 
 <p><span class="chinese">但是，专制国家也同样更容易得到难以预料的可怕后果。</span><span class="english">They are also more accident-prone.</span></p>

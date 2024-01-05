@@ -1,5 +1,7 @@
 # wcdma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wcdma.md)
+
 <p><span class="chinese">研究了应用于WCDMA直放站中的基于模拟预失真技术的功率放大器。</span><span class="english">An analog predistortion power amplifier used in WCDMA repeater is developed.</span></p>
 
 <p><span class="chinese">本文介绍了WCDMA的无线接口协议规范。</span><span class="english">The radio interface protocols criterion of WCDMA is introduced in this paper.</span></p>

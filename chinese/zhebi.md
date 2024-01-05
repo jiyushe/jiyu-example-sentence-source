@@ -1,5 +1,7 @@
 # 遮蔽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhebi.md)
+
 <p><span class="chinese">层层迷雾遮蔽了重重峰峦。</span><span class="english">Fogs hide the mountain peaks.</span></p>
 
 <p><span class="chinese">他们在完美的遮蔽下。</span><span class="english">They were in perfect defilade.</span></p>

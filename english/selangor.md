@@ -1,5 +1,7 @@
 # selangor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selangor.md)
+
 <p><span class="chinese">雪州民联议员是他的下个目标。</span><span class="english">Opposition politicians in the state of Selangor are his next target.</span></p>
 
 <p><span class="chinese">话虽如此，我就不写了从雪兰莪州和马六甲的挑战。</span><span class="english">Having said that, I will not write off the challenges from Selangor and Malacca.</span></p>

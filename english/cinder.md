@@ -1,5 +1,7 @@
 # cinder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinder.md)
+
 <p><span class="chinese">“火山灰渣”就会成为一个花园。</span><span class="english">The "cinder" would become a garden.</span></p>
 
 <p><span class="chinese">沿着荷塘，是一条曲折的小煤屑路。</span><span class="english">Alongside of the Lotus Pond runs a small cinder footpath.</span></p>

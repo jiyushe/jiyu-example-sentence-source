@@ -1,5 +1,7 @@
 # newsprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newsprint.md)
+
 <p><span class="chinese">即使是最窄的新闻专栏也因为太宽而不能聚焦完全。</span><span class="english">Even the narrowest columns of newsprint are too wide to focus entirely.</span></p>
 
 <p><span class="chinese">在壁炉中坚实的报纸管将燃烧得同原木一样。</span><span class="english">The solid tube of newsprint will burn much like a log in the fireplace.</span></p>

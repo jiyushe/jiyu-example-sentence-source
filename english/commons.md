@@ -1,5 +1,7 @@
 # commons
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commons.md)
+
 <p><span class="chinese">应该称其为公众的悲剧吧。</span><span class="english">Call it the tragedy of the commons.</span></p>
 
 <p><span class="chinese">对于“公地”的定义同样关键。</span><span class="english">Defining the commons is also vital.</span></p>

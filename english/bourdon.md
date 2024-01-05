@@ -1,5 +1,7 @@
 # bourdon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bourdon.md)
+
 <p><span class="chinese">现场压力表应通常是波登管或波纹管型。</span><span class="english">Pressure gauges shall generally be bourdon tube or bellows type.</span></p>
 
 <p><span class="chinese">哪种类型的管系中应考虑到波登效应?。</span><span class="english">What kind of piping system should the Bourdon effect be considered to?</span></p>

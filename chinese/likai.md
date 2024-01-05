@@ -1,5 +1,7 @@
 # 离开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/likai.md)
+
 <p><span class="chinese">杨必须离开。</span><span class="english">Yang must go.</span></p>
 
 <p><span class="chinese">我要离开这儿！</span><span class="english">Get outta here!</span></p>

@@ -1,5 +1,7 @@
 # 乳母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rumu.md)
+
 <p><span class="chinese">帕娅是一名服务于塞诺比亚皇家的乳母。</span><span class="english">Served as a nanny to the Zenobian family.</span></p>
 
 <p><span class="chinese">乳母需要摄取更多膳食钙吗?。</span><span class="english">Does lactation mother need more diet calcium?</span></p>

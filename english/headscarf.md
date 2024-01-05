@@ -1,5 +1,7 @@
 # headscarf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headscarf.md)
+
 <p><span class="chinese">我的头巾掉下来了，所以我又把它拉上去。</span><span class="english">My headscarf had fallen down, so I pulled it up.</span></p>
 
 <p><span class="chinese">1999年一位国会议员因戴头巾进入国会而被赶了出去。</span><span class="english">In 1999 an MP who came to parliament in a headscarf was booed out.</span></p>

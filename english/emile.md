@@ -1,5 +1,7 @@
 # emile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emile.md)
+
 <p><span class="chinese">不过埃米尔还有机会。</span><span class="english">But Emile will get another chance.</span></p>
 
 <p><span class="chinese">刚好落在英国队10号前，然而球滚向了埃米尔·赫斯基。</span><span class="english">It was just ahead of England's No 10 but rolled on to Emile Heskey.</span></p>

@@ -1,5 +1,7 @@
 # 事端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiduan.md)
+
 <p><span class="chinese">肯定哪里出了事端</span><span class="english">Something is going on.</span></p>
 
 <p><span class="chinese">有罪的是那些制造事端的罪恶。</span><span class="english">The guilty is those evil of be made.</span></p>

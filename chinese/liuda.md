@@ -1,5 +1,7 @@
 # 六大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuda.md)
+
 <p><span class="chinese">作业是第六大题和第七大题.</span><span class="english">My homework is item six and item seven.</span></p>
 
 <p><span class="chinese">长安汽车是中国六大汽车集团之一。</span><span class="english">Changan is one of China’s six biggest auto groups.</span></p>

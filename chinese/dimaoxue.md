@@ -1,5 +1,7 @@
 # 地貌学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dimaoxue.md)
+
 <p><span class="chinese">地貌学研究地形的成因及其变化。</span><span class="english">The study of the evolution and configuration of landforms.</span></p>
 
 <p><span class="chinese">坡地发育是地貌学研究的基本问题之一。</span><span class="english">Slope development is one of the elementary issues of geomorphology.</span></p>

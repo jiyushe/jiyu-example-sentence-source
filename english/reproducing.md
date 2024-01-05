@@ -1,5 +1,7 @@
 # reproducing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reproducing.md)
+
 <p><span class="chinese">大自然为了使人类生生不息而设的圈套。</span><span class="english">Nature's way of tricking people into reproducing.</span></p>
 
 <p><span class="chinese">这些广告插页简直像是不停地自行生产出来的！</span><span class="english">It's almost as if the inserts keep reproducing themselves!</span></p>

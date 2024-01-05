@@ -1,5 +1,7 @@
 # deforest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deforest.md)
+
 <p><span class="chinese">我是大卫得福斯，美国之音新闻。</span><span class="english">I'm David DeForest , VOA News.</span></p>
 
 <p><span class="chinese">我是大卫。美国之音新闻。</span><span class="english">I'm David Deforest , VOA news.</span></p>

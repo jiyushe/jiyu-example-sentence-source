@@ -1,5 +1,7 @@
 # 水系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixi.md)
+
 <p><span class="chinese">那你就艾文莉的药精水系列的吧！</span><span class="english">Avenir medicine that you water fine series of it!</span></p>
 
 <p><span class="chinese">珠江航运有着悠久的传统，是我国内河航运第二大水系。</span><span class="english">It is the second biggest river in Chinese inland navigation rivers.</span></p>

@@ -1,5 +1,7 @@
 # shore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shore.md)
+
 <p><span class="chinese">划啊，孩子们！划向岸。</span><span class="english">Pull for shore.</span></p>
 
 <p><span class="chinese">高高洒落在崖岸上。</span><span class="english">High on the rocky shore.</span></p>

@@ -1,5 +1,7 @@
 # serendipitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serendipitous.md)
+
 <p><span class="chinese">我喜欢“不经意式广播”这个主意。</span><span class="english">I like the idea of serendipitous broadcasting.</span></p>
 
 <p><span class="chinese">那天午饭后的发现纯属巧合。</span><span class="english">What followed lunch that day was a serendipitous discovery.</span></p>

@@ -1,5 +1,7 @@
 # 奢侈品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shechipin.md)
+
 <p><span class="chinese">奶油蛋糕是奢侈品。</span><span class="english">Cream cakes are a luxury.</span></p>
 
 <p><span class="chinese">很少有人买得起这种奢侈品。</span><span class="english">Few could afford the luxury.</span></p>

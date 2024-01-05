@@ -1,5 +1,7 @@
 # incontinent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incontinent.md)
+
 <p><span class="chinese">人老了就往往有内急失禁现象。</span><span class="english">People often become incontinent when they get very old.</span></p>
 
 <p><span class="chinese">翻译地下水由于无节制的使用而枯竭了。</span><span class="english">The underground water was exhausted by incontinent use.</span></p>

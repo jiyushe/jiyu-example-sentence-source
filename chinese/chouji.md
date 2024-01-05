@@ -1,5 +1,7 @@
 # 筹集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouji.md)
+
 <p><span class="chinese">莫里斯.史密斯负责筹集竞选资金。</span><span class="english">Maurice Smith raised the money.</span></p>
 
 <p><span class="chinese">为他们筹集一些钱我们应做什么？</span><span class="english">What should we do to raise money for them?</span></p>

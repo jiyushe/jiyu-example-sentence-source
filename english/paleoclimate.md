@@ -1,5 +1,7 @@
 # paleoclimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleoclimate.md)
+
 <p><span class="chinese">古气候应属亚热带气候。</span><span class="english">The paleoclimate should belong to the subtropical one.</span></p>
 
 <p><span class="chinese">Paleoclimate-古气候指的是古代地质时期的气候条件。</span><span class="english">Paleoclimate The climate conditions of geologic periods in the ancient past.</span></p>

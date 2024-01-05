@@ -1,5 +1,7 @@
 # 说客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuike.md)
+
 <p><span class="chinese">院外集团的说客用贿金拉拢政府官员。</span><span class="english">Lobbyists use slush fund to bribe public officials.</span></p>
 
 <p><span class="chinese">问题在于说客应该扮演一个什么样的角色。</span><span class="english">The problem is the role that lobbyists have come to play.</span></p>

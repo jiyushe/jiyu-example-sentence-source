@@ -1,5 +1,7 @@
 # debutant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debutant.md)
+
 <p><span class="chinese">赛后，温格对这名23岁的新兵难抑赞美之辞。</span><span class="english">After the game Wenger paid tribute to the 23-year-old debutant.</span></p>
 
 <p><span class="chinese">霍奇森同时确认，首次亮相的孔切斯基被换下，纯粹是作为预防措施。</span><span class="english">Hodgson also confirmed debutant Paul Konchesky was substituted purely as a precaution.</span></p>

@@ -1,5 +1,7 @@
 # 照本宣科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaobenxuanke.md)
+
 <p><span class="chinese">“若是照本宣科，任何课程都会枯燥乏味，”他继续说。</span><span class="english">"Any subject can be dull if it's taught that way, "he continued.</span></p>
 
 <p><span class="chinese">许多人都在抱怨，说奥巴马正在变得过于照本宣科了。</span><span class="english">Many people are complaining, though, that Obama is becoming too scripted.</span></p>

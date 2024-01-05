@@ -1,5 +1,7 @@
 # 宿醉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suzui.md)
+
 <p><span class="chinese">宿醉是危险的。</span><span class="english">Hangover is dangerous.</span></p>
 
 <p><span class="chinese">酒鬼会不会有宿醉？</span><span class="english">Do alcoholics get hangovers?</span></p>

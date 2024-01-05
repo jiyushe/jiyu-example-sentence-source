@@ -1,5 +1,7 @@
 # dressy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dressy.md)
+
 <p><span class="chinese">她比以前更讲究穿着了。</span><span class="english">She has been more dressy than before.</span></p>
 
 <p><span class="chinese">在办公室，所以我的穿着要讲究。</span><span class="english">At an office, so we need to be dressy.</span></p>

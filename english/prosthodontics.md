@@ -1,5 +1,7 @@
 # prosthodontics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosthodontics.md)
+
 <p><span class="chinese">修复齿科是美国牙科学会所认许的八个牙科专门领域之一。</span><span class="english">Prosthodontics is one of the eight dental specialties recognized by the ADA.</span></p>
 
 <p><span class="chinese">目的金-瓷修复体的临床效果评价。</span><span class="english">Objective To evaluate the clinical results of PFM restoration and prosthodontics.</span></p>

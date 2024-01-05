@@ -1,5 +1,7 @@
 # pentagonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentagonal.md)
+
 <p><span class="chinese">美国国防部的办公大楼是一座五边形建筑物，叫做五角大楼。</span><span class="english">The office block of USA DOD is a pentagonal building called five angle building.</span></p>
 
 <p><span class="chinese">五角形的结构使其具备良好的咬球性能，提供了绝佳的旋转。</span><span class="english">It offers a PENTAGONAL profile for good bite on the ball resulting in better spin potential.</span></p>

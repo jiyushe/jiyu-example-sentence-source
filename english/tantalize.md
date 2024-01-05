@@ -1,5 +1,7 @@
 # tantalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tantalize.md)
+
 <p><span class="chinese">但是我老感觉吃起来很是吊胃口。</span><span class="english">Old but I feel it is to eat up tantalize.</span></p>
 
 <p><span class="chinese">把那块骨头给那条狗吧--别让它干着急了。</span><span class="english">Give the dog the bone don't tantalize him.</span></p>

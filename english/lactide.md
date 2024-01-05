@@ -1,5 +1,7 @@
 # lactide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lactide.md)
+
 <p><span class="chinese">本文主要进行了丙交酯的合成工艺研究及聚乳酸的开环聚合工艺研究。</span><span class="english">We use the method of decomposing PLA to synthesize lactide by means of orthodoxical experiment method.</span></p>
 
 <p><span class="chinese">制备聚乳酸常通过乳酸的直接聚合或丙交酯的开环聚合两种方法。</span><span class="english">PLA has been produced by ring-opening polymerization of lactide or direct polycondensation of lactic acid.</span></p>

@@ -1,5 +1,7 @@
 # 地洞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/didong.md)
+
 <p><span class="chinese">穴居沙龟打一个迂曲的地洞。</span><span class="english">The gopher digs a maze of tunnels.</span></p>
 
 <p><span class="chinese">兔子掘地洞一直钻到我们草坪上。</span><span class="english">The rabbits burrowed into our lawn.</span></p>

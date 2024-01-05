@@ -1,5 +1,7 @@
 # 虽则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suize.md)
+
 <p><span class="chinese">虽则我浑如帮忙你，可是我有很多事要做。</span><span class="english">Much as I would like to help, I have a lot to do.</span></p>
 
 <p><span class="chinese">虽则我是中国人，我将在不列颠找出我的故事。</span><span class="english">Though I'm a Chinese, I'll locate my story in Britain.</span></p>

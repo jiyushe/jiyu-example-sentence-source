@@ -1,5 +1,7 @@
 # spider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spider.md)
+
 <p><span class="chinese">他就是设圈套者。</span><span class="english">He was the spider.</span></p>
 
 <p><span class="chinese">蜘蛛吐丝结网。</span><span class="english">A spider spins a web.</span></p>

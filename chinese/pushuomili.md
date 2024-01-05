@@ -1,5 +1,7 @@
 # 扑朔迷离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pushuomili.md)
+
 <p><span class="chinese">可能会扑朔迷离。</span><span class="english">It's going to be perhaps a lot murkier.</span></p>
 
 <p><span class="chinese">在这些混沌模糊、扑朔迷离的时刻背后,隐藏着一个难解之谜。</span><span class="english">In the fog of those moments lies a mystery.</span></p>

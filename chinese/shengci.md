@@ -1,5 +1,7 @@
 # 剩磁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengci.md)
+
 <p><span class="chinese">本文解释热剩磁和粘滞剩磁的阻挡过程。</span><span class="english">The blocking process for TRM and VRM is explained in present study.</span></p>
 
 <p><span class="chinese">剩磁装置可包括铁心壳和衔铁。</span><span class="english">The residual magnetic devices can include a core housing and an armature.</span></p>

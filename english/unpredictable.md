@@ -1,5 +1,7 @@
 # unpredictable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpredictable.md)
+
 <p><span class="chinese">它是不可预测的。</span><span class="english">It's unpredictable.</span></p>
 
 <p><span class="chinese">天气很难预料。</span><span class="english">It's pretty unpredictable.</span></p>

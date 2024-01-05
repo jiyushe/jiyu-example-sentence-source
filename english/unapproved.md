@@ -1,5 +1,7 @@
 # unapproved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unapproved.md)
+
 <p><span class="chinese">未经批准擅自休假者将按旷课处理。</span><span class="english">Unapproved leave will count as unexcused absences.</span></p>
 
 <p><span class="chinese">未经批准擅自休假者将按旷课处理。</span><span class="english">Unapproved leave will count as an unexcused absence.</span></p>

@@ -1,5 +1,7 @@
 # 斜角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiejiao.md)
+
 <p><span class="chinese">用来做斜角的一种钻头。</span><span class="english">A bit that is used for beveling.</span></p>
 
 <p><span class="chinese">他正在把梁木的边截成斜角。</span><span class="english">He is canting the edge of a beam.</span></p>

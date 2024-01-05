@@ -1,5 +1,7 @@
 # amble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amble.md)
+
 <p><span class="chinese">这匹马正在溜蹄行走。</span><span class="english">The horse is walking at an amble.</span></p>
 
 <p><span class="chinese">“当然可以，”我笑起来，减下步伐，慢慢地走。</span><span class="english">"Sure. " I laugh, slowing to an easy amble.</span></p>

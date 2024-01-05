@@ -1,5 +1,7 @@
 # eardrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eardrum.md)
+
 <p><span class="chinese">我的左耳的耳鼓感染了。</span><span class="english">My left eardrum has become infected.</span></p>
 
 <p><span class="chinese">耳鼓已经感染了。</span><span class="english">My right eardrum have become infect.</span></p>

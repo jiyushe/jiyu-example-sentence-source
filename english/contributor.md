@@ -1,5 +1,7 @@
 # contributor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contributor.md)
+
 <p><span class="chinese">压力是很重要的一个导火索。</span><span class="english">Stress is a major contributor.</span></p>
 
 <p><span class="chinese">大西洋月刊的撰稿人大卫·费得曼写道</span><span class="english">Atlantic contributor David Freedman writes</span></p>

@@ -1,5 +1,7 @@
 # anastomosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anastomosis.md)
+
 <p><span class="chinese">这些血管的皮支吻合丰富。</span><span class="english">These vessels have rich cutaneous anastomosis.</span></p>
 
 <p><span class="chinese">主动脉弓直接吻合连接术效果较佳。</span><span class="english">There were good results with direct aortic arch anastomosis.</span></p>

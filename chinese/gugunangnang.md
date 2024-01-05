@@ -1,5 +1,7 @@
 # 鼓鼓囊囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gugunangnang.md)
+
 <p><span class="chinese">他的裤子在膝盖处鼓鼓囊囊的。</span><span class="english">His pants were baggy at the knees.</span></p>
 
 <p><span class="chinese">他的囗袋鼓鼓囊囊装满了小石头。</span><span class="english">His pocket bulged with small stone.</span></p>

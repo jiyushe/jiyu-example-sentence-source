@@ -1,5 +1,7 @@
 # 邀集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoji_1.md)
+
 <p><span class="chinese">邀集有关人士讨论一下下一步干什么。</span><span class="english">People concerned have been invited here to discuss what to do next.</span></p>
 
 <p><span class="chinese">邀集有关人士讨论下一步干什么。</span><span class="english">People concerned have been called together here to discuss what to do next.</span></p>

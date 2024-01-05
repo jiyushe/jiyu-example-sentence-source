@@ -1,5 +1,7 @@
 # reserve 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reserve.md)
+
 <p><span class="chinese">你能预定奶油馅点心么?。</span><span class="english">Can you reserve eclairs?</span></p>
 
 <p><span class="chinese">我想预先规定一个房间。</span><span class="english">I want to reserve a room.</span></p>

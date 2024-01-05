@@ -1,5 +1,7 @@
 # arithmetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arithmetical.md)
+
 <p><span class="chinese">许多算术问题是用试位法解的。</span><span class="english">Many of the arithmetical problems were solved by false position.</span></p>
 
 <p><span class="chinese">另一方面，女性在算术运算上稍好于男性。</span><span class="english">On the other hand, women are slightly better at arithmetical calculations.</span></p>

@@ -1,5 +1,7 @@
 # aspirator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspirator.md)
+
 <p><span class="chinese">在实验的最后操作具有控制踏板的烟雾吸气器。</span><span class="english">Fume aspirator with control pedal to operate at test end.</span></p>
 
 <p><span class="chinese">不要把吸引器往病人嘴里推得太深。</span><span class="english">Don't hold the aspirator too far back in the patient's mouth.</span></p>

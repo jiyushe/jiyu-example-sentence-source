@@ -1,5 +1,7 @@
 # anaphora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaphora.md)
+
 <p><span class="chinese">照应词的指称对象是一个心理存在。</span><span class="english">The referents of anaphora mentally exist.</span></p>
 
 <p><span class="chinese">代词回指是回指的一种。</span><span class="english">Pronominal anaphora is one kind of anaphora.</span></p>

@@ -1,5 +1,7 @@
 # ambitiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambitiously.md)
+
 <p><span class="chinese">我们要立大志展宏图。</span><span class="english">Let's think big, ie plan ambitiously.</span></p>
 
 <p><span class="chinese">最开始，我雄心壮志地想把它做成一个收集所有这些小窍门的网站。</span><span class="english">Originally, I ambitiously thought I'd make it a site to collect all of these tips together.</span></p>

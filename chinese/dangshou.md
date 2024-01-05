@@ -1,5 +1,7 @@
 # 党首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangshou.md)
+
 <p><span class="chinese">他是第一名承认自己或缺乏必要经验的党首。</span><span class="english">He is the first to admit he may lack the necessary experience.</span></p>
 
 <p><span class="chinese">如果你可以当一个恶党首领，会选那个组织？</span><span class="english">If you are a leader of the evil men, which organization you would select?</span></p>

@@ -1,5 +1,7 @@
 # 孩子气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiziqi.md)
+
 <p><span class="chinese">别孩子气般地捣乱。</span><span class="english">Stop childishly messing around.</span></p>
 
 <p><span class="chinese">侯爵夫人愤愤地说，“你真是太傻，太孩子气了。</span><span class="english">The wife or widow of a margrave.</span></p>

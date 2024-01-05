@@ -1,5 +1,7 @@
 # loquat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loquat.md)
+
 <p><span class="chinese">在这个世界上，我最爱的水果就是枇杷了。</span><span class="english">In the world, my favorite fruit is loquat.</span></p>
 
 <p><span class="chinese">院子里的枇杷渐次熟了。</span><span class="english">The loquat in the yard has got ripe gradually.</span></p>

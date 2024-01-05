@@ -1,5 +1,7 @@
 # virginity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virginity.md)
+
 <p><span class="chinese">你的贞操依旧需要给予别人。</span><span class="english">You have to GIVE your virginity away.</span></p>
 
 <p><span class="chinese">15岁的时候，我在一辆旅行车里失了处女之身。</span><span class="english">I lost my virginity at age 15, in a trailer.</span></p>

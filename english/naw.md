@@ -1,5 +1,7 @@
 # naw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naw.md)
+
 <p><span class="chinese">才不呢，她只是虚张声势。</span><span class="english">Naw , she's just bluffing.</span></p>
 
 <p><span class="chinese">目前，一定数量牧草的遗传连锁图谱已经产生。</span><span class="english">Naw an extensive list of linkage maps have been dvafted.</span></p>

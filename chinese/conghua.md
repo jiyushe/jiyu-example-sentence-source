@@ -1,5 +1,7 @@
 # 葱花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/conghua.md)
+
 <p><span class="chinese">下入葱花，炒匀即可。</span><span class="english">The green Onions, stir-fry.</span></p>
 
 <p><span class="chinese">关火出锅，在盘子里的时候上面撒一层葱花。</span><span class="english">And the pot, heat in the dish and a layer on time.</span></p>

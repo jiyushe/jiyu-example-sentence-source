@@ -1,5 +1,7 @@
 # 君子兰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junzilan.md)
+
 <p><span class="chinese">则是君子兰一个“君子”的写照。</span><span class="english">" Clivia is a "gentleman" itself.</span></p>
 
 <p><span class="chinese">我爱君子兰，更爱君子兰之风。</span><span class="english">I love Clivia, Clivia more love in the breeze.</span></p>

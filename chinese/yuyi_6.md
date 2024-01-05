@@ -1,5 +1,7 @@
 # 语意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyi_6.md)
+
 <p><span class="chinese">把记号转换成语意。</span><span class="english">Converting tokens into lexemes.</span></p>
 
 <p><span class="chinese">我猜这和语意有点关系，对不对？</span><span class="english">I guess it’s all about semantics, though, right?</span></p>

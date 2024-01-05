@@ -1,5 +1,7 @@
 # 水稻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuidao.md)
+
 <p><span class="chinese">可爱水稻电子贺卡。</span><span class="english">Cute Rice E-cards.</span></p>
 
 <p><span class="chinese">日本农民种植水稻。</span><span class="english">Japanese farmers grow rice.</span></p>

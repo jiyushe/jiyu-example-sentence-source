@@ -1,5 +1,7 @@
 # 皱皱巴巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouzhoubaba.md)
+
 <p><span class="chinese">为什么大象这么皱皱巴巴？</span><span class="english">Why are elephants so wrinkled?</span></p>
 
 <p><span class="chinese">她怀里抱着一个皱皱巴巴的大塑料袋。</span><span class="english">She held a large, crumpled plastic bag in her arms.</span></p>

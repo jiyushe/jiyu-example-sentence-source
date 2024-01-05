@@ -1,5 +1,7 @@
 # 合议庭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heyiting.md)
+
 <p><span class="chinese">合议庭的成员人数应当是单数。</span><span class="english">The members of a collegial panel shall be odd in number.</span></p>
 
 <p><span class="chinese">调解可以由审判员一人主持，也可以由合议庭主持。</span><span class="english">Conciliation can be conducted by a single judge or a collegiate panel.</span></p>

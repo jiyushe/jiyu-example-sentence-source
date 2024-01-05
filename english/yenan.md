@@ -1,5 +1,7 @@
 # yenan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yenan.md)
+
 <p><span class="chinese">让我举一些延安的例子。</span><span class="english">Let me cite a few examples from Yenan.</span></p>
 
 <p><span class="chinese">他们在1937年到1947年间生活这延安。</span><span class="english">They lived in Yenan from 1937 to 1947.</span></p>

@@ -1,5 +1,7 @@
 # imposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imposition.md)
+
 <p><span class="chinese">我认为这是强人所难。</span><span class="english">I regard it as an imposition.</span></p>
 
 <p><span class="chinese">这在他的善良本性上是一次占便宜。</span><span class="english">It would be an imposition on his good nature.</span></p>

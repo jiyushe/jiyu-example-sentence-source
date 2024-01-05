@@ -1,5 +1,7 @@
 # 日光浴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riguangyu.md)
+
 <p><span class="chinese">我喜欢做日光浴。</span><span class="english">I like to sunbathe.</span></p>
 
 <p><span class="chinese">我爱晒日光浴。</span><span class="english">I adore sun-bathing.</span></p>

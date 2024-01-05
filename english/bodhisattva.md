@@ -1,5 +1,7 @@
 # bodhisattva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bodhisattva.md)
+
 <p><span class="chinese">观音菩萨在不在呢？</span><span class="english">Is Guanyin Bodhisattva Here or Not?</span></p>
 
 <p><span class="chinese">阿尔瓦，「明妃」说她是“菩萨”！</span><span class="english">Alvah, Princess says she's a Bodhisattva.</span></p>

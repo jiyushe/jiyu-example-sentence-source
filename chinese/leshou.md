@@ -1,5 +1,7 @@
 # 乐手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leshou.md)
+
 <p><span class="chinese">它的乐手排斥演艺界的浮华。</span><span class="english">Its musicians reject show-biz glitz.</span></p>
 
 <p><span class="chinese">乐手们敲起了单皮鼓。</span><span class="english">The musicians started to beat small drums.</span></p>

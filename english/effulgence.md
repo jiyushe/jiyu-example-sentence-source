@@ -1,5 +1,7 @@
 # effulgence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effulgence.md)
+
 <p><span class="chinese">你是我身边一束束灿烂。</span><span class="english">A lifelong effulgence you are by my side.</span></p>
 
 <p><span class="chinese">未来，愿与您共享灿烂，共造辉煌。</span><span class="english">It is willing to share with you effulgence and resplendence.</span></p>

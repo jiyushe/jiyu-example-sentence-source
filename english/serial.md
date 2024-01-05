@@ -1,5 +1,7 @@
 # serial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serial.md)
+
 <p><span class="chinese">他是一个连续杀人犯.</span><span class="english">He is a serial slasher.</span></p>
 
 <p><span class="chinese">记下钻头系列号和型号。</span><span class="english">Record bit serial number.</span></p>

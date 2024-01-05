@@ -1,5 +1,7 @@
 # 词类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cilei.md)
+
 <p><span class="chinese">这是什么词类？</span><span class="english">What part of speech is it?</span></p>
 
 <p><span class="chinese">这个单词属于什么词类？</span><span class="english">What part of speech does this word belong to ?</span></p>

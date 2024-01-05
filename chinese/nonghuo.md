@@ -1,5 +1,7 @@
 # 农活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nonghuo.md)
+
 <p><span class="chinese">男人们做农活。</span><span class="english">The men did the farm work.</span></p>
 
 <p><span class="chinese">样样农活她都拿得起来。</span><span class="english">She can do every kind of farm work.</span></p>

@@ -1,5 +1,7 @@
 # fatherhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatherhood.md)
+
 <p><span class="chinese">怎样才是一个神所喜悦的好男人、好父亲、好丈夫？</span><span class="english">What is the Godly Manhood and Fatherhood and Husband-hood?</span></p>
 
 <p><span class="chinese">爸爸，我所有的为父之道都来自于您的恩赐。祝您爸爸节快乐。</span><span class="english">I own all of my skills of fatherhood to you Dad. Happy Father's Day.</span></p>

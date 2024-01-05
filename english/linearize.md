@@ -1,5 +1,7 @@
 # linearize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linearize.md)
+
 <p><span class="chinese">我们首先运用拉格朗日方程建立了系统的数学模型并进行了线性化。</span><span class="english">At first we set up the model of seesaw with the use of Lagrange function and linearize it.</span></p>
 
 <p><span class="chinese">本文提出一种线性化射频多载波高功率放大器的自我调整射频预失真器。</span><span class="english">This paper presents an adaptive rf predistorter to linearize multi-carriers power amplifiers.</span></p>

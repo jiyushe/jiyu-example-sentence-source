@@ -1,5 +1,7 @@
 # 令堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingtang_1.md)
+
 <p><span class="chinese">令堂需要多少果汁？</span><span class="english">How much juice do you need?</span></p>
 
 <p><span class="chinese">听说令堂去世，我非常难过。</span><span class="english">What I saw made me very sad.</span></p>

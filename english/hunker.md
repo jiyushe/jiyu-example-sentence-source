@@ -1,5 +1,7 @@
 # hunker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hunker.md)
+
 <p><span class="chinese">你完全可以继续跟进，坐收渔利。</span><span class="english">You can hunker down and take it.</span></p>
 
 <p><span class="chinese">他感到背很痛，而且蹲不下身。</span><span class="english">He felt his backache and didn't hunker down.</span></p>

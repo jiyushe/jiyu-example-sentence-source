@@ -1,5 +1,7 @@
 # blanch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blanch.md)
+
 <p><span class="chinese">猪骨洗净飞水。</span><span class="english">Wash and water blanch spare ribs.</span></p>
 
 <p><span class="chinese">花尚未放，竟漂白了你的鲜艳。</span><span class="english">Nor age, to blanch thy vermeil hue.</span></p>

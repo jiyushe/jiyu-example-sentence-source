@@ -1,5 +1,7 @@
 # 初来乍到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chulaizhadao.md)
+
 <p><span class="chinese">我也曾是一个初来乍到纽约的人。</span><span class="english">I was new in New York one time, too.</span></p>
 
 <p><span class="chinese">敝人初来乍到，敢问阁下就是他们所的办公室暴徒?。</span><span class="english">I'm new here. Are you the person they call the office bully?</span></p>

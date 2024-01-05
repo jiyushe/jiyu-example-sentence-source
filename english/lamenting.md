@@ -1,5 +1,7 @@
 # lamenting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamenting.md)
+
 <p><span class="chinese">叹惜自然的强大。</span><span class="english">Lamenting the nature are strong.</span></p>
 
 <p><span class="chinese">哀悼苍天的那些夭逝的儿女！</span><span class="english">Lamenting the dead children of the air.</span></p>

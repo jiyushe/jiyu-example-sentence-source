@@ -1,5 +1,7 @@
 # mescal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mescal.md)
+
 <p><span class="chinese">龙舌兰新科姆是过去和现在之间的联系。</span><span class="english">Mescal San Cosme is the link between past and present.</span></p>
 
 <p><span class="chinese">蓝色的龙舌兰通常会制造成蒸馏酒和麦斯卡尔酒。</span><span class="english">The blue maguey is used to make both tequila and mescal.</span></p>

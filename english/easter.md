@@ -1,5 +1,7 @@
 # Easter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/easter.md)
+
 <p><span class="chinese">复活节的百合花！</span><span class="english">Flowers! Easter lilies!</span></p>
 
 <p><span class="chinese">今年复活节来得早。</span><span class="english">Easter comes early this year.</span></p>

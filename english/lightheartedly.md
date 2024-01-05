@@ -1,5 +1,7 @@
 # lightheartedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lightheartedly.md)
+
 <p><span class="chinese">“有没有用？”问阿娇，几乎轻松。</span><span class="english">"There is no use?" asked Gillian, almost lightheartedly.</span></p>
 
 <p><span class="chinese">就那样随随便便地把七十五万英镑扔给了一个朋友。</span><span class="english">Tossing three quarters of a million lightheartedly to a friend that way.</span></p>

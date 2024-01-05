@@ -1,5 +1,7 @@
 # indelible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indelible.md)
+
 <p><span class="chinese">抹不掉的爱，忘不掉的情！</span><span class="english">Indelible love, forget it!</span></p>
 
 <p><span class="chinese">这些错误是不可否认的。</span><span class="english">The mistakes are not indelible.</span></p>

@@ -1,5 +1,7 @@
 # 食肆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shisi_1.md)
+
 <p><span class="chinese">这是一间甚麽类型的食肆?。</span><span class="english">Which kind of restaurant is it?</span></p>
 
 <p><span class="chinese">你会用多少钱在该食肆用膳?。</span><span class="english">How much do you spend on that restaurant for a LUNCH ?</span></p>

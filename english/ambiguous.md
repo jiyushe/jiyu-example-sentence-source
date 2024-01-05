@@ -1,5 +1,7 @@
 # ambiguous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambiguous.md)
+
 <p><span class="chinese">他的答复是含糊的。</span><span class="english">His answer was ambiguous.</span></p>
 
 <p><span class="chinese">语言很容易有歧义。</span><span class="english">Language can be ambiguous.</span></p>

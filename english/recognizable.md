@@ -1,5 +1,7 @@
 # recognizable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recognizable.md)
+
 <p><span class="chinese">这对德国空军来说是一次明显的惨败。</span><span class="english">This was a recognizable disaster to the German Air Force.</span></p>
 
 <p><span class="chinese">皮肤、粘膜等未见出血现象。</span><span class="english">Recognizable hemorrhage in skin and mucosa were notobserved.</span></p>

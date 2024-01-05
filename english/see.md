@@ -1,5 +1,7 @@
 # see
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/see.md)
+
 <p><span class="chinese">罟我知道了。</span><span class="english">I see.</span></p>
 
 <p><span class="chinese">见见她。</span><span class="english">See her.</span></p>

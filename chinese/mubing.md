@@ -1,5 +1,7 @@
 # 募兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mubing.md)
+
 <p><span class="chinese">他的工作是为陆军募兵。</span><span class="english">His job was to recruit for the army.</span></p>
 
 <p><span class="chinese">为了逃避募兵，那个人躲到山里去了。</span><span class="english">The man fled to the mountains to avoid the conscription.</span></p>

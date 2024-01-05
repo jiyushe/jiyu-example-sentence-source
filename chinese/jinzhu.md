@@ -1,5 +1,7 @@
 # 进驻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzhu.md)
+
 <p><span class="chinese">什麽样的精灵能够进驻在其中？</span><span class="english">What kind of pixy could enter there?</span></p>
 
 <p><span class="chinese">第三，UPP进驻可能带来新的问题。</span><span class="english">Third, UPP presence may bring new problems.</span></p>

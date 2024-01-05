@@ -1,5 +1,7 @@
 # 插话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chahua_1.md)
+
 <p><span class="chinese">汤姆插话。</span><span class="english">Tom interjected.</span></p>
 
 <p><span class="chinese">就在这时，律师插话了。</span><span class="english">Just then, the lawyer piped up.</span></p>

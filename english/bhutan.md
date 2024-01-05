@@ -1,5 +1,7 @@
 # bhutan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bhutan.md)
+
 <p><span class="chinese">不丹也有同样的问题。</span><span class="english">Bhutan has the same problem.</span></p>
 
 <p><span class="chinese">锡金。不丹也有分布。</span><span class="english">Sikkim , Bhutan also has distributing.</span></p>

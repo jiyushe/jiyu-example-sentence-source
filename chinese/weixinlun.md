@@ -1,5 +1,7 @@
 # 唯心论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixinlun.md)
+
 <p><span class="chinese">唯心论和唯物论是对立的。</span><span class="english">Idealism is opposite to materialism.</span></p>
 
 <p><span class="chinese">他们讲唯心论，我们讲唯物论。</span><span class="english">They persue idealism as we persue materialism.</span></p>

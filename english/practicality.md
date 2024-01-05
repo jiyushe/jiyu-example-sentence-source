@@ -1,5 +1,7 @@
 # practicality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practicality.md)
+
 <p><span class="chinese">对我们来说，这是纯粹的务实性。</span><span class="english">For us, it was sheer practicality.</span></p>
 
 <p><span class="chinese">从实战中学习。</span><span class="english">Hong Kong NTO, learn from practicality.</span></p>

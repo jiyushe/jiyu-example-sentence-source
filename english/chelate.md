@@ -1,5 +1,7 @@
 # chelate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chelate.md)
+
 <p><span class="chinese">这是一种螯合纤维。</span><span class="english">It is a chelate fibers.</span></p>
 
 <p><span class="chinese">讨论了它的分子结构和螯合机理。</span><span class="english">The molecular structure and chelate mechanism are discussed.</span></p>

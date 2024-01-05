@@ -1,5 +1,7 @@
 # 飞地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feidi.md)
+
 <p><span class="chinese">在塞尔维亚飞地中这是最常见的说法。</span><span class="english">It is a common refrain in the Serbian enclaves.</span></p>
 
 <p><span class="chinese">伦敦也可能变成欧洲的中国飞地。</span><span class="english">London might become a Chinese enclave in Europe.</span></p>

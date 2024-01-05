@@ -1,5 +1,7 @@
 # cerebrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cerebrum.md)
+
 <p><span class="chinese">神经系统和大脑需要营养物质。</span><span class="english">The nervous system and cerebrum require nutrition.</span></p>
 
 <p><span class="chinese">大脑在睡眠的时候也会受到磁场的影响。</span><span class="english">Cerebrum is also influenced by magnetic field during sleep.</span></p>

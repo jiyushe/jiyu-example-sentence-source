@@ -1,5 +1,7 @@
 # 作威作福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoweizuofu.md)
+
 <p><span class="chinese">她对佣人作威作福。</span><span class="english">She domineers over the servants.</span></p>
 
 <p><span class="chinese">女人一旦得到平等，就对男人作威作福。</span><span class="english">Woman once made equal to man becomes his superior.</span></p>

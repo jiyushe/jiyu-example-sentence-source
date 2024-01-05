@@ -1,5 +1,7 @@
 # gullibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gullibility.md)
+
 <p><span class="chinese">这不仅是一滩油迹。</span><span class="english">This is a symbol of my gullibility.</span></p>
 
 <p><span class="chinese">此外，他们也不愿承认自己那么容易上当受骗。</span><span class="english">They're also sheepish about their own gullibility.</span></p>

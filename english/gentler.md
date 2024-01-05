@@ -1,5 +1,7 @@
 # gentler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentler.md)
+
 <p><span class="chinese">“土耳其回形刀刃”具有一条拉得很长的曲线。</span><span class="english">A "California clip" has a longer, gentler curve.</span></p>
 
 <p><span class="chinese">你会是世界变成一个更安全更亲切的世界。</span><span class="english">You are making the world a safer, gentler place.</span></p>

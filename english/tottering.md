@@ -1,5 +1,7 @@
 # tottering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tottering.md)
+
 <p><span class="chinese">老太太颤巍巍地走出屋来。</span><span class="english">The old lady came tottering out of the room.</span></p>
 
 <p><span class="chinese">宜将剩勇追穷寇。</span><span class="english">With power and to spare we must pursue the tottering foe.</span></p>

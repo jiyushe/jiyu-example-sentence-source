@@ -1,5 +1,7 @@
 # overwinter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overwinter.md)
+
 <p><span class="chinese">我认为我不能帮它成功过冬。</span><span class="english">I don't think I could successfully overwinter it.</span></p>
 
 <p><span class="chinese">有些动物不需要冬眠也能过冬。</span><span class="english">Some animals can overwinter without the hibernation.</span></p>

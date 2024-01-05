@@ -1,5 +1,7 @@
 # comity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comity.md)
+
 <p><span class="chinese">愿你和你的朋友们友谊长久。</span><span class="english">Wish you with your friends comity long-last.</span></p>
 
 <p><span class="chinese">我们收获了精神也收获了友谊。</span><span class="english">We harvested the spirit to also harvest the comity.</span></p>

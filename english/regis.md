@@ -1,5 +1,7 @@
 # regis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regis.md)
+
 <p><span class="chinese">去圣里吉斯你关心吗?。</span><span class="english">The st. regis. what do you care?</span></p>
 
 <p><span class="chinese">瑞吉斯已经不会出现在普拉西斯星上了！</span><span class="english">The Regis is no longer on Praxis !</span></p>

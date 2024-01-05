@@ -1,5 +1,7 @@
 # 生搬硬套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengbanyingtao.md)
+
 <p><span class="chinese">对别人的学习方法不能生搬硬套。</span><span class="english">One should not mechanically copy other students' study methods.</span></p>
 
 <p><span class="chinese">似乎弥尔顿是生搬硬套的这个词，这个绝妙的词，细小的。</span><span class="english">It seems to be the case that Milton's made this word up, this wonderful word scrannel.</span></p>

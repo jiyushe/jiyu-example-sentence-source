@@ -1,5 +1,7 @@
 # firefly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firefly.md)
+
 <p><span class="chinese">萤火虫一样飞在朦胧的树阴？</span><span class="english">As a firefly in the hazy shade of a tree?</span></p>
 
 <p><span class="chinese">一只萤火虫，贴在木头门框上，闪闪发亮。</span><span class="english">A firefly was shimmering on the wood doorpost.</span></p>

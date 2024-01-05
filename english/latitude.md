@@ -1,5 +1,7 @@
 # latitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latitude.md)
+
 <p><span class="chinese">在纵横上“过度朋友”很糟糕</span><span class="english">Over-Friending is a Bad Idea on Latitude</span></p>
 
 <p><span class="chinese">SPI的股份相同纬度的南滩。</span><span class="english">SPI "shares" the same " latitude " South Beach.</span></p>

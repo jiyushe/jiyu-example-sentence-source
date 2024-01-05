@@ -1,5 +1,7 @@
 # credibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/credibility.md)
+
 <p><span class="chinese">来源的可靠性。</span><span class="english">Credibility of source.</span></p>
 
 <p><span class="chinese">通货膨胀与公信度之战</span><span class="english">Inflation fighting credibility</span></p>

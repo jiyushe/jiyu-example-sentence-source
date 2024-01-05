@@ -1,5 +1,7 @@
 # wooded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wooded.md)
+
 <p><span class="chinese">这一地区林木繁密。</span><span class="english">This area is densely wooded.</span></p>
 
 <p><span class="chinese">他们一直住在树木茂密的山里。</span><span class="english">They abided in the wooded hills.</span></p>

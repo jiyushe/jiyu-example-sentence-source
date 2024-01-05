@@ -1,5 +1,7 @@
 # 迫在眉睫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pozaimeijie.md)
+
 <p><span class="chinese">他不相信战争已迫在眉睫。</span><span class="english">He had doubt about the imminence of war.</span></p>
 
 <p><span class="chinese">一场你死我活的斗争迫在眉睫。</span><span class="english">A life-and-death struggle is looming ahead.</span></p>

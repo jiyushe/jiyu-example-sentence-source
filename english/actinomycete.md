@@ -1,5 +1,7 @@
 # actinomycete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actinomycete.md)
+
 <p><span class="chinese">目的研究放线菌A01抑菌活性及其稳定性。</span><span class="english">Objective To study the bacteriostatic activity of Actinomycete A01 and its stability.</span></p>
 
 <p><span class="chinese">总盐量对放线菌数量起的负作用最大。</span><span class="english">The total salt is the greatest negative interaction factor to quantity of actinomycete.</span></p>

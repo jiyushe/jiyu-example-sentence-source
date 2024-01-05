@@ -1,5 +1,7 @@
 # overreliance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overreliance.md)
+
 <p><span class="chinese">要当心对β测试的过分依赖。</span><span class="english">Beware of an overreliance on beta testing.</span></p>
 
 <p><span class="chinese">害怕中国过度依赖投资作为增长动力？</span><span class="english">Worried about China's overreliance on investment as a driver of growth?</span></p>

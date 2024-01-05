@@ -1,5 +1,7 @@
 # 清瘦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshou.md)
+
 <p><span class="chinese">他是个清瘦的高个子青年。</span><span class="english">He is a tall, spare young man.</span></p>
 
 <p><span class="chinese">她如今不再是清瘦而是瘦骨嶙峋。</span><span class="english">She was not merely thin but skeletal.</span></p>

@@ -1,5 +1,7 @@
 # 好手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoshou_1.md)
+
 <p><span class="chinese">有请一位好手。</span><span class="english">A good player pls.</span></p>
 
 <p><span class="chinese">做针线活儿，她可是把好手。</span><span class="english">She is adept at needlework.</span></p>

@@ -1,5 +1,7 @@
 # vagueness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vagueness.md)
+
 <p><span class="chinese">我不仅关注其含糊不清.</span><span class="english">I — I am not just concerned with the vagueness.</span></p>
 
 <p><span class="chinese">模棱两可和含糊不清已不再为人所接受。</span><span class="english">Ambiguity and vagueness were no longer an option.</span></p>

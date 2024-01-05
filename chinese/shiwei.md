@@ -1,5 +1,7 @@
 # 侍卫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwei.md)
+
 <p><span class="chinese">突然间，有两个侍卫敲响了我家的门。</span><span class="english">Suddenly, two menknocked on my door.</span></p>
 
 <p><span class="chinese">但侍卫们却只当他在开玩笑。</span><span class="english">However, they just thought that he was joking.</span></p>

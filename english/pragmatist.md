@@ -1,5 +1,7 @@
 # pragmatist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pragmatist.md)
+
 <p><span class="chinese">从哲学上来讲，我是个实用主义者。</span><span class="english">I'm a, philosophically I'm a pragmatist.</span></p>
 
 <p><span class="chinese">梦想者和实用主义者为幻想与现实问题而斗争不已。</span><span class="english">The dreamer and pragmatist battle over fantasy versus reality.</span></p>

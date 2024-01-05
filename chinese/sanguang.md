@@ -1,5 +1,7 @@
 # 散光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanguang.md)
+
 <p><span class="chinese">你有散光。</span><span class="english">You have astigmatism.</span></p>
 
 <p><span class="chinese">你有散光吗？</span><span class="english">Do you have astigmatism?</span></p>

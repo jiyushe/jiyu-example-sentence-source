@@ -1,5 +1,7 @@
 # 上台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangtai.md)
+
 <p><span class="chinese">爷爷上台，把小女孩摇醒。</span><span class="english">My little girl, wake up.</span></p>
 
 <p><span class="chinese">我准备好上台表演了。</span><span class="english">I'm ready to be on the stage.</span></p>

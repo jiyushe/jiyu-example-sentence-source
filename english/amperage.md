@@ -1,5 +1,7 @@
 # amperage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amperage.md)
+
 <p><span class="chinese">伏安计是用于测量电压和安培数的仪器。</span><span class="english">A voltammeter is a device for measuring voltage or amperage.</span></p>
 
 <p><span class="chinese">在安装过程中，尽可能的用接近其安培数的管。</span><span class="english">When installing, arrange with amperage values as close to each other as available.</span></p>

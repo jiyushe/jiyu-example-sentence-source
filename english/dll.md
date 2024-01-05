@@ -1,5 +1,7 @@
 # dll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dll.md)
+
 <p><span class="chinese">主要演示怎样调用MediaInfo.dll库文件。</span><span class="english">Demonstrate how to call MediaInfo. dll main library.</span></p>
 
 <p><span class="chinese">主要演示怎样调用MediaInfo.dll库文件。</span><span class="english">Demonstrates how to call MediaInfo. dll main library.</span></p>

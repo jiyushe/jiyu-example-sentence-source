@@ -1,5 +1,7 @@
 # 机智
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhi.md)
+
 <p><span class="chinese">他的演说很富机智。</span><span class="english">His speech was full of wits.</span></p>
 
 <p><span class="chinese">他的讲话闪现着机智。</span><span class="english">Wit gleamed out in his talk.</span></p>

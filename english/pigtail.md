@@ -1,5 +1,7 @@
 # pigtail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pigtail.md)
+
 <p><span class="chinese">我画了一位梳辫子的姑娘。</span><span class="english">I painted a girl with a pigtail.</span></p>
 
 <p><span class="chinese">那个梳辫子的姑娘是谁？</span><span class="english">Who is that girl with a pigtail?</span></p>

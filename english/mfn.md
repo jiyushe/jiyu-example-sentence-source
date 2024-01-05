@@ -1,5 +1,7 @@
 # mfn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mfn.md)
+
 <p><span class="chinese">印度已经给予巴基斯坦最惠国待遇。</span><span class="english">India has already granted MFN status to Pakistan.</span></p>
 
 <p><span class="chinese">最惠国待遇条款一般适用于实体问题。</span><span class="english">MFN clause generally applies to the substantive problem.</span></p>

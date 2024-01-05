@@ -1,5 +1,7 @@
 # affectionate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affectionate.md)
+
 <p><span class="chinese">百无一用是深情。</span><span class="english">Hundred no one is affectionate.</span></p>
 
 <p><span class="chinese">只是深情调侃。</span><span class="english">It's just affectionate parrying.</span></p>

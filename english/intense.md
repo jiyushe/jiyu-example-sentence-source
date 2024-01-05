@@ -1,5 +1,7 @@
 # intense 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intense.md)
+
 <p><span class="chinese">这是激烈的。</span><span class="english">This is intense.</span></p>
 
 <p><span class="chinese">呈深重的红宝石色。</span><span class="english">Intense ruby-red color.</span></p>

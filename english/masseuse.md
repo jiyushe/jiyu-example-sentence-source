@@ -1,5 +1,7 @@
 # masseuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masseuse.md)
+
 <p><span class="chinese">我需要女按摩师。</span><span class="english">I need a masseuse.</span></p>
 
 <p><span class="chinese">您需要女按摩师还是男按摩师?。</span><span class="english">Do you need a masseuse or masseur?</span></p>

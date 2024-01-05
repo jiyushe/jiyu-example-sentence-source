@@ -1,5 +1,7 @@
 # 长途跋涉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changtubashe.md)
+
 <p><span class="chinese">他们为寻找黄金而长途跋涉。</span><span class="english">They traveled in quest of gold.</span></p>
 
 <p><span class="chinese">需要长途跋涉才能来到冰瀑的底端。</span><span class="english">I hike to the base of a waterfall.</span></p>

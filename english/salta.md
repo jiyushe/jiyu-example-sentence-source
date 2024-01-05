@@ -1,5 +1,7 @@
 # salta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salta.md)
+
 <p><span class="chinese">萨尔塔被誉为阿根廷最“传统”的省份。</span><span class="english">Salta has a reputation as the most "traditional" of Argentina's provinces.</span></p>
 
 <p><span class="chinese">阿根廷西北部的萨尔塔省，一个小姑娘穿着节日的盛装，但是风跟她玩了个恶作剧。</span><span class="english">The wind makes mischief for a girl dressed in her festival best in Salta Province in northwestern Argentina.</span></p>

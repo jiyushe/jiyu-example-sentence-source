@@ -1,5 +1,7 @@
 # 加速器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiasuqi.md)
+
 <p><span class="chinese">粒子加速器很酷。</span><span class="english">Particle accelerators are cool.</span></p>
 
 <p><span class="chinese">他用脚在加速器上打拍子。</span><span class="english">He beat time on the accelerator.</span></p>

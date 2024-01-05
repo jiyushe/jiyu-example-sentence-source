@@ -1,5 +1,7 @@
 # 失配
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shipei.md)
+
 <p><span class="chinese">分析了该失配啮合传动的基本原理。</span><span class="english">The basic principle of the worm gearing is analysed.</span></p>
 
 <p><span class="chinese">分析了该失配啮合传动的基本原理。</span><span class="english">The basic principle of the worm gearing has beenanalysed.</span></p>

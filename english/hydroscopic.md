@@ -1,5 +1,7 @@
 # hydroscopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroscopic.md)
+
 <p><span class="chinese">介绍了具有吸湿排汗性能的新型聚酯纤维的研制。</span><span class="english">The preparation of a novel hydroscopic and sweat-discharge polyester fiber was introduced.</span></p>
 
 <p><span class="chinese">在“古典路”博科具有良好的透气性，吸湿财产，拉电阻。</span><span class="english">The "Genteel Lu" brocade has a good permeability, hydroscopic property, and pull resistance.</span></p>

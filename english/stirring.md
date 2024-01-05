@@ -1,5 +1,7 @@
 # stirring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stirring.md)
+
 <p><span class="chinese">因此动静全无。</span><span class="english">Hence nothing was stirring.</span></p>
 
 <p><span class="chinese">他正在搅一锅汤。</span><span class="english">He was stirring a pot of soup.</span></p>

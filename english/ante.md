@@ -1,5 +1,7 @@
 # ante
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ante.md)
+
 <p><span class="chinese">他们每人先下了多少钱作赌注？</span><span class="english">How much did they each ante up?</span></p>
 
 <p><span class="chinese">在纸牌游戏中提高赌金。</span><span class="english">Raising the ante in a poker game.</span></p>

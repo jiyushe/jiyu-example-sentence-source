@@ -1,5 +1,7 @@
 # suffice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suffice.md)
+
 <p><span class="chinese">三个星期可能足够了。</span><span class="english">Three weeks should suffice.</span></p>
 
 <p><span class="chinese">不过我会给大家讲一则趣闻轶事。</span><span class="english">But an anecdote will suffice.</span></p>

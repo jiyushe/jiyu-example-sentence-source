@@ -1,5 +1,7 @@
 # alcoholysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alcoholysis.md)
+
 <p><span class="chinese">讨论了醇解和缩聚的温度及时间等因素。</span><span class="english">The temperature and time of alcoholysis and polycondensation were discussed.</span></p>
 
 <p><span class="chinese">考察了脂肪酸甲酯醇解法制备单甘酯。</span><span class="english">The process of preparing monoglycerides by alcoholysis of fatty acid methyl esters was investigated.</span></p>

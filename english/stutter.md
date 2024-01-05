@@ -1,5 +1,7 @@
 # stutter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stutter.md)
+
 <p><span class="chinese">不，我并没有大喘气。</span><span class="english">No, I didn't stutter.</span></p>
 
 <p><span class="chinese">“我不会跳舞，”你结结巴巴地说。</span><span class="english">“I can’t dance,” you stutter out.</span></p>

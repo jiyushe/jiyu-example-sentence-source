@@ -1,5 +1,7 @@
 # matador
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matador.md)
+
 <p><span class="chinese">那位斗牛士真帅。</span><span class="english">The matador is so handsome.</span></p>
 
 <p><span class="chinese">这个斗牛士真是死里逃生。</span><span class="english">The matador had a narrow escape.</span></p>

@@ -1,5 +1,7 @@
 # 校址
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozhi_1.md)
+
 <p><span class="chinese">已为新学校选了校址。</span><span class="english">A site has been chosen for the new school.</span></p>
 
 <p><span class="chinese">城市设计工程师用木桩标出了新学校校址。</span><span class="english">The city engineer staked the new school site.</span></p>

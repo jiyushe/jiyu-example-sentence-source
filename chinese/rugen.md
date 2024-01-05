@@ -1,5 +1,7 @@
 # 儒艮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rugen.md)
+
 <p><span class="chinese">图为在西澳洲鲨鱼湾的海草中觅食的儒艮。</span><span class="english">A dugong forages in the seagrass meadows of Shark Bay, Western Australia.</span></p>
 
 <p><span class="chinese">如今，儒艮已经被保护起来，但是它们的数目情况还是危险。</span><span class="english">Dugongs are now protected, but their population status remains precarious.</span></p>

@@ -1,5 +1,7 @@
 # briskly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/briskly.md)
+
 <p><span class="chinese">木柴在火中哔哔剥剥烧的正旺。</span><span class="english">The logs were burning briskly in the fire.</span></p>
 
 <p><span class="chinese">但是女鬼杳无踪迹。</span><span class="english">But female the ghost without trace briskly.</span></p>

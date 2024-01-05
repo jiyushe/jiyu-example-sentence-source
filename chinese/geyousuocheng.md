@@ -1,5 +1,7 @@
 # 各有所长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geyousuocheng.md)
+
 <p><span class="chinese">因为我们各有所长。你的烹饪方式可能不同于旁人。</span><span class="english">because we're different. You may cook different.</span></p>
 
 <p><span class="chinese">大家都各有所长，展现自己。</span><span class="english">Everyone each has his strong point, show yourself.</span></p>

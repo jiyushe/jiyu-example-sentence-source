@@ -1,5 +1,7 @@
 # mingle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mingle.md)
+
 <p><span class="chinese">这些颜色不宜混合。</span><span class="english">The colours don't mingle well.</span></p>
 
 <p><span class="chinese">与亲吻相比，书信更融于灵魂。</span><span class="english">More than kisses , letters mingle souls.</span></p>

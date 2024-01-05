@@ -1,5 +1,7 @@
 # conflicting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conflicting.md)
+
 <p><span class="chinese">这就是矛盾地昌修。</span><span class="english">It is the conflicting Chang Soo.</span></p>
 
 <p><span class="chinese">工程师们如何寻找其中矛盾的结合点呢？</span><span class="english">So how can engineers balance the conflicting demands?</span></p>

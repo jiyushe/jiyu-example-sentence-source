@@ -1,5 +1,7 @@
 # 勤勤恳恳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinqinkenken.md)
+
 <p><span class="chinese">他们都是勤勤恳恳的人。</span><span class="english">They were conscientious men.</span></p>
 
 <p><span class="chinese">他并不聪明，但工作总是勤勤恳恳。</span><span class="english">He is not bright, but he always works hard.</span></p>

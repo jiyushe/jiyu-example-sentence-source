@@ -1,5 +1,7 @@
 # mangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mangle.md)
+
 <p><span class="chinese">编辑隔着热轧滚筒大笑起来。</span><span class="english">laughed the editor across the mangle.</span></p>
 
 <p><span class="chinese">穿新买的鞋子不会磨破皮不会起水泡，鞋子本身对脚也没有坏处。</span><span class="english">New shoes don't cut, blister, or mangle your feet.</span></p>

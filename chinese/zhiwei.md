@@ -1,5 +1,7 @@
 # 职位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwei.md)
+
 <p><span class="chinese">给卢宾谋到了一个职位。</span><span class="english">Got a place for Lupin.</span></p>
 
 <p><span class="chinese">是该职位招到人了吗？</span><span class="english">Was the position filled?</span></p>

@@ -1,5 +1,7 @@
 # repression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repression.md)
+
 <p><span class="chinese">她仅仅知道战争，战斗和镇压。</span><span class="english">She has only known war, conflict and repression.</span></p>
 
 <p><span class="chinese">这是在施加压力，你们在毁我的青春年华，啊？</span><span class="english">This is repression. You’re ruining my youth, okay?</span></p>

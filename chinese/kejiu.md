@@ -1,5 +1,7 @@
 # 窠臼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kejiu.md)
+
 <p><span class="chinese">我不想陷入窠臼所以才辞职。</span><span class="english">I quit because I don't want to be stuck in a rut.</span></p>
 
 <p><span class="chinese">公司作为一个整体是滞留在腐朽心态的窠臼里的。</span><span class="english">Companies as a whole are stuck in the rut of an old mindset.</span></p>

@@ -1,5 +1,7 @@
 # thy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thy.md)
+
 <p><span class="chinese">我是你的儿子！</span><span class="english">I am thy son!</span></p>
 
 <p><span class="chinese">把你的头发垂下来。</span><span class="english">Let down thy hair.</span></p>

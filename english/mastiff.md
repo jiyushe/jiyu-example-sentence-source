@@ -1,5 +1,7 @@
 # mastiff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastiff.md)
+
 <p><span class="chinese">只谈谈比尔的獒性。</span><span class="english">Only chats Bill's mastiff nature.</span></p>
 
 <p><span class="chinese">鱼塘边的树上拴着家里的藏獒。</span><span class="english">Fish ponds edge of the tree leash their home Tibetan mastiff.</span></p>

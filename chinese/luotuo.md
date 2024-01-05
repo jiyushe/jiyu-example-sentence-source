@@ -1,5 +1,7 @@
 # 落魄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luotuo.md)
+
 <p><span class="chinese">克里斯是一个落魄的人。</span><span class="english">Chris is such a low-life.</span></p>
 
 <p><span class="chinese">落魄者高擎我的旗帜。</span><span class="english">The wretched hold my banner high.</span></p>

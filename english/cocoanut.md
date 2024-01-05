@@ -1,5 +1,7 @@
 # cocoanut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cocoanut.md)
+
 <p><span class="chinese">是的，请给我椰子汁儿。</span><span class="english">Yes, cocoanut juice, please.</span></p>
 
 <p><span class="chinese">为什么椰子壳上总会有一个软的部位？</span><span class="english">Why Is There Always a Soft Spot in a Cocoanut Shell?</span></p>

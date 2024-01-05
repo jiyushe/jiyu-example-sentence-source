@@ -1,5 +1,7 @@
 # 毋庸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyong_1.md)
+
 <p><span class="chinese">毋庸然正确，欢送教正、补充。</span><span class="english">Needless to literally correct, farewell to teach is to supplement.</span></p>
 
 <p><span class="chinese">说毋庸质疑，当今石油是供不应求的。</span><span class="english">Hanke says, without a doubt, current demand for oil exceeds supply.</span></p>

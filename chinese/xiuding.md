@@ -1,5 +1,7 @@
 # 修定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuding.md)
+
 <p><span class="chinese">须重新修定测试位置。</span><span class="english">Must be to revision test position.</span></p>
 
 <p><span class="chinese">资料格式、编码的修定。</span><span class="english">Amendment made to the formality, code of the output.</span></p>

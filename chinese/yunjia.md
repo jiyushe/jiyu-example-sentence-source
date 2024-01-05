@@ -1,5 +1,7 @@
 # 运价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunjia.md)
+
 <p><span class="chinese">并与15家航空公司定有特约运价。</span><span class="english">And 15 airlines will have special tariffs.</span></p>
 
 <p><span class="chinese">允许签约方对已达成协议的运价保密。</span><span class="english">Allows parties to keep the negotiated rate confidential.</span></p>

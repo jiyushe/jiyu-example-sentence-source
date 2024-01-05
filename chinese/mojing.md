@@ -1,5 +1,7 @@
 # 墨镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mojing.md)
+
 <p><span class="chinese">她戴著墨镜。</span><span class="english">She was wearing sun-glasses.</span></p>
 
 <p><span class="chinese">墨镜，黑超，还是sunnies？</span><span class="english">Sunglasses, shades, or sunnies?</span></p>

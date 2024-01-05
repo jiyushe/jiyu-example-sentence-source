@@ -1,5 +1,7 @@
 # letdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/letdown.md)
+
 <p><span class="chinese">当我被哈佛大学拒绝时，我失望极了。</span><span class="english">It was a big letdown when I was not accepted by Harvard university.</span></p>
 
 <p><span class="chinese">有人告诉我说我的朋友乔说我的坏话，这可真令我失望。</span><span class="english">I was told my friend Joe was speaking ill of me. That's a real letdown.</span></p>

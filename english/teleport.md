@@ -1,5 +1,7 @@
 # teleport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teleport.md)
+
 <p><span class="chinese">她们会偷你的东西然后瞬间移动消失。</span><span class="english">They steal your stuff and then teleport away.</span></p>
 
 <p><span class="chinese">反过来，开启的地图将允许你激活远距离移动物体。</span><span class="english">In turn, the uncover map allows you to activate every teleport.</span></p>

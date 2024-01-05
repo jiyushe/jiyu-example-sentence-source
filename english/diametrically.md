@@ -1,5 +1,7 @@
 # diametrically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diametrically.md)
+
 <p><span class="chinese">在这个问题上，我们的观点大相径庭。</span><span class="english">Our views are diametrically opposed on this issue.</span></p>
 
 <p><span class="chinese">两者表现了两个皆然相反的保罗。</span><span class="english">They are presenting two diametrically opposed versions of Paul.</span></p>

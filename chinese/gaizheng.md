@@ -1,5 +1,7 @@
 # 改正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaizheng.md)
+
 <p><span class="chinese">改正错误。</span><span class="english">Correct mistakes.</span></p>
 
 <p><span class="chinese">看来我得改正过来。</span><span class="english">I stand corrected.</span></p>

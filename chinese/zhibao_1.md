@@ -1,5 +1,7 @@
 # 至宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibao_1.md)
+
 <p><span class="chinese">子女是父母的至宝。</span><span class="english">Caution is parent of safety.</span></p>
 
 <p><span class="chinese">这里几乎像一个至宝宫殿。</span><span class="english">It′s just like a treasure palace.</span></p>

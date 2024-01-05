@@ -1,5 +1,7 @@
 # 水龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilong.md)
+
 <p><span class="chinese">请关上水龙草头。</span><span class="english">Please close the tap.</span></p>
 
 <p><span class="chinese">水龙草头一整夜滴水。</span><span class="english">The water tap drips all night long.</span></p>

@@ -1,5 +1,7 @@
 # cognitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cognitive.md)
+
 <p><span class="chinese">什么是认知语言学？</span><span class="english">What is Cognitive Linguistics?</span></p>
 
 <p><span class="chinese">这也是认识失调来解释。</span><span class="english">Again, it's cognitive dissonance.</span></p>

@@ -1,5 +1,7 @@
 # morph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morph.md)
+
 <p><span class="chinese">这是一个独特的形态的博阿压缩。</span><span class="english">This is a distinct morph of boa constrictor.</span></p>
 
 <p><span class="chinese">传统的音乐播放器早晚也会变成电脑。</span><span class="english">In time, these players, too, will morph into computers.</span></p>

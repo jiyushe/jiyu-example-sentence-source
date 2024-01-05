@@ -1,5 +1,7 @@
 # 年份
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianfen.md)
+
 <p><span class="chinese">因此，年份不会逝去。</span><span class="english">Ergo, the years do not pass.</span></p>
 
 <p><span class="chinese">接下来就是一些声称年份久远的威士忌。</span><span class="english">Then there are the old whiskies.</span></p>

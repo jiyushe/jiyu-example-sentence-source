@@ -1,5 +1,7 @@
 # quirkiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quirkiness.md)
+
 <p><span class="chinese">中国有钱消费者是很诡异的。</span><span class="english">There is a quirkiness to rich Chinese consumers.</span></p>
 
 <p><span class="chinese">我希望他在影片中注入一点幽默和诡诈。</span><span class="english">I wanted to inject a little humor and quirkiness into the film.</span></p>

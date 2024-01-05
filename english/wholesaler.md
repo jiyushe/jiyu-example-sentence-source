@@ -1,5 +1,7 @@
 # wholesaler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wholesaler.md)
+
 <p><span class="chinese">店主到批发商处进货去了。</span><span class="english">The shopkeeper has gone to the wholesaler to buy new products.</span></p>
 
 <p><span class="chinese">他起先在一个食品批发部门做工人。</span><span class="english">He started working as a laborer at a state-owned food wholesaler.</span></p>

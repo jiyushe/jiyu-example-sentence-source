@@ -1,5 +1,7 @@
 # 司令员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/silingyuan.md)
+
 <p><span class="chinese">司令员也保不了他。</span><span class="english">The commander also cannot protect him.</span></p>
 
 <p><span class="chinese">乃缦是亚兰王军队的司令员。</span><span class="english">Naaman was the commander of the Syrian army.</span></p>

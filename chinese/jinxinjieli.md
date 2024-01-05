@@ -1,5 +1,7 @@
 # 尽心竭力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinxinjieli.md)
+
 <p><span class="chinese">尽心竭力，照理应该得到较好的结果。</span><span class="english">So earnest an effort was well deserving of a better reward.</span></p>
 
 <p><span class="chinese">当局表示，他们尽心竭力来保护这些庙宇。</span><span class="english">The authorities say they are working hard to protect the temples.</span></p>

@@ -1,5 +1,7 @@
 # flatness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flatness.md)
+
 <p><span class="chinese">事实上，扁平化是我们的一个核心理念。</span><span class="english">In fact, flatness is one of our core values.</span></p>
 
 <p><span class="chinese">平原上单调得毫无变化，连一棵树都没有。</span><span class="english">Not a single tree relieved the flatness of the plain.</span></p>

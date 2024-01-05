@@ -1,5 +1,7 @@
 # clipboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clipboard.md)
+
 <p><span class="chinese">将剪贴簿的资料贴上成新表格。</span><span class="english">Pastes clipboard data to a table.</span></p>
 
 <p><span class="chinese">从剪贴板粘贴命令被添加。</span><span class="english">Paste from Clipboard command is added.</span></p>

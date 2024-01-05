@@ -1,5 +1,7 @@
 # 猪崽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzai_1.md)
+
 <p><span class="chinese">这是一只白色的猪崽。</span><span class="english">It was a white one.</span></p>
 
 <p><span class="chinese">可怜的小猪崽，安息。</span><span class="english">Poor little piglet RIP.</span></p>

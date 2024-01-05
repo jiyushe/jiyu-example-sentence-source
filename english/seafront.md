@@ -1,5 +1,7 @@
 # seafront
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seafront.md)
+
 <p><span class="chinese">阳光明媚，肯尼亚蒙巴萨岛的海滩上却空无一人。</span><span class="english">The sun shines on the empty seafront in Mombasa, Kenya.</span></p>
 
 <p><span class="chinese">我决定在午饭前沿着海边吹吹风。</span><span class="english">I decided to go for a blow along the seafront before lunch.</span></p>

@@ -1,5 +1,7 @@
 # slicker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slicker.md)
+
 <p><span class="chinese">挂在门后钩子上的破旧的油布雨衣</span><span class="english">cracked rain slicker on the hook by the door</span></p>
 
 <p><span class="chinese">这个人差点没从身上穿的那件时髦马裤中跳出来！</span><span class="english">The man nearly jumped right out of his city slicker britches!</span></p>

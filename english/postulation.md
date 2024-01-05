@@ -1,5 +1,7 @@
 # postulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postulation.md)
+
 <p><span class="chinese">他不反对科学假设。</span><span class="english">Newton did not object to scientific postulation.</span></p>
 
 <p><span class="chinese">所以很多人拒绝接受牛顿关于万有引力的假设。</span><span class="english">So a lot of people objected to Newton's postulation of this gravitational force.</span></p>

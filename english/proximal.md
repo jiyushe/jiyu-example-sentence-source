@@ -1,5 +1,7 @@
 # proximal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proximal.md)
+
 <p><span class="chinese">第5染色体的特点是有一个近侧的节结。</span><span class="english">Chromosome 5 is distinguished by a proximal knob.</span></p>
 
 <p><span class="chinese">远端多吻合至后降支及钝缘支，近端均吻合至主动脉。</span><span class="english">All the proximal anastomoses were directed to the aorta.</span></p>

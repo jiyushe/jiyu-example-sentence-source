@@ -1,5 +1,7 @@
 # 厚朴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houpo.md)
+
 <p><span class="chinese">采用HPLC法测定了方中君药厚朴中厚朴酚与和厚朴酚的总含量。</span><span class="english">The total contents of magnolol and honokiol were determined by HPLC.</span></p>
 
 <p><span class="chinese">临床上半夏厚朴汤对治疗癔球症有较好的疗效。</span><span class="english">Now Pinellia and Magnolia Bark Decoction has obtained a good effect on globus hystericus.</span></p>

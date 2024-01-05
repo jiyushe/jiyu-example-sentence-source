@@ -1,5 +1,7 @@
 # 南宋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nansong.md)
+
 <p><span class="chinese">后村是南宋后期词坛一大家。</span><span class="english">Houcun was a famous poet of Ci in the late South Song.</span></p>
 
 <p><span class="chinese">这是跟南宋王朝之灭亡一样的崩溃吗？</span><span class="english">Is this the same collapse as dynasty South Song's fall?</span></p>

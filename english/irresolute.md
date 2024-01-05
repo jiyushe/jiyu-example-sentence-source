@@ -1,5 +1,7 @@
 # irresolute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irresolute.md)
+
 <p><span class="chinese">犹豫不定，不总是值得依赖的人。</span><span class="english">Irresolute and not always to be depended upon.</span></p>
 
 <p><span class="chinese">他的对手太优柔寡断，不敢接受挑战。</span><span class="english">His opponents were too irresolute to call his bluff.</span></p>

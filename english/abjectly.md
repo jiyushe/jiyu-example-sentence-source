@@ -1,5 +1,7 @@
 # abjectly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abjectly.md)
+
 <p><span class="chinese">每个人都得恭顺地服从这样一位向导的带领，而且回报是丰厚的。</span><span class="english">One must submit abjectly to such a guide, and the reward was great.</span></p>
 
 <p><span class="chinese">传来他那时时被啜泣打断的、惊慌不安的、痛得钻心的呻吟声。</span><span class="english">O! ooo! he could hear his frightened, abjectly suffering moans, broken by sobs.</span></p>

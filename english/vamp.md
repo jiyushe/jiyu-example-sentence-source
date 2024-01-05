@@ -1,5 +1,7 @@
 # vamp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vamp.md)
+
 <p><span class="chinese">蝴蝶结在鞋面点缀。</span><span class="english">Dashing embellishment at vamp.</span></p>
 
 <p><span class="chinese">舒适弓详细口音鞋面。</span><span class="english">Charming bow detail accents the vamp.</span></p>

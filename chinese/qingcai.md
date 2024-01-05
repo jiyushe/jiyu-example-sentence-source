@@ -1,5 +1,7 @@
 # 青菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingcai.md)
+
 <p><span class="chinese">把你的青菜吃光。</span><span class="english">Eat up your vegetables.</span></p>
 
 <p><span class="chinese">我要一盘青菜。</span><span class="english">I want a plate of vegetables.</span></p>

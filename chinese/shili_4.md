@@ -1,5 +1,7 @@
 # 实例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shili_4.md)
+
 <p><span class="chinese">创建实例的模板。</span><span class="english">c p 1 and c p 2.</span></p>
 
 <p><span class="chinese">发给这个实例一些消息。</span><span class="english">In fact let's do it.</span></p>

@@ -1,5 +1,7 @@
 # micrococcus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micrococcus.md)
+
 <p><span class="chinese">其他微生物包括变形杆菌、肠杆菌和微球菌。</span><span class="english">Other microbes included Proteus, Enterobacter, and Micrococcus species.</span></p>
 
 <p><span class="chinese">其中优势细菌属有葡萄球菌属、微球菌属、芽孢杆菌属等。</span><span class="english">The dominant bacteria were Staphylococcus, Micrococcus and Bacillus and so on.</span></p>

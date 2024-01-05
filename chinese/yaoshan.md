@@ -1,5 +1,7 @@
 # 瑶山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoshan.md)
+
 <p><span class="chinese">大瑶山的考察改变了费孝通一生学术研究的方向。</span><span class="english">The investigation of Dayaoshan had changed Fei Xiaotong's direction of the academic research in all his life.</span></p>
 
 <p><span class="chinese">山清水秀的神秘大瑶山养育出的瑶族女子也是充满着乡间的纯朴美丽。</span><span class="english">The Yao girls have pure and natural beauty who grow up in the picturesque scenery of Yao mountains and Yao villages.</span></p>

@@ -1,5 +1,7 @@
 # 转告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangao_1.md)
+
 <p><span class="chinese">转告她我爱她。</span><span class="english">Tell her I love her.</span></p>
 
 <p><span class="chinese">我将转告您的口信。</span><span class="english">I'll give him your message.</span></p>

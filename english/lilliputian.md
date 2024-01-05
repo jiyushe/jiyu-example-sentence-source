@@ -1,5 +1,7 @@
 # lilliputian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lilliputian.md)
+
 <p><span class="chinese">它激发了我的想象力，为我打开了小人国的窗口。</span><span class="english">She had stirred my imagination and opened a window on a Lilliputian world.</span></p>
 
 <p><span class="chinese">无情的全球健身中心队在他们侏儒领袖怀特古德曼领导下进攻。</span><span class="english">A relentless Globo Gym attack led by their Lilliputian leader, White Goodman.</span></p>

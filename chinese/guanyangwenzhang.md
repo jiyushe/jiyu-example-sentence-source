@@ -1,5 +1,7 @@
 # 官样文章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanyangwenzhang.md)
+
 <p><span class="chinese">这听起来确实有点像是官样文章。</span><span class="english">If this sounds like gobbledygook, it kind of is.</span></p>
 
 <p><span class="chinese">这些话当然是官样文章。</span><span class="english">Of course, those words are gobbledygook on the whole.</span></p>

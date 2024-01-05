@@ -1,5 +1,7 @@
 # woodworking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodworking.md)
+
 <p><span class="chinese">第一个存储排除所有木制产品。</span><span class="english">The first store excludes all woodworking products.</span></p>
 
 <p><span class="chinese">老式木工活的工作计划和项目。</span><span class="english">Vintage WoodWorking Plans and Wood working Projects.</span></p>

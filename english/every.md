@@ -1,5 +1,7 @@
 # every
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/every.md)
+
 <p><span class="chinese">每一块钱都是如此。</span><span class="english">Every dollar.</span></p>
 
 <p><span class="chinese">天天开心！</span><span class="english">Happy every day!</span></p>

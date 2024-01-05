@@ -1,5 +1,7 @@
 # prematurity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prematurity.md)
+
 <p><span class="chinese">并发畸形与早产儿显著地影响死亡率。</span><span class="english">Associated anomalies and prematurity significantly influence the mortality rate.</span></p>
 
 <p><span class="chinese">用生物统计学方法，对春小麦早熟性的遗传规律进行了研究。</span><span class="english">We studied the genetic law of prematurity in spring wheat by using biostatistics method.</span></p>

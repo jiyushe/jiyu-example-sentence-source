@@ -1,5 +1,7 @@
 # 融通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongtong.md)
+
 <p><span class="chinese">第二部分探讨澫益儒佛融通思想的基本路径。</span><span class="english">The second portion discusses the basic path of OuYi's opinions.</span></p>
 
 <p><span class="chinese">种子资金融通的来源是谁？他们寻找什么？</span><span class="english">Who are the sources of seed financing and what are they looking for?</span></p>

@@ -1,5 +1,7 @@
 # fade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fade.md)
+
 <p><span class="chinese">花谢花飞飞满天。</span><span class="english">Flowers fade and fly.</span></p>
 
 <p><span class="chinese">这布掉色吗？</span><span class="english">Will this cloth fade?</span></p>

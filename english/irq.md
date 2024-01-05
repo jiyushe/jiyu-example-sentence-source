@@ -1,5 +1,7 @@
 # irq
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irq.md)
+
 <p><span class="chinese">IRQ线是有限的资源。</span><span class="english">IRQ lines are a limited resource.</span></p>
 
 <p><span class="chinese">为伊拉克而得罪美国，不符合他们的国家利益啊。</span><span class="english">Offending United States because of Irq is not in their national interests.</span></p>

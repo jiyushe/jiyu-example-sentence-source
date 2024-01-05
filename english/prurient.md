@@ -1,5 +1,7 @@
 # prurient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prurient.md)
+
 <p><span class="chinese">好色的性兴趣？</span><span class="english">Prurient sexual interest?</span></p>
 
 <p><span class="chinese">在某种程度上，肚脐是一个吸引异性目光的奇怪部位。</span><span class="english">In some ways, the navel is an odd region to attract our prurient gaze.</span></p>

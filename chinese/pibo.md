@@ -1,5 +1,7 @@
 # 批驳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pibo.md)
+
 <p><span class="chinese">有人批驳这种论点。</span><span class="english">Someone refuted this argument.</span></p>
 
 <p><span class="chinese">飞机不会批驳你的驾驶技能。</span><span class="english">Airplanes don't comment on your piloting skills.</span></p>

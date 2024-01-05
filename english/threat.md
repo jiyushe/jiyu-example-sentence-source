@@ -1,5 +1,7 @@
 # threat 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threat.md)
+
 <p><span class="chinese">许诺还是威胁？</span><span class="english">Promise or Threat?</span></p>
 
 <p><span class="chinese">它感觉不到威胁。</span><span class="english">It feels no threat.</span></p>

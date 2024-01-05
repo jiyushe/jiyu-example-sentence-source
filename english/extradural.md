@@ -1,5 +1,7 @@
 # extradural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extradural.md)
+
 <p><span class="chinese">硬膜外异位脑膜瘤是一种罕见的肿瘤。</span><span class="english">Extradural ectopic meningioma is a rare tumor.</span></p>
 
 <p><span class="chinese">行脊麻与硬膜外联合阻滞麻醉。</span><span class="english">Spinal and extradural combined anesthesia were used.</span></p>

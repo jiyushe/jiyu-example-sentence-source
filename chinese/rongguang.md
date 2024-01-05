@@ -1,5 +1,7 @@
 # 荣光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongguang.md)
+
 <p><span class="chinese">我们为荣光而赴死！</span><span class="english">We rush for the glory.</span></p>
 
 <p><span class="chinese">将可沐浴在永世的荣光</span><span class="english">In the light of eternity's glow</span></p>

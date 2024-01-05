@@ -1,5 +1,7 @@
 # 救世主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiushizhu.md)
+
 <p><span class="chinese">撒旦是救世主？</span><span class="english">Lucifer as Redeemer?</span></p>
 
 <p><span class="chinese">你是真正的救世主。</span><span class="english">You are the true Messiah.</span></p>

@@ -1,5 +1,7 @@
 # 信差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinchai.md)
+
 <p><span class="chinese">信差们将接转你的信。</span><span class="english">Messengers will relay your letter.</span></p>
 
 <p><span class="chinese">这位信差疑惑地摇摇头。</span><span class="english">The courier shook his head dubiously.</span></p>

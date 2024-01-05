@@ -1,5 +1,7 @@
 # 源源不绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyuanbujue.md)
+
 <p><span class="chinese">我深深地吸上一口气，静听雪花飘落，源源不绝······</span><span class="english">I took deep breath to hear more snow was coming.</span></p>
 
 <p><span class="chinese">我深深地吸了一口气，静听雪花飘落，源源不绝…</span><span class="english">I took a deep breath to hear more snow was coming.</span></p>

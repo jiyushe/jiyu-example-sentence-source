@@ -1,5 +1,7 @@
 # 医士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishi_4.md)
+
 <p><span class="chinese">那是你身中的医士，医治你病躯的苦药。</span><span class="english">It is the bitter potion by which the physician within you heals your sick self.</span></p>
 
 <p><span class="chinese">僧侣和医士研究梦，以寻求病因和治疗方法。</span><span class="english">Priests and medicine men studied dreams to learn the cause and cure of sicknesses.</span></p>

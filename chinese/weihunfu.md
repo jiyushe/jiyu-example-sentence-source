@@ -1,5 +1,7 @@
 # 未婚夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weihunfu.md)
+
 <p><span class="chinese">这是我未婚夫。</span><span class="english">This is my fiance.</span></p>
 
 <p><span class="chinese">我应该把这些告诉我的未婚夫么？</span><span class="english">Do I tell my fiancé?</span></p>

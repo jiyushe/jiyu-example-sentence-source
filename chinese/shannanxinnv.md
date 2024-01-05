@@ -1,5 +1,7 @@
 # 善男信女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shannanxinnv.md)
+
 <p><span class="chinese">想要捍卫爱情，就别当善男信女。</span><span class="english">Don't be a nice person if you want to safeguard your relationship.</span></p>
 
 <p><span class="chinese">在美丽的午后，善男信女落座于各自的位置。</span><span class="english">Everyonetakes his or her seat and settles in for a lovely afternoon.</span></p>

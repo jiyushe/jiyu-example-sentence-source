@@ -1,5 +1,7 @@
 # 各行各业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gehanggeye.md)
+
 <p><span class="chinese">各行各业都欣欣向荣。</span><span class="english">Every trade is thriving.</span></p>
 
 <p><span class="chinese">作为一个售货员，你将会接触到各行各业的人呢！</span><span class="english">As a saler you will meet people from all walks of life.</span></p>

@@ -1,5 +1,7 @@
 # 困守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kunshou_1.md)
+
 <p><span class="chinese">天气使他困守在家，不能出去。</span><span class="english">The weather tied him to the house.</span></p>
 
 <p><span class="chinese">困守在这儿的冰天雪地之中，觉得时间过得好慢啊！</span><span class="english">How slowly the time passes here, encompassed as I am by frost and snow!</span></p>

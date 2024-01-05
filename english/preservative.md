@@ -1,5 +1,7 @@
 # preservative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preservative.md)
+
 <p><span class="chinese">加一滴甲苯作为防腐剂。</span><span class="english">Add 1 drop on toluene as a preservative.</span></p>
 
 <p><span class="chinese">加一滴甲苯作为防腐剂。</span><span class="english">add 1 drop of toluene as a preservative.</span></p>

@@ -1,5 +1,7 @@
 # rainforest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rainforest.md)
+
 <p><span class="chinese">我们正在砍伐掉雨林。</span><span class="english">We are cutting down the rainforest.</span></p>
 
 <p><span class="chinese">从天篷走道被见到的密集的雨林。</span><span class="english">Dense Rainforest seen from Canopy Walkway.</span></p>

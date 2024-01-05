@@ -1,5 +1,7 @@
 # guild
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guild.md)
+
 <p><span class="chinese">那你们是矿冶公会的一员？</span><span class="english">The meeting hall of a guild.</span></p>
 
 <p><span class="chinese">先生是要去仁武会馆？</span><span class="english">The Sir wants to Ren compel guild?</span></p>

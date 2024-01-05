@@ -1,5 +1,7 @@
 # 伫立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuli_1.md)
+
 <p><span class="chinese">我将在海边伫立倾听。</span><span class="english">I will standin by the sea.</span></p>
 
 <p><span class="chinese">我伫立在你的街上。</span><span class="english">I'm standin' on your street.</span></p>

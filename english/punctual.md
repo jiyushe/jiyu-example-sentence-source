@@ -1,5 +1,7 @@
 # punctual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punctual.md)
+
 <p><span class="chinese">您非常准时。</span><span class="english">You are very punctual.</span></p>
 
 <p><span class="chinese">外国人很守时。</span><span class="english">Foreigners keep punctual time.</span></p>

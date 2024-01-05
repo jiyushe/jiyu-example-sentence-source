@@ -1,5 +1,7 @@
 # arpanet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arpanet.md)
+
 <p><span class="chinese">美国国防部建立了阿帕网，作研究用。</span><span class="english">ARPANET started by the US Dept.</span></p>
 
 <p><span class="chinese">同年，阿帕网停止使用了。</span><span class="english">The same year, Arpanet ceased to exist.</span></p>

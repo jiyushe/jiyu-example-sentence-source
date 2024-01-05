@@ -1,5 +1,7 @@
 # coxa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coxa.md)
+
 <p><span class="chinese">本组无手术死亡，未发生髋内翻。</span><span class="english">No death and no coxa vara occurred.</span></p>
 
 <p><span class="chinese">侧卧，让头、肩、髋在一条直线上。</span><span class="english">Side lies, let head, shoulder, coxa go up point-blank in.</span></p>

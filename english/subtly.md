@@ -1,5 +1,7 @@
 # subtly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtly.md)
+
 <p><span class="chinese">它们很巧妙地连接在一起，他说。</span><span class="english">They are subtly connected, he said.</span></p>
 
 <p><span class="chinese">我试图很含蓄地找出他的动力根源。</span><span class="english">Very subtly I tried to feel him out.</span></p>

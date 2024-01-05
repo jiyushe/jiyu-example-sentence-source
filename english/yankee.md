@@ -1,5 +1,7 @@
 # yankee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yankee.md)
+
 <p><span class="chinese">北方佬就将来临！</span><span class="english">The Yankee is coming!!</span></p>
 
 <p><span class="chinese">扬基是一个美国男孩。</span><span class="english">Yankee is an American boy.</span></p>

@@ -1,5 +1,7 @@
 # additionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/additionally.md)
+
 <p><span class="chinese">此外，它还有良好的空间效率。</span><span class="english">Additionally it is memory-efficient.</span></p>
 
 <p><span class="chinese">它具有一个屏幕放大镜功能和一个RGB值窗口。</span><span class="english">Additionally it has a screen loupe and a RGB value window.</span></p>

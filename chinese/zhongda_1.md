@@ -1,5 +1,7 @@
 # 重大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongda_1.md)
+
 <p><span class="chinese">这是一个重大的谜团。</span><span class="english">This is a big riddle.</span></p>
 
 <p><span class="chinese">葬礼意义重大</span><span class="english">Burial is very critical.</span></p>

@@ -1,5 +1,7 @@
 # 粗劣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/culie.md)
+
 <p><span class="chinese">这商品质量粗劣。</span><span class="english">The goods are bad in quality.</span></p>
 
 <p><span class="chinese">暴政所需的工具，最粗劣鄙陋。</span><span class="english">The vulgarest tool that Tyranny could want.</span></p>

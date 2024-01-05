@@ -1,5 +1,7 @@
 # 恰当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiadang.md)
+
 <p><span class="chinese">这是一个恰当的评论。</span><span class="english">It was an apt comment.</span></p>
 
 <p><span class="chinese">你说话很恰当。</span><span class="english">You speak quite apropos.</span></p>

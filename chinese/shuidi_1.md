@@ -1,5 +1,7 @@
 # 水滴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuidi_1.md)
+
 <p><span class="chinese">又好象是一骨碌儿水滴。</span><span class="english">It's like drops of water.</span></p>
 
 <p><span class="chinese">凝成水滴，滴落在不远处。</span><span class="english">Water plunks in the distance.</span></p>

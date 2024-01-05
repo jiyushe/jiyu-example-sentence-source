@@ -1,5 +1,7 @@
 # inclusively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inclusively.md)
+
 <p><span class="chinese">这个动作是这样优雅、这样地充满了慈祥。</span><span class="english">The action was so graceful and inclusively benign.</span></p>
 
 <p><span class="chinese">这样可以使W的值在0和1之间变化，包括0和1。</span><span class="english">This allows the value of W to vary between zero and one, inclusively.</span></p>

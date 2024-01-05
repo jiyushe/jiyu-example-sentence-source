@@ -1,5 +1,7 @@
 # contributive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contributive.md)
+
 <p><span class="chinese">两方面其实是相互联系和促进的。</span><span class="english">The two parts are mutually connected and contributive.</span></p>
 
 <p><span class="chinese">即便是科学和艺术本身也是相互促进的。</span><span class="english">Even science and art themselves are mutually contributive.</span></p>

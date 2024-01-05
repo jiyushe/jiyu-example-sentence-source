@@ -1,5 +1,7 @@
 # fatty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatty.md)
+
 <p><span class="chinese">那些羊肉都是多脂肪的。</span><span class="english">All that lamb is fatty.</span></p>
 
 <p><span class="chinese">怎会喜欢左肥肥？</span><span class="english">How will like left fatty?</span></p>

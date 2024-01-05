@@ -1,5 +1,7 @@
 # interprovincial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interprovincial.md)
+
 <p><span class="chinese">红印章背书允许跨省流动的。</span><span class="english">The Red Seal endorsement allows for interprovincial mobility.</span></p>
 
 <p><span class="chinese">目前，省际经济差异方面的研究已经有很多。</span><span class="english">At present, a lot of research is about the interprovincial economic difference.</span></p>

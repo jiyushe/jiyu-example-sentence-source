@@ -1,5 +1,7 @@
 # irreproachable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irreproachable.md)
+
 <p><span class="chinese">那么，明星的代言行为难道就无可指责？</span><span class="english">In that case, the star speak on the irreproachable conduct it?</span></p>
 
 <p><span class="chinese">品行端正的人，受人尊敬。</span><span class="english">A man of irreproachable conduct commands the respect of others.</span></p>

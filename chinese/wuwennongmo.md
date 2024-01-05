@@ -1,5 +1,7 @@
 # 舞文弄墨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuwennongmo.md)
+
 <p><span class="chinese">舞文弄墨，作诗以名。</span><span class="english">Prose, poetry to name.</span></p>
 
 <p><span class="chinese">你得承认他还真会舞文弄墨的。</span><span class="english">You've got to admit, he does have a way with words.</span></p>

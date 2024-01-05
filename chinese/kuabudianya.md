@@ -1,5 +1,7 @@
 # 跨步电压
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuabudianya.md)
+
 <p><span class="chinese">季节因素将影响地网的安全性能，导致地网的接地电阻、接触电压和跨步电压的改变。</span><span class="english">The changes of soil structure caused by seasonal factor would affect the safety of grounding system.</span></p>
 
 <p><span class="chinese">该文对保护接地、接触电压、跨步电压间的关系进行探讨。</span><span class="english">The relations between protective earthing , touching voltage and walk voltage are discussed in the article.</span></p>

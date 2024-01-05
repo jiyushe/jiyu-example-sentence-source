@@ -1,5 +1,7 @@
 # tokugawa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tokugawa.md)
+
 <p><span class="chinese">但当葵花分开后，德川终将怒气发泄出来。</span><span class="english">But when sunflower separated, tokugawa will anger let out.</span></p>
 
 <p><span class="chinese">经过了一个世纪的内战，德川幕府粉墨登场。</span><span class="english">The Tokugawa shogunate arose after over a century of civil war.</span></p>

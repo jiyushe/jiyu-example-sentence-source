@@ -1,5 +1,7 @@
 # 团子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuanzi.md)
+
 <p><span class="chinese">那些团子使他肚子胀得难受。</span><span class="english">The dumplings lay heavy on his stomach.</span></p>
 
 <p><span class="chinese">今天，一个团子或者GI可能会被称为咕噜。</span><span class="english">Today, a doughboy or GI may be called a grunt.</span></p>

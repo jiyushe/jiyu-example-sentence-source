@@ -1,5 +1,7 @@
 # nevus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nevus.md)
+
 <p><span class="chinese">太田痣可治疗吗？我要有太田痣，太田痣用什么可以去处啊？</span><span class="english">Ota treat it? I have Ota, nevus of Ota what can place ah?</span></p>
 
 <p><span class="chinese">为研究皮肤良性肿瘤的形态学提供一种新的思路。</span><span class="english">To provide a new thought to study on morphology of nevus.</span></p>

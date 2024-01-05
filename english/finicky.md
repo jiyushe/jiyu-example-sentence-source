@@ -1,5 +1,7 @@
 # finicky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finicky.md)
+
 <p><span class="chinese">客户是挑剔的。</span><span class="english">Customers are finicky.</span></p>
 
 <p><span class="chinese">不同的配置设置会引起奇怪的行为。</span><span class="english">Various configuration settings can cause finicky behavior.</span></p>

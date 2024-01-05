@@ -1,5 +1,7 @@
 # musculature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musculature.md)
+
 <p><span class="chinese">肌肉系统应检查其大小、度及柔韧性。</span><span class="english">The musculature should be examined for size, strength, and tenderness.</span></p>
 
 <p><span class="chinese">狗类甚至会在深情注视的同时让面部肌肉系统呈现特殊的运动。</span><span class="english">Dogs add to their soulful stare a distinctive mobility of facial musculature.</span></p>

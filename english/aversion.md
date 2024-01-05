@@ -1,5 +1,7 @@
 # aversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aversion.md)
+
 <p><span class="chinese">那如何解释憎恨中国的现象呢？</span><span class="english">And how is the aversion to explain?</span></p>
 
 <p><span class="chinese">我对鱼腥味儿特别反感。</span><span class="english">I have a particular aversion to fish smell.</span></p>

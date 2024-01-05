@@ -1,5 +1,7 @@
 # toupee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toupee.md)
+
 <p><span class="chinese">当我看到你的时候我就知道你带了假发。</span><span class="english">I know a toupee when I see one.</span></p>
 
 <p><span class="chinese">头发掉了后，他买了一顶假发。</span><span class="english">When he grew bald he bought a toupee.</span></p>

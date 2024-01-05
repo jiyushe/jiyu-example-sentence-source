@@ -1,5 +1,7 @@
 # 粗线条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuxiantiao.md)
+
 <p><span class="chinese">我不喜欢他那粗线条的工作方法。</span><span class="english">I do not like his slapdash way of doing things.</span></p>
 
 <p><span class="chinese">这里讲的是非常粗线条的，也未必正确。</span><span class="english">Mentioned here is very broad, it may not correct.</span></p>

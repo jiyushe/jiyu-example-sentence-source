@@ -1,5 +1,7 @@
 # addie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addie.md)
+
 <p><span class="chinese">“坐下，住嘴！”艾迪小姨怒吼着。</span><span class="english">"Sit down and shut up! " Aunt Addie bellowed.</span></p>
 
 <p><span class="chinese">用雅达丽的观点，由于那一次，令艾迪成了实质上的受害者。</span><span class="english">In Adair's view, that makes Addie no less a victim.</span></p>

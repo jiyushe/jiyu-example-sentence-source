@@ -1,5 +1,7 @@
 # basswood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basswood.md)
+
 <p><span class="chinese">甲板木条是椴木制成的。</span><span class="english">Deck planks are made of basswood.</span></p>
 
 <p><span class="chinese">该模型主要是椴木，就像我以这个比例制作的其它模型。</span><span class="english">The model is mostly basswood like the other models I've built in this scale.</span></p>

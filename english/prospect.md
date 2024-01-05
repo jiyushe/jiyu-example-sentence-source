@@ -1,5 +1,7 @@
 # prospect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prospect.md)
+
 <p><span class="chinese">前景乐观。</span><span class="english">The prospect is cheerful.</span></p>
 
 <p><span class="chinese">这样的指望已渐有眉目。</span><span class="english">That prospect has been rising.</span></p>

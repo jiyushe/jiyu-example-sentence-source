@@ -1,5 +1,7 @@
 # hypoglossal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypoglossal.md)
+
 <p><span class="chinese">结论舌下神经鞘瘤罕见。</span><span class="english">Conclusion Hypoglossal schwannoma is extremely rare.</span></p>
 
 <p><span class="chinese">用HRP法研究了兔舌下神经的纤维成分和起源。</span><span class="english">HRP was injected into the hypoglossal nerve of rabbit.</span></p>

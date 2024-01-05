@@ -1,5 +1,7 @@
 # 碰见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengjian.md)
+
 <p><span class="chinese">上班路上我碰见了一个色鬼。</span><span class="english">I ran over a goat.</span></p>
 
 <p><span class="chinese">迈达斯国王碰见了一个精灵。</span><span class="english">King Midas met a genie.</span></p>

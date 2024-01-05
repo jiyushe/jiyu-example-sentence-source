@@ -1,5 +1,7 @@
 # tass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tass.md)
+
 <p><span class="chinese">俄塔社报道，普京表示，俄罗斯如今“比任何潜在的侵略者都强大”。</span><span class="english">Russia was now "stronger than any potential aggressor", according to Russia's Tass news agency.</span></p>
 
 <p><span class="chinese">俄塔社10日曾宣布，该社摄影记者克利姆丘克两天前失去联系。</span><span class="english">Itar- Tass on the 10th, I announced, the agency lost contact photographer Klimchuk two days ago.</span></p>

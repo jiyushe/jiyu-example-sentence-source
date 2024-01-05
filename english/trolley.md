@@ -1,5 +1,7 @@
 # trolley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trolley.md)
+
 <p><span class="chinese">您需要行李车吗?。</span><span class="english">Do you need a trolley?</span></p>
 
 <p><span class="chinese">那辆无轨电车丁丁当当地开了过去。</span><span class="english">The trolley came by, dinging noisily.</span></p>

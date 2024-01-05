@@ -1,5 +1,7 @@
 # awkwardness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awkwardness.md)
+
 <p><span class="chinese">对徐继曾来说，笨拙的事情根本不幽默。</span><span class="english">For Hsu, awkwardness was not humor at all.</span></p>
 
 <p><span class="chinese">他假装笨拙，把弓瞎摸了很久。</span><span class="english">With seeming awkwardness he fumbled long with the bow.</span></p>

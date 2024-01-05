@@ -1,5 +1,7 @@
 # elysium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elysium.md)
+
 <p><span class="chinese">极乐世界是有快乐和悲伤的吗？</span><span class="english">Is Elysium there are joy and sadness?</span></p>
 
 <p><span class="chinese">欢乐，圣洁之光。你是极乐世界的女儿。</span><span class="english">Joy, lovely divine light, Daughter of Elysium.</span></p>

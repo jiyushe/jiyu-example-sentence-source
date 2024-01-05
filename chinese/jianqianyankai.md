@@ -1,5 +1,7 @@
 # 见钱眼开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianqianyankai.md)
+
 <p><span class="chinese">你真是见钱眼开。</span><span class="english">You are too easily influenced by money.</span></p>
 
 <p><span class="chinese">也没有必要浪费精力去交往一个见钱眼开的人。</span><span class="english">There is no need to waste energy to contact a person seeks.</span></p>

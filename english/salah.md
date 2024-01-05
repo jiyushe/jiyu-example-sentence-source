@@ -1,5 +1,7 @@
 # salah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salah.md)
+
 <p><span class="chinese">阿勒颇大清真寺里做礼拜的穆斯林祈祷者。</span><span class="english">Salah Muslim prayer, Aleppo Great Mosque.</span></p>
 
 <p><span class="chinese">他说，犯罪团伙盗窃一切值钱的东西。</span><span class="english">Salah says gangs are stealing everything good in the area.</span></p>

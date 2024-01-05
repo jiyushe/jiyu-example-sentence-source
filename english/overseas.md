@@ -1,5 +1,7 @@
 # overseas 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overseas.md)
+
 <p><span class="chinese">海外营业部。</span><span class="english">Overseas Sales Department.</span></p>
 
 <p><span class="chinese">他还从未出过国。</span><span class="english">He has never been overseas.</span></p>

@@ -1,5 +1,7 @@
 # 试办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiban_1.md)
+
 <p><span class="chinese">率低，产量预计开始试办。</span><span class="english">Low rate production is scheduled to begin in FY99.</span></p>
 
 <p><span class="chinese">把老头子认为办不到的事来试办一下，你往往办成功了。</span><span class="english">What old people say you cannot do, you try and find that you can.</span></p>

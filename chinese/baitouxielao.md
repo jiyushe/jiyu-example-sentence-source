@@ -1,5 +1,7 @@
 # 白头偕老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baitouxielao.md)
+
 <p><span class="chinese">为什么要和一种生活方式白头偕老？</span><span class="english">Why Stay Married to a Lifestyle?</span></p>
 
 <p><span class="chinese">我问我的心上人“我们会白头偕老吗？</span><span class="english">I ask my sweet-heart"what lies a head?"</span></p>

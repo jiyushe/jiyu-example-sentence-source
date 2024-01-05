@@ -1,5 +1,7 @@
 # freckle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freckle.md)
+
 <p><span class="chinese">那颗蓝雀斑？</span><span class="english">That blue freckle?</span></p>
 
 <p><span class="chinese">你容易长雀斑吗？</span><span class="english">Do you freckle easily?</span></p>

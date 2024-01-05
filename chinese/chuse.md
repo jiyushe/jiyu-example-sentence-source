@@ -1,5 +1,7 @@
 # 出色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuse.md)
+
 <p><span class="chinese">那是一个出色的剑手。</span><span class="english">He is a fine swordsman.</span></p>
 
 <p><span class="chinese">布什执政时,他有着出色的表现</span><span class="english">He's brilliant at Bush.</span></p>

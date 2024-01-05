@@ -1,5 +1,7 @@
 # fishy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishy.md)
+
 <p><span class="chinese">鱼的哲学？</span><span class="english">A Fishy Philosophy?</span></p>
 
 <p><span class="chinese">他的故事听起来可疑。</span><span class="english">His story sounds fishy.</span></p>

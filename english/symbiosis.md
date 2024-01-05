@@ -1,5 +1,7 @@
 # symbiosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbiosis.md)
+
 <p><span class="chinese">尼尔森把这个过程叫做“电子共生”。</span><span class="english">Nielsen calls the process "electrical symbiosis".</span></p>
 
 <p><span class="chinese">地衣是一类菌和藻的共生植物。</span><span class="english">Lichens is a kind of fungus and algae symbiosis plant.</span></p>

@@ -1,5 +1,7 @@
 # kowtow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kowtow.md)
+
 <p><span class="chinese">九斤离开时磕头感谢四爷的照顾。</span><span class="english">Nine pounds left kowtow to thank his care.</span></p>
 
 <p><span class="chinese">弄墨也跟着一般的跪下，磕头。</span><span class="english">Make Mo to also follow to generally bend down, kowtow.</span></p>

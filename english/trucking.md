@@ -1,5 +1,7 @@
 # trucking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trucking.md)
+
 <p><span class="chinese">职业是货车运输经理。</span><span class="english">He was employed as a trucking manager.</span></p>
 
 <p><span class="chinese">在游戏中你需要经营一个卡车运货公司。</span><span class="english">In the game you will run a trucking company.</span></p>

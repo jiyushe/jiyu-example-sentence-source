@@ -1,5 +1,7 @@
 # 竹器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuqi.md)
+
 <p><span class="chinese">竹器是指用竹子作材料编制的器具。</span><span class="english">Bamboo ware is the ware which made of bamboo.</span></p>
 
 <p><span class="chinese">内设书屋、客厅、卧室，陈设竹器家具。</span><span class="english">Equipped halls, living room, bedroom, furnishings bamboo furniture.</span></p>

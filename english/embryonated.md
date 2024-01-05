@@ -1,5 +1,7 @@
 # embryonated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embryonated.md)
+
 <p><span class="chinese">且该毒株对鸡胚和小鼠不具有致毒性。</span><span class="english">And the reassortant had no toxicity both for embryonated chicken eggs and mice.</span></p>
 
 <p><span class="chinese">方法采用常规的鸡胚双腔法来分离病毒。</span><span class="english">Methods Virus isolation was performed in embryonated hen's eggs with routine method.</span></p>

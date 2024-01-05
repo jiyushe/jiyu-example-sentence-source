@@ -1,5 +1,7 @@
 # 湿度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidu.md)
+
 <p><span class="chinese">生石灰湿度高于正常值。</span><span class="english">Humidity of quick lime above normal.</span></p>
 
 <p><span class="chinese">这种热度和湿度会减轻皮肤的干燥度。</span><span class="english">This heat and humidityimproves skin dryness.</span></p>

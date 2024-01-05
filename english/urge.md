@@ -1,5 +1,7 @@
 # urge 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urge.md)
+
 <p><span class="chinese">我强烈要求你们去那里自习</span><span class="english">I would urge you to use that.</span></p>
 
 <p><span class="chinese">让我充满了要澄清一切的欲望！</span><span class="english">Fills me with the urge to defecate!</span></p>

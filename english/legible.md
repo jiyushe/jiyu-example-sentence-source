@@ -1,5 +1,7 @@
 # legible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legible.md)
+
 <p><span class="chinese">不要使用普通易读的词语命名内部变量。</span><span class="english">Do not use normal legible words to name internal variables.</span></p>
 
 <p><span class="chinese">不要使用普通易读的词语命名内部变量</span><span class="english">Do not use normal legible words when naming internal variables</span></p>

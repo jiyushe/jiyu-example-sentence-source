@@ -1,5 +1,7 @@
 # 融解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongjie_2.md)
+
 <p><span class="chinese">搅拌直到融解。</span><span class="english">Stir well to dissolve.</span></p>
 
 <p><span class="chinese">用约50毫升热开水融解后服用。</span><span class="english">Drink after melt it in about 50 ml hot water.</span></p>

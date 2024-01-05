@@ -1,5 +1,7 @@
 # 图例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuli.md)
+
 <p><span class="chinese">在某些情况下，图例仍然是必需的。</span><span class="english">Legends are still needed in certain cases.</span></p>
 
 <p><span class="chinese">充分利用地图图例。</span><span class="english">Using information provided in the map legend.</span></p>

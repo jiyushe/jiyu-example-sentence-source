@@ -1,5 +1,7 @@
 # 临门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linmen.md)
+
 <p><span class="chinese">州司临门，急于星火。</span><span class="english">State department rimmon, eager to spark.</span></p>
 
 <p><span class="chinese">从临门帕烈起行，安营在立拿。</span><span class="english">And they departed from Rimmonparez, and pitched in Libnah.</span></p>

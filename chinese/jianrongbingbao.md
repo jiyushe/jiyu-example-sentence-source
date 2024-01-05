@@ -1,5 +1,7 @@
 # 兼容并包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianrongbingbao.md)
+
 <p><span class="chinese">这是一种兼容并包的世界观。</span><span class="english">It is an all inclusive world-view.</span></p>
 
 <p><span class="chinese">这么一来霍布斯就成了第一位典型的兼容并包者。</span><span class="english">So Hobbes is the first classic compatibilist.</span></p>

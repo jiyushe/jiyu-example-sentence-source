@@ -1,5 +1,7 @@
 # 念念有词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niannianyouci.md)
+
 <p><span class="chinese">他曾嘲笑过那些临刑前还在念念有词地做着祷告的人。</span><span class="english">He had laughed at those who died with prayers on their lips.</span></p>
 
 <p><span class="chinese">但我们却不能不加思考地只懂得念念有词，便以为自己已按教导祷告。</span><span class="english">But it is not a prayer which we should repeat over and over without thinking.</span></p>

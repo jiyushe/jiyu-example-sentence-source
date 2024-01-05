@@ -1,5 +1,7 @@
 # celanese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celanese.md)
+
 <p><span class="chinese">投资公司的成立将大大加快塞拉尼斯在中国的业务发展。</span><span class="english">The establishment will accelerate Celanese business development in China.</span></p>
 
 <p><span class="chinese">乳液是塞拉尼斯的重要业务部门。</span><span class="english">Emulsions is a core business of the performance chemicals arm of Celanese.</span></p>

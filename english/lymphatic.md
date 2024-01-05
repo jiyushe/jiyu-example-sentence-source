@@ -1,5 +1,7 @@
 # lymphatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lymphatic.md)
+
 <p><span class="chinese">什么是淋巴系统？</span><span class="english">What is the Lymphatic System?</span></p>
 
 <p><span class="chinese">在什么情况下容易淋巴管堵塞？</span><span class="english">Below what circumstance easy lymphatic jams?</span></p>

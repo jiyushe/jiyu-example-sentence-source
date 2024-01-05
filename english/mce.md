@@ -1,5 +1,7 @@
 # mce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mce.md)
+
 <p><span class="chinese">心肌病理染色确定的坏死心肌部位在MCE的充盈缺损范围内。</span><span class="english">The myocardial infarction areas by TTC stained corresponded with that by MCE.</span></p>
 
 <p><span class="chinese">结论多巴酚丁胺可作为一种负荷药物用于MCE评价冠脉狭窄。</span><span class="english">Conclusion Dobutamine may be used as a stress agent for MCE in assessing coronary stenoses.</span></p>

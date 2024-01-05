@@ -1,5 +1,7 @@
 # consular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consular.md)
+
 <p><span class="chinese">面谈官就问了我几个问题。</span><span class="english">The consular officer just asked me a couple of questions.</span></p>
 
 <p><span class="chinese">第十条领事邮袋不得开拆或者扣留。</span><span class="english">Article 10 The consular bag shall not be opened or detained.</span></p>

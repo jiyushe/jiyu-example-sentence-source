@@ -1,5 +1,7 @@
 # celadon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celadon.md)
+
 <p><span class="chinese">首先看青瓷器。</span><span class="english">First let us consider celadon.</span></p>
 
 <p><span class="chinese">青瓷是世界上出现最早的瓷器。</span><span class="english">Celadon is the earliest porcelain in the world.</span></p>

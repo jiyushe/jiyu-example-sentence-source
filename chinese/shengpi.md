@@ -1,5 +1,7 @@
 # 生僻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengpi.md)
+
 <p><span class="chinese">而有些海滩却极端迢遥、生僻！</span><span class="english">Others can generally be extremely remote!</span></p>
 
 <p><span class="chinese">它可以告诉我们是否缺少值，或者是否存在生僻的值。</span><span class="english">It can tell us whether or not values are missing or outlying.</span></p>

@@ -1,5 +1,7 @@
 # toaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toaster.md)
+
 <p><span class="chinese">这又是一个老式烤箱。</span><span class="english">This is an old toaster.</span></p>
 
 <p><span class="chinese">我要烤面包机做什么？</span><span class="english">What do I need a toaster for?</span></p>

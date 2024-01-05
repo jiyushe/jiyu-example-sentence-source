@@ -1,5 +1,7 @@
 # trunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trunk.md)
+
 <p><span class="chinese">它的树干是大的。</span><span class="english">Its trunk is big.</span></p>
 
 <p><span class="chinese">这个行李箱打不开。</span><span class="english">The trunk can't work.</span></p>

@@ -1,5 +1,7 @@
 # sabc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sabc.md)
+
 <p><span class="chinese">方法采用亲合免疫组织化学SABC法。</span><span class="english">Methods Affinity immunohistochemical technique SABC was adopted.</span></p>
 
 <p><span class="chinese">标本制成组织芯片，采用免疫组化SABC法，对芯片标本进行染色。</span><span class="english">The tissue chips were analyzed by the SABC immunohistochemical method.</span></p>

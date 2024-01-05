@@ -1,5 +1,7 @@
 # knives
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knives.md)
+
 <p><span class="chinese">我们使用刀和叉.</span><span class="english">We use knives and forks.</span></p>
 
 <p><span class="chinese">刀是怎样变锋利的？</span><span class="english">How are knives sharpened?</span></p>

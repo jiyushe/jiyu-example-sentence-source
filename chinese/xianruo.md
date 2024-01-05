@@ -1,5 +1,7 @@
 # 纤弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianruo.md)
+
 <p><span class="chinese">她太纤弱了，无法打篮球。</span><span class="english">She was too slight to play basketball.</span></p>
 
 <p><span class="chinese">她比克里斯蒂更瘦小更纤弱。</span><span class="english">She is smaller and slighter than Christie.</span></p>

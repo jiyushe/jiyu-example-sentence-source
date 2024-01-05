@@ -1,5 +1,7 @@
 # 假想敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaxiangdi.md)
+
 <p><span class="chinese">于是，我成了我自己的假想敌。</span><span class="english">Then I became an imaginary enemy to myself.</span></p>
 
 <p><span class="chinese">因为其现行制度是基于一个假想敌。</span><span class="english">Because the existing system is based on having an enemy.</span></p>

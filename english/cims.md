@@ -1,5 +1,7 @@
 # cims
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cims.md)
+
 <p><span class="chinese">CIMS技术改变了传统制造业的运作模式。</span><span class="english">CIMS technology changes the running mode of traditional manufactory.</span></p>
 
 <p><span class="chinese">该系统保证了车身开发中CIMS的信息集成。</span><span class="english">This system assuring the integration of CIMS information in autobody development.</span></p>

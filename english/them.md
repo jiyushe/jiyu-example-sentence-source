@@ -1,5 +1,7 @@
 # them 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/them.md)
+
 <p><span class="chinese">避免他们。</span><span class="english">Avoid them.</span></p>
 
 <p><span class="chinese">我问他们。</span><span class="english">I ask them.</span></p>

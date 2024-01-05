@@ -1,5 +1,7 @@
 # hibernation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hibernation.md)
+
 <p><span class="chinese">太阳黑子进入冬眠期？</span><span class="english">Sunspot Hibernation?</span></p>
 
 <p><span class="chinese">暴走熊妈妈要去冬眠了。</span><span class="english">Mama bear is going into hibernation.</span></p>

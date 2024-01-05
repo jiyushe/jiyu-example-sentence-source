@@ -1,5 +1,7 @@
 # 四起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siqi.md)
+
 <p><span class="chinese">他被指控犯有四起抢劫罪。</span><span class="english">He was charged with four robberies.</span></p>
 
 <p><span class="chinese">星辰殒落，火光四起。</span><span class="english">Falling, the star, flaming, the fire.</span></p>

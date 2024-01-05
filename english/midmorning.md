@@ -1,5 +1,7 @@
 # midmorning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midmorning.md)
+
 <p><span class="chinese">心脏病最有可能在上午10点左右发作。</span><span class="english">Heart attacks are most likely to strike in midmorning.</span></p>
 
 <p><span class="chinese">这也许是在吃早餐的时候，上午，或饭后。</span><span class="english">That might be at breakfast, midmorning , or after meals.</span></p>

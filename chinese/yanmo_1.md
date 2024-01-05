@@ -1,5 +1,7 @@
 # 湮没
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmo_1.md)
+
 <p><span class="chinese">作为曾经是红极一时的人物，他现已湮没无闻。</span><span class="english">He was written off as a has-been.</span></p>
 
 <p><span class="chinese">谁用煤炭的灰湮没了壁炉香？</span><span class="english">Who has submerged the fireplace with coom ?</span></p>

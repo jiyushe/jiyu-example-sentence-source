@@ -1,5 +1,7 @@
 # 叽里咕噜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiligulu.md)
+
 <p><span class="chinese">电视中播放着叽里咕噜的泰语节目。</span><span class="english">The TV blared Thai.</span></p>
 
 <p><span class="chinese">听那些女孩子叽里咕噜地说个不停！</span><span class="english">Listen to those girls jabbering away!</span></p>

@@ -1,5 +1,7 @@
 # mpo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mpo.md)
+
 <p><span class="chinese">外周血LAA与肺组织MPO含量呈正相关。</span><span class="english">Blood LAA was positively correlated with tissue MPO content.</span></p>
 
 <p><span class="chinese">其余部分结肠组织匀浆测定MPO活性。</span><span class="english">Measure the MPO activity of the rest part of colon in homogenate.</span></p>

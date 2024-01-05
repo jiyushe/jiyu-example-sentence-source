@@ -1,5 +1,7 @@
 # reunion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reunion.md)
+
 <p><span class="chinese">我们全家在一起吃团圆饭。</span><span class="english">Our family reunion dinner together.</span></p>
 
 <p><span class="chinese">年夜饭又称团圆饭。</span><span class="english">Eve is also called the reunion meal.</span></p>

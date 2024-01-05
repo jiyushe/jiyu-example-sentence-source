@@ -1,5 +1,7 @@
 # 雍容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongrong.md)
+
 <p><span class="chinese">又有花王雍容之大度。</span><span class="english">Also has peony graceful magnanimous.</span></p>
 
 <p><span class="chinese">预见到会有亏损，雍容大度地接受亏损。</span><span class="english">Expect and accept losses gracefully.</span></p>

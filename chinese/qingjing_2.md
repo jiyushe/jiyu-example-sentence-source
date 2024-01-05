@@ -1,5 +1,7 @@
 # 清净
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjing_2.md)
+
 <p><span class="chinese">我想等它清净一些的时候再去看看。</span><span class="english">I want to go back when it is quieter.</span></p>
 
 <p><span class="chinese">人人本有清净纯真的佛性。</span><span class="english">We all have a pure and clear Buddha-nature.</span></p>

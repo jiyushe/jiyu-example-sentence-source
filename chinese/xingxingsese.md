@@ -1,5 +1,7 @@
 # 形形色色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxingsese.md)
+
 <p><span class="chinese">纽约聚集着各种各样、形形色色的人。</span><span class="english">All kinds of people come to New York.</span></p>
 
 <p><span class="chinese">据柯普科说，形形色色的学生都在网站注册。</span><span class="english">Kopko says a range of students are signing up.</span></p>

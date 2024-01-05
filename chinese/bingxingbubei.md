@@ -1,5 +1,7 @@
 # 并行不悖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingxingbubei.md)
+
 <p><span class="chinese">这两种理论各有千秋，但它们是并行不悖的。</span><span class="english">The two theories vary, but they are compassable.</span></p>
 
 <p><span class="chinese">德治与法制相辅相成，工业化现代化与传统价值观并行不悖。</span><span class="english">The rule of virtue and legal system complement with each other.</span></p>

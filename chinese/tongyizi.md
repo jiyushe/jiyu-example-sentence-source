@@ -1,5 +1,7 @@
 # 同义字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyizi.md)
+
 <p><span class="chinese">也是下杂鱼的同义字。</span><span class="english">Also used synonymously to trash fish.</span></p>
 
 <p><span class="chinese">您能给我一个闲暇的同义字吗?。</span><span class="english">Can you give me a synonym for leisure?</span></p>

@@ -1,5 +1,7 @@
 # place 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/place.md)
+
 <p><span class="chinese">在一个地方用膳。</span><span class="english">Eat at a place.</span></p>
 
 <p><span class="chinese">做一个餐垫。</span><span class="english">Make a place mat.</span></p>

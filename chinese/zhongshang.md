@@ -1,5 +1,7 @@
 # 中伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshang.md)
+
 <p><span class="chinese">没人喜欢背后中伤者。</span><span class="english">Nobody likes a backstabber.</span></p>
 
 <p><span class="chinese">对于受到中伤我已司空见惯了。</span><span class="english">I'm used to being sniped at.</span></p>

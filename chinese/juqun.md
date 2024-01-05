@@ -1,5 +1,7 @@
 # 句群
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juqun.md)
+
 <p><span class="chinese">句群是多学科共同感兴趣的语言单位。</span><span class="english">Sentence group is a linguistic unit which several studies concern.</span></p>
 
 <p><span class="chinese">句群是介于句子和段落之间的一个处理单位。</span><span class="english">Sentence group is a processing unit between sentence and paragraph.</span></p>

@@ -1,5 +1,7 @@
 # mythological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mythological.md)
+
 <p><span class="chinese">然而在希腊神话中，他倒真是一个国王。</span><span class="english">He is instead a Greek mythological king.</span></p>
 
 <p><span class="chinese">平正这种工作是一个虚拟的观念。</span><span class="english">It is a mythological concept, this justice business.</span></p>

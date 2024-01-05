@@ -1,5 +1,7 @@
 # prepayment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prepayment.md)
+
 <p><span class="chinese">我们需要支付房子的预付款。</span><span class="english">We need to pay prepayment of this house.</span></p>
 
 <p><span class="chinese">航运公司已经收到了他的预付款。</span><span class="english">The shipping line has gotten his prepayment.</span></p>

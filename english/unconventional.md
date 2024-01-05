@@ -1,5 +1,7 @@
 # unconventional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconventional.md)
+
 <p><span class="chinese">那是违反常规的。</span><span class="english">That’s very unconventional.</span></p>
 
 <p><span class="chinese">她们反对改变非传统的道德基准。</span><span class="english">They were opposed to change unconventional moral grounds.</span></p>

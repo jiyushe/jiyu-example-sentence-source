@@ -1,5 +1,7 @@
 # anticancer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticancer.md)
+
 <p><span class="chinese">目的研究榄香烯抗肿瘤的作用机制。</span><span class="english">AIM To study the anticancer mechanisms of elemene.</span></p>
 
 <p><span class="chinese">多西他赛是新的紫杉类抗癌药物。</span><span class="english">Docetaxel is a newly developed taxoid anticancer agent.</span></p>

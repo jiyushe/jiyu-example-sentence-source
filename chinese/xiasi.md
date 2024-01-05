@@ -1,5 +1,7 @@
 # 遐思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiasi.md)
+
 <p><span class="chinese">距离产生美感，飘然引人遐思。</span><span class="english">Distance produce beauty of soliciting, floating in the air.</span></p>
 
 <p><span class="chinese">有莲花的水面，总是会令人生更多遐思、更多流连。</span><span class="english">A lotus surface will always be people to have more reverie, more hang around.</span></p>

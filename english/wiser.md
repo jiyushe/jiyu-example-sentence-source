@@ -1,5 +1,7 @@
 # wiser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wiser.md)
+
 <p><span class="chinese">越老越聪明。</span><span class="english">Older and wiser.</span></p>
 
 <p><span class="chinese">随着年令的增长，人变得更聪明。</span><span class="english">A man grows wiser with age.</span></p>

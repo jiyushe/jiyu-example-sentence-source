@@ -1,5 +1,7 @@
 # underpayment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underpayment.md)
+
 <p><span class="chinese">工资的未付或付得不足。</span><span class="english">Non-payment or underpayment of wages.</span></p>
 
 <p><span class="chinese">持有差额或超额支付部分的一方，可以就该数额向另一方开具发票。</span><span class="english">The party owed the amount of over or underpayment may invoice the other for such amount.</span></p>

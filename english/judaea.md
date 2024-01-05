@@ -1,5 +1,7 @@
 # judaea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judaea.md)
+
 <p><span class="chinese">犹大王国后由犹太继承。</span><span class="english">The kingdom of Judah was succeeded by Judaea.</span></p>
 
 <p><span class="chinese">那时，在犹太的，应当逃到山上。</span><span class="english">Then let them which be in Judaea flee into the mountains</span></p>

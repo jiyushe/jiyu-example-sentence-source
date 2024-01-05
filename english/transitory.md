@@ -1,5 +1,7 @@
 # transitory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transitory.md)
+
 <p><span class="chinese">那个棒球投手和她有段短暂恋情。</span><span class="english">The moundsman has a transitory amour.</span></p>
 
 <p><span class="chinese">阿难，什么是本质非持久的呢？</span><span class="english">And what, Ananda, is transitory by nature?</span></p>

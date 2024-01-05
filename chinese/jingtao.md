@@ -1,5 +1,7 @@
 # 惊涛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingtao.md)
+
 <p><span class="chinese">惊涛拍岸如雷鸣。</span><span class="english">The waves thunder upon the shore.</span></p>
 
 <p><span class="chinese">一个由拍岸惊涛注满的海池。</span><span class="english">A sea filled pool with crashing surf.</span></p>

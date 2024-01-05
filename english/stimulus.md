@@ -1,5 +1,7 @@
 # stimulus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stimulus.md)
+
 <p><span class="chinese">我所需的是一件刺激物。</span><span class="english">What I needed was a stimulus.</span></p>
 
 <p><span class="chinese">那么，经济刺激计划到底怎么了？</span><span class="english">So what happened to the stimulus?</span></p>

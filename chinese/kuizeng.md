@@ -1,5 +1,7 @@
 # 馈赠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuizeng.md)
+
 <p><span class="chinese">谢谢你馈赠礼品。</span><span class="english">Thank you for the gift.</span></p>
 
 <p><span class="chinese">之后，吉姆回到台上馈赠礼物。</span><span class="english">After, JZ returns to give gift.</span></p>

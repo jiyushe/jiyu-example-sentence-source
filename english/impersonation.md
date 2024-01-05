@@ -1,5 +1,7 @@
 # impersonation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impersonation.md)
+
 <p><span class="chinese">用户模拟在概念上很简单。</span><span class="english">User impersonation is conceptually simple.</span></p>
 
 <p><span class="chinese">他带来的特朗普既是谴责又是模仿。</span><span class="english">His Trump is as much censure as impersonation.</span></p>

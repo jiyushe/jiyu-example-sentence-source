@@ -1,5 +1,7 @@
 # hackneyed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hackneyed.md)
+
 <p><span class="chinese">这篇文章写得太呆板。</span><span class="english">This article is rather hackneyed.</span></p>
 
 <p><span class="chinese">使…变陈腐因不加区别的使用而使之变得平庸，陈腐。</span><span class="english">To make banal or hackneyed with indiscriminate use.</span></p>

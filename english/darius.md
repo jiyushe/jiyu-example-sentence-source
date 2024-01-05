@@ -1,5 +1,7 @@
 # darius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darius.md)
+
 <p><span class="chinese">大流士说，看到了？</span><span class="english">Darius said, See that?</span></p>
 
 <p><span class="chinese">达利斯和约翰特尔有很多共同之处。</span><span class="english">Darius and Johntel have a lot in common.</span></p>

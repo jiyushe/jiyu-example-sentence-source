@@ -1,5 +1,7 @@
 # 太平间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taipingjian.md)
+
 <p><span class="chinese">你什么意思，从太平间出来？</span><span class="english">What do you mean, from the morgue?</span></p>
 
 <p><span class="chinese">“我从太平间出来，”父亲说。</span><span class="english">“I’m from the morgue, ” the father said.</span></p>

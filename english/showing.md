@@ -1,5 +1,7 @@
 # showing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/showing.md)
+
 <p><span class="chinese">先生，帕特里克已露相了。</span><span class="english">Sir, Patrick's slip is showing.</span></p>
 
 <p><span class="chinese">汤姆因耍小聪明受到了申斥。</span><span class="english">Tom was sat on for showing off.</span></p>

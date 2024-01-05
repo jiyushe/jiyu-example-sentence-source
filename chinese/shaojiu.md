@@ -1,5 +1,7 @@
 # 烧酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaojiu.md)
+
 <p><span class="chinese">他从来不喝烧酒。</span><span class="english">He never drinks spirits.</span></p>
 
 <p><span class="chinese">在第一摊的时候，我们不断的喝著烧酒。</span><span class="english">At first place, we drank Soju again and again.</span></p>

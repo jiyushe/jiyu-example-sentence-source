@@ -1,5 +1,7 @@
 # 匆忙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congmang.md)
+
 <p><span class="chinese">何必匆忙乃尔?</span><span class="english">Why all this hurry?</span></p>
 
 <p><span class="chinese">爱得匆忙冷得快。</span><span class="english">Hasty love,soon cold.</span></p>

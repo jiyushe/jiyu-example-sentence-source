@@ -1,5 +1,7 @@
 # junkyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/junkyard.md)
+
 <p><span class="chinese">他是一个残酷、冷漠的男人。</span><span class="english">He is a man meaner than a junkyard dog.</span></p>
 
 <p><span class="chinese">会见时在镇东侧，基罗排土场我。</span><span class="english">Meet me at the junkyard on the east side of town, KIRO.</span></p>

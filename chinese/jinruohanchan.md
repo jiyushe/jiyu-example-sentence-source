@@ -1,5 +1,7 @@
 # 噤若寒蝉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinruohanchan.md)
+
 <p><span class="chinese">女司机情急呼救，全车乘客噤若寒蝉。</span><span class="english">The woman driver naturally shouted for help.</span></p>
 
 <p><span class="chinese">他转过头看着这个噤若寒蝉的女孩，又重复了一遍他的问题。</span><span class="english">He looked back at the abject, silent girl and repeated his question.</span></p>

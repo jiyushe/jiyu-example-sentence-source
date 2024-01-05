@@ -1,5 +1,7 @@
 # ameliorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ameliorate.md)
+
 <p><span class="chinese">他的病情应该减轻刑罚吗？</span><span class="english">Should his condition ameliorate the sentence?</span></p>
 
 <p><span class="chinese">分流术后凋亡改善，PHG病变程度缓解。</span><span class="english">Disconnection exacerbates PHG and shunt ameliorate it.</span></p>

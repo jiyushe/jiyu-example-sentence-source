@@ -1,5 +1,7 @@
 # crankshaft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crankshaft.md)
+
 <p><span class="chinese">拆去曲轴抛油环。</span><span class="english">Remove the crankshaft oil slinger.</span></p>
 
 <p><span class="chinese">曲轴箱把曲轴装置于内。</span><span class="english">The crankcase house the crankshaft.</span></p>

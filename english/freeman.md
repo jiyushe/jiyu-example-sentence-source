@@ -1,5 +1,7 @@
 # Freeman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freeman.md)
+
 <p><span class="chinese">千真万确，弗里曼是正确的。</span><span class="english">Freeman is dead right, of course.</span></p>
 
 <p><span class="chinese">2005年，摩根.费列文和杰米.霍尔斯</span><span class="english">Morgan Freeman and Jamie Foxx, 2005</span></p>

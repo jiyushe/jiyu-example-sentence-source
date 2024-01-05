@@ -1,5 +1,7 @@
 # henceforward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/henceforward.md)
+
 <p><span class="chinese">我就一直徘徊在你的身影里。</span><span class="english">Henceforward in thy shadow. Nevermore.</span></p>
 
 <p><span class="chinese">可是我觉得，从此我就一直徘徊在你的身影里。</span><span class="english">Yet I feel that I shall stand Henceforward in thy shadow.</span></p>

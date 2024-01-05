@@ -1,5 +1,7 @@
 # defrag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defrag.md)
+
 <p><span class="chinese">肺心病啊呀我还是得到整理的权利。</span><span class="english">Cor blimey I better get the defrag right.</span></p>
 
 <p><span class="chinese">强大的硬盘碎片整理和优化新的！</span><span class="english">Powerful Hard Drive Defrag and Optimization New!</span></p>

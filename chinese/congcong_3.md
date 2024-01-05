@@ -1,5 +1,7 @@
 # 葱葱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congcong_3.md)
+
 <p><span class="chinese">窗外，她看到树木葱葱，鸟儿啭啼。</span><span class="english">Outside her window she could see the tress with birds singing.</span></p>
 
 <p><span class="chinese">葱葱树木不断吸附海雾，在干旱荒芜之中创造出一片湿润的绿洲。</span><span class="english">The trees capture sea mist, creating a damp oasis amid the aridity.</span></p>

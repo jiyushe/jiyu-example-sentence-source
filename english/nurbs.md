@@ -1,5 +1,7 @@
 # nurbs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nurbs.md)
+
 <p><span class="chinese">提出了一种局部光顺NURBS曲线的算法。</span><span class="english">A algorithm is presented for locally fairing NURBS curves.</span></p>
 
 <p><span class="chinese">NURBS广泛地应用在曲线和曲面设计中。</span><span class="english">NURBS curve has been widely used in curve and surface design.</span></p>

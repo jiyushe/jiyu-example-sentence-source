@@ -1,5 +1,7 @@
 # yellowfin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yellowfin.md)
+
 <p><span class="chinese">大西洋所渔获的也基本上是黄鳍金枪鱼。</span><span class="english">Atlantic Ocean catches consist mostly of yellowfin.</span></p>
 
 <p><span class="chinese">在小船被几家大型黄鳍金枪鱼。</span><span class="english">Inside the small boat were several large yellowfin tuna.</span></p>

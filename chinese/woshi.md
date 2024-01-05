@@ -1,5 +1,7 @@
 # 卧室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woshi.md)
+
 <p><span class="chinese">卧室礼仪。</span><span class="english">Bedroom Etiquette.</span></p>
 
 <p><span class="chinese">是两个卧室的吗?</span><span class="english">Is it a two-bedroom?</span></p>

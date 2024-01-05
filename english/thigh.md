@@ -1,5 +1,7 @@
 # thigh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thigh.md)
+
 <p><span class="chinese">它吞到了我的大腿。</span><span class="english">It's up to my thigh.</span></p>
 
 <p><span class="chinese">她摸你的大腿了吗？</span><span class="english">Did she touch your thigh?</span></p>

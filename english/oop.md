@@ -1,5 +1,7 @@
 # oop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oop.md)
+
 <p><span class="chinese">我认为这个OOP的基本原则之一。</span><span class="english">I thought this is the basic rule of OOP.</span></p>
 
 <p><span class="chinese">我在其中大量使用了模板来实作出传统的OOP中的类。</span><span class="english">Templates are mostly used to implement traditional OOP classes.</span></p>

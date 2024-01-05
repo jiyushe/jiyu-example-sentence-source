@@ -1,5 +1,7 @@
 # caldera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caldera.md)
+
 <p><span class="chinese">该破火山口被认为是活火山。</span><span class="english">The caldera is considered an active volcano.</span></p>
 
 <p><span class="chinese">他们很可能是在火山地区被捕杀的。</span><span class="english">They'd probably been killed near the caldera.</span></p>

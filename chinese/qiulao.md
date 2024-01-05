@@ -1,5 +1,7 @@
 # 囚牢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiulao.md)
+
 <p><span class="chinese">爱是囚牢还是自由？</span><span class="english">Is love a jail or freedom?</span></p>
 
 <p><span class="chinese">我在自我的囚牢中…</span><span class="english">I am the architect of my own imprisonment.</span></p>

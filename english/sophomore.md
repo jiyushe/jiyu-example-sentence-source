@@ -1,5 +1,7 @@
 # sophomore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sophomore.md)
+
 <p><span class="chinese">我是普林斯顿大学一名大二的学生。</span><span class="english">And I'm a sophomore at Princeton.</span></p>
 
 <p><span class="chinese">他是一所著名大学的大二学生。</span><span class="english">He was a sophomore in a famous university.</span></p>

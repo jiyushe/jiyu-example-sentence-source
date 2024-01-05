@@ -1,5 +1,7 @@
 # greenstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenstone.md)
+
 <p><span class="chinese">其中以绿岩型为主。</span><span class="english">The greenstone is the major type.</span></p>
 
 <p><span class="chinese">余下的森林正像其中蕴藏的绿玉石一样珍贵。</span><span class="english">The remaining forest is as precious as the greenstone it resembles.</span></p>

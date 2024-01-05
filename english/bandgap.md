@@ -1,5 +1,7 @@
 # bandgap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bandgap.md)
+
 <p><span class="chinese">本文针对神经网络在DGS滤波特性中的应用进行了研究。</span><span class="english">In this paper, ANNs are applied to study of the bandgap characteristic of DGS.</span></p>
 
 <p><span class="chinese">文中最后给出了此基准电压源的各种性能的仿真波形。</span><span class="english">At last we make some characteristic waveform about this bandgap voltage reference.</span></p>

@@ -1,5 +1,7 @@
 # kremlin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kremlin.md)
+
 <p><span class="chinese">克里姆林宫的圣母领报大教堂。</span><span class="english">Annunciation Cathedral in the Kremlin.</span></p>
 
 <p><span class="chinese">士兵们在通往克里姆林宫的一个大门前整队。</span><span class="english">Troops line up at one of the gates to the Kremlin.</span></p>

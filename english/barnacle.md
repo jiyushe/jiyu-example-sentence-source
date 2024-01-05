@@ -1,5 +1,7 @@
 # barnacle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barnacle.md)
+
 <p><span class="chinese">同样，藤壶胶也很特别。</span><span class="english">Barnacle glue is equally special.</span></p>
 
 <p><span class="chinese">藤壶和蛤类是滤过觅食者的两种例子。</span><span class="english">The barnacle and the clam are two examples of filter feeders.</span></p>

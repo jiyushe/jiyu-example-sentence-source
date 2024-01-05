@@ -1,5 +1,7 @@
 # 幼稚园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhiyuan.md)
+
 <p><span class="chinese">你的小孩准备好读幼稚园了吗？</span><span class="english">Is Your Child Ready for Kindergarten?</span></p>
 
 <p><span class="chinese">连上幼稚园的孩子都想要一个蓝丝带。</span><span class="english">Even kindergarteners want that blue ribbon.</span></p>

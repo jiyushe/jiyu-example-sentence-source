@@ -1,5 +1,7 @@
 # lakefront
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lakefront.md)
+
 <p><span class="chinese">你对自己有一个漂亮的平房这块湖滨财产。</span><span class="english">You own a cottage on a nice piece of lakefront property.</span></p>
 
 <p><span class="chinese">秋菊在锡矿开端了琉琅女的生活。</span><span class="english">Tears in the tin beginning ryukyu lakefront of female life.</span></p>

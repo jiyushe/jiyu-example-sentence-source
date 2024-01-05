@@ -1,5 +1,7 @@
 # 悉数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishu.md)
+
 <p><span class="chinese">我没逞能，短信悉数告诉她实情。</span><span class="english">I didn't try to tell her the truth, sms.</span></p>
 
 <p><span class="chinese">祝您圣诞康乐，您的悉数学生敬上。</span><span class="english">A merry Chistmas from all of your students.</span></p>

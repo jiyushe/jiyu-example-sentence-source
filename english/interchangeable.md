@@ -1,5 +1,7 @@
 # interchangeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interchangeable.md)
+
 <p><span class="chinese">这两个单词是可互换的。</span><span class="english">The two forms are interchangeable.</span></p>
 
 <p><span class="chinese">具有互换性的零件的影响力</span><span class="english">The Impact of Interchangeable Parts</span></p>

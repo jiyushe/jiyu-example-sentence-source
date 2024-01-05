@@ -1,5 +1,7 @@
 # deflector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deflector.md)
+
 <p><span class="chinese">直流电机驱动采用全数字可控硅变流装置控制。</span><span class="english">Adopting digital control silicon deflector device when AC motor driving.</span></p>
 
 <p><span class="chinese">可展开的S翼既用于散热，又是偏导护盾能量导管。</span><span class="english">Its extendables-foils radiate heat and serve as a conduit to deflector shield energy.</span></p>

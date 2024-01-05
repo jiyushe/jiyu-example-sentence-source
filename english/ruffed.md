@@ -1,5 +1,7 @@
 # ruffed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruffed.md)
+
 <p><span class="chinese">光荣之路常坎坷。</span><span class="english">The path to glory is always ruffed.</span></p>
 
 <p><span class="chinese">衣衬褴褛的无赖围着高低不平的岩石不停地跑。</span><span class="english">Round and round the ruffed rock the ragged rascal ran.</span></p>

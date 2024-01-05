@@ -1,5 +1,7 @@
 # 正中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhong.md)
+
 <p><span class="chinese">正中靶心！</span><span class="english">Bull's-eye!</span></p>
 
 <p><span class="chinese">她的话正中他的要害。</span><span class="english">Her words go where he lives.</span></p>

@@ -1,5 +1,7 @@
 # 冒失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoshi.md)
+
 <p><span class="chinese">她是一个冒失的孩子。</span><span class="english">She is a pert child.</span></p>
 
 <p><span class="chinese">别冒失地说那话！</span><span class="english">Don't go saying that!</span></p>

@@ -1,5 +1,7 @@
 # tartrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tartrate.md)
+
 <p><span class="chinese">酒石酸锑钾和酒石酸钾钠。</span><span class="english">Tartrate of antimony and potash, and tartrate of soda and potash.</span></p>
 
 <p><span class="chinese">酒石酸及其钾盐是有渗透作用的泻剂。</span><span class="english">Sodium potassium tartrate and tartaric acid are osmotic laxatives.</span></p>

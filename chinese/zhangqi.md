@@ -1,5 +1,7 @@
 # 瘴气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangqi.md)
+
 <p><span class="chinese">如果言论自由被中止了，瘴气就滋生，死亡迅即来临。</span><span class="english">Where free speech is stopped miasma is bred, and death comes fast.</span></p>
 
 <p><span class="chinese">泸水一带人烟极少，瘴气很重而且泸水有毒。</span><span class="english">Along the densely Lushui very little heavy but Lushui poisonous miasma.</span></p>

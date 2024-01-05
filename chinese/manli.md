@@ -1,5 +1,7 @@
 # 鳗鲡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manli.md)
+
 <p><span class="chinese">一种什么酸溜溜的鱼，我想大概是鳗鲡吧。</span><span class="english">Some sort of sour fish. Eel, I think.</span></p>
 
 <p><span class="chinese">鳗鱼为鳗鲡科动物鳗鱼的肉或全体。</span><span class="english">Thee eel is the eel li branch animal eel's meat or all.</span></p>

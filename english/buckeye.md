@@ -1,5 +1,7 @@
 # buckeye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buckeye.md)
+
 <p><span class="chinese">为2008七叶树之类经典著作计划是在进行之中的！</span><span class="english">Planning for the 2008 Buckeye Classic is underway!</span></p>
 
 <p><span class="chinese">俄亥俄州星报说，他们的土拨鼠博基没有看到自己的影子。</span><span class="english">The Marion Star reported on Buckeye Chuck of Ohio not seeing his shadow.</span></p>

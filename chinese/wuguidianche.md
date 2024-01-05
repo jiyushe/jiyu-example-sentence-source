@@ -1,5 +1,7 @@
 # 无轨电车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuguidianche.md)
+
 <p><span class="chinese">我乘无轨电车去上班。</span><span class="english">I got to work by trolleybus.</span></p>
 
 <p><span class="chinese">瞧，无轨电车来了。</span><span class="english">Look, there comes the trolleybus.</span></p>

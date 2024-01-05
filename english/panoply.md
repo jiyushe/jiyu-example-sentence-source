@@ -1,5 +1,7 @@
 # panoply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panoply.md)
+
 <p><span class="chinese">他们因上帝的智慧而富足，以天上的甲胄为配备。</span><span class="english">They were enriched with the wisdom of God, and girded with the panoply of heaven.</span></p>
 
 <p><span class="chinese">石油也为积木提供了多种多样的塑料和泡沫。</span><span class="english">Petrochemicals also provide the building blocks for a vast panoply of plastics and foams.</span></p>

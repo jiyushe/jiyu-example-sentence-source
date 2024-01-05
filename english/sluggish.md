@@ -1,5 +1,7 @@
 # sluggish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sluggish.md)
+
 <p><span class="chinese">真是慢腾腾的一条河！</span><span class="english">What a sluggish stream!</span></p>
 
 <p><span class="chinese">副翼反应迟钝。</span><span class="english">Aileron response sluggish.</span></p>

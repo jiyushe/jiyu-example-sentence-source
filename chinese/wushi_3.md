@@ -1,5 +1,7 @@
 # 巫师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushi_3.md)
+
 <p><span class="chinese">巫师利用梦来诊断疾病。</span><span class="english">to diagnose illness.</span></p>
 
 <p><span class="chinese">每个巫师都能感觉到它。</span><span class="english">Every Wizard can feel it.</span></p>

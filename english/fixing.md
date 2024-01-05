@@ -1,5 +1,7 @@
 # fixing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fixing.md)
+
 <p><span class="chinese">我喜欢摆弄汽车。</span><span class="english">And I like fixing cars.</span></p>
 
 <p><span class="chinese">我准备去打猎。</span><span class="english">I'm fixing to go hunting.</span></p>

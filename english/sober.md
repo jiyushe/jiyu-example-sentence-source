@@ -1,5 +1,7 @@
 # sober
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sober.md)
+
 <p><span class="chinese">难道你清醒之时亦是结束之日?。</span><span class="english">Is it over when you're sober?</span></p>
 
 <p><span class="chinese">直到现在他九年都都没醉过。</span><span class="english">Jason now has nine years sober.</span></p>

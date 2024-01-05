@@ -1,5 +1,7 @@
 # ocd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ocd.md)
+
 <p><span class="chinese">你有强迫症?。</span><span class="english">You have ocd?</span></p>
 
 <p><span class="chinese">早发型和晚发型的OCD可能具有不同的发病机制。</span><span class="english">Early-onset and late-onset OCD may have different etiology.</span></p>

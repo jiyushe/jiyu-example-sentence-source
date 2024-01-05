@@ -1,5 +1,7 @@
 # offscreen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offscreen.md)
+
 <p><span class="chinese">你和你的搭档雪铃在银幕下如何相处？</span><span class="english">How did you get along with your costar, Snowbell the cat, offscreen?</span></p>
 
 <p><span class="chinese">他的电影里很多暴力镜头以及小人物间的对话都在镜头焦点以外的画面中。</span><span class="english">Much of the violence and minor character dialogue is offscreen in his films.</span></p>

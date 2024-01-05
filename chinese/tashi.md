@@ -1,5 +1,7 @@
 # 塌实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tashi.md)
+
 <p><span class="chinese">你确塌实的学问了不少！</span><span class="english">You are really learning a lot!</span></p>
 
 <p><span class="chinese">他体验了一阵不塌实的自豪感。</span><span class="english">He had a spasm of doubtful pride.</span></p>

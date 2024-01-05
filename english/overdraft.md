@@ -1,5 +1,7 @@
 # overdraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overdraft.md)
+
 <p><span class="chinese">这张支票的透支额是400元。</span><span class="english">The check can overdraft 400 yuan.</span></p>
 
 <p><span class="chinese">我有信用卡，但是我从来都不用透支的。</span><span class="english">I have a credit card, but I never overdraft.</span></p>

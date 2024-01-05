@@ -1,5 +1,7 @@
 # extrasolar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrasolar.md)
+
 <p><span class="chinese">它还能帮助寻找太阳系以外的行星。</span><span class="english">It will also help with the search for extrasolar planets.</span></p>
 
 <p><span class="chinese">1992年，科学家发现了第一颗太阳系之外的行星。</span><span class="english">Scientists first discovered an extrasolar planet in 1992.</span></p>

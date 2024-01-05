@@ -1,5 +1,7 @@
 # defiance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defiance.md)
+
 <p><span class="chinese">他们违抗命令还是去了。</span><span class="english">They went in defiance of the order.</span></p>
 
 <p><span class="chinese">我对我的姿态不佳毫无办法。</span><span class="english">Assumed a posture of angry defiance.</span></p>

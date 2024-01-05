@@ -1,5 +1,7 @@
 # giver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giver.md)
+
 <p><span class="chinese">因为神自己就是一个给予者。</span><span class="english">Because God is a giver.</span></p>
 
 <p><span class="chinese">记忆传承者看起来在思考。</span><span class="english">The Giver seemed to be thinking.</span></p>

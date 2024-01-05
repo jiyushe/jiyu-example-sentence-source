@@ -1,5 +1,7 @@
 # 咸鸭蛋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyadan.md)
+
 <p><span class="chinese">转回来，简单的早餐，白粥，咸鸭蛋。</span><span class="english">Turn back, simple breakfast, porridge, salted duck egg.</span></p>
 
 <p><span class="chinese">结果她跑了三家店，弄来了一盘咸鸭蛋。</span><span class="english">As a result she ran 3 inn, got a dish of salty duck's egg.</span></p>

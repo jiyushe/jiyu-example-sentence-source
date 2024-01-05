@@ -1,5 +1,7 @@
 # marimba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marimba.md)
+
 <p><span class="chinese">但是木琴却是如此让人着迷。</span><span class="english">But the marimba was so intriguing.</span></p>
 
 <p><span class="chinese">女王笑着看着小姑娘。</span><span class="english">Marimba smiled at the little girl.</span></p>

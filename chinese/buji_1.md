@@ -1,5 +1,7 @@
 # 不济
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buji_1.md)
+
 <p><span class="chinese">我眼力不济了。</span><span class="english">My eyesight is failing.</span></p>
 
 <p><span class="chinese">缓不济急。</span><span class="english">Slow action cannot save a critical situation.</span></p>

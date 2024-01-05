@@ -1,5 +1,7 @@
 # educated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/educated.md)
+
 <p><span class="chinese">我正在接受教育。</span><span class="english">I am being educated.</span></p>
 
 <p><span class="chinese">弟弟和我都是读过书、有教养的孩子。</span><span class="english">My brother and I are educated.</span></p>

@@ -1,5 +1,7 @@
 # chronical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chronical.md)
+
 <p><span class="chinese">哮喘是慢性病，而且非常常见。</span><span class="english">Asthma is chronical and very common.</span></p>
 
 <p><span class="chinese">长期的成见会误导你对这件事情做判断。</span><span class="english">Chronical prejudice will mislead you in making judgment on this event.</span></p>

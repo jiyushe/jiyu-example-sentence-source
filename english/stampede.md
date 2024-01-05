@@ -1,5 +1,7 @@
 # stampede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stampede.md)
+
 <p><span class="chinese">购买者闻讯蜂拥而至。</span><span class="english">Buyers who stampede in.</span></p>
 
 <p><span class="chinese">受到惊吓奔跑的食蚁兽？</span><span class="english">How about a stampede of aardvarks?</span></p>

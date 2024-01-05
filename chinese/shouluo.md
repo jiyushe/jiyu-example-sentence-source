@@ -1,5 +1,7 @@
 # 收罗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouluo.md)
+
 <p><span class="chinese">她在集市上收罗到许多便宜货。</span><span class="english">She hunted many bargains at the fair.</span></p>
 
 <p><span class="chinese">大范围的收罗改良倡议。</span><span class="english">Use broad range of sources for improvement ideas.</span></p>

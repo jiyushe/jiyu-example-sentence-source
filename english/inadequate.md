@@ -1,5 +1,7 @@
 # inadequate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inadequate.md)
+
 <p><span class="chinese">这显然是不够的。</span><span class="english">This is obviously inadequate.</span></p>
 
 <p><span class="chinese">它让我感觉自己的不足。</span><span class="english">It only makes me feel inadequate.</span></p>

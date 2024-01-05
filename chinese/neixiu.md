@@ -1,5 +1,7 @@
 # 内秀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neixiu.md)
+
 <p><span class="chinese">他是个外粗内秀的人。</span><span class="english">He is rough diamond.</span></p>
 
 <p><span class="chinese">我坚信他是一个外粗内秀的人。</span><span class="english">I am sure he is a diamond in the rough.</span></p>

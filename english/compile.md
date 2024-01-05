@@ -1,5 +1,7 @@
 # compile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compile.md)
+
 <p><span class="chinese">您只须编译它。</span><span class="english">You only have to compile it.</span></p>
 
 <p><span class="chinese">编译这个类并运行它。</span><span class="english">Compile this class and run it.</span></p>

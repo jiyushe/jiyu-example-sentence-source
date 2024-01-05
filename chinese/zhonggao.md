@@ -1,5 +1,7 @@
 # 忠告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonggao.md)
+
 <p><span class="chinese">他的忠告是主动提出的。</span><span class="english">His advice was unasked for.</span></p>
 
 <p><span class="chinese">我需要你的忠告和支持。</span><span class="english">I need your advice and support.</span></p>

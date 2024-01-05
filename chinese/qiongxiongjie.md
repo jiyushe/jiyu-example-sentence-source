@@ -1,5 +1,7 @@
 # 穷凶极恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongxiongjie.md)
+
 <p><span class="chinese">他是一个穷凶极恶的杀人犯。</span><span class="english">He is a nefarious murderer.</span></p>
 
 <p><span class="chinese">看到这穷凶极恶的狂暴，我愤怒地冲到他跟前。</span><span class="english">At this diabolical violence I rushed on him furiously.</span></p>

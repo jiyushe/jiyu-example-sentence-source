@@ -1,5 +1,7 @@
 # peroral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peroral.md)
+
 <p><span class="chinese">目的总结经口胆道子母镜的临床应用价值。</span><span class="english">Objective The clinical value of peroral biliary mother babyscope was verified.</span></p>
 
 <p><span class="chinese">药物经皮吸收与口服在抗小鼠惊厥方面无明显差异。</span><span class="english">There is no significant difference in inhibition between transdermal therapy and peroral therapy groups.</span></p>

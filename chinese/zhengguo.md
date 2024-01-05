@@ -1,5 +1,7 @@
 # 正果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengguo.md)
+
 <p><span class="chinese">花好月圆得正果，美满姻缘一线牵。</span><span class="english">Flowers and fruit, a happy marriage on a string.</span></p>
 
 <p><span class="chinese">那是她孜孜以求的正果。</span><span class="english">It was her diligently strive after the attainment of.</span></p>

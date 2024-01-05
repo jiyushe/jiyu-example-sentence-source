@@ -1,5 +1,7 @@
 # ulan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ulan.md)
+
 <p><span class="chinese">他们当中有很多人觉得乌兰乌德对亚洲人很友好。</span><span class="english">Many say they find Ulan Ude to be Asian-friendly.</span></p>
 
 <p><span class="chinese">有些甚至是从海参崴、哈尔滨、乌兰巴托过去的。</span><span class="english">Even Old Bolshies from Vladivostok and Harbin and Ulan Bator.</span></p>

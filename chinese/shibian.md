@@ -1,5 +1,7 @@
 # 事变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibian.md)
+
 <p><span class="chinese">我已竣事那项事变了。</span><span class="english">Im done with the work.</span></p>
 
 <p><span class="chinese">哦，是啊，没有甚么不顺心的事变发生在我身上。</span><span class="english">Oh, yes, not a thing to go against me.</span></p>

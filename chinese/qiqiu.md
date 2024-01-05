@@ -1,5 +1,7 @@
 # 乞求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqiu.md)
+
 <p><span class="chinese">给我吧，他乞求道。</span><span class="english">Give it to me, he begged.</span></p>
 
 <p><span class="chinese">我们现在鞠躬并且乞求你！</span><span class="english">We now bow and beseech you!</span></p>

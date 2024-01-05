@@ -1,5 +1,7 @@
 # leery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leery.md)
+
 <p><span class="chinese">在未来几年借贷方将会对高风险的投资更加机敏。</span><span class="english">Lenders will be leery of high risk investments for the next couple of years.</span></p>
 
 <p><span class="chinese">霍姆斯对这个善变又死缠烂打的女人保持了警惕，并只同意电话交流。</span><span class="english">Leery of this unstable, clingy woman, Ms Homes agrees to speak only on the telephone.</span></p>

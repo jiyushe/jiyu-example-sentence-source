@@ -1,5 +1,7 @@
 # faulty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faulty.md)
+
 <p><span class="chinese">这个速度计有毛病。</span><span class="english">The speedometer is faulty.</span></p>
 
 <p><span class="chinese">眼镜可以矫正视力缺陷。</span><span class="english">Spectacles correct faulty eyesight.</span></p>

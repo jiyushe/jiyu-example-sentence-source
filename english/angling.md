@@ -1,5 +1,7 @@
 # angling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angling.md)
+
 <p><span class="chinese">钓鱼饲他的主耀爱好。</span><span class="english">Angling his main hobby.</span></p>
 
 <p><span class="chinese">大牛，你怎么也钓上鱼了啊？</span><span class="english">Daniel, why are you also angling here?</span></p>

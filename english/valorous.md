@@ -1,5 +1,7 @@
 # valorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valorous.md)
+
 <p><span class="chinese">勇武如赫克托，他从不知危险是何物。</span><span class="english">Valorous as a Hector, he knows no danger.</span></p>
 
 <p><span class="chinese">战士们在这场战争中表现非常勇敢。</span><span class="english">The warriors were very valorous in the battle.</span></p>

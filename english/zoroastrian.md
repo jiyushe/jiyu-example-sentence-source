@@ -1,5 +1,7 @@
 # zoroastrian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoroastrian.md)
+
 <p><span class="chinese">依照琐罗亚斯德教学者Dr。</span><span class="english">According to Zoroastrian scholar Dr.</span></p>
 
 <p><span class="chinese">大流士一世当政时，琐罗亚斯德教定为国教。</span><span class="english">Darius I, when in power, Zoroastrian as the state religion.</span></p>

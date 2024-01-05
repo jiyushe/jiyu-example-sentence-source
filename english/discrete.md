@@ -1,5 +1,7 @@
 # discrete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discrete.md)
+
 <p><span class="chinese">不，它们是离散的，离散的。</span><span class="english">No, they are discrete. They are discrete.</span></p>
 
 <p><span class="chinese">其次，这是一些离散型数据。</span><span class="english">Secondly, that those values are discrete.</span></p>

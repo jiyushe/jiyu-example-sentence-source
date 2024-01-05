@@ -1,5 +1,7 @@
 # 奏乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouyue.md)
+
 <p><span class="chinese">让我们奏乐。</span><span class="english">Let's play music.</span></p>
 
 <p><span class="chinese">他们奏乐送走旧岁。</span><span class="english">They played the Old Year out.</span></p>

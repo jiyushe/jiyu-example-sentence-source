@@ -1,5 +1,7 @@
 # firemen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firemen.md)
+
 <p><span class="chinese">即刻！两名消防员搭起了一张网。</span><span class="english">Hurry! Two firemen set up a net.</span></p>
 
 <p><span class="chinese">消防队员和警察都佩戴证章。</span><span class="english">Firemen and policemen wear badges.</span></p>

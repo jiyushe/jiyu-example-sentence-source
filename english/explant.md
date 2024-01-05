@@ -1,5 +1,7 @@
 # explant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explant.md)
+
 <p><span class="chinese">激素与外植体有互作效应。</span><span class="english">Hormone and explant have made effects on each other.</span></p>
 
 <p><span class="chinese">茎外植体采样以春梢为好。</span><span class="english">Spring shoot was the best sample of stem as explant.</span></p>

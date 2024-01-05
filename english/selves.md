@@ -1,5 +1,7 @@
 # selves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selves.md)
+
 <p><span class="chinese">我们已经忘记去爱自己。</span><span class="english">We have forgotten to love our selves.</span></p>
 
 <p><span class="chinese">丹妮斯和马丁他们自己付的钱。</span><span class="english">Denise and Martin paid for it them' selves.</span></p>

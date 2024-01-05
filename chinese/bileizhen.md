@@ -1,5 +1,7 @@
 # 避雷针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bileizhen.md)
+
 <p><span class="chinese">它是骶髂疼痛的避雷针。</span><span class="english">This can be a lightening rod for sacroiliac pain.</span></p>
 
 <p><span class="chinese">走楼梯上来嘛，‘只当是’爬避雷针上来的。</span><span class="english">Come up the stairs, and let on it's a lightning-rod.</span></p>

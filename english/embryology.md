@@ -1,5 +1,7 @@
 # embryology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embryology.md)
+
 <p><span class="chinese">星果草的形态学及胚胎学研究。</span><span class="english">Contribution to the morphology and embryology of Asteropyrum peltatum.</span></p>
 
 <p><span class="chinese">它们中的其中一些是属于生理学、病源学和胚胎学的知识。</span><span class="english">Some of them are in the fields of physiology, etiology and embryology.</span></p>

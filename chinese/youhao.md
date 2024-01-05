@@ -1,5 +1,7 @@
 # 友好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youhao.md)
+
 <p><span class="chinese">一种“对男士友好”的啤酒？</span><span class="english">A 'a guy-friendly wine'?</span></p>
 
 <p><span class="chinese">这人友好地笑了笑。</span><span class="english">The man smiled friendly.</span></p>

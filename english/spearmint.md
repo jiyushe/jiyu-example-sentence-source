@@ -1,5 +1,7 @@
 # spearmint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spearmint.md)
+
 <p><span class="chinese">绿薄荷通常用来做薄荷调味汁或者果冻。</span><span class="english">Spearmint is generally used to make mint sauce or jelly.</span></p>
 
 <p><span class="chinese">你将会收到一个葛缕子油或绿薄荷油样品。</span><span class="english">You will be given a sample of either caraway oil or spearmint oil.</span></p>

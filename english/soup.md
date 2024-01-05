@@ -1,5 +1,7 @@
 # soup 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soup.md)
+
 <p><span class="chinese">羊肉汤。</span><span class="english">Mutton soup.</span></p>
 
 <p><span class="chinese">我要汤。</span><span class="english">I'd like soup.</span></p>

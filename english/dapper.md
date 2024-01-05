@@ -1,5 +1,7 @@
 # dapper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dapper.md)
+
 <p><span class="chinese">所有的帽子都可以让男人的脸看起来很小巧。</span><span class="english">All hats make a man look more dapper.</span></p>
 
 <p><span class="chinese">这里图示了一些网络应用像Dapper和Teqlo的作用。</span><span class="english">Here is an illustration of the net effect of apps like Dapper and Teqlo</span></p>

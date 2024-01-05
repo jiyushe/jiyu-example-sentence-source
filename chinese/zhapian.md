@@ -1,5 +1,7 @@
 # 诈骗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhapian.md)
+
 <p><span class="chinese">谋杀和诈骗是犯罪的行为。</span><span class="english">Murder and grift are crimes.</span></p>
 
 <p><span class="chinese">谋杀和诈骗是犯罪的行为。</span><span class="english">Murder and swindling are crimes.</span></p>

@@ -1,5 +1,7 @@
 # 人浮于事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renfuyushi.md)
+
 <p><span class="chinese">人浮于事已成为改革的绊脚石。</span><span class="english">Overstaffing has become the obstacle for reforms.</span></p>
 
 <p><span class="chinese">这显然是人浮于事、浪费物力以及效率低下。</span><span class="english">It's clear redundancy wastefulness and inefficiency.</span></p>

@@ -1,5 +1,7 @@
 # peregrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peregrine.md)
+
 <p><span class="chinese">游隼和橡实啄木鸟。</span><span class="english">Peregrine Falcon, and Acorn Woodpecker.</span></p>
 
 <p><span class="chinese">我了解到，游隼夫妇一般都是相守多年的。</span><span class="english">I knew peregrine pairs stay together for many years.</span></p>

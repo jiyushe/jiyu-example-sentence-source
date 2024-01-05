@@ -1,5 +1,7 @@
 # lyon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyon.md)
+
 <p><span class="chinese">贝特加在里昂？</span><span class="english">Bettega in Lyon?</span></p>
 
 <p><span class="chinese">肯扬在里昂谈判。</span><span class="english">Kenyon is in Lyon negotiating.</span></p>

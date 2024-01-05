@@ -1,5 +1,7 @@
 # 补白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bubai.md)
+
 <p><span class="chinese">只是一篇补白，仅此而已。</span><span class="english">It's all just filler , really.</span></p>
 
 <p><span class="chinese">第二，具体补白，无中生有。</span><span class="english">Second, specific padding out of nothing.</span></p>

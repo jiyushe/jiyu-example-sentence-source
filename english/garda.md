@@ -1,5 +1,7 @@
 # garda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garda.md)
+
 <p><span class="chinese">最后再欣赏下嘎达湖的美景吧！</span><span class="english">A last view down on lake Garda.</span></p>
 
 <p><span class="chinese">阿布加尔达否认了对他的所有指控。</span><span class="english">Abu Garda had denied all the charges against him.</span></p>

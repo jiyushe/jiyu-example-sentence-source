@@ -1,5 +1,7 @@
 # 赤脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chijiao.md)
+
 <p><span class="chinese">人们几乎不穿鞋，赤脚行走。</span><span class="english">Most people didn t wear shoes.</span></p>
 
 <p><span class="chinese">参与者是赤脚的。</span><span class="english">The participants were barefoot.</span></p>

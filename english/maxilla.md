@@ -1,5 +1,7 @@
 # maxilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maxilla.md)
+
 <p><span class="chinese">下颌骨对上颌骨乃至颅骨的位置关系。</span><span class="english">The position relation between mandible and maxilla or cranioaural.</span></p>
 
 <p><span class="chinese">上颌关节被称为上颌骨，与颞骨连接。</span><span class="english">The upper jaw is called the maxilla and is joined to the temporal bone.</span></p>

@@ -1,5 +1,7 @@
 # 千里眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianliyan.md)
+
 <p><span class="chinese">未知的千里眼。请报告此错误！</span><span class="english">Unknown pounce event. Please report this!</span></p>
 
 <p><span class="chinese">互联网最新动态新闻，站长的千里眼和顺风耳。</span><span class="english">Latest internet news, webmaster of the eyes and ears.</span></p>

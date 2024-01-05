@@ -1,5 +1,7 @@
 # counterflow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterflow.md)
+
 <p><span class="chinese">这种分配并不与逆向流动假说相矛盾。</span><span class="english">This distribution is not inconsistent with the counterflow hypothesis.</span></p>
 
 <p><span class="chinese">烟道气以高速率逆向流向下方的油母页岩。</span><span class="english">The stack gas flows at high velocity in counterflow to the oil shale moving downward.</span></p>

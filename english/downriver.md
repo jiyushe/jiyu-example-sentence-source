@@ -1,5 +1,7 @@
 # downriver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downriver.md)
+
 <p><span class="chinese">以便对下游的影响达到最小。</span><span class="english">So it is least that influence upon downriver.</span></p>
 
 <p><span class="chinese">中西部的洪水威胁现在正向下游移动。</span><span class="english">Flood fears in the Midwest are now moving downriver.</span></p>

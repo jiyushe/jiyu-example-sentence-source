@@ -1,5 +1,7 @@
 # 密密麻麻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mimimama.md)
+
 <p><span class="chinese">印得密密麻麻的书阅读起来很困难。</span><span class="english">Books with dense print can be difficult to read.</span></p>
 
 <p><span class="chinese">在弥留之际，他艰难地梳理密密麻麻的往事。</span><span class="english">So, painstakingly, he combed the thatch of the past.</span></p>

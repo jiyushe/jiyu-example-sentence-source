@@ -1,5 +1,7 @@
 # 重阳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongyang_1.md)
+
 <p><span class="chinese">眼看菊蕊重阳泪。</span><span class="english">Seeing the petals Chongyang tears.</span></p>
 
 <p><span class="chinese">待到重阳日，还来就菊花。</span><span class="english">I'll come for your chrysanthemums again.</span></p>

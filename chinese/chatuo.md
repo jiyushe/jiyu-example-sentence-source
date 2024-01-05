@@ -1,5 +1,7 @@
 # 茶托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chatuo.md)
+
 <p><span class="chinese">这是一副茶杯与茶托。</span><span class="english">This is a cup and saucer.</span></p>
 
 <p><span class="chinese">我的茶杯和茶托在哪儿呢?。</span><span class="english">Where's my cup and saucer?</span></p>

@@ -1,5 +1,7 @@
 # 急不可待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jibukedai.md)
+
 <p><span class="chinese">他急不可待地要把消息告诉你。</span><span class="english">He is bursting to tell you the news.</span></p>
 
 <p><span class="chinese">我急不可待地要见到新彗星的出现。</span><span class="english">I can hardly wait to see the new comet.</span></p>

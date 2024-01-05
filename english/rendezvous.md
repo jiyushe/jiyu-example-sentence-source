@@ -1,5 +1,7 @@
 # rendezvous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rendezvous.md)
+
 <p><span class="chinese">楼台落雨，石板生烟。</span><span class="english">Rendezvous rain, smoke stone.</span></p>
 
 <p><span class="chinese">山映楼台明月溪。</span><span class="english">Moon River Mountain Rendezvous map.</span></p>

@@ -1,5 +1,7 @@
 # 阁下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gexia.md)
+
 <p><span class="chinese">并祝阁下居停愉快！</span><span class="english">Wish you a happy stay!</span></p>
 
 <p><span class="chinese">阁下，你是干哪一行的？</span><span class="english">What line is yours,Mr.?</span></p>

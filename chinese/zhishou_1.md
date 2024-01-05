@@ -1,5 +1,7 @@
 # 职守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishou_1.md)
+
 <p><span class="chinese">关键信息的擅离职守。</span><span class="english">Key information is AWOL.</span></p>
 
 <p><span class="chinese">这个警卫擅离职守。</span><span class="english">The guard deserted his post.</span></p>

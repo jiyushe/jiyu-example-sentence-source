@@ -1,5 +1,7 @@
 # turbofan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turbofan.md)
+
 <p><span class="chinese">电力将提供一个单一的涡扇发动机。</span><span class="english">Power will be provided by a single turbofan engine.</span></p>
 
 <p><span class="chinese">本论文建立了一个新的涡扇发动机起动过程模拟的模型。</span><span class="english">This paper build up a new model of turbofan engine's starting process.</span></p>

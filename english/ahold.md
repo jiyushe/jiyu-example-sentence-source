@@ -1,5 +1,7 @@
 # ahold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ahold.md)
+
 <p><span class="chinese">对不起，今天学校事情比较多。</span><span class="english">Sorry, school got ahold of me today.</span></p>
 
 <p><span class="chinese">我如何得到我的阿霍德信用报告？</span><span class="english">How do I get ahold of my credit report?</span></p>

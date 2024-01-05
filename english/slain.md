@@ -1,5 +1,7 @@
 # slain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slain.md)
+
 <p><span class="chinese">秋霜把七月取代。</span><span class="english">Autumn frosts have slain July.</span></p>
 
 <p><span class="chinese">曾被杀的羔羊，是配得权柄</span><span class="english">Worthy is the lamb that was slain.</span></p>

@@ -1,5 +1,7 @@
 # 伏安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuan.md)
+
 <p><span class="chinese">伏安计是用于测量电压和安培数的仪器。</span><span class="english">A voltammeter is a device for measuring voltage or amperage.</span></p>
 
 <p><span class="chinese">结果表明，在直流伏安特性曲线上出现了相锁定台阶。</span><span class="english">Results show that the phase locking steps occur in the IV-curves.</span></p>

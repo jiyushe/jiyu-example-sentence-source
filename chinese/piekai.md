@@ -1,5 +1,7 @@
 # 撇开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piekai.md)
+
 <p><span class="chinese">这个问题先撇开不谈。</span><span class="english">Put aside this question for a moment.</span></p>
 
 <p><span class="chinese">但话说回来，撇开这些细节不谈。</span><span class="english">But again, just put those details aside.</span></p>

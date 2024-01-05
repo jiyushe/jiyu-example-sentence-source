@@ -1,5 +1,7 @@
 # 鸡皮疙瘩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jipigeda.md)
+
 <p><span class="chinese">我只是感觉起鸡皮疙瘩。</span><span class="english">I'm just feeling goosebumps.</span></p>
 
 <p><span class="chinese">从我的脚趾开始起鸡皮疙瘩。</span><span class="english">Goosebumps from my toes on up.</span></p>

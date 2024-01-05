@@ -1,5 +1,7 @@
 # reproduce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reproduce.md)
+
 <p><span class="chinese">你能复制这个扳手吗？</span><span class="english">Could you reproduce the wrench?</span></p>
 
 <p><span class="chinese">多数植物靠种子繁殖。</span><span class="english">Most plants reproduce by seeds.</span></p>

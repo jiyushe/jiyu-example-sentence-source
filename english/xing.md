@@ -1,5 +1,7 @@
 # xing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xing.md)
+
 <p><span class="chinese">早上好，黄星。</span><span class="english">Good morning, Huang Xing.</span></p>
 
 <p><span class="chinese">我的名字是邢晓庆。</span><span class="english">My name is Xing Xiaoqing.</span></p>

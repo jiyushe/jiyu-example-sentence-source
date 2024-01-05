@@ -1,5 +1,7 @@
 # scuff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scuff.md)
+
 <p><span class="chinese">从层磨损的痕迹。</span><span class="english">Scuff marks from floors.</span></p>
 
 <p><span class="chinese">到处都是磨损的痕迹！</span><span class="english">There are scuff marks all over it!</span></p>

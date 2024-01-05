@@ -1,5 +1,7 @@
 # helmet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helmet.md)
+
 <p><span class="chinese">戴上你的岩盔。</span><span class="english">Wear a helmet.</span></p>
 
 <p><span class="chinese">请戴好安全头盔。</span><span class="english">Please wear the helmet.</span></p>

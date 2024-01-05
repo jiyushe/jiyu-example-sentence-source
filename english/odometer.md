@@ -1,5 +1,7 @@
 # odometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odometer.md)
+
 <p><span class="chinese">你的里程表是什么里数的？</span><span class="english">What's the mileage on your odometer?</span></p>
 
 <p><span class="chinese">每部车均有里程显示器。</span><span class="english">In each taxi there must be an odometer.</span></p>

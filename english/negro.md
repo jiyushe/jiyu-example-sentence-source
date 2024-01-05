@@ -1,5 +1,7 @@
 # negro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negro.md)
+
 <p><span class="chinese">鲍兹·尼格罗一直没有重新修建他的房屋。</span><span class="english">Boaz Negro did not rebuild his house.</span></p>
 
 <p><span class="chinese">他说，他反对黑人拥有公民权利。</span><span class="english">He said he opposed Negro citizenship.</span></p>

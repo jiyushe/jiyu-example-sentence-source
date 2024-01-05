@@ -1,5 +1,7 @@
 # 心中有数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzhongyoushu.md)
+
 <p><span class="chinese">那我们会心中有数，知道你们需要什么了。</span><span class="english">Then wed have some idea of what youll be needing.</span></p>
 
 <p><span class="chinese">有关于文章中研究对象的关键词，可能你在事先已做到心中有数了。</span><span class="english">You're probably already aware of the key words in the subject you're  studying.</span></p>

@@ -1,5 +1,7 @@
 # 柔术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roushu.md)
+
 <p><span class="chinese">柔美的肩上芭蕾、柔术！</span><span class="english">Soft shoulder ballet, Jiujitsu!</span></p>
 
 <p><span class="chinese">而且瑜珈和柔术是很相似的。</span><span class="english">Also yoga is very similar to contortion.</span></p>

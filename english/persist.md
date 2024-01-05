@@ -1,5 +1,7 @@
 # persist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persist.md)
+
 <p><span class="chinese">但是你必须坚持。</span><span class="english">But you must persist.</span></p>
 
 <p><span class="chinese">当别人放弃时，妳坚持。</span><span class="english">Persist while others are quiting.</span></p>

@@ -1,5 +1,7 @@
 # 头颅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toulu.md)
+
 <p><span class="chinese">“别砍下我的头颅！”</span><span class="english">"Don't cut off my head!</span></p>
 
 <p><span class="chinese">我总能打到敌人的头颅。</span><span class="english">I always shoot to the head.</span></p>

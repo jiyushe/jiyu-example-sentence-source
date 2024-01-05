@@ -1,5 +1,7 @@
 # harvard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harvard.md)
+
 <p><span class="chinese">他在哈佛大学获得博士学位。</span><span class="english">He was doctored at Harvard.</span></p>
 
 <p><span class="chinese">哈佛学生守则。</span><span class="english">the Harvard student handbook.</span></p>

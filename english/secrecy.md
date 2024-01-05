@@ -1,5 +1,7 @@
 # secrecy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secrecy.md)
+
 <p><span class="chinese">可是为什么要这样秘密？</span><span class="english">But why all this secrecy?</span></p>
 
 <p><span class="chinese">他誓守秘密。</span><span class="english">He was pledged to secrecy.</span></p>

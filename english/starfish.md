@@ -1,5 +1,7 @@
 # starfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starfish.md)
+
 <p><span class="chinese">布陆毙正战海星一起玩。</span><span class="english">Pluto is playing with a starfish.</span></p>
 
 <p><span class="chinese">还记得蒙蒂歌弯的海星吗？</span><span class="english">Remember the starfish in Montego Bay?</span></p>

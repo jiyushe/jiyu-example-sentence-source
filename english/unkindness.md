@@ -1,5 +1,7 @@
 # unkindness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unkindness.md)
+
 <p><span class="chinese">粗暴毁爱情。</span><span class="english">Unkindness destroys love.</span></p>
 
 <p><span class="chinese">我决定宽恕他的刻薄。</span><span class="english">I decided to overlook his unkindness.</span></p>

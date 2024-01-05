@@ -1,5 +1,7 @@
 # doorsill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doorsill.md)
+
 <p><span class="chinese">我的脚趾碰到门槛上。</span><span class="english">I stumped my toe against the doorsill.</span></p>
 
 <p><span class="chinese">服装行业似乎没有什么门槛。</span><span class="english">It seems there is no doorsill in the clothing sector.</span></p>

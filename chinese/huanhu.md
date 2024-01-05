@@ -1,5 +1,7 @@
 # 欢呼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanhu.md)
+
 <p><span class="chinese">我喜欢欢呼。</span><span class="english">I like to cheer.</span></p>
 
 <p><span class="chinese">要为北京欢呼吗？</span><span class="english">Hurray for Beijing?</span></p>

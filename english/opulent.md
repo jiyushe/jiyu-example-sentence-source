@@ -1,5 +1,7 @@
 # opulent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opulent.md)
+
 <p><span class="chinese">辛迪和布鲁克都成长在富裕的环境。</span><span class="english">Both Cindy and Brook live in opulent circumstances.</span></p>
 
 <p><span class="chinese">她被描绘成住在一座豪华宫殿的房间中。</span><span class="english">She is depicted in a room within an opulent palace.</span></p>

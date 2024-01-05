@@ -1,5 +1,7 @@
 # pastern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pastern.md)
+
 <p><span class="chinese">结实，且几乎垂直的胶骨。</span><span class="english">Strong, nearly straight pastern.</span></p>
 
 <p><span class="chinese">足爪在骹骨之下属于严重缺陷。</span><span class="english">Feet down at the pastern are a serious fault.</span></p>

@@ -1,5 +1,7 @@
 # deborah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deborah.md)
+
 <p><span class="chinese">于是神差遣底波拉去引领他们。</span><span class="english">So God sent Deborah to lead them.</span></p>
 
 <p><span class="chinese">我是戴柏拉·汤普森。请问有什么事吗？</span><span class="english">This is Deborah Thompson. Can I help you?</span></p>

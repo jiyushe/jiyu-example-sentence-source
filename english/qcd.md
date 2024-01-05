@@ -1,5 +1,7 @@
 # qcd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qcd.md)
+
 <p><span class="chinese">发现用QCD求和规则不能解决问题。</span><span class="english">The QCD sum rule cannot solve the problem.</span></p>
 
 <p><span class="chinese">QCD的一个基本性质就是手征对称性及其自发破缺。</span><span class="english">One basic feature in QCD is chiral symmetry and its spontaneousbreaking.</span></p>

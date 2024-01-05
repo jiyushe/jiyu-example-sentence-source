@@ -1,5 +1,7 @@
 # detailed 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detailed.md)
+
 <p><span class="chinese">这个计划非常详细。</span><span class="english">That was very detailed.</span></p>
 
 <p><span class="chinese">她向我详述了她的计划。</span><span class="english">She detailed her plans to me.</span></p>

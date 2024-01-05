@@ -1,5 +1,7 @@
 # credo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/credo.md)
+
 <p><span class="chinese">这是柏朗亚高永远的信条。</span><span class="english">This is "PAL ONGACO" credo forever.</span></p>
 
 <p><span class="chinese">在办公室中一个非正式的信条是“W.</span><span class="english">An unofficial credo around the office is “W.</span></p>

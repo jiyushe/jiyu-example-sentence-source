@@ -1,5 +1,7 @@
 # 大有裨益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayoubiyi.md)
+
 <p><span class="chinese">笑声对你的身体和灵魂都大有裨益。</span><span class="english">Laughter is great for you – body and soul.</span></p>
 
 <p><span class="chinese">这种推荐对望大有裨益。</span><span class="english">Such recommendations will weigh in his favour.</span></p>

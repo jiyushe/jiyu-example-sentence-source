@@ -1,5 +1,7 @@
 # 挑动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaodong.md)
+
 <p><span class="chinese">谁挑动他们干的?</span><span class="english">Who tarred them on?</span></p>
 
 <p><span class="chinese">挑动着呆钝的根。</span><span class="english">Dull roots with spring rain.</span></p>

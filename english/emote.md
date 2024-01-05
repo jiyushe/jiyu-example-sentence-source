@@ -1,5 +1,7 @@
 # emote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emote.md)
+
 <p><span class="chinese">舞蹈动作招来了一场大笑。</span><span class="english">The dance emote got a ton of laughs.</span></p>
 
 <p><span class="chinese">的表情在远程触发轮。</span><span class="english">The emotes are triggered over the emote wheel.</span></p>

@@ -1,5 +1,7 @@
 # 千米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianmi.md)
+
 <p><span class="chinese">古旧家具的长街，连起来有几千米。</span><span class="english">The long street stretches a few thousand meters.</span></p>
 
 <p><span class="chinese">陵区面积约40平方千米。</span><span class="english">Covering an area of approximately 40 square meters.</span></p>

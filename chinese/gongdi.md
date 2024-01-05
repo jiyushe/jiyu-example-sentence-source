@@ -1,5 +1,7 @@
 # 公敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongdi.md)
+
 <p><span class="chinese">我也许会成为头号公敌。</span><span class="english">I probably would have been public enemy No. 1.</span></p>
 
 <p><span class="chinese">我感觉自己像是一个全民公敌。</span><span class="english">"I feel like I am an enemy of the state, " Guo said.</span></p>

@@ -1,5 +1,7 @@
 # 住宿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhusu.md)
+
 <p><span class="chinese">他今晚可以在这里住宿。</span><span class="english">He can put up here for the night.</span></p>
 
 <p><span class="chinese">廉价和豪华住宿CDG的。</span><span class="english">CDG, lodging, cheap and luxurious.</span></p>

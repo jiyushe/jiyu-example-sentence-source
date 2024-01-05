@@ -1,5 +1,7 @@
 # 下坠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazhui.md)
+
 <p><span class="chinese">我们知道他们正在下坠。</span><span class="english">We know they're coming down.</span></p>
 
 <p><span class="chinese">地球下坠要多久呢？</span><span class="english">How long will the earth fall?</span></p>

@@ -1,5 +1,7 @@
 # terminative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terminative.md)
+
 <p><span class="chinese">正式终结了“黄光裕时代”，开启了“陈晓时代”。</span><span class="english">HK formal and terminative " Huang Guangyu times ", open " Chen Xiao times ".</span></p>
 
 <p><span class="chinese">绝命终结站会发生在我身上吗？怎样才能不害怕？</span><span class="english">Absolutely can terminative station produce the lot on my body? How can ability fear?</span></p>

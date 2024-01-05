@@ -1,5 +1,7 @@
 # clapper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clapper.md)
+
 <p><span class="chinese">如果没有损坏，则轻轻地关闭阀瓣。</span><span class="english">If not damaged gently close the clapper.</span></p>
 
 <p><span class="chinese">对口快板儿是快板的一种形式，由两个人共同表演。</span><span class="english">Clapper talk between two people is one type of clapper talk.</span></p>

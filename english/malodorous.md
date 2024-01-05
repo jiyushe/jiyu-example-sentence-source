@@ -1,5 +1,7 @@
 # malodorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malodorous.md)
+
 <p><span class="chinese">不过首先除去冰箱里面所有散发恶臭的变质食品。</span><span class="english">Make sure to toss out any malodorous items that might be causing the bad smell.</span></p>
 
 <p><span class="chinese">游客到长沙可以吃到臭豆腐，以及其他小吃。</span><span class="english">Visitors to Changsha would be to have malodorous ' beancurd and other snack foods.</span></p>

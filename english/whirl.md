@@ -1,5 +1,7 @@
 # whirl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whirl.md)
+
 <p><span class="chinese">别在屋里抡绳子。</span><span class="english">Don't whirl the rope in the room.</span></p>
 
 <p><span class="chinese">旋转的火花窜出烟囱。</span><span class="english">A whirl of sparkles leaped up the flue.</span></p>

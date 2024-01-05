@@ -1,5 +1,7 @@
 # sofia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sofia.md)
+
 <p><span class="chinese">索菲亚在漫长的一天工作后回到了家中。</span><span class="english">Sofia comes home after a long day of work.</span></p>
 
 <p><span class="chinese">普列文保加利亚北部一城市，位于索菲亚东北。</span><span class="english">A city of northern Bulgaria northeast of Sofia.</span></p>

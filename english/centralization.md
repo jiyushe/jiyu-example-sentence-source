@@ -1,5 +1,7 @@
 # centralization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centralization.md)
+
 <p><span class="chinese">集中化。</span><span class="english">Centralization.</span></p>
 
 <p><span class="chinese">科技，火药，再次的中央集权化。</span><span class="english">Technology, gunpowder, centralization of power again.</span></p>

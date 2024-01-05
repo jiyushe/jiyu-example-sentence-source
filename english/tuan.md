@@ -1,5 +1,7 @@
 # tuan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuan.md)
+
 <p><span class="chinese">就在抱成团的那一刻。</span><span class="english">On is hugging Cheng Tuan that moment.</span></p>
 
 <p><span class="chinese">义和团、红卫兵早已成为历史。</span><span class="english">Yi He Tuan and the Red Guards have long become past history.</span></p>

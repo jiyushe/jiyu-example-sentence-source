@@ -1,5 +1,7 @@
 # 所属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoshu.md)
+
 <p><span class="chinese">无锡所属地区是哪里？</span><span class="english">What area does Wuxi belong to?</span></p>
 
 <p><span class="chinese">是否知道您所属各区的国会议员是谁?。</span><span class="english">Do you know who is your M. P. ?</span></p>

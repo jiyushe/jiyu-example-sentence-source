@@ -1,5 +1,7 @@
 # 大发雷霆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dafaleiting.md)
+
 <p><span class="chinese">起初，他也许会大发雷霆，心烦意乱。</span><span class="english">He may be angry and upset at first.</span></p>
 
 <p><span class="chinese">我爸妈会对我大发雷霆的。</span><span class="english">Mom and dad are going to be very mad at me.</span></p>

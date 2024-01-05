@@ -1,5 +1,7 @@
 # entertaining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entertaining.md)
+
 <p><span class="chinese">本人觉这本书很有趣。</span><span class="english">I find the book entertaining.</span></p>
 
 <p><span class="chinese">现在你还是乐在疑惑之中么？</span><span class="english">Are you entertaining doubts today?</span></p>

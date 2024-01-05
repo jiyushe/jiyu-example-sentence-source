@@ -1,5 +1,7 @@
 # noumenon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noumenon.md)
+
 <p><span class="chinese">这是从原则的角度或本体。</span><span class="english">This is from the viewpoint of principle or noumenon.</span></p>
 
 <p><span class="chinese">这是在本体论层面对历史规律存在的肯定。</span><span class="english">This is the noumenon affirmation of the historical law.</span></p>

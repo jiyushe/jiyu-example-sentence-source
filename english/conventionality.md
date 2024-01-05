@@ -1,5 +1,7 @@
 # conventionality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conventionality.md)
+
 <p><span class="chinese">他们非常鄙视因袭。</span><span class="english">They have a great contempt for conventionality.</span></p>
 
 <p><span class="chinese">而我只是一个喜欢打破常规的女孩。</span><span class="english">I am just a special girl, and break this conventionality.</span></p>

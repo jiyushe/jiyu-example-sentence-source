@@ -1,5 +1,7 @@
 # eosinophilic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eosinophilic.md)
+
 <p><span class="chinese">诊断为嗜酸细胞性脂膜炎。</span><span class="english">The diagnosis was made as eosinophilic panniculitis.</span></p>
 
 <p><span class="chinese">细胞内外见红染的包涵体。</span><span class="english">Eosinophilic inclusions were showed in or out the cells.</span></p>

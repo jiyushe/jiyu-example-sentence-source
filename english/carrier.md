@@ -1,5 +1,7 @@
 # carrier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carrier.md)
+
 <p><span class="chinese">视频载波?。</span><span class="english">VFC? Video Frequency Carrier?</span></p>
 
 <p><span class="chinese">音频载波?。</span><span class="english">VFC? Voice Frequency Carrier?</span></p>

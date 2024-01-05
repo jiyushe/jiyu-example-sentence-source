@@ -1,5 +1,7 @@
 # abstractly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abstractly.md)
+
 <p><span class="chinese">他叹了一口气，然后开始说起来，结结巴巴地，讲得很抽象。</span><span class="english">He sighs, then starts to talk, haltingly, abstractly.</span></p>
 
 <p><span class="chinese">我还记得我们入神地望着它的时间。</span><span class="english">I remember the time when we staring at it, abstractly.</span></p>

@@ -1,5 +1,7 @@
 # 亲近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinjin.md)
+
 <p><span class="chinese">你应该与家人更亲近一些。</span><span class="english">You should be closer to family.</span></p>
 
 <p><span class="chinese">他亲近的是那个软弱的伊波族女人。</span><span class="english">He turned to that soft eboe woman.</span></p>

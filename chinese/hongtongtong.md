@@ -1,5 +1,7 @@
 # 红通通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongtongtong.md)
+
 <p><span class="chinese">哇，你跟只龙虾一样红通通的！</span><span class="english">Wow, you're as red as a lobster!</span></p>
 
 <p><span class="chinese">孩子跑完步脸蛋儿红通通的。</span><span class="english">The children had glowing cheeks after race.</span></p>

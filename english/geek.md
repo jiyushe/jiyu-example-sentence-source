@@ -1,5 +1,7 @@
 # geek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geek.md)
+
 <p><span class="chinese">你们发现这挺幽默的。</span><span class="english">Now, you get geek humor.</span></p>
 
 <p><span class="chinese">我们办公室的工程师是个真正的电脑迷。</span><span class="english">The engineer in my office is a real geek.</span></p>

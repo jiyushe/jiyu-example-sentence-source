@@ -1,5 +1,7 @@
 # 窈窕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaotiao.md)
+
 <p><span class="chinese">你想要维持窈窕身材吗？</span><span class="english">Do you want to keep in shape?</span></p>
 
 <p><span class="chinese">这女孩已经长成窈窕淑女了。</span><span class="english">The girl has grown up to be a lady.</span></p>

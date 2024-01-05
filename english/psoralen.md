@@ -1,5 +1,7 @@
 # psoralen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psoralen.md)
+
 <p><span class="chinese">将它和补骨脂使用是有益于家庭治疗白癜风的。</span><span class="english">Its use with Psoralen is beneficial as a home remedy of vitiligo.</span></p>
 
 <p><span class="chinese">补骨脂是最有效的治疗白癜风的植物。</span><span class="english">Psoralen is the most effective herb for the treatment of vitiligo.</span></p>

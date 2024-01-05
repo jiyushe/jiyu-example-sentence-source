@@ -1,5 +1,7 @@
 # navel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/navel.md)
+
 <p><span class="chinese">泥垢总是积在肚脐眼里。</span><span class="english">Dirt gets rolled up in your navel.</span></p>
 
 <p><span class="chinese">蒸脐炉，脐疗法的主要用具。</span><span class="english">It is the main tool for navel treatment.</span></p>

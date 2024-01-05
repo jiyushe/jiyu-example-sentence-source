@@ -1,5 +1,7 @@
 # refute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refute.md)
+
 <p><span class="chinese">我们可以很容易地驳倒他的论点。</span><span class="english">We can easily refute his argument.</span></p>
 
 <p><span class="chinese">缄默是最易反驳的论面之一。</span><span class="english">Silence is one of the hardest arguments to refute.</span></p>

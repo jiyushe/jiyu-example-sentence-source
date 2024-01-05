@@ -1,5 +1,7 @@
 # goldstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goldstone.md)
+
 <p><span class="chinese">但是，戈德斯通没有在他发表于华盛顿邮报上的文章中收回这一指控。</span><span class="english">And Goldstone did not retract that charge in his newspaper article.</span></p>
 
 <p><span class="chinese">戈德斯通说，如果他当时知晓他现在获知的事实，这份报告会看上去很不一样。</span><span class="english">Goldstone said if he knew then what he knows now, the report would have looked much different.</span></p>

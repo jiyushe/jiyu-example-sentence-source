@@ -1,5 +1,7 @@
 # 清冷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingleng.md)
+
 <p><span class="chinese">寂静的天宫，清冷。</span><span class="english">Silent Temple, chilly.</span></p>
 
 <p><span class="chinese">河水清冷而温暖。</span><span class="english">The river qingling and warm.</span></p>

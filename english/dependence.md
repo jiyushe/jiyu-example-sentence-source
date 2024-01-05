@@ -1,5 +1,7 @@
 # dependence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dependence.md)
+
 <p><span class="chinese">依赖关系。</span><span class="english">The volume dependence.</span></p>
 
 <p><span class="chinese">文盲有依赖性。</span><span class="english">Illiteracy is dependence.</span></p>

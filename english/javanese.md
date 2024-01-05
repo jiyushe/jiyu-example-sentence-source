@@ -1,5 +1,7 @@
 # javanese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/javanese.md)
+
 <p><span class="chinese">当荧光呼拉圈遭遇爪哇加麦兰。</span><span class="english">Glowing hula hoop meets Javanese Gamelan.</span></p>
 
 <p><span class="chinese">一位扛着货物的爪哇农民穿过一片米田。</span><span class="english">Javanese farmer carries his load through the rice paddies.</span></p>

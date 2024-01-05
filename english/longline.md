@@ -1,5 +1,7 @@
 # longline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longline.md)
+
 <p><span class="chinese">金枪鱼延绳钓船是捕捞金枪鱼的最有效的装备之一。</span><span class="english">Tuna longline is one of the most effective tools for tuna fishing.</span></p>
 
 <p><span class="chinese">一条剑鱼被墨西哥的非法钓鱼者用延绳钓捕获了。</span><span class="english">Hooked without a permit, a dorado —sold as mahi-mahi—was caught on an illegal longline off Mexico.</span></p>

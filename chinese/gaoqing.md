@@ -1,5 +1,7 @@
 # 告罄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoqing.md)
+
 <p><span class="chinese">初版很快告罄。</span><span class="english">The first edition was soon exhausted.</span></p>
 
 <p><span class="chinese">“角斗士”的票已经告罄。</span><span class="english">The tickets for “Gladiator” have been sold out.</span></p>

@@ -1,5 +1,7 @@
 # dummy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dummy.md)
+
 <p><span class="chinese">古董杰里马奥尼假人。</span><span class="english">An antique Jerry Mahoney dummy.</span></p>
 
 <p><span class="chinese">如有人问起，你就装哑巴。</span><span class="english">If anyone asks you, just dummy up.</span></p>

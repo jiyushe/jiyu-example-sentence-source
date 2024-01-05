@@ -1,5 +1,7 @@
 # teat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teat.md)
+
 <p><span class="chinese">你在饮食控制中，不应该吃太多份量重的东西。</span><span class="english">You shouldn apos teat too much stodge in your diet.</span></p>
 
 <p><span class="chinese">这个盖子严实地盖在奶瓶上，保持奶嘴无菌。</span><span class="english">This top fits over the bottle and keeps the teat sterile.</span></p>

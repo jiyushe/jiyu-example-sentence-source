@@ -1,5 +1,7 @@
 # concretion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concretion.md)
+
 <p><span class="chinese">龙涎香是抹香鲸肠内的结石。</span><span class="english">Ambergris is the concretion in the intestine of the sperm-whale.</span></p>
 
 <p><span class="chinese">早上醒来，先喝一杯水，预防结石。</span><span class="english">Wake up in the morning, the first drink a glass of water, of concretion.</span></p>

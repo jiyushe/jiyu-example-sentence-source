@@ -1,5 +1,7 @@
 # sanction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanction.md)
+
 <p><span class="chinese">青钢影简直无敌，谁能够制裁？</span><span class="english">Camille invincible, who can sanction?</span></p>
 
 <p><span class="chinese">教会不会认可他的第二次婚姻。</span><span class="english">The church would not sanction his second marriage.</span></p>

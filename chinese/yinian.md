@@ -1,5 +1,7 @@
 # 意念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinian.md)
+
 <p><span class="chinese">什么是意念论？</span><span class="english">What is Conceptualist View?</span></p>
 
 <p><span class="chinese">我的意念，非同你们的意念。</span><span class="english">My thoughts are not your thoughts.</span></p>

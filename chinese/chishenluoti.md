@@ -1,5 +1,7 @@
 # 赤身裸体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chishenluoti.md)
+
 <p><span class="chinese">让我们这些肥得气都喘不过来的英国人赤身裸体地到处跑吗？</span><span class="english">Get all us fat wheezy Brits to run around naked?</span></p>
 
 <p><span class="chinese">在公共场合赤身裸体被认为是不成体统的。</span><span class="english">It's considered improper to be unclothed in public.</span></p>

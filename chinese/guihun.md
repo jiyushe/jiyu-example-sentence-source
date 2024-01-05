@@ -1,5 +1,7 @@
 # 鬼混
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guihun.md)
+
 <p><span class="chinese">原因在于，他昨晚梦见我与他最好的朋友鬼混。</span><span class="english">In his dream last night.</span></p>
 
 <p><span class="chinese">他现在一定是在外面跟别人鬼混了。</span><span class="english">He must be out messing around.</span></p>

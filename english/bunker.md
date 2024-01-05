@@ -1,5 +1,7 @@
 # bunker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bunker.md)
+
 <p><span class="chinese">谁有在一个燃料库中?。</span><span class="english">Who's in a bunker?</span></p>
 
 <p><span class="chinese">邦克山是什么？</span><span class="english">What was Bunker Hill?</span></p>

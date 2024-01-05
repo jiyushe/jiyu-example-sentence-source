@@ -1,5 +1,7 @@
 # brilliant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brilliant.md)
+
 <p><span class="chinese">这主意真棒！这主意真高明！</span><span class="english">Brilliant idea!</span></p>
 
 <p><span class="chinese">它太棒了。</span><span class="english">It's brilliant.</span></p>

@@ -1,5 +1,7 @@
 # pixel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pixel.md)
+
 <p><span class="chinese">应用像素贴紧技术使得文本更清晰</span><span class="english">More clarity with Pixel Snapping</span></p>
 
 <p><span class="chinese">贴图的最左端像素位置。</span><span class="english">Left-most pixel position of the texture.</span></p>

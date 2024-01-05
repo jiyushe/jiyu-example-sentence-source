@@ -1,5 +1,7 @@
 # ionosphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ionosphere.md)
+
 <p><span class="chinese">电离层几乎被拖走。</span><span class="english">The ionosphere is basically dragged away.</span></p>
 
 <p><span class="chinese">火箭和人造卫星能够到达电离层以上极远的地方。</span><span class="english">Rockets and artificial satellites can go far above the ionosphere.</span></p>

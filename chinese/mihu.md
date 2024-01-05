@@ -1,5 +1,7 @@
 # 迷糊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mihu.md)
+
 <p><span class="chinese">对不起，我被你弄迷糊了。</span><span class="english">I'm sorry. You lost me.</span></p>
 
 <p><span class="chinese">“它迷糊了你的头脑”。</span><span class="english">It messes with your head.</span></p>

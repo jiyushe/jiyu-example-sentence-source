@@ -1,5 +1,7 @@
 # perception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perception.md)
+
 <p><span class="chinese">那么，什么是你的感知力呢？</span><span class="english">So what is your perception then?</span></p>
 
 <p><span class="chinese">掌权者助长了这一普遍看法。</span><span class="english">Elites have fed this mass perception.</span></p>

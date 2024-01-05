@@ -1,5 +1,7 @@
 # gaily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaily.md)
+
 <p><span class="chinese">她谈笑风声地谈论艺术。</span><span class="english">She talked gaily of art.</span></p>
 
 <p><span class="chinese">王子幸福快活地跳着舞。</span><span class="english">Gaily and happily the prince danced.</span></p>

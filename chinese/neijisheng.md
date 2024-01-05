@@ -1,5 +1,7 @@
 # 内寄生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neijisheng.md)
+
 <p><span class="chinese">脑内寄生可致人、畜死亡，所以囊虫病要比有钩绦虫病危害严重。</span><span class="english">Parasitic brain can cause, livestock deaths, cysticercosis a hook than 1, 457 seriously harmed.</span></p>
 
 <p><span class="chinese">目的报告用扫描电镜观察脑内寄生的猪囊尾蚴囊胞超微结构的结果。</span><span class="english">Aim To report the result of ultrastructure observation of the cysticercus cysts in human brain with SEM.</span></p>

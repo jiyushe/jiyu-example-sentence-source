@@ -1,5 +1,7 @@
 # dramatist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dramatist.md)
+
 <p><span class="chinese">剧作家偷偷溜走了。</span><span class="english">The dramatist sneaked away.</span></p>
 
 <p><span class="chinese">英国剧作家肖伯纳。</span><span class="english">Ceorge Bernard shw. British dramatist.</span></p>

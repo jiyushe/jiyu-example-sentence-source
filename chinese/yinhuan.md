@@ -1,5 +1,7 @@
 # 隐患
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhuan.md)
+
 <p><span class="chinese">其中，火灾便是隐患之一。</span><span class="english">Fire is one of the cankers.</span></p>
 
 <p><span class="chinese">然而有几个隐患困扰着中国。</span><span class="english">Yet several specters haunt China.</span></p>

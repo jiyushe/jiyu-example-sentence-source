@@ -1,5 +1,7 @@
 # 弟媳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixi.md)
+
 <p><span class="chinese">她的弟媳，买了一篮苹果。</span><span class="english">Her sister-in-law bought a basketful of apples.</span></p>
 
 <p><span class="chinese">然后我弟媳开口问了那个可怕的问题。</span><span class="english">Then my sister-in-law asked the dreaded question.</span></p>

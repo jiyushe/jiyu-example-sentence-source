@@ -1,5 +1,7 @@
 # 转道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuandao.md)
+
 <p><span class="chinese">他由上海转道而来。</span><span class="english">He came by way of Shanghai.</span></p>
 
 <p><span class="chinese">你转道挣么登录进入这个系统埋？</span><span class="english">Do you know how log in to the system?</span></p>

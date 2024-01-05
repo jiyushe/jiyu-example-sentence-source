@@ -1,5 +1,7 @@
 # switchblade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/switchblade.md)
+
 <p><span class="chinese">像弹簧刀一样凶架，没人是他的对手。</span><span class="english">Fought like a switchblade so no one could take him down.</span></p>
 
 <p><span class="chinese">好像在我的袜子里藏着弹簧刀似的。没有，我把刀留在家里了。</span><span class="english">Like the switchblade I keep in my sock? No, I left it at home.</span></p>

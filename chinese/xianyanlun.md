@@ -1,5 +1,7 @@
 # 先验论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyanlun.md)
+
 <p><span class="chinese">先验论者在自然界中发现了神圣的存在。</span><span class="english">In nature, the Transcendentalists saw the presence of the divine.</span></p>
 
 <p><span class="chinese">书籍和阅读对于先验论者也非常重要。</span><span class="english">Books and reading were also very important for the Transcendentalists.</span></p>

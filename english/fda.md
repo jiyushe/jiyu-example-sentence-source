@@ -1,5 +1,7 @@
 # fda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fda.md)
+
 <p><span class="chinese">美国FDA计划出台措施，遏止滥用止咳药。</span><span class="english">FDA looks to curb abuse of cough medicine.</span></p>
 
 <p><span class="chinese">FDA规定了用于食品包装的材料。</span><span class="english">The FDA regulates chemicals used in food packaging.</span></p>

@@ -1,5 +1,7 @@
 # nhl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nhl.md)
+
 <p><span class="chinese">曼联取消了同某个欧洲队的赛季运动。</span><span class="english">The NHL has kicked off its season with a game in Europe.</span></p>
 
 <p><span class="chinese">结论真性组织细胞型淋巴瘤罕见。</span><span class="english">Conclusion True histiocytic lymphoma is a rare subset of NHL.</span></p>

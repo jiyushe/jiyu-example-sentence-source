@@ -1,5 +1,7 @@
 # hankering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hankering.md)
+
 <p><span class="chinese">癞蛤蟆想天鹅肉吃。</span><span class="english">A toad hankering for a taste of swan.</span></p>
 
 <p><span class="chinese">我一眼就被一个巨大的绿色马车吸引住了。</span><span class="english">I took an instant hankering for a huge green wagon.</span></p>

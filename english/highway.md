@@ -1,5 +1,7 @@
 # highway 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/highway.md)
+
 <p><span class="chinese">在公路上？</span><span class="english">Upon the highway?</span></p>
 
 <p><span class="chinese">这简直是拦路抢劫！</span><span class="english">This is highway robbery!</span></p>

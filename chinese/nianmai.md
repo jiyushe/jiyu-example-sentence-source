@@ -1,5 +1,7 @@
 # 年迈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianmai.md)
+
 <p><span class="chinese">他因年迈而垂头。</span><span class="english">Age had bowed his head.</span></p>
 
 <p><span class="chinese">他供养他年迈的父亲。</span><span class="english">He keeps by his aged father.</span></p>

@@ -1,5 +1,7 @@
 # decoloration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decoloration.md)
+
 <p><span class="chinese">脱色反应为动力学零级反应。</span><span class="english">The decoloration reaction is a zero order.</span></p>
 
 <p><span class="chinese">本文概述了常用的脱色方法的机理及用于纸质文物脱色的优缺点。</span><span class="english">The decoloration mechanism of different methods and their effects on paper relics are re- viewed.</span></p>

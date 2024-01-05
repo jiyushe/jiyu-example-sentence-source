@@ -1,5 +1,7 @@
 # capsize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capsize.md)
+
 <p><span class="chinese">小心不要使船倾覆。</span><span class="english">Be careful not to capsize the boat.</span></p>
 
 <p><span class="chinese">小心不要把船弄翻。</span><span class="english">Be careful not to capsize the boat.</span></p>

@@ -1,5 +1,7 @@
 # 细腻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xini_1.md)
+
 <p><span class="chinese">简言之，它是精致细腻的。</span><span class="english">It is, in a word, exquisite.</span></p>
 
 <p><span class="chinese">椰林和滑石粉般细腻的沙子也会为沙滩增色不少。</span><span class="english">Coconuts and powder-like sand help too.</span></p>

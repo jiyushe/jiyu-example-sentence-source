@@ -1,5 +1,7 @@
 # 职分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhifen.md)
+
 <p><span class="chinese">他们还在宫廷中得到了优厚的职分。</span><span class="english">And they got some of the top jobs in the palace.</span></p>
 
 <p><span class="chinese">撒迦利亚按班次，在神面前供祭司的职分。</span><span class="english">Once when Zechariah was on he was as priest before God.</span></p>

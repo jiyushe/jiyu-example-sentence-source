@@ -1,5 +1,7 @@
 # bonito
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonito.md)
+
 <p><span class="chinese">金枪鱼和鲣鱼罐头。</span><span class="english">Canned Tuna and Bonito.</span></p>
 
 <p><span class="chinese">最后洒上鲣鱼碎即成。</span><span class="english">Sprinkle some bonito flakes and done.</span></p>

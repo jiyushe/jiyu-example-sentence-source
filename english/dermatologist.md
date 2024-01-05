@@ -1,5 +1,7 @@
 # dermatologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dermatologist.md)
+
 <p><span class="chinese">其中就有埃诺德.克莱因，他住在贝佛莉山庄时的皮肤病医生。</span><span class="english">One was Arnold Klein, his Beverly Hills dermatologist.</span></p>
 
 <p><span class="chinese">如果发现突然性的秃发，请去找皮肤科医生。</span><span class="english">If you find a sudden bald spot, see your dermatologist.</span></p>

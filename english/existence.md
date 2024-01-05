@@ -1,5 +1,7 @@
 # existence 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/existence.md)
+
 <p><span class="chinese">存在是什么？</span><span class="english">What is existence?</span></p>
 
 <p><span class="chinese">只有经得住考验，才会生存下来。</span><span class="english">It did not proof into existence.</span></p>

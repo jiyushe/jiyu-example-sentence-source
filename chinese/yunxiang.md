@@ -1,5 +1,7 @@
 # 芸香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunxiang.md)
+
 <p><span class="chinese">给我丝柏和芸香。</span><span class="english">For me the cypress and the rue.</span></p>
 
 <p><span class="chinese">长满了苦涩的野草和芸香。</span><span class="english">Beovergrown with bitter weeds and rue.</span></p>

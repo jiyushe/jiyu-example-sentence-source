@@ -1,5 +1,7 @@
 # connectionless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connectionless.md)
+
 <p><span class="chinese">首先，UDP是无连接的。</span><span class="english">First, it is connectionless.</span></p>
 
 <p><span class="chinese">IP提供互连网路中第3层非连接导向的传输。</span><span class="english">IP provides Layer 3 connectionless transport through an internetwork.</span></p>

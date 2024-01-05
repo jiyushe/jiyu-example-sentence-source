@@ -1,5 +1,7 @@
 # sophisticated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sophisticated.md)
+
 <p><span class="chinese">他现在已变得老于世故了。</span><span class="english">He has now been sophisticated.</span></p>
 
 <p><span class="chinese">你是精明还是“糊涂虫”？</span><span class="english">Are You Sophisticated or Myopic?</span></p>

@@ -1,5 +1,7 @@
 # dagon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dagon.md)
+
 <p><span class="chinese">李商隐的儿子衮师名字来由?。</span><span class="english">Li shang yin's son dagon simulation at name division?</span></p>
 
 <p><span class="chinese">非利士人将神的约柜抬进大衮庙，放在大衮的旁边。</span><span class="english">Then they carried the ark into Dagon's temple and set it beside Dagon.</span></p>

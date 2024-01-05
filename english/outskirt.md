@@ -1,5 +1,7 @@
 # outskirt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outskirt.md)
+
 <p><span class="chinese">闲暇时，它们聚集一起，到郊外踏春。</span><span class="english">Leisure , them gather a, go to outskirt to step spring.</span></p>
 
 <p><span class="chinese">一天他们出了城，去了郊区，希望能解决问题，或至少来一次暂时的逃避。</span><span class="english">One day they went to a trip out of the city, into the outskirt.</span></p>

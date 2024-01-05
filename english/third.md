@@ -1,5 +1,7 @@
 # third
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/third.md)
+
 <p><span class="chinese">那第三句呢？</span><span class="english">But the third?</span></p>
 
 <p><span class="chinese">再有就是元音。</span><span class="english">Third is the vowels.</span></p>

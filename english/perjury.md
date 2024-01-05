@@ -1,5 +1,7 @@
 # perjury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perjury.md)
+
 <p><span class="chinese">他们竭力说服她出庭作伪证。</span><span class="english">They tried to persuade her to commit perjury.</span></p>
 
 <p><span class="chinese">我会以伪证罪被拘禁。</span><span class="english">That I would be held under arrest for perjury.</span></p>

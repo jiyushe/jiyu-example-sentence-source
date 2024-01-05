@@ -1,5 +1,7 @@
 # ararat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ararat.md)
+
 <p><span class="chinese">这里可以看到亚拉拉特山美丽的全貌。</span><span class="english">A wonderful panorama of the Ararat valley.</span></p>
 
 <p><span class="chinese">并从亚拉腊山的西部海域。</span><span class="english">And from the mountain of Ararat to the western sea.</span></p>

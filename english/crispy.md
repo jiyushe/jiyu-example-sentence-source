@@ -1,5 +1,7 @@
 # crispy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crispy.md)
+
 <p><span class="chinese">我点的香脆鸡。</span><span class="english">I ordered crispy fried chicken.</span></p>
 
 <p><span class="chinese">如何炸出酥脆美味的猪排？</span><span class="english">How do we make crispy pork chop?</span></p>

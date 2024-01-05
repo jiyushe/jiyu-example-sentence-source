@@ -1,5 +1,7 @@
 # conscience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conscience.md)
+
 <p><span class="chinese">他是个有良心的人。</span><span class="english">He is a man of conscience.</span></p>
 
 <p><span class="chinese">他的良心时有时无。</span><span class="english">His conscience works in jerks.</span></p>

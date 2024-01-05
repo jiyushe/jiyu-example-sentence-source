@@ -1,5 +1,7 @@
 # asterism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asterism.md)
+
 <p><span class="chinese">它的不远处，就是带有优雅头箍的双鱼座星群。</span><span class="english">It isn't far from the graceful Circlet asterism in the constellation Pisces.</span></p>
 
 <p><span class="chinese">这几颗明星构成了被称为夏季大三角的巨大三星符号。</span><span class="english">These brilliant stars make up the huge asterism known as the Summer Triangle.</span></p>

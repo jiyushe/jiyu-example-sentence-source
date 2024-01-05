@@ -1,5 +1,7 @@
 # 地市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dishi_2.md)
+
 <p><span class="chinese">1992年沧州地市合并，河间市由沧州市代管。</span><span class="english">Cangzhou City in 1992 to merge Hejian hosted by the Cangzhou City.</span></p>
 
 <p><span class="chinese">这座城市特有的地市墓地游仪式也是很受欢迎的。</span><span class="english">Tours of the city's unique aboveground cemeteries are also popular.</span></p>

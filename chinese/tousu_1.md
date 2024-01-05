@@ -1,5 +1,7 @@
 # 投诉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tousu_1.md)
+
 <p><span class="chinese">处理客户投诉及抱怨。</span><span class="english">Hle customer's complaints.</span></p>
 
 <p><span class="chinese">投诉的信件潮涌般寄来。</span><span class="english">Letters of complaint flooded in.</span></p>

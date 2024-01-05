@@ -1,5 +1,7 @@
 # absorptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorptive.md)
+
 <p><span class="chinese">FIWA吸附剂过滤筒可以用一个过滤筒做两项工作。</span><span class="english">Facet's FIWA absorptive cartridges perform two jobs with one cartridge.</span></p>
 
 <p><span class="chinese">当盘中活性岩丧失吸咐能力时，便从系统中将盘取出。</span><span class="english">When the tray loses its absorptive capacity, it is removed from the system.</span></p>

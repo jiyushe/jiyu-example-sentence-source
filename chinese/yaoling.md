@@ -1,5 +1,7 @@
 # 要领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoling.md)
+
 <p><span class="chinese">只是最基本要领。</span><span class="english">Just the essentials.</span></p>
 
 <p><span class="chinese">我掌握基本要领了。</span><span class="english">I got the basics down.</span></p>

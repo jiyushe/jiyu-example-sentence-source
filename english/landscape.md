@@ -1,5 +1,7 @@
 # landscape 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landscape.md)
+
 <p><span class="chinese">画图或布景。</span><span class="english">Painting or landscape.</span></p>
 
 <p><span class="chinese">剩下的只是风景。</span><span class="english">The rest is landscape.</span></p>

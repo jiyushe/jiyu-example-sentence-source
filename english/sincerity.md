@@ -1,5 +1,7 @@
 # sincerity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sincerity.md)
+
 <p><span class="chinese">他的诚意是无容置疑的。</span><span class="english">His sincerity is undoubted.</span></p>
 
 <p><span class="chinese">他的真诚打动了她。</span><span class="english">His sincerity impressed her.</span></p>

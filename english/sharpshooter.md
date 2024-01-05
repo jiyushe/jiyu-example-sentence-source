@@ -1,5 +1,7 @@
 # sharpshooter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sharpshooter.md)
+
 <p><span class="chinese">我愿成为一名神枪手。</span><span class="english">I'd love to be a sharpshooter.</span></p>
 
 <p><span class="chinese">这个左锋是个神投手。</span><span class="english">The left forward is a sharpshooter.</span></p>

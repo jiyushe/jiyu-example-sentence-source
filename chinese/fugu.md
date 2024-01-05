@@ -1,5 +1,7 @@
 # 跗骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fugu.md)
+
 <p><span class="chinese">然后是跖骨，我也有一些跗骨。</span><span class="english">And metatarsals, then, I got some tarsals, too.</span></p>
 
 <p><span class="chinese">跗骨能充分下降，长，且站立时垂直。</span><span class="english">The hocks are well let down, long and vertical when standing.</span></p>

@@ -1,5 +1,7 @@
 # terminator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terminator.md)
+
 <p><span class="chinese">他会像终结者那样大刀阔斧改革不正常的机制。</span><span class="english">He would slay the system, like the Terminator.</span></p>
 
 <p><span class="chinese">终结者和你同时找到了我，我们一起逃掉了。</span><span class="english">The Terminator found me, but so did you. We got away.</span></p>

@@ -1,5 +1,7 @@
 # 水库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiku.md)
+
 <p><span class="chinese">三峡水库蓄水后。</span><span class="english">After the Three Gorges Reservoir.</span></p>
 
 <p><span class="chinese">缺雨使水库水位降低。</span><span class="english">Lack of rain sank the reservoirs.</span></p>

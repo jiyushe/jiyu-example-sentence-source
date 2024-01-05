@@ -1,5 +1,7 @@
 # 我们
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/women.md)
+
 <p><span class="chinese">我们敢么？</span><span class="english">Dare we?</span></p>
 
 <p><span class="chinese">救救我们！</span><span class="english">Save us!</span></p>

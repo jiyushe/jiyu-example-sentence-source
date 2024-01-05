@@ -1,5 +1,7 @@
 # 浴盆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yupen.md)
+
 <p><span class="chinese">浴盆里的水还满着。</span><span class="english">The tub is still full.</span></p>
 
 <p><span class="chinese">这个浴盆还未消过毒。</span><span class="english">This tub has not sanitated.</span></p>

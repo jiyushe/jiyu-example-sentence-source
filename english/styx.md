@@ -1,5 +1,7 @@
 # styx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/styx.md)
+
 <p><span class="chinese">这个病人已经在等死了。</span><span class="english">The patient is waiting to cross the Styx.</span></p>
 
 <p><span class="chinese">冥河龙意为“来自冥河长着角的恶魔”。</span><span class="english">Stygimoloch means "horned devil from the Styx."</span></p>

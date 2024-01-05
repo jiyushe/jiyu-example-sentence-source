@@ -1,5 +1,7 @@
 # pinball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinball.md)
+
 <p><span class="chinese">泡泡龙，一个十分流行的弹珠游戏。</span><span class="english">Bubble Bobble, a very popular pinball game.</span></p>
 
 <p><span class="chinese">这个荒谬的税收叫做弹球税。</span><span class="english">This included taxes as ridiculous as the pinball tax.</span></p>

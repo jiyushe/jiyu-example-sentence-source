@@ -1,5 +1,7 @@
 # 波澜壮阔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bolanzhuangkuo.md)
+
 <p><span class="chinese">那么，希望没有波澜壮阔石破天惊。</span><span class="english">Well, I hope no great billows and shock.</span></p>
 
 <p><span class="chinese">在波澜壮阔中，淡定、温和的心。</span><span class="english">In the magnificent, the very calm, gentle heart.</span></p>

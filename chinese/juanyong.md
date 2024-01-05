@@ -1,5 +1,7 @@
 # 隽永
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanyong.md)
+
 <p><span class="chinese">这句隽永而极著名的诗</span><span class="english">That exquisite and celebrated verse</span></p>
 
 <p><span class="chinese">酒体丰腴，柔和而圆润，回味隽永。</span><span class="english">Full-bodied, soft and round, with a long finish.</span></p>

@@ -1,5 +1,7 @@
 # 万籁俱寂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanlaijuji.md)
+
 <p><span class="chinese">万籁俱寂。</span><span class="english">All is quiet and still.</span></p>
 
 <p><span class="chinese">一片绿色的世界，万籁俱寂。</span><span class="english">The world was green and silent.</span></p>

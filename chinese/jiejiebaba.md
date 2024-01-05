@@ -1,5 +1,7 @@
 # 结结巴巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejiebaba.md)
+
 <p><span class="chinese">他结结巴巴地说出了他的需要。</span><span class="english">He stammered out his need.</span></p>
 
 <p><span class="chinese">他结结巴巴的讲了个借口。</span><span class="english">He stammered out an excuse.</span></p>

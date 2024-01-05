@@ -1,5 +1,7 @@
 # 所剩无几
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoshengwuji.md)
+
 <p><span class="chinese">所剩无几。</span><span class="english">There is not much left.</span></p>
 
 <p><span class="chinese">我的激情已经所剩无几。</span><span class="english">I had compassion burn-out.</span></p>

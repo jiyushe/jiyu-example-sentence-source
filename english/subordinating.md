@@ -1,5 +1,7 @@
 # subordinating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subordinating.md)
+
 <p><span class="chinese">必须这样干才叫做服从战争。</span><span class="english">Subordinating everything to the war effort means just this.</span></p>
 
 <p><span class="chinese">个人权利是使社会服从道德法则的手段。</span><span class="english">Individual rights are the means of subordinating society to moral law.</span></p>

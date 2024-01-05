@@ -1,5 +1,7 @@
 # 落日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luori.md)
+
 <p><span class="chinese">我们为落日的余辉而激动。</span><span class="english">We get excited about sunsets.</span></p>
 
 <p><span class="chinese">落日把天空染成金色。</span><span class="english">The setting sun gilds the sky.</span></p>

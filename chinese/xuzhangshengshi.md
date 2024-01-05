@@ -1,5 +1,7 @@
 # 虚张声势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuzhangshengshi.md)
+
 <p><span class="chinese">不要自夸和虚张声势。</span><span class="english">Do not brag or bluff.</span></p>
 
 <p><span class="chinese">才不呢，她只是虚张声势。</span><span class="english">Naw , she's just bluffing.</span></p>

@@ -1,5 +1,7 @@
 # modernism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modernism.md)
+
 <p><span class="chinese">他们谈论现代主义。</span><span class="english">They talked about modernism.</span></p>
 
 <p><span class="chinese">寓言如何在库尔贝的现代主义中起作用？</span><span class="english">How does allegory function in Courbet's Modernism?</span></p>

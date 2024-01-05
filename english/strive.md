@@ -1,5 +1,7 @@
 # strive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strive.md)
+
 <p><span class="chinese">我们必须努力奋斗。</span><span class="english">We must strive and fend.</span></p>
 
 <p><span class="chinese">让我们为证据而努力。</span><span class="english">But let’s strive for proof.</span></p>

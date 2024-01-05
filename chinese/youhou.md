@@ -1,5 +1,7 @@
 # 优厚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youhou.md)
+
 <p><span class="chinese">我没有给那个导游优厚的小费。</span><span class="english">I didn't give the dragoman a fat tip.</span></p>
 
 <p><span class="chinese">她能得到这样一个报酬优厚的工作真幸运。</span><span class="english">She was lucky to get such a well-paid job.</span></p>

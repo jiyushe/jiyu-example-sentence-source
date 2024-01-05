@@ -1,5 +1,7 @@
 # darkness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darkness.md)
+
 <p><span class="chinese">黑暗笼罩着他。</span><span class="english">Darkness enfolded him.</span></p>
 
 <p><span class="chinese">黑暗笼罩着我们。</span><span class="english">Darkness closed about us.</span></p>

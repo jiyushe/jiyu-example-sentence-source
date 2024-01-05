@@ -1,5 +1,7 @@
 # toy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toy.md)
+
 <p><span class="chinese">玩具陀螺。</span><span class="english">Toy gyro.</span></p>
 
 <p><span class="chinese">在那玩具盒里面吗？</span><span class="english">In the toy box?</span></p>

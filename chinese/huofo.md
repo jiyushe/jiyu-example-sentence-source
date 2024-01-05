@@ -1,5 +1,7 @@
 # 活佛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huofo.md)
+
 <p><span class="chinese">革命也来找贡觉活佛。</span><span class="english">Geming came to ask for Gongjue living Buddha.</span></p>
 
 <p><span class="chinese">第五世德珠活佛转世灵童被选举出来。</span><span class="english">Reincarnation of 5th Living Buddha Dezhub selected.</span></p>

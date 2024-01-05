@@ -1,5 +1,7 @@
 # listlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/listlessly.md)
+
 <p><span class="chinese">他冷淡地答应再尝试。</span><span class="english">He listlessly agreed to try again.</span></p>
 
 <p><span class="chinese">她恹恹地在陈旧杂乱的旅馆来回走动。</span><span class="english">Listlessly she went about the disorderly hotel.</span></p>

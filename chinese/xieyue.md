@@ -1,5 +1,7 @@
 # 协约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieyue.md)
+
 <p><span class="chinese">2007年9月作为协约成员加入天合联盟。</span><span class="english">In September 2007 as a treaty member of SkyTeam add.</span></p>
 
 <p><span class="chinese">方解石矿石王国与此建议有协约。</span><span class="english">The Calcite Mineral Kingdom concludes with this suggestion.</span></p>

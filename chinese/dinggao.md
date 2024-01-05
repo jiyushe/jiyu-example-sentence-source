@@ -1,5 +1,7 @@
 # 定稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinggao.md)
+
 <p><span class="chinese">定稿和实施计划。</span><span class="english">Finalising and implementing the plan.</span></p>
 
 <p><span class="chinese">全文翻译完后，由服务器端对译文进行审改和定稿。</span><span class="english">And after this hell one also have to administrate a server.</span></p>

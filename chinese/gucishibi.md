@@ -1,5 +1,7 @@
 # 顾此失彼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gucishibi.md)
+
 <p><span class="chinese">我有没有顾此失彼，忽略了对人的承诺，忘了做一些应做的事?。</span><span class="english">Did I ignore my commitments? Did I forget anything I should do?</span></p>
 
 <p><span class="chinese">但这两种选择难免会出现顾此失彼的权利失衡。</span><span class="english">However, the two options will likely be in imbalance condition.</span></p>

@@ -1,5 +1,7 @@
 # 尿布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niaobu.md)
+
 <p><span class="chinese">母亲给婴儿衬尿布。</span><span class="english">The mother diapered her baby.</span></p>
 
 <p><span class="chinese">帮我换一下小孩的尿布好吗？</span><span class="english">Can you change the baby's diaper?</span></p>

@@ -1,5 +1,7 @@
 # 撤军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chejun.md)
+
 <p><span class="chinese">我们期待他们撤军。</span><span class="english">We expect them to withdraw.</span></p>
 
 <p><span class="chinese">撤军工作分两步进行。</span><span class="english">The troops will be pulled out in two stages.</span></p>

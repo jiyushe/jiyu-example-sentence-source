@@ -1,5 +1,7 @@
 # substitutable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substitutable.md)
+
 <p><span class="chinese">派生类型必须可以替换它的基类型。</span><span class="english">Subtypes must be substitutable for their base types.</span></p>
 
 <p><span class="chinese">水是人类生存和发展不可缺少、不可替代的自然资源。</span><span class="english">The less competition you have, the less substitutable you is.</span></p>

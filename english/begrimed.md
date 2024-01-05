@@ -1,5 +1,7 @@
 # begrimed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/begrimed.md)
+
 <p><span class="chinese">她满身烟尘。</span><span class="english">She is begrimed with smoke.</span></p>
 
 <p><span class="chinese">他的手沾满了灰尘。</span><span class="english">His hands were begrimed with dust.</span></p>

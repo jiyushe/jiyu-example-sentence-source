@@ -1,5 +1,7 @@
 # heeling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heeling.md)
+
 <p><span class="chinese">她晕倒了，从椅子上滑到了地上。</span><span class="english">She fainted heeling over from her chair onto the floor.</span></p>
 
 <p><span class="chinese">在这样的大风中帆船保持向左倾斜。</span><span class="english">In such a strong wind the sailboat kept heeling to the left.</span></p>

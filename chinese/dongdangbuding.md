@@ -1,5 +1,7 @@
 # 动荡不定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongdangbuding.md)
+
 <p><span class="chinese">他开始了动荡不定的政治生涯。</span><span class="english">He entered upon a turbulent political career.</span></p>
 
 <p><span class="chinese">动荡不定的美元的前景亦一团糟糕。</span><span class="english">The volatile dollar muddles the picture as well.</span></p>

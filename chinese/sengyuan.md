@@ -1,5 +1,7 @@
 # 僧院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sengyuan.md)
+
 <p><span class="chinese">这个僧院建于1652年。</span><span class="english">The monastery dates from 1652.</span></p>
 
 <p><span class="chinese">这个僧院充满了邪恶和腐息。</span><span class="english">The Monastery reeks with evil and corruption.</span></p>

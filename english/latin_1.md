@@ -1,5 +1,7 @@
 # Latin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latin_1.md)
+
 <p><span class="chinese">李有拉丁！</span><span class="english">Latin has the Lee!</span></p>
 
 <p><span class="chinese">学习一点拉丁文。</span><span class="english">Learn a little Latin.</span></p>

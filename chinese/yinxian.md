@@ -1,5 +1,7 @@
 # 引线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxian.md)
+
 <p><span class="chinese">“嗖”是穿针又引线。</span><span class="english">Sew, a needle pulling thread.</span></p>
 
 <p><span class="chinese">这些是封闭的的引线。</span><span class="english">These are gas-tight feedthroughs.</span></p>

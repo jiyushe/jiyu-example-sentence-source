@@ -1,5 +1,7 @@
 # nuance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuance.md)
+
 <p><span class="chinese">这里听起来有点细微差别。</span><span class="english">This is a nuance.</span></p>
 
 <p><span class="chinese">这里我还想强调另外一个细微的差别。</span><span class="english">Now I want to stress one other nuance here.</span></p>

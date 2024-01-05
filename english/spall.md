@@ -1,5 +1,7 @@
 # spall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spall.md)
+
 <p><span class="chinese">但是，氧化铝层剥落的温度升高。</span><span class="english">However, the alumina layers spall as the temperature increases.</span></p>
 
 <p><span class="chinese">教书非常辛苦，钱赚得不容易，下次别乱花。</span><span class="english">Teach very hard, money earns not simple, don't spall overdiscriminately next time.</span></p>

@@ -1,5 +1,7 @@
 # business
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/business.md)
+
 <p><span class="chinese">生意毫无收益。</span><span class="english">Business was zilch.</span></p>
 
 <p><span class="chinese">我要以事业为主。</span><span class="english">I want to business.</span></p>

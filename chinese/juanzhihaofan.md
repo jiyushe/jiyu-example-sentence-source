@@ -1,5 +1,7 @@
 # 卷帙浩繁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanzhihaofan.md)
+
 <p><span class="chinese">中国传统道德卷帙浩繁，博大精深。</span><span class="english">There are many kinds of traditional moral rules in China.</span></p>
 
 <p><span class="chinese">关于洁食律法的著述可谓卷帙浩繁，其中许多成书于两千多年前。</span><span class="english">Many of these books date back as far as two thousand years ago.</span></p>

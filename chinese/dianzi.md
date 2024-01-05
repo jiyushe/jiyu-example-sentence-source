@@ -1,5 +1,7 @@
 # 电子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianzi.md)
+
 <p><span class="chinese">孤对电子。</span><span class="english">Lone pairs.</span></p>
 
 <p><span class="chinese">电子信函是书写的。</span><span class="english">Email is Written.</span></p>

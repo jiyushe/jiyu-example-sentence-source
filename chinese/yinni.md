@@ -1,5 +1,7 @@
 # 隐匿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinni.md)
+
 <p><span class="chinese">有些隐匿着家道没落的恐惧。</span><span class="english">Some hide fears of financial ruin.</span></p>
 
 <p><span class="chinese">我并没有隐匿于凡世间。</span><span class="english">I did not hide away from the world.</span></p>

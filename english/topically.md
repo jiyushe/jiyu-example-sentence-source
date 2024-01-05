@@ -1,5 +1,7 @@
 # topically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topically.md)
+
 <p><span class="chinese">治疗蛇咬伤。外用和内服。</span><span class="english">Treatment of snake bites. Applied topically and taken orally.</span></p>
 
 <p><span class="chinese">它的作用相当于止痛药，只要局部地涂于患处即可。</span><span class="english">It act as pain relievers , by being put on topically to the area.</span></p>

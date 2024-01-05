@@ -1,5 +1,7 @@
 # aoc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aoc.md)
+
 <p><span class="chinese">是一款果香浓郁，酒体适中且平衡的波尔多红葡萄酒。</span><span class="english">A mid-weight AOC Bordeaux, fruity, well-balanced and easy to enjoy.</span></p>
 
 <p><span class="chinese">在法国规定瓶盖顶上是绿色代表的是AOC或VDQS这个级别的。</span><span class="english">In France, the cap on top of green represents the AOC or VDQS this level.</span></p>

@@ -1,5 +1,7 @@
 # trendsetting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trendsetting.md)
+
 <p><span class="chinese">到20世纪末，发现和引领潮流的能力已经成为可供自我推销的技能。</span><span class="english">By the end of the 20th century, trend spotting and trendsetting were marketable skills.</span></p>
 
 <p><span class="chinese">现代竞选海报制作毫不费力，经检查过的标语，偶尔来点创新设计。</span><span class="english">The modern campaign poster is a slick thing, with message-tested taglines and occasionally trendsetting design.</span></p>

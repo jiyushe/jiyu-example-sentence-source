@@ -1,5 +1,7 @@
 # 养老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanglao.md)
+
 <p><span class="chinese">住房养老保险基本运作模式设计。</span><span class="english">Fundamental operating mode designed for HEPI.</span></p>
 
 <p><span class="chinese">养老保险制度改革一直是业界争论的热点。</span><span class="english">The reform of the pension system is a hot topic.</span></p>

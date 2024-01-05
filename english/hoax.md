@@ -1,5 +1,7 @@
 # hoax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoax.md)
+
 <p><span class="chinese">这明显是一个骗局。</span><span class="english">It’s an obvious hoax.</span></p>
 
 <p><span class="chinese">我希望这是一次恶作剧。</span><span class="english">I wish this was a hoax.</span></p>

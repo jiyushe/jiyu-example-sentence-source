@@ -1,5 +1,7 @@
 # aggression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggression.md)
+
 <p><span class="chinese">我们将粉碎任何侵略。</span><span class="english">We will smash any aggression.</span></p>
 
 <p><span class="chinese">这种援助其实是经济侵略。</span><span class="english">Such aids amount to economic aggression.</span></p>

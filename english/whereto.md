@@ -1,5 +1,7 @@
 # whereto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whereto.md)
+
 <p><span class="chinese">回答我，海洋。</span><span class="english">Whereto answering, the sea.</span></p>
 
 <p><span class="chinese">我不知道该从哪里著手。</span><span class="english">I do not know whereto begin.</span></p>

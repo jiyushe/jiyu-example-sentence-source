@@ -1,5 +1,7 @@
 # minty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minty.md)
+
 <p><span class="chinese">这一次鳄鱼追逐杰克的狗Minty。</span><span class="english">This time the croc goes after Jack's dog Minty.</span></p>
 
 <p><span class="chinese">外貌像草根，冰爽的味道与柠檬的口感。</span><span class="english">Looks like grass, smells minty and taste similar to lemon.</span></p>

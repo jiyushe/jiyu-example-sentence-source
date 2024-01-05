@@ -1,5 +1,7 @@
 # gradualism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gradualism.md)
+
 <p><span class="chinese">我想我绝不非难渐进论的潜在有效性。</span><span class="english">I wish in no way to impugn the potential validity of gradualism.</span></p>
 
 <p><span class="chinese">但我们可以想到初期节奏将是循序渐进的,原因有几个.</span><span class="english">But there are several reasons to assume that gradualism will be the initial watchword</span></p>

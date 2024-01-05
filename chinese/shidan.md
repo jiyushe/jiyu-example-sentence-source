@@ -1,5 +1,7 @@
 # 实弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidan.md)
+
 <p><span class="chinese">中智客户满意度调查，虚幌还是实弹？</span><span class="english">A Poll among CIIC clients Are you serious?</span></p>
 
 <p><span class="chinese">韩国计划周末进行实弹演习。</span><span class="english">South Korea has planned a live-fire drill this weekend.</span></p>

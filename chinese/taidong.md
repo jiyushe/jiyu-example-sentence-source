@@ -1,5 +1,7 @@
 # 胎动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taidong.md)
+
 <p><span class="chinese">治怀胎蕴热，胎动不安。</span><span class="english">Indicated for quickening due to heat-stagnation.</span></p>
 
 <p><span class="chinese">尚未胎动的胎儿是活的抑或不然？</span><span class="english">Is a fetus that has not yet quickened alive or not?</span></p>

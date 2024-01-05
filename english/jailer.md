@@ -1,5 +1,7 @@
 # jailer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jailer.md)
+
 <p><span class="chinese">是那样，那名狱卒承认道。</span><span class="english">It was, the jailer conceded.</span></p>
 
 <p><span class="chinese">本人越过铁栅看着狱卒。</span><span class="english">I looked through the bars at my jailer.</span></p>

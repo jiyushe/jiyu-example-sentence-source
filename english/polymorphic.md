@@ -1,5 +1,7 @@
 # polymorphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymorphic.md)
+
 <p><span class="chinese">人类既是多态的，也是多型的。</span><span class="english">Man is both polymorphic and polytypic.</span></p>
 
 <p><span class="chinese">静态禁止多态递归。</span><span class="english">Statically forbid polymorphic recursion.</span></p>

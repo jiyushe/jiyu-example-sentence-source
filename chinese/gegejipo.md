@@ -1,5 +1,7 @@
 # 各个击破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gegejipo.md)
+
 <p><span class="chinese">那就各个击破。</span><span class="english">Let's divide and conquer.</span></p>
 
 <p><span class="chinese">但和鬼子不能硬拼，要本着诱敌深入，各个击破的原则。</span><span class="english">But not Yingpin and Guizi, Youdi in-depth, all broken up the principle.</span></p>

@@ -1,5 +1,7 @@
 # squib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squib.md)
+
 <p><span class="chinese">墨鱼，墨鱼汁，番茄，白酒。</span><span class="english">Baby squib rings, squib ink, tomato, white wine.</span></p>
 
 <p><span class="chinese">北朝的核实验对于市场而言，也不过是一枚哑炮而已。</span><span class="english">North Korea's nuclear test was a damp squib in market terms.</span></p>

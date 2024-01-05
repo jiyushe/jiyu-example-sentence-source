@@ -1,5 +1,7 @@
 # 工作日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzuori.md)
+
 <p><span class="chinese">每日记下工作日志。</span><span class="english">Rept on logbook daily.</span></p>
 
 <p><span class="chinese">罗斯在工作日不可以看电视。</span><span class="english">Rose can't watch TV on weekdays.</span></p>

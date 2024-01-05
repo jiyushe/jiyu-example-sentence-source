@@ -1,5 +1,7 @@
 # 改造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaizao.md)
+
 <p><span class="chinese">我被改造了。</span><span class="english">I was transformed.</span></p>
 
 <p><span class="chinese">往时的事是不可以改造的。</span><span class="english">You can't change the past.</span></p>

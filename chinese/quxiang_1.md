@@ -1,5 +1,7 @@
 # 趋向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quxiang_1.md)
+
 <p><span class="chinese">物价的趋向是仍在上涨。</span><span class="english">The trend of prices is still upwards.</span></p>
 
 <p><span class="chinese">这三样东西趋向于同时存在。</span><span class="english">These three things tend to go together.</span></p>

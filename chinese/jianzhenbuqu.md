@@ -1,5 +1,7 @@
 # 坚贞不屈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzhenbuqu.md)
+
 <p><span class="chinese">人在死亡面前是坚贞不屈的。</span><span class="english">Man is constant in the face of death.</span></p>
 
 <p><span class="chinese">他受尽酷刑，仍然坚贞不屈。</span><span class="english">He remained unbending under the severest of tortures.</span></p>

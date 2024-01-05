@@ -1,5 +1,7 @@
 # 壮健
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangjian.md)
+
 <p><span class="chinese">于是我壮健的长大了。</span><span class="english">And now I grow up.</span></p>
 
 <p><span class="chinese">壮健是生第一财富。</span><span class="english">The first wealth is health.</span></p>

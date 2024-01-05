@@ -1,5 +1,7 @@
 # defendable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defendable.md)
+
 <p><span class="chinese">这是一个防御级别非常高的领域。</span><span class="english">It's an area that's very highly defendable.</span></p>
 
 <p><span class="chinese">“我相信，首先这个事情存在两个问题，欧足联采取的行动是不能接受的。”温格接着说，欧足联这次可能会自找麻烦。</span><span class="english">I believe that, first of all, there are two cases in this case and that Uefa has taken action that is not defendable.</span></p>

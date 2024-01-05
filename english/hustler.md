@@ -1,5 +1,7 @@
 # hustler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hustler.md)
+
 <p><span class="chinese">作为一个生存在拉斯维加斯骗子！</span><span class="english">Survive as a hustler in Vegas!</span></p>
 
 <p><span class="chinese">我们的邻居被那个骗子骗了几千元。</span><span class="english">Our neighbors paid thousands of dollars to that hustler.</span></p>

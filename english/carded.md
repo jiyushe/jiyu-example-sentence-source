@@ -1,5 +1,7 @@
 # carded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carded.md)
+
 <p><span class="chinese">未梳的羊毛。</span><span class="english">Wool, not carded or combed.</span></p>
 
 <p><span class="chinese">他在18洞的高尔夫赛程中得了85杆的成绩。</span><span class="english">He carded 85 on the 18-hole course.</span></p>

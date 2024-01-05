@@ -1,5 +1,7 @@
 # stranger 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stranger.md)
+
 <p><span class="chinese">我在这里人地生疏。</span><span class="english">I'm a stranger here.</span></p>
 
 <p><span class="chinese">你是谁，陌生人？</span><span class="english">Who are you, stranger?</span></p>

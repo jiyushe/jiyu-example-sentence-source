@@ -1,5 +1,7 @@
 # booze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/booze.md)
+
 <p><span class="chinese">豪饮可不能这样。</span><span class="english">There is no booze in there!</span></p>
 
 <p><span class="chinese">买鼬鼠还是更多酒？</span><span class="english">Money for skunk or just more booze?</span></p>

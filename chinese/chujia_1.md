@@ -1,5 +1,7 @@
 # 出嫁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chujia_1.md)
+
 <p><span class="chinese">二回出嫁的是玛白姑娘。</span><span class="english">The second married was Mabai girl.</span></p>
 
 <p><span class="chinese">第三出嫁的是约白姑娘。</span><span class="english">The third married was the girl Yuebai.</span></p>

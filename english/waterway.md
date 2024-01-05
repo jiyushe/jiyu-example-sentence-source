@@ -1,5 +1,7 @@
 # waterway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterway.md)
+
 <p><span class="chinese">休伦湖作为一条水路。</span><span class="english">Lake Huron as a waterway.</span></p>
 
 <p><span class="chinese">航道淤塞。</span><span class="english">The waterway is silted up.</span></p>

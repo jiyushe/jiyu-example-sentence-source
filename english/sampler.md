@@ -1,5 +1,7 @@
 # sampler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sampler.md)
+
 <p><span class="chinese">你可以添加一个断言到任何取样器。</span><span class="english">You can add an assertion to any Sampler.</span></p>
 
 <p><span class="chinese">取样器是由不锈钢316L材料制造的。</span><span class="english">Sampler manufactured in stainless steel 316L.</span></p>

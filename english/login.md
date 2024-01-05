@@ -1,5 +1,7 @@
 # login
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/login.md)
+
 <p><span class="chinese">匿名登录。</span><span class="english">Anonymous Login.</span></p>
 
 <p><span class="chinese">登录到你的博客。</span><span class="english">Login to your blog.</span></p>

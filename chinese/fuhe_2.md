@@ -1,5 +1,7 @@
 # 附和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuhe_2.md)
+
 <p><span class="chinese">“确实是个美好的夜晚，”伊萨贝尔附和说。</span><span class="english">“A really good night, ” agreed Isabel.</span></p>
 
 <p><span class="chinese">“我也这么想，”嘉莉附和着说。</span><span class="english">"I expect so, " said Carrie, agreeably.</span></p>

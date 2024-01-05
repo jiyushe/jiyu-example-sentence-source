@@ -1,5 +1,7 @@
 # plethora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plethora.md)
+
 <p><span class="chinese">具有过多导入的类会有许多惟一类型。</span><span class="english">Classes with a plethora of imports have many unique types.</span></p>
 
 <p><span class="chinese">您可能拥有非常多的数据文件和个人文件。</span><span class="english">You likely have a plethora of data files and personal files.</span></p>

@@ -1,5 +1,7 @@
 # 鼓足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzu.md)
+
 <p><span class="chinese">我们要复兴美国，就必须鼓足勇气。</span><span class="english">To renew America we must be bold.</span></p>
 
 <p><span class="chinese">首先你要鼓足勇气。</span><span class="english">You should gather up your courage first.</span></p>

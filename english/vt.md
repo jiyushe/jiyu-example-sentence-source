@@ -1,5 +1,7 @@
 # vt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vt.md)
+
 <p><span class="chinese">我国已向该国新政府派遣了外交使节。</span><span class="english">vt. Our envoy was accredited to the new government.</span></p>
 
 <p><span class="chinese">董事长将任命你做他的助理。</span><span class="english">vt. The president will accredit you as his assistant.</span></p>

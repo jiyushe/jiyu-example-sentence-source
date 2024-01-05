@@ -1,5 +1,7 @@
 # whiskers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiskers.md)
+
 <p><span class="chinese">他留鬓在他的脸颊上。</span><span class="english">He wears whiskers on his cheeks.</span></p>
 
 <p><span class="chinese">也许是一副配套的脑波控制胡须吧。</span><span class="english">Maybe a set of matching whiskers.</span></p>

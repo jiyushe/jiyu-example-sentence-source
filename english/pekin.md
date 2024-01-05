@@ -1,5 +1,7 @@
 # pekin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pekin.md)
+
 <p><span class="chinese">北京好啊。是中国的首都嘛！</span><span class="english">Pekin is very good. It is the capital of China.</span></p>
 
 <p><span class="chinese">伦敦的店铺和北京的一样，陈设讲究。</span><span class="english">The shops of london are as well furnished as those of Pekin.</span></p>

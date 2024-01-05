@@ -1,5 +1,7 @@
 # 一言九鼎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyanjiuding.md)
+
 <p><span class="chinese">奥巴马现在是黑人文化的教父，一言九鼎。</span><span class="english">Obama is now the big Daddy in black culture and when he speaks it’ll matter.</span></p>
 
 <p><span class="chinese">众口铄金、一言九鼎为公司赢得了较高的占有率。</span><span class="english">Public clamor can melt metals, authoritative, the company has won a high share.</span></p>

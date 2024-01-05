@@ -1,5 +1,7 @@
 # 失聪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shicong_1.md)
+
 <p><span class="chinese">为失聪或听障者提供育乐营。</span><span class="english">For deaf or deaf offer camp.</span></p>
 
 <p><span class="chinese">我明白自己天生失聪因为某种原因，明白这是一种重要的启示。</span><span class="english">Knowing this was a major revelation.</span></p>

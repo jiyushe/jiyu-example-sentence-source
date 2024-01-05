@@ -1,5 +1,7 @@
 # 驱赶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qugan_1.md)
+
 <p><span class="chinese">别再驱赶那可怜的动物了！</span><span class="english">Stop goading the poor beast!</span></p>
 
 <p><span class="chinese">于得明很快又遭到驱赶。</span><span class="english">Soon to have been driven out.</span></p>

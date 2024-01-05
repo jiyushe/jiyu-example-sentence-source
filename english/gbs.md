@@ -1,5 +1,7 @@
 # gbs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gbs.md)
+
 <p><span class="chinese">结论IVIG治疗儿童GBS是一种安全有效的方法。</span><span class="english">Conclusion IVIG therapy is safe and efficacious to children with GBS.</span></p>
 
 <p><span class="chinese">整个展场，气氛最热烈的当属湖南广播影视集团和青海省的展区。</span><span class="english">The exhibiting sites of GBS & Qinghai province proved the most popular.</span></p>

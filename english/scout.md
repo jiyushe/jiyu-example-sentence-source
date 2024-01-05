@@ -1,5 +1,7 @@
 # scout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scout.md)
+
 <p><span class="chinese">女童军是忠心的。</span><span class="english">Girl Scout is loyal.</span></p>
 
 <p><span class="chinese">它们是侦察犬。</span><span class="english">They were scout dogs.</span></p>

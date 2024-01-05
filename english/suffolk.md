@@ -1,5 +1,7 @@
 # suffolk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suffolk.md)
+
 <p><span class="chinese">他住在萨福克郡。</span><span class="english">He lives in Suffolk.</span></p>
 
 <p><span class="chinese">我住在离伦敦60英里远的萨福斯。</span><span class="english">I live about 60 miles from London in Suffolk.</span></p>

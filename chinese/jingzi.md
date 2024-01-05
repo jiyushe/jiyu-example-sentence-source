@@ -1,5 +1,7 @@
 # 径自
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzi.md)
+
 <p><span class="chinese">她没打招呼,径自走了。</span><span class="english">She turned away without leave.</span></p>
 
 <p><span class="chinese">他径自走进了屋子。</span><span class="english">He walked into the room unbidden.</span></p>

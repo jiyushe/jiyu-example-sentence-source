@@ -1,5 +1,7 @@
 # 稀稀落落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixiluoluo.md)
+
 <p><span class="chinese">好奇的先锋们稀稀落落的来到了这个舞蹈班。</span><span class="english">Curious pioneers trickled into the studio.</span></p>
 
 <p><span class="chinese">百老汇大街上稀稀落落地还有些行人。</span><span class="english">Broadway was thinly peopled with pedestrians.</span></p>

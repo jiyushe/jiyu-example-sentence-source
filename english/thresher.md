@@ -1,5 +1,7 @@
 # thresher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thresher.md)
+
 <p><span class="chinese">为什么？由于人们不想要另一台脱粒机。</span><span class="english">Why? Because people don't want another Thresher.</span></p>
 
 <p><span class="chinese">这声音会激怒长尾鲛。</span><span class="english">Their sound riles a thresher up something fierce.</span></p>

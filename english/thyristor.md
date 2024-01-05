@@ -1,5 +1,7 @@
 # thyristor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thyristor.md)
+
 <p><span class="chinese">晶闸管的导通是可控的。</span><span class="english">The thyristor is a controlled device.</span></p>
 
 <p><span class="chinese">如果是相反方向，半导体闸流管无法开启。</span><span class="english">In the reverse direction the thyristor cannot be turned on.</span></p>

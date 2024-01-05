@@ -1,5 +1,7 @@
 # ballpark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballpark.md)
+
 <p><span class="chinese">而第二件事情就是估算。</span><span class="english">The second thing is ballpark it.</span></p>
 
 <p><span class="chinese">不要短打。目标瞄准场外。</span><span class="english">Don't bunt. Aim out of the ballpark.</span></p>

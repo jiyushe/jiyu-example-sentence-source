@@ -1,5 +1,7 @@
 # keystone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keystone.md)
+
 <p><span class="chinese">这是拱心石吗？</span><span class="english">Is it the keystone?</span></p>
 
 <p><span class="chinese">你好，我们是楔石摄影怪兵器！</span><span class="english">Hello, We are Keystone photographic equipment!</span></p>

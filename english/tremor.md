@@ -1,5 +1,7 @@
 # tremor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tremor.md)
+
 <p><span class="chinese">诱引一颗初升的星化为一个震颤。</span><span class="english">To tempt a first star to a tremor.</span></p>
 
 <p><span class="chinese">一阵若有若无的颤动表明这些蘑菇是安全可食用的。</span><span class="english">A feeble tremor indicates that it's safe to eat.</span></p>

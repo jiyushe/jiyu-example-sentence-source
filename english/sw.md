@@ -1,5 +1,7 @@
 # sw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sw.md)
+
 <p><span class="chinese">我需要大量的能量。步行去某处。</span><span class="english">I need lots of energy. walk to sw.</span></p>
 
 <p><span class="chinese">越冬品系具有很强的耐低温能力。</span><span class="english">The SW have strong ability on cold tolerance.</span></p>

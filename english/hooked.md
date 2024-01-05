@@ -1,5 +1,7 @@
 # hooked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hooked.md)
+
 <p><span class="chinese">现在我上勾了。</span><span class="english">Now I'm hooked.</span></p>
 
 <p><span class="chinese">他们知道我们已经入迷。</span><span class="english">They know we're hooked.</span></p>

@@ -1,5 +1,7 @@
 # diabetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diabetic.md)
+
 <p><span class="chinese">我能做什么预防糖尿病足部问题？</span><span class="english">What can I do to prevent diabetic foot problems?</span></p>
 
 <p><span class="chinese">胰岛肾病是管理头等问题。</span><span class="english">Diabetic nephropathy is a major management issue.</span></p>

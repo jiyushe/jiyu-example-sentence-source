@@ -1,5 +1,7 @@
 # 对不起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duibuqi.md)
+
 <p><span class="chinese">妈咪，对不起。</span><span class="english">Sorry, Mommy.</span></p>
 
 <p><span class="chinese">——我知道，对不起。</span><span class="english">I know, sorry.</span></p>

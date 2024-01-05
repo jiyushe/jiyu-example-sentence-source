@@ -1,5 +1,7 @@
 # 就要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuyao.md)
+
 <p><span class="chinese">我现在就要起床吗?。</span><span class="english">Dol have to get up now?</span></p>
 
 <p><span class="chinese">我一会儿就要出去了。</span><span class="english">I'll be out in a jiffy.</span></p>

@@ -1,5 +1,7 @@
 # 庭园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingyuan.md)
+
 <p><span class="chinese">这大厦四周的庭园广阔。</span><span class="english">The mansion has extensive grounds.</span></p>
 
 <p><span class="chinese">这是个给庭园找缺陷的好地方。</span><span class="english">It was a good spot for fault-finding.</span></p>

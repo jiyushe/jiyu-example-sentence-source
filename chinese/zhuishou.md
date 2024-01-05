@@ -1,5 +1,7 @@
 # 追授
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuishou.md)
+
 <p><span class="chinese">除了一个以外的所有的都是死后追授的。</span><span class="english">All but one have been posthumous.</span></p>
 
 <p><span class="chinese">他被追授了一枚维多利亚十字勋章。</span><span class="english">He was awarded a posthumous Victoria Cross.</span></p>

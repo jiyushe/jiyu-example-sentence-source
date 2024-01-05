@@ -1,5 +1,7 @@
 # retractable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retractable.md)
+
 <p><span class="chinese">收放纸体系有阻力。</span><span class="english">The 1 retractable paper system resistance.</span></p>
 
 <p><span class="chinese">选择张力，伸缩或可折叠旗帜的立场。</span><span class="english">Choose from tension, telescoping or retractable banner stand.</span></p>

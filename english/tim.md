@@ -1,5 +1,7 @@
 # tim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tim.md)
+
 <p><span class="chinese">嗨，这是蒂姆伯奇。</span><span class="english">Hi, this is Tim Berge.</span></p>
 
 <p><span class="chinese">蒂姆热情地招呼她。</span><span class="english">Tim greets her warmly.</span></p>

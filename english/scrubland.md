@@ -1,5 +1,7 @@
 # scrubland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrubland.md)
+
 <p><span class="chinese">他们的古老灌木丛林地正受到牧场主和干旱的威胁。</span><span class="english">Their ancient scrubland is being threatened by ranchersand drought.</span></p>
 
 <p><span class="chinese">明亮的红宝石色，有丰富的黑莓、黑樱桃和牡丹等香气。</span><span class="english">Ruby great intensity. Generous smell of prune, blackberry, black cherry, peony, and scrubland.</span></p>

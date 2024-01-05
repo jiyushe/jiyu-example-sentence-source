@@ -1,5 +1,7 @@
 # unsettled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsettled.md)
+
 <p><span class="chinese">难消化的食物使他的胃不舒服。</span><span class="english">The heavy food unsettled his stomach.</span></p>
 
 <p><span class="chinese">真菌类分类仍然是未定形的。</span><span class="english">Fungal classification is still unsettled.</span></p>

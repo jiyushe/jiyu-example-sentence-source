@@ -1,5 +1,7 @@
 # applicability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applicability.md)
+
 <p><span class="chinese">民事行为能力三分法缺乏实用性。</span><span class="english">Trichotomy of civil liability lacks applicability.</span></p>
 
 <p><span class="chinese">对于体系架构化的快速应用程序的广泛适用性</span><span class="english">Broad applicability for architected rapid application</span></p>

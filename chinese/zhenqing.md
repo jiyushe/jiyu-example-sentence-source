@@ -1,5 +1,7 @@
 # 真情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenqing.md)
+
 <p><span class="chinese">只有谎言才能套出真情。</span><span class="english">Only lies can get the truth.</span></p>
 
 <p><span class="chinese">劝诫她招认真情吧！</span><span class="english">Exhort her to confess the truth!</span></p>

@@ -1,5 +1,7 @@
 # diluent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diluent.md)
+
 <p><span class="chinese">钇被用作稀土金属一种理想的非磁性稀释剂。</span><span class="english">Yttrium serves as an ideal non-magnetic diluent for the rare-earth metals.</span></p>
 
 <p><span class="chinese">稀释液体及稀释后存放温度不应低于16℃。</span><span class="english">The diluent solution and the storing temperature after dilution is not less than 16℃.</span></p>

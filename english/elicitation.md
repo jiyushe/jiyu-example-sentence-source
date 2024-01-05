@@ -1,5 +1,7 @@
 # elicitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elicitation.md)
+
 <p><span class="chinese">需求抽取是连续的。</span><span class="english">Requirements elicitation is continuous.</span></p>
 
 <p><span class="chinese">有一种方法是使用隐喻提取技术。</span><span class="english">One way of doing this is touse a metaphor elicitation technique.</span></p>

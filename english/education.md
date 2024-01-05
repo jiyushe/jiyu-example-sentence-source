@@ -1,5 +1,7 @@
 # education
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/education.md)
+
 <p><span class="chinese">教育强市。</span><span class="english">Education Strong City.</span></p>
 
 <p><span class="chinese">那就是网上教育。</span><span class="english">That is online education.</span></p>

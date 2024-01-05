@@ -1,5 +1,7 @@
 # 走着瞧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouzheqiao.md)
+
 <p><span class="chinese">我们走着瞧吧。</span><span class="english">We shall see.</span></p>
 
 <p><span class="chinese">走着瞧吧，可恶的压力！</span><span class="english">Waits and sees, hateful pressure!</span></p>

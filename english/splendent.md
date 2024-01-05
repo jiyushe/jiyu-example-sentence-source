@@ -1,5 +1,7 @@
 # splendent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splendent.md)
+
 <p><span class="chinese">我的空间全黑，只有他们在熠熠生辉。</span><span class="english">My space is nothing but dark, only they are splendent.</span></p>
 
 <p><span class="chinese">明快而精致的陈设创造了一个真正舒适与豪华的气氛。</span><span class="english">The spright and diaphanous display produces a really snug and splendent atmosphere.</span></p>

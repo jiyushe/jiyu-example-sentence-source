@@ -1,5 +1,7 @@
 # afresh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afresh.md)
+
 <p><span class="chinese">这时候，那阵狂笑又重新爆发出来。</span><span class="english">Then the laughter burst out afresh.</span></p>
 
 <p><span class="chinese">这是一个重新出发的机会。</span><span class="english">It’s an opportunity to start afresh.</span></p>

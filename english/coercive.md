@@ -1,5 +1,7 @@
 # coercive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coercive.md)
+
 <p><span class="chinese">如果短信不管用将会采取强硬手段来解决问题。</span><span class="english">If that fails, more coercive means will be used.</span></p>
 
 <p><span class="chinese">强制人道干预将是复杂而代价高昂的。</span><span class="english">A coercive humanitarian intervention would be complicated and costly.</span></p>

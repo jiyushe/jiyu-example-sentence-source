@@ -1,5 +1,7 @@
 # later
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/later.md)
+
 <p><span class="chinese">迟点生小孩。</span><span class="english">Have kids later.</span></p>
 
 <p><span class="chinese">但那是后话。</span><span class="english">But that's later.</span></p>

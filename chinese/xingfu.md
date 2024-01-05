@@ -1,5 +1,7 @@
 # 幸福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingfu.md)
+
 <p><span class="chinese">斯霞是幸福的。</span><span class="english">Sixia is happy.</span></p>
 
 <p><span class="chinese">多么幸福！</span><span class="english">What happiness!</span></p>

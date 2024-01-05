@@ -1,5 +1,7 @@
 # feller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feller.md)
+
 <p><span class="chinese">乔，你说你不会说出去，这才够意思啊。</span><span class="english">Say you won't tell, Joe—that's a good feller.</span></p>
 
 <p><span class="chinese">这个名号加在他的身上，比加在像我这样一个没有本事的可怜人身上好多啦。</span><span class="english">He'll adorn it better than a poor lammicken feller like myself can.</span></p>

@@ -1,5 +1,7 @@
 # 闲钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianqian_3.md)
+
 <p><span class="chinese">已经没有闲钱能用或者来买别的东西了。</span><span class="english">No extra money to go and buy other things.</span></p>
 
 <p><span class="chinese">我可以借你些钱。我家里有些闲钱。</span><span class="english">I can lend you some money. I have some losse money at home.</span></p>

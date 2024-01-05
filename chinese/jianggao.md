@@ -1,5 +1,7 @@
 # 讲稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianggao.md)
+
 <p><span class="chinese">你最好缩短讲稿的内容。</span><span class="english">You’d better cut short the lecture.</span></p>
 
 <p><span class="chinese">她把讲稿修改成了一篇广播讲话。</span><span class="english">She recast her lecture as a radio talk.</span></p>

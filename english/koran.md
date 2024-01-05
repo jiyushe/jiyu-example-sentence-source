@@ -1,5 +1,7 @@
 # Koran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/koran.md)
+
 <p><span class="chinese">古兰经则彻底批判利息，他们说，利息貌似是生意，但上帝许你做生意不许你收利息。</span><span class="english">The Koran damns interest outright</span></p>
 
 <p><span class="chinese">兰经是伊斯兰教徒的圣书。</span><span class="english">The Koran is the sacred book of the Muslims.</span></p>

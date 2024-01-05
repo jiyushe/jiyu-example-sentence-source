@@ -1,5 +1,7 @@
 # houseman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/houseman.md)
+
 <p><span class="chinese">这所房子里现在有一个男仆和女仆在里面生活。</span><span class="english">There were a houseman and a maid in the house now.</span></p>
 
 <p><span class="chinese">豪斯曼女士说，这显然比我们估计的多。</span><span class="english">It is certainly more than we measure, Ms.Houseman says.</span></p>

@@ -1,5 +1,7 @@
 # binocular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/binocular.md)
+
 <p><span class="chinese">该场可以是单眼的或双眼的。</span><span class="english">The yield may be monocular or binocular.</span></p>
 
 <p><span class="chinese">一般双筒望远镜视野范围在天空中大约5度和6度。</span><span class="english">A typcial binocular field spans 5 to 6 degrees of sky.</span></p>

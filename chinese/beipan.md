@@ -1,5 +1,7 @@
 # 背叛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beipan.md)
+
 <p><span class="chinese">她背叛了我。</span><span class="english">She cheated on me.</span></p>
 
 <p><span class="chinese">他们背叛了我们。</span><span class="english">They have ratted on us.</span></p>

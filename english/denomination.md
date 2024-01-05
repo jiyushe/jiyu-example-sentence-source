@@ -1,5 +1,7 @@
 # denomination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denomination.md)
+
 <p><span class="chinese">你有什么面额的？</span><span class="english">What denomination do you have?</span></p>
 
 <p><span class="chinese">首先消费者倾向于高估大面值货币。</span><span class="english">First consumers tended to overvalue higher denomination money.</span></p>

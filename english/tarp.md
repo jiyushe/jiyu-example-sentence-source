@@ -1,5 +1,7 @@
 # tarp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tarp.md)
+
 <p><span class="chinese">麋鹿站起来的时候，防水布从它身上滑落。</span><span class="english">When the elk got up, the tarp slid off.</span></p>
 
 <p><span class="chinese">我第一次使用篷布的时候它给我留下了深刻的印象。</span><span class="english">When I first used a tarp I was quite impressed.</span></p>

@@ -1,5 +1,7 @@
 # disintegrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disintegrate.md)
+
 <p><span class="chinese">飞机以那种速度飞行时开始解体。</span><span class="english">At that speed the plane began to disintegrate.</span></p>
 
 <p><span class="chinese">到了公元180年，罗马帝国开始瓦解。</span><span class="english">By 180 AD, the Roman Empire began to disintegrate.</span></p>

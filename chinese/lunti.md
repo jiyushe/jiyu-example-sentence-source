@@ -1,5 +1,7 @@
 # 论题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunti.md)
+
 <p><span class="chinese">论题或者局域学习小组。</span><span class="english">Topic or domain study group.</span></p>
 
 <p><span class="chinese">关于这种论题的正式辩论。</span><span class="english">Formal disputation of such an issue.</span></p>

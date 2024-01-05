@@ -1,5 +1,7 @@
 # neatness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neatness.md)
+
 <p><span class="chinese">对于她的国家，她也怀有同样的优雅与整洁的情愫。</span><span class="english">She applied the same sense of grace and neatness to America.</span></p>
 
 <p><span class="chinese">因我不爱整洁姐姐又向我没完没了地劝告。</span><span class="english">My sister has been preaching at me again about my lack of neatness.</span></p>

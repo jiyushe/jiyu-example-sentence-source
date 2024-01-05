@@ -1,5 +1,7 @@
 # wavy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wavy.md)
+
 <p><span class="chinese">这些是波浪线。</span><span class="english">These are wavy lines.</span></p>
 
 <p><span class="chinese">她长着长长的鬈发。</span><span class="english">She has long wavy hair.</span></p>

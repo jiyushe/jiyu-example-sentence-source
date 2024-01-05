@@ -1,5 +1,7 @@
 # 理亏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/likui.md)
+
 <p><span class="chinese">不在者永远理亏。</span><span class="english">The absent are always wronged.</span></p>
 
 <p><span class="chinese">我知道我理亏了，只好承认了。</span><span class="english">I knew I wrong, and had confessed.</span></p>

@@ -1,5 +1,7 @@
 # electrical 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrical.md)
+
 <p><span class="chinese">低电压电器设备。</span><span class="english">Low-voltage electrical equipment.</span></p>
 
 <p><span class="chinese">瓦特是电功率的单位。</span><span class="english">A watt is unit of electrical power.</span></p>

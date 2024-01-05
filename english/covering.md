@@ -1,5 +1,7 @@
 # covering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covering.md)
+
 <p><span class="chinese">盖上新梯子。</span><span class="english">New stairs covering.</span></p>
 
 <p><span class="chinese">好，火力掩护。</span><span class="english">Okey, covering fire.</span></p>

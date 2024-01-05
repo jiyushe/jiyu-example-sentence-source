@@ -1,5 +1,7 @@
 # committee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/committee.md)
+
 <p><span class="chinese">跳舞会的事?。</span><span class="english">Prom committee thing?</span></p>
 
 <p><span class="chinese">他对委员会指手画脚。</span><span class="english">He lorded it over the committee.</span></p>

@@ -1,5 +1,7 @@
 # 化险为夷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaxianweiyi.md)
+
 <p><span class="chinese">化险为夷冷却时间从20分钟收缩到10分钟。</span><span class="english">Rebirth cooldown has been reduced from 20 minutes to 10 minutes.</span></p>
 
 <p><span class="chinese">但你的聪明智慧将能化险为夷并给你带来超强人气。</span><span class="english">Your intellectual wit will bring greater popularity with your peers.</span></p>

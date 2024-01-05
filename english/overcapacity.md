@@ -1,5 +1,7 @@
 # overcapacity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overcapacity.md)
+
 <p><span class="chinese">目前是一个全球性过剩的广泛带钢。</span><span class="english">There is a worldwide overcapacity for wide steel strip.</span></p>
 
 <p><span class="chinese">由于产能过剩，2010年的投资也将不乐观。</span><span class="english">Investment may also disappoint in 2010, because of overcapacity.</span></p>

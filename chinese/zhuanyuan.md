@@ -1,5 +1,7 @@
 # 专员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyuan.md)
+
 <p><span class="chinese">印度驻英国高级专员</span><span class="english">Indian High Commissioner to U.K.</span></p>
 
 <p><span class="chinese">一个术语只能有一个专员。</span><span class="english">A term can have only one steward.</span></p>

@@ -1,5 +1,7 @@
 # slavery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slavery.md)
+
 <p><span class="chinese">从书中我看到了自杀，看到了奴隶制。</span><span class="english">I see suicide. I see slavery.</span></p>
 
 <p><span class="chinese">现在,奴隶制保卫战的本质是什么呢</span><span class="english">Now, how is slavery defended?</span></p>

@@ -1,5 +1,7 @@
 # 衰败
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaibai.md)
+
 <p><span class="chinese">它后来陷落衰败。</span><span class="english">It had fallen into decay.</span></p>
 
 <p><span class="chinese">贾府就是这个衰败的典型。</span><span class="english">Jia is typical of this decline.</span></p>

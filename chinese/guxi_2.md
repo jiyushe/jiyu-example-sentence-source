@@ -1,5 +1,7 @@
 # 股息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guxi_2.md)
+
 <p><span class="chinese">转移你的股息。</span><span class="english">Move your dividends.</span></p>
 
 <p><span class="chinese">现在的股息税税率是多少呢</span><span class="english">What's the tax rate of dividends today?</span></p>

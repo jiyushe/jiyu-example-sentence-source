@@ -1,5 +1,7 @@
 # 进屋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinwu.md)
+
 <p><span class="chinese">我会带你进屋的。</span><span class="english">I'll see you in the room.</span></p>
 
 <p><span class="chinese">他搀扶着祖母进屋。</span><span class="english">He helped his grandmother in.</span></p>

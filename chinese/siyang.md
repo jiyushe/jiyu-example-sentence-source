@@ -1,5 +1,7 @@
 # 饲养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siyang.md)
+
 <p><span class="chinese">为什么饲养鸵鸟？</span><span class="english">Why ostriches?</span></p>
 
 <p><span class="chinese">他将饲养好马。</span><span class="english">He will breed good horses.</span></p>

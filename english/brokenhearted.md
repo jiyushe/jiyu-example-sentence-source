@@ -1,5 +1,7 @@
 # brokenhearted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brokenhearted.md)
+
 <p><span class="chinese">啊啊，你失恋啦…</span><span class="english">Ah, ah, you brokenhearted.</span></p>
 
 <p><span class="chinese">你怎么这么无精打采？失恋啦。</span><span class="english">You how so in poor fettle?Brokenhearted.</span></p>

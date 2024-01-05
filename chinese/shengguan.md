@@ -1,5 +1,7 @@
 # 升官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengguan.md)
+
 <p><span class="chinese">咱们让艾伦走路，给安升官。</span><span class="english">Let's fire Allan and promote Ann.</span></p>
 
 <p><span class="chinese">所以他一直没能升官。</span><span class="english">So he had got none of any advancement.</span></p>

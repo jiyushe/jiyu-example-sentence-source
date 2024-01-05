@@ -1,5 +1,7 @@
 # dimeric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimeric.md)
+
 <p><span class="chinese">另一个优点是能使二聚丙烯酸的形成尽可能最少。</span><span class="english">An additional advantage is the minimization of the formation of dimeric acrylic acid.</span></p>
 
 <p><span class="chinese">二聚表面活性剂是由两个双亲体通过一个间隔链连接构成的。</span><span class="english">The dimeric surfactants are a novel class of surfactants which have two amphiphiles connected with a spacer.</span></p>

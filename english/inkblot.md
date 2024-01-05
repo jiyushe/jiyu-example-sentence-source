@@ -1,5 +1,7 @@
 # inkblot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inkblot.md)
+
 <p><span class="chinese">然而，问题是这些墨迹图真的能够揭示这所有的一切吗？</span><span class="english">However, does the inkblot really reveal all?</span></p>
 
 <p><span class="chinese">如果不去阅读它，它仅仅是纸上的墨迹而已。</span><span class="english">If it is not read, it is nothing more than inkblot on paper.</span></p>

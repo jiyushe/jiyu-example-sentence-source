@@ -1,5 +1,7 @@
 # 跳跃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoyue_1.md)
+
 <p><span class="chinese">非常跳跃的音乐</span><span class="english">Pretty skippy.</span></p>
 
 <p><span class="chinese">腾跃以腾跃姿势跳跃…</span><span class="english">To leap in a curvet.</span></p>

@@ -1,5 +1,7 @@
 # 天地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiandi.md)
+
 <p><span class="chinese">心远天地宽——数星客。</span><span class="english">Thee world in my heart.</span></p>
 
 <p><span class="chinese">只有天地万物知道。</span><span class="english">Only the universe knows.</span></p>

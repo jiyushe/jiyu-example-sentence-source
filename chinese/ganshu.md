@@ -1,5 +1,7 @@
 # 甘薯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshu.md)
+
 <p><span class="chinese">在中国，甘薯扮演了类似的角色。</span><span class="english">The sweet potato played a similar role in China.</span></p>
 
 <p><span class="chinese">甘薯作为新型能源作物的作用已凸显出来。</span><span class="english">As a new type energy crop, sweetpotato is more and more important.</span></p>

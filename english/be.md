@@ -1,5 +1,7 @@
 # be
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/be.md)
+
 <p><span class="chinese">尽量简短。</span><span class="english">Be brief.</span></p>
 
 <p><span class="chinese">有人情味。</span><span class="english">Be human.</span></p>

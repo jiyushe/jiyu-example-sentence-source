@@ -1,5 +1,7 @@
 # 大观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daguan_1.md)
+
 <p><span class="chinese">这些实验结果对大观霉素溶析结晶工业生产的控制具有重要意义。</span><span class="english">All the results were important for the control of industrial dilution of spectinomycin.</span></p>
 
 <p><span class="chinese">盐酸大观霉素含量测定文献规定为微生物效价测定方法。</span><span class="english">An improved method for the potency determination of spectinomycin hydrochloride is reported.</span></p>

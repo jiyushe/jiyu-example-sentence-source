@@ -1,5 +1,7 @@
 # heinous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heinous.md)
+
 <p><span class="chinese">他们就开始显露可憎的面目。</span><span class="english">They began to reveal the face of heinous.</span></p>
 
 <p><span class="chinese">捏造数据是十恶不赦的科学之罪。</span><span class="english">Fabricating data is a heinous scientific sin.</span></p>

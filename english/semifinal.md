@@ -1,5 +1,7 @@
 # semifinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semifinal.md)
+
 <p><span class="chinese">加布将在半决赛中和费伊较量。</span><span class="english">Gabb will be matched against Fay in the semifinal.</span></p>
 
 <p><span class="chinese">另一场半决赛中，日本队击败了瑞典队。</span><span class="english">Japan defeated Sweden in the other semifinal game.</span></p>

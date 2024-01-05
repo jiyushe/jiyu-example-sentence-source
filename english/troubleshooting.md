@@ -1,5 +1,7 @@
 # troubleshooting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troubleshooting.md)
+
 <p><span class="chinese">对你我而言，这意味着故障排除。</span><span class="english">To you and me, that means troubleshooting.</span></p>
 
 <p><span class="chinese">还介绍了一些故障诊断提示。</span><span class="english">Some troubleshooting tips are also included.</span></p>

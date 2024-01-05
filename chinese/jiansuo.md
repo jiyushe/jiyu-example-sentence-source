@@ -1,5 +1,7 @@
 # 检索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiansuo.md)
+
 <p><span class="chinese">我们把检索与机译结合。</span><span class="english">We combine retrieval with MT.</span></p>
 
 <p><span class="chinese">用于数据检索的一种关键字。</span><span class="english">A key used for data retrieval.</span></p>

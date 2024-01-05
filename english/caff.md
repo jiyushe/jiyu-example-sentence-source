@@ -1,5 +1,7 @@
 # caff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caff.md)
+
 <p><span class="chinese">那家小餐馆曾经是镇里最好的咖啡馆。</span><span class="english">The Caff used to be the town's best café</span></p>
 
 <p><span class="chinese">茶馆是消磨夜晚的好去处。</span><span class="english">The caff is a good place to wile away an evening.</span></p>

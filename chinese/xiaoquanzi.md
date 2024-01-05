@@ -1,5 +1,7 @@
 # 小圈子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoquanzi.md)
+
 <p><span class="chinese">一个是中国人的小圈子。</span><span class="english">One wass group of Chinese.</span></p>
 
 <p><span class="chinese">小圈子里的人一荣俱荣，一损俱损！</span><span class="english">A small group of people in all countries, a harmed!</span></p>

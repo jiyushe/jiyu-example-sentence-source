@@ -1,5 +1,7 @@
 # liken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liken.md)
+
 <p><span class="chinese">我把创新比作成登雷尼尔山。</span><span class="english">I liken innovation to an ascent of Mount Rainier.</span></p>
 
 <p><span class="chinese">我被比作一颗与别的不同的麦粒。</span><span class="english">I am liken to a grain of wheat with one difference.</span></p>

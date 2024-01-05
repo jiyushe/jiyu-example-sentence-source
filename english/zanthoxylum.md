@@ -1,5 +1,7 @@
 # zanthoxylum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zanthoxylum.md)
+
 <p><span class="chinese">这对花椒的抗寒性研究具有重要意义。</span><span class="english">It is very useful for anti-cold research of Zanthoxylum.</span></p>
 
 <p><span class="chinese">同时花椒作为中药也被广泛应用。</span><span class="english">Zanthoxylum is also widely used as traditional Chinese medicine.</span></p>

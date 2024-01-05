@@ -1,5 +1,7 @@
 # 杠杆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganggan.md)
+
 <p><span class="chinese">所以杠杆性引发风险</span><span class="english">So, leverage brings risk.</span></p>
 
 <p><span class="chinese">它们只会去压动杠杆。</span><span class="english">They just pressed the lever.</span></p>

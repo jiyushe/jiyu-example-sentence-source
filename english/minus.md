@@ -1,5 +1,7 @@
 # minus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minus.md)
+
 <p><span class="chinese">这个为负电。</span><span class="english">It is the minus.</span></p>
 
 <p><span class="chinese">亥姆赫兹自由能A等于内能u减去。</span><span class="english">TS A is u minus TS.</span></p>

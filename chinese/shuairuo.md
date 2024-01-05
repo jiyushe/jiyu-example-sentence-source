@@ -1,5 +1,7 @@
 # 衰弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuairuo.md)
+
 <p><span class="chinese">病人很衰弱。</span><span class="english">The patient is very weak.</span></p>
 
 <p><span class="chinese">他的病使他身体衰弱了。</span><span class="english">His illness has left him weak.</span></p>

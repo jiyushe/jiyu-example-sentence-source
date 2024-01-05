@@ -1,5 +1,7 @@
 # antifungal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antifungal.md)
+
 <p><span class="chinese">涂抹抗真菌乳膏也能治脚气。</span><span class="english">Athlete’s foot is treated with antifungal cream.</span></p>
 
 <p><span class="chinese">可通过涂抹非处方的抗真菌乳膏进行治疗。</span><span class="english">It’s treated with nonprescription antifungal creams.</span></p>

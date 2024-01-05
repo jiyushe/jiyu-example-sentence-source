@@ -1,5 +1,7 @@
 # sundries
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sundries.md)
+
 <p><span class="chinese">可以将你的办公杂物统统收纳。</span><span class="english">It can collect all of your sundries together.</span></p>
 
 <p><span class="chinese">化妆品、杂货都是桥头商店货品大宗。</span><span class="english">Makeup and sundries are the staples of Bridgehead shops.</span></p>

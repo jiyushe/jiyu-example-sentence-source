@@ -1,5 +1,7 @@
 # 一蹴而就
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yicuerjiu.md)
+
 <p><span class="chinese">灵光乍现,三秒钟一蹴而就吗</span><span class="english">Three seconds of white-hot inspiration?</span></p>
 
 <p><span class="chinese">梦想是不能一蹴而就的，而是通过一点一点，一步一步的努力来实现的。</span><span class="english">Rather, you reach them bit-by-bit and step-by-step.</span></p>

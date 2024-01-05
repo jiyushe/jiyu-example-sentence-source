@@ -1,5 +1,7 @@
 # inshore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inshore.md)
+
 <p><span class="chinese">渔民在近海围捕乌鱼。</span><span class="english">Fishermen caught grey mullet near the inshore area.</span></p>
 
 <p><span class="chinese">渔民在近海围捕乌鱼。</span><span class="english">Fishermen catching grey mullet near the inshore area.</span></p>

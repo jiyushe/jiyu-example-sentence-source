@@ -1,5 +1,7 @@
 # 退却
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuique.md)
+
 <p><span class="chinese">划掉它并且感受过去正在退却。</span><span class="english">Check it off and feel the past receding.</span></p>
 
 <p><span class="chinese">敌军留下了仓皇退却的痕迹。</span><span class="english">The enemy's retreat left marks of haste.</span></p>

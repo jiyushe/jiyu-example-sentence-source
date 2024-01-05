@@ -1,5 +1,7 @@
 # 栀子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizi_3.md)
+
 <p><span class="chinese">你找不到那种栀子的了！</span><span class="english">You will not find that type of gardenia.</span></p>
 
 <p><span class="chinese">栀子能减轻三者的损伤，保护胰腺细胞。</span><span class="english">GJE can alleviate their damage and protect pancreatic cell.</span></p>

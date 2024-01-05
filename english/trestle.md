@@ -1,5 +1,7 @@
 # trestle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trestle.md)
+
 <p><span class="chinese">环湖栈桥，逆光，南京，2007冬季。</span><span class="english">Trestle circling around the lake, backlighting, Nanking, winter 2007</span></p>
 
 <p><span class="chinese">论文的第一篇是关于铁路栈桥列车牵引计算。</span><span class="english">The first piece is about the tractive calculation on railway trestle.</span></p>

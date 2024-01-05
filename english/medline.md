@@ -1,5 +1,7 @@
 # medline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medline.md)
+
 <p><span class="chinese">使用联机医学文献检索系统和谷歌搜索引擎检阅有价值的英文文献。</span><span class="english">The relevant English literature was reviewed using MEDLINE and Google search engines.</span></p>
 
 <p><span class="chinese">尽管该任务在概念上是直截了当的，但是MEDLINE的大小和范围使得该工作不那么容易。</span><span class="english">Although the task is conceptually straightforward, the size and scope of MEDLINE make the task nontrivial.</span></p>

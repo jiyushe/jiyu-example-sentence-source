@@ -1,5 +1,7 @@
 # photocatalysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photocatalysis.md)
+
 <p><span class="chinese">采用刷涂或喷涂方式对光催化效果没有影响。</span><span class="english">Brushing or spraying method did not affect the photocatalysis effect.</span></p>
 
 <p><span class="chinese">最后展望了超声波辅助光催化的应用前景。</span><span class="english">Finally, the prospect of ultrasonic assisted photocatalysis was presented.</span></p>

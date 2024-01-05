@@ -1,5 +1,7 @@
 # nonfarm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonfarm.md)
+
 <p><span class="chinese">然而非农产业的工资信息却相对较为丰富。</span><span class="english">Wage data for nonfarm occupations, however, are relatively abundant.</span></p>
 
 <p><span class="chinese">此外，农村以非农业工作为生的黑人要比以往更多。</span><span class="english">In addition, nonfarm rural employment is supporting larger numbers of blacks than in the past.</span></p>

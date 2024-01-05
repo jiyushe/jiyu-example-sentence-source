@@ -1,5 +1,7 @@
 # given
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/given.md)
+
 <p><span class="chinese">你曾赐给我的。</span><span class="english">You have given me.</span></p>
 
 <p><span class="chinese">他被判处3年徒刑。</span><span class="english">He was given 3 years.</span></p>

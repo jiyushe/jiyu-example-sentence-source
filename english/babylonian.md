@@ -1,5 +1,7 @@
 # babylonian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babylonian.md)
+
 <p><span class="chinese">提斯柏是一位巴比伦少女。</span><span class="english">Thisbe was a Babylonian maid.</span></p>
 
 <p><span class="chinese">他们一起击败了巴比伦军队。</span><span class="english">Together they defeated the Babylonian army.</span></p>

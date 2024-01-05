@@ -1,5 +1,7 @@
 # 煤田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meitian.md)
+
 <p><span class="chinese">煤炭自燃是义马煤田主要灾害之一。</span><span class="english">Coal spontaneous combustion is one of disaster in Yima coalfield.</span></p>
 
 <p><span class="chinese">这决定了鹤壁煤田的高应力和高瓦斯含量的地质背景。</span><span class="english">These decided high stress and high gas content in Hebi coalfield.</span></p>

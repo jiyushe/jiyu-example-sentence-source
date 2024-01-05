@@ -1,5 +1,7 @@
 # 失身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishen_1.md)
+
 <p><span class="chinese">他觉得要为他以前的雇圆工作很失身分。</span><span class="english">He found it very demeaning to have to work for former employee.</span></p>
 
 <p><span class="chinese">如果你的男友只有二十几岁或十几岁，你可以失身，但不能嫁。</span><span class="english">If your boyfriend is only 20 teens or teen , you can lose, but not marry.</span></p>

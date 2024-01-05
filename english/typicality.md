@@ -1,5 +1,7 @@
 # typicality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typicality.md)
+
 <p><span class="chinese">胡风和周扬走向了两条不同的典型化之路。</span><span class="english">Hu and Zhou walked on the two different ways of typicality.</span></p>
 
 <p><span class="chinese">在整个新疆地区最具有代表性和典型性。</span><span class="english">In the whole xinjiang region is the most representative and typicality.</span></p>

@@ -1,5 +1,7 @@
 # weekend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weekend.md)
+
 <p><span class="chinese">祝大家周末愉快</span><span class="english">Have a great weekend.</span></p>
 
 <p><span class="chinese">我的周末很安静。</span><span class="english">My weekend was quiet.</span></p>

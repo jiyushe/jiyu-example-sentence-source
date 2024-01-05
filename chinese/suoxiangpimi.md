@@ -1,5 +1,7 @@
 # 所向披靡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoxiangpimi.md)
+
 <p><span class="chinese">所向披靡,亦非一人之功</span><span class="english">He alone?</span></p>
 
 <p><span class="chinese">曾经所向披靡的第三帝国。</span><span class="english">The ever-invincible Third Reich.</span></p>

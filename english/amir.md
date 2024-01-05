@@ -1,5 +1,7 @@
 # amir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amir.md)
+
 <p><span class="chinese">阿齐姆对加州并不陌生。</span><span class="english">Amir is no stranger to California.</span></p>
 
 <p><span class="chinese">我最终才弄清楚那说的是一个名叫阿米尔·可汗的家伙。</span><span class="english">Well it turns out that it was a guy named Amir Khan.</span></p>

@@ -1,5 +1,7 @@
 # 扉页
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiye.md)
+
 <p><span class="chinese">在扉页上你都看到了什么？</span><span class="english">What do you see on the title page?</span></p>
 
 <p><span class="chinese">在扉页上题字是送给我的。</span><span class="english">On the flyleaf was an inscription to me.</span></p>

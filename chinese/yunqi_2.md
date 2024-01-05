@@ -1,5 +1,7 @@
 # 运气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunqi_2.md)
+
 <p><span class="chinese">运气不好。</span><span class="english">No luck.</span></p>
 
 <p><span class="chinese">你运气真好！</span><span class="english">You lucked out!</span></p>

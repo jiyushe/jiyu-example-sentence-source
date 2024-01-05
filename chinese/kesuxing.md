@@ -1,5 +1,7 @@
 # 可塑性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kesuxing.md)
+
 <p><span class="chinese">然而可塑性确实存在极限。</span><span class="english">Plasticity does have limits, however.</span></p>
 
 <p><span class="chinese">相反，人类是具有无限可塑性的。</span><span class="english">Rather, people are infinitely malleable.</span></p>

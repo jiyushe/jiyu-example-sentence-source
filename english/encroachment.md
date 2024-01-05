@@ -1,5 +1,7 @@
 # encroachment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encroachment.md)
+
 <p><span class="chinese">“我们需要控制各种开发活动的侵入，”他说。</span><span class="english">"We still need to control the encroachment of other development, " he said.</span></p>
 
 <p><span class="chinese">亚当斯的主题是美国西部，讲述人类对自然地侵犯。</span><span class="english">Adams's main subject is the American West, the encroachment of the man-made on the natural.</span></p>

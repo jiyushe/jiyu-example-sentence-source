@@ -1,5 +1,7 @@
 # 求告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiugao.md)
+
 <p><span class="chinese">我求告你的时候，愿你留心听我的声音。</span><span class="english">Hear my voice when I call to you.</span></p>
 
 <p><span class="chinese">至于我，我要求告神。耶和华必拯救我。</span><span class="english">But I call to God, and the Lord saves me.</span></p>

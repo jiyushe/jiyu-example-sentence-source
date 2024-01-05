@@ -1,5 +1,7 @@
 # 打劫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajie.md)
+
 <p><span class="chinese">我们被打劫了，是这样吗？</span><span class="english">We was robbed, innit?</span></p>
 
 <p><span class="chinese">历史上第一次坦克打劫案。</span><span class="english">The first tank-jacking in history.</span></p>

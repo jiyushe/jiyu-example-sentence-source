@@ -1,5 +1,7 @@
 # available
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/available.md)
+
 <p><span class="chinese">我们保证……切实可用。</span><span class="english">We do have available.</span></p>
 
 <p><span class="chinese">这辆是空车吗？</span><span class="english">Is this cab available?</span></p>

@@ -1,5 +1,7 @@
 # hazel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hazel.md)
+
 <p><span class="chinese">砍下一段棒枝削成杆。</span><span class="english">And cut and peeled a hazel wand.</span></p>
 
 <p><span class="chinese">玫瑰水、金缕梅、芦荟。</span><span class="english">Rose Water, Aloe Vera, Witch Hazel.</span></p>

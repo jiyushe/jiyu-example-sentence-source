@@ -1,5 +1,7 @@
 # bromo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bromo.md)
+
 <p><span class="chinese">它拍摄于婆罗摩国家公园。</span><span class="english">It was taken in Bromo National park.</span></p>
 
 <p><span class="chinese">印度教圣人巴尤深陷于恍惚状态，为前往布罗莫山的供品赐福。</span><span class="english">Deep in a trance, Baryo, a Hindu holy man, blesses offerings bound for Mount Bromo.</span></p>

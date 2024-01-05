@@ -1,5 +1,7 @@
 # heavyset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heavyset.md)
+
 <p><span class="chinese">那儿的那个身强力壮的男人是我叔叔。</span><span class="english">The heavyset man over there is my uncle.</span></p>
 
 <p><span class="chinese">他是个高个子，体格有点魁梧，并且还有一头又黑又卷的头发。</span><span class="english">He's tall, kind of heavyset , and he has dark, wavy hair.</span></p>

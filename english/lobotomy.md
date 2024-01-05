@@ -1,5 +1,7 @@
 # lobotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lobotomy.md)
+
 <p><span class="chinese">哦，拜托，姬雅需要动手术的是你的脑子。</span><span class="english">Oh please , kia what you need is lobotomy.</span></p>
 
 <p><span class="chinese">当然，额叶切除术的争议一直没有停止。</span><span class="english">Of course, the lobotomy always had its critics.</span></p>

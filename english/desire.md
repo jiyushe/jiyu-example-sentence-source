@@ -1,5 +1,7 @@
 # desire 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desire.md)
+
 <p><span class="chinese">愿望曾许出。</span><span class="english">Desire has hui out.</span></p>
 
 <p><span class="chinese">我渴望幸福。</span><span class="english">I desire happiness.</span></p>

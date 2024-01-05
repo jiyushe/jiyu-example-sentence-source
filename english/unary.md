@@ -1,5 +1,7 @@
 # unary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unary.md)
+
 <p><span class="chinese">执行一元运算，返回数值表达式的负值。</span><span class="english">Performs a unary operation that returns the negative value of a numeric expression.</span></p>
 
 <p><span class="chinese">本文确定了任意格上一元多项式和二元多项式的结构，并给出了三元多项式的几个结果。</span><span class="english">The structure of unary and binary polynomials over a lattice is determined in this paper.</span></p>

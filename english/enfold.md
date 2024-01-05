@@ -1,5 +1,7 @@
 # enfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enfold.md)
+
 <p><span class="chinese">用这双臂，我将拥抱你。</span><span class="english">With these arms I'll enfold you.</span></p>
 
 <p><span class="chinese">托尼所指的“我们”又包括谁呢？</span><span class="english">But who does Tony enfold into his “we”?</span></p>

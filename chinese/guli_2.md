@@ -1,5 +1,7 @@
 # 股利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guli_2.md)
+
 <p><span class="chinese">我把股利画出来</span><span class="english">Now I'm plotting dividends.</span></p>
 
 <p><span class="chinese">我买股票是为了股利吗</span><span class="english">Do I buy stocks for dividends?</span></p>

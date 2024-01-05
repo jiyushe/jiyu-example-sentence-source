@@ -1,5 +1,7 @@
 # hogg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hogg.md)
+
 <p><span class="chinese">兴见到你，豪格先生。</span><span class="english">Pleased to mee you, Mr. Hogg.</span></p>
 
 <p><span class="chinese">很愉快见到你，豪格西席。</span><span class="english">Pleased to meet you, Mr Hogg.</span></p>

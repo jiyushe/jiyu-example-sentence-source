@@ -1,5 +1,7 @@
 # fiddling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiddling.md)
+
 <p><span class="chinese">修改拜杜法案确实有其风险。</span><span class="english">Fiddling with Bayh-Dole does bear risks.</span></p>
 
 <p><span class="chinese">理查德在摆弄这辆福特车里的收音机。</span><span class="english">Richard was fiddling with the Ford's radio.</span></p>

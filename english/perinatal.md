@@ -1,5 +1,7 @@
 # perinatal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perinatal.md)
+
 <p><span class="chinese">讨论了臂间倒位的诊断意义。</span><span class="english">The significance of perinatal diagnosis was discussed.</span></p>
 
 <p><span class="chinese">而红细胞沉降率显著降低。</span><span class="english">Erythrocyte sedimentation rate was slow in perinatal newborn.</span></p>

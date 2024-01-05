@@ -1,5 +1,7 @@
 # symbolistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbolistic.md)
+
 <p><span class="chinese">这些影像是关于中国社会现实图景的象征主义的隐语。</span><span class="english">These images are symbolistic argots about realistic prospect of Chinese society.</span></p>
 
 <p><span class="chinese">已经觉醒的出版社，并不甘心只能获得象征性的收益。</span><span class="english">Already the press of arousal , can not achieve symbolistic earnings only readily.</span></p>

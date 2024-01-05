@@ -1,5 +1,7 @@
 # legislate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legislate.md)
+
 <p><span class="chinese">黑龙江省成为首个对“早恋”问题进行立法的省。</span><span class="english">Heilongjiang is the first province to so legislate.</span></p>
 
 <p><span class="chinese">然而，要知道通过立法来平衡贸易只是徒劳。</span><span class="english">But trying to legislate trade balance is a fool's errand.</span></p>

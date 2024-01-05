@@ -1,5 +1,7 @@
 # 婆罗门教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poluomenjiao.md)
+
 <p><span class="chinese">他虽然还没有达到婆罗门教的境界。</span><span class="english">He did not go as far as the Brahmin.</span></p>
 
 <p><span class="chinese">他很喜欢研究象婆罗门教这样古老的宗教。</span><span class="english">He loves to research old religions such as Brahmanism.</span></p>

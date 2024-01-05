@@ -1,5 +1,7 @@
 # 随大流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suidaliu.md)
+
 <p><span class="chinese">我这么做只是随大流。</span><span class="english">I just do it to conform.</span></p>
 
 <p><span class="chinese">在大部分问题上，他都随大流。</span><span class="english">On most issues, he followed the crowd.</span></p>

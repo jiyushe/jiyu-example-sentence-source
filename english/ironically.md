@@ -1,5 +1,7 @@
 # ironically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ironically.md)
+
 <p><span class="chinese">如果您想要减轻重量，讽刺地说，您必须要吃。</span><span class="english">If you want to lose weight, ironically you have to eat.</span></p>
 
 <p><span class="chinese">具有讽刺意味的是，有时盲目的勇敢出自无知。</span><span class="english">Ironically sometimes blind brave comes out of nescience.</span></p>

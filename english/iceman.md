@@ -1,5 +1,7 @@
 # iceman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iceman.md)
+
 <p><span class="chinese">“冰人奥兹”是死于战斗吗?。</span><span class="english">Was"tzi the Iceman"Killed in Battle?</span></p>
 
 <p><span class="chinese">过去常见的乡村卖冰者现在已很难见到了。</span><span class="english">The once familiar village iceman is now rara avis.</span></p>

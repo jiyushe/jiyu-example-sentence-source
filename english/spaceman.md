@@ -1,5 +1,7 @@
 # spaceman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spaceman.md)
+
 <p><span class="chinese">他是一个宇航员。</span><span class="english">He is a spaceman.</span></p>
 
 <p><span class="chinese">宇航员做运动。</span><span class="english">The spaceman plays sports.</span></p>

@@ -1,5 +1,7 @@
 # 削平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueping.md)
+
 <p><span class="chinese">山坡一侧给削平了。</span><span class="english">One side of the hill was sliced off.</span></p>
 
 <p><span class="chinese">这些木料三面被削平。</span><span class="english">These logs were squared on three side.</span></p>

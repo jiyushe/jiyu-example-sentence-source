@@ -1,5 +1,7 @@
 # proinsulin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proinsulin.md)
+
 <p><span class="chinese">胰岛素原在粗糙型内质网中合成。</span><span class="english">Proinsulin is formed in rough endoplasmic reticulum.</span></p>
 
 <p><span class="chinese">胰岛素原在粗糙型内质网中合成。</span><span class="english">Proinsulin is formed on rough endoplasmic reticulum.</span></p>

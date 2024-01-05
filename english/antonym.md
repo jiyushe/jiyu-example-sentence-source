@@ -1,5 +1,7 @@
 # antonym
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antonym.md)
+
 <p><span class="chinese">“好”是“坏”的反义词。</span><span class="english">Good' is the antonym of 'bad'.</span></p>
 
 <p><span class="chinese">“痛苦”是“快乐”的反义词。</span><span class="english">"Happy" is an antonym of "sad".</span></p>

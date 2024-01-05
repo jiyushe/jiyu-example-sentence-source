@@ -1,5 +1,7 @@
 # 坏血病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaixuebing.md)
+
 <p><span class="chinese">坏血病是缺乏什么维生素?。</span><span class="english">Scorbutic be what to vitamin lack?</span></p>
 
 <p><span class="chinese">如果担心坏血病也可以添加一些切碎的香菜。</span><span class="english">Those fearing scurvy might add some chopped parsley too.</span></p>

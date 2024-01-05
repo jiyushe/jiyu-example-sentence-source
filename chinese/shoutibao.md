@@ -1,5 +1,7 @@
 # 手提包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoutibao.md)
+
 <p><span class="chinese">一只么有带子的手提包。</span><span class="english">A valise lacking straps.</span></p>
 
 <p><span class="chinese">噢，我的手提包呢？</span><span class="english">Oh! Where's my hand-bag?</span></p>

@@ -1,5 +1,7 @@
 # airways
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airways.md)
+
 <p><span class="chinese">这个煤矿有多少个通风管道？</span><span class="english">How many airways are there in this coal mine?</span></p>
 
 <p><span class="chinese">英国航空公司的登记台在哪里?。</span><span class="english">Where is the check-in counter for British airways?</span></p>

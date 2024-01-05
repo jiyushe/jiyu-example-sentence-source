@@ -1,5 +1,7 @@
 # molecule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molecule.md)
+
 <p><span class="chinese">这是一个双原子分子。</span><span class="english">It is a diatomic molecule.</span></p>
 
 <p><span class="chinese">所以我强调这种分子的表示法。</span><span class="english">So I indicated the molecule.</span></p>

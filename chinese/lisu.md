@@ -1,5 +1,7 @@
 # 俚俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lisu.md)
+
 <p><span class="chinese">他唱高尚也唱俚俗的歌。</span><span class="english">That can sing both high and low.</span></p>
 
 <p><span class="chinese">一些人还用铭牌上的俚俗冲锋口号讥讽警察。</span><span class="english">Some used the slang slogan on the nameplate to mock the police.</span></p>

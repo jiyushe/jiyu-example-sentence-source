@@ -1,5 +1,7 @@
 # shalom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shalom.md)
+
 <p><span class="chinese">我很享受阅读的博客沙洛姆。</span><span class="english">I enjoyed reading the blog SHALOM very much.</span></p>
 
 <p><span class="chinese">的意思是和平，，Well，shalom，means，peace，所以那意味着他也是和平之王。</span><span class="english">shalom so that means he's also the king of peace.</span></p>

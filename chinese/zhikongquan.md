@@ -1,5 +1,7 @@
 # 制空权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhikongquan.md)
+
 <p><span class="chinese">我们不能让他们夺取制空权！</span><span class="english">We can't let them take control of the airspace!</span></p>
 
 <p><span class="chinese">在诺曼底，盟军已经牢牢地掌握了制海权和制空权。</span><span class="english">In Normandy, the Allies secured absolute command of both the air and sea.</span></p>

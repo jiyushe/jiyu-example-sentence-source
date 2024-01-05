@@ -1,5 +1,7 @@
 # warthog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warthog.md)
+
 <p><span class="chinese">库尔特放慢疣猪的速度，看着天空。</span><span class="english">Kurt slowed the Warthog , and looked up at the sky.</span></p>
 
 <p><span class="chinese">莫拉的饥饿把它诱回到疣猪洞。</span><span class="english">Mora's hunger lures her back to the warthog burrow.</span></p>

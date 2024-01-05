@@ -1,5 +1,7 @@
 # chungking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chungking.md)
+
 <p><span class="chinese">这王尔恺是个有名的青年政客，在重庆做着不大不上的官。</span><span class="english">This Wang Erk'ai was a well-known young politician, a middle-level official in Chungking.</span></p>
 
 <p><span class="chinese">和东京还要求英国关闭滇缅公路向中国然后作为重庆市知名。</span><span class="english">And Tokyo also demanded that Britain close the Burma Road to the Chinese city then known as Chungking.</span></p>

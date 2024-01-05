@@ -1,5 +1,7 @@
 # hundredfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hundredfold.md)
+
 <p><span class="chinese">今天我么加倍重视自己的价值。</span><span class="english">Today I will multiply my value a hundredfold.</span></p>
 
 <p><span class="chinese">今天我要加倍重视自己的价值。</span><span class="english">Guide me, God. Today I will multiply my value a hundredfold.</span></p>

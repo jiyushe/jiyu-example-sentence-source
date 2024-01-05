@@ -1,5 +1,7 @@
 # 雄赳赳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongjiujiu.md)
+
 <p><span class="chinese">约翰，它可不像夏天里那些辛勤而雄赳赳的蜜蜂。</span><span class="english">Not such as summer brings, John, earnest manly bees.</span></p>
 
 <p><span class="chinese">阿洛斯一向是个衰佬，可是现在的他又变成了一个雄赳赳的猛男！！！</span><span class="english">It surprised her. Alois had been so limp. But now he was a man again!</span></p>

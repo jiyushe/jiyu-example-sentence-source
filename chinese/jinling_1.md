@@ -1,5 +1,7 @@
 # 金陵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinling_1.md)
+
 <p><span class="chinese">上海金陵将增加一倍的价格。</span><span class="english">Shanghai Jinling will double its price.</span></p>
 
 <p><span class="chinese">回来之后，我们就去金陵。</span><span class="english">After coming back, we work to gold Ling.</span></p>

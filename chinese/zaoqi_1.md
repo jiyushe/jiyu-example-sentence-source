@@ -1,5 +1,7 @@
 # 早起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoqi_1.md)
+
 <p><span class="chinese">早睡早起。</span><span class="english">Wake up early.</span></p>
 
 <p><span class="chinese">找一个也能早起的同伴。</span><span class="english">Find a wake up early buddy.</span></p>

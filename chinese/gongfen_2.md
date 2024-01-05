@@ -1,5 +1,7 @@
 # 工分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfen_2.md)
+
 <p><span class="chinese">在经典内弹道理论基础上建立了火工分离装置的性能计算模型。</span><span class="english">Setting up a performance modeling of the devices on the base of interior ballistics.</span></p>
 
 <p><span class="chinese">未到黎明她就起来，把食物分给家中的人，将当做的工分派婢女。</span><span class="english">She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.</span></p>

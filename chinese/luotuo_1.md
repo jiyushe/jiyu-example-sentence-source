@@ -1,5 +1,7 @@
 # 骆驼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luotuo_1.md)
+
 <p><span class="chinese">但骆驼却一动也不动。</span><span class="english">But the camel did not move.</span></p>
 
 <p><span class="chinese">那头骆驼驮的是谷物吗？</span><span class="english">Was the camel carrying corn?</span></p>

@@ -1,5 +1,7 @@
 # boleyn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boleyn.md)
+
 <p><span class="chinese">安妮·博林于1536年被斩首。</span><span class="english">Anne boleyn was beheaded in1536.</span></p>
 
 <p><span class="chinese">安妮。博琳是英王亨利的第二个妻子。</span><span class="english">Anne Boleyn was King Henry's second wife.</span></p>

@@ -1,5 +1,7 @@
 # 讲演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangyan.md)
+
 <p><span class="chinese">在讲演过程中，他离开了。</span><span class="english">He left during the lecture.</span></p>
 
 <p><span class="chinese">下星期他将给我们做讲演。</span><span class="english">He will speak to us next week.</span></p>

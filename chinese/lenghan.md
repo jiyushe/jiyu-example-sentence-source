@@ -1,5 +1,7 @@
 # 冷汗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lenghan.md)
+
 <p><span class="chinese">我吓出了一身冷汗。</span><span class="english">I break out in a cold sweat.</span></p>
 
 <p><span class="chinese">我惊出一身冷汗。</span><span class="english">I break out in a cold sweat.</span></p>

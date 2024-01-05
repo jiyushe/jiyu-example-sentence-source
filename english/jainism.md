@@ -1,5 +1,7 @@
 # jainism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jainism.md)
+
 <p><span class="chinese">伊斯兰教的信徒或追随者。</span><span class="english">A believer or follower of Jainism.</span></p>
 
 <p><span class="chinese">耆那教的兴起几乎与佛教处于同一时代。</span><span class="english">The rise of the Jainism and Buddhism almost at the same times.</span></p>

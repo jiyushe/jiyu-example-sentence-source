@@ -1,5 +1,7 @@
 # waterfowl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterfowl.md)
+
 <p><span class="chinese">此外还有其它各式各样的水禽。</span><span class="english">All kinds of waterfowl abound.</span></p>
 
 <p><span class="chinese">成千上万的水鸟在湖边繁衍后代。</span><span class="english">Thousands of waterfowl breed round the lake.</span></p>

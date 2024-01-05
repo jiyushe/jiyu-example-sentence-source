@@ -1,5 +1,7 @@
 # 海拔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiba.md)
+
 <p><span class="chinese">电力海拔铣头。</span><span class="english">Power elevation mill head.</span></p>
 
 <p><span class="chinese">在低海拔区会暖和些。</span><span class="english">It was warmer at lower elevations.</span></p>

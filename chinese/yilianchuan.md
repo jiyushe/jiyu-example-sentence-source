@@ -1,5 +1,7 @@
 # 一连串
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilianchuan.md)
+
 <p><span class="chinese">这实实在在有一连串。</span><span class="english">There was the true continuity.</span></p>
 
 <p><span class="chinese">一连串往事掠过他的脑际。</span><span class="english">Memories flitted through his mind.</span></p>

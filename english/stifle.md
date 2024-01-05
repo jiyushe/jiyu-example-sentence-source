@@ -1,5 +1,7 @@
 # stifle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stifle.md)
+
 <p><span class="chinese">艾舍斯特咬着袖子，抑制悔恨交迫的呻吟。</span><span class="english">Ashurst bit at his sleeve, to stifle a groan of remorseful longing.</span></p>
 
 <p><span class="chinese">由于无法阻止这首歌的播出，戈培尔便将怒火发泄到了歌手身上。</span><span class="english">Unable to stifle the song, Goebbels vented his anger on the singer.</span></p>

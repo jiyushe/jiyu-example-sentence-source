@@ -1,5 +1,7 @@
 # listener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/listener.md)
+
 <p><span class="chinese">做一个好的聆听者。</span><span class="english">Be a good listener.</span></p>
 
 <p><span class="chinese">我是你的忠实听众。</span><span class="english">I'm your honest listener.</span></p>

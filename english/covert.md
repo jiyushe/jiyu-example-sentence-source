@@ -1,5 +1,7 @@
 # covert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covert.md)
+
 <p><span class="chinese">然后，他进行不公开的审议。</span><span class="english">Then he made his deliberations covert.</span></p>
 
 <p><span class="chinese">我开始模仿他那捉摸不定的神色。</span><span class="english">I now began to imitate his covert looks.</span></p>

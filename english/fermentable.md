@@ -1,5 +1,7 @@
 # fermentable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fermentable.md)
+
 <p><span class="chinese">在第一阶段，酶水解淀粉为可发酵性糖。</span><span class="english">In the first stage enzymes hydrolyze starch into fermentable sugars.</span></p>
 
 <p><span class="chinese">食物在口腔内分解的糖称之为可发酵的碳水化合物。</span><span class="english">Foods that break down into simple sugars in the mouth are called fermentable carbohydrates.</span></p>

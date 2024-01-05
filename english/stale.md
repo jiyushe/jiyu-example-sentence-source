@@ -1,5 +1,7 @@
 # stale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stale.md)
+
 <p><span class="chinese">这匹马已精疲力尽了。</span><span class="english">The horse has gone stale.</span></p>
 
 <p><span class="chinese">面包太陈不能吃了。</span><span class="english">The bread is too stale to eat.</span></p>

@@ -1,5 +1,7 @@
 # drawable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drawable.md)
+
 <p><span class="chinese">在这个简单的例子中，每个可画的对象都是长方形的。</span><span class="english">In the simplest case, every Drawable object is a rectangle.</span></p>
 
 <p><span class="chinese">他是一个可以被绘制并且可以包含一个或多个或者零个子控件的控件。</span><span class="english">It is a drawable control and may contain one or more controls.</span></p>

@@ -1,5 +1,7 @@
 # amputation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amputation.md)
+
 <p><span class="chinese">最终4例行截肢术。</span><span class="english">At last 4 patients suffered amputation.</span></p>
 
 <p><span class="chinese">弗里达的健康状况持续恶化，她的一条腿被切除。</span><span class="english">Her health went on failing and she underwent a leg amputation.</span></p>

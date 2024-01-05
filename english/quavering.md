@@ -1,5 +1,7 @@
 # quavering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quavering.md)
+
 <p><span class="chinese">她用颤抖的声音问道。</span><span class="english">She asked in a quavering voice.</span></p>
 
 <p><span class="chinese">以不稳定的、颤抖的方式。</span><span class="english">To be sounded in a trilling or quavering manner.</span></p>

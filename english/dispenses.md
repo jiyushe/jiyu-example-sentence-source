@@ -1,5 +1,7 @@
 # dispenses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispenses.md)
+
 <p><span class="chinese">这名法官执法公正无私。</span><span class="english">The judge dispenses the law without bias.</span></p>
 
 <p><span class="chinese">人生际遇，难得平等。</span><span class="english">Chance dispenses life with unequal justice.</span></p>

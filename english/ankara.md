@@ -1,5 +1,7 @@
 # ankara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ankara.md)
+
 <p><span class="chinese">安卡拉，我的同班同学在开塞里和伊士麦。</span><span class="english">Ankara uncles, in Kayseri and Izmir classmates.</span></p>
 
 <p><span class="chinese">安卡拉就是ISIS的总部，这个事实人们已经知道很长一段时间了。</span><span class="english">Ankara is the ISIS headquarters. Been known for a long time.</span></p>

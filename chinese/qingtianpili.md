@@ -1,5 +1,7 @@
 # 晴天霹雳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtianpili.md)
+
 <p><span class="chinese">这真是晴天霹雳。</span><span class="english">This was a thunderbolt in camp.</span></p>
 
 <p><span class="chinese">但很快一个晴天霹雳让他震惊。</span><span class="english">But soon a bolt from the blue shocked him.</span></p>

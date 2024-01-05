@@ -1,5 +1,7 @@
 # 马队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/madui.md)
+
 <p><span class="chinese">但是小马队赢了吗？</span><span class="english">Yeah but uh the colts won?</span></p>
 
 <p><span class="chinese">训练有素的马队斜步行进表演马戏。</span><span class="english">The trained horses sashayed to perform.</span></p>

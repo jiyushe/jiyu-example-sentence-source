@@ -1,5 +1,7 @@
 # 讨论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taolun.md)
+
 <p><span class="chinese">让我们来讨论。</span><span class="english">Let’s discuss.</span></p>
 
 <p><span class="chinese">分组讨论的时候我们再见</span><span class="english">See you in section.</span></p>

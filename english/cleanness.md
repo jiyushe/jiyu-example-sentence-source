@@ -1,5 +1,7 @@
 # cleanness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleanness.md)
+
 <p><span class="chinese">清洁时使用半干拖布。</span><span class="english">Use when cleanness work partly pull cloth.</span></p>
 
 <p><span class="chinese">木质地板的清洁保养。</span><span class="english">The cleanness of woodiness floor maintains.</span></p>

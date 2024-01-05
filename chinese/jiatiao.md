@@ -1,5 +1,7 @@
 # 假条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiatiao.md)
+
 <p><span class="chinese">你需要我写个假条吗？</span><span class="english">Do you need me to write a note?</span></p>
 
 <p><span class="chinese">他把假条交给了老师。</span><span class="english">He handed in an excuse to the teacher.</span></p>

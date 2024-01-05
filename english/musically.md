@@ -1,5 +1,7 @@
 # musically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musically.md)
+
 <p><span class="chinese">他总是采用一种非常宽广的音乐空间。</span><span class="english">He's always taken a musically broad perpective.</span></p>
 
 <p><span class="chinese">音乐上不合节拍就是出娄子。</span><span class="english">Musically to break time of tempo is to brown off.</span></p>

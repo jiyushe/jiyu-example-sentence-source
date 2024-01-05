@@ -1,5 +1,7 @@
 # 命根子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minggenzi.md)
+
 <p><span class="chinese">这是我们的命根子。</span><span class="english">That is our lifeline.</span></p>
 
 <p><span class="chinese">这话仿佛一拳打中了他的命根子。</span><span class="english">These words hit at the core of him.</span></p>

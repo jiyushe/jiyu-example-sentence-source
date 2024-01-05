@@ -1,5 +1,7 @@
 # Asia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asia.md)
+
 <p><span class="chinese">她是亚洲的恩雅。</span><span class="english">She is the Enya of Asia.</span></p>
 
 <p><span class="chinese">如果你在亚洲旅行，</span><span class="english">If you're travelling in Asia</span></p>

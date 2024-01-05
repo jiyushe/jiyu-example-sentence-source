@@ -1,5 +1,7 @@
 # educator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/educator.md)
+
 <p><span class="chinese">他是一位正牌的教育家。</span><span class="english">He is a card-carrying educator.</span></p>
 
 <p><span class="chinese">因此，邹衡先生也是一位考古教育家。</span><span class="english">Mr. Zou is an Archaeology Educator.</span></p>

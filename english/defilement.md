@@ -1,5 +1,7 @@
 # defilement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defilement.md)
+
 <p><span class="chinese">无尽的热恼，因忏悔而清凉。</span><span class="english">Endless defilement ceases through repentance.</span></p>
 
 <p><span class="chinese">它受到各种染污的责备。</span><span class="english">It gets reproached by all kinds of defilement.</span></p>

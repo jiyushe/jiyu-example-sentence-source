@@ -1,5 +1,7 @@
 # napa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/napa.md)
+
 <p><span class="chinese">今天，是纳帕谷的近400家酒厂。</span><span class="english">Today, Napa Valley is home to almost 400 wineries.</span></p>
 
 <p><span class="chinese">琪兰酒庄是加州纳帕谷产区内一座有着逾百年历史的知名酒庄。</span><span class="english">Keenan Winery is a historic winery, which located in Napa Valley.</span></p>

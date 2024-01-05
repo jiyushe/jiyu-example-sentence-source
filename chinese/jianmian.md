@@ -1,5 +1,7 @@
 # 减免
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianmian.md)
+
 <p><span class="chinese">欢迎乐捐﹐捐款可减免所得税！</span><span class="english">Donations may be tax deductible.</span></p>
 
 <p><span class="chinese">这是史上最大的一笔债务减免。</span><span class="english">This is the biggest debt reduction in history.</span></p>

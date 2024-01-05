@@ -1,5 +1,7 @@
 # womenfolk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/womenfolk.md)
+
 <p><span class="chinese">如今，妇女留下来照看耕地。</span><span class="english">Now the agriculture is looked after by the womenfolk.</span></p>
 
 <p><span class="chinese">它正在鼓励中国的农民更加关爱女孩。</span><span class="english">It is encouraging Chinese farmers to value their womenfolk more highly.</span></p>

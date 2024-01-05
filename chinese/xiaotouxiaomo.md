@@ -1,5 +1,7 @@
 # 小偷小摸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaotouxiaomo.md)
+
 <p><span class="chinese">他因小偷小摸遭到了解雇。</span><span class="english">He got the sack for petty thieving.</span></p>
 
 <p><span class="chinese">超市里的小偷小摸现象日见增多。</span><span class="english">Petty pilfering is on the increase in super market.</span></p>

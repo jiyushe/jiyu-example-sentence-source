@@ -1,5 +1,7 @@
 # 丫头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yatou.md)
+
 <p><span class="chinese">多久疯丫头持续多久？</span><span class="english">How long does Minx last?</span></p>
 
 <p><span class="chinese">丫头，随时给我打电话。</span><span class="english">Hey, call me anytime kiddo.</span></p>

@@ -1,5 +1,7 @@
 # goddess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goddess.md)
+
 <p><span class="chinese">米诺斯蛇女神。</span><span class="english">Minoan Snake Goddess.</span></p>
 
 <p><span class="chinese">泊瑟芬是一个纯洁的女神。</span><span class="english">Posefen was a goddess.</span></p>

@@ -1,5 +1,7 @@
 # 拆毁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaihui.md)
+
 <p><span class="chinese">在拉法拆毁房屋。</span><span class="english">Home demolitions in Rafah.</span></p>
 
 <p><span class="chinese">他们已拆毁了那幢旧建筑。</span><span class="english">They have torn off the old building.</span></p>

@@ -1,5 +1,7 @@
 # bereaved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bereaved.md)
+
 <p><span class="chinese">那起事故使杰克丧妻。</span><span class="english">The accident bereaved Jack of his wife.</span></p>
 
 <p><span class="chinese">但是失去我的英国人不会那么惊讶。</span><span class="english">But the bereaved British cannot be surprised.</span></p>

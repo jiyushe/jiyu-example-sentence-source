@@ -1,5 +1,7 @@
 # 屋宇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyu_1.md)
+
 <p><span class="chinese">你的屋宇乃是你较大的躯壳。</span><span class="english">You house is your larger body.</span></p>
 
 <p><span class="chinese">他们把那栋屋宇分红许多套住房。</span><span class="english">They divided the house into flats.</span></p>

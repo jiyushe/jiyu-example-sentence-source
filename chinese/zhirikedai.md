@@ -1,5 +1,7 @@
 # 指日可待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhirikedai.md)
+
 <p><span class="chinese">它会来得容易且快速，并且指日可待。</span><span class="english">And it will come not just easy, but also fast.</span></p>
 
 <p><span class="chinese">它有一个4英尺长的软轴易于使用和长期指日可待。</span><span class="english">It has a 4-foot long flexible shaft for easy use and long reach.</span></p>

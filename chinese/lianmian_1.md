@@ -1,5 +1,7 @@
 # 连绵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianmian_1.md)
+
 <p><span class="chinese">当生活给我乌云和连绵的雨水。</span><span class="english">When life gives me darks and rain.</span></p>
 
 <p><span class="chinese">纯粹的时间，空虚的连绵。</span><span class="english">Almost pure time, empty successiveness.</span></p>

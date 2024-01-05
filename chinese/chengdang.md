@@ -1,5 +1,7 @@
 # 承当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengdang.md)
+
 <p><span class="chinese">海上保险的费用将由我方承当。</span><span class="english">The marine insurance shall covered by us.</span></p>
 
 <p><span class="chinese">没有人想在事情出错的时候来承当责任。</span><span class="english">No one wants to take responsibility when things go wrong.</span></p>

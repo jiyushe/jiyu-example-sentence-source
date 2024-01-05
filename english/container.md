@@ -1,5 +1,7 @@
 # container
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/container.md)
+
 <p><span class="chinese">用这个纸筒。</span><span class="english">Using this tube container.</span></p>
 
 <p><span class="chinese">我。是。一朵。蛋疼。的。女子。</span><span class="english">I'm only a container depot.</span></p>

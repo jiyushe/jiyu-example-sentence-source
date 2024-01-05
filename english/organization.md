@@ -1,5 +1,7 @@
 # organization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organization.md)
+
 <p><span class="chinese">将组织平面化。</span><span class="english">Flatten the organization.</span></p>
 
 <p><span class="chinese">它是一个设在美国的机构，</span><span class="english">And it's U.S. based organization</span></p>

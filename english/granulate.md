@@ -1,5 +1,7 @@
 # granulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granulate.md)
+
 <p><span class="chinese">粒度化你的数据和服务。</span><span class="english">Granulate your data and services.</span></p>
 
 <p><span class="chinese">你可以用化为碎砾和粉碎抗击，但它们并不够好。</span><span class="english">Granulate and Shatter can fight, but not well enough.</span></p>

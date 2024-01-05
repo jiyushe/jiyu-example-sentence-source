@@ -1,5 +1,7 @@
 # archaeozoic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archaeozoic.md)
+
 <p><span class="chinese">早元古代的大气圈、水圈与晚太古代相似，仍为缺氧性质。</span><span class="english">The early Proterozoic atmosphere and hydrosphere are similar to those of Archaeozoic in being still absent in oxygen.</span></p>
 
 <p><span class="chinese">元古宙的气候仍是温暖而潮湿的，但较太古宙温度有所降低。</span><span class="english">The proterozoic climate was still warm and wet but compared with that of the archaeozoic eon the temperature fell a little.</span></p>

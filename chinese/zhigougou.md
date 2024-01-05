@@ -1,5 +1,7 @@
 # 直勾勾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhigougou.md)
+
 <p><span class="chinese">他直勾勾地盯着远处看。</span><span class="english">He stared fixedly at me.</span></p>
 
 <p><span class="chinese">他眼睛直勾勾地盯着他。</span><span class="english">He looked Karkov squarely in the eye.</span></p>

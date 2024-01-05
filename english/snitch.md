@@ -1,5 +1,7 @@
 # snitch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snitch.md)
+
 <p><span class="chinese">我认为你是我的金色飞贼。</span><span class="english">I think you're my snitch.</span></p>
 
 <p><span class="chinese">打击手的任务是抓到金探子。</span><span class="english">The beater's job is to catch the snitch.</span></p>

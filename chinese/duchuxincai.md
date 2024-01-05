@@ -1,5 +1,7 @@
 # 独出心裁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duchuxincai.md)
+
 <p><span class="chinese">是谁想出这个独出心裁的主意的？</span><span class="english">Who thought of the original idea?</span></p>
 
 <p><span class="chinese">完全独出心裁的戏剧结构很少见。</span><span class="english">Few plots of plays are entirely original.</span></p>

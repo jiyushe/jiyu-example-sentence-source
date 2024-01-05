@@ -1,5 +1,7 @@
 # 亲属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinshu.md)
+
 <p><span class="chinese">在美国他没有亲属。</span><span class="english">He has no kinsfolk in America.</span></p>
 
 <p><span class="chinese">许多人失去了至亲的男性亲属。</span><span class="english">Many have lost close male relatives.</span></p>

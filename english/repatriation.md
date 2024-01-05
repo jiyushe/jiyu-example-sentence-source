@@ -1,5 +1,7 @@
 # repatriation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repatriation.md)
+
 <p><span class="chinese">这周已开始将海地人强制遣送回国。</span><span class="english">Involuntary repatriation of Haitians began this week.</span></p>
 
 <p><span class="chinese">从这层意义而言，归还是正义的表达。</span><span class="english">In this sense repatriation is an expression of justice.</span></p>

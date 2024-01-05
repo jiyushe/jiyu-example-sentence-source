@@ -1,5 +1,7 @@
 # 目前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muqian.md)
+
 <p><span class="chinese">目前尚好。</span><span class="english">So far so good.</span></p>
 
 <p><span class="chinese">目前最好的球队？</span><span class="english">Gfx Best team so far?</span></p>

@@ -1,5 +1,7 @@
 # eigenvector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eigenvector.md)
+
 <p><span class="chinese">运用K-L变换对已提取的特征向量进行降维。</span><span class="english">Extracted eigenvector is compressed by K-L transform.</span></p>
 
 <p><span class="chinese">并抽取主要颜色特征作为特征向量存储在图像数据库中。</span><span class="english">Then main color feature is extracted as eigenvector in image database.</span></p>

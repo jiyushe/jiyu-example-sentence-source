@@ -1,5 +1,7 @@
 # booty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/booty.md)
+
 <p><span class="chinese">别在我面前耍花招。</span><span class="english">Don't play booty with me.</span></p>
 
 <p><span class="chinese">每位海盗所得的战利品的份额是经过同意的</span><span class="english">The share of each pirates booty was agreed on.</span></p>

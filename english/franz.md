@@ -1,5 +1,7 @@
 # franz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/franz.md)
+
 <p><span class="chinese">弗兰茨被她的威胁迷惑了。</span><span class="english">Franz was bewitched by the threat.</span></p>
 
 <p><span class="chinese">“那么，”弗兰兹大声说道，“这是印度大麻了！</span><span class="english">"Then" cried franz "it is hashish !</span></p>

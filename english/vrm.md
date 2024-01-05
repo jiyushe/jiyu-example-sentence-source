@@ -1,5 +1,7 @@
 # vrm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vrm.md)
+
 <p><span class="chinese">语音识别模块?。</span><span class="english">VRM? Voice Recognition Module?</span></p>
 
 <p><span class="chinese">电压调节模块?。</span><span class="english">VRM? Voltage Regulator Module?</span></p>

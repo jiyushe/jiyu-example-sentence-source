@@ -1,5 +1,7 @@
 # relegation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relegation.md)
+
 <p><span class="chinese">降级。</span><span class="english">Relegation.</span></p>
 
 <p><span class="chinese">如果他失败了，只能让其保级。</span><span class="english">If he fails, its relegation to the minor league.</span></p>

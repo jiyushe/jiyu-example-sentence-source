@@ -1,5 +1,7 @@
 # fiefdom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiefdom.md)
+
 <p><span class="chinese">那就是某人的封地，而它是印度最腐败的组织之一了。</span><span class="english">That is a fiefdom operated by one person and one of the most corrupt organizations working in India.</span></p>
 
 <p><span class="chinese">商洛市位于陕西东南部，是历史上商鞅的封地。</span><span class="english">Shangluo Municipality Perched on the southeast of Shaanxi, historically it was the fiefdom of Sang Yang, a reformer.</span></p>

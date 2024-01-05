@@ -1,5 +1,7 @@
 # 真主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhu_1.md)
+
 <p><span class="chinese">真主紧急呼救天狗。</span><span class="english">Live God SOS dog evil.</span></p>
 
 <p><span class="chinese">真主的慈恩确是临近行善者的。</span><span class="english">The mercy of God is near.</span></p>

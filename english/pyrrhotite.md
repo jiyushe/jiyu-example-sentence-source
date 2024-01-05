@@ -1,5 +1,7 @@
 # pyrrhotite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrrhotite.md)
+
 <p><span class="chinese">矿浆浓度对磁黄铁矿和铁闪锌矿的细菌浸出有影响。</span><span class="english">The pulp concentration has effect on the leaching rate of pyrrhotite and marmatite.</span></p>
 
 <p><span class="chinese">研究了有机抑制剂DMPS对脆硫锑铅矿和磁黄铁矿的抑制作用。</span><span class="english">The effects of organic depressant DMPS on jamesonite and pyrrhotite have been studied.</span></p>

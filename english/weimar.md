@@ -1,5 +1,7 @@
 # weimar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weimar.md)
+
 <p><span class="chinese">那么，我们正在经历又一个魏玛时刻吗？</span><span class="english">Are we at another Weimar moment now?</span></p>
 
 <p><span class="chinese">1919年8月11日，魏玛宪法生效。</span><span class="english">On 11 August 1919, the Weimar Constitution came into effect.</span></p>

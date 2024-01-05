@@ -1,5 +1,7 @@
 # conflation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conflation.md)
+
 <p><span class="chinese">什么是机构名称重合？</span><span class="english">What is institution name conflation?</span></p>
 
 <p><span class="chinese">但这是又一个将货币与资本混为一谈而得出的结论。</span><span class="english">But this is just another product of the conflation of money and capital.</span></p>

@@ -1,5 +1,7 @@
 # operable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/operable.md)
+
 <p><span class="chinese">中国目前正在使用的反应堆有13个。</span><span class="english">China has 13 operable reactors.</span></p>
 
 <p><span class="chinese">如果情况更糟，那还能做手术吗？</span><span class="english">And if the condition gets worse, is it operable?</span></p>

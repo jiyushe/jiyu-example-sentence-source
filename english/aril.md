@@ -1,5 +1,7 @@
 # aril
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aril.md)
+
 <p><span class="chinese">假种皮红色，熟时有光泽。</span><span class="english">Aril rusty and polish when ripe.</span></p>
 
 <p><span class="chinese">他们在一个雨水很多的四月来到这里。</span><span class="english">They came here in a very wet Aril.</span></p>

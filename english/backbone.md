@@ -1,5 +1,7 @@
 # backbone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backbone.md)
+
 <p><span class="chinese">他一点儿骨气都没有。</span><span class="english">He has no backbone.</span></p>
 
 <p><span class="chinese">主链是什么</span><span class="english">The backbone is what?</span></p>

@@ -1,5 +1,7 @@
 # hoya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoya.md)
+
 <p><span class="chinese">酋长说，“但是小心，别踩在嗬呀上。”</span><span class="english">But be careful not to step on the hoya.</span></p>
 
 <p><span class="chinese">霍亚穿红色短裤，奎蒂穿黑色短裤。</span><span class="english">Hoya is in red trunks while Quartey is in Black.</span></p>

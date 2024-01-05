@@ -1,5 +1,7 @@
 # 导电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daodian.md)
+
 <p><span class="chinese">大多数金属能导电。</span><span class="english">Most metals conduct electricity.</span></p>
 
 <p><span class="chinese">所有的金属都能导电。</span><span class="english">All metals can conduct electricity.</span></p>

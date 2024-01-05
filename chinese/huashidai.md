@@ -1,5 +1,7 @@
 # 划时代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huashidai.md)
+
 <p><span class="chinese">划时代的祝酒词。</span><span class="english">An Epoch-making Toast.</span></p>
 
 <p><span class="chinese">这是个划时代的发现。</span><span class="english">It is an epoch-making discovery.</span></p>

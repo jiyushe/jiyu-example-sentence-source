@@ -1,5 +1,7 @@
 # 变通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biantong.md)
+
 <p><span class="chinese">另一个变通的办法是什么?。</span><span class="english">What's the second alternative?</span></p>
 
 <p><span class="chinese">幸运的是，有一个变通方法。</span><span class="english">Fortunately, there's a work-around.</span></p>

@@ -1,5 +1,7 @@
 # spd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spd.md)
+
 <p><span class="chinese">萨林2007年当选为社民党主席。</span><span class="english">Sahlin was elected SPD chairman in 2007.</span></p>
 
 <p><span class="chinese">2009年大选中虽然社民党落败为在野党，选民却依旧支持默克尔。</span><span class="english">The SPD was ejected in 2009, but voters chose to keep Mrs Merkel on.</span></p>

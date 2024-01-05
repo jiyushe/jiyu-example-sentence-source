@@ -1,5 +1,7 @@
 # 迷迷糊糊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mimihuhu.md)
+
 <p><span class="chinese">他迷迷糊糊地改变了注意。</span><span class="english">He changed his mind mistily.</span></p>
 
 <p><span class="chinese">那个家伙成天迷迷糊糊的。</span><span class="english">The guy is always a little trippy.</span></p>

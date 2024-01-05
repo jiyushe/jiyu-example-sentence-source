@@ -1,5 +1,7 @@
 # 干支
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzhi.md)
+
 <p><span class="chinese">干支是怎么回事？</span><span class="english">What is Ganzhi?</span></p>
 
 <p><span class="chinese">很复杂。中国人过去用干支计时。</span><span class="english">Quite complicated. The Chinese used to count time by using Ganzhi.</span></p>

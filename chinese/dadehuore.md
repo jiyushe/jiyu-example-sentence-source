@@ -1,5 +1,7 @@
 # 打得火热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadehuore.md)
+
 <p><span class="chinese">他俩打得火热。</span><span class="english">They two are enamored.</span></p>
 
 <p><span class="chinese">现在球季正打得火热呢。</span><span class="english">The season's in full swing now.</span></p>

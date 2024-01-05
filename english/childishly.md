@@ -1,5 +1,7 @@
 # childishly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/childishly.md)
+
 <p><span class="chinese">别孩子气般地捣乱。</span><span class="english">Stop childishly messing around.</span></p>
 
 <p><span class="chinese">在你这个年龄做事不应该孩子气。</span><span class="english">You should not behave childishly at your age.</span></p>

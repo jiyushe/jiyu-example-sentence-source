@@ -1,5 +1,7 @@
 # intransigent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intransigent.md)
+
 <p><span class="chinese">吾人慎勿忘日本乃一顽强之民族。</span><span class="english">Let us not forget that the Japanese are an intransigent people.</span></p>
 
 <p><span class="chinese">刻划成哲学家中,极端不妥协派的例子,像是社会中的激进评论者或提问者。</span><span class="english">as presenting the most intransigent case for the philosopher as a radical critic or questioner of society.</span></p>

@@ -1,5 +1,7 @@
 # melancholic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melancholic.md)
+
 <p><span class="chinese">挽歌非常忧沉，会将你灼伤。</span><span class="english">Dirges so melancholic that they would scorch you.</span></p>
 
 <p><span class="chinese">如果你心里阴云密布，天就总是灰的。</span><span class="english">if you are a melancholic soul, it seems always cloudy.</span></p>

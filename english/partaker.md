@@ -1,5 +1,7 @@
 # partaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partaker.md)
+
 <p><span class="chinese">啊，但愿我能分享他们的喜乐！</span><span class="english">O that I were a partaker of their joys!</span></p>
 
 <p><span class="chinese">做一个有分于主的忍耐的人！</span><span class="english">Claim to be a partaker in the patience of Jesus.</span></p>

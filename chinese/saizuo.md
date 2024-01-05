@@ -1,5 +1,7 @@
 # 噻唑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saizuo.md)
+
 <p><span class="chinese">几项临床试验开展了噻唑烷二酮类药物预防糖尿病的研究。</span><span class="english">There are several trials on prevention of diabetes with TZDs.</span></p>
 
 <p><span class="chinese">综述了近二十年来5-羟甲基噻唑的合成工艺。</span><span class="english">The synthetic technologies of 5-hydroxymethylthiazole were reviewed in this paper.</span></p>

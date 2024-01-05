@@ -1,5 +1,7 @@
 # 豆蔻年华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/doukounianhua.md)
+
 <p><span class="chinese">那女学生正值豆蔻年华。</span><span class="english">That girl student is in the green.</span></p>
 
 <p><span class="chinese">浑浊的咖啡色，老房子的沉重，一个豆蔻年华的少女，变成了一个长舌妇。</span><span class="english">The muddy brown, the heavy old house, a nutmeg age girls, become a Zhangshe Fu.</span></p>

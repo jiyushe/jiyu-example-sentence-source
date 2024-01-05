@@ -1,5 +1,7 @@
 # 运载
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunzai.md)
+
 <p><span class="chinese">这枚宇宙火箭运载了两颗卫星。</span><span class="english">This space rocket carries two satellites.</span></p>
 
 <p><span class="chinese">远期日运载能力为100万人次。</span><span class="english">The long- term day carries the ability as 100.</span></p>

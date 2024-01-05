@@ -1,5 +1,7 @@
 # partway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partway.md)
+
 <p><span class="chinese">她还未来得及拒绝，他已经掀开了毯子的一角。</span><span class="english">Before she could refuse, he opened the blanket partway.</span></p>
 
 <p><span class="chinese">有一个进货的程序,在周三那一整天。</span><span class="english">There was a shipment that came in partway through the day on Thursday.</span></p>

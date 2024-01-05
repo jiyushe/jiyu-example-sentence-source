@@ -1,5 +1,7 @@
 # 怒涛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nutao.md)
+
 <p><span class="chinese">有时神透过大海怒涛发言。</span><span class="english">Sometime God speaks through storming sea.</span></p>
 
 <p><span class="chinese">怒涛几乎吞没了这条船。</span><span class="english">An angry billow almost swallowed the ship.</span></p>

@@ -1,5 +1,7 @@
 # cathedral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cathedral.md)
+
 <p><span class="chinese">有去过中世纪教堂的吗</span><span class="english">Ever been to a medieval cathedral?</span></p>
 
 <p><span class="chinese">圣。保罗大教堂50米远。</span><span class="english">St Pauls Cathedral 50 meters away.</span></p>

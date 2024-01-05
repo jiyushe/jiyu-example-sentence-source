@@ -1,5 +1,7 @@
 # 烛光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuguang.md)
+
 <p><span class="chinese">如在吕克酒店的烛光里。</span><span class="english">In Rick's candle-lit cafe.</span></p>
 
 <p><span class="chinese">安排一个烛光晚餐。</span><span class="english">Plan a candle light dinner.</span></p>

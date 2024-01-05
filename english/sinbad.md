@@ -1,5 +1,7 @@
 # sinbad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinbad.md)
+
 <p><span class="chinese">他把自己的儿子辛巴达叫到身边。</span><span class="english">He calls to his son, Sinbad.</span></p>
 
 <p><span class="chinese">辛巴达与美人鱼公主。</span><span class="english">Sinbad. and. Mermaid. Princess.</span></p>

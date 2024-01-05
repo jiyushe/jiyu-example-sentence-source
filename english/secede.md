@@ -1,5 +1,7 @@
 # secede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secede.md)
+
 <p><span class="chinese">总统不希望肯塔基州脱离联邦，也不希望它保持中立。</span><span class="english">He did not want the state to secede. Nor did he want it to remain neutral.</span></p>
 
 <p><span class="chinese">林肯说，任何一个州都无权脱离联邦，美利坚合众国不会分裂。</span><span class="english">Lincoln said no state had a legal right to secede -- the Union could not be broken.</span></p>

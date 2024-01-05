@@ -1,5 +1,7 @@
 # 炉膛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lutang.md)
+
 <p><span class="chinese">所以她就在炉膛里生起一把火，并且扔进去一些稻草。</span><span class="english">So she made a fire on her hearth, and threw in some straw.</span></p>
 
 <p><span class="chinese">它是载热体，从炉膛吸入或放出热量。</span><span class="english">It is a heat carrier, absorbing or releasing heat from the furnace.</span></p>

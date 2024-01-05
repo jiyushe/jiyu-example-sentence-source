@@ -1,5 +1,7 @@
 # 圣母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengmu.md)
+
 <p><span class="chinese">这是圣母大学生物科学系的网站。</span><span class="english">This is the Great Mother's house.</span></p>
 
 <p><span class="chinese">克里姆林宫的圣母领报大教堂。</span><span class="english">Annunciation Cathedral in the Kremlin.</span></p>

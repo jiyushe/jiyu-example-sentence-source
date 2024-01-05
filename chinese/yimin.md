@@ -1,5 +1,7 @@
 # 遗民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimin.md)
+
 <p><span class="chinese">周容散文具有鲜明的时代特色，是清初的遗民心史。</span><span class="english">Zhou Rong was a brilliant essay writer of early Qing Dynasty.</span></p>
 
 <p><span class="chinese">数量庞大的百济遗民产生后，流入不同区域。</span><span class="english">A huge number of Baekje drifting people come into different areas.</span></p>

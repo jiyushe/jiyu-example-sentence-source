@@ -1,5 +1,7 @@
 # 丝光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siguang.md)
+
 <p><span class="chinese">我们有布纹的，丝光面的，还有光面的。</span><span class="english">In the path of the light beam!</span></p>
 
 <p><span class="chinese">我们有布纹的，丝光面的，还有光面的。</span><span class="english">We have mat, silky and glossy.</span></p>

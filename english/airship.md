@@ -1,5 +1,7 @@
 # airship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airship.md)
+
 <p><span class="chinese">飞艇在海面打圈子。</span><span class="english">The airship circled at sea.</span></p>
 
 <p><span class="chinese">你能把这种飞艇设计成流线型吗?</span><span class="english">Can you streamline this kind of airship?</span></p>

@@ -1,5 +1,7 @@
 # 何曾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hezeng.md)
+
 <p><span class="chinese">奇迹“何曾终止过？</span><span class="english">Do miracles never cease?</span></p>
 
 <p><span class="chinese">男人又何曾了解女人？</span><span class="english">Does men understand women?</span></p>

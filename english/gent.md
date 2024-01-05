@@ -1,5 +1,7 @@
 # gent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gent.md)
+
 <p><span class="chinese">五先令赌那位绅士赢谁下赌注?。</span><span class="english">Five shillings on the gent. Who will take it?</span></p>
 
 <p><span class="chinese">因为防盗器响了。但是他们一定把它切断了。</span><span class="english">The car alarm gent off, but they must have disengaged it.</span></p>

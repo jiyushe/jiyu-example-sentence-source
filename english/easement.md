@@ -1,5 +1,7 @@
 # easement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/easement.md)
+
 <p><span class="chinese">第一百六十四条地役权不得单独转让。</span><span class="english">Article 164 The easement may not be transferred alone.</span></p>
 
 <p><span class="chinese">第一百六十五条地役权不得单独抵押。</span><span class="english">Article 165 An easement shall not be mortgaged separately.</span></p>

@@ -1,5 +1,7 @@
 # 蚁穴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixue_1.md)
+
 <p><span class="chinese">蚁穴就像我们的身体系统一样。</span><span class="english">The termites nest is a system like our bodies.</span></p>
 
 <p><span class="chinese">古人云，千里之堤，溃于蚁穴。</span><span class="english">The ancients cloud, qianlizhidi, ulcer in the colony.</span></p>

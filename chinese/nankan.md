@@ -1,5 +1,7 @@
 # 难堪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nankan.md)
+
 <p><span class="chinese">你为我感到难堪吗？</span><span class="english">Are you embarrassed for me?</span></p>
 
 <p><span class="chinese">他成心让我难堪。</span><span class="english">He purposely embarrassed me.</span></p>

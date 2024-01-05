@@ -1,5 +1,7 @@
 # 下榻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiata.md)
+
 <p><span class="chinese">我下榻在希尔顿大饭店。</span><span class="english">I'm staying at Hilton Hotel.</span></p>
 
 <p><span class="chinese">下榻与长春尹衙门。</span><span class="english">Yin Changchun stayed with the Yamen.</span></p>

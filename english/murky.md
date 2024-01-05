@@ -1,5 +1,7 @@
 # murky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murky.md)
+
 <p><span class="chinese">只留在这里我昏沉的躯体.</span><span class="english">Stay murky body , I of here , only.</span></p>
 
 <p><span class="chinese">阴沉的水可以飞费希尔的朋友。</span><span class="english">The murky water can be a fly fisher's friend.</span></p>

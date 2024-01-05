@@ -1,5 +1,7 @@
 # 珍玩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenwan.md)
+
 <p><span class="chinese">我向来是个珍玩爱好者。</span><span class="english">I have always been interested in curios.</span></p>
 
 <p><span class="chinese">我通常不谈论珍玩在这种崇高的敬意。</span><span class="english">I don't normally talk about curios in such high regard.</span></p>

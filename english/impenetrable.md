@@ -1,5 +1,7 @@
 # impenetrable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impenetrable.md)
+
 <p><span class="chinese">我觉得太费解了。</span><span class="english">I thought it was impenetrable.</span></p>
 
 <p><span class="chinese">我发现他的行为方式令人颇为费解。</span><span class="english">I find his style somewhat impenetrable.</span></p>

@@ -1,5 +1,7 @@
 # 现役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyi_2.md)
+
 <p><span class="chinese">“爱德华还在服现役吗？”“</span><span class="english">Edward on active service?</span></p>
 
 <p><span class="chinese">汤姆正在国外服现役。</span><span class="english">Tom is now on active duty abroad.</span></p>

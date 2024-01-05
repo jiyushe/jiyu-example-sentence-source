@@ -1,5 +1,7 @@
 # Lithuania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithuania.md)
+
 <p><span class="chinese">波兰和它的近邻立陶宛结成同盟。</span><span class="english">Poland forged an alliance with its neighbour Lithuania.</span></p>
 
 <p><span class="chinese">立陶宛大约有200名十字架工艺师。</span><span class="english">There are some 200 cross-crafting masters in Lithuania.</span></p>

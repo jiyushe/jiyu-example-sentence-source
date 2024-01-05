@@ -1,5 +1,7 @@
 # 晕乎乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunhuhu.md)
+
 <p><span class="chinese">就怪这雾气，我也被搞的晕乎乎的！</span><span class="english">It's the fog, it's making me foggy.</span></p>
 
 <p><span class="chinese">我有失眠症，刚刚睡着没多久，晕乎乎的。</span><span class="english">I'm an insomniac and I had just fallen asleep.</span></p>

@@ -1,5 +1,7 @@
 # osf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osf.md)
+
 <p><span class="chinese">事实上，一些属于OSF的公司积极的工作就是为了使ANDF不成功。</span><span class="english">In fact, some companies who were members of the OSF actively worked to ensure that ANDF did not succeed.</span></p>
 
 <p><span class="chinese">表明在圆柱型基阵上最佳空间滤波器能够有效抑制多个干扰、完成弱信号检测。</span><span class="english">The analysis shows that the OSF can effectively suppress multiple interferences and extract weak signals.</span></p>

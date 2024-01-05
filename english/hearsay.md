@@ -1,5 +1,7 @@
 # hearsay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hearsay.md)
+
 <p><span class="chinese">传言非虚。</span><span class="english">It's not just hearsay.</span></p>
 
 <p><span class="chinese">我们只是听说那些。</span><span class="english">We have only hearsay for that.</span></p>

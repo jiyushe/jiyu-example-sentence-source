@@ -1,5 +1,7 @@
 # resinous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resinous.md)
+
 <p><span class="chinese">酒精是树脂性物质的溶媒。</span><span class="english">Alcohol is a solvent of resinous substances.</span></p>
 
 <p><span class="chinese">本发明还公开了与其相关的树脂组合物。</span><span class="english">Also disclosed are resinous compositions related thereto.</span></p>

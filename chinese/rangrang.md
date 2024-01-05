@@ -1,5 +1,7 @@
 # 嚷嚷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rangrang.md)
+
 <p><span class="chinese">我对奥德丽嚷嚷时她低下了头。</span><span class="english">I'll show you the shower, Audrey.</span></p>
 
 <p><span class="chinese">我对你们大声嚷嚷，非常抱歉。</span><span class="english">I'm sorry I yelled at you people.</span></p>

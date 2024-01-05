@@ -1,5 +1,7 @@
 # duds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duds.md)
+
 <p><span class="chinese">你想喝点什么吗？-我能不能要点珍珠奶茶。</span><span class="english">Can I get you anything? -I'd Iove some MiIk Duds.</span></p>
 
 <p><span class="chinese">那真可惜。本来你可以避免一些失败。</span><span class="english">That ' s a shame . you ' d have avoided some duds.</span></p>

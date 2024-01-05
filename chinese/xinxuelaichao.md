@@ -1,5 +1,7 @@
 # 心血来潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxuelaichao.md)
+
 <p><span class="chinese">买东西不要心血来潮。</span><span class="english">Don’t buy on impulse.</span></p>
 
 <p><span class="chinese">相反，你可以一时的心血来潮，买花给她一个惊喜。</span><span class="english">Instead, give on a whim.</span></p>

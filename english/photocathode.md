@@ -1,5 +1,7 @@
 # photocathode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photocathode.md)
+
 <p><span class="chinese">为解决这些问题，进行了含铂中间层二氧化铅阳极的研究。</span><span class="english">The middle layer is a very important procedure for making the multialkali photocathode.</span></p>
 
 <p><span class="chinese">为什么穿越千年的光阴，却依然会是如此凄美？</span><span class="english">Why does the photocathode through the millennium, but it will continue to be so poignant?</span></p>

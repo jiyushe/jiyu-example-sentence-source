@@ -1,5 +1,7 @@
 # smokestack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smokestack.md)
+
 <p><span class="chinese">适宜的烟囱烟雾排放解决方案</span><span class="english">Suitable Smokestack Smog Solution</span></p>
 
 <p><span class="chinese">我们的木屋有很大的烟囱。</span><span class="english">Our log cabin has a large smokestack.</span></p>

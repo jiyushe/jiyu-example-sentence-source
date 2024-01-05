@@ -1,5 +1,7 @@
 # othello
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/othello.md)
+
 <p><span class="chinese">奥赛罗由奥里维扮演。</span><span class="english">Othello played by Olivier.</span></p>
 
 <p><span class="chinese">奥赛罗并不知道。</span><span class="english">Othello does not know that.</span></p>

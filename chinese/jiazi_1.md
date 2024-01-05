@@ -1,5 +1,7 @@
 # 甲子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazi_1.md)
+
 <p><span class="chinese">现为甲子书学会会员。</span><span class="english">She is a member of the Jiazi Society of Calligraphy.</span></p>
 
 <p><span class="chinese">二零零四年十一月加入甲子书学会为会员。</span><span class="english">In November 2004, he became a member of the Jiazi Society of Calligraphy.</span></p>

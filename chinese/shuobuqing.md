@@ -1,5 +1,7 @@
 # 说不清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuobuqing.md)
+
 <p><span class="chinese">我也说不清啊。</span><span class="english">How do I tell?</span></p>
 
 <p><span class="chinese">爱是说不清、道不明的东西。</span><span class="english">Love is difficult to analyze.</span></p>

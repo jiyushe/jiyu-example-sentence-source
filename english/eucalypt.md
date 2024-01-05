@@ -1,5 +1,7 @@
 # eucalypt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eucalypt.md)
+
 <p><span class="chinese">黎蒴栲和尾巨桉是中国南方两种比较具有代表性的速生树种。</span><span class="english">Breakingfruit Chinkapin and eucalypt are the representational tree species in south of China.</span></p>
 
 <p><span class="chinese">气味中散发着橡木和茴芹的香味，并混合着李子、核桃仁和黑橄榄的气息。</span><span class="english">Noise emanates eucalypt flavor and mixture with the smell of plum, black cherry and black olive.</span></p>

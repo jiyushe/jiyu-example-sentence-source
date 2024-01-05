@@ -1,5 +1,7 @@
 # 跑龙套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paolongtao.md)
+
 <p><span class="chinese">他不过是个跑龙套的演员。</span><span class="english">He is just a small-time actor.</span></p>
 
 <p><span class="chinese">里给唱歌的哥哥跑龙套的工作。</span><span class="english">To sing in the brother walk-on work.</span></p>

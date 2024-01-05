@@ -1,5 +1,7 @@
 # spirituality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spirituality.md)
+
 <p><span class="chinese">第十一，培养宗教信仰和精神支柱。</span><span class="english">Eleven, practise religion and spirituality.</span></p>
 
 <p><span class="chinese">罗马书第八章告诉我们灵程的真义。</span><span class="english">Romans 8 tells us what true spirituality involves.</span></p>

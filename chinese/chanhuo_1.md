@@ -1,5 +1,7 @@
 # 搀和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanhuo_1.md)
+
 <p><span class="chinese">不要把工作和娱乐搀和在一起。</span><span class="english">Don't mix business with pleasure.</span></p>
 
 <p><span class="chinese">这种咖啡是爪哇咖啡和巴西咖啡搀和制成的。</span><span class="english">This coffee is a blend of Java and Brazil.</span></p>

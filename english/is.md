@@ -1,5 +1,7 @@
 # is
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/is.md)
+
 <p><span class="chinese">本才是。</span><span class="english">Ben is.</span></p>
 
 <p><span class="chinese">神才是。</span><span class="english">God is.</span></p>

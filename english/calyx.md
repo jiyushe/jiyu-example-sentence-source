@@ -1,5 +1,7 @@
 # calyx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calyx.md)
+
 <p><span class="chinese">萼裂片通常具缘毛。</span><span class="english">Calyx lobes often ciliate.</span></p>
 
 <p><span class="chinese">苞片和花萼星状毡毛状。</span><span class="english">Bracts and calyx stellate pannose.</span></p>

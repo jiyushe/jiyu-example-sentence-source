@@ -1,5 +1,7 @@
 # epilepsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epilepsy.md)
+
 <p><span class="chinese">患过痉挛、惊劂或癫痫吗?。</span><span class="english">Convulsions, fits or epilepsy?</span></p>
 
 <p><span class="chinese">羊角风的危害具体有哪些呢？</span><span class="english">Epilepsy what specific harm it?</span></p>

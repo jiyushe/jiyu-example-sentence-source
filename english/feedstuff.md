@@ -1,5 +1,7 @@
 # feedstuff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feedstuff.md)
+
 <p><span class="chinese">棉花副产品是饲喂牲畜很好的饲料资源。</span><span class="english">Cottons byproduct is good feedstuff resource for livestock.</span></p>
 
 <p><span class="chinese">这项禁令将包括食品、食用农产品及饲料。</span><span class="english">The ban will cover food, edible agricultural products and feedstuff.</span></p>

@@ -1,5 +1,7 @@
 # 感谢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganxie.md)
+
 <p><span class="chinese">非常感谢！</span><span class="english">So thanks.</span></p>
 
 <p><span class="chinese">我们感谢你。</span><span class="english">We thank you.</span></p>

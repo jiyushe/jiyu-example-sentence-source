@@ -1,5 +1,7 @@
 # motivational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motivational.md)
+
 <p><span class="chinese">2011年11个动机引例</span><span class="english">More Motivational Quotes for 2011</span></p>
 
 <p><span class="chinese">你的动机行为是什么？</span><span class="english">What are your motivational triggers?</span></p>

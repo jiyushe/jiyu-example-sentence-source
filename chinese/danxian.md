@@ -1,5 +1,7 @@
 # 单线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danxian.md)
+
 <p><span class="chinese">右击指定单线或双线。</span><span class="english">Right-click for one or two line.</span></p>
 
 <p><span class="chinese">单线程客户端的平均响应时间</span><span class="english">Average Response Time for Single-Threaded Client</span></p>

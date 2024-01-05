@@ -1,5 +1,7 @@
 # scleroderma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scleroderma.md)
+
 <p><span class="chinese">硬皮病和紫杉醇类药物是否真的相关?。</span><span class="english">Scleroderma and the taxanes. Is there really a link?</span></p>
 
 <p><span class="chinese">硬皮病是自身免疫性疾病中的难治病。</span><span class="english">Scleroderma is presently a common disease in rheumatism.</span></p>

@@ -1,5 +1,7 @@
 # slav
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slav.md)
+
 <p><span class="chinese">美丽的斯拉夫姑娘你又去追赶什么？</span><span class="english">What were you running after, pretty Slav lass?</span></p>
 
 <p><span class="chinese">泛民族主义在东欧斯拉夫地区，形成了泛斯拉夫主义。</span><span class="english">PanNationalism formed Pan-Slavism in the region of Slav of East Europe.</span></p>

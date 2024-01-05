@@ -1,5 +1,7 @@
 # 整洁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengjie_1.md)
+
 <p><span class="chinese">轮廓整洁，象狐狸。</span><span class="english">Clean cut and fox-like.</span></p>
 
 <p><span class="chinese">现在这儿看起来要整洁多了。</span><span class="english">It looks much tidier now.</span></p>

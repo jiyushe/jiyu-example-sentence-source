@@ -1,5 +1,7 @@
 # desirability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desirability.md)
+
 <p><span class="chinese">权值是量测一个路由的可取性的值。</span><span class="english">The metric is a value that measures the desirability of a route.</span></p>
 
 <p><span class="chinese">一件事发生的可能怀与它受欢迎的程度成反比。</span><span class="english">Probability of anything happening is inverse ratio to its desirability.</span></p>

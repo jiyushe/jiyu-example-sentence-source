@@ -1,5 +1,7 @@
 # 皮包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pibao.md)
+
 <p><span class="chinese">是蓝色的珊姆桑奈皮包。</span><span class="english">It's blue, Samsonite bag.</span></p>
 
 <p><span class="chinese">我的皮包忘在火车上了。</span><span class="english">I left my bag on the train.</span></p>

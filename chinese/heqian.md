@@ -1,5 +1,7 @@
 # 呵欠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heqian.md)
+
 <p><span class="chinese">他打了个大呵欠。</span><span class="english">He yawned heavily.</span></p>
 
 <p><span class="chinese">汤姆边打呵欠边回答。</span><span class="english">Tom yawned a reply.</span></p>

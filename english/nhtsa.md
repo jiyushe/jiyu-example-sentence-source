@@ -1,5 +1,7 @@
 # nhtsa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nhtsa.md)
+
 <p><span class="chinese">NHTSA在2月3日展开调查时,报告称接到124个投诉.</span><span class="english">NHTSA reported 124 complaints when it opened the investigation on Feb 3.</span></p>
 
 <p><span class="chinese">他们说，通常NHTSA会在汽油车碰撞测试后放掉剩余的燃料。</span><span class="english">NHTSA normally drains fuel from gasoline-powered cars after crash tests, they said.</span></p>

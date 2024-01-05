@@ -1,5 +1,7 @@
 # progenitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/progenitor.md)
+
 <p><span class="chinese">显祖等人进入监狱。</span><span class="english">The progenitor and others into the prison.</span></p>
 
 <p><span class="chinese">勋伯格是一位现代音乐的先驱。</span><span class="english">Schoenberg was a progenitor of modern music.</span></p>

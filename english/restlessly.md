@@ -1,5 +1,7 @@
 # restlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restlessly.md)
+
 <p><span class="chinese">他很不安地在床上辗转反侧。</span><span class="english">He tumbled restlessly in his bed.</span></p>
 
 <p><span class="chinese">她翻来覆去地睡不着。</span><span class="english">She tossed restlessly in her sleep.</span></p>

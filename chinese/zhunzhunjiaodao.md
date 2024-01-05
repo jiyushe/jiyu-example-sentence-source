@@ -1,5 +1,7 @@
 # 谆谆教导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunzhunjiaodao.md)
+
 <p><span class="chinese">只要你愿意对其谆谆教导。</span><span class="english">If you are willing to guide it.</span></p>
 
 <p><span class="chinese">他谆谆教导他的孩子们要懂规矩。</span><span class="english">He inculcates good manners in his children.</span></p>

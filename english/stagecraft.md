@@ -1,5 +1,7 @@
 # stagecraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stagecraft.md)
+
 <p><span class="chinese">这次对话是中国式做戏的一个典范。</span><span class="english">It was, instead, an example of Chinese stagecraft.</span></p>
 
 <p><span class="chinese">华盛顿演得成功，是因为其内核是可信的。</span><span class="english">Washington’s stagecraft worked because it came from an authentic core.</span></p>

@@ -1,5 +1,7 @@
 # 乘人之危
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengrenzhiwei.md)
+
 <p><span class="chinese">哼，这个妹妹，真会乘人之危。</span><span class="english">Hum, the younger sister, was fishing.</span></p>
 
 <p><span class="chinese">或者命运觉得他们还不够衰，要继续对他们乘人之危？</span><span class="english">Or fate think they enough failure, must continue to their fishing?</span></p>

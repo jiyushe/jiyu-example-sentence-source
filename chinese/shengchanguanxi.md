@@ -1,5 +1,7 @@
 # 生产关系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengchanguanxi.md)
+
 <p><span class="chinese">所有制是生产关系的基础。</span><span class="english">Ownership is the basis of productive relationship.</span></p>
 
 <p><span class="chinese">资本主义生产关系在中国的命运是多舛的。</span><span class="english">The fate of capitalist production relations in China is tortuous.</span></p>

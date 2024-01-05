@@ -1,5 +1,7 @@
 # 欣喜若狂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxiruokuang.md)
+
 <p><span class="chinese">她听到这消息欣喜若狂。</span><span class="english">She went into raptures at the news.</span></p>
 
 <p><span class="chinese">我欣喜若狂的发表了这个理论。</span><span class="english">And I published it with great delight.</span></p>

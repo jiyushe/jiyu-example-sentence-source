@@ -1,5 +1,7 @@
 # 主管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuguan.md)
+
 <p><span class="chinese">她是我们的销售主管。</span><span class="english">She is Head of Sales.</span></p>
 
 <p><span class="chinese">谁是这里的主管?</span><span class="english">Who is in charge here?</span></p>

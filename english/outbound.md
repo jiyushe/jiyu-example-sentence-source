@@ -1,5 +1,7 @@
 # outbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outbound.md)
+
 <p><span class="chinese">打开端口80和443对外的端口。</span><span class="english">Open ports 80 and 443, outbound.</span></p>
 
 <p><span class="chinese">将多个出站端点链接在一起</span><span class="english">Chaining Outbound Endpoints Together</span></p>

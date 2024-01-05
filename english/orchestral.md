@@ -1,5 +1,7 @@
 # orchestral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orchestral.md)
+
 <p><span class="chinese">我们都喜欢听交响音乐。</span><span class="english">We all like listening to orchestral music.</span></p>
 
 <p><span class="chinese">例如，演奏管弦乐时，我就是一名神枪手。</span><span class="english">Playing orchestral music, for example, I become a sharpshooter.</span></p>

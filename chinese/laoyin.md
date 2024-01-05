@@ -1,5 +1,7 @@
 # 烙印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoyin.md)
+
 <p><span class="chinese">它们是我生命的烙印。</span><span class="english">They were my marks of life.</span></p>
 
 <p><span class="chinese">她的面孔在我的记忆留下了烙印。</span><span class="english">Her face burned into my memory.</span></p>

@@ -1,5 +1,7 @@
 # 鹅毛大雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/emaodaxue.md)
+
 <p><span class="chinese">天下着鹅毛大雪。</span><span class="english">It's snowing in great flakes.</span></p>
 
 <p><span class="chinese">天开始下起了鹅毛大雪。</span><span class="english">Snow is falling in large flakes.</span></p>

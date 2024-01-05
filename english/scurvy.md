@@ -1,5 +1,7 @@
 # scurvy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scurvy.md)
+
 <p><span class="chinese">那么你不会败血。</span><span class="english">So you don't get scurvy.</span></p>
 
 <p><span class="chinese">那就不必担心路上得坏血症或斑疹伤寒这类疾病了！</span><span class="english">No fear of scurvy or ship-fever, this voyage!</span></p>

@@ -1,5 +1,7 @@
 # headway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headway.md)
+
 <p><span class="chinese">航船在暴风骤雨中几乎无法前进。</span><span class="english">The ship made little headway in the storm.</span></p>
 
 <p><span class="chinese">那船逆著潮水缓慢地前进。</span><span class="english">The boat made slow headway against the tide.</span></p>

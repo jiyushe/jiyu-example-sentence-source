@@ -1,5 +1,7 @@
 # 着力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoli.md)
+
 <p><span class="chinese">又着力宣传佛理，阐述对佛教教义的解悟。</span><span class="english">He explained the Buddhist theory of doctrine.</span></p>
 
 <p><span class="chinese">此次展览着力表现贺军的“功夫”艺术。</span><span class="english">This exhibition will show us his "Kung Fu Arting".</span></p>

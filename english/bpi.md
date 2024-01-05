@@ -1,5 +1,7 @@
 # bpi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bpi.md)
+
 <p><span class="chinese">一个出色的BPI项目领导者究竟都需要具备什么素质呢？</span><span class="english">What does it take to be a good BPI project leader?</span></p>
 
 <p><span class="chinese">然而，在大型的BPI项目中往往产生领导层的问题。</span><span class="english">However, large BPI projects often have leadership problems.</span></p>

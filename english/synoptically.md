@@ -1,5 +1,7 @@
 # synoptically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synoptically.md)
+
 <p><span class="chinese">第一章对象征文学理论进行了概括性的介绍。</span><span class="english">In Chapter 1, the concerned symbolic literary theories are introduced here synoptically.</span></p>
 
 <p><span class="chinese">概括性地介绍了汉字谐声系统的历史层次。</span><span class="english">The historical hierarchy about the system of the Chinese partial tone has been synoptically introduced.</span></p>

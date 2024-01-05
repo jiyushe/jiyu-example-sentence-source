@@ -1,5 +1,7 @@
 # chelsea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chelsea.md)
+
 <p><span class="chinese">但切尔西干的也不错。</span><span class="english">But Chelsea have done well.</span></p>
 
 <p><span class="chinese">切尔西和我经常互相交换意见。</span><span class="english">Chelsea and I often compare notes.</span></p>

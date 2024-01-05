@@ -1,5 +1,7 @@
 # fundraising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fundraising.md)
+
 <p><span class="chinese">筹款晚宴。</span><span class="english">Fundraising dinners.</span></p>
 
 <p><span class="chinese">我为一个集资公司工作。</span><span class="english">Yeah, I work for a fundraising company.</span></p>

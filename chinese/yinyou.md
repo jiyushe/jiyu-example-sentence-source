@@ -1,5 +1,7 @@
 # 因由
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyou.md)
+
 <p><span class="chinese">这就是为什么他不能带上贝拉一起去狩猎远足的因由。</span><span class="english">Thvia's why Bella can'tgo on a hunting trip with him.</span></p>
 
 <p><span class="chinese">警惕没有任何因由的极简美学主义决定。</span><span class="english">Be wary of minimalism as an aesthetic decision without cause.</span></p>

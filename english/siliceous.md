@@ -1,5 +1,7 @@
 # siliceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siliceous.md)
+
 <p><span class="chinese">粗砂岩是硅酸砂岩。</span><span class="english">Gritrock is siliceous sandstone.</span></p>
 
 <p><span class="chinese">火山灰水泥，火山石用来生产水硬水泥的含硅火山灰</span><span class="english">A siliceous volcanic ash used to produce hydraulic cement.</span></p>

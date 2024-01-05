@@ -1,5 +1,7 @@
 # feasible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feasible.md)
+
 <p><span class="chinese">因此这是可行的。</span><span class="english">So that’s feasible.</span></p>
 
 <p><span class="chinese">那是一个可行的方案。</span><span class="english">That is a feasible scheme.</span></p>

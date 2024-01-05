@@ -1,5 +1,7 @@
 # militia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/militia.md)
+
 <p><span class="chinese">改变了民兵和苦工的单位模型。</span><span class="english">Changed unit models for Militia and Peons.</span></p>
 
 <p><span class="chinese">民兵被坦克和装甲运兵车的火力驱散。</span><span class="english">The militia was dispersed by tank and APC fire.</span></p>

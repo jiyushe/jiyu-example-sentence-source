@@ -1,5 +1,7 @@
 # 学童
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuetong.md)
+
 <p><span class="chinese">学童辍学率也很高。</span><span class="english">The school dropout rate also is high.</span></p>
 
 <p><span class="chinese">据警方消息，他们都是逃学的学童。</span><span class="english">All were known to the police as truants.</span></p>

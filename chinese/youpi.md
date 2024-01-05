@@ -1,5 +1,7 @@
 # 幽僻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youpi.md)
+
 <p><span class="chinese">船停靠在一个幽僻的小湾里。</span><span class="english">We were anchored in a secluded cove.</span></p>
 
 <p><span class="chinese">蜿蜒小径通向幽僻的地方。</span><span class="english">A winding path leads to a secluded place.</span></p>

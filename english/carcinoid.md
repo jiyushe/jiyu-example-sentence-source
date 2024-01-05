@@ -1,5 +1,7 @@
 # carcinoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carcinoid.md)
+
 <p><span class="chinese">良性肿瘤不会对你有致命的伤害。</span><span class="english">Carcinoid doesn't has a  fatal harm for you.</span></p>
 
 <p><span class="chinese">原发性类癌瘤最常发生在肠道。</span><span class="english">Primary carcinoid tumors are mostly found in the intestinal tract.</span></p>

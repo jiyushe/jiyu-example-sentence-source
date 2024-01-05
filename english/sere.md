@@ -1,5 +1,7 @@
 # sere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sere.md)
+
 <p><span class="chinese">烈日之下的景色，一片枯黄憔悴</span><span class="english">The landscape, brown and sere beneath the sun</span></p>
 
 <p><span class="chinese">枯藤、老树和正在安顿下来的乌鸦。</span><span class="english">The sere vines, the old trees, and nestling crows.</span></p>

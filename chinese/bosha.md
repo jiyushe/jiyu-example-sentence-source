@@ -1,5 +1,7 @@
 # 搏杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bosha.md)
+
 <p><span class="chinese">我们期待一场白热化的搏杀，但是，我们并没如愿以偿。</span><span class="english">We all wanted a heated, spirited game, and we didn't really get one.</span></p>
 
 <p><span class="chinese">这些骑兵装备长矛、狼牙棒和盾牌，近身搏杀极为骁勇，令敌军丧胆。</span><span class="english">These men are equipped for close fighting with spears, maces and shields.</span></p>

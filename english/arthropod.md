@@ -1,5 +1,7 @@
 # arthropod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthropod.md)
+
 <p><span class="chinese">节肢动物中一类包括水黾。</span><span class="english">A segment of the limb of an arthropod.</span></p>
 
 <p><span class="chinese">蝎，节肢动物纲毒虫。</span><span class="english">Scorpion is arthropod poisonous insect.</span></p>

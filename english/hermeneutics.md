@@ -1,5 +1,7 @@
 # hermeneutics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hermeneutics.md)
+
 <p><span class="chinese">关于诠释学的发展史就讲到这儿。</span><span class="english">So much then for the history of hermeneutics.</span></p>
 
 <p><span class="chinese">阐释学是“理解的哲学”。</span><span class="english">Hermeneutics is 'a philosophy of understanding'.</span></p>

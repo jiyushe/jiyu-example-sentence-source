@@ -1,5 +1,7 @@
 # inveterate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inveterate.md)
+
 <p><span class="chinese">她长年不变地读愚蠢的爱情小说。</span><span class="english">She is an inveterate reader of silly love stories.</span></p>
 
 <p><span class="chinese">这就是他如何成为老菸枪的方法。</span><span class="english">This is the way how he became an inveterate smoker.</span></p>

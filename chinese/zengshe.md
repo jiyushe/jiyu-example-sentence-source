@@ -1,5 +1,7 @@
 # 增设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengshe.md)
+
 <p><span class="chinese">指令集增设局部。</span><span class="english">The Thumb-2 instruction set extension.</span></p>
 
 <p><span class="chinese">国家快运也增设了额外的长途汽车。</span><span class="english">National Express laid on extra coaches.</span></p>

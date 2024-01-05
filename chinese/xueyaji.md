@@ -1,5 +1,7 @@
 # 血压计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueyaji.md)
+
 <p><span class="chinese">如果你家中有血压计，你可以试一下。</span><span class="english">Give it a try if youhave a blood pressure monitor at home.</span></p>
 
 <p><span class="chinese">最早的血压计用于测量谁的血压？</span><span class="english">At whose blood pressure measuring is the earliest tonometer used?</span></p>

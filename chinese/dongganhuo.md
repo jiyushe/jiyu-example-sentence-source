@@ -1,5 +1,7 @@
 # 动肝火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongganhuo.md)
+
 <p><span class="chinese">「得了！我早就知道了！」老太太大动肝火。</span><span class="english">"there i know! " the old lady was ablaze.</span></p>
 
 <p><span class="chinese">这种对比让中国官员大动肝火。</span><span class="english">The comparisons infuriate Chinese officials.</span></p>

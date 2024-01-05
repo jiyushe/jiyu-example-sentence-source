@@ -1,5 +1,7 @@
 # 剧种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzhong.md)
+
 <p><span class="chinese">它是一个古老的剧种。</span><span class="english">It is an ancient type of theater.</span></p>
 
 <p><span class="chinese">现在它仍是具有全国影响的大剧种。</span><span class="english">Now it is still has the effect of big operas.</span></p>

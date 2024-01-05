@@ -1,5 +1,7 @@
 # perrier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perrier.md)
+
 <p><span class="chinese">好的。谢谢。给我们来两只巴黎水。</span><span class="english">Yes. Thank you. We have two perrier water.</span></p>
 
 <p><span class="chinese">佩绿雅不再仅仅是一瓶水。</span><span class="english">Perrier was no longer just a bottle of water.</span></p>

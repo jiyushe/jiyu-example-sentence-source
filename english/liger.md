@@ -1,5 +1,7 @@
 # liger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liger.md)
+
 <p><span class="chinese">所以目前出生的狮虎兽仅有两只。</span><span class="english">So now the only two animals were born Liger.</span></p>
 
 <p><span class="chinese">狮虎兽是雄性狮子和雌性老虎的后代。</span><span class="english">A liger is a hybrid cross between a male lion and a tigress</span></p>

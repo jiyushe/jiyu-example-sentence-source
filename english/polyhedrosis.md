@@ -1,5 +1,7 @@
 # polyhedrosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyhedrosis.md)
+
 <p><span class="chinese">松毛虫质型多角体病毒的宿主域与交叉感染。</span><span class="english">Host range and cross infection of cytoplasmic polyhedrosis viruses from Dendrolimus spp.</span></p>
 
 <p><span class="chinese">幼虫感染斜纹夜蛾核多角体病毒后，在菜株上的分布重心逐渐上移。</span><span class="english">When larvae were infected with nuclear polyhedrosis virus, the dispersion of larvae moved to the up part of vegetable gradually.</span></p>

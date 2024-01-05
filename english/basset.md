@@ -1,5 +1,7 @@
 # basset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basset.md)
+
 <p><span class="chinese">我只是…我就像喜欢猎犬那样喜欢你。</span><span class="english">I mean, I like you the way I like basset hounds.</span></p>
 
 <p><span class="chinese">两个女孩，在彼得尔大街上悠闲的遛狗。</span><span class="english">There are two, walking a basset down Beadel Street.</span></p>

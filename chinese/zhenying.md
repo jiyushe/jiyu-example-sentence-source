@@ -1,5 +1,7 @@
 # 阵营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenying.md)
+
 <p><span class="chinese">我个人是站在支持幻想的阵营这一边的。</span><span class="english">I personally am on the pro-fantasy camp.</span></p>
 
 <p><span class="chinese">寇德无阵营风暴，强壮，战斗。</span><span class="english">Kord Unaligned Storms, strength, battle.</span></p>

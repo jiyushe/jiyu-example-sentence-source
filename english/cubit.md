@@ -1,5 +1,7 @@
 # cubit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cubit.md)
+
 <p><span class="chinese">家庭是社会最小的单位。</span><span class="english">Cubit is an ancient unit of length.</span></p>
 
 <p><span class="chinese">腕尺是古代的一种长度单位。</span><span class="english">Cubit is an ancient unit of length.</span></p>

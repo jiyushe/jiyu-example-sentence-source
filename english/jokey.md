@@ -1,5 +1,7 @@
 # jokey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jokey.md)
+
 <p><span class="chinese">布鲁诺还无法理解他弟弟诙谐的举止。</span><span class="english">Bruno has not got his younger brother's jokey manner.</span></p>
 
 <p><span class="chinese">他们的“金枪鱼之友”——数以吨计的海豚也伤害了很多人的情感。</span><span class="english">Its jokey 'tuna friendly' tins of dolphin offended some too.</span></p>

@@ -1,5 +1,7 @@
 # comedy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comedy.md)
+
 <p><span class="chinese">那场喜剧是关于什么的？</span><span class="english">What's that comedy about?</span></p>
 
 <p><span class="chinese">它是一部非常滑稽的喜剧片。</span><span class="english">It is a very humoristic comedy.</span></p>

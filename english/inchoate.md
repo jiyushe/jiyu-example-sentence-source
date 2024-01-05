@@ -1,5 +1,7 @@
 # inchoate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inchoate.md)
+
 <p><span class="chinese">白血病的早期症状是什么？</span><span class="english">What is the inchoate symptom of leukaemia?</span></p>
 
 <p><span class="chinese">结肠癌的早期症状是什么?如何可以确诊?。</span><span class="english">What is the inchoate symptom of colonic cancer? How can diagnose?</span></p>

@@ -1,5 +1,7 @@
 # comradeship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comradeship.md)
+
 <p><span class="chinese">享受美酒，也品尝友谊。</span><span class="english">He likes wine and enjoys comradeship.</span></p>
 
 <p><span class="chinese">他的耐心护理足以说明他的同志情谊。</span><span class="english">His patient nursing speaks for his comradeship.</span></p>

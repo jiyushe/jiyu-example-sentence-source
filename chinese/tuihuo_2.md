@@ -1,5 +1,7 @@
 # 退货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuihuo_2.md)
+
 <p><span class="chinese">我想退货。</span><span class="english">I want retune.</span></p>
 
 <p><span class="chinese">我们不接受销价出售的物品的退货。</span><span class="english">We don't take returns on sale items.</span></p>

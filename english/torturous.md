@@ -1,5 +1,7 @@
 # torturous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torturous.md)
+
 <p><span class="chinese">因为网络邮件服务在当时是很费事的。</span><span class="english">That's because using Web mail services was torturous.</span></p>
 
 <p><span class="chinese">然后，我们会争论，度过一个又长又折磨人的假期。</span><span class="english">Then we would have argued and had a long, torturous vacation.</span></p>

@@ -1,5 +1,7 @@
 # wave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wave.md)
+
 <p><span class="chinese">挥挥你的手。</span><span class="english">Wave your hand.</span></p>
 
 <p><span class="chinese">冷烫还热烫?。</span><span class="english">Cold wave or Perm?</span></p>

@@ -1,5 +1,7 @@
 # mastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastic.md)
+
 <p><span class="chinese">乳香是室内马赛克瓷砖粘合胶建议。</span><span class="english">Mastic is the recommended adhesive for gluing indoor mosaic tiles.</span></p>
 
 <p><span class="chinese">如果复涂以醇酸漆，将会存在降低配套体系附着力的问题。</span><span class="english">Alkyd paints may have reduced adhesion to Star Maling Epoxy Mastic Hold.</span></p>

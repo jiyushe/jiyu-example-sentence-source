@@ -1,5 +1,7 @@
 # unhappy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unhappy.md)
+
 <p><span class="chinese">她会更忧伤。</span><span class="english">She's unhappy.</span></p>
 
 <p><span class="chinese">看来你很不高兴.</span><span class="english">You look so unhappy.</span></p>

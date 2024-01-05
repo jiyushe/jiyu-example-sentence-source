@@ -1,5 +1,7 @@
 # 王国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangguo_1.md)
+
 <p><span class="chinese">每个人都是王国之主！</span><span class="english">Every man will be a king!</span></p>
 
 <p><span class="chinese">没有永垂不朽的王国。</span><span class="english">No kingdom lasts forever.</span></p>

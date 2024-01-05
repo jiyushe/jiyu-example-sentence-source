@@ -1,5 +1,7 @@
 # 感觉器官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjueqiguan.md)
+
 <p><span class="chinese">用他们的感觉器官。</span><span class="english">They use their sense of smell.</span></p>
 
 <p><span class="chinese">眼睛是人类获得外界信息的重要感觉器官。</span><span class="english">The human eye is the important sense organ.</span></p>

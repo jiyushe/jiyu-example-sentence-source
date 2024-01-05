@@ -1,5 +1,7 @@
 # 常理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changli_1.md)
+
 <p><span class="chinese">他们就不能够用用常理思考吗？</span><span class="english">And using common sense is beyond them?</span></p>
 
 <p><span class="chinese">整日行走在积尘的常理之道。</span><span class="english">Trodden the dusty road of common sense.</span></p>

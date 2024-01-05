@@ -1,5 +1,7 @@
 # 轻率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshuai.md)
+
 <p><span class="chinese">她的态度是轻率的。</span><span class="english">Her attitude was reckless.</span></p>
 
 <p><span class="chinese">不要轻率对待。</span><span class="english">Do not treat them flippantly.</span></p>

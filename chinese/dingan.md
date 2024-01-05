@@ -1,5 +1,7 @@
 # 定案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingan.md)
+
 <p><span class="chinese">我需要把这个提议定案。</span><span class="english">I have to finalize this proposal.</span></p>
 
 <p><span class="chinese">据以定案的证据必须具有排它性和唯一性。</span><span class="english">The evidences that could be used to determine a case shall be exclusive.</span></p>

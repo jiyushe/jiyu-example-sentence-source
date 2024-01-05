@@ -1,5 +1,7 @@
 # 大好河山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahaoheshan.md)
+
 <p><span class="chinese">这首名曲赞美了中国的大好河山。</span><span class="english">It praises the picturesque landscape of China.</span></p>
 
 <p><span class="chinese">中国，还有美丽的大好河山。</span><span class="english">China, also the beautiful beautiful country side.</span></p>

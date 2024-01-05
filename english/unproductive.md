@@ -1,5 +1,7 @@
 # unproductive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unproductive.md)
+
 <p><span class="chinese">这真是时间和精力的浪费，徒劳无益。</span><span class="english">Such an unproductive waste of time and energy.</span></p>
 
 <p><span class="chinese">直接为消费者服务的工作和劳动是“无生产力”的。</span><span class="english">Labor in direct service to consumers is "unproductive."</span></p>

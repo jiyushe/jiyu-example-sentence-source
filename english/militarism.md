@@ -1,5 +1,7 @@
 # militarism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/militarism.md)
+
 <p><span class="chinese">还有军阀主义残余。</span><span class="english">There were also remnants of militarism.</span></p>
 
 <p><span class="chinese">第三部分论述了西魏北周的军国主义特色。</span><span class="english">Section three expounds the militarism of Northern Zhou.</span></p>

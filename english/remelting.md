@@ -1,5 +1,7 @@
 # remelting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remelting.md)
+
 <p><span class="chinese">激光表面重熔对LY12CZ性能的影响。</span><span class="english">Effect of laser surface remelting on performance of LY12CZ.</span></p>
 
 <p><span class="chinese">本文研究花岗岩的矿物相和重熔结构。</span><span class="english">Mineralogical phases and remelting texture of granite are reviewed.</span></p>

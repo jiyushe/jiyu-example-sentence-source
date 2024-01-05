@@ -1,5 +1,7 @@
 # 先下手为强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxiashouweiqiang.md)
+
 <p><span class="chinese">我先下手为强。</span><span class="english">I start first for strong.</span></p>
 
 <p><span class="chinese">对手开始攻击前要先下手为强。</span><span class="english">Deliver your attack before your opponent begins his.</span></p>

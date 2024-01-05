@@ -1,5 +1,7 @@
 # 明晨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingchen.md)
+
 <p><span class="chinese">请于明晨打电话给他。</span><span class="english">Please ring him up tomorrow morning.</span></p>
 
 <p><span class="chinese">请在明晨六点叫醒我。</span><span class="english">Please call me at 6 tomorrow morning.</span></p>

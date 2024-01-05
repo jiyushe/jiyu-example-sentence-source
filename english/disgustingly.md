@@ -1,5 +1,7 @@
 # disgustingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disgustingly.md)
+
 <p><span class="chinese">下水道堵了，有股恶心的臭鱼味。</span><span class="english">The drain's blocked and smells disgustingly of rotten fish.</span></p>
 
 <p><span class="chinese">他从巴哈马群岛回来时看上去健康得令人眼红。</span><span class="english">He looked disgustingly healthy when he got back from the Bahamas.</span></p>

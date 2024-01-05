@@ -1,5 +1,7 @@
 # unseemly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unseemly.md)
+
 <p><span class="chinese">这是你帝国边境上的一个不相宜的污点。</span><span class="english">It is an unseemly blot on the skirts of your empire.</span></p>
 
 <p><span class="chinese">性感这东西对他说来是危险的，在他的思想方法中是不体面的。</span><span class="english">Eroticism was, in some way, dangerous business, unseemly to his way of thinking.</span></p>

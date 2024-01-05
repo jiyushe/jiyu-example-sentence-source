@@ -1,5 +1,7 @@
 # unspecific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unspecific.md)
+
 <p><span class="chinese">为什麽涉及的金额是如此不确定？</span><span class="english">And why are the sums involved left so unspecific?</span></p>
 
 <p><span class="chinese">为什么涉及的金额是如此不确定？</span><span class="english">And why are the sums involved left so unspecific ?</span></p>

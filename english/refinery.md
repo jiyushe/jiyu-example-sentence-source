@@ -1,5 +1,7 @@
 # refinery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refinery.md)
+
 <p><span class="chinese">一个加拿大的炼油厂。</span><span class="english">An oil refinery in Canada.</span></p>
 
 <p><span class="chinese">他们建起了一座榨糖厂。</span><span class="english">They built a sugar refinery.</span></p>

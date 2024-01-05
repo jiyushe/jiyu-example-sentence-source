@@ -1,5 +1,7 @@
 # 风风雨雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengfengyuyu.md)
+
 <p><span class="chinese">三年校园的风风雨雨。</span><span class="english">Three year the disturbances of the campus.</span></p>
 
 <p><span class="chinese">经历了近五千年的风风雨雨,巨石仍然屹立不倒。</span><span class="english">After nearly 5,ooo years Stonehenge is still standing.</span></p>

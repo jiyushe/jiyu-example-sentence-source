@@ -1,5 +1,7 @@
 # mycotoxin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mycotoxin.md)
+
 <p><span class="chinese">赭曲霉素A是一种毒枝菌素，据知对肾脏有毒性作用。</span><span class="english">Ochratoxin A is a mycotoxin known to be toxic to the kidneys.</span></p>
 
 <p><span class="chinese">如果忽略面条面粉的原产地，如何控制霉菌毒素？</span><span class="english">What are mycotoxin controls or country of origin if exempt of flour for noodles?</span></p>

@@ -1,5 +1,7 @@
 # densitometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/densitometer.md)
+
 <p><span class="chinese">第二栽仪器是不正射密度计。</span><span class="english">The second type of instrument is a reflex densitometer.</span></p>
 
 <p><span class="chinese">质量流量的数据可借助于密度计而获得。</span><span class="english">Mass flow information can be secured by using a densitometer.</span></p>

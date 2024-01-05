@@ -1,5 +1,7 @@
 # original
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/original.md)
+
 <p><span class="chinese">从此人有了原罪。</span><span class="english">Original sin, people.</span></p>
 
 <p><span class="chinese">他是个原创歌手。</span><span class="english">He is a original singer.</span></p>

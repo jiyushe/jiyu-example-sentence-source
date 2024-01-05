@@ -1,5 +1,7 @@
 # 有机合成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjihecheng.md)
+
 <p><span class="chinese">氰化氢是一种碳容器-或者说是有机合成物。</span><span class="english">Hydrogen cyanide is acarbon-containing, or organic compound.</span></p>
 
 <p><span class="chinese">氰化氢是一种碳容器-或者说是有机合成物。</span><span class="english">Hydrogen cyanide is a carbon-containing, or organic compound.</span></p>

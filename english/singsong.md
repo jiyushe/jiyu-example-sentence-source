@@ -1,5 +1,7 @@
 # singsong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singsong.md)
+
 <p><span class="chinese">她的声音时起时落，有意识地用着一种甜美的唱腔。</span><span class="english">Her voice rises, falls, in a consciously sweet singsong.</span></p>
 
 <p><span class="chinese">科林打开遗嘱，开始用一种节奏单调的语气念起来。</span><span class="english">Colin opened the will, and began to read it out in a singsong voice.</span></p>

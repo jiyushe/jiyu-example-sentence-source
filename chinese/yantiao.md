@@ -1,5 +1,7 @@
 # 眼跳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yantiao.md)
+
 <p><span class="chinese">朝向和反向眼跳任务是两种较为常用的眼跳任务范式。</span><span class="english">Pro- and antisaccade tasks are two kinds of popular saccade paradigms.</span></p>
 
 <p><span class="chinese">否定句注视时间最长，眼跳广度最小。</span><span class="english">For negative sentence, total fixation time and saccade amplitude are shortest.</span></p>

@@ -1,5 +1,7 @@
 # centigrade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centigrade.md)
+
 <p><span class="chinese">耐火度达1200摄氏度。</span><span class="english">Our logs can resist 1200 centigrade.</span></p>
 
 <p><span class="chinese">大约摄氏三十度。</span><span class="english">It's about thirty degrees centigrade.</span></p>

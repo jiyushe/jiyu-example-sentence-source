@@ -1,5 +1,7 @@
 # fibril
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibril.md)
+
 <p><span class="chinese">结果形成所观察到的原纤取向的逐渐变化。</span><span class="english">The result would be the observed gradual change in fibril orientation.</span></p>
 
 <p><span class="chinese">通过实验，对竹原纤维纱线和苎麻纤维纱线的基本性能作了对比分析。</span><span class="english">Some comparision researches of bamboo fibril yarn and ramie fibril yarn were made.</span></p>

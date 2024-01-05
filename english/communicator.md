@@ -1,5 +1,7 @@
 # communicator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communicator.md)
+
 <p><span class="chinese">你会是一位更好的通信员。</span><span class="english">You're a better communicator.</span></p>
 
 <p><span class="chinese">作为新用户启动通信器。</span><span class="english">Start Communicator as a new user.</span></p>

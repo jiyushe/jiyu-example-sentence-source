@@ -1,5 +1,7 @@
 # gaea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaea.md)
+
 <p><span class="chinese">盖亚是古希腊神话中大地女神的名字。</span><span class="english">GAEA is the name of the Earth Goddess in ancient Greece.</span></p>
 
 <p><span class="chinese">盖亚于是向小儿子克洛诺斯求助。</span><span class="english">Gaea called upon her son Cronus , the youngest Titan , to help.</span></p>

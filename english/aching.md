@@ -1,5 +1,7 @@
 # aching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aching.md)
+
 <p><span class="chinese">我的牙齿又痛起来了。</span><span class="english">My tooth is aching up again.</span></p>
 
 <p><span class="chinese">现在我的肌肉好痛。</span><span class="english">My muscles are aching already.</span></p>

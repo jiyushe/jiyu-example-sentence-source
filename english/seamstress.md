@@ -1,5 +1,7 @@
 # seamstress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seamstress.md)
+
 <p><span class="chinese">是的，女裁缝喊道。</span><span class="english">Yes, cried the seamstress.</span></p>
 
 <p><span class="chinese">女裁缝归拢了布料。</span><span class="english">The seamstress gathered in the cloth.</span></p>

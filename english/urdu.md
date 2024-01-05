@@ -1,5 +1,7 @@
 # urdu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urdu.md)
+
 <p><span class="chinese">“真主伟大，”歌手用乌尔杜语唱道。</span><span class="english">"God is great", chanted the singer in Urdu.</span></p>
 
 <p><span class="chinese">他们将用汉语取代乌尔都语。</span><span class="english">Not to forget, they will replacing Urdu with Mandarin.</span></p>

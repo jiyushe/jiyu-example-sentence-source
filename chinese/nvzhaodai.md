@@ -1,5 +1,7 @@
 # 女招待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvzhaodai.md)
+
 <p><span class="chinese">她是个很会讨顾客喜欢的女招待。</span><span class="english">She is very pleasing waitress.</span></p>
 
 <p><span class="chinese">该俱乐部雇佣了30多位女招待。</span><span class="english">The club employs about 30 hostesses.</span></p>

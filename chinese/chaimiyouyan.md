@@ -1,5 +1,7 @@
 # 柴米油盐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaimiyouyan.md)
+
 <p><span class="chinese">然而现实是柴米油盐，是锅碗瓢盆。</span><span class="english">But the reality is daily necessities, is basin of boiler bowl gourd ladle.</span></p>
 
 <p><span class="chinese">你们度过了琐碎的一生、柴米油盐的一生、平淡的一生、幸福的一生。</span><span class="english">You had a trivial life, daily necessities of life, plain life, happy life.</span></p>

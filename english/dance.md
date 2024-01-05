@@ -1,5 +1,7 @@
 # dance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dance.md)
+
 <p><span class="chinese">你会跳舞吗？</span><span class="english">Can you dance?</span></p>
 
 <p><span class="chinese">随风舞。</span><span class="english">Dance wid wind.</span></p>

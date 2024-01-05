@@ -1,5 +1,7 @@
 # dreg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreg.md)
+
 <p><span class="chinese">他把一杯水喝得点滴不剩。</span><span class="english">He left not a dreg in the glass.</span></p>
 
 <p><span class="chinese">耐渣锓蚀，强度高，抗剥落。</span><span class="english">Dreg proof ension, high strength.</span></p>

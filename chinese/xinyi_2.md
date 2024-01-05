@@ -1,5 +1,7 @@
 # 新义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyi_2.md)
+
 <p><span class="chinese">新词语实际指新义位。</span><span class="english">Neologisms are in fact new sememes.</span></p>
 
 <p><span class="chinese">第二部分名词新词新义的语义阐析。</span><span class="english">The second is the analysis of the semantic meaning.</span></p>

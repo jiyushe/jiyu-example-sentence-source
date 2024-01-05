@@ -1,5 +1,7 @@
 # bedload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedload.md)
+
 <p><span class="chinese">河床质中几乎没有悬移质颗粒，对河床演变起主要作用的是推移质泥沙。</span><span class="english">Bedload is the main factor resulting in bed form for few sands of suspend load in the river bed.</span></p>
 
 <p><span class="chinese">分别用几种有代表性的输沙率公式计算了都江堰河段的推移质输沙率。</span><span class="english">Finally, bedload transport rate of Dujiangyan was computed with several representative formulas.</span></p>

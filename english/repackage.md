@@ -1,5 +1,7 @@
 # repackage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repackage.md)
+
 <p><span class="chinese">想想办法来重新包装您的技能。</span><span class="english">Think about ways to repackage your skills.</span></p>
 
 <p><span class="chinese">他想把汉考克重新包装甚至重新打造成一个好人。</span><span class="english">He wants to repackage and, even more, remake Hancock into a good guy.</span></p>

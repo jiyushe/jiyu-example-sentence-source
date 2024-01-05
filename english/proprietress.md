@@ -1,5 +1,7 @@
 # proprietress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proprietress.md)
+
 <p><span class="chinese">他和餐馆的女老板说话。</span><span class="english">He speaks with the proprietress.</span></p>
 
 <p><span class="chinese">老板娘在和一个人谈论。</span><span class="english">Proprietress in and talk about a person.</span></p>

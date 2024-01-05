@@ -1,5 +1,7 @@
 # pleasant 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleasant.md)
+
 <p><span class="chinese">气候非常宜人。</span><span class="english">It's very pleasant.</span></p>
 
 <p><span class="chinese">因为这是个艳阳天。</span><span class="english">For it is a pleasant day.</span></p>

@@ -1,5 +1,7 @@
 # 背水一战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beishuiyizhan.md)
+
 <p><span class="chinese">使用肝素是背水一战了。</span><span class="english">Heparin was a desperate toss of the dice.</span></p>
 
 <p><span class="chinese">有一种勇气，叫破釜沉舟，背水一战。</span><span class="english">There is a kind of perseverance, called Kua.</span></p>

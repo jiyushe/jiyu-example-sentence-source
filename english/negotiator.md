@@ -1,5 +1,7 @@
 # negotiator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negotiator.md)
+
 <p><span class="chinese">做一个谈判者和影响者</span><span class="english">Be a Negotiator and Influencer</span></p>
 
 <p><span class="chinese">宝莉是个能干的磋商者。</span><span class="english">Polly is a competent negotiator.</span></p>

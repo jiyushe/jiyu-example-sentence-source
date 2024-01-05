@@ -1,5 +1,7 @@
 # 屡教不改
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvjianbugai.md)
+
 <p><span class="chinese">如果你屡教不改老偷懒，你可能会被活活扔到海里。</span><span class="english">If you slacked consistently, you could be thrown overboard.</span></p>
 
 <p><span class="chinese">当然，如果屡教不改，我们将会有相应的处罚。</span><span class="english">Of course, if incorrigible, we will have the appropriate punishment.</span></p>

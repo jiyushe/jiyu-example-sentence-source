@@ -1,5 +1,7 @@
 # 刽子手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guizishou.md)
+
 <p><span class="chinese">我是一个刽子手。</span><span class="english">I am a hangman.</span></p>
 
 <p><span class="chinese">他骗过了刽子手。</span><span class="english">He cheated the hangman.</span></p>

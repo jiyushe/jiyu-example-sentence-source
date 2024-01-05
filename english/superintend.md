@@ -1,5 +1,7 @@
 # superintend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superintend.md)
+
 <p><span class="chinese">她得监督家务。</span><span class="english">She had to superintend the house.</span></p>
 
 <p><span class="chinese">如何加强网上交易监管?。</span><span class="english">How to strengthen trade on the net superintend?</span></p>

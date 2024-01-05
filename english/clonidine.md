@@ -1,5 +1,7 @@
 # clonidine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clonidine.md)
+
 <p><span class="chinese">可乐定避免其他形式。</span><span class="english">Avoid other forms of clonidine.</span></p>
 
 <p><span class="chinese">更多信息，可参看有关可乐定的专题。</span><span class="english">For more information, please see the drug monograph on Clonidine.</span></p>

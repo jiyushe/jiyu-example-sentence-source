@@ -1,5 +1,7 @@
 # 盟誓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengshi.md)
+
 <p><span class="chinese">分手时两人盟誓，永不相负。</span><span class="english">They vowed never to separate from each other.</span></p>
 
 <p><span class="chinese">本文主要从地理的角度对吐蕃的盟誓进行了一个全新的思考。</span><span class="english">This idea which from the geographical point of view of Tibet's vows is a new thought.</span></p>

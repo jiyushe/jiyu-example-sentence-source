@@ -1,5 +1,7 @@
 # appurtenance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appurtenance.md)
+
 <p><span class="chinese">拔刀这里我记得附件可以很大的。</span><span class="english">I remember that appurtenance in this forum can make very big.</span></p>
 
 <p><span class="chinese">接下来，进行了制冷系统节流机构和附属设备的选型。</span><span class="english">Followed it, I select the model number throttle flap and appurtenance.</span></p>

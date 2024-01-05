@@ -1,5 +1,7 @@
 # hospitalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hospitalize.md)
+
 <p><span class="chinese">我必须要住院吗？</span><span class="english">Should I be hospitalize?</span></p>
 
 <p><span class="chinese">史密斯夫人病重已住院。</span><span class="english">Mrs Smith seriously ill already hospitalize.</span></p>

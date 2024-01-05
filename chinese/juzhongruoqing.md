@@ -1,5 +1,7 @@
 # 举重若轻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzhongruoqing.md)
+
 <p><span class="chinese">从容不迫、举重若轻地描绘，在软弱中越来越有力量和味道。</span><span class="english">He paints unruffled and shows more and more strength and taste in the weakness.</span></p>
 
 <p><span class="chinese">他们在场上都是举重若轻镇定自若，这也是米兰的标志之一。</span><span class="english">They also have in common a composed nature on the pitch, which is a signature of AC Milan.</span></p>

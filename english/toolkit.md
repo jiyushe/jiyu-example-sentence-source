@@ -1,5 +1,7 @@
 # toolkit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toolkit.md)
+
 <p><span class="chinese">谁应该使用该工具箱？</span><span class="english">Who should use the toolkit?</span></p>
 
 <p><span class="chinese">这才是实际的工具箱代码。</span><span class="english">This is the actual toolkit code.</span></p>

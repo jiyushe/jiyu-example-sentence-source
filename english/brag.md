@@ -1,5 +1,7 @@
 # brag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brag.md)
+
 <p><span class="chinese">他爱吹牛。</span><span class="english">He likes to brag.</span></p>
 
 <p><span class="chinese">难道你就从不絮絮叨叨吗？</span><span class="english">Don’t you ever brag?</span></p>

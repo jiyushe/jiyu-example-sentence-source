@@ -1,5 +1,7 @@
 # 侨乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoxiang.md)
+
 <p><span class="chinese">广州是一个著名的侨乡。</span><span class="english">Guangzhou is famous as a hometown for overseas Chinese.</span></p>
 
 <p><span class="chinese">由此，侨乡梅州文化出现了繁荣、新潮的气象。</span><span class="english">It initiated the new trend of cultural entertainment in Mei-zhou.</span></p>

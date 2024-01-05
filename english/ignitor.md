@@ -1,5 +1,7 @@
 # ignitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ignitor.md)
+
 <p><span class="chinese">该代码框架代码点火器。</span><span class="english">The code framework is code ignitor.</span></p>
 
 <p><span class="chinese">点火器是引擎的启动装置。</span><span class="english">The ignitor is the trigger of the engine.</span></p>

@@ -1,5 +1,7 @@
 # flexography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flexography.md)
+
 <p><span class="chinese">柔性版印刷在近几年内获得了长足的发展。</span><span class="english">Flexography has obtained the considerable development in recent years.</span></p>
 
 <p><span class="chinese">掌握好油墨的黏度对于苯胺凸版印刷非常重要。</span><span class="english">Monitoring the ink viscosity is very important to flexography printing.</span></p>

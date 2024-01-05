@@ -1,5 +1,7 @@
 # legislator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legislator.md)
+
 <p><span class="chinese">当我是州立法者时。</span><span class="english">When I was a state legislator.</span></p>
 
 <p><span class="chinese">而一位民主党立法者因反对这一方案而退党。</span><span class="english">One Democratic Party legislator quit the party in protest.</span></p>

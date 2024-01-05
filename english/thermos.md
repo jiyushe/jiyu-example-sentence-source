@@ -1,5 +1,7 @@
 # thermos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermos.md)
+
 <p><span class="chinese">不要去碰开水瓶。</span><span class="english">Don't touch the thermos.</span></p>
 
 <p><span class="chinese">我可以借用你的暖水瓶吗?。</span><span class="english">Can I borrow your thermos?</span></p>

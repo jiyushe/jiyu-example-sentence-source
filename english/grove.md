@@ -1,5 +1,7 @@
 # grove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grove.md)
+
 <p><span class="chinese">这是右狗腿洞，果岭在那片树林后面。</span><span class="english">The green is behind the grove.</span></p>
 
 <p><span class="chinese">柳林里的画眉姐姐。</span><span class="english">Sister Thrush in the willow grove.</span></p>

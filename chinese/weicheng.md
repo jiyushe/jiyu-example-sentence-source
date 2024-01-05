@@ -1,5 +1,7 @@
 # 围城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weicheng.md)
+
 <p><span class="chinese">你还记得在阿瓦砾卡的那次围城吗?。</span><span class="english">You remember that little siege at Avaricum?</span></p>
 
 <p><span class="chinese">新版里海军将领也有围城值。</span><span class="english">In 1.16, naval leaders will also get siege pips.</span></p>

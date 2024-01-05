@@ -1,5 +1,7 @@
 # headline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headline.md)
+
 <p><span class="chinese">标题很愚蠢。</span><span class="english">Foolish headline.</span></p>
 
 <p><span class="chinese">你的标题十分吸引人。</span><span class="english">Your headline is very catchy.</span></p>

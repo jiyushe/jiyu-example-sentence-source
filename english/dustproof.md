@@ -1,5 +1,7 @@
 # dustproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dustproof.md)
+
 <p><span class="chinese">带防尘罩、安全、洁净。</span><span class="english">It has dustproof cover, safe and clean.</span></p>
 
 <p><span class="chinese">板顶边运用防渗防尘铝箔带密封。</span><span class="english">Top edge of plate using anti-seepage dustproof aluminum foil seal.</span></p>

@@ -1,5 +1,7 @@
 # 松紧带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songjindai.md)
+
 <p><span class="chinese">此时，她帽子的松紧带断了。</span><span class="english">And now her hat-elastic's snapped.</span></p>
 
 <p><span class="chinese">这种手套在手腕处有松紧带。</span><span class="english">The gloves have elastic at the wrist.</span></p>

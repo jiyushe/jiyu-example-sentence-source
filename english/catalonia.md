@@ -1,5 +1,7 @@
 # catalonia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalonia.md)
+
 <p><span class="chinese">高迪生前死后都是加泰隆尼亚和巴塞罗那人民所热爱和引以为豪的建筑师。</span><span class="english">Gaudi is an architect who be loved and pride by people of Catalonia and Barcelona whenever living or death.</span></p>
 
 <p><span class="chinese">每年有一百头公牛投入到巴塞罗那斗牛场，并在缓慢的，痛苦的，恐惧中死去。</span><span class="english">One hundred bulls are slaughtered in the ring in Catalonia each year, dying a slow, painful and terrifying death.</span></p>

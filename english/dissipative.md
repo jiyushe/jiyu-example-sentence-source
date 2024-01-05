@@ -1,5 +1,7 @@
 # dissipative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissipative.md)
+
 <p><span class="chinese">第一个是一类修正的临界耗散准地转方程。</span><span class="english">The first one is a modified critical dissipative Quasi-Geostrophic equation.</span></p>
 
 <p><span class="chinese">最后阐明耗散结构理论的科学思想。</span><span class="english">Finallly, the scientific idea of the dissipative structure theory is clarified.</span></p>

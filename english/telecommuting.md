@@ -1,5 +1,7 @@
 # telecommuting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telecommuting.md)
+
 <p><span class="chinese">远程办公是个好主意吗？</span><span class="english">Is Telecommuting a Good Idea?</span></p>
 
 <p><span class="chinese">听起来像梦一样的电信办公已经实现了。</span><span class="english">Telecommuting sounds like a dream come true.</span></p>

@@ -1,5 +1,7 @@
 # ascendance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascendance.md)
+
 <p><span class="chinese">由单一公司统治市场的局面。</span><span class="english">A ascendance of the market by a azygos company.</span></p>
 
 <p><span class="chinese">目前，悲观主义者可能看上去占了上风。</span><span class="english">At present the pessimists might appear in the ascendance.</span></p>

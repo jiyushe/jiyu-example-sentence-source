@@ -1,5 +1,7 @@
 # 撮合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuohe.md)
+
 <p><span class="chinese">吴妈继续撮合金波和甜甜。</span><span class="english">Wu Ma to pinch alloy wave and sweet.</span></p>
 
 <p><span class="chinese">“爱情热线”撮合了许多对佳偶。</span><span class="english">Love Line has matched thousands of couples.</span></p>

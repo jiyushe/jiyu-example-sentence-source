@@ -1,5 +1,7 @@
 # unwisely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwisely.md)
+
 <p><span class="chinese">它的行为太不明智啦。</span><span class="english">It, too, has acted unwisely.</span></p>
 
 <p><span class="chinese">她是一个恋爱轻率的姑娘。</span><span class="english">She is a girl who loves unwisely.</span></p>

@@ -1,5 +1,7 @@
 # uproarious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uproarious.md)
+
 <p><span class="chinese">他们哄然大笑。</span><span class="english">They burst into uproarious laughter.</span></p>
 
 <p><span class="chinese">我们聚会庆祝新年。</span><span class="english">An uproarious New Year's celeBration.</span></p>

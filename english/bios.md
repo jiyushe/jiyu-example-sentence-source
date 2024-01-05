@@ -1,5 +1,7 @@
 # bios
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bios.md)
+
 <p><span class="chinese">包含启动模块和ESCD硬件更新信息显示在屏幕上。</span><span class="english">The Update BIOS Including Boot Block and ESCD screen appears.</span></p>
 
 <p><span class="chinese">人们必须刷BIOS来开启这一功能。</span><span class="english">People had to hack their BIOS to turn on visualization support.</span></p>

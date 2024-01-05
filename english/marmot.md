@@ -1,5 +1,7 @@
 # marmot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marmot.md)
+
 <p><span class="chinese">系列面料是专为轻量的快速的运动所设计的。</span><span class="english">Marmot M-series fabrics are designed for moving light and fast.</span></p>
 
 <p><span class="chinese">在海立根布鲁特，几乎每家纪念品商店都出售土拨鼠玩具。</span><span class="english">In Heiligenblut, almost all the souvenir shops are selling the marmot toys.</span></p>

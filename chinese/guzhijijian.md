@@ -1,5 +1,7 @@
 # 固执己见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzhijijian.md)
+
 <p><span class="chinese">你过分固执己见了。</span><span class="english">You're overly opinionated.</span></p>
 
 <p><span class="chinese">他太“固执己见”,太“单薄”。</span><span class="english">He’s too “opinionated.” He’s too “thin.”</span></p>

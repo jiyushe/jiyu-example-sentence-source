@@ -1,5 +1,7 @@
 # discourtesy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discourtesy.md)
+
 <p><span class="chinese">迟来的礼貌就是失礼。</span><span class="english">A slow courtesy is a discourtesy.</span></p>
 
 <p><span class="chinese">吉姆对自己的失礼感到愧疚。</span><span class="english">Jim felt guilty about his discourtesy.</span></p>

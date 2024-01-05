@@ -1,5 +1,7 @@
 # 投到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toudao_1.md)
+
 <p><span class="chinese">他终于投到我们这一边来。</span><span class="english">He crossed over to our side at last.</span></p>
 
 <p><span class="chinese">十美分。把钱投到票箱里即可。</span><span class="english">A dime. Just drop your money into the box.</span></p>

@@ -1,5 +1,7 @@
 # 整个
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengge.md)
+
 <p><span class="chinese">你整个儿神经兮兮的！</span><span class="english">You're all nerves!</span></p>
 
 <p><span class="chinese">切勿购买整个城镇。</span><span class="english">Never purchase a town.</span></p>

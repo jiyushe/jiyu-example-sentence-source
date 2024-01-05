@@ -1,5 +1,7 @@
 # 繁盛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fansheng.md)
+
 <p><span class="chinese">哦那些芳香的繁盛的日子。</span><span class="english">Oh the balmy days and palmy days.</span></p>
 
 <p><span class="chinese">这一海港曾经有繁盛的海外贸易。</span><span class="english">This harbour teemed with oceangoing commerce.</span></p>

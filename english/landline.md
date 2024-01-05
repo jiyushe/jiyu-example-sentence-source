@@ -1,5 +1,7 @@
 # landline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landline.md)
+
 <p><span class="chinese">随机数字拨号抽样技术只能产生陆线号码。</span><span class="english">RDD only generates landline numbers.</span></p>
 
 <p><span class="chinese">此卡只能用来打固定电话。</span><span class="english">The card is only for landline phones.</span></p>

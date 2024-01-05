@@ -1,5 +1,7 @@
 # origin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/origin.md)
+
 <p><span class="chinese">它原产地是哪里啊？</span><span class="english">What origin was it?</span></p>
 
 <p><span class="chinese">部分起源于日尔曼语。</span><span class="english">Partly of Germanic origin.</span></p>

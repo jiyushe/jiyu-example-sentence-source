@@ -1,5 +1,7 @@
 # 难于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanyu.md)
+
 <p><span class="chinese">狄拉克性情古怪、难于相处。</span><span class="english">Dirac was an odd and difficult man.</span></p>
 
 <p><span class="chinese">求人帮忙实在叫他难于启齿。</span><span class="english">I'll find the people to help do it.</span></p>

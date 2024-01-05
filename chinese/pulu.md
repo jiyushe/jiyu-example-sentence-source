@@ -1,5 +1,7 @@
 # 曝露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pulu.md)
+
 <p><span class="chinese">过多地曝露于电视或电脑的人工光源中可能是一个原因。</span><span class="english">Exposure to more artificial light from TVs or computers is one theory.</span></p>
 
 <p><span class="chinese">大面积的玻璃幕墙使华丽的内部曝露于街道及整个城市面前。</span><span class="english">The majestic glass façade opens the inside to the street and the city.</span></p>

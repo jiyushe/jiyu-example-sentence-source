@@ -1,5 +1,7 @@
 # bacchic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacchic.md)
+
 <p><span class="chinese">喧闹的车站又重新安静下来。</span><span class="english">Bacchic station new and quiet to come down.</span></p>
 
 <p><span class="chinese">婚礼上酒醉的小华和白毛大打出手。</span><span class="english">The Bacchic Xiaohua on wedding and white hair roughhouse.</span></p>

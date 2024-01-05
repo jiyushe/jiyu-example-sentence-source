@@ -1,5 +1,7 @@
 # 质变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibian.md)
+
 <p><span class="chinese">米洛斯是一个可以让尤文发生质变的引擎。</span><span class="english">Milos is the man who makes Juve change gear.</span></p>
 
 <p><span class="chinese">在2011年，量变将引起质变。</span><span class="english">In 2011, quantity will finally turn into quality.</span></p>

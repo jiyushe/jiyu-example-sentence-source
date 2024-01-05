@@ -1,5 +1,7 @@
 # 晨光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenguang.md)
+
 <p><span class="chinese">当晨光唤醒我时。</span><span class="english">When morning awakes me.</span></p>
 
 <p><span class="chinese">白云谦逊地站在天之一隅。晨光给它戴上霞彩。</span><span class="english">The cloud stood humbly in a cor.</span></p>

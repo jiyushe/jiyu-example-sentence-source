@@ -1,5 +1,7 @@
 # irc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irc.md)
+
 <p><span class="chinese">我的硬盘里还存有自从2001年以来我写的IRC日志。</span><span class="english">I still have all my IRC logs since 2001 lying on my HDD.</span></p>
 
 <p><span class="chinese">主要是通过阅读wiki.ubuntu.com上的东西和在IRC上提问。</span><span class="english">Mostly by reading the wiki.ubuntu.com and asking on IRC.</span></p>

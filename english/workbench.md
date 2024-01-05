@@ -1,5 +1,7 @@
 # workbench
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workbench.md)
+
 <p><span class="chinese">工作台是否有ESD接地?。</span><span class="english">Are the workbench ESD grounded?</span></p>
 
 <p><span class="chinese">作台。小的机型可根据需要提供工作台。</span><span class="english">All models can be supplied on a workbench.</span></p>

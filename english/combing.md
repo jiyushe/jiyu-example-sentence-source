@@ -1,5 +1,7 @@
 # combing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combing.md)
+
 <p><span class="chinese">梳棉或精梳不良。</span><span class="english">Poor carding or combing.</span></p>
 
 <p><span class="chinese">她正在梳理她那乱蓬蓬的头发。</span><span class="english">She is combing her matted hair.</span></p>

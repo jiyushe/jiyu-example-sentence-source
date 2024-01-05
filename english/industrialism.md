@@ -1,5 +1,7 @@
 # industrialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/industrialism.md)
+
 <p><span class="chinese">工业化的方式取代了手工操作。</span><span class="english">The methods of industrialism displace the handicrafts.</span></p>
 
 <p><span class="chinese">其他中国新工业化的标志占据了整幅风景。</span><span class="english">Other signs of China's new industrialism dominate the landscape.</span></p>

@@ -1,5 +1,7 @@
 # 心包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinbao.md)
+
 <p><span class="chinese">中等量心包积液。</span><span class="english">Moderate amount of pericardial effusion is noted.</span></p>
 
 <p><span class="chinese">可能在腹膜或心包内发生出血。</span><span class="english">Bleeding may occur in the peritoneum or pericardium.</span></p>

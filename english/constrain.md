@@ -1,5 +1,7 @@
 # constrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constrain.md)
+
 <p><span class="chinese">我再也克制不住激动的心情。</span><span class="english">I couldn't constrain my excitement any longer.</span></p>
 
 <p><span class="chinese">这些缺陷制约了立案监督工作的开展。</span><span class="english">These deficiencies constrain supervision the work on file.</span></p>

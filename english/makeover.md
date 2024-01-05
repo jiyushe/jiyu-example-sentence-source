@@ -1,5 +1,7 @@
 # makeover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/makeover.md)
+
 <p><span class="chinese">美国总统的椭圆形办公室现在已面貌一新。</span><span class="english">The Oval Office has gotten a makeover.</span></p>
 
 <p><span class="chinese">但这仅仅是改进的一部分。</span><span class="english">But that was only part of the makeover.</span></p>

@@ -1,5 +1,7 @@
 # 口炎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouyan.md)
+
 <p><span class="chinese">目的建立口炎清片绿原酸含量测定的方法。</span><span class="english">Objective A method was established for the assay of Chlorogenic acid in Kouyanqing tablets.</span></p>
 
 <p><span class="chinese">本文采用锌盐新剂型——葡萄糖酸锌治疗复发性阿弗它口炎。</span><span class="english">The new type of zinc salt---zinc gluconate was used to treat patients with recurrent aphthous stomatitis.</span></p>

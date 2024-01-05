@@ -1,5 +1,7 @@
 # mustafa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mustafa.md)
+
 <p><span class="chinese">接受Mustafa，帮助我再次接受自己。</span><span class="english">Accepting Mustafa helped me accept myself again.</span></p>
 
 <p><span class="chinese">穆斯塔法会说话，但他是一个人说个不停。</span><span class="english">Mustafa can speak, but he repeats himself a lot.</span></p>

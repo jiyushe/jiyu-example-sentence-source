@@ -1,5 +1,7 @@
 # luau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luau.md)
+
 <p><span class="chinese">你们两个一定要留下来参加今晚的烤野猪宴会。</span><span class="english">And you must stay for our luau later tonight.</span></p>
 
 <p><span class="chinese">除了吃的外，还有夏威夷式宴会的特色表演——草裙舞。</span><span class="english">Besides the food, hula dancing makes a luau special.</span></p>

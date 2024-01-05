@@ -1,5 +1,7 @@
 # adultery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adultery.md)
+
 <p><span class="chinese">不可奸淫。</span><span class="english">You shall not commit adultery.</span></p>
 
 <p><span class="chinese">我只是不想背著你犯下通奸罪。</span><span class="english">I just wanted to avoid adultery.</span></p>

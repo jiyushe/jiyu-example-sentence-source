@@ -1,5 +1,7 @@
 # uncontrolled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncontrolled.md)
+
 <p><span class="chinese">一个是开放和不受控制的。</span><span class="english">One is open and uncontrolled.</span></p>
 
 <p><span class="chinese">泪，还是止不住的滑落？</span><span class="english">The tears, or uncontrolled slide?</span></p>

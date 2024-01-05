@@ -1,5 +1,7 @@
 # apheresis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apheresis.md)
+
 <p><span class="chinese">然后，我们会采用血液成分分离程序来采集干细胞。</span><span class="english">The stem cells are then collected through a process called apheresis.</span></p>
 
 <p><span class="chinese">对比研究手工洗涤后血小板功能与形态的影响，观察洗涤血小板的质量和临床疗效。</span><span class="english">Objective To assess the influence of apheresis and wash on platelet function and morphology.</span></p>

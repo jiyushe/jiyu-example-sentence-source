@@ -1,5 +1,7 @@
 # 合时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshi_3.md)
+
 <p><span class="chinese">谁抓住了合适的时机，谁就是合时的人。</span><span class="english">He who seizes he right moment , is the right man.</span></p>
 
 <p><span class="chinese">谢谢你在暮色四合时迟迟离去。</span><span class="english">Thank you for your leaving late in the afternoon !</span></p>

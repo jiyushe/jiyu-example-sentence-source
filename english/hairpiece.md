@@ -1,5 +1,7 @@
 # hairpiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hairpiece.md)
+
 <p><span class="chinese">我不喜欢这个假发。</span><span class="english">I don't like this hairpiece.</span></p>
 
 <p><span class="chinese">他是个戴假发的驼背。</span><span class="english">He has a hump and a hairpiece.</span></p>

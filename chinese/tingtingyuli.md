@@ -1,5 +1,7 @@
 # 亭亭玉立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingtingyuli.md)
+
 <p><span class="chinese">她长大后成为一位亭亭玉立的女子。</span><span class="english">I mean, you're a grown woman.</span></p>
 
 <p><span class="chinese">她长大后成为一位亭亭玉立的女子。</span><span class="english">She grew up to be a lovely woman.</span></p>

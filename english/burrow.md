@@ -1,5 +1,7 @@
 # burrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burrow.md)
+
 <p><span class="chinese">你挖掘并折磨他的心灵！</span><span class="english">You burrow and rankle in his heart!</span></p>
 
 <p><span class="chinese">鼹鼠和地鼠在地上掘洞居住。</span><span class="english">Moles and gophers burrow in the ground.</span></p>

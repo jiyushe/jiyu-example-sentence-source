@@ -1,5 +1,7 @@
 # toolbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toolbox.md)
+
 <p><span class="chinese">尼克靠在了我的工具箱上。</span><span class="english">Nick leaned back against my toolbox.</span></p>
 
 <p><span class="chinese">分析工具箱有四个工具集合。</span><span class="english">The Analysis toolbox has four toolsets.</span></p>

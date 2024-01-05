@@ -1,5 +1,7 @@
 # barbados
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbados.md)
+
 <p><span class="chinese">我于是乎下定决心去巴贝多岛旅行。</span><span class="english">I resolved to travel to the island of Barbados.</span></p>
 
 <p><span class="chinese">巴巴多斯岛是第一个真正接受这一产业的岛国。</span><span class="english">Barbados was the first island which actually understood the Industry.</span></p>

@@ -1,5 +1,7 @@
 # 按图索骥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/antusuoji.md)
+
 <p><span class="chinese">他做什么事情都是按图索骥，效率太低。</span><span class="english">He's ineffective because his approach is too rigid.</span></p>
 
 <p><span class="chinese">按图索骥，我找到了这家只做外卖的秦家饼店。</span><span class="english">Rang, I found this only do take-away of the Qin family bakery.</span></p>

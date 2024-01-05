@@ -1,5 +1,7 @@
 # polyester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyester.md)
+
 <p><span class="chinese">涤纶是最热的。</span><span class="english">Polyester is the hottest.</span></p>
 
 <p><span class="chinese">涤纶塔夫绸衬里。</span><span class="english">Polyester taffeta lining.</span></p>

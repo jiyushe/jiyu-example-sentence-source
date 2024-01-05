@@ -1,5 +1,7 @@
 # 久长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuchang.md)
+
 <p><span class="chinese">因它们是我们的生命，使我们日子久长。</span><span class="english">For they are our life and length of days.</span></p>
 
 <p><span class="chinese">我的人民却忘了我，时日已久长，无法计算。</span><span class="english">But my people hath forgotten me days without number.</span></p>

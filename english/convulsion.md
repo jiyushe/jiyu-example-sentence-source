@@ -1,5 +1,7 @@
 # convulsion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convulsion.md)
+
 <p><span class="chinese">他因高热惊厥入院治疗。</span><span class="english">He was hospitalized as a result of febrile convulsion.</span></p>
 
 <p><span class="chinese">什么是肠痉挛?怎么引起的?该怎么治疗?。</span><span class="english">What is alvine convulsion? How cause? How should treat?</span></p>

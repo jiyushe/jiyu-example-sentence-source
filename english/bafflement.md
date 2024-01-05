@@ -1,5 +1,7 @@
 # bafflement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bafflement.md)
+
 <p><span class="chinese">这些动词都含有引起困惑或混乱的意思。</span><span class="english">These verbs mean to cause bafflement or confusion.</span></p>
 
 <p><span class="chinese">但在中国的社交媒体上大多数人表达了强烈的反对。</span><span class="english">But on Chinese social media most commenters expressed bafflement at the backlash.</span></p>

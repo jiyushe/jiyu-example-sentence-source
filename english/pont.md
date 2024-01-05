@@ -1,5 +1,7 @@
 # pont
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pont.md)
+
 <p><span class="chinese">杜邦1802年在左近建了一个火药厂。</span><span class="english">Du Pont established a powder mill nearby in 1802.</span></p>
 
 <p><span class="chinese">或者“如果去伦敦，一定要去‘伦敦塔桥’餐厅尝尝，因为比尔·克林顿喜欢那。”</span><span class="english">Or “Check out Le Pont de la Tour in London. Bill Clinton loves it.</span></p>

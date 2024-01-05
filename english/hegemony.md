@@ -1,5 +1,7 @@
 # hegemony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hegemony.md)
+
 <p><span class="chinese">我们永远不称霸。</span><span class="english">We will never seek hegemony.</span></p>
 
 <p><span class="chinese">而是对霸权的蔑视。</span><span class="english">It is a thumbing of the nose at hegemony.</span></p>

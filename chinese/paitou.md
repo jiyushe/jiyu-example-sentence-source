@@ -1,5 +1,7 @@
 # 派头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paitou.md)
+
 <p><span class="chinese">他摆出他那副绅士派头。</span><span class="english">He donned his gentlemanly attitude.</span></p>
 
 <p><span class="chinese">他有一种典型的记者派头。</span><span class="english">He has the typical reportorial manner.</span></p>

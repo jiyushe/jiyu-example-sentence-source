@@ -1,5 +1,7 @@
 # jd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jd.md)
+
 <p><span class="chinese">京东运营着中国最大的在线直接销售业务。</span><span class="english">JD. com runs China's largest online direct sales business.</span></p>
 
 <p><span class="chinese">法学博士进行了时尚的单浴室面盆大盘点。</span><span class="english">JD carried out an elegant bathroom vanities and a large stock one.</span></p>

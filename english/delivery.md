@@ -1,5 +1,7 @@
 # delivery 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delivery.md)
+
 <p><span class="chinese">正常分娩时间。</span><span class="english">Normal delivery time.</span></p>
 
 <p><span class="chinese">最早交货期。</span><span class="english">The earliest delivery date.</span></p>

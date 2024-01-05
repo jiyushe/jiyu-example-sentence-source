@@ -1,5 +1,7 @@
 # dragon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dragon.md)
+
 <p><span class="chinese">飞龙在天。</span><span class="english">A flying dragon.</span></p>
 
 <p><span class="chinese">一条龙服务。</span><span class="english">A dragon service.</span></p>

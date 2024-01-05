@@ -1,5 +1,7 @@
 # 圣地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengdi.md)
+
 <p><span class="chinese">你是圣地牙哥中华学苑的家长吗?。</span><span class="english">Are you a parent at SDCA?</span></p>
 
 <p><span class="chinese">攀枝花肯定是一个“避冬”圣地。</span><span class="english">It is definitely a winter resort.</span></p>

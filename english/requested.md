@@ -1,5 +1,7 @@
 # requested
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/requested.md)
+
 <p><span class="chinese">敬请惠临。</span><span class="english">Your presence is requested.</span></p>
 
 <p><span class="chinese">请早日答复。</span><span class="english">Your early reply is requested.</span></p>

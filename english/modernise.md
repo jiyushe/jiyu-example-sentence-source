@@ -1,5 +1,7 @@
 # modernise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modernise.md)
+
 <p><span class="chinese">国资委的职责之一是推动国有企业的现代化。</span><span class="english">In some ways, SASAC aims to modernise its enterprises.</span></p>
 
 <p><span class="chinese">新开张的交易所回应了伦敦国际石油交易所进行的现代化努力。</span><span class="english">The new pit is a response to the IPE's efforts to modernise.</span></p>

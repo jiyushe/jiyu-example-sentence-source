@@ -1,5 +1,7 @@
 # chalice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chalice.md)
+
 <p><span class="chinese">给她一盏“金杯毒酒”。</span><span class="english">Hand her a poisoned chalice.</span></p>
 
 <p><span class="chinese">刀刃与圣杯守护伊门宅。</span><span class="english">The blade and chalice guarding o'er Her gates.</span></p>

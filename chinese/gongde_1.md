@@ -1,5 +1,7 @@
 # 功德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongde_1.md)
+
 <p><span class="chinese">以无量的功德和智慧。</span><span class="english">with boundless merits and wisdom.</span></p>
 
 <p><span class="chinese">就是从无量功德智慧。</span><span class="english">It comes from infinite merits and wisdom.</span></p>

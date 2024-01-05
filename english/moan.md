@@ -1,5 +1,7 @@
 # moan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moan.md)
+
 <p><span class="chinese">宝贝你能听到我的呻吟声吗？</span><span class="english">Oh baby can you hear me moan?</span></p>
 
 <p><span class="chinese">古老的榆树林中鸽子的呢喃。</span><span class="english">The moan of doves in immemorial elms.</span></p>

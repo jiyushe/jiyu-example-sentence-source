@@ -1,5 +1,7 @@
 # humidifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humidifier.md)
+
 <p><span class="chinese">加湿器。</span><span class="english">Humidifier.</span></p>
 
 <p><span class="chinese">干蒸加湿器的工作特点。</span><span class="english">The work of dry steam humidifier features.</span></p>

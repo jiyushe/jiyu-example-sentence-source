@@ -1,5 +1,7 @@
 # 水蒸气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizhengqi.md)
+
 <p><span class="chinese">这部机器是用水蒸气推进的。</span><span class="english">This machine is driven by steam.</span></p>
 
 <p><span class="chinese">水蒸气会穿过我的皮肤。</span><span class="english">Water vapor goes through my skin.</span></p>

@@ -1,5 +1,7 @@
 # descending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/descending.md)
+
 <p><span class="chinese">飞机正在下降。</span><span class="english">The plane was descending.</span></p>
 
 <p><span class="chinese">汽球在下降。</span><span class="english">The balloon is descending down.</span></p>

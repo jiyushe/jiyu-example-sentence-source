@@ -1,5 +1,7 @@
 # papacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/papacy.md)
+
 <p><span class="chinese">他问的是教皇职位的设立。</span><span class="english">He asked about the institution of the papacy.</span></p>
 
 <p><span class="chinese">教廷外交几乎同教皇的职位一样古老。</span><span class="english">Papal diplomacy is almost as old as the papacy.</span></p>

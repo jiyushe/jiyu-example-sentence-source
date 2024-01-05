@@ -1,5 +1,7 @@
 # 草席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoxi.md)
+
 <p><span class="chinese">我可以借一床海滩草席吗？</span><span class="english">Can I borrow a beach mat?</span></p>
 
 <p><span class="chinese">一条草席当床铺用。</span><span class="english">A straw mat did duty for a bed.</span></p>

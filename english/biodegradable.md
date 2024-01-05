@@ -1,5 +1,7 @@
 # biodegradable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biodegradable.md)
+
 <p><span class="chinese">全车材质都是可循环可降解的。</span><span class="english">The materials are recyclable and biodegradable.</span></p>
 
 <p><span class="chinese">但是琼斯也表示，生物降解的袋子“价格不菲”。</span><span class="english">But biodegradable bags "cost a fortune," Jones said.</span></p>

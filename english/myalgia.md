@@ -1,5 +1,7 @@
 # myalgia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myalgia.md)
+
 <p><span class="chinese">不良反应主要有白细胞下降、脱发、肌痛等。</span><span class="english">The main adverse effects included leukopenia, alopecia and myalgia.</span></p>
 
 <p><span class="chinese">她出现不适，发热，肌痛，继之全身出现非瘙痒性皮疹。</span><span class="english">She developed malaise fever and myalgia followed by a diffuse nonpruritic exanthem.</span></p>

@@ -1,5 +1,7 @@
 # aggregation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggregation.md)
+
 <p><span class="chinese">血小板聚集实验正常。</span><span class="english">Platelet aggregation assay was normal.</span></p>
 
 <p><span class="chinese">多晶硅是细小硅晶的集合体。</span><span class="english">The aggregation is a count of members.</span></p>

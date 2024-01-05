@@ -1,5 +1,7 @@
 # 走下坡路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouxiapolu.md)
+
 <p><span class="chinese">这之后，就常常是走下坡路了。</span><span class="english">After that, it is often downhill.</span></p>
 
 <p><span class="chinese">之后，这些努力就开始走下坡路。</span><span class="english">But then these efforts began to go downhill.</span></p>

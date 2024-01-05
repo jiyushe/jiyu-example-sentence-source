@@ -1,5 +1,7 @@
 # 铁力木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tielimu.md)
+
 <p><span class="chinese">鸡翘木、铁力木木质粗，不适细雕。</span><span class="english">Chicken becomes warped woodiness of wood, ferreous mesua is thick, unwell fine carve.</span></p>
 
 <p><span class="chinese">应该是菩提、糖棕、贝叶棕，还有铁力木和高榕吧。</span><span class="english">They should be the banyan, the sugar palm, the talipot palm, the ironwood and the beecheyana trees.</span></p>

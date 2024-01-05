@@ -1,5 +1,7 @@
 # officiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/officiate.md)
+
 <p><span class="chinese">你的意思是主持婚姻。</span><span class="english">You mean officiate the marriage.</span></p>
 
 <p><span class="chinese">是的，罗切斯特牧师将主持婚礼。</span><span class="english">Right. Revd Rochester will officiate at the wedding.</span></p>

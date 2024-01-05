@@ -1,5 +1,7 @@
 # 入托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rutuo.md)
+
 <p><span class="chinese">火车进入托斯卡尼平原时我们兴致很高。</span><span class="english">We enter the Tuscan plain in heightened spirits.</span></p>
 
 <p><span class="chinese">解决配偶工作、孩子入托及上学问题。</span><span class="english">The spouse job, children nursery and school can be solved.</span></p>

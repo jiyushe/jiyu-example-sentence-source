@@ -1,5 +1,7 @@
 # gouge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gouge.md)
+
 <p><span class="chinese">余磨泥，我粗加工到45度。</span><span class="english">I grind my roughing gouge to 45 deg.</span></p>
 
 <p><span class="chinese">难道你要剜这些人的眼睛麽。</span><span class="english">Will you gouge out the eyes of these men?</span></p>

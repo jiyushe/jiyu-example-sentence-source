@@ -1,5 +1,7 @@
 # 辞典
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cidian_2.md)
+
 <p><span class="chinese">现在她主持“开心辞典”。</span><span class="english">Now she hosts Quiz Show.</span></p>
 
 <p><span class="chinese">我父亲买了本辞典给我。</span><span class="english">My father bought me a dictionary.</span></p>

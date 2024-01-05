@@ -1,5 +1,7 @@
 # zeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zeal.md)
+
 <p><span class="chinese">忱是它自己的来由。</span><span class="english">Zeal is its own excuse.</span></p>
 
 <p><span class="chinese">没有知识的热情犹如脱缰野马。</span><span class="english">Zeal without knowledge is a runaway.</span></p>

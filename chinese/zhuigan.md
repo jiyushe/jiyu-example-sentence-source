@@ -1,5 +1,7 @@
 # 追赶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuigan.md)
+
 <p><span class="chinese">不过追赶一条死狗，一个虼蚤就是了。</span><span class="english">A dead dog? A flea?</span></p>
 
 <p><span class="chinese">他追赶那个男孩。</span><span class="english">He made after the boy.</span></p>

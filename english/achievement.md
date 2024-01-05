@@ -1,5 +1,7 @@
 # achievement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/achievement.md)
+
 <p><span class="chinese">什么成就？</span><span class="english">What achievement?</span></p>
 
 <p><span class="chinese">他高度评价了这一成就。</span><span class="english">He rated the achievement high.</span></p>

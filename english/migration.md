@@ -1,5 +1,7 @@
 # migration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/migration.md)
+
 <p><span class="chinese">最终的迁移。</span><span class="english">The final migration.</span></p>
 
 <p><span class="chinese">移徙常常是分步骤进行的。</span><span class="english">Migration is often stepwise.</span></p>

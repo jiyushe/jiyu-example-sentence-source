@@ -1,5 +1,7 @@
 # conformal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conformal.md)
+
 <p><span class="chinese">微带天线的主要优点之一是其共形性。</span><span class="english">The excellence of the microstrip antenna is it's conformal.</span></p>
 
 <p><span class="chinese">提出了整体叶轮一体化保形设计的方法。</span><span class="english">Amethod for conformal design of integrated impellers is proposed.</span></p>

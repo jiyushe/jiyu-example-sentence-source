@@ -1,5 +1,7 @@
 # dermatology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dermatology.md)
+
 <p><span class="chinese">属于、关于或从事皮肤病学的。</span><span class="english">Of or relating to or practicing dermatology.</span></p>
 
 <p><span class="chinese">冷冻笔是美容外科和皮肤科的突破。</span><span class="english">Cryopen is a breakthrough in aesthetic surgery and dermatology.</span></p>

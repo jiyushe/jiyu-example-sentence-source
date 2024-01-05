@@ -1,5 +1,7 @@
 # 咎由自取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuyouziqu.md)
+
 <p><span class="chinese">为什么你会咎由自取？</span><span class="english">What did you take?</span></p>
 
 <p><span class="chinese">你咎由自取。在学习上应当不耻下问。</span><span class="english">It isn't a shame to ask for help in study.</span></p>

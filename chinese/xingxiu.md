@@ -1,5 +1,7 @@
 # 兴修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxiu.md)
+
 <p><span class="chinese">大力兴修水利，发展农业生产。</span><span class="english">Water conservancy, vigorously developing agricultural production.</span></p>
 
 <p><span class="chinese">国家提供了大量资金来兴修水利。</span><span class="english">The state provides large sums of money for water conservancy projects.</span></p>

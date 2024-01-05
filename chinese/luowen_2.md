@@ -1,5 +1,7 @@
 # 螺纹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luowen_2.md)
+
 <p><span class="chinese">用于在待测螺纹上做出标记或记号。</span><span class="english">Scribing a mark on the measuring screw.</span></p>
 
 <p><span class="chinese">承插，螺纹，法兰连接端口。</span><span class="english">Socket, Threaded, Flanged End Connections.</span></p>

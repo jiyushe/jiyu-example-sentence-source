@@ -1,5 +1,7 @@
 # remains
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remains.md)
+
 <p><span class="chinese">她沉默不语.</span><span class="english">She remains silent.</span></p>
 
 <p><span class="chinese">伊尔-96-300的剩余部件。</span><span class="english">Remains of Il-96-300.</span></p>

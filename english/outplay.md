@@ -1,5 +1,7 @@
 # outplay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outplay.md)
+
 <p><span class="chinese">我只是想赢这个人。</span><span class="english">I'm just gonna outplay the guy.</span></p>
 
 <p><span class="chinese">认为可以胜过猪您的游戏？</span><span class="english">Think that you can outplay a pig on your Playstation?</span></p>

@@ -1,5 +1,7 @@
 # felon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/felon.md)
+
 <p><span class="chinese">我成了一个已定罪的全国重犯。</span><span class="english">I'm a convicted federal felon.</span></p>
 
 <p><span class="chinese">他被判为重罪犯。</span><span class="english">He was convicted to be a felon.</span></p>

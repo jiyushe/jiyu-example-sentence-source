@@ -1,5 +1,7 @@
 # haj
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haj.md)
+
 <p><span class="chinese">我所知道的一个事实是妇女在正朝和副朝时是不允许把脸遮起来的。</span><span class="english">I know for a fact that women are forbidden to cover their faces during Haj and Umrah.</span></p>
 
 <p><span class="chinese">她急于告诉她的两个女儿关于妇女参加正朝和副朝的一些重要事项。</span><span class="english">She was eager to inform her daughters about the important rulings for women performing the Haj and Umrah.</span></p>

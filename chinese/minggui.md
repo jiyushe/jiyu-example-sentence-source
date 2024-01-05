@@ -1,5 +1,7 @@
 # 名贵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minggui.md)
+
 <p><span class="chinese">一种名贵的中国陈酒。</span><span class="english">A famous old Chinese wine.</span></p>
 
 <p><span class="chinese">这幅绘画非常名贵。</span><span class="english">This painting is very valuable.</span></p>

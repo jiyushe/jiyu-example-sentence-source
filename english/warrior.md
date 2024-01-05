@@ -1,5 +1,7 @@
 # warrior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warrior.md)
+
 <p><span class="chinese">我的女战士。</span><span class="english">My warrior woman.</span></p>
 
 <p><span class="chinese">荆轲是一名勇士。</span><span class="english">Jingke is a warrior.</span></p>

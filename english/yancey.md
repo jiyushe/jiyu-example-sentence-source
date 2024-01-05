@@ -1,5 +1,7 @@
 # yancey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yancey.md)
+
 <p><span class="chinese">谢谢你。</span><span class="english">“Thank you, ” Yancey said.</span></p>
 
 <p><span class="chinese">燕西想起了圣经中的一段话。</span><span class="english">Bible passage came to Yancey.</span></p>

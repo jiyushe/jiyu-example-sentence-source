@@ -1,5 +1,7 @@
 # eternal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eternal.md)
+
 <p><span class="chinese">相约爱到永远永远。</span><span class="english">And swore eternal love.</span></p>
 
 <p><span class="chinese">爱是一个永恒的主题。</span><span class="english">Love is an eternal mythos.</span></p>

@@ -1,5 +1,7 @@
 # agglutinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agglutinate.md)
+
 <p><span class="chinese">本机适用于外底与鞋跟粘合处扇形起毛。</span><span class="english">Be suitable for the agglutinate between the sole and heel sector roughing.</span></p>
 
 <p><span class="chinese">一团粘聚的尘埃颗粒，就像宇宙中许多类似的星云。</span><span class="english">A cloud of agglutinate dust particles, similar to so many similar clusters in the universe.</span></p>

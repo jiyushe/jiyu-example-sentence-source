@@ -1,5 +1,7 @@
 # 列席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liexi.md)
+
 <p><span class="chinese">他们会列席下个月的会吗?。</span><span class="english">Will they attend the meeting next month?</span></p>
 
 <p><span class="chinese">本人引荐她代表本人们列席会议。</span><span class="english">I nominate her to present us at the meeting.</span></p>

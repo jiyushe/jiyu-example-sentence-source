@@ -1,5 +1,7 @@
 # 榨菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhacai.md)
+
 <p><span class="chinese">或者自己在家中淹榨菜来吃。</span><span class="english">Or their own home flooded eat mustard.</span></p>
 
 <p><span class="chinese">首先我们把买来的生榨菜洗干净。</span><span class="english">First of all, we bought raw mustard cleaned.</span></p>

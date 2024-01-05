@@ -1,5 +1,7 @@
 # insemination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insemination.md)
+
 <p><span class="chinese">人工授精也很棘手。</span><span class="english">Artificial insemination is tricky, too.</span></p>
 
 <p><span class="chinese">这对双胞胎是人工授精的产物。</span><span class="english">The twins are the product of artificial insemination.</span></p>

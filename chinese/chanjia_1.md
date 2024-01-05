@@ -1,5 +1,7 @@
 # 掺假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanjia_1.md)
+
 <p><span class="chinese">大多数情况下掺假没被检出。</span><span class="english">Mostly, the adulteration went undetected.</span></p>
 
 <p><span class="chinese">在整个维多利亚时期，食品都是被掺假的。</span><span class="english">All through the Victorian era food was adulterated.</span></p>

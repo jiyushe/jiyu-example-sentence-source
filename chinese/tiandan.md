@@ -1,5 +1,7 @@
 # 恬淡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiandan.md)
+
 <p><span class="chinese">像洪水这样的事件不仅展示了我们的恬淡寡欲，也塑造了它。</span><span class="english">Events like this flood not only show our stoicism, but create it.</span></p>
 
 <p><span class="chinese">住此别墅，绝对适合在喧闹北京生活中享受独有的恬淡与静谧。</span><span class="english">It's really a nice villa for you to live enjoy your life in Beijing.</span></p>

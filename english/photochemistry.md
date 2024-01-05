@@ -1,5 +1,7 @@
 # photochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photochemistry.md)
+
 <p><span class="chinese">分析表明，该主副腔适宜光化学反应。</span><span class="english">Analysis expresses that this composite resonator is suitable for photochemistry.</span></p>
 
 <p><span class="chinese">河口化学，河流化学，有机碳循环，海洋光化学。</span><span class="english">Estuarine Chemistry, River Chemistry, Organic Carbon Cycle, Marine Photochemistry.</span></p>

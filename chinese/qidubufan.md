@@ -1,5 +1,7 @@
 # 气度不凡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qidubufan.md)
+
 <p><span class="chinese">他穿上订制的西服显得气度不凡。</span><span class="english">He looks distinguished in his custom-made suit.</span></p>
 
 <p><span class="chinese">金色的流苏使整个讲道坛富显华贵，气度不凡。</span><span class="english">The golden tassels endow the pulpit with garishness and nobleness.</span></p>

@@ -1,5 +1,7 @@
 # quondam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quondam.md)
+
 <p><span class="chinese">我喜懽现在的自己，我怀念过去的我们。</span><span class="english">I like to present myself, I miss our quondam.</span></p>
 
 <p><span class="chinese">这些显赫一时的中国统治者们在国外的声誉很坏。</span><span class="english">These quondam rulers of China have had a bad reputation abroad.</span></p>

@@ -1,5 +1,7 @@
 # 合身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshen.md)
+
 <p><span class="chinese">他的上衣和他合身。</span><span class="english">His coat fits well.</span></p>
 
 <p><span class="chinese">是的，合身极了。</span><span class="english">Yes,it fits perfectly.</span></p>

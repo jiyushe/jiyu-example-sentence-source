@@ -1,5 +1,7 @@
 # photosynthate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photosynthate.md)
+
 <p><span class="chinese">运转到籽粒中的光合产物最初以蔗糖的形式存在。</span><span class="english">Photosynthate transported into grain exists in the form of sucrose at first.</span></p>
 
 <p><span class="chinese">同时遮荫还改变物质运输分配到各器官的比例。</span><span class="english">Different shading treatments also affected the allocation of photosynthate to various organs.</span></p>

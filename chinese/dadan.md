@@ -1,5 +1,7 @@
 # 大胆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadan.md)
+
 <p><span class="chinese">他大胆地预言。</span><span class="english">He boldly prophesied.</span></p>
 
 <p><span class="chinese">他是个大胆的恶汉。</span><span class="english">He was a bold wretch.</span></p>

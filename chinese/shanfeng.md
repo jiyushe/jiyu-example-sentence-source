@@ -1,5 +1,7 @@
 # 山风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanfeng.md)
+
 <p><span class="chinese">我也没有群，我是个弃儿，我们现在是在大山风之顶飞行。</span><span class="english">I am Outcast. And we fly now at the peak of the Great Mountain Wind.</span></p>
 
 <p><span class="chinese">“你无法对抗死亡，”释德建说，他的声音刺破了呼呼作响的山风。</span><span class="english">"You cannot defeat death, " he says, his voice rising over the wind.</span></p>

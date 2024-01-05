@@ -1,5 +1,7 @@
 # burr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burr.md)
+
 <p><span class="chinese">喜剧演员比尔·伯尔如此说道。</span><span class="english">Comedian Bill Burr.</span></p>
 
 <p><span class="chinese">请转告芮莱·伯尔，说我想念她。</span><span class="english">Tell Lorelei Burr I miss her.</span></p>

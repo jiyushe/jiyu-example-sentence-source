@@ -1,5 +1,7 @@
 # 源源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyuan_1.md)
+
 <p><span class="chinese">欢迎来到长沙源源琴行！</span><span class="english">Welcome to Yuanyuan Guitar Shop!</span></p>
 
 <p><span class="chinese">欢迎来到长沙源源琴行！</span><span class="english">Welcome to Changsha Yuanyuan Guitar Shop!</span></p>

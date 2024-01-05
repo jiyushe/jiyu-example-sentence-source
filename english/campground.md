@@ -1,5 +1,7 @@
 # campground
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/campground.md)
+
 <p><span class="chinese">大雾开始弥漫，渐渐包围了营地。</span><span class="english">The fog began to envelop the campground.</span></p>
 
 <p><span class="chinese">我用最拿手的斯洛伐克语问，“宿营地在哪儿？”</span><span class="english">In my best Slovak, I asked, “Where is a campground?”</span></p>

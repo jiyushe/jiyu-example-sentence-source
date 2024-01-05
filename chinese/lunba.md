@@ -1,5 +1,7 @@
 # 伦巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunba.md)
+
 <p><span class="chinese">像狐步舞、华尔兹舞、伦巴、探戈等等。</span><span class="english">Such as fox-trot waltz rumba and tango.</span></p>
 
 <p><span class="chinese">通过西方和伦巴第的大地</span><span class="english">Through the Lands of the West and Lombardy</span></p>

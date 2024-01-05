@@ -1,5 +1,7 @@
 # systematize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/systematize.md)
+
 <p><span class="chinese">如何将对效率的激励作用体制化、恒长化?。</span><span class="english">How to systematize the impelling effect of efficiency?</span></p>
 
 <p><span class="chinese">让监管环境系统化和合理化。</span><span class="english">Systematize and streamline the regulatory environment.</span></p>

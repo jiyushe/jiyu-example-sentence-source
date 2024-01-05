@@ -1,5 +1,7 @@
 # cmb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cmb.md)
+
 <p><span class="chinese">刚刚去招行开了一卡通回来。</span><span class="english">I've just processed a card in CMB.</span></p>
 
 <p><span class="chinese">我想从工行转1000元到招行。</span><span class="english">I want to transfer ￥1000 from ICBC to CMB.</span></p>

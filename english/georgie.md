@@ -1,5 +1,7 @@
 # georgie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/georgie.md)
+
 <p><span class="chinese">乔治波治，布丁和派。</span><span class="english">Georgie Porgie, pudding and pie.</span></p>
 
 <p><span class="chinese">我想是乔吉让我开始攀岩的。</span><span class="english">I guess it was Georgie who got me climbing.</span></p>

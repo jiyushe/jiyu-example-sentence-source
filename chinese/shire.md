@@ -1,5 +1,7 @@
 # 湿热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shire.md)
+
 <p><span class="chinese">方兴玉是不会在湿热的夏天做毛豆腐的。</span><span class="english">Fang will not make hairy tofu in the sultry summer.</span></p>
 
 <p><span class="chinese">具有良好的耐酸、堿、盐雾和湿热性能。</span><span class="english">Has good acid, alkali, salt spray and heat performance.</span></p>

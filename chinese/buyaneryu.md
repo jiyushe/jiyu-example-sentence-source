@@ -1,5 +1,7 @@
 # 不言而喻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyaneryu.md)
+
 <p><span class="chinese">意思不言而喻</span><span class="english">Pretty self-explanatory so far.</span></p>
 
 <p><span class="chinese">结果不言而喻。</span><span class="english">And the results are pretty obvious.</span></p>

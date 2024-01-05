@@ -1,5 +1,7 @@
 # 就餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiucan.md)
+
 <p><span class="chinese">你可以露天就餐。</span><span class="english">You may dine alfresco.</span></p>
 
 <p><span class="chinese">你可以乘船游湖、在船上就餐。</span><span class="english">You can take a boat on the lake</span></p>

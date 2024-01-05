@@ -1,5 +1,7 @@
 # 比喻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyu.md)
+
 <p><span class="chinese">比喻每个人都有自己不同的见解。</span><span class="english">Views vary from ppl to ppl.</span></p>
 
 <p><span class="chinese">这样的比喻是什么含义？</span><span class="english">What does this simile mean?</span></p>

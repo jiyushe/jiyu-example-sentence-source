@@ -1,5 +1,7 @@
 # crow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crow.md)
+
 <p><span class="chinese">公鸡啼叫。</span><span class="english">Cock does crow.</span></p>
 
 <p><span class="chinese">母鸡不啼叫。</span><span class="english">Hens don't crow.</span></p>

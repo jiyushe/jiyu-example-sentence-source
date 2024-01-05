@@ -1,5 +1,7 @@
 # 言过其实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanguoqishi.md)
+
 <p><span class="chinese">这种美元下跌论言过其实了。</span><span class="english">This dollar declinism is overblown.</span></p>
 
 <p><span class="chinese">她几乎没有言过其实。</span><span class="english">She was hardly overstating the case.</span></p>

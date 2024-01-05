@@ -1,5 +1,7 @@
 # confines
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confines.md)
+
 <p><span class="chinese">她所讲的仅限于科学管理问题。</span><span class="english">She confines her remarks to scientific management.</span></p>
 
 <p><span class="chinese">她所讲的话仅局限于科学管理问题。</span><span class="english">She confines her remarks to scientific management.</span></p>

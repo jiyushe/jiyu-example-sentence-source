@@ -1,5 +1,7 @@
 # 不辞而别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bucierbie.md)
+
 <p><span class="chinese">他突然不辞而别。</span><span class="english">He suddenly peeled out.</span></p>
 
 <p><span class="chinese">汤姆又不辞而别了。</span><span class="english">Tom has hived off again.</span></p>

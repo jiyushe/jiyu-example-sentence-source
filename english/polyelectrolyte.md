@@ -1,5 +1,7 @@
 # polyelectrolyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyelectrolyte.md)
+
 <p><span class="chinese">CMC溶液具有典型的聚电解质效应。</span><span class="english">The CMC solutions have polyelectrolyte effect.</span></p>
 
 <p><span class="chinese">高密度电荷阳离子聚电解质的制备及应用。</span><span class="english">The synthesis and application of cationic polyelectrolyte with high density charge.</span></p>

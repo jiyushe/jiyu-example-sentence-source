@@ -1,5 +1,7 @@
 # penicillin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penicillin.md)
+
 <p><span class="chinese">你吃过盘尼西林吗？</span><span class="english">Have you had penicillin?</span></p>
 
 <p><span class="chinese">你能卖给我盘尼西林吗?。</span><span class="english">Can you sell me Penicillin?</span></p>

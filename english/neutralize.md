@@ -1,5 +1,7 @@
 # neutralize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neutralize.md)
+
 <p><span class="chinese">中和作用，抵消，中和反应。</span><span class="english">To counteract or neutralize.</span></p>
 
 <p><span class="chinese">碱的物质会中和酸。</span><span class="english">These alkaline substances will neutralize acids.</span></p>

@@ -1,5 +1,7 @@
 # athlete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/athlete.md)
+
 <p><span class="chinese">斯万卡还是个运动员。</span><span class="english">Swank is also an athlete.</span></p>
 
 <p><span class="chinese">斯万卡还是个运动员。</span><span class="english">Swank, too, is an athlete.</span></p>

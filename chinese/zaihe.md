@@ -1,5 +1,7 @@
 # 载荷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaihe.md)
+
 <p><span class="chinese">一个试验载荷作用于该梁上。</span><span class="english">A test load was applied to the girder.</span></p>
 
 <p><span class="chinese">消息有效载荷与消息元数据。</span><span class="english">Message payload and message meta data.</span></p>

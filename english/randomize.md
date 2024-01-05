@@ -1,5 +1,7 @@
 # randomize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/randomize.md)
+
 <p><span class="chinese">我是否能够是测试序列随机化？</span><span class="english">Can I randomize the test sequence?</span></p>
 
 <p><span class="chinese">选择的物体随机旋转。</span><span class="english">Randomize the rotation of the Selected Objects.</span></p>

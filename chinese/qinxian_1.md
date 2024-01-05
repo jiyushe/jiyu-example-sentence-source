@@ -1,5 +1,7 @@
 # 钦羡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinxian_1.md)
+
 <p><span class="chinese">詹姆斯·斯威尔钦羡山姆尔·森机敏的应答能力。</span><span class="english">James Boswell admired Samuel Johnson's power of repartee.</span></p>
 
 <p><span class="chinese">詹姆斯·包斯威尔钦羡山姆尔·强森机敏的应答能力。</span><span class="english">James Boswell admired Samuel Johnson's power of repartee.</span></p>

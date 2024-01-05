@@ -1,5 +1,7 @@
 # 考期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaoqi.md)
+
 <p><span class="chinese">考期临近，一些学生想打听考试内容。</span><span class="english">I want to ask you about the examination.</span></p>
 
 <p><span class="chinese">考期临近了，所以学生们确实在刻苦钻研。</span><span class="english">Now that the exam is near, the students are really going at their studies.</span></p>

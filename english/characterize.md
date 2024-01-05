@@ -1,5 +1,7 @@
 # characterize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/characterize.md)
+
 <p><span class="chinese">让我们归纳一下绝对主义国家的特征</span><span class="english">Let's characterize absolute rule.</span></p>
 
 <p><span class="chinese">我们刻画了无套利区间。</span><span class="english">We characterize arbitrage-free interval.</span></p>

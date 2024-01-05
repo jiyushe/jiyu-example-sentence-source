@@ -1,5 +1,7 @@
 # moistureproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moistureproof.md)
+
 <p><span class="chinese">但防潮是一个要害问题。</span><span class="english">But moistureproof it is a crucial question.</span></p>
 
 <p><span class="chinese">对防潮剂的防潮机理进行了分析和探讨。</span><span class="english">The mechanism of moistureproof agent is analysed and discussed here.</span></p>

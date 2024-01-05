@@ -1,5 +1,7 @@
 # adobe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adobe.md)
+
 <p><span class="chinese">还要检查土坯超虚拟集。</span><span class="english">Also check Adobe Ultra Virtual Sets.</span></p>
 
 <p><span class="chinese">这些建筑都是由风干的砖坯砌成。</span><span class="english">These buildings are made of adobe brick.</span></p>

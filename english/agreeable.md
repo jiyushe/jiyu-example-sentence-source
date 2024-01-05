@@ -1,5 +1,7 @@
 # agreeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agreeable.md)
+
 <p><span class="chinese">庞德先生是欣然同意的。</span><span class="english">Mr. Pound is quite agreeable.</span></p>
 
 <p><span class="chinese">那姑娘举止大方。</span><span class="english">That girl has agreeable manners.</span></p>

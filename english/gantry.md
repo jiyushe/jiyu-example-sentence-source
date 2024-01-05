@@ -1,5 +1,7 @@
 # gantry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gantry.md)
+
 <p><span class="chinese">造船用门式起重机是起重机的一种。</span><span class="english">Shipbuilding gantry crane is a crane.</span></p>
 
 <p><span class="chinese">在第一个楼梯的上面是一个起重架台。</span><span class="english">At the top of the first ladder Is a gantry.</span></p>

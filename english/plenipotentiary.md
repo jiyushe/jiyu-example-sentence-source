@@ -1,5 +1,7 @@
 # plenipotentiary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plenipotentiary.md)
+
 <p><span class="chinese">资讯以全权公使要将反恐进行到底。</span><span class="english">Information to be Minister Plenipotentiary in the end to terrorism.</span></p>
 
 <p><span class="chinese">该部长获有全权进行贸易谈判。</span><span class="english">The minister is given plenipotentiary power in the trade negotiation.</span></p>

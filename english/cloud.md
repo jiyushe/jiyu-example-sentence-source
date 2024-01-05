@@ -1,5 +1,7 @@
 # cloud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloud.md)
+
 <p><span class="chinese">卷云。</span><span class="english">Roll cloud.</span></p>
 
 <p><span class="chinese">为什么是云？</span><span class="english">Why the Cloud?</span></p>

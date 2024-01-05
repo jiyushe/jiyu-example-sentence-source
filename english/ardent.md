@@ -1,5 +1,7 @@
 # ardent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ardent.md)
+
 <p><span class="chinese">他性情急躁。</span><span class="english">He is ardent in temper.</span></p>
 
 <p><span class="chinese">他是个热忱的爱国志士。</span><span class="english">He is an ardent patriot.</span></p>

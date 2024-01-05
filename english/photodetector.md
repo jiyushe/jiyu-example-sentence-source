@@ -1,5 +1,7 @@
 # photodetector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photodetector.md)
+
 <p><span class="chinese">由于光栅结构，光极化选择性可以更为明显。</span><span class="english">Polarization selectivity is also proposed to improve the photodetector performance.</span></p>
 
 <p><span class="chinese">这样就可以使用一个简单的电路按光电探测器上的输出进行自动聚焦。</span><span class="english">A simple circuit generates an autofocus signal based upon the output of the photodetector.</span></p>

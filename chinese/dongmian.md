@@ -1,5 +1,7 @@
 # 东面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongmian.md)
+
 <p><span class="chinese">圆形大厅东面阳台的摄像头。</span><span class="english">Rotunda east balcony camera.</span></p>
 
 <p><span class="chinese">韩国位于中国东面。</span><span class="english">Korea lies to the east of China.</span></p>

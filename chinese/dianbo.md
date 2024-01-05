@@ -1,5 +1,7 @@
 # 颠簸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianbo.md)
+
 <p><span class="chinese">卡车颠簸着前进。</span><span class="english">The truck jerked along.</span></p>
 
 <p><span class="chinese">小汽车颠簸到站了。</span><span class="english">The car jolted to a stop.</span></p>

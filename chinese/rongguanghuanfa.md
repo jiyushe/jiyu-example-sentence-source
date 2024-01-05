@@ -1,5 +1,7 @@
 # 容光焕发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongguanghuanfa.md)
+
 <p><span class="chinese">新娘满脸微笑，容光焕发。</span><span class="english">The bride smiled radiantly.</span></p>
 
 <p><span class="chinese">希望使她容光焕发。</span><span class="english">Hope  transfigured her face.</span></p>

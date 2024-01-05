@@ -1,5 +1,7 @@
 # 小拇指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaomuzhi.md)
+
 <p><span class="chinese">她弯了弯小拇指。</span><span class="english">She crooked her little finger.</span></p>
 
 <p><span class="chinese">右手小拇指运气孬。</span><span class="english">This little finger on the right!</span></p>

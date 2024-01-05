@@ -1,5 +1,7 @@
 # 打倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadao_3.md)
+
 <p><span class="chinese">哦！打倒这个！</span><span class="english">Ow! Knock out this!</span></p>
 
 <p><span class="chinese">你是不能被打倒的。</span><span class="english">You can't be beated down.</span></p>

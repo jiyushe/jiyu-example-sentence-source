@@ -1,5 +1,7 @@
 # 善本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanben.md)
+
 <p><span class="chinese">该文分析了三种善本碑帖的价值。</span><span class="english">The article points out the value of three books of calligraphy.</span></p>
 
 <p><span class="chinese">我们的图书馆有八千册图书，很多都是善本和珍本。</span><span class="english">We have eight thousand books, many of them are rare and valuable.</span></p>

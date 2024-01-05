@@ -1,5 +1,7 @@
 # attenuate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attenuate.md)
+
 <p><span class="chinese">在最小距离之外，音量开始减弱。</span><span class="english">Outside the min distance the volume starts to attenuate.</span></p>
 
 <p><span class="chinese">同谋使他们走到一齐，减弱比赛。</span><span class="english">Complicity makes them come together and attenuate the rivalry.</span></p>

@@ -1,5 +1,7 @@
 # 爱屋及乌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiwujiwu.md)
+
 <p><span class="chinese">爱屋及乌。打狗看主面。</span><span class="english">Love me love my dog.</span></p>
 
 <p><span class="chinese">这真是一个爱屋及乌的例子。</span><span class="english">It was a case of love me, love my dog.</span></p>

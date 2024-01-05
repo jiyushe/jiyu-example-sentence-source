@@ -1,5 +1,7 @@
 # parson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parson.md)
+
 <p><span class="chinese">牧师骑着马向他走近一两步。</span><span class="english">The parson rode a step or two nearer.</span></p>
 
 <p><span class="chinese">牧师祈祷反对骄傲和犯罪。</span><span class="english">The parson prayed' gainst pride and sin.</span></p>

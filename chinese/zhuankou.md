@@ -1,5 +1,7 @@
 # 转口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuankou.md)
+
 <p><span class="chinese">有关转口贸易管理，不适用本办法。</span><span class="english">The Measures does not apply for transit trade.</span></p>
 
 <p><span class="chinese">任何企业不得进行废物的转口贸易。</span><span class="english">No enterprise may engage in transit trade of wastes.</span></p>

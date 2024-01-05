@@ -1,5 +1,7 @@
 # neurolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurolysis.md)
+
 <p><span class="chinese">结论诊断正确、彻底地松解神经可获满意疗效。</span><span class="english">Conclusion Satisfied results can be obtained if the diagnosis is correct and neurolysis is made completely.</span></p>
 
 <p><span class="chinese">伤后早期行髋臼骨折复位内固定术、坐骨神经探查松解术，将有利于坐骨神经损伤的恢复。</span><span class="english">Early reduction of acetabular fracture and neurolysis is important for the recovery of function of the sciatic never.</span></p>

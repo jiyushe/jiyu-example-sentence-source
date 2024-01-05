@@ -1,5 +1,7 @@
 # alacrity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alacrity.md)
+
 <p><span class="chinese">首先，动作敏捷。</span><span class="english">First, move with alacrity.</span></p>
 
 <p><span class="chinese">她轻捷地一纵身向门口跳去。</span><span class="english">She sprang to the door with alacrity.</span></p>

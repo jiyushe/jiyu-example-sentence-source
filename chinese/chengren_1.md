@@ -1,5 +1,7 @@
 # 承认
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengren_1.md)
+
 <p><span class="chinese">承认罪恶。</span><span class="english">Confession of sin.</span></p>
 
 <p><span class="chinese">承认你的信仰！</span><span class="english">Confess your faith!</span></p>

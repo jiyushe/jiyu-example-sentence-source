@@ -1,5 +1,7 @@
 # 角度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaodu.md)
+
 <p><span class="chinese">是形成了一个角度吗？</span><span class="english">Does it make an angle?</span></p>
 
 <p><span class="chinese">角度太大。</span><span class="english">The angle is too great.</span></p>

@@ -1,5 +1,7 @@
 # 生离死别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenglisibie.md)
+
 <p><span class="chinese">这也是生离死别呀！</span><span class="english">This is also part for ever!</span></p>
 
 <p><span class="chinese">也不再有悲伤和生离死别。</span><span class="english">Neither shall there be sorrow or dying.</span></p>

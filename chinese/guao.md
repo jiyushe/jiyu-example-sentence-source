@@ -1,5 +1,7 @@
 # 孤傲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guao.md)
+
 <p><span class="chinese">要否则，你就会孓然一身，孤傲死去！</span><span class="english">Or you're gonna die alone!</span></p>
 
 <p><span class="chinese">有时候一个人的失落，孤傲了一个世界。</span><span class="english">Sometimes a person's loss, aloof and a world.</span></p>

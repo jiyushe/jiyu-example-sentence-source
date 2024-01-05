@@ -1,5 +1,7 @@
 # 洗胃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiwei_1.md)
+
 <p><span class="chinese">目的探讨洗胃技术的护理措施。</span><span class="english">Objective To evaluate the nursing methods of gastric lavage.</span></p>
 
 <p><span class="chinese">弱弱问问洗厕液可以用来洗胃么？</span><span class="english">Ask infirmly infirmly wash lavatory fluid to you can use gastric lavage ?</span></p>

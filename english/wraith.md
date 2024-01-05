@@ -1,5 +1,7 @@
 # wraith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wraith.md)
+
 <p><span class="chinese">那个孩子像幽灵一样飞快地跑来跑去。</span><span class="english">That child flits about like a wraith.</span></p>
 
 <p><span class="chinese">总共做了29套戒灵服装。</span><span class="english">Ring Wraith costumes were made in total.</span></p>

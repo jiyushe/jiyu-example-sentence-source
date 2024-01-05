@@ -1,5 +1,7 @@
 # 宛然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanran.md)
+
 <p><span class="chinese">但在他温柔的宛然拒绝声中。</span><span class="english">But with his soft- hearted rejection.</span></p>
 
 <p><span class="chinese">我渴望安稳洋的淡水宛然梦中一样的蓝。</span><span class="english">I hope the Pacific is as blue as it has been in my dreams.</span></p>

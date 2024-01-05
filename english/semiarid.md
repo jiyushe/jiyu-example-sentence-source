@@ -1,5 +1,7 @@
 # semiarid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiarid.md)
+
 <p><span class="chinese">这个地区总体上是半干旱至干旱气候。</span><span class="english">The region is semiarid to arid in overall climate.</span></p>
 
 <p><span class="chinese">华北地区位于干旱和半干旱地区。</span><span class="english">North China is situated in arid and semiarid regions.</span></p>

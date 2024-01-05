@@ -1,5 +1,7 @@
 # 亲骨肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingurou.md)
+
 <p><span class="chinese">他怎能那样对待自己的亲骨肉？</span><span class="english">How can he treat his own flesh and blood that way?</span></p>
 
 <p><span class="chinese">我必须帮助他们，因为他们都是我的亲骨肉。</span><span class="english">I must help them because they're my own flesh and blood.</span></p>

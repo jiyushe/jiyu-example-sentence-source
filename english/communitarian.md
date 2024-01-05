@@ -1,5 +1,7 @@
 # communitarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communitarian.md)
+
 <p><span class="chinese">假设共同体主义者的争辩是对的。</span><span class="english">Supposed the communitarian argument is right.</span></p>
 
 <p><span class="chinese">我想听听对于社群主义者观点的其它反对意见。</span><span class="english">I want to hear from another critic of the communitarian view.</span></p>

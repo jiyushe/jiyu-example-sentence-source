@@ -1,5 +1,7 @@
 # collateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collateral.md)
+
 <p><span class="chinese">什么叫抵押？</span><span class="english">What is collateral?</span></p>
 
 <p><span class="chinese">以何物为抵押？</span><span class="english">Against what collateral?</span></p>

@@ -1,5 +1,7 @@
 # winthrop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winthrop.md)
+
 <p><span class="chinese">好吧，我们去问问多莉·温思罗普的意见。</span><span class="english">Yes, we'll ask Dolly Winthrop for her opinion.</span></p>
 
 <p><span class="chinese">我刚把幻灯片放在温思罗普办公室了。</span><span class="english">I've just dropped those slides off at the Winthrop office.</span></p>

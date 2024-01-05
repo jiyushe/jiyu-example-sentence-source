@@ -1,5 +1,7 @@
 # lydia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lydia.md)
+
 <p><span class="chinese">利迪娅问。</span><span class="english">Lydia asked.</span></p>
 
 <p><span class="chinese">利迪娅大笑，摇摇头。</span><span class="english">Lydia laughed and shook her head.</span></p>

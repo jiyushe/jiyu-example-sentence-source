@@ -1,5 +1,7 @@
 # tundra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tundra.md)
+
 <p><span class="chinese">北风苔原场大部分地区都被冰雪覆盖。</span><span class="english">Most of the Borean Tundra is empty ice.</span></p>
 
 <p><span class="chinese">北风苔原宽阔，平坦而又寒冷。</span><span class="english">The Borean Tundra is wide, flat, and cold.</span></p>

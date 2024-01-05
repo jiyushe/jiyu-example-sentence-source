@@ -1,5 +1,7 @@
 # ssl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ssl.md)
+
 <p><span class="chinese">用户登录使用SSL加密功能。</span><span class="english">User logins can be encrypted with SSL.</span></p>
 
 <p><span class="chinese">电子商务中的安全协议主要采用SSL协议和SET协议。</span><span class="english">E-Commerce security protocol usually adopts SSL and SET protocol.</span></p>

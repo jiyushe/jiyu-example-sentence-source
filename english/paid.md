@@ -1,5 +1,7 @@
 # paid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paid.md)
+
 <p><span class="chinese">我们花钱就为这个？</span><span class="english">We paid for this?</span></p>
 
 <p><span class="chinese">我们的悉心照料得到了回报。</span><span class="english">Our care paid off.</span></p>

@@ -1,5 +1,7 @@
 # throughput
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throughput.md)
+
 <p><span class="chinese">连接的吞吐量时间开销。</span><span class="english">Throughput timings of connections.</span></p>
 
 <p><span class="chinese">多线程客户端的吞吐量</span><span class="english">Throughput for Multi-Threaded Client</span></p>

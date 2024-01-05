@@ -1,5 +1,7 @@
 # 皮球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piqiu.md)
+
 <p><span class="chinese">皮球睡着了。</span><span class="english">Ball falls asleep.</span></p>
 
 <p><span class="chinese">皮球在水面上漂荡。</span><span class="english">The ball drifted on the water.</span></p>

@@ -1,5 +1,7 @@
 # hemodilution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemodilution.md)
+
 <p><span class="chinese">注射后血液稀释维持至少为6小时。</span><span class="english">Hemodilution was maintained for at least 6 hours after injection.</span></p>
 
 <p><span class="chinese">方法体外循环采用中度低温、轻度血液稀释法。</span><span class="english">Methods Moderate hypothermia and slight hemodilution were used during the ECC.</span></p>

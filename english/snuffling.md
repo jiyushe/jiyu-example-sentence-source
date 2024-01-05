@@ -1,5 +1,7 @@
 # snuffling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snuffling.md)
+
 <p><span class="chinese">好像是抽鼻子的，动物的声音。</span><span class="english">A kind of snuffling , an animal sound.</span></p>
 
 <p><span class="chinese">我能听见这姑娘睡着了还在抽鼻子。</span><span class="english">I could hear the child snuffling in her sleep.</span></p>

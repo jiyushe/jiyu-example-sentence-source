@@ -1,5 +1,7 @@
 # hover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hover.md)
+
 <p><span class="chinese">海鸥在惊涛骇浪上翱翔。</span><span class="english">Seagulls hover over the surging waves.</span></p>
 
 <p><span class="chinese">蝶飞蜂乱入杏林。</span><span class="english">Butterflies hover to apricots with bees.</span></p>

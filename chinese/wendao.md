@@ -1,5 +1,7 @@
 # 问道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wendao.md)
+
 <p><span class="chinese">她问道。</span><span class="english">" she asks.</span></p>
 
 <p><span class="chinese">杰希问道。</span><span class="english">Jesse asked.</span></p>

@@ -1,5 +1,7 @@
 # 重操旧业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongcaojiuye.md)
+
 <p><span class="chinese">走了一段正道后，他又重操旧业当起小偷来。</span><span class="english">After going straight for a bit, he returned to petty thieving again.</span></p>
 
 <p><span class="chinese">因为如果重操旧业在家种植玉米种的话，一年的收入也接近3万。</span><span class="english">Liu can earn annual 30,000 yuan also by growing corn at his hometown.</span></p>

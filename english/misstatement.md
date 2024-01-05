@@ -1,5 +1,7 @@
 # misstatement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misstatement.md)
+
 <p><span class="chinese">现在有一点误解。</span><span class="english">Now that's a slight misstatement.</span></p>
 
 <p><span class="chinese">重大错报风险的评估。</span><span class="english">The evaluation of material misstatement risks.</span></p>

@@ -1,5 +1,7 @@
 # having
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/having.md)
+
 <p><span class="chinese">他们在聊天。</span><span class="english">They're having a chat.</span></p>
 
 <p><span class="chinese">打漂亮的一仗。</span><span class="english">They're having a fight.</span></p>

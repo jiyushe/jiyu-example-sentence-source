@@ -1,5 +1,7 @@
 # 良将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangjiang.md)
+
 <p><span class="chinese">在三折页的设计上，良将匠心独运，别出心裁，精美图片的插入更是锦上添花。</span><span class="english">In the design of the three folding, him, classic, elegant picture insert more.</span></p>
 
 <p><span class="chinese">张学良将军是中国近现代史上爱国主义的典型代表。</span><span class="english">General Zhang Xueliang is a typical representative of patriotism in modern Chinese history.</span></p>

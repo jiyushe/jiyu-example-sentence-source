@@ -1,5 +1,7 @@
 # 轴心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouxin.md)
+
 <p><span class="chinese">“鼠辈轴心”如何?。</span><span class="english">How about Axis of Weasels?</span></p>
 
 <p><span class="chinese">这就是萧条轴心。</span><span class="english">Hence the axis of depression.</span></p>

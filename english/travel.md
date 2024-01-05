@@ -1,5 +1,7 @@
 # travel 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/travel.md)
+
 <p><span class="chinese">旅游是一个。</span><span class="english">Travel is one.</span></p>
 
 <p><span class="chinese">戴茜是怎样旅行的？</span><span class="english">How did Daisy travel?</span></p>

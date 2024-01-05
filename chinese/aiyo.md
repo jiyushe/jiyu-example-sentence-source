@@ -1,5 +1,7 @@
 # 哎哟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiyo.md)
+
 <p><span class="chinese">哎哟，拿着，我说。</span><span class="english">Oh, yes, said I.</span></p>
 
 <p><span class="chinese">哎哟,我的脚很痛.</span><span class="english">Ow,my feet hurt!</span></p>

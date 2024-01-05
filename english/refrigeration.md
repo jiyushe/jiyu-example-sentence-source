@@ -1,5 +1,7 @@
 # refrigeration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refrigeration.md)
+
 <p><span class="chinese">它会提高制冷要求。</span><span class="english">It increases refrigeration requirements.</span></p>
 
 <p><span class="chinese">这要求精巧的致冷技术。</span><span class="english">This requires elaborate refrigeration techniques.</span></p>

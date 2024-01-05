@@ -1,5 +1,7 @@
 # 心神不定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshenbuding.md)
+
 <p><span class="chinese">现在，他们也心神不定。</span><span class="english">Now they are unsure.</span></p>
 
 <p><span class="chinese">所有人都心神不定。</span><span class="english">All the people were in a flutter.</span></p>

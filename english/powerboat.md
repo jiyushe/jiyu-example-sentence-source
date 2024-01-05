@@ -1,5 +1,7 @@
 # powerboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/powerboat.md)
+
 <p><span class="chinese">一艘汽艇向我们逼近。</span><span class="english">A powerboat was bearing down on us.</span></p>
 
 <p><span class="chinese">蒂姆·鲍威尔曾是汽艇比赛冠军。</span><span class="english">Tim Powell is a former champion powerboat racer.</span></p>

@@ -1,5 +1,7 @@
 # 不绝如缕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujuerulv.md)
+
 <p><span class="chinese">他最后的遗言依然在我的耳边不绝如缕。</span><span class="english">His last words is still ringing in my ears.</span></p>
 
 <p><span class="chinese">对你的思念象袅袅的轻烟不绝如缕，对你的祝福是潺潺的小溪叮咚作响。</span><span class="english">Thoughts of you as the light smoke times, curl wish for you is bubbling brook ding-dong.</span></p>

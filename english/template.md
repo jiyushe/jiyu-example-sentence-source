@@ -1,5 +1,7 @@
 # template
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/template.md)
+
 <p><span class="chinese">用印表机印出图样。</span><span class="english">Print out the template.</span></p>
 
 <p><span class="chinese">打开16栏式的PSD模板文件.</span><span class="english">Open your 16_col.psd template.</span></p>

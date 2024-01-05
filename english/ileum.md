@@ -1,5 +1,7 @@
 # ileum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ileum.md)
+
 <p><span class="chinese">未发现回肠粪袋息肉形成。</span><span class="english">No polyp in ileum pouch was seen.</span></p>
 
 <p><span class="chinese">多数的患者肠粪石位于下段回肠。</span><span class="english">The majority of patients had bezoars located in the lower ileum.</span></p>

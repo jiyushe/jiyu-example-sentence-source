@@ -1,5 +1,7 @@
 # painted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/painted.md)
+
 <p><span class="chinese">埃米画了一幅画。</span><span class="english">Amy painted a picture.</span></p>
 
 <p><span class="chinese">他已把这扇大门漆过。</span><span class="english">He has painted the gate.</span></p>

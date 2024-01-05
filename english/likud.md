@@ -1,5 +1,7 @@
 # likud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/likud.md)
+
 <p><span class="chinese">利库德集团和哈马斯也不会。</span><span class="english">Nor are Likud and Hamas.</span></p>
 
 <p><span class="chinese">利库德集团领导的政府将使耶路撒冷在以色列的主权下继续统一。</span><span class="english">And the government of Likud will keep Jerusalem united under Israeli sovereignty," Netanyahu said.</span></p>

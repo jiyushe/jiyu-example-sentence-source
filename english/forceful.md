@@ -1,5 +1,7 @@
 # forceful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forceful.md)
+
 <p><span class="chinese">他的文章简短有力。</span><span class="english">His article was brief and forceful.</span></p>
 
 <p><span class="chinese">他的书法苍劲有力。</span><span class="english">His calligraphy is vigorous and forceful.</span></p>

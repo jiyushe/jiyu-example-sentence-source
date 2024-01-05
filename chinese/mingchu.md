@@ -1,5 +1,7 @@
 # 明处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingchu.md)
+
 <p><span class="chinese">暗中告诉你们的，你们要在明处说出来。</span><span class="english">In the dark, speak in the daylight.</span></p>
 
 <p><span class="chinese">你把相片拿到明处来，让大家看个清楚。</span><span class="english">Bring the photo to the light so we can see it better.</span></p>

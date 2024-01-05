@@ -1,5 +1,7 @@
 # pyrolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrolysis.md)
+
 <p><span class="chinese">天然气以热解成因的凝析气为主。</span><span class="english">Natural gas is mainly of pyrolysis product- condensate gas.</span></p>
 
 <p><span class="chinese">最后对花生壳的热解过程进行了动力学研究。</span><span class="english">Kinetics study of the pyrolysis process is carried out at last.</span></p>

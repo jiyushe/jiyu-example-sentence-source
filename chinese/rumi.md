@@ -1,5 +1,7 @@
 # 乳糜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rumi.md)
+
 <p><span class="chinese">乳糜性腹水是一种极为少见的临床疾病。</span><span class="english">Chylous ascites is an clinically infrequent disease.</span></p>
 
 <p><span class="chinese">绒毛的乳糜管是淋巴系统的一部分。</span><span class="english">The lacteals of villi are part of the lymphatic system.</span></p>

@@ -1,5 +1,7 @@
 # 冤屈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanqu_1.md)
+
 <p><span class="chinese">他把一肚子的冤屈都倒了出来。</span><span class="english">He poured out all his grievances.</span></p>
 
 <p><span class="chinese">他在法官面前大声申诉冤屈。</span><span class="english">He brayed out his grievances before the judge.</span></p>

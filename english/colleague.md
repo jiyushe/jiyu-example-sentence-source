@@ -1,5 +1,7 @@
 # colleague 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colleague.md)
+
 <p><span class="chinese">她是我的同事。</span><span class="english">She’s my colleague.</span></p>
 
 <p><span class="chinese">爱工作，而非爱同事。</span><span class="english">Love your job, not your colleague.</span></p>

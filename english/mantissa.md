@@ -1,5 +1,7 @@
 # mantissa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mantissa.md)
+
 <p><span class="chinese">为什么会有尾数效应？</span><span class="english">Why can you have mantissa effect?</span></p>
 
 <p><span class="chinese">请问一个负数的浮点数的尾数还带不带符号呀？</span><span class="english">Does a negative floating point mantissa also with or without sign it?</span></p>

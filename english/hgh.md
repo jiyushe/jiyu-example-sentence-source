@@ -1,5 +1,7 @@
 # hgh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hgh.md)
+
 <p><span class="chinese">我们睡觉的时候，身体会释放生长激素或者人体生长激素。</span><span class="english">When we sleep, growth hormone, or HGH. is released into our bodies.</span></p>
 
 <p><span class="chinese">滑动面均有润滑装置确保滑动面的使用寿命。</span><span class="english">All sliding surfaces with lubrication device, ensuring hgh service life.</span></p>

@@ -1,5 +1,7 @@
 # incessant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incessant.md)
+
 <p><span class="chinese">她牢骚不断，烦死人了。</span><span class="english">Her incessant whining drives me crazy.</span></p>
 
 <p><span class="chinese">她不愿容忍他的嗜赌如命。</span><span class="english">She refused to put up with his incessant gambling.</span></p>

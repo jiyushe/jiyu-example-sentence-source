@@ -1,5 +1,7 @@
 # macrophage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macrophage.md)
+
 <p><span class="chinese">巨噬细胞HO-1的清除可以降低休眠调节子的表达。</span><span class="english">Deletion of macrophage HO-1 reduced expression of the dormancy regulon.</span></p>
 
 <p><span class="chinese">肥大细胞较多，可见巨噬细胞及浆细胞。</span><span class="english">Macrophage and plasma cells appeared, but mast cells were more in number.</span></p>

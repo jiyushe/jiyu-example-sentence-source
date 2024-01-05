@@ -1,5 +1,7 @@
 # 总线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongxian.md)
+
 <p><span class="chinese">这一切都能通过总线得以解决。</span><span class="english">All these are handled by the bus.</span></p>
 
 <p><span class="chinese">接下来，您将创建总线成员。</span><span class="english">Next, you will create a bus member.</span></p>

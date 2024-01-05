@@ -1,5 +1,7 @@
 # 风土人情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengturenqing.md)
+
 <p><span class="chinese">她在了解世界各地的风土人情。</span><span class="english">She’s learning the world person by person and place by place.</span></p>
 
 <p><span class="chinese">多聊聊食物之外，还可以畅谈中国文化和风土人情。</span><span class="english">Ask questions about the food as well as the culture and customs.</span></p>

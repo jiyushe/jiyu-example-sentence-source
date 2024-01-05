@@ -1,5 +1,7 @@
 # 仪轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yigui.md)
+
 <p><span class="chinese">葬礼将依照教堂的仪轨来举行。</span><span class="english">The funeral will be performed according to church rites.</span></p>
 
 <p><span class="chinese">不可以。按照仪轨在一个时间里专注于一种修法。</span><span class="english">No. Concentrate on one practice at one time according to the ritual.</span></p>

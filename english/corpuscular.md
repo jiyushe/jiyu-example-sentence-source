@@ -1,5 +1,7 @@
 # corpuscular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corpuscular.md)
+
 <p><span class="chinese">电磁辐射是微粒性的。</span><span class="english">Electromagnetic radiation is corpuscular.</span></p>
 
 <p><span class="chinese">否则我们讨论的是微粒邮件。</span><span class="english">Otherwise, we'd be talking about corpuscular mail.</span></p>

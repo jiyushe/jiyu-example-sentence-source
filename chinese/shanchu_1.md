@@ -1,5 +1,7 @@
 # 善处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanchu_1.md)
+
 <p><span class="chinese">公主也只得善处逆境。</span><span class="english">Prosperity makes friends, adversity tries them.</span></p>
 
 <p><span class="chinese">我们定会继续尽快及妥善处理所有查询及投诉。</span><span class="english">All enquiries and complaints will be dealt with promptly and efficiently.</span></p>

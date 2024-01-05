@@ -1,5 +1,7 @@
 # 改期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaiqi.md)
+
 <p><span class="chinese">我们下星期的见面，我想改期。</span><span class="english">I was calling to change our meeting next week.</span></p>
 
 <p><span class="chinese">若在考前10个工作日之内，改期是不允许的。</span><span class="english">Transfers are not permitted within 10 working days of the test.</span></p>

@@ -1,5 +1,7 @@
 # 饮食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshi_4.md)
+
 <p><span class="chinese">所以各种不同档次的饮食俱乐部都有。</span><span class="english">So it runs the gamut.</span></p>
 
 <p><span class="chinese">也就是波动很大的饮食习惯</span><span class="english">That is, yo-yo dieting.</span></p>

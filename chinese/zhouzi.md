@@ -1,5 +1,7 @@
 # 肘子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouzi.md)
+
 <p><span class="chinese">这就是为什么大家说大叔有很厉害的肘子。</span><span class="english">Its a reason why people say deke has sharp elbows.</span></p>
 
 <p><span class="chinese">你不可能舔到你自己的肘子。</span><span class="english">It's physically impossible for you to lick your elbow.</span></p>

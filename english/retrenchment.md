@@ -1,5 +1,7 @@
 # retrenchment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrenchment.md)
+
 <p><span class="chinese">有必要进行紧缩。</span><span class="english">Retrenchment will be necessary.</span></p>
 
 <p><span class="chinese">赢家因此可以额外消费，输家却相应地要减少开支，二者不能相抵。</span><span class="english">The winners’ extra spending may not offset the losers’ retrenchment.</span></p>

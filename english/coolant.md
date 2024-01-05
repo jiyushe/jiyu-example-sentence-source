@@ -1,5 +1,7 @@
 # coolant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coolant.md)
+
 <p><span class="chinese">冷却液位应位于内心水准之上。</span><span class="english">Coolant level should be above the inner core.</span></p>
 
 <p><span class="chinese">冷却液是在压力作用下，可以烫伤你。</span><span class="english">The coolant is under pressure and could scald you.</span></p>

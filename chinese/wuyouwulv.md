@@ -1,5 +1,7 @@
 # 无忧无虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyouwulv.md)
+
 <p><span class="chinese">不要说你无忧无虑。</span><span class="english">Don't tell me you are unworried.</span></p>
 
 <p><span class="chinese">今晚她无忧无虑，很是高兴。</span><span class="english">Tonight she was gay , anxiety-free.</span></p>

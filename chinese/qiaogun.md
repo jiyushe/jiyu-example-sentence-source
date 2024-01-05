@@ -1,5 +1,7 @@
 # 撬棍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaogun.md)
+
 <p><span class="chinese">把撬棍给我！</span><span class="english">Pry stick to me!</span></p>
 
 <p><span class="chinese">Michael肩上扛着一条撬棍在房内踱步。</span><span class="english">Michael paces with a crowbar over his shoulder.</span></p>

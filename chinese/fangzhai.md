@@ -1,5 +1,7 @@
 # 放债
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangzhai.md)
+
 <p><span class="chinese">对放债者来说是收获的季节。</span><span class="english">Harvest time for the moneylenders.</span></p>
 
 <p><span class="chinese">年内，放债人注册处共收到864宗申请。</span><span class="english">During the year, 864 applications were received.</span></p>

@@ -1,5 +1,7 @@
 # elemental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elemental.md)
+
 <p><span class="chinese">假设以氢原子为例。</span><span class="english">Suppose we look at elemental hydrogen.</span></p>
 
 <p><span class="chinese">阿尔卡斯是最大的元素之龙。</span><span class="english">Arkath is the largest of the Elemental dragons.</span></p>

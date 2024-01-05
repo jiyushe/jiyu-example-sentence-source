@@ -1,5 +1,7 @@
 # 超然物外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaoranwuwai.md)
+
 <p><span class="chinese">人们通常认为霍林赫斯特是那种严肃刻板、超然物外的人物。</span><span class="english">Hollinghurst is usually seen as an austere, detached figure.</span></p>
 
 <p><span class="chinese">人往往很难超然物外。</span><span class="english">People often have difficulties rising above material temptation.</span></p>

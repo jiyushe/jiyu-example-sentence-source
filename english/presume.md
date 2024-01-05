@@ -1,5 +1,7 @@
 # presume
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presume.md)
+
 <p><span class="chinese">这个责任我还背得起。</span><span class="english">I presume I am up to this job.</span></p>
 
 <p><span class="chinese">我相信你们都看到了。</span><span class="english">I presume you have all seen it.</span></p>

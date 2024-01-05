@@ -1,5 +1,7 @@
 # vladivostok
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vladivostok.md)
+
 <p><span class="chinese">有些甚至是从海参崴、哈尔滨、乌兰巴托过去的。</span><span class="english">Even Old Bolshies from Vladivostok and Harbin and Ulan Bator.</span></p>
 
 <p><span class="chinese">从符拉迪沃斯托克开始的抗议活动，现在蔓延到了俄罗斯的欧洲区省市。</span><span class="english">An uprising that began in Vladivostok is now spreading to European Russia.</span></p>

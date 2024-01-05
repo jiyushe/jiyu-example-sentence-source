@@ -1,5 +1,7 @@
 # antenna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antenna.md)
+
 <p><span class="chinese">请调一下室内天线。</span><span class="english">Please adjust the antenna.</span></p>
 
 <p><span class="chinese">在天线部位涂上绝缘物质</span><span class="english">Non-conductive Coating Over Antenna</span></p>

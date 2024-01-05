@@ -1,5 +1,7 @@
 # enterovirus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enterovirus.md)
+
 <p><span class="chinese">怀孕期间肠病毒感染的风险有多大？</span><span class="english">What are the risks of enterovirus infections in pregnancy?</span></p>
 
 <p><span class="chinese">主要由柯萨奇病毒A16型或肠道病毒71型感染引起。</span><span class="english">Epidemic HFMD are usually caused by coxsackievirus A16 or enterovirus 71.</span></p>

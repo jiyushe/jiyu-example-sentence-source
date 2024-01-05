@@ -1,5 +1,7 @@
 # 正路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenglu.md)
+
 <p><span class="chinese">乔治把他们领回到正路上来。</span><span class="english">George led them back to the right way.</span></p>
 
 <p><span class="chinese">她走离了正路，迷途了。</span><span class="english">She strayed from the road and got lost.</span></p>

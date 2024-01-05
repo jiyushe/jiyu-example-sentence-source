@@ -1,5 +1,7 @@
 # waft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waft.md)
+
 <p><span class="chinese">你们这些风啊，为何如此哀戚地飘荡！</span><span class="english">You winds, why waft so sadly.</span></p>
 
 <p><span class="chinese">何因吹送落花来。</span><span class="english">Why would it waft fallen flowers silently?</span></p>

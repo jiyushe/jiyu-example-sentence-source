@@ -1,5 +1,7 @@
 # aspect 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspect.md)
+
 <p><span class="chinese">图2演示了第一个方面。</span><span class="english">Figure 2 shows the first aspect.</span></p>
 
 <p><span class="chinese">第一个是一个抽象的方面。</span><span class="english">The first is an abstract aspect.</span></p>

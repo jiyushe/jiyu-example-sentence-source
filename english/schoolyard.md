@@ -1,5 +1,7 @@
 # schoolyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolyard.md)
+
 <p><span class="chinese">督学阔步高视地走进校园。</span><span class="english">The superintendent swaggered into the schoolyard.</span></p>
 
 <p><span class="chinese">这条两岸长满鲜花和绿草的河正从我们校园穿过。</span><span class="english">The river with grass and flowers on both sides runs through our schoolyard.</span></p>

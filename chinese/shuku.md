@@ -1,5 +1,7 @@
 # 书库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuku.md)
+
 <p><span class="chinese">多数图书馆有开架和闭架两种书库。</span><span class="english">Most libraries have open and closed stacks.</span></p>
 
 <p><span class="chinese">我大部分阅读都是从线上书库中完成的。</span><span class="english">Most of my reading is done online or from library books.</span></p>

@@ -1,5 +1,7 @@
 # oj
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oj.md)
+
 <p><span class="chinese">梅奥是冰和火的混合体。</span><span class="english">OJ Mayo is equal parts ice and fire.</span></p>
 
 <p><span class="chinese">在橙汁流失维他命前应该储存多长时间呢？</span><span class="english">How long does OJ keep before it loses vitamins?</span></p>

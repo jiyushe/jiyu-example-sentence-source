@@ -1,5 +1,7 @@
 # 用人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongren_2.md)
+
 <p><span class="chinese">神要使用人。</span><span class="english">God uses people.</span></p>
 
 <p><span class="chinese">爱不用人教。</span><span class="english">Love needs no teching.</span></p>

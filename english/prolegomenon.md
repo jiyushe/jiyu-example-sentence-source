@@ -1,5 +1,7 @@
 # prolegomenon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prolegomenon.md)
+
 <p><span class="chinese">绪论部分包括四个方面的内容。</span><span class="english">The prolegomenon mainly includes four aspects.</span></p>
 
 <p><span class="chinese">本文绪论部分说明了当前数字信号处理领域的总体现状。</span><span class="english">The situation of current digital signal processing field is discussed in the prolegomenon.</span></p>

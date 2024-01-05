@@ -1,5 +1,7 @@
 # cbc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cbc.md)
+
 <p><span class="chinese">央行监测和粘膜炎周。</span><span class="english">Monitor CBC and for mucositis weekly.</span></p>
 
 <p><span class="chinese">于是CBC新闻网就应运而生。</span><span class="english">Thus CBC News Network came into existence.</span></p>

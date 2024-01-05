@@ -1,5 +1,7 @@
 # waxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waxy.md)
+
 <p><span class="chinese">在液体中出现蜡点或混浊。</span><span class="english">A waxy cloud or haze appears in the liquid.</span></p>
 
 <p><span class="chinese">此外，这些蜡质还可以防止耳内过于干燥。</span><span class="english">And the waxy oil keeps ears from getting too dry.</span></p>

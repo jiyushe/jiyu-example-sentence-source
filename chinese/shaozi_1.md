@@ -1,5 +1,7 @@
 # 哨子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaozi_1.md)
+
 <p><span class="chinese">他吹哨子召集全体海员到甲板上。</span><span class="english">He piped  all hands on deck.</span></p>
 
 <p><span class="chinese">他吹哨子解散全体海员。</span><span class="english">He piped away all the sailors.</span></p>

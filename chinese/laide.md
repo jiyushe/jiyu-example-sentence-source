@@ -1,5 +1,7 @@
 # 来得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laide.md)
+
 <p><span class="chinese">来得容易，去得快。</span><span class="english">Easy come,easy go.</span></p>
 
 <p><span class="chinese">黄昏来得很早。</span><span class="english">The dusk was coming early.</span></p>

@@ -1,5 +1,7 @@
 # kiva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiva.md)
+
 <p><span class="chinese">你在kiva有经济利益吗？</span><span class="english">Do you have a financial interest in Kiva?</span></p>
 
 <p><span class="chinese">通过Kiva捐助帮助一名企业家。</span><span class="english">Help an entrepreneur with a Kiva donation.</span></p>

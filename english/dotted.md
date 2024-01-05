@@ -1,5 +1,7 @@
 # dotted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dotted.md)
+
 <p><span class="chinese">他匆匆记下了那些注解。</span><span class="english">He dotted down those notes.</span></p>
 
 <p><span class="chinese">请在点线上方签名。</span><span class="english">Please sign on the dotted line.</span></p>

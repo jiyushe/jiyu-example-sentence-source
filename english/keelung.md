@@ -1,5 +1,7 @@
 # keelung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keelung.md)
+
 <p><span class="chinese">我们的船将在基隆加水。</span><span class="english">Our ship will water at Keelung.</span></p>
 
 <p><span class="chinese">快车在基隆有停吗？</span><span class="english">Does the express stop at Keelung?</span></p>

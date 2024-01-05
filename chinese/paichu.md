@@ -1,5 +1,7 @@
 # 排除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paichu.md)
+
 <p><span class="chinese">哪些国家被排除在外了呢</span><span class="english">Who does it exclude?</span></p>
 
 <p><span class="chinese">但不要将它们排除在外。</span><span class="english">But don't rule them out.</span></p>

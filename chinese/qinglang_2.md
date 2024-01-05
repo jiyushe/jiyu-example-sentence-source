@@ -1,5 +1,7 @@
 # 清朗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinglang_2.md)
+
 <p><span class="chinese">我看见太阳照耀在清朗的天空中。</span><span class="english">I saw the sun out of a clear azure sky.</span></p>
 
 <p><span class="chinese">清朗蔚蓝的天空中阳光明媚。</span><span class="english">The sun shone out of a clear azure sky.</span></p>

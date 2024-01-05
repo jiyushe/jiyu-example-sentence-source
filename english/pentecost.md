@@ -1,5 +1,7 @@
 # pentecost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentecost.md)
+
 <p><span class="chinese">收获节或五旬节。</span><span class="english">Feast of Harvest or Pentecost.</span></p>
 
 <p><span class="chinese">但我仍要在厄弗所逗留到五旬节。</span><span class="english">But I will tarry at Ephesus until Pentecost.</span></p>

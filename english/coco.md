@@ -1,5 +1,7 @@
 # coco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coco.md)
+
 <p><span class="chinese">她是李玟。</span><span class="english">She's CoCo Lee.</span></p>
 
 <p><span class="chinese">李玟是位著名的歌手。</span><span class="english">Coco Lee is a famous singer.</span></p>

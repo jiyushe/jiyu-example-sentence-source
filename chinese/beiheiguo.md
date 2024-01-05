@@ -1,5 +1,7 @@
 # 背黑锅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiheiguo.md)
+
 <p><span class="chinese">迈克替他儿子背黑锅。</span><span class="english">Mike carried the can for his son.</span></p>
 
 <p><span class="chinese">他犯了罪，却让我替他背黑锅。</span><span class="english">He committed crime but let me hold the bag.</span></p>

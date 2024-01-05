@@ -1,5 +1,7 @@
 # 优裕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyu.md)
+
 <p><span class="chinese">她是一位景况十分优裕的妇女。</span><span class="english">She is a lady in very comfortable circumstances.</span></p>
 
 <p><span class="chinese">报复老情人或者那优裕而冷酷的家庭</span><span class="english">as revenge on old lovers or families of entitlement and steel</span></p>

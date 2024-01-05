@@ -1,5 +1,7 @@
 # guesthouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guesthouse.md)
+
 <p><span class="chinese">代表团乘车前往宾馆。</span><span class="english">The delegation drove to the guesthouse.</span></p>
 
 <p><span class="chinese">二路公共汽车是从伍家岗到三峡宾馆的。</span><span class="english">No. 2 bus form Wujiagang to Three gorges guesthouse.</span></p>

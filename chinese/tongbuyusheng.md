@@ -1,5 +1,7 @@
 # 痛不欲生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongbuyusheng.md)
+
 <p><span class="chinese">马克捶胸顿足，痛不欲生。</span><span class="english">Mark beat his breast in agony.</span></p>
 
 <p><span class="chinese">楚国的危亡和百姓的痛苦，屈原痛不欲生。</span><span class="english">Chu people of peril and suffering, pain Yuan.</span></p>

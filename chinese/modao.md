@@ -1,5 +1,7 @@
 # 默祷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/modao.md)
+
 <p><span class="chinese">于是我默祷天上的神。</span><span class="english">So I prayed to the God of heaven.</span></p>
 
 <p><span class="chinese">这两只死鸟正为你默祷。</span><span class="english">For these dead birds sigh a prayer.</span></p>

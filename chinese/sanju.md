@@ -1,5 +1,7 @@
 # 散居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanju.md)
+
 <p><span class="chinese">而疏于对散居或杂居地区的畲族的研究。</span><span class="english">But neglected the study of She in regions of scattered or mixed.</span></p>
 
 <p><span class="chinese">“散居”的另一处明智之举在于把目标定位在18到34岁的年轻用户群中。</span><span class="english">Another smart Diaspora thing is targeting younger users, people aged 18 to 34.</span></p>

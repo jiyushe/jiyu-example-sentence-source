@@ -1,5 +1,7 @@
 # 新生代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshengdai.md)
+
 <p><span class="chinese">焉耆盆地是中国西部众多中新生代小型含煤盆地之一。</span><span class="english">Yanqi basin is a coal bearing basin in west China.</span></p>
 
 <p><span class="chinese">你们是可以改变世界的新生代先锋队。</span><span class="english">A new generation of young pioneers making a difference.</span></p>

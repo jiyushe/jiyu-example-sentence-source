@@ -1,5 +1,7 @@
 # 胡同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hutong_1.md)
+
 <p><span class="chinese">胡同里充满了历史的痕迹。</span><span class="english">The Hutongs are full of history.</span></p>
 
 <p><span class="chinese">我的地址是利学胡同15号。</span><span class="english">My address is at 15 Lixue Avenue.</span></p>

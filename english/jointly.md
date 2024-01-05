@@ -1,5 +1,7 @@
 # jointly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jointly.md)
+
 <p><span class="chinese">也许今后咱们有机遇在一起。</span><span class="english">Mayby we can get jointly sometime.</span></p>
 
 <p><span class="chinese">对此，我们如何共同做出应对计划？</span><span class="english">So how do we jointly plan on that?</span></p>

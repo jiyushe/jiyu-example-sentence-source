@@ -1,5 +1,7 @@
 # 名流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingliu.md)
+
 <p><span class="chinese">阿里克在节目中嘲弄了一众名流。</span><span class="english">Ali G guyed celebrities on his show.</span></p>
 
 <p><span class="chinese">广告里的画外音是哪个名流配的?。</span><span class="english">Who's the Celebrity Voice in That Ad?</span></p>

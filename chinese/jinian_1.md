@@ -1,5 +1,7 @@
 # 纪念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinian_1.md)
+
 <p><span class="chinese">摆脱癌症五年纪念。</span><span class="english">Five years cancer-free.</span></p>
 
 <p><span class="chinese">一个手镯或者纪念戒指。</span><span class="english">A bracelet or class ring.</span></p>

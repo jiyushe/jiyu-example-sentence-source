@@ -1,5 +1,7 @@
 # understate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/understate.md)
+
 <p><span class="chinese">不幸的是，将它称之为安全性漏洞有些轻描淡写。</span><span class="english">To call this a security hole is to understate the point woefully.</span></p>
 
 <p><span class="chinese">几乎可以肯定地说，官方数据低估了真实情况。</span><span class="english">It is almost certain that the official numbers understate reality.</span></p>

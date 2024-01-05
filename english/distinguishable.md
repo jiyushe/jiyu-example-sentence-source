@@ -1,5 +1,7 @@
 # distinguishable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distinguishable.md)
+
 <p><span class="chinese">如果粒子可区分的话。</span><span class="english">If you have distinguishable particles.</span></p>
 
 <p><span class="chinese">对可区分的粒子必须这样做。</span><span class="english">This is true for distinguishable particles.</span></p>

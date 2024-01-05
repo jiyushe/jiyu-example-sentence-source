@@ -1,5 +1,7 @@
 # poised
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poised.md)
+
 <p><span class="chinese">一位舞蹈演员滞空平衡。</span><span class="english">A dancer poised in midair.</span></p>
 
 <p><span class="chinese">于我上方高处，泰然自若。</span><span class="english">Poised high above me there.</span></p>

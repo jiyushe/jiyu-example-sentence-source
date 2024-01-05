@@ -1,5 +1,7 @@
 # 宗庙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongmiao.md)
+
 <p><span class="chinese">宗庙于1394年建成，曾被认为是亚洲最长的建筑之一。</span><span class="english">When it was built in 1394 is was thought to be one of the longest buildings in Asia.</span></p>
 
 <p><span class="chinese">只是它的作用已仅限于在宗庙之中，协调人神之间的关系了。</span><span class="english">Its role was limited in ancestral temples to mediate the relation between gods and men.</span></p>

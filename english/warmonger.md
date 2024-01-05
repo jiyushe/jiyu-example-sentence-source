@@ -1,5 +1,7 @@
 # warmonger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warmonger.md)
+
 <p><span class="chinese">工党企图诽谤邱吉尔先生是战争贩子。</span><span class="english">The Socialists were trying to smear Churchill as a warmonger.</span></p>
 
 <p><span class="chinese">工党企图诽谤丘吉尔先生是战争贩子。</span><span class="english">The socialists were trying to smear churchill as a warmonger.</span></p>

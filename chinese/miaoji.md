@@ -1,5 +1,7 @@
 # 妙计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaoji.md)
+
 <p><span class="chinese">但是他自有妙计。</span><span class="english">But there is still hope.</span></p>
 
 <p><span class="chinese">鹅毛扇这么一扇，一个妙计涌上心头。</span><span class="english">E Mao as a fan, a Miaoji mind.</span></p>

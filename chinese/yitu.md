@@ -1,5 +1,7 @@
 # 意图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yitu.md)
+
 <p><span class="chinese">他能猜到我的意图吗?</span><span class="english">Can he outguess me?</span></p>
 
 <p><span class="chinese">我的意图也不坏。</span><span class="english">I have good intentions.</span></p>

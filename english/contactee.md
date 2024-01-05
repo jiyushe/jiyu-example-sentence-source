@@ -1,5 +1,7 @@
 # contactee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contactee.md)
+
 <p><span class="chinese">是哪个外星人种族在通知联系人是无关紧要的。</span><span class="english">It is irrelevant what alien group informed a contactee.</span></p>
 
 <p><span class="chinese">探究一下你成为了联系人的可能性吧。</span><span class="english">Explore the possibility that you have become a contactee.</span></p>

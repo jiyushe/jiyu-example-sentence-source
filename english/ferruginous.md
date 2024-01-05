@@ -1,5 +1,7 @@
 # ferruginous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferruginous.md)
+
 <p><span class="chinese">幼枝具紧密的铁锈色的鳞片。</span><span class="english">Young branches with dense ferruginous scales.</span></p>
 
 <p><span class="chinese">不育的子房球状，密被具铁锈色长柔毛。</span><span class="english">Sterile ovary globose, densely ferruginous villous.</span></p>

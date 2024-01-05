@@ -1,5 +1,7 @@
 # exceeding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exceeding.md)
+
 <p><span class="chinese">超越梦想才能处变不惊！</span><span class="english">Exceeding dream can be able to keep calm.</span></p>
 
 <p><span class="chinese">但是我听到了一支绝顶甜柔的歌曲。</span><span class="english">But I heard a song of exceeding sweetness.</span></p>

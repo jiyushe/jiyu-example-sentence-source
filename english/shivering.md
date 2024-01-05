@@ -1,5 +1,7 @@
 # shivering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shivering.md)
+
 <p><span class="chinese">她正冷得发抖。</span><span class="english">She was shivering.</span></p>
 
 <p><span class="chinese">我冷得打哆嗦。</span><span class="english">I'm shivering with cold.</span></p>

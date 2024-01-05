@@ -1,5 +1,7 @@
 # fungi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fungi.md)
+
 <p><span class="chinese">很多真菌具有不完全隔膜。</span><span class="english">Many fungi have incomplete septa.</span></p>
 
 <p><span class="chinese">蘑菇、蕈与白霉都是菌类植物。</span><span class="english">Mushrooms, toadstools and mildew are all fungi.</span></p>

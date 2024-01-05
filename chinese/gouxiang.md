@@ -1,5 +1,7 @@
 # 构想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouxiang.md)
+
 <p><span class="chinese">这是我的构想。</span><span class="english">That was my idea.</span></p>
 
 <p><span class="chinese">这就是一个构想。</span><span class="english">This is the idea.</span></p>

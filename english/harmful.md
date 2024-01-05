@@ -1,5 +1,7 @@
 # harmful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmful.md)
+
 <p><span class="chinese">它有害吗</span><span class="english">Is it harmful?</span></p>
 
 <p><span class="chinese">自怜同样有害。</span><span class="english">Equally, self-pity is harmful.</span></p>

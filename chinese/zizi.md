@@ -1,5 +1,7 @@
 # 姊姊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizi.md)
+
 <p><span class="chinese">我比他的姊姊高。</span><span class="english">I'm taller than his sister.</span></p>
 
 <p><span class="chinese">昨夜我遇到你的姊姊。</span><span class="english">I met your sister last night.</span></p>

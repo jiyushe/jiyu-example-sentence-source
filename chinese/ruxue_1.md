@@ -1,5 +1,7 @@
 # 入学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruxue_1.md)
+
 <p><span class="chinese">经过一次特殊测试后，他被接受入学。</span><span class="english">He got in after a special test.</span></p>
 
 <p><span class="chinese">他入学一所著名的大学。</span><span class="english">He enrolled at a famous University.</span></p>

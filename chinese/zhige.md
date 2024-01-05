@@ -1,5 +1,7 @@
 # 制革
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhige.md)
+
 <p><span class="chinese">制革''。'业'。''制革工的行业、工作或工场。</span><span class="english">The trade, work, or shop of a currier.</span></p>
 
 <p><span class="chinese">这个过程就是我们所知的“制革法”。</span><span class="english">This process became known as ‘tanning’.</span></p>

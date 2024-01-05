@@ -1,5 +1,7 @@
 # 龙争虎斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longzhenghudou.md)
+
 <p><span class="chinese">细安排一刻也长，比龙争虎斗谁为争锋！</span><span class="english">Arrange a moment too long, than who enter to die!</span></p>
 
 <p><span class="chinese">我真想退出这激烈的龙争虎斗，到乡下偏僻的地方买栋房子住。</span><span class="english">I'd love to get out of the rat race and buy a house in some remote part of the countryside.</span></p>

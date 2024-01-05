@@ -1,5 +1,7 @@
 # feudatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feudatory.md)
+
 <p><span class="chinese">汝用事，即侵削诸侯，疏人骨肉。</span><span class="english">Thou act, that is, cut feudatory invasion, sparse human osteosarcoma.</span></p>
 
 <p><span class="chinese">在幕末激荡的历史时期，许多藩士冒着“叛藩叛国”罪的危险而脱藩。</span><span class="english">In the violent period of Bakumatsu, many samurai ran the risk of treason to quit feudatory.</span></p>

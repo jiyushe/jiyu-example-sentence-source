@@ -1,5 +1,7 @@
 # hornet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hornet.md)
+
 <p><span class="chinese">一只大黄蜂在一分钟之内就能害死40只蜜蜂。</span><span class="english">A single hornet can kill 40 bees in a minute.</span></p>
 
 <p><span class="chinese">代表一份祝福，三八节我送你一个马蜂窝！</span><span class="english">Represent a wish, 38 section I send you a hornet nest!</span></p>

@@ -1,5 +1,7 @@
 # 鼓舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guwu_2.md)
+
 <p><span class="chinese">神鼓舞激励人。</span><span class="english">God offers encouragements.</span></p>
 
 <p><span class="chinese">此时此刻，我感到倍受鼓舞。</span><span class="english">I'm so motivated right now.</span></p>

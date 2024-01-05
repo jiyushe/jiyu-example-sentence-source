@@ -1,5 +1,7 @@
 # 动脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongmai_1.md)
+
 <p><span class="chinese">结节性多动脉炎。</span><span class="english">Much arteritis of ⑩ nodal sex.</span></p>
 
 <p><span class="chinese">血从割破的动脉间歇地喷出。</span><span class="english">Blood pumped from a cut artery.</span></p>

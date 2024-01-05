@@ -1,5 +1,7 @@
 # wilder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wilder.md)
+
 <p><span class="chinese">这个流言开始越传越离谱.</span><span class="english">The rumors began to get wilder.</span></p>
 
 <p><span class="chinese">当爱，比风更狂放。</span><span class="english">When love was wilder than the wind.</span></p>

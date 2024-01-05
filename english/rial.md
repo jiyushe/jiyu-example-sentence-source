@@ -1,5 +1,7 @@
 # rial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rial.md)
+
 <p><span class="chinese">我们的人生会在尘世间留下何种意义？</span><span class="english">What meaning do our lifes leave between the mate rial life again?</span></p>
 
 <p><span class="chinese">在2005年1月18日，一个阿曼里亚尔值2.59067美元。</span><span class="english">As of January 18, 2005, one Omani Rial was worth 2.59067 United States dollars.</span></p>

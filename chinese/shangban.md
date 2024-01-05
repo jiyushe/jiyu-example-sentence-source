@@ -1,5 +1,7 @@
 # 上班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangban.md)
+
 <p><span class="chinese">上班路上我碰见了一个色鬼。</span><span class="english">I ran over a goat.</span></p>
 
 <p><span class="chinese">上班时如何防虫？</span><span class="english">What about at work?</span></p>

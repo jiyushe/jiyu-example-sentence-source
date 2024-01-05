@@ -1,5 +1,7 @@
 # sakhalin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sakhalin.md)
+
 <p><span class="chinese">库页岛居民发现了在浅水湾渔场的抛弃垃圾的痕迹。</span><span class="english">Sakhalin islanders discover debris dumped in shallow bay fisheries.</span></p>
 
 <p><span class="chinese">日俄战争后，日本占领俄国库页岛南部。</span><span class="english">After the Russo-Japanese War, Japan's occupation of southern Sakhalin in Russia.</span></p>

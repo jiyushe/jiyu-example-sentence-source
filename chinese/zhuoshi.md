@@ -1,5 +1,7 @@
 # 卓识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoshi.md)
+
 <p><span class="chinese">他的卓识是把工作转移到金融模型。</span><span class="english">His insight was to transfer the work to financial models.</span></p>
 
 <p><span class="chinese">近日，中德卓识管理层约见新华都相关负责人，商讨业务合作事宜。</span><span class="english">Recently, China Sage Management met with New Huadu for cooperation discussions.</span></p>

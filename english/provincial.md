@@ -1,5 +1,7 @@
 # provincial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provincial.md)
+
 <p><span class="chinese">我辗转漂到了省城。</span><span class="english">I turn to the provincial capital.</span></p>
 
 <p><span class="chinese">他是这么个土头土脑的家伙。</span><span class="english">He was such a provincial character.</span></p>

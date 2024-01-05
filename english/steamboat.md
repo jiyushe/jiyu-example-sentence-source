@@ -1,5 +1,7 @@
 # steamboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steamboat.md)
+
 <p><span class="chinese">这班轮船每逢星期日和星期三开航。</span><span class="english">The steamboat sails on Sundays and Wednesdays.</span></p>
 
 <p><span class="chinese">一艘来自圣?路易斯的廉价而俗气的轮船停靠在码头。</span><span class="english">A cheap, gaudy steamboat arrived at the wharf from St. Louis.</span></p>

@@ -1,5 +1,7 @@
 # salvatore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salvatore.md)
+
 <p><span class="chinese">他和他叔叔一起住在古老的萨尔瓦托公寓。</span><span class="english">He lives with uncle up at the old Salvatore boarding house.</span></p>
 
 <p><span class="chinese">当他在拖走布伦南的时候，塞尔瓦托.吉安达中士击毙了他。</span><span class="english">Sgt. Salvatore Giunta had shot and killed him as he was dragging off Brennan.</span></p>

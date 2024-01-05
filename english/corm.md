@@ -1,5 +1,7 @@
 # corm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corm.md)
+
 <p><span class="chinese">给一些球茎。</span><span class="english">Here's some corm.</span></p>
 
 <p><span class="chinese">科林像个男子汉似的在作战。</span><span class="english">Corm is fighting like a man.</span></p>

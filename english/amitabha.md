@@ -1,5 +1,7 @@
 # amitabha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amitabha.md)
+
 <p><span class="chinese">在厕所里可以默念佛号吗？</span><span class="english">Can I chant Amitabha Buddha silently?</span></p>
 
 <p><span class="chinese">得闻阿弥陀佛名号。</span><span class="english">Who hear the Name of Amitabha Buddha.</span></p>

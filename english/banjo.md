@@ -1,5 +1,7 @@
 # banjo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banjo.md)
+
 <p><span class="chinese">我打算带上五弦琴。</span><span class="english">I think I'll get a banjo.</span></p>
 
 <p><span class="chinese">小男孩弹着班卓琴。</span><span class="english">The boy picked the banjo.</span></p>

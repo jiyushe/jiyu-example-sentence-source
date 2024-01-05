@@ -1,5 +1,7 @@
 # choreograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choreograph.md)
+
 <p><span class="chinese">用时间轴编辑器轻松地设计动画动作。</span><span class="english">Easily choreograph animation with the timeline editor.</span></p>
 
 <p><span class="chinese">所有一切都表现出可预测的，训练有素的控制局面的能力。</span><span class="english">It is all in an effort to choreograph a predictable level of control.</span></p>

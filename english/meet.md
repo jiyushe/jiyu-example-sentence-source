@@ -1,5 +1,7 @@
 # meet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meet.md)
+
 <p><span class="chinese">我们能见个面吗？</span><span class="english">Can we meet?</span></p>
 
 <p><span class="chinese">来见见我的朋友。</span><span class="english">Meet my friend.</span></p>

@@ -1,5 +1,7 @@
 # 闷声不响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menshengbuxiang.md)
+
 <p><span class="chinese">乔一直闷声不响地看着她。</span><span class="english">All the while Jo watched her in silence.</span></p>
 
 <p><span class="chinese">小困难大声叫喊，大困难闷声不响。</span><span class="english">Light troubles speak, great troubles keep silent.</span></p>

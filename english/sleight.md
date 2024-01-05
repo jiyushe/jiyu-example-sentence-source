@@ -1,5 +1,7 @@
 # sleight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleight.md)
+
 <p><span class="chinese">这套戏法要求手快。</span><span class="english">This trick demands sleight of hand.</span></p>
 
 <p><span class="chinese">还有我灵巧戏法背后阵阵作痛的空虚。</span><span class="english">The aching hollowness in sleight of hand.</span></p>

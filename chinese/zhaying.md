@@ -1,5 +1,7 @@
 # 扎营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaying.md)
+
 <p><span class="chinese">我们应该在这里扎营。</span><span class="english">We should set up campu here.</span></p>
 
 <p><span class="chinese">军队在山中扎营。</span><span class="english">The army camped in the mountain.</span></p>

@@ -1,5 +1,7 @@
 # macrolide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macrolide.md)
+
 <p><span class="chinese">雷帕霉素是一种大环内酯类抗生素。</span><span class="english">Rapamycin is known as a kind of macrolide antibiotics.</span></p>
 
 <p><span class="chinese">红霉素是一类广谱大环内酯类抗生素，在临床上具有广泛的应用。</span><span class="english">Erythromycin is a broad spectrum macrolide antibiotic and clinically used widely.</span></p>

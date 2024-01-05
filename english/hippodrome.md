@@ -1,5 +1,7 @@
 # hippodrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hippodrome.md)
+
 <p><span class="chinese">所以赛马场就是拉丁语中的马戏表演场。</span><span class="english">So the hippodrome is the circus in Latin.</span></p>
 
 <p><span class="chinese">回到了伦敦的舞厅大师，继续演奏！</span><span class="english">To the Hippodrome of London, Maestro, take it away!</span></p>

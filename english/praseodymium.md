@@ -1,5 +1,7 @@
 # praseodymium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/praseodymium.md)
+
 <p><span class="chinese">镨，金属镨，镨金属。</span><span class="english">Praseodymium , Praseodymium Metal, Metal Praseodym.</span></p>
 
 <p><span class="chinese">钕镨合金一种金属混合金属，曾被当作一个元素，是由钕和镨组成的。</span><span class="english">A metallic mixture, once considered an element, composed of neodymium and praseodymium.</span></p>

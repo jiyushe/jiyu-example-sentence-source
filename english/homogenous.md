@@ -1,5 +1,7 @@
 # homogenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homogenous.md)
+
 <p><span class="chinese">PO大部分均质且电子密度很高。</span><span class="english">Most PO were electron-dense and homogenous.</span></p>
 
 <p><span class="chinese">贝卢斯科尼现在的政府就单一的多了。</span><span class="english">Mr Berlusconi's present government is far more homogenous.</span></p>

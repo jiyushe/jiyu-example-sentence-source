@@ -1,5 +1,7 @@
 # irrotational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrotational.md)
+
 <p><span class="chinese">其中有六类是无旋的。</span><span class="english">Six of them are irrotational.</span></p>
 
 <p><span class="chinese">水被视作无旋、无粘性理想流体。</span><span class="english">The water is idealized and assumed to be irrotational and non-viscous.</span></p>

@@ -1,5 +1,7 @@
 # observable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/observable.md)
+
 <p><span class="chinese">是无法观察到的。</span><span class="english">They are not observable.</span></p>
 
 <p><span class="chinese">这种倾向以可以观察到的运动形式呈现出来。</span><span class="english">The tendency precipitates into observable motion.</span></p>

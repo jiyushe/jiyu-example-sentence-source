@@ -1,5 +1,7 @@
 # polyurethane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyurethane.md)
+
 <p><span class="chinese">具有弹性体性质的聚氨酯。</span><span class="english">A polyurethane with elastomeric properties.</span></p>
 
 <p><span class="chinese">罪魁祸首是聚亚胺酯泡沫。</span><span class="english">Polyurethane foam is a problem from the start.</span></p>

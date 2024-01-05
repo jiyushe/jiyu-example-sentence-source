@@ -1,5 +1,7 @@
 # evasion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evasion.md)
+
 <p><span class="chinese">偷税漏税也是一种犯罪。</span><span class="english">Tax evasion is also a crime.</span></p>
 
 <p><span class="chinese">逃避非善法，面对是修行。</span><span class="english">Evasion is not a good method.</span></p>

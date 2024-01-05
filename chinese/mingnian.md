@@ -1,5 +1,7 @@
 # 明年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingnian.md)
+
 <p><span class="chinese">但是明年。</span><span class="english">But next year.</span></p>
 
 <p><span class="chinese">他明年一月退休。</span><span class="english">He retires next January.</span></p>

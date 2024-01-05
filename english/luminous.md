@@ -1,5 +1,7 @@
 # luminous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luminous.md)
+
 <p><span class="chinese">幻月，假月月晕上的光斑。</span><span class="english">A luminous spot on a lunar halo.</span></p>
 
 <p><span class="chinese">单位面积上的发光强度。</span><span class="english">The luminous intensity on unit area.</span></p>

@@ -1,5 +1,7 @@
 # dissection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissection.md)
+
 <p><span class="chinese">汉森博士解释说，解剖会造成一些意想不到的变化。</span><span class="english">Dissection induces changes, explained Dr Hansen.</span></p>
 
 <p><span class="chinese">今天的生物课上，我正在解剖一只猪腰。</span><span class="english">Today, I had a pig kidney dissection in Biology.</span></p>

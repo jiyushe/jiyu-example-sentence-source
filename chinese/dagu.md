@@ -1,5 +1,7 @@
 # 大姑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dagu.md)
+
 <p><span class="chinese">他听到孙大姑说。</span><span class="english">He heard Auntie Sun say.</span></p>
 
 <p><span class="chinese">周围女人不少，全是大姑大嫂。</span><span class="english">Many around the woman, all Aunt Daisow.</span></p>

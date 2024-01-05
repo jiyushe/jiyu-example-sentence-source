@@ -1,5 +1,7 @@
 # 一年到头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiniandaotou.md)
+
 <p><span class="chinese">这里一年到头只住着六百人。</span><span class="english">Only 600 people live here year round.</span></p>
 
 <p><span class="chinese">这里一年到头都能照到太阳。</span><span class="english">The sun shines here all the year round.</span></p>

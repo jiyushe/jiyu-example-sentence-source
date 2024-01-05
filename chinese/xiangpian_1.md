@@ -1,5 +1,7 @@
 # 相片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpian_1.md)
+
 <p><span class="chinese">这是一张相片。</span><span class="english">This is a imagin.</span></p>
 
 <p><span class="chinese">我讨厌那张相片！</span><span class="english">I hate that picture!</span></p>

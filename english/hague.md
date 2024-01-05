@@ -1,5 +1,7 @@
 # hague
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hague.md)
+
 <p><span class="chinese">安娜·霍利甘在海牙报道。</span><span class="english">Anna Holligan reports from The Hague.</span></p>
 
 <p><span class="chinese">但现在它们已是既成事实，”黑格说。</span><span class="english">But they are now a fact, " Hague added.</span></p>

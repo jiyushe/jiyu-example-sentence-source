@@ -1,5 +1,7 @@
 # 均等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jundeng.md)
+
 <p><span class="chinese">把药面均等称开。</span><span class="english">To scale medicinal powder.</span></p>
 
 <p><span class="chinese">公平的机会均等。</span><span class="english">Fair equality of opportunity.</span></p>

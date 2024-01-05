@@ -1,5 +1,7 @@
 # 放射性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangshexing.md)
+
 <p><span class="chinese">如何测量放射性？</span><span class="english">How is radioactivity measured?</span></p>
 
 <p><span class="chinese">还发现了放射性铯。</span><span class="english">Radioactive caesium has also been detected.</span></p>

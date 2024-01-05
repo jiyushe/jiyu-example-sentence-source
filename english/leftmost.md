@@ -1,5 +1,7 @@
 # leftmost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leftmost.md)
+
 <p><span class="chinese">这是在MMC控制台最左边的窗格。</span><span class="english">This is the leftmost pane in the MMC console.</span></p>
 
 <p><span class="chinese">从最左侧的树开始，按照顺序依次执行。</span><span class="english">Start from leftmost tree, and work your way up.</span></p>

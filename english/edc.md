@@ -1,5 +1,7 @@
 # edc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edc.md)
+
 <p><span class="chinese">经过EDC电路之后，得到几乎与原始音乐一样的数据。</span><span class="english">After the EDC circuits, the data is almost in its original music form.</span></p>
 
 <p><span class="chinese">按照测试说明细则测试EDC相关软件和临床数据库</span><span class="english">Test EDC applications and clinical databases for conformance to specifications</span></p>

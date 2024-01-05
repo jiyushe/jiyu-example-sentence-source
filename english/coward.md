@@ -1,5 +1,7 @@
 # coward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coward.md)
+
 <p><span class="chinese">我现在快要变成胆小鬼了吧？</span><span class="english">Am I becoming a coward?</span></p>
 
 <p><span class="chinese">他训服得像一个懦夫。</span><span class="english">He lay down like a coward.</span></p>

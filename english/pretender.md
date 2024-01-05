@@ -1,5 +1,7 @@
 # pretender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretender.md)
+
 <p><span class="chinese">他是一个冒牌哲学家。</span><span class="english">He is a pretender to philosophy.</span></p>
 
 <p><span class="chinese">没有一个人想要成为一个伟大的伪装者。</span><span class="english">No one wants to be a great pretender.</span></p>

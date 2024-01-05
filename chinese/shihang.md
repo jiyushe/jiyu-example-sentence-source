@@ -1,5 +1,7 @@
 # 试航
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihang.md)
+
 <p><span class="chinese">1959年于苏伦特海峡的首次试航引起了轰动。</span><span class="english">The first tests on the Solent in 1959 caused a sensation.</span></p>
 
 <p><span class="chinese">1959年，在苏伦特海峡进行的首次试航引起了轰动。</span><span class="english">The first tests on the Solent in 1959 caused a sensation.</span></p>

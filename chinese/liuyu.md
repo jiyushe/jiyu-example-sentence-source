@@ -1,5 +1,7 @@
 # 流域
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuyu.md)
+
 <p><span class="chinese">继续抓好重点流域、区域、海域的污染治理。</span><span class="english">An unobstructed area of land or water.</span></p>
 
 <p><span class="chinese">然而现在大不一样了，他的大部分流域都已住上了人。</span><span class="english">And it is now, over most of its stretch.</span></p>

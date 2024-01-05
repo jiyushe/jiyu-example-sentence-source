@@ -1,5 +1,7 @@
 # reside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reside.md)
+
 <p><span class="chinese">我住在海心。</span><span class="english">I reside in Haikou.</span></p>
 
 <p><span class="chinese">你现在住在哪里？</span><span class="english">Where do you reside now?</span></p>

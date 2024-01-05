@@ -1,5 +1,7 @@
 # depict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depict.md)
+
 <p><span class="chinese">我尝试去描画它。</span><span class="english">The way I've tried to depict it.</span></p>
 
 <p><span class="chinese">卡萨克舞蹈可以经常描绘天气事件。</span><span class="english">Kathak dancing can often depict weather events.</span></p>

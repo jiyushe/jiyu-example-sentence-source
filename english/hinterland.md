@@ -1,5 +1,7 @@
 # hinterland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hinterland.md)
+
 <p><span class="chinese">然而，敦煌处在大漠的腹地。</span><span class="english">However, Dunhuang is located in the hinterland of the great desert.</span></p>
 
 <p><span class="chinese">红豆峡两头出口狭窄，腹地开阔，形似葫芦。</span><span class="english">Red bean exports two narrow gorge, the hinterland of the open, the shape of gourds.</span></p>

@@ -1,5 +1,7 @@
 # 木本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muben.md)
+
 <p><span class="chinese">茄科的木本的澳大利亚属。</span><span class="english">An australian genus of woody plants of the family urticaceae.</span></p>
 
 <p><span class="chinese">为世界著名干果及木本油料树种，我国新疆是世界上32个巴旦杏产地之一。</span><span class="english">There are 32 countries producing this kind of nut fruits in the world.</span></p>

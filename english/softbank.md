@@ -1,5 +1,7 @@
 # softbank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/softbank.md)
+
 <p><span class="chinese">我几乎都想以暗讽之名起诉软银了。</span><span class="english">I almost feel like suing Softbank for the insinuation.</span></p>
 
 <p><span class="chinese">他于1981年创立软银，作为软件和媒体的发行商。</span><span class="english">He started Softbank in 1981 as a publisher of software and media.</span></p>

@@ -1,5 +1,7 @@
 # 遭遇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoyu.md)
+
 <p><span class="chinese">她遭遇了一场车祸。</span><span class="english">She had a car accident.</span></p>
 
 <p><span class="chinese">我十分同情埃里克斯的遭遇。</span><span class="english">I felt compassion for Alex.</span></p>

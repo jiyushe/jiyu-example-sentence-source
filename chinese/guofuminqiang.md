@@ -1,5 +1,7 @@
 # 国富民强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guofuminqiang.md)
+
 <p><span class="chinese">国富民强是中国人民的共同愿望。</span><span class="english">When a country is wealthy and its people are powerful.</span></p>
 
 <p><span class="chinese">今天，我们终于国富民强，再也没有人敢欺负我们了。</span><span class="english">Today we finally establishment no one dare to bully us.</span></p>

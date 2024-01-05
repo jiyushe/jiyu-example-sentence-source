@@ -1,5 +1,7 @@
 # plenum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plenum.md)
+
 <p><span class="chinese">安装左充压板管分隔板。</span><span class="english">Fit left plenum panel partition.</span></p>
 
 <p><span class="chinese">安装右侧通风板罩板。</span><span class="english">Install right plenum panel cover.</span></p>

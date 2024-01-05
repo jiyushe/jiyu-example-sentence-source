@@ -1,5 +1,7 @@
 # intermediate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermediate.md)
+
 <p><span class="chinese">中间轴及轴承。</span><span class="english">Intermediate shaft and bearing.</span></p>
 
 <p><span class="chinese">而且，它们有着中等的原子序数。</span><span class="english">And, they have intermediate values.</span></p>

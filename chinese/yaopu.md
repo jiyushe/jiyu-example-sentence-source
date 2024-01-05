@@ -1,5 +1,7 @@
 # 药铺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaopu.md)
+
 <p><span class="chinese">拐角处有一家药铺。</span><span class="english">There is a drugstore around the corner.</span></p>
 
 <p><span class="chinese">穆爱民家在沙河市经营一家药铺。</span><span class="english">Buyer Mu Aimin's family runs a pharmacy in the city of Shahe.</span></p>

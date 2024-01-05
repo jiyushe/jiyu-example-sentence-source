@@ -1,5 +1,7 @@
 # database 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/database.md)
+
 <p><span class="chinese">还原数据库。</span><span class="english">Restore the database.</span></p>
 
 <p><span class="chinese">它是一个内存数据库。</span><span class="english">It is an in-memory database.</span></p>

@@ -1,5 +1,7 @@
 # 梯次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tici_1.md)
+
 <p><span class="chinese">我休第一梯次，你休第二梯次。</span><span class="english">I will take a break first, and you do second.</span></p>
 
 <p><span class="chinese">八月的数个早上，另一梯次的活动是粘土立体故事书制作。</span><span class="english">Another group made a cute set of clay story books, during our morning classes.</span></p>

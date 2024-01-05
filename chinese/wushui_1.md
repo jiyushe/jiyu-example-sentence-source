@@ -1,5 +1,7 @@
 # 污水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushui_1.md)
+
 <p><span class="chinese">下水道的污水排入海里。</span><span class="english">The sewers discharge out at sea.</span></p>
 
 <p><span class="chinese">先将污水泵入污水柜。</span><span class="english">Pump bilge water into bilge tank.</span></p>

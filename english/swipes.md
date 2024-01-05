@@ -1,5 +1,7 @@
 # swipes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swipes.md)
+
 <p><span class="chinese">美国领导人开始抨击中国。</span><span class="english">U.S. leaders took swipes at China on Thursday.</span></p>
 
 <p><span class="chinese">如果一位少年偷钱包，我们就称为犯罪。</span><span class="english">If a teenager swipes a wallet, we call it a crime.</span></p>

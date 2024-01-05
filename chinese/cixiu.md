@@ -1,5 +1,7 @@
 # 刺绣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cixiu.md)
+
 <p><span class="chinese">我对刺绣产生了兴趣。</span><span class="english">I'm into the embroidery.</span></p>
 
 <p><span class="chinese">她给她的床单刺绣上了花边。</span><span class="english">She needlepointed her sheet.</span></p>

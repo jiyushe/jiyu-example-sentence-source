@@ -1,5 +1,7 @@
 # 内讧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neihong.md)
+
 <p><span class="chinese">内讧的议员斥责他的提案不顾后果。</span><span class="english">The rebel lawmakers denounced his proposal as reckless.</span></p>
 
 <p><span class="chinese">此次疫情是政府监管不力和内讧的结果。</span><span class="english">It was the result of regulatory inaction and infighting.</span></p>

@@ -1,5 +1,7 @@
 # 文明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenming.md)
+
 <p><span class="chinese">位于文明路。</span><span class="english">Nestled in Wen-ming Road.</span></p>
 
 <p><span class="chinese">蒙古会是次要文明吗?。</span><span class="english">Will Mongols be a Minor civ?</span></p>

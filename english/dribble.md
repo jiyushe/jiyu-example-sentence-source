@@ -1,5 +1,7 @@
 # dribble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dribble.md)
+
 <p><span class="chinese">你慢慢地从中滴出来。</span><span class="english">And you slowly dribble out of that.</span></p>
 
 <p><span class="chinese">他简直是用这运球调戏利文斯顿一样。</span><span class="english">He basically was just teasing Livingston with that dribble.</span></p>

@@ -1,5 +1,7 @@
 # 心领神会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinlingshenhui.md)
+
 <p><span class="chinese">心领神会。</span><span class="english">Empathize.</span></p>
 
 <p><span class="chinese">山姆心领神会，举起酒杯。</span><span class="english">Sam understands tacitly. He hoists his cup saying.</span></p>

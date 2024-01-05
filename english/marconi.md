@@ -1,5 +1,7 @@
 # marconi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marconi.md)
+
 <p><span class="chinese">早晨好，我是马克尼机长。</span><span class="english">Good morning. This is Captain Marconi speaking.</span></p>
 
 <p><span class="chinese">影片最精彩的地方就是蛮尼救爱丽。</span><span class="english">Video is the best place to save Aili very Marconi.</span></p>

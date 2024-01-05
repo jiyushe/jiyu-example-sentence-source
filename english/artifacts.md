@@ -1,5 +1,7 @@
 # artifacts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artifacts.md)
+
 <p><span class="chinese">管理您的资产和工件。</span><span class="english">Manage your assets and artifacts.</span></p>
 
 <p><span class="chinese">他说他决不会出售任何一件艺术品。</span><span class="english">He says he has never sold any artifacts.</span></p>

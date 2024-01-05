@@ -1,5 +1,7 @@
 # veiled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veiled.md)
+
 <p><span class="chinese">这是一封遮遮掩掩的化缘信吗？</span><span class="english">Was this a veiled begging letter?</span></p>
 
 <p><span class="chinese">蒙着面纱的神秘的毁灭命运在诱惑你。</span><span class="english">The veiled face of dark doom lures you.</span></p>

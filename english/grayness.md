@@ -1,5 +1,7 @@
 # grayness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grayness.md)
+
 <p><span class="chinese">从外表看它的迟钝的灰色调，更接近前苏而非瑞士。</span><span class="english">From the outside, its stolid grayness is more Soviet than Swiss.</span></p>
 
 <p><span class="chinese">它代表着一种,生活的灰暗，单调。</span><span class="english">It means something like a kind of dulled grayness or ordinariness of life.</span></p>

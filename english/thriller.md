@@ -1,5 +1,7 @@
 # thriller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thriller.md)
+
 <p><span class="chinese">我们把电视转到五频道吧。那儿在放映一部侦探惊险片。</span><span class="english">Let's switch to 5. There's a crime thriller.</span></p>
 
 <p><span class="chinese">我们蹬新系列精现菏事于今晚7时30钢开始播傣。</span><span class="english">Our serial thriller begins at 7.30 this evening.</span></p>

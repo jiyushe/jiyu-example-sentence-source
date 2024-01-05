@@ -1,5 +1,7 @@
 # natty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/natty.md)
+
 <p><span class="chinese">你看起来非常聪明。</span><span class="english">You see very natty.</span></p>
 
 <p><span class="chinese">这位穿着一向讲究的前总统，此次也没有让自己的品味降低。</span><span class="english">Always a natty dresser, his standards in court never slip.</span></p>

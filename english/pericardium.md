@@ -1,5 +1,7 @@
 # pericardium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pericardium.md)
+
 <p><span class="chinese">可能在腹膜或心包内发生出血。</span><span class="english">Bleeding may occur in the peritoneum or pericardium.</span></p>
 
 <p><span class="chinese">拔除脚骨后、心包引沈管。</span><span class="english">After wiping out foot bone, the pericardium direct the Shen tube.</span></p>

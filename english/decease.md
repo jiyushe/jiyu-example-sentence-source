@@ -1,5 +1,7 @@
 # decease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decease.md)
+
 <p><span class="chinese">那个国家的死亡率很高。</span><span class="english">The decease rate in that country is very high.</span></p>
 
 <p><span class="chinese">他死后房屋归他太太所有。</span><span class="english">Upon his decease the house will pass to his wife.</span></p>

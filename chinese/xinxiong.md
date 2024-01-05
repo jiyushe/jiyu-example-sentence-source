@@ -1,5 +1,7 @@
 # 心胸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxiong.md)
+
 <p><span class="chinese">他是心胸宽阔的人。</span><span class="english">He is broad-minded.</span></p>
 
 <p><span class="chinese">心胸开朗，使人寿长。</span><span class="english">A light heart lives long.</span></p>

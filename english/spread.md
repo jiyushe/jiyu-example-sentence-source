@@ -1,5 +1,7 @@
 # spread 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spread.md)
+
 <p><span class="chinese">它是怎样扩散的?</span><span class="english">How is it spread?</span></p>
 
 <p><span class="chinese">传扬真理。</span><span class="english">Spread the truth.</span></p>

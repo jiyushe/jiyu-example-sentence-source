@@ -1,5 +1,7 @@
 # kerosene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kerosene.md)
+
 <p><span class="chinese">煤油灯被吹熄了。</span><span class="english">The kerosene lamp blew out.</span></p>
 
 <p><span class="chinese">煤油被用来点灯。</span><span class="english">Kerosene was used to light lamps.</span></p>

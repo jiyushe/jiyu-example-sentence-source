@@ -1,5 +1,7 @@
 # homemaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homemaking.md)
+
 <p><span class="chinese">我应该说她没有持家的天性。</span><span class="english">I shouldn’t say she had the homemaking instinct.</span></p>
 
 <p><span class="chinese">直接去家政公司咨询！</span><span class="english">Go to homemaking company seeking advice directly!</span></p>

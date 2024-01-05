@@ -1,5 +1,7 @@
 # 否定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fouding.md)
+
 <p><span class="chinese">问的非常好,答案是否定的</span><span class="english">Good question. It isn't.</span></p>
 
 <p><span class="chinese">结论是否定的。</span><span class="english">The answer is negatived.</span></p>

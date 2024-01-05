@@ -1,5 +1,7 @@
 # bipartite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bipartite.md)
+
 <p><span class="chinese">偶图是图论中的一种特殊模型。</span><span class="english">Bipartite graph is a special model in the Graph Theory.</span></p>
 
 <p><span class="chinese">先天性舟状骨裂是很罕见的病例。</span><span class="english">Congenital bipartite scaphoid is a very rare condition.</span></p>

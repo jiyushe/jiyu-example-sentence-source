@@ -1,5 +1,7 @@
 # chip 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chip.md)
+
 <p><span class="chinese">她亲吻钢牙奇奇。</span><span class="english">She kisses Chip.</span></p>
 
 <p><span class="chinese">我能插句话吗?。</span><span class="english">May I chip in a word?</span></p>

@@ -1,5 +1,7 @@
 # 物尽其用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujinqiyong.md)
+
 <p><span class="chinese">物尽其用，而非浪费。请勿打印。</span><span class="english">Make sense, not waste. Don't hit print.</span></p>
 
 <p><span class="chinese">但你有没有做到物尽其用呢？</span><span class="english">But are you using it to your best advantage?</span></p>

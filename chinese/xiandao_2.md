@@ -1,5 +1,7 @@
 # 籼稻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandao_2.md)
+
 <p><span class="chinese">这是迄今第一个由籼稻原生质体再生植株的报道。</span><span class="english">This is the first report of plant regeneration from the protoplast culture of an indica rice.</span></p>
 
 <p><span class="chinese">相对距离测定表明其性状总体处在野生稻和籼稻的过渡阶段。</span><span class="english">Distance coefficient showed that the rice was in the transition stage from wild to indica rice.</span></p>

@@ -1,5 +1,7 @@
 # rdc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rdc.md)
+
 <p><span class="chinese">对反正切法和锁相环法这两种传统的数字RDC算法进行了研究。</span><span class="english">A study of Arctan and PLL digital RDC algorithm is carried on.</span></p>
 
 <p><span class="chinese">我需要做什么图书馆为远程连接到RDC服务器控制台应用程序的参考？</span><span class="english">What library do I need to reference for remote connection to RDC server from console app?</span></p>

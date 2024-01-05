@@ -1,5 +1,7 @@
 # ptfe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ptfe.md)
+
 <p><span class="chinese">PVC结构，配置聚四氟乙烯阀座和FPM密封。</span><span class="english">PVC construction with PTFE seat and FPM seals.</span></p>
 
 <p><span class="chinese">具有纯PTFE优异的耐腐蚀性。</span><span class="english">Owns the top causticity-resistance of pure PTFE.</span></p>

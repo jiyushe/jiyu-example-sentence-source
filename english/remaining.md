@@ -1,5 +1,7 @@
 # remaining 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remaining.md)
+
 <p><span class="chinese">剩余的人幸免于难。</span><span class="english">The remaining people survived.</span></p>
 
 <p><span class="chinese">然后继续剩下的两步。</span><span class="english">Then do the remaining two steps.</span></p>

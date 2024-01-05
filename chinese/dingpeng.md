@@ -1,5 +1,7 @@
 # 顶棚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingpeng.md)
+
 <p><span class="chinese">这块石头把汽车的顶棚砸出一个坑！</span><span class="english">The rock made a dent in the roof of the car.</span></p>
 
 <p><span class="chinese">烟筒应该安装在机舱顶棚上。</span><span class="english">Funnel shall be installed above the engine casing.</span></p>

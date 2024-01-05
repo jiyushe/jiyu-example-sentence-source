@@ -1,5 +1,7 @@
 # keyes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keyes.md)
+
 <p><span class="chinese">他轻而易举地击败保守党党魁阿兰、凯耶斯当选。</span><span class="english">He won the election easily over arch-conservative Alan Keyes.</span></p>
 
 <p><span class="chinese">凯斯博士将在洛斯博士介绍的基础上继续深入探讨。</span><span class="english">Dr. Keyes will follow up on the introduction to the topic by Dr.</span></p>

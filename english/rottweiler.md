@@ -1,5 +1,7 @@
 # rottweiler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rottweiler.md)
+
 <p><span class="chinese">你想拥有一只罗威吗？</span><span class="english">So you want to own a Rottweiler?</span></p>
 
 <p><span class="chinese">吉娃娃怎么可能会要了罗特韦尔的命？</span><span class="english">How could a Chihuahua kill a Rottweiler?</span></p>

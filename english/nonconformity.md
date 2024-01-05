@@ -1,5 +1,7 @@
 # nonconformity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonconformity.md)
+
 <p><span class="chinese">不合格统计和分析。</span><span class="english">Make statistic and analysis nonconformity.</span></p>
 
 <p><span class="chinese">不合格确认，统计和分析。</span><span class="english">Verify, make statistic and analysis nonconformity.</span></p>

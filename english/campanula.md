@@ -1,5 +1,7 @@
 # campanula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/campanula.md)
+
 <p><span class="chinese">卧室不可悬挂太多风铃，以免神经衰弱。</span><span class="english">Campanula bedroom can not fly too much, so as not to neurasthenia.</span></p>
 
 <p><span class="chinese">楼角各系有风铃，迎风摆动，其声清脆悦耳。</span><span class="english">Lau Kok's departments have Campanula , the wind swinging, clear sound beautiful.</span></p>

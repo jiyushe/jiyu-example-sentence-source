@@ -1,5 +1,7 @@
 # 飞轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feilun.md)
+
 <p><span class="chinese">玩具车有个飞轮。</span><span class="english">And this toy car has a flywheel.</span></p>
 
 <p><span class="chinese">下面的图片显示了飞轮。</span><span class="english">The picture below shows the flywheel.</span></p>

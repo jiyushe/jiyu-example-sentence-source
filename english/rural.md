@@ -1,5 +1,7 @@
 # rural 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rural.md)
+
 <p><span class="chinese">印尼农村的一个村庄。</span><span class="english">A village in rural Indonesia.</span></p>
 
 <p><span class="chinese">我们目前过着乡村隐居生活。</span><span class="english">We are now in rural seclusion.</span></p>

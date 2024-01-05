@@ -1,5 +1,7 @@
 # shout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shout.md)
+
 <p><span class="chinese">大声说出来</span><span class="english">Shout it out.</span></p>
 
 <p><span class="chinese">请大点声说</span><span class="english">Shout out again.</span></p>

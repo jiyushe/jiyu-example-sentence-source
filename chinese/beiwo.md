@@ -1,5 +1,7 @@
 # 被窝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiwo.md)
+
 <p><span class="chinese">现在快离开你的被窝，懒虫！</span><span class="english">Now get out of bed lazy pants.</span></p>
 
 <p><span class="chinese">你需要一个温暖的被窝和一瓶热水。</span><span class="english">You need a warm bed and a bottle of hot water.</span></p>

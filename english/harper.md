@@ -1,5 +1,7 @@
 # harper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harper.md)
+
 <p><span class="chinese">心口不一啊，汝的名字是哈珀。</span><span class="english">Truthiness thy name is Harper.</span></p>
 
 <p><span class="chinese">有一天我看到小七在画画。</span><span class="english">I was watching Harper draw one day.</span></p>

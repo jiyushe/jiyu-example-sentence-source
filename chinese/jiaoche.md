@@ -1,5 +1,7 @@
 # 绞车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoche.md)
+
 <p><span class="chinese">调整绞车刹把。</span><span class="english">Adjust the brake band.</span></p>
 
 <p><span class="chinese">操作气动绞车。</span><span class="english">Operate the air winch.</span></p>

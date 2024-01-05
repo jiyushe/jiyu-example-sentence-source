@@ -1,5 +1,7 @@
 # tetracaine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetracaine.md)
+
 <p><span class="chinese">选择丁卡因作为内标准品。</span><span class="english">Tetracaine was used as a internal standard.</span></p>
 
 <p><span class="chinese">目的比较盐酸丁卡因溶液三种含量测定方法。</span><span class="english">To compare three methods of determination of tetracaine hydrochloride solution.</span></p>

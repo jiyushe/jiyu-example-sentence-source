@@ -1,5 +1,7 @@
 # bbl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bbl.md)
+
 <p><span class="chinese">程序启动街区。</span><span class="english">BBL Program boot block.</span></p>
 
 <p><span class="chinese">本文对BBL结群及其在布局中的应用进行了研究。</span><span class="english">In this paper, the clustering of BBL is researched.</span></p>

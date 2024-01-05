@@ -1,5 +1,7 @@
 # whiting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiting.md)
+
 <p><span class="chinese">凯西‧曼宁斯和艾凡‧怀汀正在讨论毕业计画。</span><span class="english">Kathy Mannings and Evan Whiting are discussing graduation plans.</span></p>
 
 <p><span class="chinese">嗯，谢了！而你怀汀先生也是一个很好的游伴。</span><span class="english">Well, thank you! And you, Mr. Whiting , are a good partner, too.</span></p>

@@ -1,5 +1,7 @@
 # performer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/performer.md)
+
 <p><span class="chinese">所有的眼光都落在演出者身上。</span><span class="english">All eyes were on the performer.</span></p>
 
 <p><span class="chinese">胡跃是最安静的演出者。</span><span class="english">Huyue is the quietest performer.</span></p>

@@ -1,5 +1,7 @@
 # 瘦弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouruo.md)
+
 <p><span class="chinese">所有人都表情呆滞，瘦弱不堪。</span><span class="english">All look dull, thin state.</span></p>
 
 <p><span class="chinese">一个瘦弱的小老头儿。</span><span class="english">A weak small spare old man.</span></p>

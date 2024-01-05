@@ -1,5 +1,7 @@
 # plumule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plumule.md)
+
 <p><span class="chinese">怀孕刚好40天可以看见胚芽吗?。</span><span class="english">Be pregnant just can 40 days see plumule ?</span></p>
 
 <p><span class="chinese">低浓度盐分促进了幼芽和幼根的生长。</span><span class="english">The lower concentrations stimulated the growth of plumule and radicle.</span></p>

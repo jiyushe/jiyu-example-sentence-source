@@ -1,5 +1,7 @@
 # orson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orson.md)
+
 <p><span class="chinese">红脸奥森·斯通同麻杆儿路西弗·郎恩都称自己是骑士。</span><span class="english">Red-faced Orson Stone claimed to be a knight as did lanky Lucifer Long.</span></p>
 
 <p><span class="chinese">马奇亚维利的武装先知,不只是一位歹徒，一如，Orson，Welles，之属。</span><span class="english">Machiavelli's armed prophet is more than just a gangster, like Orson Welles in that part.</span></p>

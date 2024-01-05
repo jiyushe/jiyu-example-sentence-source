@@ -1,5 +1,7 @@
 # godfrey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godfrey.md)
+
 <p><span class="chinese">艾瑞斯告诉哥德费雷，她的老鼠跑了。</span><span class="english">Iris told Godfrey her mouse had run away.</span></p>
 
 <p><span class="chinese">每天早上，哥德费雷都会吃一个煮鸡蛋。</span><span class="english">Every morning godfrey had a boiled egg for breakfast.</span></p>

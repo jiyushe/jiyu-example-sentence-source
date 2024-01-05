@@ -1,5 +1,7 @@
 # 万不得已
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanbudeyi.md)
+
 <p><span class="chinese">但这些都是万不得已的解决方案。</span><span class="english">But those are solutions of last resort.</span></p>
 
 <p><span class="chinese">除非万不得已，否则我一点也不想到外面去。</span><span class="english">But I didn't like to go out unless I had to.</span></p>

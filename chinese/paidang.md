@@ -1,5 +1,7 @@
 # 排挡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paidang.md)
+
 <p><span class="chinese">手排挡或自动排挡？</span><span class="english">Manual or automatic?</span></p>
 
 <p><span class="chinese">让汽车排挡置于空挡位置。</span><span class="english">Leave a car in neutral gear.</span></p>

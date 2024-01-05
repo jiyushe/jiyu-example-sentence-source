@@ -1,5 +1,7 @@
 # shortfall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortfall.md)
+
 <p><span class="chinese">比现在的差额多一倍多。</span><span class="english">That is more than double the current shortfall.</span></p>
 
 <p><span class="chinese">十二五规划必须要立即应对这一问题。</span><span class="english">China's new Plan must rectify this shortfall immediately.</span></p>

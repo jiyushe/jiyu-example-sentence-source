@@ -1,5 +1,7 @@
 # creek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creek.md)
+
 <p><span class="chinese">今天我们到小溪边去散步。</span><span class="english">Today we went to a creek.</span></p>
 
 <p><span class="chinese">浓得化不开的是深溪山影。</span><span class="english">Thick the Deep Creek mountain.</span></p>

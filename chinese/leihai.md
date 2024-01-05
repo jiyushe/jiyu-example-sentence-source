@@ -1,5 +1,7 @@
 # 雷害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leihai.md)
+
 <p><span class="chinese">对弱电设备雷害进行了分析，重点探讨了雷电浪涌对弱电设备的危害及防雷措施。</span><span class="english">The focus is on the thunderbolt surges harm to weak current equipment and preventing measures.</span></p>
 
 <p><span class="chinese">该方法确定的避雷针保护范围明确，无绕击雷害。</span><span class="english">The method correctly determines the protective range of the arresters without circle lightning harm.</span></p>

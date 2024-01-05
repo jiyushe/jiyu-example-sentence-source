@@ -1,5 +1,7 @@
 # 土产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuchan.md)
+
 <p><span class="chinese">玉是著名的中国土产。</span><span class="english">Jade is a famous native product of china.</span></p>
 
 <p><span class="chinese">水产土产，粮油食品。</span><span class="english">Native Produce, Cereals, Oils & Foodstuffs.</span></p>

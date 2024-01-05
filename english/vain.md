@@ -1,5 +1,7 @@
 # vain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vain.md)
+
 <p><span class="chinese">我们徒劳地等待着。</span><span class="english">We waited in vain.</span></p>
 
 <p><span class="chinese">他没有白白地死去。</span><span class="english">He didn"t die in vain."</span></p>

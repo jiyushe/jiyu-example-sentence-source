@@ -1,5 +1,7 @@
 # cased
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cased.md)
+
 <p><span class="chinese">我可以兑现这张汇款单吗？</span><span class="english">Can I have this money order cased ?</span></p>
 
 <p><span class="chinese">那些盗贼在抢劫前窥探了威尔逊的住宅。</span><span class="english">The thieves cased Wilson's house before the robbery.</span></p>

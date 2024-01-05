@@ -1,5 +1,7 @@
 # yield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yield.md)
+
 <p><span class="chinese">产率是多少？</span><span class="english">What is the yield?</span></p>
 
 <p><span class="chinese">老蜂不酿蜜。</span><span class="english">Old bees yield no honey.</span></p>

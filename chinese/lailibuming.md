@@ -1,5 +1,7 @@
 # 来历不明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lailibuming.md)
+
 <p><span class="chinese">这辆卡车来历不明。</span><span class="english">The truck is of unknown origin.</span></p>
 
 <p><span class="chinese">这辆卡车来历不明。</span><span class="english">This truck is of unknown origin.</span></p>

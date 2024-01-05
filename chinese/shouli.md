@@ -1,5 +1,7 @@
 # 受理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouli.md)
+
 <p><span class="chinese">我想餐厅一定会受理信用卡的。</span><span class="english">I think the restaurant accepts credit cards.</span></p>
 
 <p><span class="chinese">我们这里恐怕不能受理易腐烂的物品。</span><span class="english">I'm afraid we can't accept perishable goods.</span></p>

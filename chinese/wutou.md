@@ -1,5 +1,7 @@
 # 乌头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wutou.md)
+
 <p><span class="chinese">哈哈，还有一对乌头放到鸟笼里。</span><span class="english">Haha, there are a pair of aconitine into the cage.</span></p>
 
 <p><span class="chinese">白喉乌头为毛茛科多年生有毒植物。</span><span class="english">Aconitum ceucostomum is the perennial poisonous plant.</span></p>

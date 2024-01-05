@@ -1,5 +1,7 @@
 # undoubted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undoubted.md)
+
 <p><span class="chinese">他的诚意是无容置疑的。</span><span class="english">His sincerity is undoubted.</span></p>
 
 <p><span class="chinese">沙比尔先生无疑是一位很有本领的外科医生。</span><span class="english">Mr. Sapir is a surgeon of undoubted ability.</span></p>

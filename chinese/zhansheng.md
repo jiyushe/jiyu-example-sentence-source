@@ -1,5 +1,7 @@
 # 战胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhansheng.md)
+
 <p><span class="chinese">你们无法战胜我们。</span><span class="english">You cannot defeat us.</span></p>
 
 <p><span class="chinese">有没有人能够战胜自然呢？</span><span class="english">Can any man outwit nature?</span></p>

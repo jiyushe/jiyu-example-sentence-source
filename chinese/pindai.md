@@ -1,5 +1,7 @@
 # 频带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pindai.md)
+
 <p><span class="chinese">他们借来的万卷这些频带。</span><span class="english">They had borrowed rolls of these bands.</span></p>
 
 <p><span class="chinese">频带宽度减少了三分之二。</span><span class="english">The bandwidth was reduced by two-thirds.</span></p>

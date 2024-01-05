@@ -1,5 +1,7 @@
 # fivefold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fivefold.md)
+
 <p><span class="chinese">据预测，到2100年，极热天气的数量将增加五倍。</span><span class="english">The number of very hot days is forecast to increase fivefold by 2100.</span></p>
 
 <p><span class="chinese">美墨边境线上有超过17000名边境巡逻员，比1993年增长了五倍之多。</span><span class="english">There are over 17,000 Border Patrol agents on the border with Mexico, a fivefold increase over 1993.</span></p>

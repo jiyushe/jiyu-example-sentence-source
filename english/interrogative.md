@@ -1,5 +1,7 @@
 # interrogative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interrogative.md)
+
 <p><span class="chinese">什么是疑问功能？</span><span class="english">What is the interrogative function?</span></p>
 
 <p><span class="chinese">对此，她感到很迷惑。</span><span class="english">To this, she feels very interrogative.</span></p>

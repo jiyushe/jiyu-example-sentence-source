@@ -1,5 +1,7 @@
 # 从善如流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congshanruliu.md)
+
 <p><span class="chinese">不要攻击批评者，要从善如流。</span><span class="english">Don't attack the messenger.</span></p>
 
 <p><span class="chinese">你应该从善如流把烟戒掉。</span><span class="english">You ought to play it smart and stop smoking.</span></p>

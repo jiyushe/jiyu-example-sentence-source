@@ -1,5 +1,7 @@
 # frey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frey.md)
+
 <p><span class="chinese">乐队成员唐·亨利说弗雷就像是他的兄弟。</span><span class="english">Bandmate Don Henley says Frey was like a brother to him.</span></p>
 
 <p><span class="chinese">1858年弗雷赛河淘金热后迅速发展。</span><span class="english">In 1858 Frey after the river gold rush rapid development.</span></p>

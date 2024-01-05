@@ -1,5 +1,7 @@
 # humectant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humectant.md)
+
 <p><span class="chinese">聚葡萄糖可以在这些配方中担当一种保湿剂。</span><span class="english">Polydextrose can act as a humectant in these kind of recipes.</span></p>
 
 <p><span class="chinese">黄糖是一种天然的保湿剂，它可以保证长时间的滋润和保湿。</span><span class="english">Sugar is a natural humectant that ensures long-lasting moisture.</span></p>

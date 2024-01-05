@@ -1,5 +1,7 @@
 # humaneness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humaneness.md)
+
 <p><span class="chinese">充满了快乐和慈悲。</span><span class="english">Full of joy and humaneness.</span></p>
 
 <p><span class="chinese">他们的行为显示了最崇高的人道。</span><span class="english">What they did showed the greatest humaneness.</span></p>

@@ -1,5 +1,7 @@
 # 走失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoushi.md)
+
 <p><span class="chinese">我总是在迷宫中走失。</span><span class="english">I always get lost in mazes.</span></p>
 
 <p><span class="chinese">他看上去就像走失的孩子。</span><span class="english">He looked like a lost child.</span></p>

@@ -1,5 +1,7 @@
 # hoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoy.md)
+
 <p><span class="chinese">我的业余爱好是谈钢琴。</span><span class="english">My hoy is playing the piano?</span></p>
 
 <p><span class="chinese">我今天没带那么多钱。</span><span class="english">Hoy no llevo tanto dinero encima.</span></p>

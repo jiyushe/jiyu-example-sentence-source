@@ -1,5 +1,7 @@
 # directorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/directorate.md)
+
 <p><span class="chinese">重大项目的投资我需要向董事会汇报工作。</span><span class="english">I will report directorate the important item investment.</span></p>
 
 <p><span class="chinese">几年之后，他进了公司的董事会。</span><span class="english">Within a few years, he got in the directorate in the company.</span></p>

@@ -1,5 +1,7 @@
 # 遇险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxian_1.md)
+
 <p><span class="chinese">他在那次飞机失事中遇险身亡。</span><span class="english">He was killed in air accident.</span></p>
 
 <p><span class="chinese">飞机遇险呼救还是干扰信号?。</span><span class="english">Air distress signal or interfering signal?</span></p>

@@ -1,5 +1,7 @@
 # parliamentary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parliamentary.md)
+
 <p><span class="chinese">该党在议会选举中失去了15席。</span><span class="english">That party lost 15 seats in the parliamentary election.</span></p>
 
 <p><span class="chinese">国会是波黑的立法主体。</span><span class="english">The Parliamentary Assembly is the lawmaking body in BH.</span></p>

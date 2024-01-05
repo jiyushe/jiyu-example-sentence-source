@@ -1,5 +1,7 @@
 # 声势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshi.md)
+
 <p><span class="chinese">这次大选的声势将非常浩大。</span><span class="english">This election's going to be huge.</span></p>
 
 <p><span class="chinese">不惜花费，大造声势。</span><span class="english">No expense or reputation is spared.</span></p>

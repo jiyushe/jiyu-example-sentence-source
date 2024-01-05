@@ -1,5 +1,7 @@
 # 人情味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renqingwei.md)
+
 <p><span class="chinese">有人情味。</span><span class="english">Be human.</span></p>
 
 <p><span class="chinese">凯尔是一个极富人情味的人。</span><span class="english">Kehr is a very human person.</span></p>

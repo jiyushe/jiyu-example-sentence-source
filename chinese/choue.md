@@ -1,5 +1,7 @@
 # 丑恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choue.md)
+
 <p><span class="chinese">不说任何丑恶？</span><span class="english">Say no ugly?</span></p>
 
 <p><span class="chinese">不看任何丑恶？</span><span class="english">See no ugly?</span></p>

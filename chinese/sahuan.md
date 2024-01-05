@@ -1,5 +1,7 @@
 # 撒欢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sahuan.md)
+
 <p><span class="chinese">狗喜欢在泥水洼里扑腾，河马则喜欢在其中打滚撒欢儿。</span><span class="english">Dogs love splashing in mud and hippos wallow in it.</span></p>
 
 <p><span class="chinese">马在春光里踢着跳着撒欢。</span><span class="english">The horses are kicking up their heels in the spring air.</span></p>

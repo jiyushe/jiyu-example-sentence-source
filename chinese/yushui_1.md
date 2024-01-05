@@ -1,5 +1,7 @@
 # 鱼水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushui_1.md)
+
 <p><span class="chinese">而且对鱼水之欢的渴望是永恒的。</span><span class="english">And the desire for intimacy is timeless.</span></p>
 
 <p><span class="chinese">伙计们，我与传播莫须有的谣言之间的关系就跟鱼水关系一样。</span><span class="english">Fellows, spreading false rumours is to me what water is to a fish.</span></p>

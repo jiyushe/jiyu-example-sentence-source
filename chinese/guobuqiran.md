@@ -1,5 +1,7 @@
 # 果不其然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guobuqiran.md)
+
 <p><span class="chinese">果不其然下了雨。</span><span class="english">As expected, it rained.</span></p>
 
 <p><span class="chinese">果不其然，每个班都唱地挺不错！</span><span class="english">Sure enough, each class sings quite nice!</span></p>

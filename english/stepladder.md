@@ -1,5 +1,7 @@
 # stepladder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stepladder.md)
+
 <p><span class="chinese">受日本台阶启发的木梯子。</span><span class="english">Wood stepladder inspirated by japanese steps.</span></p>
 
 <p><span class="chinese">去找一个梯子或登高工具。</span><span class="english">Take the time to get a stepladder or stepstool.</span></p>

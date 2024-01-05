@@ -1,5 +1,7 @@
 # substitutional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substitutional.md)
+
 <p><span class="chinese">本病病因不明，以雌激素替代治疗。</span><span class="english">Estrogen was given for substitutional therapy.</span></p>
 
 <p><span class="chinese">铜锌合金叫做替代式合金。</span><span class="english">Copper-zinc alloys are called substitutional alloys.</span></p>

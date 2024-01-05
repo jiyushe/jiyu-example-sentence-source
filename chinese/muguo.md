@@ -1,5 +1,7 @@
 # 母国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muguo.md)
+
 <p><span class="chinese">这些企业都由其母国消费者进行打分决定其排名。</span><span class="english">Companies are rated by consumers in their home countries.</span></p>
 
 <p><span class="chinese">中国佛教以印度佛教为母国，中国比丘尼制度也源于印度。</span><span class="english">China Buddhism and Bhkuni Sangha both originated from India.</span></p>

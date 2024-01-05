@@ -1,5 +1,7 @@
 # remunerative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remunerative.md)
+
 <p><span class="chinese">一个医生建议她去找有酬劳的工作。</span><span class="english">A doctor advised her to seek remunerative employment.</span></p>
 
 <p><span class="chinese">这是一个伟大的高额利润回报的市场，甚或价格高的离格。</span><span class="english">It's a vast and remunerative market even with high prices.</span></p>

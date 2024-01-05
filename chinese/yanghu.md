@@ -1,5 +1,7 @@
 # 养护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghu.md)
+
 <p><span class="chinese">启闭设备养护修理。</span><span class="english">Maintenance and repair of hoisting device.</span></p>
 
 <p><span class="chinese">这辆车每年的养护费用越来越多了。</span><span class="english">It costs more and more to run this car each year.</span></p>

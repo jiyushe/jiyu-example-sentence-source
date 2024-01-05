@@ -1,5 +1,7 @@
 # 庆贺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinghe.md)
+
 <p><span class="chinese">了解它、拥有它、庆贺它！</span><span class="english">Know it, own it, celebrate it!</span></p>
 
 <p><span class="chinese">拿到钱那天我好像还要了个匹萨来庆贺呢.</span><span class="english">I probably had a pizza to celebrate.</span></p>

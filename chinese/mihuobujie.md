@@ -1,5 +1,7 @@
 # 迷惑不解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mihuobujie.md)
+
 <p><span class="chinese">孩子们都像是迷惑不解。</span><span class="english">The children looked puzzled.</span></p>
 
 <p><span class="chinese">爱丽丝感到迷惑不解。</span><span class="english">Alice was thoroughly puzzled.</span></p>

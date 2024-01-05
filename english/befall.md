@@ -1,5 +1,7 @@
 # befall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/befall.md)
+
 <p><span class="chinese">愿甜蜜的快乐降临你身上！</span><span class="english">Sweet joy befall thee!</span></p>
 
 <p><span class="chinese">任何人任何时候都可能交噩运倒霉。</span><span class="english">Bad luck may befall to anyone at any time.</span></p>

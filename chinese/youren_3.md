@@ -1,5 +1,7 @@
 # 游刃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youren_3.md)
+
 <p><span class="chinese">你不但能够讲好英语，考起试来也会游刃自如！</span><span class="english">You will not only speak good English, but also become a fantastic ***-taker!</span></p>
 
 <p><span class="chinese">你不但能够讲好，考起试来也会游刃自如！</span><span class="english">You will not only speak good English, but also become a fantastic exam-taker!</span></p>

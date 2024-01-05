@@ -1,5 +1,7 @@
 # 称意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengyi.md)
+
 <p><span class="chinese">理想中赏心称意的一天是怎样的？</span><span class="english">Your idea of a perfect day?</span></p>
 
 <p><span class="chinese">这恼人的天气使我感到不称意。</span><span class="english">This miserable weather chesses me off.</span></p>

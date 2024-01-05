@@ -1,5 +1,7 @@
 # compassion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compassion.md)
+
 <p><span class="chinese">我的激情已经所剩无几。</span><span class="english">I had compassion burn-out.</span></p>
 
 <p><span class="chinese">我十分同情埃里克斯的遭遇。</span><span class="english">I felt compassion for Alex.</span></p>

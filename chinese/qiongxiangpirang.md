@@ -1,5 +1,7 @@
 # 穷乡僻壤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongxiangpirang.md)
+
 <p><span class="chinese">这就是为什么我要生活在穷乡僻壤。</span><span class="english">That's why I'm going to live in the boonies.</span></p>
 
 <p><span class="chinese">我是在中国的穷乡僻壤长大的。</span><span class="english">See I grew up in a poor neighborhood in China.</span></p>

@@ -1,5 +1,7 @@
 # brioche
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brioche.md)
+
 <p><span class="chinese">我要一杯咖啡和一份奶油面包卷。</span><span class="english">I'll have coffee and a brioche.</span></p>
 
 <p><span class="chinese">六岁的小孩手里拿着一块大蛋糕。</span><span class="english">The little man of six had a big brioche.</span></p>

@@ -1,5 +1,7 @@
 # centennial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centennial.md)
+
 <p><span class="chinese">进行一个百周年社区计划。</span><span class="english">Conduct a Centennial Community Project.</span></p>
 
 <p><span class="chinese">但他的别称是百庆州。</span><span class="english">But its nickname is the Centennial State.</span></p>

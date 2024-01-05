@@ -1,5 +1,7 @@
 # lovesick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lovesick.md)
+
 <p><span class="chinese">当我醒来，相思和困惑围绕在我心头。</span><span class="english">I woke up lovesick and confused.</span></p>
 
 <p><span class="chinese">我表现的像一个受爱情折磨的傻子。</span><span class="english">I'm acting like a lovesick fool.</span></p>

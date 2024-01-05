@@ -1,5 +1,7 @@
 # irritated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irritated.md)
+
 <p><span class="chinese">他的话让我有点儿恼火。</span><span class="english">His remarks irritated me a little.</span></p>
 
 <p><span class="chinese">旋转的鼓动者使他恼怒。</span><span class="english">The rotary agitator irritated him.</span></p>

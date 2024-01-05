@@ -1,5 +1,7 @@
 # 辨析
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianxi.md)
+
 <p><span class="chinese">一部常用同义词辨析词典。</span><span class="english">A very practical synonymy dictionary.</span></p>
 
 <p><span class="chinese">该法官对许多案件进行辨析。</span><span class="english">The judge distinguished between many cases.</span></p>

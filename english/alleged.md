@@ -1,5 +1,7 @@
 # alleged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alleged.md)
+
 <p><span class="chinese">他们列举了他的被指称的罪状。</span><span class="english">They articled his alleged crimes.</span></p>
 
 <p><span class="chinese">在答辩中，海伦提出一时的精神错乱为借口。</span><span class="english">In her defense Halen alleged temporary insanity.</span></p>

@@ -1,5 +1,7 @@
 # 孙子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sunzi.md)
+
 <p><span class="chinese">所有的孙女孙子辈都在那。</span><span class="english">All the grandkids.</span></p>
 
 <p><span class="chinese">我们都读孙子。</span><span class="english">We all read Sunzi.</span></p>

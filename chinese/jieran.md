@@ -1,5 +1,7 @@
 # 截然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieran.md)
+
 <p><span class="chinese">黑与白是截然相反的。</span><span class="english">Black and white are opposite.</span></p>
 
 <p><span class="chinese">虽然这两种是截然相反的衣服，</span><span class="english">So it's kind of the polar opposites,</span></p>

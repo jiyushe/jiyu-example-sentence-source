@@ -1,5 +1,7 @@
 # simile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simile.md)
+
 <p><span class="chinese">这样的比喻是什么含义？</span><span class="english">What does this simile mean?</span></p>
 
 <p><span class="chinese">这是伽利略的比喻。</span><span class="english">That was the Galileo simile.</span></p>

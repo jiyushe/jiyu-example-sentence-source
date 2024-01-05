@@ -1,5 +1,7 @@
 # firepower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firepower.md)
+
 <p><span class="chinese">超大2000W功率，超强火力。</span><span class="english">Large 2000W power, super firepower.</span></p>
 
 <p><span class="chinese">炮兵火力比步兵大。</span><span class="english">The artillery has more firepower than the infantry.</span></p>

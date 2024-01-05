@@ -1,5 +1,7 @@
 # barge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barge.md)
+
 <p><span class="chinese">很抱歉我们夺门而入。</span><span class="english">Sorry to barge in.</span></p>
 
 <p><span class="chinese">你没有权利瞎闯！</span><span class="english">You'd no right to barge in!</span></p>

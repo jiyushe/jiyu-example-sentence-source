@@ -1,5 +1,7 @@
 # 构造地震
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouzaodizhen.md)
+
 <p><span class="chinese">在时间上，“上涌”对构造地震的触发滞后于隆起过程。</span><span class="english">In time, triggered time behind the process of mantle uplift.</span></p>
 
 <p><span class="chinese">断层网络可视为一浅源构造地震的蕴震系统。</span><span class="english">Fault network can be seen as a seismogenic system of shallow source.</span></p>

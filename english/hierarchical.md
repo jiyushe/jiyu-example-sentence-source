@@ -1,5 +1,7 @@
 # hierarchical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hierarchical.md)
+
 <p><span class="chinese">你的处世哲学是等级型的。</span><span class="english">The model you have is hierarchical.</span></p>
 
 <p><span class="chinese">分等级控制器的改进。</span><span class="english">Improvement of hierarchical controllers.</span></p>

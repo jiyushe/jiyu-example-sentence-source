@@ -1,5 +1,7 @@
 # ocs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ocs.md)
+
 <p><span class="chinese">灿瑞半导体期待与合作伙伴一起开创美好的明天！</span><span class="english">So, OCS will have a good future with our partners.</span></p>
 
 <p><span class="chinese">你只能在支会公务费用时使用公司信用卡。</span><span class="english">You can use your corporate card for OCS expenses only.</span></p>

@@ -1,5 +1,7 @@
 # 汪汪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangwang_2.md)
+
 <p><span class="chinese">我对她咆哮，汪汪汪。</span><span class="english">I snarl at her and bark.</span></p>
 
 <p><span class="chinese">我是一只小狗，汪汪汪。</span><span class="english">I'm a dog, woof woof woof.</span></p>

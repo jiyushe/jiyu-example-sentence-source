@@ -1,5 +1,7 @@
 # 自用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyong.md)
+
 <p><span class="chinese">送友人或自用。</span><span class="english">For friends or for oneself.</span></p>
 
 <p><span class="chinese">他酿啤酒自用。</span><span class="english">He brewed beer for home use.</span></p>

@@ -1,5 +1,7 @@
 # rot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rot.md)
+
 <p><span class="chinese">他的尸体将腐烂。</span><span class="english">His body will rot.</span></p>
 
 <p><span class="chinese">是的，食物代表罪恶，腐败。</span><span class="english">Yes foods were meant to rot.</span></p>

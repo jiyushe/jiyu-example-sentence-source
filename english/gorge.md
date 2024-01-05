@@ -1,5 +1,7 @@
 # gorge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gorge.md)
+
 <p><span class="chinese">虎跳峡之二。</span><span class="english">The second Tiger Leaping Gorge.</span></p>
 
 <p><span class="chinese">索拉格特河峡谷。</span><span class="english">The gorge of the Dzoraget river.</span></p>

@@ -1,5 +1,7 @@
 # ps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ps.md)
+
 <p><span class="chinese">需要我们帮助你着手开始吗？</span><span class="english">PS. Need some help getting started?</span></p>
 
 <p><span class="chinese">苏格兰的冠军庆祝胜利！</span><span class="english">Scottish cham ps celebrate victory!</span></p>

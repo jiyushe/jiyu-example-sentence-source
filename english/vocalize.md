@@ -1,5 +1,7 @@
 # vocalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocalize.md)
+
 <p><span class="chinese">他力图说出他的感受。</span><span class="english">He tried to vocalize his feelings.</span></p>
 
 <p><span class="chinese">你的女婴早在会说话之前就要开始咿呀发声了。</span><span class="english">Your baby will begin to vocalize long before she can talk.</span></p>

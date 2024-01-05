@@ -1,5 +1,7 @@
 # spank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spank.md)
+
 <p><span class="chinese">别总是给他一巴掌。</span><span class="english">Choose not to spank.</span></p>
 
 <p><span class="chinese">把你的屁股翘起来我才能打你屁股。</span><span class="english">Raise your butt so I can spank it.</span></p>

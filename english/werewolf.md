@@ -1,5 +1,7 @@
 # werewolf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/werewolf.md)
+
 <p><span class="chinese">难道她是个小狼精吗？</span><span class="english">Is it a werewolf child?</span></p>
 
 <p><span class="chinese">我正在和狼人约会，我是在怪物网上认识他的。</span><span class="english">I am dating a werewolf . I met him on Monster . com!</span></p>

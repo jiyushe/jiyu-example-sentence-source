@@ -1,5 +1,7 @@
 # 暂缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanhuan.md)
+
 <p><span class="chinese">不过还是有些东西我们目前是暂缓执行的。</span><span class="english">There are still some things that we’re holding back.</span></p>
 
 <p><span class="chinese">北京暂缓了所有海外电影的上映档期。</span><span class="english">Beijing has imposed a moratorium on new foreign films.</span></p>

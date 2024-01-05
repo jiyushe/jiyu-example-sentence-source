@@ -1,5 +1,7 @@
 # 笤帚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaozhou.md)
+
 <p><span class="chinese">我已经忘记笤帚了。</span><span class="english">I had forgotten about the whisks.</span></p>
 
 <p><span class="chinese">请到我的房间给我取一把笤帚来。</span><span class="english">Please fetch me a broom to my room.</span></p>

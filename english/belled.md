@@ -1,5 +1,7 @@
 # belled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belled.md)
+
 <p><span class="chinese">狗身上系着铃。</span><span class="english">The dog was belled.</span></p>
 
 <p><span class="chinese">我们给“羊”系上铃。</span><span class="english">We belled the sheep.</span></p>

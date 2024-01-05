@@ -1,5 +1,7 @@
 # forceps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forceps.md)
+
 <p><span class="chinese">把下颌磨牙钳子拿来。</span><span class="english">Give me the lower molar forceps.</span></p>
 
 <p><span class="chinese">不锈钢爱迪生镊等。</span><span class="english">Stainless steel Edison forceps etc.</span></p>

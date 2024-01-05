@@ -1,5 +1,7 @@
 # readily 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/readily.md)
+
 <p><span class="chinese">刘琨欣然同意。</span><span class="english">Liu Kun agreed readily.</span></p>
 
 <p><span class="chinese">她欣然同意我的意见。</span><span class="english">She agreed with me readily.</span></p>

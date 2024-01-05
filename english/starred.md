@@ -1,5 +1,7 @@
 # starred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starred.md)
+
 <p><span class="chinese">他在他的船体上用星星作装饰。</span><span class="english">He starred his boat.</span></p>
 
 <p><span class="chinese">他在这部影片中担任男主角。</span><span class="english">He was starred in this film.</span></p>

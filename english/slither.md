@@ -1,5 +1,7 @@
 # slither
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slither.md)
+
 <p><span class="chinese">地板上的雪开始滑跑了。</span><span class="english">The snow on the ground began to slither away.</span></p>
 
 <p><span class="chinese">蛇爸爸和蛇儿子滑动出去过一个美好的下午。</span><span class="english">Afather and son snakeare out fora nice afternoon slither.</span></p>

@@ -1,5 +1,7 @@
 # 只是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishi.md)
+
 <p><span class="chinese">我——只是声轻喊。</span><span class="english">I-but a cry!</span></p>
 
 <p><span class="chinese">我只是开始。</span><span class="english">I just began.</span></p>

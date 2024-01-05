@@ -1,5 +1,7 @@
 # hera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hera.md)
+
 <p><span class="chinese">或许赫拉终究还是太超前于她的时代了。</span><span class="english">Maybe Hera was ahead of her time after all.</span></p>
 
 <p><span class="chinese">但是希拉想要为阿格斯的死处罚爱娥。</span><span class="english">But Hera wanted to punish her for Argus 'death.</span></p>

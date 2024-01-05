@@ -1,5 +1,7 @@
 # 公差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchai.md)
+
 <p><span class="chinese">每一活塞组的重量配平公差不超过0.5克。</span><span class="english">Each piston set is matched to within 0.5 gram.</span></p>
 
 <p><span class="chinese">在每个关键控制点设立公差。</span><span class="english">Establish tolerances at each critical control point.</span></p>

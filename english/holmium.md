@@ -1,5 +1,7 @@
 # holmium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holmium.md)
+
 <p><span class="chinese">结论经尿道钬激光手术治疗尿道狭窄与闭锁是安全、有效的治疗方法。</span><span class="english">Holmium YAG laser is a safe and easy method for urethral stricture or atresia.</span></p>
 
 <p><span class="chinese">急急急！尿道结石？钬激光，手术那一个效果更好？</span><span class="english">Urgent urgent! Urethral and calculous ? Holmium laser, operation is that one effect better?</span></p>

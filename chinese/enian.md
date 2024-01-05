@@ -1,5 +1,7 @@
 # 恶念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enian.md)
+
 <p><span class="chinese">弓是恶念的象征。</span><span class="english">The bow is symbolic of evil intentions.</span></p>
 
 <p><span class="chinese">她试图驱除心中的恶念。</span><span class="english">She tried to drive the evil thoughts out of her mind.</span></p>

@@ -1,5 +1,7 @@
 # 肮脏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/angzang.md)
+
 <p><span class="chinese">这肮脏的黑暗。</span><span class="english">Befouled the dark.</span></p>
 
 <p><span class="chinese">这是一笔肮脏的交易。</span><span class="english">It's a dirty deal.</span></p>

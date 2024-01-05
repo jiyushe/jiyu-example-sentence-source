@@ -1,5 +1,7 @@
 # 龙船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longchuan.md)
+
 <p><span class="chinese">一只龙船是什么？</span><span class="english">What is a dragon boat?</span></p>
 
 <p><span class="chinese">那儿有一艘竹编龙船。</span><span class="english">There is a plaited bamboo dragon-barge.</span></p>

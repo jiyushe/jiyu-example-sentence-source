@@ -1,5 +1,7 @@
 # reedy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reedy.md)
+
 <p><span class="chinese">他外表瘦长。</span><span class="english">He has a reedy appearance.</span></p>
 
 <p><span class="chinese">又细又长的草覆盖着整个地区。</span><span class="english">The reedy grass covered the whole area.</span></p>

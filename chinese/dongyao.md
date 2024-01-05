@@ -1,5 +1,7 @@
 # 动摇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongyao.md)
+
 <p><span class="chinese">人们动摇了。</span><span class="english">People were reluctant.</span></p>
 
 <p><span class="chinese">这当中最关键的是，我们始终坚持三个不动摇。</span><span class="english">The key is three adherences.</span></p>

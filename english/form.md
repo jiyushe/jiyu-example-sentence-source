@@ -1,5 +1,7 @@
 # form
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/form.md)
+
 <p><span class="chinese">检查你的形态。</span><span class="english">Check your form.</span></p>
 
 <p><span class="chinese">蒴果卵形。</span><span class="english">Capsule egg form.</span></p>

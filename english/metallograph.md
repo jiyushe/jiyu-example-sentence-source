@@ -1,5 +1,7 @@
 # metallograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metallograph.md)
+
 <p><span class="chinese">通过金相检验，扫描电镜等测试手段对转向齿扇摇臂轴断裂原因进行分析。</span><span class="english">In this paper, the fracture of the veering fan-shaped rocker shaft was analyzed by means of metallograph and SEM.</span></p>
 
 <p><span class="chinese">对熔铸后的铸态组织进行了X射线衍射、扫描电镜和光镜金相分析。</span><span class="english">And with the X-ray technique, SEM and metallograph experiment, the microstructure in the casting state has also been analyzed.</span></p>

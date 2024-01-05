@@ -1,5 +1,7 @@
 # phony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phony.md)
+
 <p><span class="chinese">一切都是装假的。</span><span class="english">Just as phony as it can be.</span></p>
 
 <p><span class="chinese">小张真是个骗子。</span><span class="english">Xiao Zhang is a plain phony.</span></p>

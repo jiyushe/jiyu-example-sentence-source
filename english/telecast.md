@@ -1,5 +1,7 @@
 # telecast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telecast.md)
+
 <p><span class="chinese">登陆月球的画面现场转播。</span><span class="english">The landing on the moon was telecast live.</span></p>
 
 <p><span class="chinese">该节目经由卫星以电视现场转播。</span><span class="english">The program was telecast live via satellite.</span></p>

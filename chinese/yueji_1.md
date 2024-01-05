@@ -1,5 +1,7 @@
 # 越级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueji_1.md)
+
 <p><span class="chinese">你可以越级而上，或者在任何阶段停下来。</span><span class="english">You can skip steps and stop at any point.</span></p>
 
 <p><span class="chinese">我的上司非常愤怒，因为我越级汇报了。</span><span class="english">My boss got angry that I emailed his boss instead of him.</span></p>

@@ -1,5 +1,7 @@
 # chelyabinsk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chelyabinsk.md)
+
 <p><span class="chinese">在俄罗斯的目的地城市将会是车里雅宾斯克。</span><span class="english">The destination city in Russia will be Chelyabinsk.</span></p>
 
 <p><span class="chinese">这些奇怪的生物都是在俄罗斯车里雅宾斯克市的一个废弃矿坑被发现。</span><span class="english">These weird creatures were found in an abandoned foundation pit in the Russian city of Chelyabinsk.</span></p>

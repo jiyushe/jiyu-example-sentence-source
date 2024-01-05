@@ -1,5 +1,7 @@
 # persuade 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persuade.md)
+
 <p><span class="chinese">我们可以劝服你们吗？</span><span class="english">Can we persuade you?</span></p>
 
 <p><span class="chinese">你们最后压服他了吗？</span><span class="english">Did you finally persuade him?</span></p>

@@ -1,5 +1,7 @@
 # 活字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huozi.md)
+
 <p><span class="chinese">磨损的活字印得不清楚。</span><span class="english">Badly worn type prints poorly.</span></p>
 
 <p><span class="chinese">在金属活字方面，字大小的范围从6点至72点。</span><span class="english">For metal, it ranges from 6 pt, up to 72pt.</span></p>

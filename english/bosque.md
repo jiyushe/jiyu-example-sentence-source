@@ -1,5 +1,7 @@
 # bosque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bosque.md)
+
 <p><span class="chinese">第一，博斯克总先后共派上了23名队员中的20个。</span><span class="english">First, Vicente del Bosque used 20 of the 23 players in their squad.</span></p>
 
 <p><span class="chinese">博斯克周五公布的23人大名单中，托雷斯入选。</span><span class="english">But Torres was included in the 23-man squad announced by Del Bosque on Friday.</span></p>

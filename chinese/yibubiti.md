@@ -1,5 +1,7 @@
 # 衣不蔽体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibubiti.md)
+
 <p><span class="chinese">那个衣不蔽体的人拉着一货车破布碎片。</span><span class="english">The ragged ma fantastic drags a waggon of rag fragments.</span></p>
 
 <p><span class="chinese">一年四季衣不蔽体、食不果腹，在生活的苦海里挣扎。</span><span class="english">Clothing throughout the year not Biti, the hungry, in the life of Oliver, struggling.</span></p>

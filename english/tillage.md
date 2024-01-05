@@ -1,5 +1,7 @@
 # tillage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tillage.md)
+
 <p><span class="chinese">农时耕田播种，闲时读书码字。</span><span class="english">Farming tillage seeding, leisure reading code.</span></p>
 
 <p><span class="chinese">本实用新型涉及旋耕犁。</span><span class="english">The utility model relates to a rotary tillage plough.</span></p>

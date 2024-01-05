@@ -1,5 +1,7 @@
 # answered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/answered.md)
+
 <p><span class="chinese">珠儿回答道。</span><span class="english">answered Pearl.</span></p>
 
 <p><span class="chinese">“不，”他回答。</span><span class="english">No,' he answered.</span></p>

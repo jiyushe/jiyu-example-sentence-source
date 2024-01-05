@@ -1,5 +1,7 @@
 # worthwhile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worthwhile.md)
+
 <p><span class="chinese">那是值得的。</span><span class="english">That’s worthwhile.</span></p>
 
 <p><span class="chinese">跑这一趟不值。</span><span class="english">The trip is not worthwhile.</span></p>

@@ -1,5 +1,7 @@
 # fruitfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fruitfully.md)
+
 <p><span class="chinese">一名富翁如愿以偿地娶到了一位美丽的女影星。</span><span class="english">A wealthy man fruitfully married a beautiful female movie star.</span></p>
 
 <p><span class="chinese">而今天他们也如愿以偿地拿到了关键的三分。</span><span class="english">But they also fruitfully had attained today the key three points.</span></p>

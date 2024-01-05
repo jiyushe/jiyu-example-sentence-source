@@ -1,5 +1,7 @@
 # undeserving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undeserving.md)
+
 <p><span class="chinese">我认为我不配或甚至会带着警惕心。</span><span class="english">I suppose I felt undeserving or perhaps even cautious.</span></p>
 
 <p><span class="chinese">新闻界是不值得我们支持的另一方。</span><span class="english">The press has surely been another party undeserving of our support.</span></p>

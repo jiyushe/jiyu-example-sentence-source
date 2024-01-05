@@ -1,5 +1,7 @@
 # 剧组
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzu.md)
+
 <p><span class="chinese">剧组的一半工作人员，超过100个人都离开了。</span><span class="english">Half our crew, over 100 people, left.</span></p>
 
 <p><span class="chinese">克兰福德剧组终于杀青了。</span><span class="english">The cast and crew of Cranford finally wrap.</span></p>

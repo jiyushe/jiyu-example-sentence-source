@@ -1,5 +1,7 @@
 # 助纣为虐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhouweinve.md)
+
 <p><span class="chinese">不要替魔鬼拿蜡烛照明。不要为虎作伥。切莫助纣为虐。</span><span class="english">Do not hold a candle to the devil.</span></p>
 
 <p><span class="chinese">人们认为巫婆替邪恶做事，猫助纣为虐。</span><span class="english">Witches were thought to work for the devil with the help of cats.</span></p>

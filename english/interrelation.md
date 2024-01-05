@@ -1,5 +1,7 @@
 # interrelation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interrelation.md)
+
 <p><span class="chinese">所有这些价格的内在联系构成了价格系统</span><span class="english">The interrelation ships of all these prices make up the "system" of prices.</span></p>
 
 <p><span class="chinese">并研究白头叶猴生境因子之间的相关性。</span><span class="english">The interrelation of habitat factors of white headed langur has also been stud.</span></p>

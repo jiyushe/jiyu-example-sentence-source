@@ -1,5 +1,7 @@
 # preadolescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preadolescent.md)
+
 <p><span class="chinese">让男孩和女孩子分开。</span><span class="english">A preadolescent boy or girl.</span></p>
 
 <p><span class="chinese">你们是好男孩和好女孩。</span><span class="english">A preadolescent boy or girl.</span></p>

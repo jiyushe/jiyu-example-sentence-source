@@ -1,5 +1,7 @@
 # 乡下人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxiaren.md)
+
 <p><span class="chinese">那乡下人的事情？</span><span class="english">The redneck thing?</span></p>
 
 <p><span class="chinese">我受够这个乡下人了！</span><span class="english">I'm sick of this redneck!</span></p>

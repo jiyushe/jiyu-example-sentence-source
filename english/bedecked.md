@@ -1,5 +1,7 @@
 # bedecked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedecked.md)
+
 <p><span class="chinese">这姑娘用丝绸和珠宝打扮起来。</span><span class="english">The girl was bedecked with silk and jewels.</span></p>
 
 <p><span class="chinese">广场挂满了各色彩旗和摆满了鲜花。</span><span class="english">The square was bedecked with flags and flowers.</span></p>

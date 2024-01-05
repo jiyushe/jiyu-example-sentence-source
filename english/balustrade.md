@@ -1,5 +1,7 @@
 # balustrade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balustrade.md)
+
 <p><span class="chinese">把雨衣放在栏杆上去滴干。</span><span class="english">Put the raincoat on the balustrade to drain.</span></p>
 
 <p><span class="chinese">上层的窗户通向阳台，围墙围着一方有栏杆的天井。</span><span class="english">All around the walls was a terraced patio with a balustrade.</span></p>

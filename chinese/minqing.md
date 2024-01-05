@@ -1,5 +1,7 @@
 # 民情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minqing.md)
+
 <p><span class="chinese">领导要注意体察民情。</span><span class="english">The leaders should observe the people's condition.</span></p>
 
 <p><span class="chinese">这些任务将考验他们的智慧，胆大和熟知都市民情。</span><span class="english">The tasks will test their intelligence, chutzpah and street-smarts.</span></p>

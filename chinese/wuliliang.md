@@ -1,5 +1,7 @@
 # 物理量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuliliang.md)
+
 <p><span class="chinese">这些都是可以测量的物理量。</span><span class="english">Things that I can measure.</span></p>
 
 <p><span class="chinese">它们是同一种物理量。</span><span class="english">They are the same quantity.</span></p>

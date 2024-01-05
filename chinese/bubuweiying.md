@@ -1,5 +1,7 @@
 # 步步为营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bubuweiying.md)
+
 <p><span class="chinese">我们必须保持冷静，步步为营。</span><span class="english">We must maintain calm and go from game to game.</span></p>
 
 <p><span class="chinese">我们耐心地步步为营进行反击并拥有点儿好运气。</span><span class="english">We battled back bit by bit and had a little luck on the way.</span></p>

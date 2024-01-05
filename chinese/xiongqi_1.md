@@ -1,5 +1,7 @@
 # 雄奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongqi_1.md)
+
 <p><span class="chinese">山川之秀，何处雄奇？</span><span class="english">Mountains and rivers of the show, where Xiongqi?</span></p>
 
 <p><span class="chinese">日记模山范水，优美雄奇，形式自由，为后世创立一个新的体裁。</span><span class="english">And his diary became a new type of literature for the later ages.</span></p>

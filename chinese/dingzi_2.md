@@ -1,5 +1,7 @@
 # 钉子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzi_2.md)
+
 <p><span class="chinese">钉子钉进去了。</span><span class="english">The nail is in.</span></p>
 
 <p><span class="chinese">锤子与钉子？</span><span class="english">Hammer and nail?</span></p>

@@ -1,5 +1,7 @@
 # 小本经营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaobenjingying.md)
+
 <p><span class="chinese">我们仍得小本经营。</span><span class="english">We were living on a shoestring.</span></p>
 
 <p><span class="chinese">他是个小本经营的店主。</span><span class="english">He was a shopkeeper in a small way.</span></p>

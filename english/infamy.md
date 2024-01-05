@@ -1,5 +1,7 @@
 # infamy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infamy.md)
+
 <p><span class="chinese">他的名字将遗臭万年。</span><span class="english">His name will live in infamy.</span></p>
 
 <p><span class="chinese">您没有抗议这种无耻的事情吗？</span><span class="english">Did you not remonstrate against such infamy?</span></p>

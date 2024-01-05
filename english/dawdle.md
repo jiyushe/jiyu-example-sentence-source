@@ -1,5 +1,7 @@
 # dawdle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dawdle.md)
+
 <p><span class="chinese">不要混日子。</span><span class="english">Don't dawdle away your time.</span></p>
 
 <p><span class="chinese">但你最好别浪费时间，还有很多事要做呢。</span><span class="english">But you'd best not dawdle , there's still much to do.</span></p>

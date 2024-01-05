@@ -1,5 +1,7 @@
 # 地方时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/difangshi.md)
+
 <p><span class="chinese">红色是一种暖色，但几乎只在墙上有一小块地方时才用红色。</span><span class="english">Red is a warm, almost hot color used only if there is a minimum of wall space.</span></p>
 
 <p><span class="chinese">当你把狼从一个地方移居到另一个地方时，它们总是试图回到原来的家。</span><span class="english">When you move a wolf from one location to another, they try and get back home.</span></p>

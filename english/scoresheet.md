@@ -1,5 +1,7 @@
 # scoresheet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scoresheet.md)
+
 <p><span class="chinese">他喜欢破门得分，而他今天未能进球实在是不走运。</span><span class="english">He loves to score goals and was unlucky not to get on the scoresheet today.</span></p>
 
 <p><span class="chinese">费尔南多又进球了，乔·科尔奉献助攻，这非常棒。</span><span class="english">It was great to see Fernando get on the scoresheet and Joe Cole set him up.</span></p>

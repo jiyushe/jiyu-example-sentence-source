@@ -1,5 +1,7 @@
 # 献媚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianmei.md)
+
 <p><span class="chinese">伟大的人物应鄙视献媚者。</span><span class="english">A great man should disdain flatterers.</span></p>
 
 <p><span class="chinese">她一直向约翰献媚，而约翰亦欣然接受。</span><span class="english">She flatters John all the time and John just laps it up.</span></p>

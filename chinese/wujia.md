@@ -1,5 +1,7 @@
 # 五加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujia.md)
+
 <p><span class="chinese">五加六等于几？</span><span class="english">What's five and six?</span></p>
 
 <p><span class="chinese">五加五是十。</span><span class="english">Five and five is ten.</span></p>

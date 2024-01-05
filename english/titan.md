@@ -1,5 +1,7 @@
 # titan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titan.md)
+
 <p><span class="chinese">你管它叫“裤管泰坦”？</span><span class="english">You call it the "Trouser Titan"?</span></p>
 
 <p><span class="chinese">像巨人萨图恩的一个月。</span><span class="english">Like titan one of Saturn's moons.</span></p>

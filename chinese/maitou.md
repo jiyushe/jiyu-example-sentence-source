@@ -1,5 +1,7 @@
 # 埋头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maitou.md)
+
 <p><span class="chinese">他埋头工作。??。</span><span class="english">He drowned himself in work.</span></p>
 
 <p><span class="chinese">现在，让我们埋头工作吧！</span><span class="english">Now, let's get down to work.</span></p>

@@ -1,5 +1,7 @@
 # living
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/living.md)
+
 <p><span class="chinese">放个活人。</span><span class="english">A living person.</span></p>
 
 <p><span class="chinese">慢生活节奏？</span><span class="english">living life slowly?</span></p>

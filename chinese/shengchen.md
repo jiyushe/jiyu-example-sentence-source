@@ -1,5 +1,7 @@
 # 生辰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengchen.md)
+
 <p><span class="chinese">双子座，是你的生辰。</span><span class="english">Go Gemini its your birthday.</span></p>
 
 <p><span class="chinese">我的生辰是十一月八日。</span><span class="english">My birthday is November the eight.</span></p>

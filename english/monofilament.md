@@ -1,5 +1,7 @@
 # monofilament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monofilament.md)
+
 <p><span class="chinese">服装上出现的任何单丝都是不可接受的。</span><span class="english">Monofilament thread is unacceptable on any part of this garment.</span></p>
 
 <p><span class="chinese">不足是它不如一般尼龙线耐磨。</span><span class="english">Co-polymers are not as abrasion resistant as regular nylon monofilament.</span></p>

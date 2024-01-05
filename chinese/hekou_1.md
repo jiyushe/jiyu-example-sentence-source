@@ -1,5 +1,7 @@
 # 河口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hekou_1.md)
+
 <p><span class="chinese">男孩在河口捕捞。</span><span class="english">Boys fishing in a bayou.</span></p>
 
 <p><span class="chinese">我怎么样才能去河口宾馆啊？</span><span class="english">How can I get to Hekou Hotel?</span></p>

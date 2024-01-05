@@ -1,5 +1,7 @@
 # 出线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuxian_1.md)
+
 <p><span class="chinese">出线口数。</span><span class="english">Out let Number.</span></p>
 
 <p><span class="chinese">智利队以B组第二的成绩出线。</span><span class="english">Chile qualified as second in Group B.</span></p>

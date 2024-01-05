@@ -1,5 +1,7 @@
 # 如愿以偿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruyuanyichang.md)
+
 <p><span class="chinese">这回她总算是如愿以偿了。</span><span class="english">Well the woman almost got her wish.</span></p>
 
 <p><span class="chinese">但是其分配方式未能如愿以偿。</span><span class="english">But it is not distributed as they would like.</span></p>

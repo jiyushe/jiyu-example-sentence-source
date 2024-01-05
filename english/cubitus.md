@@ -1,5 +1,7 @@
 # cubitus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cubitus.md)
+
 <p><span class="chinese">上述措施可防止出现肘内翻或外翻畸形。</span><span class="english">These measures would prevent the cubitus varus or valgus deformity.</span></p>
 
 <p><span class="chinese">结果所有病例肘内翻畸形均获纠正，效果良好。</span><span class="english">Results The cubitus varus of all cases were corrected satisfactorily.</span></p>

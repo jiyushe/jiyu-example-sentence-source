@@ -1,5 +1,7 @@
 # maestro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maestro.md)
+
 <p><span class="chinese">瓜尔迪大师，是你吗？</span><span class="english">Maestro Guardi, is that you?</span></p>
 
 <p><span class="chinese">老舍是语言艺术大师。</span><span class="english">Lao She is a language maestro.</span></p>

@@ -1,5 +1,7 @@
 # 匍匐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pufu.md)
+
 <p><span class="chinese">匍匐的猫儿——抬头看着。</span><span class="english">The creeping cat,looked up.</span></p>
 
 <p><span class="chinese">孩子们正在匍匐前进。</span><span class="english">The child is going on all fours.</span></p>

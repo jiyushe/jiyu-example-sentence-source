@@ -1,5 +1,7 @@
 # 拜拜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baibai_1.md)
+
 <p><span class="chinese">拜拜了。</span><span class="english">Bye-bye now.</span></p>
 
 <p><span class="chinese">直到呯的一声倒下说拜拜。</span><span class="english">Until bang and bye bye.</span></p>

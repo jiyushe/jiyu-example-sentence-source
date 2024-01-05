@@ -1,5 +1,7 @@
 # contention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contention.md)
+
 <p><span class="chinese">这是一个主要的争论点。</span><span class="english">This is a major point of contention.</span></p>
 
 <p><span class="chinese">按源代码行列出资源争用数据。</span><span class="english">Lists resource contention data by source code line.</span></p>

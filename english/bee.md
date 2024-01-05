@@ -1,5 +1,7 @@
 # bee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bee.md)
+
 <p><span class="chinese">蜜蜂蜇伤。</span><span class="english">Bee sting.</span></p>
 
 <p><span class="chinese">小蜜蜂又飞啊飞啊。</span><span class="english">Fly Fly bee again.</span></p>

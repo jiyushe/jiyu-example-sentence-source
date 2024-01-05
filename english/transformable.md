@@ -1,5 +1,7 @@
 # transformable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transformable.md)
+
 <p><span class="chinese">遗传力细菌的遗传性转化的能力。</span><span class="english">The ability of bacteria to be genetically transformable.</span></p>
 
 <p><span class="chinese">可以转换为某些其他形式能量的电能。</span><span class="english">The electrical energy transformable into some other form of energy.</span></p>

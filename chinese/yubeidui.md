@@ -1,5 +1,7 @@
 # 预备队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yubeidui.md)
+
 <p><span class="chinese">约拉是一个预备队员。</span><span class="english">Yola was a reserve player.</span></p>
 
 <p><span class="chinese">于是，我参加了军事预备队。</span><span class="english">So I enlisted in the Reserves.</span></p>

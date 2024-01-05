@@ -1,5 +1,7 @@
 # yami
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yami.md)
+
 <p><span class="chinese">好吃好吃，我爱早饭。</span><span class="english">Yami yami , I love breakfast.</span></p>
 
 <p><span class="chinese">嗯，你用达悟语说说你的名字看看？</span><span class="english">Can you say your name in Yami ?</span></p>

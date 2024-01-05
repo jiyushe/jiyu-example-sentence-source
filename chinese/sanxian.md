@@ -1,5 +1,7 @@
 # 三线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanxian.md)
+
 <p><span class="chinese">三线带给我们什么?。</span><span class="english">What Did Sanxian Bring us?</span></p>
 
 <p><span class="chinese">这是很好的固态三线态。</span><span class="english">That is a good solid triple bond.</span></p>

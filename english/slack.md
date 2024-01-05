@@ -1,5 +1,7 @@
 # slack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slack.md)
+
 <p><span class="chinese">保持缆绳松弛。</span><span class="english">Keep towline slack.</span></p>
 
 <p><span class="chinese">网球的网松悬着。</span><span class="english">The tennis net hung slack.</span></p>

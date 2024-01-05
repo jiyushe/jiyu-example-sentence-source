@@ -1,5 +1,7 @@
 # overdose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overdose.md)
+
 <p><span class="chinese">不要过量服用补剂。</span><span class="english">Don't overdose your supplements.</span></p>
 
 <p><span class="chinese">这种药服用过量可惹起灭亡。</span><span class="english">An overdose of this drug can kill.</span></p>

@@ -1,5 +1,7 @@
 # featured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/featured.md)
+
 <p><span class="chinese">现在，托特独自上封面。</span><span class="english">Now Mr. Toth is featured alone.</span></p>
 
 <p><span class="chinese">毫无疑问，菲利普斯是个颇有号召力的演说家。</span><span class="english">Phillips was a featured speaker.</span></p>

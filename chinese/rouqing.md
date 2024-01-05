@@ -1,5 +1,7 @@
 # 柔情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rouqing.md)
+
 <p><span class="chinese">萨姆就是这样的柔情蜜意。</span><span class="english">Sam was sentimental like that.</span></p>
 
 <p><span class="chinese">是你的万种柔情融化冰雪。</span><span class="english">Your tenderness melted the ice.</span></p>

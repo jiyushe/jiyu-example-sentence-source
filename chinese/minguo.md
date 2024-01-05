@@ -1,5 +1,7 @@
 # 民国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minguo.md)
+
 <p><span class="chinese">民国二年复称安泽。</span><span class="english">Anze In two years, said Fu.</span></p>
 
 <p><span class="chinese">民国时期，大多数人不主张雅，还有人明确反对片面追求雅。</span><span class="english">In the Republican period most people also didn't think so.</span></p>

@@ -1,5 +1,7 @@
 # lieutenant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lieutenant.md)
+
 <p><span class="chinese">丹中尉！</span><span class="english">Lieutenant Dan!</span></p>
 
 <p><span class="chinese">晚上好，中尉。</span><span class="english">Good evening, Lieutenant.</span></p>

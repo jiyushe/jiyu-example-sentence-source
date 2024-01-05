@@ -1,5 +1,7 @@
 # department
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/department.md)
+
 <p><span class="chinese">那司法部呢？</span><span class="english">Department of Justice?</span></p>
 
 <p><span class="chinese">海外营业部。</span><span class="english">Overseas Sales Department.</span></p>

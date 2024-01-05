@@ -1,5 +1,7 @@
 # 不惜工本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxigongben.md)
+
 <p><span class="chinese">他们不惜工本建造了这栋房子。</span><span class="english">They built the house the cost.</span></p>
 
 <p><span class="chinese">他不惜工本为自己造了一幢别墅。</span><span class="english">He spared no expense in building a villa for himself.</span></p>

@@ -1,5 +1,7 @@
 # 臭名远扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choumingyuanyang.md)
+
 <p><span class="chinese">阿尔。卡彭是一位臭名远扬的匪徒。</span><span class="english">Al Capone was a notorious gangster.</span></p>
 
 <p><span class="chinese">中国藻华泛滥早已“臭名远扬”。</span><span class="english">China is notorious for its algae blooms.</span></p>

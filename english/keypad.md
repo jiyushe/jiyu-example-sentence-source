@@ -1,5 +1,7 @@
 # keypad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keypad.md)
+
 <p><span class="chinese">数字键盘的时代已经过去了。</span><span class="english">Never use the numerical keypad?</span></p>
 
 <p><span class="chinese">如果是金属键盘，那就束手无策了。</span><span class="english">And if the keypad is metal, fuhgeddaboudit.</span></p>

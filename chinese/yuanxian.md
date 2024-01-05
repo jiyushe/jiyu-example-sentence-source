@@ -1,5 +1,7 @@
 # 原先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanxian.md)
+
 <p><span class="chinese">原先打算让她当工程师。</span><span class="english">She was meant for an engineer.</span></p>
 
 <p><span class="chinese">我原先就不应该那么信任他。</span><span class="english">I should never have trusted him.</span></p>

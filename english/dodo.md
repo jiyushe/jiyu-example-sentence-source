@@ -1,5 +1,7 @@
 # dodo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dodo.md)
+
 <p><span class="chinese">我可以和潴潴讲话吗？</span><span class="english">Could I speak to Dodo?</span></p>
 
 <p><span class="chinese">渡渡鸟就是其中的一种。</span><span class="english">The dodo is one of them.</span></p>

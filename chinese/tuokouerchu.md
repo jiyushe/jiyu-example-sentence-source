@@ -1,5 +1,7 @@
 # 脱口而出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuokouerchu.md)
+
 <p><span class="chinese">我不假思索地脱口而出。</span><span class="english">I blurted out unthinkingly.</span></p>
 
 <p><span class="chinese">我还是没有脱口而出…</span><span class="english">I don't have enough ablities.</span></p>

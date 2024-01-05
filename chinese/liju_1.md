@@ -1,5 +1,7 @@
 # 力矩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liju_1.md)
+
 <p><span class="chinese">我将要给了它一个力矩。</span><span class="english">I've given it a little torque.</span></p>
 
 <p><span class="chinese">根据ESPM，外部力矩和受力。</span><span class="english">External moments and forces according to ESPM.</span></p>

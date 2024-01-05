@@ -1,5 +1,7 @@
 # grizzly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grizzly.md)
+
 <p><span class="chinese">我喜欢大灰熊。</span><span class="english">I like the grizzly bear.</span></p>
 
 <p><span class="chinese">我会是头大灰熊吗？</span><span class="english">I might be a grizzly bear?</span></p>

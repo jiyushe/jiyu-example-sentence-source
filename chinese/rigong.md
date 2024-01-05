@@ -1,5 +1,7 @@
 # 日工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rigong.md)
+
 <p><span class="chinese">我喜欢全日工的工作。</span><span class="english">I'd like to have a full-time job.</span></p>
 
 <p><span class="chinese">农场主雇佣了好几个日工。</span><span class="english">The farmer hired several day labourers.</span></p>

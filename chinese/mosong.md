@@ -1,5 +1,7 @@
 # 默诵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mosong.md)
+
 <p><span class="chinese">我却默诵这句话，随即上前敲门。</span><span class="english">I remember this sentence, immediately came to the door.</span></p>
 
 <p><span class="chinese">乔伊紧紧地搂住自己的孩子，心中默诵地祈祷感谢。</span><span class="english">Joy held her baby tight, muttering a silent prayer of thanks.</span></p>

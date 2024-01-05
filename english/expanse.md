@@ -1,5 +1,7 @@
 # expanse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expanse.md)
+
 <p><span class="chinese">我看它真的是红红的一片！</span><span class="english">What a vast expanse of red!</span></p>
 
 <p><span class="chinese">我们有大片的耕地。</span><span class="english">We have a vast expanse of cultivable land.</span></p>

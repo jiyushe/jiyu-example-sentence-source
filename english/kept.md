@@ -1,5 +1,7 @@
 # kept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kept.md)
+
 <p><span class="chinese">我不断哄着它。</span><span class="english">I kept coaxing.</span></p>
 
 <p><span class="chinese">他们一直开机。</span><span class="english">They kept it on.</span></p>

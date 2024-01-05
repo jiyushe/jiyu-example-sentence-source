@@ -1,5 +1,7 @@
 # contiguously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contiguously.md)
+
 <p><span class="chinese">所有段内的原始数据一定会被连续地加载。</span><span class="english">All the raw data in a section must be loaded contiguously.</span></p>
 
 <p><span class="chinese">多数字符串表示都将字符串连续地保存在内存中。</span><span class="english">Most string representations store all their characters contiguously in memory.</span></p>

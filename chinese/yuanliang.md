@@ -1,5 +1,7 @@
 # 原粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanliang.md)
+
 <p><span class="chinese">本设备主要用于稻谷除稗和去除原粮中的泥砂。</span><span class="english">The product is used to eliminate weeds from rice and silt in grain.</span></p>
 
 <p><span class="chinese">研究设计了一种新型的原粮加工除尘装置。</span><span class="english">A new type of dust cleaning device for unprocessed grain is studied and designed.</span></p>

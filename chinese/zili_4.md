@@ -1,5 +1,7 @@
 # 资历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zili_4.md)
+
 <p><span class="chinese">我是办公室里资历最浅的。</span><span class="english">I am junior in the office.</span></p>
 
 <p><span class="chinese">他是办公室里资历浅的事务员。</span><span class="english">He is a junior clerk in an office.</span></p>

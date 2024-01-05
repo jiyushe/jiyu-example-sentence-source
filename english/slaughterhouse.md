@@ -1,5 +1,7 @@
 # slaughterhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slaughterhouse.md)
+
 <p><span class="chinese">在被送到屠宰场宰杀前，这匹马死了。</span><span class="english">She died before she could be killed at the slaughterhouse.</span></p>
 
 <p><span class="chinese">新发地市场的猪肉来自13个定点屠宰场。</span><span class="english">The new fat from the pork market to 13 fixed-point slaughterhouse.</span></p>

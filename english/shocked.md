@@ -1,5 +1,7 @@
 # shocked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shocked.md)
+
 <p><span class="chinese">我们很震惊。</span><span class="english">We were both shocked.</span></p>
 
 <p><span class="chinese">尴尬的或震惊的。</span><span class="english">Embarassed or shocked.</span></p>

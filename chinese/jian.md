@@ -1,5 +1,7 @@
 # 积案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jian.md)
+
 <p><span class="chinese">新法也会使积案不再增长。</span><span class="english">The law will also stop the backlog from growing.</span></p>
 
 <p><span class="chinese">由于各种条件的限制，导致了刑事积案与日俱增。</span><span class="english">Various conditionality results in increasingly growth of long-pending criminal cases.</span></p>

@@ -1,5 +1,7 @@
 # neurophysiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurophysiology.md)
+
 <p><span class="chinese">建议找个对多汗症有研究的，神经生理学方面的专家。</span><span class="english">Find a neurologist who specializes in the neurophysiology of hyperhidrosis.</span></p>
 
 <p><span class="chinese">研究的结果已经在神经心理学杂志的7月号上发表。</span><span class="english">The results were published in the July issue of the Journal of Neurophysiology.</span></p>

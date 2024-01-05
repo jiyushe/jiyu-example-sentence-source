@@ -1,5 +1,7 @@
 # climbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/climbing.md)
+
 <p><span class="chinese">他看起来在不断攀登。</span><span class="english">He seemed to be climbing.</span></p>
 
 <p><span class="chinese">我没有登山鞋。</span><span class="english">I have no climbing shoes.</span></p>

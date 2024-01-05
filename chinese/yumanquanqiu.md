@@ -1,5 +1,7 @@
 # 誉满全球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yumanquanqiu.md)
+
 <p><span class="chinese">中国是世界陶瓷之都，中国陶瓷誉满全球。</span><span class="english">China as the capital of ceramic is famous all over the world.</span></p>
 
 <p><span class="chinese">如果贵公司旗下品牌已经誉满全球，也请加入我们。</span><span class="english">If your brand has being well know all over the world, please joining us.</span></p>

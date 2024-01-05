@@ -1,5 +1,7 @@
 # fast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fast.md)
+
 <p><span class="chinese">快死。</span><span class="english">die so fast.</span></p>
 
 <p><span class="chinese">方快最小。</span><span class="english">Fast minimum.</span></p>

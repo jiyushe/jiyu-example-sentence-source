@@ -1,5 +1,7 @@
 # 结焦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejiao.md)
+
 <p><span class="chinese">水对体系的结焦有促进作用。</span><span class="english">The water can resist the coking.</span></p>
 
 <p><span class="chinese">总结了目前我国催化裂化装置的结焦情况。</span><span class="english">Status quo of coking in domestic FCCU are summarized.</span></p>

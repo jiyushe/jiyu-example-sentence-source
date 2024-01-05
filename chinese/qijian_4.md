@@ -1,5 +1,7 @@
 # 齐肩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijian_4.md)
+
 <p><span class="chinese">头发齐肩，并留长的刘海。</span><span class="english">Shoulder length, with a long fringe.</span></p>
 
 <p><span class="chinese">她褐色的头发侧分着，长发齐肩。</span><span class="english">She has shoulder-length brown hair with a side parting.</span></p>

@@ -1,5 +1,7 @@
 # 性欲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingyu.md)
+
 <p><span class="chinese">在进入性器期之前,性欲一直是被压抑着的。</span><span class="english">And then, sex is repressed until you get to the genital stage.</span></p>
 
 <p><span class="chinese">我不想说Sabrina的做法就是纯粹的性欲的。</span><span class="english">I don't want to suggest that Sabrina's work is purely erotic here.</span></p>

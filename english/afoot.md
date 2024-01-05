@@ -1,5 +1,7 @@
 # afoot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afoot.md)
+
 <p><span class="chinese">因此，简单地说，这似乎有一个正在进行的计划。</span><span class="english">So, in short, there seems to be a plan afoot.</span></p>
 
 <p><span class="chinese">还有更多的两面的动。</span><span class="english">And there are more mysterious dualities afoot.</span></p>

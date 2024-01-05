@@ -1,5 +1,7 @@
 # 麻风病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mafengbing.md)
+
 <p><span class="chinese">它就像是麻风病人的身体。</span><span class="english">It is like the body of a leper.</span></p>
 
 <p><span class="chinese">她们是21世纪的麻风病人。</span><span class="english">They are the 21st century's lepers.</span></p>

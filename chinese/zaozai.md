@@ -1,5 +1,7 @@
 # 遭灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaozai.md)
+
 <p><span class="chinese">只是在日日夜夜的循环中遭灾?。</span><span class="english">But day by night and night by day oppressed?</span></p>
 
 <p><span class="chinese">去年春天积雪融化的时候大水泛滥使得一些地区遭灾，但是阿巴克甚至所有哈扎拉贾德人都希望大水能缓解旱情。</span><span class="english">As the snow began melting last spring some areas suffered deadly flooding.</span></p>

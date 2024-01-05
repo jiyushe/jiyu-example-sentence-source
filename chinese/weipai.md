@@ -1,5 +1,7 @@
 # 委派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weipai.md)
+
 <p><span class="chinese">他不能委派代表来指挥。</span><span class="english">He can't delegate command.</span></p>
 
 <p><span class="chinese">委派他任上尉。</span><span class="english">He was accredited captain.</span></p>

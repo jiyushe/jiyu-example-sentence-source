@@ -1,5 +1,7 @@
 # misjudgement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misjudgement.md)
+
 <p><span class="chinese">许多事故都是由于飞行员判断失误造成的。</span><span class="english">Many accidents were due to pilot misjudgement.</span></p>
 
 <p><span class="chinese">医生的误断是发生这场医疗事故的主要原因。</span><span class="english">The main reason for this medical accident is the doctor's misjudgement.</span></p>

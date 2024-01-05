@@ -1,5 +1,7 @@
 # anaesthetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaesthetics.md)
+
 <p><span class="chinese">他据理反对麻醉的作用。</span><span class="english">He argued against the use of anaesthetics.</span></p>
 
 <p><span class="chinese">他雇用了一名新的麻醉学顾问医生。</span><span class="english">He hired a new consultant in anaesthetics.</span></p>

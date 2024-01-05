@@ -1,5 +1,7 @@
 # frivolously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frivolously.md)
+
 <p><span class="chinese">事实上，很少人会“庸人自扰”。</span><span class="english">In fact, most people don't complain frivolously.</span></p>
 
 <p><span class="chinese">本人通常不会轻易使用这样的词汇，即使是出于愤怒之情。</span><span class="english">I don't use the term "Nazi" frivolously or out of anger.</span></p>

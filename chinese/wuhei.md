@@ -1,5 +1,7 @@
 # 乌黑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhei.md)
+
 <p><span class="chinese">凯蒂有一头乌黑的长发。</span><span class="english">Katy has long blackish hair.</span></p>
 
 <p><span class="chinese">两个乌黑不等于一个清白。</span><span class="english">Two blacks do not make a white.</span></p>

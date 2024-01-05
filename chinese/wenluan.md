@@ -1,5 +1,7 @@
 # 紊乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenluan.md)
+
 <p><span class="chinese">运动障碍是一种运动功能的紊乱。</span><span class="english">Dyspraxia is a movement disorder.</span></p>
 
 <p><span class="chinese">湿疹伴有胃紊乱。</span><span class="english">Eczema with gastric derangements.</span></p>

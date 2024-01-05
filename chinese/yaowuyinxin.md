@@ -1,5 +1,7 @@
 # 杳无音信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaowuyinxin.md)
+
 <p><span class="chinese">在长达两年杳无音信之后，他突然又跟我们取得了联系。</span><span class="english">After two years' silence he suddenly got in touch with us again.</span></p>
 
 <p><span class="chinese">自从日本袭击珍珠港以后，他就一直杳无音信。</span><span class="english">We had not heard from him since the Japanese attacked Pearl Harbor.</span></p>

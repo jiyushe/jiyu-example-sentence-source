@@ -1,5 +1,7 @@
 # 词义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciyi.md)
+
 <p><span class="chinese">对它的词义构合关系进行归类探源。</span><span class="english">Classify them and explore the source.</span></p>
 
 <p><span class="chinese">他们对如何解释“liberal”一词的词义有不同意见。</span><span class="english">They disagreed on how to define “liberal”.</span></p>

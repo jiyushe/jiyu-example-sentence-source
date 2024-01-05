@@ -1,5 +1,7 @@
 # calcitonin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcitonin.md)
+
 <p><span class="chinese">大鼠骨密度测定方法及其在骨质疏松模型建立中的应用。</span><span class="english">Use of calcitonin in treatment of bone pain associated with osteoporosis.</span></p>
 
 <p><span class="chinese">探讨降钙素对小鼠胚泡发育及植入的影响。</span><span class="english">Calcitonin can promote the development and implantation of mouse blastocysts.</span></p>

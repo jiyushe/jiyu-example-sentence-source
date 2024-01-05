@@ -1,5 +1,7 @@
 # 阻碍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuai.md)
+
 <p><span class="chinese">到底是什么阻碍了旅行？</span><span class="english">What stops you from traveling?</span></p>
 
 <p><span class="chinese">风对速度有阻碍。</span><span class="english">Wind acts as a check on speed.</span></p>

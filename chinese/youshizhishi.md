@@ -1,5 +1,7 @@
 # 有识之士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshizhishi.md)
+
 <p><span class="chinese">希望有识之士前来详细洽谈！</span><span class="english">Detailed i ight hope to negotiate!</span></p>
 
 <p><span class="chinese">正如这里的有识之士，中国领导人也相信，绿色中掩藏着金矿。</span><span class="english">Chinese leaders are also convinced there's gold in green.</span></p>

@@ -1,5 +1,7 @@
 # urinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urinal.md)
+
 <p><span class="chinese">全世界都是你的尿盆。</span><span class="english">The world is your urinal.</span></p>
 
 <p><span class="chinese">小便器并不需要从墙上取下为蜿蜒。</span><span class="english">Urinal does not need to be removed from wall for snaking.</span></p>

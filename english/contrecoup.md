@@ -1,5 +1,7 @@
 # contrecoup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrecoup.md)
+
 <p><span class="chinese">方法对120例对冲性额部脑挫裂伤患者的临床资料进行回顾性分析。</span><span class="english">Methods A series of 120 patients with contrecoup injury in frontal lobe were analysed retrospectively.</span></p>
 
 <p><span class="chinese">DTICH最常见于对冲伤的额叶和颞叶，多发生于外伤的急性期。</span><span class="english">DTICH mostly occurred in the frontal and temporal lobe caused by contrecoup injury and in the acute stage.</span></p>

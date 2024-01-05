@@ -1,5 +1,7 @@
 # frangible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frangible.md)
+
 <p><span class="chinese">当眼泪滑落的时候，心在痛。</span><span class="english">Breakable tears, and frangible heart.</span></p>
 
 <p><span class="chinese">长度小于65英寸的氮钢瓶使用易碎盘装置。</span><span class="english">Nitrogen cylinders less than 65 inches long use a frangible disc device.</span></p>

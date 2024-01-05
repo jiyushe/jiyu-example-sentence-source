@@ -1,5 +1,7 @@
 # eta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eta.md)
+
 <p><span class="chinese">老朋友总是不嫌多的…</span><span class="english">It is still our old friend ETA.</span></p>
 
 <p><span class="chinese">预计的开船时间，预计到达的时间和船名。</span><span class="english">Pls advise the ETD, ETA and the name of Vessel.</span></p>

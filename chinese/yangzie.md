@@ -1,5 +1,7 @@
 # 扬子鳄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangzie.md)
+
 <p><span class="chinese">目前野生扬子鳄仅剩120只左右。</span><span class="english">Today it is  estimated that only 120 are left in the wild.</span></p>
 
 <p><span class="chinese">直至今天，潜水员和历史学家仍在找寻扬子鳄号潜水艇。</span><span class="english">Divers and historians are still looking for the Alligator today.</span></p>

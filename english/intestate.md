@@ -1,5 +1,7 @@
 # intestate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intestate.md)
+
 <p><span class="chinese">应该建立特留份制度，完善我国遗嘱继承制度。</span><span class="english">Portion system should be established to improve the system of intestate succession.</span></p>
 
 <p><span class="chinese">他死没有遗嘱的和每种尝试追踪他的家庭任何的成员已经流产的和不成功的。</span><span class="english">He died intestate and every attempt to trace any member of his family has proved abortive and unsuccessful.</span></p>

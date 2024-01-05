@@ -1,5 +1,7 @@
 # undesired
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undesired.md)
+
 <p><span class="chinese">不知是否不愿意，但也没回挡。</span><span class="english">Which are still unreproved, if undesired.</span></p>
 
 <p><span class="chinese">这还会导致不希望的输出。</span><span class="english">This will also result in undesired output.</span></p>

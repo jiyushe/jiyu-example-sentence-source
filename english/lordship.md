@@ -1,5 +1,7 @@
 # lordship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lordship.md)
+
 <p><span class="chinese">尊敬的阁下，我叫理查德·萨维奇。</span><span class="english">My name is Richard Savage, your Lordship.</span></p>
 
 <p><span class="chinese">你必须顺服耶稣基督的主权。</span><span class="english">You must submit to the lordship of Jesus Christ.</span></p>

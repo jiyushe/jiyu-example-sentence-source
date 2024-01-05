@@ -1,5 +1,7 @@
 # wether
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wether.md)
+
 <p><span class="chinese">另外我想问，是否有赛前培训？</span><span class="english">I wonder wether there is a pre-training?</span></p>
 
 <p><span class="chinese">不知道有没有人伶听？</span><span class="english">Wether someone would be listening to us?</span></p>

@@ -1,5 +1,7 @@
 # abe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abe.md)
+
 <p><span class="chinese">我喜欢的明星是阿部宽。</span><span class="english">I like the star is Abe.</span></p>
 
 <p><span class="chinese">艾贝是个医科学生。</span><span class="english">Abe was a medical student.</span></p>

@@ -1,5 +1,7 @@
 # 出境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chujing.md)
+
 <p><span class="chinese">他在第二天就被递解出境了。</span><span class="english">He was deported the next day.</span></p>
 
 <p><span class="chinese">他已潜逃出境。</span><span class="english">He absconded from the country.</span></p>

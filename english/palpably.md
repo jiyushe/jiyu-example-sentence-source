@@ -1,5 +1,7 @@
 # palpably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palpably.md)
+
 <p><span class="chinese">这似乎不合理因为这首诗是在赞扬她，对么？</span><span class="english">This is palpably false because here's the poet praising her, right?</span></p>
 
 <p><span class="chinese">神经端侧缝合术对供体神经的功能无明显影响。</span><span class="english">The end-to-side neurorrhaphy do not impact palpably the function of donator.</span></p>

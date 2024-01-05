@@ -1,5 +1,7 @@
 # 放电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangdian.md)
+
 <p><span class="chinese">放电加工机“，”</span><span class="english">Electric Discharge Machine.</span></p>
 
 <p><span class="chinese">对膈神经放电的影响。</span><span class="english">C on phrenic nerve discharges.</span></p>

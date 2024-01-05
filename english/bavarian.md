@@ -1,5 +1,7 @@
 # bavarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bavarian.md)
+
 <p><span class="chinese">我们可以感谢上帝的巴伐利亚糖曲奇。</span><span class="english">We can thank God for Bavarian sugar cookies.</span></p>
 
 <p><span class="chinese">您现在所收听的是巴伐利亚电台为你播报的新闻。</span><span class="english">You are listening to the news on Bavarian Radio.</span></p>

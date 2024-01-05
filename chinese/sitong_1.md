@@ -1,5 +1,7 @@
 # 私通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sitong_1.md)
+
 <p><span class="chinese">很抱歉，我认为私通不应是合法的。</span><span class="english">I'm sorry, adultery should be illegal.</span></p>
 
 <p><span class="chinese">走邪路的丈夫是指离开自己的妻子去跟别的女人私通。</span><span class="english">An errant husband is one who leaves his wife for other women.</span></p>

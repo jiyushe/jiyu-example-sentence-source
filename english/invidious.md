@@ -1,5 +1,7 @@
 # invidious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invidious.md)
+
 <p><span class="chinese">那些医院简直就是惟利是图。</span><span class="english">It is invidious profiteering those hospitals.</span></p>
 
 <p><span class="chinese">聪明的老师避免作出让学生厌恶的规定。</span><span class="english">Wise teachers avoid invidious rules against the students.</span></p>

@@ -1,5 +1,7 @@
 # 论处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunchu.md)
+
 <p><span class="chinese">异议人士按叛国罪论处。</span><span class="english">Dissent was tantamount to treason.</span></p>
 
 <p><span class="chinese">中国在1997年将同性性行为不再以犯罪论处。</span><span class="english">Gay sex was decriminalised in 1997 in China.</span></p>

@@ -1,5 +1,7 @@
 # doughnut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doughnut.md)
+
 <p><span class="chinese">我现在再也不吃油炸圈饼了！</span><span class="english">I could never have a doughnut today!</span></p>
 
 <p><span class="chinese">所以，就让我们向油炸圈和夹肉饼说"不"吧。</span><span class="english">So say No to that doughnut and burger.</span></p>

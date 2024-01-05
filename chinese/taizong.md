@@ -1,5 +1,7 @@
 # 太宗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taizong.md)
+
 <p><span class="chinese">太宗说好说歹，停息了这场风云。</span><span class="english">Speak unto thee bad or good, emperor overblown the wind and cloud.</span></p>
 
 <p><span class="chinese">太宗皇帝召我进宫时，我也十四岁。你是怎么进的宫？</span><span class="english">I was also 14, when Emperor Taizong called for me. How did you enter the palace?</span></p>

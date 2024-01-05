@@ -1,5 +1,7 @@
 # inclined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inclined.md)
+
 <p><span class="chinese">查理斯低下头来。</span><span class="english">Charles inclined his head.</span></p>
 
 <p><span class="chinese">剑尖，斜指地面。</span><span class="english">Sword point, inclined ground.</span></p>

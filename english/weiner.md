@@ -1,5 +1,7 @@
 # weiner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weiner.md)
+
 <p><span class="chinese">网站指认照片主角为韦纳。</span><span class="english">Web site photos hero identified as Weiner.</span></p>
 
 <p><span class="chinese">“对于我们来说，幸福就意味着拥有和别人良好的关系，”威纳说。</span><span class="english">“Happiness is other people, ” Weiner says.</span></p>

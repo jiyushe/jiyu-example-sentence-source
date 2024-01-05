@@ -1,5 +1,7 @@
 # 混蛋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hundan.md)
+
 <p><span class="chinese">混蛋！</span><span class="english">Asshole!</span></p>
 
 <p><span class="chinese">混蛋射击我！</span><span class="english">Varmint shot me!</span></p>

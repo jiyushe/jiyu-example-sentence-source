@@ -1,5 +1,7 @@
 # hunky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hunky.md)
+
 <p><span class="chinese">一个匈牙利人在1974年发明了魔方。</span><span class="english">It was invented by a hunky in 1974.</span></p>
 
 <p><span class="chinese">别担心，这里一切都没问题。</span><span class="english">Don't worry, everything here is hunky -dory.</span></p>

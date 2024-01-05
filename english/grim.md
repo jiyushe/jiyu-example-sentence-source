@@ -1,5 +1,7 @@
 # grim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grim.md)
+
 <p><span class="chinese">还需要几分严峻的决心。</span><span class="english">Aan some grim determination.</span></p>
 
 <p><span class="chinese">加沙的形势严峻。</span><span class="english">The situation in Gaza is grim.</span></p>

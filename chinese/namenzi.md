@@ -1,5 +1,7 @@
 # 哪门子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/namenzi.md)
+
 <p><span class="chinese">他说，“这算是哪门子的投资啊！</span><span class="english">Is this an investment?</span></p>
 
 <p><span class="chinese">不晓得我撞了哪门子邪。</span><span class="english">I don't know what hit me.</span></p>

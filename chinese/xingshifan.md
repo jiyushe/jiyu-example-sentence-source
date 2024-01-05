@@ -1,5 +1,7 @@
 # 刑事犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshifan.md)
+
 <p><span class="chinese">刑事犯也有人权。</span><span class="english">Criminals also have human rights.</span></p>
 
 <p><span class="chinese">法伦警告说，研究刑事犯的大脑是一个年轻的领域。</span><span class="english">Fallon cautions that this is a young field.</span></p>

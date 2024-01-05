@@ -1,5 +1,7 @@
 # dearly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dearly.md)
+
 <p><span class="chinese">弗丽嘉非常爱她的儿子。</span><span class="english">Frigga loved her son very dearly.</span></p>
 
 <p><span class="chinese">因为我对这土地爱得深沉。</span><span class="english">It is because I love my land dearly".</span></p>

@@ -1,5 +1,7 @@
 # 听诊器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhenqi.md)
+
 <p><span class="chinese">听诊器垂挂在她手中，就像一条黑色的大蛇。</span><span class="english">A black serpent, draped overher hand.</span></p>
 
 <p><span class="chinese">他发明了一种新型听诊器。</span><span class="english">He invented a new type of stethoscope.</span></p>

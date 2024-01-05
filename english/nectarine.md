@@ -1,5 +1,7 @@
 # nectarine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nectarine.md)
+
 <p><span class="chinese">在那家超市买油桃很便宜。</span><span class="english">It is very cheap to buy the nectarine in that supermarket.</span></p>
 
 <p><span class="chinese">油桃营养丰富，深受广大消费者欢迎。</span><span class="english">Nectarine is a nutritious fruit and is welcomed by consumers.</span></p>

@@ -1,5 +1,7 @@
 # financing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/financing.md)
+
 <p><span class="chinese">建筑物改型与融资。</span><span class="english">Building Retrofits and Financing.</span></p>
 
 <p><span class="chinese">一个好处是理财咨询。</span><span class="english">One privilege is financing consultation.</span></p>

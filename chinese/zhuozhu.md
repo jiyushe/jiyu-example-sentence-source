@@ -1,5 +1,7 @@
 # 卓著
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuozhu.md)
+
 <p><span class="chinese">她是位声誉卓著的作家。</span><span class="english">She is a writer of great renown.</span></p>
 
 <p><span class="chinese">产品遍布全国各地，声誉卓著。</span><span class="english">Products across the country, reputable.</span></p>

@@ -1,5 +1,7 @@
 # 转运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyun.md)
+
 <p><span class="chinese">这些分子叫做葡萄糖转运载体</span><span class="english">Those are called glucose transporters.</span></p>
 
 <p><span class="chinese">不容许分装运和转运。</span><span class="english">Transshipment and Partial shipment prohibited.</span></p>

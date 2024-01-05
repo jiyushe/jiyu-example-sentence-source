@@ -1,5 +1,7 @@
 # conferment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conferment.md)
+
 <p><span class="chinese">学位，主修，毕业日期。</span><span class="english">Degree, Major, and Date of Conferment.</span></p>
 
 <p><span class="chinese">每天我享受着生活的给予。</span><span class="english">Every day I am enjoying conferment which lives.</span></p>

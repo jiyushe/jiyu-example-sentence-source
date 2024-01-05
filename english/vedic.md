@@ -1,5 +1,7 @@
 # vedic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vedic.md)
+
 <p><span class="chinese">在韦达社会里这是女人的职责。</span><span class="english">In the Vedic society it was the woman's duty.</span></p>
 
 <p><span class="chinese">吠陀历法是建立在宇宙周期，或者说是年代之上。</span><span class="english">The Vedic calendar is based on cosmic cycles, or Yugas.</span></p>

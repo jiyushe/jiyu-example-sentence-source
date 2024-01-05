@@ -1,5 +1,7 @@
 # barstool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barstool.md)
+
 <p><span class="chinese">一个坐在高脚凳上的男人打了和他一起的女人一巴掌。</span><span class="english">MAN on a barstool SLAPS the WOMAN he's with.</span></p>
 
 <p><span class="chinese">家具。餐台，餐椅，茶几，吧椅。</span><span class="english">FURNITURE. dining table, dining chair, coffee table, barstool.</span></p>

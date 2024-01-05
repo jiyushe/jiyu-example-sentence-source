@@ -1,5 +1,7 @@
 # 供认不讳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongrenbuhui.md)
+
 <p><span class="chinese">他们对事实供认不讳。</span><span class="english">They didn't dispute the facts.</span></p>
 
 <p><span class="chinese">对毒打苏某的事情，林某等3人均供认不讳。</span><span class="english">Sumou of beating things, Lin and 3 per confessed.</span></p>

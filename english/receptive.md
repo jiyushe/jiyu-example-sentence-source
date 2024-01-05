@@ -1,5 +1,7 @@
 # receptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/receptive.md)
+
 <p><span class="chinese">你觉得学生接受你的程度如何?</span><span class="english">How receptive do you find the students ?</span></p>
 
 <p><span class="chinese">求您保守我们常存受教和悔改的心。</span><span class="english">Please keep out hearts receptive and repentant.</span></p>

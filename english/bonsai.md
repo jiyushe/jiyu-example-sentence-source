@@ -1,5 +1,7 @@
 # bonsai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonsai.md)
+
 <p><span class="chinese">我喜欢种盆栽和做陶艺。</span><span class="english">I fancy bonsai and pottery.</span></p>
 
 <p><span class="chinese">它是我的掌上盆景-----仙人球。</span><span class="english">It is my palm bonsai ----- cactus.</span></p>

@@ -1,5 +1,7 @@
 # heighten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heighten.md)
+
 <p><span class="chinese">我们如何增强幸福感呢？</span><span class="english">How do we heighten our happiness?</span></p>
 
 <p><span class="chinese">他称,"这只会加剧这场危机."</span><span class="english">That would only heighten the crisis.</span></p>

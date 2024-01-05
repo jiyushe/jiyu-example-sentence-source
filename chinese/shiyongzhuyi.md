@@ -1,5 +1,7 @@
 # 实用主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyongzhuyi.md)
+
 <p><span class="chinese">从哲学上来讲，我是个实用主义者。</span><span class="english">I'm a, philosophically I'm a pragmatist.</span></p>
 
 <p><span class="chinese">真理观是詹姆士实用主义哲学的核心内容。</span><span class="english">Outlook of truth is the core of James' pragmatism.</span></p>

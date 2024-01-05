@@ -1,5 +1,7 @@
 # repeating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repeating.md)
+
 <p><span class="chinese">但是这还是值得重复的。</span><span class="english">But it is worth repeating.</span></p>
 
 <p><span class="chinese">我现在还只是在重复问题。</span><span class="english">I'm just repeating the problem.</span></p>

@@ -1,5 +1,7 @@
 # 罪魁祸首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuikuihuoshou.md)
+
 <p><span class="chinese">她说的没错，出租车和豪华轿车就是罪魁祸首。</span><span class="english">Taxis and, yes, limos are culprits.</span></p>
 
 <p><span class="chinese">哦，天哪，宗教问题是罪魁祸首“</span><span class="english">Oh my gosh, religion is the problem."</span></p>

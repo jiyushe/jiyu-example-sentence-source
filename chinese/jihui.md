@@ -1,5 +1,7 @@
 # 击毁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jihui.md)
+
 <p><span class="chinese">他们的房屋被敌人的炮火击毁。</span><span class="english">Their houses were damaged by the enemy's shellfire.</span></p>
 
 <p><span class="chinese">他们的房屋被敌人炮火击毁了。</span><span class="english">Their houses were endamaged by the enemy's shellfire.</span></p>

@@ -1,5 +1,7 @@
 # 头彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toucai.md)
+
 <p><span class="chinese">中了头彩了！</span><span class="english">Jackpot.</span></p>
 
 <p><span class="chinese">中头彩了！</span><span class="english">Hit the jackpot!</span></p>

@@ -1,5 +1,7 @@
 # escap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escap.md)
+
 <p><span class="chinese">便宜没好货。2。他走向门去企图逃跑。</span><span class="english">He walked to the door to attempt to escap.</span></p>
 
 <p><span class="chinese">中国一向重视与联合国亚太经社会的合作。</span><span class="english">China has always attached importance to its cooperation with ESCAP.</span></p>

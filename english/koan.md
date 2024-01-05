@@ -1,5 +1,7 @@
 # koan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/koan.md)
+
 <p><span class="chinese">当重复这个独特的「谁在你里面？」</span><span class="english">The repeated use of this unique koan 'Who is in?</span></p>
 
 <p><span class="chinese">杜尚的行动颇似禅宗的棒喝。</span><span class="english">Marcel Duchamp's doings are very similar to Koan of Zend Buddhism.</span></p>

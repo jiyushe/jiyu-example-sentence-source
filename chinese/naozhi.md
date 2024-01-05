@@ -1,5 +1,7 @@
 # 脑汁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naozhi.md)
+
 <p><span class="chinese">他们在如何拉选票上绞尽了脑汁。</span><span class="english">They have studied the way of touting votes.</span></p>
 
 <p><span class="chinese">西蒙绞尽了脑汁，终于想出了一个好办法。</span><span class="english">Simon racked his brain. Then he had an idea.</span></p>

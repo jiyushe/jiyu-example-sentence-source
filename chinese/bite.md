@@ -1,5 +1,7 @@
 # 比特
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bite.md)
+
 <p><span class="chinese">丘比特的箭射得真准。</span><span class="english">Cupid shoots so trim.</span></p>
 
 <p><span class="chinese">8比特，即1个字节。</span><span class="english">So 8 bits, aka 1 byte.</span></p>

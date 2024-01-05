@@ -1,5 +1,7 @@
 # 弄巧成拙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongqiaochengzhuo.md)
+
 <p><span class="chinese">认识到自己弄巧成拙，我就试着去纠正错误。</span><span class="english">Perceiving myself in a blunder, I attempted to correct it.</span></p>
 
 <p><span class="chinese">不过，我们很快发现，其实大部分人都弄巧成拙。</span><span class="english">As we soon discovered, though, most people can't carry it off.</span></p>

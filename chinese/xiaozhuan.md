@@ -1,5 +1,7 @@
 # 小篆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozhuan.md)
+
 <p><span class="chinese">现在的学生很少有人能写一手漂亮的小篆了。</span><span class="english">There are rarely any students today who can write fewer-stroke seal character.</span></p>
 
 <p><span class="chinese">篆书又分为大篆和小篆，是汉字书体发的主要阶段。</span><span class="english">Seal is divided into Dazhuan and Xiaozhuan, is a Chinese book-an important stage.</span></p>

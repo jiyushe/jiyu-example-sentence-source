@@ -1,5 +1,7 @@
 # 流量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuliang.md)
+
 <p><span class="chinese">现金流量图？</span><span class="english">Cash-flow diagrams?</span></p>
 
 <p><span class="chinese">流量过大。</span><span class="english">Too large flowrate.</span></p>

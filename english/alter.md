@@ -1,5 +1,7 @@
 # alter 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alter.md)
+
 <p><span class="chinese">您能给锁边吗?</span><span class="english">Would you alter it?</span></p>
 
 <p><span class="chinese">你会改做这件衣服吗？</span><span class="english">Can you alter the dress?</span></p>

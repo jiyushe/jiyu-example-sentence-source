@@ -1,5 +1,7 @@
 # heartbeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartbeat.md)
+
 <p><span class="chinese">我感觉到了我的心跳。</span><span class="english">Yeah, I feel my heartbeat.</span></p>
 
 <p><span class="chinese">一皱眉，一心跳，一叹息</span><span class="english">A blink. A heartbeat. A sigh.</span></p>

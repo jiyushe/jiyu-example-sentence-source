@@ -1,5 +1,7 @@
 # pan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pan.md)
+
 <p><span class="chinese">倒进锅里。</span><span class="english">Pour into pan.</span></p>
 
 <p><span class="chinese">煎锅放油。</span><span class="english">Grease the pan.</span></p>

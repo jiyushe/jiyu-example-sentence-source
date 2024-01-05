@@ -1,5 +1,7 @@
 # 欢笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxiao.md)
+
 <p><span class="chinese">欢笑伴随我左右。</span><span class="english">Fun arounds me.</span></p>
 
 <p><span class="chinese">我要逆来顺受，忍气吞声强作欢笑。</span><span class="english">I'll grin and bear it.</span></p>

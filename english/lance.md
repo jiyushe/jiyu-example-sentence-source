@@ -1,5 +1,7 @@
 # lance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lance.md)
+
 <p><span class="chinese">用长矛刺戳。</span><span class="english">To pierce with a lance.</span></p>
 
 <p><span class="chinese">一声利响，长剑出鞘。</span><span class="english">A benefit rings, lance sheath.</span></p>

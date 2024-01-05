@@ -1,5 +1,7 @@
 # frankly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frankly.md)
+
 <p><span class="chinese">我们总是坦诚相见。</span><span class="english">Always speak frankly.</span></p>
 
 <p><span class="chinese">坦白讲，我不知道。</span><span class="english">Frankly I don't know.</span></p>

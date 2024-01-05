@@ -1,5 +1,7 @@
 # 作用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoyong.md)
+
 <p><span class="chinese">不能靠化学作用了。</span><span class="english">Not chemicals.</span></p>
 
 <p><span class="chinese">受吸引力的作用</span><span class="english">I'm drawn to it.</span></p>

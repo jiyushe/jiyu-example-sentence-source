@@ -1,5 +1,7 @@
 # alive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alive.md)
+
 <p><span class="chinese">你是活着的。</span><span class="english">You are alive.</span></p>
 
 <p><span class="chinese">摄政王还活着？</span><span class="english">The Regent alive?</span></p>

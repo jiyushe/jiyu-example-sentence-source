@@ -1,5 +1,7 @@
 # hurtling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurtling.md)
+
 <p><span class="chinese">一个球劈脸向她打来。</span><span class="english">A ball came hurtling towards her face.</span></p>
 
 <p><span class="chinese">一列电车正沿著轨道急驶。</span><span class="english">A trolley is hurtling down the tracks.</span></p>

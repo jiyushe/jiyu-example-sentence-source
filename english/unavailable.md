@@ -1,5 +1,7 @@
 # unavailable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unavailable.md)
+
 <p><span class="chinese">你认为他吝于付出感情？</span><span class="english">You think he's emotionally unavailable?</span></p>
 
 <p><span class="chinese">刀豆种子。刀豆这种蔬菜在云南是没有的。</span><span class="english">A sword bean. It's unavailable in Yunnan.</span></p>

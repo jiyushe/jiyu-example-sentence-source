@@ -1,5 +1,7 @@
 # philippines
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philippines.md)
+
 <p><span class="chinese">最大的例外是菲律宾。</span><span class="english">The big exception was the Philippines.</span></p>
 
 <p><span class="chinese">菲律宾吕宋岛东南岸港口。</span><span class="english">East coast ports in Luzon, Philippines.</span></p>

@@ -1,5 +1,7 @@
 # fatalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatalism.md)
+
 <p><span class="chinese">但所有人都变成了得过且过的宿命论者。</span><span class="english">But all had a sense of fatalism.</span></p>
 
 <p><span class="chinese">宿命论是纳齐恩斯基的唯一寄托。</span><span class="english">Fatalism was Nadiensky's only refuge.</span></p>

@@ -1,5 +1,7 @@
 # partner 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partner_1.md)
+
 <p><span class="chinese">有一个伙伴。</span><span class="english">Have a partner.</span></p>
 
 <p><span class="chinese">芭蕾舞搭档。</span><span class="english">Your ballet partner.</span></p>

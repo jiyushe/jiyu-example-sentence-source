@@ -1,5 +1,7 @@
 # maul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maul.md)
+
 <p><span class="chinese">达斯·摩尔砍死了她。</span><span class="english">Darth Maul cut her down.</span></p>
 
 <p><span class="chinese">我的意思是，达斯·摩尔已经被砍成两截了。</span><span class="english">I mean Darth Maul got cut in half.</span></p>

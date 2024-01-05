@@ -1,5 +1,7 @@
 # niche
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niche.md)
+
 <p><span class="chinese">那每一个壁龛里。</span><span class="english">In every niche in the wall.</span></p>
 
 <p><span class="chinese">网站在其所处行业是权威站点。</span><span class="english">The site is an authority in its niche.</span></p>

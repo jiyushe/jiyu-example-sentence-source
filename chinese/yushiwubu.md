@@ -1,5 +1,7 @@
 # 于事无补
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushiwubu.md)
+
 <p><span class="chinese">乱来于事无补。</span><span class="english">To hugger-mugger won't help you.</span></p>
 
 <p><span class="chinese">严密监视裸官也于事无补。</span><span class="english">Nor will the close monitoring of naked officials.</span></p>

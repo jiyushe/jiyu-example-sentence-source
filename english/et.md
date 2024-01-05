@@ -1,5 +1,7 @@
 # et
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/et.md)
+
 <p><span class="chinese">他说了诸如此类的很多话</span><span class="english">et cetera, et cetera.</span></p>
 
 <p><span class="chinese">Galdi的研究证明是肯定的。</span><span class="english">The study by Galdi et al.</span></p>

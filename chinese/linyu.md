@@ -1,5 +1,7 @@
 # 淋浴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linyu.md)
+
 <p><span class="chinese">淋浴还是泡澡？</span><span class="english">Shower or bath?</span></p>
 
 <p><span class="chinese">如防水的淋浴间收音机。</span><span class="english">Waterproof shower radios.</span></p>

@@ -1,5 +1,7 @@
 # 假言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiayan.md)
+
 <p><span class="chinese">法律假言推理是诉讼活动中的重要推理。</span><span class="english">The legal hypothesis reasoning is an important reasoning in the process of adjudication.</span></p>
 
 <p><span class="chinese">假言选言推理是一种得到广泛运用的推理形式，在论辩过程中使用更为频繁。</span><span class="english">Dilemma is a widely used inference form. It is more frequently used in the course of the debate.</span></p>

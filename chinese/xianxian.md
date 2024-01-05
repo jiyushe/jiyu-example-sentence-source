@@ -1,5 +1,7 @@
 # 先贤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxian.md)
+
 <p><span class="chinese">古有先贤，今有能为！</span><span class="english">The thou has first wise, have now can for!</span></p>
 
 <p><span class="chinese">即使尧舜这样的先贤也做不到。</span><span class="english">Even Yao and Shun could not have done as much.</span></p>

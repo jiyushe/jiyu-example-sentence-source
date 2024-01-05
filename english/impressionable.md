@@ -1,5 +1,7 @@
 # impressionable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impressionable.md)
+
 <p><span class="chinese">这孩子正处于易受影响的年龄。</span><span class="english">The child is at an impressionable age.</span></p>
 
 <p><span class="chinese">白丽莱茜本是个敏感的孩子。</span><span class="english">Berenice had been an impressionable child.</span></p>

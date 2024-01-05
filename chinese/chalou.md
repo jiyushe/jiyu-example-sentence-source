@@ -1,5 +1,7 @@
 # 茶楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chalou.md)
+
 <p><span class="chinese">那我就先在这家茶楼休息一会儿。</span><span class="english">I'll take a rest at this teahouse.</span></p>
 
 <p><span class="chinese">几家茶楼，还真挺值得去的。</span><span class="english">there's a couple of tea houses that are really good to go to.</span></p>

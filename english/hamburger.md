@@ -1,5 +1,7 @@
 # hamburger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hamburger.md)
+
 <p><span class="chinese">汉堡是用绞碎的牛肉做的。</span><span class="english">Hamburger is made from ground beef.</span></p>
 
 <p><span class="chinese">我想要一个配好了各种材料的汉堡包。</span><span class="english">I'd like a hamburger with the works.</span></p>

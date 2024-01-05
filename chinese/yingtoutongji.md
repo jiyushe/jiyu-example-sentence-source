@@ -1,5 +1,7 @@
 # 迎头痛击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingtoutongji.md)
+
 <p><span class="chinese">他们迎头痛击敌人。</span><span class="english">They made head against the enemy.</span></p>
 
 <p><span class="chinese">我们给予侵略者迎头痛击。</span><span class="english">We gave the intruders a hot welcome.</span></p>

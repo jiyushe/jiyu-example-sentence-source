@@ -1,5 +1,7 @@
 # wristband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wristband.md)
+
 <p><span class="chinese">袖口有魔术贴的皮带扣。</span><span class="english">The wristband has a velcro strap clasp.</span></p>
 
 <p><span class="chinese">我的腕带。我和你父亲结婚时戴着它。</span><span class="english">My wristband. I wore it when I married your father.</span></p>

@@ -1,5 +1,7 @@
 # planning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planning.md)
+
 <p><span class="chinese">不要再定计划了。</span><span class="english">Stop planning.</span></p>
 
 <p><span class="chinese">计划性差。</span><span class="english">Planning poorly.</span></p>

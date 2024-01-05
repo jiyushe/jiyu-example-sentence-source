@@ -1,5 +1,7 @@
 # minesweeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minesweeper.md)
+
 <p><span class="chinese">开始“扫雷”游戏。</span><span class="english">Begins a game of Minesweeper.</span></p>
 
 <p><span class="chinese">它是被PLA海军操作的唯一适于远航的扫雷舰。</span><span class="english">It is the only seagoing minesweeper operated by the PLA Navy.</span></p>

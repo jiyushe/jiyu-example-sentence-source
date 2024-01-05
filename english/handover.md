@@ -1,5 +1,7 @@
 # handover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handover.md)
+
 <p><span class="chinese">无论这个事情发生还是不发生，这种权利的移交都不可能太顺利。</span><span class="english">Buta handover of power—whenever that happens—may not be smooth.</span></p>
 
 <p><span class="chinese">哈瓦斯先生盛赞这次移交是“伟大的、高尚的行为”。</span><span class="english">Mr Hawass praised the handover as "a great, civilised gesture".</span></p>

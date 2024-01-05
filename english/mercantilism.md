@@ -1,5 +1,7 @@
 # mercantilism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercantilism.md)
+
 <p><span class="chinese">长期而言，中国终将会脱离重商主义。</span><span class="english">Over time, China will move away from mercantilism.</span></p>
 
 <p><span class="chinese">金融重商主义的危害也许有点危言耸听。</span><span class="english">The threat of financial mercantilism can be overstated.</span></p>

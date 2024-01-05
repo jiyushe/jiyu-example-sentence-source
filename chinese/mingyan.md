@@ -1,5 +1,7 @@
 # 名言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingyan.md)
+
 <p><span class="chinese">我喜爱这则名言。</span><span class="english">I love this quote.</span></p>
 
 <p><span class="chinese">这是句非常有影响力的名言。</span><span class="english">This wa s a very influential quote.</span></p>

@@ -1,5 +1,7 @@
 # serif
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serif.md)
+
 <p><span class="chinese">不带这种衬线的字母称作无衬线字母。</span><span class="english">Alphabets without serifs are called sans serif.</span></p>
 
 <p><span class="chinese">比如说，它应该是一个衬线字体还是一个无衬线字体呢？</span><span class="english">Should it be a serif or a sans serif for example?</span></p>

@@ -1,5 +1,7 @@
 # 令人捧腹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingrenpengfu.md)
+
 <p><span class="chinese">那是个令人捧腹的笑话。</span><span class="english">That is a hilarious joke.</span></p>
 
 <p><span class="chinese">这是恶俗与摩登令人捧腹的组合。</span><span class="english">It's a hilarious mix of kitsch and modern wonder.</span></p>

@@ -1,5 +1,7 @@
 # malay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malay.md)
+
 <p><span class="chinese">吉兰丹马来文化的摇篮。</span><span class="english">Cradle of Malay Culture!</span></p>
 
 <p><span class="chinese">我可以讲福建话、英语和马来语。</span><span class="english">I speak Fujian dialect, English and Malay.</span></p>

@@ -1,5 +1,7 @@
 # 感应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganying_1.md)
+
 <p><span class="chinese">女人有懦夫感应。</span><span class="english">Women have WUSS-DAR.</span></p>
 
 <p><span class="chinese">三相感应马达“，”</span><span class="english">Three Phase Induction Motor.</span></p>

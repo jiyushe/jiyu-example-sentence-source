@@ -1,5 +1,7 @@
 # 文学革命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxuegeming.md)
+
 <p><span class="chinese">促成了五四文学革命。</span><span class="english">Help realize the May 4th literature revolution.</span></p>
 
 <p><span class="chinese">这是对五四文学革命的一次再革命。</span><span class="english">This is a re-revolution in literary revolution.</span></p>

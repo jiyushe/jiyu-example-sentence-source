@@ -1,5 +1,7 @@
 # refraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refraction.md)
+
 <p><span class="chinese">可能是光的折射。</span><span class="english">It may have been refraction.</span></p>
 
 <p><span class="chinese">光的折射是什么？</span><span class="english">What is meant by light refraction?</span></p>

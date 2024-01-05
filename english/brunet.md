@@ -1,5 +1,7 @@
 # brunet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brunet.md)
+
 <p><span class="chinese">门框同样为深色的胡桃木。</span><span class="english">Doorcase is brunet Walnut likewise.</span></p>
 
 <p><span class="chinese">深色衣服上的油渍，用残茶叶搓洗能去污。</span><span class="english">Brunet dress in the oil, tea 8g into can decontamination.</span></p>

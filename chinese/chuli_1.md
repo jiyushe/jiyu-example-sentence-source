@@ -1,5 +1,7 @@
 # 畜力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuli_1.md)
+
 <p><span class="chinese">驯鹿是畜力动物。</span><span class="english">"The reindeer were pack animals, " Francis says.</span></p>
 
 <p><span class="chinese">运河的开掘主要依靠人力和畜力。</span><span class="english">Using horses and manpower, the canal was dug across the state.</span></p>

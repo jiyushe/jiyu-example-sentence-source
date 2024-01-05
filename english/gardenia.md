@@ -1,5 +1,7 @@
 # gardenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gardenia.md)
+
 <p><span class="chinese">现在我想说一个关于栀子花的故事。</span><span class="english">Now i want to talk story about gardenia.</span></p>
 
 <p><span class="chinese">你找不到那种栀子的了！</span><span class="english">You will not find that type of gardenia.</span></p>

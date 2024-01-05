@@ -1,5 +1,7 @@
 # dishcloth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishcloth.md)
+
 <p><span class="chinese">此外，抹布还要经常更换。</span><span class="english">In addition, the dishcloth to replace frequently.</span></p>
 
 <p><span class="chinese">所以抹布要时常拿出来晒一下，就能消灭大部分细菌。</span><span class="english">So the dishcloth to often take out, can destroy most bacteria.</span></p>

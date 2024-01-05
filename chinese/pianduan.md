@@ -1,5 +1,7 @@
 # 片段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianduan.md)
+
 <p><span class="chinese">她听到了片段的谈话。</span><span class="english">She heard santches of talk.</span></p>
 
 <p><span class="chinese">创艺盒子作品片段剪辑。</span><span class="english">A clip of Kinetobox's works.</span></p>

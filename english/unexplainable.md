@@ -1,5 +1,7 @@
 # unexplainable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unexplainable.md)
+
 <p><span class="chinese">生活无从解释，所以别再试着去解释它，就这样活下去吧。</span><span class="english">Life is unexplainable. So, don't try to explain it. Just live it.</span></p>
 
 <p><span class="chinese">去年的决赛很非同一般而且也没法解释，你知道。</span><span class="english">Last year's final was just remarkable and unexplainable , you know.</span></p>

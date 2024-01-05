@@ -1,5 +1,7 @@
 # contextual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contextual.md)
+
 <p><span class="chinese">什么是上下文门户？</span><span class="english">What is a contextual portal?</span></p>
 
 <p><span class="chinese">点击小圆点打开一个上下文窗口</span><span class="english">Clicking a dot brings up a contextual window.</span></p>

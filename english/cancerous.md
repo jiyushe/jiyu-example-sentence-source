@@ -1,5 +1,7 @@
 # cancerous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cancerous.md)
+
 <p><span class="chinese">她必须切除每一片癌变的组织。</span><span class="english">She must excise every scrap of cancerous tissue.</span></p>
 
 <p><span class="chinese">但假如是个能导致细胞癌变的基因呢</span><span class="english">What if this is a gene that's causing a cell to be cancerous?</span></p>

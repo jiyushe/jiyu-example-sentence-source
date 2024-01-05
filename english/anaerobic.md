@@ -1,5 +1,7 @@
 # anaerobic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaerobic.md)
+
 <p><span class="chinese">什么是无氧运动？。</span><span class="english">What Is Anaerobic Exercise?</span></p>
 
 <p><span class="chinese">极速短跑是一种无氧运动。</span><span class="english">Wind sprints are an anaerobic exercise.</span></p>

@@ -1,5 +1,7 @@
 # twain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twain.md)
+
 <p><span class="chinese">马克吐温知道怎么推销自己的书。</span><span class="english">Mark Twain knew how to sell a book.</span></p>
 
 <p><span class="chinese">“好吧，我来告诉你们，”马克。土温说。</span><span class="english">"Well, I will tell you, "said Mark Twain.</span></p>

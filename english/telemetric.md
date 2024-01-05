@@ -1,5 +1,7 @@
 # telemetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telemetric.md)
+
 <p><span class="chinese">到了那个时侯，地球的遥测体将遍布整个太阳系。</span><span class="english">Then, the earth's telemetric body will span the reaches of the solar system.</span></p>
 
 <p><span class="chinese">重点介绍了自主研制的人体血管壁动态信息无线多道遥测电脑装置。</span><span class="english">A new telemetric device of multi-ways dynamic information is developed based on PC.</span></p>

@@ -1,5 +1,7 @@
 # augmented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/augmented.md)
+
 <p><span class="chinese">佣金补充了他的微薄的薪水。</span><span class="english">His small salary is augmented by a commission.</span></p>
 
 <p><span class="chinese">一小笔遗产增加了他的收入。</span><span class="english">His salary is augmented by a small inheritance.</span></p>

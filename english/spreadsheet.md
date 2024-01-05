@@ -1,5 +1,7 @@
 # spreadsheet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spreadsheet.md)
+
 <p><span class="chinese">映射就像电子表格公式。</span><span class="english">The maps are like spreadsheet formulas.</span></p>
 
 <p><span class="chinese">出口职位点子作为一个电子表格。</span><span class="english">Export positions in pips as a spreadsheet.</span></p>

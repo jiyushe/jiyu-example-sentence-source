@@ -1,5 +1,7 @@
 # 骨气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guqi.md)
+
 <p><span class="chinese">他一点儿骨气都没有。</span><span class="english">He has no backbone.</span></p>
 
 <p><span class="chinese">我真的太没骨气了。</span><span class="english">I really have no guts.</span></p>

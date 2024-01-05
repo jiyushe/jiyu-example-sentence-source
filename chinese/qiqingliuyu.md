@@ -1,5 +1,7 @@
 # 七情六欲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqingliuyu.md)
+
 <p><span class="chinese">人的七情六欲，都隐藏在乱发遮掩的脑袋里。</span><span class="english">We conceal our feelings and desires in the head with untidy hair.</span></p>
 
 <p><span class="chinese">人有七情六欲，情不顺欲不达则悲生。</span><span class="english">People have emotions, feelings did not ring true To reach the grief of Health.</span></p>

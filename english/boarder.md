@@ -1,5 +1,7 @@
 # boarder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boarder.md)
+
 <p><span class="chinese">有段时间我妹妹是寄宿生。</span><span class="english">My younger sister was at one time a boarder.</span></p>
 
 <p><span class="chinese">第一次滑下来的时候我不小心撞上玩雪地滑板的人。</span><span class="english">On my first time I accidentally crashed into a snow boarder.</span></p>

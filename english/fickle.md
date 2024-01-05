@@ -1,5 +1,7 @@
 # fickle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fickle.md)
+
 <p><span class="chinese">他是一个用情不专的人。</span><span class="english">He is a fickle lover.</span></p>
 
 <p><span class="chinese">做环境生意是很难正确把握的。</span><span class="english">The environment biz is fickle.</span></p>

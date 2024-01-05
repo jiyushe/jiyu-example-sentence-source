@@ -1,5 +1,7 @@
 # spun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spun.md)
+
 <p><span class="chinese">他兴奋的旋转起来。</span><span class="english">He spun with excitement.</span></p>
 
 <p><span class="chinese">他编造了一个他自己冒险的故事。</span><span class="english">He spun a tale of his adventures.</span></p>

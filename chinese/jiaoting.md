@@ -1,5 +1,7 @@
 # 教廷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoting.md)
+
 <p><span class="chinese">教廷外交几乎同教皇的职位一样古老。</span><span class="english">Papal diplomacy is almost as old as the papacy.</span></p>
 
 <p><span class="chinese">但是，反对人工辅助受孕则是教廷的正式立场。</span><span class="english">But opposition to assisted conception is official papal policy.</span></p>

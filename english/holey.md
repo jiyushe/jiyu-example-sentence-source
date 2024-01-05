@@ -1,5 +1,7 @@
 # holey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holey.md)
+
 <p><span class="chinese">我都不知道在说什么了！</span><span class="english">Holey moley, I don't even know what that means!</span></p>
 
 <p><span class="chinese">继荷兰多孔奶酪之后，现在也有了一种带孔的荷兰字体。</span><span class="english">After Dutch holey cheese, there now is a Dutch font with holes as well.</span></p>

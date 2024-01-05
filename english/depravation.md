@@ -1,5 +1,7 @@
 # depravation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depravation.md)
+
 <p><span class="chinese">告别昨天的恶化。</span><span class="english">Say goodbye to the depravation of yesterday.</span></p>
 
 <p><span class="chinese">堕落与羞辱充塞著他的童年。</span><span class="english">Childhood was nothing but depravation and humiliation.</span></p>

@@ -1,5 +1,7 @@
 # oryx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oryx.md)
+
 <p><span class="chinese">一头羚羊顽固的游弋向一个小水塘，水塘的附近扎着一顶游客的帐篷。</span><span class="english">An oryx cruised doggedly toward a water hole at a nearby tourist camp.</span></p>
 
 <p><span class="chinese">原产于阿拉伯半岛的大羚羊，是一种大型羚羊，头上有两个长角。</span><span class="english">The Arabian oryx is a large antelope with two long horns, native to the Arabian Peninsula.</span></p>

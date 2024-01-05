@@ -1,5 +1,7 @@
 # 索要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoyao.md)
+
 <p><span class="chinese">我打算去函索要一份目录单。</span><span class="english">I'm going to send for a catalog.</span></p>
 
 <p><span class="chinese">我们去函索要了新目录。</span><span class="english">We send off for the new catalogue.</span></p>

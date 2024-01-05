@@ -1,5 +1,7 @@
 # 浓妆艳抹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongzhuangyanmo.md)
+
 <p><span class="chinese">不要浓妆艳抹。</span><span class="english">Don't paint on the makeup.</span></p>
 
 <p><span class="chinese">她在女盥洗室里浓妆艳抹了一番。</span><span class="english">She tarted up in the Ladies.</span></p>

@@ -1,5 +1,7 @@
 # 排遣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiqian.md)
+
 <p><span class="chinese">菲比帮助莫妮卡排遣痛苦。</span><span class="english">Phoebe helps Monica try to relax.</span></p>
 
 <p><span class="chinese">她借音乐来排遣内心的忧伤。</span><span class="english">She beguiled her sorrow with music.</span></p>

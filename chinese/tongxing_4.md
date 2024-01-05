@@ -1,5 +1,7 @@
 # 通行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxing_4.md)
+
 <p><span class="chinese">此路禁止通行！</span><span class="english">No passage this way!</span></p>
 
 <p><span class="chinese">请给我一张一日通行票。</span><span class="english">I'd like a one-day pass.</span></p>

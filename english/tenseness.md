@@ -1,5 +1,7 @@
 # tenseness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenseness.md)
+
 <p><span class="chinese">过度的焦虑和紧张会引起失眠。</span><span class="english">Worries and tenseness can lead to insomnia.</span></p>
 
 <p><span class="chinese">高潮过后紧张解除了。</span><span class="english">After the climax, the tenseness is relieved.</span></p>

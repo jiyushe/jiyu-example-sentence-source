@@ -1,5 +1,7 @@
 # courage 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courage.md)
+
 <p><span class="chinese">一个是勇气。</span><span class="english">One is courage.</span></p>
 
 <p><span class="chinese">当时，我缺乏勇气。</span><span class="english">I lacked the courage.</span></p>

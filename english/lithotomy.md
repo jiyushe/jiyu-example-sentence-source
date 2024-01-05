@@ -1,5 +1,7 @@
 # lithotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithotomy.md)
+
 <p><span class="chinese">结论改良截石位摆放方法有利于减少截石位术后并发症的发生。</span><span class="english">Conclusion The improved method for lithotomy position can reduce the postoperative complications.</span></p>
 
 <p><span class="chinese">有两位人因无法架脚或截石姿势以接受传统式的内视镜检查。</span><span class="english">Two patients were unable to assume a lithotomy position for the conventional cystoscopic procedure.</span></p>

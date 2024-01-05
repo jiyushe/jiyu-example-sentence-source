@@ -1,5 +1,7 @@
 # tropic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tropic.md)
+
 <p><span class="chinese">我们必须保护热带雨林。</span><span class="english">We must protect tropic forests.</span></p>
 
 <p><span class="chinese">西洋樱草生长于热带国家吗?。</span><span class="english">Does cowslip grow in tropic countries?</span></p>

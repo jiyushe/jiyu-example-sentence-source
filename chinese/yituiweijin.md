@@ -1,5 +1,7 @@
 # 以退为进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yituiweijin.md)
+
 <p><span class="chinese">最后，以退为进，目光长远。</span><span class="english">Finally, the example, long-term vision.</span></p>
 
 <p><span class="chinese">宽容要以退为进、积极地防御。</span><span class="english">Tolerance to retreat and active defense.</span></p>

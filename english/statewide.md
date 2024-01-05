@@ -1,5 +1,7 @@
 # statewide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statewide.md)
+
 <p><span class="chinese">过关率的下降在整个州内都广泛存在。</span><span class="english">The falloff in passing rates occurred statewide.</span></p>
 
 <p><span class="chinese">参议员经各州偶数年举行的选举产生。</span><span class="english">Senators are chosen in statewide elections held in even-numbered years.</span></p>

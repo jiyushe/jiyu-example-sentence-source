@@ -1,5 +1,7 @@
 # underhand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underhand.md)
+
 <p><span class="chinese">正直的人不使阴招。</span><span class="english">A straight man does nothing underhand.</span></p>
 
 <p><span class="chinese">它不公开，因为它是在地下进行的。</span><span class="english">It is obscure because it is underhand.</span></p>

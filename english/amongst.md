@@ -1,5 +1,7 @@
 # amongst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amongst.md)
+
 <p><span class="chinese">除此之外，我们还有很多的教程。</span><span class="english">Amongst others we have lots of Tutorials.</span></p>
 
 <p><span class="chinese">抛去其它的事不管，我毕竟是一个老练的神术师。</span><span class="english">I am a skilled Diviner. Amongst other things.</span></p>

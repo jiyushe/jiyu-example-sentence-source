@@ -1,5 +1,7 @@
 # preseason
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preseason.md)
+
 <p><span class="chinese">我不希望赢得一场季前赛的比赛15-0。</span><span class="english">I don't want to win a preseason match 15-0.</span></p>
 
 <p><span class="chinese">丹尼尔奥尔顿的膝伤可能让他错过季前赛。</span><span class="english">Daniel Orton’s knee will cause him to miss the preseason.</span></p>

@@ -1,5 +1,7 @@
 # undeclared
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undeclared.md)
+
 <p><span class="chinese">其他关键共和党成员仍未表明态度。</span><span class="english">Other key Republicans remain undeclared.</span></p>
 
 <p><span class="chinese">对一些学生来说他们愿意选择一个没被申报的专业。</span><span class="english">For some students, having an undeclared major is appropriate for them.</span></p>

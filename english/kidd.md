@@ -1,5 +1,7 @@
 # kidd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kidd.md)
+
 <p><span class="chinese">更糟的是，基德没有遇到任何海盗。</span><span class="english">Even worse, Kidd didn't encounter any pirates.</span></p>
 
 <p><span class="chinese">基德原本认为这是一艘隶属于法国的船只。</span><span class="english">Kidd originally believed the vessel sailed under the French crown.</span></p>

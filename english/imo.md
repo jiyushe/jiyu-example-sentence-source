@@ -1,5 +1,7 @@
 # imo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imo.md)
+
 <p><span class="chinese">在我看来，跟注是糟糕的。</span><span class="english">Call is terrible IMO.</span></p>
 
 <p><span class="chinese">他们是大麻烦海事组织。</span><span class="english">They are in big trouble imo.</span></p>

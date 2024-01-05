@@ -1,5 +1,7 @@
 # toxicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toxicity.md)
+
 <p><span class="chinese">洋地黄，锂毒性。</span><span class="english">Digitalis, lithium toxicity.</span></p>
 
 <p><span class="chinese">五月甲氨蝶呤增加毒性。</span><span class="english">May increase toxicity of methotrexate.</span></p>

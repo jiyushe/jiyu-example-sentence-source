@@ -1,5 +1,7 @@
 # charmed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charmed.md)
+
 <p><span class="chinese">雷德蒙先生，见到您很荣幸。</span><span class="english">Charmed to see you, Mr. Redond.</span></p>
 
 <p><span class="chinese">他似有符咒护身。</span><span class="english">It seemed as if he had a charmed life.</span></p>

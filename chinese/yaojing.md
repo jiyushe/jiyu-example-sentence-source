@@ -1,5 +1,7 @@
 # 妖精
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaojing.md)
+
 <p><span class="chinese">其中有一个妖精问，“是白面包吗？</span><span class="english">Is it white bread?</span></p>
 
 <p><span class="chinese">“天堂与妖精”。</span><span class="english">Paradise and the peri.</span></p>

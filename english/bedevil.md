@@ -1,5 +1,7 @@
 # bedevil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedevil.md)
+
 <p><span class="chinese">信用问题困扰了一大批人。</span><span class="english">Crump Credit problems bedevil a large number of people.</span></p>
 
 <p><span class="chinese">类似的问题业困扰这中国的风力涡轮产业。</span><span class="english">Similar problems bedevil the wind turbine industry in China.</span></p>

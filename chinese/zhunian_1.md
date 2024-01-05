@@ -1,5 +1,7 @@
 # 逐年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunian_1.md)
+
 <p><span class="chinese">生产成本逐年下降。</span><span class="english">Production costs come down every year.</span></p>
 
 <p><span class="chinese">从1971年起，新专利逐年减少。</span><span class="english">From 1971, new patents decreased each year.</span></p>

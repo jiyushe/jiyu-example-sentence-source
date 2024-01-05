@@ -1,5 +1,7 @@
 # 死里逃生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/silitaosheng.md)
+
 <p><span class="chinese">这个斗牛士真是死里逃生。</span><span class="english">The matador had a narrow escape.</span></p>
 
 <p><span class="chinese">我们报恩的时候到了，扔出蜂巢你就能死里逃生。</span><span class="english">Throw our beehive and we'll save you.</span></p>

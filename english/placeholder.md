@@ -1,5 +1,7 @@
 # placeholder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placeholder.md)
+
 <p><span class="chinese">XXXXX占位符是散列值。</span><span class="english">The XXXXX placeholder is a hash code.</span></p>
 
 <p><span class="chinese">有首字下沉的那本书出现了。</span><span class="english">The book with the placeholder text shows up.</span></p>

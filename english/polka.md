@@ -1,5 +1,7 @@
 # polka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polka.md)
+
 <p><span class="chinese">象没有节奏的波尔卡舞。</span><span class="english">Like a polka with no dots.</span></p>
 
 <p><span class="chinese">鞋上有圆点的花纹。</span><span class="english">They have polka dots on them.</span></p>

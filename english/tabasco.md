@@ -1,5 +1,7 @@
 # tabasco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabasco.md)
+
 <p><span class="chinese">伏特加，柠檬汁，胡椒，盐，辣椒水，番茄汁。</span><span class="english">Vodak, Lemon juice, pepper, salt, Tabasco Tomato juice.</span></p>
 
 <p><span class="chinese">姜汁醋，香油大蒜汁，柠檬角，辣椒仔。</span><span class="english">Ginger and Vinegar, Garlic Sesame oil, Lemon Wedge, Tabasco.</span></p>

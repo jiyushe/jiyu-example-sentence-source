@@ -1,5 +1,7 @@
 # 推说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuishuo.md)
+
 <p><span class="chinese">我推说疲乏就告退了。</span><span class="english">I pleaded fatigue, and excused myself.</span></p>
 
 <p><span class="chinese">伊丽莎白推说是竞选活动引起的紧张不安。</span><span class="english">Elizabeth shrugs it off as campaign jitters.</span></p>

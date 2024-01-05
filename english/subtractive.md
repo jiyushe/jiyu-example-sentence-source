@@ -1,5 +1,7 @@
 # subtractive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtractive.md)
+
 <p><span class="chinese">这是一个减法色彩空间的道路上油墨工作的基础。</span><span class="english">It's a subtractive color space based on the way inks work.</span></p>
 
 <p><span class="chinese">参阅加色法原色，减色法原色。</span><span class="english">See Additive primary colours, Subtractive primary colours.</span></p>

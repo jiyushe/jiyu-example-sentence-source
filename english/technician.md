@@ -1,5 +1,7 @@
 # technician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technician.md)
+
 <p><span class="chinese">你们可以派个技术员过来吗？</span><span class="english">Could you send a technician round?</span></p>
 
 <p><span class="chinese">他是我厂的技术员。</span><span class="english">He is a technician of our factory.</span></p>

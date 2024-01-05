@@ -1,5 +1,7 @@
 # 三足鼎立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanzudingli.md)
+
 <p><span class="chinese">罗马帝国又一次形成了三足鼎立的局面。</span><span class="english">The empire was once again divided into three.</span></p>
 
 <p><span class="chinese">6月20日的一项民意调查显示出一种三足鼎立的态势。</span><span class="english">A June 20 poll had the race a three-way dead heat.</span></p>

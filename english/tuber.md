@@ -1,5 +1,7 @@
 # tuber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuber.md)
+
 <p><span class="chinese">究竟亚贡雪莲果的果实是什么味道的呢？</span><span class="english">What does yacon tuber taste like?</span></p>
 
 <p><span class="chinese">政府也开始将注意力转向马铃薯。</span><span class="english">Governments are also turning to the tuber.</span></p>

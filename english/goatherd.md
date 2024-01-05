@@ -1,5 +1,7 @@
 # goatherd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goatherd.md)
+
 <p><span class="chinese">他的父亲是牧羊人。</span><span class="english">His father is a goatherd.</span></p>
 
 <p><span class="chinese">而元类才是幕后的‘牧羊人’。</span><span class="english">And yuan kind just be backstage ' goatherd '.</span></p>

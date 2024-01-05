@@ -1,5 +1,7 @@
 # rep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rep.md)
+
 <p><span class="chinese">这是预算中一个坏的代表。</span><span class="english">This is where budgets get a bad rep.</span></p>
 
 <p><span class="chinese">为什么你决定成为一个投连的销售代表呢？</span><span class="english">Why did you decide to become a LINK rep?</span></p>

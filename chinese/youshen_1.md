@@ -1,5 +1,7 @@
 # 有神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshen_1.md)
+
 <p><span class="chinese">这有神知道。</span><span class="english">God knoweth.</span></p>
 
 <p><span class="chinese">人体被注入了有神性的灵魂。</span><span class="english">It's infused with divine spirit.</span></p>

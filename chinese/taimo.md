@@ -1,5 +1,7 @@
 # 胎膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taimo.md)
+
 <p><span class="chinese">我的胎膜破裂了，羊水颜色不清澈——是绿褐色的。</span><span class="english">My membranes ruptured, and the fluid isn’t clear—it’s greenish brown.</span></p>
 
 <p><span class="chinese">把胎膜发霉的肺脏以及气管剁碎，搅和在一起来冒充。</span><span class="english">Cauls mouldy tripes windpipes faked and minced up . puzzle find the meat.</span></p>

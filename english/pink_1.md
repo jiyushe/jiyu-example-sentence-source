@@ -1,5 +1,7 @@
 # pink 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pink_1.md)
+
 <p><span class="chinese">把沿帽涂成粉色。</span><span class="english">Colour the cap pink.</span></p>
 
 <p><span class="chinese">粉红色，搭配棕色边饰。</span><span class="english">Pink with brown trim.</span></p>

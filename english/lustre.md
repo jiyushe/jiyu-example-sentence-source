@@ -1,5 +1,7 @@
 # lustre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lustre.md)
+
 <p><span class="chinese">她的眼睛失去了光泽。</span><span class="english">Her eyes lost their lustre.</span></p>
 
 <p><span class="chinese">好的名声在黑暗中也会毫光四射。</span><span class="english">A good name keeps lustre in the dark.</span></p>

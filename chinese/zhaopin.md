@@ -1,5 +1,7 @@
 # 招聘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaopin.md)
+
 <p><span class="chinese">你现在招聘人吗?。</span><span class="english">Are you hiring now?</span></p>
 
 <p><span class="chinese">招聘专家支招，如何在2017年获得一份满意的工作？</span><span class="english">How to get a job in 2017?</span></p>

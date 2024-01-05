@@ -1,5 +1,7 @@
 # convivial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convivial.md)
+
 <p><span class="chinese">它已成为一个更加欢乐的公共空间。</span><span class="english">It has become a more convivial public space.</span></p>
 
 <p><span class="chinese">把好吃的好喝的拿出来，这样每个人都能感受到欢乐畅快。</span><span class="english">Put out good food and drink so that everyone can feel convivial and happy.</span></p>

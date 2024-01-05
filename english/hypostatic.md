@@ -1,5 +1,7 @@
 # hypostatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypostatic.md)
+
 <p><span class="chinese">这次则是实体经济出了问题。</span><span class="english">It is hypostatic economy gave an issue this.</span></p>
 
 <p><span class="chinese">一方面，实体经济受到很大冲击。</span><span class="english">On one hand, hypostatic economy gets very big impact.</span></p>

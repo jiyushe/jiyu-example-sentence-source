@@ -1,5 +1,7 @@
 # 神经末梢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjingmoshao.md)
+
 <p><span class="chinese">神经末梢在皮肤和大脑之间分程传递讯息。</span><span class="english">Nerve endings relay messages between the skin and the brain.</span></p>
 
 <p><span class="chinese">它让某些神经末梢重新活跃起来，所以感觉很不错。</span><span class="english">It gets certain nerve endings going again, so it’s been really good that way.</span></p>

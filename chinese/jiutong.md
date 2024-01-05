@@ -1,5 +1,7 @@
 # 酒桶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiutong.md)
+
 <p><span class="chinese">是时候碾平酒桶了！</span><span class="english">Time to roll out the barrel!</span></p>
 
 <p><span class="chinese">他的酒桶在西班牙的销量不错。</span><span class="english">He sold a lot of them in Spain.</span></p>

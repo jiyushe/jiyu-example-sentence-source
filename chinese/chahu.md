@@ -1,5 +1,7 @@
 # 茶壶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chahu.md)
+
 <p><span class="chinese">把茶壶精彩的茶。</span><span class="english">Teapots make wonderful tea.</span></p>
 
 <p><span class="chinese">我们仍用茶壶沏茶。</span><span class="english">We still make tea in teapots.</span></p>

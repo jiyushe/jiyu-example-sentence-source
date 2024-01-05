@@ -1,5 +1,7 @@
 # 巍峨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weie.md)
+
 <p><span class="chinese">像巍峨绝顶的层层深蓝云峰。</span><span class="english">Like towering peaks of dark-blue clouds.</span></p>
 
 <p><span class="chinese">在远处一座巍峨的高山隐约可见。</span><span class="english">In the distance loomed a towering mountain.</span></p>

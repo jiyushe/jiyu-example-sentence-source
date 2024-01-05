@@ -1,5 +1,7 @@
 # 文化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhua.md)
+
 <p><span class="chinese">艺术是人造物，艺术包含许多文化包袱。</span><span class="english">Art is man-made.</span></p>
 
 <p><span class="chinese">这是我们的文化。</span><span class="english">This is our culture.</span></p>

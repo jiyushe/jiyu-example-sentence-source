@@ -1,5 +1,7 @@
 # 风范
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengfan_1.md)
+
 <p><span class="chinese">他略具哲学家风范。</span><span class="english">He is something of a philosopher.</span></p>
 
 <p><span class="chinese">大家都说你缺少领导风范。</span><span class="english">Everyone says you lack leadership.</span></p>

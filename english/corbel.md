@@ -1,5 +1,7 @@
 # corbel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corbel.md)
+
 <p><span class="chinese">并由支架、托臂和附件等部分组成。</span><span class="english">By the stent, such as corbel parts and accessories.</span></p>
 
 <p><span class="chinese">整体冲压成型构件，有着惯性距大、承载力强、外形美观的特点。</span><span class="english">Corbel is a overall ramming formation component, it has big capacity and good mould.</span></p>

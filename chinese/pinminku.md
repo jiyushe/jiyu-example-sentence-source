@@ -1,5 +1,7 @@
 # 贫民窟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinminku.md)
+
 <p><span class="chinese">贫民窟是常发生犯罪的地方。</span><span class="english">Slums are hotbeds 0f crime.</span></p>
 
 <p><span class="chinese">贫民窟一定是在你内心.</span><span class="english">The slum must be inside you.</span></p>

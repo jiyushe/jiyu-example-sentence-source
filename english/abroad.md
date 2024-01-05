@@ -1,5 +1,7 @@
 # abroad 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abroad.md)
+
 <p><span class="chinese">他被派到了海外工作。</span><span class="english">He was sent abroad.</span></p>
 
 <p><span class="chinese">当在国外巧遇时。</span><span class="english">When we meet abroad.</span></p>

@@ -1,5 +1,7 @@
 # sector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sector.md)
+
 <p><span class="chinese">我在一个私立学校教书。</span><span class="english">I teach in the private sector.</span></p>
 
 <p><span class="chinese">但是零售业则减少了2万4千人。</span><span class="english">But the retail sector cut 24,000.</span></p>

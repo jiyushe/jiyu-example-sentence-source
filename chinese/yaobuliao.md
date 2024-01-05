@@ -1,5 +1,7 @@
 # 要不了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaobuliao.md)
+
 <p><span class="chinese">要不了几个小时我们还会再见面的。</span><span class="english">It will not be hours before meet again.</span></p>
 
 <p><span class="chinese">“要不了多久”墨西哥人回答道。</span><span class="english">"Not very long, " answered the Mexican.</span></p>

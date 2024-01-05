@@ -1,5 +1,7 @@
 # honshu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honshu.md)
+
 <p><span class="chinese">同时，一面水墙奔腾着从断层带向本州岛沿岸涌去。</span><span class="english">Meanwhile, a wall of water surged from the fault zone toward the coast of Honshu.</span></p>
 
 <p><span class="chinese">本州西部之雅助河，是地形学上“衰弱河”的一个实例。</span><span class="english">West Honshu elegantly helps the river, is in the geomorphology "thefeeble river" an example.</span></p>

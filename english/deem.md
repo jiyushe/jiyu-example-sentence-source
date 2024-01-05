@@ -1,5 +1,7 @@
 # deem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deem.md)
+
 <p><span class="chinese">你认为我假意虚情。</span><span class="english">You deem my words untrue.</span></p>
 
 <p><span class="chinese">你可能认为这是在走极端。</span><span class="english">You might even deem it as extreme.</span></p>

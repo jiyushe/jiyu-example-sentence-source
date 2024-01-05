@@ -1,5 +1,7 @@
 # 鹊桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queqiao.md)
+
 <p><span class="chinese">牛郎与织女一年才能在鹊桥上相会一次。</span><span class="english">Only once a year, the couple could meet on the Milky Way.</span></p>
 
 <p><span class="chinese">现在很多人都利用专门的鹊桥网站来认识新朋友。</span><span class="english">Many people use internet dating websites to meet new people.</span></p>

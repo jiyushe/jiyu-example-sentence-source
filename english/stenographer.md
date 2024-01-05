@@ -1,5 +1,7 @@
 # stenographer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stenographer.md)
+
 <p><span class="chinese">速记员的举动很奇怪。</span><span class="english">The stenographer acted very queerly.</span></p>
 
 <p><span class="chinese">法院速记员做了审判记录。</span><span class="english">The court stenographer registered the trial proceedings.</span></p>

@@ -1,5 +1,7 @@
 # holding 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holding.md)
+
 <p><span class="chinese">你是怎么支持住的？</span><span class="english">How you holding up?</span></p>
 
 <p><span class="chinese">守住一颗宁静的心。</span><span class="english">Holding a quiet heart.</span></p>

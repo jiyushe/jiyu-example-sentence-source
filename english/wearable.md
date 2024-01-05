@@ -1,5 +1,7 @@
 # wearable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wearable.md)
+
 <p><span class="chinese">因为属于单色系，所以更耐看。</span><span class="english">Because of its monochromatic, it becomes more wearable.</span></p>
 
 <p><span class="chinese">他认为这样可以经济地生产可穿电容器。</span><span class="english">This would enable wearable capacitors to be made economically, he reckons.</span></p>

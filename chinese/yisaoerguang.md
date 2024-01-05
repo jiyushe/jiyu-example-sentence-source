@@ -1,5 +1,7 @@
 # 一扫而光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yisaoerguang.md)
+
 <p><span class="chinese">所有的泡沫将一扫而光。</span><span class="english">All the bubbles would have burst away.</span></p>
 
 <p><span class="chinese">就这样，嘉莉最初的疑虑被一扫而光。</span><span class="english">Thus the first hour of misgiving was swept away.</span></p>

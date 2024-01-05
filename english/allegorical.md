@@ -1,5 +1,7 @@
 # allegorical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allegorical.md)
+
 <p><span class="chinese">无遮盖的人体画像，有时具有讽喻意义。</span><span class="english">The undraped human figure,sometimes allegorical.</span></p>
 
 <p><span class="chinese">无覆盖的人体画像，有时具有讽喻意义。</span><span class="english">The undraped human figure, sometimes allegorical.</span></p>

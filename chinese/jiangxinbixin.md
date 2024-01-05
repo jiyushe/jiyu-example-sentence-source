@@ -1,5 +1,7 @@
 # 将心比心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangxinbixin.md)
+
 <p><span class="chinese">将心比心地感谢他们，赞美他们。</span><span class="english">Thank them and send compliments their way.</span></p>
 
 <p><span class="chinese">将心比心，关注客户的利益和感受。</span><span class="english">Caring about the customers concern and feeling.</span></p>

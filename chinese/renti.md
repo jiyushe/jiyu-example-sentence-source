@@ -1,5 +1,7 @@
 # 人体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renti.md)
+
 <p><span class="chinese">人体有多少根肋骨？</span><span class="english">How many ribs do you have?</span></p>
 
 <p><span class="chinese">人体自身再生。</span><span class="english">The body regenerates itself.</span></p>

@@ -1,5 +1,7 @@
 # housebound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housebound.md)
+
 <p><span class="chinese">如今她几乎足不出户。</span><span class="english">She is now practically housebound.</span></p>
 
 <p><span class="chinese">有小孩的太太们应该留守家里吗？</span><span class="english">Should wives with children be housebound?</span></p>

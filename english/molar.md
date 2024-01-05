@@ -1,5 +1,7 @@
 # molar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molar.md)
+
 <p><span class="chinese">把下颌磨牙钳子拿来。</span><span class="english">Give me the lower molar forceps.</span></p>
 
 <p><span class="chinese">等于a除以摩尔体积V杠的平方。</span><span class="english">a over the molar volume squared.</span></p>

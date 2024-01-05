@@ -1,5 +1,7 @@
 # 种菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongcai_2.md)
+
 <p><span class="chinese">那你还可以通过种菜省钱吗？</span><span class="english">Can you still save money with a garden?</span></p>
 
 <p><span class="chinese">我们在菜园里自己种菜。</span><span class="english">We grow our own vegetables in the garden.</span></p>

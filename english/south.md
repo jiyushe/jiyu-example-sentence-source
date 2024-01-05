@@ -1,5 +1,7 @@
 # south 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/south.md)
+
 <p><span class="chinese">南太平洋“</span><span class="english">"South Pacific."</span></p>
 
 <p><span class="chinese">往南或往西都可以。</span><span class="english">Go south or west.</span></p>

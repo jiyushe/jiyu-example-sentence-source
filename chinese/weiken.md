@@ -1,5 +1,7 @@
 # 围垦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiken.md)
+
 <p><span class="chinese">海湾内的围垦工程对潮流及冲淤都将产生影响。</span><span class="english">Gulf reclamation project has an impact on the trends and siltation.</span></p>
 
 <p><span class="chinese">对浙江北部不同时期围垦的海涂土壤持水特性进行了研究。</span><span class="english">The water retention characteristics of coastal soils in Zhejiang Province were studied.</span></p>

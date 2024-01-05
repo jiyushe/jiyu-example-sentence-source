@@ -1,5 +1,7 @@
 # combinatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combinatory.md)
+
 <p><span class="chinese">布局问题是一个组合最优化问题。</span><span class="english">Layout problem is a combinatory optimization problem.</span></p>
 
 <p><span class="chinese">目前蚁群算法被广泛应用于许多组合优化问题。</span><span class="english">Ant colony algorithms have widely applied to solve many combinatory problems now.</span></p>

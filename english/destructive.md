@@ -1,5 +1,7 @@
 # destructive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destructive.md)
+
 <p><span class="chinese">它是毁灭性的。</span><span class="english">It is destructive.</span></p>
 
 <p><span class="chinese">为自己活着是万恶的。</span><span class="english">It is destructive living for self.</span></p>

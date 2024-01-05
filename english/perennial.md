@@ -1,5 +1,7 @@
 # perennial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perennial.md)
+
 <p><span class="chinese">这是个老大难问题。</span><span class="english">This is a perennial problem.</span></p>
 
 <p><span class="chinese">它已经成为经典</span><span class="english">It's been a perennial classic.</span></p>

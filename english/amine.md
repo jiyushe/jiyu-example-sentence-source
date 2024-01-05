@@ -1,5 +1,7 @@
 # amine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amine.md)
+
 <p><span class="chinese">甲基麦角酰胺。</span><span class="english">Amine of acyl of ② methylic ergot.</span></p>
 
 <p><span class="chinese">禁用“可分解芳香胺染料”。</span><span class="english">Disable "decomposable aromatic amine dyes."</span></p>

@@ -1,5 +1,7 @@
 # noneconomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noneconomic.md)
+
 <p><span class="chinese">印度政府最大的成绩是在非经济领域。</span><span class="english">The Indian state's greatest achievements lie in the noneconomic sphere.</span></p>
 
 <p><span class="chinese">通常从经济分析结果提出的问题需要我们进行深入的非经济研究。</span><span class="english">Often the results of economic analysis raise questions that compel us to further noneconomic inquiry.</span></p>

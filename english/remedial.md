@@ -1,5 +1,7 @@
 # remedial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remedial.md)
+
 <p><span class="chinese">脂肪瘤的治疗方法。</span><span class="english">The remedial method of lipoma.</span></p>
 
 <p><span class="chinese">近视眼的治疗方法？</span><span class="english">The remedial method of myopia?</span></p>

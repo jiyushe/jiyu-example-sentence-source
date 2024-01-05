@@ -1,5 +1,7 @@
 # liberator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberator.md)
+
 <p><span class="chinese">他的笔就是人类和各个民族的救世主。</span><span class="english">Hhe pen is the great liberator of men and nations.</span></p>
 
 <p><span class="chinese">通过他的报纸，解放者，继任呼声裁撤。</span><span class="english">Through his newspaper the liberator he became the voice of abolition.</span></p>

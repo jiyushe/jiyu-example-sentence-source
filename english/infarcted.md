@@ -1,5 +1,7 @@
 # infarcted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infarcted.md)
+
 <p><span class="chinese">比较梗塞侧与正常右侧的区别。</span><span class="english">Compare the infarcted side with the normal right side.</span></p>
 
 <p><span class="chinese">急性水肿性梗死组织可形成团块效应。</span><span class="english">The acutely edematous infarcted tissue may produce a mass effect.</span></p>

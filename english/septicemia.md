@@ -1,5 +1,7 @@
 # septicemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/septicemia.md)
+
 <p><span class="chinese">白血病与败血症是一回事吗？</span><span class="english">Are leukaemia and septicemia one and the same?</span></p>
 
 <p><span class="chinese">白血病和败血症有何不同？</span><span class="english">Do leukaemia and septicemia have why to differ?</span></p>

@@ -1,5 +1,7 @@
 # Greek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greek.md)
+
 <p><span class="chinese">谁拥有希腊的借款？</span><span class="english">Who owns that Greek debt?</span></p>
 
 <p><span class="chinese">这个词是从希腊文来的。</span><span class="english">The word comes from Greek.</span></p>

@@ -1,5 +1,7 @@
 # indent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indent.md)
+
 <p><span class="chinese">一个子块要缩进多少？</span><span class="english">How much do we indent a subblock?</span></p>
 
 <p><span class="chinese">将段落的第一行缩排。</span><span class="english">Indent the first line of a paragraph.</span></p>

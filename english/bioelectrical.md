@@ -1,5 +1,7 @@
 # bioelectrical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioelectrical.md)
+
 <p><span class="chinese">梅杜扎的无脊椎凝胶状身体能释放致命的生物电。</span><span class="english">The invertebrate gelatinous form was capable of emitting a deadly bioelectrical charge.</span></p>
 
 <p><span class="chinese">本文介绍一种利用人体阻抗来测量人体脂肪总量的新仪器。</span><span class="english">A new device for measuring human body total fat mass by bioelectrical impedance is described.</span></p>

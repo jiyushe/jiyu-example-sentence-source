@@ -1,5 +1,7 @@
 # locus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locus.md)
+
 <p><span class="chinese">这将是我们这门课的核心</span><span class="english">It will be the locus of our course.</span></p>
 
 <p><span class="chinese">点的轨迹E是一个椭球。</span><span class="english">The locus E of points is an ellipsoid.</span></p>

@@ -1,5 +1,7 @@
 # 古稀之年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guxizhinian.md)
+
 <p><span class="chinese">他已达古稀之年。</span><span class="english">He has attained the age of seventy.</span></p>
 
 <p><span class="chinese">这对一个在古稀之年才开始写作的人来说是相当了不起的。</span><span class="english">Not bad for a man who started writing in his 70s.</span></p>

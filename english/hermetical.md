@@ -1,5 +1,7 @@
 # hermetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hermetical.md)
+
 <p><span class="chinese">还介绍了该种变送器的基本结构、密封方法和一般应用。</span><span class="english">Meanwhile, the structure , hermetical method and general application of the transmitter are introduced.</span></p>
 
 <p><span class="chinese">发动机汽缸压缩压力是检测发动机机密封性的重要参数。</span><span class="english">Cylinder compression pressure is an important parameter for measuring the hermetical state of an engine.</span></p>

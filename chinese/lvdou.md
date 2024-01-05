@@ -1,5 +1,7 @@
 # 绿豆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvdou.md)
+
 <p><span class="chinese">绿豆焙盘和南瓜馅饼。</span><span class="english">Green bean casserole and pumpkin pie.</span></p>
 
 <p><span class="chinese">绿豆，薏苡仁，甘草，西谷米。</span><span class="english">Green Bean, Coix Seed, sweet root, sago.</span></p>

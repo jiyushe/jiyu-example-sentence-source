@@ -1,5 +1,7 @@
 # referring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/referring.md)
+
 <p><span class="chinese">现在我想表述的是什么呢？</span><span class="english">Now what am I referring to?</span></p>
 
 <p><span class="chinese">你是说那个李壮平。</span><span class="english">Are you referring to Mr. Lee?</span></p>

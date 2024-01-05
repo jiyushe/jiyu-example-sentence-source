@@ -1,5 +1,7 @@
 # remus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remus.md)
+
 <p><span class="chinese">雷姆斯先生还是你朋友吗？</span><span class="english">Is mr. Remus still your friend?</span></p>
 
 <p><span class="chinese">莱姆斯，我的老朋友，你今晚没带药水吗？</span><span class="english">Remus , my old friend. Have you taken your potion tonight?</span></p>

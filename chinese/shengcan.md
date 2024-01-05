@@ -1,5 +1,7 @@
 # 圣餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengcan.md)
+
 <p><span class="chinese">他给出了吃圣餐的指示。</span><span class="english">He gives instructions on that.</span></p>
 
 <p><span class="chinese">下星期它就可以首次领圣餐了。</span><span class="english">Next week is his First Communion.</span></p>

@@ -1,5 +1,7 @@
 # newlywed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newlywed.md)
+
 <p><span class="chinese">我和我的新婚妻子彼此深爱着对方。</span><span class="english">My newlywed wife and I are deeply in love.</span></p>
 
 <p><span class="chinese">我的新婚丈夫每天早晨都对我说出同样的话。</span><span class="english">My newlywed husband said the same thing every morning.</span></p>

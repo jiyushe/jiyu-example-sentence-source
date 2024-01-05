@@ -1,5 +1,7 @@
 # 拳打脚踢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quandajiaoti.md)
+
 <p><span class="chinese">这又引起了另一场拳打脚踢。</span><span class="english">That led to another fist fight.</span></p>
 
 <p><span class="chinese">托尼随后还以拳打脚踢。</span><span class="english">Tony retaliated by kicking him.</span></p>

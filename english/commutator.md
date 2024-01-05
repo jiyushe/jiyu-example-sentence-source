@@ -1,5 +1,7 @@
 # commutator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commutator.md)
+
 <p><span class="chinese">检查换向器是否接地。</span><span class="english">Check the commutator for ground.</span></p>
 
 <p><span class="chinese">把换向器安置在V区块。</span><span class="english">Place the commutator on V-blocks.</span></p>

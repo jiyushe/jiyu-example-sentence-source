@@ -1,5 +1,7 @@
 # discontinuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discontinuity.md)
+
 <p><span class="chinese">间断性可以忽略不计。</span><span class="english">The discontinuity can be insignificant.</span></p>
 
 <p><span class="chinese">而希腊的文明则是不连续的</span><span class="english">The Greek world has this tremendous discontinuity.</span></p>

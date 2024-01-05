@@ -1,5 +1,7 @@
 # acetabulum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetabulum.md)
+
 <p><span class="chinese">髋臼骨折正常多久能恢复好？</span><span class="english">Regularly, how long can finish restoring acetabulum fracture?</span></p>
 
 <p><span class="chinese">髋臼骨折是关节内骨折，骨折分为10种类型。</span><span class="english">Acetabulum fracture, the inner fracture of the joint, has be en divided into 10 kinds.</span></p>

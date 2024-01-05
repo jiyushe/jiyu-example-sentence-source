@@ -1,5 +1,7 @@
 # 外水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waishui.md)
+
 <p><span class="chinese">当以淀粉为糖源时，其具有胞外水解作用。</span><span class="english">When used as sugar source, starch could be hydrolysised out of cells.</span></p>
 
 <p><span class="chinese">外水压力是隧洞衬砌及压力管道的重要荷载。</span><span class="english">External Water pressure is an important load for the tunnel lining and penstock.</span></p>

@@ -1,5 +1,7 @@
 # 轻狂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingkuang_1.md)
+
 <p><span class="chinese">我有些轻狂，有些与众不同。</span><span class="english">I'm a bit crazy, and a bit different.</span></p>
 
 <p><span class="chinese">再见。我的青春悲剧，你的年少轻狂。</span><span class="english">Bye. The tragedy of my youth, you are young.</span></p>

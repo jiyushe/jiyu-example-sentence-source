@@ -1,5 +1,7 @@
 # estrangement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estrangement.md)
+
 <p><span class="chinese">与别人脱离或关系疏远</span><span class="english">Withdrawal or estrangement from others</span></p>
 
 <p><span class="chinese">从那一天开始了长达20年的互不往来。</span><span class="english">That day marked the beginning of a 20-year estrangement.</span></p>

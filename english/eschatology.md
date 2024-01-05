@@ -1,5 +1,7 @@
 # eschatology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eschatology.md)
+
 <p><span class="chinese">末世论是什么？</span><span class="english">What's eschatology?</span></p>
 
 <p><span class="chinese">保罗思想中的圣灵观与末世论。</span><span class="english">Holy Spirit and Eschatology in Paul.</span></p>

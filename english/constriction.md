@@ -1,5 +1,7 @@
 # constriction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constriction.md)
+
 <p><span class="chinese">她胸部有压迫感。</span><span class="english">She feels a constriction in the chest.</span></p>
 
 <p><span class="chinese">救恩乃是要把我们从这种束缚中释放。</span><span class="english">III. Salvation-Yasha- is to relieve such constriction.</span></p>

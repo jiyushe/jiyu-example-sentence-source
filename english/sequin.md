@@ -1,5 +1,7 @@
 # sequin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequin.md)
+
 <p><span class="chinese">我猜测我被冰面上的一小块红色装饰片绊倒了。</span><span class="english">I suppose I tripped on a red sequin on the ice.</span></p>
 
 <p><span class="chinese">我们只在床上找到这一个亮片是吗？</span><span class="english">This was the only sequin we found on the bed, right?</span></p>

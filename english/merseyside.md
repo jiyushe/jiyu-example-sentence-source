@@ -1,5 +1,7 @@
 # merseyside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merseyside.md)
+
 <p><span class="chinese">记者想要知道八宝在默西塞德过得是否愉快。</span><span class="english">Journalists wanted to know if Babel was happy on Merseyside.</span></p>
 
 <p><span class="chinese">在马其赛特郡的感觉是，很多队员都有很好的状态。</span><span class="english">The feeling on Merseyside is that several players have peaked together.</span></p>

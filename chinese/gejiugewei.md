@@ -1,5 +1,7 @@
 # 各就各位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gejiugewei.md)
+
 <p><span class="chinese">那些马已各就各位，它们起跑了!</span><span class="english">The horses are settling down and they're off!</span></p>
 
 <p><span class="chinese">所以，来吧，兄弟姐妹们，让我们各就各位，打起节日的精神。</span><span class="english">So please, do your part. Keep the holiday spirit alive.</span></p>

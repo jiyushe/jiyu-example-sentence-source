@@ -1,5 +1,7 @@
 # 志向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixiang.md)
+
 <p><span class="chinese">他有很高的志向。</span><span class="english">He has very great ambitions.</span></p>
 
 <p><span class="chinese">志向和你能再相逢。</span><span class="english">We hope to see you yet again.</span></p>

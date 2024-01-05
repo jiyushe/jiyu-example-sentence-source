@@ -1,5 +1,7 @@
 # panty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panty.md)
+
 <p><span class="chinese">我不能带她的茶水了！</span><span class="english">I can not strip her panty off!</span></p>
 
 <p><span class="chinese">答案是我的内裤呢？</span><span class="english">The answer is where is my panty ?</span></p>

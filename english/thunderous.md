@@ -1,5 +1,7 @@
 # thunderous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thunderous.md)
+
 <p><span class="chinese">鲜花，欢呼，眼泪，雷鸣般的</span><span class="english">flowers, cheers, tears, a thunderous</span></p>
 
 <p><span class="chinese">全场掌声雷动。</span><span class="english">The audience burst into thunderous applause.</span></p>

@@ -1,5 +1,7 @@
 # 成立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengli.md)
+
 <p><span class="chinese">他还成立了自己的公司。</span><span class="english">He started his company.</span></p>
 
 <p><span class="chinese">我们成立了一间新公司。</span><span class="english">We opend a new company.</span></p>

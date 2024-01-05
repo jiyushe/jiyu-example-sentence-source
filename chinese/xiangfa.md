@@ -1,5 +1,7 @@
 # 想法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangfa.md)
+
 <p><span class="chinese">有想法么</span><span class="english">Any thoughts?</span></p>
 
 <p><span class="chinese">他有了一个想法……</span><span class="english">He had an idea.</span></p>

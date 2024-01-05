@@ -1,5 +1,7 @@
 # 无期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuqi.md)
+
 <p><span class="chinese">最是少年别离时若离去便无期。</span><span class="english">Most are young feeling left and if ever.</span></p>
 
 <p><span class="chinese">多年以后，从此我们后会无期。</span><span class="english">Years later, after our life from now on.</span></p>

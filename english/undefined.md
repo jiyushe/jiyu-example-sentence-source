@@ -1,5 +1,7 @@
 # undefined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undefined.md)
+
 <p><span class="chinese">未来尚未确定，一切掌握在自己手中。</span><span class="english">Goals undefined. The future is in our hands.</span></p>
 
 <p><span class="chinese">其它的所有情况，其行为都是未定义的。</span><span class="english">In all other cases, the behavior is undefined.</span></p>

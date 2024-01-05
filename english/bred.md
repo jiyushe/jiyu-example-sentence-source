@@ -1,5 +1,7 @@
 # bred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bred.md)
+
 <p><span class="chinese">我抚养并训练了他。</span><span class="english">I bred him and trained him.</span></p>
 
 <p><span class="chinese">我们有六只母犬与之配种。</span><span class="english">We have bred six bitches to him.</span></p>

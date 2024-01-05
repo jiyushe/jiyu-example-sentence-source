@@ -1,5 +1,7 @@
 # 抢先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangxian.md)
+
 <p><span class="chinese">他抢先于他的竞争对手。</span><span class="english">He forestalls all his competitors.</span></p>
 
 <p><span class="chinese">这里是其中一些例子的抢先预览。</span><span class="english">Here’s a quick preview of some examples.</span></p>

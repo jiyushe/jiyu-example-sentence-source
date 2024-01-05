@@ -1,5 +1,7 @@
 # 振荡器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhendangqi.md)
+
 <p><span class="chinese">买一个新振荡器。</span><span class="english">Buy a new vibrator.</span></p>
 
 <p><span class="chinese">真空管振荡器?。</span><span class="english">VTO? Vacuum Tube Oscillator?</span></p>

@@ -1,5 +1,7 @@
 # rosa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosa.md)
+
 <p><span class="chinese">我家住在萝莎路56号。</span><span class="english">I live on 56 Rosa Road.</span></p>
 
 <p><span class="chinese">没有无刺玫瑰。</span><span class="english">Non c'e rosa senza spine.</span></p>

@@ -1,5 +1,7 @@
 # cpi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cpi.md)
+
 <p><span class="chinese">这对CPI的增长会有很大的影响。</span><span class="english">This would have big impact on CPI growth.</span></p>
 
 <p><span class="chinese">但CPI指数依然高挺，投资意愿下降了。</span><span class="english">The CPI is still high, but investment trends are debased.</span></p>

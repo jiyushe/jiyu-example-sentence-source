@@ -1,5 +1,7 @@
 # 开荒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaihuang.md)
+
 <p><span class="chinese">开荒没有农具怎么办？</span><span class="english">Open up wasteland without tools how to do?</span></p>
 
 <p><span class="chinese">又有人不声不响的扛起铁锨、镢头等开荒去了。</span><span class="english">They make no reply to the shoulder, and open up wasteland to shovel pickaxe.</span></p>

@@ -1,5 +1,7 @@
 # dashed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dashed.md)
+
 <p><span class="chinese">一辆卡车急驶而过。</span><span class="english">A truck dashed by.</span></p>
 
 <p><span class="chinese">一辆汽车在我们身旁飞驶而过溅了我们满身泥。</span><span class="english">A car dashed past us.</span></p>

@@ -1,5 +1,7 @@
 # 林荫道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linyindao.md)
+
 <p><span class="chinese">他在林荫道上跑着。</span><span class="english">He ran down the avenue.</span></p>
 
 <p><span class="chinese">风顺着林荫道呼啸而来。</span><span class="english">The wind roars up the avenue.</span></p>

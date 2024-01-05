@@ -1,5 +1,7 @@
 # kuwait
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kuwait.md)
+
 <p><span class="chinese">科威特蕴藏着丰富的石油资源。</span><span class="english">Kuwait is rich in oil resources.</span></p>
 
 <p><span class="chinese">萨巴赫家族统治科威特至今已284个春秋。</span><span class="english">Sabah Family had ruled Kuwait for 284years.</span></p>

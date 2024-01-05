@@ -1,5 +1,7 @@
 # 由表及里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youbiaojili.md)
+
 <p><span class="chinese">其次，由表及里地对公司僵局的形成原因进行分析。</span><span class="english">Second, it analyzes the causes of corporate deadlock from all aspects.</span></p>
 
 <p><span class="chinese">从涂层到基体出现了由表及里呈衰减趋势的形变现象。</span><span class="english">The deforming hardened degree attenuated from outside to inner of the coat and base.</span></p>

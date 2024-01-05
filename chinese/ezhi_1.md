@@ -1,5 +1,7 @@
 # 遏止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ezhi_1.md)
+
 <p><span class="chinese">可以做些什么以遏止危机呢？</span><span class="english">What can be done to stem the crisis?</span></p>
 
 <p><span class="chinese">美国FDA计划出台措施，遏止滥用止咳药。</span><span class="english">FDA looks to curb abuse of cough medicine.</span></p>

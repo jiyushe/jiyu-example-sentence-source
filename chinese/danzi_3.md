@@ -1,5 +1,7 @@
 # 胆子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danzi_3.md)
+
 <p><span class="chinese">但是却没有这个胆子！</span><span class="english">But have no this courage!</span></p>
 
 <p><span class="chinese">它们胆子也更大点。</span><span class="english">They were also more daring.</span></p>

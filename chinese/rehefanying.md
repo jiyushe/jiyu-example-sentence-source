@@ -1,5 +1,7 @@
 # 热核反应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rehefanying.md)
+
 <p><span class="chinese">核聚变是一种热核反应。</span><span class="english">A nuclear fusion is a thermonuclear reaction.</span></p>
 
 <p><span class="chinese">原来老的热核反应机制只是它的一个特例。</span><span class="english">The old thermonuclear mechanism is a special example of it.</span></p>

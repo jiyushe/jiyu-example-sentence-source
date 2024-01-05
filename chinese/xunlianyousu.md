@@ -1,5 +1,7 @@
 # 训练有素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunlianyousu.md)
+
 <p><span class="chinese">他们是训练有素。</span><span class="english">They are much more shaped.</span></p>
 
 <p><span class="chinese">这个队伍训练有素。</span><span class="english">The team were well-drilled.</span></p>

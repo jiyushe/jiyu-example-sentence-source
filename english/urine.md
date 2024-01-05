@@ -1,5 +1,7 @@
 # urine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urine.md)
+
 <p><span class="chinese">您的尿色深吗？</span><span class="english">Has your urine been dark?</span></p>
 
 <p><span class="chinese">我需要一份24小时的样本。</span><span class="english">I need a 24hour urine specimen.</span></p>

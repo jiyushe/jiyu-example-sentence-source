@@ -1,5 +1,7 @@
 # absorbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorbed.md)
+
 <p><span class="chinese">墨水被吸墨纸吸干了。</span><span class="english">The ink was absorbed by the blotter.</span></p>
 
 <p><span class="chinese">听众都在聚精会神地听着。</span><span class="english">The audience are absorbed in listening.</span></p>

@@ -1,5 +1,7 @@
 # 被告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beigao.md)
+
 <p><span class="chinese">被告恳求宽大处理。</span><span class="english">The accused craved for leniency.</span></p>
 
 <p><span class="chinese">他作了不利于被告的证词。</span><span class="english">He testified against the accused.</span></p>

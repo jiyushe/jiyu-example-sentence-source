@@ -1,5 +1,7 @@
 # executory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/executory.md)
+
 <p><span class="chinese">所有未生效的合同如果修改日期需要和每一个上面提到的客户商议。</span><span class="english">B. All executory contracts as amended to date with each of the above-referenced customers.</span></p>
 
 <p><span class="chinese">所有未生效的合同，如果修改日期，需要和每一个上面提到的供应商商议。</span><span class="english">D. All executory contracts, as amended to date, with each of the above-referenced suppliers.</span></p>

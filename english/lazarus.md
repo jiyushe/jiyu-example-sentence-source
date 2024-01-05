@@ -1,5 +1,7 @@
 # lazarus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lazarus.md)
+
 <p><span class="chinese">现在他能最后一次上演绝地反击吗？</span><span class="english">Can he play Lazarus one last time?</span></p>
 
 <p><span class="chinese">“拉撒路”是什么人还是东西？</span><span class="english">For whom or what is "Lazarus" a codename?</span></p>

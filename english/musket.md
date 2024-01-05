@@ -1,5 +1,7 @@
 # musket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musket.md)
+
 <p><span class="chinese">滑膛枪射程提高到110。</span><span class="english">Musket ranges increased to 110.</span></p>
 
 <p><span class="chinese">两年前我用滑膛枪打猎。</span><span class="english">I hunted with a musket two years ago.</span></p>

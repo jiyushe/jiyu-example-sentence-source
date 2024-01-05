@@ -1,5 +1,7 @@
 # pruning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pruning.md)
+
 <p><span class="chinese">他一直在修剪梨树。</span><span class="english">He has been pruning the pear trees.</span></p>
 
 <p><span class="chinese">他正用修枝刀修剪玫瑰。</span><span class="english">He is pruning roses with a pruning knife.</span></p>

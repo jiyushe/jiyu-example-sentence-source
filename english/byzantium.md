@@ -1,5 +1,7 @@
 # byzantium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/byzantium.md)
+
 <p><span class="chinese">来到这拜占庭的圣城。</span><span class="english">To the holy city of Byzantium.</span></p>
 
 <p><span class="chinese">对叶芝来说，拜占庭只是它山之石，叶芝的最终目的不在石而在玉。</span><span class="english">For Yeats, Byzantium was only an instrument instead of the final destination.</span></p>

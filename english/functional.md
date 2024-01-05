@@ -1,5 +1,7 @@
 # functional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/functional.md)
+
 <p><span class="chinese">也算做了个好的功能测试。</span><span class="english">That's a good functional test.</span></p>
 
 <p><span class="chinese">站点应该是功能性的。</span><span class="english">The site should be functional.</span></p>

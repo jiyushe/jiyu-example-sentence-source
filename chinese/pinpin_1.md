@@ -1,5 +1,7 @@
 # 频频
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinpin_1.md)
+
 <p><span class="chinese">约翰频频点头。</span><span class="english">John is nodding his head.</span></p>
 
 <p><span class="chinese">你频频看手表，</span><span class="english">You're looking in your watch and,</span></p>

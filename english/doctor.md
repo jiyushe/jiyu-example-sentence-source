@@ -1,5 +1,7 @@
 # doctor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doctor.md)
+
 <p><span class="chinese">嗨，基恩大夫。</span><span class="english">Oh, Doctor Keene!</span></p>
 
 <p><span class="chinese">他是一个男医生。</span><span class="english">He is a man doctor.</span></p>

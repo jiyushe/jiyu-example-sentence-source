@@ -1,5 +1,7 @@
 # indium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indium.md)
+
 <p><span class="chinese">株洲和茂专业生产铟锭，铟珠，精铟，价格有竞争力！</span><span class="english">Zhuzhou Hemao Trade Co. , Ltd Specializing in indium ingot.</span></p>
 
 <p><span class="chinese">报道了乙酰丙酮铟的合成方法。</span><span class="english">A synthesis method of indium tris acetylacetonate is introduced.</span></p>

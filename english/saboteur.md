@@ -1,5 +1,7 @@
 # saboteur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saboteur.md)
+
 <p><span class="chinese">所以根本没有破坏者你瞎编的？</span><span class="english">So there wasn't a saboteur at all. You made that up?</span></p>
 
 <p><span class="chinese">现在的我像是个叛徒，破坏了几百年来取得的进步。</span><span class="english">Now I feel like a traitor, a saboteur to hundreds of years of progress.</span></p>

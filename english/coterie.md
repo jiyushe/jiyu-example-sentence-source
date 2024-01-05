@@ -1,5 +1,7 @@
 # coterie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coterie.md)
+
 <p><span class="chinese">在维基新闻的背后有一个被称作公民记者的新闻获取小圈子。</span><span class="english">There’s a coterie of news hounds calling themselves as citizen journalists behind Wikinews.</span></p>
 
 <p><span class="chinese">这些诗，有人抄录，有人传阅，有人鄙夷，也有人赞美，从一伙人传到另一伙人。</span><span class="english">The verses were copied out, handed about, sneered at, admired, passed from coterie to coterie.</span></p>

@@ -1,5 +1,7 @@
 # modesty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modesty.md)
+
 <p><span class="chinese">谦逊是一种良好的品质。</span><span class="english">Modesty is a sweet quality.</span></p>
 
 <p><span class="chinese">假定，他懂得礼貌。</span><span class="english">Presumably, he felt modesty.</span></p>

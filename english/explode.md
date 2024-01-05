@@ -1,5 +1,7 @@
 # explode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explode.md)
+
 <p><span class="chinese">或是放烟花。</span><span class="english">Or explode fireworks.</span></p>
 
 <p><span class="chinese">我们的库存快要撑爆了。</span><span class="english">Our stock is about to explode.</span></p>

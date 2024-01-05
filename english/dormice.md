@@ -1,5 +1,7 @@
 # dormice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dormice.md)
+
 <p><span class="chinese">榛睡鼠醒着的时间，基本都在树上度过。</span><span class="english">Dormice spend most of their waking hours in trees.</span></p>
 
 <p><span class="chinese">至今，PTES已经在全球12个国家将600多只榛睡鼠放归自然。</span><span class="english">Over 600 Hazel Dormice have been released into 12 counties by PTES.</span></p>

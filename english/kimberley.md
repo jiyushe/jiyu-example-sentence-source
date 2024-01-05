@@ -1,5 +1,7 @@
 # kimberley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kimberley.md)
+
 <p><span class="chinese">布隆方丹南非中部一城市，位于金伯利东南偏东。</span><span class="english">A city of central South Africa east-southeast of Kimberley.</span></p>
 
 <p><span class="chinese">黄昏时分，我们仍在往金伯利行进。</span><span class="english">We were still there at dusk, when we pulled in to Kimberley.</span></p>

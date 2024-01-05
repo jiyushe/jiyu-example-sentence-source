@@ -1,5 +1,7 @@
 # 离任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liren_2.md)
+
 <p><span class="chinese">19个月之后，余离任了。</span><span class="english">Nineteen months later, Yu was gone.</span></p>
 
 <p><span class="chinese">但是，穆沙拉夫应该离任。</span><span class="english">First, though, Mr Musharraf should go.</span></p>

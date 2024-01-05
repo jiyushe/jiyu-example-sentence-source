@@ -1,5 +1,7 @@
 # degeneration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degeneration.md)
+
 <p><span class="chinese">什么是老年性黄斑变性？</span><span class="english">What is age-related macular degeneration?</span></p>
 
 <p><span class="chinese">熟悉牙髓坏死，牙髓变性等。</span><span class="english">To grasp necrosis and degeneration of the pulp.</span></p>

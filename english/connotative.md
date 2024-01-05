@@ -1,5 +1,7 @@
 # connotative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connotative.md)
+
 <p><span class="chinese">这些知识是隐含的、事先未知的、潜在的、有用的信息。</span><span class="english">This knowledge is connotative , unknown, potential and usable information.</span></p>
 
 <p><span class="chinese">人们注重外在的修饰，更加注意内涵的丰富。</span><span class="english">Couples not only focus on extrinsic decoration, but also connotative colorfulness.</span></p>

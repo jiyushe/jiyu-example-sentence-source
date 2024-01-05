@@ -1,5 +1,7 @@
 # calendula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calendula.md)
+
 <p><span class="chinese">有机芦荟，洋甘菊，金盏草。</span><span class="english">Organic Aloe, Chamomile, & Calendula.</span></p>
 
 <p><span class="chinese">今晚，加上点缀的金盏花沙拉。</span><span class="english">Calendula peppered salad for supper tonight</span></p>

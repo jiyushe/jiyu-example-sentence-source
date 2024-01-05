@@ -1,5 +1,7 @@
 # 论争
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunzheng.md)
+
 <p><span class="chinese">1934年的大众语论争，非常具有历史的戏剧性。</span><span class="english">The discussion of public language in 1934 has historical dramatic.</span></p>
 
 <p><span class="chinese">他靠论争而成名，并将生殖学推到了极限。为此他便理所当然地被视为危险人物。</span><span class="english">And that of course is one reason why he's seen as being so dangerous.</span></p>

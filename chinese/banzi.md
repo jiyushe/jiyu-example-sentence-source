@@ -1,5 +1,7 @@
 # 板子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banzi.md)
+
 <p><span class="chinese">那块板子松了，垂了下来。</span><span class="english">The plate loosed and stayed down.</span></p>
 
 <p><span class="chinese">先挨板子的是美国人。</span><span class="english">Board is the first Americans to pay.</span></p>

@@ -1,5 +1,7 @@
 # cone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cone.md)
+
 <p><span class="chinese">一个冰淇淋蛋筒。</span><span class="english">An ice-cream cone.</span></p>
 
 <p><span class="chinese">为了你的肉蛋筒。</span><span class="english">For your meat cone.</span></p>

@@ -1,5 +1,7 @@
 # dissimilation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissimilation.md)
+
 <p><span class="chinese">什么是同化、异化和换位？</span><span class="english">What is assimilation, dissimilation and metathesis?</span></p>
 
 <p><span class="chinese">关于身体的异化想象和黑色的调侃。</span><span class="english">About dissimilation image of body and black badinage.</span></p>

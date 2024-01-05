@@ -1,5 +1,7 @@
 # 计算机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jisuanji.md)
+
 <p><span class="chinese">计算机与我作对。</span><span class="english">The computer opposes me.</span></p>
 
 <p><span class="chinese">这种标记是可以供计算机读取的。</span><span class="english">This is computer readable.</span></p>

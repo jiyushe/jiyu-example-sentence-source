@@ -1,5 +1,7 @@
 # bimodal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bimodal.md)
+
 <p><span class="chinese">东眺“雷峰新塔”，西望“双峰插云”。</span><span class="english">East Vision "Leifeng new tower, " west "bimodal Cloud Play.</span></p>
 
 <p><span class="chinese">颗粒状渗碳体的尺寸呈双峰分布。</span><span class="english">The distribution of cementite particle size displayed bimodal.</span></p>

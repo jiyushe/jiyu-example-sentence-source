@@ -1,5 +1,7 @@
 # occiput
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occiput.md)
+
 <p><span class="chinese">宽阔巨大，有强壮的后枕骨。后头骨宽阔。</span><span class="english">Broad and large, with strongly defined occiput. Broad back skull.</span></p>
 
 <p><span class="chinese">从枕骨部到吻部的长度大于额头的宽度。</span><span class="english">Its length from occiput to muzzle is greater than the width at the brow.</span></p>

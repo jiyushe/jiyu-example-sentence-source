@@ -1,5 +1,7 @@
 # contemporaneity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contemporaneity.md)
+
 <p><span class="chinese">曾梵志的当代性并没有使他拒斥过去。</span><span class="english">Zeng's contemporaneity does not lead him to reject the past.</span></p>
 
 <p><span class="chinese">这是一个具有时代性和战略性的重大决策。</span><span class="english">This is one has the contemporaneity and the strategic major decision.</span></p>

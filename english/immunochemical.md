@@ -1,5 +1,7 @@
 # immunochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunochemical.md)
+
 <p><span class="chinese">方法细胞免疫化学染色。</span><span class="english">Methods Cell immunochemical staining.</span></p>
 
 <p><span class="chinese">一些专门的免疫化学方法只作简略地介绍。</span><span class="english">Some specialized immunochemical procedures are dealt with only briefly.</span></p>

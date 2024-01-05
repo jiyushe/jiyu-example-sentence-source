@@ -1,5 +1,7 @@
 # consequence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consequence.md)
+
 <p><span class="chinese">这会有什么后果呢？</span><span class="english">What will the consequence be?</span></p>
 
 <p><span class="chinese">那是其进化的结果。</span><span class="english">That is the consequence of its evolution.</span></p>

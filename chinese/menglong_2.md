@@ -1,5 +1,7 @@
 # 蒙胧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menglong_2.md)
+
 <p><span class="chinese">老年并没有蒙胧了他的记忆。</span><span class="english">Old age has not dimmed his memory.</span></p>
 
 <p><span class="chinese">老年并没有蒙胧了他的记忆。</span><span class="english">Twenty years had not dimmed his memory.</span></p>

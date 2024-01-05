@@ -1,5 +1,7 @@
 # 商旅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanglv.md)
+
 <p><span class="chinese">上海有100多家星级酒店，多数针对商旅人士。</span><span class="english">Shanghai boasts more than 100 star-rated hotels.</span></p>
 
 <p><span class="chinese">下榻东方宾馆，是您商旅的最佳选择。</span><span class="english">Staying in Dong Fang is the best choice for your tour and business.</span></p>

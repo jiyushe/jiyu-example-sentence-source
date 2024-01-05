@@ -1,5 +1,7 @@
 # vesa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vesa.md)
+
 <p><span class="chinese">视频电子标准协会?。</span><span class="english">VESA? Video Electronics Standards Association?</span></p>
 
 <p><span class="chinese">最后，讨论了应用VESA视频接口时行图像显示的编程方法。</span><span class="english">Last the programming of VESA for the image is discussed.</span></p>

@@ -1,5 +1,7 @@
 # tetragonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetragonal.md)
+
 <p><span class="chinese">拉曼光谱证实晶体的结构为体心四方结构。</span><span class="english">All kinds of PWO crystals showed the body-centered tetragonal structure in the Raman spectra.</span></p>
 
 <p><span class="chinese">随着掺杂量的增加，相转变，从四方相三方相。</span><span class="english">With the increasing of doping amounts, phases shift from tetragonal phase to rhombohedral phase.</span></p>

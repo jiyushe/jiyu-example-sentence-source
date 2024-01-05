@@ -1,5 +1,7 @@
 # 安家落户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anjialuohu.md)
+
 <p><span class="chinese">你能在这里安家落户吗？</span><span class="english">Can you settle here?</span></p>
 
 <p><span class="chinese">他们已经在海南岛安家落户。</span><span class="english">They have settled in Hainan.</span></p>

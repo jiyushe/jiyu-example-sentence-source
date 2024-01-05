@@ -1,5 +1,7 @@
 # rooster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rooster.md)
+
 <p><span class="chinese">我是一只小公鸡。</span><span class="english">I am a rooster.</span></p>
 
 <p><span class="chinese">听，公鸡在打鸣。</span><span class="english">Listen to the rooster.</span></p>

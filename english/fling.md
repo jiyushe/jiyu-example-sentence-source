@@ -1,5 +1,7 @@
 # fling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fling.md)
+
 <p><span class="chinese">你们俩有一腿。</span><span class="english">You two had a fling.</span></p>
 
 <p><span class="chinese">是爱情还是有一腿？</span><span class="english">Is it love or a fling?</span></p>

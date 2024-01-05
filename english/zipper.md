@@ -1,5 +1,7 @@
 # zipper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zipper.md)
+
 <p><span class="chinese">重型前拉链。</span><span class="english">Heavy-duty front zipper.</span></p>
 
 <p><span class="chinese">拉链前半封闭。</span><span class="english">Half zipper front closure.</span></p>

@@ -1,5 +1,7 @@
 # 使臣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichen.md)
+
 <p><span class="chinese">摩押的使臣就在巴兰那里住下了。</span><span class="english">So the Moabite princes stayed with him.</span></p>
 
 <p><span class="chinese">于是巴兰同著巴勒的使臣去了。</span><span class="english">So Balaam went with the princes of Balak.</span></p>

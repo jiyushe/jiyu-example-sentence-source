@@ -1,5 +1,7 @@
 # activated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/activated.md)
+
 <p><span class="chinese">在手机报警和振动器激活。</span><span class="english">Azan alarm and vibrator activated.</span></p>
 
 <p><span class="chinese">录音装置已开动起来。</span><span class="english">The recording device has activated.</span></p>

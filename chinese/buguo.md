@@ -1,5 +1,7 @@
 # 不过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buguo.md)
+
 <p><span class="chinese">不过我是幸运的。</span><span class="english">But I am lucky.</span></p>
 
 <p><span class="chinese">不过可是累坏了。</span><span class="english">I'm just tired.</span></p>

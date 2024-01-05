@@ -1,5 +1,7 @@
 # agin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agin.md)
+
 <p><span class="chinese">又是我。</span><span class="english">Is me agin.</span></p>
 
 <p><span class="chinese">我们尽快再去吃一顿吧。</span><span class="english">Let's eat there agin soon.</span></p>

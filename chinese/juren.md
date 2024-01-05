@@ -1,5 +1,7 @@
 # 举人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juren.md)
+
 <p><span class="chinese">举人我仰慕您很久了。</span><span class="english">I admire you for a long time.</span></p>
 
 <p><span class="chinese">王举人也不谦让，一屁股在上首坐了。</span><span class="english">Without any modesty, Chu Jen Wang sat down in the seat of honour.</span></p>

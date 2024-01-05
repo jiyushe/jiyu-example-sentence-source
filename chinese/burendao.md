@@ -1,5 +1,7 @@
 # 不人道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/burendao.md)
+
 <p><span class="chinese">但这样不人道，而且残忍。</span><span class="english">But that's inhuman and cruel.</span></p>
 
 <p><span class="chinese">她怎么能说出如此不人道的话？</span><span class="english">How can she come with such non-humanitarian words?</span></p>

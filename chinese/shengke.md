@@ -1,5 +1,7 @@
 # 生客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengke.md)
+
 <p><span class="chinese">一位男宾又是一位生客！</span><span class="english">A gentleman and a stranger!</span></p>
 
 <p><span class="chinese">我所说到的这位客人是位男宾，又是个生客。</span><span class="english">The person of whom I speak, is a gentleman and a stranger.</span></p>

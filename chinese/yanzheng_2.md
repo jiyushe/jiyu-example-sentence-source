@@ -1,5 +1,7 @@
 # 验证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzheng_2.md)
+
 <p><span class="chinese">我们来验证一下</span><span class="english">Well let's check.</span></p>
 
 <p><span class="chinese">应用程序已通过验证。</span><span class="english">Applications verified.</span></p>

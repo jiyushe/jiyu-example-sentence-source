@@ -1,5 +1,7 @@
 # an
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/an.md)
+
 <p><span class="chinese">一个82额定值。</span><span class="english">An 82 nom.</span></p>
 
 <p><span class="chinese">一套公寓？</span><span class="english">An apartment?</span></p>

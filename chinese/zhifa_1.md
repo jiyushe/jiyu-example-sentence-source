@@ -1,5 +1,7 @@
 # 指法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhifa_1.md)
+
 <p><span class="chinese">尝试发明你自己的指法。</span><span class="english">Invent your own fingerings.</span></p>
 
 <p><span class="chinese">我弹吉它时指法都很生涩。</span><span class="english">I am all thumbs when I play the guitar.</span></p>

@@ -1,5 +1,7 @@
 # infect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infect.md)
+
 <p><span class="chinese">别担心，我从不受传染。</span><span class="english">Don't worry. I never infect.</span></p>
 
 <p><span class="chinese">耳鼓已经感染了。</span><span class="english">My right eardrum have become infect.</span></p>

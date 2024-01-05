@@ -1,5 +1,7 @@
 # 助阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhen.md)
+
 <p><span class="chinese">天主是我的护盾，给心正的人助阵。</span><span class="english">A shield before me is God who saves the honest heart.</span></p>
 
 <p><span class="chinese">期间，演员赵本山也助阵朗朗的演奏会，雅俗共赏。</span><span class="english">And he and actor Zhao Benshan perform during the concert.</span></p>

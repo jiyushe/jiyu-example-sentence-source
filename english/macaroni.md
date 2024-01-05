@@ -1,5 +1,7 @@
 # macaroni
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macaroni.md)
+
 <p><span class="chinese">他是我义大利通心面上的起司。</span><span class="english">He is the cheese to my macaroni.</span></p>
 
 <p><span class="chinese">呃，通心粉和奶酪怎么样？</span><span class="english">Uh, how about macaroni and cheese?</span></p>

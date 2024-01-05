@@ -1,5 +1,7 @@
 # beatification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beatification.md)
+
 <p><span class="chinese">保罗二世的宣福礼意味着他在为人代祷中已经行了一次神迹。</span><span class="english">John Paul's beatification means he has had a miracle attributed to his intercession.</span></p>
 
 <p><span class="chinese">在十月十九日「宣福」成圣的德蕾莎修女，被认为是天主教会现代史上最快封圣的神职人员。</span><span class="english">Her beatification on Oct 19 is believed to be the fastest in the modern history of the Roman Catholic church.</span></p>

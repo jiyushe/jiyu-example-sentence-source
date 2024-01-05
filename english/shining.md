@@ -1,5 +1,7 @@
 # shining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shining.md)
+
 <p><span class="chinese">光明普照，如日不晦。</span><span class="english">Bright shining as the sun.</span></p>
 
 <p><span class="chinese">李必俊，一个阳光男孩。</span><span class="english">I'm vicent, a shining boy.</span></p>

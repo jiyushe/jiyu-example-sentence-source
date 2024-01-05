@@ -1,5 +1,7 @@
 # 思前想后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siqianxianghou.md)
+
 <p><span class="chinese">哲行思前想后，感觉到整件事情并不单纯。</span><span class="english">Zhe line focused, feel the whole thing is not simple.</span></p>
 
 <p><span class="chinese">思前想后还是讲一下自己的某些兴趣爱好吧。</span><span class="english">After thinking it over, or talk about some of his hobbies bar.</span></p>

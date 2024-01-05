@@ -1,5 +1,7 @@
 # 千张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzhang.md)
+
 <p><span class="chinese">毕加索用很多种不同的方式画了上千张画。</span><span class="english">Picasso painted thousands of pictures in many different styles.</span></p>
 
 <p><span class="chinese">这种把手内藏有数千张塑料消毒的套筒随时处于待命状态。</span><span class="english">The system stores thousands of spooled sterile plastic sleeves inside.</span></p>

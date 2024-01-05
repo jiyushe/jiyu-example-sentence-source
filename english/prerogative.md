@@ -1,5 +1,7 @@
 # prerogative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prerogative.md)
+
 <p><span class="chinese">这是你的特权。</span><span class="english">That’s your prerogative.</span></p>
 
 <p><span class="chinese">离席是他的自由。</span><span class="english">It is within his prerogative to leave.</span></p>

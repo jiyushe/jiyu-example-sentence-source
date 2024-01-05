@@ -1,5 +1,7 @@
 # 高教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojiao.md)
+
 <p><span class="chinese">你好，高教出版社。</span><span class="english">Hello. Higher Education Press.</span></p>
 
 <p><span class="chinese">降低高教自考的教育成本。</span><span class="english">Fourthly, to reduce the education cost.</span></p>

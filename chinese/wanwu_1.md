@@ -1,5 +1,7 @@
 # 玩物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanwu_1.md)
+
 <p><span class="chinese">任何银行对他而言都是掌中玩物。</span><span class="english">Any bank is open play for him.</span></p>
 
 <p><span class="chinese">必竟我们都是时间手中的玩物！</span><span class="english">We unexpectedly must be all toys in the hand of time!</span></p>

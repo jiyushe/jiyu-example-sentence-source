@@ -1,5 +1,7 @@
 # nokia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nokia.md)
+
 <p><span class="chinese">谁还用正版的诺基亚手机呢？</span><span class="english">Who needs Nokia?</span></p>
 
 <p><span class="chinese">诺基亚和微软2007年之前。</span><span class="english">Nokia and Microsoft pre-2007.</span></p>

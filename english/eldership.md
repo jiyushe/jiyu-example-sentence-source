@@ -1,5 +1,7 @@
 # eldership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eldership.md)
+
 <p><span class="chinese">跟长辈讲话应该有礼貌。</span><span class="english">Please speak mannerly with the eldership.</span></p>
 
 <p><span class="chinese">我不想成为你的老师，不想是你的兄长。</span><span class="english">I don't want to be your eldership brother.</span></p>

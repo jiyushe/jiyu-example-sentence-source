@@ -1,5 +1,7 @@
 # troubleshooter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troubleshooter.md)
+
 <p><span class="chinese">对我们的批发网站的主要开发商和疑难解答。</span><span class="english">Be the key developer and troubleshooter for our wholesale website.</span></p>
 
 <p><span class="chinese">如果无线鼠标没有象您所希望的那样工作，请单击“疑难解答”。</span><span class="english">Click Troubleshooter if the wireless mouse does not work as expected.</span></p>

@@ -1,5 +1,7 @@
 # aegis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aegis.md)
+
 <p><span class="chinese">目前宙斯盾舰也正在接受其他的技术升级。</span><span class="english">Aegis ships also are receiving other technology upgrades.</span></p>
 
 <p><span class="chinese">在红十字会的保护下，正在空运进医药用品。</span><span class="english">Medical supplies are flied in under the aegis of the red cross.</span></p>

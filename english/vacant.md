@@ -1,5 +1,7 @@
 # vacant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacant.md)
+
 <p><span class="chinese">它睡着——一片空茫。</span><span class="english">It sleeps -- VACANT.</span></p>
 
 <p><span class="chinese">你这还有空房吗？</span><span class="english">Have you got any vacant room?</span></p>

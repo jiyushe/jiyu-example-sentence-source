@@ -1,5 +1,7 @@
 # inrush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inrush.md)
+
 <p><span class="chinese">软瞬态浪涌电流控制和降低音频噪声。</span><span class="english">Soft transient control reduces inrush current and audio noise.</span></p>
 
 <p><span class="chinese">当面对并释放恐惧之后，能量会像浪潮一般涌进。</span><span class="english">When fear is faced and released, you will find an inrush of energy.</span></p>

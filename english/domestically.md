@@ -1,5 +1,7 @@
 # domestically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domestically.md)
+
 <p><span class="chinese">但最根本的问题是国内所发生的事情。</span><span class="english">But the more fundamental question is what happens domestically.</span></p>
 
 <p><span class="chinese">31是中国第二款国产隐形战机。</span><span class="english">The J-31 is China's second domestically produced stealth fighter.</span></p>

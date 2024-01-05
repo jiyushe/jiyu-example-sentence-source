@@ -1,5 +1,7 @@
 # peremptory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peremptory.md)
+
 <p><span class="chinese">不容分说的解雇、指责、喊叫。</span><span class="english">A peremptory dismissal, rebuke, shout.</span></p>
 
 <p><span class="chinese">他那专横的口气激怒了大家。</span><span class="english">His peremptory tone of voice irritated everybody.</span></p>

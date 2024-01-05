@@ -1,5 +1,7 @@
 # trustworthiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trustworthiness.md)
+
 <p><span class="chinese">公然地利我的“计划安排“也许会怀疑此人是否可信任。</span><span class="english">Blatant self-serving agendas may cast doubt on one's trustworthiness.</span></p>
 
 <p><span class="chinese">诚信是道路，随着开拓者的脚步延伸。</span><span class="english">The trustworthiness is a road, along with expand the footstep extension.</span></p>

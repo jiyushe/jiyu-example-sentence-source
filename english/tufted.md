@@ -1,5 +1,7 @@
 # tufted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tufted.md)
+
 <p><span class="chinese">茎通常丛生。</span><span class="english">Stems often tufted.</span></p>
 
 <p><span class="chinese">小山包上长着一簇低矮的灌木丛。</span><span class="english">Ran a hill tufted with small bushes.</span></p>

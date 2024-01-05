@@ -1,5 +1,7 @@
 # convalescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convalescent.md)
+
 <p><span class="chinese">他不久就会康复的。</span><span class="english">He'll soon be convalescent.</span></p>
 
 <p><span class="chinese">人参是送给康复期病人的常见馈赠。</span><span class="english">Ginseng is the usual gift for a convalescent.</span></p>

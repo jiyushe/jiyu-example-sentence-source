@@ -1,5 +1,7 @@
 # 脱靶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoba_1.md)
+
 <p><span class="chinese">但是，假如你毫无目标，你将次次脱靶。</span><span class="english">But if you aim for nothing, you'll hit it every time.</span></p>
 
 <p><span class="chinese">这个偏差除以制导回路的放大系数，就是这个原因所引起的脱靶量。</span><span class="english">This bias divided by the guidance loop gain will be the miss due to this cause.</span></p>

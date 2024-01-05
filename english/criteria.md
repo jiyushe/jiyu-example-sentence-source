@@ -1,5 +1,7 @@
 # criteria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/criteria.md)
+
 <p><span class="chinese">指定您的标准。</span><span class="english">Specify your criteria.</span></p>
 
 <p><span class="chinese">不确定地说，选择标准是这样的。</span><span class="english">Flexibly,here are the criteria.</span></p>

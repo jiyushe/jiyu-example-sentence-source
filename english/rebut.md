@@ -1,5 +1,7 @@
 # rebut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebut.md)
+
 <p><span class="chinese">奥巴马一直在努力反驳这种谣言。</span><span class="english">Mr. Obama is making an intense effort to rebut those claims.</span></p>
 
 <p><span class="chinese">这封公开信是反驳抽象派论点的。</span><span class="english">This open letter is to rebut the argument of abstractionism.</span></p>

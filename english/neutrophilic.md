@@ -1,5 +1,7 @@
 # neutrophilic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neutrophilic.md)
+
 <p><span class="chinese">图示黏膜层可见溃疡，内有大量的中性粒细胞渗出。</span><span class="english">Here, the mucosa shows ulceration and undermining by an extensive neutrophilic exudate.</span></p>
 
 <p><span class="chinese">慢性中性粒细胞白血病和慢性淋巴细胞白血病均未发现CD133的阳性表达。</span><span class="english">There were no expression of CD133 in chronic neutrophilic leukemia and chronic lymphocytic leukemia patients.</span></p>

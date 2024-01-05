@@ -1,5 +1,7 @@
 # aerobics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerobics.md)
+
 <p><span class="chinese">试试有氧活动。</span><span class="english">Try aerobics.</span></p>
 
 <p><span class="chinese">做有氧运动吗？</span><span class="english">Doing aerobics?</span></p>

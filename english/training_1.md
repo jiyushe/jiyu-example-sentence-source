@@ -1,5 +1,7 @@
 # training 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/training_1.md)
+
 <p><span class="chinese">接受绝地武士的训练。</span><span class="english">Jedi training.</span></p>
 
 <p><span class="chinese">在职培训。</span><span class="english">On the job training.</span></p>

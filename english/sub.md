@@ -1,5 +1,7 @@
 # sub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sub.md)
+
 <p><span class="chinese">运行店子！</span><span class="english">Run a sub shop!</span></p>
 
 <p><span class="chinese">字子野。</span><span class="english">Word sub field.</span></p>

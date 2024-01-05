@@ -1,5 +1,7 @@
 # subtraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtraction.md)
+
 <p><span class="chinese">这个过程与其说是在增加倒不如说是删减。</span><span class="english">It’s a process of subtraction more than addition.</span></p>
 
 <p><span class="chinese">换句话说，我们可以借助减法的魔力。</span><span class="english">In other words, we can use the magic of subtraction.</span></p>

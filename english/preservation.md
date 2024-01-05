@@ -1,5 +1,7 @@
 # preservation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preservation.md)
+
 <p><span class="chinese">保温材料的加工。</span><span class="english">Heat preservation material processing.</span></p>
 
 <p><span class="chinese">在使用与保存之间要讲求平衡。</span><span class="english">There's balance between use and preservation.</span></p>

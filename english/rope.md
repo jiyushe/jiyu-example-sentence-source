@@ -1,5 +1,7 @@
 # rope 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rope.md)
+
 <p><span class="chinese">他有了一根绳子。</span><span class="english">He had a rope.</span></p>
 
 <p><span class="chinese">绳索断了。</span><span class="english">The rope gave way.</span></p>

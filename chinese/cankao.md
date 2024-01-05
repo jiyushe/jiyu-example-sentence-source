@@ -1,5 +1,7 @@
 # 参考
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cankao.md)
+
 <p><span class="chinese">使用相同的参考第一作者。</span><span class="english">The first author "tags" Ibid.</span></p>
 
 <p><span class="chinese">还有许多其他参考资料。</span><span class="english">There are many other references.</span></p>

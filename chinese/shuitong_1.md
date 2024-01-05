@@ -1,5 +1,7 @@
 # 水筒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuitong_1.md)
+
 <p><span class="chinese">他指了指一边的水筒。</span><span class="english">He pointed the water tube of pointing the part.</span></p>
 
 <p><span class="chinese">高温太阳能热水筒属于储水筒领域。</span><span class="english">High-temperature solar hot water cylinder belongs to water-storing area.</span></p>

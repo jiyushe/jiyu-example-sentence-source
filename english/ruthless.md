@@ -1,5 +1,7 @@
 # ruthless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruthless.md)
+
 <p><span class="chinese">成为自己无情的文字编辑。</span><span class="english">Be your own ruthless copy editor.</span></p>
 
 <p><span class="chinese">但是没有人比古尔丹更冷酷无情。</span><span class="english">But none was as ruthless as Gul'dan.</span></p>

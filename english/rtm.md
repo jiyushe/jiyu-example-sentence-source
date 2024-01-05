@@ -1,5 +1,7 @@
 # rtm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rtm.md)
+
 <p><span class="chinese">这里是一些有用的RTM快捷键。</span><span class="english">See here for some useful RTM keyboard shortcuts.</span></p>
 
 <p><span class="chinese">RTM意味着Gmail也成为了一个开放平台</span><span class="english">RTM Demonstrates the Openness of the Gmail Platform</span></p>

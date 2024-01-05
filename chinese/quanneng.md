@@ -1,5 +1,7 @@
 # 全能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanneng.md)
+
 <p><span class="chinese">禁止它吧，全能的上帝!</span><span class="english">Forbid it Almighty God!</span></p>
 
 <p><span class="chinese">他是十项全能和七项全能。</span><span class="english">He is Decathlon and heptathlon.</span></p>

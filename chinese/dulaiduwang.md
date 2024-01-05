@@ -1,5 +1,7 @@
 # 独来独往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dulaiduwang.md)
+
 <p><span class="chinese">老虎是独来独往的。</span><span class="english">The tiger walks alone.</span></p>
 
 <p><span class="chinese">狗，天性就不喜独来独往。</span><span class="english">Dogs, by nature, are not loners.</span></p>

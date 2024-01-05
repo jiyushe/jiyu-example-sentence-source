@@ -1,5 +1,7 @@
 # 连长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianchang.md)
+
 <p><span class="chinese">连长大声地发出命令。</span><span class="english">The company commander yelled out orders.</span></p>
 
 <p><span class="chinese">连长高声发布命令。</span><span class="english">The company commander roared his command.</span></p>

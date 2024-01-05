@@ -1,5 +1,7 @@
 # 快意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaiyi.md)
+
 <p><span class="chinese">一丝快意掠过了他的心头。</span><span class="english">A happiness swept over him.</span></p>
 
 <p><span class="chinese">我看着这一切，虽然感觉冷得发抖，却也幸福快意。</span><span class="english">I watched, shivering and happy.</span></p>

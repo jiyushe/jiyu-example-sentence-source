@@ -1,5 +1,7 @@
 # dowd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dowd.md)
+
 <p><span class="chinese">文森特·多德报道。</span><span class="english">More from Vincent Dowd.</span></p>
 
 <p><span class="chinese">华盛顿大使馆。</span><span class="english">Embassy Washington. Maureen Dowd is off today.</span></p>

@@ -1,5 +1,7 @@
 # 初出茅庐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchumaolu.md)
+
 <p><span class="chinese">他是个初出茅庐的作家。</span><span class="english">He was a mediocre writer.</span></p>
 
 <p><span class="chinese">我初出茅庐，还请多多关照。</span><span class="english">I am inexperienced, but also invite more attention.</span></p>

@@ -1,5 +1,7 @@
 # bachelorette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bachelorette.md)
+
 <p><span class="chinese">在妻子的婚前单身派对遇见妻子。</span><span class="english">Met wife at her bachelorette party.</span></p>
 
 <p><span class="chinese">我单身。事实上，你可以叫我单身女士。</span><span class="english">As a matter of fact, you can call me a bachelorette.</span></p>

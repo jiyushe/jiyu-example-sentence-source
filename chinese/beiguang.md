@@ -1,5 +1,7 @@
 # 背光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiguang.md)
+
 <p><span class="chinese">现在还没有背光。</span><span class="english">Still no backlights.</span></p>
 
 <p><span class="chinese">背光的低光条件下。</span><span class="english">Backlight for low light conditions.</span></p>

@@ -1,5 +1,7 @@
 # seiko
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seiko.md)
+
 <p><span class="chinese">精工5号是机械表。</span><span class="english">Seiko 5 is a mechanical watch.</span></p>
 
 <p><span class="chinese">面料均为人工包制，精工细缝，更显高雅。</span><span class="english">Fabrics are artificial packs, Seiko slit, even more elegant.</span></p>

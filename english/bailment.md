@@ -1,5 +1,7 @@
 # bailment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bailment.md)
+
 <p><span class="chinese">你是我心上一点点寄托。</span><span class="english">A bailment of telesthesia you are in my heart.</span></p>
 
 <p><span class="chinese">深山密林是鄂伦春人生命与情感的寄托。</span><span class="english">Remote mountain woods is the Elunchun people's bailment of life and sentiment.</span></p>

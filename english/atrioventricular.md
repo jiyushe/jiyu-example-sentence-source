@@ -1,5 +1,7 @@
 # atrioventricular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atrioventricular.md)
+
 <p><span class="chinese">为什么房室通道受到关注？</span><span class="english">Why is atrioventricular canal a concern?</span></p>
 
 <p><span class="chinese">目的探讨胎儿房室结内的细胞类型和大小。</span><span class="english">Objective To investigate cell type and size of fetus atrioventricular node.</span></p>

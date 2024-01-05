@@ -1,5 +1,7 @@
 # bolognese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolognese.md)
+
 <p><span class="chinese">在肉酱和面条上撒些初榨橄榄油。</span><span class="english">A touch extra virgin olive oil around Bolognese and pasta.</span></p>
 
 <p><span class="chinese">我们都很喜欢她和她做的意大利牛肉面。</span><span class="english">We all loved her – both for herself alone and for her spaghetti bolognese.</span></p>

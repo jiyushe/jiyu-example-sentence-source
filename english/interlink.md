@@ -1,5 +1,7 @@
 # interlink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlink.md)
+
 <p><span class="chinese">寂静的公路发生了连环杀人案件，凶手就是你。</span><span class="english">Interlink homicides happen in the quite highway, you are the murderer.</span></p>
 
 <p><span class="chinese">一场连环的禁毒战役就此打响。</span><span class="english">The battle prohibiting toxin of an interlink at this point start shooting.</span></p>

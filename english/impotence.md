@@ -1,5 +1,7 @@
 # impotence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impotence.md)
+
 <p><span class="chinese">这是阳痿的隐喻。</span><span class="english">It's an impotence metaphor.</span></p>
 
 <p><span class="chinese">□阳痿的可能性增加。</span><span class="english">Increases likelihood of impotence</span></p>

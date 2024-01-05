@@ -1,5 +1,7 @@
 # 喇叭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laba.md)
+
 <p><span class="chinese">喇叭线“，”</span><span class="english">Speaker Wire.</span></p>
 
 <p><span class="chinese">它是支小喇叭。</span><span class="english">It's a small trumpet.</span></p>

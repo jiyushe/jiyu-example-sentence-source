@@ -1,5 +1,7 @@
 # 消闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxian.md)
+
 <p><span class="chinese">海洋公园是东南亚最大的海洋主题消闲中心。</span><span class="english">Ocean Park is the biggest Ocean theme in Southeast Asia.</span></p>
 
 <p><span class="chinese">钱德为讨准岳父欢心而陪他消闲，两人在健身房尴尬场面不断。</span><span class="english">Chandler spends time with Mr. Geller, and keeps having embarrassing moments at the gym.</span></p>

@@ -1,5 +1,7 @@
 # 小肠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaochang.md)
+
 <p><span class="chinese">小肠是长管形器官。</span><span class="english">The small intestine is a long, tubular organ.</span></p>
 
 <p><span class="chinese">小肠肠套叠需做肠切除术。</span><span class="english">Small bowel intussusception may require resection.</span></p>

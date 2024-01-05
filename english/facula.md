@@ -1,5 +1,7 @@
 # facula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facula.md)
+
 <p><span class="chinese">通过测量回馈光远场光斑的位置变化可以得到端机的跟瞄精度。</span><span class="english">The tracking precision is got by measuring the far-field facula posit.</span></p>
 
 <p><span class="chinese">在个体轮廓探测环节，本论文提出了新的光斑扩散模型。</span><span class="english">On individual detection, a new model, Facula Diffusion, is put forward.</span></p>

@@ -1,5 +1,7 @@
 # 丰富多彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengfuduocai.md)
+
 <p><span class="chinese">我觉得我们的生活丰富多彩。</span><span class="english">I think our life is colourful.</span></p>
 
 <p><span class="chinese">我们的生活比以前更丰富多彩了。</span><span class="english">Our life is more colourful than before.</span></p>

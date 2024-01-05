@@ -1,5 +1,7 @@
 # 事项
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiang_1.md)
+
 <p><span class="chinese">钩，线以及其他注意事项。</span><span class="english">Hooks, wires, and other hazards.</span></p>
 
 <p><span class="chinese">月经期要注意那些事项！</span><span class="english">Menses should notice those item!</span></p>

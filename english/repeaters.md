@@ -1,5 +1,7 @@
 # repeaters
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repeaters.md)
+
 <p><span class="chinese">保证一个基站可以带更多个微功率直放站。</span><span class="english">One base station can hook up more than one repeaters.</span></p>
 
 <p><span class="chinese">下一页将说明讯号放大器的好处。</span><span class="english">The next page will describe the benefits of repeaters.</span></p>

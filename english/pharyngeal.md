@@ -1,5 +1,7 @@
 # pharyngeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharyngeal.md)
+
 <p><span class="chinese">在咽测压实现的潜力。</span><span class="english">The unrealized potential of pharyngeal manometry.</span></p>
 
 <p><span class="chinese">聊聊小天，抽抽小咽。</span><span class="english">Chat on the day, pumping small pharyngeal pumping.</span></p>

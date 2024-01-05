@@ -1,5 +1,7 @@
 # nonvolatile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonvolatile.md)
+
 <p><span class="chinese">和CMOS的系统不同的是，它的逻辑资讯不会逸失。</span><span class="english">Unlike CMOS-based systems, the logic is nonvolatile.</span></p>
 
 <p><span class="chinese">也可以利用诸如硬盘之类的非易失性存储器。</span><span class="english">Nonvolatile memory may also be utilized such as a hard disk.</span></p>

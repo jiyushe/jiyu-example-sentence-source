@@ -1,5 +1,7 @@
 # uaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uaw.md)
+
 <p><span class="chinese">繁琐的工会工作规则只能做调整。</span><span class="english">Cumbersome UAW work rules have only been tweaked.</span></p>
 
 <p><span class="chinese">华尔街的硕鼠和汽车工人联合会已经激起了美国公愤。</span><span class="english">Americans are outraged by both Wall Street fat cats and the UAW job bank.</span></p>

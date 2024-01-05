@@ -1,5 +1,7 @@
 # 用武之地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongwuzhidi.md)
+
 <p><span class="chinese">但是秃鹫也有自己的用武之地。</span><span class="english">But vultures have their place.</span></p>
 
 <p><span class="chinese">这正是中间件的用武之地。</span><span class="english">And this is where middleware comes in.</span></p>

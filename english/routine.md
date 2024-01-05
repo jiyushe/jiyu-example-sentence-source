@@ -1,5 +1,7 @@
 # routine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/routine.md)
+
 <p><span class="chinese">我明白了，常规。</span><span class="english">Gotcha. Routine.</span></p>
 
 <p><span class="chinese">打破常规。</span><span class="english">Break the routine.</span></p>

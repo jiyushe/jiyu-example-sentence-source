@@ -1,5 +1,7 @@
 # 穴位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuewei.md)
+
 <p><span class="chinese">缓解颈椎不适的穴位是风池穴。</span><span class="english">Cervical ease discomfort Fengchi Points is.</span></p>
 
 <p><span class="chinese">对照组则不采用穴位按摩法。</span><span class="english">In control group, there was no point massage.</span></p>

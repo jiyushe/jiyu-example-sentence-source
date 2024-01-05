@@ -1,5 +1,7 @@
 # shy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shy.md)
+
 <p><span class="chinese">他看起来很害羞。</span><span class="english">He is so shy.</span></p>
 
 <p><span class="chinese">别害羞，你来？</span><span class="english">Don't be shy. Yes?</span></p>

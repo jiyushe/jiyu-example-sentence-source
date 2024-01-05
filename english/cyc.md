@@ -1,5 +1,7 @@
 # cyc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyc.md)
+
 <p><span class="chinese">现阶段，这些路口大多使用周期固定的红绿灯控制器。</span><span class="english">In our country, those crossings often use fixed Cyc red and green light.</span></p>
 
 <p><span class="chinese">例如，在寒假期间中国青年团的活动非常受欢迎。</span><span class="english">The CYC 's activities during winter vacation, for example, are very popular.</span></p>

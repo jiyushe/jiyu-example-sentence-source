@@ -1,5 +1,7 @@
 # teleplay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teleplay.md)
+
 <p><span class="chinese">她被人们誉为电视剧皇后。</span><span class="english">She was rewarded as the queen of the teleplay.</span></p>
 
 <p><span class="chinese">在中国大陆，电视剧市场正逐步成熟。</span><span class="english">In Chinese Mainland, teleplay market matured gradually.</span></p>

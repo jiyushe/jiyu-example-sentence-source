@@ -1,5 +1,7 @@
 # malcontent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malcontent.md)
+
 <p><span class="chinese">对于我的好奇，他们有些不满。</span><span class="english">The curiosity to me, they are a little malcontent.</span></p>
 
 <p><span class="chinese">否则，你可能会被看作是一种慢性抱不平。</span><span class="english">Otherwise you may be viewed as a chronic malcontent.</span></p>

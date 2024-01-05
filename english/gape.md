@@ -1,5 +1,7 @@
 # gape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gape.md)
+
 <p><span class="chinese">为什么鼻炎的人老打哈欠？</span><span class="english">Why the person old gape of rhinitis?</span></p>
 
 <p><span class="chinese">为什么打哈欠和咳嗽会相互传染啊？</span><span class="english">Why can be gape and cough infected each other?</span></p>

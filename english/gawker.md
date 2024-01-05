@@ -1,5 +1,7 @@
 # gawker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gawker.md)
+
 <p><span class="chinese">就这种情况而言，看来他只好睡沙发了。</span><span class="english">He'll be sleeping on the sofa, according to Gawker.</span></p>
 
 <p><span class="chinese">包括Gawker在内的多家网都对此进行了报道。</span><span class="english">Websites including Gawker have reported on the site.</span></p>

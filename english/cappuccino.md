@@ -1,5 +1,7 @@
 # cappuccino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cappuccino.md)
+
 <p><span class="chinese">我知道卡布奇诺是你的最爱。</span><span class="english">I know Cappuccino is your favorite.</span></p>
 
 <p><span class="chinese">卡布其诺是我开启漂亮英语之门的钥匙！</span><span class="english">Cappuccino is my key to beautiful English!</span></p>

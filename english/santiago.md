@@ -1,5 +1,7 @@
 # santiago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/santiago.md)
+
 <p><span class="chinese">蒂姆福斯卡在的圣地亚哥报道。</span><span class="english">Tim Fosca reports now from Santiago.</span></p>
 
 <p><span class="chinese">您好！我要去智利的圣地亚哥。</span><span class="english">Buenos días! Voy a Santiago de Chile.</span></p>

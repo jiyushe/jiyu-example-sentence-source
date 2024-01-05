@@ -1,5 +1,7 @@
 # triangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triangle.md)
+
 <p><span class="chinese">把三角形先生涂成绿色。</span><span class="english">Color Mr. Triangle green.</span></p>
 
 <p><span class="chinese">我喜欢我的三角尺。</span><span class="english">I like my triangle ruler.</span></p>

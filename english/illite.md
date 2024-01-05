@@ -1,5 +1,7 @@
 # illite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illite.md)
+
 <p><span class="chinese">最小粒级的伊利石形成最晚。</span><span class="english">Therefore the smallest-sized illite formed latest.</span></p>
 
 <p><span class="chinese">在这些矿物中，高岭石，伊利石和绿泥石最常见。</span><span class="english">Of these minerals kaolinite illite and chlorite are commonest.</span></p>

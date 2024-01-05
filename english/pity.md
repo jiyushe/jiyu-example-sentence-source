@@ -1,5 +1,7 @@
 # pity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pity.md)
+
 <p><span class="chinese">我很同情费雷迪。</span><span class="english">I pity Freddie.</span></p>
 
 <p><span class="chinese">我得到了很多哀怜。</span><span class="english">I got a lot of pity.</span></p>

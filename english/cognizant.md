@@ -1,5 +1,7 @@
 # cognizant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cognizant.md)
+
 <p><span class="chinese">这种情况下你的钓线还要保证一定的不可视性。</span><span class="english">So you have to be cognizant to use line that isn't too visible.</span></p>
 
 <p><span class="chinese">好在通州区政府已充分认识到这一点。</span><span class="english">Fortunately, Tung Chau District government is fully cognizant of this.</span></p>

@@ -1,5 +1,7 @@
 # etching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etching.md)
+
 <p><span class="chinese">玛丽很喜爱蚀刻艺术。</span><span class="english">Mary is very keen on etching.</span></p>
 
 <p><span class="chinese">夜景犹如一幅黑白分明的木刻画。</span><span class="english">The night was an etching in black and white.</span></p>

@@ -1,5 +1,7 @@
 # 对折
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duizhe.md)
+
 <p><span class="chinese">所有运动装备都打了对折。</span><span class="english">All sports equipment is half off.</span></p>
 
 <p><span class="chinese">什么时候开始打对折?。</span><span class="english">When does your half-off sale start?</span></p>

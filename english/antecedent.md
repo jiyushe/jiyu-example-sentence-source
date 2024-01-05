@@ -1,5 +1,7 @@
 # antecedent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antecedent.md)
+
 <p><span class="chinese">事情发生总会有前因。</span><span class="english">There are always antecedent causes.</span></p>
 
 <p><span class="chinese">道德应得，那是一个先行标准。</span><span class="english">That's an antecedent standard. Moral desert.</span></p>

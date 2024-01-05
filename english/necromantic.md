@@ -1,5 +1,7 @@
 # necromantic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necromantic.md)
+
 <p><span class="chinese">学识要塞，伟大的巫术魔法之城，现在已是一片废墟。</span><span class="english">Lorekeep, the great city of necromantic magic, lies in ruins.</span></p>
 
 <p><span class="chinese">死亡骑士把武力和黑暗的亡灵法术结合在一起。</span><span class="english">The death knight combines martial prowess with dark, necromantic energies.</span></p>

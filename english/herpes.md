@@ -1,5 +1,7 @@
 # herpes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herpes.md)
+
 <p><span class="chinese">他们简直是社会的疱疹。</span><span class="english">He has the social appeal of herpes.</span></p>
 
 <p><span class="chinese">别担心生殖器疱疹或者艾滋病病毒。</span><span class="english">Don't worry about genital herpes or HIV.</span></p>

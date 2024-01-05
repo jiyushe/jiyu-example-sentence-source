@@ -1,5 +1,7 @@
 # fledge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fledge.md)
+
 <p><span class="chinese">网络开发是一个充分成熟的产业。</span><span class="english">Web development is a full fledge industry now.</span></p>
 
 <p><span class="chinese">幼鸟形似雌鸟，但是喙成黑色。</span><span class="english">Juveniles fledge looking like females, but with a black beak.</span></p>

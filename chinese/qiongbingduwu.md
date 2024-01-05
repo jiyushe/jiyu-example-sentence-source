@@ -1,5 +1,7 @@
 # 穷兵黩武
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongbingduwu.md)
+
 <p><span class="chinese">盖尔人是一个穷兵黩武，专横暴戾的贵族阶层。</span><span class="english">The gaels were a military and oppressive aristocracy.</span></p>
 
 <p><span class="chinese">朝鲜或许是这个星球上最穷兵黩武的国家。</span><span class="english">North Korea is quite probably the most militarized state on earth.</span></p>

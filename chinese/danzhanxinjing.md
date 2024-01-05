@@ -1,5 +1,7 @@
 # 胆战心惊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danzhanxinjing.md)
+
 <p><span class="chinese">枪总是让我胆战心惊。</span><span class="english">Guns always gave me the willies.</span></p>
 
 <p><span class="chinese">这只胆战心惊的熊精力过剩！</span><span class="english">This funky bear has soul to spare!</span></p>

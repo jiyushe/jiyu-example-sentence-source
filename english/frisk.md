@@ -1,5 +1,7 @@
 # frisk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frisk.md)
+
 <p><span class="chinese">搜搜他！</span><span class="english">Frisk him!</span></p>
 
 <p><span class="chinese">搜查你的家。</span><span class="english">Frisk your home.</span></p>

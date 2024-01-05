@@ -1,5 +1,7 @@
 # helluva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helluva.md)
+
 <p><span class="chinese">可口可乐是种很大的药物！</span><span class="english">Coke is a helluva drug!</span></p>
 
 <p><span class="chinese">伴随著轰隆的吼声！</span><span class="english">Off with one helluva roar!</span></p>

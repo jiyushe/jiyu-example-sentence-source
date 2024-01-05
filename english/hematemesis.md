@@ -1,5 +1,7 @@
 # hematemesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hematemesis.md)
+
 <p><span class="chinese">此伤致孙23日晚吐血不止，送医院抢救无效后去世。</span><span class="english">He experienced severe hematemesis on July 23 and later died in hospital.</span></p>
 
 <p><span class="chinese">肝硬化患者在家中发生呕血怎么办？</span><span class="english">In patients with liver cirrhosis hematemesis occurred at home how to do?</span></p>

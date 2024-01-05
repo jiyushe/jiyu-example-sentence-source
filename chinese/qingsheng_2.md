@@ -1,5 +1,7 @@
 # 轻省
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingsheng_2.md)
+
 <p><span class="chinese">你以为这烘干纸的活轻省啊？</span><span class="english">Do you think paper drying is an easy job?</span></p>
 
 <p><span class="chinese">他的轭是容易的，他的担子是轻省的。</span><span class="english">His yoke is easy and His burthen is light.</span></p>

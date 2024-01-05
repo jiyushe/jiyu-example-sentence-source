@@ -1,5 +1,7 @@
 # boarding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boarding.md)
+
 <p><span class="chinese">她在我们这儿搭伙。</span><span class="english">She is boarding with us.</span></p>
 
 <p><span class="chinese">757航班的乘客请现在登机。</span><span class="english">Flight 757 is now boarding.</span></p>

@@ -1,5 +1,7 @@
 # trumpet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trumpet.md)
+
 <p><span class="chinese">它是支小喇叭。</span><span class="english">It's a small trumpet.</span></p>
 
 <p><span class="chinese">他正在吹喇叭。</span><span class="english">He is blowing a trumpet.</span></p>

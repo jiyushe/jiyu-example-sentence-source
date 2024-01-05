@@ -1,5 +1,7 @@
 # painstaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/painstaking.md)
+
 <p><span class="chinese">她并不很聪明，但肯下苦功夫。</span><span class="english">She is not very clever but she is painstaking.</span></p>
 
 <p><span class="chinese">现在努力学习，报答父母的一片苦心。</span><span class="english">Now study hard, love for parents a painstaking.</span></p>

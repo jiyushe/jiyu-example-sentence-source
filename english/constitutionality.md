@@ -1,5 +1,7 @@
 # constitutionality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constitutionality.md)
+
 <p><span class="chinese">但是，最高法院没有就这一条款的合宪性作出裁决。</span><span class="english">But the court did not rule on the constitutionality of the provision itself.</span></p>
 
 <p><span class="chinese">他们在州宪法下评估州法律的合宪性。</span><span class="english">They evaluate the constitutionality of state laws under the state constitution.</span></p>

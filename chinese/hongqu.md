@@ -1,5 +1,7 @@
 # 红区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongqu.md)
+
 <p><span class="chinese">重新分配土地是红区政策中的一个根本要素。</span><span class="english">Redistribution of land was a fundamental of Red policy.</span></p>
 
 <p><span class="chinese">在穿过红区后我开始放松下来。</span><span class="english">And with the Red Zone finally behind me, I started to relax.</span></p>

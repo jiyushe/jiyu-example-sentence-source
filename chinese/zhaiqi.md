@@ -1,5 +1,7 @@
 # 斋期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaiqi.md)
+
 <p><span class="chinese">今天星期三是斋期开始。</span><span class="english">It's Ash Wednesday.</span></p>
 
 <p><span class="chinese">他们度过了三天斋期。</span><span class="english">They had a fast of 3 days.</span></p>

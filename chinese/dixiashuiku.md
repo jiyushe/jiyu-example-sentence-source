@@ -1,5 +1,7 @@
 # 地下水库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixiashuiku.md)
+
 <p><span class="chinese">水从深深的地下水库中被抽了出来。</span><span class="english">The oil is pumped up from deep underground reservoirs.</span></p>
 
 <p><span class="chinese">现在普遍使用计算机管理地下水库。</span><span class="english">Computers are in widespread use now to help manage underground water reservoir.</span></p>

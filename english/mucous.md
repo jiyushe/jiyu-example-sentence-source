@@ -1,5 +1,7 @@
 # mucous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mucous.md)
+
 <p><span class="chinese">口腔粘膜囊肿会不会恶化？</span><span class="english">Can cyst of oral cavity mucous membrane worsen?</span></p>
 
 <p><span class="chinese">黏液细胞分泌酸性黏多糖。</span><span class="english">The mucous cells secrete acid mucopolysaccharides.</span></p>

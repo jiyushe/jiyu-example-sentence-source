@@ -1,5 +1,7 @@
 # 面黄肌瘦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianhuangjishou.md)
+
 <p><span class="chinese">面黄肌瘦是肝炎吗？</span><span class="english">Is sallow and emaciated hepatitis?</span></p>
 
 <p><span class="chinese">疾病把她折磨得面黄肌瘦。</span><span class="english">Her illness has left her thin and pale.</span></p>

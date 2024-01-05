@@ -1,5 +1,7 @@
 # pinna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinna.md)
+
 <p><span class="chinese">耳廓随之变成皱缩。</span><span class="english">With time the pinna becomes shrivelled.</span></p>
 
 <p><span class="chinese">终于，黑翼开始使用英文了！！！</span><span class="english">Black Pinna open his mouth finally ! ! !</span></p>

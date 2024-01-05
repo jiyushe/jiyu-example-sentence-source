@@ -1,5 +1,7 @@
 # 起初
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qichu_1.md)
+
 <p><span class="chinese">起初她婉言拒绝。</span><span class="english">At first she declined.</span></p>
 
 <p><span class="chinese">起初，我在脑海中掘开了一个坟墓。</span><span class="english">Mentally I dug a grave.</span></p>

@@ -1,5 +1,7 @@
 # malign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malign.md)
+
 <p><span class="chinese">我在心里邪恶的YY。</span><span class="english">My in mind malign YY.</span></p>
 
 <p><span class="chinese">我们怎样糟踏你？</span><span class="english">How did we malign you?</span></p>

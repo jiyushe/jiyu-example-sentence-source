@@ -1,5 +1,7 @@
 # snobbery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snobbery.md)
+
 <p><span class="chinese">我很讨厌他的势利眼。</span><span class="english">I am sick of his snobbery.</span></p>
 
 <p><span class="chinese">你觉得“音乐势利”存在吗？</span><span class="english">Do you think "music snobbery" exists?</span></p>

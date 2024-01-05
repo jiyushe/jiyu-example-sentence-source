@@ -1,5 +1,7 @@
 # 邮政编码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhengbianma.md)
+
 <p><span class="chinese">无假货邮政编码。</span><span class="english">NO Fake Zip Codes.</span></p>
 
 <p><span class="chinese">勿忘使用邮政编码。</span><span class="english">Remember to use postal code.</span></p>

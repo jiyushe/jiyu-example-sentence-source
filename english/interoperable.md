@@ -1,5 +1,7 @@
 # interoperable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interoperable.md)
+
 <p><span class="chinese">专利电子编档还具有互操作性吗？</span><span class="english">Is patent e-filing interoperable yet?</span></p>
 
 <p><span class="chinese">这两类产品通常具有互操作性。</span><span class="english">Usually the two types of products are interoperable.</span></p>

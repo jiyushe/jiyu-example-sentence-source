@@ -1,5 +1,7 @@
 # norton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norton.md)
+
 <p><span class="chinese">诺顿昏沉沉地慢慢走向他的办公室。</span><span class="english">Norton walks slowly toward his office. Dazed.</span></p>
 
 <p><span class="chinese">尽管诺顿的这个功能不如填表机器人来得有弹性。</span><span class="english">Norton isn't quite as flexible as Roboform, though.</span></p>

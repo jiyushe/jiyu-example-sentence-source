@@ -1,5 +1,7 @@
 # esteem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esteem.md)
+
 <p><span class="chinese">我认为它无足轻重。</span><span class="english">I esteem it worthless.</span></p>
 
 <p><span class="chinese">我该怎样尊敬他们？</span><span class="english">I am to esteem them how?</span></p>

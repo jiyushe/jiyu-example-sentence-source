@@ -1,5 +1,7 @@
 # larval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/larval.md)
+
 <p><span class="chinese">幼虫和蜱蛹可能会渗透粗织袜子。</span><span class="english">Larval and nymphal ticks may penetrate a coarse weave sock.</span></p>
 
 <p><span class="chinese">大约有99％的鱼类死亡都发生在幼鱼阶段。</span><span class="english">Some 99 percent of all fish mortality occurs in the larval stage.</span></p>

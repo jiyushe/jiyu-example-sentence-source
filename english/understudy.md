@@ -1,5 +1,7 @@
 # understudy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/understudy.md)
+
 <p><span class="chinese">但是欧文不应该是替补演员。</span><span class="english">But Owen is not an understudy.</span></p>
 
 <p><span class="chinese">当一个人爱上了爱情，你就成了他爱情的替身。</span><span class="english">When he fells for love, the understudy of love you are.</span></p>

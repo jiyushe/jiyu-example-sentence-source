@@ -1,5 +1,7 @@
 # msp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/msp.md)
+
 <p><span class="chinese">最低支持价格的影响将直接作用于美国。</span><span class="english">The likely net effect of the MSP on the U. S.</span></p>
 
 <p><span class="chinese">尤因的MSP弗格斯说，议会，政府不能信任，以保持数据的安全。</span><span class="english">MSP Fergus Ewing told the Parliament that the government could not be trusted to keep the data safe.</span></p>

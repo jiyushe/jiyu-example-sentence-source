@@ -1,5 +1,7 @@
 # cider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cider.md)
+
 <p><span class="chinese">他喜欢喝果味酒。</span><span class="english">He likes cider.</span></p>
 
 <p><span class="chinese">苹果酒壶在背上。</span><span class="english">On his back was a cider jug.</span></p>

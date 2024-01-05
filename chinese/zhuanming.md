@@ -1,5 +1,7 @@
 # 专名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanming.md)
+
 <p><span class="chinese">历史上关于专名的研究一直持续到现在。</span><span class="english">Researching proper names is still continuing now.</span></p>
 
 <p><span class="chinese">对专名、姓氏用字也作必要说明。</span><span class="english">The book also explains some technical terms and surnames when needed.</span></p>

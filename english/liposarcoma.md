@@ -1,5 +1,7 @@
 # liposarcoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liposarcoma.md)
+
 <p><span class="chinese">头颈部的恶性脂肪瘤非常少见，尤其是头皮原生的。</span><span class="english">Liposarcoma of the head and neck is quite rare.</span></p>
 
 <p><span class="chinese">需与粘液脂肪肉瘤鉴别。</span><span class="english">It needs to be differentiated from myxoid liposarcoma.</span></p>

@@ -1,5 +1,7 @@
 # hydrolytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrolytic.md)
+
 <p><span class="chinese">水解反应所需的能量被认为是零。</span><span class="english">The energy requirement for hydrolytic reactions is considered nil.</span></p>
 
 <p><span class="chinese">研究了酶法提取鱿鱼皮胶原蛋白的工艺条件。</span><span class="english">Hydrolytic technics of collagen from squid skin by protease was studied.</span></p>

@@ -1,5 +1,7 @@
 # 正好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenghao_1.md)
+
 <p><span class="chinese">不，你正好知道。</span><span class="english">No,you just know.</span></p>
 
 <p><span class="chinese">我正好认识他。</span><span class="english">I just knowed him.</span></p>

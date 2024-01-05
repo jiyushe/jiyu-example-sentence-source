@@ -1,5 +1,7 @@
 # marietta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marietta.md)
+
 <p><span class="chinese">玛丽埃塔是谁？或许这可以成为史蒂夫为本期报纸提供的报道。</span><span class="english">Who is Marietta? Maybe this is Steve's story for the newspaper.</span></p>
 
 <p><span class="chinese">出乎意料的，玛瑞埃塔突然站了起来，将空杯子放在一边桌子上。</span><span class="english">Abruptly and unexpectedly Marietta stood up, setting her empty glass on the side table.</span></p>

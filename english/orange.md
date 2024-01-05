@@ -1,5 +1,7 @@
 # orange 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orange.md)
+
 <p><span class="chinese">橙汁吗？</span><span class="english">Orange juice?</span></p>
 
 <p><span class="chinese">闻闻桔子。</span><span class="english">Smell the orange.</span></p>

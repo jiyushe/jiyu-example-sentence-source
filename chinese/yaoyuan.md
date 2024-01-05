@@ -1,5 +1,7 @@
 # 要员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyuan.md)
+
 <p><span class="chinese">在他们脚下震荡，姑娘与纳粹要员</span><span class="english">And gapes at their feet as the girl and a high-up Nazi</span></p>
 
 <p><span class="chinese">帽子也很时尚，也是必不可缺的，因为要员受阳光的伤害。</span><span class="english">Hats are also very fashionable and necessary too, for protection from the sun.</span></p>

@@ -1,5 +1,7 @@
 # 名扬天下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingyangtianxia.md)
+
 <p><span class="chinese">我将来就是名扬天下的歌手了。</span><span class="english">I'm going to be a famous singer someday.</span></p>
 
 <p><span class="chinese">波尔多是海港城市，它盛产的葡萄酒名扬天下。</span><span class="english">Bordeaux, a seaport and most famous for its wine.</span></p>

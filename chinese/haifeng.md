@@ -1,5 +1,7 @@
 # 海风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haifeng.md)
+
 <p><span class="chinese">海风醉人。</span><span class="english">Sea wind intoxicate.</span></p>
 
 <p><span class="chinese">我的心岛也在海风中使劲摇移。</span><span class="english">My island sways in the wind.</span></p>

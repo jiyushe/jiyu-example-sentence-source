@@ -1,5 +1,7 @@
 # PVC
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pvc.md)
+
 <p><span class="chinese">这外衣是氯纶织物制的。</span><span class="english">This coat is made of PVC.</span></p>
 
 <p><span class="chinese">将PVC管分割成你所需要的长度。</span><span class="english">PVC pipe will into what you need.</span></p>

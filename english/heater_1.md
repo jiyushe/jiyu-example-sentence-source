@@ -1,5 +1,7 @@
 # heater 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heater_1.md)
+
 <p><span class="chinese">它有一个加热器。</span><span class="english">It has a heater.</span></p>
 
 <p><span class="chinese">一种新型车用取暖器。</span><span class="english">A new car heater.</span></p>

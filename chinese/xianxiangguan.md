@@ -1,5 +1,7 @@
 # 显像管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxiangguan.md)
+
 <p><span class="chinese">新型显像管有旋转800线圈的功能。</span><span class="english">The new kinescope has a revolving power of 800 lines.</span></p>
 
 <p><span class="chinese">显像管的发明是又一次技术革新。</span><span class="english">The invention of hyperplane kinescopes is another technical innovation.</span></p>

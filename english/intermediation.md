@@ -1,5 +1,7 @@
 # intermediation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermediation.md)
+
 <p><span class="chinese">他的公司收取少量的中介费。</span><span class="english">His company would charge small intermediation fees.</span></p>
 
 <p><span class="chinese">能够增加仲裁，为我带来了一些相当特别的便利。</span><span class="english">The ability to add intermediation gives me some fairly specific advantages.</span></p>

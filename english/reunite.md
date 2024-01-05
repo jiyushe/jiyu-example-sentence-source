@@ -1,5 +1,7 @@
 # reunite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reunite.md)
+
 <p><span class="chinese">五月份我们很快团聚。</span><span class="english">May Gud reunite us very soon.</span></p>
 
 <p><span class="chinese">等明天晚上我回到成都，我们就可以团聚了。</span><span class="english">When I go back to Chengdu tomorrow, we'll reunite.</span></p>

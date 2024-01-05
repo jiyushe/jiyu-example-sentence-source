@@ -1,5 +1,7 @@
 # 展期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanqi.md)
+
 <p><span class="chinese">花博会的展期将持续至明年4月25日。</span><span class="english">The exposition will last until April 25 next year.</span></p>
 
 <p><span class="chinese">展期的展场保卫及清洁保洁工作、展馆照明。</span><span class="english">Offer the service of guarding, cleaning and lighting.</span></p>

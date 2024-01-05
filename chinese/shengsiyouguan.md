@@ -1,5 +1,7 @@
 # 生死攸关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengsiyouguan.md)
+
 <p><span class="chinese">为大里说生死攸关的问题。</span><span class="english">To Tali said that the matter of life and death.</span></p>
 
 <p><span class="chinese">与眼镜蛇进行生死攸关搏斗的？</span><span class="english">A mongoose in a life-and-death battle with a cobra.</span></p>

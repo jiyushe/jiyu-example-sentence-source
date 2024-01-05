@@ -1,5 +1,7 @@
 # 尾声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weisheng_2.md)
+
 <p><span class="chinese">我们的活动已近尾声。</span><span class="english">Our activity is near the end.</span></p>
 
 <p><span class="chinese">该书充满了尾声。</span><span class="english">The book is also replete with codas.</span></p>

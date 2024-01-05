@@ -1,5 +1,7 @@
 # 售票员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoupiaoyuan.md)
+
 <p><span class="chinese">那个售票员很友好。</span><span class="english">The conductor is very friendly.</span></p>
 
 <p><span class="chinese">一个公车售票员抓住了罪犯。</span><span class="english">A bus conductor caught the criminal.</span></p>

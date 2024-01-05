@@ -1,5 +1,7 @@
 # 讯问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunwen.md)
+
 <p><span class="chinese">警察更进一步地讯问了他。</span><span class="english">The policeman questioned him further.</span></p>
 
 <p><span class="chinese">审判人员可以讯问被告人。</span><span class="english">The judges may interrogate the defendant.</span></p>

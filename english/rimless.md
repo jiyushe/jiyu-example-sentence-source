@@ -1,5 +1,7 @@
 # rimless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rimless.md)
+
 <p><span class="chinese">她戴了一副无边眼镜。</span><span class="english">She wore rimless glasses.</span></p>
 
 <p><span class="chinese">他有了新的阅读用无框放大镜。</span><span class="english">He's got new rimless reading glass es.</span></p>

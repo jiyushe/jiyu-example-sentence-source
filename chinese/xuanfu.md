@@ -1,5 +1,7 @@
 # 悬浮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanfu.md)
+
 <p><span class="chinese">这么多的水是如何维持悬浮状态的？</span><span class="english">How does all this water stay afloat?</span></p>
 
 <p><span class="chinese">轻烟在静止的空气里悬浮着。</span><span class="english">Smoke hung suspended in the still air.</span></p>

@@ -1,5 +1,7 @@
 # 地雷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dilei.md)
+
 <p><span class="chinese">好走的路总已被布上地雷。</span><span class="english">The cozy way is always mined.</span></p>
 
 <p><span class="chinese">好走的路总是布有地雷。</span><span class="english">The easy way is always mined.</span></p>

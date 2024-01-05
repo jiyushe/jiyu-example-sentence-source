@@ -1,5 +1,7 @@
 # anal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anal.md)
+
 <p><span class="chinese">这就是肛门期人格。</span><span class="english">This is the anal personality.</span></p>
 
 <p><span class="chinese">菊花是一项传统禁忌，一项引人入胜、激动人心的禁忌。</span><span class="english">Anal is taboo, therefore, exciting.</span></p>

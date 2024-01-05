@@ -1,5 +1,7 @@
 # 有的放矢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdifangshi.md)
+
 <p><span class="chinese">我们必须有的放矢。</span><span class="english">We must "shoot the arrow at the target".</span></p>
 
 <p><span class="chinese">另外，你可以有的放矢的进行选购。</span><span class="english">In addition, you can focus more on what you would like to buy.</span></p>

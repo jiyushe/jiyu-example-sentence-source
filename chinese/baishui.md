@@ -1,5 +1,7 @@
 # 白水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baishui.md)
+
 <p><span class="chinese">说是床戏，比白水还要纯。</span><span class="english">Say bed scene, even pure than whitewater.</span></p>
 
 <p><span class="chinese">“水。有白水么？”我重复了一遍。</span><span class="english">"Water. Just bland water please. " I repeated.</span></p>

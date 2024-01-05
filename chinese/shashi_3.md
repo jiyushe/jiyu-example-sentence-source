@@ -1,5 +1,7 @@
 # 霎时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shashi_3.md)
+
 <p><span class="chinese">霎时，一道闪电劈过云层。</span><span class="english">Suddenly a bolt of lightning cleaves the air.</span></p>
 
 <p><span class="chinese">她想象中的幸福霎时全部烟消云散了。</span><span class="english">All her imaginary happiness vanished in a moment.</span></p>

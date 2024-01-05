@@ -1,5 +1,7 @@
 # yeoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yeoman.md)
+
 <p><span class="chinese">我要讲述一位绿林好汉的故事</span><span class="english">I shall tell you of a good yeoman</span></p>
 
 <p><span class="chinese">如今是御用侍从卫士在管理。</span><span class="english">The yeoman warders manage it now.</span></p>

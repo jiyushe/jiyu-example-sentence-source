@@ -1,5 +1,7 @@
 # 热辣辣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/relala.md)
+
 <p><span class="chinese">太阳晒得人热辣辣的。</span><span class="english">The sun feels scorching.</span></p>
 
 <p><span class="chinese">碘酒灼得她的伤口热辣辣的疼痛。</span><span class="english">The iodine burned her cut.</span></p>

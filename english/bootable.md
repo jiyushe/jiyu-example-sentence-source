@@ -1,5 +1,7 @@
 # bootable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bootable.md)
+
 <p><span class="chinese">这两个程序提供了一个下载的启动光盘，您可以在大多数计算机上使用。</span><span class="english">These two programs offer a downloadable bootable CD which you can use on most computers.</span></p>
 
 <p><span class="chinese">如果你不能确定，将启动分区的开始部分置于第1024个圆柱之下。</span><span class="english">If you are not sure, keep the beginning of the bootable partitions below the 1024th cylinder.</span></p>

@@ -1,5 +1,7 @@
 # swipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swipe.md)
+
 <p><span class="chinese">把史立巴先生的太太的刀子抹净。</span><span class="english">Give Mr. Snipa"s wife"s knife a swipe.</span></p>
 
 <p><span class="chinese">把史立巴先生的太太的刀子抹净。</span><span class="english">Give Mr. Sniper's wife's knife a swipe.</span></p>

@@ -1,5 +1,7 @@
 # 墒情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangqing_2.md)
+
 <p><span class="chinese">覆盖植物保护土壤墒情，抑制杂草。</span><span class="english">Mulch plants to conserve soil moisture and suppress weeds.</span></p>
 
 <p><span class="chinese">反距离加权法适合田间墒情预测。</span><span class="english">IDW is suitable for drought distribution prediction in the field.</span></p>

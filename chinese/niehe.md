@@ -1,5 +1,7 @@
 # 啮合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niehe.md)
+
 <p><span class="chinese">这两个齿轮啮合在一起。</span><span class="english">The two cogwheels are engaged.</span></p>
 
 <p><span class="chinese">钝齿轮不能啮合。</span><span class="english">The cogwheels are not engaging.</span></p>

@@ -1,5 +1,7 @@
 # 迎春
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingchun.md)
+
 <p><span class="chinese">独上迎春饮一杯。</span><span class="english">Alone climbing , greet Spring , drink one cup.</span></p>
 
 <p><span class="chinese">柳迎春担心穆雪飞，自然是追随左右。</span><span class="english">About worry LiuYingChun MuXueFei, nature is to follow.</span></p>

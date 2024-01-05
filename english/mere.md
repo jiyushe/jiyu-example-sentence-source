@@ -1,5 +1,7 @@
 # mere 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mere.md)
+
 <p><span class="chinese">那只不过是空论。</span><span class="english">That is mere talk.</span></p>
 
 <p><span class="chinese">我只不过是一个初学者。</span><span class="english">I am a mere beginner.</span></p>

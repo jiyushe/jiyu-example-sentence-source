@@ -1,5 +1,7 @@
 # swoosh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swoosh.md)
+
 <p><span class="chinese">这个设想与耐克产品上的图案太类似了。</span><span class="english">It is way too similar to the Nike swoosh.</span></p>
 
 <p><span class="chinese">不要在商标图案里用标志性语言。</span><span class="english">Do not use any "swoosh" or "globe"symbols.</span></p>

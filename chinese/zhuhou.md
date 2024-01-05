@@ -1,5 +1,7 @@
 # 诸侯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuhou.md)
+
 <p><span class="chinese">帝王和诸侯们也都消失，像一声叹惋。</span><span class="english">When monarch and states vanished, like a sigh.</span></p>
 
 <p><span class="chinese">周朝大封诸侯，使善人都富贵起来。</span><span class="english">Chau conferred great gifts, and the good were enriched.</span></p>

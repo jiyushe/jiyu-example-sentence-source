@@ -1,5 +1,7 @@
 # 冲积扇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongjishan.md)
+
 <p><span class="chinese">第一期是大约在距今2000年至1500年间的米磨登冲积扇期。</span><span class="english">The first stage, Mimodeng fan stage, is considered during 2000-1500 yr.</span></p>
 
 <p><span class="chinese">泥石流冲进白龙江中，在岸边留下棕色的冲积扇。</span><span class="english">The slide terminates in a brown fan that extends into the Bailong River.</span></p>

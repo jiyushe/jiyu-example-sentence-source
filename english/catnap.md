@@ -1,5 +1,7 @@
 # catnap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catnap.md)
+
 <p><span class="chinese">我下午偶尔打个盹。</span><span class="english">I sometimes take a catnap in the afternoon.</span></p>
 
 <p><span class="chinese">此刻你可以休息三分钟。</span><span class="english">Now you are allowed to take a three-minute catnap.</span></p>

@@ -1,5 +1,7 @@
 # 滤纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvzhi.md)
+
 <p><span class="chinese">咖啡通过这张特殊的滤纸得到过滤。</span><span class="english">The coffee filters through this special paper.</span></p>
 
 <p><span class="chinese">咖啡过滤纸是个不错的选择哦！</span><span class="english">Coffee filters are GREAT at removing oil from your face.</span></p>

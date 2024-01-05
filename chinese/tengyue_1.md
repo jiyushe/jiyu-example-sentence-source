@@ -1,5 +1,7 @@
 # 腾跃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tengyue_1.md)
+
 <p><span class="chinese">腾跃以腾跃姿势跳跃…</span><span class="english">To leap in a curvet.</span></p>
 
 <p><span class="chinese">那是龙的腾跃！</span><span class="english">That is dragon prance!</span></p>

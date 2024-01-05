@@ -1,5 +1,7 @@
 # 陆地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ludi.md)
+
 <p><span class="chinese">他们是陆地。</span><span class="english">They are land.</span></p>
 
 <p><span class="chinese">还是什么切尔克斯陆地？</span><span class="english">Or what Circassian Land?</span></p>

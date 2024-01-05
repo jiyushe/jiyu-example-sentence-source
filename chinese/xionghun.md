@@ -1,5 +1,7 @@
 # 雄浑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xionghun.md)
+
 <p><span class="chinese">他们的声音雄浑而纯净。</span><span class="english">Their voices are strong and pure.</span></p>
 
 <p><span class="chinese">这类诗中颇多高古、雄浑之作。</span><span class="english">Many of the poems were elegant and virile.</span></p>

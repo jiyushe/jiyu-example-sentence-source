@@ -1,5 +1,7 @@
 # 失言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyan.md)
+
 <p><span class="chinese">很明显，这并非一时失言。</span><span class="english">Clearly this was not a slip of the tongue.</span></p>
 
 <p><span class="chinese">失言就是一不小心说了实话。</span><span class="english">Accidentally alip of the tongue is that the truth.</span></p>

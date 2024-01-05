@@ -1,5 +1,7 @@
 # bellboy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bellboy.md)
+
 <p><span class="chinese">你能为我叫一位侍者来吗？</span><span class="english">Could you call a bellboy for me?</span></p>
 
 <p><span class="chinese">会有专门的服务员给您带路。</span><span class="english">The bellboy will show you the way.</span></p>

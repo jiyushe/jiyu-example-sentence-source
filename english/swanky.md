@@ -1,5 +1,7 @@
 # swanky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swanky.md)
+
 <p><span class="chinese">他们现在打高尔夫，懒洋洋地享受时髦的桑拿。</span><span class="english">They now golfed and lolled around in swanky saunas.</span></p>
 
 <p><span class="chinese">北京最棒的拉丁聚会与最炫龙吧的“碰撞”！</span><span class="english">Beijing's Hottest Latin Party Hits the Swanky Loong Bar!</span></p>

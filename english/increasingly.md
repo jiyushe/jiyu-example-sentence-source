@@ -1,5 +1,7 @@
 # increasingly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/increasingly.md)
+
 <p><span class="chinese">实际上郊区贫困化问题正在日趋严重。</span><span class="english">It's increasingly a suburban issue.</span></p>
 
 <p><span class="chinese">消费者越来越占据主动地位。</span><span class="english">Consumers are increasingly in charge.</span></p>

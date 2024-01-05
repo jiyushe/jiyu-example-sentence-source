@@ -1,5 +1,7 @@
 # avowed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avowed.md)
+
 <p><span class="chinese">彼得?德尔森自命为贸易自由主义者。</span><span class="english">PETER MANDELSON is an avowed trade liberal.</span></p>
 
 <p><span class="chinese">他声称他是所有联盟的反对者。</span><span class="english">He avowed himself an opponent of all alliances.</span></p>

@@ -1,5 +1,7 @@
 # murderer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murderer.md)
+
 <p><span class="chinese">我们喜欢上凶手。</span><span class="english">We love our murderer.</span></p>
 
 <p><span class="chinese">凶手被办罪了。</span><span class="english">The murderer was punished.</span></p>

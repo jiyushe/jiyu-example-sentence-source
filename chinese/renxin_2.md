@@ -1,5 +1,7 @@
 # 忍心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxin_2.md)
+
 <p><span class="chinese">圣诞节当前，我真的不忍心啊。</span><span class="english">It's Christmas.</span></p>
 
 <p><span class="chinese">我是说他连只苍蝇都不忍心伤害。</span><span class="english">I mean he wouldn't hurt a fly.</span></p>

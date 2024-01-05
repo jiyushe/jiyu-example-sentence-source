@@ -1,5 +1,7 @@
 # aileen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aileen.md)
+
 <p><span class="chinese">艾琳爱好炫耀和虚荣。</span><span class="english">Aileen loved show and glitter.</span></p>
 
 <p><span class="chinese">艾琳和希尔比再没说过话。</span><span class="english">Aileen and Selby never spoke again.</span></p>

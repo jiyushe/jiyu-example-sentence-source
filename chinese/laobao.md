@@ -1,5 +1,7 @@
 # 老鸨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laobao.md)
+
 <p><span class="chinese">说真的，为什么老鸨和皮条客没有游街呢？</span><span class="english">Indeed, why not the patrons and the pimps?</span></p>
 
 <p><span class="chinese">虽然老鸨并非善类，但她们也不只依赖暴力。</span><span class="english">Although pimps are thugs, they do not rely solely on violence.</span></p>

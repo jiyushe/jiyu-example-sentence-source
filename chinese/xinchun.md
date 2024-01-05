@@ -1,5 +1,7 @@
 # 新春
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinchun.md)
+
 <p><span class="chinese">新春大礼送给你！</span><span class="english">Lunar New Year gift to you!</span></p>
 
 <p><span class="chinese">全体会员新春快乐，虎年吉祥！</span><span class="english">Happy New Year and good luck !</span></p>

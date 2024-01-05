@@ -1,5 +1,7 @@
 # 隔三差五
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gesanchawu.md)
+
 <p><span class="chinese">而现在，每隔三差五的就买一套衣服。</span><span class="english">Now, each bought a set of clothes for Gesanchaiwu.</span></p>
 
 <p><span class="chinese">这就是为什么有些人会隔三差五吃一顿水煮鱼的缘故。</span><span class="english">This is why some people will from time to eat boiled fish's sake.</span></p>

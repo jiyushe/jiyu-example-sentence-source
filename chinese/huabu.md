@@ -1,5 +1,7 @@
 # 花布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huabu.md)
+
 <p><span class="chinese">胸前有花布蝴蝶结作装饰。</span><span class="english">A floral printed bow trimmed on chest.</span></p>
 
 <p><span class="chinese">彩色土，贝，乾燥花，羽毛，客家花布。</span><span class="english">Color clay, shell, desiccated flowers and leaves.</span></p>

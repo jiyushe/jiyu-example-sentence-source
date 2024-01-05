@@ -1,5 +1,7 @@
 # 开户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaihu.md)
+
 <p><span class="chinese">不用。开户是免费的。</span><span class="english">No. Opening an account is free.</span></p>
 
 <p><span class="chinese">首先，去银行开户不一定要税号的。</span><span class="english">Today I want to open a bank acount.</span></p>

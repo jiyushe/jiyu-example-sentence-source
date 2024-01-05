@@ -1,5 +1,7 @@
 # 蓄意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuyi_1.md)
+
 <p><span class="chinese">然而，这两起汽车炸弹袭击蓄意谋杀。</span><span class="english">Yet the attacks were meant to murder.</span></p>
 
 <p><span class="chinese">是演出事故还是蓄意谋杀？</span><span class="english">Were the accident or attempted murder?</span></p>

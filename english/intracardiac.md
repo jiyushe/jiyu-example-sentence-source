@@ -1,5 +1,7 @@
 # intracardiac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intracardiac.md)
+
 <p><span class="chinese">通常上是把心脏内导管置于右心房和冠状静脉窦内。</span><span class="english">Typically, intracardiac catheters are positioned in the right atrium and in the coronary sinus.</span></p>
 
 <p><span class="chinese">本文通过心内和心外电生理比较的方法探讨了无创性记录右房电活动的可能性。</span><span class="english">According to the principles of intracardiac electrogram, right atrial activity was recorded non-invasively.</span></p>

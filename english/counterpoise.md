@@ -1,5 +1,7 @@
 # counterpoise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterpoise.md)
+
 <p><span class="chinese">省教育厅我们是没有处罚权的。</span><span class="english">The province teachs hall we counterpoise without punishment.</span></p>
 
 <p><span class="chinese">毫无疑问，我的站被百度降权了。</span><span class="english">Without doubt, my station was fallen to counterpoise by Baidu.</span></p>

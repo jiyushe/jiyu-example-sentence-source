@@ -1,5 +1,7 @@
 # actionable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actionable.md)
+
 <p><span class="chinese">必须执行的项目表。</span><span class="english">Lists of actionable items that have to be performed.</span></p>
 
 <p><span class="chinese">怎样带领一个灵活多变、言出必行、各尽其能的会议？</span><span class="english">How to lead a flexible, actionable and feasible meeting?</span></p>

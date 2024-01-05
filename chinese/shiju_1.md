@@ -1,5 +1,7 @@
 # 实据
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiju_1.md)
+
 <p><span class="chinese">要搜集到足够的实据，这样才能够评估机会的好坏。</span><span class="english">Gather enough facts so you can qualify the opportunity.</span></p>
 
 <p><span class="chinese">实据性体现了语言的人际功能。</span><span class="english">Evidentiality performs interpersonal functions in language use.</span></p>

@@ -1,5 +1,7 @@
 # 彷徨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panghuang.md)
+
 <p><span class="chinese">明月在流水里飘忽彷徨。</span><span class="english">I see the moon wiggling in the stream.</span></p>
 
 <p><span class="chinese">那爱情被轻视的痛楚，权益被慢待的彷徨。</span><span class="english">The pangs of despised love, the law's delay.</span></p>

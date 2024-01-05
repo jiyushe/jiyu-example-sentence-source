@@ -1,5 +1,7 @@
 # 杯水车薪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beishuichexin.md)
+
 <p><span class="chinese">咖啡因确实对哮喘有疗效，但只是杯水车薪。</span><span class="english">Caffeine's benefits for asthma are real but minimal.</span></p>
 
 <p><span class="chinese">王志们的援手固然重要，但这仅是杯水车薪。</span><span class="english">But while such support as Wang Zhi’s is vital, it is a drop in the ocean.</span></p>

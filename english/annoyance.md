@@ -1,5 +1,7 @@
 # annoyance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annoyance.md)
+
 <p><span class="chinese">他嘟着嘴，在一旁生气。</span><span class="english">He pouted in annoyance.</span></p>
 
 <p><span class="chinese">不过这仅仅是小烦恼而已。</span><span class="english">But this is a minor annoyance.</span></p>

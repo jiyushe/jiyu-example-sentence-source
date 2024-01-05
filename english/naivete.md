@@ -1,5 +1,7 @@
 # naivete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naivete.md)
+
 <p><span class="chinese">那时的我，只是天真地将责任推卸给老师。</span><span class="english">In my naivete , I blamed this on my teachers.</span></p>
 
 <p><span class="chinese">我们由此可以看出他是一个非常天真的人。</span><span class="english">In which case, we can alsoaccusehim of naivete.</span></p>

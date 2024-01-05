@@ -1,5 +1,7 @@
 # 开快车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaikuaiche.md)
+
 <p><span class="chinese">我们都喜欢开快车。</span><span class="english">We all like to drive fast.</span></p>
 
 <p><span class="chinese">詹姆斯常常开快车。</span><span class="english">James tends to drive too fast.</span></p>

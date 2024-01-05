@@ -1,5 +1,7 @@
 # 毫不在乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haobuzaihu.md)
+
 <p><span class="chinese">我毫不在乎。</span><span class="english">Not a brass farthing.</span></p>
 
 <p><span class="chinese">我不喜欢他那毫不在乎的态度。</span><span class="english">I don't like his devil-may-care attitude.</span></p>

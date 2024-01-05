@@ -1,5 +1,7 @@
 # minoan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minoan.md)
+
 <p><span class="chinese">米诺斯蛇女神。</span><span class="english">Minoan Snake Goddess.</span></p>
 
 <p><span class="chinese">很可能最不寻常的就是克里特文明的斗牛。</span><span class="english">Perhaps the most unusual of these is the Minoan bull fighting.</span></p>

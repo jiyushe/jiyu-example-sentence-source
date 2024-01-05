@@ -1,5 +1,7 @@
 # 账目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangmu_3.md)
+
 <p><span class="chinese">我的工作是统计账目。</span><span class="english">I do accounting.</span></p>
 
 <p><span class="chinese">他窜改了账目。</span><span class="english">He doctored the accounts.</span></p>

@@ -1,5 +1,7 @@
 # bpc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bpc.md)
+
 <p><span class="chinese">大鸨级飞船现作为獾级蓝图II的发明要求。</span><span class="english">MK II for invention purposes as the BPC requirement.</span></p>
 
 <p><span class="chinese">原料药制造厂通常生产实验式规模或中试规模批次。</span><span class="english">BPC manufacturing plants often produce laboratory scale or "pilot" batches.</span></p>

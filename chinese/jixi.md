@@ -1,5 +1,7 @@
 # 即席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixi.md)
+
 <p><span class="chinese">他即席赋诗。</span><span class="english">He knocks off a poem.</span></p>
 
 <p><span class="chinese">他即席作了韵诗。</span><span class="english">He improvised in rhyme.</span></p>

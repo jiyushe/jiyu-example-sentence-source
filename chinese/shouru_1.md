@@ -1,5 +1,7 @@
 # 收入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouru_1.md)
+
 <p><span class="chinese">易货是收入。</span><span class="english">Barter is income.</span></p>
 
 <p><span class="chinese">其他合法收入。</span><span class="english">Other legal income.</span></p>

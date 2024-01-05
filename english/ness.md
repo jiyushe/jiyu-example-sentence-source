@@ -1,5 +1,7 @@
 # ness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ness.md)
+
 <p><span class="chinese">中国最吸引人的湖景。</span><span class="english">The Loch Ness of China.</span></p>
 
 <p><span class="chinese">我在这儿可是有灰常灰常倒霉的时候。</span><span class="english">Wh-What are you, Eliot Ness now?</span></p>

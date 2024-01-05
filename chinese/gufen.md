@@ -1,5 +1,7 @@
 # 股分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufen.md)
+
 <p><span class="chinese">资本投资的收益或股分增值。</span><span class="english">An addition to capital investments or stock from profits.</span></p>
 
 <p><span class="chinese">我们已经分拆了。现有B股，你应该不需要A股分拆了。</span><span class="english">We already split. With B shares available. You should not count on the split of A shares.</span></p>

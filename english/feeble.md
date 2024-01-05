@@ -1,5 +1,7 @@
 # feeble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feeble.md)
+
 <p><span class="chinese">他以微弱的声音作无力的辩解。</span><span class="english">He bleated out a feeble excuse.</span></p>
 
 <p><span class="chinese">从隔邻房间里传来低弱的叫嚷声。</span><span class="english">A feeble cry came from the next room.</span></p>

@@ -1,5 +1,7 @@
 # protector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protector.md)
+
 <p><span class="chinese">明天你需要一个护花使者吗？</span><span class="english">Do you need a protector tomorrow?</span></p>
 
 <p><span class="chinese">马达附有过负荷保护装置。</span><span class="english">Motor comes with overload protector.</span></p>

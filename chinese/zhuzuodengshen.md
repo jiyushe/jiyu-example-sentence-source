@@ -1,5 +1,7 @@
 # 著作等身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzuodengshen.md)
+
 <p><span class="chinese">刘诗白教授著作等身。</span><span class="english">Liu Shibai teaches the body such as composing.</span></p>
 
 <p><span class="chinese">于牧师著作等身?是主所重用的忠心仆人。</span><span class="english">He has authored many books and VCD and is a faithful servant of Lord.</span></p>

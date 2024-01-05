@@ -1,5 +1,7 @@
 # 狂笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangxiao.md)
+
 <p><span class="chinese">我们狂笑。</span><span class="english">We howled with laughter.</span></p>
 
 <p><span class="chinese">他们听了他的笑话都一阵狂笑。</span><span class="english">The girls giggled at the joke.</span></p>

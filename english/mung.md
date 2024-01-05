@@ -1,5 +1,7 @@
 # mung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mung.md)
+
 <p><span class="chinese">喝绿豆汤有益健康。</span><span class="english">Mung soup is good for your health.</span></p>
 
 <p><span class="chinese">蘑菇，绿豆，番茄酱，洋葱和大葱。</span><span class="english">Mushroom, Mung bean, tomato souse with onions and herbs.</span></p>

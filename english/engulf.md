@@ -1,5 +1,7 @@
 # engulf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engulf.md)
+
 <p><span class="chinese">我们洁身自好，却眼见种族灭绝吞没卢旺达。</span><span class="english">We stay out, and watch genocide engulf Rwanda.</span></p>
 
 <p><span class="chinese">下次冰期吞噬英国可能只需几个星期。</span><span class="english">The next Ice Age could take only weeks to engulf Britain.</span></p>

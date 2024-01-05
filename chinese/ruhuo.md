@@ -1,5 +1,7 @@
 # 入伙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruhuo.md)
+
 <p><span class="chinese">合伙人入伙合营</span><span class="english">Partner joins the company.</span></p>
 
 <p><span class="chinese">那好像是个仪式，入伙仪式。</span><span class="english">It was a ceremony, an initiation.</span></p>

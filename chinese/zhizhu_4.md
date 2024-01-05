@@ -1,5 +1,7 @@
 # 踯躅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhu_4.md)
+
 <p><span class="chinese">在约旦河岸，阿拉伯骆驼队踯躅。</span><span class="english">On Jordan's banks the Arab's camels stray.</span></p>
 
 <p><span class="chinese">有多少懦弱，踯躅不前的心？</span><span class="english">The number of weak, MOLLE not before the heart?</span></p>

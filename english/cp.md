@@ -1,5 +1,7 @@
 # cp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cp.md)
+
 <p><span class="chinese">等于。</span><span class="english">dT This is equal to Cp minus R dT.</span></p>
 
 <p><span class="chinese">正好出现了我们需要的。</span><span class="english">Cp so this is exactly what we want.</span></p>

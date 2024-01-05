@@ -1,5 +1,7 @@
 # 箱底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangdi_1.md)
+
 <p><span class="chinese">折叠好一个包装箱，并用胶带封好箱底。</span><span class="english">Set up a box & secure bottom flaps with tape.</span></p>
 
 <p><span class="chinese">几乎所有的外箱底部都松了。</span><span class="english">Almost all the bottom of the cases were loose.</span></p>

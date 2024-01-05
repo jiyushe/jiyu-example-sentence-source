@@ -1,5 +1,7 @@
 # naida
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naida.md)
+
 <p><span class="chinese">奈妲问。</span><span class="english">Naida asked.</span></p>
 
 <p><span class="chinese">医生，奈妲。</span><span class="english">Doctors, Naida.</span></p>

@@ -1,5 +1,7 @@
 # milwaukee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milwaukee.md)
+
 <p><span class="chinese">她将要在星期二到密尔瓦基。</span><span class="english">She goes to Milwaukee on Tuesday.</span></p>
 
 <p><span class="chinese">但密尔沃基的预期却在上升</span><span class="english">You notice Milwaukee is going up.</span></p>

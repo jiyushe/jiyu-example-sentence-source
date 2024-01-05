@@ -1,5 +1,7 @@
 # oa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oa.md)
+
 <p><span class="chinese">Oa生来就是一名石头人。</span><span class="english">Oa was a natural Rock Person from birth.</span></p>
 
 <p><span class="chinese">小风把本人喜欢阿一的心情向大业标明。</span><span class="english">Small wind I like oa mood to cause marked.</span></p>

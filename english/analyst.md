@@ -1,5 +1,7 @@
 # analyst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analyst.md)
+
 <p><span class="chinese">Emerson是那里的一位数据分析调研员。</span><span class="english">Emerson is a research data analyst there.</span></p>
 
 <p><span class="chinese">第七段加有分析师观点</span><span class="english">Adds analyst comment in seventh paragraph.</span></p>

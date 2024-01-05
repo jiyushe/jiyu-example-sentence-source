@@ -1,5 +1,7 @@
 # 外甥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waisheng.md)
+
 <p><span class="chinese">高文爵士是亚瑟王的外甥。</span><span class="english">Sir Gawain was Arthur’s nephew.</span></p>
 
 <p><span class="chinese">他说，‘我是说外甥，孩子。’</span><span class="english">"I said nephew, boy, " said he.</span></p>

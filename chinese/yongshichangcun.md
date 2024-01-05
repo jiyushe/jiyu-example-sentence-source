@@ -1,5 +1,7 @@
 # 永世长存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongshichangcun.md)
+
 <p><span class="chinese">一个永世长存的王者！</span><span class="english">Long live the king.</span></p>
 
 <p><span class="chinese">你的慈爱永世长存。</span><span class="english">Your love endures forever.</span></p>

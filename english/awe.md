@@ -1,5 +1,7 @@
 # awe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awe.md)
+
 <p><span class="chinese">你会在敬畏中叹息吗？</span><span class="english">Are you sighing in awe?</span></p>
 
 <p><span class="chinese">她骇怪的看着我。</span><span class="english">D. She looked at me in awe.</span></p>

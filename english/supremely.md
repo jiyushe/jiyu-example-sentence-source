@@ -1,5 +1,7 @@
 # supremely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supremely.md)
+
 <p><span class="chinese">他极度地关心罗摩拉。</span><span class="english">He cared supremely for Romola.</span></p>
 
 <p><span class="chinese">当我们都无上地爱着上帝的时候，他就会微笑。</span><span class="english">God smiles when we love him supremely.</span></p>

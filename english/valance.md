@@ -1,5 +1,7 @@
 # valance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valance.md)
+
 <p><span class="chinese">凡蕾丝宝贝，请勿机洗。</span><span class="english">In 6, Holly valance baby, do not wash.</span></p>
 
 <p><span class="chinese">挂窗帘上部短幔的铁棍弯成了个弓形。</span><span class="english">The iron rod supports the valance is bent in an arc.</span></p>

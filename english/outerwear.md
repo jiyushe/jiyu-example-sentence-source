@@ -1,5 +1,7 @@
 # outerwear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outerwear.md)
+
 <p><span class="chinese">一件长大衣在这个外套盛行的季节显得太胆小了。</span><span class="english">One long coat in a season of outerwear was too timid.</span></p>
 
 <p><span class="chinese">对于纽约时装周，它是以外套的形式出现的。</span><span class="english">For New York Fashion Week, it was in the form of outerwear.</span></p>

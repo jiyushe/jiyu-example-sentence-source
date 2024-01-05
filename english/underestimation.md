@@ -1,5 +1,7 @@
 # underestimation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underestimation.md)
+
 <p><span class="chinese">伊拉克可以在一两周内就可以拿下的这一想法是估计不足的想法。</span><span class="english">The idea that Iraq could be taken within a week or two was an underestimation.</span></p>
 
 <p><span class="chinese">SCTA的主要缺点是可能高估或低估血管狭窄程度。</span><span class="english">The main defect of SCTA is overestimation or underestimation of vessel stenosis.</span></p>

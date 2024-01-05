@@ -1,5 +1,7 @@
 # longish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longish.md)
+
 <p><span class="chinese">有一个略长的停顿。</span><span class="english">There was a longish pause.</span></p>
 
 <p><span class="chinese">她年龄与我相仿，头发较长。</span><span class="english">She's about my age, with longish hair.</span></p>

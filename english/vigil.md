@@ -1,5 +1,7 @@
 # vigil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vigil.md)
+
 <p><span class="chinese">像黑夜中彻夜不眠的星星</span><span class="english">like the night with starry vigil</span></p>
 
 <p><span class="chinese">在岁月的河流里静立。</span><span class="english">In the years of the rivers vigil.</span></p>

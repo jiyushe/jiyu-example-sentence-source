@@ -1,5 +1,7 @@
 # 圆锥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhui.md)
+
 <p><span class="chinese">圆锥截面凹面的固定参考点。</span><span class="english">A concave surface, structure, or line.</span></p>
 
 <p><span class="chinese">包括6个圆锥圆柱刷笔芯。</span><span class="english">Includes 6 tapered cylindrical brush refills.</span></p>

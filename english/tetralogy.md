@@ -1,5 +1,7 @@
 # tetralogy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetralogy.md)
+
 <p><span class="chinese">目的总结法乐氏四联症外科治疗的经验。</span><span class="english">Objective To review the experience of surgical treatment of Tetralogy of Fallot.</span></p>
 
 <p><span class="chinese">自1990年以来，共行法乐氏四联症根治术46例。</span><span class="english">Since 1990,46 patients have underwent surgical management of Tetralogy of Fallot.</span></p>

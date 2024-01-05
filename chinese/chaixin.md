@@ -1,5 +1,7 @@
 # 柴薪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaixin.md)
+
 <p><span class="chinese">友谊，是柴薪驱走寒冬。</span><span class="english">Friendship is firewood in cold weather.</span></p>
 
 <p><span class="chinese">你上山多砍一些柴薪来。</span><span class="english">Go to the mountain, and bring back more firewood.</span></p>

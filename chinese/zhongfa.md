@@ -1,5 +1,7 @@
 # 重罚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongfa.md)
+
 <p><span class="chinese">如果有人化装成女士，一经发现便将受到重罚。</span><span class="english">Any men caught impersonating women will be severely punished.</span></p>
 
 <p><span class="chinese">但王林的同龄人却不认为他应受重罚。</span><span class="english">But Wang's peers didn't think he deserved a strong punishment.</span></p>

@@ -1,5 +1,7 @@
 # 胸襟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongjin.md)
+
 <p><span class="chinese">人要有开阔的胸襟。</span><span class="english">Always have an open mind.</span></p>
 
 <p><span class="chinese">他是一个胸襟狭窄的小人。</span><span class="english">He is a little man with a little mind.</span></p>

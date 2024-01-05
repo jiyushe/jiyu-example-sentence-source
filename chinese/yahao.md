@@ -1,5 +1,7 @@
 # 雅号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yahao.md)
+
 <p><span class="chinese">然而，旅游业传统上是被冠以「人际行业」之雅号。</span><span class="english">Yet, tourism has traditionally been regarded as a 'people-industry'.</span></p>
 
 <p><span class="chinese">一位评论家称他的第一部小说为“超级浪漫小说”，于是那部小说得了这一雅号。</span><span class="english">A critic called her first novel "super-romantic" and the label has stuck.</span></p>

@@ -1,5 +1,7 @@
 # adulterated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adulterated.md)
+
 <p><span class="chinese">这牛奶里掺了水。</span><span class="english">The milk has been adulterated with water.</span></p>
 
 <p><span class="chinese">在整个维多利亚时期，食品都是被掺假的。</span><span class="english">All through the Victorian era food was adulterated.</span></p>

@@ -1,5 +1,7 @@
 # antivenom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antivenom.md)
+
 <p><span class="chinese">因此，大部分人在被毒蛇咬伤后无法及时得到抗毒血清。</span><span class="english">As a result, some people don't get antivenom in time.</span></p>
 
 <p><span class="chinese">在25英里外的布德万镇，医生给她注射了广谱抗蛇毒血清。</span><span class="english">There, she was injected with a broad-spectrum antivenom.</span></p>

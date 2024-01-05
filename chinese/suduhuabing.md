@@ -1,5 +1,7 @@
 # 速度滑冰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suduhuabing.md)
+
 <p><span class="chinese">速度滑冰直摆臂是一项新的技术，唐先生欢迎大家交流讨论。</span><span class="english">The speed skating straight pendulum arm is a new technology, Mr.</span></p>
 
 <p><span class="chinese">我军选手王霏和邢爱华在速度滑冰的比赛中，各获得一枚金牌。</span><span class="english">The PLA skaters Wang Fei and Xing Aihua won a gold medal each in speed skating.</span></p>

@@ -1,5 +1,7 @@
 # 漫不经心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manbujingxin.md)
+
 <p><span class="chinese">漫不经心是一个联盟的失败。</span><span class="english">Insouciance is an alliance failure.</span></p>
 
 <p><span class="chinese">爱玲漫不经心地玩弄着扇子。</span><span class="english">Aileen toyed aimlessly with her fan.</span></p>

@@ -1,5 +1,7 @@
 # noumenal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noumenal.md)
+
 <p><span class="chinese">电器灌封胶的合成反应是本体反应，制备工艺非常简单。</span><span class="english">Synthesis of encapsulants for electronics is simple, its reaction is noumenal.</span></p>
 
 <p><span class="chinese">这是深人到舞蹈本体和联系整个文化背景的审美分析与现象分析。</span><span class="english">It is a noumenal aesthetic and phenomenal analysis connecting with the whole cultural background.</span></p>

@@ -1,5 +1,7 @@
 # hoarfrost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoarfrost.md)
+
 <p><span class="chinese">它是在地面上的白霜吗？</span><span class="english">Is it hoarfrost on the ground?</span></p>
 
 <p><span class="chinese">它是白霜铺在地面上吗？</span><span class="english">Is it hoarfrost on the ground ?</span></p>

@@ -1,5 +1,7 @@
 # rental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rental.md)
+
 <p><span class="chinese">这是部出租汽车。</span><span class="english">This car is rental.</span></p>
 
 <p><span class="chinese">礼服出租店。</span><span class="english">The tuxedo rental store.</span></p>

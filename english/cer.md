@@ -1,5 +1,7 @@
 # cer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cer.md)
+
 <p><span class="chinese">目的探讨DD3基因不同外显子在前列腺癌组织中的特异性表达。</span><span class="english">Objective To investigate the expression of different DD3 gene exons in prostate can- cer tissues.</span></p>
 
 <p><span class="chinese">TB主要位于癌组织中增生的肺泡上皮细胞、巨噬细胞胞浆内。</span><span class="english">TB were found mainly in plasma of alveoli epithelial cells and alveolar macrophages with-in lung can cer tissues.</span></p>

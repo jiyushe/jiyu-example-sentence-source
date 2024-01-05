@@ -1,5 +1,7 @@
 # caac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caac.md)
+
 <p><span class="chinese">您乘的是中国民航1438航班。</span><span class="english">Your flight number is CAAC 1438.</span></p>
 
 <p><span class="chinese">中国民航购买了一台新电脑。</span><span class="english">A new computer has been bought by the CAAC.</span></p>

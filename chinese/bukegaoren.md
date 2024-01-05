@@ -1,5 +1,7 @@
 # 不可告人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukegaoren.md)
+
 <p><span class="chinese">但是其中还有更多不可告人的秘密。</span><span class="english">But there were more skeletons in the closet.</span></p>
 
 <p><span class="chinese">红牛车手和水之间有神马不可告人的秘密？</span><span class="english">What is it about Red Bull drivers and water?</span></p>

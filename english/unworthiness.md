@@ -1,5 +1,7 @@
 # unworthiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unworthiness.md)
+
 <p><span class="chinese">我的卑微需要你来原谅。</span><span class="english">You must forgive me my unworthiness.</span></p>
 
 <p><span class="chinese">其次、他承认自己的不配。</span><span class="english">Second, he confessed his own unworthiness.</span></p>

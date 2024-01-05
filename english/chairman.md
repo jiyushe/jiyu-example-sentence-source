@@ -1,5 +1,7 @@
 # chairman 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chairman.md)
+
 <p><span class="chinese">谢谢主席女士。</span><span class="english">Thank you, Madam Chairman.</span></p>
 
 <p><span class="chinese">是叫这个么。</span><span class="english">I'm the chairman of the board.</span></p>

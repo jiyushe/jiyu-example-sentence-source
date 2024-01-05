@@ -1,5 +1,7 @@
 # jewellery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jewellery.md)
+
 <p><span class="chinese">不能只戴花吗?。</span><span class="english">I have no jewellery to wear.</span></p>
 
 <p><span class="chinese">我喜欢戴银首饰。</span><span class="english">I like to wear argentine jewellery.</span></p>

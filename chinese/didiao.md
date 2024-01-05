@@ -1,5 +1,7 @@
 # 低调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/didiao.md)
+
 <p><span class="chinese">让我们保持低调。</span><span class="english">Let's keep it low-key!</span></p>
 
 <p><span class="chinese">而且他也很低调。</span><span class="english">And he's also low-pitched.</span></p>

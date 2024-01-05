@@ -1,5 +1,7 @@
 # 目录
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mulu.md)
+
 <p><span class="chinese">产品目录。</span><span class="english">Product catalog.</span></p>
 
 <p><span class="chinese">你们有商品目录吗？</span><span class="english">Do you have catalogues?</span></p>

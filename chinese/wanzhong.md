@@ -1,5 +1,7 @@
 # 万众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanzhong.md)
+
 <p><span class="chinese">消息传来，万众欢腾。</span><span class="english">Millions of people rejoiced at the news.</span></p>
 
 <p><span class="chinese">万众努力奔小康目标，凯歌飞九宵。</span><span class="english">Peoples effort well off target, Veuve fly Jiuxiao.</span></p>

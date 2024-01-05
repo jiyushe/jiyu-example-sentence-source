@@ -1,5 +1,7 @@
 # interglacial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interglacial.md)
+
 <p><span class="chinese">我们不知道自己是生活在后冰川期还是生活于间冰期。</span><span class="english">We do not know whether we live in a postglacial period or an interglacial period.</span></p>
 
 <p><span class="chinese">其顶部覆盖了末次间冰期古土壤与末次冰期黄土。</span><span class="english">The last interglacial paleosol and last glacial loess units overlie the top of this section.</span></p>

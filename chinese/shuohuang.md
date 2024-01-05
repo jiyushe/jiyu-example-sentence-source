@@ -1,5 +1,7 @@
 # 说谎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuohuang.md)
+
 <p><span class="chinese">他在说谎吗？</span><span class="english">Is he lying?</span></p>
 
 <p><span class="chinese">我没有说谎。</span><span class="english">I’m not lying.</span></p>

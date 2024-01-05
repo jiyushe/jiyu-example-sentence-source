@@ -1,5 +1,7 @@
 # logy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logy.md)
+
 <p><span class="chinese">在昨天晚上那样吃吃喝喝之后，我觉得有点昏昏欲睡。</span><span class="english">I'm feeling rather logy after all that eating and drinking last night.</span></p>
 
 <p><span class="chinese">这就是中国封建社会发展迟缓问题的实质。</span><span class="english">This is the substance that Chinese feudal society develops logy problem.</span></p>

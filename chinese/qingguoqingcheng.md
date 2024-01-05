@@ -1,5 +1,7 @@
 # 倾国倾城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingguoqingcheng.md)
+
 <p><span class="chinese">他妻子是一个倾国倾城的美人。</span><span class="english">His wife is an unmatched beauty.</span></p>
 
 <p><span class="chinese">女人，不需要倾国倾城，只需要一个男人为她倾尽一生。</span><span class="english">The woman, not beautiful, only need a man for her whole life.</span></p>

@@ -1,5 +1,7 @@
 # 苦果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuguo.md)
+
 <p><span class="chinese">罪行的稗草会结出苦果。</span><span class="english">The weed of crime bears bitter fruit.</span></p>
 
 <p><span class="chinese">对许多人来说，这可能是自食苦果。</span><span class="english">For many, this may be a bitter pill to swallow.</span></p>

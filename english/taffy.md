@@ -1,5 +1,7 @@
 # taffy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taffy.md)
+
 <p><span class="chinese">你可以叫我小艾。</span><span class="english">And you can call me Taffy.</span></p>
 
 <p><span class="chinese">既然你有像婴儿大腿一样白的糖果…</span><span class="english">Lf you have taffy white as a baby ' s thigh..</span></p>

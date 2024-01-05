@@ -1,5 +1,7 @@
 # strontium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strontium.md)
+
 <p><span class="chinese">重晶石常含锶和钙。</span><span class="english">Barite usually contain strontium and calcium.</span></p>
 
 <p><span class="chinese">本文对雷奈酸锶的研究情况作一简要概述。</span><span class="english">This paper was a review of current status of strontium ranelate.</span></p>

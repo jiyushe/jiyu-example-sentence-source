@@ -1,5 +1,7 @@
 # 活气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoqi.md)
+
 <p><span class="chinese">他们由于麻烦的做事而活气。</span><span class="english">They were indignould like with hard work.</span></p>
 
 <p><span class="chinese">这是一个水蓝色小精灵再次充斥活气。</span><span class="english">This is an aqua blue again with a dynamic elf.</span></p>

@@ -1,5 +1,7 @@
 # walloping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walloping.md)
+
 <p><span class="chinese">他正钓起一条鱼。</span><span class="english">A walloping fish.</span></p>
 
 <p><span class="chinese">他得付一大笔罚款。</span><span class="english">He had to pay a walloping fine.</span></p>

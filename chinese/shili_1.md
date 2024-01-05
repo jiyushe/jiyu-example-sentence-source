@@ -1,5 +1,7 @@
 # 事理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shili_1.md)
+
 <p><span class="chinese">明白事理的人。</span><span class="english">A man of understanding.</span></p>
 
 <p><span class="chinese">他说话既亲切又明事理。</span><span class="english">He spoke with both kindnessunderstanding.</span></p>

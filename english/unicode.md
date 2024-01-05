@@ -1,5 +1,7 @@
 # unicode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unicode.md)
+
 <p><span class="chinese">它有一个Unicode的字符串类型和数组类型。</span><span class="english">It has a Unicode string type and an array type.</span></p>
 
 <p><span class="chinese">Unicode的5.1.0增添新的1624个编码字符。</span><span class="english">Unicode 5.1.0 adds 1, 624 newly encoded characters.</span></p>

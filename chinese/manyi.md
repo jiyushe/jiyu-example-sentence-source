@@ -1,5 +1,7 @@
 # 满意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manyi.md)
+
 <p><span class="chinese">那你是否对自己的新发型很满意呢？</span><span class="english">Happy with your hair?</span></p>
 
 <p><span class="chinese">不，我不满意。</span><span class="english">No,I'm not happy now.</span></p>

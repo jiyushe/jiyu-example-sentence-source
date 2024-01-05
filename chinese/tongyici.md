@@ -1,5 +1,7 @@
 # 同义词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyici.md)
+
 <p><span class="chinese">你能举出“absurd”的同义词吗?</span><span class="english">Can you synonymize “absurd”?</span></p>
 
 <p><span class="chinese">西塘可以说是水的同义词。</span><span class="english">The town is the synonym of water.</span></p>

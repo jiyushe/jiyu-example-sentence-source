@@ -1,5 +1,7 @@
 # uso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uso.md)
+
 <p><span class="chinese">幽灵潜艇究竟从何而来？</span><span class="english">Where dose the uso come from?</span></p>
 
 <p><span class="chinese">我们觉得我们就是美国顾问协会旅行团的两位表演者。</span><span class="english">I picture us like two performers on a USO Tour.</span></p>

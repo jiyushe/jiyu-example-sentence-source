@@ -1,5 +1,7 @@
 # 专司
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuansi.md)
+
 <p><span class="chinese">奥组委可以成立专司场馆管理事务的职能部门。</span><span class="english">The OCOG may establish a al area dealing with Venue Management aspects.</span></p>
 
 <p><span class="chinese">奥斯里斯专司衡量人间的是非功过。</span><span class="english">Awes the Reese special department weighs the world the right and wrong merit.</span></p>

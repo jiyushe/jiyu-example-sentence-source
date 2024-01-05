@@ -1,5 +1,7 @@
 # 奉若神明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengruoshenming.md)
+
 <p><span class="chinese">他们不再把伟大领袖奉若神明。</span><span class="english">They disanointed the great leader.</span></p>
 
 <p><span class="chinese">瓦伦蒂诺几乎被众多的女性崇拜者奉若神明。</span><span class="english">Valentino was virtually deified by legions of female fans.</span></p>

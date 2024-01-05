@@ -1,5 +1,7 @@
 # qr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qr.md)
+
 <p><span class="chinese">此外，二维码还有其他不足之处。</span><span class="english">QR codes have other drawbacks.</span></p>
 
 <p><span class="chinese">QR代码将进入零售市场。</span><span class="english">QR codes will start to enter retail markets.</span></p>

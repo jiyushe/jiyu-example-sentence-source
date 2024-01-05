@@ -1,5 +1,7 @@
 # thighbone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thighbone.md)
+
 <p><span class="chinese">紧接着进行的骨扫描也许能透露股骨的反常。</span><span class="english">A follow-up bone scan would reveal an abnormality on his femur—or thighbone.</span></p>
 
 <p><span class="chinese">膝盖是大腿骨和小腿胫的连接处大腿骨和小腿胫的连接处。</span><span class="english">The knee is the jointswheresthe thighbone meets the large bone of the lower leg.</span></p>

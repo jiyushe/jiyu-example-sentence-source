@@ -1,5 +1,7 @@
 # 联大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianda_1.md)
+
 <p><span class="chinese">这是继1957年之后，她首次在联大演讲。</span><span class="english">Her last speech to the General Assembly was in 1957.</span></p>
 
 <p><span class="chinese">在其他情况下，外径100联大措施过低坦佩叉涂抹。</span><span class="english">At other cases the OD 100 GA measure a too low temperature.</span></p>

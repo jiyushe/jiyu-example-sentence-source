@@ -1,5 +1,7 @@
 # spot 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spot_1.md)
+
 <p><span class="chinese">你能弄脏鱼吗?。</span><span class="english">Can you spot the fish?</span></p>
 
 <p><span class="chinese">她有一颗美人痣！</span><span class="english">She has a beauty spot.</span></p>

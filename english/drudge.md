@@ -1,5 +1,7 @@
 # drudge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drudge.md)
+
 <p><span class="chinese">我可不愿让我儿子终身做苦工。</span><span class="english">I wouldn't wish to have my son drudge all his life.</span></p>
 
 <p><span class="chinese">不再有人必须在閒散富人休息的时候十倍辛勤工作。</span><span class="english">No more the drudge and idler—ten that toil where one reposes.</span></p>

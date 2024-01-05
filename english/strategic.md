@@ -1,5 +1,7 @@
 # strategic 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strategic.md)
+
 <p><span class="chinese">这里需要一些策略性的东西。</span><span class="english">Be strategic here.</span></p>
 
 <p><span class="chinese">围棋是一种战略竞争。</span><span class="english">Go is a strategic contest.</span></p>

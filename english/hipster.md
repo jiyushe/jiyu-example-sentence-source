@@ -1,5 +1,7 @@
 # hipster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hipster.md)
+
 <p><span class="chinese">我的医生是一个酷男。</span><span class="english">He is a hipster.</span></p>
 
 <p><span class="chinese">那些时髦的店员通常对我翻翻他们眼睛。</span><span class="english">The hipster salesperson would just roll his eyes.</span></p>

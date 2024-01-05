@@ -1,5 +1,7 @@
 # 饮片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinpian.md)
+
 <p><span class="chinese">按此看红景天花饮片图。</span><span class="english">See the picture dry flowers here.</span></p>
 
 <p><span class="chinese">按此看合欢皮饮片图。</span><span class="english">Click here to see picture of herb.</span></p>

@@ -1,5 +1,7 @@
 # vacate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacate.md)
+
 <p><span class="chinese">麦克阿瑟给抗议者们20分钟时间撤离。</span><span class="english">MacArthur gave the marchers 20 minutes to vacate.</span></p>
 
 <p><span class="chinese">他们必须在星期三以前将办公室腾出来。</span><span class="english">They have to vacate their offices before Wednesday.</span></p>

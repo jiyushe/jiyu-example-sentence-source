@@ -1,5 +1,7 @@
 # 民事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minshi.md)
+
 <p><span class="chinese">但是，这是民事法律。</span><span class="english">However, this is a civil law.</span></p>
 
 <p><span class="chinese">英格兰和威尔士的民事法庭</span><span class="english">Civil Courts in England and Wales</span></p>

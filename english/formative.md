@@ -1,5 +1,7 @@
 # formative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formative.md)
+
 <p><span class="chinese">给予形成性的和终结性的考试。</span><span class="english">Gives both formative and summative tests.</span></p>
 
 <p><span class="chinese">这就是基本的信息。</span><span class="english">So, you see, this is formative information.</span></p>

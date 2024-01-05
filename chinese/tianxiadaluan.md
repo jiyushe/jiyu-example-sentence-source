@@ -1,5 +1,7 @@
 # 天下大乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianxiadaluan.md)
+
 <p><span class="chinese">天下大乱才能天下大治。</span><span class="english">THERE is great disorder under heaven.</span></p>
 
 <p><span class="chinese">现在已经很难天下大乱了。</span><span class="english">Things just very rarely go haywire now.</span></p>

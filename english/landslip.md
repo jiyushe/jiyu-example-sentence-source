@@ -1,5 +1,7 @@
 # landslip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landslip.md)
+
 <p><span class="chinese">应用此公式对多个大中型黄土滑坡进行了空间预报和模拟反演。</span><span class="english">This formula is used to predict and simulate the space of many loss landslip.</span></p>
 
 <p><span class="chinese">采空区上覆山体的滑坡是地下开采过程中又一种岩石移动类型。</span><span class="english">The landslip above mined-out area is a rock-moving type in underground mining.</span></p>

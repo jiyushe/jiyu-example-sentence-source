@@ -1,5 +1,7 @@
 # 跃动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuedong_2.md)
+
 <p><span class="chinese">这一刻，我的心为你跃动。</span><span class="english">In this moment, my heart is beating only for you.</span></p>
 
 <p><span class="chinese">生命的跃动在它自己的乐曲里得到了休息。</span><span class="english">The movement of life has its rest in its own music.</span></p>

@@ -1,5 +1,7 @@
 # glaciated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glaciated.md)
+
 <p><span class="chinese">这也是四十八个州冰川最多的山峰。</span><span class="english">It is also the heaviest glaciated peak in the lower 48 states.</span></p>
 
 <p><span class="chinese">谷口呈U型，是庐山第四纪冰川“漏斗”遗迹。</span><span class="english">The U-shaped glaciated valley witnesses of the fourth glacial stage in Lushan.</span></p>

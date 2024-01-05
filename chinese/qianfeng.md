@@ -1,5 +1,7 @@
 # 前锋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfeng.md)
+
 <p><span class="chinese">因为我们前锋是陀屎。</span><span class="english">Because our strikers are shite.</span></p>
 
 <p><span class="chinese">小陈是个好的左前锋。</span><span class="english">Xao Chen is a good left forward.</span></p>

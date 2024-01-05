@@ -1,5 +1,7 @@
 # 论说文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunshuowen.md)
+
 <p><span class="chinese">题目要求考生写一篇论说文。</span><span class="english">Examinees are asked to write an argumentation.</span></p>
 
 <p><span class="chinese">写一篇论说文，在文中你将解释作者如何运用论据来说服读者。</span><span class="english">Write an essay in which you explain how the author builds an argument to persuade an audience.</span></p>

@@ -1,5 +1,7 @@
 # 洪恩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongen.md)
+
 <p><span class="chinese">2007年她来到苏州，并在私立洪恩学校教书。</span><span class="english">She moved to Suzhou in 2007 and taught at a private school, Hong En.</span></p>
 
 <p><span class="chinese">关于洪恩贞的信息似乎更加简单清晰，但也颇为说明问题。</span><span class="english">The information on Hong seems more straightforward, yet illuminating.</span></p>

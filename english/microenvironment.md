@@ -1,5 +1,7 @@
 # microenvironment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microenvironment.md)
+
 <p><span class="chinese">本文就肿瘤微环境及其在介导获得性耐药和凋亡抵抗中的作用作-综述。</span><span class="english">Our review focused on microenvironment and its role in mediating acquired drug resistance.</span></p>
 
 <p><span class="chinese">管理水平和小环境都是影响冷季型草坪杂草群落的重要因素。</span><span class="english">Management level and microenvironment are the important factors which affect weed communities.</span></p>

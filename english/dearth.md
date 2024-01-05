@@ -1,5 +1,7 @@
 # dearth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dearth.md)
+
 <p><span class="chinese">一片焦土。</span><span class="english">Scorched dEarth.</span></p>
 
 <p><span class="chinese">一群伟大的科学家死后在天堂里抓迷藏。</span><span class="english">A group of great scientists lived in heaven after dearth.</span></p>

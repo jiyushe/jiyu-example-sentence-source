@@ -1,5 +1,7 @@
 # giving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giving.md)
+
 <p><span class="chinese">神是一位厚赐百物的神。</span><span class="english">He is a giving God.</span></p>
 
 <p><span class="chinese">发出声音。</span><span class="english">Giving off these sounds.</span></p>

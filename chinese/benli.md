@@ -1,5 +1,7 @@
 # 本利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benli.md)
+
 <p><span class="chinese">这个重构过程有很多形式，本利说。</span><span class="english">This redefining takes many forms, Le says.</span></p>
 
 <p><span class="chinese">“本利斯塔”也标志着医药发展的一个里程碑。</span><span class="english">Benlysta also represents a medical milestone.</span></p>

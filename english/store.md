@@ -1,5 +1,7 @@
 # store
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/store.md)
+
 <p><span class="chinese">珠宝首饰店。</span><span class="english">Jewelry store.</span></p>
 
 <p><span class="chinese">宠物沃卢商店。</span><span class="english">Pet Valu store.</span></p>

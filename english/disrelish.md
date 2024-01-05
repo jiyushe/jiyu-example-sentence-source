@@ -1,5 +1,7 @@
 # disrelish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disrelish.md)
+
 <p><span class="chinese">我厌恶一切肮脏的东西。</span><span class="english">I disrelish filthy of any kind.</span></p>
 
 <p><span class="chinese">肮脏、腐败、丑陋的断腿人跪著爬行。</span><span class="english">In filth, decay and disrelish the leg-less man lay kneeling.</span></p>

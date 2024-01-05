@@ -1,5 +1,7 @@
 # 私心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixin_1.md)
+
 <p><span class="chinese">是私心。</span><span class="english">It is self.</span></p>
 
 <p><span class="chinese">她是个没私心的姑娘。</span><span class="english">She is a selfless girl.</span></p>

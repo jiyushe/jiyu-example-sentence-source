@@ -1,5 +1,7 @@
 # 寰球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanqiu.md)
+
 <p><span class="chinese">寰球重量级冠军赛总是头版头条新闻。</span><span class="english">A world heavy weight championship match is front news.</span></p>
 
 <p><span class="chinese">中国参加世贸含有寰球性的意思。</span><span class="english">China's entry into the WTO carries global implications.</span></p>

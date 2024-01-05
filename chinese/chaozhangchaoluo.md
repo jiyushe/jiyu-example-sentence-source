@@ -1,5 +1,7 @@
 # 潮涨潮落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaozhangchaoluo.md)
+
 <p><span class="chinese">股票的价格随着市场潮涨潮落。</span><span class="english">The price of stock moves up and down with the market.</span></p>
 
 <p><span class="chinese">在这里，你可以尽情观赏日出的盛景，领略潮涨潮落的壮观景象。</span><span class="english">And here, you can view and admire the wonderful scape of sunrise and the vision of gallant flood!</span></p>

@@ -1,5 +1,7 @@
 # viewership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viewership.md)
+
 <p><span class="chinese">但是最近几年，电视动画片的收视率不断下降。</span><span class="english">But in recent years, TV cartoons have been declining in viewership.</span></p>
 
 <p><span class="chinese">鉴于市场的现实，奥斯卡可以做些什么来提高收视率呢？</span><span class="english">So, given the realities of the marketplace, what can the Oscars do to boost viewership?</span></p>

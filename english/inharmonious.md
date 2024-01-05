@@ -1,5 +1,7 @@
 # inharmonious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inharmonious.md)
+
 <p><span class="chinese">现在，人们在改善环境方面是不协调的。</span><span class="english">Now, people is inharmonious in the respect of improving an environment.</span></p>
 
 <p><span class="chinese">家庭关系的不和谐也许是这周最令你烦心的事情。</span><span class="english">Inharmonious situations at home may be extremely upsettingfor you this week.</span></p>

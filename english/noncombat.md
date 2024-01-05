@@ -1,5 +1,7 @@
 # noncombat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noncombat.md)
+
 <p><span class="chinese">他们引发了如此大的力量为什么对于非战斗行动被需要的问题。</span><span class="english">They called into question why such a large force was needed for noncombat operations.</span></p>
 
 <p><span class="chinese">他们无法躲避噬骨的寒风，这也正是出现大量非战斗减员的原因。</span><span class="english">They could not stand the bitter cold, which was the reason for the excessive noncombat reduction in personnel.</span></p>

@@ -1,5 +1,7 @@
 # 宽和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanhe.md)
+
 <p><span class="chinese">当宽和高相等时，就是一个圆形。</span><span class="english">When width and height are equal, the shape is a circle.</span></p>
 
 <p><span class="chinese">之后在CSS中设置了宽和高。</span><span class="english">The width and height attributes are then set in the CSS.</span></p>

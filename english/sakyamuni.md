@@ -1,5 +1,7 @@
 # sakyamuni
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sakyamuni.md)
+
 <p><span class="chinese">壁画上是释迦牟尼在说法。</span><span class="english">The mural depicts Sakyamuni teaching.</span></p>
 
 <p><span class="chinese">释迦牟尼由此得以继续行程。</span><span class="english">Sakyamuni was thus able to continue his journey.</span></p>

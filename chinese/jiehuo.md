@@ -1,5 +1,7 @@
 # 截获
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiehuo.md)
+
 <p><span class="chinese">他们截获了敌人的作战方案。</span><span class="english">They intercepted the enemy's battle plan.</span></p>
 
 <p><span class="chinese">现在我们已经创建了截获目的地。</span><span class="english">We've now created the intercept destination.</span></p>

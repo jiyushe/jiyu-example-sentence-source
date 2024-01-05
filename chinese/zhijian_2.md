@@ -1,5 +1,7 @@
 # 指尖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijian_2.md)
+
 <p><span class="chinese">我的手指尖是凉的。</span><span class="english">The tips of my fingers are cold.</span></p>
 
 <p><span class="chinese">黑黑的指尖摘着白白的棉花。</span><span class="english">White cotton when the bloom is thick.</span></p>

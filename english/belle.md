@@ -1,5 +1,7 @@
 # belle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belle.md)
+
 <p><span class="chinese">你在做什么呢？贝莉。</span><span class="english">What are you doing, Belle?</span></p>
 
 <p><span class="chinese">不，贝莉！我不会让你这么做的！</span><span class="english">No, Belle ! I won't let you do this!</span></p>

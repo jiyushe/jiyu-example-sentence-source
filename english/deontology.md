@@ -1,5 +1,7 @@
 # deontology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deontology.md)
+
 <p><span class="chinese">因此本文对行政责任进行道义论分析。</span><span class="english">Therefore this article tries to analyse administrative responsibility by deontology.</span></p>
 
 <p><span class="chinese">知情同意的道德基础可以从义务论和目的论两个方面得到辩护。</span><span class="english">The theory of informed consent can be justified from two aspects of deontology and teleology.</span></p>

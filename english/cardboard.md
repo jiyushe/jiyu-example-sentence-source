@@ -1,5 +1,7 @@
 # cardboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardboard.md)
+
 <p><span class="chinese">这种面包味同嚼蜡。</span><span class="english">The bread tastes like cardboard.</span></p>
 
 <p><span class="chinese">是瓦楞形硬纸箱.</span><span class="english">Yes, corrugated cardboard boxes.</span></p>

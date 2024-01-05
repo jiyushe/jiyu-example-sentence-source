@@ -1,5 +1,7 @@
 # 站票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanpiao.md)
+
 <p><span class="chinese">我的儿子给我买了一张站票。</span><span class="english">My son bought me a standing ticket.</span></p>
 
 <p><span class="chinese">还是有一点点迟了，只是买到了站票。</span><span class="english">Still a wee bit late, it was " on the pitch ".</span></p>

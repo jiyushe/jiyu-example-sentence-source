@@ -1,5 +1,7 @@
 # 客轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kelun.md)
+
 <p><span class="chinese">我们的客轮在暗礁附近搁浅了。</span><span class="english">Our ship stranded near the submerged reefs.</span></p>
 
 <p><span class="chinese">他乘坐的客轮鸣了三声汽笛后启航了。</span><span class="english">His ship hooted for three times and started.</span></p>

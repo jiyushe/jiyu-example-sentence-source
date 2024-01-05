@@ -1,5 +1,7 @@
 # initial 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initial.md)
+
 <p><span class="chinese">在初始状态中启动。</span><span class="english">Start in an initial state.</span></p>
 
 <p><span class="chinese">这里有个初始问题。</span><span class="english">There is an initial issue.</span></p>

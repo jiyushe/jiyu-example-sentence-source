@@ -1,5 +1,7 @@
 # professionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/professionally.md)
+
 <p><span class="chinese">她当了三年职业时装模特。</span><span class="english">She modelled professionally for three years.</span></p>
 
 <p><span class="chinese">斯特林?莫斯和A?J?福伊特都是职业赛车手。</span><span class="english">Moss and A? J? Foyt race cars professionally.</span></p>

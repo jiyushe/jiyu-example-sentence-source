@@ -1,5 +1,7 @@
 # lox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lox.md)
+
 <p><span class="chinese">“我带你们去见森林之王吧。”狐狸说。</span><span class="english">"I will take you to the King," said Fox Lox.</span></p>
 
 <p><span class="chinese">MJ可显著提高苹果果皮中LOX活性。</span><span class="english">MJ significantly increased LOX activity in apple pericarp.</span></p>

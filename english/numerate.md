@@ -1,5 +1,7 @@
 # numerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numerate.md)
+
 <p><span class="chinese">你的孩子应该会识字算数。</span><span class="english">Your children should be literate and numerate.</span></p>
 
 <p><span class="chinese">对数字敏感，有良好的分析能力，注重细节。</span><span class="english">Is Numerate , analytical thinking with great attention to detail.</span></p>

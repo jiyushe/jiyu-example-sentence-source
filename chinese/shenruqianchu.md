@@ -1,5 +1,7 @@
 # 深入浅出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenruqianchu.md)
+
 <p><span class="chinese">我所读过的、最深入浅出的、有关健康的诠释。</span><span class="english">Edward Taub, M. D. , author of the Wellness Rx.</span></p>
 
 <p><span class="chinese">这本书深入浅出地告诉我们怎样利用电脑去做复杂的工作。</span><span class="english">This book tells us in a simple way how to use a computer to do complex work.</span></p>

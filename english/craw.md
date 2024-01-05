@@ -1,5 +1,7 @@
 # craw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craw.md)
+
 <p><span class="chinese">他的侮辱仍然使我无法忍受。</span><span class="english">His slight still sticks in my craw.</span></p>
 
 <p><span class="chinese">嗉囊与砂囊可明显区分。</span><span class="english">The craw and gizzard could be defined.</span></p>

@@ -1,5 +1,7 @@
 # 票选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoxuan.md)
+
 <p><span class="chinese">票选新七大奇景─玉山再接再励！</span><span class="english">This site is electing the new 7 wonders of nature.</span></p>
 
 <p><span class="chinese">上个赛季的票选库普切克输给了波士顿的安吉获得第二。</span><span class="english">Kupchak finished second last season to Boston's Danny Ainge.</span></p>

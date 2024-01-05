@@ -1,5 +1,7 @@
 # yorks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yorks.md)
+
 <p><span class="chinese">大体上纽约有三重属性。</span><span class="english">Thereare roughly three New Yorks.</span></p>
 
 <p><span class="chinese">大体说来，有三个纽约。</span><span class="english">There are roughly three New Yorks.</span></p>

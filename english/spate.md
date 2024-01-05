@@ -1,5 +1,7 @@
 # spate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spate.md)
+
 <p><span class="chinese">这一地区出现了大量抢劫事件。</span><span class="english">There's been a spate of muggings in the area.</span></p>
 
 <p><span class="chinese">大量英语读物开始泛滥发行。</span><span class="english">A spate of English reading materials began to pour off the presses.</span></p>

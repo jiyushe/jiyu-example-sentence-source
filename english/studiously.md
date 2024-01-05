@@ -1,5 +1,7 @@
 # studiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/studiously.md)
+
 <p><span class="chinese">尽管我对所有这一切一无所知。</span><span class="english">All those things which I so studiously knew nothing about.</span></p>
 
 <p><span class="chinese">安倍已然刻意地压制了一场关于提升消费税的争论。</span><span class="english">Mr Abe has studiously suppressed a debate about raising the consumption tax.</span></p>

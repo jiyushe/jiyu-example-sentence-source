@@ -1,5 +1,7 @@
 # piemonte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piemonte.md)
+
 <p><span class="chinese">Nebbiolos都是皮埃蒙特葡萄酒的最昂贵的一。</span><span class="english">Nebbiolos are one of the most expensive of the Piemonte wines.</span></p>
 
 <p><span class="chinese">皮埃蒙特与该内比奥罗葡萄年龄作了很好的葡萄酒。</span><span class="english">Piemonte wines that are made with the Nebbiolo grape age very well.</span></p>

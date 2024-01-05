@@ -1,5 +1,7 @@
 # 甩手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaishou.md)
+
 <p><span class="chinese">与她的伴侣的不同之处是，她从不甩手希望。</span><span class="english">Unlike her friends! she never gaudio-videoe up hope.</span></p>
 
 <p><span class="chinese">我只好放下刀，甩甩手，休息一下再切。</span><span class="english">I had to put down the knife, jilt a hand, take a rest.</span></p>

@@ -1,5 +1,7 @@
 # 馊主意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/souzhuyi.md)
+
 <p><span class="chinese">你不要再出那些赚钱的馊主意了！</span><span class="english">Not another of your dotty ideas for making money!</span></p>
 
 <p><span class="chinese">由于你的馊主意，我们跑了不少冤枉路。</span><span class="english">We went the long way, thanks to your rotten idea.</span></p>

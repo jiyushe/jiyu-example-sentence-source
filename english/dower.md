@@ -1,5 +1,7 @@
 # dower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dower.md)
+
 <p><span class="chinese">她用涤亡夫处得赖的产业整天喝科。</span><span class="english">She was drinking all day by dower.</span></p>
 
 <p><span class="chinese">下行和宫或麻省理工学院管理。</span><span class="english">Dower and Miyagawa or the MIT administration.</span></p>

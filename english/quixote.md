@@ -1,5 +1,7 @@
 # quixote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quixote.md)
+
 <p><span class="chinese">然后，随从又瞄准唐吉诃德砍了重重的一剑。</span><span class="english">Then again the squire aimed a great blow at Don Quixote.</span></p>
 
 <p><span class="chinese">唐吉诃德又把他的甲胄修补好，并且弄来一支新的长矛。</span><span class="english">Don Quixote repaired his armour again, and got a new lance.</span></p>

@@ -1,5 +1,7 @@
 # 老早
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laozao.md)
+
 <p><span class="chinese">谷歌老早厌倦了这样。</span><span class="english">Google's tired of that.</span></p>
 
 <p><span class="chinese">我们老早就是好朋友了。</span><span class="english">We’ve been friends since way back.</span></p>

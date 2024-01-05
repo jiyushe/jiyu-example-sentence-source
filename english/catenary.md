@@ -1,5 +1,7 @@
 # catenary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catenary.md)
+
 <p><span class="chinese">钥匙链的用途？</span><span class="english">The utility of key catenary?</span></p>
 
 <p><span class="chinese">可内链在其中能起到什么样的作用呢？</span><span class="english">Can inside what kind of effect can catenary amid have?</span></p>

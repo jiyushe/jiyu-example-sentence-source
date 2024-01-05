@@ -1,5 +1,7 @@
 # baldwin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baldwin.md)
+
 <p><span class="chinese">女人真正想要的是艾力克鲍德温。</span><span class="english">What women really want is Alec Baldwin.</span></p>
 
 <p><span class="chinese">其中有迈克尔鲍德温和Stephanie比利亚雷亚尔。</span><span class="english">Among them are Michael Baldwin and Stephanie Villareal.</span></p>

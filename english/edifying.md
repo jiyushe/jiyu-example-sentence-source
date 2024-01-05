@@ -1,5 +1,7 @@
 # edifying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edifying.md)
+
 <p><span class="chinese">这是一本陶冶情操的书。</span><span class="english">This is an edifying book.</span></p>
 
 <p><span class="chinese">他读一些陶冶性情的书籍，以提高自己的心智。</span><span class="english">He read edifying books to improve his mind.</span></p>

@@ -1,5 +1,7 @@
 # dentition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dentition.md)
+
 <p><span class="chinese">明显的牙间隙为缺陷。</span><span class="english">Full dentition. Obvious gaps are serious faults.</span></p>
 
 <p><span class="chinese">儿童牙列应当指出的是什么？</span><span class="english">The child dentition should be noted that about ?</span></p>

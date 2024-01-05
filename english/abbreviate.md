@@ -1,5 +1,7 @@
 # abbreviate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abbreviate.md)
+
 <p><span class="chinese">甚至可以缩写Y或。</span><span class="english">N You can even abbreviate and put Y or N.</span></p>
 
 <p><span class="chinese">她决定把她冗长的演讲缩短。</span><span class="english">She decided to abbreviate her long speech.</span></p>

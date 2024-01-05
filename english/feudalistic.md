@@ -1,5 +1,7 @@
 # feudalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feudalistic.md)
+
 <p><span class="chinese">为此他决定和他的封建主义家庭决裂。</span><span class="english">For this he decided to break with his feudalistic family.</span></p>
 
 <p><span class="chinese">封建一夫一妻制在农民家庭得到实现。</span><span class="english">The feudalistic monogamy is realized in the farmer's family.</span></p>

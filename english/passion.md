@@ -1,5 +1,7 @@
 # passion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passion.md)
+
 <p><span class="chinese">要有激情。</span><span class="english">Have passion.</span></p>
 
 <p><span class="chinese">那是激情犯罪。</span><span class="english">Crime of passion.</span></p>

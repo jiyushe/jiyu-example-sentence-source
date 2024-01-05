@@ -1,5 +1,7 @@
 # spacebar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spacebar.md)
+
 <p><span class="chinese">按下空白键来吃掉数字。</span><span class="english">Press the spacebar to eat a number.</span></p>
 
 <p><span class="chinese">选择值，然后按空格键。</span><span class="english">Select the value, then press the SPACEBAR.</span></p>

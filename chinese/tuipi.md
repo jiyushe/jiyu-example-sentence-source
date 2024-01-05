@@ -1,5 +1,7 @@
 # 蜕皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuipi.md)
+
 <p><span class="chinese">蛇年年蜕皮。</span><span class="english">The snake skins every year.</span></p>
 
 <p><span class="chinese">蝉总是在春季蜕皮。</span><span class="english">Cicada always sloughs in the spring.</span></p>

@@ -1,5 +1,7 @@
 # 分明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenming.md)
+
 <p><span class="chinese">我分明嗅到了掩饰的味道！</span><span class="english">I smell a cover-up!</span></p>
 
 <p><span class="chinese">这分明是个阴谋！</span><span class="english">It must be a conspiracy.</span></p>

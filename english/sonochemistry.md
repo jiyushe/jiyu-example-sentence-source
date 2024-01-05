@@ -1,5 +1,7 @@
 # sonochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sonochemistry.md)
+
 <p><span class="chinese">应用范围包括流体物理，声学，管道，超声波和超声化学。</span><span class="english">Applications include fluid physics, acoustics, pipelines, ultrasonics, and sonochemistry.</span></p>
 
 <p><span class="chinese">声化学作为一门新的学科，已经广泛应用于化学及化工领域。</span><span class="english">As a new subject, sonochemistry had been applied in many chemistry and chemical industry fields.</span></p>

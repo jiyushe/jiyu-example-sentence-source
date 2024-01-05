@@ -1,5 +1,7 @@
 # piloting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piloting.md)
+
 <p><span class="chinese">阿森纽斯仿佛在驾驶阿波罗一号。</span><span class="english">Arsenius drove like he was piloting Apollo One.</span></p>
 
 <p><span class="chinese">飞机不会批驳你的驾驶技能。</span><span class="english">Airplanes don't comment on your piloting skills.</span></p>

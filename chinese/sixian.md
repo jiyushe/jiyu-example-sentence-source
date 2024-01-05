@@ -1,5 +1,7 @@
 # 丝弦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixian.md)
+
 <p><span class="chinese">用丝弦的乐器。</span><span class="english">With stringed instruments.</span></p>
 
 <p><span class="chinese">这是我在王鹏老师的工厂自己弹的丝弦琴。</span><span class="english">May I know who taught you this piece?</span></p>

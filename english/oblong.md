@@ -1,5 +1,7 @@
 # oblong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oblong.md)
+
 <p><span class="chinese">梨中，以矩形或加长。</span><span class="english">Form pyriform to oblong or elongated.</span></p>
 
 <p><span class="chinese">两者都是甜一紧皮肤和椭圆形的形状。</span><span class="english">Both are sweet with a tight skin and an oblong shape.</span></p>

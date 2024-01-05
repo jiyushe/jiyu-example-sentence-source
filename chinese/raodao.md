@@ -1,5 +1,7 @@
 # 绕道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/raodao.md)
+
 <p><span class="chinese">所以我们只好绕道而行。</span><span class="english">So we have to bypass.</span></p>
 
 <p><span class="chinese">滂沱大雨迫使我们绕道而行。</span><span class="english">The heavy rain made us stray.</span></p>

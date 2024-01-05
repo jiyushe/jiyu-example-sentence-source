@@ -1,5 +1,7 @@
 # mdr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mdr.md)
+
 <p><span class="chinese">每种酵母缺乏一种特定的MDR蛋白基因。</span><span class="english">Each one lacked a gene coding for a particular MDR protein.</span></p>
 
 <p><span class="chinese">异搏定和红霉素对白血病细胞MDR有逆转作用。</span><span class="english">Verapamil and erythromycin could reverse the MDR of leukemic cells.</span></p>

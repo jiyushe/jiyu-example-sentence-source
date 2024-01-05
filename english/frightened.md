@@ -1,5 +1,7 @@
 # frightened 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frightened.md)
+
 <p><span class="chinese">她是多么地害怕！</span><span class="english">How frightened she was!</span></p>
 
 <p><span class="chinese">咱们十分发急。</span><span class="english">We were very frightened.</span></p>

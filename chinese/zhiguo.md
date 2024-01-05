@@ -1,5 +1,7 @@
 # 治国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiguo.md)
+
 <p><span class="chinese">治国经邦，人才为急。——孙中山。</span><span class="english">By the state, talent for urgent.</span></p>
 
 <p><span class="chinese">自由国家具有普通法法治国的形式。</span><span class="english">Free country is the Common-law Rechtsstaat.</span></p>

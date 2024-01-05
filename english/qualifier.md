@@ -1,5 +1,7 @@
 # qualifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qualifier.md)
+
 <p><span class="chinese">一个打压是一个试探。</span><span class="english">A NEG is a qualifier.</span></p>
 
 <p><span class="chinese">因此，尽量避免过度使用该限定符。</span><span class="english">Hence, avoid overusing this qualifier.</span></p>

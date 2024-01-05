@@ -1,5 +1,7 @@
 # defection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defection.md)
+
 <p><span class="chinese">他的叛党使得他政治前途黯淡。</span><span class="english">His defection from the party dim his political career.</span></p>
 
 <p><span class="chinese">据报导，贾卢德是一星期内第三位叛变的高级官员。</span><span class="english">Jalloud is the third top defection reported in a week.</span></p>

@@ -1,5 +1,7 @@
 # hyacinthus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyacinthus.md)
+
 <p><span class="chinese">海辛瑟斯喜欢为阿波罗做事。</span><span class="english">Hyacinthus enjoyed doing things for Apollo.</span></p>
 
 <p><span class="chinese">他十分喜爱一个名叫雅辛托斯的少年。</span><span class="english">He was passionately fond of a youth named Hyacinthus.</span></p>

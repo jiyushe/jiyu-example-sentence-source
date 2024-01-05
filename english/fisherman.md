@@ -1,5 +1,7 @@
 # fisherman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fisherman.md)
+
 <p><span class="chinese">年轻的渔夫颤抖着。</span><span class="english">The young Fisherman trembled.</span></p>
 
 <p><span class="chinese">渔民把网收进来了。</span><span class="english">The fisherman drew in the net.</span></p>

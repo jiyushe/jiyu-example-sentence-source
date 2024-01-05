@@ -1,5 +1,7 @@
 # 属国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuguo.md)
+
 <p><span class="chinese">如新罗一样，渤海国是中国唐朝的属国。</span><span class="english">Like Silla, Parhae was a tributary state of Tang-dynasty China.</span></p>
 
 <p><span class="chinese">女王主张她的这个属国应该拥有自己名称的网名。</span><span class="english">The queen argued that her antipodean country should have control over its own .com name.</span></p>

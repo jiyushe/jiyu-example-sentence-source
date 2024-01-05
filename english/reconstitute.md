@@ -1,5 +1,7 @@
 # reconstitute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconstitute.md)
+
 <p><span class="chinese">重建所需的费用只有一次。</span><span class="english">Reconstitute only the amount needed at one time.</span></p>
 
 <p><span class="chinese">PBSCT能迅速重建和恢复造血功能。</span><span class="english">Allo PBSCT can rapidly reconstitute hematopoiesis.</span></p>

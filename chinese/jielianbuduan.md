@@ -1,5 +1,7 @@
 # 接连不断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jielianbuduan.md)
+
 <p><span class="chinese">在美国，这些看起来在接连不断的发生。</span><span class="english">In the US they appear to be succeeding.</span></p>
 
 <p><span class="chinese">长时间接连不断的阴雨天使我们很厌烦。</span><span class="english">The long succession of wet days wore us out.</span></p>

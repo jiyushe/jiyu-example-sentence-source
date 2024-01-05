@@ -1,5 +1,7 @@
 # shelter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shelter.md)
+
 <p><span class="chinese">他跑去避雨。</span><span class="english">He ran for shelter.</span></p>
 
 <p><span class="chinese">我可以出去找避难所吗？</span><span class="english">Can I go out for shelter?</span></p>

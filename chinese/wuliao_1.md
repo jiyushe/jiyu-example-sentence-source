@@ -1,5 +1,7 @@
 # 物料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuliao_1.md)
+
 <p><span class="chinese">粉体物料制粒。</span><span class="english">Powder material granulating.</span></p>
 
 <p><span class="chinese">增强物料的紧密度、光洁度。</span><span class="english">Strengthen material, the close.</span></p>

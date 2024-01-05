@@ -1,5 +1,7 @@
 # lough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lough.md)
+
 <p><span class="chinese">危险？哈哈，我笑对危险！</span><span class="english">Danger? HA! I lough in the face of danger!</span></p>
 
 <p><span class="chinese">家是我们休息的场所，是我们生命的港湾。</span><span class="english">Home is the place for rest and the lough of our lives.</span></p>

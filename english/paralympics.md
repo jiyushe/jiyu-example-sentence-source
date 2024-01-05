@@ -1,5 +1,7 @@
 # paralympics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paralympics.md)
+
 <p><span class="chinese">哪些人能参加残奥会？</span><span class="english">What kind of people competes at the Paralympics?</span></p>
 
 <p><span class="chinese">他是在残疾人奥运会上夺得了金牌。</span><span class="english">Because he won the golden medal at the Paralympics.</span></p>

@@ -1,5 +1,7 @@
 # sufferer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sufferer.md)
+
 <p><span class="chinese">你是一个新的浮子患者？</span><span class="english">Are you a new floater sufferer?</span></p>
 
 <p><span class="chinese">我从不曾是一个真正的受难者，除非是在我自己的过错中受难。</span><span class="english">and I am never a real sufferer but by my own fault.</span></p>

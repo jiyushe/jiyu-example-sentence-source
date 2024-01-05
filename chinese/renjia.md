@@ -1,5 +1,7 @@
 # 人家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renjia.md)
+
 <p><span class="chinese">看看人家这位，多英武！</span><span class="english">Look at this guy.</span></p>
 
 <p><span class="chinese">我们可是水上人家呀！</span><span class="english">We are water people.</span></p>

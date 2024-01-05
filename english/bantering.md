@@ -1,5 +1,7 @@
 # bantering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bantering.md)
+
 <p><span class="chinese">这些都是当玩笑话说的。</span><span class="english">All this was said in a bantering tone.</span></p>
 
 <p><span class="chinese">杰克喜欢和他的朋友们说笑逗趣。</span><span class="english">Jack enjoys bantering with his friends.</span></p>

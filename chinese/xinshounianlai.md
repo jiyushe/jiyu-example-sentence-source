@@ -1,5 +1,7 @@
 # 信手拈来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshounianlai.md)
+
 <p><span class="chinese">这篇散文似乎信手拈来，但却耐人寻味。</span><span class="english">The essay seems to come in handy, but intriguing.</span></p>
 
 <p><span class="chinese">人家多莎士比亚的作品信手拈来。</span><span class="english">We knew this long ago, most of Shakespeare's works.</span></p>

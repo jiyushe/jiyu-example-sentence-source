@@ -1,5 +1,7 @@
 # 师父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifu_2.md)
+
 <p><span class="chinese">我明白了，师父。谢谢您。</span><span class="english">I see, Shifu. Thank you.</span></p>
 
 <p><span class="chinese">亲爱的师父，您在那里？</span><span class="english">Dear Master, where are You?</span></p>

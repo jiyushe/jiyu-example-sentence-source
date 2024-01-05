@@ -1,5 +1,7 @@
 # 誓愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyuan.md)
+
 <p><span class="chinese">那位修女立下严格的誓愿。</span><span class="english">The nun took strait vows.</span></p>
 
 <p><span class="chinese">如果可以的话，把你的誓愿张贴在你可以看到的地方。</span><span class="english">If you can, post affirmations where you will see them.</span></p>

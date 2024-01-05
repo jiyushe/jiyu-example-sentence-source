@@ -1,5 +1,7 @@
 # 茶叶蛋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chayedan.md)
+
 <p><span class="chinese">有些做茶叶蛋。</span><span class="english">Some are for the tea eggs.</span></p>
 
 <p><span class="chinese">这真的是中国的茶叶蛋的典故吗？</span><span class="english">Is it the true allusion of tea-egg in China?</span></p>

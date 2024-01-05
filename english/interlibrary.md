@@ -1,5 +1,7 @@
 # interlibrary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlibrary.md)
+
 <p><span class="chinese">国外图书馆界对馆际互借的研究非常活跃。</span><span class="english">Researches in interlibrary loan are very active in foreign countries.</span></p>
 
 <p><span class="chinese">这个图书馆是馆际借书机构的一个成员。</span><span class="english">Borrow direct is a new pattern of user-initiated interlibrary loaning.</span></p>

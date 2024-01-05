@@ -1,5 +1,7 @@
 # rundown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rundown.md)
+
 <p><span class="chinese">这里有一个纲要。</span><span class="english">Here's a rundown.</span></p>
 
 <p><span class="chinese">房子看起来相当破旧。</span><span class="english">The house looked fairly rundown.</span></p>

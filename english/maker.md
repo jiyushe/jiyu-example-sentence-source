@@ -1,5 +1,7 @@
 # maker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maker.md)
+
 <p><span class="chinese">我是个列表专业户。</span><span class="english">I’m a list maker.</span></p>
 
 <p><span class="chinese">还是太阳能电池板制造商？</span><span class="english">Solar-panel maker?</span></p>

@@ -1,5 +1,7 @@
 # huffy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huffy.md)
+
 <p><span class="chinese">她气了好一阵。</span><span class="english">She stayed huffy a good while.</span></p>
 
 <p><span class="chinese">多数民众赞成一个该死的漂亮的自行车男孩！</span><span class="english">Thats a damn nice bike boy! is that a huffy?</span></p>

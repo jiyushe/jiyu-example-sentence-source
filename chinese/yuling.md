@@ -1,5 +1,7 @@
 # 育龄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuling.md)
+
 <p><span class="chinese">育龄夫妻可以用避孕的方法间隔开妇女的生育时间。</span><span class="english">Contraceptive methods enable the couples to space out their children.</span></p>
 
 <p><span class="chinese">突变等位基因或遗传突变决定的性状，导致不能生育。并非都在育龄前死亡。</span><span class="english">Genetic load --- The sum total of death and disease caused by mutant genes.</span></p>

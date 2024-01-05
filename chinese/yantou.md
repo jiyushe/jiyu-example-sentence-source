@@ -1,5 +1,7 @@
 # 烟头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yantou.md)
+
 <p><span class="chinese">一个香烟头。</span><span class="english">A cigarette end.</span></p>
 
 <p><span class="chinese">请阁下把烟头放在烟灰缸内。</span><span class="english">Please put dog-end into ashtray.</span></p>

@@ -1,5 +1,7 @@
 # licentious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/licentious.md)
+
 <p><span class="chinese">这样的自由是放肆的。</span><span class="english">This kind of freedom is licentious.</span></p>
 
 <p><span class="chinese">她对他放肆的行为感到有点不舒服。</span><span class="english">She felt uncomfortable for his licentious act.</span></p>

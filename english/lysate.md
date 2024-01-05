@@ -1,5 +1,7 @@
 # lysate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lysate.md)
+
 <p><span class="chinese">细胞冻融液TF活性检测采用一期血浆复钙时间法。</span><span class="english">The TF activity of cell lysate was measured with one stage recalcificate method.</span></p>
 
 <p><span class="chinese">溶甲涂片方法还具有阳性率高和省时的优点。</span><span class="english">The nail lysate method revealed advantages of high positive rate and time saving procedure.</span></p>

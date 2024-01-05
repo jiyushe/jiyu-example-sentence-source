@@ -1,5 +1,7 @@
 # eosinophil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eosinophil.md)
+
 <p><span class="chinese">犬血涂片，嗜酸性粒细胞</span><span class="english">Canine blood smear, eosinophil</span></p>
 
 <p><span class="chinese">第一近曲小管上皮中有嗜伊红油滴细胞。</span><span class="english">Eosinophil cells were found in the epithelium of the first proximal segment.</span></p>

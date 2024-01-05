@@ -1,5 +1,7 @@
 # 马子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mazi_1.md)
+
 <p><span class="chinese">你是我的马子！</span><span class="english">You're my girl.</span></p>
 
 <p><span class="chinese">对于我的马子，我有无限的爱恋。</span><span class="english">For my Ma, I have a boundless love.</span></p>

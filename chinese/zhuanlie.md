@@ -1,5 +1,7 @@
 # 专列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanlie.md)
+
 <p><span class="chinese">他们为客人准备了专列。</span><span class="english">They provided special trains for the guests.</span></p>
 
 <p><span class="chinese">我们必须得把这专列安排进火车行车时刻表。</span><span class="english">We have to fit the special train into the timetable.</span></p>

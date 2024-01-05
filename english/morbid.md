@@ -1,5 +1,7 @@
 # morbid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morbid.md)
+
 <p><span class="chinese">西格蒙德·弗洛伊德患有蕨类植物恐惧症。</span><span class="english">Sigmund Freud had a morbid fear of ferns.</span></p>
 
 <p><span class="chinese">他被从病态的幻想中解脱出来。</span><span class="english">He was disenthralled from morbid fantasies.</span></p>

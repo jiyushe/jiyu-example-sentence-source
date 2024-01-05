@@ -1,5 +1,7 @@
 # macaque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macaque.md)
+
 <p><span class="chinese">不要去欺负流浪狗和短尾猿。</span><span class="english">Do not tease roaming dogs and macaque.</span></p>
 
 <p><span class="chinese">有形如帽子样簇毛的印度猕猴。</span><span class="english">Indian macaque with a bonnet-like tuft of hair.</span></p>

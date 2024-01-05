@@ -1,5 +1,7 @@
 # 旗杆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qigan.md)
+
 <p><span class="chinese">旗帜在每根旗杆上飘扬。</span><span class="english">Flags were flying on every mast.</span></p>
 
 <p><span class="chinese">旗杆向南倾斜。</span><span class="english">The flagpole leans to the south.</span></p>

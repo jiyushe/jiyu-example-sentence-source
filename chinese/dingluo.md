@@ -1,5 +1,7 @@
 # 钉螺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingluo.md)
+
 <p><span class="chinese">在硬化斗渠中仅查出1只感染性钉螺。</span><span class="english">Only 1 infected snail was found in a cement Dou ditch.</span></p>
 
 <p><span class="chinese">钉螺扩散是血吸虫病传播的最主要途径。</span><span class="english">Oncomelania diffusion is the major way of spreading schistosomiasis.</span></p>

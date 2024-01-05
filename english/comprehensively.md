@@ -1,5 +1,7 @@
 # comprehensively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comprehensively.md)
+
 <p><span class="chinese">——我们要全面深化改革开放。</span><span class="english">We will comprehensively deepen reform and opening up.</span></p>
 
 <p><span class="chinese">全面推进素质教育。</span><span class="english">We will comprehensively promote well-rounded education.</span></p>

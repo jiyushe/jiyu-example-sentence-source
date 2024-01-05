@@ -1,5 +1,7 @@
 # 求购
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiugou.md)
+
 <p><span class="chinese">波兰求购牛或羊皮革。</span><span class="english">Looking For Cow Or Lamb Leather.</span></p>
 
 <p><span class="chinese">求购锚链，1290公斤，无锚杆的类型。</span><span class="english">Bay Bow Anchor, 1290 kGs, stockless type.</span></p>

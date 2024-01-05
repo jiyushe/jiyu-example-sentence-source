@@ -1,5 +1,7 @@
 # capsular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capsular.md)
+
 <p><span class="chinese">主要并发症有角膜水肿和后囊膜破裂。</span><span class="english">The major complication were corneal edema and posterior capsular rupture.</span></p>
 
 <p><span class="chinese">术中4眼发生后囊膜破裂，人工晶体植入睫状沟。</span><span class="english">Posterior capsular was rupture in 4 eyes and the IOL was implanted in the sulcus.</span></p>

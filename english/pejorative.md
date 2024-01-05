@@ -1,5 +1,7 @@
 # pejorative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pejorative.md)
+
 <p><span class="chinese">这个单词有点贬义。</span><span class="english">The word has a pejorative overtone.</span></p>
 
 <p><span class="chinese">我当时不知道这会带有负面意义。</span><span class="english">I didn't know it would be a pejorative.</span></p>

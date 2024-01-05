@@ -1,5 +1,7 @@
 # 四周围
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sizhouwei.md)
+
 <p><span class="chinese">庭院四周围以回廊。</span><span class="english">The courtyard is cloistered.</span></p>
 
 <p><span class="chinese">这座建筑物四周围着一圈士兵。</span><span class="english">The men were standing in a ring.</span></p>

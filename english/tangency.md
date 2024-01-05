@@ -1,5 +1,7 @@
 # tangency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangency.md)
+
 <p><span class="chinese">这个案例中的切线投资组合又是什么呢？</span><span class="english">What is the tangency portfolio in this case?</span></p>
 
 <p><span class="chinese">所有人都应该持有切线投资组合。</span><span class="english">Then everyone should be holding the tangency portfolio.</span></p>

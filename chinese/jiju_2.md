@@ -1,5 +1,7 @@
 # 集聚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiju_2.md)
+
 <p><span class="chinese">小鸡集聚在母鸡翅膀下面。</span><span class="english">The chickens gathered under the hen.</span></p>
 
 <p><span class="chinese">人们集聚在事故现场。</span><span class="english">People gathered at the scene of the accident.</span></p>

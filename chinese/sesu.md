@@ -1,5 +1,7 @@
 # 色素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sesu.md)
+
 <p><span class="chinese">玉米糖浆跟色素吗？</span><span class="english">Karo syrup and food coloring?</span></p>
 
 <p><span class="chinese">这是色素紫癜性皮炎吗？</span><span class="english">Pigmented purpuric dermatitis is it?</span></p>

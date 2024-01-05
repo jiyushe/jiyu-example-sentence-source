@@ -1,5 +1,7 @@
 # phenomenally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenomenally.md)
+
 <p><span class="chinese">该产业正在迅猛增长。</span><span class="english">This industry is growing phenomenally.</span></p>
 
 <p><span class="chinese">此基金在投资领域有着卓越的表现</span><span class="english">It has done phenomenally well in investing.</span></p>

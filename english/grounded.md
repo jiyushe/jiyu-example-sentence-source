@@ -1,5 +1,7 @@
 # grounded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grounded.md)
+
 <p><span class="chinese">你被禁足了.</span><span class="english">You are grounded.</span></p>
 
 <p><span class="chinese">我还要被禁足吗?。</span><span class="english">Am i still grounded?</span></p>

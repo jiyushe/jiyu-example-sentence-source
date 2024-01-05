@@ -1,5 +1,7 @@
 # surat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surat.md)
+
 <p><span class="chinese">苏拉特会接受经济移民吗？</span><span class="english">Would Surat be accepting economic migrants?</span></p>
 
 <p><span class="chinese">很多音流瑜伽传承的人都认为耶稣是一个音流瑜伽的古鲁。</span><span class="english">Many in the Surat Shabd Yoga tradition regard Jesus as a Satguru.</span></p>

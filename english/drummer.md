@@ -1,5 +1,7 @@
 # drummer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drummer.md)
+
 <p><span class="chinese">鼓手们击备战鼓。</span><span class="english">The drummer beat the soldiers to arms.</span></p>
 
 <p><span class="chinese">王利波曾组建乐队，担任乐队鼓手。</span><span class="english">Established and played as a band drummer.</span></p>

@@ -1,5 +1,7 @@
 # 火鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoji_2.md)
+
 <p><span class="chinese">火鸡万岁！</span><span class="english">Viva la turkey!</span></p>
 
 <p><span class="chinese">买一个火鸡浇油管。</span><span class="english">Buy a turkey baster.</span></p>

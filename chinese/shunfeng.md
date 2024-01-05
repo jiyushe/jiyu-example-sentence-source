@@ -1,5 +1,7 @@
 # 顺风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunfeng.md)
+
 <p><span class="chinese">顺风一起即张帆启航。</span><span class="english">Make sail with the first favorable wind.</span></p>
 
 <p><span class="chinese">他们在开始顺风时起航。</span><span class="english">Thery set sail with the first fair wind.</span></p>

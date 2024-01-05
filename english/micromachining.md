@@ -1,5 +1,7 @@
 # micromachining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micromachining.md)
+
 <p><span class="chinese">介绍了准分子激光微加工的机理、特点和应用。</span><span class="english">Mechanism, characteristic and application of excimer laser micromachining are introduced.</span></p>
 
 <p><span class="chinese">采用微加工工艺制备出一种聚合物微锥阵列。</span><span class="english">A fabrication process has been developed to form a polymer micro tip arrays using micromachining.</span></p>

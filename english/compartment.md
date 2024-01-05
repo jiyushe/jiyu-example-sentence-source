@@ -1,5 +1,7 @@
 # compartment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compartment.md)
+
 <p><span class="chinese">这书桌有一个暗格。</span><span class="english">The desk has a secret compartment.</span></p>
 
 <p><span class="chinese">服务员，我的小客室号码是8号。</span><span class="english">My compartment is number 8, porter.</span></p>

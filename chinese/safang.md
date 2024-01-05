@@ -1,5 +1,7 @@
 # 撒放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/safang.md)
+
 <p><span class="chinese">其他的想法都是多余的，因为背加力撒放器最终会完成撒放。</span><span class="english">No other thought is necessary since the release will eventually go off.</span></p>
 
 <p><span class="chinese">对靶撒放要求不要瞄准，只要寻找背加力撒放的感觉。</span><span class="english">Never aim during the blank bale shooting, think about how it feels only.</span></p>

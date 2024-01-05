@@ -1,5 +1,7 @@
 # skippy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skippy.md)
+
 <p><span class="chinese">非常跳跃的音乐</span><span class="english">Pretty skippy.</span></p>
 
 <p><span class="chinese">莫妮卡，你以为史基喜欢你吗?。</span><span class="english">Monica, you think Skippy liked you?</span></p>

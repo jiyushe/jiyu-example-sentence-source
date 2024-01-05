@@ -1,5 +1,7 @@
 # 作弄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuonong.md)
+
 <p><span class="chinese">她在打坏主意作弄我们。</span><span class="english">She is cogitating mischief against us.</span></p>
 
 <p><span class="chinese">你的哥哥经常作弄你吗?</span><span class="english">Is your big brother always picking on you?</span></p>

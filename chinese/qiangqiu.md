@@ -1,5 +1,7 @@
 # 强求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangqiu.md)
+
 <p><span class="chinese">爱情不能强求。</span><span class="english">Love cannot be forced.</span></p>
 
 <p><span class="chinese">我们不会强求和平。</span><span class="english">We cannot impose peace.</span></p>

@@ -1,5 +1,7 @@
 # 蜉蝣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyou_2.md)
+
 <p><span class="chinese">蜉蝣，有一个幸福的梦想。</span><span class="english">Mayfly, have a happy dream.</span></p>
 
 <p><span class="chinese">蜉蝣，你一定很伤心。</span><span class="english">Mayfly, you must be so sad.</span></p>

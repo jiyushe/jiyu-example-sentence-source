@@ -1,5 +1,7 @@
 # bidet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bidet.md)
+
 <p><span class="chinese">你敢光屁股净身到国外试试？</span><span class="english">Do you dare to go abroad to try naked bidet?</span></p>
 
 <p><span class="chinese">那就试试奢侈的日本坐浴盆厕所吧。</span><span class="english">TheJapanese bidet toilet is quite a luxury item.</span></p>

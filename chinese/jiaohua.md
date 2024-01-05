@@ -1,5 +1,7 @@
 # 狡猾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohua.md)
+
 <p><span class="chinese">他是个狡猾的老狐狸。</span><span class="english">He's a sly old fox.</span></p>
 
 <p><span class="chinese">但是他狡猾起来了。</span><span class="english">But he grew cunning.</span></p>

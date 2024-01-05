@@ -1,5 +1,7 @@
 # shutter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shutter.md)
+
 <p><span class="chinese">你能修快门吗？</span><span class="english">Can you repair the shutter?</span></p>
 
 <p><span class="chinese">按下快门键。</span><span class="english">Squeeze the shutter button.</span></p>

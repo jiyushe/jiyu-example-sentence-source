@@ -1,5 +1,7 @@
 # 用典
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongdian.md)
+
 <p><span class="chinese">他的创作风格是细致并长于用典。</span><span class="english">His style is sophisticated and allusive.</span></p>
 
 <p><span class="chinese">如果文本用典，那是什么样的典故？</span><span class="english">What allusions, if any, are in the text?</span></p>

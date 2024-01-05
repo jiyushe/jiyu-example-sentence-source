@@ -1,5 +1,7 @@
 # 向阳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyang.md)
+
 <p><span class="chinese">他们住在向阳的屋里。</span><span class="english">They live in a sunny room.</span></p>
 
 <p><span class="chinese">果不向阳难成熟。</span><span class="english">Fruit ripens not well in the shade.</span></p>

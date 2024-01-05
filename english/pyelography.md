@@ -1,5 +1,7 @@
 # pyelography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyelography.md)
+
 <p><span class="chinese">逆行肾盂造影时输尿管导管弯曲，呈“S”形。</span><span class="english">On retrograde pyelography the catheter is curved as"S"shape.</span></p>
 
 <p><span class="chinese">成功行上尿路逆行造影对病灶均能准确定位。</span><span class="english">Retrograde pyelography could locate accurately for the carcinoma.</span></p>

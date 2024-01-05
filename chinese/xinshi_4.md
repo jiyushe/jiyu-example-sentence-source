@@ -1,5 +1,7 @@
 # 心事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshi_4.md)
+
 <p><span class="chinese">他向我吐露心事。</span><span class="english">He unburdened himself to me.</span></p>
 
 <p><span class="chinese">杰克呆呆看着电视屏幕，想着心事。</span><span class="english">Jack gawks at the TV thinking.</span></p>

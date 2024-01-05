@@ -1,5 +1,7 @@
 # 可想而知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kexiangerzhi.md)
+
 <p><span class="chinese">可想而知这样会少打很多字。</span><span class="english">I´m sure you can easily imagine how much typing this saves.</span></p>
 
 <p><span class="chinese">可想而知，袋状小肠并不能完全像结肠一样运行。</span><span class="english">Obviously, the pouch doesn't work exactly the same as the colon.</span></p>

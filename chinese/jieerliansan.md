@@ -1,5 +1,7 @@
 # 接二连三
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieerliansan.md)
+
 <p><span class="chinese">接二连三的返修简直活活要了尼克的命。</span><span class="english">THE RECHECKS WERE eating Nick alive.</span></p>
 
 <p><span class="chinese">请不要再接二连三地提问题了。</span><span class="english">Please estop your continual questions.</span></p>

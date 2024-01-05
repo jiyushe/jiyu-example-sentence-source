@@ -1,5 +1,7 @@
 # timing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timing.md)
+
 <p><span class="chinese">大暑之后，时序到了立秋。</span><span class="english">Dashu, the timing to Liqiu.</span></p>
 
 <p><span class="chinese">修正鱼人攻击计时问题。</span><span class="english">Fix the merm attack timing.</span></p>

@@ -1,5 +1,7 @@
 # pipe 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pipe.md)
+
 <p><span class="chinese">石英管“，”</span><span class="english">Quartz Heater Pipe.</span></p>
 
 <p><span class="chinese">他经常抽根大烟斗。</span><span class="english">He smoked a big pipe.</span></p>

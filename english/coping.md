@@ -1,5 +1,7 @@
 # coping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coping.md)
+
 <p><span class="chinese">问题解决和处理的技巧</span><span class="english">Problem-solving and coping skills.</span></p>
 
 <p><span class="chinese">我是在提倡把开玩笑当作对策吗？</span><span class="english">Am I advocating ribbing as a coping strategy?</span></p>

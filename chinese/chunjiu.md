@@ -1,5 +1,7 @@
 # 醇酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunjiu.md)
+
 <p><span class="chinese">醇酒和熟透了的水果是那样诱人。</span><span class="english">The mellow wine or fruit are so inviting.</span></p>
 
 <p><span class="chinese">这是绍兴出产的一种醇酒。</span><span class="english">It is a kind of mellow wine fom Shao xing.</span></p>

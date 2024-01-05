@@ -1,5 +1,7 @@
 # 荣升
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongsheng.md)
+
 <p><span class="chinese">凯特先生，衷心祝贺你荣升。</span><span class="english">My sincere congratulation to you on your promotion. Mr. Kate!</span></p>
 
 <p><span class="chinese">成年后，杰弗逊就荣升弗吉尼亚前30名的巨富之列。</span><span class="english">As an adult, Jefferson himself was considered among Virginia's 30 richest.</span></p>

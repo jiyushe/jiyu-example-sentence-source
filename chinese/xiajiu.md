@@ -1,5 +1,7 @@
 # 下酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiajiu.md)
+
 <p><span class="chinese">回忆若能下酒，宁愿一醉方休。</span><span class="english">If memories of drinks, would rather get drunk.</span></p>
 
 <p><span class="chinese">你想要端啥子菜下酒吗？</span><span class="english">Would you like anythellong to go with your drinks?</span></p>

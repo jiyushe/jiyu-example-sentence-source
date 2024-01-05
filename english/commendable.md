@@ -1,5 +1,7 @@
 # commendable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commendable.md)
+
 <p><span class="chinese">这种积极性是很可贵的。</span><span class="english">Such initiative is highly commendable.</span></p>
 
 <p><span class="chinese">纳西族的这个传统真了不起。</span><span class="english">This Naxi tradition is really commendable.</span></p>

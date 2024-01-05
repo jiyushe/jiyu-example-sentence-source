@@ -1,5 +1,7 @@
 # chorion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chorion.md)
+
 <p><span class="chinese">药流后异常出血主要由于绒毛组织残留所致。</span><span class="english">The main cause of abnormal bleeding was due to the retained chorion.</span></p>
 
 <p><span class="chinese">绒膜绒毛是胎儿绒毛膜上的一种微小的血管凸出物。</span><span class="english">A chorionic villus is a minute vascular projection on the fetal chorion.</span></p>

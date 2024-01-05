@@ -1,5 +1,7 @@
 # craniopharyngioma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craniopharyngioma.md)
+
 <p><span class="chinese">组织学检查证实病变是颅咽管瘤。</span><span class="english">Histologic examination proved the lesion to be craniopharyngioma.</span></p>
 
 <p><span class="chinese">目的探讨手术全切颅咽管瘤的有效方法。</span><span class="english">Objective To explore an effective surgical management of craniopharyngioma.</span></p>

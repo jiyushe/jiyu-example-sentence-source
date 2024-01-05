@@ -1,5 +1,7 @@
 # dormant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dormant.md)
+
 <p><span class="chinese">最后，它进入休眠。</span><span class="english">Finally, it goes dormant.</span></p>
 
 <p><span class="chinese">这是座休眠的火山。</span><span class="english">This is a dormant volcano.</span></p>

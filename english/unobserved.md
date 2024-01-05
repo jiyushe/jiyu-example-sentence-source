@@ -1,5 +1,7 @@
 # unobserved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unobserved.md)
+
 <p><span class="chinese">他乘人不觉溜出房间。</span><span class="english">He slipped unobserved out of the house.</span></p>
 
 <p><span class="chinese">亲吻的那一瞬间是不可预测的。</span><span class="english">The moment of the kiss was almost unobserved.</span></p>

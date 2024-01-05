@@ -1,5 +1,7 @@
 # 边境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianjing.md)
+
 <p><span class="chinese">纯种的边境牧羊犬。</span><span class="english">Pure-bred Border Collie.</span></p>
 
 <p><span class="chinese">美国-墨西哥边境为此关闭。</span><span class="english">U.S.-Mexico border closed.</span></p>

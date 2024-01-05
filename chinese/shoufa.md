@@ -1,5 +1,7 @@
 # 受罚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoufa.md)
+
 <p><span class="chinese">你不会受罚，没有人会知道。</span><span class="english">No one will ever know.</span></p>
 
 <p><span class="chinese">他因犯罪而受罚。</span><span class="english">He was punished for an offence.</span></p>

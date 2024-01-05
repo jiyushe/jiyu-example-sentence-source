@@ -1,5 +1,7 @@
 # untimely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untimely.md)
+
 <p><span class="chinese">它讲的是一个诗人的早逝。</span><span class="english">It's about the untimely death of a poet.</span></p>
 
 <p><span class="chinese">究竟李小龙的猝死，跟丁佩可有任何关系？</span><span class="english">Ding Pei's in relation to Bruce's untimely death.</span></p>

@@ -1,5 +1,7 @@
 # theoretician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theoretician.md)
+
 <p><span class="chinese">李渔是中国古代著名的戏曲理论家。</span><span class="english">LI Yu was one famous drama theoretician of Chinese ancient.</span></p>
 
 <p><span class="chinese">郭嵩焘是近代中国著名的洋务思想家和外交官。</span><span class="english">Guo Songtao was a famous theoretician of foreign things in china.</span></p>

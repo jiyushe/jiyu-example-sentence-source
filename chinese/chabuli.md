@@ -1,5 +1,7 @@
 # 差不离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chabuli.md)
+
 <p><span class="chinese">第三，天气也与我国南边差不离。</span><span class="english">Thellord, the weather and almost southern Chellona.</span></p>
 
 <p><span class="chinese">他差不离不断地诉说饭后呕吐。</span><span class="english">He complained almost ceaselessly of postprandial nausea.</span></p>

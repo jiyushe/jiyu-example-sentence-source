@@ -1,5 +1,7 @@
 # doorkeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doorkeeper.md)
+
 <p><span class="chinese">你是你的心的看门人。</span><span class="english">You are the doorkeeper of your heart.</span></p>
 
 <p><span class="chinese">门房回到他的座位上去。</span><span class="english">After which the doorkeeper went back to his seat.</span></p>

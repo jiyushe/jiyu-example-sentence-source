@@ -1,5 +1,7 @@
 # antipruritic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antipruritic.md)
+
 <p><span class="chinese">结论昆明山海棠霜外用具有止痒作用且比较安全。</span><span class="english">Conclusion THH has antipruritic effect and is safe when used externally.</span></p>
 
 <p><span class="chinese">在洗发香波中有优越的去屑止痒作用。</span><span class="english">Function as excellent antidandruff and antipruritic agent in shampoo system.</span></p>

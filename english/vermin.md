@@ -1,5 +1,7 @@
 # vermin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vermin.md)
+
 <p><span class="chinese">他们是害兽。</span><span class="english">They are vermin.</span></p>
 
 <p><span class="chinese">这只要把寄生虫除掉的小狗。</span><span class="english">This dogsbody to rid of vermin.</span></p>

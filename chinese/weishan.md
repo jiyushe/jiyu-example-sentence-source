@@ -1,5 +1,7 @@
 # 伪善
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishan.md)
+
 <p><span class="chinese">像一个伪善者。</span><span class="english">Like a hypocrite.</span></p>
 
 <p><span class="chinese">我伪善得不会去偷窃。</span><span class="english">I am too goody-goody to steal.</span></p>

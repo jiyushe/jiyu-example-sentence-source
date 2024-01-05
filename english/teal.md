@@ -1,5 +1,7 @@
 # teal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teal.md)
+
 <p><span class="chinese">泡了太多的漂白粉。</span><span class="english">That ate too much teal ?</span></p>
 
 <p><span class="chinese">正式主题以凫蓝圆显示</span><span class="english">The formal subjects as teal circles</span></p>

@@ -1,5 +1,7 @@
 # because
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/because.md)
+
 <p><span class="chinese">因为我做了。</span><span class="english">Because I did.</span></p>
 
 <p><span class="chinese">因为我在乎？</span><span class="english">Because I cared?</span></p>

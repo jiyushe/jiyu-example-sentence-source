@@ -1,5 +1,7 @@
 # bartlett
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bartlett.md)
+
 <p><span class="chinese">汤姆·巴特利特，卡琳·费舍尔</span><span class="english">By TOM BARTLETT and KARIN FISCHER</span></p>
 
 <p><span class="chinese">艾氏接受联想主义，而巴氏反对之。</span><span class="english">Ebbinghaus accepts associationism but Bartlett is against it.</span></p>

@@ -1,5 +1,7 @@
 # bones
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bones.md)
+
 <p><span class="chinese">我吃带骨的鱼。</span><span class="english">I ate fish with bones.</span></p>
 
 <p><span class="chinese">快起来,懒骨头.</span><span class="english">Get up, you lazy bones.</span></p>

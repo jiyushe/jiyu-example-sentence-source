@@ -1,5 +1,7 @@
 # episteme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/episteme.md)
+
 <p><span class="chinese">在虚拟世界里存在某种知识或认识吗？</span><span class="english">Is there an episteme in virtual worlds?</span></p>
 
 <p><span class="chinese">而特定的“知识型”又跟特定的权力运作方式纠缠在一起。</span><span class="english">And specific "episteme" is closely related to the specific power mode.</span></p>

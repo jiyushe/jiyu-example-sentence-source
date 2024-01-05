@@ -1,5 +1,7 @@
 # kale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kale.md)
+
 <p><span class="chinese">比如西兰花和甘蓝菜。</span><span class="english">Take broccoli and kale.</span></p>
 
 <p><span class="chinese">汤好抵得半顿饭。</span><span class="english">Good kale is half a meal.</span></p>

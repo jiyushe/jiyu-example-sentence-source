@@ -1,5 +1,7 @@
 # signet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signet.md)
+
 <p><span class="chinese">这一命令是用国王的印记加封的。</span><span class="english">The order was sealed with the king's signet.</span></p>
 
 <p><span class="chinese">如果我被咬了，我会在咬我的狗上留下印章的。</span><span class="english">If I had been, I would have set my signet on the biter.</span></p>

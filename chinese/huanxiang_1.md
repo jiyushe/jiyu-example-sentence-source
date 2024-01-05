@@ -1,5 +1,7 @@
 # 还乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxiang_1.md)
+
 <p><span class="chinese">此后，宙斯命仙女放他还乡，他才漂流到斯刻里亚岛。</span><span class="english">Since then, Zeus let him return life fairy, he just drift, and island to time.</span></p>
 
 <p><span class="chinese">还乡的游子这才想起，30年前他在这里听到人生的一半秘诀。</span><span class="english">At this moment, he remembered that he got half of the key to life 30 years ago.</span></p>

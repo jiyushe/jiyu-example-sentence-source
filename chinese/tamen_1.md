@@ -1,5 +1,7 @@
 # 她们
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tamen_1.md)
+
 <p><span class="chinese">我讨厌她们。</span><span class="english">I hated them.</span></p>
 
 <p><span class="chinese">它压着，狠狠地压着，于是她们死了。</span><span class="english">Thus they die.</span></p>

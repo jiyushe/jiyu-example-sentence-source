@@ -1,5 +1,7 @@
 # redder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redder.md)
+
 <p><span class="chinese">我们的脸变得更红了。</span><span class="english">Our faces became redder still.</span></p>
 
 <p><span class="chinese">你看那落日，我还从没过比这更红的太阳呢。</span><span class="english">Look at Oat sunset I never saw one redder.</span></p>

@@ -1,5 +1,7 @@
 # 门口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menkou.md)
+
 <p><span class="chinese">门口来了一位求婚者。</span><span class="english">A suitor is outside.</span></p>
 
 <p><span class="chinese">他踮起脚走到门口。</span><span class="english">He tipped to the door.</span></p>

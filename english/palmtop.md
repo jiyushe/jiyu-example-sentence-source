@@ -1,5 +1,7 @@
 # palmtop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palmtop.md)
+
 <p><span class="chinese">有些人可能会进入一个掌上电脑，甚至移动电话您的网站。</span><span class="english">Some people may be accessing your site on a palmtop computer or even a mobile phone.</span></p>
 
 <p><span class="chinese">掌上产品的功耗要求决定了处理器的多电压供电模式。</span><span class="english">Multi-voltage supply mode of processor is decided by the power need of palmtop device.</span></p>

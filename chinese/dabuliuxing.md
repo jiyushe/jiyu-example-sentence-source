@@ -1,5 +1,7 @@
 # 大步流星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabuliuxing.md)
+
 <p><span class="chinese">獾大步流星地跨进房间。</span><span class="english">The Badger strode heavily into the room.</span></p>
 
 <p><span class="chinese">经理大步流星地从街上走过。</span><span class="english">The manager strode rapidly down the street.</span></p>

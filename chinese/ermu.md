@@ -1,5 +1,7 @@
 # 耳目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ermu.md)
+
 <p><span class="chinese">他的耳目因年老而变得不灵了。</span><span class="english">His eyes and ears dulled by age.</span></p>
 
 <p><span class="chinese">国王耳目众多。</span><span class="english">Kings have many ears and many eyes.</span></p>

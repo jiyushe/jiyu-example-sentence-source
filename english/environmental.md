@@ -1,5 +1,7 @@
 # environmental 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/environmental.md)
+
 <p><span class="chinese">减少对环境的掠夺。</span><span class="english">less environmental pillaging.</span></p>
 
 <p><span class="chinese">中国计划征收环保税。</span><span class="english">China mulls environmental tax.</span></p>

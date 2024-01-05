@@ -1,5 +1,7 @@
 # 水坑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuikeng.md)
+
 <p><span class="chinese">喜欢脚踩著雨水坑。</span><span class="english">Step in the puddles.</span></p>
 
 <p><span class="chinese">她哗哗地尚过水坑。</span><span class="english">She splashed through the puddles.</span></p>

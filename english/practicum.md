@@ -1,5 +1,7 @@
 # practicum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practicum.md)
+
 <p><span class="chinese">MITE的一个关键成份是实习科目。</span><span class="english">A key component of MITE is the practicum.</span></p>
 
 <p><span class="chinese">若干学生达到了其托福的实习要求。</span><span class="english">Several students met their TEOFL practicum requirements.</span></p>

@@ -1,5 +1,7 @@
 # atropine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atropine.md)
+
 <p><span class="chinese">阿托品对人体子宫的作用极微弱。</span><span class="english">Atropine has negligible effects on the human uterus.</span></p>
 
 <p><span class="chinese">目的测定硫酸阿托品的含量。</span><span class="english">Objective To determine the content of atropine sulfate.</span></p>

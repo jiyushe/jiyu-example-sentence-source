@@ -1,5 +1,7 @@
 # 绅士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshi_2.md)
+
 <p><span class="chinese">做一个绅士。</span><span class="english">Be a gentleman.</span></p>
 
 <p><span class="chinese">绅士的房间在哪里？</span><span class="english">Wheres the gentlemens room?</span></p>

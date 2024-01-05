@@ -1,5 +1,7 @@
 # 诊所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhensuo.md)
+
 <p><span class="chinese">李医生诊所。</span><span class="english">Dr. Lee's office.</span></p>
 
 <p><span class="chinese">他在诊所里戒毒。</span><span class="english">He detoxed at a clinic.</span></p>

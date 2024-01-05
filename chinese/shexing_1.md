@@ -1,5 +1,7 @@
 # 蛇行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shexing_1.md)
+
 <p><span class="chinese">你在高速公路上以120公里时速蛇行。</span><span class="english">You practices-curves on the freeway at 120.</span></p>
 
 <p><span class="chinese">骑车蛇行十五分钟后，我终于回到家。</span><span class="english">After fifteen minutes of figure eights, i rode home.</span></p>

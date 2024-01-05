@@ -1,5 +1,7 @@
 # transplant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transplant.md)
+
 <p><span class="chinese">罂粟经不起移植。</span><span class="english">Poppies do not transplant well.</span></p>
 
 <p><span class="chinese">这种植物不宜移植。</span><span class="english">The plant doesn't transplant well.</span></p>

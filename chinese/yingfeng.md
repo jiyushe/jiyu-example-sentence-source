@@ -1,5 +1,7 @@
 # 迎风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingfeng.md)
+
 <p><span class="chinese">旗子迎风飘扬。</span><span class="english">With flags aflutter.</span></p>
 
 <p><span class="chinese">还有迎风奔跑的旋律。</span><span class="english">Melady of running in the wind.</span></p>

@@ -1,5 +1,7 @@
 # accessory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accessory.md)
+
 <p><span class="chinese">收音机是汽车的附件。</span><span class="english">A radio is an accessory to a car.</span></p>
 
 <p><span class="chinese">将附件电缆插入MFP。</span><span class="english">Plug accessory cable into the MFP.</span></p>

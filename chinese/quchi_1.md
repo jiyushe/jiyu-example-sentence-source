@@ -1,5 +1,7 @@
 # 龋齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quchi_1.md)
+
 <p><span class="chinese">咖啡可以预防龋齿。</span><span class="english">Coffee can fight cavities.</span></p>
 
 <p><span class="chinese">牙医填补龋齿。</span><span class="english">A dentist fills decayed teeth.</span></p>

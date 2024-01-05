@@ -1,5 +1,7 @@
 # citron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citron.md)
+
 <p><span class="chinese">香木缘是一种像柠檬的黄色水果。</span><span class="english">Citron is a kind of yellow fruit like a lemon.</span></p>
 
 <p><span class="chinese">我们买了一些阅兵，苹果、橘子、西瓜和巧克力。</span><span class="english">We buy some moon cakes, apple, oranges, citron and Coke.</span></p>

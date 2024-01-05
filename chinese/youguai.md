@@ -1,5 +1,7 @@
 # 诱拐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youguai.md)
+
 <p><span class="chinese">诱拐儿童是非法的。</span><span class="english">It's illegal to abduct children.</span></p>
 
 <p><span class="chinese">他曾企图诱拐那三个男孩。</span><span class="english">He had attempted to abduct the three boys.</span></p>

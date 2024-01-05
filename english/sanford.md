@@ -1,5 +1,7 @@
 # sanford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanford.md)
+
 <p><span class="chinese">斯坦福称之为“苏斯博士般的疯狂。”</span><span class="english">Sanford calls it "this crazy sort of Dr. Seuss-like thing."</span></p>
 
 <p><span class="chinese">桑福德州长仍然在试图从性丑闻的影响中恢复过来。</span><span class="english">Gov. Sanford is still trying to recover from his sex scandal.</span></p>

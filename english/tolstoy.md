@@ -1,5 +1,7 @@
 # tolstoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tolstoy.md)
+
 <p><span class="chinese">托尔斯泰一下子就抛给你二十二个人名。</span><span class="english">Tolstoy bombards you with twenty-two names.</span></p>
 
 <p><span class="chinese">托尔斯泰所有的作品都充满了伟大的仁爱。</span><span class="english">There is great humanity in all the writings of Tolstoy.</span></p>

@@ -1,5 +1,7 @@
 # 有限责任公司
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxianzerengongsi.md)
+
 <p><span class="chinese">无有限责任公司。</span><span class="english">No limited-liability corporations.</span></p>
 
 <p><span class="chinese">自贡硬质合金有限责任公司。</span><span class="english">Zigong Cemented Carbide Corp. , Ltd.</span></p>

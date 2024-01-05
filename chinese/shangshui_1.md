@@ -1,5 +1,7 @@
 # 上税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshui_1.md)
+
 <p><span class="chinese">拿一个上税的钱给我看。</span><span class="english">Shew me the tribute money.</span></p>
 
 <p><span class="chinese">我们给我们的国家上税。</span><span class="english">We pay taxes to our country.</span></p>

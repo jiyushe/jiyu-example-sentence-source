@@ -1,5 +1,7 @@
 # 休养所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuyangsuo.md)
+
 <p><span class="chinese">他去山中的休养所过周末。</span><span class="english">He went to his mountain retreat for the weekend.</span></p>
 
 <p><span class="chinese">她目前在庐山休养所，力图把身体养好。</span><span class="english">She is now at Lushan sanatorium and endeavouring to pull round.</span></p>

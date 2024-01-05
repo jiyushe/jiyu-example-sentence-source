@@ -1,5 +1,7 @@
 # cardiomyopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardiomyopathy.md)
+
 <p><span class="chinese">因此，这类综合征现在被称为肝硬化性心肌病。</span><span class="english">So, the syndrome is now called cirrhotic cardiomyopathy.</span></p>
 
 <p><span class="chinese">自身免疫为扩张型心肌病可能的发病机制之一。</span><span class="english">Autoimmunity is one of the probable pathogenesis of dilated cardiomyopathy.</span></p>

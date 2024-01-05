@@ -1,5 +1,7 @@
 # pogo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pogo.md)
+
 <p><span class="chinese">各位，欢迎来到POGO俱乐部。</span><span class="english">Gentlemen, welcome to POGO Club.</span></p>
 
 <p><span class="chinese">你最好在桑巴里加段碰恰恰试试。</span><span class="english">You should try a bogo pogo in your samba, though.</span></p>

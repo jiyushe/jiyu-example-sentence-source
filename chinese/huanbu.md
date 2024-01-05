@@ -1,5 +1,7 @@
 # 缓步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanbu.md)
+
 <p><span class="chinese">他放慢马速，使之缓步而行。</span><span class="english">He slowed the horse to a walk.</span></p>
 
 <p><span class="chinese">那匹马跑了一大阵后慢下来缓步而行。</span><span class="english">The horse slowed to a walk after its long gallop.</span></p>

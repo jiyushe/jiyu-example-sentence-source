@@ -1,5 +1,7 @@
 # thylakoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thylakoid.md)
+
 <p><span class="chinese">其他的存在于类囊体膜上的小颗粒是ATP酶。</span><span class="english">Other, smaller particles on the thylakoid membranes are ATPases.</span></p>
 
 <p><span class="chinese">光反应发生在叶绿体的类囊体膜上。</span><span class="english">The light reactions take place on the thylakoid membranes of chloroplasts.</span></p>

@@ -1,5 +1,7 @@
 # modulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modulate.md)
+
 <p><span class="chinese">请调节一下电视机的音量。</span><span class="english">Please modulate the sound on the TV.</span></p>
 
 <p><span class="chinese">现在我要转调,变成另一个调</span><span class="english">Now I'm going to modulate go to a different key.</span></p>

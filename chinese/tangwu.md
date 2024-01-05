@@ -1,5 +1,7 @@
 # 堂屋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangwu.md)
+
 <p><span class="chinese">一个开放的走廊通向堂屋。</span><span class="english">An open corridor leads to the central room.</span></p>
 
 <p><span class="chinese">茱莉亚沿着楼梯冲到了堂屋，但是警卫拦住了她</span><span class="english">Julia rushed upstairs to the main room but she was stopped by guards.</span></p>

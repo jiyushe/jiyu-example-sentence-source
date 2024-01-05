@@ -1,5 +1,7 @@
 # foist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foist.md)
+
 <p><span class="chinese">你不能把你的观点强加于我。</span><span class="english">You can't foist your ideas on me.</span></p>
 
 <p><span class="chinese">译者不应把自己的意见偷偷地入原着中。</span><span class="english">Should not foist their own opinions into the original book.</span></p>

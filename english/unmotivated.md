@@ -1,5 +1,7 @@
 # unmotivated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmotivated.md)
+
 <p><span class="chinese">但他以前确实没有学习动力。</span><span class="english">But he was very unmotivated.</span></p>
 
 <p><span class="chinese">我们觉得毫无灵感，没有动力。</span><span class="english">We feel uninspired and unmotivated.</span></p>

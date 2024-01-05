@@ -1,5 +1,7 @@
 # axially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axially.md)
+
 <p><span class="chinese">机械夹紧心轴，通过机床拉杆轴向操纵。</span><span class="english">Mechanical mandrel, axially actuated via machine pull rod.</span></p>
 
 <p><span class="chinese">来自H01的近红外J波图像是轴对称的的延伸图像。</span><span class="english">The J-band image from H01 is elongated and axially symmetric.</span></p>

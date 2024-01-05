@@ -1,5 +1,7 @@
 # cruces
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cruces.md)
+
 <p><span class="chinese">亡灵箱已经不再安全了，向克鲁斯岛出发。</span><span class="english">The chest is no longer safe. Chart a course to Isla Cruces.</span></p>
 
 <p><span class="chinese">威尔、伊丽莎白和杰克先于贝克特找到了前往克鲁斯岛的路。</span><span class="english">Will, Elizabeth, and Jack had found the way to Isla Cruces before Beckett.</span></p>

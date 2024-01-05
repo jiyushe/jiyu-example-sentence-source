@@ -1,5 +1,7 @@
 # femme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/femme.md)
+
 <p><span class="chinese">经典的黑色电影蛇蝎美人形象。</span><span class="english">The classic film noir femme fatale image.</span></p>
 
 <p><span class="chinese">我认为党徽是我最乐观的和成熟的专辑呢。</span><span class="english">I think Femme Fatale is my most upbeat and mature album yet.</span></p>

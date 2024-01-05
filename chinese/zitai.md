@@ -1,5 +1,7 @@
 # 姿态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zitai.md)
+
 <p><span class="chinese">但这些只是摆摆姿态。</span><span class="english">But those are just gestures.</span></p>
 
 <p><span class="chinese">风筝要以机头向上的姿态结束动作。</span><span class="english">The kite should exit nose-up.</span></p>

@@ -1,5 +1,7 @@
 # 签证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzheng.md)
+
 <p><span class="chinese">交纳签证费。</span><span class="english">Pays the permit fee.</span></p>
 
 <p><span class="chinese">你的签证已过期。</span><span class="english">Your visa has expired.</span></p>

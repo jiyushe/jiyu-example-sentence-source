@@ -1,5 +1,7 @@
 # 盛行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxing_1.md)
+
 <p><span class="chinese">盛行西北风。</span><span class="english">Prevailing northwest wind.</span></p>
 
 <p><span class="chinese">一种新风尚盛行起来。</span><span class="english">A new tide of fashion sets in.</span></p>

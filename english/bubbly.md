@@ -1,5 +1,7 @@
 # bubbly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bubbly.md)
+
 <p><span class="chinese">我喜欢性格活泼的女生，因为这样的女孩总是笑脸迎人。</span><span class="english">I like a bubbly girl because she always laughs.</span></p>
 
 <p><span class="chinese">我喜欢活泼有活力的女生，因为她总是笑脸迎人。</span><span class="english">e.g I like a bubbly girl because she always laughs.</span></p>

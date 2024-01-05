@@ -1,5 +1,7 @@
 # 多会儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duohuier.md)
+
 <p><span class="chinese">这话我多会儿说来?</span><span class="english">When did I say so?</span></p>
 
 <p><span class="chinese">你多会儿来的?</span><span class="english">When did you come?</span></p>

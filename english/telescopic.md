@@ -1,5 +1,7 @@
 # telescopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telescopic.md)
+
 <p><span class="chinese">门和盖子的伸缩支承挡。</span><span class="english">Telescopic Stay for doors and lids.</span></p>
 
 <p><span class="chinese">科学家们用望远镜照相机摄制天空星球图。</span><span class="english">The scientists photomapped the skies by using a telescopic camera.</span></p>

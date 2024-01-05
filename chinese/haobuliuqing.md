@@ -1,5 +1,7 @@
 # 毫不留情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haobuliuqing.md)
+
 <p><span class="chinese">上次他对你丝毫不留情。</span><span class="english">Last time he showed you no mercy.</span></p>
 
 <p><span class="chinese">整个加沙地带的网站战争同样毫不留情。</span><span class="english">The online war over Gaza was relentless.</span></p>

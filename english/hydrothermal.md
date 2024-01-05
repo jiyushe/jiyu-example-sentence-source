@@ -1,5 +1,7 @@
 # hydrothermal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrothermal.md)
+
 <p><span class="chinese">他们侦察热液喷口连接起来。</span><span class="english">They scouted hydrothermal vents to wire up.</span></p>
 
 <p><span class="chinese">用水热合成法合成SAPO-5分子筛。</span><span class="english">SAPO-5 zeolite was obtained by hydrothermal synthesis.</span></p>

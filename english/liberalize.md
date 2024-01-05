@@ -1,5 +1,7 @@
 # liberalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberalize.md)
+
 <p><span class="chinese">为什么要贸易自由化?</span><span class="english">Why Liberalize Trade?</span></p>
 
 <p><span class="chinese">对穿越国境的商品和资源流动放宽限制。</span><span class="english">Liberalize the cross-border movement of merchandises and resources.</span></p>

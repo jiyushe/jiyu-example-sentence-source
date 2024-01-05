@@ -1,5 +1,7 @@
 # swaddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swaddle.md)
+
 <p><span class="chinese">我只是简单地把七块厨房用的抹布将夸脱罐子包上。</span><span class="english">I simply swaddle my quart jar in several kitchen towels.</span></p>
 
 <p><span class="chinese">一层层同心的虚无是我心的襁褓，裹着一口永不敲响的钟。</span><span class="english">Concentric nothingnesses swaddle my heart, a bell that never rings.</span></p>

@@ -1,5 +1,7 @@
 # visuospatial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visuospatial.md)
+
 <p><span class="chinese">在言语类比推理中，则是视空间模板中的空间成分起主要作用。</span><span class="english">And for verbal analogies, the spatial component of visuospatial sketchpad has main effect.</span></p>
 
 <p><span class="chinese">这充分表明，语言与视觉空间功能对于数学认知具有重要意义。</span><span class="english">This indicates that language and visuospatial functions are both key to mathematical cognition.</span></p>

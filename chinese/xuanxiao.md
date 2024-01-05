@@ -1,5 +1,7 @@
 # 喧嚣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanxiao.md)
+
 <p><span class="chinese">远处若隐若现的车流喧嚣。</span><span class="english">Distant traffic noises.</span></p>
 
 <p><span class="chinese">他大声吼叫，压过了街上喧嚣的噪声。</span><span class="english">He roared above the street noise.</span></p>

@@ -1,5 +1,7 @@
 # howler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/howler.md)
+
 <p><span class="chinese">吼猴为什么要吼叫？</span><span class="english">Why do howler monkeys howl?</span></p>
 
 <p><span class="chinese">猴子问。为什么你动作这么慢。</span><span class="english">Why are you so slow? the howler monkey asked one day.</span></p>

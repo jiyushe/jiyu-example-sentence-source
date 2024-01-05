@@ -1,5 +1,7 @@
 # gladiatorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gladiatorial.md)
+
 <p><span class="chinese">它公开抨击格斗表演。</span><span class="english">It denounced the gladiatorial shows.</span></p>
 
 <p><span class="chinese">但历史上真实的角斗情况如何呢？</span><span class="english">But what about genuine gladiatorial events?</span></p>

@@ -1,5 +1,7 @@
 # greg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greg.md)
+
 <p><span class="chinese">我把格雷格踢出去了。</span><span class="english">I kicked Greg out.</span></p>
 
 <p><span class="chinese">杰逊比格莱格吃的少。</span><span class="english">Jason eats less than Greg.</span></p>

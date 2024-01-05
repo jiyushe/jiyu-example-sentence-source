@@ -1,5 +1,7 @@
 # outfielder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outfielder.md)
+
 <p><span class="chinese">在外场位置的外野手。</span><span class="english">The position played by an outfielder.</span></p>
 
 <p><span class="chinese">因此，露丝成为代替投手外野手。</span><span class="english">So Ruth became an outfielder instead of a pitcher.</span></p>

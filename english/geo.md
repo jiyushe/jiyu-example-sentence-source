@@ -1,5 +1,7 @@
 # geo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geo.md)
+
 <p><span class="chinese">好吧，再见，乔。</span><span class="english">Well goodbye, Geo.</span></p>
 
 <p><span class="chinese">他们俩都学地球物理。</span><span class="english">They both study geo Physics.</span></p>

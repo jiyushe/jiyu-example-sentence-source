@@ -1,5 +1,7 @@
 # impecunious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impecunious.md)
+
 <p><span class="chinese">他突然察觉自己身无分文，也没带证件。</span><span class="english">He is aware he is impecunious suddenly, also did not carry certificate.</span></p>
 
 <p><span class="chinese">赛斯尔·弗雷德约翰，我的父亲，来自于一个贫穷的爱尔兰犹太家庭。</span><span class="english">Cecil Fridjohn, my father, came from an impecunious Irish Jewish family.</span></p>

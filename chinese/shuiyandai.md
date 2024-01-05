@@ -1,5 +1,7 @@
 # 水烟袋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiyandai.md)
+
 <p><span class="chinese">竹筒当作水烟袋。</span><span class="english">Bamboo tubes are used as hookah.</span></p>
 
 <p><span class="chinese">本公司还可出口吸管，水烟袋。</span><span class="english">We can also export drinking straw, hookah.</span></p>

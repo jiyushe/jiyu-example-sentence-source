@@ -1,5 +1,7 @@
 # 相对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangdui.md)
+
 <p><span class="chinese">真理是相对的。</span><span class="english">Truth is relative.</span></p>
 
 <p><span class="chinese">相对来说它很慢。</span><span class="english">It's relatively slow.</span></p>

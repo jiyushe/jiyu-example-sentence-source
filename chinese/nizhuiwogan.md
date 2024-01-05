@@ -1,5 +1,7 @@
 # 你追我赶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nizhuiwogan.md)
+
 <p><span class="chinese">生活在你追我赶的节奏里。</span><span class="english">We are living in a rushed rhythm.</span></p>
 
 <p><span class="chinese">卡车和小汽车在高速公路上你追我赶。</span><span class="english">Trucks and cars were  leapfrogging along the expressway.</span></p>

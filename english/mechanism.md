@@ -1,5 +1,7 @@
 # mechanism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mechanism.md)
+
 <p><span class="chinese">那便是机械学理论。</span><span class="english">The Theory of Mechanism.</span></p>
 
 <p><span class="chinese">织构生长的机理是什么呢？</span><span class="english">And what's the mechanism?</span></p>

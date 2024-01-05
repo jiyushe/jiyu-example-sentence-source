@@ -1,5 +1,7 @@
 # 三好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanhao.md)
+
 <p><span class="chinese">三好学生怎么翻？</span><span class="english">Three good student?</span></p>
 
 <p><span class="chinese">著名的三好街。</span><span class="english">The famous SanHao street.</span></p>

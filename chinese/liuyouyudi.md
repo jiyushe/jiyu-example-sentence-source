@@ -1,5 +1,7 @@
 # 留有余地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuyouyudi.md)
+
 <p><span class="chinese">第二、定计划留有余地。</span><span class="english">Second, , make a plan for.</span></p>
 
 <p><span class="chinese">恰恰是豪厄尔这种留有余地的做法救了他。</span><span class="english">It was Howell’s own sense of limits that saved him.</span></p>

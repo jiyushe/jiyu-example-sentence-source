@@ -1,5 +1,7 @@
 # sylvan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sylvan.md)
+
 <p><span class="chinese">栎树形成一条林荫拱道。</span><span class="english">Venerable oaks forms a sylvan archway.</span></p>
 
 <p><span class="chinese">古老的栎树形成一条林荫拱道。</span><span class="english">Venerable oaks forms a sylvan archway.</span></p>

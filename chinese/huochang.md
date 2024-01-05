@@ -1,5 +1,7 @@
 # 货场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huochang.md)
+
 <p><span class="chinese">从蒙特利尔货场运道渥太华的运输，应该先预定好。</span><span class="english">For shipment destined to Ottawa, On, it should be booked upto Montreal CY.</span></p>
 
 <p><span class="chinese">阐述了该系统的工作原理，以及在室外货场中的应用。</span><span class="english">Its working principle and its application in freight yard operation are elaborated.</span></p>

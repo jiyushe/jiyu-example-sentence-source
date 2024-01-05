@@ -1,5 +1,7 @@
 # 舒心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuxin.md)
+
 <p><span class="chinese">感觉很舒心，感谢小屹分享。</span><span class="english">Thanks for sharing the nice music!</span></p>
 
 <p><span class="chinese">然而我们应该舒心一点。</span><span class="english">We should probably be relieved anyway.</span></p>

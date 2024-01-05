@@ -1,5 +1,7 @@
 # 真性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenxing_1.md)
+
 <p><span class="chinese">首先，有一个XML保真性的问题。</span><span class="english">First, there is a XML fidelity issue.</span></p>
 
 <p><span class="chinese">这是真性情和热情的表现。</span><span class="english">It is a sign of both authenticity 3 and enthusiasm.</span></p>

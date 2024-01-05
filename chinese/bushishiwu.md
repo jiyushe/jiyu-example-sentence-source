@@ -1,5 +1,7 @@
 # 不识时务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushishiwu.md)
+
 <p><span class="chinese">这是一些不识时务的意见。</span><span class="english">They put a few posters on the wall.</span></p>
 
 <p><span class="chinese">这是一些不识时务的意见。</span><span class="english">This is the opinion of some Rip Van Winkle.</span></p>

@@ -1,5 +1,7 @@
 # 呻吟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyin.md)
+
 <p><span class="chinese">我成为了呻吟者。</span><span class="english">I became a moaner.</span></p>
 
 <p><span class="chinese">没人然后呻吟了”。</span><span class="english">No one moaned then.</span></p>

@@ -1,5 +1,7 @@
 # 此路不通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cilubutong.md)
+
 <p><span class="chinese">此路不通。</span><span class="english">Not a Through Road.</span></p>
 
 <p><span class="chinese">那告示牌上指著此路不通。</span><span class="english">That sign means the road is closed.</span></p>

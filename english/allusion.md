@@ -1,5 +1,7 @@
 # allusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allusion.md)
+
 <p><span class="chinese">你应该看出了这里的暗示。</span><span class="english">You may recognize the allusion.</span></p>
 
 <p><span class="chinese">对于这一引喻，他双眉紧锁着。</span><span class="english">His brows clouded at the allusion.</span></p>

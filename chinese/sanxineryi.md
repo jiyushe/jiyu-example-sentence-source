@@ -1,5 +1,7 @@
 # 三心二意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanxineryi.md)
+
 <p><span class="chinese">带你跟她一起去，可怜的三心二意的人！</span><span class="english">Take you with her, pitiful changeling?</span></p>
 
 <p><span class="chinese">但改革经常是三心二意的。</span><span class="english">However, reforms have often been halfhearted.</span></p>

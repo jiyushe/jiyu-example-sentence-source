@@ -1,5 +1,7 @@
 # vexation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vexation.md)
+
 <p><span class="chinese">气死我了，我太失望了，我要大喊大叫！</span><span class="english">I cry with vexation and disappointment!</span></p>
 
 <p><span class="chinese">她真是说不出的羞愧和懊恼。</span><span class="english">She was overpowered by shame and vexation.</span></p>

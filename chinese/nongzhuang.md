@@ -1,5 +1,7 @@
 # 农庄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongzhuang.md)
+
 <p><span class="chinese">克罗先生，我买农庄。</span><span class="english">Mr. Craw, I buy a farm.</span></p>
 
 <p><span class="chinese">音乐农庄民歌餐厅?。</span><span class="english">Music Farm Country Kitcher?</span></p>

@@ -1,5 +1,7 @@
 # Protestant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protestant.md)
+
 <p><span class="chinese">为什么新教正典会是现在这样？</span><span class="english">Why is the Protestant canon like it is?</span></p>
 
 <p><span class="chinese">新教徒之间的裙带关系是与生俱来的。</span><span class="english">The Protestant Establishment was inbred.</span></p>

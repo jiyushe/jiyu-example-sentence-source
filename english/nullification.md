@@ -1,5 +1,7 @@
 # nullification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nullification.md)
+
 <p><span class="chinese">“州废止国会法令运动”是美国内战前的一次重大政治危机。</span><span class="english">The Nullification Movement was a great political crisis before the Civil War of U.</span></p>
 
 <p><span class="chinese">但是，此种条款的无效，不影响整个航空运输合同的效力。</span><span class="english">But this nullification does not affect the validity of the entire air transport contract.</span></p>

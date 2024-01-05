@@ -1,5 +1,7 @@
 # oxo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxo.md)
+
 <p><span class="chinese">在羰基合成刮刀是有用的几乎每一个在你家的空间。</span><span class="english">The OXO Squeegee is useful in almost every room in your home.</span></p>
 
 <p><span class="chinese">加入OXO粉末，炒匀，然后加入牛肉糜，炒至肉糜。</span><span class="english">Add OXO cubes and stir, then add the Beef and stir until browned.</span></p>

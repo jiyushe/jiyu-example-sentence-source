@@ -1,5 +1,7 @@
 # trichloroethylene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trichloroethylene.md)
+
 <p><span class="chinese">三氯乙烯具有氯仿似的气味，在87℃沸腾。</span><span class="english">Trichloroethylene has an odor like chloroform and boils at 87℃.</span></p>
 
 <p><span class="chinese">目的观察三氯乙烯对NIH小鼠染毒后免疫功能的变化。</span><span class="english">Objective To observe the immune changes in NIH mice induced by trichloroethylene.</span></p>

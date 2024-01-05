@@ -1,5 +1,7 @@
 # jobless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jobless.md)
+
 <p><span class="chinese">这种制度对没有工作的人来说是不利的。</span><span class="english">Such a system penalized the jobless.</span></p>
 
 <p><span class="chinese">职业介绍所被失业者围了个水泄不通。</span><span class="english">Employment agencies were besieged by the jobless.</span></p>

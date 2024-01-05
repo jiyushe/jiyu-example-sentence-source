@@ -1,5 +1,7 @@
 # rhythm 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhythm.md)
+
 <p><span class="chinese">奥秘在于韵律</span><span class="english">It's the rhythm.</span></p>
 
 <p><span class="chinese">节奏和鼓点</span><span class="english">Rhythm and beat.</span></p>

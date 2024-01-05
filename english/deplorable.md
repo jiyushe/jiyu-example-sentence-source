@@ -1,5 +1,7 @@
 # deplorable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deplorable.md)
+
 <p><span class="chinese">然后，在一段凄惨的文字中</span><span class="english">And then,in a deplorable passage</span></p>
 
 <p><span class="chinese">郡警察局长说性骚扰应受谴责。</span><span class="english">The Chief Constable said that sexual harassment was deplorable.</span></p>

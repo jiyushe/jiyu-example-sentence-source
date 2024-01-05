@@ -1,5 +1,7 @@
 # 识时务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishiwu.md)
+
 <p><span class="chinese">遇见你是我最美丽的意外！识时务者为俊杰前事不忘后事之师！</span><span class="english">Don't try to hard. the best things come. when you least except them to.</span></p>
 
 <p><span class="chinese">伊朗必须识时务地认真而紧迫地采取行动。</span><span class="english">Iran must act with the seriousness and sense of urgency that this moment demands.</span></p>

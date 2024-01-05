@@ -1,5 +1,7 @@
 # 俨然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanran.md)
+
 <p><span class="chinese">他乔装改扮，俨然就是一位教书先生。</span><span class="english">He disguised himself as a teacher.</span></p>
 
 <p><span class="chinese">梅格俨然扮演着一个护花使者。</span><span class="english">Meg enacted escort with great dignity.</span></p>

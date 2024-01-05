@@ -1,5 +1,7 @@
 # 凶杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongsha.md)
+
 <p><span class="chinese">这部影片中充斥着暴力和凶杀。</span><span class="english">This film is stuffed with blood and murder.</span></p>
 
 <p><span class="chinese">那部影片中出现了极其可怕的凶杀场面。</span><span class="english">The film showed the most horrific murder scenes.</span></p>

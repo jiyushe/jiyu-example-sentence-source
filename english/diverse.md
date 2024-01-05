@@ -1,5 +1,7 @@
 # diverse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diverse.md)
+
 <p><span class="chinese">所以学校很多元化。</span><span class="english">So it was a very diverse school.</span></p>
 
 <p><span class="chinese">一个致郁的、异色的喜剧。</span><span class="english">A gloomy, tonally diverse comedy.</span></p>

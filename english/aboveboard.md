@@ -1,5 +1,7 @@
 # aboveboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aboveboard.md)
+
 <p><span class="chinese">他们的行为都是公开及光明磊落。</span><span class="english">Their actions are open and aboveboard.</span></p>
 
 <p><span class="chinese">在这事情上，他的行为是非常光明磊落的。</span><span class="english">His part in the affair was quite aboveboard.</span></p>

@@ -1,5 +1,7 @@
 # labyrinth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labyrinth.md)
+
 <p><span class="chinese">在这连黑夜也目盲的迷宫中。</span><span class="english">And in this labyrinth where night is blind.</span></p>
 
 <p><span class="chinese">举目所见，到处是七弯八拐的迷宫。</span><span class="english">Everywhere I looked, a labyrinth meandered.</span></p>

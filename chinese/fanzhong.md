@@ -1,5 +1,7 @@
 # 繁重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanzhong.md)
+
 <p><span class="chinese">城市生活无疑是繁重的。</span><span class="english">City living can be taxing.</span></p>
 
 <p><span class="chinese">繁重的劳动使他的双手生出茧子来。</span><span class="english">Heavy work callused his hands.</span></p>

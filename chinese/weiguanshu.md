@@ -1,5 +1,7 @@
 # 维管束
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiguanshu.md)
+
 <p><span class="chinese">主脉有3个维管束，排列成三角状。</span><span class="english">The 3vascular bundles in the main vein arrange in triangle.</span></p>
 
 <p><span class="chinese">这种维管束斜生于茎内的部分，称为叶迹。</span><span class="english">These parts of bundles in the stem be regarded as leaf trace.</span></p>

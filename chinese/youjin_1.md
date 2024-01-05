@@ -1,5 +1,7 @@
 # 有劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjin_1.md)
+
 <p><span class="chinese">他有劲地开始工作。</span><span class="english">He sailed into his work.</span></p>
 
 <p><span class="chinese">你家谁有劲做饭？</span><span class="english">Who cooks in your household?</span></p>

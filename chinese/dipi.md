@@ -1,5 +1,7 @@
 # 地皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dipi.md)
+
 <p><span class="chinese">他捐赠一块地皮盖一座希望小学。</span><span class="english">He donated a site for a Hope School.</span></p>
 
 <p><span class="chinese">除了这家杂货店，她还买了地皮和几家加油站。</span><span class="english">She bought land and a couple of gas stations.</span></p>

@@ -1,5 +1,7 @@
 # sdk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sdk.md)
+
 <p><span class="chinese">在这个程序中找到软件开发包。</span><span class="english">Get the SDK from the prerelease program.</span></p>
 
 <p><span class="chinese">如何成功地暂停游戏科罗娜啤酒SDK？</span><span class="english">How to successfully pause game in Corona SDK?</span></p>

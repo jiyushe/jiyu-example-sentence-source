@@ -1,5 +1,7 @@
 # 瞎子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazi_1.md)
+
 <p><span class="chinese">我是谁，是瞎子吗？</span><span class="english">Who Am Iand To Be Blind?</span></p>
 
 <p><span class="chinese">那瞎子撞了我个满怀。</span><span class="english">The blind man bumped into me.</span></p>

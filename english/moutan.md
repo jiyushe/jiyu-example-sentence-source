@@ -1,5 +1,7 @@
 # moutan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moutan.md)
+
 <p><span class="chinese">中国植物图片集。那是“花中王后”，或称牡丹，在中国是国家的珍宝。</span><span class="english">The "queen of flowers, " or moutan , is a national treasure in China.</span></p>
 
 <p><span class="chinese">目的研究丹皮综合提取的工艺。</span><span class="english">Objective To study on the multible-extracting technology of Cortex moutan.</span></p>

@@ -1,5 +1,7 @@
 # distant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distant.md)
+
 <p><span class="chinese">远处若隐若现的车流喧嚣。</span><span class="english">Distant traffic noises.</span></p>
 
 <p><span class="chinese">如此频繁地出现在遥远的水滨。</span><span class="english">So often on a distant shore.</span></p>

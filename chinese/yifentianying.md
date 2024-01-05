@@ -1,5 +1,7 @@
 # 义愤填膺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifentianying.md)
+
 <p><span class="chinese">许多人都义愤填膺，溢于言表。</span><span class="english">Many were audibly outraged.</span></p>
 
 <p><span class="chinese">他们义愤填膺。</span><span class="english">They flamed with indignation.</span></p>

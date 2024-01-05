@@ -1,5 +1,7 @@
 # 死而后已
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sierhouyi.md)
+
 <p><span class="chinese">他真是鞠躬尽瘁，死而后已。</span><span class="english">He really gave his all till his heart ceased to beat.</span></p>
 
 <p><span class="chinese">我开始意识到格西的确在实践“鞠躬尽瘁，死而后已”。</span><span class="english">I began to realize that Gussie was offering her own last true measure of devotion.</span></p>

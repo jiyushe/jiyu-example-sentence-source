@@ -1,5 +1,7 @@
 # pica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pica.md)
+
 <p><span class="chinese">与小脑后下动脉的急性梗死相符合。</span><span class="english">This is consistent with an acute infarct in the PICA distribution.</span></p>
 
 <p><span class="chinese">通常，本病综合征是由于椎动脉阻塞，或者少见的小脑后下动脉阻塞造成。</span><span class="english">Usually, this syndrome is due to vertebral artery occlusion or, less commonly, to PICA occlusion.</span></p>

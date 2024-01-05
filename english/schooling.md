@@ -1,5 +1,7 @@
 # schooling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schooling.md)
+
 <p><span class="chinese">她十岁就失学了。</span><span class="english">She was deprived of schooling at ten.</span></p>
 
 <p><span class="chinese">上海家庭加强孩子教育的四大要诀</span><span class="english">Four tips for Shanghai schooling at home</span></p>

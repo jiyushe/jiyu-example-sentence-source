@@ -1,5 +1,7 @@
 # 未遂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weisui_1.md)
+
 <p><span class="chinese">另外一些人是自杀未遂。</span><span class="english">Others have attempted suicide.</span></p>
 
 <p><span class="chinese">他因谋杀未遂罪坐了很长时间的牢。</span><span class="english">He did a long stretch for attempted murder.</span></p>

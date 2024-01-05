@@ -1,5 +1,7 @@
 # dicotyledonous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dicotyledonous.md)
+
 <p><span class="chinese">双子叶植物中保留着一系列的束。</span><span class="english">Dicotyledonous plants retain a series of strands.</span></p>
 
 <p><span class="chinese">人参果属茄科类多年生双子叶草本植物。</span><span class="english">Ginseng is a perennial dicotyledonous herbs Nightshade classes.</span></p>

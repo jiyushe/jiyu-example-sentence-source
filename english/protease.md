@@ -1,5 +1,7 @@
 # protease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protease.md)
+
 <p><span class="chinese">考察了生姜蛋白酶在啤酒、黄酒生产中的应用。</span><span class="english">Sodium erythorbate had the inhibitory effect on ginger protease.</span></p>
 
 <p><span class="chinese">胞浆素是消除和分解血栓的主要蛋白酶。</span><span class="english">Plasmin is the main protease to break down and dissolve thrombus.</span></p>

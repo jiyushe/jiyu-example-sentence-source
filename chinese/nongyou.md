@@ -1,5 +1,7 @@
 # 农友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongyou.md)
+
 <p><span class="chinese">你可以在USDA网站找到当地的农友市场。</span><span class="english">You can find a farmer's market in your area at the USDA website.</span></p>
 
 <p><span class="chinese">我们会跟该位农友接触，希望能够将有关狗只稳妥地绑好。</span><span class="english">We will contact that farmer and hope the dog will be tied safely.</span></p>

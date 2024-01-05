@@ -1,5 +1,7 @@
 # 叔父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shufu.md)
+
 <p><span class="chinese">他随叔父取名汤马斯。</span><span class="english">He was named Thomas after his uncle.</span></p>
 
 <p><span class="chinese">比尔的叔父认为这个想法不错。</span><span class="english">His uncle agreed that it was a good idea.</span></p>

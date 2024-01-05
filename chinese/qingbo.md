@@ -1,5 +1,7 @@
 # 轻薄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingbo.md)
+
 <p><span class="chinese">有微微的风和轻薄的雾。</span><span class="english">Smooth wind and light fog.</span></p>
 
 <p><span class="chinese">床架上轻薄的纱帐。</span><span class="english">The frivolous gauze account on bedstead.</span></p>

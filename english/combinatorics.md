@@ -1,5 +1,7 @@
 # combinatorics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combinatorics.md)
+
 <p><span class="chinese">第二类问题来自组合数学界。</span><span class="english">The second class of problem comes from the world of combinatorics.</span></p>
 
 <p><span class="chinese">那么结果是一类不同的组合问题,那么，好。</span><span class="english">So it's a different kind of combinatorics problem that results. So, OK.</span></p>

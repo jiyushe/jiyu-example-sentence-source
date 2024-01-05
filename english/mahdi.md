@@ -1,5 +1,7 @@
 # mahdi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mahdi.md)
+
 <p><span class="chinese">巴勒斯坦分析人士哈迪则没有这么乐观。</span><span class="english">Palestinian analyst Mahdi Abdel Hadi is less optimistic.</span></p>
 
 <p><span class="chinese">陈列于喀土穆哈里发博物馆的机枪。</span><span class="english">A machine gun obtained by Mahdi forces, now exhibiting in Al Khalifa Museum.</span></p>

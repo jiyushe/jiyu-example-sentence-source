@@ -1,5 +1,7 @@
 # atrazine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atrazine.md)
+
 <p><span class="chinese">阿特拉津对非洲爪蟾的生存和发育则没有明显影响。</span><span class="english">Atrazine had no toxicity to the survival and growth of X. laevis.</span></p>
 
 <p><span class="chinese">用土柱实验模拟莠去津在土壤中的运移。</span><span class="english">The transport of atrazine in soil was investigated with soil column experiments.</span></p>

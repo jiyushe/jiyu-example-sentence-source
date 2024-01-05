@@ -1,5 +1,7 @@
 # matchbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matchbox.md)
+
 <p><span class="chinese">火柴盒汽车赛跑.</span><span class="english">Race matchbox cars.</span></p>
 
 <p><span class="chinese">我得到一间像火柴盒大小的房间。</span><span class="english">I've got a matchbox of a room.</span></p>

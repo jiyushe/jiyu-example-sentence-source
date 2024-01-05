@@ -1,5 +1,7 @@
 # 万全之策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanquanzhice.md)
+
 <p><span class="chinese">我们认为万全之策是切实可行的。</span><span class="english">We hold a sure card to be practical.</span></p>
 
 <p><span class="chinese">我们认为万全之策是切实可行的。</span><span class="english">We hold a sure card to be practicable.</span></p>

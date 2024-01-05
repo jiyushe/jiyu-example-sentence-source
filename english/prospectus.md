@@ -1,5 +1,7 @@
 # prospectus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prospectus.md)
+
 <p><span class="chinese">这所学校是虚假的，就连这所学校的创办计划书也全是伪造的。</span><span class="english">The school was bogus, the prospectus was all got up.</span></p>
 
 <p><span class="chinese">根据正业国际的招股说明书，日本松下电器公司也是该公司客户。</span><span class="english">Panasonic of Japan is also a client, according to Zhengye’s prospectus.</span></p>

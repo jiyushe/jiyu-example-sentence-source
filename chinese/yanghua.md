@@ -1,5 +1,7 @@
 # 氧化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghua.md)
+
 <p><span class="chinese">二氧化铀，好了。</span><span class="english">Uranium oxide. Okay.</span></p>
 
 <p><span class="chinese">我想它被氧化了。</span><span class="english">I think it is  oxidized.</span></p>

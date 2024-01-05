@@ -1,5 +1,7 @@
 # touchable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/touchable.md)
+
 <p><span class="chinese">它是如何创造一个可触摸图像的呢？</span><span class="english">How it Creates a Touchable Image</span></p>
 
 <p><span class="chinese">这才是可以触摸的奢华。</span><span class="english">All these are touchable luxuries.</span></p>

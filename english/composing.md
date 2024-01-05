@@ -1,5 +1,7 @@
 # composing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/composing.md)
+
 <p><span class="chinese">鲁塞尔还开始去尝试谱曲。</span><span class="english">Roussel also began composing.</span></p>
 
 <p><span class="chinese">煎熬中的我王演奏哈利路亚。</span><span class="english">The baffled king composing Hallelujah.</span></p>

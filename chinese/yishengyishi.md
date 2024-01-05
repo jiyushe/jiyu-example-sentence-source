@@ -1,5 +1,7 @@
 # 一生一世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishengyishi.md)
+
 <p><span class="chinese">三生有幸爱上你，一生一世曲未央。</span><span class="english">To love you for life, song weiyang.</span></p>
 
 <p><span class="chinese">苹果拥有iPod用户的一生一世。</span><span class="english">Apple has an iPod customer for life.</span></p>

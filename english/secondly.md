@@ -1,5 +1,7 @@
 # secondly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secondly.md)
+
 <p><span class="chinese">第二是帮助超车。</span><span class="english">and secondly to aid overtaking.</span></p>
 
 <p><span class="chinese">第二，地图应用很烂。</span><span class="english">Secondly the maps are very poor.</span></p>

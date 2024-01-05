@@ -1,5 +1,7 @@
 # atom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atom.md)
+
 <p><span class="chinese">可能这里有一个原子。</span><span class="english">Might be an atom there.</span></p>
 
 <p><span class="chinese">卢瑟福叫道，‘原子已经被分裂了！</span><span class="english">The atom has been split!</span></p>

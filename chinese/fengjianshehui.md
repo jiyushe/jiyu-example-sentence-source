@@ -1,5 +1,7 @@
 # 封建社会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengjianshehui.md)
+
 <p><span class="chinese">封建社会等级森严。</span><span class="english">Feudal society was rigidly stratified.</span></p>
 
 <p><span class="chinese">封建社会贫民是被禁止进入皇庄的。</span><span class="english">In feudal society, unorthodox theories were always ignored.</span></p>

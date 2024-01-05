@@ -1,5 +1,7 @@
 # logan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logan.md)
+
 <p><span class="chinese">“带我去那儿。”哈吉斯对洛根说。</span><span class="english">“Take me there,” Haggis said to Logan.</span></p>
 
 <p><span class="chinese">络根太太骂她孩子在车里吃东西。</span><span class="english">Mrs. Logan scolded her son for eating in the car.</span></p>

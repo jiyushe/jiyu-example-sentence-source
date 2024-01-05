@@ -1,5 +1,7 @@
 # sassy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sassy.md)
+
 <p><span class="chinese">那么，如果有任何的野蛮女友部分，即。</span><span class="english">Well, if there were any sassy parts, that is.</span></p>
 
 <p><span class="chinese">这些活力四射的鞋子会给小黑裙带来点睛之效。</span><span class="english">These sassy shoes will enliven little black dresses.</span></p>

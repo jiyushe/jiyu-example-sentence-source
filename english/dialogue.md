@@ -1,5 +1,7 @@
 # dialogue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dialogue.md)
+
 <p><span class="chinese">可有新的对话录？</span><span class="english">A new dialogue?</span></p>
 
 <p><span class="chinese">插入对白。</span><span class="english">Insert dialogue.</span></p>

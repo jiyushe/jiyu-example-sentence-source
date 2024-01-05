@@ -1,5 +1,7 @@
 # individualist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/individualist.md)
+
 <p><span class="chinese">我是这屋里唯一的个人主义者。</span><span class="english">I am the only individualist in this room.</span></p>
 
 <p><span class="chinese">我比以前更是一个个人主义者了。</span><span class="english">I am far more of an individualist than I ever was.</span></p>

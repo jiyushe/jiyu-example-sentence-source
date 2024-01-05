@@ -1,5 +1,7 @@
 # fact 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fact.md)
+
 <p><span class="chinese">事实上是可以的。</span><span class="english">In fact it is.</span></p>
 
 <p><span class="chinese">接受这个事实。</span><span class="english">Accept this fact.</span></p>

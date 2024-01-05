@@ -1,5 +1,7 @@
 # estranged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estranged.md)
+
 <p><span class="chinese">她在背后谈论与她分居的丈夫的私事。</span><span class="english">She tattled on her estranged husband.</span></p>
 
 <p><span class="chinese">他们的争吵使两个朋友失和。</span><span class="english">Their quarrel estranged the two friends.</span></p>

@@ -1,5 +1,7 @@
 # 阻拦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zulan.md)
+
 <p><span class="chinese">他一个箭步冲了出去，连002都无法阻拦。</span><span class="english">He dashed out, even stop 002.</span></p>
 
 <p><span class="chinese">但我没让这阻拦我。</span><span class="english">But I didn't let that daunt me.</span></p>

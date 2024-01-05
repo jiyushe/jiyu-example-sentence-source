@@ -1,5 +1,7 @@
 # 哀泣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiqi.md)
+
 <p><span class="chinese">安妮•莫莉再次哀泣。</span><span class="english">Anne Murray wailed again.</span></p>
 
 <p><span class="chinese">这哀泣那么配合她们的悲痛。</span><span class="english">Yet so they mourn becoming of their woe.</span></p>

@@ -1,5 +1,7 @@
 # margot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/margot.md)
+
 <p><span class="chinese">你好。玛戈特。这都是我的荣幸。</span><span class="english">Hello, Margot. The pleasure's all mine.</span></p>
 
 <p><span class="chinese">玛戈为自己的恢复而表感激。</span><span class="english">Margot is grateful for her own recovering.</span></p>

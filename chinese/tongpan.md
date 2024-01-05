@@ -1,5 +1,7 @@
 # 通盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongpan.md)
+
 <p><span class="chinese">此部分通盘考虑了各种支持选项。</span><span class="english">This section surveys the different support options.</span></p>
 
 <p><span class="chinese">你真的通盘考虑过了吗?。</span><span class="english">Are you sure you've thought everything over carefully?</span></p>

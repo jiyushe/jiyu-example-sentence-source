@@ -1,5 +1,7 @@
 # 粗鄙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cubi.md)
+
 <p><span class="chinese">我讨厌他的粗鄙了。</span><span class="english">I disgusted with him at his vulgarity.</span></p>
 
 <p><span class="chinese">不过这只是最粗鄙的一个回答。</span><span class="english">But that was only the crudest response.</span></p>

@@ -1,5 +1,7 @@
 # 皱褶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouzhe_1.md)
+
 <p><span class="chinese">选择那些不起皱褶的衣物。</span><span class="english">Choose wrinkle-free clothes.</span></p>
 
 <p><span class="chinese">买个好的皱褶喷雾。</span><span class="english">Invest in a good wrinkle spray.</span></p>

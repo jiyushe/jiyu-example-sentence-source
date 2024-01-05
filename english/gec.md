@@ -1,5 +1,7 @@
 # gec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gec.md)
+
 <p><span class="chinese">通用电气公司技术杂志。</span><span class="english">GEC Journal of Technology, The.</span></p>
 
 <p><span class="chinese">过去的科学实践已证明地理学是全球环境变化研究的重要力量。</span><span class="english">Geography has played an important role in GEC study in the past.</span></p>

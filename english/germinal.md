@@ -1,5 +1,7 @@
 # germinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germinal.md)
+
 <p><span class="chinese">生殖细胞的发育是非同步的。</span><span class="english">Development of germinal cells is not synchronous.</span></p>
 
 <p><span class="chinese">生发膜可分为皮层区和细胞区。</span><span class="english">The germinal membrane were divided into tegument and cyton.</span></p>

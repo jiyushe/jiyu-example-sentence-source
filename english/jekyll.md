@@ -1,5 +1,7 @@
 # jekyll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jekyll.md)
+
 <p><span class="chinese">我如何将哲基尔部署到子目录?。</span><span class="english">How do I deploy Jekyll to a subdirectory?</span></p>
 
 <p><span class="chinese">我可以在哲基尔完全禁用减价解析吗?。</span><span class="english">Can I disable markdown parsing in Jekyll entirely?</span></p>

@@ -1,5 +1,7 @@
 # indies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indies.md)
+
 <p><span class="chinese">在他死后，她前往西印度群岛</span><span class="english">After his death she sailed to the West Indies.</span></p>
 
 <p><span class="chinese">欢迎光临尼维斯四季度假村，西印度群岛。</span><span class="english">Welcome to Four Seasons Resort Nevis, West Indies.</span></p>

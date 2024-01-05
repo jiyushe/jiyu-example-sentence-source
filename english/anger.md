@@ -1,5 +1,7 @@
 # anger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anger.md)
+
 <p><span class="chinese">他的怒气逐渐平息下来了。</span><span class="english">His anger died away.</span></p>
 
 <p><span class="chinese">他气得脸涨红了起来。</span><span class="english">He flamed with anger.</span></p>

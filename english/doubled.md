@@ -1,5 +1,7 @@
 # doubled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doubled.md)
+
 <p><span class="chinese">我下了超过他的赌注。</span><span class="english">I doubled his bet.</span></p>
 
 <p><span class="chinese">他握紧双拳。</span><span class="english">He doubled his fists.</span></p>

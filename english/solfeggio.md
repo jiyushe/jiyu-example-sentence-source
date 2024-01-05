@@ -1,5 +1,7 @@
 # solfeggio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solfeggio.md)
+
 <p><span class="chinese">视唱练耳是学习音乐专业的一门基础性学科。</span><span class="english">Solfeggio is a basis subject of studying Music specialty.</span></p>
 
 <p><span class="chinese">在视唱练耳教学实践中首先要遇到唱名法的问题。</span><span class="english">You'll meet sol-fa system problem in the solfeggio teaching first.</span></p>

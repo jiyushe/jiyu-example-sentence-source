@@ -1,5 +1,7 @@
 # 腥风血雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingfengxueyu.md)
+
 <p><span class="chinese">在一场腥风血雨的内战之后，他们于1975年上台执政。</span><span class="english">They came to power in 1975 after a bloody civil war.</span></p>
 
 <p><span class="chinese">然而，这事只不过是江湖腥风血雨的开始！</span><span class="english">However, it was just the beginning of a martyr runescape!</span></p>

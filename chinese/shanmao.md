@@ -1,5 +1,7 @@
 # 山猫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanmao.md)
+
 <p><span class="chinese">但是，它是我们家的倒霉山猫！</span><span class="english">But it's OUR jinxed lynx!</span></p>
 
 <p><span class="chinese">野山猫通常都是独行侠。</span><span class="english">Caracals usually live alone.</span></p>

@@ -1,5 +1,7 @@
 # 不可偏废
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukepianfei.md)
+
 <p><span class="chinese">两者不可偏废。</span><span class="english">Neither can be neglected.</span></p>
 
 <p><span class="chinese">换句话说，你必须两手都要抓，产品和促销不可偏废。</span><span class="english">In other words, you have to have both. Product and promotion.</span></p>

@@ -1,5 +1,7 @@
 # 差不多
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chabuduo.md)
+
 <p><span class="chinese">嗯，差不多一样。</span><span class="english">Well, about the same.</span></p>
 
 <p><span class="chinese">我想和这里差不多。</span><span class="english">Similar to here I gue.</span></p>

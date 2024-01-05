@@ -1,5 +1,7 @@
 # 倒装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daozhuang.md)
+
 <p><span class="chinese">使用倒装图表或白纸板.</span><span class="english">Use a flip chart or white board</span></p>
 
 <p><span class="chinese">倒装句虽然他很年轻，但他知道得很多。</span><span class="english">Young as he is , he knows a lot.</span></p>

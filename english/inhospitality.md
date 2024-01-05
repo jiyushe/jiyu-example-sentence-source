@@ -1,5 +1,7 @@
 # inhospitality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhospitality.md)
+
 <p><span class="chinese">用爱改变这个世界的冷漠！</span><span class="english">Use love to change the inhospitality of this world.</span></p>
 
 <p><span class="chinese">对于他的冷漠，我会悲伤，这是什么感觉？</span><span class="english">To his inhospitality , my meeting sadness, what feeling is this?</span></p>

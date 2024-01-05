@@ -1,5 +1,7 @@
 # displeasing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/displeasing.md)
+
 <p><span class="chinese">这种行为会使你的父母生气的。</span><span class="english">Such conduct is displeasing to your parents.</span></p>
 
 <p><span class="chinese">好吧我知道这个结论一定不让人快乐。</span><span class="english">Well, I understand that conclusion must be displeasing.</span></p>

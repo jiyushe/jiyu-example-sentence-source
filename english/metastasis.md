@@ -1,5 +1,7 @@
 # metastasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metastasis.md)
+
 <p><span class="chinese">更大的问题是转移。</span><span class="english">The bigger issue is metastasis.</span></p>
 
 <p><span class="chinese">外泌体在肿瘤转移中的作用。</span><span class="english">The Role of Exosomes in Cancer Metastasis.</span></p>

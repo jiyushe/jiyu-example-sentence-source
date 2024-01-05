@@ -1,5 +1,7 @@
 # biopolymer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biopolymer.md)
+
 <p><span class="chinese">接下来轮到生物高聚物聚羟基脂肪酸酯。</span><span class="english">The biopolymer polyhydroxyalkanoate came next on the list.</span></p>
 
 <p><span class="chinese">天然生物高分子聚集机制与功能。</span><span class="english">Natural biopolymer assembly mechanism and functionalization.</span></p>

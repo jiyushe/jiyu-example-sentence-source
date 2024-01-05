@@ -1,5 +1,7 @@
 # 内省
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neixing.md)
+
 <p><span class="chinese">首先，我们要内省。</span><span class="english">First of all, we have to introspect.</span></p>
 
 <p><span class="chinese">这个组织需要内省。</span><span class="english">The organization needs introspection.</span></p>

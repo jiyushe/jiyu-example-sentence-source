@@ -1,5 +1,7 @@
 # revise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revise.md)
+
 <p><span class="chinese">随着进展来修改它。</span><span class="english">Revise it as you go.</span></p>
 
 <p><span class="chinese">为什么修订UML是必要的呢？</span><span class="english">Why was it necessary to revise UML?</span></p>

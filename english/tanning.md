@@ -1,5 +1,7 @@
 # tanning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tanning.md)
+
 <p><span class="chinese">避免日光浴床和太阳灯。</span><span class="english">Avoid sunlamps and tanning parlours.</span></p>
 
 <p><span class="chinese">尽量避免使用日光灯和晒黑机。</span><span class="english">And avoid sunlamps and tanning booths.</span></p>

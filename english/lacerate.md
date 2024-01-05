@@ -1,5 +1,7 @@
 # lacerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacerate.md)
+
 <p><span class="chinese">第三支百合的根撑破我的嘴。</span><span class="english">The third one's roots lacerate my mouth.</span></p>
 
 <p><span class="chinese">求脚掌割破的治疗方法和常识？</span><span class="english">Seek the remedial method of sole lacerate and common sense?</span></p>

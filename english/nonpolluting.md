@@ -1,5 +1,7 @@
 # nonpolluting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonpolluting.md)
+
 <p><span class="chinese">该系统的另一个优势是它的完全无污染性。</span><span class="english">The secondary benefit is that it's completely nonpolluting.</span></p>
 
 <p><span class="chinese">蜂产品原料品质优良，无污染。</span><span class="english">All the material of the honey products is nonpolluting and has fine quality.</span></p>

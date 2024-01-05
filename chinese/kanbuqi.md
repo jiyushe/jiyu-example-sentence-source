@@ -1,5 +1,7 @@
 # 看不起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanbuqi.md)
+
 <p><span class="chinese">他看不起我。</span><span class="english">He despises me.</span></p>
 
 <p><span class="chinese">没有人看不起你。</span><span class="english">No one will despise you.</span></p>

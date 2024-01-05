@@ -1,5 +1,7 @@
 # 换算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huansuan.md)
+
 <p><span class="chinese">换算过来就是50纳米。</span><span class="english">In other words, 50 nanometres.</span></p>
 
 <p><span class="chinese">这是一种换算因子。</span><span class="english">Well, it's a conversion factor.</span></p>

@@ -1,5 +1,7 @@
 # 宰相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaixiang.md)
+
 <p><span class="chinese">谁被称为“铁血宰相”？</span><span class="english">Who was known as Iron chancellor?</span></p>
 
 <p><span class="chinese">乌龟是谁？是海龙王的宰相啊。</span><span class="english">Is the Dragon King of the prime minister ah.</span></p>

@@ -1,5 +1,7 @@
 # 全集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanji.md)
+
 <p><span class="chinese">这篇课文午马全集选自一部小说。</span><span class="english">This text is selected from a novel.</span></p>
 
 <p><span class="chinese">风弄小说全集。</span><span class="english">Wind play with novel complete works.</span></p>

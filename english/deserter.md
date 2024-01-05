@@ -1,5 +1,7 @@
 # deserter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deserter.md)
+
 <p><span class="chinese">那名逃兵已经逃走。</span><span class="english">The deserter has escaped.</span></p>
 
 <p><span class="chinese">他被作为叛逃者处决。</span><span class="english">He was executed as a deserter.</span></p>

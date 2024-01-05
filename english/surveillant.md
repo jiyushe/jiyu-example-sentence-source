@@ -1,5 +1,7 @@
 # surveillant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surveillant.md)
+
 <p><span class="chinese">方法采用回顾性调查方法对性病监测资料进行分析。</span><span class="english">Methods Retrospective study was used to analyze surveillant data of STD.</span></p>
 
 <p><span class="chinese">同时，还可以通过分析数据，监视参与者健康状态。</span><span class="english">In the meantime, still can pass analytic data, surveillant participator health.</span></p>

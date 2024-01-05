@@ -1,5 +1,7 @@
 # quince
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quince.md)
+
 <p><span class="chinese">走过榅桲树。</span><span class="english">Walking by the quince.</span></p>
 
 <p><span class="chinese">将榅桲块放入锅内。</span><span class="english">Put the quince pieces in the pot.</span></p>

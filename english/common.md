@@ -1,5 +1,7 @@
 # common 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/common.md)
+
 <p><span class="chinese">用常识去推理。</span><span class="english">Use common sense.</span></p>
 
 <p><span class="chinese">拿普通的痒来说吧。</span><span class="english">Take the common itch.</span></p>

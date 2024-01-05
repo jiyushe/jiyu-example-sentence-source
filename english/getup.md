@@ -1,5 +1,7 @@
 # getup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/getup.md)
+
 <p><span class="chinese">我每天六点钟起床。</span><span class="english">I getup at six everyday.</span></p>
 
 <p><span class="chinese">她那套装束看起来很可笑。</span><span class="english">She looks ridiculous in that getup.</span></p>

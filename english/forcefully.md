@@ -1,5 +1,7 @@
 # forcefully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forcefully.md)
+
 <p><span class="chinese">一只黄蜂凶猛地向我冲来。</span><span class="english">A yellow-jacket rushed forcefully in my way.</span></p>
 
 <p><span class="chinese">乔把钢琴用力推到乐池中。</span><span class="english">Joe pushed forcefully the piano into the orchestra pit.</span></p>

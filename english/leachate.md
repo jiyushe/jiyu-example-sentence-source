@@ -1,5 +1,7 @@
 # leachate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leachate.md)
+
 <p><span class="chinese">粘土固化注浆帷幕对渗滤液的抗渗性能。</span><span class="english">Permeability of clay-solidified grouting curtain to leachate.</span></p>
 
 <p><span class="chinese">对国内某大型垃圾填埋场渗滤液处理进行了试验研究。</span><span class="english">A pilot plant study was conducted to treat the leachate of a Landfill.</span></p>

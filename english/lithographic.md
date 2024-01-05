@@ -1,5 +1,7 @@
 # lithographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithographic.md)
+
 <p><span class="chinese">石印插图本小说风靡一时。</span><span class="english">Lithographic illustrations of novels was very popular.</span></p>
 
 <p><span class="chinese">石印、柯式和珂罗版印刷。</span><span class="english">For example, lithographic printing, offset and collotype.</span></p>

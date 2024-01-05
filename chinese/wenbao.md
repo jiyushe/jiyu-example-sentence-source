@@ -1,5 +1,7 @@
 # 温饱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenbao.md)
+
 <p><span class="chinese">总的来说，很少人一直挣扎在温饱水平。</span><span class="english">In sum, few people remain at subsistence level.</span></p>
 
 <p><span class="chinese">全民温饱计划还有一种是脚踏式的剥壳机。</span><span class="english">The FullBellyProject also has a pedal -powered sheller.</span></p>

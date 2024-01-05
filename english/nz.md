@@ -1,5 +1,7 @@
 # nz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nz.md)
+
 <p><span class="chinese">纽西兰航空公司来回奥克兰至罗托鲁瓦机票。</span><span class="english">Roundtrip Economy class air ticket for Auckland and Rotorua on NZ.</span></p>
 
 <p><span class="chinese">我在新西兰度过的第一个圣诞节是在惠灵顿。</span><span class="english">The first Christmas I experienced in NZ was not in AKL but Wellington.</span></p>

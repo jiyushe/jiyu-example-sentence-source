@@ -1,5 +1,7 @@
 # misbehave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misbehave.md)
+
 <p><span class="chinese">孩子们还是每天捣蛋。</span><span class="english">Kids misbehave every day.</span></p>
 
 <p><span class="chinese">当它们无理取闹时，狗比猫更麻烦。</span><span class="english">Cats are less of a bother than dogs when they misbehave.</span></p>

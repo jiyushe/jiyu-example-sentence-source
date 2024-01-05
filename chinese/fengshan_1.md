@@ -1,5 +1,7 @@
 # 封禅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengshan_1.md)
+
 <p><span class="chinese">峰西侧为唐宋封禅故址。</span><span class="english">Fengshan displace peak west of the Tang and Song dynasties.</span></p>
 
 <p><span class="chinese">林平之在回屋后便收到一个牌子上面写着封禅台。</span><span class="english">Received Lin Pingzhi in back to back a sign reads FengChan units.</span></p>

@@ -1,5 +1,7 @@
 # splinter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splinter.md)
+
 <p><span class="chinese">他的手指上扎了根刺。</span><span class="english">He ran a splinter into his finger.</span></p>
 
 <p><span class="chinese">桑蓝成海，是一个很大的变化。</span><span class="english">Could splinter a whole sea of blue.</span></p>

@@ -1,5 +1,7 @@
 # hexane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hexane.md)
+
 <p><span class="chinese">易溶于水、植物油和正己烷。</span><span class="english">Well soluble in water, hexane and vegetable oils.</span></p>
 
 <p><span class="chinese">易溶于水、植物油和正己烷。</span><span class="english">It is well soluble in water, hexane and vegetable oils.</span></p>

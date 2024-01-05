@@ -1,5 +1,7 @@
 # connote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connote.md)
+
 <p><span class="chinese">很多的斜体字，那对你意味着什么？</span><span class="english">A lot of italics. What does that connote to you?</span></p>
 
 <p><span class="chinese">作为一位政治领袖，他已是智穷才尽了。</span><span class="english">For a political leader , hesitation is apt to connote weakness.</span></p>

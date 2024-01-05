@@ -1,5 +1,7 @@
 # 全国人大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanguorenda.md)
+
 <p><span class="chinese">卡西迪现在有他独特的戴头盔时使用的手枪动画全国人大装甲模。</span><span class="english">Cassidy now has his unique helmetless pistol animations when using the NPC armor mod.</span></p>
 
 <p><span class="chinese">全国人大各专门委员会也开展形式多样的执法检查。</span><span class="english">The special committees of the NPC also conduct various types of examinations of law enforcement work.</span></p>

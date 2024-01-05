@@ -1,5 +1,7 @@
 # lira
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lira.md)
+
 <p><span class="chinese">大型的跳蚤市场—即香格里拉。</span><span class="english">Large flea market-namely fragrant space lira.</span></p>
 
 <p><span class="chinese">里拉是阿拉伯语中磅的翻译。</span><span class="english">The word lira is the Arabic translation of pound.</span></p>

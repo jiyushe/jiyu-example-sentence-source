@@ -1,5 +1,7 @@
 # drinker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drinker.md)
+
 <p><span class="chinese">喝咖啡或茶吗？</span><span class="english">Coffee or tea drinker?</span></p>
 
 <p><span class="chinese">老板要求那个酒鬼戒酒。</span><span class="english">The boss asked the drinker to dry out.</span></p>

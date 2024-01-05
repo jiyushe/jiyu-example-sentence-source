@@ -1,5 +1,7 @@
 # 玩命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanming.md)
+
 <p><span class="chinese">我不在时，你工作可不要太玩命。</span><span class="english">Try not to work too hard while I'm away!</span></p>
 
 <p><span class="chinese">我不在时，你工作可不要太玩命。</span><span class="english">Try to not to work hard around on my away.</span></p>

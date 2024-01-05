@@ -1,5 +1,7 @@
 # 名优
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingyou.md)
+
 <p><span class="chinese">这是青岛名优产品。</span><span class="english">This is a Qingdao local specialty.</span></p>
 
 <p><span class="chinese">中国名牌、名优产品。</span><span class="english">Chinese brand names, famous product.</span></p>

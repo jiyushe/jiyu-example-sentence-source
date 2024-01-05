@@ -1,5 +1,7 @@
 # eighteen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eighteen.md)
+
 <p><span class="chinese">十八个</span><span class="english">Eighteen.</span></p>
 
 <p><span class="chinese">大概连续十八天了！</span><span class="english">For eighteen days straight!</span></p>

@@ -1,5 +1,7 @@
 # husbandry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/husbandry.md)
+
 <p><span class="chinese">他们的中心畜牧业。</span><span class="english">They are the centers of animal husbandry.</span></p>
 
 <p><span class="chinese">农林牧渔业全面发展。</span><span class="english">Animal husbandry and fishery-round development.</span></p>

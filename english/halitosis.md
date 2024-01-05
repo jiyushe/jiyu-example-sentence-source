@@ -1,5 +1,7 @@
 # halitosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halitosis.md)
+
 <p><span class="chinese">有没有口臭和狐臭呀？</span><span class="english">Have halitosis and body odor?</span></p>
 
 <p><span class="chinese">口臭有治疗办法吗？</span><span class="english">Does halitosis have remedial idea?</span></p>

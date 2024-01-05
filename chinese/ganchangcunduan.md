@@ -1,5 +1,7 @@
 # 肝肠寸断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganchangcunduan.md)
+
 <p><span class="chinese">那条消息使她肝肠寸断。</span><span class="english">The news broke her heart.</span></p>
 
 <p><span class="chinese">看着我肝肠寸断？</span><span class="english">To watch me, while I bleed?</span></p>

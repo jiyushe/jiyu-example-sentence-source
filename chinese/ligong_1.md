@@ -1,5 +1,7 @@
 # 立功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ligong_1.md)
+
 <p><span class="chinese">这该是我立功的时候了！</span><span class="english">This was to be my day of triumph.</span></p>
 
 <p><span class="chinese">有立功表现的。</span><span class="english">The person has performed meritorious service.</span></p>

@@ -1,5 +1,7 @@
 # 唾弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoqi.md)
+
 <p><span class="chinese">会发出臭味的垃圾人，“唾弃“名词的源头。</span><span class="english">Stink of rubbish, "spit" noun source.</span></p>
 
 <p><span class="chinese">因此他轻蔑的唾弃他父亲的投机行为。</span><span class="english">So he spit in contempt on his father's speculating.</span></p>

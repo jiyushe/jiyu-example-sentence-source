@@ -1,5 +1,7 @@
 # snmp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snmp.md)
+
 <p><span class="chinese">SNMP和CMIP是目前使用最广泛的两大网管协议。</span><span class="english">SNMP and CMIP are two network protocols used broadly.</span></p>
 
 <p><span class="chinese">路由器网管代理是路由器软件系统的重要组成部分。</span><span class="english">SNMP agent is an integrated part of router software system.</span></p>

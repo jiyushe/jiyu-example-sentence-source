@@ -1,5 +1,7 @@
 # tapestry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tapestry.md)
+
 <p><span class="chinese">阳光晒得挂毯褪了色。</span><span class="english">Sunlight faded the tapestry.</span></p>
 
 <p><span class="chinese">阳光把挂毯晒得褪了色。</span><span class="english">Sunshine faded the tapestry.</span></p>

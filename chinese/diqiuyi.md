@@ -1,5 +1,7 @@
 # 地球仪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diqiuyi.md)
+
 <p><span class="chinese">他喜欢地球仪</span><span class="english">He loved globes.</span></p>
 
 <p><span class="chinese">我们在地理课上使用地球仪。</span><span class="english">We use a globe in our geography class.</span></p>

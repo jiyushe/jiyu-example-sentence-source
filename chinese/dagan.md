@@ -1,5 +1,7 @@
 # 大干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dagan.md)
+
 <p><span class="chinese">在这大干世界上，需要的是一种容人悔改的美德。</span><span class="english">Virtue. in the great world, should be amenable.</span></p>
 
 <p><span class="chinese">裘的志向是想轰轰烈烈地大干一番。</span><span class="english">Jo's ambition was to do something very splendid.</span></p>

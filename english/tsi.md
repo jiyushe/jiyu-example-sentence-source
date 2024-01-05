@@ -1,5 +1,7 @@
 # tsi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tsi.md)
+
 <p><span class="chinese">第一个TSI指数将于三月发布。</span><span class="english">The first TSI numbers will be released in March.</span></p>
 
 <p><span class="chinese">有没有关于如何使用TSI同步装置的实例?。</span><span class="english">Are there any examples on how to use the TSI Synchronizer?</span></p>

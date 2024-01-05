@@ -1,5 +1,7 @@
 # vliw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vliw.md)
+
 <p><span class="chinese">超长指令字?。</span><span class="english">VLIW? Very Long Instruction Word?</span></p>
 
 <p><span class="chinese">VLIW是简化处理器的最新方法。</span><span class="english">VLIW is the latest way to simplify processors.</span></p>

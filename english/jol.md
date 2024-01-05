@@ -1,5 +1,7 @@
 # jol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jol.md)
+
 <p><span class="chinese">我需要让一些球员休息，或者马丁．约尔也一样需要吧。</span><span class="english">I need to rest some players, and maybe Martin Jol needs to as well.</span></p>
 
 <p><span class="chinese">准确性是学习判断研究的重要问题。</span><span class="english">Accuracy is an important problem in the study of JOL and metacognition monitoring.</span></p>

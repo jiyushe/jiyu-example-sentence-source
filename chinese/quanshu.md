@@ -1,5 +1,7 @@
 # 全书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanshu.md)
+
 <p><span class="chinese">欢迎来到麦科全书的浏览网页。</span><span class="english">Welcome to WikiMac's Browse page.</span></p>
 
 <p><span class="chinese">全书依实际调查现况分为11章，1。导言。</span><span class="english">In total, the book has 11 chapters.</span></p>

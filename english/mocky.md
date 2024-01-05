@@ -1,5 +1,7 @@
 # mocky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mocky.md)
+
 <p><span class="chinese">我能够抓到莫奇。</span><span class="english">I can catch Mocky.</span></p>
 
 <p><span class="chinese">你的坚果，摩西。</span><span class="english">There's your nut, Mocky.</span></p>

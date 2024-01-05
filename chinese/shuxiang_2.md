@@ -1,5 +1,7 @@
 # 属相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuxiang_2.md)
+
 <p><span class="chinese">一个人的动物属相是连接到他或她的出生年份。</span><span class="english">A person's animal sign is connected to his or her birth year.</span></p>
 
 <p><span class="chinese">而按照中国的属相，我是属马的，今年是我的本命年。</span><span class="english">Since I am a Horse in the Chinese horoscope, this is my year.</span></p>

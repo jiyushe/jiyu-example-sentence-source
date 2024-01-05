@@ -1,5 +1,7 @@
 # extravagant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extravagant.md)
+
 <p><span class="chinese">奢侈的人攒不下钱。</span><span class="english">Extravagant people never save money.</span></p>
 
 <p><span class="chinese">他是个放荡、奢侈、吊儿郎当的人。</span><span class="english">He is a dissipated, extravagant idler.</span></p>

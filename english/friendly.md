@@ -1,5 +1,7 @@
 # friendly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/friendly.md)
+
 <p><span class="chinese">不管其他人的地方来。</span><span class="english">They ain't friendly.</span></p>
 
 <p><span class="chinese">这人友好地笑了笑。</span><span class="english">The man smiled friendly.</span></p>

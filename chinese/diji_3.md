@@ -1,5 +1,7 @@
 # 地积
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diji_3.md)
+
 <p><span class="chinese">降低半山区西部的地积比率。</span><span class="english">Reduce the PR in Mid-levels West.</span></p>
 
 <p><span class="chinese">雪厚厚地积在地上。</span><span class="english">The snow lies thick on the ground.</span></p>

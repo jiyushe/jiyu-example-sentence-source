@@ -1,5 +1,7 @@
 # 贴水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieshui.md)
+
 <p><span class="chinese">但去年麦当劳贴水咖啡给予很好的压力。</span><span class="english">But last year, McDonald's Premium coffee got some good press.</span></p>
 
 <p><span class="chinese">境内市场远期价格贴水更是缩小为692个点。</span><span class="english">Within the boundaries market forward price agio is the reduction is 692 spots.</span></p>

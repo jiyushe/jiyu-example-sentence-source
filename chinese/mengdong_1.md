@@ -1,5 +1,7 @@
 # 懵懂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengdong_1.md)
+
 <p><span class="chinese">他常常是在威士忌的懵懂醉意中度过的。</span><span class="english">He often lives in a haze of whisky.</span></p>
 
 <p><span class="chinese">你不能再有这么多懵懂的梦想。</span><span class="english">You should drop so many vague dreams.</span></p>

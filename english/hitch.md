@@ -1,5 +1,7 @@
 # hitch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hitch.md)
+
 <p><span class="chinese">后来他们结婚了吗?</span><span class="english">Did they hitch then?</span></p>
 
 <p><span class="chinese">把你的长裤往上拉一下。</span><span class="english">Give your trousers a hitch.</span></p>

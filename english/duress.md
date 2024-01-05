@@ -1,5 +1,7 @@
 # duress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duress.md)
+
 <p><span class="chinese">这些不平等条约是在强迫下签订的。</span><span class="english">These unequal treaties were made under duress.</span></p>
 
 <p><span class="chinese">因为需要和被迫，她学会了做生意。</span><span class="english">She learned the trade by necessity and under duress.</span></p>

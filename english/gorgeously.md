@@ -1,5 +1,7 @@
 # gorgeously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gorgeously.md)
+
 <p><span class="chinese">杰克的房子装饰得十分华丽。</span><span class="english">Jack's house was gorgeously embossed.</span></p>
 
 <p><span class="chinese">帮他们在一间漂亮奢华的饭店登记。</span><span class="english">Check them into a gorgeously luxurious hotel.</span></p>

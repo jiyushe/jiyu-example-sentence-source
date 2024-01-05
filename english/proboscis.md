@@ -1,5 +1,7 @@
 # proboscis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proboscis.md)
+
 <p><span class="chinese">它的喙上粘了很多花粉。</span><span class="english">Its proboscis has got stuck to a lot of pollen.</span></p>
 
 <p><span class="chinese">它使用喙感知近距离的猎物。</span><span class="english">It uses its proboscis for sensing at close range.</span></p>

@@ -1,5 +1,7 @@
 # amicably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amicably.md)
+
 <p><span class="chinese">他们最终和解了。</span><span class="english">They finally selled it amicably.</span></p>
 
 <p><span class="chinese">请转告三井公司化学部，此事已获圆满解决。</span><span class="english">Mitsubishi firm chemical Dept case settled amicably already.</span></p>

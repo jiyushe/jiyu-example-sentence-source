@@ -1,5 +1,7 @@
 # multicoloured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multicoloured.md)
+
 <p><span class="chinese">花园里花草茂密，五彩缤纷。</span><span class="english">The garden is carpeted with a mass of multicoloured flowers.</span></p>
 
 <p><span class="chinese">文章对这些绚丽多彩的楚汉丝织品作了介绍。</span><span class="english">This paper makes an introduction to these multicoloured silk articles.</span></p>

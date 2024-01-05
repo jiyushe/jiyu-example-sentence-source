@@ -1,5 +1,7 @@
 # 沙丁鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shadingyu.md)
+
 <p><span class="chinese">我去弄点沙丁鱼来好吗？</span><span class="english">May I get the sardines?</span></p>
 
 <p><span class="chinese">准确地讲是沙丁鱼。</span><span class="english">Sardines, to be precise.</span></p>

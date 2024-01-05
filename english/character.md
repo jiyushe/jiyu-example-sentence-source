@@ -1,5 +1,7 @@
 # character
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/character.md)
+
 <p><span class="chinese">他的性格已定型。</span><span class="english">His character is set.</span></p>
 
 <p><span class="chinese">他失去了他的性格。</span><span class="english">He lost his character.</span></p>

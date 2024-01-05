@@ -1,5 +1,7 @@
 # 一瞥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yipie_1.md)
+
 <p><span class="chinese">桌面一瞥。</span><span class="english">Peeking at the Desktop.</span></p>
 
 <p><span class="chinese">但他这一瞥几乎什么都没看到。</span><span class="english">But he’d hardly glanced at it.</span></p>

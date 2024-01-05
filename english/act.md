@@ -1,5 +1,7 @@
 # act
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/act.md)
+
 <p><span class="chinese">第三幕第二景</span><span class="english">Act , scene 2</span></p>
 
 <p><span class="chinese">切宜仔细。</span><span class="english">Act carefully!</span></p>

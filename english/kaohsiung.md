@@ -1,5 +1,7 @@
 # kaohsiung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaohsiung.md)
+
 <p><span class="chinese">灵跃活祭在高雄。</span><span class="english">HosannaFire in Kaohsiung.</span></p>
 
 <p><span class="chinese">高雄港就在您的左边。</span><span class="english">Kaohsiung Harbor is on your left.</span></p>

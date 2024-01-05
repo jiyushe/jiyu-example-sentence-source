@@ -1,5 +1,7 @@
 # leg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leg.md)
+
 <p><span class="chinese">腿抽筋！</span><span class="english">Leg cramp!</span></p>
 
 <p><span class="chinese">我的腿痛。</span><span class="english">My leg hurts.</span></p>

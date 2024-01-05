@@ -1,5 +1,7 @@
 # neovascularization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neovascularization.md)
+
 <p><span class="chinese">目的建立小鼠肿瘤新生血管形成模型。</span><span class="english">Objective To develop a model for tumor neovascularization in mice.</span></p>
 
 <p><span class="chinese">探讨角膜新生血管的有效治疗措施。</span><span class="english">To discuss the effective treatment measures of corneal neovascularization.</span></p>

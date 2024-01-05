@@ -1,5 +1,7 @@
 # 卧薪尝胆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woxinchangdan.md)
+
 <p><span class="chinese">为什么勾践要选择屈服和卧薪尝胆。</span><span class="english">Why choose Gou yield and Revival.</span></p>
 
 <p><span class="chinese">这与家喻户晓的勾践卧薪尝胆的典故如出一辙。</span><span class="english">This is the story of hardships known Gou same.</span></p>

@@ -1,5 +1,7 @@
 # 纪元
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiyuan_2.md)
+
 <p><span class="chinese">迈开了烟花的新时代纪元？</span><span class="english">Taking a new era of era of fireworks.</span></p>
 
 <p><span class="chinese">现在我们讲到了公历纪元，所以是公元66年。</span><span class="english">Now we're in the Common Era,so this 66 CE.</span></p>

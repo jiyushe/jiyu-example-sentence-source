@@ -1,5 +1,7 @@
 # 名利双收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minglishuangshou.md)
+
 <p><span class="chinese">我想在生活中名利双收。</span><span class="english">I want fame and riches in my life.</span></p>
 
 <p><span class="chinese">哪种职业可确保你名利双收？</span><span class="english">Which career will ensure both fame and wealth for you?</span></p>

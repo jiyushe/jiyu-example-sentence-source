@@ -1,5 +1,7 @@
 # pyrogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrogen.md)
+
 <p><span class="chinese">家兔热原试验未见明显发热。</span><span class="english">No significant fever of rabbit was observed in pyrogen test.</span></p>
 
 <p><span class="chinese">结果高纯度的黄芩苷无热原反应。</span><span class="english">Results Highly pure baicalin did not showed pyrogen reaction.</span></p>

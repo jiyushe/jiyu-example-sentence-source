@@ -1,5 +1,7 @@
 # sisera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sisera.md)
+
 <p><span class="chinese">西西拉逃了！</span><span class="english">Sisera fled onfoot!</span></p>
 
 <p><span class="chinese">西西拉苍白地说。</span><span class="english">Sisera said, panting.</span></p>

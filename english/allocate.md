@@ -1,5 +1,7 @@
 # allocate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allocate.md)
+
 <p><span class="chinese">CEO的职责是分配资源。</span><span class="english">CEOs allocate resources.</span></p>
 
 <p><span class="chinese">我们必须分好这笔钱。</span><span class="english">We must allocate the money.</span></p>

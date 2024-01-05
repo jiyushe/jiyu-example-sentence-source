@@ -1,5 +1,7 @@
 # glycemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycemia.md)
+
 <p><span class="chinese">一个更好的血糖检测指标。</span><span class="english">A better index of overall glycemia.</span></p>
 
 <p><span class="chinese">其空腹血糖基本维持在正常范围内。</span><span class="english">The fast glycemia basically maintained within normal range.</span></p>

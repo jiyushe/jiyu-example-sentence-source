@@ -1,5 +1,7 @@
 # occupational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occupational.md)
+
 <p><span class="chinese">面临职业性接触风险者应</span><span class="english">Those at risk of occupational exposure should</span></p>
 
 <p><span class="chinese">而直觉性的职业也最吸引你。</span><span class="english">The intuition of occupational most attracts you.</span></p>

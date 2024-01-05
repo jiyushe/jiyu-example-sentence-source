@@ -1,5 +1,7 @@
 # 连篇累牍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianpianleidu.md)
+
 <p><span class="chinese">当地的媒体闻讯公司的做法，进行了连篇累牍的报道。</span><span class="english">Local press got wind of the company and made a lot of noise about it.</span></p>
 
 <p><span class="chinese">乐连篇累牍地陈述了目前中国面临的发展问题和挑战。</span><span class="english">Le provided a long litany of development problems and challenges facing China.</span></p>

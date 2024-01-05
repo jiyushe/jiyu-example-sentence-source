@@ -1,5 +1,7 @@
 # trailing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trailing.md)
+
 <p><span class="chinese">他们在追猎一头鹿。</span><span class="english">They were trailing a deer.</span></p>
 
 <p><span class="chinese">狗拖着狗链跑开了。</span><span class="english">The dog ran off, trailing its leash.</span></p>

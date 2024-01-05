@@ -1,5 +1,7 @@
 # 惊心动魄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxindongpo.md)
+
 <p><span class="chinese">靠近竟然是这样一件惊心动魄的事。</span><span class="english">Near unexpectedly is such an soul-stirring.</span></p>
 
 <p><span class="chinese">经历过如此惊心动魄的事件之后，他变得成熟了。</span><span class="english">He seasoned after such a soul-stirring incident.</span></p>

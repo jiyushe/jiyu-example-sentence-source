@@ -1,5 +1,7 @@
 # 不忍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buren.md)
+
 <p><span class="chinese">我不忍看你这样。</span><span class="english">I can't bear to see you like this.</span></p>
 
 <p><span class="chinese">那次耶和华也应允我，不忍将你灭绝。</span><span class="english">It was not his will to destroy you.</span></p>

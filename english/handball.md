@@ -1,5 +1,7 @@
 # handball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handball.md)
+
 <p><span class="chinese">橄榄球和手球同样也有他们的拥护者。</span><span class="english">Also rugby and handball have their adherents.</span></p>
 
 <p><span class="chinese">她父亲太胖以至不能玩手球。</span><span class="english">Her father is too corpulent to play handball.</span></p>

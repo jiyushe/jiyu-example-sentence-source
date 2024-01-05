@@ -1,5 +1,7 @@
 # teleological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teleological.md)
+
 <p><span class="chinese">这就是目的论推理的一个例子。</span><span class="english">This is an example of teleological reasoning.</span></p>
 
 <p><span class="chinese">目的论的推论的原则，我相信</span><span class="english">The teleological framework of reasoning,I believe</span></p>

@@ -1,5 +1,7 @@
 # salacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salacious.md)
+
 <p><span class="chinese">赤裸裸的猥亵细节再度充斥了报纸的版面。</span><span class="english">The newspapers once again filled their columns with salacious details.</span></p>
 
 <p><span class="chinese">这种雄性长鼻猴长着一个下垂的、看上去有些色迷迷的大鼻子。</span><span class="english">The male proboscis monkey has a pendulous vaguely salacious Jimmy Durante nose.</span></p>

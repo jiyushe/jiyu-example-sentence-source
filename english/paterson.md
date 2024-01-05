@@ -1,5 +1,7 @@
 # paterson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paterson.md)
+
 <p><span class="chinese">1910年，她嫁给了肯尼斯·伯雷尔·帕特森。</span><span class="english">In 1910, she would marry Kenneth Birrell Paterson.</span></p>
 
 <p><span class="chinese">佩特森将成为纽约州的第一位非洲裔州长。</span><span class="english">Paterson will become the state's first African-American leader.</span></p>

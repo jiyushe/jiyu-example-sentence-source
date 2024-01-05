@@ -1,5 +1,7 @@
 # 偕同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xietong.md)
+
 <p><span class="chinese">他偕同500人的警卫队一起登陆，签订条约。</span><span class="english">He landed with a guard of 500 men to sign the treaty.</span></p>
 
 <p><span class="chinese">有时上大课他会偕同几个干部到教室点名。</span><span class="english">Sometimes he would bring a few big class cadre to the classroom.</span></p>

@@ -1,5 +1,7 @@
 # nathaniel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nathaniel.md)
+
 <p><span class="chinese">这是Nathaniel，Branden的观点。</span><span class="english">These are the words of Nathaniel Branden.</span></p>
 
 <p><span class="chinese">这是我想做且我知道纳旦尼尔也会如此。</span><span class="english">That's what I do and I know that's what Nathaniel did.</span></p>

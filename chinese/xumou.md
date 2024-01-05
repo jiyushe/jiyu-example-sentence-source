@@ -1,5 +1,7 @@
 # 蓄谋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xumou.md)
+
 <p><span class="chinese">那名球员是蓄谋犯规的。</span><span class="english">The player committed an intentional foul.</span></p>
 
 <p><span class="chinese">他们蓄谋推翻政府。</span><span class="english">They are plotting to overthrow the government.</span></p>

@@ -1,5 +1,7 @@
 # 味蕾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilei.md)
+
 <p><span class="chinese">改变自己味蕾。</span><span class="english">Taste buds change.</span></p>
 
 <p><span class="chinese">它们覆盖着我们的味蕾。</span><span class="english">They house our taste buds.</span></p>

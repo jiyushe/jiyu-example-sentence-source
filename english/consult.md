@@ -1,5 +1,7 @@
 # consult
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consult.md)
+
 <p><span class="chinese">请教炒股票问题？</span><span class="english">Consult fry share issue?</span></p>
 
 <p><span class="chinese">请翻阅点歌单.</span><span class="english">Please consult the song list.</span></p>

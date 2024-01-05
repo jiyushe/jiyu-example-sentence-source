@@ -1,5 +1,7 @@
 # peroxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peroxide.md)
+
 <p><span class="chinese">过氧化钡加锌粉。</span><span class="english">Barium peroxide and zinc dust.</span></p>
 
 <p><span class="chinese">方法过氧化氢氧化降解法。</span><span class="english">MethodsDegradation by hydrogen peroxide oxidation.</span></p>

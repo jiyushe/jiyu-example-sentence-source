@@ -1,5 +1,7 @@
 # ministration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ministration.md)
+
 <p><span class="chinese">那么，属神的职务，岂不更该有光荣吗？</span><span class="english">How shall not the ministration of the spirit be rather in glory?</span></p>
 
 <p><span class="chinese">职务过失犯罪刑事责任的根据呈多元性的特点。</span><span class="english">Thereby , the basis of penal responsibility of ministration defect sin is varied.</span></p>

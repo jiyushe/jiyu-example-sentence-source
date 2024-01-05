@@ -1,5 +1,7 @@
 # australasian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/australasian.md)
+
 <p><span class="chinese">澳大拉西亚常绿树木或灌木。</span><span class="english">Australasian evergreen trees or shrubs.</span></p>
 
 <p><span class="chinese">1905年，一个叫做澳大拉西亚男子锦标赛的联赛诞生。</span><span class="english">In 1905 was created a tournament named The Australasian Mens Championships.</span></p>

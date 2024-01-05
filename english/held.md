@@ -1,5 +1,7 @@
 # held
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/held.md)
+
 <p><span class="chinese">我深出了一口气。</span><span class="english">I held my breath.</span></p>
 
 <p><span class="chinese">牵过我的手。</span><span class="english">Who held my hand.</span></p>

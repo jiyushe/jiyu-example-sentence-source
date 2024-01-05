@@ -1,5 +1,7 @@
 # 要点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaodian.md)
+
 <p><span class="chinese">我也想要点茶。</span><span class="english">I also want some tea.</span></p>
 
 <p><span class="chinese">我要点特餐.</span><span class="english">I’ll have the special.</span></p>

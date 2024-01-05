@@ -1,5 +1,7 @@
 # coroner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coroner.md)
+
 <p><span class="chinese">但谁给这条鲤鱼扮演验尸官的角色呢？</span><span class="english">But who plays coroner to a carp?</span></p>
 
 <p><span class="chinese">我现在是乡村验尸官，兰金先生。</span><span class="english">I' m the county coroner now, Mr. Rankin.</span></p>

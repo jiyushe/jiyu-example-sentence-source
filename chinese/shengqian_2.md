@@ -1,5 +1,7 @@
 # 省钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqian_2.md)
+
 <p><span class="chinese">何来省钱的解决之道？</span><span class="english">The money-saving solution?</span></p>
 
 <p><span class="chinese">不如试试这些省钱的小招数。</span><span class="english">Try these money-saving tips.</span></p>

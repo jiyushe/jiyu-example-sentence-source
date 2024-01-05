@@ -1,5 +1,7 @@
 # 抗药性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangyaoxing.md)
+
 <p><span class="chinese">而且病毒有抗药性。</span><span class="english">And there is drug-resistance.</span></p>
 
 <p><span class="chinese">抗药性葡萄球菌已经在医疗系统爆发。</span><span class="english">Drug-resistant staph really exploded in healthcare.</span></p>

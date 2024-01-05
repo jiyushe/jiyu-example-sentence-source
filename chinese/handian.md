@@ -1,5 +1,7 @@
 # 函电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/handian.md)
+
 <p><span class="chinese">给我送一份这封商业函电的复印件来。</span><span class="english">Send me a copy of this business letter.</span></p>
 
 <p><span class="chinese">商务函电是国际商务活动的重要载体。</span><span class="english">Business correspondence is an important carrier in the field of international business.</span></p>

@@ -1,5 +1,7 @@
 # dao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dao.md)
+
 <p><span class="chinese">他说，好事多磨，这也是道的一部分。</span><span class="english">This is also part of the Dao.</span></p>
 
 <p><span class="chinese">总理您好我是香港新岛日报的记者。</span><span class="english">I am with Xin Dao Daily of Hong Kong.</span></p>

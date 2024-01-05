@@ -1,5 +1,7 @@
 # 账户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanghu_1.md)
+
 <p><span class="chinese">投资类账户。</span><span class="english">Investment accounts.</span></p>
 
 <p><span class="chinese">你的账户透支了。</span><span class="english">Your account is overdrawn.</span></p>

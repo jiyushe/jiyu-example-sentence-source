@@ -1,5 +1,7 @@
 # scriptural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scriptural.md)
+
 <p><span class="chinese">诗篇是孩子们祈祷的另一圣经资源。</span><span class="english">The Psalms are another resource for Scriptural prayer for kids.</span></p>
 
 <p><span class="chinese">这些就是出于圣经的原因去试验启发课程。</span><span class="english">These, then, are the Scriptural reasons for examining the Alpha Course.</span></p>

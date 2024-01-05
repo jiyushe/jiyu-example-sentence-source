@@ -1,5 +1,7 @@
 # inefficacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inefficacy.md)
+
 <p><span class="chinese">在失效感维度上，不存在职业自我概念的调节作用。</span><span class="english">However, the adjusting role does not exist in inefficacy dimension.</span></p>
 
 <p><span class="chinese">结果67例足溃疡患者中，16例愈合，34例好转，17例无效。</span><span class="english">Results There are 16 cases with healing, 34 improvements, 17 inefficacy.</span></p>

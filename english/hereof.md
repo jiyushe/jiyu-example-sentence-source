@@ -1,5 +1,7 @@
 # hereof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hereof.md)
+
 <p><span class="chinese">承包商应提供本技术规格与要求3中所规定的技术文件。</span><span class="english">The Contractor shall provide the technical documents specified in part 3 hereof.</span></p>
 
 <p><span class="chinese">故此他理当为百姓和自己献祭赎罪。</span><span class="english">And by reason hereof he ought, as for the people, so also for himself, to offer for sins.</span></p>

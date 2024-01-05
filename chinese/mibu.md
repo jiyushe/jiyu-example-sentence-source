@@ -1,5 +1,7 @@
 # 密布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mibu.md)
+
 <p><span class="chinese">丛林中密布的苔藓。</span><span class="english">The dense mosses of the jungle.</span></p>
 
 <p><span class="chinese">晴朗的天空突然阴云密布。</span><span class="english">The sunny sky suddenly clouded.</span></p>

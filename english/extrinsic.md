@@ -1,5 +1,7 @@
 # extrinsic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrinsic.md)
+
 <p><span class="chinese">所以它既有外在价值，也有内在价值。</span><span class="english">It's got extrinsic and intrinsic value for me.</span></p>
 
 <p><span class="chinese">强化可以是内在的、外在的或无关的。</span><span class="english">Reinforcement can be intrinsic, extrinsic or extraneous.</span></p>

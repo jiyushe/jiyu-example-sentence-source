@@ -1,5 +1,7 @@
 # draughts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/draughts.md)
+
 <p><span class="chinese">他们在玩国际跳棋。</span><span class="english">They are playing a game of draughts.</span></p>
 
 <p><span class="chinese">西洋跳棋比象棋简单。</span><span class="english">Draughts is an easier game than chess.</span></p>

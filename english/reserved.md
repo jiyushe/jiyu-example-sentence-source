@@ -1,5 +1,7 @@
 # reserved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reserved.md)
+
 <p><span class="chinese">保留所有权利。</span><span class="english">All rights reserved.</span></p>
 
 <p><span class="chinese">天蝎被冷淡了。</span><span class="english">The Scorpio is reserved.</span></p>

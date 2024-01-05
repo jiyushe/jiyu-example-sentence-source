@@ -1,5 +1,7 @@
 # imidazole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imidazole.md)
+
 <p><span class="chinese">组氨酸是含咪唑核的碱性氨基酸。</span><span class="english">L-histidine is an alkalescence amino acid with an imidazole group.</span></p>
 
 <p><span class="chinese">用作细胞因子的某些1，4，5-三取代咪唑化合物。</span><span class="english">Certain 1, 4, 5 -tri- substituted imidazole compounds useful as cytokine.</span></p>

@@ -1,5 +1,7 @@
 # carbine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbine.md)
+
 <p><span class="chinese">你要不要我的卡宾枪？</span><span class="english">Would you like my carbine?</span></p>
 
 <p><span class="chinese">卡宾枪由此得名。</span><span class="english">The carbine rifle acquires fame from this.</span></p>

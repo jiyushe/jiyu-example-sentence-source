@@ -1,5 +1,7 @@
 # justifiability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/justifiability.md)
+
 <p><span class="chinese">宽恕还有正当性限度。</span><span class="english">In addition, forgiveness has the limitation of justifiability.</span></p>
 
 <p><span class="chinese">但医疗行为的正当性具有严格的条件限制。</span><span class="english">But the justifiability of medical treatment has been limit in strict condition.</span></p>

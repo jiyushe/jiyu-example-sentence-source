@@ -1,5 +1,7 @@
 # 丝竹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sizhu.md)
+
 <p><span class="chinese">其歌若悠扬丝竹。</span><span class="english">Its songs made of silk.</span></p>
 
 <p><span class="chinese">他不知道自己这对眼睛有没有灵魂，也不知道露丝竹他的眼睛观感如何。</span><span class="english">He wondered, also, how his eyes looked to her.</span></p>

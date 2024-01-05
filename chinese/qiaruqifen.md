@@ -1,5 +1,7 @@
 # 恰如其分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaruqifen.md)
+
 <p><span class="chinese">它表现得恰如其分</span><span class="english">It's behaving appropriately.</span></p>
 
 <p><span class="chinese">蓝色的卫生间与水相衬恰如其分。</span><span class="english">Blue bath rooms are appropriately watery.</span></p>

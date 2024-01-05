@@ -1,5 +1,7 @@
 # 刺柏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cibai.md)
+
 <p><span class="chinese">刺柏树枝烧起来的味道真不错！</span><span class="english">Juniper twigs for that nice smoky smell!</span></p>
 
 <p><span class="chinese">才能看到挂满冰的刺柏。</span><span class="english">To behold the junipers shagged with ice.</span></p>

@@ -1,5 +1,7 @@
 # ibo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ibo.md)
+
 <p><span class="chinese">能够在此刻成为玛克雅的亚洲会员确实是令人雀跃的机会！</span><span class="english">It truly is an amazing time to be a Maakao IBO in the Asian market!</span></p>
 
 <p><span class="chinese">IBO为很广泛范围的各种不同学校提供三个教育项目。</span><span class="english">The IBO offers to a wide range of schools, in a variety of settings, three programmes.</span></p>

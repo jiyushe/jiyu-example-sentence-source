@@ -1,5 +1,7 @@
 # ghi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghi.md)
+
 <p><span class="chinese">现在地质灾害组织正在寻求资助以开展这项工作。</span><span class="english">GHI is now seeking funds to start this work.</span></p>
 
 <p><span class="chinese">实施全球健康行动计划遵循一条新的方针</span><span class="english">Implementation of the GHI follows a new approach</span></p>

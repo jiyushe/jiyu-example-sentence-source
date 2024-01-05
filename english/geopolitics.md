@@ -1,5 +1,7 @@
 # geopolitics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geopolitics.md)
+
 <p><span class="chinese">奇点的地缘政治学和社会经济学基础是什么？</span><span class="english">What are the geopolitics and the socioeconomics of the Singularity?</span></p>
 
 <p><span class="chinese">但中国的地缘政治策略是与经济用品紧密地联系的。</span><span class="english">But China's strategy dovetailed geopolitics with economic necessity.</span></p>

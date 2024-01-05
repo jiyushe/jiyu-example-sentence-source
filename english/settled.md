@@ -1,5 +1,7 @@
 # settled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/settled.md)
+
 <p><span class="chinese">好，就这么说定了。</span><span class="english">Good. Settled then.</span></p>
 
 <p><span class="chinese">他定居马来西亚。</span><span class="english">He settled in Malaysia.</span></p>

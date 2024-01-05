@@ -1,5 +1,7 @@
 # chopsticks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chopsticks.md)
+
 <p><span class="chinese">你能用筷子吗？</span><span class="english">Can you use chopsticks?</span></p>
 
 <p><span class="chinese">不要舔舐筷子。</span><span class="english">Licking your chopsticks.</span></p>

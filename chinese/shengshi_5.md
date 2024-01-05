@@ -1,5 +1,7 @@
 # 盛世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshi_5.md)
+
 <p><span class="chinese">生如夏花，盛世浮华。</span><span class="english">Life like summer flowers, spirit.</span></p>
 
 <p><span class="chinese">睡梦中听见盛世的欢唱。</span><span class="english">Hearing the song of prosperity in my dreamland.</span></p>

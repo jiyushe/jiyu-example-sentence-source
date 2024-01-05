@@ -1,5 +1,7 @@
 # manner 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manner_1.md)
+
 <p><span class="chinese">他态度生硬。</span><span class="english">He is stiff in manner.</span></p>
 
 <p><span class="chinese">他举止活泼轻快。</span><span class="english">He has a breezy manner.</span></p>

@@ -1,5 +1,7 @@
 # gilding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gilding.md)
+
 <p><span class="chinese">贴金箔是怎么贴上去的？</span><span class="english">Gilding is posted up how?</span></p>
 
 <p><span class="chinese">但是吉尔丁坚持认为自己是个现实主义者。</span><span class="english">Gilding insists he is a realist.</span></p>

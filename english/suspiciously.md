@@ -1,5 +1,7 @@
 # suspiciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suspiciously.md)
+
 <p><span class="chinese">我怀疑地问道。</span><span class="english">I asked suspiciously.</span></p>
 
 <p><span class="chinese">她猜疑地望着我。</span><span class="english">She looked at me suspiciously.</span></p>

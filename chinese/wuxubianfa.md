@@ -1,5 +1,7 @@
 # 戊戌变法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxubianfa.md)
+
 <p><span class="chinese">戊戌变法的性质是立宪吗?。</span><span class="english">Is the Nature of the 1898 ReformConstitutionFormation?</span></p>
 
 <p><span class="chinese">戊戌变法是一次资产阶级性质的革命运动。</span><span class="english">The Reform Movement of 1898 is a revolutionary movement of bourgeois nature.</span></p>

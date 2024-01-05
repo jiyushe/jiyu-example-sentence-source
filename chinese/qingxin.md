@@ -1,5 +1,7 @@
 # 倾心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxin.md)
+
 <p><span class="chinese">他倾心付出他的一切来踢球。</span><span class="english">He played his heart out.</span></p>
 
 <p><span class="chinese">当我遇见她，我就对她倾心不已。</span><span class="english">When I meet her, I had the hots for her.</span></p>

@@ -1,5 +1,7 @@
 # misguide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misguide.md)
+
 <p><span class="chinese">不要让它的大小误导你了。</span><span class="english">Don't let its size misguide you.</span></p>
 
 <p><span class="chinese">我很认真地不误导你们。</span><span class="english">I am careful not to misguide you.</span></p>

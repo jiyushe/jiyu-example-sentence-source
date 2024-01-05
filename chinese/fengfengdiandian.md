@@ -1,5 +1,7 @@
 # 疯疯癫癫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengfengdiandian.md)
+
 <p><span class="chinese">她有时候有点疯疯癫癫的。</span><span class="english">She is a bit funny sometimes.</span></p>
 
 <p><span class="chinese">可是他的确也有点儿疯疯癫癫。</span><span class="english">But he was certainly a little bit mad.</span></p>

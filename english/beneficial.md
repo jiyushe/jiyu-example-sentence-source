@@ -1,5 +1,7 @@
 # beneficial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beneficial.md)
+
 <p><span class="chinese">不要伤害益鸟。</span><span class="english">Don't harm beneficial birds.</span></p>
 
 <p><span class="chinese">并非所有的知识是有益的。</span><span class="english">Not all knowledge is beneficial.</span></p>

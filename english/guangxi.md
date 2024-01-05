@@ -1,5 +1,7 @@
 # guangxi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guangxi.md)
+
 <p><span class="chinese">广西芳香植物极为丰富。</span><span class="english">Guangxi is rich in aromatic plants.</span></p>
 
 <p><span class="chinese">广西柳工机械股份有限公司。</span><span class="english">Guangxi Liugong Machinery Co. , Ltd.</span></p>

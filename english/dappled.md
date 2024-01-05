@@ -1,5 +1,7 @@
 # dappled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dappled.md)
+
 <p><span class="chinese">树丛下很凉快，阳光只剩下斑斑点点。</span><span class="english">There was cool, dappled sunlight under the trees.</span></p>
 
 <p><span class="chinese">阳光穿过树叶照在地上，现出一块块亮斑。</span><span class="english">The Sun. shining through the leaves dappled the ground.</span></p>

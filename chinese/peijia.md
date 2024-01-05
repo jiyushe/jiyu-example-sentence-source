@@ -1,5 +1,7 @@
 # 陪嫁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peijia.md)
+
 <p><span class="chinese">是母亲的陪嫁物吗？</span><span class="english">Was it a dowry of mother's?</span></p>
 
 <p><span class="chinese">只是你的陪嫁品。</span><span class="english">The dowry being only you is tasted.</span></p>

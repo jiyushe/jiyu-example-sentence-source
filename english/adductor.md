@@ -1,5 +1,7 @@
 # adductor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adductor.md)
+
 <p><span class="chinese">他的左内收肌有一点问题。</span><span class="english">Carra has a problem with his adductor.</span></p>
 
 <p><span class="chinese">外展肌分开的角度是内收肌灵活型的一个重要指标。</span><span class="english">Abduction stance is a good indicator of adductor flexibility.</span></p>

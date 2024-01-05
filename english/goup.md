@@ -1,5 +1,7 @@
 # goup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goup.md)
+
 <p><span class="chinese">我想股价会上涨。</span><span class="english">I guess the share price will goup.</span></p>
 
 <p><span class="chinese">是的，八月时气温能上升到35度甚至更高。</span><span class="english">Yes, in August the temperature can goup to 35 degrees and over.</span></p>

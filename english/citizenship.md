@@ -1,5 +1,7 @@
 # citizenship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citizenship.md)
+
 <p><span class="chinese">您的国籍是什么？</span><span class="english">What is your citizenship?</span></p>
 
 <p><span class="chinese">我们是否都拥有双重籍贯?。</span><span class="english">Do we all hold dual citizenship?</span></p>

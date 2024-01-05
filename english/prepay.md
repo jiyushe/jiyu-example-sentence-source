@@ -1,5 +1,7 @@
 # prepay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prepay.md)
+
 <p><span class="chinese">我们不预付任何工作。</span><span class="english">We don't prepay any work.</span></p>
 
 <p><span class="chinese">客户必须预缴下一个月之费用。</span><span class="english">Advance payment and prepay next month.</span></p>

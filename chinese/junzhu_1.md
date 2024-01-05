@@ -1,5 +1,7 @@
 # 郡主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junzhu_1.md)
+
 <p><span class="chinese">那天，郡主没有再说话。</span><span class="english">After that day Llywelyn never spoke again.</span></p>
 
 <p><span class="chinese">您的仆人叫西赛柳，美丽的郡主。</span><span class="english">Cesario is your servant's name, fair princess.</span></p>

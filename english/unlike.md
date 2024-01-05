@@ -1,5 +1,7 @@
 # unlike 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlike.md)
+
 <p><span class="chinese">调试与狩猎没什么不同。</span><span class="english">Debugging is not unlike a hunt.</span></p>
 
 <p><span class="chinese">因此，爱尔兰经济不同于希腊。</span><span class="english">So its economy is unlike Greece.</span></p>

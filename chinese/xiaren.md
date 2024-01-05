@@ -1,5 +1,7 @@
 # 下人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaren.md)
+
 <p><span class="chinese">做下人的就该这样规矩本分才是。</span><span class="english">Did a person of should so rules duty be.</span></p>
 
 <p><span class="chinese">那些衣着华丽的下人在哪里闲逛？</span><span class="english">Where lounged the richly groomed footmen?</span></p>

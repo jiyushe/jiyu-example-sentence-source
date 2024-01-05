@@ -1,5 +1,7 @@
 # 去向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quxiang.md)
+
 <p><span class="chinese">她去向佛祖寻求帮助。</span><span class="english">She asked the god to help her.</span></p>
 
 <p><span class="chinese">恒河清洁计划去向何方？？</span><span class="english">Where did this clean ganga plan go??</span></p>

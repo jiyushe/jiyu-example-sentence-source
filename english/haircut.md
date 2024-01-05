@@ -1,5 +1,7 @@
 # haircut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haircut.md)
+
 <p><span class="chinese">他有剪过头发吗?。</span><span class="english">Has he had a haircut?</span></p>
 
 <p><span class="chinese">他理了一个很酷的发型。</span><span class="english">He got a cool haircut.</span></p>

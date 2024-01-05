@@ -1,5 +1,7 @@
 # 因势利导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshilidao.md)
+
 <p><span class="chinese">第三，因势利导，推动联合国发展领域改革。</span><span class="english">Maintaining the momentum of UN reform in the area of development.</span></p>
 
 <p><span class="chinese">一旦一种情绪有了名字，声音或者身份，你就能因势利导。</span><span class="english">Once a feeling has a name, voice or identity, you can work with it.</span></p>

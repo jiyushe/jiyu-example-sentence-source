@@ -1,5 +1,7 @@
 # cretaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cretaceous.md)
+
 <p><span class="chinese">其侵位时代为早白垩世。</span><span class="english">Its emplacement age was Early Cretaceous.</span></p>
 
 <p><span class="chinese">早白垩世中期—晚白垩世。</span><span class="english">Middle stage of Early Cretaceous-Late Cretaceous.</span></p>

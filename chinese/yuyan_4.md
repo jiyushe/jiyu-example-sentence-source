@@ -1,5 +1,7 @@
 # 预言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyan_4.md)
+
 <p><span class="chinese">他大胆地预言。</span><span class="english">He boldly prophesied.</span></p>
 
 <p><span class="chinese">我的预言是真的！</span><span class="english">The prophecy was true!</span></p>

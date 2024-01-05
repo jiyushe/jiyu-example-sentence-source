@@ -1,5 +1,7 @@
 # hamartoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hamartoma.md)
+
 <p><span class="chinese">巨大毛囊皮脂腺囊性错构瘤。</span><span class="english">Giant folliculosebaceous cystic hamartoma was diagnosed.</span></p>
 
 <p><span class="chinese">管内型错构瘤应与中心型肺癌鉴别。</span><span class="english">Intraluminal hamartoma should be differentiated from hilar lung cancer.</span></p>

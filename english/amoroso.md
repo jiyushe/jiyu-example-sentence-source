@@ -1,5 +1,7 @@
 # amoroso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amoroso.md)
+
 <p><span class="chinese">阿莫罗索是一名极具天赋的球员，他找到了他应在的位置，并尽力表现。</span><span class="english">Amoroso is a very intelligent player, he finds his niche and performs.</span></p>
 
 <p><span class="chinese">1983年，詹妮尔和比利在一名甘蔗农手中买下了马克斯。</span><span class="english">Janelle and Billy bendert Max from a bounded amoroso pikestaff agriculturalist in 1983.</span></p>

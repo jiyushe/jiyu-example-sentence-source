@@ -1,5 +1,7 @@
 # baal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baal.md)
+
 <p><span class="chinese">因此称那地方为巴力毘拉心。</span><span class="english">So that place was called Baal Perazim.</span></p>
 
 <p><span class="chinese">这样，耶户在以色列中灭了巴力。</span><span class="english">Thus Jehu destroyed Baal out of Israel.</span></p>

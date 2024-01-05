@@ -1,5 +1,7 @@
 # fountainhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fountainhead.md)
+
 <p><span class="chinese">也是民族志架构的源泉。</span><span class="english">And the fountainhead of ethnography construction.</span></p>
 
 <p><span class="chinese">缘于心灵的音乐是幸福的源泉。</span><span class="english">The reason in mind music is the happy fountainhead.</span></p>

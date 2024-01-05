@@ -1,5 +1,7 @@
 # stateless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stateless.md)
+
 <p><span class="chinese">此应用程序是无状态的。</span><span class="english">The application is stateless.</span></p>
 
 <p><span class="chinese">越来越多的集群向无状态计算迁移。</span><span class="english">More of a shift to stateless computing.</span></p>

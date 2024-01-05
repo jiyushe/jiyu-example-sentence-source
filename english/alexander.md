@@ -1,5 +1,7 @@
 # alexander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alexander.md)
+
 <p><span class="chinese">亚历山大大帝。</span><span class="english">Alexander.</span></p>
 
 <p><span class="chinese">亚历山大•麦昆。</span><span class="english">I love Alexander McQueen.</span></p>

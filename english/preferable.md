@@ -1,5 +1,7 @@
 # preferable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preferable.md)
+
 <p><span class="chinese">非吸烟者是可取的。</span><span class="english">Non-smoker is preferable.</span></p>
 
 <p><span class="chinese">不公正比全面毁灭来得好。</span><span class="english">Injustice is preferable to total ruin.</span></p>

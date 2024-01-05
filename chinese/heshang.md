@@ -1,5 +1,7 @@
 # 和尚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshang.md)
+
 <p><span class="chinese">我也想要唐和尚！</span><span class="english">I wanna one!</span></p>
 
 <p><span class="chinese">老和尚非常虔诚，也非常穷。</span><span class="english">He was also very poor.</span></p>

@@ -1,5 +1,7 @@
 # 酸软
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanruan.md)
+
 <p><span class="chinese">不要像一条酸软的鱼在晃动。</span><span class="english">And don't shake like a limp fish.</span></p>
 
 <p><span class="chinese">酸软酪对身体很好。</span><span class="english">Yogurt is very good for your body.</span></p>

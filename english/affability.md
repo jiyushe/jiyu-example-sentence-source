@@ -1,5 +1,7 @@
 # affability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affability.md)
+
 <p><span class="chinese">它能增进亲切感和爱意。</span><span class="english">It promotes affability and affection.</span></p>
 
 <p><span class="chinese">他的态度和蔼使他成为一个成功的售货员。</span><span class="english">His affability conduces to success as a salesman.</span></p>

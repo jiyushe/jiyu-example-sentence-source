@@ -1,5 +1,7 @@
 # cytokinesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytokinesis.md)
+
 <p><span class="chinese">什么是胞质分裂？。</span><span class="english">What Is Cytokinesis?</span></p>
 
 <p><span class="chinese">小孢子母细胞减数分裂为同时型。</span><span class="english">The cytokinesis of PMCs conforms to simultaneous type.</span></p>

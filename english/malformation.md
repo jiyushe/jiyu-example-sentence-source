@@ -1,5 +1,7 @@
 # malformation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malformation.md)
+
 <p><span class="chinese">是一种少见的小儿先天性支气管-肺发育畸形。</span><span class="english">Congenital Cystic Adeno-matoid Malformation of the Lung CCAM.</span></p>
 
 <p><span class="chinese">先天性心室憩室是一种少见的心脏畸形。</span><span class="english">Congenital ventricular diverticulum is a rare cardiac malformation.</span></p>

@@ -1,5 +1,7 @@
 # sweetened
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweetened.md)
+
 <p><span class="chinese">甜的不加冰，谢谢。</span><span class="english">Sweetened with no ice, please.</span></p>
 
 <p><span class="chinese">你的茶里加了蜂蜜变甜了。</span><span class="english">Your tea is sweetened with honey.</span></p>

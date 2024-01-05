@@ -1,5 +1,7 @@
 # 放荡不羁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangdangbuji.md)
+
 <p><span class="chinese">我曾经放荡不羁，愚不可及。</span><span class="english">I have been wild and foolish.</span></p>
 
 <p><span class="chinese">他的帅是一种放荡不羁的帅。</span><span class="english">He was handsome in a raffish kind of way.</span></p>

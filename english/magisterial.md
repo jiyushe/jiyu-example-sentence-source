@@ -1,5 +1,7 @@
 # magisterial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magisterial.md)
+
 <p><span class="chinese">很明显，这首诗有其权威性。</span><span class="english">The poem is obviously magisterial.</span></p>
 
 <p><span class="chinese">夏里克女士的书从以上几个方面对中国进行了眺望式的分析。</span><span class="english">Ms Shirk's magisterial book gazes down on China from above.</span></p>

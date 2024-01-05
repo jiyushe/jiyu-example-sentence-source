@@ -1,5 +1,7 @@
 # bagger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bagger.md)
+
 <p><span class="chinese">是的。这真是一个滑稽的乞丐！</span><span class="english">Yes, what a funny bagger he is.</span></p>
 
 <p><span class="chinese">当然啦，他是一个著名的乞丐。</span><span class="english">Sure he is. He is a famous bagger.</span></p>

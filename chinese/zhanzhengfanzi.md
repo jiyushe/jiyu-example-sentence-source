@@ -1,5 +1,7 @@
 # 战争贩子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanzhengfanzi.md)
+
 <p><span class="chinese">这并不意味着你们是战争贩子。</span><span class="english">This does not mean that you are war mongers.</span></p>
 
 <p><span class="chinese">战争贩子抱的正是这种态度！</span><span class="english">This is really the attitude of war mongers! !</span></p>

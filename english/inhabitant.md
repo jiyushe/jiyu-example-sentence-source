@@ -1,5 +1,7 @@
 # inhabitant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhabitant.md)
+
 <p><span class="chinese">岛民是指岛屿上的居民。</span><span class="english">Islander points to inhabitant of an island.</span></p>
 
 <p><span class="chinese">绦虫是栖居肠内的寄生虫。</span><span class="english">The tapeworm is an inhabitant of the intestine.</span></p>

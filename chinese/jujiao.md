@@ -1,5 +1,7 @@
 # 聚焦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jujiao.md)
+
 <p><span class="chinese">聚焦于关系构建。</span><span class="english">Focus on relationship-building.</span></p>
 
 <p><span class="chinese">但是我们聚焦的方向却错了。</span><span class="english">But we're getting the focus wrong.</span></p>

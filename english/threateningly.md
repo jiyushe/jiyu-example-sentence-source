@@ -1,5 +1,7 @@
 # threateningly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threateningly.md)
+
 <p><span class="chinese">那条狗对着我狂吠，很吓人。</span><span class="english">The dog growled at me threateningly.</span></p>
 
 <p><span class="chinese">当他威吓着逼近时，她躲开了他。</span><span class="english">As he moved threateningly forward she shrank from him.</span></p>

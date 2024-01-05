@@ -1,5 +1,7 @@
 # psychiatrist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychiatrist.md)
+
 <p><span class="chinese">精神病医生正式证明她神经失常。</span><span class="english">The psychiatrist certified her as insane.</span></p>
 
 <p><span class="chinese">一个刚生完孩子的母亲去看精神科医生。</span><span class="english">A new mother went to the psychiatrist worried.</span></p>

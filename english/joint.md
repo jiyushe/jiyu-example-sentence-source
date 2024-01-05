@@ -1,5 +1,7 @@
 # joint 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joint.md)
+
 <p><span class="chinese">一个关节脱臼了。</span><span class="english">A joint has started.</span></p>
 
 <p><span class="chinese">通过斜面连接在一起。</span><span class="english">To meet in a miter joint.</span></p>

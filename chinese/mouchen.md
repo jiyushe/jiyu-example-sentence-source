@@ -1,5 +1,7 @@
 # 谋臣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mouchen.md)
+
 <p><span class="chinese">国王任命他接替谋臣的职位。</span><span class="english">The king appointed him to the adviser's position.</span></p>
 
 <p><span class="chinese">因此，他决定将十万金币作为礼物送给那位谋臣。</span><span class="english">So he decided to give him a gift of 100,000 gold coins.</span></p>

@@ -1,5 +1,7 @@
 # monica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monica.md)
+
 <p><span class="chinese">莫尼卡，你是做什么工作的？</span><span class="english">What do you do, Monica?</span></p>
 
 <p><span class="chinese">现在我在圣莫尼卡工作，</span><span class="english">And I work in Santa Monica</span></p>

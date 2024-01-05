@@ -1,5 +1,7 @@
 # mamma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mamma.md)
+
 <p><span class="chinese">我几乎要跟妈妈相骂了。</span><span class="english">I almost stormed at mamma.</span></p>
 
 <p><span class="chinese">妈妈咪呀！我表现出来了吗?。</span><span class="english">Mamma Mia! does it show again?</span></p>

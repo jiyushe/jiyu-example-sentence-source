@@ -1,5 +1,7 @@
 # not 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/not.md)
+
 <p><span class="chinese">为什么不？</span><span class="english">Wy not?</span></p>
 
 <p><span class="chinese">保罗不得任何报酬。</span><span class="english">Not Paul.</span></p>

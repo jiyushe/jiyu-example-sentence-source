@@ -1,5 +1,7 @@
 # misjudgment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misjudgment.md)
+
 <p><span class="chinese">这是一个巨大的判断错误。</span><span class="english">This was a colossal misjudgment.</span></p>
 
 <p><span class="chinese">主要的原因还是政治判断失误。</span><span class="english">The key reason is political misjudgment.</span></p>

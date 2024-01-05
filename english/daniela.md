@@ -1,5 +1,7 @@
 # daniela
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daniela.md)
+
 <p><span class="chinese">卡纳一如既往的华美，丹丹具有他是多么幸运。</span><span class="english">Canna is as gorgeous as ever and Daniela is lucky to have him.</span></p>
 
 <p><span class="chinese">李娜当天的训练伙伴是另一名捷克选手汉图楚娃。</span><span class="english">Li Na's training partner on the day, another Czech, Daniela Hantuchova.</span></p>

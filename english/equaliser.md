@@ -1,5 +1,7 @@
 # equaliser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equaliser.md)
+
 <p><span class="chinese">组织起了本方的防守，并且打进了扳平比分的一球。</span><span class="english">Organised the defence, and scored Italy’s equaliser.</span></p>
 
 <p><span class="chinese">同样在1970年足总杯决赛重赛中，皮特-伯内蒂带伤出场加时赛。</span><span class="english">Peter Osgood's equaliser in the 1970 FA Cup Final replay.</span></p>

@@ -1,5 +1,7 @@
 # 退避三舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuibisanshe.md)
+
 <p><span class="chinese">你总是退避三舍吗？</span><span class="english">Do you always back off?</span></p>
 
 <p><span class="chinese">虽然人们都对他退避三舍，但是狗却乐于和他结伴。</span><span class="english">People avoided him, but the dogs hung out with him.</span></p>

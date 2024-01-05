@@ -1,5 +1,7 @@
 # 农艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongyi.md)
+
 <p><span class="chinese">现在他担任农艺系系主任。</span><span class="english">Now he heads the agronomy department.</span></p>
 
 <p><span class="chinese">某些品质性状与农艺性状指标之间存在相关关系。</span><span class="english">Some kinds of qualitative and agronomical traits are correlative.</span></p>

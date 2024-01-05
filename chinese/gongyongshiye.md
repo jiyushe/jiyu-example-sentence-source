@@ -1,5 +1,7 @@
 # 公用事业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyongshiye.md)
+
 <p><span class="chinese">公用事业电力厂。</span><span class="english">Public utility electricity power plant.</span></p>
 
 <p><span class="chinese">还有一件事，公用事业费不包括在房租里。</span><span class="english">One more thing, utilities are not included in the rent.</span></p>

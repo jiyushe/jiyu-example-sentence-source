@@ -1,5 +1,7 @@
 # 黑白分明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heibaifenming.md)
+
 <p><span class="chinese">生活黑白分明，要么爱，要么恨。</span><span class="english">Life is black-and-white.</span></p>
 
 <p><span class="chinese">夜景犹如一幅黑白分明的木刻画。</span><span class="english">The night was an etching in black and white.</span></p>

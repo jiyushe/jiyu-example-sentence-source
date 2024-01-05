@@ -1,5 +1,7 @@
 # latch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latch.md)
+
 <p><span class="chinese">这门是用锁锁住的。</span><span class="english">The door fastens with a latch.</span></p>
 
 <p><span class="chinese">这门不容易锁上。</span><span class="english">This door doesn't latch easily.</span></p>

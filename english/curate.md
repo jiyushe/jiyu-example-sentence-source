@@ -1,5 +1,7 @@
 # curate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curate.md)
+
 <p><span class="chinese">我的副牧师死了，布兰韦尔姨妈病得很重。</span><span class="english">My curate died, and Aunt Branwell became very ill.</span></p>
 
 <p><span class="chinese">那么副牧师也不教你读书写字了吗？</span><span class="english">And the curate does not teach you to read and write then?</span></p>

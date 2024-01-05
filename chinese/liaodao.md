@@ -1,5 +1,7 @@
 # 潦倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaodao.md)
+
 <p><span class="chinese">过着贫困潦倒的生活。</span><span class="english">Live a dog's life.</span></p>
 
 <p><span class="chinese">她已到了贫困潦倒的地步。</span><span class="english">She was left without a penny.</span></p>

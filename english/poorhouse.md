@@ -1,5 +1,7 @@
 # poorhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poorhouse.md)
+
 <p><span class="chinese">消失救济院那里的集市。</span><span class="english">The fair at the vanished poorhouse.</span></p>
 
 <p><span class="chinese">我确信自己已处在贫困的边缘，马上就要进济贫院了。</span><span class="english">I was certain I was on the brink of poverty, going to the poorhouse.</span></p>

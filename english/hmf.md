@@ -1,5 +1,7 @@
 # hmf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hmf.md)
+
 <p><span class="chinese">呵呵，现在并没有动呢。这还只是一个小小的胚胎吧。</span><span class="english">Hmf hmf, it's not moving yet. It's still just an itty bitty embryo.</span></p>
 
 <p><span class="chinese">一旦制成羟甲基糠醛后，进一步将其转化成塑料或柴油燃料就会相当容易。</span><span class="english">Once made, HMF is fairly easy to convert into plastics or diesel fuel.</span></p>

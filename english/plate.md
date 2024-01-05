@@ -1,5 +1,7 @@
 # plate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plate.md)
+
 <p><span class="chinese">洗净你的盘子。</span><span class="english">Clean your plate.</span></p>
 
 <p><span class="chinese">制作一个钟盘。</span><span class="english">Make a plate clock.</span></p>

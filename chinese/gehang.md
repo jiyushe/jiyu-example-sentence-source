@@ -1,5 +1,7 @@
 # 隔行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gehang.md)
+
 <p><span class="chinese">如何升迁隔行视频吗？</span><span class="english">How to upsize interlaced video?</span></p>
 
 <p><span class="chinese">隔行扫描电视支持已添加的PSP渺茫。</span><span class="english">TV support has been added for PSP slim.</span></p>

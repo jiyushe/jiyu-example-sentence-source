@@ -1,5 +1,7 @@
 # comprehend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comprehend.md)
+
 <p><span class="chinese">我简直不理解她！</span><span class="english">I hardly comprehend her!</span></p>
 
 <p><span class="chinese">我无法理解这个片语。</span><span class="english">I cannot comprehend this phrase.</span></p>

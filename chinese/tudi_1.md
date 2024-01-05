@@ -1,5 +1,7 @@
 # 徒弟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tudi_1.md)
+
 <p><span class="chinese">这个徒弟磨洋工。</span><span class="english">The apprentice lingered his work.</span></p>
 
 <p><span class="chinese">阿纳金…是你的徒弟了。</span><span class="english">Your apprentice Skywalker will be.</span></p>

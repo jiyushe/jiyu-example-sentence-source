@@ -1,5 +1,7 @@
 # 门可罗雀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menkeluoque.md)
+
 <p><span class="chinese">所有的大型商场都将变得门可罗雀。</span><span class="english">Entire malls will become ghost towns.</span></p>
 
 <p><span class="chinese">尽管平板炙手可热，联网电视却门可罗雀。</span><span class="english">While Tablets are hot, connected TVs are not.</span></p>

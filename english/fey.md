@@ -1,5 +1,7 @@
 # fey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fey.md)
+
 <p><span class="chinese">惠特尼的偶像是蒂娜•菲，这也是我的偶像。</span><span class="english">Whitney's hero is Tina Fey. As she is mine.</span></p>
 
 <p><span class="chinese">精类生物喜爱和各种生物调情并勾引他们。</span><span class="english">Fey enjoy sexual and emotional dalliances with creatures of all kinds.</span></p>

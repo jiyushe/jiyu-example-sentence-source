@@ -1,5 +1,7 @@
 # tess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tess.md)
+
 <p><span class="chinese">苔丝爬进了这个窝里。</span><span class="english">Into this Tess crept.</span></p>
 
 <p><span class="chinese">不，苔丝。</span><span class="english">Tess did not expostulate.</span></p>

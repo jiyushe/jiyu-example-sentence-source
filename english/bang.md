@@ -1,5 +1,7 @@
 # bang 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bang.md)
+
 <p><span class="chinese">直到呯的一声倒下说拜拜。</span><span class="english">Until bang and bye bye.</span></p>
 
 <p><span class="chinese">爆竹嘣地一响。</span><span class="english">The firecracker went bang.</span></p>

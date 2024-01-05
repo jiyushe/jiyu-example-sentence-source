@@ -1,5 +1,7 @@
 # 脱去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoqu.md)
+
 <p><span class="chinese">他脱去衣服，上床睡觉。</span><span class="english">He undressed himself and went to bed.</span></p>
 
 <p><span class="chinese">女王在仪式过后脱去了王袍。</span><span class="english">The Queen disrobed after the ceremony.</span></p>

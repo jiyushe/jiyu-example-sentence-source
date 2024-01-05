@@ -1,5 +1,7 @@
 # tew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tew.md)
+
 <p><span class="chinese">我干了点儿家务.</span><span class="english">I did a tew chores.</span></p>
 
 <p><span class="chinese">图说，网站现在已经恢复正常了。</span><span class="english">Tew said the site now works normally.</span></p>

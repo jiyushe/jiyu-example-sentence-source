@@ -1,5 +1,7 @@
 # suspension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suspension.md)
+
 <p><span class="chinese">重心在悬挂点下面。</span><span class="english">Center of mass below the suspension point.</span></p>
 
 <p><span class="chinese">它是第一座眼杆式悬索桥。</span><span class="english">It was the first eyebar suspension bridge.</span></p>

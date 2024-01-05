@@ -1,5 +1,7 @@
 # archives
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archives.md)
+
 <p><span class="chinese">也许你的档案也是这样。</span><span class="english">And so too, perhaps, do your archives.</span></p>
 
 <p><span class="chinese">原始记录性是档案的本质属性。</span><span class="english">Originality is the nature of archives.</span></p>

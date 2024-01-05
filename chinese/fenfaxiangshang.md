@@ -1,5 +1,7 @@
 # 奋发向上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfaxiangshang.md)
+
 <p><span class="chinese">一切痛苦都有助于我们奋发向上。</span><span class="english">For all pain helps to make us rise.</span></p>
 
 <p><span class="chinese">奋发向上的精神消失了</span><span class="english">The enterprising spirit seems gone.</span></p>

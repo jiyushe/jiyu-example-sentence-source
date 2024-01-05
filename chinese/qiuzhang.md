@@ -1,5 +1,7 @@
 # 酋长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuzhang.md)
+
 <p><span class="chinese">酋长就是她的父亲。</span><span class="english">The sheikh was her father.</span></p>
 
 <p><span class="chinese">酋长是个大骗子。</span><span class="english">The chief's a great spoofer.</span></p>

@@ -1,5 +1,7 @@
 # idc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idc.md)
+
 <p><span class="chinese">氧化物阴极的逸出功分布比钡钨阴极更不均匀。</span><span class="english">The IDC has a more uniform work function distribution than an oxide cathode.</span></p>
 
 <p><span class="chinese">所以IDC认为很多数据中心将被整合而且迎来一次彻底改变。</span><span class="english">So IDC thinks that many data centres will be consolidated and given a big makeover.</span></p>

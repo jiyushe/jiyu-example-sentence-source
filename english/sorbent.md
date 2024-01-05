@@ -1,5 +1,7 @@
 # sorbent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorbent.md)
+
 <p><span class="chinese">每个系统采用配对的吸着剂的陷阱。</span><span class="english">Each system requires the use of paired sorbent traps.</span></p>
 
 <p><span class="chinese">融合封装，可以通过透明窗观察吸附剂的状态。</span><span class="english">Melting seal packaging, a transparent window makes the sorbent seeable.</span></p>

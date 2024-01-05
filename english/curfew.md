@@ -1,5 +1,7 @@
 # curfew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curfew.md)
+
 <p><span class="chinese">休斯敦仍然实行夜间宵禁。</span><span class="english">Houston remains under a nighttime curfew.</span></p>
 
 <p><span class="chinese">二十三点起对培正学生实行宵禁。</span><span class="english">A 23.00 curfew is for all students at Peizheng.</span></p>

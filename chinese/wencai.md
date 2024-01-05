@@ -1,5 +1,7 @@
 # 文才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wencai.md)
+
 <p><span class="chinese">裴度是一位富有文才的政治家。</span><span class="english">The author holds that Pei Du was a statesman rich in Literarytalent.</span></p>
 
 <p><span class="chinese">虽然丹尼拥有这家公司，但喀尔文才是真正的幕后大头目。</span><span class="english">Although Denny owns this company, it is Calvin who is the ringleader.</span></p>

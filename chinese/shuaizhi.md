@@ -1,5 +1,7 @@
 # 率直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaizhi.md)
+
 <p><span class="chinese">说话率直的，不转弯抹角的。</span><span class="english">Abrupt and often disconcertingly frank in speech.</span></p>
 
 <p><span class="chinese">马尔罗伊率直地强迫人们用更少的水。</span><span class="english">Mulroy bluntly forced citizens to use less water.</span></p>

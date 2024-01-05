@@ -1,5 +1,7 @@
 # 大相径庭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxiangjingting.md)
+
 <p><span class="chinese">因此所制定的政策也大相径庭</span><span class="english">The political outcome is different.</span></p>
 
 <p><span class="chinese">这些民族主义或部落主义大相径庭。</span><span class="english">These nationalisms, or tribalisms vary widely.</span></p>

@@ -1,5 +1,7 @@
 # 谈笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanxiao.md)
+
 <p><span class="chinese">她谈笑风声地谈论艺术。</span><span class="english">She talked gaily of art.</span></p>
 
 <p><span class="chinese">他们高声谈笑了好几个小时。</span><span class="english">They have cackled on for hours.</span></p>

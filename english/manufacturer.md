@@ -1,5 +1,7 @@
 # manufacturer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manufacturer.md)
+
 <p><span class="chinese">我公司是一家甜酱生产商。</span><span class="english">We are manufacturer of Sweet sauce.</span></p>
 
 <p><span class="chinese">DEGA是意大利名机器制造商。</span><span class="english">DEGA Italy is a machinery manufacturer.</span></p>

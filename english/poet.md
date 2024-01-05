@@ -1,5 +1,7 @@
 # poet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poet.md)
+
 <p><span class="chinese">没有诗人可以抒怀。</span><span class="english">No poet can poet it.</span></p>
 
 <p><span class="chinese">诗人老矣，孤独。</span><span class="english">The poet is old, alone.</span></p>

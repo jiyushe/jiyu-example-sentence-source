@@ -1,5 +1,7 @@
 # pna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pna.md)
+
 <p><span class="chinese">综述了肽核酸的合成、结构修饰及应用。</span><span class="english">The synthesis, modifications and applications of PNA are reviewed.</span></p>
 
 <p><span class="chinese">十二指肠、直肠杯状细胞对PNA反应呈强阳性。</span><span class="english">The goblet cells of the duodenum and rectum showed strong reactions to PNA.</span></p>

@@ -1,5 +1,7 @@
 # adamantine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adamantine.md)
+
 <p><span class="chinese">生命傲然挺立，全以她坚定不移的信念。</span><span class="english">Life with her, stand proudly adamantine belief.</span></p>
 
 <p><span class="chinese">如来的身体是金刚体，牢不可破。</span><span class="english">The body of the Tathagata is adamantine and indestructible.</span></p>

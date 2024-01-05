@@ -1,5 +1,7 @@
 # bilayer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bilayer.md)
+
 <p><span class="chinese">最后分析了一个实际制备的双层器件。</span><span class="english">At last the prepared bilayer device is analyzed.</span></p>
 
 <p><span class="chinese">灵敏度可以通过合理地调解多层膜的厚度来控制。</span><span class="english">Sensitivity of the sensor is tunable by controlling the number of attached bilayer.</span></p>

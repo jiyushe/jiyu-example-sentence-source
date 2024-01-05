@@ -1,5 +1,7 @@
 # 议决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijue.md)
+
 <p><span class="chinese">品味使议决兆天获胜。</span><span class="english">The day that taste trillion won.</span></p>
 
 <p><span class="chinese">议决入会费、常年会费。</span><span class="english">Decide initiation fees and yearly dues.</span></p>

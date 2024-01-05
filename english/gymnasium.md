@@ -1,5 +1,7 @@
 # gymnasium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gymnasium.md)
+
 <p><span class="chinese">我找到一个新的健身房。</span><span class="english">I have found a new gymnasium.</span></p>
 
 <p><span class="chinese">竞赛将在体育馆举行。</span><span class="english">The game will be staged in the gymnasium.</span></p>

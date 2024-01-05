@@ -1,5 +1,7 @@
 # 通心粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxinfen.md)
+
 <p><span class="chinese">我朋友喜欢吃通心粉。</span><span class="english">My friend likes to eat ziti.</span></p>
 
 <p><span class="chinese">我想要蔬菜通心粉汤。</span><span class="english">I'd like the minestrone please.</span></p>

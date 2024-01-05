@@ -1,5 +1,7 @@
 # washroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washroom.md)
+
 <p><span class="chinese">我去下洗手间。</span><span class="english">I want to go to the washroom.</span></p>
 
 <p><span class="chinese">对不起，我要上厕所了。</span><span class="english">Sorry, I had to go to the washroom.</span></p>

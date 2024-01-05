@@ -1,5 +1,7 @@
 # chalcogenide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chalcogenide.md)
+
 <p><span class="chinese">开发了有高含量碱金属离子的新型硫化物玻璃。</span><span class="english">A new chalcogenide glass system containing higher content of alkali metal ions was developed.</span></p>
 
 <p><span class="chinese">本文对目前红外光纤研究的热点-硫系光纤独特的色散特性进行理论分析。</span><span class="english">In this paper, it was studied on the dispersion characteristics of chalcogenide fiber in detail.</span></p>

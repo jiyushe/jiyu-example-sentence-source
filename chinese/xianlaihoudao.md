@@ -1,5 +1,7 @@
 # 先来后到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianlaihoudao.md)
+
 <p><span class="chinese">先来后到！</span><span class="english">First come first served!</span></p>
 
 <p><span class="chinese">先来后到。</span><span class="english">First come, first serve.</span></p>

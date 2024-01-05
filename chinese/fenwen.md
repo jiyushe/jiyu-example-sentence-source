@@ -1,5 +1,7 @@
 # 分文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenwen.md)
+
 <p><span class="chinese">问人不费分文。</span><span class="english">Asking costs nothing.</span></p>
 
 <p><span class="chinese">这个分文不值。</span><span class="english">It's not worth twopence.</span></p>

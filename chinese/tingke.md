@@ -1,5 +1,7 @@
 # 停课
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingke.md)
+
 <p><span class="chinese">那天学校停课了。</span><span class="english">Classes were suspended that day.</span></p>
 
 <p><span class="chinese">新的法规正在起草中，以将停课也包括在内。</span><span class="english">A revised law is being drafted to include suspensions.</span></p>

@@ -1,5 +1,7 @@
 # reset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reset.md)
+
 <p><span class="chinese">高电平有效复位。</span><span class="english">Active-high reset.</span></p>
 
 <p><span class="chinese">请重设卡上的开关。</span><span class="english">Reset switch on card.</span></p>

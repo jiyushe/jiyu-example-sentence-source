@@ -1,5 +1,7 @@
 # tempest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tempest.md)
+
 <p><span class="chinese">暴风雨在无径的空中怒吼</span><span class="english">Tempest  roams in the pathless sky</span></p>
 
 <p><span class="chinese">啸声高奏著风暴曲。</span><span class="english">Or whistles aloft his tempest tune.</span></p>

@@ -1,5 +1,7 @@
 # equitably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equitably.md)
+
 <p><span class="chinese">各方关注的一个焦点问题是援助物资的合理分配。</span><span class="english">One of the main concerns is that aid is distributed equitably.</span></p>
 
 <p><span class="chinese">因为分配不均的问题,这个问题从来就没有顺过民意。</span><span class="english">It's not as equitably distributed as one would like it to be distributed.</span></p>

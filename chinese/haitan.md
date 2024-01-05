@@ -1,5 +1,7 @@
 # 海滩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haitan.md)
+
 <p><span class="chinese">1956年，阿加密海滩。</span><span class="english">Agami Beach, 1956.</span></p>
 
 <p><span class="chinese">海滩好极了。</span><span class="english">The beach is amazing.</span></p>

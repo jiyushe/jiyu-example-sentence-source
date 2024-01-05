@@ -1,5 +1,7 @@
 # 羟基
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangji_3.md)
+
 <p><span class="chinese">免费由羟基苯甲酸，石油和补充。</span><span class="english">Free from parabens, petroleum and SLS.</span></p>
 
 <p><span class="chinese">这是一个没有对羟基苯甲酸酯类天然产物。</span><span class="english">It is a natural product with no parabens.</span></p>

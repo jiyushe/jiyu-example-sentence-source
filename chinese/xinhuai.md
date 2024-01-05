@@ -1,5 +1,7 @@
 # 心怀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhuai.md)
+
 <p><span class="chinese">你心怀不满。</span><span class="english">You harbor grudges.</span></p>
 
 <p><span class="chinese">他一直对我心怀嫉妒。</span><span class="english">He grudged me my success.</span></p>

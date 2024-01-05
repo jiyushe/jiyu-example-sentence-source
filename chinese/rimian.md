@@ -1,5 +1,7 @@
 # 日冕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rimian.md)
+
 <p><span class="chinese">这被称为日冕物质抛射。</span><span class="english">These are called coronal mass ejections.</span></p>
 
 <p><span class="chinese">日冕物质抛射可能对地球造成各种影响。</span><span class="english">A coronal mass ejection can cause problems on Earth.</span></p>

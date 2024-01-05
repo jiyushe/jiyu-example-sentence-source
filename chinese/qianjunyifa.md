@@ -1,5 +1,7 @@
 # 千钧一发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianjunyifa.md)
+
 <p><span class="chinese">那真是千钧一发的事。</span><span class="english">It was a close call indeed.</span></p>
 
 <p><span class="chinese">金猴奋起金箍棒，千钧一发扫魔妖！</span><span class="english">Jinhou rise, Saul's golden a devil!</span></p>

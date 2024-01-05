@@ -1,5 +1,7 @@
 # secretarial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secretarial.md)
+
 <p><span class="chinese">她选读了一门哲学课程。</span><span class="english">She is taking a secretarial course.</span></p>
 
 <p><span class="chinese">她决定修一门文秘课程。</span><span class="english">She decided to do a secretarial course.</span></p>

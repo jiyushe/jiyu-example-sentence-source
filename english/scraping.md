@@ -1,5 +1,7 @@
 # scraping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scraping.md)
+
 <p><span class="chinese">我感到它刮擦着我的胳膊。</span><span class="english">I feel it scraping my arms.</span></p>
 
 <p><span class="chinese">刮痧能瘦腿吗?效果好不好?。</span><span class="english">Scraping can stovepipe it? Out good?</span></p>

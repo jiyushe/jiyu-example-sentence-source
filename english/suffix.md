@@ -1,5 +1,7 @@
 # suffix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suffix.md)
+
 <p><span class="chinese">添加后缀。</span><span class="english">Add the suffix.</span></p>
 
 <p><span class="chinese">添加适当的后缀。</span><span class="english">Adding the proper suffix.</span></p>

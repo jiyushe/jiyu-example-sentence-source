@@ -1,5 +1,7 @@
 # wobbly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wobbly.md)
+
 <p><span class="chinese">餐台和椅子是摇晃的。</span><span class="english">When tables and chairs are wobbly.</span></p>
 
 <p><span class="chinese">这个婴儿尝试着摇摇晃晃走了几步。</span><span class="english">The infant had essayed a few wobbly steps.</span></p>

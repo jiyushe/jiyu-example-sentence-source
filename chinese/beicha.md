@@ -1,5 +1,7 @@
 # 备查
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beicha.md)
+
 <p><span class="chinese">此卡应存案备查。</span><span class="english">This card should be kept on file for reference.</span></p>
 
 <p><span class="chinese">用人单位应当建立职工名册备查。</span><span class="english">It shall set up a roll of workers for reference.</span></p>

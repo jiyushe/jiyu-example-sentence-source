@@ -1,5 +1,7 @@
 # visionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visionary.md)
+
 <p><span class="chinese">追忆往事的幻想。</span><span class="english">Of visionary hours.</span></p>
 
 <p><span class="chinese">馒头赫格德是一个有远见的。</span><span class="english">Manju Hegde is a visionary.</span></p>

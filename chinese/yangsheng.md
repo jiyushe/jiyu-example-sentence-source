@@ -1,5 +1,7 @@
 # 养生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangsheng.md)
+
 <p><span class="chinese">精神养生保健颐养精神。</span><span class="english">Mental health care home for the spirit.</span></p>
 
 <p><span class="chinese">在长寿湖，养生运动再好不过。</span><span class="english">Lake in longevity, good health movement.</span></p>

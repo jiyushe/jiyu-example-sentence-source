@@ -1,5 +1,7 @@
 # tumorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tumorous.md)
+
 <p><span class="chinese">应用角叉菜胶致大鼠足跖肿胀。</span><span class="english">Use carrageenin to make white rats' toes tumorous.</span></p>
 
 <p><span class="chinese">这到好像是应该对我有所帮助的，但是肿瘤仍然在继续长大。</span><span class="english">While this seemed to help me, the tumorous growth remained.</span></p>

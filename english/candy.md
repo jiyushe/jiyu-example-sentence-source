@@ -1,5 +1,7 @@
 # candy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candy.md)
+
 <p><span class="chinese">糖果盒？</span><span class="english">Candy box?</span></p>
 
 <p><span class="chinese">苹果还是糖块，这是一个问题？</span><span class="english">Apple or candy bar?</span></p>

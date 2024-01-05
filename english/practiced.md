@@ -1,5 +1,7 @@
 # practiced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practiced.md)
+
 <p><span class="chinese">她练唱了一首新歌。</span><span class="english">She practiced singing a new song.</span></p>
 
 <p><span class="chinese">电脑是玩出来的。</span><span class="english">Computers are practiced by playing.</span></p>

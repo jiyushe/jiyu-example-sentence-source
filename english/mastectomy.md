@@ -1,5 +1,7 @@
 # mastectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastectomy.md)
+
 <p><span class="chinese">而后她做了双乳切除术和淋巴腺切除术。</span><span class="english">She had a double mastectomy and lymph node removal.</span></p>
 
 <p><span class="chinese">我决定进行预防性的双乳切除手术。</span><span class="english">I made a decision to have a preventive double mastectomy.</span></p>

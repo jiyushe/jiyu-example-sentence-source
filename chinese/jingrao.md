@@ -1,5 +1,7 @@
 # 惊扰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingrao.md)
+
 <p><span class="chinese">轻轻地流啊，甜美的埃弗顿河，不要惊扰她的好梦。</span><span class="english">Flow gently, sweet Afton , disturb not her dream.</span></p>
 
 <p><span class="chinese">假如这么一小小的意外也惊扰了贵国的话。</span><span class="english">If a little accident like this perturbs your country.</span></p>

@@ -1,5 +1,7 @@
 # quarters
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quarters.md)
+
 <p><span class="chinese">这里是你们的住处.</span><span class="english">This is your quarters.</span></p>
 
 <p><span class="chinese">她把蛋糕切成四份。</span><span class="english">She cut the cake into quarters.</span></p>

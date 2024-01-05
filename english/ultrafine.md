@@ -1,5 +1,7 @@
 # ultrafine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrafine.md)
+
 <p><span class="chinese">本法制备的氧化铝超细粒子粒径在0。</span><span class="english">Al2O3 ultrafine powder obtained by this method have about 0.</span></p>
 
 <p><span class="chinese">综述了目前纳米镍粉制备方法现状。</span><span class="english">Preparation method of nanometer nickel ultrafine is discussed.</span></p>

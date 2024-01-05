@@ -1,5 +1,7 @@
 # 地角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dijiao_2.md)
+
 <p><span class="chinese">运动员的足掌触地角较小。</span><span class="english">Foot touchdown angle is smaller.</span></p>
 
 <p><span class="chinese">他在世界上四处漫游，也可说是到过海隅地角。</span><span class="english">He had been knocking about the world, and living in queer corners.</span></p>

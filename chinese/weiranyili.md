@@ -1,5 +1,7 @@
 # 巍然屹立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiranyili.md)
+
 <p><span class="chinese">在光明中巍然屹立！</span><span class="english">In bright detachment stand!</span></p>
 
 <p><span class="chinese">尽管年代久远，这座建筑物仍巍然屹立。</span><span class="english">This building holds up well despite its age.</span></p>

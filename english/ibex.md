@@ -1,5 +1,7 @@
 # ibex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ibex.md)
+
 <p><span class="chinese">北山羊与石山羊有较远的亲缘关系。</span><span class="english">The ibex is a distant relative of the mountain goat.</span></p>
 
 <p><span class="chinese">在“山羊”是素食主义者可以多出20公斤。</span><span class="english">The "Capra Ibex" is vegetarian and can eat up to 20 kg.</span></p>

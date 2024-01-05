@@ -1,5 +1,7 @@
 # 正号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenghao.md)
+
 <p><span class="chinese">这一项是正号。</span><span class="english">This is a plus sign.</span></p>
 
 <p><span class="chinese">为何正号是强制的？</span><span class="english">Why is it mandatory that I find a plus sign?</span></p>

@@ -1,5 +1,7 @@
 # drinking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drinking.md)
+
 <p><span class="chinese">怎么弄？喝酒吗？</span><span class="english">How?By drinking?</span></p>
 
 <p><span class="chinese">我戒了酒。</span><span class="english">I quit drinking.</span></p>

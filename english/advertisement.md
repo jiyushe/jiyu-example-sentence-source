@@ -1,5 +1,7 @@
 # advertisement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advertisement.md)
+
 <p><span class="chinese">什么是软广告？</span><span class="english">What is soft advertisement?</span></p>
 
 <p><span class="chinese">郭采洁化妆品广告。</span><span class="english">Advertisement of the cosmetics.</span></p>

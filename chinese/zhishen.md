@@ -1,5 +1,7 @@
 # 只身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishen.md)
+
 <p><span class="chinese">他只身捕获一头狮子。</span><span class="english">He captured a lion unaided by anyone.</span></p>
 
 <p><span class="chinese">红蜘蛛之鬼魂苏醒，只身前往铁甲星。</span><span class="english">Starscream's ghost awakens and heads to Tryptic.</span></p>

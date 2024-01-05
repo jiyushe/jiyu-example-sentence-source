@@ -1,5 +1,7 @@
 # 熙来攘往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xilairangwang.md)
+
 <p><span class="chinese">岛上到处是旅游者熙来攘往。</span><span class="english">Tourists were swarming all over the island.</span></p>
 
 <p><span class="chinese">熙来攘往的街道最是寂寞，因为它不被人所爱。</span><span class="english">The road is lonely in its crown, for it is not loved.</span></p>

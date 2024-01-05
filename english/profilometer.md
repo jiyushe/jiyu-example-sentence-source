@@ -1,5 +1,7 @@
 # profilometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profilometer.md)
+
 <p><span class="chinese">通过表面轮廓仪测量并计算表面形貌统计参数。</span><span class="english">The surface micro-topography was measured by a profilometer.</span></p>
 
 <p><span class="chinese">提出一种集共路干涉与相关处理为一体的非接触表面轮廓仪。</span><span class="english">A non-contact surface profilometer with common-path interference and correlative processing is proposed.</span></p>

@@ -1,5 +1,7 @@
 # gunshot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunshot.md)
+
 <p><span class="chinese">然后是一声枪响。</span><span class="english">Then a single gunshot.</span></p>
 
 <p><span class="chinese">除了枪声之外，就没有任何证据了。</span><span class="english">Beyond that gunshot there’s no evidence.</span></p>

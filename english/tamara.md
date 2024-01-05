@@ -1,5 +1,7 @@
 # tamara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tamara.md)
+
 <p><span class="chinese">这部书的灵感源于一个真实的人，名叫塔玛拉。</span><span class="english">The book was inspired by a real person, namely Tamara.</span></p>
 
 <p><span class="chinese">在这里我们要介绍一项由博客读者塔玛拉提供的“不插电”游戏。</span><span class="english">Here is an Unplugged Project sent in by blog reader Tamara.</span></p>

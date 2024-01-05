@@ -1,5 +1,7 @@
 # 直言不讳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyanbuhui.md)
+
 <p><span class="chinese">他是一个直言不讳的人。</span><span class="english">He is a plainspoken man.</span></p>
 
 <p><span class="chinese">我的回答相当直言不讳。</span><span class="english">I was rather blunt in my reply.</span></p>

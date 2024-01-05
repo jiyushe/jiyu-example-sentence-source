@@ -1,5 +1,7 @@
 # antiproton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiproton.md)
+
 <p><span class="chinese">他的研究组发现了反质子。</span><span class="english">His research team discovered the antiproton.</span></p>
 
 <p><span class="chinese">从2000年开始，CERN的反质子减速器就在进行这样的减速过程。</span><span class="english">Since 2000 this deceleration has been carried out by the Antiproton Decelerator at CERN.</span></p>

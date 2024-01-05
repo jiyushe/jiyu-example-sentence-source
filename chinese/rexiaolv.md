@@ -1,5 +1,7 @@
 # 热效率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rexiaolv.md)
+
 <p><span class="chinese">内藏板式蒸发器，换热效率高。</span><span class="english">Built-in plate evaporator, in high thermal efficiency.</span></p>
 
 <p><span class="chinese">多层操作可以提高热效率。</span><span class="english">A multistage operation improves the thermal efficiency.</span></p>

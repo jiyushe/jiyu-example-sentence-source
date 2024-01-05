@@ -1,5 +1,7 @@
 # 谈心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanxin.md)
+
 <p><span class="chinese">与朋友和家人谈心。</span><span class="english">Talk to friends and family.</span></p>
 
 <p><span class="chinese">我们为什么不出去走走，谈谈心呢?</span><span class="english">Why don't we go out and talk?</span></p>

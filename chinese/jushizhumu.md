@@ -1,5 +1,7 @@
 # 举世瞩目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jushizhumu.md)
+
 <p><span class="chinese">有个男孩叫哈利，他注定要受举世瞩目。</span><span class="english">There once a boy named Harry. Destined to be a star.</span></p>
 
 <p><span class="chinese">本书从许多方面描述了中国举世瞩目的发展。</span><span class="english">The book is, in many ways, a story of remarkable progress.</span></p>

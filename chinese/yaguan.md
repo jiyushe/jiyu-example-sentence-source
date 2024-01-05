@@ -1,5 +1,7 @@
 # 牙关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaguan.md)
+
 <p><span class="chinese">他咬紧了牙关。</span><span class="english">His jaws clenched.</span></p>
 
 <p><span class="chinese">她的牙关紧闭。</span><span class="english">Her jaws tightly locked.</span></p>

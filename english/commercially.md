@@ -1,5 +1,7 @@
 # commercially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commercially.md)
+
 <p><span class="chinese">平版印刷术在商业上也得以运用。</span><span class="english">Lithography is used commercially as well.</span></p>
 
 <p><span class="chinese">但这样做的成本太高，商业上尚不可行。</span><span class="english">But this is too expensive to be commercially viable.</span></p>

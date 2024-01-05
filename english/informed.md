@@ -1,5 +1,7 @@
 # informed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/informed.md)
+
 <p><span class="chinese">将及时向你通报情况。对吗？</span><span class="english">You will be kept informed.</span></p>
 
 <p><span class="chinese">哈哈哈，现在我可是博学了哟。</span><span class="english">Ha-ha, I am so informed now.</span></p>

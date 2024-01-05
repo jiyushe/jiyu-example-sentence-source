@@ -1,5 +1,7 @@
 # 运动学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yundongxue.md)
+
 <p><span class="chinese">辗扩过程运动学分析。</span><span class="english">The kinematical analysis in rolling process.</span></p>
 
 <p><span class="chinese">目前,在运动学中,这些就足够了</span><span class="english">Right now, in kinematics, this is all you need.</span></p>

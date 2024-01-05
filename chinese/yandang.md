@@ -1,5 +1,7 @@
 # 延宕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yandang.md)
+
 <p><span class="chinese">这样的延宕或许不完全是坏事。</span><span class="english">This delay may not be an entirely bad thing.</span></p>
 
 <p><span class="chinese">如何表征那种被不断延宕的现实？</span><span class="english">How do we represent the constantly temporalized reality?</span></p>

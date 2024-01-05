@@ -1,5 +1,7 @@
 # juridical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juridical.md)
+
 <p><span class="chinese">司法惯例只不过是“权威的惯例”罢了。</span><span class="english">A juridical precedent is nothing but "authenticated custom".</span></p>
 
 <p><span class="chinese">扣船制度是解决海事争议的重要司法程序。</span><span class="english">The legal system of seizure of ships is an important juridical procedure.</span></p>

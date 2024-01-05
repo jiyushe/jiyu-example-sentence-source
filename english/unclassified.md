@@ -1,5 +1,7 @@
 # unclassified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unclassified.md)
+
 <p><span class="chinese">是未分类错误的主要代码。</span><span class="english">Is the major code for an unclassified error.</span></p>
 
 <p><span class="chinese">这款手机还可以切换成非机密模式。</span><span class="english">The Edge can also switch to an unclassified mode.</span></p>

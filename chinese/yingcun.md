@@ -1,5 +1,7 @@
 # 英寸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingcun.md)
+
 <p><span class="chinese">我身高五尺五英寸。</span><span class="english">I'm five foot five.</span></p>
 
 <p><span class="chinese">它拥有四英寸的大屏。</span><span class="english">It has a 4-inch screen.</span></p>

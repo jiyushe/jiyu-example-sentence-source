@@ -1,5 +1,7 @@
 # 绯闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiwen.md)
+
 <p><span class="chinese">绯闻情侣神木与瞳是一对吗？</span><span class="english">Is Y2J a couple in the making?</span></p>
 
 <p><span class="chinese">达芙将于10月5日开始她的“绯闻”之旅。</span><span class="english">Duff begins her "Gossip" arc on Oct. 5.</span></p>

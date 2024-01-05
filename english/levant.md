@@ -1,5 +1,7 @@
 # levant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/levant.md)
+
 <p><span class="chinese">阆风盆地地区的这种解决方案正是体现这种原则的完美范例。</span><span class="english">The Levant Basin Province is a perfect model for this principle in operation.</span></p>
 
 <p><span class="chinese">他在黎凡特领导针对法兰克人和其他欧洲十字军的伊斯兰反抗力量。</span><span class="english">He led Islamic opposition to the Franks and other European Crusaders in the Levant.</span></p>

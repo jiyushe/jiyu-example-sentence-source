@@ -1,5 +1,7 @@
 # inexorably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexorably.md)
+
 <p><span class="chinese">通货膨胀使物价节节上涨。</span><span class="english">Monetary inflation spirals inexorably on.</span></p>
 
 <p><span class="chinese">而爱，最后却让我们无情的相离。</span><span class="english">But love, finally let us inexorably onward.</span></p>

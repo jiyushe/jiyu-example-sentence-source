@@ -1,5 +1,7 @@
 # 出货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuhuo.md)
+
 <p><span class="chinese">它是怎样处理出货的？</span><span class="english">How does it handle shipment?</span></p>
 
 <p><span class="chinese">你们的订货在星期一就可以出货。</span><span class="english">Your order can go out on Monday.</span></p>

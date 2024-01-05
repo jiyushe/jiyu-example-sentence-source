@@ -1,5 +1,7 @@
 # 免职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianzhi.md)
+
 <p><span class="chinese">那位官员必须免职。</span><span class="english">That officer must be removed.</span></p>
 
 <p><span class="chinese">多语种索引与停止的话免职。</span><span class="english">Multilingual indexing with stop words removal.</span></p>

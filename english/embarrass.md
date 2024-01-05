@@ -1,5 +1,7 @@
 # embarrass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embarrass.md)
+
 <p><span class="chinese">让他当众出丑。</span><span class="english">Embarrass him in public.</span></p>
 
 <p><span class="chinese">偶不会在你的朋友面前使你丢丑。</span><span class="english">I won't embarrass you in front of your friends.</span></p>

@@ -1,5 +1,7 @@
 # 正当防卫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdangfangwei.md)
+
 <p><span class="chinese">温家宝和李明博均到正当防卫好玩吗日本参加了三国峰会。</span><span class="english">Wen and Lee were in Japan for a three-nation summit.</span></p>
 
 <p><span class="chinese">第二部分，一般正当防卫的成立条件。</span><span class="english">Second part, general justifiable defense tenable condition.</span></p>

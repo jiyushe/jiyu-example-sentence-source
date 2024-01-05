@@ -1,5 +1,7 @@
 # unsought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsought.md)
+
 <p><span class="chinese">求得的爱情是美好的，但主动给予的爱情更美好。</span><span class="english">Love sought is good, but giv'n unsought is better.</span></p>
 
 <p><span class="chinese">不经意而来的感受，通常最值得珍惜。</span><span class="english">Those that come unsought for are commonly the most valuable.</span></p>

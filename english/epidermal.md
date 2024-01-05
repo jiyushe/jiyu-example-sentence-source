@@ -1,5 +1,7 @@
 # epidermal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epidermal.md)
+
 <p><span class="chinese">气孔分布区内的表皮细胞有时为多边形。</span><span class="english">Epidermal cells on areas with stomata are polygonous.</span></p>
 
 <p><span class="chinese">外果皮由一层表皮细胞构成。</span><span class="english">The exocarp contains only one layer of epidermal cells.</span></p>

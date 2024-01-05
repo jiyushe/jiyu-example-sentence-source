@@ -1,5 +1,7 @@
 # 运输量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunshuliang.md)
+
 <p><span class="chinese">承载更多运输量的列车即将出现。</span><span class="english">A trainload more may soon be on the way.</span></p>
 
 <p><span class="chinese">河运延误的情况在一定程度上因运输量下降而减少。</span><span class="english">Delays on the river are declining partly due to less traffic.</span></p>

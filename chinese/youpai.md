@@ -1,5 +1,7 @@
 # 右派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youpai.md)
+
 <p><span class="chinese">右派翘尾巴也在这里。</span><span class="english">That's why the Rightists are so cocky.</span></p>
 
 <p><span class="chinese">那是少数人，是右派。</span><span class="english">They are only a handful and are Rightists.</span></p>

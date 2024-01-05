@@ -1,5 +1,7 @@
 # 初创
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchuang.md)
+
 <p><span class="chinese">我看到过初创公司这样做。</span><span class="english">I’ve seen startups do this.</span></p>
 
 <p><span class="chinese">这是初创公司需要解决的问题之一。</span><span class="english">This is one of the things startups fix.</span></p>

@@ -1,5 +1,7 @@
 # 神气活现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqihuoxian.md)
+
 <p><span class="chinese">神气活现的微笑是很迷人的。</span><span class="english">A cocky smile is attractive.</span></p>
 
 <p><span class="chinese">有个暴发户在舞会上神气活现地四处走动。</span><span class="english">A parvenu swaggers by oneself at a party.</span></p>

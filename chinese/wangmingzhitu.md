@@ -1,5 +1,7 @@
 # 亡命之徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangmingzhitu.md)
+
 <p><span class="chinese">亡命之徒，哦，你已不再年轻。</span><span class="english">Desperado, oh, you aint gettin no younger.</span></p>
 
 <p><span class="chinese">亡命之徒，噢，你已不再年轻。</span><span class="english">Desperado, oh, you ain't gettin no younger.</span></p>

@@ -1,5 +1,7 @@
 # economic 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/economic.md)
+
 <p><span class="chinese">经济就是晴雨表。</span><span class="english">The barometer is economic.</span></p>
 
 <p><span class="chinese">经济地位承认了。</span><span class="english">Economic station is admited.</span></p>

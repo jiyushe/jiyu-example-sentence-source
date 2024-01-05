@@ -1,5 +1,7 @@
 # privileged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/privileged.md)
+
 <p><span class="chinese">只有特权阶层才有自行车。</span><span class="english">Only the privileged had bicycles.</span></p>
 
 <p><span class="chinese">他们有特权进入，”斯奈德解释道。</span><span class="english">They have privileged access, " explained Snyder.</span></p>

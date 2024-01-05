@@ -1,5 +1,7 @@
 # 老幼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoyou_1.md)
+
 <p><span class="chinese">这本书老幼皆宜，人人能看懂。</span><span class="english">The book can enjoy everyone, young or old.</span></p>
 
 <p><span class="chinese">这本书，老幼皆宜，人人能看懂。</span><span class="english">The book can be enjoyed by everyone, young or old.</span></p>

@@ -1,5 +1,7 @@
 # allium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allium.md)
+
 <p><span class="chinese">洋葱是众多葱属植物的学名。</span><span class="english">Onion is a term used for many plants in the genus Allium.</span></p>
 
 <p><span class="chinese">大蒜根尖细胞有丝分裂发生异常现象的报告。</span><span class="english">Report About Abnormal Mitosis in Root Tip Cells of Allium sativum L.</span></p>

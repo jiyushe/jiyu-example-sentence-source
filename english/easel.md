@@ -1,5 +1,7 @@
 # easel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/easel.md)
+
 <p><span class="chinese">蓝色想要红色的画架。哎！变成紫色了。</span><span class="english">Blue wants Red's easel. Oh, gee! They change to purple.</span></p>
 
 <p><span class="chinese">我把画从画架上取下来，把它举到窗户前。</span><span class="english">I took it from the easel and held it up to the windows.</span></p>

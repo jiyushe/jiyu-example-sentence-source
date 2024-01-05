@@ -1,5 +1,7 @@
 # tammy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tammy.md)
+
 <p><span class="chinese">何丽明，出生及居于香港。</span><span class="english">Tammy Ho Lai-ming is Hong Kong-born and –based.</span></p>
 
 <p><span class="chinese">汤米·塔克试图系上塔米的海龟领带。</span><span class="english">Tommy Tucker tried to tie Tammy 's Turtles tie.</span></p>

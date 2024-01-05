@@ -1,5 +1,7 @@
 # 安身立命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anshenliming.md)
+
 <p><span class="chinese">从我自身的情况，我设法找到我的安身立命之道。</span><span class="english">And, from this condition, I try to find my bearings.</span></p>
 
 <p><span class="chinese">新移民在谋生不易的情况下，想出各种奇招，以求重新安身立命。</span><span class="english">They have to think out various and odd ways to make living.</span></p>

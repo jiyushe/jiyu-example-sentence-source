@@ -1,5 +1,7 @@
 # unify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unify.md)
+
 <p><span class="chinese">减民负担、富国强兵、统一北方。</span><span class="english">It made the country unify the Northern China.</span></p>
 
 <p><span class="chinese">尽管我学会了拿我的纸笔和麦克风沟通。</span><span class="english">I learned to unify the pen and pad with the mic.</span></p>

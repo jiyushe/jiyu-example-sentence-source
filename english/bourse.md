@@ -1,5 +1,7 @@
 # bourse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bourse.md)
+
 <p><span class="chinese">图中为法国波尔多地区的证券交易所广场。在这本旅游指南上，波尔多市被选为2017年度最佳旅游城市。</span><span class="english">Place de la Bourse in Bordeaux, France. Bordeaux is the guide's top city to visit in 2017.</span></p>
 
 <p><span class="chinese">除美国交易所外，欧美各大交易所均未实现大型IPO。</span><span class="english">Outside dividing American bourse, euramerican each are big bourse all unfulfilment is large IPO.</span></p>

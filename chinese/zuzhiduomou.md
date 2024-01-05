@@ -1,5 +1,7 @@
 # 足智多谋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzhiduomou.md)
+
 <p><span class="chinese">我发现我变的足智多谋了。</span><span class="english">I find that I am resourceful.</span></p>
 
 <p><span class="chinese">戈薇也是一位足智多谋的女孩。</span><span class="english">Kagome is also a remarkably resourceful girl.</span></p>

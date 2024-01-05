@@ -1,5 +1,7 @@
 # oriented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oriented.md)
+
 <p><span class="chinese">是半场进攻，还是以快攻为主，或者是以防守见长？</span><span class="english">Are they defensive oriented?</span></p>
 
 <p><span class="chinese">可能出战是家庭为重。</span><span class="english">Darlington is family oriented.</span></p>

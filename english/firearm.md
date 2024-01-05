@@ -1,5 +1,7 @@
 # firearm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firearm.md)
+
 <p><span class="chinese">我很激动但也很紧张，因为我从来没射击过。</span><span class="english">I was excited but nervous, never having shot a firearm.</span></p>
 
 <p><span class="chinese">弹药必须使用选手的枪枝来做测试。</span><span class="english">Ammunition must be tested using the competitor's firearm.</span></p>

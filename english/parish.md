@@ -1,5 +1,7 @@
 # parish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parish.md)
+
 <p><span class="chinese">我会找到这个教民所属的教区。</span><span class="english">I'll discover the parish of that parishioner.</span></p>
 
 <p><span class="chinese">很显然，主教对教区的记录很清楚。</span><span class="english">Clearly, the bishop was privy to parish records.</span></p>

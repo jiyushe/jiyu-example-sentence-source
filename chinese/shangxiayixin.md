@@ -1,5 +1,7 @@
 # 上下一心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxiayixin.md)
+
 <p><span class="chinese">五是上下一心，扎实工作。</span><span class="english">Is of one mind, and do solid work.</span></p>
 
 <p><span class="chinese">公司同仁上下一心，精诚合作，振兴惠胜。</span><span class="english">Our company of one mind, sincerity cooperates to promote Huisheng.</span></p>

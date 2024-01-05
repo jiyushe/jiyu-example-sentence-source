@@ -1,5 +1,7 @@
 # birmingham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birmingham.md)
+
 <p><span class="chinese">我们在伯明翰拐入他路。</span><span class="english">We turned off at Birmingham.</span></p>
 
 <p><span class="chinese">他赶上去伯明翰的慢车。</span><span class="english">He caught the slow train to Birmingham.</span></p>

@@ -1,5 +1,7 @@
 # 争权夺利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengquanduoli.md)
+
 <p><span class="chinese">或是因为两兄弟间的争权夺利？</span><span class="english">Or because the struggle for power between the two brothers?</span></p>
 
 <p><span class="chinese">野心家在那儿争权夺利，他们不会随之起舞。</span><span class="english">They don't scramble against careerists for interest and power.</span></p>

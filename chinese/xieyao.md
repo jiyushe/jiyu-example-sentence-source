@@ -1,5 +1,7 @@
 # 泻药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieyao.md)
+
 <p><span class="chinese">我们又不用靠泻药过活。</span><span class="english">We c't all live on laxatives.</span></p>
 
 <p><span class="chinese">我便秘了。给我点泻药。</span><span class="english">I'm constipated. I need some laxative.</span></p>

@@ -1,5 +1,7 @@
 # cocoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cocoon.md)
+
 <p><span class="chinese">蚕做茧。</span><span class="english">The silkworm spins cocoon.</span></p>
 
 <p><span class="chinese">把好售茧关。</span><span class="english">Fifth, the good clearance sale cocoon.</span></p>

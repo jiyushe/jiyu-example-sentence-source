@@ -1,5 +1,7 @@
 # insubordination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insubordination.md)
+
 <p><span class="chinese">我是不允许无纪律的。</span><span class="english">I do not permit insubordination.</span></p>
 
 <p><span class="chinese">约翰因违抗命令而被开除。</span><span class="english">John was dismissed for insubordination.</span></p>

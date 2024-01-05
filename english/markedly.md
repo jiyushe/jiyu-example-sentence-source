@@ -1,5 +1,7 @@
 # markedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/markedly.md)
+
 <p><span class="chinese">两个世界判然不同。</span><span class="english">The two worlds are markedly different.</span></p>
 
 <p><span class="chinese">右肺明显萎陷。</span><span class="english">The right lung is markedly atelectatic.</span></p>

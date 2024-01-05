@@ -1,5 +1,7 @@
 # 孪生子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanshengzi.md)
+
 <p><span class="chinese">他是孪生子之一。</span><span class="english">He was one of the twins.</span></p>
 
 <p><span class="chinese">那对孪生子准搞错了。</span><span class="english">The twins were mistaken.</span></p>

@@ -1,5 +1,7 @@
 # 丰衣足食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyizushi.md)
+
 <p><span class="chinese">现在人们丰衣足食。</span><span class="english">Now people have enough to eat and wear.</span></p>
 
 <p><span class="chinese">饺子看起来像金元宝，意味来年丰衣足食。</span><span class="english">Jiao Zi looks like gold coin, implying a wealthy year ahead.</span></p>

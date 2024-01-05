@@ -1,5 +1,7 @@
 # nitric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitric.md)
+
 <p><span class="chinese">硝酸—愈合流血处和开裂处</span><span class="english">Nitric acid – helps heal bleeding and cracking</span></p>
 
 <p><span class="chinese">硝酸分子以氢键互相连结。</span><span class="english">Nitric acid molecules are linked by hydrogen bonds.</span></p>

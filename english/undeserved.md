@@ -1,5 +1,7 @@
 # undeserved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undeserved.md)
+
 <p><span class="chinese">别因为错爱而寂寞一生。</span><span class="english">But don't because of lonely the undeserved kindness life.</span></p>
 
 <p><span class="chinese">不该表扬时表扬将会让人感到良心不安。</span><span class="english">Undeserved praise will cause more pangs of conscience later.</span></p>

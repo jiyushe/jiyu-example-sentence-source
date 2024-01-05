@@ -1,5 +1,7 @@
 # 树枝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzhi_1.md)
+
 <p><span class="chinese">它的树枝是长的。</span><span class="english">Its branches are long.</span></p>
 
 <p><span class="chinese">剪掉过长的树枝。</span><span class="english">Cut a limb from a tree.</span></p>

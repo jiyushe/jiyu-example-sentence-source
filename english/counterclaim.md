@@ -1,5 +1,7 @@
 # counterclaim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterclaim.md)
+
 <p><span class="chinese">以上规定也适用于任何反请求。</span><span class="english">The above provisions shall apply to any counterclaim.</span></p>
 
 <p><span class="chinese">我国的工程索赔管理从不熟悉到逐步应用，正处在一个发展过程中。</span><span class="english">We are in the course of the development of the counterclaim of project management.</span></p>

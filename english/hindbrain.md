@@ -1,5 +1,7 @@
 # hindbrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hindbrain.md)
+
 <p><span class="chinese">就在此时，不知什么东西挠了下我的后脑，我使劲咬住嘴唇才没有笑出来。</span><span class="english">Something tickled my hindbrain then, and I had to bite my lip to keep from laughing.</span></p>
 
 <p><span class="chinese">被殴记者因后脑受到重拳袭击住进贵阳脑科医院。</span><span class="english">Journalists were beaten with heavy blows struck by the hindbrain into Guiyang neurosurgical hospital.</span></p>

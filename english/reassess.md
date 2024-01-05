@@ -1,5 +1,7 @@
 # reassess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reassess.md)
+
 <p><span class="chinese">我需要经常重新评价我的成本。</span><span class="english">I constantly need to reassess my cost driver.</span></p>
 
 <p><span class="chinese">是时候让我们重新评价这些专家们的作用了。</span><span class="english">It is time for us to reassess the role of specialists.</span></p>

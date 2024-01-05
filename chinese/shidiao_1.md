@@ -1,5 +1,7 @@
 # 时调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidiao_1.md)
+
 <p><span class="chinese">本周末是冬夏时调整日。</span><span class="english">This weekend is Daylight Savings Time.</span></p>
 
 <p><span class="chinese">完全调换体系自带的在长按效用表键时调出的轨范的使命列表。</span><span class="english">Ultimate replacement of standard task list, which called by menu-key long press.</span></p>

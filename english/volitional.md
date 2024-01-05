@@ -1,5 +1,7 @@
 # volitional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volitional.md)
+
 <p><span class="chinese">几乎任何缺陷都可以解释为意志方面的原因。</span><span class="english">Almost any deficit can be explained as volitional.</span></p>
 
 <p><span class="chinese">爱国行为是自觉自愿的、具有利他性的、具体的社会行为。</span><span class="english">The patriotic act is an altruistic and volitional behavior in the society.</span></p>

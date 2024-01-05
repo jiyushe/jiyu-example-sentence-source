@@ -1,5 +1,7 @@
 # 商家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangjia_1.md)
+
 <p><span class="chinese">作为商家，我们不能欺骗顾客。</span><span class="english">As sellers, we must not hoodwink our customers.</span></p>
 
 <p><span class="chinese">看都把商家逼成什么样子啦！</span><span class="english">Forced to look into what businessmen regarded him!</span></p>

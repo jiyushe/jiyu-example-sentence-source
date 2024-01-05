@@ -1,5 +1,7 @@
 # distention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distention.md)
+
 <p><span class="chinese">气肿因空气滞留而引起的体组织的不正常的扩张。</span><span class="english">An abnormal distention of body tissues caused by retentionofair.</span></p>
 
 <p><span class="chinese">导管扩张以乳晕下导管的扩张为特征。</span><span class="english">Duct ectasia is characterized by distention of subareolar ducts.</span></p>

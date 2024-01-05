@@ -1,5 +1,7 @@
 # 年年岁岁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianniansuisui.md)
+
 <p><span class="chinese">祝相爱年年岁岁，相知岁岁年年！</span><span class="english">I love every year, each year!</span></p>
 
 <p><span class="chinese">祝相爱年年岁岁，相知岁岁年年！</span><span class="english">Wish love each New Year, know each days!</span></p>

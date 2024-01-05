@@ -1,5 +1,7 @@
 # hank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hank.md)
+
 <p><span class="chinese">什么是标准纱绞？</span><span class="english">What is the standard hank?</span></p>
 
 <p><span class="chinese">汉克是个淳朴的乡下少年。</span><span class="english">Hank is a small-town country boy.</span></p>

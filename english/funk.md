@@ -1,5 +1,7 @@
 # funk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/funk.md)
+
 <p><span class="chinese">没有，他没有临阵脱逃。</span><span class="english">No, he didn't funk it.</span></p>
 
 <p><span class="chinese">他已经注意到我是个怂货。</span><span class="english">He has noticed already that I am in a funk.</span></p>

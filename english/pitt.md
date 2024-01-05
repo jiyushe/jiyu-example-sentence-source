@@ -1,5 +1,7 @@
 # pitt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitt.md)
+
 <p><span class="chinese">她的男朋友比布拉德·彼特还帅。</span><span class="english">Her boyfriend is cuter than Brad Pitt.</span></p>
 
 <p><span class="chinese">你不能错过那部布拉德·皮特的新电影。</span><span class="english">You have to go see the new Brad Pitt movie.</span></p>

@@ -1,5 +1,7 @@
 # 水墨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimo.md)
+
 <p><span class="chinese">水墨绢本。</span><span class="english">Ink on silk.</span></p>
 
 <p><span class="chinese">我擅长水墨丹青。</span><span class="english">I'm skilful in ink and wash.</span></p>

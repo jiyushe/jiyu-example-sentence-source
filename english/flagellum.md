@@ -1,5 +1,7 @@
 # flagellum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagellum.md)
+
 <p><span class="chinese">目前该术语专用于细菌鞭毛。</span><span class="english">Strictly the term is now reserved for the bacterial flagellum.</span></p>
 
 <p><span class="chinese">提示ET的粘附素是包括血凝素及鞭毛在内的一类蛋白样物质。</span><span class="english">It was suggested that the adhesin of ET was proteinaceous flagellum.</span></p>

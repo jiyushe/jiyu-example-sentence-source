@@ -1,5 +1,7 @@
 # elves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elves.md)
+
 <p><span class="chinese">那些精灵剜去了我的眼睛。</span><span class="english">The Elves took my eye.</span></p>
 
 <p><span class="chinese">血精灵与海妖联盟。</span><span class="english">The Blood elves ally with the Naga.</span></p>

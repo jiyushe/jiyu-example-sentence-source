@@ -1,5 +1,7 @@
 # immobilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immobilization.md)
+
 <p><span class="chinese">并对细菌固定化的条件进行了优化。</span><span class="english">And we confirmed the optimum conditions of T. f immobilization.</span></p>
 
 <p><span class="chinese">该研究为单链DNA的固定提供了有效的新方法。</span><span class="english">This part provides two efficiency methods for ssDNA immobilization.</span></p>

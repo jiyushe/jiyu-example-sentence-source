@@ -1,5 +1,7 @@
 # touchline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/touchline.md)
+
 <p><span class="chinese">这是最后一场禁赛了。</span><span class="english">“It is the last touchline ban, ” he confirmed.</span></p>
 
 <p><span class="chinese">一次罚款或者是场边的禁令都是远远不够的。</span><span class="english">A fine or, in this case, even a touchline ban won't be enough.</span></p>

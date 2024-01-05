@@ -1,5 +1,7 @@
 # 远航
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanhang.md)
+
 <p><span class="chinese">扬帆远航，赖您东风助力！</span><span class="english">Sailing, wind power depends on You!</span></p>
 
 <p><span class="chinese">噢，夏纳多，我就要离你去远航。</span><span class="english">Oh, Shenandoah, I'm bound to leave you.</span></p>

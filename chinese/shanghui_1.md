@@ -1,5 +1,7 @@
 # 商会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanghui_1.md)
+
 <p><span class="chinese">九龙猪栏商会。</span><span class="english">Kowloon Pig Laan Merchants Association.</span></p>
 
 <p><span class="chinese">九龙鲜鱼商会。</span><span class="english">Kowloon Fresh Fish Merchants Association.</span></p>

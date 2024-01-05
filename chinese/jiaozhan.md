@@ -1,5 +1,7 @@
 # 交战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaozhan.md)
+
 <p><span class="chinese">我军与敌军交战。</span><span class="english">Our army engaged the enemy.</span></p>
 
 <p><span class="chinese">我们的交战将会名扬四海。</span><span class="english">The battle will be legendary.</span></p>

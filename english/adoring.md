@@ -1,5 +1,7 @@
 # adoring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adoring.md)
+
 <p><span class="chinese">黄金铸真爱。</span><span class="english">Gold casts true love adoring.</span></p>
 
 <p><span class="chinese">我的让人羡慕的新郞把这样的信息放在了心里。</span><span class="english">My adoring bridegroom took the message to heart.</span></p>

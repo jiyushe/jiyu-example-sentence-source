@@ -1,5 +1,7 @@
 # 走马观花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoumaguanhua.md)
+
 <p><span class="chinese">今天虽然是走马观花。</span><span class="english">Although our tour today was brief.</span></p>
 
 <p><span class="chinese">在交了那么多走马观花似的男朋友后，终于遇到了迈克。</span><span class="english">After a series of jerky boyfriends, I met “Mike”.</span></p>

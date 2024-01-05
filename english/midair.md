@@ -1,5 +1,7 @@
 # midair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midair.md)
+
 <p><span class="chinese">一位舞蹈演员滞空平衡。</span><span class="english">A dancer poised in midair.</span></p>
 
 <p><span class="chinese">我们现在是悬在半空中啊？</span><span class="english">Are we suspended in midair?</span></p>

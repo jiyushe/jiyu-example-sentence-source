@@ -1,5 +1,7 @@
 # 水床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuichuang.md)
+
 <p><span class="chinese">你有一张水床？</span><span class="english">You have a water bed?</span></p>
 
 <p><span class="chinese">超额费用是因为有水床。</span><span class="english">The extra charge is for the water bed.</span></p>

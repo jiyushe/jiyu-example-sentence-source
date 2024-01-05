@@ -1,5 +1,7 @@
 # square
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/square.md)
+
 <p><span class="chinese">这是一把丁字尺。</span><span class="english">It is a T square.</span></p>
 
 <p><span class="chinese">这个盒子是方的。</span><span class="english">This box is square.</span></p>

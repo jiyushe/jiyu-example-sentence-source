@@ -1,5 +1,7 @@
 # verdure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verdure.md)
+
 <p><span class="chinese">山上覆盖着葱茏的草木。</span><span class="english">The hills are covered with verdure.</span></p>
 
 <p><span class="chinese">秋天使山上青葱的草木发黄。</span><span class="english">Autumn disrobes the hill of verdure.</span></p>

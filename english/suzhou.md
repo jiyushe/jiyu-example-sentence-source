@@ -1,5 +1,7 @@
 # suzhou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suzhou.md)
+
 <p><span class="chinese">我的出生地是苏州。</span><span class="english">My birthplace is SuZhou.</span></p>
 
 <p><span class="chinese">苏州人民路上的北寺塔。</span><span class="english">North Temple Pagoda in Suzhou.</span></p>

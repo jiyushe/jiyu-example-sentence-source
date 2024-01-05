@@ -1,5 +1,7 @@
 # phylum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phylum.md)
+
 <p><span class="chinese">属于阿尔泰语系满-通古斯语族。</span><span class="english">The Hezhe language belongs to the Altaic phylum.</span></p>
 
 <p><span class="chinese">水母是腔肠动物部的成员。</span><span class="english">Jellyfish are free-swimming members of the phylum Cnidaria.</span></p>

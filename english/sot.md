@@ -1,5 +1,7 @@
 # sot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sot.md)
+
 <p><span class="chinese">“SOT”表示录音带或原声片段。</span><span class="english">"SOT" stands for sound on tape or sound bites.</span></p>
 
 <p><span class="chinese">今天，这个著名的广场已经变成了球迷们庆祝的舞台。</span><span class="english">After SOT Today, the famous square is being used to stage Leipzig's Fan Fest.</span></p>

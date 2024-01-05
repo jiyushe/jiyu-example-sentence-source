@@ -1,5 +1,7 @@
 # 缺欠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queqian.md)
+
 <p><span class="chinese">相关显示或缺欠。</span><span class="english">Relevant Indication or Imperfection.</span></p>
 
 <p><span class="chinese">这样，网络课程的学习对学生来说无疑是缺欠的。</span><span class="english">So, the study in network to student is deficient undoubtedly.</span></p>

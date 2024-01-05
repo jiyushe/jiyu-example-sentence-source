@@ -1,5 +1,7 @@
 # fistfight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fistfight.md)
+
 <p><span class="chinese">他说，我们得干一架。</span><span class="english">He said, We gotta fistfight.</span></p>
 
 <p><span class="chinese">我今天差点和别人打架。</span><span class="english">I nearly got into a fistfight with someone today.</span></p>

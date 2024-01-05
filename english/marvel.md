@@ -1,5 +1,7 @@
 # marvel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marvel.md)
+
 <p><span class="chinese">是的，你是一个奇迹。</span><span class="english">Yes, you are a marvel.</span></p>
 
 <p><span class="chinese">我们更惊叹她那动人的发音。</span><span class="english">We marvel at her pronunciation.</span></p>

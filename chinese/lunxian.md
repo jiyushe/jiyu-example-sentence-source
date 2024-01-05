@@ -1,5 +1,7 @@
 # 沦陷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunxian.md)
+
 <p><span class="chinese">罗克沦陷的那天?。</span><span class="english">The day La Roque falls?</span></p>
 
 <p><span class="chinese">义军被击溃，回波基地沦陷。</span><span class="english">The Rebels were routed and Echo Base was overrun.</span></p>

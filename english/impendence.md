@@ -1,5 +1,7 @@
 # impendence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impendence.md)
+
 <p><span class="chinese">在实际应用时，四象限变流器可能存在变压器漏抗大的情况。</span><span class="english">In the actual application, large transformer impendence exists in four quadrant converter.</span></p>
 
 <p><span class="chinese">利用宽带阻抗匹配电路解决信号的传输线反射问题。</span><span class="english">In the transceiver, the wideband impendence match circuit is used to avoid the reflections because of impedance mismatch.</span></p>

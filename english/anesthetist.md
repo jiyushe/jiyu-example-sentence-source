@@ -1,5 +1,7 @@
 # anesthetist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anesthetist.md)
+
 <p><span class="chinese">一名护理麻醉师掘出一套器具。</span><span class="english">A nurse anesthetist unearthed a nest.</span></p>
 
 <p><span class="chinese">麻醉师给我打了麻药。</span><span class="english">The anesthetist gave me an anesthetic.</span></p>

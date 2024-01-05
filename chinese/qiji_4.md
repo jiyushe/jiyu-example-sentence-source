@@ -1,5 +1,7 @@
 # 汽机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiji_4.md)
+
 <p><span class="chinese">汽机车将又换牌照了。</span><span class="english">Cars and motorcycles will change their license plates again.</span></p>
 
 <p><span class="chinese">汽机车产品，客制化的零件，依客户需求来制造。</span><span class="english">Nuts for Auto industry. Make of customers' specification demand.</span></p>

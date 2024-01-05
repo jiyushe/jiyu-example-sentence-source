@@ -1,5 +1,7 @@
 # afflictive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afflictive.md)
+
 <p><span class="chinese">癌症得了是什么样子的，难受吗？</span><span class="english">Cancer got be what appearance, afflictive?</span></p>
 
 <p><span class="chinese">用什么药物治疗膝盖疼痛难受？？？</span><span class="english">With what to medication is knee ache afflictive? ? ?</span></p>

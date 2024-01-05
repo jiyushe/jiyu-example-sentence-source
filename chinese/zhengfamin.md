@@ -1,5 +1,7 @@
 # 蒸发皿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfamin.md)
+
 <p><span class="chinese">转移溶液至一蒸发皿中。</span><span class="english">You transfer the solution to an evaporating basin.</span></p>
 
 <p><span class="chinese">蒸发皿已经被烧成红热状态了。</span><span class="english">The evaporating dish in the lab has already been burned to hot heat.</span></p>

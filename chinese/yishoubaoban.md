@@ -1,5 +1,7 @@
 # 一手包办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishoubaoban.md)
+
 <p><span class="chinese">帮助伊拉克部队但不一手包办</span><span class="english">HELPING IRAQI FORCES, NOT DOING IT FOR THEM</span></p>
 
 <p><span class="chinese">然后小红母鸡就自己一手包办所有事。</span><span class="english">Then the little red hen had to do everything herself.</span></p>

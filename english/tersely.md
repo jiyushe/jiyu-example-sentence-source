@@ -1,5 +1,7 @@
 # tersely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tersely.md)
+
 <p><span class="chinese">编写使用案例叙述，过于简洁。</span><span class="english">Write the use cases too tersely.</span></p>
 
 <p><span class="chinese">不要把用例写得过于简介。</span><span class="english">Don't write the use cases too tersely.</span></p>

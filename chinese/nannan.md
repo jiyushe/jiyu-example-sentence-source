@@ -1,5 +1,7 @@
 # 喃喃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nannan.md)
+
 <p><span class="chinese">妈妈喃喃地说，带着对死人的敬意。</span><span class="english">Respect for the dead.</span></p>
 
 <p><span class="chinese">“你，”她喃喃地说。</span><span class="english">"You, " she muttered.</span></p>

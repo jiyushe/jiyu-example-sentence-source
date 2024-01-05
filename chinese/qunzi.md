@@ -1,5 +1,7 @@
 # 裙子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qunzi.md)
+
 <p><span class="chinese">你是佻的裙子吗？</span><span class="english">Is this your skirt?</span></p>
 
 <p><span class="chinese">把你的裙子撩起来。</span><span class="english">Pull up your skirt.</span></p>

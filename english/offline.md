@@ -1,5 +1,7 @@
 # offline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offline.md)
+
 <p><span class="chinese">重新启动到脱机方。</span><span class="english">Reboot to offline side.</span></p>
 
 <p><span class="chinese">冷备份或离线备份。</span><span class="english">Cold or offline backups.</span></p>

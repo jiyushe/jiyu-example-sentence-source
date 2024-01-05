@@ -1,5 +1,7 @@
 # sphagnum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sphagnum.md)
+
 <p><span class="chinese">标题中国泥炭属植物的初步观察。</span><span class="english">A preliminary study of the Chinese Sphagnum.</span></p>
 
 <p><span class="chinese">标题几种国产泥炭藓孢子形态的研究。</span><span class="english">Studies on spore morphology of some Chinese Sphagnum L.</span></p>

@@ -1,5 +1,7 @@
 # 趁火打劫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenhuodajie.md)
+
 <p><span class="chinese">叛乱者趁火打劫，掠夺财物。</span><span class="english">The rebels went looting and pillaging.</span></p>
 
 <p><span class="chinese">有些风投公司就会趁火打劫，提出很苛刻的条件。</span><span class="english">Some VCs will extract harsh terms under these conditions.</span></p>

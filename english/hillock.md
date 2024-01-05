@@ -1,5 +1,7 @@
 # hillock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hillock.md)
+
 <p><span class="chinese">小丘故事。</span><span class="english">Hillock story.</span></p>
 
 <p><span class="chinese">他的房子坐落在一个小丘上。</span><span class="english">His house is on a hillock.</span></p>

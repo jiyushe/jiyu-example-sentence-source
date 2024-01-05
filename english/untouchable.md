@@ -1,5 +1,7 @@
 # untouchable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untouchable.md)
+
 <p><span class="chinese">什么是贱民？</span><span class="english">What is untouchable.</span></p>
 
 <p><span class="chinese">但国王发言称不能接触特格格鲁。</span><span class="english">The Kings would say Turkoglu was untouchable.</span></p>

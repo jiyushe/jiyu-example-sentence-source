@@ -1,5 +1,7 @@
 # subservient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subservient.md)
+
 <p><span class="chinese">牧师对主教是否过于恭顺?。</span><span class="english">Are priests too subservient to their bishops?</span></p>
 
 <p><span class="chinese">他们不像很多人想象地那麽顺从中国。</span><span class="english">They're not as subservient to the Chinese as many people think.</span></p>

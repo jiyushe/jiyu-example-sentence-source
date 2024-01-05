@@ -1,5 +1,7 @@
 # 木耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muer.md)
+
 <p><span class="chinese">随放木耳，青椒丝和胡萝卜丝大火翻炒。</span><span class="english">Add in black fungus,bell pepper and carrots.</span></p>
 
 <p><span class="chinese">用猪里脊肉片加木耳等炸、炒而成。</span><span class="english">It's thinly sliced meats fried with various sauces.</span></p>

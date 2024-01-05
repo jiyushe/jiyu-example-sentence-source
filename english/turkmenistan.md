@@ -1,5 +1,7 @@
 # turkmenistan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turkmenistan.md)
+
 <p><span class="chinese">另外，伊朗4-1战胜土库曼斯坦</span><span class="english">Elsewhere, Iran beat Turkmenistan 4-1.</span></p>
 
 <p><span class="chinese">经过认证，土库曼斯坦迈入了没有疟疾行列。</span><span class="english">Turkmenistan is certified as malaria-free.</span></p>

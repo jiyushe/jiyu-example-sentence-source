@@ -1,5 +1,7 @@
 # viscometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viscometer.md)
+
 <p><span class="chinese">另一种方式是，在粘度计对样品进行推挤时测量。</span><span class="english">Another method used is measurement as the viscometer pushes against the sample.</span></p>
 
 <p><span class="chinese">利用乌氏粘度计测定以甘油和季戊四醇聚醚多元醇的特性粘度。</span><span class="english">Ubbelohde viscometer was used to measure the intrinsic viscosity of PPG samples.</span></p>

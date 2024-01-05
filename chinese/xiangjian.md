@@ -1,5 +1,7 @@
 # 乡间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjian.md)
+
 <p><span class="chinese">我们乘拖车式活动房屋在乡间旅行。</span><span class="english">We trailered about the country.</span></p>
 
 <p><span class="chinese">他们是乡间俱乐部的成员。</span><span class="english">They belong to the country club.</span></p>

@@ -1,5 +1,7 @@
 # extirpation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extirpation.md)
+
 <p><span class="chinese">良性肿瘤的治疗是摘除。</span><span class="english">The treatment of benign tumors is extirpation.</span></p>
 
 <p><span class="chinese">手术摘除，结果满意。</span><span class="english">Extirpation of the tumors all gained satisfactory results.</span></p>

@@ -1,5 +1,7 @@
 # zambezi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zambezi.md)
+
 <p><span class="chinese">在赞比亚及津巴布韦的赞比西河漂流</span><span class="english">ZAMBEZI RIVERRAFTING, ZAMBIA & ZIMBABWE</span></p>
 
 <p><span class="chinese">一头赞比西河河马对搭便车的小鸟熟视无睹。</span><span class="english">All ears and eyes, a Zambezi River hippo ignores a hitchhiker.</span></p>

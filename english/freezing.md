@@ -1,5 +1,7 @@
 # freezing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freezing.md)
+
 <p><span class="chinese">现在外面冷极了。</span><span class="english">It's freezing outside now.</span></p>
 
 <p><span class="chinese">昨晚天气变得极冷。</span><span class="english">It was freezing last night.</span></p>

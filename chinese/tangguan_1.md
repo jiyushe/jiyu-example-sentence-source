@@ -1,5 +1,7 @@
 # 汤罐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangguan_1.md)
+
 <p><span class="chinese">浓缩的肉和蔬菜汤罐头、罐头水果果汁、和蔬菜</span><span class="english">Canned fruits, fruit juices, and vegetables</span></p>
 
 <p><span class="chinese">不管妈妈当时是否正手拿一柄长木勺在汤罐旁边忙碌着，我都知道我已经到家了。</span><span class="english">Whether Mama was standing over the pot stirring with a long wooden spoon or not, I knew I was home.</span></p>

@@ -1,5 +1,7 @@
 # greenwich
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenwich.md)
+
 <p><span class="chinese">那就是格林威治标准时间。</span><span class="english">That is Greenwich Mean Time.</span></p>
 
 <p><span class="chinese">你能告诉我们在格林威治有什么吗？</span><span class="english">Can you tell us what is in Greenwich?</span></p>

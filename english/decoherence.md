@@ -1,5 +1,7 @@
 # decoherence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decoherence.md)
+
 <p><span class="chinese">介绍了量子力学的退相干理论。</span><span class="english">The decoherence in quantum mechanics is studied.</span></p>
 
 <p><span class="chinese">平均保真度也可以通过调节相位退相干和失谐得到提高。</span><span class="english">The average fidelity can be improved by adjusting phase decoherence and detuning.</span></p>

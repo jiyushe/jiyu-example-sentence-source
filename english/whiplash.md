@@ -1,5 +1,7 @@
 # whiplash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiplash.md)
+
 <p><span class="chinese">你的孩子成长如此快让你都感到惊讶。</span><span class="english">Your kids grow up so fast you get whiplash.</span></p>
 
 <p><span class="chinese">你知道吗，你心情的变化好像是抽了我一鞭子。</span><span class="english">You know, your mood swings are kind of giving me whiplash.</span></p>

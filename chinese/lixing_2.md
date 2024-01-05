@@ -1,5 +1,7 @@
 # 理性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lixing_2.md)
+
 <p><span class="chinese">有理性。</span><span class="english">Righty is rational.</span></p>
 
 <p><span class="chinese">听起来比较理性，但是这样做你会得到很大的回报。</span><span class="english">But it’s payoffs are huge.</span></p>

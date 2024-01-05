@@ -1,5 +1,7 @@
 # 应募
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingmu.md)
+
 <p><span class="chinese">他已应募加入了海军。</span><span class="english">He has enlisted in the navy.</span></p>
 
 <p><span class="chinese">应征，应募，入伍，参军。</span><span class="english">He enrolled in the army after graduation.</span></p>

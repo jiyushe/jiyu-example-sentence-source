@@ -1,5 +1,7 @@
 # acolyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acolyte.md)
+
 <p><span class="chinese">是你还是我，能令我伤悲？</span><span class="english">Or I, who makes me sad? The acolyte.</span></p>
 
 <p><span class="chinese">就这样，我们最有前途的助手离开了我们。</span><span class="english">And so our most promising acolyte left us.</span></p>

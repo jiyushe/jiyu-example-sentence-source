@@ -1,5 +1,7 @@
 # 耳屏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erping.md)
+
 <p><span class="chinese">更或者是像我，你可能出生就没有对耳屏。</span><span class="english">Or, like me, you might have been born without an antitragus.</span></p>
 
 <p><span class="chinese">对耳屏是一个小小的软骨组织，犹如一道低矮的墙让耳塞呆在原位。</span><span class="english">That’s the little lower-edge wall of cartilage that would hold earbuds in place.</span></p>

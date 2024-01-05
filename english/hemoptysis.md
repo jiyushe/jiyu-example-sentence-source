@@ -1,5 +1,7 @@
 # hemoptysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemoptysis.md)
+
 <p><span class="chinese">很多疾病的病征会表现出咳血。</span><span class="english">Hemoptysis is described in many disease processes.</span></p>
 
 <p><span class="chinese">一位59岁的汽车司机出现咳嗽并偶尔咳血。</span><span class="english">A 59-year-old bus driver develops a cough with occasional hemoptysis.</span></p>

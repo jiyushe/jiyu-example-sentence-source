@@ -1,5 +1,7 @@
 # 备至
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beizhi.md)
+
 <p><span class="chinese">也难怪老戴要对他们推崇备至了。</span><span class="english">No wonder Dai canonizes them to the utmost.</span></p>
 
 <p><span class="chinese">你对一个怀孕的妇人也体贴备至。</span><span class="english">You show consideration for a pregnant �woman.</span></p>

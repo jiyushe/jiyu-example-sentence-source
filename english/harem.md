@@ -1,5 +1,7 @@
 # harem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harem.md)
+
 <p><span class="chinese">故如我祈求，无限之后宫。</span><span class="english">So as I pray, Unlimited Harem Works.</span></p>
 
 <p><span class="chinese">有一个漂亮的女人，是国王的后宫妃子之一。</span><span class="english">Was a beautiful woman, one of the king's harem.</span></p>

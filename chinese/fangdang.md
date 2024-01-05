@@ -1,5 +1,7 @@
 # 放荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangdang.md)
+
 <p><span class="chinese">多林肯定是个放荡的女人。</span><span class="english">Doreen is sure a fast woman.</span></p>
 
 <p><span class="chinese">多琳肯定是个放荡的女人。</span><span class="english">Doreen is sure a fast woman.</span></p>

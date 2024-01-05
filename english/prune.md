@@ -1,5 +1,7 @@
 # prune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prune.md)
+
 <p><span class="chinese">这是整枝的最好时节。</span><span class="english">It's the best time to prune.</span></p>
 
 <p><span class="chinese">那条欢乐的小尾巴需要剪除。</span><span class="english">That happy trail needs a prune.</span></p>

@@ -1,5 +1,7 @@
 # 杂项
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaxiang.md)
+
 <p><span class="chinese">XIP移植的杂项更新。</span><span class="english">Miscellaneous updates on XIP porting.</span></p>
 
 <p><span class="chinese">叠加杂项费用叫做“覆盖”。</span><span class="english">Heaping on charges is called "shrouding."</span></p>

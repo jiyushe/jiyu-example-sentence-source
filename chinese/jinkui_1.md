@@ -1,5 +1,7 @@
 # 锦葵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinkui_1.md)
+
 <p><span class="chinese">还摘一些锦葵做汤。</span><span class="english">And pick some mallows for soup.</span></p>
 
 <p><span class="chinese">而在井边长着些野锦葵。</span><span class="english">And by the well, some wild mallows.</span></p>

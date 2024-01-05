@@ -1,5 +1,7 @@
 # 佐理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoli.md)
+
 <p><span class="chinese">她总是可能佐理我们与我们的中原。</span><span class="english">She always helps us with our Chinese.</span></p>
 
 <p><span class="chinese">这没什么大不了的，我不介意佐理你摆脱逆境。</span><span class="english">It's no problem. I don't mind helping you out.</span></p>

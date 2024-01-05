@@ -1,5 +1,7 @@
 # dedicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dedicate.md)
+
 <p><span class="chinese">为他们献歌一首。</span><span class="english">Dedicate a song to them.</span></p>
 
 <p><span class="chinese">在这里可以点歌吗？</span><span class="english">Can i dedicate a song here?</span></p>

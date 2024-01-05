@@ -1,5 +1,7 @@
 # madly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madly.md)
+
 <p><span class="chinese">但他们会疯狂地牵手么？</span><span class="english">But hold hands madly?</span></p>
 
 <p><span class="chinese">我疯狂地爱着你。</span><span class="english">I'm madly love with you.</span></p>

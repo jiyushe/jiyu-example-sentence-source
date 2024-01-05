@@ -1,5 +1,7 @@
 # stylistics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stylistics.md)
+
 <p><span class="chinese">第二章，新闻语体的简洁性分析。</span><span class="english">The second chapter analyses the brevity of news stylistics.</span></p>
 
 <p><span class="chinese">功能文体学认为文体即前景化。</span><span class="english">Functional stylistics holds the view—style as foregrounding.</span></p>

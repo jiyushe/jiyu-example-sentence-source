@@ -1,5 +1,7 @@
 # destitution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destitution.md)
+
 <p><span class="chinese">民生凋敝。</span><span class="english">The people lived in destitution.</span></p>
 
 <p><span class="chinese">这既是他们的窘困也是他们的财富所在。</span><span class="english">This is both their destitution and their wealth.</span></p>

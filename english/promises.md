@@ -1,5 +1,7 @@
 # promises
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promises.md)
+
 <p><span class="chinese">许诺成空？</span><span class="english">Empty promises?</span></p>
 
 <p><span class="chinese">也没有啥承诺须去实现。</span><span class="english">No promises to keep.</span></p>

@@ -1,5 +1,7 @@
 # dispensation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispensation.md)
+
 <p><span class="chinese">圣教会能宽免婚配的阻碍么？</span><span class="english">Can the Church give a dispensation from these impediments?</span></p>
 
 <p><span class="chinese">对低毒脲醛树脂的配方设计进行了研究，应用均匀设计法设计试验。</span><span class="english">Study on the dispensation design of low-toxicity UF resin is made.</span></p>

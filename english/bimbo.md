@@ -1,5 +1,7 @@
 # bimbo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bimbo.md)
+
 <p><span class="chinese">胖女，肥妈，靓妹坐在椅子上打哈欠。</span><span class="english">Fat lady, big mama, Missy Bimbo sits in her chair and yawns.</span></p>
 
 <p><span class="chinese">这个人因为伊莲挑逗他的样子而认为她是不正经的女人。</span><span class="english">The man thought Elaine was a bimbo because of the way she flirted with him.</span></p>

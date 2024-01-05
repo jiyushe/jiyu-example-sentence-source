@@ -1,5 +1,7 @@
 # 远方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanfang_1.md)
+
 <p><span class="chinese">我凝视着千里之外的远方。</span><span class="english">I got my thousand-yard stare.</span></p>
 
 <p><span class="chinese">期待你将我带向远方。</span><span class="english">I'll expect you with me away.</span></p>

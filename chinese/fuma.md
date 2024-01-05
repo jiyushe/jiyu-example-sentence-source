@@ -1,5 +1,7 @@
 # 驸马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuma.md)
+
 <p><span class="chinese">那驸马得到皇帝的剑了么？</span><span class="english">Did your husband get the Emperor's sword?</span></p>
 
 <p><span class="chinese">皇帝传旨，比跷跷板招驸马。</span><span class="english">The emperor passes decree, enrol emperor's son-in-law than seesaw.</span></p>

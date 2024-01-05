@@ -1,5 +1,7 @@
 # minish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minish.md)
+
 <p><span class="chinese">减小船舶阻力，提高航行速度已势在必行。</span><span class="english">Minish the ship resistance and improve theheadway is necessary.</span></p>
 
 <p><span class="chinese">我每天得做两百次仰卧起坐来消除我的肚腩。</span><span class="english">I need do two hundred sit-ups everyday in order to minish my belly.</span></p>

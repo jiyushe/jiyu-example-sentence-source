@@ -1,5 +1,7 @@
 # norfolk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norfolk.md)
+
 <p><span class="chinese">新诺福克。</span><span class="english">New Norfolk.</span></p>
 
 <p><span class="chinese">诺福克岛。</span><span class="english">Norfolk Island.</span></p>

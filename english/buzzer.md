@@ -1,5 +1,7 @@
 # buzzer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buzzer.md)
+
 <p><span class="chinese">电话的蜂鸣器响了。</span><span class="english">The phone buzzer rang.</span></p>
 
 <p><span class="chinese">游戏结束后会有铃声。</span><span class="english">Added end-game buzzer sound.</span></p>

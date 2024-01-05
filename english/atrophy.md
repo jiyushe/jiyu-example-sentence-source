@@ -1,5 +1,7 @@
 # atrophy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atrophy.md)
+
 <p><span class="chinese">日复一日，她们精神萎靡。</span><span class="english">Day by day, their spirits atrophy.</span></p>
 
 <p><span class="chinese">一种能力如不加以使用将会减退。</span><span class="english">An ability may atrophy if it is not used.</span></p>

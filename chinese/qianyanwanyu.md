@@ -1,5 +1,7 @@
 # 千言万语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianyanwanyu.md)
+
 <p><span class="chinese">一张图胜过千言万语。</span><span class="english">A picture's worth a thousand words.</span></p>
 
 <p><span class="chinese">千言万语也表达不尽我的感激心情。</span><span class="english">No words can fully express my gratitude.</span></p>

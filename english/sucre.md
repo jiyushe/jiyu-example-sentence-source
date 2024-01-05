@@ -1,5 +1,7 @@
 # sucre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sucre.md)
+
 <p><span class="chinese">苏克雷随即离开了。</span><span class="english">Sucre leaves.</span></p>
 
 <p><span class="chinese">苏克雷的小女儿健康成长，苏克雷一脸的满足。</span><span class="english">Sucre hugged his daughter.</span></p>

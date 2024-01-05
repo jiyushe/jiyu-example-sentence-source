@@ -1,5 +1,7 @@
 # 暧昧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aimei.md)
+
 <p><span class="chinese">他态度非常友好，但是态度暧昧。</span><span class="english">He was friendly but noncommittal.</span></p>
 
 <p><span class="chinese">早恋，一场暧昧的友谊。</span><span class="english">Puppy love, an ambiguous friendship.</span></p>

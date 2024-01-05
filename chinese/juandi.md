@@ -1,5 +1,7 @@
 # 涓滴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juandi.md)
+
 <p><span class="chinese">涓滴之水汇成海洋。</span><span class="english">Little drops of water make mighty ocean.</span></p>
 
 <p><span class="chinese">涓滴之水汇成洋。</span><span class="english">Little drops of water make the mighty ocean.</span></p>

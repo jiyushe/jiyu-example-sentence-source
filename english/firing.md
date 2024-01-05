@@ -1,5 +1,7 @@
 # firing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firing.md)
+
 <p><span class="chinese">青花瓷笔纯陶瓷烧制的笔。</span><span class="english">Pure ceramic firing the pen.</span></p>
 
 <p><span class="chinese">引擎一直有逆火。</span><span class="english">The engine has been firing back.</span></p>

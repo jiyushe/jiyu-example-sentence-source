@@ -1,5 +1,7 @@
 # nakedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nakedly.md)
+
 <p><span class="chinese">一丝不挂的说给我听。</span><span class="english">Stark- nakedly say that let me listen to.</span></p>
 
 <p><span class="chinese">该事之恐怖，实在令人毛骨悚然，他们都吓得一声不吭。</span><span class="english">The horror of this, so nakedly terrifying, held them all silent.</span></p>

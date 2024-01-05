@@ -1,5 +1,7 @@
 # 尧舜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoshun.md)
+
 <p><span class="chinese">即使尧舜这样的先贤也做不到。</span><span class="english">Even Yao and Shun could not have done as much.</span></p>
 
 <p><span class="chinese">也不知是否尧舜的雄风刚从那穗尖上吹过?。</span><span class="english">Had they just been exposed to the strong winds of Yao and Shun?</span></p>

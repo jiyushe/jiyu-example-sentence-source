@@ -1,5 +1,7 @@
 # 警卫员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingweiyuan.md)
+
 <p><span class="chinese">他为部长派了一名警卫员。</span><span class="english">He set a guard on the minister.</span></p>
 
 <p><span class="chinese">警卫员换班的时间到了。</span><span class="english">It's time for the watchmen to change off.</span></p>

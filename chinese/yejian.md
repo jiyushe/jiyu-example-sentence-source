@@ -1,5 +1,7 @@
 # 夜间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yejian.md)
+
 <p><span class="chinese">夜间班。</span><span class="english">At night class.</span></p>
 
 <p><span class="chinese">＊只在夜间睡眠。</span><span class="english">Sleep only at night.</span></p>

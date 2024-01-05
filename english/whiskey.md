@@ -1,5 +1,7 @@
 # whiskey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiskey.md)
+
 <p><span class="chinese">来杯威士忌，怎样？</span><span class="english">How about a whiskey?</span></p>
 
 <p><span class="chinese">这种威士忌挺冲。</span><span class="english">This whiskey is strong.</span></p>

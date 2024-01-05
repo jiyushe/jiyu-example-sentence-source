@@ -1,5 +1,7 @@
 # psoas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psoas.md)
+
 <p><span class="chinese">腰大肌牵张试验显阴性。</span><span class="english">Psoas stretch is negative.</span></p>
 
 <p><span class="chinese">右腰大肌肿胀。</span><span class="english">Swelling of the right psoas.</span></p>

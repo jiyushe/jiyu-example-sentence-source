@@ -1,5 +1,7 @@
 # 家父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiafu.md)
+
 <p><span class="chinese">打电报给家父。</span><span class="english">I telegraphed to my father.</span></p>
 
 <p><span class="chinese">家父虐待我们好多年。</span><span class="english">My father abused us for years.</span></p>

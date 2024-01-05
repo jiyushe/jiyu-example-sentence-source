@@ -1,5 +1,7 @@
 # moneyless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moneyless.md)
+
 <p><span class="chinese">身上无钱过市快。</span><span class="english">A moneyless man goes fast through the market.</span></p>
 
 <p><span class="chinese">一个没钱的人很快穿过市场。</span><span class="english">A moneyless man goes fast through the market.</span></p>

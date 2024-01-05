@@ -1,5 +1,7 @@
 # fooling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fooling.md)
+
 <p><span class="chinese">不要再混夜子！</span><span class="english">No more fooling around!</span></p>
 
 <p><span class="chinese">没人在愚弄他们。</span><span class="english">Nobody is fooling them.</span></p>

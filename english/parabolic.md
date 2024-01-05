@@ -1,5 +1,7 @@
 # parabolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parabolic.md)
+
 <p><span class="chinese">短抛物线外型，六刀翼设计。</span><span class="english">Short parabolic profile. Six blades design.</span></p>
 
 <p><span class="chinese">短抛物线外型，四刀翼设计。</span><span class="english">Short parabolic profile. Four blades design.</span></p>

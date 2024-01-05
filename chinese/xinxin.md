@@ -1,5 +1,7 @@
 # 信心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxin.md)
+
 <p><span class="chinese">用信心等候。</span><span class="english">Wait in faith.</span></p>
 
 <p><span class="chinese">我有信心。</span><span class="english">I have confidence.</span></p>

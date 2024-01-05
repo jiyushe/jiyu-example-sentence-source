@@ -1,5 +1,7 @@
 # 监测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiance_1.md)
+
 <p><span class="chinese">什么是结果导向的监测与评价？</span><span class="english">What Is Results-Based M&E?</span></p>
 
 <p><span class="chinese">我监测到有人渣的存在。</span><span class="english">I detect the presence of scum.</span></p>

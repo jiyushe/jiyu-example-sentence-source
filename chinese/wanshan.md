@@ -1,5 +1,7 @@
 # 完善
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanshan.md)
+
 <p><span class="chinese">学校都做好完善的准备。</span><span class="english">The schools are well-prepared.</span></p>
 
 <p><span class="chinese">功能完善的图形接口！</span><span class="english">A functional graphics interface</span></p>

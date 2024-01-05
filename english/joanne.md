@@ -1,5 +1,7 @@
 # joanne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joanne.md)
+
 <p><span class="chinese">乔安娜是如何做到的呢？</span><span class="english">How does Joanne do it?</span></p>
 
 <p><span class="chinese">哈罗德，莫莉或者乔安妮会协助此工作。</span><span class="english">Harold, Molly or Joanne will help with the job.</span></p>

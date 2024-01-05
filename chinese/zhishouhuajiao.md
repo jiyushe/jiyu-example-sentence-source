@@ -1,5 +1,7 @@
 # 指手画脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishouhuajiao.md)
+
 <p><span class="chinese">他对委员会指手画脚。</span><span class="english">He lorded it over the committee.</span></p>
 
 <p><span class="chinese">我的一个朋友是一个很惹人厌的“后座司机”，他总是在后座指手画脚，告诉你该怎么开车。</span><span class="english">One of my friends is a terrible back seat driver.</span></p>

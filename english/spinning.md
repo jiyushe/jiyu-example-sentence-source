@@ -1,5 +1,7 @@
 # spinning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spinning.md)
+
 <p><span class="chinese">我的头很晕。</span><span class="english">My head is spinning.</span></p>
 
 <p><span class="chinese">陀螺在旋转。</span><span class="english">The top is spinning.</span></p>

@@ -1,5 +1,7 @@
 # 垂青
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuiqing.md)
+
 <p><span class="chinese">耶稣对你也特别垂青。</span><span class="english">Jesus loves you more than you will know.</span></p>
 
 <p><span class="chinese">如蒙垂青，定当勤勉，不负所望。</span><span class="english">If be not willing diligent, favors longing.</span></p>

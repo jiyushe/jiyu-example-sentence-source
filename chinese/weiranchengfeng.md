@@ -1,5 +1,7 @@
 # 蔚然成风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiranchengfeng.md)
+
 <p><span class="chinese">这种做法已经蔚然成风。</span><span class="english">This has become a fairly common practice.</span></p>
 
 <p><span class="chinese">参与标准化工作在濮院蔚然成风。</span><span class="english">Participation in standardization work in PUYUAN prevail.</span></p>

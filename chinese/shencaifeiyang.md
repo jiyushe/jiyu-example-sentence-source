@@ -1,5 +1,7 @@
 # 神采飞扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shencaifeiyang.md)
+
 <p><span class="chinese">早上好。你今天真是神采飞扬啊！</span><span class="english">Good morning. You look great today!</span></p>
 
 <p><span class="chinese">你看起来神采飞扬，发生什么事了？</span><span class="english">You look great today. What's happened?</span></p>

@@ -1,5 +1,7 @@
 # unguarded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unguarded.md)
+
 <p><span class="chinese">我们两国有世界上最长的而且是不设防的边境。</span><span class="english">We share the longest unguarded border in the world.</span></p>
 
 <p><span class="chinese">光的碎片漫然地萦萦留连于你的天空。</span><span class="english">Unguarded , some fragments of light linger in your sky.</span></p>

@@ -1,5 +1,7 @@
 # 决计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueji.md)
+
 <p><span class="chinese">我决计明天就走。</span><span class="english">I've decided to go tomorrow.</span></p>
 
 <p><span class="chinese">他便决计离开那修院。</span><span class="english">He resolved to quit the convent.</span></p>

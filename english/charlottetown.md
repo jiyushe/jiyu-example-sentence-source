@@ -1,5 +1,7 @@
 # charlottetown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charlottetown.md)
+
 <p><span class="chinese">这里是夏落特镇的机场，很迷你喔！</span><span class="english">This is the airport of Charlottetown . It is very small.</span></p>
 
 <p><span class="chinese">顺便一提，他的省会夏洛特市，是加拿大的发源地。</span><span class="english">BTW, its capital, Charlottetown is the birthplace of Canada.</span></p>

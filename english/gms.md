@@ -1,5 +1,7 @@
 # gms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gms.md)
+
 <p><span class="chinese">绿颜色。芯线与60大湄公河次区域锌涂层。</span><span class="english">Green color. Core wire with 60 gms zinc coating.</span></p>
 
 <p><span class="chinese">这里的总经理在所有的KOL监控多台服务器。</span><span class="english">All of the GMs here at KOL monitor multiple servers.</span></p>

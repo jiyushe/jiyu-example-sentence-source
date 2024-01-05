@@ -1,5 +1,7 @@
 # 三高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangao.md)
+
 <p><span class="chinese">南面为庐山第三高峰“五老峰”</span><span class="english">To its south is the third tallest, Wulao Peak.</span></p>
 
 <p><span class="chinese">你曾听过“食物营养金字塔”和“三高一低”吗?。</span><span class="english">Have you ever heard of "The Food Pyramid" and the "Three high and one low"?</span></p>

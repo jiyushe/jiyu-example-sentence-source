@@ -1,5 +1,7 @@
 # infancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infancy.md)
+
 <p><span class="chinese">量子化学仍处于发展初期。</span><span class="english">Quantum chemistry is in its infancy.</span></p>
 
 <p><span class="chinese">当时中国的国内旅游仍处在襁褓之中。</span><span class="english">Domestic tourism was also in its infancy.</span></p>

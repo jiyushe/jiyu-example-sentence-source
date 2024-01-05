@@ -1,5 +1,7 @@
 # orally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orally.md)
+
 <p><span class="chinese">能吃些口服药吗？</span><span class="english">Can I take the medicine orally?</span></p>
 
 <p><span class="chinese">给你开一些注射用药和口服药。</span><span class="english">I'll give some medicine by injection or orally.</span></p>

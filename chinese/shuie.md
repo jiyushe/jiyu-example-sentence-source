@@ -1,5 +1,7 @@
 # 税额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuie.md)
+
 <p><span class="chinese">你会调整你的预提税额吗？</span><span class="english">Do you adjust your withholding?</span></p>
 
 <p><span class="chinese">新减税额只是九牛一毛。</span><span class="english">The new tax cuts are a drop in the ocean.</span></p>

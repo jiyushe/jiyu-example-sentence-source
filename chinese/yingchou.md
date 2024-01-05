@@ -1,5 +1,7 @@
 # 应酬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingchou.md)
+
 <p><span class="chinese">是您品茶、休闲、商务应酬、洽淡的最佳场所。</span><span class="english">It will be your best hang-out.</span></p>
 
 <p><span class="chinese">今晚我不大想跟人应酬。</span><span class="english">I'm not feeling very sociable this evening.</span></p>

@@ -1,5 +1,7 @@
 # 梭子蟹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suozixie.md)
+
 <p><span class="chinese">随着泳绒梭子蟹冲刷上了海岸，海星也在英格兰海滩冲到了岸上。</span><span class="english">Starfish have also washed ashore on England's beaches, along with the velvet swimming crabs.</span></p>
 
 <p><span class="chinese">本发明涉及一种三疣梭子蟹幼蟹饲料配方及其加工方法。</span><span class="english">The invention relates to a juvenile horse crab feed formula and a processing method thereof.</span></p>

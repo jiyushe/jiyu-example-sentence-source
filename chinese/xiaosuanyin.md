@@ -1,5 +1,7 @@
 # 硝酸银
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaosuanyin.md)
+
 <p><span class="chinese">硝酸银是一种盐类化合物。</span><span class="english">Acids react with bases to form salts.</span></p>
 
 <p><span class="chinese">里面分别是氯化钠溶液和硝酸银溶液。</span><span class="english">This is the table salt and this is the silver nitrate.</span></p>

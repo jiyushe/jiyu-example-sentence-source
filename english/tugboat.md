@@ -1,5 +1,7 @@
 # tugboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tugboat.md)
+
 <p><span class="chinese">拖运，拖曳，拖船费。</span><span class="english">To tow by tugboat.</span></p>
 
 <p><span class="chinese">拖轮把货船拖进海港了。</span><span class="english">The tugboat tugged the freighter into the harbor.</span></p>

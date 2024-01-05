@@ -1,5 +1,7 @@
 # herzegovina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herzegovina.md)
+
 <p><span class="chinese">世界银行在波斯尼亚和黑塞哥维纳的参与</span><span class="english">The World Bank in Bosnia and Herzegovina</span></p>
 
 <p><span class="chinese">波黑是东南欧的一个国家，即将加入欧盟。</span><span class="english">Bosnia and Herzegovina is a country in Southern Europe, and is going to join the European Union.</span></p>

@@ -1,5 +1,7 @@
 # unplug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unplug.md)
+
 <p><span class="chinese">拔掉插头。</span><span class="english">Unplug.</span></p>
 
 <p><span class="chinese">拔下干衣机的插头。</span><span class="english">Unplug your dryer.</span></p>

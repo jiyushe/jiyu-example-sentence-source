@@ -1,5 +1,7 @@
 # IPod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ipod.md)
+
 <p><span class="chinese">从iPod拷贝歌曲到电脑</span><span class="english">Copy songs from iPod to computer</span></p>
 
 <p><span class="chinese">他的ipod里不全是hip-hop</span><span class="english">It's not always hip-hop on his iPod</span></p>

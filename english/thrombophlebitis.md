@@ -1,5 +1,7 @@
 # thrombophlebitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrombophlebitis.md)
+
 <p><span class="chinese">讨血栓溶解治在急性血栓静脉炎之角色。</span><span class="english">Discuss the use of thrombolysis in acute thrombophlebitis.</span></p>
 
 <p><span class="chinese">目的观察散瘀止痛汤治疗血栓性静脉炎的效果。</span><span class="english">Objective To study the effect of Shanyu Analgetic Decotion on thrombophlebitis.</span></p>

@@ -1,5 +1,7 @@
 # hydrops
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrops.md)
+
 <p><span class="chinese">皮下积液易发生在拔管后2-4天时间。</span><span class="english">The subcutaneous hydrops always occurred between 2-4 days after pulling tubes.</span></p>
 
 <p><span class="chinese">目的豚鼠腹腔注射醛固酮建立膜迷路积水的动物模型。</span><span class="english">Objective To develop endolymphatic hydrops in both ears of guinea pigs by aldosterone.</span></p>

@@ -1,5 +1,7 @@
 # 骤变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoubian_1.md)
+
 <p><span class="chinese">那接下来发生了什么呢？1962年时市场行情骤变。</span><span class="english">What happened? The crash came in 1962.</span></p>
 
 <p><span class="chinese">所有的水域都有波浪和方向骤变的浪。</span><span class="english">Every body of water has waves and chop.</span></p>

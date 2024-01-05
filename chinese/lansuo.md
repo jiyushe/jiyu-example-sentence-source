@@ -1,5 +1,7 @@
 # 缆索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lansuo.md)
+
 <p><span class="chinese">缆索突然断裂。</span><span class="english">The cable suddenly parted.</span></p>
 
 <p><span class="chinese">大风中船的缆索断了。</span><span class="english">The ship parted her hawsers in the gale.</span></p>

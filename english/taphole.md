@@ -1,5 +1,7 @@
 # taphole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taphole.md)
+
 <p><span class="chinese">开铁口机是完成打开高炉铁口操作的关键设备。</span><span class="english">Taphole driller is a key equipment to open the taphole blast furnace.</span></p>
 
 <p><span class="chinese">但是，实际运行中的电除尘系统仍然存在很多问题。</span><span class="english">In the taphole place. But there are still some problems in the running ESP system.</span></p>

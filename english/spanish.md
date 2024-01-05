@@ -1,5 +1,7 @@
 # Spanish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spanish.md)
+
 <p><span class="chinese">我很擅长说西班牙语。</span><span class="english">I'm good at Spanish.</span></p>
 
 <p><span class="chinese">你怎么会说西班牙语？</span><span class="english">How do you know Spanish?</span></p>

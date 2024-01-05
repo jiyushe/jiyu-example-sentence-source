@@ -1,5 +1,7 @@
 # 天罡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiangang.md)
+
 <p><span class="chinese">陆梅没有直接和秦天罡分开，而是跑向实行室，那边还有小野。</span><span class="english">Instead of directly from qin plough, Liu Mei ran to the room, there are little baby.</span></p>
 
 <p><span class="chinese">然则在转移物资之前，还有更主要的事，那就是和秦天罡、小满。</span><span class="english">But before the transfer of goods, there is a major thing, that is and qin plough, grain full.</span></p>

@@ -1,5 +1,7 @@
 # 退化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuihua_1.md)
+
 <p><span class="chinese">什么是土地退化？</span><span class="english">What is land degradation?</span></p>
 
 <p><span class="chinese">植物的刺是退化的枝。</span><span class="english">Thorns are aborted branch es.</span></p>

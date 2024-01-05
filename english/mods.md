@@ -1,5 +1,7 @@
 # mods
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mods.md)
+
 <p><span class="chinese">接下来我们会看到最有创新性和原创的机箱设计。</span><span class="english">This post showcases the most creative and original case mods.</span></p>
 
 <p><span class="chinese">我当时还在玩魔兽3的塔防地图。</span><span class="english">I was also playing Tower Defense mods in Warcraft III at the time.</span></p>

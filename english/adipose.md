@@ -1,5 +1,7 @@
 # adipose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adipose.md)
+
 <p><span class="chinese">什么是内脏脂肪？</span><span class="english">What is splanchnic and adipose?</span></p>
 
 <p><span class="chinese">相比之下，白色脂肪组织存储能量。</span><span class="english">In contrast, white adipose tissue stores energy.</span></p>

@@ -1,5 +1,7 @@
 # efficiency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/efficiency.md)
+
 <p><span class="chinese">球风和效率。</span><span class="english">Style and efficiency.</span></p>
 
 <p><span class="chinese">就可以算出效率。</span><span class="english">That's the efficiency.</span></p>

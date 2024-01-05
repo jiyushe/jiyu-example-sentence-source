@@ -1,5 +1,7 @@
 # microsphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microsphere.md)
+
 <p><span class="chinese">这表明明胶微球是一种理想的药物控释剂型。</span><span class="english">Gelatin microsphere is a ideal style of successful control release drug.</span></p>
 
 <p><span class="chinese">长春瑞滨脂质微球注射液。</span><span class="english">Objective To prepare the vinorelbine bitartrate lipid microsphere for injection.</span></p>

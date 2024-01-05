@@ -1,5 +1,7 @@
 # merc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merc.md)
+
 <p><span class="chinese">所以，这与古老芝加哥商业交易所的外套。</span><span class="english">So it's been with the venerable Merc jacket.</span></p>
 
 <p><span class="chinese">据圣荷西水星报报道，肇事司机尚未被逮捕。</span><span class="english">The driver of the pickup was not arrested, the Merc reported.</span></p>

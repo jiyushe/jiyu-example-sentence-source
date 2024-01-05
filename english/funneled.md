@@ -1,5 +1,7 @@
 # funneled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/funneled.md)
+
 <p><span class="chinese">接下来，把气体汇集到就近的一台发电机。</span><span class="english">The gas can then be funneled to a nearby generator.</span></p>
 
 <p><span class="chinese">贯穿过星云的强大磁场，正迫使大量的气体飞离星云。</span><span class="english">Streams of gas leaving the nebula are funneled by a strong magnetic field.</span></p>

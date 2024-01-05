@@ -1,5 +1,7 @@
 # paleogeography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleogeography.md)
+
 <p><span class="chinese">元古代叠层石是研究古地理变化的重要材料。</span><span class="english">As only one kind of fossil in Proterozoic, stromatolite is an important material in the paleogeography changing study.</span></p>
 
 <p><span class="chinese">磷矿经历初始沉积和再次富集的成矿作用，与古构造控制的古地理位置密切相关。</span><span class="english">After initial sediment and consequent concentration, the formation of the phosphorite is related closely to the paleogeography.</span></p>

@@ -1,5 +1,7 @@
 # casing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casing.md)
+
 <p><span class="chinese">全套管基桩?。</span><span class="english">All casing concrete pile?</span></p>
 
 <p><span class="chinese">宿舍内包窗套。</span><span class="english">Window casing in dorm room.</span></p>

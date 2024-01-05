@@ -1,5 +1,7 @@
 # dutch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dutch.md)
+
 <p><span class="chinese">请给我荷兰盾。</span><span class="english">Dutch guilders, please.</span></p>
 
 <p><span class="chinese">荷兰在1000百万像素疯狂。</span><span class="english">Dutch madness in 1000 megapixels.</span></p>

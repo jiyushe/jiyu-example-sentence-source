@@ -1,5 +1,7 @@
 # 作法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuofa.md)
+
 <p><span class="chinese">你应该制止他到处打探的作法。</span><span class="english">You'd better stop him nosing about.</span></p>
 
 <p><span class="chinese">或许这就是他独树一格的作法。</span><span class="english">Perhaps this was his modus operandi.</span></p>

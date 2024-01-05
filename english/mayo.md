@@ -1,5 +1,7 @@
 # mayo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mayo.md)
+
 <p><span class="chinese">梅奥是冰和火的混合体。</span><span class="english">OJ Mayo is equal parts ice and fire.</span></p>
 
 <p><span class="chinese">真夜脸上突然覆盖上一片阴影。</span><span class="english">A shadow suddenly appeared on Mayo 's face.</span></p>

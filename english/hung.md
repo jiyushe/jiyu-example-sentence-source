@@ -1,5 +1,7 @@
 # hung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hung.md)
+
 <p><span class="chinese">他挂断了我的电话。</span><span class="english">She hung up on me.</span></p>
 
 <p><span class="chinese">他把我的外套挂起来。</span><span class="english">He hung up my coat.</span></p>

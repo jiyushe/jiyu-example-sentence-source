@@ -1,5 +1,7 @@
 # rhizobium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhizobium.md)
+
 <p><span class="chinese">第二部分为根瘤菌剂型的比较与优化。</span><span class="english">The second part involved in the production of rhizobium inoculant.</span></p>
 
 <p><span class="chinese">根瘤菌的主要侵入点是植物的根须。</span><span class="english">The primary invasion site of Rhizobium is the root hair of the plant.</span></p>

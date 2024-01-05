@@ -1,5 +1,7 @@
 # 驼绒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuorong.md)
+
 <p><span class="chinese">我把喜欢你的那些小心思抽成了驼绒。</span><span class="english">Do you know that I love you ?</span></p>
 
 <p><span class="chinese">这是羊驼绒和尼龙混纺的。</span><span class="english">This is alpaca, mixed with nylon.</span></p>

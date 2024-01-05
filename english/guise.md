@@ -1,5 +1,7 @@
 # guise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guise.md)
+
 <p><span class="chinese">每个人都以这样那样的方式写这个题材。</span><span class="english">Everyone writes of them in one guise or another.</span></p>
 
 <p><span class="chinese">他经常假借公司的名义来招摇撞骗。</span><span class="english">AND swindled under the guise of the company's name.</span></p>

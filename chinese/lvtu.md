@@ -1,5 +1,7 @@
 # 旅途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvtu.md)
+
 <p><span class="chinese">旅途愉快！</span><span class="english">Happy travels!</span></p>
 
 <p><span class="chinese">祝你旅途愉快。</span><span class="english">Have a good trip.</span></p>

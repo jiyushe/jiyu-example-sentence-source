@@ -1,5 +1,7 @@
 # languorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/languorous.md)
+
 <p><span class="chinese">在令人倦怠的夏日，我们供大家遮荫。</span><span class="english">We gave shade on languorous summer days.</span></p>
 
 <p><span class="chinese">可以听到柔弱的笑声和满意的呻吟。</span><span class="english">We hear languorous laughter, moans of satisfaction.</span></p>

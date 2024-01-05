@@ -1,5 +1,7 @@
 # adequacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adequacy.md)
+
 <p><span class="chinese">年度性审核并评估本章成的适足性。</span><span class="english">Review and assess the adequacy of this charter annually.</span></p>
 
 <p><span class="chinese">确保质量管理体系的适宜性、充分性和有效性。</span><span class="english">To ensure the suitability, adequacy and effectiveness of QMS.</span></p>

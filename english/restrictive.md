@@ -1,5 +1,7 @@
 # restrictive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restrictive.md)
+
 <p><span class="chinese">他说20年的时间尺度可能太狭窄了。</span><span class="english">He says a 20-year timeframe could be too restrictive.</span></p>
 
 <p><span class="chinese">尽管如此，自然主义并不像它听起来那么狭隘。</span><span class="english">Still, naturalism is not as restrictive as it sounds.</span></p>

@@ -1,5 +1,7 @@
 # gecko
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gecko.md)
+
 <p><span class="chinese">壁虎与蜥蜴王国今天向你们问候。</span><span class="english">The Gecko and Lizard Kingdoms greets you today.</span></p>
 
 <p><span class="chinese">飞行壁虎生活在马来西亚的雨林中。</span><span class="english">Flying Gecko The flying gecko lives in the Malaysian rainforest.</span></p>

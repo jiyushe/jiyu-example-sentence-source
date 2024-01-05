@@ -1,5 +1,7 @@
 # 深更半夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengengbanye.md)
+
 <p><span class="chinese">我喜欢读书，读很多书，常常在深更半夜读。</span><span class="english">I read. A lot.</span></p>
 
 <p><span class="chinese">噢，你什么意思，你深更半夜打电话给我是什么意思啊？</span><span class="english">What do you mean by calling me at midnight?</span></p>

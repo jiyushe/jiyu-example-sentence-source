@@ -1,5 +1,7 @@
 # 逆风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nifeng.md)
+
 <p><span class="chinese">船改变航向逆风而行。</span><span class="english">The ship tacked against the wind.</span></p>
 
 <p><span class="chinese">飞机顶着强逆风飞行。</span><span class="english">The plane bucked a strong headwind.</span></p>

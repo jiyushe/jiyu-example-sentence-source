@@ -1,5 +1,7 @@
 # condenser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condenser.md)
+
 <p><span class="chinese">请关闭冷冻机。</span><span class="english">Shut down the condenser please.</span></p>
 
 <p><span class="chinese">将扇叶由冷凝器中取出。</span><span class="english">Taking fan blade out of condenser.</span></p>

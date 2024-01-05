@@ -1,5 +1,7 @@
 # 地基
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diji_1.md)
+
 <p><span class="chinese">这种轰隆隆的声音震天动地，我们觉得房子的地基都在颤抖。</span><span class="english">We feel the foundations shaking.</span></p>
 
 <p><span class="chinese">所以建房子的人就采用松木作为地基。</span><span class="english">So they used pinewood as the foundation.</span></p>

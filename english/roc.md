@@ -1,5 +1,7 @@
 # roc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roc.md)
+
 <p><span class="chinese">显然，外省人爱中华民国国旗。</span><span class="english">Apparently, mainlanders love the ROC flag.</span></p>
 
 <p><span class="chinese">有时候，梦想像鲲鹏一样，展翅高飞。</span><span class="english">Sometimes dream soaring above the earth like a roc.</span></p>

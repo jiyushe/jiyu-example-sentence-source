@@ -1,5 +1,7 @@
 # 晕厥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunjue.md)
+
 <p><span class="chinese">我跌倒，我晕厥，我窒息！</span><span class="english">I die, I faint, I fall!</span></p>
 
 <p><span class="chinese">象这样的病我们就称做晕厥。</span><span class="english">Such an attack is termed syncope.</span></p>

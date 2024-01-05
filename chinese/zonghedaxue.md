@@ -1,5 +1,7 @@
 # 综合大学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonghedaxue.md)
+
 <p><span class="chinese">就读在瑞典延雪平综合大学，毕业于美国纽约帕森思设计学院。</span><span class="english">Sweden and Parsons the New School for Design, New York, America.</span></p>
 
 <p><span class="chinese">南开大学作为一个综合大学在国际上享有盛誉。</span><span class="english">Nankai University is well-known around the world as a comprehensive university.</span></p>

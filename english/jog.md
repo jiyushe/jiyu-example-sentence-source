@@ -1,5 +1,7 @@
 # jog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jog.md)
+
 <p><span class="chinese">走或者慢跑下来。</span><span class="english">Walk or jog down.</span></p>
 
 <p><span class="chinese">约翰催促简去慢跑。</span><span class="english">John urged Jane to jog.</span></p>

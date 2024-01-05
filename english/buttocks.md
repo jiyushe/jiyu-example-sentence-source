@@ -1,5 +1,7 @@
 # buttocks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buttocks.md)
+
 <p><span class="chinese">保持住当你绷紧你的双腿和屁股时。</span><span class="english">Hold it while tensing your legs and buttocks.</span></p>
 
 <p><span class="chinese">那张桌子几乎被他的屁股拱翻了。</span><span class="english">The table was almost canted over by his buttocks.</span></p>

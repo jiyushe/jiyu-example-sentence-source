@@ -1,5 +1,7 @@
 # counterpart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterpart.md)
+
 <p><span class="chinese">而在C语言里面，与之相应的部分就是。</span><span class="english">main Well in C, the counterpart is main.</span></p>
 
 <p><span class="chinese">对方索然无味，徙劳而去。</span><span class="english">Her counterpart left in vain and vapidity.</span></p>

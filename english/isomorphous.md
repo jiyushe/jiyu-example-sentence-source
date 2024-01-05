@@ -1,5 +1,7 @@
 # isomorphous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isomorphous.md)
+
 <p><span class="chinese">价格同晶片大小成正比。</span><span class="english">The price is proportional to the size of isomorphous.</span></p>
 
 <p><span class="chinese">本文是黑钨矿类质同象系列研究成果的一个组成部分。</span><span class="english">This study is part of the systematic investigation of the wolframite isomorphous series.</span></p>

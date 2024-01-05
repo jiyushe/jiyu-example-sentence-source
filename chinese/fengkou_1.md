@@ -1,5 +1,7 @@
 # 风口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengkou_1.md)
+
 <p><span class="chinese">勿挡住室外机的出风口。</span><span class="english">Don't block the outlet of the bonnet.</span></p>
 
 <p><span class="chinese">风机，水泵，风道，水管，风口。</span><span class="english">Fan, pump, air duct, water pipe, vent.</span></p>

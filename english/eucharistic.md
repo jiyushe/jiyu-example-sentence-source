@@ -1,5 +1,7 @@
 # eucharistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eucharistic.md)
+
 <p><span class="chinese">恒久朝拜圣体是「敬礼中的敬礼」。</span><span class="english">Perpetual Eucharistic adoration is the "devotion of devotions."</span></p>
 
 <p><span class="chinese">教会和世界都极之需要朝拜圣体。</span><span class="english">The Church and the world have great need of Eucharistic adoration.</span></p>

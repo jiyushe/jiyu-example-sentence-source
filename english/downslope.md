@@ -1,5 +1,7 @@
 # downslope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downslope.md)
+
 <p><span class="chinese">落斜右狗腿，落点有沙池在等着你。</span><span class="english">Downslope dogleg right, bunkers are waiting at the landing area.</span></p>
 
 <p><span class="chinese">我顺着市场街平缓的斜坡朝着河边跑去。</span><span class="english">I follow the gentle downslope of Market Street toward the river.</span></p>

@@ -1,5 +1,7 @@
 # smiley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smiley.md)
+
 <p><span class="chinese">这是一个微笑？</span><span class="english">A smiley?</span></p>
 
 <p><span class="chinese">不要“笑脸盈盈”</span><span class="english">Don't be a "smiley face."</span></p>

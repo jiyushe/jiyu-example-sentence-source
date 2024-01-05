@@ -1,5 +1,7 @@
 # nox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nox.md)
+
 <p><span class="chinese">欧洲控制氮氧化物的排放以德国较为典型。</span><span class="english">Germany is typical in Europe in controlling NOx emission.</span></p>
 
 <p><span class="chinese">这个CAAA被设计来减少排放的二氧化硫和空气。</span><span class="english">The CAAA were designed to reduce SO2 and NOx air emissions.</span></p>

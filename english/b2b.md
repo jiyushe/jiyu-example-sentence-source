@@ -1,5 +1,7 @@
 # b2b
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/b2b.md)
+
 <p><span class="chinese">在马来西亚，B2B和B2C移动商务的接受率都比较低。</span><span class="english">In Malaysia, both B2B and B2C MC are not accepted broadly.</span></p>
 
 <p><span class="chinese">B2B是当前朗趣的核心商业形式，但不局限于此。</span><span class="english">B2B is the core business modus of Launcher, but not limit this.</span></p>

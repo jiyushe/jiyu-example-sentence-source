@@ -1,5 +1,7 @@
 # indisposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indisposition.md)
+
 <p><span class="chinese">他的犹豫暴露了他的根本不情愿。</span><span class="english">His hesitancy revealed his basic indisposition.</span></p>
 
 <p><span class="chinese">约翰刚小病初愈。</span><span class="english">John has just recovered from his indisposition.</span></p>

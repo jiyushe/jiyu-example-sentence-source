@@ -1,5 +1,7 @@
 # holdover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holdover.md)
+
 <p><span class="chinese">它是懒惰的传统思想的遗物。</span><span class="english">It is a holdover from lazy traditional thinking.</span></p>
 
 <p><span class="chinese">从维多利亚时期这个传统一直保留至今。</span><span class="english">This practice is a holdover from typographers of the Victorian era.</span></p>

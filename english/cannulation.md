@@ -1,5 +1,7 @@
 # cannulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannulation.md)
+
 <p><span class="chinese">正中切口采取常规插管方法建立CPB。</span><span class="english">Median sternotomy group used regular cannulation to establish CPB.</span></p>
 
 <p><span class="chinese">在无菌条件下，施行山羊子宫角插管术和山羊子宫静脉插管术。</span><span class="english">Cornua uteri cannulation and uterine vein cannulation were applied in the test.</span></p>

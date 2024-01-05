@@ -1,5 +1,7 @@
 # 标准化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozhunhua.md)
+
 <p><span class="chinese">哪些字段需要被标准化？</span><span class="english">Which fields need to be standardized?</span></p>
 
 <p><span class="chinese">汉字需要的仅仅是把事情“标准化”。</span><span class="english">It simply needs to “standardise” things.</span></p>

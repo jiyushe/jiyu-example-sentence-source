@@ -1,5 +1,7 @@
 # plaice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plaice.md)
+
 <p><span class="chinese">鲽鱼是我最喜欢的鱼。</span><span class="english">Plaice is my favorite fish.</span></p>
 
 <p><span class="chinese">放置鲽的最好地方是鲽愿意被放置的地方。</span><span class="english">A pleasant place to place a plaice is a place where a plaice to be placed.</span></p>

@@ -1,5 +1,7 @@
 # negligence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negligence.md)
+
 <p><span class="chinese">他因粗心大意而受到责备。</span><span class="english">He was taxed with negligence.</span></p>
 
 <p><span class="chinese">过失行为通常是侵权。</span><span class="english">Usually negligence is a tort.</span></p>

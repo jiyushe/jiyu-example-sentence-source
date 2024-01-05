@@ -1,5 +1,7 @@
 # 抬杠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taigang.md)
+
 <p><span class="chinese">他们抬杠。</span><span class="english">They bicker.</span></p>
 
 <p><span class="chinese">“我们做的还不够过么”别的队员接着抬杠。</span><span class="english">"Aren't we done yet?" another huffed.</span></p>

@@ -1,5 +1,7 @@
 # flake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flake.md)
+
 <p><span class="chinese">去鱼皮、鱼骨，再把鱼肉片成薄片。</span><span class="english">Skin, bone and flake the fish.</span></p>
 
 <p><span class="chinese">油漆开始成薄片状剥落。</span><span class="english">The paint's beginning to flake off.</span></p>

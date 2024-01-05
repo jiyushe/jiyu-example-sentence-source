@@ -1,5 +1,7 @@
 # call 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/call.md)
+
 <p><span class="chinese">叫我卡尔吧。</span><span class="english">Call me Carl.</span></p>
 
 <p><span class="chinese">然后调用。</span><span class="english">And then call.</span></p>

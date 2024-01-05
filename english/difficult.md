@@ -1,5 +1,7 @@
 # difficult
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/difficult.md)
+
 <p><span class="chinese">生活是艰困的。</span><span class="english">Life is difficult.</span></p>
 
 <p><span class="chinese">它们是困难重重。</span><span class="english">And difficult they are.</span></p>

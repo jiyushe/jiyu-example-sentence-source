@@ -1,5 +1,7 @@
 # 出征
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuzheng.md)
+
 <p><span class="chinese">我们听说斯巴达在出征路途上。</span><span class="english">We heard Sparta was on the warpath.</span></p>
 
 <p><span class="chinese">能代表国家出征总是让我非常高兴。</span><span class="english">I'm always glad to represent my country.</span></p>

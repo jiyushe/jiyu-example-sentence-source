@@ -1,5 +1,7 @@
 # 要冲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaochong.md)
+
 <p><span class="chinese">要冲泡散叶茶？</span><span class="english">Want to brew loose leaf tea?</span></p>
 
 <p><span class="chinese">就在要冲进池塘救人的时候。</span><span class="english">So you are about to rush in to save the child.</span></p>

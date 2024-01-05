@@ -1,5 +1,7 @@
 # eyeballing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyeballing.md)
+
 <p><span class="chinese">我可以看到两个儿子都盯着这些钱。</span><span class="english">I could see my boys eyeballing the money.</span></p>
 
 <p><span class="chinese">那家伙坐在角落里盯著我看。</span><span class="english">That guy sat in the corner, eyeballing me.</span></p>

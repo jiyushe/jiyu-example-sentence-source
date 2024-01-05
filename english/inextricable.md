@@ -1,5 +1,7 @@
 # inextricable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inextricable.md)
+
 <p><span class="chinese">昆虫发现自己被缠在一个逃脱不掉的罗网中。</span><span class="english">The insect found itself entangled in an inextricable net.</span></p>
 
 <p><span class="chinese">生命是一个谜，是红尘中的人永远也解不开的谜。</span><span class="english">Life is a mystery, an inextricable mystery for human society.</span></p>

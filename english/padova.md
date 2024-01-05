@@ -1,5 +1,7 @@
 # padova
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/padova.md)
+
 <p><span class="chinese">我们将看到一个比在帕多瓦更加出色的米兰。</span><span class="english">We'll see a better Milan than the one at Padova.</span></p>
 
 <p><span class="chinese">而维罗纳，维琴察，比萨和帕多瓦都对这名现年19岁的球员感兴趣。</span><span class="english">The 19 year-old is courting interest from Verona, Vicenza, Pisa and Padova.</span></p>

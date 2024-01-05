@@ -1,5 +1,7 @@
 # symposium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symposium.md)
+
 <p><span class="chinese">一场关于加缪的讨论会本身就是扯淡。</span><span class="english">A symposium on Camus is a lie.</span></p>
 
 <p><span class="chinese">这是决不能错过的研讨会。</span><span class="english">This is a can't-miss symposium.</span></p>

@@ -1,5 +1,7 @@
 # co
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/co.md)
+
 <p><span class="chinese">开泰制管股份有限公司。</span><span class="english">Kai Tai Pipe Co. , Ltd.</span></p>
 
 <p><span class="chinese">广州西竹实业有限公司。</span><span class="english">Xizhu Industry Co. , Ltd.</span></p>

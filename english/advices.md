@@ -1,5 +1,7 @@
 # advices
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advices.md)
+
 <p><span class="chinese">聚沙成塔，积少成多。</span><span class="english">Every little advices a mickle.</span></p>
 
 <p><span class="chinese">感谢，这些建议对我很有帮助！</span><span class="english">TKS a lot , these advices give me great help!</span></p>

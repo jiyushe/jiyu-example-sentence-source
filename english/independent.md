@@ -1,5 +1,7 @@
 # independent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/independent.md)
+
 <p><span class="chinese">独立和器件。</span><span class="english">Independent and on-device.</span></p>
 
 <p><span class="chinese">你是一个独立的人吗？</span><span class="english">Are you an independent person?</span></p>

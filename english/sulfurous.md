@@ -1,5 +1,7 @@
 # sulfurous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfurous.md)
+
 <p><span class="chinese">可从燃烧时的硫磺味识别出角蛋白。</span><span class="english">The sulfurous smell of Burning keratin is distinctive.</span></p>
 
 <p><span class="chinese">硫磺冲击波对每个生物和玩家造成2点伤害。</span><span class="english">Sulfurous Blast deals 2 damage to each creature and each player.</span></p>

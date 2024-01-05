@@ -1,5 +1,7 @@
 # careless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/careless.md)
+
 <p><span class="chinese">不要那么粗枝大叶。</span><span class="english">Don't be so careless.</span></p>
 
 <p><span class="chinese">不小心扎伤手指。</span><span class="english">Careless finger pricks.</span></p>

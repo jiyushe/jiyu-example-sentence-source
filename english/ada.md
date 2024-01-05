@@ -1,5 +1,7 @@
 # ada
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ada.md)
+
 <p><span class="chinese">你好，我的曼恩是艾达。</span><span class="english">Hello, My mame is Ada.</span></p>
 
 <p><span class="chinese">埃达有一张布满皱纹、长得像猿猴的脸。</span><span class="english">Ada had a wrinkled, simian face.</span></p>

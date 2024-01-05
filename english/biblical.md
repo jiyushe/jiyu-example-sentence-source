@@ -1,5 +1,7 @@
 # biblical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biblical.md)
+
 <p><span class="chinese">事实上，并没有"符合圣经的格调"这回事！</span><span class="english">But there is no biblical style!</span></p>
 
 <p><span class="chinese">圣经神学为什么重要？</span><span class="english">Why is Biblical Theology important?</span></p>

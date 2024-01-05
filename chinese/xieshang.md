@@ -1,5 +1,7 @@
 # 协商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieshang.md)
+
 <p><span class="chinese">本周协商会持续举行。</span><span class="english">Those talks continue this week.</span></p>
 
 <p><span class="chinese">一切几乎都是可以协商的。</span><span class="english">Nearly everything is negotiable.</span></p>

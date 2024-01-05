@@ -1,5 +1,7 @@
 # 反而
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/faner.md)
+
 <p><span class="chinese">那项计划反而害了他们自己。</span><span class="english">The plan boomeranged on them.</span></p>
 
 <p><span class="chinese">反而我们可以为用户体验而设计。</span><span class="english">Instead, we can design for UX.</span></p>

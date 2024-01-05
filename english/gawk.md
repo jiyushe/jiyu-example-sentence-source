@@ -1,5 +1,7 @@
 # gawk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gawk.md)
+
 <p><span class="chinese">在城镇的凉亭里呆呆的看着它。</span><span class="english">Gawk at it in the town gazebo.</span></p>
 
 <p><span class="chinese">目瞪口呆，卑躬屈膝，并盯著阿里王子看！</span><span class="english">To gawk and grovel and stare at Prince Ali!</span></p>

@@ -1,5 +1,7 @@
 # 蹲点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dundian.md)
+
 <p><span class="chinese">我喜欢“蹲点”。</span><span class="english">I love to camp.</span></p>
 
 <p><span class="chinese">今天的蹲点人还是满多的哦。</span><span class="english">Are there many birds around your neighbourhood?</span></p>

@@ -1,5 +1,7 @@
 # 一鼻子灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibizihui.md)
+
 <p><span class="chinese">他在她面前碰了一鼻子灰。</span><span class="english">He stubbed his toe before her.</span></p>
 
 <p><span class="chinese">他还是用旧世界的游戏规则生活，只会撞得一鼻子灰。</span><span class="english">He uses Old World's game rule life, only can hit rebuffs.</span></p>

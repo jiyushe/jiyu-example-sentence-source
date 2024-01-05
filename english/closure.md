@@ -1,5 +1,7 @@
 # closure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/closure.md)
+
 <p><span class="chinese">接待花边关闭。</span><span class="english">Front lace-up closure.</span></p>
 
 <p><span class="chinese">拉链前关闭。</span><span class="english">Full-zip front closure.</span></p>

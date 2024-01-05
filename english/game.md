@@ -1,5 +1,7 @@
 # game
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/game.md)
+
 <p><span class="chinese">一种技巧的游戏。</span><span class="english">A game of skill.</span></p>
 
 <p><span class="chinese">那个游戏怎么样？</span><span class="english">How was the game?</span></p>

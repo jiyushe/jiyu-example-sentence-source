@@ -1,5 +1,7 @@
 # 可见光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kejianguang.md)
+
 <p><span class="chinese">对可见光透明。</span><span class="english">Transparent to visible light.</span></p>
 
 <p><span class="chinese">可见光的能量是多少？</span><span class="english">What is the E of visible light?</span></p>

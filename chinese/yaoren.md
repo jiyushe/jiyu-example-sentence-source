@@ -1,5 +1,7 @@
 # 要人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoren.md)
+
 <p><span class="chinese">停止忧虑，忧虑要人命。</span><span class="english">Stop worrying . Worry kills life.</span></p>
 
 <p><span class="chinese">这婴儿大声喊叫要人来喂饭。</span><span class="english">The baby is clamouring to be fed.</span></p>

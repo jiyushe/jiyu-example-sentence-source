@@ -1,5 +1,7 @@
 # 直系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixi_1.md)
+
 <p><span class="chinese">他是直系子孙。</span><span class="english">He is the lineal descendant.</span></p>
 
 <p><span class="chinese">好的。有直系皇室，</span><span class="english">Yeah. Well. there's the direct Royal Family,</span></p>

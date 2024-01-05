@@ -1,5 +1,7 @@
 # tack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tack.md)
+
 <p><span class="chinese">请快点套马具。</span><span class="english">Please tack up quickly.</span></p>
 
 <p><span class="chinese">所以，陈戈转变了策略。</span><span class="english">So Mr Chen changed tack.</span></p>

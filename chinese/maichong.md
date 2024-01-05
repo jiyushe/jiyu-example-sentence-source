@@ -1,5 +1,7 @@
 # 脉冲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maichong.md)
+
 <p><span class="chinese">捕获单次脉冲。</span><span class="english">Captures single-shot pulses.</span></p>
 
 <p><span class="chinese">IGBT双脉冲测试知识。</span><span class="english">IGBT double-pulse test knowledge.</span></p>

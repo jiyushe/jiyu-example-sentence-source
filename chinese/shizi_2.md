@@ -1,5 +1,7 @@
 # 师资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizi_2.md)
+
 <p><span class="chinese">该校拥有一支高水平的师资队伍。</span><span class="english">It boasts a high-level faculty.</span></p>
 
 <p><span class="chinese">学校师资队伍实力雄厚。</span><span class="english">The strength of the school teachers.</span></p>

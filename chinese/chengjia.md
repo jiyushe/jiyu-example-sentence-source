@@ -1,5 +1,7 @@
 # 成家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengjia.md)
+
 <p><span class="chinese">我现在长大了，不能陪你玩了，我要成家了，但我还没有房子，你能帮我吗？</span><span class="english">I don’t have time toplay.</span></p>
 
 <p><span class="chinese">长子和长女都已经成家。</span><span class="english">And the eldest sister is already married.</span></p>

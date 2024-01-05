@@ -1,5 +1,7 @@
 # prometheus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prometheus.md)
+
 <p><span class="chinese">于是，普罗米修斯又自由了。</span><span class="english">So Prometheus was set free.</span></p>
 
 <p><span class="chinese">普罗米修斯将返回地球。</span><span class="english">Prometheus will go back to Earth.</span></p>

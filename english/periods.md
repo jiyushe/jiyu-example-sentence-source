@@ -1,5 +1,7 @@
 # periods
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periods.md)
+
 <p><span class="chinese">每星期有四节课。</span><span class="english">Four periods a week.</span></p>
 
 <p><span class="chinese">建设期长。</span><span class="english">Long construction periods.</span></p>

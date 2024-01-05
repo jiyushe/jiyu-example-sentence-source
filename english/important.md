@@ -1,5 +1,7 @@
 # important 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/important.md)
+
 <p><span class="chinese">伽利略是个重要的人物。</span><span class="english">Galileo's important.</span></p>
 
 <p><span class="chinese">记住网址非常重要。</span><span class="english">That's really important.</span></p>

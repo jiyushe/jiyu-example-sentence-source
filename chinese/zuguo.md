@@ -1,5 +1,7 @@
 # 祖国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuguo.md)
+
 <p><span class="chinese">我亲爱的祖国。</span><span class="english">My dear motherland.</span></p>
 
 <p><span class="chinese">誓死保卫祖国！</span><span class="english">Our country or death!</span></p>

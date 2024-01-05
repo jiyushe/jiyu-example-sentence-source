@@ -1,5 +1,7 @@
 # crescendo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crescendo.md)
+
 <p><span class="chinese">对,渐强</span><span class="english">Okay, crescendo.</span></p>
 
 <p><span class="chinese">交响乐团即将演奏到音量渐强的一节。</span><span class="english">The orchestra was working up to a crescendo.</span></p>

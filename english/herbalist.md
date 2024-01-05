@@ -1,5 +1,7 @@
 # herbalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herbalist.md)
+
 <p><span class="chinese">郎中医生愿意帮助我们。</span><span class="english">The herbalist doctor We're ready to help.</span></p>
 
 <p><span class="chinese">在你尝试草药治疗之前，你应该请教草药医生。</span><span class="english">You should consult a herbalist before you try a herbal cure.</span></p>

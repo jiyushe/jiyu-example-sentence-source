@@ -1,5 +1,7 @@
 # betaine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betaine.md)
+
 <p><span class="chinese">中有甘氨酸甜菜碱的积累。</span><span class="english">The accumulation of glycine betaine in E.</span></p>
 
 <p><span class="chinese">在羊草中也已测出有甜菜碱的积累。</span><span class="english">Betaine was also detected in Chinese leymus.</span></p>

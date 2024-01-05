@@ -1,5 +1,7 @@
 # defibrillation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defibrillation.md)
+
 <p><span class="chinese">这种治疗又称为“除颤”。</span><span class="english">This treatment is called defibrillation.</span></p>
 
 <p><span class="chinese">这要求尽快进行早期除颤。</span><span class="english">These call for defibrillation as soon as possible.</span></p>

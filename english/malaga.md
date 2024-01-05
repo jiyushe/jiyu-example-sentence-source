@@ -1,5 +1,7 @@
 # malaga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malaga.md)
+
 <p><span class="chinese">此刻飞机正准备在马拉加机场着陆。</span><span class="english">Now it was ready for landing on Malaga airport.</span></p>
 
 <p><span class="chinese">当我们到达马拉加机场时，已经是晚上9点了。</span><span class="english">When we arrived Malaga airport, it was already 9pm.</span></p>

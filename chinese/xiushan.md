@@ -1,5 +1,7 @@
 # 修缮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiushan.md)
+
 <p><span class="chinese">那座古塔正在修缮中。</span><span class="english">The ancient pagoda is undergoing repairs.</span></p>
 
 <p><span class="chinese">大规模的修缮工作正在进行。</span><span class="english">Extensive repair work is being carried out.</span></p>

@@ -1,5 +1,7 @@
 # 玉米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yumi.md)
+
 <p><span class="chinese">找玉米棒子！</span><span class="english">Look for corn!</span></p>
 
 <p><span class="chinese">我喜欢玉米汤。</span><span class="english">I love corn soup.</span></p>

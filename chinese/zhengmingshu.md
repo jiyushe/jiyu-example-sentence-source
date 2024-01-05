@@ -1,5 +1,7 @@
 # 证明书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengmingshu.md)
+
 <p><span class="chinese">权利与义务证明书。</span><span class="english">Certificate of Incumbency and Authority.</span></p>
 
 <p><span class="chinese">他带着一张他的品行证明书。</span><span class="english">He bears a testimonial as to his character.</span></p>

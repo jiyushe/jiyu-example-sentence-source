@@ -1,5 +1,7 @@
 # vert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vert.md)
+
 <p><span class="chinese">让我们以一个非常简单的例子来说明。</span><span class="english">Lets start with a vert simple example.</span></p>
 
 <p><span class="chinese">这些都是街，公园，垂直，滑道及平地。</span><span class="english">These are Street, Park, Vert , Trails and Flatland.</span></p>

@@ -1,5 +1,7 @@
 # 石榴花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiliuhua.md)
+
 <p><span class="chinese">石榴花含有黄酮类化合物。</span><span class="english">Pomegranate flowers contain flavonoid compounds.</span></p>
 
 <p><span class="chinese">院子里的月季花、石榴花的芳香，更是给赛珍珠夫妇的新婚生活平添很多美丽。</span><span class="english">Inside a clear, aromatic pomegranate, is the married couple to Pearl S. Buck took a beautiful life.</span></p>

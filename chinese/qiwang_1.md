@@ -1,5 +1,7 @@
 # 期望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiwang_1.md)
+
 <p><span class="chinese">我期望。</span><span class="english">I expect.</span></p>
 
 <p><span class="chinese">什么是期望？</span><span class="english">What are expectations?</span></p>

@@ -1,5 +1,7 @@
 # adjacent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjacent.md)
+
 <p><span class="chinese">我们在邻接的房间工作。</span><span class="english">We work in adjacent rooms.</span></p>
 
 <p><span class="chinese">海的，有关海的，邻海的。</span><span class="english">Of, relating to, or adjacent to the sea.</span></p>

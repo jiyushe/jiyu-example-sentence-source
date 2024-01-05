@@ -1,5 +1,7 @@
 # 脑溢血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoyixue.md)
+
 <p><span class="chinese">眩晕病会造成脑溢血吗?。</span><span class="english">Can swimmy disease cause cerebral haemorrhage?</span></p>
 
 <p><span class="chinese">他患脑溢血。</span><span class="english">He suffered from suffusion of blood on the brain.</span></p>

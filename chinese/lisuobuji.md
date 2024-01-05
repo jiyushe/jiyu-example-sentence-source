@@ -1,5 +1,7 @@
 # 力所不及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lisuobuji.md)
+
 <p><span class="chinese">这是我力所不及的。</span><span class="english">It is past my power.</span></p>
 
 <p><span class="chinese">对不起，这是我力所不及的。</span><span class="english">Sorry, this is beyond my power.</span></p>

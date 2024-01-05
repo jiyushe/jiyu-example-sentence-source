@@ -1,5 +1,7 @@
 # 起火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihuo_1.md)
+
 <p><span class="chinese">一辆小汽车起火燃烧。</span><span class="english">A car burst into flames.</span></p>
 
 <p><span class="chinese">锅炉已经生起火了。</span><span class="english">The boiler has stoked up.</span></p>

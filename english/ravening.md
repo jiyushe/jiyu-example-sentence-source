@@ -1,5 +1,7 @@
 # ravening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ravening.md)
+
 <p><span class="chinese">一群狼在森林中到处觅食。</span><span class="english">A pack of wolves went ravening about in the forest.</span></p>
 
 <p><span class="chinese">它就像荒野中游荡的狮子，在寻找可以吞食的猎物。</span><span class="english">It is the ravening lion roaming the earth seeking whom it may devour.</span></p>

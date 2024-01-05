@@ -1,5 +1,7 @@
 # afterword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterword.md)
+
 <p><span class="chinese">本2003年版采用了新的后记。</span><span class="english">This 2003 edition features a new afterword.</span></p>
 
 <p><span class="chinese">后记如果你弄坏了鱼线，你得在商店里重新买一个。</span><span class="english">Afterword If you broke off your fish-line you have to buy new one in store.</span></p>

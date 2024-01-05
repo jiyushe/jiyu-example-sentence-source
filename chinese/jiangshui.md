@@ -1,5 +1,7 @@
 # 江水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangshui.md)
+
 <p><span class="chinese">江水溶溶。</span><span class="english">The river is broad and gentle.</span></p>
 
 <p><span class="chinese">江水滚滚向东流。</span><span class="english">River is flowing into the east.</span></p>

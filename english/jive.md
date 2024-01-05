@@ -1,5 +1,7 @@
 # jive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jive.md)
+
 <p><span class="chinese">Jive的这个例子很常见。</span><span class="english">Jive is not an uncommon example.</span></p>
 
 <p><span class="chinese">请问现在最好的论坛原代码是哪的？</span><span class="english">Jive is good. But it may not the best.</span></p>

@@ -1,5 +1,7 @@
 # popsicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popsicle.md)
+
 <p><span class="chinese">我可以吃个冰棒吗？</span><span class="english">Can I have a Popsicle?</span></p>
 
 <p><span class="chinese">我想要回我的半根冰棒。</span><span class="english">I want my Popsicle back.</span></p>

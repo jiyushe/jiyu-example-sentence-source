@@ -1,5 +1,7 @@
 # tactics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tactics.md)
+
 <p><span class="chinese">无黑帽战术。</span><span class="english">No black-hat tactics.</span></p>
 
 <p><span class="chinese">白帽子战术只。</span><span class="english">White hat tactics only.</span></p>

@@ -1,5 +1,7 @@
 # 梅毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meidu.md)
+
 <p><span class="chinese">这是神经梅毒造成的。</span><span class="english">This is caused by neurosyphilis.</span></p>
 
 <p><span class="chinese">滴虫病比梅毒常见。</span><span class="english">Trichomoniasis is more common than syphilis.</span></p>

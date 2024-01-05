@@ -1,5 +1,7 @@
 # registrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/registrant.md)
+
 <p><span class="chinese">钱保是该注册公司的全资子公司。</span><span class="english">Qianbao is a wholly-owned subsidiary of the Registrant.</span></p>
 
 <p><span class="chinese">我需要在域名注册商那里注册一个域名。</span><span class="english">Firstly, I needed to register domain name with a registrant. For e.g.</span></p>

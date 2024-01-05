@@ -1,5 +1,7 @@
 # adele
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adele.md)
+
 <p><span class="chinese">阿黛勒朝窗子飞奔过去。</span><span class="english">Adele flew to the window.</span></p>
 
 <p><span class="chinese">阿黛尔皇家艾伯特大厅演唱会。</span><span class="english">Adele. Live. At. The. Royal. Albert. Hall.</span></p>

@@ -1,5 +1,7 @@
 # 不可企及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukeqiji.md)
+
 <p><span class="chinese">按他们的能力这种目标是不可企及的。</span><span class="english">It's far beyond their reach to obtain such aim.</span></p>
 
 <p><span class="chinese">一觉醒来，你是我不可企及的遥远。</span><span class="english">Wake up, you are my distant far beyond one's reach.</span></p>

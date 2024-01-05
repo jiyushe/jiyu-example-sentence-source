@@ -1,5 +1,7 @@
 # haemodialysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haemodialysis.md)
+
 <p><span class="chinese">目前该中心共有6名病黎在此洗肾。</span><span class="english">There are 4 haemodialysis machines to cater to the 6 patients at present.</span></p>
 
 <p><span class="chinese">本发明涉及一种新型血液透析浓缩液，属于医疗领域。</span><span class="english">The invention relates to a new blood concentrated haemodialysis solution which relates to the medical field.</span></p>

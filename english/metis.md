@@ -1,5 +1,7 @@
 # metis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metis.md)
+
 <p><span class="chinese">大英帝国的支持者和美提人。</span><span class="english">A. United Empire Loyalists and Métis.</span></p>
 
 <p><span class="chinese">阿卡第安人、美提人和第一民族。</span><span class="english">D. Acadians, Métis and First Nations.</span></p>

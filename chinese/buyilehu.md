@@ -1,5 +1,7 @@
 # 不亦乐乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyilehu.md)
+
 <p><span class="chinese">有友自远方来，不亦乐乎！</span><span class="english">It is a pleasure to have friends coming from afar!</span></p>
 
 <p><span class="chinese">她讲她上学时的往事把我们逗得不亦乐乎。</span><span class="english">She regaled us with an account of her school-days.</span></p>

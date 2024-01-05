@@ -1,5 +1,7 @@
 # pre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pre.md)
+
 <p><span class="chinese">刚开始，我打算念法律。</span><span class="english">First, I was pre -law.</span></p>
 
 <p><span class="chinese">很期待明天晚些时候第一场季前赛的到来！</span><span class="english">Early night 1st game of pre season 2moro!</span></p>

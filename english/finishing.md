@@ -1,5 +1,7 @@
 # finishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finishing.md)
+
 <p><span class="chinese">由奇热剧网整理。</span><span class="english">By JiRe play nets finishing.</span></p>
 
 <p><span class="chinese">小婴儿喝完奶后会噎气。</span><span class="english">The baby burps after finishing the milk.</span></p>

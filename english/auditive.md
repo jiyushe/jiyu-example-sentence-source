@@ -1,5 +1,7 @@
 # auditive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auditive.md)
+
 <p><span class="chinese">在外周听觉系统中，核心部分是内耳的耳蜗。</span><span class="english">Inner ear is the key in the auditive system.</span></p>
 
 <p><span class="chinese">耳朵发炎会引起耳闷吗？</span><span class="english">Can auditive agnail cause ear to cover tightly?</span></p>

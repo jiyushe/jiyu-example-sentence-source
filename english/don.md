@@ -1,5 +1,7 @@
 # don
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/don.md)
+
 <p><span class="chinese">只是。没放下去。</span><span class="english">Just. Don t put up.</span></p>
 
 <p><span class="chinese">我是堂．布拉德利。</span><span class="english">This is Don Bradley.</span></p>

@@ -1,5 +1,7 @@
 # Swedish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swedish.md)
+
 <p><span class="chinese">瑞典黑金属。</span><span class="english">Swedish Black Metal.</span></p>
 
 <p><span class="chinese">难道传说中的金发女孩是瑞典人？</span><span class="english">Maybe Goldilocks was Swedish?</span></p>

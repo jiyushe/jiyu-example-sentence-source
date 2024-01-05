@@ -1,5 +1,7 @@
 # 鬼把戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guibaxi.md)
+
 <p><span class="chinese">这都是骗人的鬼把戏。</span><span class="english">It is all a trick.</span></p>
 
 <p><span class="chinese">那是个聪明的鬼把戏。</span><span class="english">That's a cute trick.</span></p>

@@ -1,5 +1,7 @@
 # 急切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiqie.md)
+
 <p><span class="chinese">林怎么了”优优急切的问道。</span><span class="english">Forest how" good asks agog."</span></p>
 
 <p><span class="chinese">狱卒急切地观察着。</span><span class="english">The gaoler looked on eagerly.</span></p>

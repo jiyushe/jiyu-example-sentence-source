@@ -1,5 +1,7 @@
 # trifling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trifling.md)
+
 <p><span class="chinese">滚开吧，脆弱的精灵，现在我说了算！</span><span class="english">Begone, trifling elf! I am in control now!</span></p>
 
 <p><span class="chinese">谁愿意屈尊去谴责这种轻浮举止？</span><span class="english">Who'd stoop to blame This sort of trifling?</span></p>

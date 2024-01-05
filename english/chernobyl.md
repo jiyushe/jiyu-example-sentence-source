@@ -1,5 +1,7 @@
 # chernobyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chernobyl.md)
+
 <p><span class="chinese">因此，我们从切尔诺贝利学到了什么呢？</span><span class="english">So what have we learnt from Chernobyl?</span></p>
 
 <p><span class="chinese">这并不只是切尔诺贝利事故的直接后果。</span><span class="english">This is not just the direct result of Chernobyl.</span></p>

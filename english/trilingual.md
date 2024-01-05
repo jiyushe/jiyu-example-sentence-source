@@ -1,5 +1,7 @@
 # trilingual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trilingual.md)
+
 <p><span class="chinese">我们是一个重视家庭事工的三语教会。</span><span class="english">We are a very family oriented trilingual church.</span></p>
 
 <p><span class="chinese">亦有一个三语言自动化播音。</span><span class="english">There is also a trilingual automated announcement.</span></p>

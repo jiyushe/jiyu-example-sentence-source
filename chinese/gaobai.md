@@ -1,5 +1,7 @@
 # 告白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaobai.md)
+
 <p><span class="chinese">也就不需要更多爱的告白了！！</span><span class="english">And no more confessions.</span></p>
 
 <p><span class="chinese">最终她鼓起勇气告白了。</span><span class="english">And she finally worked up the nerve to tell her.</span></p>

@@ -1,5 +1,7 @@
 # 称心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenxin.md)
+
 <p><span class="chinese">小孩子嗬嗬做声表示称心满意。</span><span class="english">The child purred content.</span></p>
 
 <p><span class="chinese">胸无大志，事事称心。</span><span class="english">Little thing please little minds.</span></p>

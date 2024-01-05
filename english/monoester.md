@@ -1,5 +1,7 @@
 # monoester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monoester.md)
+
 <p><span class="chinese">反应产物经薄层色谱鉴定为单酯和双酯。</span><span class="english">The products were identified TLC as monoester and diester.</span></p>
 
 <p><span class="chinese">微波酯化技术用于淀粉变性反应制备磷酸单酯淀粉。</span><span class="english">The microwave heating technology was applied to produce phosphate monoester starch.</span></p>

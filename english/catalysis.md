@@ -1,5 +1,7 @@
 # catalysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalysis.md)
+
 <p><span class="chinese">催化作用提高了反应的速度。</span><span class="english">Catalysis has increased the rate of reaction.</span></p>
 
 <p><span class="chinese">她的病人莫白也催化了她的改变。</span><span class="english">Her patient Mo Bai also catalysis her change.</span></p>

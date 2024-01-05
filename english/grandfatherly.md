@@ -1,5 +1,7 @@
 # grandfatherly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandfatherly.md)
+
 <p><span class="chinese">“我们并不担心这些，”杰克逊和蔼的说。</span><span class="english">We're not worried about this, " Jackson said in his best grandfatherly voice."</span></p>
 
 <p><span class="chinese">他现在已经70岁了，被尊崇为一位慈祥的僧人，而且有时遁隐。</span><span class="english">He snow 70 years old, considered a grandfatherly shaman, and is somewhat reclusive.</span></p>

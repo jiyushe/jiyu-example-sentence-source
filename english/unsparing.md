@@ -1,5 +1,7 @@
 # unsparing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsparing.md)
+
 <p><span class="chinese">另一个学生，赵，顾及原则。</span><span class="english">A second student, Zhao, was unsparing.</span></p>
 
 <p><span class="chinese">另一个学生，姓赵，说得非常不留情面。</span><span class="english">A second student, called Zhao, was unsparing.</span></p>

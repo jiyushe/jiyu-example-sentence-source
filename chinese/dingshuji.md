@@ -1,5 +1,7 @@
 # 订书机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingshuji.md)
+
 <p><span class="chinese">我可以借你的订书机吗?。</span><span class="english">May I borrow your stapler ?</span></p>
 
 <p><span class="chinese">这订书机是她的。</span><span class="english">The stapler belongs to her.</span></p>

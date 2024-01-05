@@ -1,5 +1,7 @@
 # 喜庆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiqing.md)
+
 <p><span class="chinese">是婚丧喜庆的公用场所。</span><span class="english">Is events like weddings or public place.</span></p>
 
 <p><span class="chinese">在喜庆的日子里，人们身著盛装。</span><span class="english">People are well dressed on red-letter day.</span></p>

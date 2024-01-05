@@ -1,5 +1,7 @@
 # steward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steward.md)
+
 <p><span class="chinese">因此，好管家是不贪婪的。</span><span class="english">A good steward is not wasteful.</span></p>
 
 <p><span class="chinese">一个术语只能有一个专员。</span><span class="english">A term can have only one steward.</span></p>

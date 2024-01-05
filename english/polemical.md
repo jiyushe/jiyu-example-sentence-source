@@ -1,5 +1,7 @@
 # polemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polemical.md)
+
 <p><span class="chinese">耶金的分析有条有理，绝不强硬武断。</span><span class="english">Yergin is careful in his analysis and never polemical.</span></p>
 
 <p><span class="chinese">这封信可能是为了起到引发争论的效果，内容并不可信。</span><span class="english">The letter was probably written for polemical impact. It is scarcely credible.</span></p>

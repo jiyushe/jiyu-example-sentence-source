@@ -1,5 +1,7 @@
 # 酚醛树脂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenquanshuzhi.md)
+
 <p><span class="chinese">如酚醛树脂、环氧树脂等。</span><span class="english">Phenol-formaldehyde resin is an example.</span></p>
 
 <p><span class="chinese">NBR和XNBR都可作为生胶与酚醛树脂共混。</span><span class="english">NBR or XNBR as raw rubber and phenolic resin was blended.</span></p>

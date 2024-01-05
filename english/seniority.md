@@ -1,5 +1,7 @@
 # seniority
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seniority.md)
+
 <p><span class="chinese">而他因为教龄长而不会被解雇。</span><span class="english">He can't be fired due to seniority.</span></p>
 
 <p><span class="chinese">按资历，老潘该排第一。</span><span class="english">By seniority first place goes to Pan.</span></p>

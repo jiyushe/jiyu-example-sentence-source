@@ -1,5 +1,7 @@
 # myoglobin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myoglobin.md)
+
 <p><span class="chinese">肌红蛋白是存在于肌肉中的红色的随氧蛋白。</span><span class="english">Myoglobin is a red, oxygen-binding protein found in muscles.</span></p>
 
 <p><span class="chinese">当肾脏将血液滤出身体时，肌红蛋白会损伤肾脏。</span><span class="english">Myoglobin can damage the kidneys as they filter blood out of the body.</span></p>

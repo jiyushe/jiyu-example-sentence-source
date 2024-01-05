@@ -1,5 +1,7 @@
 # 面食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianshi_3.md)
+
 <p><span class="chinese">它是一种以烫面为皮裹馅上笼蒸熟的面食小吃。</span><span class="english">It is a steamed flour food with stuffing.</span></p>
 
 <p><span class="chinese">专指一种无馅的面食。</span><span class="english">Refers specifically to a non-filling of pasta.</span></p>

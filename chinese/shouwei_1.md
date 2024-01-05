@@ -1,5 +1,7 @@
 # 收尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouwei_1.md)
+
 <p><span class="chinese">这封信以乐观的口气收尾。</span><span class="english">The letter ended on a cheerful note.</span></p>
 
 <p><span class="chinese">投机事业是没有成功的收尾。</span><span class="english">The venture had no successful event.</span></p>

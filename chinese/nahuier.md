@@ -1,5 +1,7 @@
 # 那会儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nahuier.md)
+
 <p><span class="chinese">2004年印度洋海啸那会儿，美国撤侨派出了第七舰队，而中国，只派出了一艘货轮。</span><span class="english">China sent a cargo ship.</span></p>
 
 <p><span class="chinese">那会儿我挺失望的。</span><span class="english">I was disappointed then.</span></p>

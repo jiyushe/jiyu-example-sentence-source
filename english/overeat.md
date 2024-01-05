@@ -1,5 +1,7 @@
 # overeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overeat.md)
+
 <p><span class="chinese">不要吃得过多。</span><span class="english">Don’t overeat.</span></p>
 
 <p><span class="chinese">不要吃得过饱。</span><span class="english">Do not overeat.</span></p>

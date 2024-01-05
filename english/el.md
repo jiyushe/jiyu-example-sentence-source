@@ -1,5 +1,7 @@
 # el
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/el.md)
+
 <p><span class="chinese">我喜欢什么颜色？</span><span class="english">Me gusta el color?</span></p>
 
 <p><span class="chinese">他在电影院。</span><span class="english">El está en el cine.</span></p>

@@ -1,5 +1,7 @@
 # atherogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atherogenesis.md)
+
 <p><span class="chinese">普遍的观点认为血流动力学因素在其中起着重要作用。</span><span class="english">Hemodynamic factors have been suggested to be important in atherogenesis.</span></p>
 
 <p><span class="chinese">因此，我们现在将注意力放在当代的动脉粥样化形成理论上。</span><span class="english">Thus we now turn our attention to contemporary theories of atherogenesis.</span></p>

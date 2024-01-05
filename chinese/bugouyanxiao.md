@@ -1,5 +1,7 @@
 # 不苟言笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bugouyanxiao.md)
+
 <p><span class="chinese">老板是个不苟言笑的人。</span><span class="english">The boss is an unsmiling man.</span></p>
 
 <p><span class="chinese">渐渐地我变得孤僻，不苟言笑。</span><span class="english">Gradually, I became uncommunicative and reserved.</span></p>

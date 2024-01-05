@@ -1,5 +1,7 @@
 # scud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scud.md)
+
 <p><span class="chinese">如何认识云翔？</span><span class="english">How did you know Scud?</span></p>
 
 <p><span class="chinese">乱云飞渡仍从容！</span><span class="english">Clouds scud past still unhurried!</span></p>

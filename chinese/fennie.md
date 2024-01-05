@@ -1,5 +1,7 @@
 # 分蘖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fennie.md)
+
 <p><span class="chinese">麦子正在分蘖。</span><span class="english">The wheat is tillering.</span></p>
 
 <p><span class="chinese">有些小麦和裸麦大量分蘖。</span><span class="english">Some wheats and ryes tiller freely.</span></p>

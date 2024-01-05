@@ -1,5 +1,7 @@
 # clothe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clothe.md)
+
 <p><span class="chinese">你的主要生意是服装还是别的？</span><span class="english">Your mai usine i clothe or other?</span></p>
 
 <p><span class="chinese">从孩提起，我就学会了给迈克尔喂饭穿衣。</span><span class="english">As a boy I learned to feed and clothe Mike.</span></p>

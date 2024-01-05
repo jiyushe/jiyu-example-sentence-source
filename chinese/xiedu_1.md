@@ -1,5 +1,7 @@
 # 斜度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiedu_1.md)
+
 <p><span class="chinese">偏斜度超过规定时，可采用车削校正。</span><span class="english">In excess skewness the correction may be turning.</span></p>
 
 <p><span class="chinese">断裂带表面粗糙，并带有斜度。</span><span class="english">Fractured zone has a crudity surface with a pitch.</span></p>

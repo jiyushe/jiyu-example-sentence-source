@@ -1,5 +1,7 @@
 # 老实巴交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoshibajiao.md)
+
 <p><span class="chinese">你真是个老实巴交的孩子啊…</span><span class="english">Life is a lie that tells the truth.</span></p>
 
 <p><span class="chinese">但为什么“老实巴交”的椅子被列入黑名单呢？</span><span class="english">So why is the humble chair being blacklisted?</span></p>

@@ -1,5 +1,7 @@
 # neckwear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neckwear.md)
+
 <p><span class="chinese">采购产品围巾，披肩，海滩裙，绑和鞠躬绳子，领子。</span><span class="english">Pareos and Made-Ups, Ties and Bow Ties, Neckwear.</span></p>
 
 <p><span class="chinese">暗灰色的领带配什么颜色的衬衣都行。</span><span class="english">An ashen neckwear is worn with a shirt of any colour.</span></p>

@@ -1,5 +1,7 @@
 # microscopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microscopic.md)
+
 <p><span class="chinese">而宏观量与微观量之间。</span><span class="english">Between the macroscopic and the microscopic.</span></p>
 
 <p><span class="chinese">微观粒子有波动性。</span><span class="english">Microscopic "particles" have wave properties.</span></p>

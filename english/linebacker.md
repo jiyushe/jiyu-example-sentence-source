@@ -1,5 +1,7 @@
 # linebacker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linebacker.md)
+
 <p><span class="chinese">我是中后卫。</span><span class="english">I was a linebacker.</span></p>
 
 <p><span class="chinese">在最．近一次比赛中，我试图跳跃过一名后卫。</span><span class="english">In my last match, I tried to leap a linebacker.</span></p>

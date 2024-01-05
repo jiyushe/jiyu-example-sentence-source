@@ -1,5 +1,7 @@
 # 中叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongye.md)
+
 <p><span class="chinese">十八世纪中叶，欧洲人开始移居新西兰。</span><span class="english">European migration began in the mid-18th century.</span></p>
 
 <p><span class="chinese">其后17世纪中叶，节日流传到英国。</span><span class="english">Then mid-17th century, the festival spread to Britain.</span></p>

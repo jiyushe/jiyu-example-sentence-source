@@ -1,5 +1,7 @@
 # middle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/middle.md)
+
 <p><span class="chinese">他已是中年人。</span><span class="english">He is middle age.</span></p>
 
 <p><span class="chinese">有谁选中</span><span class="english">How about Middle?</span></p>

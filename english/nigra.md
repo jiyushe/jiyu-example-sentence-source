@@ -1,5 +1,7 @@
 # nigra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nigra.md)
+
 <p><span class="chinese">这部分区域被称为是黑质细胞。</span><span class="english">This area is called the substantial nigra.</span></p>
 
 <p><span class="chinese">在左边黑质处是正常数目的神经元，并且出现色素沉着。</span><span class="english">At the left, normal numbers of neurons substantia nigra are pigmented.</span></p>

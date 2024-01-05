@@ -1,5 +1,7 @@
 # nagoya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nagoya.md)
+
 <p><span class="chinese">在名古屋达成的协议将有望改变这一切。</span><span class="english">Hopefully the agreement reached in Nagoya will change all that.</span></p>
 
 <p><span class="chinese">国泰航空公司来回香港至名古屋机票。</span><span class="english">Roundtrip Economy class air ticket for Hong Kong and Nagoya on CX.</span></p>

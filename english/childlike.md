@@ -1,5 +1,7 @@
 # childlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/childlike.md)
+
 <p><span class="chinese">我喜欢她童稚般的纯真。</span><span class="english">I enjoy her childlike innocence.</span></p>
 
 <p><span class="chinese">我们对于未知的一切有着一份赤子般的信仰。</span><span class="english">We have a childlike belief in the unknown.</span></p>

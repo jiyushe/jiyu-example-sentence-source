@@ -1,5 +1,7 @@
 # 日中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rizhong.md)
+
 <p><span class="chinese">这个剧院总会在节礼日中播放一部新的影片。</span><span class="english">The theater always shows a new movie on Boxing Day.</span></p>
 
 <p><span class="chinese">中方认为日中安全对话有何意义？</span><span class="english">What significance does the dialogue have in China's opinion?</span></p>

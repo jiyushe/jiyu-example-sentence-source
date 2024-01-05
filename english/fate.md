@@ -1,5 +1,7 @@
 # fate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fate.md)
+
 <p><span class="chinese">这是我们的命运。</span><span class="english">It is our fate.</span></p>
 
 <p><span class="chinese">花开花落缘份几何？</span><span class="english">The flowers bloom fate?</span></p>

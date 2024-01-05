@@ -1,5 +1,7 @@
 # 酸酐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suangan.md)
+
 <p><span class="chinese">所述固化剂可以为多元酸酸酐。</span><span class="english">The curing agent may be a polybasic acid anhydride.</span></p>
 
 <p><span class="chinese">这些蛋白质叫做碳酸酐酶。</span><span class="english">The proteins are enzymes called carbonic anhydrases.</span></p>

@@ -1,5 +1,7 @@
 # idyllic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idyllic.md)
+
 <p><span class="chinese">表面上这是一种悠闲的的生活。</span><span class="english">On the surface it was an idyllic life.</span></p>
 
 <p><span class="chinese">现在回望过去，当时的世界就像一个世外桃源。</span><span class="english">Looking back at it, it seems now an idyllic world.</span></p>

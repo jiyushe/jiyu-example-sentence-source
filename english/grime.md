@@ -1,5 +1,7 @@
 # grime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grime.md)
+
 <p><span class="chinese">可分解最顽固的油垢。</span><span class="english">It will break down the toughest grease and grime.</span></p>
 
 <p><span class="chinese">舒缓温柔的洗去一天的污垢和化妆。</span><span class="english">A soothing, protective wash to ease away the day's grime and make-up.</span></p>

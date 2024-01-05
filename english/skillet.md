@@ -1,5 +1,7 @@
 # skillet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skillet.md)
+
 <p><span class="chinese">牛油入锅，加热融化。</span><span class="english">Heat butter in a skillet until melted.</span></p>
 
 <p><span class="chinese">每只锅中放入1大汤匙黄油。</span><span class="english">Add 1 tablespoon butter to each skillet.</span></p>

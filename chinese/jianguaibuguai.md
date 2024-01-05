@@ -1,5 +1,7 @@
 # 见怪不怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianguaibuguai.md)
+
 <p><span class="chinese">对于伪善行为我们已经见怪不怪了。</span><span class="english">We had become accustomed to the hypocrisy.</span></p>
 
 <p><span class="chinese">在他们的一生他们已见怪不怪。</span><span class="english">They have seen enough of those in one lifetime.</span></p>

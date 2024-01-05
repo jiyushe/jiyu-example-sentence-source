@@ -1,5 +1,7 @@
 # deity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deity.md)
+
 <p><span class="chinese">这是一个男性神祇。</span><span class="english">This is a male deity.</span></p>
 
 <p><span class="chinese">他被敬若神明。</span><span class="english">He is worshipped as deity.</span></p>

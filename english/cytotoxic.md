@@ -1,5 +1,7 @@
 # cytotoxic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytotoxic.md)
+
 <p><span class="chinese">MTT法检测效应细胞对靶细胞的杀伤率。</span><span class="english">The cytotoxic effect of CTLs was assessed by MTT assay.</span></p>
 
 <p><span class="chinese">这些T细胞有时被称为细胞毒性T细胞。</span><span class="english">These T cells are sometimes referred to as cytotoxic T cells.</span></p>

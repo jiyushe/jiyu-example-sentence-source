@@ -1,5 +1,7 @@
 # 左右为难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoyouweinan.md)
+
 <p><span class="chinese">所以你将左右为难。</span><span class="english">So now you see the dilemma.</span></p>
 
 <p><span class="chinese">这是一种令人左右为难的局面。</span><span class="english">This is kind of a catch-22.</span></p>

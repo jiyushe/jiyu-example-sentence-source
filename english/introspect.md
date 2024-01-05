@@ -1,5 +1,7 @@
 # introspect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/introspect.md)
+
 <p><span class="chinese">我们不能够反省和发现他们。</span><span class="english">You can't introspect and find them.</span></p>
 
 <p><span class="chinese">你无法通过自省而感受到它们的存在。</span><span class="english">You can't introspect and find them.</span></p>

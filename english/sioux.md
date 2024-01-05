@@ -1,5 +1,7 @@
 # sioux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sioux.md)
+
 <p><span class="chinese">我有个堂兄弟在苏福斯。</span><span class="english">I got me a cousin in Sioux Falls.</span></p>
 
 <p><span class="chinese">苏人酋长是个很睿智的人。</span><span class="english">The Sioux chief is a very wise man.</span></p>

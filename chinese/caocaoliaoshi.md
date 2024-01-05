@@ -1,5 +1,7 @@
 # 草草了事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caocaoliaoshi.md)
+
 <p><span class="chinese">所以别再让前戏草草了事了。</span><span class="english">So don't skim on foreplay.</span></p>
 
 <p><span class="chinese">已经没有感觉了，就是做也是草草了事。</span><span class="english">There is no feeling that is too hasty to do.</span></p>

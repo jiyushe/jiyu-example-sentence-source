@@ -1,5 +1,7 @@
 # 佛堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fotang.md)
+
 <p><span class="chinese">此代表法身佛，故可置于佛堂上供奉。</span><span class="english">It represents the Dharmakaya of Buddha, so one can put it on altar and worship.</span></p>
 
 <p><span class="chinese">佛堂房子绘有释迦牟尼人像和已故的达赖喇嘛人像。</span><span class="english">The Hall of the Buddha houses gold-traced portraits of Sakyamuni and deceased Dalai Lamas.</span></p>

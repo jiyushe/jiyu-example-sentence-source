@@ -1,5 +1,7 @@
 # 臣服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenfu.md)
+
 <p><span class="chinese">或许臣服也没有用。</span><span class="english">Or submit to also useless.</span></p>
 
 <p><span class="chinese">光明，臣服在我的脚下吧！</span><span class="english">Bright, succumbed to it in my foot!</span></p>

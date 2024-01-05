@@ -1,5 +1,7 @@
 # 梯子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tizi.md)
+
 <p><span class="chinese">梯子支立着。</span><span class="english">The ladder is up.</span></p>
 
 <p><span class="chinese">盖上新梯子。</span><span class="english">New stairs covering.</span></p>

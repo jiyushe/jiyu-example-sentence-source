@@ -1,5 +1,7 @@
 # 卧榻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wota.md)
+
 <p><span class="chinese">我躺在卧榻上。</span><span class="english">I'll lie on the couch.</span></p>
 
 <p><span class="chinese">美军最先进的超级武器已然在北京的卧榻之旁悄然露面。</span><span class="english">A new class of U.S. superweapon had suddenly surfaced nearby.</span></p>

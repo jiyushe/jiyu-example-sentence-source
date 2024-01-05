@@ -1,5 +1,7 @@
 # 喹啉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuilin.md)
+
 <p><span class="chinese">并对喹啉的加氢机理进行了探索。</span><span class="english">The hydrogenation mechanism of quinoline was discussed.</span></p>
 
 <p><span class="chinese">碱性氮化物包括吡啶和喹啉。</span><span class="english">The basic nitrogen compounds include pyridines and quinolines.</span></p>

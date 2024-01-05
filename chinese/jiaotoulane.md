@@ -1,5 +1,7 @@
 # 焦头烂额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotoulane.md)
+
 <p><span class="chinese">这一系列的大案，让中村和福田忙的焦头烂额。</span><span class="english">This series of major, let nakamura and Mr Busy.</span></p>
 
 <p><span class="chinese">很多人很惊讶总统会来NBC.会寻思他现在本该为一大堆倒霉的大公司和油水过多的主管而焦头烂额嘛。</span><span class="english">A lot of people were surprised that the president came to NBC.</span></p>

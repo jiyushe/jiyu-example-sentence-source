@@ -1,5 +1,7 @@
 # astringency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astringency.md)
+
 <p><span class="chinese">坚果的胚乳由于存在丹宁，所以有显著的涩味。</span><span class="english">The endosperm of the nut owes its marked degree of astringency.</span></p>
 
 <p><span class="chinese">该方式具有优化、收敛性快等优点。</span><span class="english">This method has some advantages, such as optimizing, astringency.</span></p>

@@ -1,5 +1,7 @@
 # motoneuron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motoneuron.md)
+
 <p><span class="chinese">运动单位由运动神经元及其支配的肌纤维组成。</span><span class="english">Motor units comprise a motoneuron and the muscle fibers it innervates.</span></p>
 
 <p><span class="chinese">在脊柱运动神经元变性的小鼠模型中，本品能改善其可动性。</span><span class="english">In the spinal column motoneuron denaturates in the mouse model, this can improve its mobility.</span></p>

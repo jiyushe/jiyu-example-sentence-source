@@ -1,5 +1,7 @@
 # congruence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congruence.md)
+
 <p><span class="chinese">北京乐观看待这样一个一致的目标。</span><span class="english">Such a congruence of goals is viewed positively in Beijing.</span></p>
 
 <p><span class="chinese">萨提亚模式的主要目标是达到表里一致及高的自我价值。</span><span class="english">Congruence and high self-esteem are major goals in the Satir Model.</span></p>

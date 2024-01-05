@@ -1,5 +1,7 @@
 # programer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/programer.md)
+
 <p><span class="chinese">我想问他是从事什么编程语言的。</span><span class="english">I want to ask him. Learn what Programer?</span></p>
 
 <p><span class="chinese">我现在的梦想是做一名，影视后期视频设计师。</span><span class="english">My current dream is to be an latter video programer.</span></p>

@@ -1,5 +1,7 @@
 # esoteric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esoteric.md)
+
 <p><span class="chinese">量子理论并不只是一个深奥的附录。</span><span class="english">The quantum theory is not just an esoteric addendum.</span></p>
 
 <p><span class="chinese">无痕是一种为人处事的高深境界。</span><span class="english">Traceless is a kind of esoteric realm of personal behavior.</span></p>

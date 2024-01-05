@@ -1,5 +1,7 @@
 # pippa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pippa.md)
+
 <p><span class="chinese">那时候，凯特才两岁，她的妹妹皮帕，只有八个月大。</span><span class="english">At the time, Kate was two and her sister Pippa eight months.</span></p>
 
 <p><span class="chinese">皮帕在悉尼曾经赢得了一枚马术的银牌，当时她距离金牌仅仅有一步之遥。</span><span class="english">Pippa had won silver in Equestrian in Sydney, missing the gold only by a whisker.</span></p>

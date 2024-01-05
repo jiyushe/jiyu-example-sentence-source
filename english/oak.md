@@ -1,5 +1,7 @@
 # oak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oak.md)
+
 <p><span class="chinese">他砍倒一棵橡树。</span><span class="english">He hewed down an oak.</span></p>
 
 <p><span class="chinese">这地板是硬橡木的。</span><span class="english">The floor is solid oak.</span></p>

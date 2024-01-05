@@ -1,5 +1,7 @@
 # radiometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiometry.md)
+
 <p><span class="chinese">比辐射率是辐射度学中的重要参量。</span><span class="english">Emissivity is an important parameter in radiometry.</span></p>
 
 <p><span class="chinese">黑度是辐射学中的重要参量。</span><span class="english">Blackness is an important parameter in the radiometry.</span></p>

@@ -1,5 +1,7 @@
 # yuk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yuk.md)
+
 <p><span class="chinese">好色的老白痴。恶心。</span><span class="english">Lecherous old fool. Yuk.</span></p>
 
 <p><span class="chinese">宁乡金玉堂珠宝首饰，品牌老店，值得信赖！</span><span class="english">Ningxiang Kam Yuk Tong Cantonese jewelry, brand-established, trusted!</span></p>

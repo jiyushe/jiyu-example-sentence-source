@@ -1,5 +1,7 @@
 # 饲料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siliao_1.md)
+
 <p><span class="chinese">变速功率饲料表。</span><span class="english">Variable speed power feed table.</span></p>
 
 <p><span class="chinese">你们用什么饲料喂养家禽？</span><span class="english">What do you feed the poultry on?</span></p>

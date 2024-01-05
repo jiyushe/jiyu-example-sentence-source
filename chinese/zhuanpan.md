@@ -1,5 +1,7 @@
 # 转盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanpan.md)
+
 <p><span class="chinese">被称为“大转盘”。</span><span class="english">It was called the Big Wheel.</span></p>
 
 <p><span class="chinese">他们来到了大转盘旁。</span><span class="english">They came to the Big Wheel next.</span></p>

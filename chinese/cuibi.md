@@ -1,5 +1,7 @@
 # 催逼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuibi.md)
+
 <p><span class="chinese">他催逼部队前进。</span><span class="english">He pressed the troops forward.</span></p>
 
 <p><span class="chinese">他试图凭己力催逼神施行拯救。</span><span class="english">He tried to force God's deliverance.</span></p>

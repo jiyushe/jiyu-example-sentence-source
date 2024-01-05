@@ -1,5 +1,7 @@
 # 诱发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youfa.md)
+
 <p><span class="chinese">什么诱发哮喘病发作？</span><span class="english">What triggers an asthma attack?</span></p>
 
 <p><span class="chinese">第二，恐惧诱发我们采取行动。</span><span class="english">Next, fear motivates us to action.</span></p>

@@ -1,5 +1,7 @@
 # psychohistory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychohistory.md)
+
 <p><span class="chinese">文学和艺术都反映它们的时代。</span><span class="english">The psychohistory of the Nazi era.</span></p>
 
 <p><span class="chinese">这期间，弗洛伊德是促使心理史学转变的主要人物。</span><span class="english">During which Freud was the Main person who improved the shift of psychohistory.</span></p>

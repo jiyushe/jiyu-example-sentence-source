@@ -1,5 +1,7 @@
 # 无名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuming.md)
+
 <p><span class="chinese">他们只不过是无名小贾。</span><span class="english">They are but small fry.</span></p>
 
 <p><span class="chinese">我是无名小辈，你是谁啊？</span><span class="english">I am nobody. Who are you?</span></p>

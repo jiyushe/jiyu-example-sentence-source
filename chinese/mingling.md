@@ -1,5 +1,7 @@
 # 命令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingling.md)
+
 <p><span class="chinese">我听从命令！</span><span class="english">I hear and obey!</span></p>
 
 <p><span class="chinese">她喜欢服从命令。</span><span class="english">She liked orders.</span></p>

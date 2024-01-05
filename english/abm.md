@@ -1,5 +1,7 @@
 # abm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abm.md)
+
 <p><span class="chinese">目的提高膀胱非上皮性肿瘤的诊治效果。</span><span class="english">ABM To improve the treatment of non-epithelial tumor of urinary bladder.</span></p>
 
 <p><span class="chinese">充分利用自然能源形成新古佛寺低碳的建筑能源供给系统。</span><span class="english">Take full use of natural energy to form a new low-carbon energy supply system of the ABM.</span></p>

@@ -1,5 +1,7 @@
 # 反复无常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanfuwuchang.md)
+
 <p><span class="chinese">不要去谈那反复无常。</span><span class="english">Then talk not of inconstancy.</span></p>
 
 <p><span class="chinese">大人物更危险而且反复无常。</span><span class="english">The grandi are more dangerous and fickle.</span></p>

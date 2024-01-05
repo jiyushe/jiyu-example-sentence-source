@@ -1,5 +1,7 @@
 # 风神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengshen.md)
+
 <p><span class="chinese">风神的或与之相关的，希腊神话中掌管风的神。</span><span class="english">Of or pertaining to Aeolus, the Greek god of the winds.</span></p>
 
 <p><span class="chinese">是个守护神，林中仙女从风神得孕而生。</span><span class="english">He was a guardian spirit, the offspring of a nymph and the wind god.</span></p>

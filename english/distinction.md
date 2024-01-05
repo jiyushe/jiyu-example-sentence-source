@@ -1,5 +1,7 @@
 # distinction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distinction.md)
+
 <p><span class="chinese">这种区分带来伤害。</span><span class="english">This distinction hurts.</span></p>
 
 <p><span class="chinese">你们看到区别了吗。</span><span class="english">You see the distinction.</span></p>

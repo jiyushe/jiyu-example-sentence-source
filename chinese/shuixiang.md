@@ -1,5 +1,7 @@
 # 水乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixiang.md)
+
 <p><span class="chinese">我们来到的这个地方，是水乡风情园。</span><span class="english">Here is the Water Village Style Garden.</span></p>
 
 <p><span class="chinese">我们来自你们称之为金星的水乡。</span><span class="english">We come from the watery place your people call Venus.</span></p>

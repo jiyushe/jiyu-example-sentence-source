@@ -1,5 +1,7 @@
 # alphabetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alphabetical.md)
+
 <p><span class="chinese">依字母顺序的。</span><span class="english">It's in alphabetical order.</span></p>
 
 <p><span class="chinese">我已把我的激光唱片按字母顺序排列好了。</span><span class="english">I've arranged my CDs in alphabetical order.</span></p>

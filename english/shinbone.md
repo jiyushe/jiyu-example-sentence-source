@@ -1,5 +1,7 @@
 # shinbone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shinbone.md)
+
 <p><span class="chinese">确保每个胫骨和它的对应的脚跟是平衡的。</span><span class="english">Make sure each shinbone is exactly balancing over its heel.</span></p>
 
 <p><span class="chinese">还有一颗子弹打碎了他左胫骨。</span><span class="english">He was also struck by a bullet that shattered his left shinbone.</span></p>

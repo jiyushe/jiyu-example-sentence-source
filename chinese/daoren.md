@@ -1,5 +1,7 @@
 # 刀刃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoren.md)
+
 <p><span class="chinese">把一把刀的刀刃切割成梳子状。</span><span class="english">Dicing a blade to a comb.</span></p>
 
 <p><span class="chinese">但是，仇恨是一个弯弯的刀刃。</span><span class="english">But hatred is a curved blade.</span></p>

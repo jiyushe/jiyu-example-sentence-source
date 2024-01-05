@@ -1,5 +1,7 @@
 # musical 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musical.md)
+
 <p><span class="chinese">嗯，是音乐剧吗？</span><span class="english">Umm, a musical?</span></p>
 
 <p><span class="chinese">这是一部音乐电影片。</span><span class="english">This is a musical film.</span></p>

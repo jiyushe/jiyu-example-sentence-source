@@ -1,5 +1,7 @@
 # surveillance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surveillance.md)
+
 <p><span class="chinese">这就是监管机构的职责</span><span class="english">That's what surveillance does.</span></p>
 
 <p><span class="chinese">什么是症状监测？</span><span class="english">What is Syndromic Surveillance?</span></p>

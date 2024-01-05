@@ -1,5 +1,7 @@
 # unglazed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unglazed.md)
+
 <p><span class="chinese">用太阳能加热水的方法之一是利用半透明或不透明的集热器。</span><span class="english">One solar method of heating water uses glazed or unglazed collectors.</span></p>
 
 <p><span class="chinese">有陶质与瓷质、釉饰和非釉饰之别等。</span><span class="english">There also exist the difference between pottery and porcelain, glazed and unglazed.</span></p>

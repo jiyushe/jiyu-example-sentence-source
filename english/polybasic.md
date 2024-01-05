@@ -1,5 +1,7 @@
 # polybasic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polybasic.md)
+
 <p><span class="chinese">所述固化剂可以为多元酸酸酐。</span><span class="english">The curing agent may be a polybasic acid anhydride.</span></p>
 
 <p><span class="chinese">在复杂黄铜等效变换的多元变化过程中，存在着第三种当量系数I。</span><span class="english">In this paper the coefficient"1"of equivalant function in polybasic Brasss is put forward.</span></p>

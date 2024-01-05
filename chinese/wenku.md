@@ -1,5 +1,7 @@
 # 文库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenku.md)
+
 <p><span class="chinese">以上结果表明，此TAC文库适合用于稻瘟菌基因组的分析。</span><span class="english">It is suggested that the TAC library is suitable for genome analysis of M. grisea.</span></p>
 
 <p><span class="chinese">内切葡聚糖酶基因的克隆采取基因文库方法。</span><span class="english">Genome library methodology was adopted for cloning of endoglucanase encoding genes.</span></p>

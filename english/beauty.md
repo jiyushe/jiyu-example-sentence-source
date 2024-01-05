@@ -1,5 +1,7 @@
 # beauty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beauty.md)
+
 <p><span class="chinese">哪里才有美？</span><span class="english">Where is Beauty?</span></p>
 
 <p><span class="chinese">她一定是个正妹。</span><span class="english">She must be a beauty.</span></p>

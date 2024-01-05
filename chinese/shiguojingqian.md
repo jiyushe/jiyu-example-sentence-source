@@ -1,5 +1,7 @@
 # 事过境迁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiguojingqian.md)
+
 <p><span class="chinese">整件事已经事过境迁了，我不希望你再提起来。</span><span class="english">I don't want you to mention it again.</span></p>
 
 <p><span class="chinese">事过境迁，现在的互联网业已是一个新形的产业。</span><span class="english">But times have changed, and the Web is now big business.</span></p>

@@ -1,5 +1,7 @@
 # 先见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjian.md)
+
 <p><span class="chinese">撒母耳回答说，我就是先见。</span><span class="english">"I am the seer, " Samuel replied.</span></p>
 
 <p><span class="chinese">耶稣膏立他为先知先见。</span><span class="english">Jesus anointed that Prophet and Seer.</span></p>

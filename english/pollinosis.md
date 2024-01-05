@@ -1,5 +1,7 @@
 # pollinosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollinosis.md)
+
 <p><span class="chinese">目的探讨军人花粉症治疗的有效方法。</span><span class="english">Objective To discuss the effective means to the therapy of servicemans pollinosis.</span></p>
 
 <p><span class="chinese">花粉症是近年来严重威胁人们身体健康的一类过敏性疾病。</span><span class="english">Pollinosis is one of the allergic diseases which threatens the people's health heavily.</span></p>

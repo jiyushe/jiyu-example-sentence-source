@@ -1,5 +1,7 @@
 # pontoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pontoon.md)
+
 <p><span class="chinese">您还会发现轮盘赌，二十一点，百家乐浮式和拉氏，等等。</span><span class="english">You'll also find Roulette , Blackjack , Baccarat Pontoon and Rummy, among others.</span></p>
 
 <p><span class="chinese">简要介绍某型特种舟桥器材在海上的应用。</span><span class="english">The application of the special type pontoon on the sea is introduced in this article.</span></p>

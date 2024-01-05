@@ -1,5 +1,7 @@
 # romeo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romeo.md)
+
 <p><span class="chinese">巴尔萨泽，罗密欧的仆人。</span><span class="english">Balthasar, servant to Romeo.</span></p>
 
 <p><span class="chinese">是亚洲的罗密欧与朱丽叶。</span><span class="english">It's the Romeo and Juliet of Asia.</span></p>

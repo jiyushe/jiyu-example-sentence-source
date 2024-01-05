@@ -1,5 +1,7 @@
 # quizzical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quizzical.md)
+
 <p><span class="chinese">一脸不解又很认真的样子。</span><span class="english">A quizzical look very serious.</span></p>
 
 <p><span class="chinese">客观的分析和创意。</span><span class="english">Unbiased quizzical analysis and intuition.</span></p>

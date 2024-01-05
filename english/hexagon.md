@@ -1,5 +1,7 @@
 # hexagon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hexagon.md)
+
 <p><span class="chinese">食物六边形图？</span><span class="english">The Food Hexagon?</span></p>
 
 <p><span class="chinese">内六角螺钉是孔式螺钉的一种。</span><span class="english">Hexagon screw is a screw hole.</span></p>

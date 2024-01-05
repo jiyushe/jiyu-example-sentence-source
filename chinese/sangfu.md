@@ -1,5 +1,7 @@
 # 丧服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangfu.md)
+
 <p><span class="chinese">图茨先生是穿着丧服的。</span><span class="english">Mr Toots was dressed in mourning.</span></p>
 
 <p><span class="chinese">在伊朗，蓝色是丧服的颜色。</span><span class="english">In Iran, blue is the color of mourning.</span></p>

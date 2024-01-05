@@ -1,5 +1,7 @@
 # pie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pie.md)
+
 <p><span class="chinese">烤成一块馅饼。</span><span class="english">Baked in a pie.</span></p>
 
 <p><span class="chinese">做苹果派吗？</span><span class="english">Making apple pie?</span></p>

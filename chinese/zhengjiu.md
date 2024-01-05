@@ -1,5 +1,7 @@
 # 拯救
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengjiu.md)
+
 <p><span class="chinese">我的意思是拯救！</span><span class="english">And I mean saved!</span></p>
 
 <p><span class="chinese">你正在拯救我。</span><span class="english">And you're saving me.</span></p>

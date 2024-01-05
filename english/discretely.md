@@ -1,5 +1,7 @@
 # discretely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discretely.md)
+
 <p><span class="chinese">关键信息谨慎选择。</span><span class="english">The key information chooses discretely.</span></p>
 
 <p><span class="chinese">因此在政策把握上需要特别谨慎。</span><span class="english">Therefore in the policy grasps on needs specially discretely.</span></p>

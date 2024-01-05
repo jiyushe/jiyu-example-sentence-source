@@ -1,5 +1,7 @@
 # dysphagia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysphagia.md)
+
 <p><span class="chinese">随访3个月以上，吞咽困难均缓解良好。</span><span class="english">Dysphagia did not recur after 3 months followup.</span></p>
 
 <p><span class="chinese">结果吞咽困难缓解，肿瘤得到控制。</span><span class="english">Results Dysphagia was relieved and tumor was controlled.</span></p>

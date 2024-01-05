@@ -1,5 +1,7 @@
 # hematocrit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hematocrit.md)
+
 <p><span class="chinese">红细胞压积呈现出一种保持下降的趋势。</span><span class="english">The hematocrit showed a decrease, which was maintained.</span></p>
 
 <p><span class="chinese">方法测定全血粘度、血浆粘度、红细胞压积。</span><span class="english">Methods To determine blood viscosity, plasma viscosity and hematocrit.</span></p>

@@ -1,5 +1,7 @@
 # conquest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conquest.md)
+
 <p><span class="chinese">癌症的征服为期不远。</span><span class="english">The conquest of cancer is imminent.</span></p>
 
 <p><span class="chinese">威震天密谋征服地球。</span><span class="english">Megatron plans the conquest of Earth.</span></p>

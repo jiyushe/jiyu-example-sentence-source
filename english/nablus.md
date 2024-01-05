@@ -1,5 +1,7 @@
 # nablus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nablus.md)
+
 <p><span class="chinese">纳布卢斯居民目睹了局势的好转。</span><span class="english">And the residents of Nablus are seeing progress.</span></p>
 
 <p><span class="chinese">成千上万的巴勒斯坦人参加了在纳布卢斯为这三人举行的葬礼。</span><span class="english">Thousands of Palestinians attended the funeral of the gunmen in Nablus.</span></p>

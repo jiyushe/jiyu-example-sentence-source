@@ -1,5 +1,7 @@
 # 明争暗斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhengandou.md)
+
 <p><span class="chinese">大家一直在明争暗斗。</span><span class="english">Everybody's fighting all the time.</span></p>
 
 <p><span class="chinese">拉在暗地里对阿诺和维婕尔之间的明争暗斗十分满意。</span><span class="english">He quietly reveled in the rivalry that grew between Anor and Vergere.</span></p>

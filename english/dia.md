@@ -1,5 +1,7 @@
 # dia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dia.md)
+
 <p><span class="chinese">尾座鹅毛笔直径。</span><span class="english">Tailstock quill dia.</span></p>
 
 <p><span class="chinese">脱水胡萝卜片。</span><span class="english">Dried Carrot Slices of nature dia.</span></p>

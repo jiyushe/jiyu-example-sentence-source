@@ -1,5 +1,7 @@
 # polyglot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyglot.md)
+
 <p><span class="chinese">他是一位肥胖的老人，讲话时带有多种语言混合的多喉音的声调。</span><span class="english">He was a round old man with a guttural, polyglot accent.</span></p>
 
 <p><span class="chinese">他们来自不同的民族,说不同的语言</span><span class="english">A polyglot army, too, because of all the different nationalities.</span></p>

@@ -1,5 +1,7 @@
 # 排演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiyan_1.md)
+
 <p><span class="chinese">在大型演讲前多排演几次。</span><span class="english">Rehearse several times before the big talk.</span></p>
 
 <p><span class="chinese">他们打算错开我们的排演时间。</span><span class="english">They planned to stagger our rehearsing hours.</span></p>

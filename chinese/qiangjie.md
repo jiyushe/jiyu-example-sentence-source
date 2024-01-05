@@ -1,5 +1,7 @@
 # 抢劫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangjie.md)
+
 <p><span class="chinese">第一种意思是抢劫。</span><span class="english">One is a robbery.</span></p>
 
 <p><span class="chinese">这简直是拦路抢劫！</span><span class="english">This is highway robbery!</span></p>

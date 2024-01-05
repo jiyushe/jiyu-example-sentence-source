@@ -1,5 +1,7 @@
 # photochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photochemical.md)
+
 <p><span class="chinese">丁草胺在不同类型水中的光化学降解。</span><span class="english">Photochemical degradation of butachlor in different water.</span></p>
 
 <p><span class="chinese">长时间存在的能量状态会造成什么光化学影响？</span><span class="english">What are the photochemical consequences of long-lived states?</span></p>

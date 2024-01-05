@@ -1,5 +1,7 @@
 # harmoniously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmoniously.md)
+
 <p><span class="chinese">和谐的生活。</span><span class="english">Live harmoniously.</span></p>
 
 <p><span class="chinese">人鸟能否“共蝉娟”？</span><span class="english">Can Birds and Human live together harmoniously?</span></p>

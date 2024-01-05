@@ -1,5 +1,7 @@
 # 冰清玉洁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingqingyujie.md)
+
 <p><span class="chinese">她是那么冰清玉洁。</span><span class="english">She is cold and chaste.</span></p>
 
 <p><span class="chinese">冰清玉洁雪样白。</span><span class="english">As pure and white as snow.</span></p>

@@ -1,5 +1,7 @@
 # 成因
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengyin.md)
+
 <p><span class="chinese">冰河期的成因为何？</span><span class="english">What causes ice ages?</span></p>
 
 <p><span class="chinese">每种过度冗余都有其成因。</span><span class="english">Each type has its own main causes.</span></p>

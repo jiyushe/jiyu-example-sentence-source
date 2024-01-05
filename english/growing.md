@@ -1,5 +1,7 @@
 # growing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/growing.md)
+
 <p><span class="chinese">植物开始生长。</span><span class="english">Plants start growing.</span></p>
 
 <p><span class="chinese">那红花正开于其上。</span><span class="english">The red flower growing.</span></p>

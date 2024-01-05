@@ -1,5 +1,7 @@
 # airstream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airstream.md)
+
 <p><span class="chinese">空气喷气反作用式发动机有三种。</span><span class="english">There are three types of airstream reaction engines.</span></p>
 
 <p><span class="chinese">一股偏冷的西北气流将覆盖我省。</span><span class="english">A rather cold north west airstream will cover our province.</span></p>

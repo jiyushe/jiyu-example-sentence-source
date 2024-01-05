@@ -1,5 +1,7 @@
 # psychical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychical.md)
+
 <p><span class="chinese">其中，白血病患儿心理方面的不良因素也直接影响治疗的效果。</span><span class="english">Children's psychical factor may have bad effect on the treatment.</span></p>
 
 <p><span class="chinese">在宗教香，主要用于与心理方面的气味。</span><span class="english">In religion incense is used primarily with the psychical aspects of smell.</span></p>

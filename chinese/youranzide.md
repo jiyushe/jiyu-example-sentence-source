@@ -1,5 +1,7 @@
 # 悠然自得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youranzide.md)
+
 <p><span class="chinese">五条龙游弋于云海之间，悠然自得。</span><span class="english">Five dragon swam in between, leisurely and sea.</span></p>
 
 <p><span class="chinese">两条龙游弋于云海之间，悠然自得。</span><span class="english">The two dragons swam in between, leisurely and sea.</span></p>

@@ -1,5 +1,7 @@
 # 鱼网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuwang_1.md)
+
 <p><span class="chinese">我们的鱼网是新的。</span><span class="english">Our fishnet is still new.</span></p>
 
 <p><span class="chinese">渔民们拉鱼网。</span><span class="english">The fishermen haul the net.</span></p>

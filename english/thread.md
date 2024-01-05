@@ -1,5 +1,7 @@
 # thread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thread.md)
+
 <p><span class="chinese">往针上穿线。</span><span class="english">Thread your needle.</span></p>
 
 <p><span class="chinese">把线拉紧。</span><span class="english">Pull the thread tight.</span></p>

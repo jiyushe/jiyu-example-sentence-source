@@ -1,5 +1,7 @@
 # 侮蔑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumie.md)
+
 <p><span class="chinese">很幸运，那侮蔑的话对他们产生不了作用。</span><span class="english">Luckily, that insulting remark was lost upon them.</span></p>
 
 <p><span class="chinese">如果他们这样侮蔑圣洁的神子。</span><span class="english">If they said this about the sinless, holy Son of God.</span></p>

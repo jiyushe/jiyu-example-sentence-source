@@ -1,5 +1,7 @@
 # 探访
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanfang_1.md)
+
 <p><span class="chinese">也许她也探访其它囚犯？</span><span class="english">Maybe she visits some other con?</span></p>
 
 <p><span class="chinese">当时他是在去探访这所房屋的路上吗？</span><span class="english">Could he have been on the way to a visit?</span></p>

@@ -1,5 +1,7 @@
 # crimean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crimean.md)
+
 <p><span class="chinese">这位公爵是位军人，还参加过克里米亚战争。</span><span class="english">The Duke was in the Army and served in the Crimean War.</span></p>
 
 <p><span class="chinese">这位公爵是位军人，还参加过克里米亚战争。</span><span class="english">Thee Duke was in the Army and served in the Crimean War.</span></p>

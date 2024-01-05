@@ -1,5 +1,7 @@
 # vivid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vivid.md)
+
 <p><span class="chinese">那非二幅如许活泼的漫绘！</span><span class="english">What a vivid picture!</span></p>
 
 <p><span class="chinese">她的头发是火红色的。</span><span class="english">She had vivid red hair.</span></p>

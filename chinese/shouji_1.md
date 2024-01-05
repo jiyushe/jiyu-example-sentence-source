@@ -1,5 +1,7 @@
 # 收集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouji_1.md)
+
 <p><span class="chinese">收集你的玩具。</span><span class="english">Gather your playthings.</span></p>
 
 <p><span class="chinese">我去收集柴火。</span><span class="english">I'll go gather firewood.</span></p>

@@ -1,5 +1,7 @@
 # kerf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kerf.md)
+
 <p><span class="chinese">精确算出锯路的损耗和出材率。</span><span class="english">The loss of the saw Kerf and recovery have be accurately calculated.</span></p>
 
 <p><span class="chinese">为设备进一步优化，提高割缝能力奠定基础。</span><span class="english">Optimize further for equipment, raise kerf ability to lay a foundation.</span></p>

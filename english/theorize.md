@@ -1,5 +1,7 @@
 # theorize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theorize.md)
+
 <p><span class="chinese">但没有哪种技艺会将个例理论化。</span><span class="english">But none of the arts theorize about individual cases.</span></p>
 
 <p><span class="chinese">尽管我们不厌其烦地试图估算“混沌”并将其理论化，但它仍然是“混沌”一片。</span><span class="english">As much as we try to calculate and theorize "chaos", it is still "chaos".</span></p>

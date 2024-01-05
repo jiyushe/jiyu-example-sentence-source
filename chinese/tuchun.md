@@ -1,5 +1,7 @@
 # 兔唇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuchun.md)
+
 <p><span class="chinese">哈山，兔唇的哈山，追风筝的孩子。</span><span class="english">Hassan the harelipped kite runner.</span></p>
 
 <p><span class="chinese">比如兔唇和先心能否检查出来？</span><span class="english">Such as harelip and heart can check out first?</span></p>

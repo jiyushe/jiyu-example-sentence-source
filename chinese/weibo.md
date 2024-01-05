@@ -1,5 +1,7 @@
 # 围脖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weibo.md)
+
 <p><span class="chinese">这狐皮围脖与你的帽子很相配。</span><span class="english">The fox goes very well with your cap.</span></p>
 
 <p><span class="chinese">我解开了他一直带着的金黄色的围脖。</span><span class="english">I had loosened the golden muffler that he always wore.</span></p>

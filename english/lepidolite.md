@@ -1,5 +1,7 @@
 # lepidolite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lepidolite.md)
+
 <p><span class="chinese">研究了从锂云母中提取锂的方法。</span><span class="english">Extracting lithium from lepidolite was studied.</span></p>
 
 <p><span class="chinese">首先，研究了从锂云母中提取锂的方法。</span><span class="english">Firstly, the method of extracting lithium from lepidolite has been studied.</span></p>

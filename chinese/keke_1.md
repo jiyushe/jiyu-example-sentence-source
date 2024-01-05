@@ -1,5 +1,7 @@
 # 苛刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keke_1.md)
+
 <p><span class="chinese">他待妻子苛刻。</span><span class="english">He treats his wife harshly.</span></p>
 
 <p><span class="chinese">因为这个论证的要求太苛刻了</span><span class="english">The argument requires a lot.</span></p>

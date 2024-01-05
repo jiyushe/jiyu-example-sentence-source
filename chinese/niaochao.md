@@ -1,5 +1,7 @@
 # 鸟巢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niaochao.md)
+
 <p><span class="chinese">鸟巢和水立方的景象非常壮观。</span><span class="english">Bird's Nset and Water Cube.</span></p>
 
 <p><span class="chinese">鸟儿弄脏了它自己的鸟巢。</span><span class="english">The bird befouled its own nest.</span></p>

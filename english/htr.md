@@ -1,5 +1,7 @@
 # htr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/htr.md)
+
 <p><span class="chinese">还介绍了HTR-10蒸汽发生器工程模型试验回路及本体，以及在该试验回路上预期达到研究成果。</span><span class="english">The experiment loop HTR 10 steam generator is introduced in the report and experiment results are predicted.</span></p>
 
 <p><span class="chinese">已经证明，HTR只有在亲密接触其周围骨组织时才会提高骨附着能力，如沿拔牙后的牙槽窝壁放置。</span><span class="english">HTR has been shown to increase bone apposition only when in close contact to adjoining bone, such as along an extraction socket wall.</span></p>

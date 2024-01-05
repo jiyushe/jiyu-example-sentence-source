@@ -1,5 +1,7 @@
 # homebody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homebody.md)
+
 <p><span class="chinese">他是个典型的居家男人。</span><span class="english">He's a typical homebody.</span></p>
 
 <p><span class="chinese">我喜欢外出也喜欢在家，我很浪漫也有坏的一面。</span><span class="english">I love to go out and do thing but am also a bit of a homebody to.</span></p>

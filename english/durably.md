@@ -1,5 +1,7 @@
 # durably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/durably.md)
+
 <p><span class="chinese">但耐用耐脏好收拾成为它的优点。</span><span class="english">But bears durably dirty good tidies up into its merit.</span></p>
 
 <p><span class="chinese">没有哪个亚洲国家能像日本那样长期对林肯保持尊敬。</span><span class="english">No Asian country has honored Lincoln more durably than Japan.</span></p>

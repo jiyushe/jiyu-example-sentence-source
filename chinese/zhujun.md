@@ -1,5 +1,7 @@
 # 诸君
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujun.md)
+
 <p><span class="chinese">且为诸君言之。</span><span class="english">Now I'll inform you about it.</span></p>
 
 <p><span class="chinese">读者诸君想必知道我用意所在。</span><span class="english">My readers know what I’m getting at.</span></p>

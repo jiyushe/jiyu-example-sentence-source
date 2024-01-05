@@ -1,5 +1,7 @@
 # 迷路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/milu.md)
+
 <p><span class="chinese">我们就是这样迷路的。</span><span class="english">That is how we lost.</span></p>
 
 <p><span class="chinese">你们迷路了。</span><span class="english">And you're getting lost.</span></p>

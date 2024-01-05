@@ -1,5 +1,7 @@
 # salesmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salesmanship.md)
+
 <p><span class="chinese">你熟悉推销工作吗？</span><span class="english">Are you familiar with salesmanship?</span></p>
 
 <p><span class="chinese">我发现我我搞不了推销。</span><span class="english">I find salesmanship beyond my reach.</span></p>

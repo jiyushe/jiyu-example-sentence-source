@@ -1,5 +1,7 @@
 # 波及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/boji.md)
+
 <p><span class="chinese">还是不会波及到数字。</span><span class="english">The number 3 wouldn't be touched.</span></p>
 
 <p><span class="chinese">他们想要有多少孩子被波及？</span><span class="english">How many children do they want to be affected?</span></p>

@@ -1,5 +1,7 @@
 # 杂物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zawu_1.md)
+
 <p><span class="chinese">噢，你的自行车在杂物间呢。</span><span class="english">Oh, your bike was hovelled.</span></p>
 
 <p><span class="chinese">请使用风枪吹去铁屑等杂物。</span><span class="english">Remove dust using air blow.</span></p>

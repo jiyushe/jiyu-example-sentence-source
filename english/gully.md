@@ -1,5 +1,7 @@
 # gully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gully.md)
+
 <p><span class="chinese">流水冲蚀出一条沟渠。</span><span class="english">The running water eroded a gully.</span></p>
 
 <p><span class="chinese">他们爬上了一条狭窄的山沟。</span><span class="english">They clambered up a narrow gully.</span></p>

@@ -1,5 +1,7 @@
 # passport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passport.md)
+
 <p><span class="chinese">我的护照已过期了。</span><span class="english">My passport is out of date.</span></p>
 
 <p><span class="chinese">他的护照已过期。</span><span class="english">His passport is out of date.</span></p>

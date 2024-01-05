@@ -1,5 +1,7 @@
 # serving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serving.md)
+
 <p><span class="chinese">那么,什么是一餐份量</span><span class="english">Well what is a serving?</span></p>
 
 <p><span class="chinese">在密封罐服务勺子。</span><span class="english">Serving scoop enclosed in jar.</span></p>

@@ -1,5 +1,7 @@
 # paper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paper.md)
+
 <p><span class="chinese">还是纸坊？</span><span class="english">Or paper lane?</span></p>
 
 <p><span class="chinese">我需要一个纸盒子。</span><span class="english">I need a paper box.</span></p>

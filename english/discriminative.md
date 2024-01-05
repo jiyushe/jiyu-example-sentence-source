@@ -1,5 +1,7 @@
 # discriminative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discriminative.md)
+
 <p><span class="chinese">有关措施并非针对墨西哥公民，没有歧视性。</span><span class="english">The measures are non- discriminative and not targeted at Mexican citizens.</span></p>
 
 <p><span class="chinese">区别式模型还可能发现，某些文字会抵消彼此的作用。</span><span class="english">Discriminative methods can also discover that certain words cancel each other out.</span></p>

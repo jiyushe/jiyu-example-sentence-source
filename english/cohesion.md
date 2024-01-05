@@ -1,5 +1,7 @@
 # cohesion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cohesion.md)
+
 <p><span class="chinese">再者，封装性和内聚性的应用。</span><span class="english">Again, encapsulation and cohesion applies.</span></p>
 
 <p><span class="chinese">一个公司的稳定以凝棸力为基础的。</span><span class="english">The table of a company is based on cohesion.</span></p>

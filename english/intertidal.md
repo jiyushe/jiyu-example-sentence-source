@@ -1,5 +1,7 @@
 # intertidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intertidal.md)
+
 <p><span class="chinese">发现于潮间带的岩石区潮池与上面的亚潮带区了。</span><span class="english">Found in intertidal rock pools and upper subtidal areas.</span></p>
 
 <p><span class="chinese">舟山港潮间带生物体内的细菌学研究。</span><span class="english">Study on bacteriology of intertidal organisms in Zhoushan Port.</span></p>

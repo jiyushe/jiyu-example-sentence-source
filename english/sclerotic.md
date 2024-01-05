@@ -1,5 +1,7 @@
 # sclerotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sclerotic.md)
+
 <p><span class="chinese">美国的成功使它变得僵化。</span><span class="english">America's success has made it sclerotic.</span></p>
 
 <p><span class="chinese">病灶近髓腔侧有细的硬化线。</span><span class="english">Well-defined sclerotic edge near the medulla.</span></p>

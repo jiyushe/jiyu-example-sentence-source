@@ -1,5 +1,7 @@
 # 臂弯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biwan.md)
+
 <p><span class="chinese">如果你敢，待在我的臂弯里。</span><span class="english">Stay in my arms if you dare.</span></p>
 
 <p><span class="chinese">美在情人的心里，真在耕者臂弯里。</span><span class="english">Beauty in the hearts of lovers</span></p>

@@ -1,5 +1,7 @@
 # 罩衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoyi.md)
+
 <p><span class="chinese">我们还得穿上罩衣吗?。</span><span class="english">Do we need to put on the jackets too?</span></p>
 
 <p><span class="chinese">那艺术家的罩衣上沾满了颜料。</span><span class="english">The artist's smock was covered in paint.</span></p>

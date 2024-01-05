@@ -1,5 +1,7 @@
 # 男丁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanding.md)
+
 <p><span class="chinese">一战期间，我家族的男丁在普鲁士军队服役。</span><span class="english">During WW1 my family men were in the Prussian army.</span></p>
 
 <p><span class="chinese">你的男丁，必倒在刀下，你的勇士，必死在阵上。</span><span class="english">Your men will fall by the sword, your warriors in battle.</span></p>

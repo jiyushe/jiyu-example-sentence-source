@@ -1,5 +1,7 @@
 # 罢了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bale.md)
+
 <p><span class="chinese">管他呢,这只是一只"猫"罢了</span><span class="english">Anyway, cats.</span></p>
 
 <p><span class="chinese">只是一架纸飞机罢了。</span><span class="english">Just a paper plane.</span></p>

@@ -1,5 +1,7 @@
 # copulatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copulatory.md)
+
 <p><span class="chinese">⑤沃-帕-怀综合征患者合并交接区性期前收缩等异位心律。</span><span class="english">Wo-Pa-Huai syndrome and ectopic cardiac rhythm of copulatory zone premature beat.</span></p>
 
 <p><span class="chinese">正是交配繁衍的季节，企鹅美都各自寻找心仪的配偶。</span><span class="english">Be the season of copulatory multiply, penguin beauty searchs the spouse that admire in the heart severally.</span></p>

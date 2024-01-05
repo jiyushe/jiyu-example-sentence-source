@@ -1,5 +1,7 @@
 # 龙井茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longjingcha.md)
+
 <p><span class="chinese">请问你们有龙井茶吗?。</span><span class="english">Do you have any Longjing tea, please?</span></p>
 
 <p><span class="chinese">龙井茶是杭州特产。</span><span class="english">Longjing tea is a specialty of Hangzhou.</span></p>

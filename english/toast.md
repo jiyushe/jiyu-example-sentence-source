@@ -1,5 +1,7 @@
 # toast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toast.md)
+
 <p><span class="chinese">给我面包片。</span><span class="english">Give me toast.</span></p>
 
 <p><span class="chinese">我敬你一杯。</span><span class="english">A toast to you.</span></p>

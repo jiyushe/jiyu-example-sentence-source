@@ -1,5 +1,7 @@
 # illusionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illusionist.md)
+
 <p><span class="chinese">你是一个魔法师并且小有心灵感应术。</span><span class="english">You are an Illusionist and somewhat telepathic.</span></p>
 
 <p><span class="chinese">潘吉利特，潘&泰勒队的迷妄论者。</span><span class="english">Penn Jillette illusionist of the team Penn & Teller.</span></p>

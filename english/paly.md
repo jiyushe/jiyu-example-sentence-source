@@ -1,5 +1,7 @@
 # paly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paly.md)
+
 <p><span class="chinese">今天我们逃学吧！</span><span class="english">Let's paly hooky today!</span></p>
 
 <p><span class="chinese">有时候我会和他一起玩。</span><span class="english">I sometimes paly with him.</span></p>

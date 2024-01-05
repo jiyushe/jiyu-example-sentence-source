@@ -1,5 +1,7 @@
 # 内痔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neizhi.md)
+
 <p><span class="chinese">什么是内痔？</span><span class="english">What are Internal Hemorrhoids?</span></p>
 
 <p><span class="chinese">主要用于治疗内痔、外痔、混合痔、息肉等疾病。</span><span class="english">It can treat all kinds of piles and polyps.</span></p>

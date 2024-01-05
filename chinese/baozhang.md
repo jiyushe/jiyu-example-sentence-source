@@ -1,5 +1,7 @@
 # 保障
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baozhang.md)
+
 <p><span class="chinese">有什么保障吗？</span><span class="english">Are there any guarantees?</span></p>
 
 <p><span class="chinese">耶稣，鳏寡的保障。</span><span class="english">Jesus, Guardian of my infancy!</span></p>

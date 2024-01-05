@@ -1,5 +1,7 @@
 # 置之度外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhiduwai.md)
+
 <p><span class="chinese">现在，我要把这一切都置之度外。</span><span class="english">All that is now behind me.</span></p>
 
 <p><span class="chinese">他已将一切置之度外了。</span><span class="english">Nothing else matters for him.</span></p>

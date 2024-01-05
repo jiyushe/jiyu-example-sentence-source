@@ -1,5 +1,7 @@
 # kitten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kitten.md)
+
 <p><span class="chinese">她抚摸着小猫。</span><span class="english">She stroked the kitten.</span></p>
 
 <p><span class="chinese">别饿着小猫。</span><span class="english">Don't starve the kitten.</span></p>

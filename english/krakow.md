@@ -1,5 +1,7 @@
 # krakow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/krakow.md)
+
 <p><span class="chinese">六个世纪以来，这儿是犹太人的克拉科夫。</span><span class="english">For six centuries there has been a Jewish Krakow.</span></p>
 
 <p><span class="chinese">这些方向性标签是飞往华沙、克拉科夫，利沃夫和格但斯克的。</span><span class="english">These dls were flown to warszawa krakow lwow and gdansk.</span></p>

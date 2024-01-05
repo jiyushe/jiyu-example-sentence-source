@@ -1,5 +1,7 @@
 # emp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emp.md)
+
 <p><span class="chinese">我们向你方报50吨冻鱼，每吨500美元CIF欧洲主要港口。</span><span class="english">We offer you 5 tons Frozen Fish at USD 500 per ton CIF EMP.</span></p>
 
 <p><span class="chinese">魔术师把玻璃杯头朝下翻转让人看它是空的。</span><span class="english">The magician turned the glass up side down to show that itw as emp ty.</span></p>

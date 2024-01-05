@@ -1,5 +1,7 @@
 # fahrenheit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fahrenheit.md)
+
 <p><span class="chinese">你们也喜爱飞轮海吗？</span><span class="english">Fahrenheit you like it?</span></p>
 
 <p><span class="chinese">怎样从华氏温度获得摄氏温度。</span><span class="english">How to get Celsius from Fahrenheit.</span></p>

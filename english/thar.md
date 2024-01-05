@@ -1,5 +1,7 @@
 # thar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thar.md)
+
 <p><span class="chinese">每当我们梦见彼此陌路。</span><span class="english">Once we dreamt thar we were strangers.</span></p>
 
 <p><span class="chinese">苏切马上找来阿萨内，开口便是质问。</span><span class="english">Sue to a thar on chema, his mouth is questioned.</span></p>

@@ -1,5 +1,7 @@
 # mischievous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mischievous.md)
+
 <p><span class="chinese">坏小孩调皮捣蛋。</span><span class="english">The bad child is mischievous.</span></p>
 
 <p><span class="chinese">汤姆是一个天真活泼而又调皮孩子。</span><span class="english">Tom is a cute but mischievous child.</span></p>

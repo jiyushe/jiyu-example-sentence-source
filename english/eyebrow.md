@@ -1,5 +1,7 @@
 # eyebrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyebrow.md)
+
 <p><span class="chinese">他竖起一只眼皮。</span><span class="english">He cocked an eyebrow.</span></p>
 
 <p><span class="chinese">哈利挑起了一条眉毛。</span><span class="english">Harry raised an eyebrow.</span></p>

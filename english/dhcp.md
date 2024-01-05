@@ -1,5 +1,7 @@
 # dhcp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dhcp.md)
+
 <p><span class="chinese">DHCP用户端电脑，会在网段当中使用IP广播来找寻DHCP伺服器。</span><span class="english">DHCP clients use IP broadcasts to find the DHCP server on the segment.</span></p>
 
 <p><span class="chinese">提出了基于线程池技术DHCP服务器模型，并给出了实现方法。</span><span class="english">In this paper we present a DHCP server model that is based upon thread pool technique.</span></p>

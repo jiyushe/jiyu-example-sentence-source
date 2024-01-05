@@ -1,5 +1,7 @@
 # 欧美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/oumei.md)
+
 <p><span class="chinese">讨论欧美流行音乐！</span><span class="english">I love occident music!</span></p>
 
 <p><span class="chinese">欧美经典，家居艺术。</span><span class="english">Europe-USA Classics, Home Arts.</span></p>

@@ -1,5 +1,7 @@
 # 重点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdian_2.md)
+
 <p><span class="chinese">那么，重点是什么呢？</span><span class="english">So, what’s the point?</span></p>
 
 <p><span class="chinese">本课重点活动是1a。</span><span class="english">The main activity is 1a.</span></p>

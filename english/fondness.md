@@ -1,5 +1,7 @@
 # fondness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fondness.md)
+
 <p><span class="chinese">他们对新鲜的香草情有独钟么？</span><span class="english">Do they have a fondness for fresh herbs?</span></p>
 
 <p><span class="chinese">我喜欢心算因为使用心算是很方便的。</span><span class="english">My fondness for mental arithmetic came in very handy.</span></p>

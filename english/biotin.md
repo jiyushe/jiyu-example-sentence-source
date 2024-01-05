@@ -1,5 +1,7 @@
 # biotin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biotin.md)
+
 <p><span class="chinese">生物素是一种B族维生素。</span><span class="english">Biotin is a kind of B-complex vitamins.</span></p>
 
 <p><span class="chinese">您还应该包括叶酸，生物素和二氧化硅在您的饮食。</span><span class="english">You should also include folic acid, biotin and silica in your diet.</span></p>

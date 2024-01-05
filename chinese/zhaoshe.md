@@ -1,5 +1,7 @@
 # 照射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoshe.md)
+
 <p><span class="chinese">漆的涂层在阳光照射下起了气泡。</span><span class="english">The paint blistered in the sun.</span></p>
 
 <p><span class="chinese">阳光正照射在我们脸上。</span><span class="english">The sun is shining in our faces.</span></p>

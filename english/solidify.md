@@ -1,5 +1,7 @@
 # solidify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solidify.md)
+
 <p><span class="chinese">公众舆论也许会一致起来。</span><span class="english">The public opinion may solidify.</span></p>
 
 <p><span class="chinese">为何保加利亚玫瑰油经常凝固？</span><span class="english">Why does Bulgarian Rose Otto solidify at times?</span></p>

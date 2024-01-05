@@ -1,5 +1,7 @@
 # gravitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravitation.md)
+
 <p><span class="chinese">重力水柜在哪里？</span><span class="english">Where is the gravitation tank?</span></p>
 
 <p><span class="chinese">这条定律叫做万有引力定律</span><span class="english">That's the Law of Universal Gravitation.</span></p>

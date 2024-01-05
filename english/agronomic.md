@@ -1,5 +1,7 @@
 # agronomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agronomic.md)
+
 <p><span class="chinese">甘蓝型油菜主要农艺和产量性状的杂种优势及其分离世代的分析。</span><span class="english">Heterosis and segregation on agronomic and yield traits in brassica napus l.</span></p>
 
 <p><span class="chinese">对15份红小豆种质资源的7个农艺性状进行了遗传参数研究。</span><span class="english">The Genetic parameters of 7 agronomic traits were assessed in 15 Adzuki bean germplasm.</span></p>

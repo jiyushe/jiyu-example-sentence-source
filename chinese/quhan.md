@@ -1,5 +1,7 @@
 # 驱寒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quhan.md)
+
 <p><span class="chinese">我喝了一点热巧克力来驱寒。</span><span class="english">I drank some hot chocolate to ward off the cold.</span></p>
 
 <p><span class="chinese">它含丰富的维生素C，而且吃芒果有助于驱寒保暖。</span><span class="english">Rich in vitamin C, the mango helps keep colds away.</span></p>

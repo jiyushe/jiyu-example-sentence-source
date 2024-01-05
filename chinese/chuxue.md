@@ -1,5 +1,7 @@
 # 出血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuxue.md)
+
 <p><span class="chinese">我牙床出血。</span><span class="english">My gums bleed.</span></p>
 
 <p><span class="chinese">我要你出血。</span><span class="english">I want you bleeders.</span></p>

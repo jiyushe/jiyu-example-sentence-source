@@ -1,5 +1,7 @@
 # 差一点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chayidian.md)
+
 <p><span class="chinese">我也差一点有可能失去你。</span><span class="english">I could've lost you too.</span></p>
 
 <p><span class="chinese">真悬啊，差一点被车撞了。</span><span class="english">Hangs really, almost by Che Zhuang.</span></p>

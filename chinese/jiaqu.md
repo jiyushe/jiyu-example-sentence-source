@@ -1,5 +1,7 @@
 # 嫁娶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaqu.md)
+
 <p><span class="chinese">在第4章，他责备禁止嫁娶的人。</span><span class="english">In ch. 4 he rebukes those who forbid marriage.</span></p>
 
 <p><span class="chinese">他们相亲相爱，但是谈婚配嫁娶可没那么简单。</span><span class="english">They were in love, but getting married was complicated.</span></p>

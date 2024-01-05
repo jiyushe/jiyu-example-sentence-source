@@ -1,5 +1,7 @@
 # 乐土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/letu.md)
+
 <p><span class="chinese">婴儿从不知道如何哭泣，因为他居住在一片完美的乐土上。</span><span class="english">Baby never knew how to cry.</span></p>
 
 <p><span class="chinese">照片上的每一处都可视为天堂乐土。</span><span class="english">Think of each one as paradise in a photograph.</span></p>

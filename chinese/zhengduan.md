@@ -1,5 +1,7 @@
 # 争端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengduan.md)
+
 <p><span class="chinese">争端的结果是一场战争。</span><span class="english">War eventuated from the dispute.</span></p>
 
 <p><span class="chinese">他们同意经仲裁解决争端。</span><span class="english">They agreed to arbitrate dispute.</span></p>

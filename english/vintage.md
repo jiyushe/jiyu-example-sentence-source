@@ -1,5 +1,7 @@
 # vintage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vintage.md)
+
 <p><span class="chinese">这葡萄酒酿造于一九○九年。</span><span class="english">The wine is of 1909 vintage.</span></p>
 
 <p><span class="chinese">我喜欢古着购物。</span><span class="english">I like to go vintage shopping.</span></p>

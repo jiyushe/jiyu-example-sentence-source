@@ -1,5 +1,7 @@
 # stopcock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stopcock.md)
+
 <p><span class="chinese">一条水管爆裂了——管闸在哪里?。</span><span class="english">A water-pipe has burst — where's the stopcock?</span></p>
 
 <p><span class="chinese">密封性能是方钻杆旋塞阀主要指标之一。</span><span class="english">The sealing property is one of the main indicators of kelly stopcock.</span></p>

@@ -1,5 +1,7 @@
 # 空心砖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongxinzhuan.md)
+
 <p><span class="chinese">白虎纹空心砖。</span><span class="english">Hollow brick with tiger design.</span></p>
 
 <p><span class="chinese">用空心砖，因为比较轻，不会造成楼板开裂。</span><span class="english">Hollow brick, for it is light which will not cause cracking.</span></p>

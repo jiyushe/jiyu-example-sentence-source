@@ -1,5 +1,7 @@
 # nike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nike.md)
+
 <p><span class="chinese">耐克是个世界名牌儿。</span><span class="english">Nike is a world-famous brand.</span></p>
 
 <p><span class="chinese">耐吉是我最喜欢的鞋子品牌。</span><span class="english">Nike is my favorite brand of shoes.</span></p>

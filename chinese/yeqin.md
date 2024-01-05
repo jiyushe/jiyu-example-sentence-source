@@ -1,5 +1,7 @@
 # 野禽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeqin.md)
+
 <p><span class="chinese">定睛凝视水泊上嬉戏的野禽。</span><span class="english">Fix eyes on frolic wild fowls on the moor water.</span></p>
 
 <p><span class="chinese">野禽，猎鸟一种野生的猎鸟，如野鸭、野鹅或鹌鹑。</span><span class="english">A wild game bird, such as a duck, goose, or quail.</span></p>

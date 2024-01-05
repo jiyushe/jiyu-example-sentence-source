@@ -1,5 +1,7 @@
 # sememe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sememe.md)
+
 <p><span class="chinese">旧义位的新用法有的能产生新词，有的不能。</span><span class="english">The new usage of an old sememe may or may not be a neologism.</span></p>
 
 <p><span class="chinese">义位与义项虽然是两个不同的概念范畴，但在词典编纂中却完全可以统一起来。</span><span class="english">Although sememe and item are two different conception, they could be unified in the lexicography.</span></p>

@@ -1,5 +1,7 @@
 # 交角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojiao.md)
+
 <p><span class="chinese">这种砂岩体与走向谷之间与有类似的交角关系。</span><span class="english">Such sandstones should have similar angular relations to the strike valleys.</span></p>
 
 <p><span class="chinese">并由此发现由于中轴线与切片交角过小会使结果产生较大偏差。</span><span class="english">We find that error increases when the angle between the axis and the slice decreases.</span></p>

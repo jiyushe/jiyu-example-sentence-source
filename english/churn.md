@@ -1,5 +1,7 @@
 # churn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/churn.md)
+
 <p><span class="chinese">需要我来一些更加猛烈的抨击吗？</span><span class="english">Do I need to churn out more diatribes?</span></p>
 
 <p><span class="chinese">搅匀，加至满杯，再搅拌一次。</span><span class="english">Stir, fill glass to top, and churn once more.</span></p>

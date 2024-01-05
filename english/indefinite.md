@@ -1,5 +1,7 @@
 # indefinite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indefinite.md)
+
 <p><span class="chinese">生活中无形的不定方程！</span><span class="english">What an indefinite life equation!</span></p>
 
 <p><span class="chinese">不确定，或非特指名词前不加冠词！</span><span class="english">Do not use the with indefinite nouns.</span></p>

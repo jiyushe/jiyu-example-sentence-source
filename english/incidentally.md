@@ -1,5 +1,7 @@
 # incidentally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incidentally.md)
+
 <p><span class="chinese">哦，顺便介绍一下，我是艾伦。戴尔，一个诗人。</span><span class="english">Oh incidentally I'm allan-a-dale a minstrel.</span></p>
 
 <p><span class="chinese">巧的是今天苹果依然遵循这个原则。</span><span class="english">They still rely on this principle today, incidentally.</span></p>

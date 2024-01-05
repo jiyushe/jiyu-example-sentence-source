@@ -1,5 +1,7 @@
 # vinaigrette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vinaigrette.md)
+
 <p><span class="chinese">用小西红柿，乳酪，和含有罗勒的调味料调制而成的米粒沙拉</span><span class="english">Orzo Salad with Tomatoes, Feta, and Basil Vinaigrette</span></p>
 
 <p><span class="chinese">我来一份淡沙拉加油醋汁，还有健怡可乐。</span><span class="english">I'll have the light vinaigrette salad and a diet soda.</span></p>

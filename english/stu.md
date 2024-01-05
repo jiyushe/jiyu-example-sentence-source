@@ -1,5 +1,7 @@
 # stu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stu.md)
+
 <p><span class="chinese">最后一件事，斯图。</span><span class="english">One last thing, Stu.</span></p>
 
 <p><span class="chinese">好了，非常感谢斯图和我们分享这张图片！</span><span class="english">Thanks to Stu for sharing this image!</span></p>

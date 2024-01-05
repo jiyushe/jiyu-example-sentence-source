@@ -1,5 +1,7 @@
 # configurable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/configurable.md)
+
 <p><span class="chinese">中继器可配置，支持静态路由</span><span class="english">Repeater configurable and static routing feature</span></p>
 
 <p><span class="chinese">使用者可以自订相关设定，像是编辑框的尺寸。</span><span class="english">User- configurable settings, such as edit box size.</span></p>

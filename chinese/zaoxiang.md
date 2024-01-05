@@ -1,5 +1,7 @@
 # 造像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoxiang.md)
+
 <p><span class="chinese">造像即是尊敬。</span><span class="english">To portray is to honour.</span></p>
 
 <p><span class="chinese">这是乌尤山最早的佛教造像。</span><span class="english">This was the earliest image of Buddha on Mt. Wuyou.</span></p>

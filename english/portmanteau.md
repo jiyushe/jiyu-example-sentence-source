@@ -1,5 +1,7 @@
 # portmanteau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portmanteau.md)
+
 <p><span class="chinese">在你的皮箱里使用它可以使你能够召唤鹰。</span><span class="english">Using it in your Portmanteau will allow you to summon eagles.</span></p>
 
 <p><span class="chinese">出国时他总是带著这个旅行箱。</span><span class="english">He always carries this portmanteau with him when he goes abroad.</span></p>

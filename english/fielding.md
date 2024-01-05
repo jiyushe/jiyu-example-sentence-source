@@ -1,5 +1,7 @@
 # fielding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fielding.md)
+
 <p><span class="chinese">菲尔丁不知羞耻地施展小巫术。</span><span class="english">Fielding was not ashamed to practise a little necromancy.</span></p>
 
 <p><span class="chinese">菲尔丁对这种一见如故的样子并不觉得奇怪。</span><span class="english">Fielding was not surprised at the rapidity of their intimacy.</span></p>

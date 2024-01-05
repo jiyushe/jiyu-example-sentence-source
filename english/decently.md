@@ -1,5 +1,7 @@
 # decently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decently.md)
+
 <p><span class="chinese">烟草类股表现也不错。</span><span class="english">Tobacco stocks also have done decently.</span></p>
 
 <p><span class="chinese">因此，在家里吃饭时尽量举止端庄。</span><span class="english">So try eating at home as decently as you can.</span></p>

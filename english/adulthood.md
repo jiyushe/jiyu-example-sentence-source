@@ -1,5 +1,7 @@
 # adulthood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adulthood.md)
+
 <p><span class="chinese">到达了它的成年期。</span><span class="english">It has reached adulthood.</span></p>
 
 <p><span class="chinese">但是恐惧也会发生于成年时期。</span><span class="english">But a phobia can occur in adulthood.</span></p>

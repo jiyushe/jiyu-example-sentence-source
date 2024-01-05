@@ -1,5 +1,7 @@
 # 明哲保身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhebaoshen.md)
+
 <p><span class="chinese">我们中国人的弱点是太懂得明哲保身了。</span><span class="english">The trouble with us Chinese is that we are too sensible.</span></p>
 
 <p><span class="chinese">明哲保身是自由主义的表现之一。</span><span class="english">To be wordly-wise and play safe is one of the manifestations of liberalism.</span></p>

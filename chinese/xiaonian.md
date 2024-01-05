@@ -1,5 +1,7 @@
 # 小年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaonian.md)
+
 <p><span class="chinese">一个小年轻被他自己的椅子弄死了。</span><span class="english">Teenager killed by his own chair.</span></p>
 
 <p><span class="chinese">岳小年嘴上不说，心里很是不高兴。</span><span class="english">Yue small lips do not say, my heart is not happy.</span></p>

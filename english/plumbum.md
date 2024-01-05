@@ -1,5 +1,7 @@
 # plumbum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plumbum.md)
+
 <p><span class="chinese">结论中药海尔福口服液具有驱铅功效。</span><span class="english">Conclusion Haierfu oral liquid has driving plumbum effect.</span></p>
 
 <p><span class="chinese">而且，SBN在制备过程中能够避免PZT等铁电材料的铅污染的问题。</span><span class="english">And the SBN thin film can avoid plumbum pollution of PZT ferroelectric material.</span></p>

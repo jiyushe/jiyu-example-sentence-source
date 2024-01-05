@@ -1,5 +1,7 @@
 # neurochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurochemistry.md)
+
 <p><span class="chinese">国际神经化学学会。</span><span class="english">International Society for Neurochemistry.</span></p>
 
 <p><span class="chinese">产生自由感和拥有感是神经化学艺术过程中的一部分。</span><span class="english">Freedom and ownership are part and parcel of the neurochemistry of the arts.</span></p>

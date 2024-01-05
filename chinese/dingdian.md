@@ -1,5 +1,7 @@
 # 定点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingdian.md)
+
 <p><span class="chinese">改变管接头的定点位置。</span><span class="english">Change placement location of fitting.</span></p>
 
 <p><span class="chinese">试验结果表明，定点的G。</span><span class="english">Experiments results show that fixed-point G.</span></p>

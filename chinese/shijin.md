@@ -1,5 +1,7 @@
 # 什锦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijin.md)
+
 <p><span class="chinese">布丁或水果什锦。</span><span class="english">Pudding and fruit cups.</span></p>
 
 <p><span class="chinese">什锦菜，河虾派，秋葵加肉片。</span><span class="english">Jambalaya , crawfish pie, fillet gumbo.</span></p>

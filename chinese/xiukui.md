@@ -1,5 +1,7 @@
 # 羞愧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiukui.md)
+
 <p><span class="chinese">她羞愧得脸红。</span><span class="english">She blushed with shame.</span></p>
 
 <p><span class="chinese">她因羞愧而脸红。</span><span class="english">She blushed with shame.</span></p>

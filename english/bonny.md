@@ -1,5 +1,7 @@
 # bonny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonny.md)
+
 <p><span class="chinese">邦妮是女孩子的名字。</span><span class="english">Bonny is a girl's name.</span></p>
 
 <p><span class="chinese">可以扎起他棕色的头发。</span><span class="english">To tie up his bonny brown hair.</span></p>

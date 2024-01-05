@@ -1,5 +1,7 @@
 # 漆黑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihei.md)
+
 <p><span class="chinese">这是个漆黑闷热的夜晚。</span><span class="english">It was a dark,hot night.</span></p>
 
 <p><span class="chinese">漆黑很快惠临。</span><span class="english">Darkness was falling fast.</span></p>

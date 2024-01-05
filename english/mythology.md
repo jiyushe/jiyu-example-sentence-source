@@ -1,5 +1,7 @@
 # mythology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mythology.md)
+
 <p><span class="chinese">这对他的神话来说是一个关键时刻。</span><span class="english">It's a really key time to his mythology.</span></p>
 
 <p><span class="chinese">但我们却把它转变成神话。</span><span class="english">But we mytholize, we turn it into a mythology.</span></p>

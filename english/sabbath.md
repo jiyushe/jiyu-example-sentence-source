@@ -1,5 +1,7 @@
 # sabbath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sabbath.md)
+
 <p><span class="chinese">犹太教有安息日。</span><span class="english">Jews honor the Sabbath.</span></p>
 
 <p><span class="chinese">在1879年的最后一个安息日</span><span class="english">On the last Sabbath day of 1879</span></p>

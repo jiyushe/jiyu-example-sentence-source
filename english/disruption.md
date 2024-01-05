@@ -1,5 +1,7 @@
 # disruption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disruption.md)
+
 <p><span class="chinese">我称它为“经济大震荡”。</span><span class="english">I call it the Great Disruption.</span></p>
 
 <p><span class="chinese">睡眠崩解已经是抑郁的一个特点。</span><span class="english">Sleep disruption is already a hallmark of depression.</span></p>

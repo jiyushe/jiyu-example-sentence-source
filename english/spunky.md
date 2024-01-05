@@ -1,5 +1,7 @@
 # spunky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spunky.md)
+
 <p><span class="chinese">他是好动的小孩子。</span><span class="english">He's a spunky little child.</span></p>
 
 <p><span class="chinese">它全部将依赖于怎样灿烂您是。</span><span class="english">It will all depend on how spunky you are.</span></p>

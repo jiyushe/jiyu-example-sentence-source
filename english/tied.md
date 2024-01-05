@@ -1,5 +1,7 @@
 # tied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tied.md)
+
 <p><span class="chinese">他捆上包裹。</span><span class="english">He tied the parcel.</span></p>
 
 <p><span class="chinese">那两队不分胜负。</span><span class="english">The two teams tied.</span></p>

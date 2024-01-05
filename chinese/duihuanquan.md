@@ -1,5 +1,7 @@
 # 兑换券
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duihuanquan.md)
+
 <p><span class="chinese">你们接受外汇券兑换券吗？</span><span class="english">Do you accept foreign exchange certificate ?</span></p>
 
 <p><span class="chinese">兑换券限本人使用，不得转让或兑换现金。</span><span class="english">The coupon is not transferable or redeemable for cash.</span></p>

@@ -1,5 +1,7 @@
 # shaanxi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaanxi.md)
+
 <p><span class="chinese">我在陕西如何能取到钱？</span><span class="english">How can I take money in Shaanxi?</span></p>
 
 <p><span class="chinese">下一站是陕西南路。</span><span class="english">Next stop is South Shaanxi Road.</span></p>

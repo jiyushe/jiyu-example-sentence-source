@@ -1,5 +1,7 @@
 # circle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circle.md)
+
 <p><span class="chinese">围成一个圆圈。</span><span class="english">Create a circle.</span></p>
 
 <p><span class="chinese">站成一个小圈。</span><span class="english">Make a small circle.</span></p>

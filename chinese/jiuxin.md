@@ -1,5 +1,7 @@
 # 揪心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuxin.md)
+
 <p><span class="chinese">杰克逊死亡案再开庭，其生前照片令人揪心不已。</span><span class="english">Michael Jackson images dominate opening of death trial.</span></p>
 
 <p><span class="chinese">每每狂风大作，暴风骤雨，我都无法入眠，为远去的他担忧揪心。</span><span class="english">While up aloft, in storm or gale, from me his absence mourn.</span></p>

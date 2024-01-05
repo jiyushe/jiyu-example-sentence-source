@@ -1,5 +1,7 @@
 # wattage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wattage.md)
+
 <p><span class="chinese">这种硅碳棒不同于金属加热元件，没有固定的输出功率。</span><span class="english">They are not sized to a specific wattage output like metallic heating elements.</span></p>
 
 <p><span class="chinese">电源设备可能不支持处理器、内存模块和扩充卡的系统配置。</span><span class="english">Warning! Performance degraded. CPU and memory set to minimum frequencies to meet PSU wattage.</span></p>

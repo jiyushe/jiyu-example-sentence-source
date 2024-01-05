@@ -1,5 +1,7 @@
 # 问答
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenda.md)
+
 <p><span class="chinese">那就用雅虎问答吧。</span><span class="english">Use Yahoo Answers.</span></p>
 
 <p><span class="chinese">学生看图自由问答。</span><span class="english">Look ask and anawer.</span></p>

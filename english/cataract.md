@@ -1,5 +1,7 @@
 # cataract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cataract.md)
+
 <p><span class="chinese">瀑布的声音震耳欲聋。</span><span class="english">The cataract deafened the ear with its roar.</span></p>
 
 <p><span class="chinese">您可能有一个白内障在一个或两个眼睛是雪亮的。</span><span class="english">You may have a cataract in one or both eyes.</span></p>

@@ -1,5 +1,7 @@
 # longing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longing.md)
+
 <p><span class="chinese">每粒种子都是一个渴望。</span><span class="english">Every seed is a longing.</span></p>
 
 <p><span class="chinese">我正盼望着第一节体育课呢。</span><span class="english">I am longing for first-period PE.</span></p>

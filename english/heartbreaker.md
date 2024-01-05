@@ -1,5 +1,7 @@
 # heartbreaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartbreaker.md)
+
 <p><span class="chinese">保罗是个迷人的帅哥。</span><span class="english">Paul is a heartbreaker.</span></p>
 
 <p><span class="chinese">大卫长得很帅。</span><span class="english">David is really a heartbreaker.</span></p>

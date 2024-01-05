@@ -1,5 +1,7 @@
 # compass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compass.md)
+
 <p><span class="chinese">心灵是最好的指南针。</span><span class="english">Your heart is your best compass.</span></p>
 
 <p><span class="chinese">保时捷设计P'6520指南针手表</span><span class="english">Porsche Design P'6520 Compass Watch</span></p>

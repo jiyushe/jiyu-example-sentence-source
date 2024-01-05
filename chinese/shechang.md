@@ -1,5 +1,7 @@
 # 社长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shechang.md)
+
 <p><span class="chinese">角川社长于1943年出生。</span><span class="english">Mr. Kadokawa was born in 1943.</span></p>
 
 <p><span class="chinese">卡罗尔当选社长兼导演。</span><span class="english">Carol was made president and director.</span></p>

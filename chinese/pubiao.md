@@ -1,5 +1,7 @@
 # 谱表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pubiao.md)
+
 <p><span class="chinese">产物经熔点测定和红外光谱表证。</span><span class="english">Product was identified by analysis of m. p and IR.</span></p>
 
 <p><span class="chinese">所有化合物的结构均经元素分析、红外光谱、核磁共振氢谱和质谱表证。</span><span class="english">The structures of these compounds were characterized by elemental analysis, IR, 1H NMR and MS.</span></p>

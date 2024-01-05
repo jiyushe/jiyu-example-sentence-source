@@ -1,5 +1,7 @@
 # 政治家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhijia.md)
+
 <p><span class="chinese">他是今年的那位政治家。</span><span class="english">He is the politician of the year.</span></p>
 
 <p><span class="chinese">首先必须说，他是一个政治家。</span><span class="english">To start with, he is a politician.</span></p>

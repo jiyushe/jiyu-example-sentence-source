@@ -1,5 +1,7 @@
 # 臆测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yice.md)
+
 <p><span class="chinese">臆测瑞士央行干预,市场担心英国债信问题**</span><span class="english">SWISS SPECULATION, UK DEBT WORRIES</span></p>
 
 <p><span class="chinese">关于这个问题不可臆测。</span><span class="english">No conjecture can be offered on the subject.</span></p>

@@ -1,5 +1,7 @@
 # 分秒必争
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenmiaobizheng.md)
+
 <p><span class="chinese">我考虑要分秒必争。</span><span class="english">I think every minute counts.</span></p>
 
 <p><span class="chinese">快点！现在分秒必争。</span><span class="english">Hury up! Every minute now counts.</span></p>

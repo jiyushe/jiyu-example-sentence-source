@@ -1,5 +1,7 @@
 # 婚外恋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunwailian.md)
+
 <p><span class="chinese">他有婚外恋。</span><span class="english">He has an extramarital affair.</span></p>
 
 <p><span class="chinese">你和布洛基云汉夫人有婚外恋吗？</span><span class="english">Are you having an affair with Brooke Windham?</span></p>

@@ -1,5 +1,7 @@
 # exacerbate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exacerbate.md)
+
 <p><span class="chinese">你有没有做过什么使得情势更加激烈恶化？</span><span class="english">Have you done anything to exacerbate the situation?</span></p>
 
 <p><span class="chinese">作为飞行员和航空分析员的米勒·奥布莱恩说，“提起机头将会加剧气流引起的失速。”</span><span class="english">Pulling the nose up will exacerbate an aerodynamic stall.</span></p>

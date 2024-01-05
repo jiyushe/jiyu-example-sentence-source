@@ -1,5 +1,7 @@
 # 解暑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshu_1.md)
+
 <p><span class="chinese">冰淇淋在热天是解暑提神的佳品。</span><span class="english">Ice cream is a good refreshment on a hot day.</span></p>
 
 <p><span class="chinese">绿豆汤是人人皆知的夏季较好的解暑饮料。</span><span class="english">Mung bean soup is a well known summer better Jieshu drinks.</span></p>

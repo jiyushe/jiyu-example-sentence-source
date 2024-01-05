@@ -1,5 +1,7 @@
 # dac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dac.md)
+
 <p><span class="chinese">双路，8位电压输出，串行DAC。</span><span class="english">Dual, 8-bit, voltage-output serial DAC.</span></p>
 
 <p><span class="chinese">然后根据你的耳机再建立二房、解码系统。</span><span class="english">Then build your amp and DAC to match the headphones.</span></p>

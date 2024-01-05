@@ -1,5 +1,7 @@
 # beginning 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beginning.md)
+
 <p><span class="chinese">我又开始感到害怕。</span><span class="english">I feel beginning sacre.</span></p>
 
 <p><span class="chinese">下起点点小雨了。</span><span class="english">It is beginning to spot.</span></p>

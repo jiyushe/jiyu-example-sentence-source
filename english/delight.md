@@ -1,5 +1,7 @@
 # delight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delight.md)
+
 <p><span class="chinese">他开心得呼喊起来。</span><span class="english">He whooped with delight.</span></p>
 
 <p><span class="chinese">她用咯咯声表示她的高兴。</span><span class="english">She gurgled her delight.</span></p>

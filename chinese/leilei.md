@@ -1,5 +1,7 @@
 # 累累
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leilei.md)
+
 <p><span class="chinese">那棵苹果树果实累累。</span><span class="english">That apple tree bears well.</span></p>
 
 <p><span class="chinese">难过是一种灰灰的、累累的感觉。</span><span class="english">Sad is a cloudy, tired feeling.</span></p>

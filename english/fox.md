@@ -1,5 +1,7 @@
 # fox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fox.md)
+
 <p><span class="chinese">他是一只老狐狸。</span><span class="english">He is an old fox.</span></p>
 
 <p><span class="chinese">他是个狡猾的老狐狸。</span><span class="english">He's a sly old fox.</span></p>

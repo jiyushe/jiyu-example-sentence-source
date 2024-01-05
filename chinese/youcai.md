@@ -1,5 +1,7 @@
 # 油彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youcai.md)
+
 <p><span class="chinese">给你的画板抹上蓝灰的油彩。</span><span class="english">paint your palette blue and grey.</span></p>
 
 <p><span class="chinese">我要多用手指油彩画画，少用手指点这点那。</span><span class="english">I'd finger-paint more and point the finger less.</span></p>

@@ -1,5 +1,7 @@
 # pisa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pisa.md)
+
 <p><span class="chinese">我将常常到比萨来。</span><span class="english">Shaz often 6e'caming to Pisa.</span></p>
 
 <p><span class="chinese">什么东西令到比萨塔倾斜？</span><span class="english">What makes the Tower of Pisa lean?</span></p>

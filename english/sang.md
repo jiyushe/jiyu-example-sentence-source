@@ -1,5 +1,7 @@
 # sang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sang.md)
+
 <p><span class="chinese">我们一起唱歌。</span><span class="english">We sang together.</span></p>
 
 <p><span class="chinese">她唱着悲伤的歌。</span><span class="english">She sang a sad song.</span></p>

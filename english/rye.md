@@ -1,5 +1,7 @@
 # rye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rye.md)
+
 <p><span class="chinese">我站在金色的麦田中。</span><span class="english">I standed in the rye.</span></p>
 
 <p><span class="chinese">你知道柳承敏吗？</span><span class="english">Do you know Rye Seung-min?</span></p>

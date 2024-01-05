@@ -1,5 +1,7 @@
 # 狂潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangchao.md)
+
 <p><span class="chinese">并购狂潮紧追绿色趋势。</span><span class="english">Merger mania grips green.</span></p>
 
 <p><span class="chinese">阿内尔卡会上演进球狂潮的。</span><span class="english">Anelka is due a flurry of goals.</span></p>

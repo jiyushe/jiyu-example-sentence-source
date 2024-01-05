@@ -1,5 +1,7 @@
 # 入席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruxi.md)
+
 <p><span class="chinese">她请客人在餐桌入席。</span><span class="english">She seated the guest at the table.</span></p>
 
 <p><span class="chinese">很快在9点以后，陪审团入席了。</span><span class="english">Shortly after nine, the jury came in.</span></p>

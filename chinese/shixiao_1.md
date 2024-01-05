@@ -1,5 +1,7 @@
 # 失笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiao_1.md)
+
 <p><span class="chinese">十一娘失笑。</span><span class="english">Niangs lose to smile.</span></p>
 
 <p><span class="chinese">他怎会觉得两人像呢？失笑。</span><span class="english">How will he feel two portraits?Lose to smile.</span></p>

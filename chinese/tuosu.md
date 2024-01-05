@@ -1,5 +1,7 @@
 # 脱俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuosu.md)
+
 <p><span class="chinese">竹花很美，是那种清丽脱俗的美。</span><span class="english">Bamboo flower is beautiful, is the kind of Qingli refined beauty.</span></p>
 
 <p><span class="chinese">石头让马益群的家显得自然脱俗。</span><span class="english">Stone lets Ma Yiqun's home appear natural and free from vulgarity.</span></p>

@@ -1,5 +1,7 @@
 # 青果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingguo_1.md)
+
 <p><span class="chinese">他开了一家很好的青果商店。</span><span class="english">He has a good business as a greengrocer.</span></p>
 
 <p><span class="chinese">蕃茄，奶汁食品，罗勒，青果碎。</span><span class="english">Tomato, mozzerella, basil, olive tepanade drizzle.</span></p>

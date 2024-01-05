@@ -1,5 +1,7 @@
 # flasher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flasher.md)
+
 <p><span class="chinese">是我们抓住了那个变态，耶！</span><span class="english">We caught the flasher. Yes!</span></p>
 
 <p><span class="chinese">从接线盒中拔出组合闪光器。</span><span class="english">Unplug the combination flasher from the junction block.</span></p>

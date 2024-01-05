@@ -1,5 +1,7 @@
 # 忙里偷闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manglitouxian.md)
+
 <p><span class="chinese">我想忙里偷闲去学习英语。</span><span class="english">I want to steal time to learn english.</span></p>
 
 <p><span class="chinese">爱情是闲者的正事，忙者的“忙里偷闲”。</span><span class="english">Love is the business of the idle but idleness of the busy.</span></p>

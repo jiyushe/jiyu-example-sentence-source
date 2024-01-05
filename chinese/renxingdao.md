@@ -1,5 +1,7 @@
 # 人行道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxingdao.md)
+
 <p><span class="chinese">我穿过人行道。</span><span class="english">I cross at the crosswalk.</span></p>
 
 <p><span class="chinese">雨滴打在人行道上。</span><span class="english">Rain spatters on the pavement.</span></p>

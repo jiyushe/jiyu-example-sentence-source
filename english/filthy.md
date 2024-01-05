@@ -1,5 +1,7 @@
 # filthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filthy.md)
+
 <p><span class="chinese">污秽的毛团。</span><span class="english">Filthy hairball.</span></p>
 
 <p><span class="chinese">你的脚很脏。</span><span class="english">Your feet are filthy.</span></p>

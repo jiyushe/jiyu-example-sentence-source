@@ -1,5 +1,7 @@
 # recursive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recursive.md)
+
 <p><span class="chinese">但是注意。</span><span class="english">It's a recursive definition.</span></p>
 
 <p><span class="chinese">很漂亮的递归定义。</span><span class="english">Wonderful recursive definition.</span></p>

@@ -1,5 +1,7 @@
 # citrinin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citrinin.md)
+
 <p><span class="chinese">建立了红曲霉真菌毒素桔霉素的HPLC检测方法。</span><span class="english">HPLC method of analysis of Monascus citrinin was established.</span></p>
 
 <p><span class="chinese">桔青霉素是能引起肾脏毒性的真菌毒素，并有致癌性。</span><span class="english">Citrinin is a mycotoxin which can induce renal dysfunction, and it is tumorigenic.</span></p>

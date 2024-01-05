@@ -1,5 +1,7 @@
 # 开业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiye.md)
+
 <p><span class="chinese">他在上个星期就开业了。</span><span class="english">He set up shop last week.</span></p>
 
 <p><span class="chinese">欧洲商店开业的不多。</span><span class="english">Not so many European shops.</span></p>

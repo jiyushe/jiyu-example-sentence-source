@@ -1,5 +1,7 @@
 # strained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strained.md)
+
 <p><span class="chinese">他的脚扭伤了。</span><span class="english">His foot has strained.</span></p>
 
 <p><span class="chinese">劲风吹坏了屋顶。</span><span class="english">The wind strained the roof.</span></p>

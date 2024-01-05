@@ -1,5 +1,7 @@
 # corned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corned.md)
+
 <p><span class="chinese">有咸牛肉玉米饼吗这个好吃吗？</span><span class="english">Is the corned beef quesadilla, is that any good?</span></p>
 
 <p><span class="chinese">煮咸肉和大头菜配苏打面包真是棒！</span><span class="english">Corned beef and cabbage with soda bread are perfect match!</span></p>

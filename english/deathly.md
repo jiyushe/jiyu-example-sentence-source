@@ -1,5 +1,7 @@
 # deathly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deathly.md)
+
 <p><span class="chinese">她死一般地沉寂起来。</span><span class="english">She became deathly quiet.</span></p>
 
 <p><span class="chinese">不，白，即死仍是彩色。</span><span class="english">No, white , that deathly still color.</span></p>

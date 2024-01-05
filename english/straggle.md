@@ -1,5 +1,7 @@
 # straggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straggle.md)
+
 <p><span class="chinese">村庄散布在山林之中。</span><span class="english">The villages straggle in the mountains.</span></p>
 
 <p><span class="chinese">一天又一天，我和我的人努力抑制罪恶的浪潮。</span><span class="english">Day after day my men and I straggle to hold back a tidal wave of crime.</span></p>

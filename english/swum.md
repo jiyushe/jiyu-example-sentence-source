@@ -1,5 +1,7 @@
 # swum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swum.md)
+
 <p><span class="chinese">在游泳中他没有游出他的最高水平。</span><span class="english">He had not swum his best.</span></p>
 
 <p><span class="chinese">你们在黑海中游泳了吗？</span><span class="english">Have you swum in the Black Sea?</span></p>

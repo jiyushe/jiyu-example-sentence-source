@@ -1,5 +1,7 @@
 # subversive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subversive.md)
+
 <p><span class="chinese">有时候是罗马命令的破坏分子。</span><span class="english">Sometimes they were subversive enemies of the Roman order.</span></p>
 
 <p><span class="chinese">新闻局将禁止煽动性刊物。</span><span class="english">The Information Bureau will prohibit some subversive publications.</span></p>

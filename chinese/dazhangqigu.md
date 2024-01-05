@@ -1,5 +1,7 @@
 # 大张旗鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhangqigu.md)
+
 <p><span class="chinese">我算不算大张旗鼓地回来了？</span><span class="english">Am I heading back in a big way?</span></p>
 
 <p><span class="chinese">并不一定要大张旗鼓地进行这件事。</span><span class="english">This does not have to be a massive undertaking.</span></p>

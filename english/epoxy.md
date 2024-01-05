@@ -1,5 +1,7 @@
 # epoxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epoxy.md)
+
 <p><span class="chinese">涂刷环氧内墙面漆。</span><span class="english">Overcoating epoxy top coating.</span></p>
 
 <p><span class="chinese">水性环氧树脂涂料。</span><span class="english">Water-based epoxy top coatings.</span></p>

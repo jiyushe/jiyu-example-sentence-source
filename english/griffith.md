@@ -1,5 +1,7 @@
 # griffith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/griffith.md)
+
 <p><span class="chinese">您的叙述者是雪莉格里菲斯和托尼里格斯。</span><span class="english">Your narrators were Shirley Griffith and Tony Riggs.</span></p>
 
 <p><span class="chinese">帕雷特的儿子拥抱了格里菲斯，并告诉他，他被宽恕了。</span><span class="english">The son embraced Griffith and told him he was forgiven.</span></p>

@@ -1,5 +1,7 @@
 # fugu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fugu.md)
+
 <p><span class="chinese">快呀，朋友！给我河豚呀！</span><span class="english">Come on, pal! Fugu me!</span></p>
 
 <p><span class="chinese">河豚毒素作为一种剧毒绝对能让你的河豚宴变成最后的晚餐。</span><span class="english">Tetrodotoxin is the potent poison that can turn fugu into a final meal.</span></p>

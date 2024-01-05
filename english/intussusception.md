@@ -1,5 +1,7 @@
 # intussusception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intussusception.md)
+
 <p><span class="chinese">小肠肠套叠需做肠切除术。</span><span class="english">Small bowel intussusception may require resection.</span></p>
 
 <p><span class="chinese">小肠肠套叠需做肠切除术。</span><span class="english">Small bowel intussusception may require resection.</span></p>

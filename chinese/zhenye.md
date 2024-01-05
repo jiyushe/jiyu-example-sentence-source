@@ -1,5 +1,7 @@
 # 针叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenye.md)
+
 <p><span class="chinese">针叶萎凋病就是一例。</span><span class="english">One example is the needle blight.</span></p>
 
 <p><span class="chinese">这条路上铺满了冷杉针叶。</span><span class="english">The road was covered with fir needles.</span></p>

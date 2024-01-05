@@ -1,5 +1,7 @@
 # hyperglycaemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperglycaemia.md)
+
 <p><span class="chinese">高血糖症的症状是一样的，这些未经处理的糖尿病。</span><span class="english">Symptoms of hyperglycaemia are the same as those of untreated diabetes.</span></p>
 
 <p><span class="chinese">所以，严密的监控会尽早发现高血糖或者低血糖的任何征兆。</span><span class="english">Frequent monitoring will provide early warning signs of hypo or hyperglycaemia.</span></p>

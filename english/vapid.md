@@ -1,5 +1,7 @@
 # vapid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vapid.md)
+
 <p><span class="chinese">没有你的日子了无生趣。</span><span class="english">Vapid days without you.</span></p>
 
 <p><span class="chinese">接下来的问题就是，复习是一个枯燥无味的工作。</span><span class="english">The next issue is that reviewing is generally dull and vapid.</span></p>

@@ -1,5 +1,7 @@
 # 不依
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyi_1.md)
+
 <p><span class="chinese">读取不依电性设定时出错。</span><span class="english">An error occurred while reading non-volatile settings.</span></p>
 
 <p><span class="chinese">写入不依电性设定时出错。</span><span class="english">An error occurred while writing non-volatile settings.</span></p>

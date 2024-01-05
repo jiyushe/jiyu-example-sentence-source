@@ -1,5 +1,7 @@
 # 第一流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyiliu.md)
+
 <p><span class="chinese">他是第一流的网球手。</span><span class="english">He is a swell tennis player.</span></p>
 
 <p><span class="chinese">他是当今第一流的作家。</span><span class="english">He is a first-rate writer today.</span></p>

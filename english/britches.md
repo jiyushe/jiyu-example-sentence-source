@@ -1,5 +1,7 @@
 # britches
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/britches.md)
+
 <p><span class="chinese">嘿，小裤子？</span><span class="english">Hey, Little Britches?</span></p>
 
 <p><span class="chinese">我也是，小裤子。</span><span class="english">Me, too, Little Britches.</span></p>

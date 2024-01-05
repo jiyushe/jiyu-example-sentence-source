@@ -1,5 +1,7 @@
 # 明信片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingxinpian.md)
+
 <p><span class="chinese">这是我的明信片。</span><span class="english">Here is my biked.</span></p>
 
 <p><span class="chinese">给我寄张明信片来。</span><span class="english">Drop me a postcard.</span></p>

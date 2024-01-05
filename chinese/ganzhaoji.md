@@ -1,5 +1,7 @@
 # 干着急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzhaoji.md)
+
 <p><span class="chinese">他什么事也不会干，只会干着急！</span><span class="english">He could do nothing but worry.</span></p>
 
 <p><span class="chinese">叫人干着急，却也奈何不了。</span><span class="english">So do not worry, but also how not.</span></p>

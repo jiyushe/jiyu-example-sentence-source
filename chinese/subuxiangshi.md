@@ -1,5 +1,7 @@
 # 素不相识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/subuxiangshi.md)
+
 <p><span class="chinese">有一次在街上，我一脚绊倒扑倒在一个素不相识的陌生人身上。</span><span class="english">I once tripped and fell onto a complete stranger in the street!</span></p>
 
 <p><span class="chinese">我向素不相识的人们打探我一直想知道的事。</span><span class="english">I got to ask total strangers the things I'd always wanted to know.</span></p>

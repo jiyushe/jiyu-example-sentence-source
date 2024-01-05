@@ -1,5 +1,7 @@
 # foregoing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foregoing.md)
+
 <p><span class="chinese">前述的故事是一个英国作家写的。</span><span class="english">The foregoing story was by an English writer.</span></p>
 
 <p><span class="chinese">我现在将上述各项事实。</span><span class="english">I will now briefly recapitulate the foregoing cases.</span></p>

@@ -1,5 +1,7 @@
 # 杂烩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zahui.md)
+
 <p><span class="chinese">做一个杂烩。</span><span class="english">Make a blob.</span></p>
 
 <p><span class="chinese">第一次吃了这么多碗的杂烩。</span><span class="english">The first of countless bowls of chowder.</span></p>

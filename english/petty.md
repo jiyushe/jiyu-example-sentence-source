@@ -1,5 +1,7 @@
 # petty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petty.md)
+
 <p><span class="chinese">她就耍小脾气了。</span><span class="english">She petty temper.</span></p>
 
 <p><span class="chinese">他懂她的小心眼。</span><span class="english">He know she is petty.</span></p>

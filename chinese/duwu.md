@@ -1,5 +1,7 @@
 # 独舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duwu.md)
+
 <p><span class="chinese">一种独舞强调快速的拍打。</span><span class="english">A solo tap dance emphasizing sharp taps.</span></p>
 
 <p><span class="chinese">你跳个独舞给聚会添个彩吧！</span><span class="english">It will spice up the party if you dance a solo dance.</span></p>

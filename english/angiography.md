@@ -1,5 +1,7 @@
 # angiography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angiography.md)
+
 <p><span class="chinese">目的研究眼底荧光造影术的安全性。</span><span class="english">Objective To investigate the safety of fluorescein angiography.</span></p>
 
 <p><span class="chinese">眼底荧光素血管造影显示“双循环”现象。</span><span class="english">"Double circulation"was showed by fundus fluorescence angiography.</span></p>

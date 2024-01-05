@@ -1,5 +1,7 @@
 # motile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motile.md)
+
 <p><span class="chinese">专属提供运动型座椅。</span><span class="english">Exclusive provide motile seats.</span></p>
 
 <p><span class="chinese">经常跳舞会导致膝关节运动型损伤吗?。</span><span class="english">Often dance can you bring about knee joint motile to injure?</span></p>

@@ -1,5 +1,7 @@
 # 疏忽大意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuhudayi.md)
+
 <p><span class="chinese">他责备我疏忽大意。</span><span class="english">He blamed me for my negligence.</span></p>
 
 <p><span class="chinese">对工作我一点也不能疏忽大意。</span><span class="english">He cannot be trusted in the slightest degree.</span></p>

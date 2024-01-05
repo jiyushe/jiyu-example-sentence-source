@@ -1,5 +1,7 @@
 # 总括
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongkuo.md)
+
 <p><span class="chinese">总括而言，联盟的工作包括﹕</span><span class="english">In general, the work of the Alliance includes</span></p>
 
 <p><span class="chinese">威士忌总括起来是描述一些烈酒。</span><span class="english">Whisky is a general term describing many spirits.</span></p>

@@ -1,5 +1,7 @@
 # 立方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lifang.md)
+
 <p><span class="chinese">数以百千立方公尺。</span><span class="english">A couple hundred kilos.</span></p>
 
 <p><span class="chinese">这个箱子是立方形。</span><span class="english">The box was cube-shaped.</span></p>

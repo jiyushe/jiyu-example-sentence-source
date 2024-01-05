@@ -1,5 +1,7 @@
 # 最后通牒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuihoutongdie.md)
+
 <p><span class="chinese">不要下最后通牒。</span><span class="english">Don't give ultimatums.</span></p>
 
 <p><span class="chinese">停止发出最后通牒。</span><span class="english">Stop with the ultimatums.</span></p>

@@ -1,5 +1,7 @@
 # stiffen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stiffen.md)
+
 <p><span class="chinese">阴蒂脚坚硬而伸长。</span><span class="english">The legs stiffen and elongate.</span></p>
 
 <p><span class="chinese">她的工作是把亚麻布浆洗硬了。</span><span class="english">Her job is to stiffen linen with starch.</span></p>

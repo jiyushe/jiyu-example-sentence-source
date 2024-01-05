@@ -1,5 +1,7 @@
 # 延展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhan.md)
+
 <p><span class="chinese">她把它比作发型的延展。</span><span class="english">She likens them to hair extensions.</span></p>
 
 <p><span class="chinese">延展？拒绝？</span><span class="english">Are they stretched? Are they rejected?</span></p>

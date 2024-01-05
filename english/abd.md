@@ -1,5 +1,7 @@
 # abd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abd.md)
+
 <p><span class="chinese">所留下的最后一段文字。</span><span class="english">This is the last known writing of Abd al-Hazir.</span></p>
 
 <p><span class="chinese">各部件采用同步带及齿轮传动。</span><span class="english">The components are driven by synchronous belt abd gears.</span></p>

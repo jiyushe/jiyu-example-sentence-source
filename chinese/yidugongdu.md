@@ -1,5 +1,7 @@
 # 以毒攻毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidugongdu.md)
+
 <p><span class="chinese">以毒攻毒，以火攻火。</span><span class="english">Fight fire with fire.</span></p>
 
 <p><span class="chinese">治愈的方法是以毒攻毒。</span><span class="english">The cure is in the poison.</span></p>

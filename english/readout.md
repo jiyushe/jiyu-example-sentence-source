@@ -1,5 +1,7 @@
 # readout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/readout.md)
+
 <p><span class="chinese">速率统量计是从连续不断的流注中推出指示数据。</span><span class="english">Rate meters infer a readout from a continuous stream.</span></p>
 
 <p><span class="chinese">读取的步骤也牵涉到如何测量任意子的状态。</span><span class="english">The readout step also involves measuring anyon states.</span></p>

@@ -1,5 +1,7 @@
 # television
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/television.md)
+
 <p><span class="chinese">当然是电视。</span><span class="english">Television definitely.</span></p>
 
 <p><span class="chinese">是的，在电视上看。</span><span class="english">Yes. On the television.</span></p>

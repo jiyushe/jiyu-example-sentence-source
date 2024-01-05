@@ -1,5 +1,7 @@
 # deception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deception.md)
+
 <p><span class="chinese">没有欺骗。</span><span class="english">No deception.</span></p>
 
 <p><span class="chinese">魔术师使用骗术。</span><span class="english">A magician uses deception.</span></p>

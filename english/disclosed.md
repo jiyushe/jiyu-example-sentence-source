@@ -1,5 +1,7 @@
 # disclosed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disclosed.md)
+
 <p><span class="chinese">条款并未透露。</span><span class="english">Terms were not disclosed.</span></p>
 
 <p><span class="chinese">她充分揭露了事实真相。</span><span class="english">She fully disclosed the truth.</span></p>

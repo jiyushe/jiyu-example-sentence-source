@@ -1,5 +1,7 @@
 # wasteland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wasteland.md)
+
 <p><span class="chinese">今天，这个政党如同一片荒原。</span><span class="english">Today, the party is just a wasteland.</span></p>
 
 <p><span class="chinese">他们开垦了大片荒地。</span><span class="english">They opened up large tracts of wasteland.</span></p>

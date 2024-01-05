@@ -1,5 +1,7 @@
 # mechanics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mechanics.md)
+
 <p><span class="chinese">哦，我得到了波动力学。</span><span class="english">Oh, I got wave mechanics.</span></p>
 
 <p><span class="chinese">汽车修理师告诉你真想。</span><span class="english">Car mechanics tell you the truth.</span></p>

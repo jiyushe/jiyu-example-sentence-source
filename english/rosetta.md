@@ -1,5 +1,7 @@
 # rosetta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosetta.md)
+
 <p><span class="chinese">对于太阳系的探索和研究而言，月球就是一块罗塞塔石碑。</span><span class="english">The Moon is a Rosetta Stone for solar system exploration and science.</span></p>
 
 <p><span class="chinese">在马格德堡展出的罗塞塔石上通俗文字手稿的复制品。</span><span class="english">Demotic script on a replica of the rosetta stone on display in Magdeburg.</span></p>

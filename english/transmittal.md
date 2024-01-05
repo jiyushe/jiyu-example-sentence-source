@@ -1,5 +1,7 @@
 # transmittal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmittal.md)
+
 <p><span class="chinese">请告知我们立即销毁和原始的信件。</span><span class="english">Please inform us immediately and destroy the original transmittal.</span></p>
 
 <p><span class="chinese">填写完毕的文件传输表的副本，由原件编辑人员保留。</span><span class="english">Copies of the completed document transmittal will be retained by the originator.</span></p>

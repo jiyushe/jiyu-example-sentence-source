@@ -1,5 +1,7 @@
 # 受刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxing_1.md)
+
 <p><span class="chinese">日正当中，罪犯受刑处死。</span><span class="english">At midday, criminals were put to death.</span></p>
 
 <p><span class="chinese">受刑者通常在几天后就开始胡言乱语.</span><span class="english">Delirium would typically set in after a few days.</span></p>

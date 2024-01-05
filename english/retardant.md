@@ -1,5 +1,7 @@
 # retardant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retardant.md)
+
 <p><span class="chinese">低烟无卤阻燃护套，环保。</span><span class="english">Low smoke, zero halogen flame retardant sheath.</span></p>
 
 <p><span class="chinese">低烟无卤阻燃护套，环保。</span><span class="english">Low smoke, zero halogen and flame retardant sheath.</span></p>

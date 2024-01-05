@@ -1,5 +1,7 @@
 # 赤狐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chihu.md)
+
 <p><span class="chinese">赤狐因皮毛呈赤褐色而得名。</span><span class="english">The red fox was named for it's russet pelt.</span></p>
 
 <p><span class="chinese">最近，在康涅狄格州海边，我所居住的公寓后面的湿地里，有一只赤狐被猎杀了。</span><span class="english">Recently, a red fox has been hunting in the marsh behind my condo on the Connecticut shoreline.</span></p>

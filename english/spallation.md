@@ -1,5 +1,7 @@
 # spallation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spallation.md)
+
 <p><span class="chinese">这对散裂反应的实际应用非常有意义。</span><span class="english">That is very significative for the applications of the spallation reactions.</span></p>
 
 <p><span class="chinese">然而，对散裂的研究显示，它可以产生锂和硼。</span><span class="english">However, studies of spallation showed that it could generate lithium and boron.</span></p>

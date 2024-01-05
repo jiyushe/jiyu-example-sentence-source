@@ -1,5 +1,7 @@
 # 忙乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manghu.md)
+
 <p><span class="chinese">我忙乎着搬家呢！</span><span class="english">I'm busy moving house.</span></p>
 
 <p><span class="chinese">一直忙乎，您的生意做得怎么样？</span><span class="english">Keeping busy. How's your business?</span></p>

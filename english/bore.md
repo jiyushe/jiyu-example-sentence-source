@@ -1,5 +1,7 @@
 # bore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bore.md)
+
 <p><span class="chinese">孔玉芬？</span><span class="english">Bore jade aroma?</span></p>
 
 <p><span class="chinese">练习是很沈闷的。</span><span class="english">Practice is a bore.</span></p>

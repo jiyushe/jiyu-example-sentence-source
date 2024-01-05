@@ -1,5 +1,7 @@
 # nicole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nicole.md)
+
 <p><span class="chinese">尼科尔。基德曼是澳大利亚人。</span><span class="english">Nicole Kidman is an Australian.</span></p>
 
 <p><span class="chinese">约瑟夫和他的女儿尼可谈话。</span><span class="english">Joseph talks with his daughter Nicole.</span></p>

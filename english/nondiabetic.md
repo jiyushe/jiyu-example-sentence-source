@@ -1,5 +1,7 @@
 # nondiabetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nondiabetic.md)
+
 <p><span class="chinese">我们有意向在非糖尿病患者中开展临床研究。</span><span class="english">We are now starting clinical studies in nondiabetic patients.</span></p>
 
 <p><span class="chinese">之后，血小板抑制作用在有糖尿病和无糖尿病患者中相似。</span><span class="english">Thereafter, platelet inhibition was similar in diabetic and nondiabetic patients.</span></p>

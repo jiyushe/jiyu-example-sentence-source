@@ -1,5 +1,7 @@
 # prehensile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prehensile.md)
+
 <p><span class="chinese">它们都具有能卷握东西的嘴唇，可用于取食树叶和树苗。</span><span class="english">They have prehensile lips for feeding on leaves and saplings.</span></p>
 
 <p><span class="chinese">热带大草原的啮草黑犀牛有能卷握东西的嘴唇，可以用于吸食灌木的嫩枝叶。</span><span class="english">The savanna browsing black rhino has a prehensile lip for feeding on shrubs.</span></p>

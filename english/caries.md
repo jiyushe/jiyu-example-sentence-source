@@ -1,5 +1,7 @@
 # caries
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caries.md)
+
 <p><span class="chinese">治疗6个月后复查患牙的继发龋情况。</span><span class="english">After 6 months, secondary caries rate was recorded.</span></p>
 
 <p><span class="chinese">氟牙症和龋齿的病情呈反比关系。</span><span class="english">Dental caries and mottled enamel are inverse ratio.</span></p>

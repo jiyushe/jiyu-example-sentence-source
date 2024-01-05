@@ -1,5 +1,7 @@
 # combination 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combination.md)
+
 <p><span class="chinese">因此我们需要一种结合。</span><span class="english">So we need a combination.</span></p>
 
 <p><span class="chinese">我搭配使用几款工具。</span><span class="english">I use a combination of tools.</span></p>

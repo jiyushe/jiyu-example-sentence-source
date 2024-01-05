@@ -1,5 +1,7 @@
 # 抢掠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianglve.md)
+
 <p><span class="chinese">抢掠行为被广泛报道。</span><span class="english">Looting was widely reported.</span></p>
 
 <p><span class="chinese">罗马人抢掠萨宾族妇女就是最好的例子。</span><span class="english">the rape of the Sabine women is a case in point.</span></p>

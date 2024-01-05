@@ -1,5 +1,7 @@
 # 旮旯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gala.md)
+
 <p><span class="chinese">她喜欢问犄角旮旯儿的问题。</span><span class="english">She likes to ask trite questions.</span></p>
 
 <p><span class="chinese">我不知道那只猫躲在哪个犄角旮旯里。</span><span class="english">I don't know in which corner the cat is hiding.</span></p>

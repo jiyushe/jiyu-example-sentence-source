@@ -1,5 +1,7 @@
 # 觉察
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juecha.md)
+
 <p><span class="chinese">这是较容易觉察到的。</span><span class="english">This is easy to observe.</span></p>
 
 <p><span class="chinese">她觉察到他正在放弃求生。</span><span class="english">She sensed he was giving up.</span></p>

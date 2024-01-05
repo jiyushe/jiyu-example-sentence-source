@@ -1,5 +1,7 @@
 # amg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amg.md)
+
 <p><span class="chinese">红色的AMG卡钳看起来非常的红口音的油漆工作。</span><span class="english">Red AMG calipers will look great with the red- accented paint job.</span></p>
 
 <p><span class="chinese">结果肺炎的肺组织损伤老龄大鼠较青年大鼠严重。</span><span class="english">Results The lung injury in AMG was more serious than that in the YMG.</span></p>

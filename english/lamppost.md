@@ -1,5 +1,7 @@
 # lamppost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamppost.md)
+
 <p><span class="chinese">我差点把车撞到路灯柱上。</span><span class="english">I nearly ran into a lamppost.</span></p>
 
 <p><span class="chinese">灯杆昨夜被风吹倒了。</span><span class="english">The lamppost blew down last night.</span></p>

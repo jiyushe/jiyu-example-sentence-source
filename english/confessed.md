@@ -1,5 +1,7 @@
 # confessed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confessed.md)
+
 <p><span class="chinese">他招认全部犯罪行为。</span><span class="english">He confessed all his crimes.</span></p>
 
 <p><span class="chinese">她承认痛恨这个老板。</span><span class="english">She confessed hating the boss.</span></p>

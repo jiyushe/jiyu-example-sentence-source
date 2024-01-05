@@ -1,5 +1,7 @@
 # 人人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renren.md)
+
 <p><span class="chinese">人人都能当厨师！</span><span class="english">Anyone Can Cook!</span></p>
 
 <p><span class="chinese">如今人人都佩带胸卡。</span><span class="english">We all wear IDs now.</span></p>

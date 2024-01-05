@@ -1,5 +1,7 @@
 # vas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vas.md)
+
 <p><span class="chinese">什么神话增值服务，你相信吗？</span><span class="english">What myths about VAs do you believe?</span></p>
 
 <p><span class="chinese">我们这个病人没有输精管。</span><span class="english">Our patient has a blind vas deferens.</span></p>

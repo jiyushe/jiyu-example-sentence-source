@@ -1,5 +1,7 @@
 # 通则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongze_1.md)
+
 <p><span class="chinese">通则可用以解释或补充国内法。</span><span class="english">They may be used to interpret or supplement domestic law.</span></p>
 
 <p><span class="chinese">而摩根大通则已明确表示，它自己发出的接收函仍旧有效。</span><span class="english">J. P. Morgan says all its offers to graduating seniors remain valid.</span></p>

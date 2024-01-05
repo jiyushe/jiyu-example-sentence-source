@@ -1,5 +1,7 @@
 # nga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nga.md)
+
 <p><span class="chinese">但那加首先得提高她的英语。</span><span class="english">But first Nga would have to improve her English.</span></p>
 
 <p><span class="chinese">也许大凡搞艺术的人都有些类似的雅好。</span><span class="english">May engage in the arts are generally similar Nga some good.</span></p>

@@ -1,5 +1,7 @@
 # 魔掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mozhang_1.md)
+
 <p><span class="chinese">真的是逃不过我的魔掌。</span><span class="english">There is no escape from me.</span></p>
 
 <p><span class="chinese">1940年6月，巴黎陷入纳粹魔掌。</span><span class="english">In June 1940 Paris fell to the Nazis.</span></p>

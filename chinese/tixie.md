@@ -1,5 +1,7 @@
 # 提携
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tixie.md)
+
 <p><span class="chinese">我把我的成功归功于那些提携过我的人。</span><span class="english">I owe my success to those that raised me.</span></p>
 
 <p><span class="chinese">老板可能要提携你，但别太殷切期望。</span><span class="english">The boss might give you a brawlotion, but don't hold your breath.</span></p>

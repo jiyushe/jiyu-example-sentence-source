@@ -1,5 +1,7 @@
 # rsp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rsp.md)
+
 <p><span class="chinese">支付满意率为博弈论提供了一种新的支付函数确立方法。</span><span class="english">RSP provides a new method of establishing payoff function for Game Theory.</span></p>
 
 <p><span class="chinese">沙苏交安正在检阅中。如果解放军要招募女兵的话，这里已经是一队了。</span><span class="english">KCC-Shatin's RSP when they March Pass. If PLA want to enlist women, here it is.</span></p>

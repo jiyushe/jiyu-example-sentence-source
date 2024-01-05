@@ -1,5 +1,7 @@
 # 预购
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yugou.md)
+
 <p><span class="chinese">你这里可不可以预购船票？</span><span class="english">Can I book ship tickets here?</span></p>
 
 <p><span class="chinese">你这里可不可以预购长途汽车票？</span><span class="english">Can I book coach tickets here?</span></p>

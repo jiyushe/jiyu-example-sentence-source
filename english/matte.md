@@ -1,5 +1,7 @@
 # matte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matte.md)
+
 <p><span class="chinese">表面无光泽的轨道被上色绿色。</span><span class="english">The Matte Track is colored green.</span></p>
 
 <p><span class="chinese">一个高大的雾白色电枢弹性腿。</span><span class="english">A tall matte white armature on springy legs.</span></p>

@@ -1,5 +1,7 @@
 # 书院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuyuan.md)
+
 <p><span class="chinese">再次，是湖南书院的考课。</span><span class="english">Again is about the test classes.</span></p>
 
 <p><span class="chinese">这些学校叫做孔夫子书院。</span><span class="english">It called them Confucius Institutes.</span></p>

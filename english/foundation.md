@@ -1,5 +1,7 @@
 # foundation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foundation.md)
+
 <p><span class="chinese">是基础还是门面？</span><span class="english">A foundation or just a facade?</span></p>
 
 <p><span class="chinese">如何取得基金会资助。</span><span class="english">How to get foundation funding.</span></p>

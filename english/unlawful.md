@@ -1,5 +1,7 @@
 # unlawful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlawful.md)
+
 <p><span class="chinese">那个小孩是私生的。</span><span class="english">The little boy is unlawful.</span></p>
 
 <p><span class="chinese">她是他的私生女。</span><span class="english">She is his unlawful daughter.</span></p>

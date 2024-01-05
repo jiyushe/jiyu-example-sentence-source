@@ -1,5 +1,7 @@
 # 杂货铺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zahuopu.md)
+
 <p><span class="chinese">可是我该如何把我的产品放入那些商场超市杂货铺呢？</span><span class="english">But getting the stuff into stores?</span></p>
 
 <p><span class="chinese">上个月他开了一爿杂货铺。</span><span class="english">He opened a grocery store last month.</span></p>

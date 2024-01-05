@@ -1,5 +1,7 @@
 # 所有制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoyouzhi.md)
+
 <p><span class="chinese">个人所有制。</span><span class="english">Individual ownership.</span></p>
 
 <p><span class="chinese">所有制是生产关系的基础。</span><span class="english">Ownership is the basis of productive relationship.</span></p>

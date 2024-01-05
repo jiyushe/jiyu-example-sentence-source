@@ -1,5 +1,7 @@
 # griffin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/griffin.md)
+
 <p><span class="chinese">其他人只能排在格里芬后面了。</span><span class="english">Everybody else takes a back seat to Griffin.</span></p>
 
 <p><span class="chinese">那个按摩师，阿尔文·格里芬怎样了？</span><span class="english">What about that chiropractor, Alvin Griffin?</span></p>

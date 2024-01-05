@@ -1,5 +1,7 @@
 # 专卖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanmai.md)
+
 <p><span class="chinese">这家店专卖钓鱼用具。</span><span class="english">The shop sells fishing gear.</span></p>
 
 <p><span class="chinese">这家摊位专卖珠子及关于伊斯兰教的书。</span><span class="english">This one specializes in beads and books on Islam.</span></p>

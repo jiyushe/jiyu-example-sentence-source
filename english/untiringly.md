@@ -1,5 +1,7 @@
 # untiringly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untiringly.md)
+
 <p><span class="chinese">有目标，采取大量行动，坚持到底，成功与否只是时间的问题。</span><span class="english">Set your Goal, work untiringly , persistence, success is only a matter of time.</span></p>
 
 <p><span class="chinese">两三年间，马良乐此不疲地在网络平台上发布自己的作品。</span><span class="english">In the two or three years, Ma had untiringly published his works on web platforms.</span></p>

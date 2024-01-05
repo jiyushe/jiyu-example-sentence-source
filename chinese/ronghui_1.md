@@ -1,5 +1,7 @@
 # 融汇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ronghui_1.md)
+
 <p><span class="chinese">非洲是世界交流融汇之地。</span><span class="english">Africa is where the world meets.</span></p>
 
 <p><span class="chinese">画家绘出被画人的面孔和身躯，但实际上融汇了画家自己的情感。</span><span class="english">The artist paints the face and body of the sitter, but in fact he shows his own feelings.</span></p>

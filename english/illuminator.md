@@ -1,5 +1,7 @@
 # illuminator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illuminator.md)
+
 <p><span class="chinese">基于外辐射源的双基地无源雷达是一种新型的雷达体制。</span><span class="english">The passive radar based on external illuminator is a new radar system.</span></p>
 
 <p><span class="chinese">多种波长带感应器和照明器模块都是可正常工作的。</span><span class="english">Various wavelength band sensors and illuminator modules are available.</span></p>

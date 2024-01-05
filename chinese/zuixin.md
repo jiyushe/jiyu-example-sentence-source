@@ -1,5 +1,7 @@
 # 醉心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuixin.md)
+
 <p><span class="chinese">他醉心于物理学的研究。</span><span class="english">He's deeply engrossed in physical research.</span></p>
 
 <p><span class="chinese">杰克醉心于科研。</span><span class="english">Jack is enamoured with scientific researches.</span></p>

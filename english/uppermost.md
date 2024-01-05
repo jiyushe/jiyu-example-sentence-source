@@ -1,5 +1,7 @@
 # uppermost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uppermost.md)
+
 <p><span class="chinese">和平问题仍是最主要的问题。</span><span class="english">The peace issue remains uppermost.</span></p>
 
 <p><span class="chinese">檐部的最高部分。</span><span class="english">The uppermost part of an entablature.</span></p>

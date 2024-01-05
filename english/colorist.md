@@ -1,5 +1,7 @@
 # colorist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorist.md)
+
 <p><span class="chinese">如何成为一个调色师?。</span><span class="english">How do I become a Colorist?</span></p>
 
 <p><span class="chinese">那火红的颜色?我是说。，我打赌，她的色彩顾问是个受虐狂。</span><span class="english">That flaming red?I mean. I swear her colorist is masochistic.</span></p>

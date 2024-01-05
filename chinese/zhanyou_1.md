@@ -1,5 +1,7 @@
 # 战友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanyou_1.md)
+
 <p><span class="chinese">他的战友需要帮助。</span><span class="english">His boys needed help.</span></p>
 
 <p><span class="chinese">迷人的索菲亚是我的战友。</span><span class="english">Charming Sophia is my comrade-in-arms.</span></p>

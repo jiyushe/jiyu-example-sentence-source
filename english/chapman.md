@@ -1,5 +1,7 @@
 # chapman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chapman.md)
+
 <p><span class="chinese">没用的，查普曼。泰特招供了。</span><span class="english">It's no use, Chapman. Tate confessed.</span></p>
 
 <p><span class="chinese">但是这就能证明查普曼在牟利吗？</span><span class="english">But does this prove that Chapman is cashing in?</span></p>

@@ -1,5 +1,7 @@
 # 怒气冲冲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuqichongchong.md)
+
 <p><span class="chinese">他怒气冲冲的瞪着我。</span><span class="english">He looked at me blackly.</span></p>
 
 <p><span class="chinese">她怒气冲冲地奔到了楼上。</span><span class="english">She stormed up the stairs.</span></p>

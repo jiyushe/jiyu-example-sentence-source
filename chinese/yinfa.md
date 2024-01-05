@@ -1,5 +1,7 @@
 # 印发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinfa.md)
+
 <p><span class="chinese">警察印发出其不意行凶抢劫者的形象拼图。</span><span class="english">The police issued an identikit picture of the mugger.</span></p>
 
 <p><span class="chinese">辛格说，现在，两国正处于发展的关键时期，两国交流和合作的增进不仅有利于中印发张，而且推动了亚洲的振兴，促进世界和平与发展。</span><span class="english">rejuvenation of Asia and promote world peace and development.</span></p>

@@ -1,5 +1,7 @@
 # protozoan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protozoan.md)
+
 <p><span class="chinese">引起疾病的细菌、病毒、真菌、或原生动物。</span><span class="english">A bacterium, virus, fungus or protozoan causing disease.</span></p>
 
 <p><span class="chinese">原生动物是江河鱼类的生物饵料组成之一。</span><span class="english">Protozoan is one of the food organ isms for fish in Rivers.</span></p>

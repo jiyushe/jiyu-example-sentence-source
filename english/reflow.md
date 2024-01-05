@@ -1,5 +1,7 @@
 # reflow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflow.md)
+
 <p><span class="chinese">这个过程被称作重排版。</span><span class="english">This process is known as a reflow.</span></p>
 
 <p><span class="chinese">适应再流焊与波峰焊。</span><span class="english">Suit for reflow and wave flow solder.</span></p>

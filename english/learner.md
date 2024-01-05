@@ -1,5 +1,7 @@
 # learner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/learner.md)
+
 <p><span class="chinese">我一学就会。</span><span class="english">I'm a fast learner.</span></p>
 
 <p><span class="chinese">托比，这是马丁?勒纳。?。</span><span class="english">Tobi, this is Martin Learner.</span></p>

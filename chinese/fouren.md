@@ -1,5 +1,7 @@
 # 否认
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fouren.md)
+
 <p><span class="chinese">但哈林顿否认有这个协议。</span><span class="english">She denied this.</span></p>
 
 <p><span class="chinese">我不能否认这一点。</span><span class="english">I cannae deny it.</span></p>

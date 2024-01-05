@@ -1,5 +1,7 @@
 # blather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blather.md)
+
 <p><span class="chinese">谁是那小白脸，你可别乱说。</span><span class="english">Who is that, you don't blather.</span></p>
 
 <p><span class="chinese">人生的短暂和脆弱。</span><span class="english">That human frailty you blather about.</span></p>

@@ -1,5 +1,7 @@
 # 大汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahan_1.md)
+
 <p><span class="chinese">他只不过是个粗笨的大汉。</span><span class="english">He is nothing but an ape.</span></p>
 
 <p><span class="chinese">在大汉们几声淫笑后他们叫来了服务生。</span><span class="english">They dirtily smiled and called the waiter.</span></p>

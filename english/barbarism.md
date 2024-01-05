@@ -1,5 +1,7 @@
 # barbarism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbarism.md)
+
 <p><span class="chinese">那可能是法西斯主义，或暴力主义。</span><span class="english">It may be fascism, or barbarism.</span></p>
 
 <p><span class="chinese">导致了纳粹德国的野蛮暴行。</span><span class="english">that had led to barbarism of Nazi Germany.</span></p>

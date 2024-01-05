@@ -1,5 +1,7 @@
 # 疙疙瘩瘩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gegedada.md)
+
 <p><span class="chinese">瘦小的身子，且长满疙疙瘩瘩的骨刺。</span><span class="english">A body thin and small, and bony and thorny all over.</span></p>
 
 <p><span class="chinese">健康女性的正常乳腺组织通常是有颗粒状或疙疙瘩瘩的感觉。</span><span class="english">Normal breast tissue in healthy women often feels lumpy or nodular.</span></p>

@@ -1,5 +1,7 @@
 # effector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effector.md)
+
 <p><span class="chinese">体液免疫反应中的免疫体细胞是什么？</span><span class="english">What are the effector cells of the humoral immune response?</span></p>
 
 <p><span class="chinese">由此可见，FLS是关节炎症和破坏的主要效应细胞。</span><span class="english">Therefore, FLS are crucial effector in joint inflammation and destruction.</span></p>

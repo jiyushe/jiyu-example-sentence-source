@@ -1,5 +1,7 @@
 # ladylike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ladylike.md)
+
 <p><span class="chinese">有些女人的举止从来不像女人。</span><span class="english">Some women never act very ladylike.</span></p>
 
 <p><span class="chinese">她文雅地一小口一小口喝着葡萄酒。</span><span class="english">She drank her wine with small ladylike sips.</span></p>

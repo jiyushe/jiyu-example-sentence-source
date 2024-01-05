@@ -1,5 +1,7 @@
 # allusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allusive.md)
+
 <p><span class="chinese">他的创作风格是细致并长于用典。</span><span class="english">His style is sophisticated and allusive.</span></p>
 
 <p><span class="chinese">后来人们知道这是暗示作用。</span><span class="english">Successors know this is allusive action.</span></p>

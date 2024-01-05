@@ -1,5 +1,7 @@
 # internationale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internationale.md)
+
 <p><span class="chinese">我们在国际歌声中结束了会议。</span><span class="english">We ended the meeting off with the Internationale.</span></p>
 
 <p><span class="chinese">国际友人唱国际歌。</span><span class="english">International friends will sing the Internationale.</span></p>

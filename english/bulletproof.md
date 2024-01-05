@@ -1,5 +1,7 @@
 # bulletproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulletproof.md)
+
 <p><span class="chinese">我给它穿了防弹背心。</span><span class="english">He's wearing a bulletproof vest.</span></p>
 
 <p><span class="chinese">总重量的防弹背心。</span><span class="english">Total weight of bulletproof vest.</span></p>

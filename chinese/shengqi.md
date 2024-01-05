@@ -1,5 +1,7 @@
 # 声气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqi.md)
+
 <p><span class="chinese">找不对也能装上就没声气死人！</span><span class="english">Can also be fitted to find not complain no dead!</span></p>
 
 <p><span class="chinese">他一不耐烦的时候就对人没有好声气。</span><span class="english">He tends to snap at people when he gets impatient.</span></p>

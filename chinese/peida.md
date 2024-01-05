@@ -1,5 +1,7 @@
 # 配搭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peida.md)
+
 <p><span class="chinese">将这些辞汇与照片配搭起来。</span><span class="english">Match these words with the photos.</span></p>
 
 <p><span class="chinese">适合与红肉和猎获品配搭。</span><span class="english">Most suited for red and game meats.</span></p>

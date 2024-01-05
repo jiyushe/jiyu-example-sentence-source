@@ -1,5 +1,7 @@
 # 胳臂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gebei.md)
+
 <p><span class="chinese">他弯起胳臂。</span><span class="english">He crooked his arm.</span></p>
 
 <p><span class="chinese">他举起胳臂。</span><span class="english">He uplifted his arm.</span></p>

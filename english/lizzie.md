@@ -1,5 +1,7 @@
 # lizzie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lizzie.md)
+
 <p><span class="chinese">丽兹玻顿拿起斧头。</span><span class="english">Lizzie Borden took an axe.</span></p>
 
 <p><span class="chinese">看到这些白筹码吗，莉丝?。</span><span class="english">See all those white chips , Lizzie?</span></p>

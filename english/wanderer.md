@@ -1,5 +1,7 @@
 # wanderer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wanderer.md)
+
 <p><span class="chinese">这个流浪者，我并不陌生！</span><span class="english">This wanderer is no stranger to me!</span></p>
 
 <p><span class="chinese">我昨天在街上遇见了一个流浪者。</span><span class="english">I met a wanderer in the street yesterday.</span></p>

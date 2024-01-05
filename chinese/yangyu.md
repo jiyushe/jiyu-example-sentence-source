@@ -1,5 +1,7 @@
 # 养育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangyu.md)
+
 <p><span class="chinese">她已经养育了五个孩子。</span><span class="english">She 70 71 up five children.</span></p>
 
 <p><span class="chinese">把他当成自己的儿子般养育。</span><span class="english">And he raised him as his son.</span></p>

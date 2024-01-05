@@ -1,5 +1,7 @@
 # 立脚点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijiaodian.md)
+
 <p><span class="chinese">家庭关系使她在政治上获得了初步的立脚点。</span><span class="english">Family connections gave her a toehold in politics.</span></p>
 
 <p><span class="chinese">我一找到立脚点马上就通知你。</span><span class="english">Once I have found a place to live, I will notify you.</span></p>

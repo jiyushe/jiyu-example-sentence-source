@@ -1,5 +1,7 @@
 # rareness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rareness.md)
+
 <p><span class="chinese">他的粗鲁使我不愿意答应他的请求。</span><span class="english">His rareness disinclined me to grant his request.</span></p>
 
 <p><span class="chinese">信用的稀缺程度决定着交易双方对信用的利用水平。</span><span class="english">Rareness of utilizing credit decides the level of credit by both parties of a transaction.</span></p>

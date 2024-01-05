@@ -1,5 +1,7 @@
 # Scottish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scottish.md)
+
 <p><span class="chinese">那妳可以尝试穿苏格兰裙啊！</span><span class="english">Then you can try Scottish kilts !</span></p>
 
 <p><span class="chinese">我们都知道苏格兰花格布。</span><span class="english">We all know about Scottish tartan.</span></p>

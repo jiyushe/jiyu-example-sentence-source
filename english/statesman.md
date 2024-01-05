@@ -1,5 +1,7 @@
 # statesman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statesman.md)
+
 <p><span class="chinese">政治家必须有开创精神。</span><span class="english">A statesman must display initiative.</span></p>
 
 <p><span class="chinese">他是个声名显赫的政治家。</span><span class="english">He is a statesman of great eminence.</span></p>

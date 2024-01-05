@@ -1,5 +1,7 @@
 # attendee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attendee.md)
+
 <p><span class="chinese">就像一位与会者总结的，“我们从哪里来？</span><span class="english">As one attendee summed up, “Where have we come from?</span></p>
 
 <p><span class="chinese">“我们聚在在那个美丽的地方，”一位出席聚会的员工回忆。</span><span class="english">"All of us together, in that beautiful place, " one attendee recalls.</span></p>

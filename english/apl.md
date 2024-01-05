@@ -1,5 +1,7 @@
 # apl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apl.md)
+
 <p><span class="chinese">砒霜治疗急性骨髓性白血病的临床结果已经得到了确认。</span><span class="english">The clinical result of arsenic in treating APL is well-established.</span></p>
 
 <p><span class="chinese">用户可向教育局递交修讀应用学习课程的学生的入讀资料。</span><span class="english">User can submit the enrolment details of students taking ApL courses.</span></p>

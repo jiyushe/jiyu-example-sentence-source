@@ -1,5 +1,7 @@
 # congener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congener.md)
+
 <p><span class="chinese">其技术指标达到国际同类产品水平。</span><span class="english">The technical indicator achieved the international congener products level.</span></p>
 
 <p><span class="chinese">同类色如橘红与大红、绿与青绿色等。</span><span class="english">Congener color if tangerine and bright red, green wait with viridescence color.</span></p>

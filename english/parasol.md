@@ -1,5 +1,7 @@
 # parasol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parasol.md)
+
 <p><span class="chinese">你替我买把小阳伞行吗？要素底子的。</span><span class="english">Will you get me a quite plain parasol ?</span></p>
 
 <p><span class="chinese">太阳伞下的时候会点哪种鸡尾酒？</span><span class="english">Which cocktail do you order when lying under the parasol?</span></p>

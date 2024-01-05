@@ -1,5 +1,7 @@
 # 生水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshui_2.md)
+
 <p><span class="chinese">祝你此后风生水起，阳光永远照耀你，上帝永与你同在。</span><span class="english">May the wind always be at your back.</span></p>
 
 <p><span class="chinese">他建议不喝生水。</span><span class="english">He propose not to drink unboiled water.</span></p>

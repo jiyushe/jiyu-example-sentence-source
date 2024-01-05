@@ -1,5 +1,7 @@
 # eventful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eventful.md)
+
 <p><span class="chinese">今年对中国来说是不平凡的一年。</span><span class="english">This year is eventful for China.</span></p>
 
 <p><span class="chinese">2008年是极不平凡的一年。</span><span class="english">The year 2008 was truly  eventful.</span></p>

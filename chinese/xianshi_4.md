@@ -1,5 +1,7 @@
 # 县市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshi_4.md)
+
 <p><span class="chinese">他已经决定去外县市做生意。</span><span class="english">He has decided to look for business in other provinces.</span></p>
 
 <p><span class="chinese">来分享台南县市的涂鸦照吧！</span><span class="english">You Can Post Tainan City & Tainan County Graffiti Photos !</span></p>

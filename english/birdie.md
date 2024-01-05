@@ -1,5 +1,7 @@
 # birdie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birdie.md)
+
 <p><span class="chinese">对不起，小鸟。</span><span class="english">Oh! Sorry birdie.</span></p>
 
 <p><span class="chinese">你杀死了小鸟？</span><span class="english">You killed a birdie?</span></p>

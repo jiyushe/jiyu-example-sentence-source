@@ -1,5 +1,7 @@
 # diamondback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diamondback.md)
+
 <p><span class="chinese">我的响尾蛇冷启动后就没有反映了。</span><span class="english">PROBLEM My diamondback does not respond after a cold boot.</span></p>
 
 <p><span class="chinese">这张未标日期的图片上的钻纹龟有两个头。</span><span class="english">The diamondback terrapin in this undated photo has two heads.</span></p>

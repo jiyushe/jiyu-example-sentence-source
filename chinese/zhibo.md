@@ -1,5 +1,7 @@
 # 直播
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibo.md)
+
 <p><span class="chinese">这台晚会是现场直播还是录播？</span><span class="english">Was the performance live or record?</span></p>
 
 <p><span class="chinese">新鲜全接触，直播好生活。</span><span class="english">Fresh whole contact, live good life.</span></p>

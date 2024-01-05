@@ -1,5 +1,7 @@
 # ourself
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ourself.md)
+
 <p><span class="chinese">太长期不要浸没ourself在这处罚。</span><span class="english">Don't immerse ourself in this infliction too long.</span></p>
 
 <p><span class="chinese">最伟大的艺术、最伟大的礼物就是“活现自己”。</span><span class="english">The greatest art, the greatest gift, is to be ourself.</span></p>

@@ -1,5 +1,7 @@
 # mistaken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistaken.md)
+
 <p><span class="chinese">那对孪生子准搞错了。</span><span class="english">The twins were mistaken.</span></p>
 
 <p><span class="chinese">我显然是错误的.</span><span class="english">I was apparently mistaken.</span></p>

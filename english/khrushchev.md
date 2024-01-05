@@ -1,5 +1,7 @@
 # khrushchev
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/khrushchev.md)
+
 <p><span class="chinese">赫鲁晓夫参观行程开始了。</span><span class="english">The traveling Khrushchev roadshow had begun.</span></p>
 
 <p><span class="chinese">赫鲁晓夫先生提议为身边几位女性干杯。</span><span class="english">Mr. Khrushchev suggested they drink to several women standing by.</span></p>

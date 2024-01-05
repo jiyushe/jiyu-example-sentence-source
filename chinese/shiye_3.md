@@ -1,5 +1,7 @@
 # 视野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiye_3.md)
+
 <p><span class="chinese">烟雾模糊了我们的视野。</span><span class="english">Smog obscures our view.</span></p>
 
 <p><span class="chinese">他消失在视野之外。</span><span class="english">He vanished out of sight.</span></p>

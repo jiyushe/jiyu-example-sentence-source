@@ -1,5 +1,7 @@
 # 地理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dili_2.md)
+
 <p><span class="chinese">地图和地理空间数据。</span><span class="english">Maps and geospatial data.</span></p>
 
 <p><span class="chinese">你支持地理定位吗？</span><span class="english">Do you support Geolocation?</span></p>

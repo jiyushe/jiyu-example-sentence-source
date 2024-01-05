@@ -1,5 +1,7 @@
 # spokesman 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spokesman.md)
+
 <p><span class="chinese">他被指派为发言人。</span><span class="english">He was made spokesman.</span></p>
 
 <p><span class="chinese">新闻发言人表示，Brig。</span><span class="english">The spokesman said that "Brig."</span></p>

@@ -1,5 +1,7 @@
 # fallible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fallible.md)
+
 <p><span class="chinese">那么装傻就是最好的选择，这是没选择时最不易犯错的方法。</span><span class="english">So foolish was the best choice, there is no choice most not fallible method.</span></p>
 
 <p><span class="chinese">他认为，既然所有的知识来自经验，那么这些知识本质上是很容易出错的。</span><span class="english">He thinks because all our knowledge comes from experience, it's inherently fallible.</span></p>

@@ -1,5 +1,7 @@
 # aspirant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspirant.md)
+
 <p><span class="chinese">修习者需导引内力，亦即对决心毫不动摇的承诺。</span><span class="english">The aspirant must channel the fire, an unwavering commitment of intent.</span></p>
 
 <p><span class="chinese">而且这还是一个德高望重的人，那如果换作一个“普通”修行者又会怎么样呢？</span><span class="english">And this was a respected teacher. What would happen to the “normal” aspirant?</span></p>

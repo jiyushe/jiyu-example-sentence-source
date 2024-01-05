@@ -1,5 +1,7 @@
 # 晴和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinghe_1.md)
+
 <p><span class="chinese">天气晴和。</span><span class="english">It's a fine, warm day.</span></p>
 
 <p><span class="chinese">今天晴和很热。我休息。</span><span class="english">Today was clear and hot.</span></p>

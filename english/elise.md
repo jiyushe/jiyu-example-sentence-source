@@ -1,5 +1,7 @@
 # elise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elise.md)
+
 <p><span class="chinese">克莱拉?埃莉斯</span><span class="english">Clara Elise.</span></p>
 
 <p><span class="chinese">克莱尔·伊莉斯</span><span class="english">Claire Elise.</span></p>

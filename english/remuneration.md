@@ -1,5 +1,7 @@
 # remuneration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remuneration.md)
+
 <p><span class="chinese">聘方未按时支付受聘方报酬。</span><span class="english">Party A fails to pay remuneration for Party B on time.</span></p>
 
 <p><span class="chinese">每天要想着不计报酬地为别人做点事情。</span><span class="english">A day to think without remuneration for others to do something.</span></p>

@@ -1,5 +1,7 @@
 # staph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staph.md)
+
 <p><span class="chinese">她仅仅死于葡萄球菌感染?。</span><span class="english">She died from a simple staph infection?</span></p>
 
 <p><span class="chinese">但是你可能要提防葡萄球菌感染。</span><span class="english">But you might worry about staph infections.</span></p>

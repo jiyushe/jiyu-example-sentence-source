@@ -1,5 +1,7 @@
 # 演法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanfa.md)
+
 <p><span class="chinese">没有一颗打开的心灵，就没有任何光之语的运演法则可在能量场中正确转动。</span><span class="english">Without an open heart none of the Language of Light algorithms spin properly in the field.</span></p>
 
 <p><span class="chinese">当这些运演法则通过能量场的转动而移动时，就会产生特定的彩色光芒并允许原谅从而诞生。</span><span class="english">As the algorithms are moved through the field rotation, certain pastel hues form and allow for the birth of forgiveness.</span></p>

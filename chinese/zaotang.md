@@ -1,5 +1,7 @@
 # 澡堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaotang.md)
+
 <p><span class="chinese">澡堂是违法的。</span><span class="english">Bathhouses are against the law.</span></p>
 
 <p><span class="chinese">刷子，澡堂碗，蜡烛。</span><span class="english">Brushes, Hammam Bowls, Candles.</span></p>

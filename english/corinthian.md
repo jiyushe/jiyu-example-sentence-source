@@ -1,5 +1,7 @@
 # corinthian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corinthian.md)
+
 <p><span class="chinese">正面是由56个柯林斯式的柱子装饰。</span><span class="english">The facade is adorned with 56 Corinthian columns.</span></p>
 
 <p><span class="chinese">哥林多人怎样以自己的教义去为他们所作的事辩护?。</span><span class="english">How did the Corinthian justify their acts with their creed?</span></p>

@@ -1,5 +1,7 @@
 # propyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propyl.md)
+
 <p><span class="chinese">本研究还提供了该反应涉及丙基自由基的证据。</span><span class="english">Evidence of the propyl radicals existing during the reaction was presented.</span></p>
 
 <p><span class="chinese">本文介绍了三羟甲基丙烷三丙烯酸酯新的合成方法。</span><span class="english">In this paper a new synthesis of Trimethylol propyl triacrylate was introduced.</span></p>

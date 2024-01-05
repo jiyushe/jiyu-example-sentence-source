@@ -1,5 +1,7 @@
 # elbow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elbow.md)
+
 <p><span class="chinese">我刮伤了我的手肘。</span><span class="english">I scraped my elbow.</span></p>
 
 <p><span class="chinese">为什么要用我的肘和脚呢？</span><span class="english">Why use my elbow and foot?</span></p>

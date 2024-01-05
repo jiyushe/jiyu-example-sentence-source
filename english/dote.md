@@ -1,5 +1,7 @@
 # dote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dote.md)
+
 <p><span class="chinese">溺爱我直到永久。</span><span class="english">To dote upon me ever.</span></p>
 
 <p><span class="chinese">我就是喜欢吃涂黄油的热司康饼！</span><span class="english">I just dote on hot buttered scones!</span></p>

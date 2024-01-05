@@ -1,5 +1,7 @@
 # balcony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balcony.md)
+
 <p><span class="chinese">楼座上的呢？</span><span class="english">Anyone in the balcony?</span></p>
 
 <p><span class="chinese">圆形大厅东面阳台的摄像头。</span><span class="english">Rotunda east balcony camera.</span></p>

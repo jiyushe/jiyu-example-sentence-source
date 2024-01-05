@@ -1,5 +1,7 @@
 # 推卸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuixie.md)
+
 <p><span class="chinese">我敢说你不会去尝试推卸。</span><span class="english">Go ahead try it, I dare you.</span></p>
 
 <p><span class="chinese">不推卸责任。</span><span class="english">Not to shirk responsibility.</span></p>

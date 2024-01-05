@@ -1,5 +1,7 @@
 # 东岳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongyue.md)
+
 <p><span class="chinese">当太阳跃上东岳峰顶的树梢。</span><span class="english">When the sun rising on the tree top of Dongyue Mount.</span></p>
 
 <p><span class="chinese">东岳泰山以其日出的景色而著称。</span><span class="english">Tai Mountain, the east Yue, most famous for its sunrise.</span></p>

@@ -1,5 +1,7 @@
 # 奋不顾身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenbugushen.md)
+
 <p><span class="chinese">母亲，是默默给予我们帮助，为我们奋不顾身的人。</span><span class="english">It is mothers that help us silently and devotedly.</span></p>
 
 <p><span class="chinese">他奋不顾身地把遇溺的男孩救了起来。</span><span class="english">He saved the drowning boy at the risk of his own life.</span></p>

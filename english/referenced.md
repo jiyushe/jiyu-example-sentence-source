@@ -1,5 +1,7 @@
 # referenced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/referenced.md)
+
 <p><span class="chinese">Titor提到了两场不同的战争。</span><span class="english">Titor referenced two different wars.</span></p>
 
 <p><span class="chinese">一个步骤是加载所有引用的模式。</span><span class="english">One is to load all referenced schemas.</span></p>

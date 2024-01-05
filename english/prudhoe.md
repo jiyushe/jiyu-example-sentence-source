@@ -1,5 +1,7 @@
 # prudhoe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prudhoe.md)
+
 <p><span class="chinese">普拉德霍湾以外的滞留北极熊。</span><span class="english">Stranded polar bears on Cross Island outside Prudhoe Bay.</span></p>
 
 <p><span class="chinese">我已经充满从费尔班克斯向普拉德霍湾约12个小时。</span><span class="english">I had ridden from Fairbanks to Prudhoe Bay in about 12 hours.</span></p>

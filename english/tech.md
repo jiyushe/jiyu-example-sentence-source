@@ -1,5 +1,7 @@
 # tech
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tech.md)
+
 <p><span class="chinese">对于所有米技术。</span><span class="english">For all M. Tech.</span></p>
 
 <p><span class="chinese">我是一个实验室里的技术员。</span><span class="english">I am a lab tech.</span></p>

@@ -1,5 +1,7 @@
 # anomalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anomalistic.md)
+
 <p><span class="chinese">讨论了不规则边界处理算法。</span><span class="english">The processing algorithm of anomalistic boundary is discussed.</span></p>
 
 <p><span class="chinese">该模型可适用于不规则边界河道的数值模拟。</span><span class="english">This model can be used to the numerical simulation of anomalistic river boundary.</span></p>

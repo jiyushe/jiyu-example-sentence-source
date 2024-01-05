@@ -1,5 +1,7 @@
 # nether
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nether.md)
+
 <p><span class="chinese">凋零生物不再会失去抗火效果。</span><span class="english">Nether mobs no longer lose fire resistance.</span></p>
 
 <p><span class="chinese">幽灵一击通常发动4级的巨力重击。</span><span class="english">Nether Strike always triggers a level 4 Greater Bash.</span></p>

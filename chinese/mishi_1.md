@@ -1,5 +1,7 @@
 # 觅食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mishi_1.md)
+
 <p><span class="chinese">可是现在这条巨鳄又重新回来觅食了。</span><span class="english">But the mugger is back on the prowl.</span></p>
 
 <p><span class="chinese">与武藏觅食，多好的招待啊！</span><span class="english">Foraging with Musashi, what a treat!</span></p>

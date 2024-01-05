@@ -1,5 +1,7 @@
 # 狂叫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangjiao.md)
+
 <p><span class="chinese">他向狂叫的狗扔出一块石头。</span><span class="english">He pegged a stone at the barking dog.</span></p>
 
 <p><span class="chinese">他拖着我的毯子狂叫。</span><span class="english">He was pulling at my blankets and barking.</span></p>

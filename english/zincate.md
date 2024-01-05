@@ -1,5 +1,7 @@
 # zincate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zincate.md)
+
 <p><span class="chinese">采用缩合、季碱化及酯化反应研制了一种“178”碱性锌酸盐镀锌光亮剂。</span><span class="english">A called "178" brightening agent for alkaline zincate bath was prepared by condensation, quaternization.</span></p>
 
 <p><span class="chinese">并对现有的镀液分析方法进行了比较，确定了快速连续测定化学镀锡液中亚锡离子和次磷酸钠的方法。</span><span class="english">Co-deposition of zincate and tin ion on zinc electrode were conducted to investigate the effect of tin ion on electro-deposition of zincate.</span></p>

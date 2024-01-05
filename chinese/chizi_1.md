@@ -1,5 +1,7 @@
 # 赤字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chizi_1.md)
+
 <p><span class="chinese">购物癖害得我总是赤字！</span><span class="english">I'm in the red.</span></p>
 
 <p><span class="chinese">第二点，贸易赤字。</span><span class="english">Next, the trade deficit.</span></p>

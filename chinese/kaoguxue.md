@@ -1,5 +1,7 @@
 # 考古学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaoguxue.md)
+
 <p><span class="chinese">他专修考古学。</span><span class="english">He specializes in archaeology.</span></p>
 
 <p><span class="chinese">难道是考古学方面的教授？</span><span class="english">Is the professor of archeology?</span></p>

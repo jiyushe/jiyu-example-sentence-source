@@ -1,5 +1,7 @@
 # 中彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongcai.md)
+
 <p><span class="chinese">我想中彩票。</span><span class="english">I want to win the lottery.</span></p>
 
 <p><span class="chinese">希望我没让她中彩。</span><span class="english">Let's hope I didn't knock her up.</span></p>

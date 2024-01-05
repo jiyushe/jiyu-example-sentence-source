@@ -1,5 +1,7 @@
 # undiminished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undiminished.md)
+
 <p><span class="chinese">而是琴瑟共鸣，却非相和之曲。</span><span class="english">But harps resonance, but not and undiminished.</span></p>
 
 <p><span class="chinese">这就意味着她们的脑力没有下降。</span><span class="english">This means their brain power remains undiminished.</span></p>

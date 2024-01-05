@@ -1,5 +1,7 @@
 # 变奏曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzouqu.md)
+
 <p><span class="chinese">谜语变奏曲，作品36之9，猎手。</span><span class="english">Enigma Variations, Op. 36, No. 9, Nimrod.</span></p>
 
 <p><span class="chinese">回收油的绿色变奏曲工作坊。</span><span class="english">Green Variations of Waste Vegetable oils.</span></p>

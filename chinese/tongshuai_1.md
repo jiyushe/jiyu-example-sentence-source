@@ -1,5 +1,7 @@
 # 统率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshuai_1.md)
+
 <p><span class="chinese">国王统率武装部队。</span><span class="english">The King commands the armed forces.</span></p>
 
 <p><span class="chinese">舰长统率舰上全体官兵。</span><span class="english">Which officer in the ship navigates ?</span></p>

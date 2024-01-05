@@ -1,5 +1,7 @@
 # 零食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingshi.md)
+
 <p><span class="chinese">准备一个零食盒。</span><span class="english">Have a treat box.</span></p>
 
 <p><span class="chinese">我们怎么计划零食？</span><span class="english">So how to we snack?</span></p>

@@ -1,5 +1,7 @@
 # underwent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underwent.md)
+
 <p><span class="chinese">梅森女士于去年动了手术。</span><span class="english">Last year, Ms. Mason underwent surgery.</span></p>
 
 <p><span class="chinese">探险家们遭受到许多痛若。</span><span class="english">The explorers  underwent much suffering.</span></p>

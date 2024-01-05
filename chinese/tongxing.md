@@ -1,5 +1,7 @@
 # 同姓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxing.md)
+
 <p><span class="chinese">我与你同姓。</span><span class="english">I'm your namesake.</span></p>
 
 <p><span class="chinese">上人人网，结识同名同姓人。</span><span class="english">Everyone on the network, the same name to get to know people.</span></p>

@@ -1,5 +1,7 @@
 # 扩编
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuobian.md)
+
 <p><span class="chinese">军队扩编是沿着传统路线开始的。</span><span class="english">The augmentation of the army began along traditional lines.</span></p>
 
 <p><span class="chinese">1989年，魔术队以特许扩编的身份开始建队，随后一直不停的流浪发展。</span><span class="english">The Magic started as an expansion team in 1989 and has remained rickety since.</span></p>

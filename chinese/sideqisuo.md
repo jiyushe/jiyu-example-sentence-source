@@ -1,5 +1,7 @@
 # 死得其所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sideqisuo.md)
+
 <p><span class="chinese">死得其所，流芳百世。</span><span class="english">The end makes all equal.</span></p>
 
 <p><span class="chinese">为祖国的利益而献身，就是死得其所。</span><span class="english">Devoted to the interests of the motherland, is It is a worthy death.</span></p>

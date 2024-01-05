@@ -1,5 +1,7 @@
 # teachable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teachable.md)
+
 <p><span class="chinese">温柔意味着你有一个受教的精神。</span><span class="english">Meekness means you have a teachable spirit.</span></p>
 
 <p><span class="chinese">这些民是谦卑的也是可教的。</span><span class="english">These nations will be humble and teachable.</span></p>

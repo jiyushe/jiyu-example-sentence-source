@@ -1,5 +1,7 @@
 # maxine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maxine.md)
+
 <p><span class="chinese">比尔2002年去世，现在马克西妮已经90岁了。</span><span class="english">He died in 2002. Maxine is now 90.</span></p>
 
 <p><span class="chinese">在今天的节目里，皮特打电话给Maxine想恢复谈判。</span><span class="english">In today's listening, Peter calls Maxine back to restart talks.</span></p>

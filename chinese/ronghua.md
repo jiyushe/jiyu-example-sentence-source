@@ -1,5 +1,7 @@
 # 绒花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ronghua.md)
+
 <p><span class="chinese">我最喜欢的歌曲是雪绒花。</span><span class="english">The song I love best is Edelweiss.</span></p>
 
 <p><span class="chinese">雪绒花是非常抗病。</span><span class="english">Edelweiss is very disease resistant.</span></p>

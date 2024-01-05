@@ -1,5 +1,7 @@
 # 新陈代谢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinchendaixie.md)
+
 <p><span class="chinese">重新调整组织的新陈代谢</span><span class="english">Reprogramming organizational metabolism</span></p>
 
 <p><span class="chinese">它们也能促进你的新陈代谢。</span><span class="english">They can also help boost your metabolism.</span></p>

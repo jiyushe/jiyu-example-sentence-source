@@ -1,5 +1,7 @@
 # 立秋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liqiu.md)
+
 <p><span class="chinese">大暑之后，时序到了立秋。</span><span class="english">Dashu, the timing to Liqiu.</span></p>
 
 <p><span class="chinese">我赶紧问，就是今天立秋吗？</span><span class="english">I hastened to ask you today Liqiu?</span></p>

@@ -1,5 +1,7 @@
 # subvert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subvert.md)
+
 <p><span class="chinese">那么对于HBV而言，它是如何破坏天然免疫应答的？</span><span class="english">For HBV, how does it subvert the innate immune response?</span></p>
 
 <p><span class="chinese">叛军曾企图推翻现政府。</span><span class="english">The rebellious troops attempted to subvert the present government.</span></p>

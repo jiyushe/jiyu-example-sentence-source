@@ -1,5 +1,7 @@
 # 下部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabu.md)
+
 <p><span class="chinese">铺在新地板下部。</span><span class="english">Use under the new wooden floor.</span></p>
 
 <p><span class="chinese">“盲孔”下部衬垫能够防止泄漏。</span><span class="english">Blind-hole lower bushing prevents leakage.</span></p>

@@ -1,5 +1,7 @@
 # 饮食业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshiye.md)
+
 <p><span class="chinese">你在饮食业上有实际经验吗？</span><span class="english">Have you in fact had any experience in catering?</span></p>
 
 <p><span class="chinese">这些人认为麦当劳扼杀了独特的文化，对地方饮食业形成了威胁。</span><span class="english">They feel it stamps out unique culture and threatens local eating places.</span></p>

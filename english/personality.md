@@ -1,5 +1,7 @@
 # personality 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/personality.md)
+
 <p><span class="chinese">双重性格？</span><span class="english">A double personality?</span></p>
 
 <p><span class="chinese">他没有个性。</span><span class="english">He lacks personality.</span></p>

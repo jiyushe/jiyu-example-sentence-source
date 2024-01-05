@@ -1,5 +1,7 @@
 # 毛毛雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maomaoyu.md)
+
 <p><span class="chinese">那天下着毛毛雨。</span><span class="english">It was drizzling that day.</span></p>
 
 <p><span class="chinese">下毛毛雨用烤肉汁。</span><span class="english">Drizzled with Barbecue Sauce.</span></p>

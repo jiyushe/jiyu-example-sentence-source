@@ -1,5 +1,7 @@
 # speedway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speedway.md)
+
 <p><span class="chinese">他对高速公路赛车着了迷。</span><span class="english">He is crazy about speedway racing.</span></p>
 
 <p><span class="chinese">那时我正在69号高速公路上。</span><span class="english">I was at altamont speedway in '69.</span></p>

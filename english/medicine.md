@@ -1,5 +1,7 @@
 # medicine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medicine.md)
+
 <p><span class="chinese">放射医学。</span><span class="english">Radiation Medicine.</span></p>
 
 <p><span class="chinese">共感是良药。</span><span class="english">Sympathy is medicine.</span></p>

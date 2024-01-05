@@ -1,5 +1,7 @@
 # 笔直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizhi_5.md)
+
 <p><span class="chinese">旗竿笔直地竖着。</span><span class="english">Put the pole up straight.</span></p>
 
 <p><span class="chinese">烟囱笔直地矗立着。</span><span class="english">The chimney plumbs perfectly.</span></p>

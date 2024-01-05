@@ -1,5 +1,7 @@
 # 乡规民约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangguiminyue.md)
+
 <p><span class="chinese">越南农村的乡规民约已经存在了许多世纪。</span><span class="english">The Vietnamese countryside village rules had existed for many centuries.</span></p>
 
 <p><span class="chinese">所以，这样的乡规民约的作用不应被不切实际的高估。</span><span class="english">Therefore, such village rules function should not by the impractical overestimation.</span></p>

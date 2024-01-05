@@ -1,5 +1,7 @@
 # junky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/junky.md)
+
 <p><span class="chinese">我是政治迷。</span><span class="english">I'm a politics junky.</span></p>
 
 <p><span class="chinese">你现在是一名冒险狂了?。</span><span class="english">So, you're an adrenaline junky now?</span></p>

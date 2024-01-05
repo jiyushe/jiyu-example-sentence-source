@@ -1,5 +1,7 @@
 # spur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spur.md)
+
 <p><span class="chinese">我从来没有长过骨刺。</span><span class="english">I never had a bone spur.</span></p>
 
 <p><span class="chinese">可能引燃通货膨胀。</span><span class="english">They might spur inflation.</span></p>

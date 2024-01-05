@@ -1,5 +1,7 @@
 # suggestive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suggestive.md)
+
 <p><span class="chinese">他有选择性地用词。</span><span class="english">Frost has made a suggestive choice of words.</span></p>
 
 <p><span class="chinese">让我们期待他剑走偏锋而引人思考的演讲。</span><span class="english">Let's expect his bizarrerie and yet suggestive speech.</span></p>

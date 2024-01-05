@@ -1,5 +1,7 @@
 # hexahedron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hexahedron.md)
+
 <p><span class="chinese">在三维空间中，将混凝土梁以八节点六面体单元网格进行显示。</span><span class="english">In three-dimensional space, displaying the concrete beam by 8 nodes and hexahedron.</span></p>
 
 <p><span class="chinese">利用映射法生成高速列车头部流场的六面体贴体网格。</span><span class="english">Body-fitted hexahedron grid was obtained of high speed train head surface based on mapping approach.</span></p>

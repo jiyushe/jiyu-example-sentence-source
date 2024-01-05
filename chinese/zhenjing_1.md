@@ -1,5 +1,7 @@
 # 镇静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjing_1.md)
+
 <p><span class="chinese">你必须保持镇静。</span><span class="english">You must observe calm.</span></p>
 
 <p><span class="chinese">它们还可以镇静。</span><span class="english">They may also be sedating.</span></p>

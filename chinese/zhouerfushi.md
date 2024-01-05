@@ -1,5 +1,7 @@
 # 周而复始
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouerfushi.md)
+
 <p><span class="chinese">但除了周而复始，就别无选择。</span><span class="english">But there is no choice but to go on.</span></p>
 
 <p><span class="chinese">这是我一天的开始，周而复始。</span><span class="english">It was my start to the day, every day.</span></p>

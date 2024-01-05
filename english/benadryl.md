@@ -1,5 +1,7 @@
 # benadryl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benadryl.md)
+
 <p><span class="chinese">他希望保持她海拉明在未来两个星期。</span><span class="english">He wants to keep her on benadryl for the next two weeks.</span></p>
 
 <p><span class="chinese">海拉明是一种称为抗组胺类药物的一部分。</span><span class="english">Benadryl is part of a class of drugs called antihistamines.</span></p>

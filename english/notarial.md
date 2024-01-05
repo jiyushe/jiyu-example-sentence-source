@@ -1,5 +1,7 @@
 # notarial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notarial.md)
+
 <p><span class="chinese">就用你的毕业证书去公证一下就好了。</span><span class="english">The diploma that uses you goes notarial good.</span></p>
 
 <p><span class="chinese">有开展公证业务所必需的资金。</span><span class="english">Having the fund necessary to carry out notarial work.</span></p>

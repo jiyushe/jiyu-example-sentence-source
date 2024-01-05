@@ -1,5 +1,7 @@
 # detainment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detainment.md)
+
 <p><span class="chinese">她的父亲在他被扣留的牙科设备。</span><span class="english">Her father made dental devices during his detainment.</span></p>
 
 <p><span class="chinese">她选了两次也没选择我我还拿什么去挽留呢？</span><span class="english">She had made two choices but not me, what I could do for detainment?</span></p>

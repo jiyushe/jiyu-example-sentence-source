@@ -1,5 +1,7 @@
 # 住持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuchi_1.md)
+
 <p><span class="chinese">住持给胡穿上一件小小的棕色僧袍。</span><span class="english">The head monk gave Hu a tiny, brown robe to wear.</span></p>
 
 <p><span class="chinese">终于有一天，住持允许她去闯闯世界了。</span><span class="english">Finally, one day, the master allows her to go out.</span></p>

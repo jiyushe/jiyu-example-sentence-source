@@ -1,5 +1,7 @@
 # filth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filth.md)
+
 <p><span class="chinese">我觉得你是个脏东西。</span><span class="english">I think you are filth.</span></p>
 
 <p><span class="chinese">你怎麽能看这种乌七八糟的东西?。</span><span class="english">How can you read such filth?</span></p>

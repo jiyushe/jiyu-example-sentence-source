@@ -1,5 +1,7 @@
 # 孤儿院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gueryuan.md)
+
 <p><span class="chinese">这是个孤儿院</span><span class="english">This is an orphanage.</span></p>
 
 <p><span class="chinese">洁茹是孤儿院里年纪最大的孩子，她今年已经十八岁了。</span><span class="english">she was already 18 years old.</span></p>

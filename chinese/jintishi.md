@@ -1,5 +1,7 @@
 # 近体诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jintishi.md)
+
 <p><span class="chinese">同时，从音韵学的角度，对不同版本刘长卿近体诗的用韵字进行了校勘。</span><span class="english">From the viewpoint of the phonology , we emend the words in different editions of Liu's poems.</span></p>
 
 <p><span class="chinese">竹枝词作为一种不同于近体诗的诗歌体裁，在语言方面有其独特的特点。</span><span class="english">Zhuzhici as a verse which is different from the recent genre of poetry, has its own unique characteristics in the language.</span></p>

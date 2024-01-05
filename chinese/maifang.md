@@ -1,5 +1,7 @@
 # 买方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maifang.md)
+
 <p><span class="chinese">行市对买方有利。</span><span class="english">The market favors the buyers.</span></p>
 
 <p><span class="chinese">卖方响应，向买方报价。</span><span class="english">The seller responds with the quote.</span></p>

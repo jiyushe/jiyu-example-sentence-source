@@ -1,5 +1,7 @@
 # 分子式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzishi.md)
+
 <p><span class="chinese">水的化学分子式是H0?。</span><span class="english">The chemical formula for water is H0?.</span></p>
 
 <p><span class="chinese">水的化学分子式是h2o。</span><span class="english">The chemical formula for water is H2O.</span></p>

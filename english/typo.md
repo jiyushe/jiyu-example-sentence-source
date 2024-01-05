@@ -1,5 +1,7 @@
 # typo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typo.md)
+
 <p><span class="chinese">我们对此感到抱歉。</span><span class="english">We regret the typo.</span></p>
 
 <p><span class="chinese">然而，这一数字并非是编印有误。</span><span class="english">But it wasn't a typo.</span></p>

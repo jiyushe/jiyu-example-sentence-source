@@ -1,5 +1,7 @@
 # 疙瘩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geda.md)
+
 <p><span class="chinese">他没能解开她心中的疙瘩。</span><span class="english">He hadn't unravelled the knot in her heart.</span></p>
 
 <p><span class="chinese">添加点到你的脸，疙瘩FacePaint。</span><span class="english">Add spots to your face with Pimple FacePaint.</span></p>

@@ -1,5 +1,7 @@
 # 十之八九
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhibajiu.md)
+
 <p><span class="chinese">十之八九我们队会赢。</span><span class="english">Ten to one but our team will win.</span></p>
 
 <p><span class="chinese">李先生这次十之八九会成功。</span><span class="english">Ten to one, Mr. Lee will succeed this time.</span></p>

@@ -1,5 +1,7 @@
 # dietary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dietary.md)
+
 <p><span class="chinese">铁膳食中存在两种不同的形式。</span><span class="english">Dietary iron exists in two different forms.</span></p>
 
 <p><span class="chinese">医生强制一套严格的饮食起居制度。</span><span class="english">The doctor enforced a strict dietary regimen.</span></p>

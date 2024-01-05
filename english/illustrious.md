@@ -1,5 +1,7 @@
 # illustrious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illustrious.md)
+
 <p><span class="chinese">我们知道有些人是鼎鼎大名的强有力的无神论者。</span><span class="english">There are, as we know, powerful and illustrious atheists.</span></p>
 
 <p><span class="chinese">成为声名赫赫的骑手或者弓箭手！</span><span class="english">Become the caballero with illustrious reputation or bow hand!</span></p>

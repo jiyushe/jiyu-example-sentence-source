@@ -1,5 +1,7 @@
 # rover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rover.md)
+
 <p><span class="chinese">乐行童军的铭言是服务。</span><span class="english">SERVICE is the Motto of Rover Scouts.</span></p>
 
 <p><span class="chinese">漫游者号证实了火星确曾有水存在。</span><span class="english">Rover confirms presence of water on Mars.</span></p>

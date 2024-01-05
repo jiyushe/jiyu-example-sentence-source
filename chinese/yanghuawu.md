@@ -1,5 +1,7 @@
 # 氧化物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghuawu.md)
+
 <p><span class="chinese">硫氧化物。</span><span class="english">Sulfur oxides.</span></p>
 
 <p><span class="chinese">镨钕氧化物的价格随之上涨。</span><span class="english">The oxide prices rose.</span></p>

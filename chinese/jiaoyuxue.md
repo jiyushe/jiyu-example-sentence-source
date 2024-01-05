@@ -1,5 +1,7 @@
 # 教育学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyuxue.md)
+
 <p><span class="chinese">教育学是什么？</span><span class="english">Pedagogic what be?</span></p>
 
 <p><span class="chinese">我方今是一名长途教育学员。</span><span class="english">Iwim now a distance educ student.</span></p>

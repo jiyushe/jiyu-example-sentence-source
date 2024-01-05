@@ -1,5 +1,7 @@
 # 首屈一指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouquyizhi.md)
+
 <p><span class="chinese">在五台山是首屈一指的。</span><span class="english">In the Mount are second to none.</span></p>
 
 <p><span class="chinese">成果在全行首屈一指。</span><span class="english">In the forefront of all results.</span></p>

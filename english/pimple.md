@@ -1,5 +1,7 @@
 # pimple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pimple.md)
+
 <p><span class="chinese">你指旅行还是痘子？</span><span class="english">The trip or the pimple?- Both.</span></p>
 
 <p><span class="chinese">添加点到你的脸，疙瘩FacePaint。</span><span class="english">Add spots to your face with Pimple FacePaint.</span></p>

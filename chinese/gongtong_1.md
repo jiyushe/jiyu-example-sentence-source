@@ -1,5 +1,7 @@
 # 珙桐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongtong_1.md)
+
 <p><span class="chinese">区内原始森林浩瀚，植被十分丰富。有银杏、红豆杉、珙桐等。</span><span class="english">It boasts vast forests and varieties of vegetation such as gingko, yew and Gong Tong.</span></p>
 
 <p><span class="chinese">而且，多稀有珍贵树种，如珙桐、鹅掌楸、杜仲、银杏等。</span><span class="english">Moreover, many rare and precious species, such as Davidia, Liriodendron, Eucommia, such as Ginkgo biloba.</span></p>

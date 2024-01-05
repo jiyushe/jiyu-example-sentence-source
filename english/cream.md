@@ -1,5 +1,7 @@
 # cream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cream.md)
+
 <p><span class="chinese">要奶精还是糖?。</span><span class="english">Cream or sugar?</span></p>
 
 <p><span class="chinese">噢，这个乳霜？</span><span class="english">Oh, this cream?</span></p>

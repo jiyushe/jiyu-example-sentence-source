@@ -1,5 +1,7 @@
 # lovingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lovingly.md)
+
 <p><span class="chinese">她深情地抚摸着他的面颊。</span><span class="english">She caressed his cheek lovingly.</span></p>
 
 <p><span class="chinese">他常被亲切地称为活字典。</span><span class="english">He is often lovingly termed a walking dictionary.</span></p>

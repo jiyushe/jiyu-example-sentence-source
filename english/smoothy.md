@@ -1,5 +1,7 @@
 # smoothy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smoothy.md)
+
 <p><span class="chinese">蓝莓冰激凌冰沙。</span><span class="english">Blueberry Ice-cream smoothy.</span></p>
 
 <p><span class="chinese">事情发展得非常顺利，因而没有多少事情要做。</span><span class="english">Things are going so smoothy that there isn't much to do.</span></p>

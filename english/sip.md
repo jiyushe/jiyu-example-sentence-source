@@ -1,5 +1,7 @@
 # sip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sip.md)
+
 <p><span class="chinese">你想呷一口吗？</span><span class="english">Do you want a sip?</span></p>
 
 <p><span class="chinese">嘿能让我先喝口吗?。</span><span class="english">Hey. Can I have a sip?</span></p>

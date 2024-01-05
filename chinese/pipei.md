@@ -1,5 +1,7 @@
 # 匹配
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pipei.md)
+
 <p><span class="chinese">如果是的话，就匹配它。</span><span class="english">If so, it matches it.</span></p>
 
 <p><span class="chinese">找相匹配的袜子。</span><span class="english">Look for matching sock.</span></p>

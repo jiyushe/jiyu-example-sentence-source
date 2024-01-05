@@ -1,5 +1,7 @@
 # portrayal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portrayal.md)
+
 <p><span class="chinese">该书中的人物写得有血有肉。</span><span class="english">The portrayal of the characters in the novel is lifelike.</span></p>
 
 <p><span class="chinese">秋叶不争功，我想这就是她真实写照。</span><span class="english">Akiba undisputed power, I think this is a true portrayal of her.</span></p>

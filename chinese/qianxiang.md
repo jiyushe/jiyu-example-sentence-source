@@ -1,5 +1,7 @@
 # 前项
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianxiang.md)
+
 <p><span class="chinese">比的前项除以后项所得的商，叫做比值。</span><span class="english">The quotient of the first term and the last term is called the ratio.</span></p>
 
 <p><span class="chinese">未依前项规定者，本会得依就业服务法规定废止其工作许可。</span><span class="english">Bureau of Employment may abolish the work permit if you act against the rules.</span></p>

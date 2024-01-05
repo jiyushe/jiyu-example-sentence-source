@@ -1,5 +1,7 @@
 # 可见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kejian.md)
+
 <p><span class="chinese">没有可见的象素。</span><span class="english">No Visible Pixelation.</span></p>
 
 <p><span class="chinese">海水是那么的清澈，粒粒可见。</span><span class="english">Sea water is so clear!</span></p>

@@ -1,5 +1,7 @@
 # 瘀血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxue_1.md)
+
 <p><span class="chinese">脏器组织均可见缺血损伤、瘀血、出血的病理改变。</span><span class="english">There were ischemia, blood stasis, and bleeding of the organ tissue.</span></p>
 
 <p><span class="chinese">脑出血与瘀血、痰水、火热、毒邪密切相关。</span><span class="english">Acute period of intracerebral hemorrhage is associated with Blood Stasis.</span></p>

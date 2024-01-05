@@ -1,5 +1,7 @@
 # apophysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apophysis.md)
+
 <p><span class="chinese">隆起的或与之相关的。</span><span class="english">Of or relating to an apophysis.</span></p>
 
 <p><span class="chinese">并有多个突起呈不规则形状。</span><span class="english">And the multiple apophysis showed irregular shape.</span></p>

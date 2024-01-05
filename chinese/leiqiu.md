@@ -1,5 +1,7 @@
 # 垒球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiqiu.md)
+
 <p><span class="chinese">垒球是实心的。</span><span class="english">The softball is solid.</span></p>
 
 <p><span class="chinese">我输了最后一场垒球赛。</span><span class="english">I lost my last softball game.</span></p>

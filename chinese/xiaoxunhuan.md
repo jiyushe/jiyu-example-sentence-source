@@ -1,5 +1,7 @@
 # 小循环
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxunhuan.md)
+
 <p><span class="chinese">然后再写一个小循环？</span><span class="english">OK. I know how to do that, right?</span></p>
 
 <p><span class="chinese">我知道怎么做对吧？写一个小循环,我所需要做的就是运行一个for循环。</span><span class="english">is run a FOR loop here. I'm going to let the number of chickens be in this range.</span></p>

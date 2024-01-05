@@ -1,5 +1,7 @@
 # chian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chian.md)
+
 <p><span class="chinese">你认为妇女应得到怎样的工作和权利？</span><span class="english">What do you think about women's situation in Chian?</span></p>
 
 <p><span class="chinese">供应链风险严重制约供应链的和谐发展。</span><span class="english">It limites the development of supply chian seriously.</span></p>

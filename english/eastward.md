@@ -1,5 +1,7 @@
 # eastward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eastward.md)
+
 <p><span class="chinese">小王向东走去。</span><span class="english">Soapy walked eastward.</span></p>
 
 <p><span class="chinese">大江东去。</span><span class="english">Eastward flows the Changjiang River.</span></p>

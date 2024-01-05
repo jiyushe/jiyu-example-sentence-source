@@ -1,5 +1,7 @@
 # carney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carney.md)
+
 <p><span class="chinese">球队宣布他们在当地时间星期三签下了这位26岁的球员。</span><span class="english">The team announced the deal with the 26-year-old Carney on Wednesday.</span></p>
 
 <p><span class="chinese">问道射杀的合法性，Carney读起了已经准备好的报告。</span><span class="english">Asked about the legality of the killing, Carney read from a prepared statement.</span></p>

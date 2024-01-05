@@ -1,5 +1,7 @@
 # tier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tier.md)
+
 <p><span class="chinese">“月剑”现在是“二等的升级”。</span><span class="english">Moon Glaive is now a tier 2 upgrade.</span></p>
 
 <p><span class="chinese">联合应用程序层中的所有节点。</span><span class="english">Federate all nodes in the application tier.</span></p>

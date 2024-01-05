@@ -1,5 +1,7 @@
 # trapper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trapper.md)
+
 <p><span class="chinese">那个捕鸟人也真是不嫌麻烦，实在太笨了。</span><span class="english">The trapper is really troublesome too clumsy.</span></p>
 
 <p><span class="chinese">这张北极光的照片拍摄到克里克联盟发光的地平线。</span><span class="english">This display of northern lights sets the horizon aglow at Trapper Creek.</span></p>

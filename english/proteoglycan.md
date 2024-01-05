@@ -1,5 +1,7 @@
 # proteoglycan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proteoglycan.md)
+
 <p><span class="chinese">这种物质可能是蛋白多糖的侧链。</span><span class="english">The chains might be side chains of proteoglycan.</span></p>
 
 <p><span class="chinese">对新合成的胶原和蛋白多糖进行特征性描述。</span><span class="english">Characterization of newly synthesized collagen and proteoglycan was performed.</span></p>

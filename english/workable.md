@@ -1,5 +1,7 @@
 # workable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workable.md)
+
 <p><span class="chinese">这样的方案是行得通的.</span><span class="english">Such a scheme is workable.</span></p>
 
 <p><span class="chinese">他提出的办法是行得通的。</span><span class="english">His suggestion is workable.</span></p>

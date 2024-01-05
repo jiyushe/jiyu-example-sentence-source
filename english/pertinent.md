@@ -1,5 +1,7 @@
 # pertinent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pertinent.md)
+
 <p><span class="chinese">第3章为相关性分析。</span><span class="english">Chapter 3 is the pertinent analysis.</span></p>
 
 <p><span class="chinese">今天看来这点恰好正中要害。</span><span class="english">All this looks particularly pertinent today.</span></p>

@@ -1,5 +1,7 @@
 # 农田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongtian.md)
+
 <p><span class="chinese">农田开始变热。</span><span class="english">Farmland has become hot.</span></p>
 
 <p><span class="chinese">有几块农田被淹没了。</span><span class="english">Several farms were overflown.</span></p>

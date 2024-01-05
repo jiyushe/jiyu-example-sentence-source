@@ -1,5 +1,7 @@
 # 主线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuxian.md)
+
 <p><span class="chinese">主干是我们的主线。</span><span class="english">The trunk is our mainline.</span></p>
 
 <p><span class="chinese">主线剧情﹐逃出荒岛的墓场。</span><span class="english">Escape from the graveyard of terror.</span></p>

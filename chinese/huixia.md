@@ -1,5 +1,7 @@
 # 麾下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huixia.md)
+
 <p><span class="chinese">居伊国王和麾下精锐卫队。</span><span class="english">King Guy and his bodyguard.</span></p>
 
 <p><span class="chinese">萨拉丁和麾下精锐卫队。</span><span class="english">The Sultan Saladin and his bodyguard.</span></p>

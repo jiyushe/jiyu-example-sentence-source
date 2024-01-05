@@ -1,5 +1,7 @@
 # 稍事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoshi_1.md)
+
 <p><span class="chinese">稍事休息，并提出玩曲奇推土机！</span><span class="english">Take a break and come play Cookie Dozer!</span></p>
 
 <p><span class="chinese">先让我们在这里喝点水稍事休息和颂赞这草甸。</span><span class="english">But let's rest here and drink some water and admire the meadow.</span></p>

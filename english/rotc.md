@@ -1,5 +1,7 @@
 # rotc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotc.md)
+
 <p><span class="chinese">你可以报名参加后备军官训练队，</span><span class="english">You can sign up for what's called ROTC</span></p>
 
 <p><span class="chinese">“失去ROTC的奖学金对我的经济状况影响很大，”他说。</span><span class="english">"The financial impact for losing an ROTC scholarship is substantial, " he said.</span></p>

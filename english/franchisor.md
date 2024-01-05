@@ -1,5 +1,7 @@
 # franchisor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/franchisor.md)
+
 <p><span class="chinese">关于特许人的效益。</span><span class="english">On the benefits to the Franchisor.</span></p>
 
 <p><span class="chinese">特许经营权授权方是否提供融资?。</span><span class="english">Does the franchisor offer any form of financing?</span></p>

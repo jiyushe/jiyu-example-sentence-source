@@ -1,5 +1,7 @@
 # syrupy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syrupy.md)
+
 <p><span class="chinese">买糖浆吧。这么久以来，我一直想吃的。</span><span class="english">Buy the syrupy sweets. For so long.</span></p>
 
 <p><span class="chinese">一种浆状的酸，由甘油和甘油醛氧化后获得。</span><span class="english">A syrupy acid obtained by oxidation of glycerol or glyceraldehyde.</span></p>

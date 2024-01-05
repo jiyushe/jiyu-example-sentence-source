@@ -1,5 +1,7 @@
 # yugoslavian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yugoslavian.md)
+
 <p><span class="chinese">我出生在南斯拉夫的马其顿的奥赫里德乡村。</span><span class="english">I was born on the village of Vivcani near Ohrid in Yugoslavian Macedonia.</span></p>
 
 <p><span class="chinese">国际社会在独立问题上的态度也有分歧。</span><span class="english">The international community is also divided over independence for the Yugoslavian republic.</span></p>

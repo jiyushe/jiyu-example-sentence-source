@@ -1,5 +1,7 @@
 # totter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/totter.md)
+
 <p><span class="chinese">但是如今你的头秃了，约翰。</span><span class="english">Now we maun totter down, John.</span></p>
 
 <p><span class="chinese">而再过几天我们把它抛在路旁。</span><span class="english">A few more days till we totter on the road.</span></p>

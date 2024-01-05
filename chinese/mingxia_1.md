@@ -1,5 +1,7 @@
 # 明虾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingxia_1.md)
+
 <p><span class="chinese">我们点吉利明虾好吗？</span><span class="english">Shall we order prawn cutlet?</span></p>
 
 <p><span class="chinese">祝贺你咖喱明虾烧得好。</span><span class="english">Congratulations on your prawn curry.</span></p>

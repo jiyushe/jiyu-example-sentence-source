@@ -1,5 +1,7 @@
 # admonishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admonishment.md)
+
 <p><span class="chinese">另外，还有一些嘲讽和规劝的声音。</span><span class="english">Moreover, but also has some taunts and the admonishment sound.</span></p>
 
 <p><span class="chinese">约翰农业与一位著名的警示服务，我们的国家。</span><span class="english">John farming with a famous admonishment serve our country that.</span></p>

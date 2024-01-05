@@ -1,5 +1,7 @@
 # 英豪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinghao.md)
+
 <p><span class="chinese">我要做你的英豪，宝贝。</span><span class="english">I can become your hero, baby.</span></p>
 
 <p><span class="chinese">我上的是英豪小学。</span><span class="english">I go to Yinghao Primary School.</span></p>

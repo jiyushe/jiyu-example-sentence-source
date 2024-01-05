@@ -1,5 +1,7 @@
 # 轻慢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingman.md)
+
 <p><span class="chinese">其他信件则暗示了对法规的轻慢态度。</span><span class="english">Other missives suggest a cavalier attitude to the rules.</span></p>
 
 <p><span class="chinese">爱玛现在想象得出，为什么她的关心屡屡受到轻慢。</span><span class="english">Emma could now imagine why her own attentions had been slighted.</span></p>

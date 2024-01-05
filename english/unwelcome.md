@@ -1,5 +1,7 @@
 # unwelcome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwelcome.md)
+
 <p><span class="chinese">但此举在校园内并不受欢迎。</span><span class="english">But this is unwelcome on campus.</span></p>
 
 <p><span class="chinese">他行为粗野，这使他在我们家不受欢迎。</span><span class="english">His vulgarity made him unwelcome in our home.</span></p>

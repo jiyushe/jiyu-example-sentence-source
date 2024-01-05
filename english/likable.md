@@ -1,5 +1,7 @@
 # likable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/likable.md)
+
 <p><span class="chinese">最可爱的人将会得到晋升。</span><span class="english">The most likable people get promoted.</span></p>
 
 <p><span class="chinese">这样看来还是虚拟的世界更可爱一些。</span><span class="english">A free virtual world seems more likable.</span></p>

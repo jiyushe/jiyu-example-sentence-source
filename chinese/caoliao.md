@@ -1,5 +1,7 @@
 # 草料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoliao.md)
+
 <p><span class="chinese">你看到草料场了吗？</span><span class="english">Do you see the hay field?</span></p>
 
 <p><span class="chinese">牛和羊依靠草料喂养。</span><span class="english">Cows and sheep depends forage to feed.</span></p>

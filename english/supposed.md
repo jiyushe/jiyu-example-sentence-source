@@ -1,5 +1,7 @@
 # supposed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supposed.md)
+
 <p><span class="chinese">我们怎么可能未卜先知？</span><span class="english">How were we supposed to know?</span></p>
 
 <p><span class="chinese">她该当跟你在一路。</span><span class="english">Shes supposed to be with you.</span></p>

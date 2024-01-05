@@ -1,5 +1,7 @@
 # higher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/higher.md)
+
 <p><span class="chinese">升高，-你确定？</span><span class="english">Higher. -Really?</span></p>
 
 <p><span class="chinese">车价走高?</span><span class="english">HIGHER CAR PRICES?</span></p>

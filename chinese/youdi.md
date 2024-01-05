@@ -1,5 +1,7 @@
 # 有底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdi.md)
+
 <p><span class="chinese">法律是有底的深渊。</span><span class="english">Law is a bottomless pit.</span></p>
 
 <p><span class="chinese">它有顶有底。</span><span class="english">It has top.It has a bottom.</span></p>

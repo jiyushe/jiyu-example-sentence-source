@@ -1,5 +1,7 @@
 # 露水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lushui_1.md)
+
 <p><span class="chinese">这丰盈的露水！</span><span class="english">The Debauchee of Dews!</span></p>
 
 <p><span class="chinese">露水是种好东西，先生。</span><span class="english">Dew is a good thing, sir.</span></p>

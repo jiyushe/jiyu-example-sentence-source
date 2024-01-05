@@ -1,5 +1,7 @@
 # tuneful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuneful.md)
+
 <p><span class="chinese">我喜欢这个节日，它代表家庭的和谐。</span><span class="english">I love the festival , it stand for the tuneful of us.</span></p>
 
 <p><span class="chinese">令我大吃一惊的是，他弹琴的声音即有规律又稳健。</span><span class="english">To my amazement, the music he plays out sounds both tuneful and vigorous.</span></p>

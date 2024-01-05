@@ -1,5 +1,7 @@
 # cramming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cramming.md)
+
 <p><span class="chinese">我正在临时抱佛脚，准备考试。</span><span class="english">I'm cramming for the test.</span></p>
 
 <p><span class="chinese">徐是填鸭式，而是学习。</span><span class="english">SEO is cramming instead of studying.</span></p>

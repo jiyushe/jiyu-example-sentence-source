@@ -1,5 +1,7 @@
 # nessie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nessie.md)
+
 <p><span class="chinese">“尼西”是怎么进入尼斯湖的呢？</span><span class="english">How did Nessie get into Loch Nessie?</span></p>
 
 <p><span class="chinese">这个东西与有关尼斯湖水怪的描述一模一样。</span><span class="english">It`s just like the descriptions of Nessie.`</span></p>

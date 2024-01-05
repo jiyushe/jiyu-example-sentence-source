@@ -1,5 +1,7 @@
 # plasticizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasticizer.md)
+
 <p><span class="chinese">高硬度，高光泽，可防止可塑剂移行。</span><span class="english">Hardness, Gloss, Prevent migration of plasticizer.</span></p>
 
 <p><span class="chinese">什么是塑化剂?大陆饮料有塑化剂吗?。</span><span class="english">What is a plasticizer? Mainland drinks are plasticizers it?</span></p>

@@ -1,5 +1,7 @@
 # controversy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/controversy.md)
+
 <p><span class="chinese">你可能听过这样一场论战。</span><span class="english">You've heard the controversy.</span></p>
 
 <p><span class="chinese">这也是争议所在。</span><span class="english">And that's where that controversy is.</span></p>

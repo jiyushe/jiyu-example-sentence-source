@@ -1,5 +1,7 @@
 # 中心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxin.md)
+
 <p><span class="chinese">“中心城”是独一无二的吗？</span><span class="english">Is The Center unique?</span></p>
 
 <p><span class="chinese">他谈话时漫无中心。</span><span class="english">He rambles in his talk.</span></p>

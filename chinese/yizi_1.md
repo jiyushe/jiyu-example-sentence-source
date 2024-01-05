@@ -1,5 +1,7 @@
 # 椅子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizi_1.md)
+
 <p><span class="chinese">没有椅子。</span><span class="english">No chair.</span></p>
 
 <p><span class="chinese">在椅子上。</span><span class="english">On the chair.</span></p>

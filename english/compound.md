@@ -1,5 +1,7 @@
 # compound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compound.md)
+
 <p><span class="chinese">让我们来组成一个合成词。</span><span class="english">Let's make a compound word.</span></p>
 
 <p><span class="chinese">围场上一只公鸡啼起来了。</span><span class="english">A cock crowed in the compound.</span></p>

@@ -1,5 +1,7 @@
 # brooklyn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brooklyn.md)
+
 <p><span class="chinese">布鲁克林？布鲁克林很大。</span><span class="english">Brooklyn? Brooklyn is huge.</span></p>
 
 <p><span class="chinese">你能跟我们讲讲布鲁克林吗？</span><span class="english">Can you tell us about Brooklyn?</span></p>

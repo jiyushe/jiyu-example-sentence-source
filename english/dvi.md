@@ -1,5 +1,7 @@
 # dvi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dvi.md)
+
 <p><span class="chinese">旧的HDTV也有DVI接口。</span><span class="english">Older HDTVs have DVI ports too.</span></p>
 
 <p><span class="chinese">这就使得DVI在连接功能上更灵活。</span><span class="english">This makes DVI one of the more versatile newer connectors.</span></p>

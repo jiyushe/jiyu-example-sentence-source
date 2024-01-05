@@ -1,5 +1,7 @@
 # artware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artware.md)
+
 <p><span class="chinese">龙海市星茂工艺品有限公司。</span><span class="english">Longhai Xingmao Artware Co. , Ltd.</span></p>
 
 <p><span class="chinese">房子里陈设着几件工艺品。</span><span class="english">There is some artware set out in the room.</span></p>

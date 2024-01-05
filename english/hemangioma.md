@@ -1,5 +1,7 @@
 # hemangioma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemangioma.md)
+
 <p><span class="chinese">怎样才能把血管瘤去掉？</span><span class="english">How ability hemangioma take out?</span></p>
 
 <p><span class="chinese">肾动脉血管瘤怎么医治？</span><span class="english">Kidney artery hemangioma how cure?</span></p>

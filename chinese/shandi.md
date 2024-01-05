@@ -1,5 +1,7 @@
 # 山地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shandi.md)
+
 <p><span class="chinese">是照耶和华的吩咐，将约书亚所求的城，就是以法莲山地的亭拿西拉城，给了他。</span><span class="english">as the LORD had commanded.</span></p>
 
 <p><span class="chinese">我是一名狂热的山地车手。</span><span class="english">I'm an avid mountain biker.</span></p>

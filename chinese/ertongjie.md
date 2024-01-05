@@ -1,5 +1,7 @@
 # 儿童节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ertongjie.md)
+
 <p><span class="chinese">儿童节快乐！</span><span class="english">Happy Children's Day!</span></p>
 
 <p><span class="chinese">祝儿童节快乐！</span><span class="english">Happy Children's Day wish!</span></p>

@@ -1,5 +1,7 @@
 # competent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/competent.md)
+
 <p><span class="chinese">他是一位很有才干的法学家。</span><span class="english">He was a very competent lawyer.</span></p>
 
 <p><span class="chinese">宝莉是个能干的磋商者。</span><span class="english">Polly is a competent negotiator.</span></p>

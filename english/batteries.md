@@ -1,5 +1,7 @@
 # batteries
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/batteries.md)
+
 <p><span class="chinese">这些电池能防止漏电吗?。</span><span class="english">Are these batteries leak-proof?</span></p>
 
 <p><span class="chinese">万炮齐发。</span><span class="english">All the batteries fired at once.</span></p>

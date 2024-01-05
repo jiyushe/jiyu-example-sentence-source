@@ -1,5 +1,7 @@
 # sept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sept.md)
+
 <p><span class="chinese">大选等于是在9月15日就结束了。</span><span class="english">The election ended Sept. 15.</span></p>
 
 <p><span class="chinese">其中一个是有关布农族的。</span><span class="english">One is about Bunun tribe. In Sept.</span></p>

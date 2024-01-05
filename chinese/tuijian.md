@@ -1,5 +1,7 @@
 # 推荐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuijian.md)
+
 <p><span class="chinese">没有推荐。</span><span class="english">No recommendation.</span></p>
 
 <p><span class="chinese">一些推荐。</span><span class="english">Some recommendations.</span></p>

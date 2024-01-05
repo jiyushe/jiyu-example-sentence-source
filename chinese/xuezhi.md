@@ -1,5 +1,7 @@
 # 学制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuezhi.md)
+
 <p><span class="chinese">法学院的学制是三年，</span><span class="english">So there are three years of law school,</span></p>
 
 <p><span class="chinese">全日制学习形式，学制三年。</span><span class="english">Full-time study form, system for three years.</span></p>

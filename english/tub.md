@@ -1,5 +1,7 @@
 # tub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tub.md)
+
 <p><span class="chinese">爸爸充当我的洗澡盆！</span><span class="english">Daddy is my bath tub !</span></p>
 
 <p><span class="chinese">浴盆里的水还满着。</span><span class="english">The tub is still full.</span></p>

@@ -1,5 +1,7 @@
 # 慢条斯理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mantiaosili.md)
+
 <p><span class="chinese">他说话做事总是慢条斯理的。</span><span class="english">He always speaks slowly and acts unhurriedly.</span></p>
 
 <p><span class="chinese">他打开铁门，慢条斯理地用中文对我说</span><span class="english">He opened the gate and spoke slowly in my language.</span></p>

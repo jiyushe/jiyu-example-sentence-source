@@ -1,5 +1,7 @@
 # suitability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suitability.md)
+
 <p><span class="chinese">湿地利用适宜性评价。</span><span class="english">Wetland suitability assessment for utilizations.</span></p>
 
 <p><span class="chinese">并对自建民居提出适宜性的改进措施。</span><span class="english">Self-built houses and suitability of the improvements made.</span></p>

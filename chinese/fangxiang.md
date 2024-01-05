@@ -1,5 +1,7 @@
 # 方向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangxiang.md)
+
 <p><span class="chinese">照这个方向走。</span><span class="english">Go in this direction.</span></p>
 
 <p><span class="chinese">为什么会改变学习方向了？</span><span class="english">What made you change?</span></p>

@@ -1,5 +1,7 @@
 # 奔涌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benyong.md)
+
 <p><span class="chinese">老夫人读着读着，泪水如小河流水般奔涌而出。</span><span class="english">Tears flowed like river.</span></p>
 
 <p><span class="chinese">隐士血流奔涌，太阳穴随之悸动。</span><span class="english">His temples throbbed with the rush of blood.</span></p>

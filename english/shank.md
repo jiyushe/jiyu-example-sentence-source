@@ -1,5 +1,7 @@
 # shank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shank.md)
+
 <p><span class="chinese">他感到有粒子弹击中了他的小腿。</span><span class="english">He felt a bullet hit his shank.</span></p>
 
 <p><span class="chinese">注射成型调整的TPU柄。</span><span class="english">Injection-molded tuned TPU shank.</span></p>

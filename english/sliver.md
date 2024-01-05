@@ -1,5 +1,7 @@
 # sliver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sliver.md)
+
 <p><span class="chinese">双条喂入。</span><span class="english">Double sliver in feed.</span></p>
 
 <p><span class="chinese">条子中总棉结数量高。</span><span class="english">High total neps in sliver.</span></p>

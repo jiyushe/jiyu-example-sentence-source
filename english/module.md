@@ -1,5 +1,7 @@
 # module
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/module.md)
+
 <p><span class="chinese">我在这里有一个模块。</span><span class="english">I now have a module.</span></p>
 
 <p><span class="chinese">视频显示模块?。</span><span class="english">VDM? Video Display Module?</span></p>

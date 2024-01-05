@@ -1,5 +1,7 @@
 # fantastically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fantastically.md)
+
 <p><span class="chinese">她自创自唱她的歌，并弹奏一手非常棒的钢琴。</span><span class="english">She writes, sings her own songs and also plays piano fantastically.</span></p>
 
 <p><span class="chinese">车队领导或者技术总管，他都能出色完成。</span><span class="english">Team principal or technical director, he can do fantastically well.</span></p>

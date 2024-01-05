@@ -1,5 +1,7 @@
 # 工人阶级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongrenjieji.md)
+
 <p><span class="chinese">第2步改变工人阶级的糊口，开心肠说。</span><span class="english">Step 2 Change class to life, happy to say.</span></p>
 
 <p><span class="chinese">因为工人阶级拥有所有生产资料。</span><span class="english">The workers owned the means of production.</span></p>

@@ -1,5 +1,7 @@
 # drilling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drilling.md)
+
 <p><span class="chinese">继续钻进到总井深。</span><span class="english">Resume drilling to T. D.</span></p>
 
 <p><span class="chinese">他在一个井队工作。</span><span class="english">He works ina drilling crew.</span></p>

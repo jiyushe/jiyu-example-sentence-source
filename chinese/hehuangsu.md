@@ -1,5 +1,7 @@
 # 核黄素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hehuangsu.md)
+
 <p><span class="chinese">并含有硫胺素、核黄素、尼克酸等多种维生素。</span><span class="english">And contains thiamine, riboflavin, niacin and other vitamins.</span></p>
 
 <p><span class="chinese">甜菜叶是核黄素、铁以及维生素A和C的来源。</span><span class="english">Beetgreens are a source of riboflavin, iron, and vitamins A and C.</span></p>

@@ -1,5 +1,7 @@
 # keynesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keynesian.md)
+
 <p><span class="chinese">结果是明显的凯恩斯主义者。</span><span class="english">And the results were clearly Keynesian.</span></p>
 
 <p><span class="chinese">这个时代的赤字鹰派就是下个时代的凯恩斯主义者。</span><span class="english">One era’s deficit hawk is another era’s Keynesian.</span></p>

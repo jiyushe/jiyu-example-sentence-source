@@ -1,5 +1,7 @@
 # 丢失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diushi.md)
+
 <p><span class="chinese">它丢失了一个原子。</span><span class="english">It loses an ion.</span></p>
 
 <p><span class="chinese">我们丢失了这个框架。</span><span class="english">We lose this frame.</span></p>

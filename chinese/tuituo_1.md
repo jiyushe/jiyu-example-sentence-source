@@ -1,5 +1,7 @@
 # 推脱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuituo_1.md)
+
 <p><span class="chinese">吉姆将罪责推脱得一干二净。</span><span class="english">Jim kissed off all raps.</span></p>
 
 <p><span class="chinese">这是我们常用的推脱之词。</span><span class="english">This is an excuse that we all use.</span></p>

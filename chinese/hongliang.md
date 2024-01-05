@@ -1,5 +1,7 @@
 # 宏亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongliang.md)
+
 <p><span class="chinese">他声音宏亮、讲话清楚。</span><span class="english">He speaks loudly and clearly.</span></p>
 
 <p><span class="chinese">我们的老师声音宏亮。</span><span class="english">Our teacher has a loud voice.</span></p>

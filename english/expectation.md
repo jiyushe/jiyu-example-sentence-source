@@ -1,5 +1,7 @@
 # expectation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expectation.md)
+
 <p><span class="chinese">那是错误的期望。</span><span class="english">That's wrong expectation.</span></p>
 
 <p><span class="chinese">结果是出乎意外的。</span><span class="english">The result is beyond expectation.</span></p>

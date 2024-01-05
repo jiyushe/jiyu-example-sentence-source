@@ -1,5 +1,7 @@
 # mince
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mince.md)
+
 <p><span class="chinese">你有碎肉吗?。</span><span class="english">Have you any mince?</span></p>
 
 <p><span class="chinese">她们矫揉造作，一本正经还撅着嘴。</span><span class="english">They mince and prim and pout.</span></p>

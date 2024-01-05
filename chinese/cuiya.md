@@ -1,5 +1,7 @@
 # 催芽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuiya.md)
+
 <p><span class="chinese">本文介绍了利用塑料袋进行马铃薯催芽的新方法。</span><span class="english">This paper presented a new method of potato bud forcing.</span></p>
 
 <p><span class="chinese">你可以用温水浸泡种子来催芽。</span><span class="english">You can sprout the seeds fast by soaking with warm water.</span></p>

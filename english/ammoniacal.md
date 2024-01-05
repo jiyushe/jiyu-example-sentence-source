@@ -1,5 +1,7 @@
 # ammoniacal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ammoniacal.md)
+
 <p><span class="chinese">目的观察饲养室内氨浓度过高，对引起金黄地鼠肺炎的影响。</span><span class="english">Objective To observe the relation between higher ammoniacal gas and gold hamster's pneumonia in the feeding room.</span></p>
 
 <p><span class="chinese">氨态氮和淀粉消耗率为大曲生香力的特征指标。</span><span class="english">The characteristic indexes of Daqu aroma-producing capability include ammoniacal nitrogen and the specific consumption of amylum.</span></p>

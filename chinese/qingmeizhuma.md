@@ -1,5 +1,7 @@
 # 青梅竹马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingmeizhuma.md)
+
 <p><span class="chinese">他们是青梅竹马。</span><span class="english">They were childhood sweethearts.</span></p>
 
 <p><span class="chinese">我们过去在高中里青梅竹马。</span><span class="english">We were high school sweethearts.</span></p>

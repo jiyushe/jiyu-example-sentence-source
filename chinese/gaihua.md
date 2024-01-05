@@ -1,5 +1,7 @@
 # 钙化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaihua.md)
+
 <p><span class="chinese">钙化可能存在。</span><span class="english">Calcifications may be present.</span></p>
 
 <p><span class="chinese">将坡面长期钙化而形成的。</span><span class="english">Calcified the surface of the river bed.</span></p>

@@ -1,5 +1,7 @@
 # radiolarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiolarian.md)
+
 <p><span class="chinese">南海南部晚中新世的放射虫及其环境探讨。</span><span class="english">Radiolarian distribution in surface sediments of the northern and central South China Sea.</span></p>
 
 <p><span class="chinese">相反，放射虫动物群在法门期得到了重大发展。</span><span class="english">In contrast, during the Famennian the radiolarian fauna was well developed and diversified.</span></p>

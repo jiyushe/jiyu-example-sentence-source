@@ -1,5 +1,7 @@
 # quadrupole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadrupole.md)
+
 <p><span class="chinese">那是自四极废，九州裂，女娲补天之后出现的难得的好日子。</span><span class="english">It was quadrupole since abolished-Kyushu, Nu Wa Sky after the rare good day.</span></p>
 
 <p><span class="chinese">最引人注目的新方法是使用“四极矩共振技术”。</span><span class="english">The most radical of the new approaches uses "quadrupole resonance technology".</span></p>

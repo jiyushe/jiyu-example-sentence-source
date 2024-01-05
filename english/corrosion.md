@@ -1,5 +1,7 @@
 # corrosion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corrosion.md)
+
 <p><span class="chinese">他锈蚀了时代广场中。</span><span class="english">He corrosion of Times Square.</span></p>
 
 <p><span class="chinese">这种腐蚀也是电池腐蚀。</span><span class="english">This corrosion is also galvanic.</span></p>

@@ -1,5 +1,7 @@
 # altruism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/altruism.md)
+
 <p><span class="chinese">我不认为奉献是无聊的。</span><span class="english">I don't think altruism is boring.</span></p>
 
 <p><span class="chinese">忘我主义的反面是自私自利。</span><span class="english">Altruism is the opposite of selfishness.</span></p>

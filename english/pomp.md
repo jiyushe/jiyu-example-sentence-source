@@ -1,5 +1,7 @@
 # pomp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pomp.md)
+
 <p><span class="chinese">看着我，我的儿子，我不爱奢华。</span><span class="english">Look at me, my son. I do not love pomp.</span></p>
 
 <p><span class="chinese">浮华的金紫，绝非画师所能描绘。</span><span class="english">Art cannot rival this pomp of purple and gold.</span></p>

@@ -1,5 +1,7 @@
 # reincarnation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reincarnation.md)
+
 <p><span class="chinese">转世轮回是确有其事还是无稽之谈？</span><span class="english">Is reincarnation fact or fable?</span></p>
 
 <p><span class="chinese">戈薇是桔梗的转世。</span><span class="english">Kagome is the reincarnation of Kikyo.</span></p>

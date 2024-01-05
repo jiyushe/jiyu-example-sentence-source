@@ -1,5 +1,7 @@
 # 辛酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinsuan_2.md)
+
 <p><span class="chinese">他给我们讲述了一段漫长的辛酸史。</span><span class="english">He told us a long tale of woe.</span></p>
 
 <p><span class="chinese">她满腔仇恨和辛酸。</span><span class="english">She was full of hatred and bitterness.</span></p>

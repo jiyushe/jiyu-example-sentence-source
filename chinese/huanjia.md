@@ -1,5 +1,7 @@
 # 还价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanjia.md)
+
 <p><span class="chinese">我们的还价是有道理的。</span><span class="english">It is with reason to huckster.</span></p>
 
 <p><span class="chinese">他还价30000英镑买这所房子。</span><span class="english">He offered ￡30000 for the house.</span></p>

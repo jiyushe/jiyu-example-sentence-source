@@ -1,5 +1,7 @@
 # 好景不长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haojingbuchang.md)
+
 <p><span class="chinese">但这种合作或许好景不长。</span><span class="english">The cooperation may not last.</span></p>
 
 <p><span class="chinese">可是，好景不长，几个月后，他再次陷入麻烦。</span><span class="english">Again, he runs into trouble within months.</span></p>

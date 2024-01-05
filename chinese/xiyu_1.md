@@ -1,5 +1,7 @@
 # 细语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyu_1.md)
+
 <p><span class="chinese">我明白如何轻声细语。</span><span class="english">I know just how to whisper.</span></p>
 
 <p><span class="chinese">她说起话来总是娇声细语的。</span><span class="english">She speaks in a sweet voice.</span></p>

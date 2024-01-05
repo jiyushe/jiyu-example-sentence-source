@@ -1,5 +1,7 @@
 # bp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bp.md)
+
 <p><span class="chinese">如何提高降压达标率?。</span><span class="english">How to improve BP control rate?</span></p>
 
 <p><span class="chinese">本计画由英国石油公司及福特汽车赞助。</span><span class="english">The initiative is funded by BP and Ford.</span></p>

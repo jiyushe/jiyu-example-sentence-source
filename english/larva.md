@@ -1,5 +1,7 @@
 # larva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/larva.md)
+
 <p><span class="chinese">幼虫有五龄。</span><span class="english">The larva has 5 instars.</span></p>
 
 <p><span class="chinese">幼虫将会从卵中孵出来。</span><span class="english">The larva hatches from the egg.</span></p>

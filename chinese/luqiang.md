@@ -1,5 +1,7 @@
 # 颅腔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luqiang.md)
+
 <p><span class="chinese">骨性颅腔，脑组织不可压缩。</span><span class="english">Brain tissue can't compress in bony cranial cavity.</span></p>
 
 <p><span class="chinese">封闭的颅腔内急性脑肿胀是非常危险的。</span><span class="english">Acute brain swelling in the closed cranial cavity is serious.</span></p>

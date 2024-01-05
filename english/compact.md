@@ -1,5 +1,7 @@
 # compact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compact.md)
+
 <p><span class="chinese">车厢里紧凑而舒适。</span><span class="english">It’s compact but cosy.</span></p>
 
 <p><span class="chinese">我较喜欢小型车。</span><span class="english">I prefer a compact car.</span></p>

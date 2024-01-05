@@ -1,5 +1,7 @@
 # asteroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asteroid.md)
+
 <p><span class="chinese">这颗小行星需要花238年绕太阳运行一周。</span><span class="english">This asteroid takes 238 years to orbit the sun.</span></p>
 
 <p><span class="chinese">编号为2012号小行星被命名为“郭守敬星”。</span><span class="english">Asteroid 2012 Guo Shou-Jing was named after him.</span></p>

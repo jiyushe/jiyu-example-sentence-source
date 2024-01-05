@@ -1,5 +1,7 @@
 # robot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robot.md)
+
 <p><span class="chinese">它是机器狗。</span><span class="english">It's a robot dog.</span></p>
 
 <p><span class="chinese">人只是机器人</span><span class="english">We're just a robot.</span></p>

@@ -1,5 +1,7 @@
 # fodder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fodder.md)
+
 <p><span class="chinese">当你有炮灰支援的时候才使用高斯炮。</span><span class="english">Use only with own cannon fodder.</span></p>
 
 <p><span class="chinese">优质饲料使犍牛长肉。</span><span class="english">Good fodder fleshed the steers up.</span></p>

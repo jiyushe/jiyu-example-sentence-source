@@ -1,5 +1,7 @@
 # 一言不发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyanbufa.md)
+
 <p><span class="chinese">他站在那里一言不发。</span><span class="english">He just stood there speechless.</span></p>
 
 <p><span class="chinese">他怒视着我，却一言不发。</span><span class="english">He glowered at me but said nothing.</span></p>

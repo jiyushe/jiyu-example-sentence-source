@@ -1,5 +1,7 @@
 # entrepreneurship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrepreneurship.md)
+
 <p><span class="chinese">我想我的创业精神是与生俱来的。</span><span class="english">I guess entrepreneurship is in my blood.</span></p>
 
 <p><span class="chinese">这有一个企业家精神的定义。</span><span class="english">Here is one definition of entrepreneurship.</span></p>

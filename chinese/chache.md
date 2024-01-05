@@ -1,5 +1,7 @@
 # 叉车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chache.md)
+
 <p><span class="chinese">对，可以提供叉车。</span><span class="english">Yes, fork-lift trucks available.</span></p>
 
 <p><span class="chinese">不，不能提供叉车。</span><span class="english">No, fork-lift trucks not available.</span></p>

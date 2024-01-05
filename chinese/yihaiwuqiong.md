@@ -1,5 +1,7 @@
 # 贻害无穷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yihaiwuqiong.md)
+
 <p><span class="chinese">万一读到一本坏书，那就将贻害无穷了。</span><span class="english">In the event you read one bad book, it can bring unending trouble.</span></p>
 
 <p><span class="chinese">养成浪费的习惯对一个人的一生影响贻害无穷。</span><span class="english">An extravagant habit may produce a lasting and disastrous impact on one's life.</span></p>

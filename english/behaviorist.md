@@ -1,5 +1,7 @@
 # behaviorist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behaviorist.md)
+
 <p><span class="chinese">“对，”乔继续说，“我的新医生是个行为学家。”</span><span class="english">"Yeah, " continues Joe, "my new doctor is a behaviorist."</span></p>
 
 <p><span class="chinese">许多行为主义者所提出的技术,都被证明是非常有效的。</span><span class="english">Many of these behaviorist techniques have proven to be quite useful.</span></p>

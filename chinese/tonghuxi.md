@@ -1,5 +1,7 @@
 # 同呼吸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghuxi.md)
+
 <p><span class="chinese">无论如何，它注定是两个人，同呼吸。</span><span class="english">Anyway, it had to be two minds, one destiny.</span></p>
 
 <p><span class="chinese">姚会和火箭队同呼吸，共命运的。</span><span class="english">Yao will be a Houston Rocket as long as he can breathe.</span></p>

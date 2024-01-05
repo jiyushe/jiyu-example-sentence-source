@@ -1,5 +1,7 @@
 # 写景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiejing.md)
+
 <p><span class="chinese">第四类是写景诗。</span><span class="english">The forth kind is scenery poetry.</span></p>
 
 <p><span class="chinese">写景细致是这篇散文的一个突出特点。</span><span class="english">One of the main features of this essay is its detailed description of scenery.</span></p>

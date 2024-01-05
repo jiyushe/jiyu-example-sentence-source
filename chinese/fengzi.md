@@ -1,5 +1,7 @@
 # 疯子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengzi.md)
+
 <p><span class="chinese">疯子，稳住！</span><span class="english">Madman, hold!</span></p>
 
 <p><span class="chinese">那是疯子对话。</span><span class="english">That’s crazy talk.</span></p>

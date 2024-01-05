@@ -1,5 +1,7 @@
 # construct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/construct.md)
+
 <p><span class="chinese">在阿尔戈斯建立一个国会。</span><span class="english">Construct a Capitol on Argos.</span></p>
 
 <p><span class="chinese">他得为“他们”编造出一套理由。</span><span class="english">He had to construct a case for"them".</span></p>

@@ -1,5 +1,7 @@
 # ned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ned.md)
+
 <p><span class="chinese">你能听见吗，奈德？</span><span class="english">Do you hear her, Ned?</span></p>
 
 <p><span class="chinese">这就是内德·斯塔克规则。</span><span class="english">This is the Ned Stark Rule.</span></p>

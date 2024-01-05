@@ -1,5 +1,7 @@
 # 粉碎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fensui.md)
+
 <p><span class="chinese">让我们把他们碾得粉碎。</span><span class="english">Let's crush them.</span></p>
 
 <p><span class="chinese">我会把你砍得粉碎！</span><span class="english">I'll cut you to pieces!</span></p>

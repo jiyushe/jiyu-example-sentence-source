@@ -1,5 +1,7 @@
 # ihs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ihs.md)
+
 <p><span class="chinese">在美国，“工作很难找”，资讯公司HIS汽车部高级汽车经济师乔治•麦格里亚诺说道。</span><span class="english">In the U.S. "the jobs just aren't there, " says George Magliano, senior auto economist for IHS Automotive.</span></p>
 
 <p><span class="chinese">针对这一情况，提出了一种基于IHS空间的红外与可见光图像的像素级融合算法。</span><span class="english">So a pixel-level image fusion algorithm for infrared and visible light image based on IHS space is proposed.</span></p>

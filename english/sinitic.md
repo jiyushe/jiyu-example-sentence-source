@@ -1,5 +1,7 @@
 # sinitic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinitic.md)
+
 <p><span class="chinese">国有控股的股份制公司具有强烈的中国特色，特别是兼并重组后的国有控股的股份制公司。</span><span class="english">State-holding joint stock company has strong sinitic feature, especially state-holding company of purchas recombine.</span></p>
 
 <p><span class="chinese">也只有在这样的社会里，人们才能自觉积极参与到建设中国特色社会主义的伟大实践中。</span><span class="english">Only in this society, people could take part in the great practice of building the sinitic social democracy self-consciously.</span></p>

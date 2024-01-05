@@ -1,5 +1,7 @@
 # reps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reps.md)
+
 <p><span class="chinese">他们是推销员吗?。</span><span class="english">Are they sales reps.</span></p>
 
 <p><span class="chinese">我通常不信任尼康代表。</span><span class="english">I generally don't trust Nikon reps.</span></p>

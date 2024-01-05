@@ -1,5 +1,7 @@
 # 求医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuyi.md)
+
 <p><span class="chinese">一日一个苹果，身体翌健康不求医。</span><span class="english">Ann apple a day keeps the doctor away.</span></p>
 
 <p><span class="chinese">什么时候应当求医？</span><span class="english">When should someone seek medical care?</span></p>

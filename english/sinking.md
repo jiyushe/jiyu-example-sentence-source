@@ -1,5 +1,7 @@
 # sinking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinking.md)
+
 <p><span class="chinese">你这‘操’是什么意思，我们在下沉？！</span><span class="english">we are sinking?!</span></p>
 
 <p><span class="chinese">这船正在下沉。</span><span class="english">The ship is sinking.</span></p>

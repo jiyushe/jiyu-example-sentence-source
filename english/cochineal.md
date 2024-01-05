@@ -1,5 +1,7 @@
 # cochineal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cochineal.md)
+
 <p><span class="chinese">虫体干燥后制成的一种红色染料。</span><span class="english">A crimson pigment derived from cochineal.</span></p>
 
 <p><span class="chinese">胭脂虫可生产胭脂红，现广泛用于食品、化妆品及药品等行业。</span><span class="english">Cochineal insects are used widely in making food, cosmetic and medicine.</span></p>

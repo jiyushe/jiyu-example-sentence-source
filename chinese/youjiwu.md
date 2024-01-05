@@ -1,5 +1,7 @@
 # 有机物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjiwu.md)
+
 <p><span class="chinese">重金属，氰化物和有毒有机物。</span><span class="english">Heavy metals, cyanide, and toxic organics.</span></p>
 
 <p><span class="chinese">新增加水是否测试PH与有机物？</span><span class="english">Is incoming water tested with PH and organics?</span></p>

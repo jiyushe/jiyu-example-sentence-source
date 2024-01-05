@@ -1,5 +1,7 @@
 # prankster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prankster.md)
+
 <p><span class="chinese">我老爸之前是个梅利普斯特。</span><span class="english">My dad was a Merry Prankster before that.</span></p>
 
 <p><span class="chinese">恶作剧者就是爱在人们身上恶作剧的人。</span><span class="english">A prankster is someone who performs pranks on people.</span></p>

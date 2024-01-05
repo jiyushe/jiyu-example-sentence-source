@@ -1,5 +1,7 @@
 # 辫子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzi_1.md)
+
 <p><span class="chinese">看，我的辫子也会飞！</span><span class="english">I belive I can fly!</span></p>
 
 <p><span class="chinese">我想要编辫子。</span><span class="english">I'd like it braided.</span></p>

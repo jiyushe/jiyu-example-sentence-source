@@ -1,5 +1,7 @@
 # apices
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apices.md)
+
 <p><span class="chinese">肺脏的顶部得到适当的氧合作用。</span><span class="english">The apices of the lungs get proper oxygenation.</span></p>
 
 <p><span class="chinese">铝毒害的最初作用位点在根尖。</span><span class="english">The primary site of Al toxicity locates in root apices.</span></p>

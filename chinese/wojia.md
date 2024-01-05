@@ -1,5 +1,7 @@
 # 我家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wojia.md)
+
 <p><span class="chinese">我家在麻涌。</span><span class="english">I live in Machong.</span></p>
 
 <p><span class="chinese">我家住在飞云。</span><span class="english">I live in Feiyun town.</span></p>

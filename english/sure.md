@@ -1,5 +1,7 @@
 # sure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sure.md)
+
 <p><span class="chinese">的确如此。</span><span class="english">Yeah, sure.</span></p>
 
 <p><span class="chinese">不知道怎么办？</span><span class="english">Not sure how?</span></p>

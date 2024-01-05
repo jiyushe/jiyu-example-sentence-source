@@ -1,5 +1,7 @@
 # sultry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sultry.md)
+
 <p><span class="chinese">她色迷迷地瞟了卡罗一眼。</span><span class="english">She threw Carlo a sultry glance.</span></p>
 
 <p><span class="chinese">晚上还是和白天一样地闷热。</span><span class="english">The night was as sultry as the day.</span></p>

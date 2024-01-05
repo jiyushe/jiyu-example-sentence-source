@@ -1,5 +1,7 @@
 # holder 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holder.md)
+
 <p><span class="chinese">分割车刀架。</span><span class="english">Parting tool holder.</span></p>
 
 <p><span class="chinese">直车刀架。</span><span class="english">Straight tool holder.</span></p>

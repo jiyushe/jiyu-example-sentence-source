@@ -1,5 +1,7 @@
 # 志愿兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyuanbing.md)
+
 <p><span class="chinese">那支战斗部队由志愿兵组成。</span><span class="english">The fighting unit was composed of volunteers.</span></p>
 
 <p><span class="chinese">战争爆发时，成千上万的人当了志愿兵。</span><span class="english">Thousands of men volunteered when the war broke out.</span></p>

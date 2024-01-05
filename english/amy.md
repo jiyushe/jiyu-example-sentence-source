@@ -1,5 +1,7 @@
 # amy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amy.md)
+
 <p><span class="chinese">黛德问艾米。</span><span class="english">Dede asked Amy.</span></p>
 
 <p><span class="chinese">我的名字叫艾米。</span><span class="english">My name is Amy.</span></p>

@@ -1,5 +1,7 @@
 # zygote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zygote.md)
+
 <p><span class="chinese">这种细胞是受精卵。</span><span class="english">This cell is the zygote.</span></p>
 
 <p><span class="chinese">总之，每一个细胞都是受精卵。</span><span class="english">After all, every of our cells is zygote.</span></p>

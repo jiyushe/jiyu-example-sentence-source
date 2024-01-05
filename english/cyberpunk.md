@@ -1,5 +1,7 @@
 # cyberpunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyberpunk.md)
+
 <p><span class="chinese">我以为是朋克。</span><span class="english">I thought it was Cyberpunk.</span></p>
 
 <p><span class="chinese">这个基于文本的派森冒险游戏带着科幻的主题。</span><span class="english">It is a text based adventure game in Python with cyberpunk theme.</span></p>

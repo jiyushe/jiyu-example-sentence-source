@@ -1,5 +1,7 @@
 # prose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prose.md)
+
 <p><span class="chinese">紫色的散文。</span><span class="english">Purple prose.</span></p>
 
 <p><span class="chinese">高尚的风格。</span><span class="english">An elevated prose style.</span></p>

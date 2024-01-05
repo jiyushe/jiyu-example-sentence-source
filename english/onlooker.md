@@ -1,5 +1,7 @@
 # onlooker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onlooker.md)
+
 <p><span class="chinese">我只是一个旁观者。</span><span class="english">I was only an onlooker.</span></p>
 
 <p><span class="chinese">而第二种情况中，你只是旁观者。</span><span class="english">In the second one, you're an onlooker as well.</span></p>

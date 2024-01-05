@@ -1,5 +1,7 @@
 # encore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encore.md)
+
 <p><span class="chinese">现在就停止这个再来有何不可？</span><span class="english">Why not stop the encore now?</span></p>
 
 <p><span class="chinese">我们要求他们演奏安可曲。</span><span class="english">We asked them to play an encore.</span></p>

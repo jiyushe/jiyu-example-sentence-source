@@ -1,5 +1,7 @@
 # tidy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tidy.md)
+
 <p><span class="chinese">我们把屋子拾掇一下。</span><span class="english">Let's tidy up the room.</span></p>
 
 <p><span class="chinese">我当今可能摒挡您的房间了吗？</span><span class="english">May I tidy your room now?</span></p>

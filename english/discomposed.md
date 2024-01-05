@@ -1,5 +1,7 @@
 # discomposed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discomposed.md)
+
 <p><span class="chinese">微风将她的头发吹乱了。</span><span class="english">The breeze discomposed her hair.</span></p>
 
 <p><span class="chinese">发生事故的坏消息使我心神不定。</span><span class="english">The bad news of the accident discomposed me.</span></p>

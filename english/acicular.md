@@ -1,5 +1,7 @@
 # acicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acicular.md)
+
 <p><span class="chinese">产品外观为黄白色细针状晶体，无味。</span><span class="english">The state of product is yellow white acicular crystal and insipidity.</span></p>
 
 <p><span class="chinese">全株粉末具淀粉粒、草酸钙针晶、导管及纤维。</span><span class="english">Starch grain, acicular crystal, duct and fiber were founded in the powder.</span></p>

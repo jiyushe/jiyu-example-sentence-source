@@ -1,5 +1,7 @@
 # diagnoses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diagnoses.md)
+
 <p><span class="chinese">经医生诊断指导。</span><span class="english">Diagnoses the instruction after doctor.</span></p>
 
 <p><span class="chinese">判断一个演化支或单源群。</span><span class="english">Diagnoses a clade or monophyletic group.</span></p>

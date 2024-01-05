@@ -1,5 +1,7 @@
 # celeb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celeb.md)
+
 <p><span class="chinese">问我见的名人多吗？</span><span class="english">Have I seen a lot of celeb?</span></p>
 
 <p><span class="chinese">但还是没有一个名人的小孩叫做林克。</span><span class="english">No sign of any celeb kids called Link. Yet.</span></p>

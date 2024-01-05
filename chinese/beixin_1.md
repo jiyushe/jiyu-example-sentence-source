@@ -1,5 +1,7 @@
 # 背心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beixin_1.md)
+
 <p><span class="chinese">我喜欢在夏天穿露背背心。</span><span class="english">I like wear halter top in summer.</span></p>
 
 <p><span class="chinese">她们穿着背心和超短裙。</span><span class="english">They wear singlet and mini skirt.</span></p>

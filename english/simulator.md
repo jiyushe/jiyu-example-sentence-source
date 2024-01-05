@@ -1,5 +1,7 @@
 # simulator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simulator.md)
+
 <p><span class="chinese">这可不仅仅是什么棒球模拟游戏。</span><span class="english">This isn't just some baseball simulator.</span></p>
 
 <p><span class="chinese">NS2是目前使用广泛的网络仿真器之一。</span><span class="english">NS2 is one of network simulator used widely.</span></p>

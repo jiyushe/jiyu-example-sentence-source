@@ -1,5 +1,7 @@
 # gentian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentian.md)
+
 <p><span class="chinese">给我一些紫药水。</span><span class="english">Give me some gentian violet.</span></p>
 
 <p><span class="chinese">我可没办法弄到龙胆酒啊！</span><span class="english">I can not be procuring liquor gentian ah!</span></p>

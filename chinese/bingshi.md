@@ -1,5 +1,7 @@
 # 兵士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingshi.md)
+
 <p><span class="chinese">他既是个兵士，又是个诗人。</span><span class="english">He is both a soldier and a poet.</span></p>
 
 <p><span class="chinese">兵士们扳起火枪的枪栓准备射击。</span><span class="english">The soldiers cocked their rifles.</span></p>

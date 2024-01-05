@@ -1,5 +1,7 @@
 # 花里胡哨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hualihushao.md)
+
 <p><span class="chinese">花里胡哨还是朴实无华？</span><span class="english">Fancy with a flourish or plain?</span></p>
 
 <p><span class="chinese">不要管那些花里胡哨的语言----告诉我事实就行了。</span><span class="english">Never mind all these fancy phrases--- just tell us the plain facts.</span></p>

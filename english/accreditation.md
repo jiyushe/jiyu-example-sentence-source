@@ -1,5 +1,7 @@
 # accreditation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accreditation.md)
+
 <p><span class="chinese">CHEA即美国高等教育认证委员会。</span><span class="english">CHEA is the Council for Higher Education Accreditation.</span></p>
 
 <p><span class="chinese">海牙规定也负责收养机构的资信。</span><span class="english">The Hague rules also govern the agencies’ accreditation.</span></p>

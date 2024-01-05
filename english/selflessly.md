@@ -1,5 +1,7 @@
 # selflessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selflessly.md)
+
 <p><span class="chinese">我的爱是成熟且无私的吗？</span><span class="english">Do I love maturely and selflessly?</span></p>
 
 <p><span class="chinese">可不可以教我谈一场无私的恋爱？</span><span class="english">Can you teach me how to love selflessly?</span></p>

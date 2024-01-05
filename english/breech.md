@@ -1,5 +1,7 @@
 # breech
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breech.md)
+
 <p><span class="chinese">在有膛机械中的类似设备。</span><span class="english">A similar device in any breech mechanism.</span></p>
 
 <p><span class="chinese">生产的时候只有百分之三的宝宝仍然保持臀位。</span><span class="english">The production time is only three percent baby remained breech.</span></p>

@@ -1,5 +1,7 @@
 # stubborn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stubborn.md)
+
 <p><span class="chinese">我们都挺固执的。</span><span class="english">We are both stubborn.</span></p>
 
 <p><span class="chinese">这小姑娘真够倔的！</span><span class="english">What a stubborn girl!</span></p>

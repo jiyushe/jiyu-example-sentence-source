@@ -1,5 +1,7 @@
 # 特刊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tekan.md)
+
 <p><span class="chinese">报童又给了我一份特刊。</span><span class="english">The newsboy gave me an extra special edition.</span></p>
 
 <p><span class="chinese">MOR正在应征会员将您拍摄的照片作为MOR未来特刊的封面照。</span><span class="english">MOR is calling on members to send photos for the cover of future MOR issues.</span></p>

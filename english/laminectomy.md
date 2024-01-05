@@ -1,5 +1,7 @@
 # laminectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laminectomy.md)
+
 <p><span class="chinese">所有病例均行整块半关节突全椎板切除术。</span><span class="english">All cases were treated with en bloc hemi-articular process laminectomy.</span></p>
 
 <p><span class="chinese">椎板切除术后硬膜外有明显瘢痕生长。</span><span class="english">Severe epidural adhesion at the dogs after performed with laminectomy only.</span></p>

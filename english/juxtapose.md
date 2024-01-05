@@ -1,5 +1,7 @@
 # juxtapose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juxtapose.md)
+
 <p><span class="chinese">把这两个物体并列就较易作出比较了。</span><span class="english">Comparison will be easier if you juxtapose the two objects.</span></p>
 
 <p><span class="chinese">他把女朋友的照片在桌上加以并列以表示他的爱。</span><span class="english">He tried to juxtapose the photos of his girlfriend on the desk to show his love.</span></p>

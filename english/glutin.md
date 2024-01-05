@@ -1,5 +1,7 @@
 # glutin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glutin.md)
+
 <p><span class="chinese">食品添加剂对面团的玻璃化转变温度有显著影响。</span><span class="english">L-ascorbic acid, trehalose, and glutin can significantly increase the Tg of wheat dough.</span></p>
 
 <p><span class="chinese">MJG系列明胶过滤机是根据试场需求自行研制开发的。</span><span class="english">The MJG series glutin purifier is development according to the needs of examination place.</span></p>

@@ -1,5 +1,7 @@
 # 全勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanqin.md)
+
 <p><span class="chinese">他因为全勤获得了表扬。</span><span class="english">He was praised for regularity of attendance.</span></p>
 
 <p><span class="chinese">在过去的两个赛季中，他都保持全勤。</span><span class="english">He has not missed a game the past two seasons.</span></p>

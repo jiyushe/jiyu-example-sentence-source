@@ -1,5 +1,7 @@
 # wehrmacht
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wehrmacht.md)
+
 <p><span class="chinese">纳粹国防军没有过冬的制服。</span><span class="english">The Wehrmacht had no winter uniforms.</span></p>
 
 <p><span class="chinese">凯瑟琳山口教会了美国人如何与德国国防军作战。</span><span class="english">Kasserine Pass would teach the Americans how to fight the Wehrmacht.</span></p>

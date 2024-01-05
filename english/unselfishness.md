@@ -1,5 +1,7 @@
 # unselfishness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unselfishness.md)
+
 <p><span class="chinese">埃斯特尔姨妈的大公无私是她最好的礼物。</span><span class="english">Aunt Estelle's unselfishness was her greatest gift.</span></p>
 
 <p><span class="chinese">勇敢，忠诚，无私，正直。</span><span class="english">A man of bravery, honesty, unselfishness and rectitude.</span></p>

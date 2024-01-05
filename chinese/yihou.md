@@ -1,5 +1,7 @@
 # 以后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yihou.md)
+
 <p><span class="chinese">好聚好散，以后，还是朋友。</span><span class="english">A friend, or after.</span></p>
 
 <p><span class="chinese">以后咱需要五座炼铝厂咩？</span><span class="english">But do we need five?</span></p>

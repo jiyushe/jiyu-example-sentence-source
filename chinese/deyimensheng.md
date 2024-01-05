@@ -1,5 +1,7 @@
 # 得意门生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deyimensheng.md)
+
 <p><span class="chinese">他是斯拜德·凯利的得意门生。</span><span class="english">He was Spider Kelly's star pupil.</span></p>
 
 <p><span class="chinese">他还有几位得意门生呢。</span><span class="english">He also has several favorite students.</span></p>

@@ -1,5 +1,7 @@
 # pleasurable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleasurable.md)
+
 <p><span class="chinese">为什么快乐感觉是值得拥有的？</span><span class="english">Why is the pleasurable sensation worth having?</span></p>
 
 <p><span class="chinese">部分原因是他们相信，那能给女性带来更大的快感。</span><span class="english">In part because they believe it's more pleasurable for women.</span></p>

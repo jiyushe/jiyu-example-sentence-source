@@ -1,5 +1,7 @@
 # victoriously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/victoriously.md)
+
 <p><span class="chinese">我们赢得了战争的胜利。</span><span class="english">We won the war victoriously.</span></p>
 
 <p><span class="chinese">弗吉尼亚成功地捍卫了她的领地。</span><span class="english">Virginia had defended her land victoriously.</span></p>

@@ -1,5 +1,7 @@
 # veracious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veracious.md)
+
 <p><span class="chinese">实践证明该处理方法快速、准确、有效。</span><span class="english">Practice shows it fast, veracious and effective.</span></p>
 
 <p><span class="chinese">提供详尽、准确的个人资料。</span><span class="english">Offer exhaustive and veracious information of individual.</span></p>

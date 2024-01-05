@@ -1,5 +1,7 @@
 # 年终
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianzhong_1.md)
+
 <p><span class="chinese">我必须参加年终聚会。</span><span class="english">I must attend the year-end party.</span></p>
 
 <p><span class="chinese">费德勒至少是稳获年终第二了吧？</span><span class="english">Is Federer at least safe at No. 2?</span></p>

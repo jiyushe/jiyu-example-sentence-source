@@ -1,5 +1,7 @@
 # 耀斑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoban.md)
+
 <p><span class="chinese">请看一段太阳耀斑的视频</span><span class="english">Watch a video of the solar flare.</span></p>
 
 <p><span class="chinese">那种事情大多是由太阳耀斑造成的。</span><span class="english">That sort of thing is caused more by solar flares.</span></p>

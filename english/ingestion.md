@@ -1,5 +1,7 @@
 # ingestion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingestion.md)
+
 <p><span class="chinese">误食请立即联系医生。</span><span class="english">In case of ingestion contact doctor immediately.</span></p>
 
 <p><span class="chinese">氟中毒是由于摄入过量氟引起的。</span><span class="english">Excess ingestion of fluoride can cause Fluorosis.</span></p>

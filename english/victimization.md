@@ -1,5 +1,7 @@
 # victimization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/victimization.md)
+
 <p><span class="chinese">受害比率。</span><span class="english">Victimization ratio.</span></p>
 
 <p><span class="chinese">将每一段“受害者”的记忆重写成一部英雄冒险吧。</span><span class="english">Rewrite every memory of your own victimization as a hero's adventure.</span></p>

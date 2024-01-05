@@ -1,5 +1,7 @@
 # aminotransferase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aminotransferase.md)
+
 <p><span class="chinese">抗病毒治疗应扩大到慢性乙肝和轻度丙氨酸转氨酶升高的患者吗？</span><span class="english">Should antiviral treatment be extended to patients with chronic hepatitis B and mildly elevated alanine aminotransferase?</span></p>
 
 <p><span class="chinese">苦参素具有抗炎、抗病毒、保肝降酶、抗肝纤维化作用。</span><span class="english">Oxymatrine acts on anti-inflammation, anti-virus, protecting the liver, reducing aminotransferase and anti-hepatic fibrosis.</span></p>

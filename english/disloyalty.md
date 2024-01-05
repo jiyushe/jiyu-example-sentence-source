@@ -1,5 +1,7 @@
 # disloyalty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disloyalty.md)
+
 <p><span class="chinese">任何不忠的指控都很愚蠢。</span><span class="english">Any accusations of disloyalty were silly.</span></p>
 
 <p><span class="chinese">她对她先生的不忠实很生气。</span><span class="english">She is angry at her husband's disloyalty.</span></p>

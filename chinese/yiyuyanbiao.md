@@ -1,5 +1,7 @@
 # 溢于言表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyuyanbiao.md)
+
 <p><span class="chinese">许多人都义愤填膺，溢于言表。</span><span class="english">Many were audibly outraged.</span></p>
 
 <p><span class="chinese">亨利的内疚溢于言表。</span><span class="english">Henry's guilt was scored across his face.</span></p>

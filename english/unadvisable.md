@@ -1,5 +1,7 @@
 # unadvisable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unadvisable.md)
+
 <p><span class="chinese">你自荐当选主席是不明智的。</span><span class="english">It is unadvisable to put yourself up for the chairman's seat.</span></p>
 
 <p><span class="chinese">我已得出结论，接受他的提议是不明智的。</span><span class="english">I drew the conclusion that it is unadvisable to accept his proposal.</span></p>

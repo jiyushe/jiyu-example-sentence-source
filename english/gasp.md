@@ -1,5 +1,7 @@
 # gasp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gasp.md)
+
 <p><span class="chinese">它不会再响了</span><span class="english">It's giving its last gasp.</span></p>
 
 <p><span class="chinese">自然的美丽让我几乎窒息。</span><span class="english">The natural beauty made me gasp.</span></p>

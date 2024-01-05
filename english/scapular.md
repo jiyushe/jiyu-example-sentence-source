@@ -1,5 +1,7 @@
 # scapular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scapular.md)
+
 <p><span class="chinese">血管球瘤肩胛区。</span><span class="english">Glomus tumor of the scapular region.</span></p>
 
 <p><span class="chinese">神经支配主要是肩胛背神经。</span><span class="english">Nevers of the muscles were dominated by the dorsal scapular nerve.</span></p>

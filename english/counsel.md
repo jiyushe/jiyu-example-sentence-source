@@ -1,5 +1,7 @@
 # counsel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counsel.md)
+
 <p><span class="chinese">商议如何攻打团城。</span><span class="english">How TuanCheng counsel against.</span></p>
 
 <p><span class="chinese">没有实质帮助的忠告亳无用处。</span><span class="english">Counsel without help is useless.</span></p>

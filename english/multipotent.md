@@ -1,5 +1,7 @@
 # multipotent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multipotent.md)
+
 <p><span class="chinese">目的探讨胚胎大鼠神经干细胞体外培养分化的子代细胞电生理特性。</span><span class="english">Objective To exam the electrophysiological properties of cells derived from multipotent neural stem cells of embryonic rat CNS.</span></p>
 
 <p><span class="chinese">在加州大学欧文分校进行的这项试验中，研究人员将多能人神经干细胞中移植到经放射治疗的大鼠的脑部。</span><span class="english">For the UCI study, multipotent human neural stem cells were transplanted into the brains of rats that had undergone radiation treatment.</span></p>

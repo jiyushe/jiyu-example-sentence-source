@@ -1,5 +1,7 @@
 # 挤兑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jidui.md)
+
 <p><span class="chinese">更糟糕的是，银行挤兑可以传染。</span><span class="english">Worse yet, bank runs can be contagious.</span></p>
 
 <p><span class="chinese">我想机动车会挤兑你。</span><span class="english">I think motorists would take advantage of you.</span></p>

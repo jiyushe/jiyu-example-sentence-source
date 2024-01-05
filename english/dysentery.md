@@ -1,5 +1,7 @@
 # dysentery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysentery.md)
+
 <p><span class="chinese">她让痢疾搞得身体非常虚弱。</span><span class="english">She has been debilitated by dysentery.</span></p>
 
 <p><span class="chinese">国家媒体已经报导有痢疾出现。</span><span class="english">Some cases of dysentery were reported by state media.</span></p>

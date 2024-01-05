@@ -1,5 +1,7 @@
 # snowbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowbound.md)
+
 <p><span class="chinese">对被风雪所困的部队空投了供给品。</span><span class="english">Supplies were chuted to the snowbound troops.</span></p>
 
 <p><span class="chinese">他将成为冰封的“眺望旅馆”的看管员。</span><span class="english">He will be the caretaker of the snowbound Overlook Hotel.</span></p>

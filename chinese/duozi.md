@@ -1,5 +1,7 @@
 # 多姿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duozi.md)
+
 <p><span class="chinese">梦幻仙翁是多姿的新娘！</span><span class="english">Seno is a splendid dream bride!</span></p>
 
 <p><span class="chinese">多姿桃是适合年轻饮用的酒。</span><span class="english">Dolcetto is the best wine consumed in young age.</span></p>

@@ -1,5 +1,7 @@
 # 凶神恶煞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongshenesha.md)
+
 <p><span class="chinese">她对仆人凶神恶煞似的。</span><span class="english">She is hell on servants.</span></p>
 
 <p><span class="chinese">在过去他们凶神恶煞般地鱼肉百姓。</span><span class="english">They were like devils preying on the people in the past.</span></p>

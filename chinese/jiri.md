@@ -1,5 +1,7 @@
 # 吉日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiri.md)
+
 <p><span class="chinese">今天是我的吉日！</span><span class="english">It is my lucky day!</span></p>
 
 <p><span class="chinese">恭喜恭喜，今天可是个良辰吉日啊。</span><span class="english">Congratulations. It's a good day!</span></p>

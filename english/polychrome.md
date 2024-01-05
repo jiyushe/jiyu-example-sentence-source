@@ -1,5 +1,7 @@
 # polychrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polychrome.md)
+
 <p><span class="chinese">上海三尖电子与您一同走向自由多彩新世界！</span><span class="english">Ltd lead you to enter a free polychrome world !</span></p>
 
 <p><span class="chinese">女人是一道道美丽多彩的风景线。</span><span class="english">The woman is a fairness and polychrome scenery.</span></p>

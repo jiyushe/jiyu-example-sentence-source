@@ -1,5 +1,7 @@
 # 打成一片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachengyipian.md)
+
 <p><span class="chinese">我喜欢弗罗姆，和他打成一片。</span><span class="english">I liked Fromm and identified with him.</span></p>
 
 <p><span class="chinese">干部必须和群众打成一片。</span><span class="english">A cadre must become one with the masses.</span></p>

@@ -1,5 +1,7 @@
 # padding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/padding.md)
+
 <p><span class="chinese">我看你已经穿了自己的球服了。</span><span class="english">I see you wore your own padding.</span></p>
 
 <p><span class="chinese">拆卸后座靠背的填料。</span><span class="english">Remove padding for rear backrest.</span></p>

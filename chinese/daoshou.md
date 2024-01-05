@@ -1,5 +1,7 @@
 # 到手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoshou.md)
+
 <p><span class="chinese">我切到手指了。</span><span class="english">I cut my finger.</span></p>
 
 <p><span class="chinese">哎哟,我切到手指了.</span><span class="english">Ow,I cut my finger.</span></p>

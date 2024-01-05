@@ -1,5 +1,7 @@
 # lockstep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lockstep.md)
+
 <p><span class="chinese">他的工作与他的天主教信仰步调一致。</span><span class="english">His work has walked in lockstep with his Catholic faith.</span></p>
 
 <p><span class="chinese">灵柩由齐步行进的六名士兵抬着。</span><span class="english">The coffin was carried by six soldiers walking in lockstep.</span></p>

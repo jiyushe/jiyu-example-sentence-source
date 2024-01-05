@@ -1,5 +1,7 @@
 # 心软
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinruan.md)
+
 <p><span class="chinese">他心软而落泪。</span><span class="english">He softened into tears.</span></p>
 
 <p><span class="chinese">她的眼泪使他心软了。</span><span class="english">Her tears melted his heart.</span></p>

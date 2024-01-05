@@ -1,5 +1,7 @@
 # zulu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zulu.md)
+
 <p><span class="chinese">战争终结了祖鲁作为独立国家的历史。</span><span class="english">The war ended the Zulu nation's independence.</span></p>
 
 <p><span class="chinese">在南非神鲁村，有一口古老的水井。</span><span class="english">In Zulu , South Africa , there is an old well.</span></p>

@@ -1,5 +1,7 @@
 # film
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/film.md)
+
 <p><span class="chinese">给这位同学一个特写</span><span class="english">Film that man.</span></p>
 
 <p><span class="chinese">这是一个电影胶卷。</span><span class="english">It’s a film reel.</span></p>

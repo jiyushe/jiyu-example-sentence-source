@@ -1,5 +1,7 @@
 # satiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satiation.md)
+
 <p><span class="chinese">漆膜饱满、坚硬，高光泽，施工方便。</span><span class="english">The film is satiation , hard, gloss. The application is convenience.</span></p>
 
 <p><span class="chinese">然而，一旦到了这个时候，也是男人逐渐厌腻的时候。</span><span class="english">However, once this time, but also a time when a man gradually satiation.</span></p>

@@ -1,5 +1,7 @@
 # woodchuck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodchuck.md)
+
 <p><span class="chinese">它会扔掉多少木头？</span><span class="english">If a woodchuck could chuck wood?</span></p>
 
 <p><span class="chinese">假如旱獭能扔木头。</span><span class="english">How much wood would a woodchuck chuck.</span></p>

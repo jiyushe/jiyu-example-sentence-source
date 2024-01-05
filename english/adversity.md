@@ -1,5 +1,7 @@
 # adversity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adversity.md)
+
 <p><span class="chinese">你能经得住不幸吗?</span><span class="english">Could you stand adversity?</span></p>
 
 <p><span class="chinese">逆境通向成功路。</span><span class="english">Adversity leads to prosperity.</span></p>

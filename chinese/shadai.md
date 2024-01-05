@@ -1,5 +1,7 @@
 # 沙袋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shadai.md)
+
 <p><span class="chinese">小的那只装上两片沙袋。</span><span class="english">That fitted with a small sandbag 2.</span></p>
 
 <p><span class="chinese">居民堆沙袋加固海滩前沿。</span><span class="english">The residents sandbagged the beach front.</span></p>

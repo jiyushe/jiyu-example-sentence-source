@@ -1,5 +1,7 @@
 # 招展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaozhan.md)
+
 <p><span class="chinese">1999年，协会代表团赴美国展会考察、招展。</span><span class="english">In 1999, CTEA delegation visited JBL Professional in USA.</span></p>
 
 <p><span class="chinese">起来，旌旗为你招展，号角为你激昂</span><span class="english">Rise up--for you the flag is flung--for you the bugle trills</span></p>

@@ -1,5 +1,7 @@
 # 实至名归
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhiminggui.md)
+
 <p><span class="chinese">事实上，许多声优也是实至名归的。</span><span class="english">In fact, many seiyuu deserve this recognition.</span></p>
 
 <p><span class="chinese">我们期待目睹他的全新方式是否真正实至名归。</span><span class="english">We wait to see if this new approach actually materialises.</span></p>

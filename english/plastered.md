@@ -1,5 +1,7 @@
 # plastered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plastered.md)
+
 <p><span class="chinese">我的长统靴上粘满了泥巴。</span><span class="english">My boots are plastered with mud.</span></p>
 
 <p><span class="chinese">我的鞋上沾了一层泥。</span><span class="english">My shoes were plastered with mud.</span></p>

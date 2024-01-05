@@ -1,5 +1,7 @@
 # sorta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorta.md)
+
 <p><span class="chinese">就是说他有一点儿怪怪的。</span><span class="english">He is just sorta weird.</span></p>
 
 <p><span class="chinese">奶奶有点像另一个妈妈。</span><span class="english">Grandmas are sorta like extra moms f.</span></p>

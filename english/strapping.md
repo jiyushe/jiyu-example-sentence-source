@@ -1,5 +1,7 @@
 # strapping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strapping.md)
+
 <p><span class="chinese">你出息得一表人材。</span><span class="english">You were a strapping lad.</span></p>
 
 <p><span class="chinese">伊朗求购半自动橡胶机械。</span><span class="english">Buying Signode Semi Automatic Strapping Machine.</span></p>

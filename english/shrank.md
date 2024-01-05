@@ -1,5 +1,7 @@
 # shrank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrank.md)
+
 <p><span class="chinese">她害怕地在座椅上缩成一团。</span><span class="english">Frightened, she shrank down into her seat.</span></p>
 
 <p><span class="chinese">西格弗里德畏缩了，退避到墙根。</span><span class="english">Siegfried cringed and shrank against the wall.</span></p>

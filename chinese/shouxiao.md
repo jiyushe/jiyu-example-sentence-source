@@ -1,5 +1,7 @@
 # 收效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxiao.md)
+
 <p><span class="chinese">祝你今后取得更大收效。</span><span class="english">Wishing you ma recenty future successes.</span></p>
 
 <p><span class="chinese">两个女人都曾去资讯过律师并且收效良好。</span><span class="english">Both women have gone to counseling and are doing well.</span></p>

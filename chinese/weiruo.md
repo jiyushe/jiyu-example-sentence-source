@@ -1,5 +1,7 @@
 # 微弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiruo.md)
+
 <p><span class="chinese">声音渐渐微弱。</span><span class="english">The sounds grew fainter.</span></p>
 
 <p><span class="chinese">他的呼吸变得微弱了.</span><span class="english">His breathing became faint.</span></p>

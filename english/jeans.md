@@ -1,5 +1,7 @@
 # jeans
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeans.md)
+
 <p><span class="chinese">他的牛仔裤紧绷绷的。</span><span class="english">His jeans fit snugly.</span></p>
 
 <p><span class="chinese">我喜欢穿牛仔服。</span><span class="english">I like to wear jeans.</span></p>

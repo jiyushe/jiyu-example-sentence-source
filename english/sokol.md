@@ -1,5 +1,7 @@
 # sokol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sokol.md)
+
 <p><span class="chinese">巴菲特和索科尔存在一些共同点。</span><span class="english">Messrs. Buffett and Sokol have some things in common.</span></p>
 
 <p><span class="chinese">该报告给人一种巴菲特被索科尔欺骗的印象。</span><span class="english">The report paints a picture of Buffett as having been duped by Sokol.</span></p>

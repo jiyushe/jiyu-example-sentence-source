@@ -1,5 +1,7 @@
 # 开播
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaibo_1.md)
+
 <p><span class="chinese">今天是「孔侑20时」开播200天的日子。</span><span class="english">Today is the 200th day of Ggong's 20s.</span></p>
 
 <p><span class="chinese">明天早上7点本节目重新开播。</span><span class="english">We will be back on air tomorrow morning at 7.</span></p>

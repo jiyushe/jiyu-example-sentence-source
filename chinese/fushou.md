@@ -1,5 +1,7 @@
 # 俯首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushou.md)
+
 <p><span class="chinese">有些人在金钱面前俯首贴耳。</span><span class="english">Some people bow before money.</span></p>
 
 <p><span class="chinese">别对这无望俯首贴脸。</span><span class="english">Do not stoop to strategies like this.</span></p>

@@ -1,5 +1,7 @@
 # 如痴如醉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruchiruzui.md)
+
 <p><span class="chinese">听众们听得如痴如醉。</span><span class="english">The audience listens in ecstasies.</span></p>
 
 <p><span class="chinese">几滴的吗啡将令他如痴如醉。</span><span class="english">A few drops of morphia will knock him out.</span></p>

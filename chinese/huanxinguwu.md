@@ -1,5 +1,7 @@
 # 欢欣鼓舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxinguwu.md)
+
 <p><span class="chinese">我们为我们的胜利而欢欣鼓舞。</span><span class="english">We exulted over our victory.</span></p>
 
 <p><span class="chinese">蚂蟥牧人欢欣鼓舞。</span><span class="english">Leech wranglers are exultant.</span></p>

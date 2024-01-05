@@ -1,5 +1,7 @@
 # costar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/costar.md)
+
 <p><span class="chinese">而阿弗莱克不仅会出演电影，还将执导该片。</span><span class="english">Affleck will costar as well as direct the picture.</span></p>
 
 <p><span class="chinese">的女主角阿曼达·塞弗里德也极有可能携该片男主角，也是她现实生活中的绯闻男友多米尼克·库珀参与表演。</span><span class="english">Dominic Cooper, Seyfried's costar and rumored boyfriend, will also likely participate.</span></p>

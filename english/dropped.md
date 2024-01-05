@@ -1,5 +1,7 @@
 # dropped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dropped.md)
+
 <p><span class="chinese">两名退出了。</span><span class="english">Two dropped out.</span></p>
 
 <p><span class="chinese">我的叉子掉了。</span><span class="english">I dropped my fork.</span></p>

@@ -1,5 +1,7 @@
 # glean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glean.md)
+
 <p><span class="chinese">你从那条新闻中推断到些什么?</span><span class="english">What do you glean from the news?</span></p>
 
 <p><span class="chinese">而一些人会让这些神圣的动物在他们的花园里收集食物。</span><span class="english">Some let the holy beasts glean from their gardens.</span></p>

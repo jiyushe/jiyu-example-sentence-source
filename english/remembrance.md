@@ -1,5 +1,7 @@
 # remembrance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remembrance.md)
+
 <p><span class="chinese">他将她从记忆中抹掉。</span><span class="english">He razed her from his remembrance.</span></p>
 
 <p><span class="chinese">那些纪念日罂粟花如是说。</span><span class="english">Those Remembrance Day poppies say it all.</span></p>

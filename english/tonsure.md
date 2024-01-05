@@ -1,5 +1,7 @@
 # tonsure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tonsure.md)
+
 <p><span class="chinese">剪发前你需要洗发吗？</span><span class="english">Before the tonsure , you need to wash send?</span></p>
 
 <p><span class="chinese">岳灵珊说自己谁也不帮，明天自己便削发为尼。</span><span class="english">Lenient to who says he doesn t help, tonsure at myself tomorrow.</span></p>

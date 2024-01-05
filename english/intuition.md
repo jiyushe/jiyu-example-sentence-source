@@ -1,5 +1,7 @@
 # intuition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intuition.md)
+
 <p><span class="chinese">用你们的直觉。</span><span class="english">So use your intuition.</span></p>
 
 <p><span class="chinese">你的直觉说了神马？</span><span class="english">What does your intuition say?</span></p>

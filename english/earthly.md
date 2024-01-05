@@ -1,5 +1,7 @@
 # earthly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthly.md)
+
 <p><span class="chinese">任随凡尘岁月的触抚。</span><span class="english">The touch of earthly years.</span></p>
 
 <p><span class="chinese">法德还有更多世俗的建议。</span><span class="english">Fard also had more earthly advice.</span></p>

@@ -1,5 +1,7 @@
 # 怕人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paren.md)
+
 <p><span class="chinese">真理不怕人驳。</span><span class="english">Truth fears no refutation.</span></p>
 
 <p><span class="chinese">守着爱怕人笑，还怕人看清。</span><span class="english">Keep love, fear fear see smile.</span></p>

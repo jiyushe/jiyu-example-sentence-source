@@ -1,5 +1,7 @@
 # 初等教育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chudengjiaoyu.md)
+
 <p><span class="chinese">初等教育是六年制的。</span><span class="english">The primary education is of a six-year cycle.</span></p>
 
 <p><span class="chinese">首先我们应普及初等教育。</span><span class="english">First of all we should make primary education universal.</span></p>

@@ -1,5 +1,7 @@
 # replenishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replenishment.md)
+
 <p><span class="chinese">这也是一种大自然的循环和净化系统。</span><span class="english">It was a natural system of replenishment and cleaning.</span></p>
 
 <p><span class="chinese">协同计划、预测和补货。</span><span class="english">CPFR, Collaborative Planning, Forecasting, Replenishment.</span></p>

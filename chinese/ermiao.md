@@ -1,5 +1,7 @@
 # 鸸鹋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ermiao.md)
+
 <p><span class="chinese">这只鸸鹋来自本地一家农场。</span><span class="english">This emu came from a local farm.</span></p>
 
 <p><span class="chinese">鸸鹋和袋鼠不会后退。</span><span class="english">Emus and kangaroos can't walk backwards.</span></p>

@@ -1,5 +1,7 @@
 # gallic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallic.md)
+
 <p><span class="chinese">这种酶也能进攻棓酸甲酯。</span><span class="english">It also attacks gallic acid methyl ester.</span></p>
 
 <p><span class="chinese">在产蛋鸡日粮中不要使用没食子酸和单宁酸。</span><span class="english">Do not feed gallic acid or tannic acid to laying hens.</span></p>

@@ -1,5 +1,7 @@
 # interesting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interesting.md)
+
 <p><span class="chinese">答案五花八门</span><span class="english">Okay, interesting mix.</span></p>
 
 <p><span class="chinese">有趣吗？</span><span class="english">Interesting? Definitely.</span></p>

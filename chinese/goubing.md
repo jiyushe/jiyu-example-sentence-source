@@ -1,5 +1,7 @@
 # 诟病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goubing.md)
+
 <p><span class="chinese">首先遭诟病的是配音。</span><span class="english">First what suffers denounced is dubbing.</span></p>
 
 <p><span class="chinese">如今，人们熟悉的索克斯法案广受诟病。</span><span class="english">Today, SOX, as it is known, is widely reviled.</span></p>

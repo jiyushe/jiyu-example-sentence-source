@@ -1,5 +1,7 @@
 # tyrannical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tyrannical.md)
+
 <p><span class="chinese">桀是个极端残暴，放荡的人。</span><span class="english">Jie was extremely tyrannical and dissolute.</span></p>
 
 <p><span class="chinese">暴君老板有两类。</span><span class="english">Tyrannical bosses come in one of two packages.</span></p>

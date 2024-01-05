@@ -1,5 +1,7 @@
 # 喷气发动机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penqifadongji.md)
+
 <p><span class="chinese">破纪录的“超音速燃烧冲压喷气发动机”</span><span class="english">Record-breaking "Scramjet"</span></p>
 
 <p><span class="chinese">涡轮喷气发动机推动的飞机。</span><span class="english">An airplane with such an engine.</span></p>

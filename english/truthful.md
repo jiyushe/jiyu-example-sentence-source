@@ -1,5 +1,7 @@
 # truthful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truthful.md)
+
 <p><span class="chinese">即便是受伤也要实事求是。</span><span class="english">Be truthful even if it hurts.</span></p>
 
 <p><span class="chinese">但是我必须实话实说，主持公正。</span><span class="english">But I have to be truthful and fair.</span></p>

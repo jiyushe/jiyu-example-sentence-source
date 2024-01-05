@@ -1,5 +1,7 @@
 # pun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pun.md)
+
 <p><span class="chinese">因此据我揣测这也是一个双关语。</span><span class="english">So presumably this, too, is a pun.</span></p>
 
 <p><span class="chinese">他会用拳头把你打得稀巴烂。</span><span class="english">He would pun you into shivers with his fist.</span></p>

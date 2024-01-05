@@ -1,5 +1,7 @@
 # dole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dole.md)
+
 <p><span class="chinese">他们把由失业救济金。</span><span class="english">They stuck by Dole.</span></p>
 
 <p><span class="chinese">我们是否了解鲍勃·杜尔？</span><span class="english">Would we know with Bob Dole?</span></p>

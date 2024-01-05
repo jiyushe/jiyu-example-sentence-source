@@ -1,5 +1,7 @@
 # alastair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alastair.md)
+
 <p><span class="chinese">奖章圆盘的正面是阿拉斯泰尔·坎贝尔。</span><span class="english">The face on the metal disc is that of Alastair Campbell.</span></p>
 
 <p><span class="chinese">阿德尔了超越自己，每一个期望阿拉斯泰过他！</span><span class="english">Adel had outdone himself and every expectation Alastair ever had of him!</span></p>

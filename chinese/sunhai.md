@@ -1,5 +1,7 @@
 # 损害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sunhai.md)
+
 <p><span class="chinese">这是一个可耻的丑闻，对气候的损害将是灾难性的。</span><span class="english">It's a disgraceful scandal.</span></p>
 
 <p><span class="chinese">吸烟会损害我们的健康。</span><span class="english">Smoking impairs our health.</span></p>

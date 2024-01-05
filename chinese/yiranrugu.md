@@ -1,5 +1,7 @@
 # 依然如故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiranrugu.md)
+
 <p><span class="chinese">时至今日，这些聚居区依然如故。</span><span class="english">These communities still exist today.</span></p>
 
 <p><span class="chinese">可它仍然稳稳地静卧在那里，依然如故。</span><span class="english">But it still firmly lying there, remain unchanged.</span></p>

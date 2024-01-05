@@ -1,5 +1,7 @@
 # 疑虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilv_1.md)
+
 <p><span class="chinese">不再有借口或疑虑。</span><span class="english">No buts or maybes.</span></p>
 
 <p><span class="chinese">他的疑虑涣然冰释。</span><span class="english">All his misgivings vanished.</span></p>

@@ -1,5 +1,7 @@
 # 盛事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshi_3.md)
+
 <p><span class="chinese">这算是哪门子的足球盛事？</span><span class="english">What kind of football venue was this?</span></p>
 
 <p><span class="chinese">请与我们共赏如此艺坛盛事！</span><span class="english">Please join this territory-wide art event!</span></p>

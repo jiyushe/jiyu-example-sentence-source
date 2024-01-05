@@ -1,5 +1,7 @@
 # 叮嘱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzhu.md)
+
 <p><span class="chinese">神叮嘱我不要丧胆。</span><span class="english">God tells me not to faint.</span></p>
 
 <p><span class="chinese">医生叮嘱你要卧床休息。</span><span class="english">The doctor ordered you to stay in bed.</span></p>

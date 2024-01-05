@@ -1,5 +1,7 @@
 # rhinovirus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhinovirus.md)
+
 <p><span class="chinese">而进行该研究的小组只观察了防止鼻病毒的效果。</span><span class="english">The team that did this particular study only looked at a rhinovirus.</span></p>
 
 <p><span class="chinese">但其中只有一小部分最终携带多个鼻病毒株。</span><span class="english">But ultimately only a small fraction carried multiple strains of rhinovirus.</span></p>

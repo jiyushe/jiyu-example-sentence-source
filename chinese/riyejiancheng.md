@@ -1,5 +1,7 @@
 # 日夜兼程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riyejiancheng.md)
+
 <p><span class="chinese">他们将日夜兼程。</span><span class="english">They will travel day and night.</span></p>
 
 <p><span class="chinese">我们会日夜兼程，即便大地还在熟睡。</span><span class="english">Even while the earth sleeps we travel.</span></p>

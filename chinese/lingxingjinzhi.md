@@ -1,5 +1,7 @@
 # 令行禁止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingxingjinzhi.md)
+
 <p><span class="chinese">我们令行禁止，因为我们拥有很好的教学并受到了很好的训练。</span><span class="english">We have order, because we had good teaching and good training.</span></p>
 
 <p><span class="chinese">对非暴力反对力量，政府不再令行禁止，而是“加以挑战”。</span><span class="english">The government will "challenge" rather than proscribe non-violent reactionaries.</span></p>

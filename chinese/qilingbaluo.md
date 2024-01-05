@@ -1,5 +1,7 @@
 # 七零八落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qilingbaluo.md)
+
 <p><span class="chinese">屋子里七零八落地放着一些书。</span><span class="english">Books were scattered around the room.</span></p>
 
 <p><span class="chinese">低矮的树枝下那些七零八落的石块上</span><span class="english">Those stones out under the low-limbed tree</span></p>

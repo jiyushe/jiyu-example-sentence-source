@@ -1,5 +1,7 @@
 # paralytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paralytic.md)
+
 <p><span class="chinese">这个瘫痪病人又挨过了好几年。</span><span class="english">The paralytic lingered out several more years.</span></p>
 
 <p><span class="chinese">麻痹性肠梗阻可出现液气平。</span><span class="english">Gas-fluid levels may be seen in paralytic ileus.</span></p>

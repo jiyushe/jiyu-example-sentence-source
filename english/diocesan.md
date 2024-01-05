@@ -1,5 +1,7 @@
 # diocesan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diocesan.md)
+
 <p><span class="chinese">我们活动的第一站是晚上拜访澳门教区青年牧民中心。</span><span class="english">The first stop of our visit was the Diocesan Youth Pastoral Center.</span></p>
 
 <p><span class="chinese">出席这次会议的董事包括山西省三位主教及两位教区长。</span><span class="english">The meeting was attended by three bishops and two diocesan administrators.</span></p>

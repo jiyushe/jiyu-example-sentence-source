@@ -1,5 +1,7 @@
 # croaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croaker.md)
+
 <p><span class="chinese">那边黄花鱼。</span><span class="english">It's the yellow croaker.</span></p>
 
 <p><span class="chinese">是省级的大黄鱼自然保护区。</span><span class="english">Is the province's yellow croaker preserved area.</span></p>

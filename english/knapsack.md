@@ -1,5 +1,7 @@
 # knapsack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knapsack.md)
+
 <p><span class="chinese">背上了那个背囊，如今他就样样俱全了。</span><span class="english">He was complete now with that knapsack on.</span></p>
 
 <p><span class="chinese">护林员把背包挂在他的肩膀上。</span><span class="english">The ranger slung the knapsack over his shoulder.</span></p>

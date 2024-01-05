@@ -1,5 +1,7 @@
 # beth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beth.md)
+
 <p><span class="chinese">你可以叫我贝斯。</span><span class="english">You can call me Beth.</span></p>
 
 <p><span class="chinese">贝丝，嫁给我，好吗？</span><span class="english">Will you marry me, Beth?</span></p>

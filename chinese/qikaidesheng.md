@@ -1,5 +1,7 @@
 # 旗开得胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qikaidesheng.md)
+
 <p><span class="chinese">第一、我们将旗开得胜。</span><span class="english">First, we’ll hit the ground running.</span></p>
 
 <p><span class="chinese">“你知道吗？”他说，“我这一趟旗开得胜。”</span><span class="english">"Well, " he said, "I had a great trip. "</span></p>

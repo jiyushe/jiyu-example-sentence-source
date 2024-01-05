@@ -1,5 +1,7 @@
 # 贫瘠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinji.md)
+
 <p><span class="chinese">帮你妆点贫瘠的土地。</span><span class="english">To fertilize the infertile land.</span></p>
 
 <p><span class="chinese">因为万物都变得不育而贫瘠</span><span class="english">For all things turn to barrenness</span></p>

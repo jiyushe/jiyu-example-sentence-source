@@ -1,5 +1,7 @@
 # 殷殷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyin.md)
+
 <p><span class="chinese">悠悠文心，殷殷诗胆。</span><span class="english">The heart of poetry lingers.</span></p>
 
 <p><span class="chinese">传统佳节来临之际，献上圣诞节的殷殷祝福。</span><span class="english">Warm hearted wishes for an old-fashioned Christmas.</span></p>

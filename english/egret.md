@@ -1,5 +1,7 @@
 # egret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egret.md)
+
 <p><span class="chinese">小白鹭。</span><span class="english">Little Egret.</span></p>
 
 <p><span class="chinese">海豚。白鹭。</span><span class="english">The dolphin. The egret.</span></p>

@@ -1,5 +1,7 @@
 # 容身之地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongshenzhidi.md)
+
 <p><span class="chinese">这个世界决没有逃避主义者的容身之地。</span><span class="english">There is no world for escapists.</span></p>
 
 <p><span class="chinese">一旦你敞开心扉接受爱国主义，那就没有偏见的容身之地。</span><span class="english">When you open your heart to patriotism, there is no room for prejudice.</span></p>

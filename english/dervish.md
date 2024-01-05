@@ -1,5 +1,7 @@
 # dervish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dervish.md)
+
 <p><span class="chinese">他像托钵僧那样旋转着穿门而过。</span><span class="english">He whirled through the door like a dervish.</span></p>
 
 <p><span class="chinese">徐飞喜欢澳大利亚歌手丹。德维什。</span><span class="english">Xu Fei likes the Australian singer Dan Dervish.</span></p>

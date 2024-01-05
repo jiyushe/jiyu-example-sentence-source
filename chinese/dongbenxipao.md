@@ -1,5 +1,7 @@
 # 东奔西跑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongbenxipao.md)
+
 <p><span class="chinese">孩子们在公园里东奔西跑。</span><span class="english">The children were tearing around in the park.</span></p>
 
 <p><span class="chinese">一整天东奔西跑的，把我累坏了。</span><span class="english">I was exhausted after buzzing around for a whole day.</span></p>

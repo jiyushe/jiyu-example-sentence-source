@@ -1,5 +1,7 @@
 # 结汇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiehui.md)
+
 <p><span class="chinese">解决工作中遇到的问题，比如外汇核销、结汇、出口退汇，信用证等。</span><span class="english">When Assigning a right to use land which was paid for in foreign exchange , settlement.</span></p>
 
 <p><span class="chinese">目前我国外汇储备没有大规模调回并结汇的需要。</span><span class="english">Currently no large-scale repatriation of foreign exchange reserves and foreign exchange needs.</span></p>

@@ -1,5 +1,7 @@
 # hearty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hearty.md)
+
 <p><span class="chinese">热烈的欢迎准备好了，以待你来。</span><span class="english">A hearty welcome awaits you.</span></p>
 
 <p><span class="chinese">我们给他以热诚的欢迎。</span><span class="english">We accorded him a hearty welcome.</span></p>

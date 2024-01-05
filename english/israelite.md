@@ -1,5 +1,7 @@
 # israelite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/israelite.md)
+
 <p><span class="chinese">以色列人不惧面对所有中东的穆斯林。</span><span class="english">Israelite dare to face all Muslem in Middle East.</span></p>
 
 <p><span class="chinese">成为一个以色列人，后来被称为。</span><span class="english">Israelite To become an Israelite, Jew later on a Jew.</span></p>

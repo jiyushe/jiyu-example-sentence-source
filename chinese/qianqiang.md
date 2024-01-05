@@ -1,5 +1,7 @@
 # 牵强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianqiang.md)
+
 <p><span class="chinese">一个牵强的预测吗？</span><span class="english">A farfetched prediction?</span></p>
 
 <p><span class="chinese">那是太牵强的平等。</span><span class="english">That is an equality too far.</span></p>

@@ -1,5 +1,7 @@
 # cytogenetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytogenetics.md)
+
 <p><span class="chinese">研究染色体的学科。</span><span class="english">Cytogenetics --- The study of chromosomes.</span></p>
 
 <p><span class="chinese">目的探讨不良生育史与细胞遗传学的关系。</span><span class="english">Objective To investigate the relationship between nabnormal child-bearing history and cytogenetics.</span></p>

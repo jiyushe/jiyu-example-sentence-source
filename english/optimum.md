@@ -1,5 +1,7 @@
 # optimum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optimum.md)
+
 <p><span class="chinese">最佳光线是明亮的、稳定的。</span><span class="english">Optimum light is bright and even.</span></p>
 
 <p><span class="chinese">什么是最有利的选择？什么是理想状态？</span><span class="english">What is the optimum? what is the ideal?</span></p>

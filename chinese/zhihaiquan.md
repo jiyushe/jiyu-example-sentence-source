@@ -1,5 +1,7 @@
 # 制海权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhihaiquan.md)
+
 <p><span class="chinese">为什么现在要提制海权？</span><span class="english">Why now sea control?</span></p>
 
 <p><span class="chinese">德国计划向英国的制海权挑战。</span><span class="english">Germany planned to challenge Britain's naval supremacy.</span></p>

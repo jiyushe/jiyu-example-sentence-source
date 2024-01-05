@@ -1,5 +1,7 @@
 # 赛车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saiche.md)
+
 <p><span class="chinese">阿.40纳尔逊赛车引擎。</span><span class="english">A . 40 Nelson racing engine.</span></p>
 
 <p><span class="chinese">赛车撞上了灯柱。</span><span class="english">The car ran into a lamp-post.</span></p>

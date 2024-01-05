@@ -1,5 +1,7 @@
 # nehemiah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nehemiah.md)
+
 <p><span class="chinese">尼希米记的意思是“慰问使者”。</span><span class="english">Nehemiah means " Jah is comfort".</span></p>
 
 <p><span class="chinese">你可以在你的国家里成为一位尼赫迈亚。</span><span class="english">You can be a Nehemiah in your city.</span></p>

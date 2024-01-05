@@ -1,5 +1,7 @@
 # paean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paean.md)
+
 <p><span class="chinese">哈泼·李1960年对南边的赞歌，是美国历来最受爱好的小说之一。</span><span class="english">Harper Lee's 1960 paean to the South is one of the most liked American novels ever written.</span></p>
 
 <p><span class="chinese">本书是哈泼·李1960年对南方的赞歌，是美国历来最受喜爱的小说之一。</span><span class="english">Harper Lee's 1960 paean to the South is one of the most beloved American novels ever written.</span></p>

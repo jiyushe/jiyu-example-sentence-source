@@ -1,5 +1,7 @@
 # 外军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waijun.md)
+
 <p><span class="chinese">中军和外军在军服标准上差别很大，各军常穿着同一颜色的军服。</span><span class="english">In the army, Lushi took charge of it. Troops of ten had uniform of the same color.</span></p>
 
 <p><span class="chinese">本文最后附表说明了外军对流层散射通信设备的现状。</span><span class="english">Lastly, a table of the curent military troposcatter communication equipments abroad is presented.</span></p>

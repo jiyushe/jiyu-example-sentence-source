@@ -1,5 +1,7 @@
 # corpuscle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corpuscle.md)
+
 <p><span class="chinese">他称之为带点的颗粒。</span><span class="english">He called it the corpuscle of electric charge.</span></p>
 
 <p><span class="chinese">在毛细血管里欢歌的血球恨你。</span><span class="english">Each corpuscle singing in its capillary hates you.</span></p>

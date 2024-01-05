@@ -1,5 +1,7 @@
 # enticement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enticement.md)
+
 <p><span class="chinese">这是撒旦对耶稣的诱惑的顶峰。</span><span class="english">This is the Satan to Jesus's enticement crest.</span></p>
 
 <p><span class="chinese">诱惑与理性并存，可是，人毕竟是自私的。</span><span class="english">Enticement and rational coexisting, but the human is selfish.</span></p>

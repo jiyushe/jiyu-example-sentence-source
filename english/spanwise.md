@@ -1,5 +1,7 @@
 # spanwise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spanwise.md)
+
 <p><span class="chinese">计算中采用传统的弦向级数和展向分条。</span><span class="english">A spanwise strip together with a classical chordwise series are used.</span></p>
 
 <p><span class="chinese">对超音速核函数法的展向积分作了改进。</span><span class="english">Some improvements are made on the spanwise integration of the supersonic kernel function method.</span></p>

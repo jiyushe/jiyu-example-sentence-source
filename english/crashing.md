@@ -1,5 +1,7 @@
 # crashing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crashing.md)
+
 <p><span class="chinese">它总是死机。</span><span class="english">It keeps crashing.</span></p>
 
 <p><span class="chinese">一个由拍岸惊涛注满的海池。</span><span class="english">A sea filled pool with crashing surf.</span></p>

@@ -1,5 +1,7 @@
 # trope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trope.md)
+
 <p><span class="chinese">Careny问到，”这仅仅是华尔街的一面之词？</span><span class="english">So is this just a Wall Street trope?</span></p>
 
 <p><span class="chinese">我们已经看过关于房子的比喻。</span><span class="english">So we've already seen the trope of the house.</span></p>

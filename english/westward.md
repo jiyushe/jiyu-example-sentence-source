@@ -1,5 +1,7 @@
 # westward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/westward.md)
+
 <p><span class="chinese">向南京西进。</span><span class="english">Westward march to Nanking.</span></p>
 
 <p><span class="chinese">向西或到什么别的地方去勘探。</span><span class="english">Explore westward or wherever.</span></p>

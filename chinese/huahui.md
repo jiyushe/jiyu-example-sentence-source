@@ -1,5 +1,7 @@
 # 花卉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huahui.md)
+
 <p><span class="chinese">兼善花卉，古雅有致。</span><span class="english">Poor And have good flowers, quaint.</span></p>
 
 <p><span class="chinese">花卉花的世界，为什么要真实存在。</span><span class="english">Flower flower world, why take it ture.</span></p>

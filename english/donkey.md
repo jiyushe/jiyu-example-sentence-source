@@ -1,5 +1,7 @@
 # donkey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donkey.md)
+
 <p><span class="chinese">小毛驴在那里？</span><span class="english">Where is donkey?</span></p>
 
 <p><span class="chinese">驴和母马交配。</span><span class="english">A donkey mate with a mare.</span></p>

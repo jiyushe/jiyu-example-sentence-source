@@ -1,5 +1,7 @@
 # stonework
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stonework.md)
+
 <p><span class="chinese">你可以看到它部份拼花石制地板。</span><span class="english">You can see part of its patterned stonework floor.</span></p>
 
 <p><span class="chinese">仔细观察能看到石雕中的裂缝。</span><span class="english">Close inspection shows up the cracks in the stonework.</span></p>

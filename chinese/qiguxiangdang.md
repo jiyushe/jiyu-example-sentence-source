@@ -1,5 +1,7 @@
 # 旗鼓相当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiguxiangdang.md)
+
 <p><span class="chinese">中国人和印度人在这方面是否旗鼓相当？</span><span class="english">Are chinee equal to Indians in this matter?</span></p>
 
 <p><span class="chinese">作为生物学家，拉马克与达尔文旗鼓相当。</span><span class="english">As a biologist, Lamarck was equal to Darwin.</span></p>

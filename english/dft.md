@@ -1,5 +1,7 @@
 # dft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dft.md)
+
 <p><span class="chinese">戈泽尔算法是离散傅立叶变换的一种快速算法。</span><span class="english">Goertzel algorithm is a fast algorithm of DFT.</span></p>
 
 <p><span class="chinese">仅适用于小面积，须多道涂层以达到规定膜厚。</span><span class="english">Small areas only. Multiple coats may be needed to achieve specified DFT.</span></p>

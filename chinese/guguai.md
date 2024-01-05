@@ -1,5 +1,7 @@
 # 古怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guguai.md)
+
 <p><span class="chinese">就像我说的，古怪。</span><span class="english">Like I said, quirky.</span></p>
 
 <p><span class="chinese">这种类型的男人看起来有点古怪。</span><span class="english">This one looks a bit odd.</span></p>

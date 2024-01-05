@@ -1,5 +1,7 @@
 # libido
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libido.md)
+
 <p><span class="chinese">在这个意义上，力比多的反义词是死亡本能。</span><span class="english">In this sense, the antonym of libido is destrudo.</span></p>
 
 <p><span class="chinese">获得一些观点或许能帮助你找回激情。</span><span class="english">Getting some perspective may help your libido return.</span></p>

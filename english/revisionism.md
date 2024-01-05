@@ -1,5 +1,7 @@
 # revisionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revisionism.md)
+
 <p><span class="chinese">实际上中国并没有修正主义上台。</span><span class="english">In fact, there was no revisionism in China.</span></p>
 
 <p><span class="chinese">修正主义是一种资产阶级思想。</span><span class="english">Revisionism is one form of bourgeois ideology.</span></p>

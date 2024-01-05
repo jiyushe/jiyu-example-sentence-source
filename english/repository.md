@@ -1,5 +1,7 @@
 # repository
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repository.md)
+
 <p><span class="chinese">从存储库签出代码。</span><span class="english">Check-out code from a repository.</span></p>
 
 <p><span class="chinese">园内设立骨灰存放处。</span><span class="english">Park set up the ashes repository.</span></p>

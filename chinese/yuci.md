@@ -1,5 +1,7 @@
 # 鱼刺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuci.md)
+
 <p><span class="chinese">我喉咙里卡了一根鱼刺。</span><span class="english">A fish-bone stuck in my throat.</span></p>
 
 <p><span class="chinese">一根鱼刺卡在他喉咙里了。</span><span class="english">A fishbone stuck in his throat.</span></p>

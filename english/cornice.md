@@ -1,5 +1,7 @@
 # cornice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornice.md)
+
 <p><span class="chinese">在上层檐口之上是弦月窗。</span><span class="english">Above the upper cornice are situated the lunettes.</span></p>
 
 <p><span class="chinese">你能在图纸上给我指出檐口部分吗？</span><span class="english">Can you show me the part of cornice on the drawing?</span></p>

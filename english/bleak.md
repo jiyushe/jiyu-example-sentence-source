@@ -1,5 +1,7 @@
 # bleak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleak.md)
+
 <p><span class="chinese">在这个凄冷孤独的世界？</span><span class="english">This bleak world alone?</span></p>
 
 <p><span class="chinese">冷地看了我一眼。</span><span class="english">She gave me a bleak look.</span></p>

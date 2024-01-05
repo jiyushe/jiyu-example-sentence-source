@@ -1,5 +1,7 @@
 # 贵贱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guijian.md)
+
 <p><span class="chinese">恋爱不分贵贱。</span><span class="english">Love makes all equal.</span></p>
 
 <p><span class="chinese">不论贵贱我都要买它。</span><span class="english">I will buy it, dear or cheap.</span></p>

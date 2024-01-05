@@ -1,5 +1,7 @@
 # preference
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preference.md)
+
 <p><span class="chinese">一种方法便是呈现</span><span class="english">One is preference.</span></p>
 
 <p><span class="chinese">择偶偏好又如何？</span><span class="english">What about mate preference?</span></p>

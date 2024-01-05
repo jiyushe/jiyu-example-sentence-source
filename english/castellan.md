@@ -1,5 +1,7 @@
 # castellan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/castellan.md)
+
 <p><span class="chinese">寨主很是生气。</span><span class="english">Castellan is very angry.</span></p>
 
 <p><span class="chinese">辛平贵带寨主夫人来到家里参观。</span><span class="english">XinPingGui castellan lady came home to visit.</span></p>

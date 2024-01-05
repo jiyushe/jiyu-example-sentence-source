@@ -1,5 +1,7 @@
 # imbecile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imbecile.md)
+
 <p><span class="chinese">我说，"让我看看,'昧'，它的意思是聪明、机灵。</span><span class="english">Imbecile.'It means smart, intelligent.</span></p>
 
 <p><span class="chinese">人是聪敏的动物表现如低能儿。</span><span class="english">Man is a clever animal who behaves like an imbecile.</span></p>

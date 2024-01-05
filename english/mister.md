@@ -1,5 +1,7 @@
 # mister
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mister.md)
+
 <p><span class="chinese">是你的车吗，先生？</span><span class="english">Is this your car, Mister?</span></p>
 
 <p><span class="chinese">他们叫我狄博思先生！</span><span class="english">They call me MISTER Tibbs!</span></p>

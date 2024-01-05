@@ -1,5 +1,7 @@
 # directive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/directive.md)
+
 <p><span class="chinese">这是一个命令句式。</span><span class="english">And it's a directive.</span></p>
 
 <p><span class="chinese">神派下来更多的家人带着相同的指令。</span><span class="english">God sent more family with the same directive.</span></p>

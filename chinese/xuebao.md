@@ -1,5 +1,7 @@
 # 学报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuebao.md)
+
 <p><span class="chinese">汽车安全与节能学报，2011年，第2卷第2期。</span><span class="english">Automotive Safety and Energy, 2011, Vol. 2 No. 2</span></p>
 
 <p><span class="chinese">康定民族师范高等专科学校学报。</span><span class="english">Journal of Kangding Nationality Teachers College.</span></p>

@@ -1,5 +1,7 @@
 # 囫囵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hulun.md)
+
 <p><span class="chinese">他囫囵吞下一碗面条。</span><span class="english">He bolted down a bowl of noodles.</span></p>
 
 <p><span class="chinese">这只猴子囫囵吞下食物。</span><span class="english">The monkey engulfed the food whole.</span></p>

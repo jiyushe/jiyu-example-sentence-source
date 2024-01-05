@@ -1,5 +1,7 @@
 # superstition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superstition.md)
+
 <p><span class="chinese">活动的迷信化。</span><span class="english">Superstition of the activity.</span></p>
 
 <p><span class="chinese">他认为这带有迷信色彩。</span><span class="english">He thinks it smacks of superstition.</span></p>

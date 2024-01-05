@@ -1,5 +1,7 @@
 # most
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/most.md)
+
 <p><span class="chinese">大多数可能是这样。</span><span class="english">Most probably.</span></p>
 
 <p><span class="chinese">谁是最大的赢家？</span><span class="english">Who wins the most?</span></p>

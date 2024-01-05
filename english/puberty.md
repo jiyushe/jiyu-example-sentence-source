@@ -1,5 +1,7 @@
 # puberty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puberty.md)
+
 <p><span class="chinese">她已到青春期。</span><span class="english">She has arrived at puberty.</span></p>
 
 <p><span class="chinese">姑娘的身段在青春期变得丰满。</span><span class="english">The figure of a girl fills out at puberty.</span></p>

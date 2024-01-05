@@ -1,5 +1,7 @@
 # 挺直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhi_3.md)
+
 <p><span class="chinese">主人挺直了他的背。</span><span class="english">The host straightened his back.</span></p>
 
 <p><span class="chinese">一个站得挺直，一个驼背。</span><span class="english">One stands straight. One's crooked.</span></p>

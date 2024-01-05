@@ -1,5 +1,7 @@
 # olefin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olefin.md)
+
 <p><span class="chinese">烯空气跟空气十分近似。</span><span class="english">Olefin gas closely approximates air.</span></p>
 
 <p><span class="chinese">对烯烃转换工艺技术作了介绍。</span><span class="english">Process flow of olefin conversion unit is introduced.</span></p>

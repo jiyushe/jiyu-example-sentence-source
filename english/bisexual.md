@@ -1,5 +1,7 @@
 # bisexual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bisexual.md)
+
 <p><span class="chinese">我是个双性恋。</span><span class="english">I am bisexual.</span></p>
 
 <p><span class="chinese">你是双性恋吗？</span><span class="english">Are you bisexual?</span></p>

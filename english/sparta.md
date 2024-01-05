@@ -1,5 +1,7 @@
 # sparta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparta.md)
+
 <p><span class="chinese">斯巴达战鬼…?。</span><span class="english">Ghost of Sparta?</span></p>
 
 <p><span class="chinese">我叫厄菲阿尔特，出生在斯巴达。</span><span class="english">I am Ephialtes, born of Sparta.</span></p>

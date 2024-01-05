@@ -1,5 +1,7 @@
 # ceasefire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceasefire.md)
+
 <p><span class="chinese">Faraj说道，“我现在是支持停火了，因为我们太弱了。</span><span class="english">I support the ceasefire now.</span></p>
 
 <p><span class="chinese">但是以色列还说，它更愿意再次实施停火协定。</span><span class="english">Said that it prefers to renew the ceasefire.</span></p>

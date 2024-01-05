@@ -1,5 +1,7 @@
 # euthanize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euthanize.md)
+
 <p><span class="chinese">那时候，那个人想让她安乐死。</span><span class="english">and want to euthanize her, you know, kill.</span></p>
 
 <p><span class="chinese">所以他想让她安乐死。</span><span class="english">so he wanted to pretty much euthanize her.</span></p>

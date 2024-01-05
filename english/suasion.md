@@ -1,5 +1,7 @@
 # suasion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suasion.md)
+
 <p><span class="chinese">这种关系是开放的，劝说是渐进性的和系统性的。</span><span class="english">The relationship was open, and the suasion was gradual and systemic.</span></p>
 
 <p><span class="chinese">西曼斯基有理由希望，居高临下的一点道德说教就足够了。</span><span class="english">Szymanski holds out hope that a bit of moral suasion from high places would suffice.</span></p>

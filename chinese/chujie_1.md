@@ -1,5 +1,7 @@
 # 出界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chujie_1.md)
+
 <p><span class="chinese">他发球出界。</span><span class="english">He served it out.</span></p>
 
 <p><span class="chinese">裁判员宣告他出界。</span><span class="english">The umpire gave him out.</span></p>

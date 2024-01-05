@@ -1,5 +1,7 @@
 # quasi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quasi.md)
+
 <p><span class="chinese">还有，你的枪法很准。</span><span class="english">By the way, your marksmanship is quasi -.</span></p>
 
 <p><span class="chinese">d小调三重奏，像一首舞曲，作品27。</span><span class="english">Trio quasi una ballata in D minor, Op. 27</span></p>

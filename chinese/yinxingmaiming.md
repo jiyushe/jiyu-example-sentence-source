@@ -1,5 +1,7 @@
 # 隐姓埋名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxingmaiming.md)
+
 <p><span class="chinese">他过着隐姓埋名的生活。</span><span class="english">He was living under an assumed name.</span></p>
 
 <p><span class="chinese">我只想像一个孤魂一样，完完全全地隐姓埋名。</span><span class="english">I just wanted to be a ghost, completely anonymous.</span></p>

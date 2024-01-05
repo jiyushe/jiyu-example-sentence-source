@@ -1,5 +1,7 @@
 # petrological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrological.md)
+
 <p><span class="chinese">本次实验澄清了一些长期争论的岩石学和矿物学问题。</span><span class="english">This experiment provides the basis for ihe solution of some petrological and mineralogical problems.</span></p>
 
 <p><span class="chinese">这些都说明“江南造山带”的厘定有充分的岩石学证据。</span><span class="english">It is suggested that the confirmation of "Jiangnan orogenic belt" has been supported by full petrological evidences.</span></p>

@@ -1,5 +1,7 @@
 # misgiving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misgiving.md)
+
 <p><span class="chinese">看到他这样悠闲自得，嘉莉不免有些疑惑。</span><span class="english">Carrie observed his ease with some misgiving.</span></p>
 
 <p><span class="chinese">就这样，嘉莉最初的疑虑被一扫而光。</span><span class="english">Thus the first hour of misgiving was swept away.</span></p>

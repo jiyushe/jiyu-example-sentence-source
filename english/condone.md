@@ -1,5 +1,7 @@
 # condone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condone.md)
+
 <p><span class="chinese">她说父母不应该原谅这种行为。</span><span class="english">She said parents shouldn't condone this.</span></p>
 
 <p><span class="chinese">联合国对私营军事嗤之以鼻,我们绝不容忍“唯利是图”的做法。</span><span class="english">We don’t condone “mercenaries, ” sniffs the UN.</span></p>

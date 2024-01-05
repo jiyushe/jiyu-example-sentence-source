@@ -1,5 +1,7 @@
 # username
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/username.md)
+
 <p><span class="chinese">请输入一个有效的用户名。</span><span class="english">Please enter a valid username.</span></p>
 
 <p><span class="chinese">选用正规的用户名。</span><span class="english">Choose a professional username.</span></p>

@@ -1,5 +1,7 @@
 # cryogenics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryogenics.md)
+
 <p><span class="chinese">现公司主要致力于电子产品、太阳能产品、制冷设备的开发及销售。</span><span class="english">It is an important application in the field of cryogenics and refrigeration.</span></p>
 
 <p><span class="chinese">对高速钢成品丝锥深冷处理前后的组织及性能进行了分析研究。</span><span class="english">The structure and cutting property on HSS machine taps by deep cryogenics are studied.</span></p>

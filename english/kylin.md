@@ -1,5 +1,7 @@
 # kylin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kylin.md)
+
 <p><span class="chinese">终有一天，麒麟将控制我们的生活！</span><span class="english">One day, KYLIN will control our life!</span></p>
 
 <p><span class="chinese">我觉得自己有足够的能力照顾闷油瓶。</span><span class="english">I feel adequate for taking care of Kylin.</span></p>

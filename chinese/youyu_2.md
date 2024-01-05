@@ -1,5 +1,7 @@
 # 犹豫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyu_2.md)
+
 <p><span class="chinese">他犹豫了。</span><span class="english">He hesitated.</span></p>
 
 <p><span class="chinese">有一些会犹豫。</span><span class="english">A few will balk.</span></p>

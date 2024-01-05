@@ -1,5 +1,7 @@
 # parnassus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parnassus.md)
+
 <p><span class="chinese">在文森特·洛德选定的领域中，他或许，甚至很可能登上帕纳萨斯山。</span><span class="english">In his chosen field Vince Lord could, and probably would scale the Parnassus heights.</span></p>
 
 <p><span class="chinese">吉恩-保尔•里希特尔曾说，从帕纳萨斯看景色，比坐在宝座上看，视野更开阔。</span><span class="english">There is a wider prospect, says Jean Paul Richter, from Parnassus than from a throne.</span></p>

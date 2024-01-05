@@ -1,5 +1,7 @@
 # 褶子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhezi.md)
+
 <p><span class="chinese">这是一件打褶子的裙子。</span><span class="english">It is a gathered skirt.</span></p>
 
 <p><span class="chinese">她用粗针脚把褶子都缝住了。</span><span class="english">She tacked the pleats down.</span></p>

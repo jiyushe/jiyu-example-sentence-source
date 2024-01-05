@@ -1,5 +1,7 @@
 # bristlecone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bristlecone.md)
+
 <p><span class="chinese">科恩松就是一个明显的例子。</span><span class="english">A prime example is the bristlecone pine.</span></p>
 
 <p><span class="chinese">科恩在美国加州松树山。</span><span class="english">Bristlecone pine in the mountains of California.</span></p>

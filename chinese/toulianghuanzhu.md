@@ -1,5 +1,7 @@
 # 偷梁换柱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toulianghuanzhu.md)
+
 <p><span class="chinese">这个公司偷梁换柱欺骗顾客。</span><span class="english">This company resorted to fraud to deceive the customers.</span></p>
 
 <p><span class="chinese">放在宫殿里的项链先是被偷梁换柱，后来又被转移了。</span><span class="english">The necklace placed in the palace is replaced first, and displaced later.</span></p>

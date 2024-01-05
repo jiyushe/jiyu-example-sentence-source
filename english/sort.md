@@ -1,5 +1,7 @@
 # sort 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sort.md)
+
 <p><span class="chinese">归并排序。</span><span class="english">Merge Sort.</span></p>
 
 <p><span class="chinese">这之类的。</span><span class="english">Or sort of.</span></p>

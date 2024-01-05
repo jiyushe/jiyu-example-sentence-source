@@ -1,5 +1,7 @@
 # 稳步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenbu.md)
+
 <p><span class="chinese">我们的生产稳步上升。</span><span class="english">Our production goes steadily up.</span></p>
 
 <p><span class="chinese">稳步辊女子前来自首途中。</span><span class="english">Steady rollin woman gonna come my way.</span></p>

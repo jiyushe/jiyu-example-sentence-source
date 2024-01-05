@@ -1,5 +1,7 @@
 # 自强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziqiang.md)
+
 <p><span class="chinese">女孩当自强。我会加油。</span><span class="english">I'll be a strong girl & do my best.</span></p>
 
 <p><span class="chinese">珍妮独立自强，充满活力。</span><span class="english">Janie brims with independence and strength.</span></p>

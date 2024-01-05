@@ -1,5 +1,7 @@
 # quaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quaker.md)
+
 <p><span class="chinese">不过，我的大部分时间是在贵格教学校度过的。</span><span class="english">However, I spent most of my time in a Quaker school.</span></p>
 
 <p><span class="chinese">你看，贵格会教徒也会奉承人了，但你可别翘尾巴呀。</span><span class="english">You see a Quaker can flatter, but don't you be proud.</span></p>

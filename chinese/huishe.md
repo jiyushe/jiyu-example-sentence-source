@@ -1,5 +1,7 @@
 # 会社
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huishe.md)
+
 <p><span class="chinese">互助会社也施行着各自的道德规范。</span><span class="english">Mutual-aid societies also enforced moral codes.</span></p>
 
 <p><span class="chinese">该会社是否会设有酒吧柜枱？</span><span class="english">Whether there be a bar counter on the premises?</span></p>

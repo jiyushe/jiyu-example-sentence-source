@@ -1,5 +1,7 @@
 # jugular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jugular.md)
+
 <p><span class="chinese">他知道，大家清楚，锡拉库扎是整个西西里的要害。</span><span class="english">He knew, you see, that Syracuse was the jugular of the island.</span></p>
 
 <p><span class="chinese">它们会扑倒猎物并咬住咽喉杀死猎物。</span><span class="english">They run them down and make their kill with a bite to the jugular.</span></p>

@@ -1,5 +1,7 @@
 # query
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/query.md)
+
 <p><span class="chinese">查询词最新更新。</span><span class="english">Recent updates about QUERY.</span></p>
 
 <p><span class="chinese">重新解析旧的查询字符串。</span><span class="english">Reparse the old query string.</span></p>

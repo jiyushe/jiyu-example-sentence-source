@@ -1,5 +1,7 @@
 # 闹肚子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoduzi.md)
+
 <p><span class="chinese">让他闹肚子”！</span><span class="english">Let his stomach"!"</span></p>
 
 <p><span class="chinese">你们这是否卖治闹肚子的药呢？</span><span class="english">Do you guys carry medication for upset stomach?</span></p>

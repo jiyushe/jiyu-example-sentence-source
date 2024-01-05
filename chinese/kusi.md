@@ -1,5 +1,7 @@
 # 枯死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kusi.md)
+
 <p><span class="chinese">严霜使花枯死。</span><span class="english">The frost killed the flowers.</span></p>
 
 <p><span class="chinese">久旱无雨期间，庄稼都枯死了。</span><span class="english">The crops died during the drought.</span></p>

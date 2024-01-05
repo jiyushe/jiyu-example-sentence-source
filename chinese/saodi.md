@@ -1,5 +1,7 @@
 # 扫地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saodi.md)
+
 <p><span class="chinese">今天早上有人看见李勇扫地板。</span><span class="english">Li Yong sweep the floor this morning.</span></p>
 
 <p><span class="chinese">凤娇今天早上扫地。</span><span class="english">Fengjiao swept the floor this morning.</span></p>

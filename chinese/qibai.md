@@ -1,5 +1,7 @@
 # 七百
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qibai.md)
+
 <p><span class="chinese">最大负荷七百三十九磅。</span><span class="english">Maximum Load 739 lbs.</span></p>
 
 <p><span class="chinese">古罗马于公元前七百五十三年建立。</span><span class="english">Rome was begun in 753 BC.</span></p>

@@ -1,5 +1,7 @@
 # napped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/napped.md)
+
 <p><span class="chinese">他整整睡了一天。</span><span class="english">He napped the day away.</span></p>
 
 <p><span class="chinese">他砰的一声把箱子盖合上了。</span><span class="english">He s napped down the lid of the box.</span></p>

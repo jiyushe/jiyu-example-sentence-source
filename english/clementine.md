@@ -1,5 +1,7 @@
 # clementine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clementine.md)
+
 <p><span class="chinese">和他女儿克莱门泰。</span><span class="english">And his daughter Clementine.</span></p>
 
 <p><span class="chinese">他也是1994年美国国防部克莱门蒂号赴月任务科学团队的副领导人。</span><span class="english">S. Department of Defense's Clementine mission to the moon in 1994.</span></p>

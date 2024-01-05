@@ -1,5 +1,7 @@
 # leiden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leiden.md)
+
 <p><span class="chinese">这是莱顿大学医学中心的网站。</span><span class="english">This is the website of the Leiden University Medical Center.</span></p>
 
 <p><span class="chinese">他去了莱顿医学院,他想看看如何解剖人体</span><span class="english">He went to the Leiden Medical School, because he wanted to see how you dissected bodies.</span></p>

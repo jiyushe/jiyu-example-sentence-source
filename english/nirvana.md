@@ -1,5 +1,7 @@
 # nirvana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nirvana.md)
+
 <p><span class="chinese">什么是涅槃？</span><span class="english">What is Nirvana?</span></p>
 
 <p><span class="chinese">涅盘是幸福！</span><span class="english">Nirvana is happiness!</span></p>

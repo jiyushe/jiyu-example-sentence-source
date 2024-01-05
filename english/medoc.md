@@ -1,5 +1,7 @@
 # medoc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medoc.md)
+
 <p><span class="chinese">法国的麦道克酒是一种很好的酒…</span><span class="english">Medoc is a very good wine.</span></p>
 
 <p><span class="chinese">从任何角度欣赏都是一款很有陈年潜力的梅多克好酒。</span><span class="english">Grand wine for long ageing from a great Médoc vintage in all aspects.</span></p>

@@ -1,5 +1,7 @@
 # quarter 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quarter.md)
+
 <p><span class="chinese">浅唱一季。笑靥倾城。</span><span class="english">On quarter to sing.</span></p>
 
 <p><span class="chinese">可以请你高抬贵手吗？</span><span class="english">Can i ask for quarter?</span></p>

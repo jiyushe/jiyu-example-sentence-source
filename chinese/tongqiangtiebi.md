@@ -1,5 +1,7 @@
 # 铜墙铁壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongqiangtiebi.md)
+
 <p><span class="chinese">真正的铜墙铁壁是什么？</span><span class="english">What is a true bastion of iron?</span></p>
 
 <p><span class="chinese">同志们，这果然是铜墙铁壁吗？</span><span class="english">Comrades! Are they really iron bastions?</span></p>

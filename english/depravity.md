@@ -1,5 +1,7 @@
 # depravity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depravity.md)
+
 <p><span class="chinese">但是这是堕落吗？</span><span class="english">But is this depravity?</span></p>
 
 <p><span class="chinese">是因为她们本性的堕落。</span><span class="english">Because of the nature of their depravity.</span></p>

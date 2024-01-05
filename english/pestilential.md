@@ -1,5 +1,7 @@
 # pestilential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pestilential.md)
+
 <p><span class="chinese">我们得把这些可恶的苍蝇消灭掉。</span><span class="english">We must get rid of these pestilential flies.</span></p>
 
 <p><span class="chinese">你没有名字，或许叫瘟猪！</span><span class="english">You haven't name , Perhaps you are pestilential pig !</span></p>

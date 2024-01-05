@@ -1,5 +1,7 @@
 # inquisitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inquisitive.md)
+
 <p><span class="chinese">是一个勤学好问的学生，活跃了班内气氛。</span><span class="english">Inquisitive student who adds to class atmosphere.</span></p>
 
 <p><span class="chinese">茄子做的企鹅们正在好奇地看什么呢？</span><span class="english">These inquisitive looking penguins are made of eggplant.</span></p>

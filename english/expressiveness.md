@@ -1,5 +1,7 @@
 # expressiveness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressiveness.md)
+
 <p><span class="chinese">文学之美不外是辞达而已。</span><span class="english">Literary beauty is only expressiveness.</span></p>
 
 <p><span class="chinese">在这里主要的优劣在于富于表现力和简单性的比较。</span><span class="english">The main trade-off here is in expressiveness vs. simplicity.</span></p>

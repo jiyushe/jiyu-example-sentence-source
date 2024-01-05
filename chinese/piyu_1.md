@@ -1,5 +1,7 @@
 # 譬喻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piyu_1.md)
+
 <p><span class="chinese">其实这只是一种譬喻罢了。</span><span class="english">Actually it's merely an analogy.</span></p>
 
 <p><span class="chinese">我总在做出确定，譬喻戒烟。</span><span class="english">I'm regularly making resolutions- like giving up smoking.</span></p>

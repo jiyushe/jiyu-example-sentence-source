@@ -1,5 +1,7 @@
 # 刑讯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxun.md)
+
 <p><span class="chinese">刑讯逼供是有报应的。</span><span class="english">Torture has consequences.</span></p>
 
 <p><span class="chinese">我被带到了刑讯室去进行拷问。</span><span class="english">I was taken to a chamber for sweating.</span></p>

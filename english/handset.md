@@ -1,5 +1,7 @@
 # handset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handset.md)
+
 <p><span class="chinese">手机配件。</span><span class="english">Handset fitting.</span></p>
 
 <p><span class="chinese">不需要有听筒喇叭扩音器。</span><span class="english">Not with the handset speakerphone.</span></p>

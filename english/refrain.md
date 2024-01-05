@@ -1,5 +1,7 @@
 # refrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refrain.md)
+
 <p><span class="chinese">敲打着，呜咽着，奏出一支美妙的老调子</span><span class="english">Beat and sob to the old refrain</span></p>
 
 <p><span class="chinese">叠句常用于诗歌中。</span><span class="english">Refrain is often used in a poem.</span></p>

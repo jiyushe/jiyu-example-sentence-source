@@ -1,5 +1,7 @@
 # calif
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calif.md)
+
 <p><span class="chinese">这些城市包括了塔科马、加州的圣荷塞和橘子郡。</span><span class="english">and Orange County, Calif.</span></p>
 
 <p><span class="chinese">把机器人送往太空中，然后捕获一颗小行星，接着将其带回地球的轨道之中。</span><span class="english">PASADENA, Calif. —Send a robot into space.</span></p>

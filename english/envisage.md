@@ -1,5 +1,7 @@
 # envisage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/envisage.md)
+
 <p><span class="chinese">你必须正视现实。</span><span class="english">You must envisage realities.</span></p>
 
 <p><span class="chinese">很难想像一个更具有破坏性的商业模式。</span><span class="english">It’s hard to envisage a more disruptive business model.</span></p>

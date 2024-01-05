@@ -1,5 +1,7 @@
 # pithy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pithy.md)
+
 <p><span class="chinese">这篇文章短小精悍。</span><span class="english">This article is short and pithy.</span></p>
 
 <p><span class="chinese">写出简练而带有情报性的标题是一种艺术形式。</span><span class="english">Writing pithy and informative titles is an art form.</span></p>

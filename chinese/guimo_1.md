@@ -1,5 +1,7 @@
 # 规模
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guimo_1.md)
+
 <p><span class="chinese">但它能成规模吗？</span><span class="english">But will it scale?</span></p>
 
 <p><span class="chinese">中档规模的花香。</span><span class="english">Mid-scale florals.</span></p>

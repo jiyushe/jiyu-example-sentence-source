@@ -1,5 +1,7 @@
 # exactly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exactly_1.md)
+
 <p><span class="chinese">一个人时，没错。</span><span class="english">Only," exactly.</span></p>
 
 <p><span class="chinese">不，不完全是。</span><span class="english">No, not exactly.</span></p>

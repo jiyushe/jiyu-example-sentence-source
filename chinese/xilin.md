@@ -1,5 +1,7 @@
 # 西邻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xilin.md)
+
 <p><span class="chinese">而它与东边美国以及西邻诸国的关系都不靠谱。</span><span class="english">Yet it is not fully secure in its relationship with either east or west.</span></p>
 
 <p><span class="chinese">西邻月亮湾100米，东距第一海水浴场0米，烟台山公园1000米。</span><span class="english">West of north of 100 meters, 0 meters east of the first beach, Yantai Park 1000 meters.</span></p>

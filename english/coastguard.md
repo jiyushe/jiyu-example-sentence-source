@@ -1,5 +1,7 @@
 # coastguard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coastguard.md)
+
 <p><span class="chinese">还有水警，-水警。</span><span class="english">And coastguard. -Coastguard.</span></p>
 
 <p><span class="chinese">海岸警备队把营救小队分驻在沿海一带。</span><span class="english">The coastguard bases rescue units along the ocean shores.</span></p>

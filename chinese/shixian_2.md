@@ -1,5 +1,7 @@
 # 实现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixian_2.md)
+
 <p><span class="chinese">实现上传！</span><span class="english">Yeah! Uploads!</span></p>
 
 <p><span class="chinese">也没有啥承诺须去实现。</span><span class="english">No promises to keep.</span></p>

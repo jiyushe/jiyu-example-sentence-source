@@ -1,5 +1,7 @@
 # shrapnel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrapnel.md)
+
 <p><span class="chinese">弹片呼啸而过，把我的喉咙割破。</span><span class="english">Shrapnel zings by, slices my throat.</span></p>
 
 <p><span class="chinese">产生蒸汽云爆炸，伴有榴散弹！</span><span class="english">Vapour Cloud Explosion with shrapnel !</span></p>

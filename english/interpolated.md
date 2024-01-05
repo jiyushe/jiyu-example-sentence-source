@@ -1,5 +1,7 @@
 # interpolated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpolated.md)
+
 <p><span class="chinese">这篇文章已被篡改过了。</span><span class="english">The article has been interpolated.</span></p>
 
 <p><span class="chinese">威廉斯插入了许多伪造的素材。</span><span class="english">Williams interpolated much spurious matter.</span></p>

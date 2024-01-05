@@ -1,5 +1,7 @@
 # abbreviated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abbreviated.md)
+
 <p><span class="chinese">Esquire可缩写成Esq.。</span><span class="english">Esquire can be abbreviated to Esq.</span></p>
 
 <p><span class="chinese">因为下雨，仪式从简。</span><span class="english">The ceremony was abbreviated by rain.</span></p>

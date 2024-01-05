@@ -1,5 +1,7 @@
 # lunacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lunacy.md)
+
 <p><span class="chinese">但这一切基本上是迷梦和狂想。</span><span class="english">But all this was essentially lunacy.</span></p>
 
 <p><span class="chinese">浮士德的精神失常，认为他可以骗过魔鬼。</span><span class="english">Faustus's lunacy in thinking he can overreach the devil.</span></p>

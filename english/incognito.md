@@ -1,5 +1,7 @@
 # incognito
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incognito.md)
+
 <p><span class="chinese">摩根微服私访。</span><span class="english">P. Morgan traveling incognito.</span></p>
 
 <p><span class="chinese">审查通过了就可以改名字了。</span><span class="english">Examine passed OK and incognito word.</span></p>

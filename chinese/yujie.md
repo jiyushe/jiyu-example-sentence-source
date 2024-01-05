@@ -1,5 +1,7 @@
 # 郁结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yujie.md)
+
 <p><span class="chinese">哀怨情感内敛凝聚，是沉重的体验，易郁结不散。</span><span class="english">Grieved emotion is the heavy experience, it is difficult to disappear.</span></p>
 
 <p><span class="chinese">第三部分冯词“悲喜综错、盘旋郁结”艺术风格的成因。</span><span class="english">The three chapter discussed the genesis of artistic style of Feng Yansi's Ci.</span></p>

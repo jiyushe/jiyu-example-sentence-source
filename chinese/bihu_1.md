@@ -1,5 +1,7 @@
 # 庇护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bihu_1.md)
+
 <p><span class="chinese">她一直躲藏在班的庇护下。</span><span class="english">She has been in hiding.</span></p>
 
 <p><span class="chinese">这就是庇护人的典型行为。</span><span class="english">This is what patrons do, you see.</span></p>

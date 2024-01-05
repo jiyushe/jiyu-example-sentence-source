@@ -1,5 +1,7 @@
 # kith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kith.md)
+
 <p><span class="chinese">多娜到她的朋友莉塔家闲谈。</span><span class="english">Donna call on her friend kith for a chat.</span></p>
 
 <p><span class="chinese">这样的争吵甚至会在自己的亲戚和朋友之间发生。</span><span class="english">Such quarrels take place even among one's own kith and kin.</span></p>

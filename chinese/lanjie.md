@@ -1,5 +1,7 @@
 # 拦截
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanjie.md)
+
 <p><span class="chinese">别太凶猛地拦截我。</span><span class="english">Don't tackle me too hard.</span></p>
 
 <p><span class="chinese">一款非常直观的广告拦截器。</span><span class="english">A very intuitive ad blocker.</span></p>

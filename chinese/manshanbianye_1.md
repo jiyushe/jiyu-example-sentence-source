@@ -1,5 +1,7 @@
 # 漫山遍野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manshanbianye_1.md)
+
 <p><span class="chinese">漫山遍野间有朵朵的落花。</span><span class="english">Flowers that suffuse and fall.</span></p>
 
 <p><span class="chinese">漫山遍野都是盛开的梅花。</span><span class="english">Plum blossoms are blooming everywhere.</span></p>

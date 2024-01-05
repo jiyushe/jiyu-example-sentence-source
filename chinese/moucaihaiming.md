@@ -1,5 +1,7 @@
 # 谋财害命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moucaihaiming.md)
+
 <p><span class="chinese">倘若无端的空耗别人的时间，其实是无异于谋财害命的。</span><span class="english">If wasting other's time, is tantamount to for his money.</span></p>
 
 <p><span class="chinese">辛克莱会嫁给有钱人，然后谋财害命。</span><span class="english">Sinclair marries wealthy men and murders them for inheritance.</span></p>

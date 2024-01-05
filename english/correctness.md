@@ -1,5 +1,7 @@
 # correctness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correctness.md)
+
 <p><span class="chinese">试试车钟是否完全正确。</span><span class="english">Try the telegraph for correctness.</span></p>
 
 <p><span class="chinese">这些特征是与正确性相联系的。</span><span class="english">These properties are as scouted with correctness.</span></p>

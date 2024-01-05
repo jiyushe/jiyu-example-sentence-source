@@ -1,5 +1,7 @@
 # necessitating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necessitating.md)
+
 <p><span class="chinese">从汉江出发的引水工程需要更多的复杂工程来提升水位。</span><span class="english">The diversion from the Han is necessitating more complex projects to raise water levels.</span></p>
 
 <p><span class="chinese">他认为，经济将迅速跌入负增长，这就需要第二个刺激计划。</span><span class="english">He said the economy will dip down into negative GDP growth soon, necessitating a second stimulus program.</span></p>

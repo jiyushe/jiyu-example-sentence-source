@@ -1,5 +1,7 @@
 # 词语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciyu.md)
+
 <p><span class="chinese">他使用高深的词语。</span><span class="english">He used lofty terms.</span></p>
 
 <p><span class="chinese">哪些词语可能被打错？</span><span class="english">What words can be mistyped?</span></p>

@@ -1,5 +1,7 @@
 # 定息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingxi.md)
+
 <p><span class="chinese">定息仍然属于剥削的性质。</span><span class="english">In its nature this interest was still a form of exploitation.</span></p>
 
 <p><span class="chinese">“定息”是在高级国家资本主义企业阶段的利润分配政策。</span><span class="english">"Fixed rate" state capitalism in the advanced stages of the distribution of profits, business policy.</span></p>

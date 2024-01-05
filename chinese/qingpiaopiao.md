@@ -1,5 +1,7 @@
 # 轻飘飘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingpiaopiao.md)
+
 <p><span class="chinese">轻飘飘溜走的旧时光。</span><span class="english">Floating away in the old days.</span></p>
 
 <p><span class="chinese">轻飘飘的白云在天上飘。</span><span class="english">Fluffy, white clouds float across the sky.</span></p>

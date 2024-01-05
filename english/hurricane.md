@@ -1,5 +1,7 @@
 # hurricane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurricane.md)
+
 <p><span class="chinese">会有一场暴风雨袭卷这里么？</span><span class="english">Is a hurricane a_blowing?</span></p>
 
 <p><span class="chinese">西莉亚飓风公开报道.</span><span class="english">Hurricane Celia Public Advisory.</span></p>

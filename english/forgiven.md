@@ -1,5 +1,7 @@
 # forgiven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forgiven.md)
+
 <p><span class="chinese">他不能被饶恕。</span><span class="english">He cannot be forgiven.</span></p>
 
 <p><span class="chinese">我已经原谅她了，现在怎么办呢？</span><span class="english">I’ve forgiven her, what now?</span></p>

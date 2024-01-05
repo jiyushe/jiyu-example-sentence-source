@@ -1,5 +1,7 @@
 # uncomfortably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncomfortably.md)
+
 <p><span class="chinese">他坐在椅子上不舒服地扭动着身体。</span><span class="english">He wriggled uncomfortably on the chair.</span></p>
 
 <p><span class="chinese">这男孩不舒服地在椅子里动来动去。</span><span class="english">The boy shifted uncomfortably in his chair.</span></p>

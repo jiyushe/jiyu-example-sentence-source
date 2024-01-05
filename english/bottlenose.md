@@ -1,5 +1,7 @@
 # bottlenose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bottlenose.md)
+
 <p><span class="chinese">问问这头名叫莫林的宽吻海豚就知道了。</span><span class="english">Just ask Merlin the bottlenose dolphin.</span></p>
 
 <p><span class="chinese">好的，宽吻海豚可能具侵略性–而且好斗！</span><span class="english">Well, bottlenose dolphins can be aggressive –and combative!</span></p>

@@ -1,5 +1,7 @@
 # tributyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tributyl.md)
+
 <p><span class="chinese">柠檬酸三丁酯是一种新型无毒增塑剂。</span><span class="english">Tributyl citrate is a new material of non-toxic plasticizer.</span></p>
 
 <p><span class="chinese">本文探讨了磷酚三丁酯对壬烷基酸聚氧乙烯醚的润湿增效作用。</span><span class="english">The wetting synergistic action of tributyl phosphate on nonylphenol polyethylene ether was investigated.</span></p>

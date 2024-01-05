@@ -1,5 +1,7 @@
 # mistletoe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistletoe.md)
+
 <p><span class="chinese">有人说榭寄生?</span><span class="english">Did someone say mistletoe?</span></p>
 
 <p><span class="chinese">这是一种寄生植物。</span><span class="english">Mistletoe is a parasite plant.</span></p>

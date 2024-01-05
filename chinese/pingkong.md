@@ -1,5 +1,7 @@
 # 凭空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingkong.md)
+
 <p><span class="chinese">学习不能凭空想象。</span><span class="english">Studing can't be imagination.</span></p>
 
 <p><span class="chinese">毕竟不能凭空创造一个杀手。</span><span class="english">You can't simply produce a killer.</span></p>

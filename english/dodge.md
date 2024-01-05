@@ -1,5 +1,7 @@
 # dodge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dodge.md)
+
 <p><span class="chinese">我们一起打躲避球！</span><span class="english">Let's play dodge ball!</span></p>
 
 <p><span class="chinese">我正在玩躲避球。</span><span class="english">I am playing dodge ball.</span></p>

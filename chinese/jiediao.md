@@ -1,5 +1,7 @@
 # 借调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiediao.md)
+
 <p><span class="chinese">他借调到外文出版社工作去了。</span><span class="english">He is on loan to the Foreign Languages Press.</span></p>
 
 <p><span class="chinese">我的同事都收到他们借调的轮廓。</span><span class="english">My colleagues are all received they secondment outline.</span></p>

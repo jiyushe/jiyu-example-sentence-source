@@ -1,5 +1,7 @@
 # turboshaft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turboshaft.md)
+
 <p><span class="chinese">简单介绍了某燃气涡轮轴发动机起动电机数学模型。</span><span class="english">A starter mathematic model on a turboshaft engine is described briefly in the paper.</span></p>
 
 <p><span class="chinese">也有桨发动机，些是涡轮螺旋直升机普遍采用涡轮轴发动机。</span><span class="english">Also has the oar engine, is the turboprop helicopter uses the turboshaft engine generally.</span></p>

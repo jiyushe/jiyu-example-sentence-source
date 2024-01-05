@@ -1,5 +1,7 @@
 # recordable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recordable.md)
+
 <p><span class="chinese">可记录DVD产品是做领跑者还是继续做跟随者?。</span><span class="english">Are recordable DVD products going to be the leader or keptbeing a follower?</span></p>
 
 <p><span class="chinese">要直接将内容从源盘复制到可刻录盘，请使用下面的命令</span><span class="english">To directly copy from the source disk to the recordable disk, use this command</span></p>

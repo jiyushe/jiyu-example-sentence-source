@@ -1,5 +1,7 @@
 # 备用金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiyongjin.md)
+
 <p><span class="chinese">监督管理备用金及投资。</span><span class="english">Monitor house banks and investments.</span></p>
 
 <p><span class="chinese">公司将用小额备用金把钱还给你。</span><span class="english">The company will reimburse you out of petty cash.</span></p>

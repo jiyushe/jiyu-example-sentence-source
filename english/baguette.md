@@ -1,5 +1,7 @@
 # baguette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baguette.md)
+
 <p><span class="chinese">另一种选择是“面包”。</span><span class="english">The other alternative was "baguette".</span></p>
 
 <p><span class="chinese">烤面包或三明治或法包，蛋，烟肉或火腿，早餐肠，土豆条。</span><span class="english">With toast or Baguette or sandwich, eggs, bacon or ham.</span></p>

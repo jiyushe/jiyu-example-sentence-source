@@ -1,5 +1,7 @@
 # sow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sow.md)
+
 <p><span class="chinese">我们播种什么就会收获什么。</span><span class="english">We reap what we sow.</span></p>
 
 <p><span class="chinese">播一颗种子盼它快快长大。</span><span class="english">A little seed for me to sow.</span></p>

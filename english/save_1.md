@@ -1,5 +1,7 @@
 # save 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/save_1.md)
+
 <p><span class="chinese">保存它。</span><span class="english">Save it.</span></p>
 
 <p><span class="chinese">救救我们！</span><span class="english">Save us!</span></p>

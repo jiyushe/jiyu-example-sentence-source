@@ -1,5 +1,7 @@
 # 骄子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaozi.md)
+
 <p><span class="chinese">是当今祛皱产品中的骄子。</span><span class="english">It is the best wrinkle removal product today.</span></p>
 
 <p><span class="chinese">全棉的，健康的，骄子的，这是我们的追求。</span><span class="english">Cotton, healthy and proud, and this is our pursuit.</span></p>

@@ -1,5 +1,7 @@
 # pomelo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pomelo.md)
+
 <p><span class="chinese">这个柚子有多重?。</span><span class="english">How heavy is this pomelo?</span></p>
 
 <p><span class="chinese">你们在吃柚子吗？闻起来真香啊！</span><span class="english">Are you eating pomelo? It smells so good!</span></p>

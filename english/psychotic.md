@@ -1,5 +1,7 @@
 # psychotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychotic.md)
+
 <p><span class="chinese">这个精神病人企图在医院放火。</span><span class="english">The psychotic attempted to fire the hospital.</span></p>
 
 <p><span class="chinese">被洗脑不表示他们有精神病。</span><span class="english">Brainwashing didn't mean that they are psychotic.</span></p>

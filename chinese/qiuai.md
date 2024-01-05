@@ -1,5 +1,7 @@
 # 求爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuai.md)
+
 <p><span class="chinese">他一直在向她求爱。</span><span class="english">He has been courting her.</span></p>
 
 <p><span class="chinese">他跟每个遇到的女孩子求爱。</span><span class="english">He woos every girl he meets.</span></p>

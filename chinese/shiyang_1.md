@@ -1,5 +1,7 @@
 # 式样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyang_1.md)
+
 <p><span class="chinese">我看上了这个式样。</span><span class="english">I like this style.</span></p>
 
 <p><span class="chinese">多数流行式样很快便过时了。</span><span class="english">Most fashions soon dated.</span></p>

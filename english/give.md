@@ -1,5 +1,7 @@
 # give 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/give.md)
+
 <p><span class="chinese">千万别放弃！</span><span class="english">Don't give up!</span></p>
 
 <p><span class="chinese">别放弃！</span><span class="english">Don’t give up!</span></p>

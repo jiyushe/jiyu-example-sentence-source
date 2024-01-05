@@ -1,5 +1,7 @@
 # forestland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forestland.md)
+
 <p><span class="chinese">阐述了影响林地价值的因素。</span><span class="english">It elaborates the factors influencing forestland value.</span></p>
 
 <p><span class="chinese">他被迫签订合同出售他父亲的林地。</span><span class="english">He was forced to sign a contract selling his father's forestland.</span></p>

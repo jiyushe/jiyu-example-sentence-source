@@ -1,5 +1,7 @@
 # 请调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdiao_1.md)
+
 <p><span class="chinese">请调一下室内天线。</span><span class="english">Please adjust the antenna.</span></p>
 
 <p><span class="chinese">请调弱底线张力。</span><span class="english">Decrease the bobbin thread tension.</span></p>

@@ -1,5 +1,7 @@
 # spang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spang.md)
+
 <p><span class="chinese">它正好落在我的怀里。</span><span class="english">It fell spang into my lap.</span></p>
 
 <p><span class="chinese">斯潘说最为常见的伤是肌肉拉伤。</span><span class="english">The most common injury is muscle strain, Spang said.</span></p>

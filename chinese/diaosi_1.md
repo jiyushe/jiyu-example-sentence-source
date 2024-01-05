@@ -1,5 +1,7 @@
 # 钓丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaosi_1.md)
+
 <p><span class="chinese">他甩出了他的钓丝。</span><span class="english">He switched his fishing line.</span></p>
 
 <p><span class="chinese">晚来风定钓丝闲，上下是新月。</span><span class="english">Do you think fish, on the moon.</span></p>

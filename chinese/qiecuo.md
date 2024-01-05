@@ -1,5 +1,7 @@
 # 切磋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiecuo.md)
+
 <p><span class="chinese">谁是灌水王？来这里切磋下！</span><span class="english">Who is the irrigation Wang? Come here to learn next!</span></p>
 
 <p><span class="chinese">怎么样？有空约几个球友一起去切磋一下吧！</span><span class="english">Let's get together for a bit of friendly competition!</span></p>

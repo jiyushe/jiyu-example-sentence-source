@@ -1,5 +1,7 @@
 # 前例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianli.md)
+
 <p><span class="chinese">在美国有前例可循。</span><span class="english">There are precedents in the United States.</span></p>
 
 <p><span class="chinese">来自前例的Runner.groovy可以如平时一样运行。</span><span class="english">Runner.groovy from the previous example can run as is.</span></p>

@@ -1,5 +1,7 @@
 # 圆满
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanman.md)
+
 <p><span class="chinese">庆祝圆满成功。</span><span class="english">Celebrate every success.</span></p>
 
 <p><span class="chinese">那一轮明月，多圆满！</span><span class="english">The moon, many successful!</span></p>

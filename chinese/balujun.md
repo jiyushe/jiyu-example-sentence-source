@@ -1,5 +1,7 @@
 # 八路军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/balujun.md)
+
 <p><span class="chinese">随后被紧急送往八路军后方医院医治。</span><span class="english">Then were rushed to the eighth route army hospital.</span></p>
 
 <p><span class="chinese">八路军是否会弃掉团城。</span><span class="english">The eighth route army would have rejected TuanCheng.</span></p>

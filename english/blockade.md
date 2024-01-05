@@ -1,5 +1,7 @@
 # blockade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blockade.md)
+
 <p><span class="chinese">封锁于昨晚解除。</span><span class="english">The blockade was raised last night.</span></p>
 
 <p><span class="chinese">突破列宁格勒的封锁。</span><span class="english">Break-through in the Leningrad blockade.</span></p>

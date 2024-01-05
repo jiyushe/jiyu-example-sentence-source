@@ -1,5 +1,7 @@
 # adulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adulation.md)
+
 <p><span class="chinese">他陶醉在别人的奉承中。</span><span class="english">He basks in other people's adulation.</span></p>
 
 <p><span class="chinese">他靠下属的奉承而发迹。</span><span class="english">He thrived on the adulation of his henchman.</span></p>

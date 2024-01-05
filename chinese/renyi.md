@@ -1,5 +1,7 @@
 # 人意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renyi.md)
+
 <p><span class="chinese">但是，字典在许多方面也不如人意。</span><span class="english">But dictionaries have also failed us in many ways.</span></p>
 
 <p><span class="chinese">成熟，是一个男人令一个女人意乱情迷的首要因素！</span><span class="english">Mature, is a man to a woman's primary factor yiluanqingmi!</span></p>

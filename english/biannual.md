@@ -1,5 +1,7 @@
 # biannual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biannual.md)
+
 <p><span class="chinese">我们校医建议一年去看牙医两次。</span><span class="english">Our school doctor recommends a biannual visit to the dentist.</span></p>
 
 <p><span class="chinese">其中雕塑家获得双年展优异奖的作品亦是以贝为题。</span><span class="english">One of his pieces was awarded Merit in the Biannual Art Exhibition.</span></p>

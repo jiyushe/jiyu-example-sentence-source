@@ -1,5 +1,7 @@
 # 云豹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunbao.md)
+
 <p><span class="chinese">其余的只留在婆罗洲，成为巽他云豹。</span><span class="english">Another hung on in Borneo, becoming the Sunda clouded leopard.</span></p>
 
 <p><span class="chinese">是什么导致了巽他云豹进化上的分野还不得而知。</span><span class="english">It is unclear what caused the Sunda clouded leopard to evolve into two forms.</span></p>

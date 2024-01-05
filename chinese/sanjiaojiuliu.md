@@ -1,5 +1,7 @@
 # 三教九流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjiaojiuliu.md)
+
 <p><span class="chinese">认识各色各样的狗和三教九流的人，会使生活更加趣味盍然。</span><span class="english">Understand that diversity in dogs, as well as in people, make life more intersting.</span></p>
 
 <p><span class="chinese">认识各色各样的狗和三教九流的人，会使生活更加趣味盎然。</span><span class="english">Understand that diversity in dogs, as well as in people, makes life more interesting.</span></p>

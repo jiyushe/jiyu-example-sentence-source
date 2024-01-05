@@ -1,5 +1,7 @@
 # 扫尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saowei.md)
+
 <p><span class="chinese">彻底地完成并扫尾。</span><span class="english">Completely done and dusted.</span></p>
 
 <p><span class="chinese">一期工程已进入扫尾阶段。</span><span class="english">The first-phase construction has entered the last step.</span></p>

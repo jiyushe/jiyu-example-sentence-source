@@ -1,5 +1,7 @@
 # innervate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innervate.md)
+
 <p><span class="chinese">左迷走神经的其余部分分布到胃前壁。</span><span class="english">The remaining portion of the left nerve innervate the anterior wall of the stomach.</span></p>
 
 <p><span class="chinese">我确实想让野性的灵活性仍然在一些地方起作用，比如类似激活的独特技能。</span><span class="english">I do think the Feral flexibility will still count for something, as will unique abilities like Innervate.</span></p>

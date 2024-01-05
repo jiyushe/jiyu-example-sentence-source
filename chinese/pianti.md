@@ -1,5 +1,7 @@
 # 偏题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianti.md)
+
 <p><span class="chinese">虽然有点偏题，但是还是想回应一下4号评论。</span><span class="english">I still want to respond the comment 4 even though my comment might be a little irrelevant.</span></p>
 
 <p><span class="chinese">最后的总结句好像有些偏题了，高收入加速社会的发展？</span><span class="english">In a word, I think high paid personalities will accelerate the development of a society in some degree.</span></p>

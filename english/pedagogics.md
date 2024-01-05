@@ -1,5 +1,7 @@
 # pedagogics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedagogics.md)
+
 <p><span class="chinese">对于教师所要具备教育学以及心理学都有了较好的掌握。</span><span class="english">Have had fairly good grasping to what teacher needs to have pedagogics and psychology.</span></p>
 
 <p><span class="chinese">其实我是学教育的，这个理论来自于教育学里“熟练的技能”一章。</span><span class="english">Actually I had majored in Teaching. This theory comes from one of my pedagogics ' chap "Proficient Skill".</span></p>

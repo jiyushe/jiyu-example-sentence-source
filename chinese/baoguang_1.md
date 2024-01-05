@@ -1,5 +1,7 @@
 # 曝光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoguang_1.md)
+
 <p><span class="chinese">而这会带来过度曝光的风险。</span><span class="english">That risks over-exposure.</span></p>
 
 <p><span class="chinese">每张图片有20秒曝光时间。</span><span class="english">Each image is a 20-second exposure.</span></p>

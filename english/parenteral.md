@@ -1,5 +1,7 @@
 # parenteral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parenteral.md)
+
 <p><span class="chinese">肠外营养可通过周围静脉或中心静脉给予。</span><span class="english">Parenteral nutrition can be given either by peripheral or central vein.</span></p>
 
 <p><span class="chinese">所有VLBW均同时进行部分静脉营养，直至达到FEF。</span><span class="english">All VLBW infents received partial parenteral nutrition until achieved FEF.</span></p>

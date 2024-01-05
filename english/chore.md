@@ -1,5 +1,7 @@
 # chore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chore.md)
+
 <p><span class="chinese">杂活落到了他的头上。</span><span class="english">The chore fell to him.</span></p>
 
 <p><span class="chinese">我们该怎样分担这些家务呢？</span><span class="english">So how should we share the chore?</span></p>

@@ -1,5 +1,7 @@
 # myelination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myelination.md)
+
 <p><span class="chinese">所有17例之体鞘形成都如足月儿一样已完成。</span><span class="english">The myelination process of all cases were completed as normal term infants.</span></p>
 
 <p><span class="chinese">因此，前脑的绝缘化是在青少年晚期和二十岁初期完成的。</span><span class="english">So it is with the forebrain's myelination during the late teens and early 20s.</span></p>

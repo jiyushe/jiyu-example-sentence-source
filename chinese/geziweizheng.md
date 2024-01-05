@@ -1,5 +1,7 @@
 # 各自为政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geziweizheng.md)
+
 <p><span class="chinese">在经营上各自为政，无法形成市场合力。</span><span class="english">In management co-ordination, incapable of market force.</span></p>
 
 <p><span class="chinese">在罗马帝国灭亡后的漫长岁月里，欧洲陷入分裂，各自为政。</span><span class="english">In the centuries after the fall of Rome, Europe became Babel.</span></p>

@@ -1,5 +1,7 @@
 # 一笑置之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiaozhizhi.md)
+
 <p><span class="chinese">学会如何一笑置之。</span><span class="english">Learn how to laugh it off.</span></p>
 
 <p><span class="chinese">里利对我的推理只是一笑置之。</span><span class="english">Rielly just laughed at my reasoning.</span></p>

@@ -1,5 +1,7 @@
 # indian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indian.md)
+
 <p><span class="chinese">我是个印度人。</span><span class="english">I am an Indian.</span></p>
 
 <p><span class="chinese">什么是印第安人？</span><span class="english">What is an Indian?</span></p>

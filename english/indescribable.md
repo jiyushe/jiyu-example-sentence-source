@@ -1,5 +1,7 @@
 # indescribable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indescribable.md)
+
 <p><span class="chinese">难以形容的痛。</span><span class="english">The pain was indescribable.</span></p>
 
 <p><span class="chinese">那将是一种难以形容的感觉。</span><span class="english">It will be an indescribable feeling.</span></p>

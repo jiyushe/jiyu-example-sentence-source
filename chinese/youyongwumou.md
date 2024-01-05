@@ -1,5 +1,7 @@
 # 有勇无谋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyongwumou.md)
+
 <p><span class="chinese">他是有勇无谋。</span><span class="english">He is more wise than brave.</span></p>
 
 <p><span class="chinese">有一天，这位有勇无谋的绅士产生了一个非常古怪的念头。</span><span class="english">One day, this witless gentleman got a rather strange idea.</span></p>

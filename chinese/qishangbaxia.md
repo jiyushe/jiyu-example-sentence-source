@@ -1,5 +1,7 @@
 # 七上八下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishangbaxia.md)
+
 <p><span class="chinese">我的心七上八下。</span><span class="english">My heart seven up eight down.</span></p>
 
 <p><span class="chinese">我没办法，因为我的心现在七上八下的。</span><span class="english">No, I can't, for I'm greatly upset now.</span></p>

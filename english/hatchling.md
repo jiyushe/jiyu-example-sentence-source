@@ -1,5 +1,7 @@
 # hatchling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hatchling.md)
+
 <p><span class="chinese">它甚至可能以刚孵出的恐龙或恐龙幼崽为食。</span><span class="english">It might even have eaten hatchling or juvenile dinosaurs.</span></p>
 
 <p><span class="chinese">巨蛙大得可能连刚孵化的小恐龙都吃得下。</span><span class="english">It was large enough to maybe even eat hatchling dinosaurs.</span></p>

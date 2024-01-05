@@ -1,5 +1,7 @@
 # 木牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mupai_1.md)
+
 <p><span class="chinese">门外有人拨弄一个木牌，通知。</span><span class="english">Someone fiddled with a plate, a poster.</span></p>
 
 <p><span class="chinese">首先，在平坦的场地上树起四根绘有蕨叶纹的木牌柱。</span><span class="english">First, they erect four wooden pillars painted with fern leaf veins.</span></p>

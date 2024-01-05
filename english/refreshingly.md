@@ -1,5 +1,7 @@
 # refreshingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refreshingly.md)
+
 <p><span class="chinese">凉爽流畅的百威清淡型。永远值得。</span><span class="english">Refreshingly smooth Bud Light. Always worth it.</span></p>
 
 <p><span class="chinese">这是一种非常简单，但是十分强大的方法。</span><span class="english">It is a refreshingly simple, yet powerful approach.</span></p>

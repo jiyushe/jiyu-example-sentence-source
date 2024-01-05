@@ -1,5 +1,7 @@
 # national
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/national.md)
+
 <p><span class="chinese">国庆节快乐!</span><span class="english">Happy National Day!</span></p>
 
 <p><span class="chinese">奏国歌、升国旗！</span><span class="english">The national anthem, flag!</span></p>

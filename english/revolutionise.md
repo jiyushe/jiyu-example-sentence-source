@@ -1,5 +1,7 @@
 # revolutionise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revolutionise.md)
+
 <p><span class="chinese">仅就此一点，它将给这类显微外科手术带来革命。</span><span class="english">Simply put, it will revolutionise this type of micro-surgery.</span></p>
 
 <p><span class="chinese">我们希望他能为音乐产业带来彻底的变革。</span><span class="english">We're hoping he can revolutionise the music industry, ” said Matteo.</span></p>

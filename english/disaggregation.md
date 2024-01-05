@@ -1,5 +1,7 @@
 # disaggregation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disaggregation.md)
+
 <p><span class="chinese">就是对客户收入的分析！</span><span class="english">Is there disaggregation analysis on revenue?</span></p>
 
 <p><span class="chinese">模型解释这一个不集合涌出。</span><span class="english">The model explains this disaggregation well.</span></p>

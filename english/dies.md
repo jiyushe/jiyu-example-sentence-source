@@ -1,5 +1,7 @@
 # dies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dies.md)
+
 <p><span class="chinese">死了一个修女。</span><span class="english">A nun dies.</span></p>
 
 <p><span class="chinese">蔫得太快了。</span><span class="english">It dies too fast.</span></p>

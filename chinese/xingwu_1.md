@@ -1,5 +1,7 @@
 # 醒悟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingwu_1.md)
+
 <p><span class="chinese">直到最后的伤害，我才肯醒悟吗？</span><span class="english">Until last hurt, I will not awake?</span></p>
 
 <p><span class="chinese">中国一旦醒悟，它就会振撼整个世界。</span><span class="english">China will shake the world once it awakens.</span></p>

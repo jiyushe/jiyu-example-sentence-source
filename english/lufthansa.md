@@ -1,5 +1,7 @@
 # lufthansa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lufthansa.md)
+
 <p><span class="chinese">汉莎航空公司希望用数字来说明问题。</span><span class="english">Lufthansa wanted to crunch numbers.</span></p>
 
 <p><span class="chinese">位于燕莎区域，邻近第三使馆区。</span><span class="english">Located in Lufthansa Area, near the 3rd embassy area.</span></p>

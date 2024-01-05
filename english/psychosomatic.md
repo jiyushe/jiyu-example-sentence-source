@@ -1,5 +1,7 @@
 # psychosomatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychosomatic.md)
+
 <p><span class="chinese">神经性厌食症是一种心身障碍。</span><span class="english">Anorexia is one of the psychosomatic disorders.</span></p>
 
 <p><span class="chinese">他说他经常发脾气，并且遭受神经痛。</span><span class="english">He said he often became angry and suffered from psychosomatic pain.</span></p>

@@ -1,5 +1,7 @@
 # 口井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koujing.md)
+
 <p><span class="chinese">这口井是我的家。</span><span class="english">This well is my home.</span></p>
 
 <p><span class="chinese">是呀。这口井是我的家。</span><span class="english">Yes. This well is my home.</span></p>

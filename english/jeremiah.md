@@ -1,5 +1,7 @@
 # jeremiah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeremiah.md)
+
 <p><span class="chinese">耶利米就照样行了。</span><span class="english">And Jeremiah did so.</span></p>
 
 <p><span class="chinese">于是先知耶利米就走了。</span><span class="english">And the prophet Jeremiah went his way.</span></p>

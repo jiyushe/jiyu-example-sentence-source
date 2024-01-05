@@ -1,5 +1,7 @@
 # dung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dung.md)
+
 <p><span class="chinese">而避免了粪灾。</span><span class="english">Dung disaster averted.</span></p>
 
 <p><span class="chinese">粪被用做肥料。</span><span class="english">Dung is used as manure.</span></p>

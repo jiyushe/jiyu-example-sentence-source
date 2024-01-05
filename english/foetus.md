@@ -1,5 +1,7 @@
 # foetus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foetus.md)
+
 <p><span class="chinese">昕语，我觉得咱这胎一定是儿子。</span><span class="english">Xin language, I feel our this foetus to be a son.</span></p>
 
 <p><span class="chinese">她再三重复洗地动作以避免污染胎儿。</span><span class="english">She repeatedly washed to avoid damage to her foetus.</span></p>

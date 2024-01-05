@@ -1,5 +1,7 @@
 # 低空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dikong.md)
+
 <p><span class="chinese">兀鹰低空掠过。</span><span class="english">The condors skimmed over it.</span></p>
 
 <p><span class="chinese">我只希望我能拿个C低空飞过就行了。</span><span class="english">I'm just hoping I squeaked by with a C.</span></p>

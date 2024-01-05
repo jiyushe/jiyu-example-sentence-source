@@ -1,5 +1,7 @@
 # 耳熟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ershu.md)
+
 <p><span class="chinese">这声音虽然极低，却很耳熟。</span><span class="english">The voice was low, yet familiar.</span></p>
 
 <p><span class="chinese">这一切怎么听起来这么耳熟？</span><span class="english">Why does this sound so familiar?</span></p>

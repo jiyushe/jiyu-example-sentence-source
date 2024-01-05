@@ -1,5 +1,7 @@
 # insusceptible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insusceptible.md)
+
 <p><span class="chinese">这一条文不能有其他解释。</span><span class="english">The clause is insusceptible of another interpretation.</span></p>
 
 <p><span class="chinese">淘宝、易趣、外地网店不受影响。</span><span class="english">Clean out inn of net of treasure, easy interest, other place insusceptible.</span></p>

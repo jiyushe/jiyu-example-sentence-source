@@ -1,5 +1,7 @@
 # nausea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nausea.md)
+
 <p><span class="chinese">他感到恶心并呕了。</span><span class="english">He felt nausea and vomited.</span></p>
 
 <p><span class="chinese">她的胃翻腾欲呕。</span><span class="english">Her stomach churned with nausea.</span></p>

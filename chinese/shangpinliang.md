@@ -1,5 +1,7 @@
 # 商品粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangpinliang.md)
+
 <p><span class="chinese">吉林省是中国主要的商品粮生产基地。</span><span class="english">Jilin is also China's key commodity grain base.</span></p>
 
 <p><span class="chinese">吉林省是我国的农业大省和国家的商品粮基地。</span><span class="english">Jilin Province is China's major agricultural province and the country's commodity grain base.</span></p>

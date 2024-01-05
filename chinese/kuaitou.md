@@ -1,5 +1,7 @@
 # 块头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaitou.md)
+
 <p><span class="chinese">他们比我块头大。</span><span class="english">They are bigger than me.</span></p>
 
 <p><span class="chinese">嘿，你块头大，你有很多木头。</span><span class="english">You're a big guy. You got a lotta wood.</span></p>

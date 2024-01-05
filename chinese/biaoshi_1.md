@@ -1,5 +1,7 @@
 # 标识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoshi_1.md)
+
 <p><span class="chinese">两个路由器之间的标识？</span><span class="english">Airprint between two routers?</span></p>
 
 <p><span class="chinese">画出某物与标识相匹配。</span><span class="english">Drow something to match the sign.</span></p>

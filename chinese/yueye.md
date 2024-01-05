@@ -1,5 +1,7 @@
 # 月夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueye.md)
+
 <p><span class="chinese">月夜是我永无止境的泪水。</span><span class="english">The moon night is my endless tears.</span></p>
 
 <p><span class="chinese">今夜，该是怎样的月夜？</span><span class="english">Tonight, this is how the moonlight?</span></p>

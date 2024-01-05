@@ -1,5 +1,7 @@
 # 待遇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daiyu.md)
+
 <p><span class="chinese">他们受到仁慈的待遇。</span><span class="english">They were treated with mercy.</span></p>
 
 <p><span class="chinese">有好待遇才有好表现。</span><span class="english">He did well when treated well.</span></p>

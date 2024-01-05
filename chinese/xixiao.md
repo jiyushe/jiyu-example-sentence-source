@@ -1,5 +1,7 @@
 # 嘻笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixiao.md)
+
 <p><span class="chinese">斯提福兹嘻笑着搀着我的胳膊。</span><span class="english">Steerforth was holding my arm and laughing.</span></p>
 
 <p><span class="chinese">一些影片则对灾难采取了嘻笑轻松的处理手法。</span><span class="english">Some are taking a lighter approach to calamity.</span></p>

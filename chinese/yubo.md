@@ -1,5 +1,7 @@
 # 余波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yubo.md)
+
 <p><span class="chinese">这部电影的余波就是让我仍不敢自己上床睡觉。</span><span class="english">The aftereffect of this movie made me not want to go to bed alone.</span></p>
 
 <p><span class="chinese">当这位标志性的人物过世时，震动的余波回响数十载有余。</span><span class="english">When an icon passes the shock wave reverberates through the decades.</span></p>

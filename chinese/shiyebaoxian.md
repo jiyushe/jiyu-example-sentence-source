@@ -1,5 +1,7 @@
 # 失业保险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyebaoxian.md)
+
 <p><span class="chinese">如果你有失业保险的，务必要交全。</span><span class="english">If you have unemployment insurance, be sure to pay the whole.</span></p>
 
 <p><span class="chinese">这份法案同时延长失业保险到第二年。</span><span class="english">The planalso extends unemployment insurance for another year.</span></p>

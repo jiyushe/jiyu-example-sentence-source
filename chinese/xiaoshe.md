@@ -1,5 +1,7 @@
 # 校舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshe.md)
+
 <p><span class="chinese">我某个下午曾经访问过那个校舍。</span><span class="english">I visited that schoolhouse one afternoon.</span></p>
 
 <p><span class="chinese">儿童的研究，在破旧的校舍。</span><span class="english">Children study in dilapidated schoolhouses.</span></p>

@@ -1,5 +1,7 @@
 # 工业化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyehua.md)
+
 <p><span class="chinese">中国必须工业化。</span><span class="english">China must industrialise.</span></p>
 
 <p><span class="chinese">中国也允许工业化吧！</span><span class="english">China is allowed to industrialize too!</span></p>

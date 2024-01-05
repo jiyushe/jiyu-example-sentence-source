@@ -1,5 +1,7 @@
 # coleslaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coleslaw.md)
+
 <p><span class="chinese">卷心菜色拉是卷心菜做的。</span><span class="english">Coleslaw is made with cabbage.</span></p>
 
 <p><span class="chinese">我要吃炸鸡和生菜沙拉。</span><span class="english">I'll have the fried chicken and coleslaw.</span></p>

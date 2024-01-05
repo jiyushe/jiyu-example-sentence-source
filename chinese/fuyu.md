@@ -1,5 +1,7 @@
 # 抚育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyu.md)
+
 <p><span class="chinese">所以请观察，倾听，询问，抚育。</span><span class="english">So observe, listen, ask, and parent.</span></p>
 
 <p><span class="chinese">阳光雨露抚育我成长。</span><span class="english">Raised by the sunshine, rains and dews.</span></p>

@@ -1,5 +1,7 @@
 # pyrenees
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrenees.md)
+
 <p><span class="chinese">但比利牛斯山脉应该特别干旱。</span><span class="english">The Pyrenees I suppose are dry.</span></p>
 
 <p><span class="chinese">比利牛斯将法国和西班牙分开。</span><span class="english">The Pyrenees separate France and Spain.</span></p>

@@ -1,5 +1,7 @@
 # besmear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/besmear.md)
+
 <p><span class="chinese">现在我还用它来涂身上的淤青和小擦伤。</span><span class="english">I use it now to besmear of body or scrape.</span></p>
 
 <p><span class="chinese">现在的心情就像涂在手上的润手霜。</span><span class="english">Mood now like besmear in the hands of embellish hand cream.</span></p>

@@ -1,5 +1,7 @@
 # corrector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corrector.md)
+
 <p><span class="chinese">校准器是容积式流量计上的重要部件。</span><span class="english">Corrector is an important part of volume flowmeter.</span></p>
 
 <p><span class="chinese">重点淡斑精华可以使用于眼部周围肌肤吗？</span><span class="english">Can I apply Pure White Spot Corrector around the eyes?</span></p>

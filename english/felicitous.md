@@ -1,5 +1,7 @@
 # felicitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/felicitous.md)
+
 <p><span class="chinese">有你们，我是幸福的。</span><span class="english">With all of you, i am felicitous.</span></p>
 
 <p><span class="chinese">她选择的音乐很适当。</span><span class="english">Her choice of music is felicitous.</span></p>

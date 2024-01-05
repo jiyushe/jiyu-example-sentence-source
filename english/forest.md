@@ -1,5 +1,7 @@
 # forest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forest.md)
+
 <p><span class="chinese">他逃进森林。</span><span class="english">He fled into a forest.</span></p>
 
 <p><span class="chinese">到浪漫的森林？</span><span class="english">To the romantic forest?</span></p>

@@ -1,5 +1,7 @@
 # 导热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daore.md)
+
 <p><span class="chinese">金属能导热和导电。</span><span class="english">Metal can carry heat and electricity.</span></p>
 
 <p><span class="chinese">为什么要使用导热油作为传热介质？</span><span class="english">Why Using Thermal Oil as Heat Transfer Medium?</span></p>

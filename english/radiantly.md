@@ -1,5 +1,7 @@
 # radiantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiantly.md)
+
 <p><span class="chinese">新娘满脸微笑，容光焕发。</span><span class="english">The bride smiled radiantly.</span></p>
 
 <p><span class="chinese">即使这样，他们脸上的笑容可以随时对我们绽放。</span><span class="english">Even so, they smile radiantly to us at any time.</span></p>

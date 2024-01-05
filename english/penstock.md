@@ -1,5 +1,7 @@
 # penstock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penstock.md)
+
 <p><span class="chinese">黑水门？</span><span class="english">Black penstock?</span></p>
 
 <p><span class="chinese">请保留在MIV上游管的设备用于水道的排污。</span><span class="english">Pls keep provision on MIV upstream pipe for penstock drain.</span></p>

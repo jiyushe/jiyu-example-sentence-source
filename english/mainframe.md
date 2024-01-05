@@ -1,5 +1,7 @@
 # mainframe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mainframe.md)
+
 <p><span class="chinese">在大型机上这个内容不需要转换。</span><span class="english">This content is not translated on the mainframe.</span></p>
 
 <p><span class="chinese">老式的微机模式又回来了。</span><span class="english">The old mini-computer mainframe model is coming back.</span></p>

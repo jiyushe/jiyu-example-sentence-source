@@ -1,5 +1,7 @@
 # pdt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pdt.md)
+
 <p><span class="chinese">将来可能包括基因治疗，MMP调节剂和抑制剂，PDT。</span><span class="english">Future could include gene therapy, MMP regulators and inhibitors, PDT.</span></p>
 
 <p><span class="chinese">很明显，PDT的采用在Eclipse和PHP社区都非常成功。</span><span class="english">Clearly, PDT adoption has been very successful in the Eclipse and PHP communities.</span></p>

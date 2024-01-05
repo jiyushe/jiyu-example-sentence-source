@@ -1,5 +1,7 @@
 # 利润率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lirunlv.md)
+
 <p><span class="chinese">确保较高的利润率。</span><span class="english">Be certain you have a high profit margin.</span></p>
 
 <p><span class="chinese">关注单位利润率。</span><span class="english">Think in terms of per-unit profitability.</span></p>

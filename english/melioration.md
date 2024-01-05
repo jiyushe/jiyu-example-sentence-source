@@ -1,5 +1,7 @@
 # melioration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melioration.md)
+
 <p><span class="chinese">说明两组治疗在改善肺功能方面疗效相当。</span><span class="english">The melioration of spirometry has no significant difference between the two groups after three-month.</span></p>
 
 <p><span class="chinese">结构系统的振动控制是改善航天器动态特性的重要途径。</span><span class="english">Structure vibration control is of great importance for the melioration of spacecraft dynamic property.</span></p>

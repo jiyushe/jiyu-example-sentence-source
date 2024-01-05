@@ -1,5 +1,7 @@
 # matted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matted.md)
+
 <p><span class="chinese">我的头发粘在一起了。</span><span class="english">My hair matted together.</span></p>
 
 <p><span class="chinese">她正在梳理她那乱蓬蓬的头发。</span><span class="english">She is combing her matted hair.</span></p>

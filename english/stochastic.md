@@ -1,5 +1,7 @@
 # stochastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stochastic.md)
+
 <p><span class="chinese">地下水系统是一个复杂的随机系统。</span><span class="english">Groundwater system is an intricate and stochastic system.</span></p>
 
 <p><span class="chinese">不过，我们可以减少对随机性结果的依赖程度。</span><span class="english">Still, we can reduce our reliance on stochastic outcomes.</span></p>

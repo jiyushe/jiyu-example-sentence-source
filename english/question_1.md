@@ -1,5 +1,7 @@
 # question 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/question_1.md)
+
 <p><span class="chinese">问得好。</span><span class="english">Good question.</span></p>
 
 <p><span class="chinese">问得好！</span><span class="english">So a good question.</span></p>

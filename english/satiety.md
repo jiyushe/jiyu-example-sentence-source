@@ -1,5 +1,7 @@
 # satiety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satiety.md)
+
 <p><span class="chinese">吃得过饱的人对食物不再有食欲。</span><span class="english">No food can tempt one filled to satiety.</span></p>
 
 <p><span class="chinese">汤姆在大宴上吃得不能再吃了。</span><span class="english">Tom was filled to satiety by the big dinner.</span></p>

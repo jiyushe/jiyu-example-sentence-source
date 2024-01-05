@@ -1,5 +1,7 @@
 # viceroy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viceroy.md)
+
 <p><span class="chinese">总督也带着夫人去啦。</span><span class="english">And the viceroy was there with his lady.</span></p>
 
 <p><span class="chinese">理性，你让它统领我，它应该保护我。</span><span class="english">Reason, your viceroy in me, me should Defend.</span></p>

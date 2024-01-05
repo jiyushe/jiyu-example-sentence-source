@@ -1,5 +1,7 @@
 # suddenly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suddenly.md)
+
 <p><span class="chinese">忽见你来。</span><span class="english">Suddenly sees you.</span></p>
 
 <p><span class="chinese">突然之间我们感到害臊。</span><span class="english">Suddenly we felt shy.</span></p>

@@ -1,5 +1,7 @@
 # stoutly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stoutly.md)
+
 <p><span class="chinese">他断然否认自己有罪。</span><span class="english">He stoutly denied his guilt.</span></p>
 
 <p><span class="chinese">“没有一句真话，”马弗尔断然说道。</span><span class="english">"Not a word of it, " said Marvel , stoutly.</span></p>

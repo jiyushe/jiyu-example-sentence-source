@@ -1,5 +1,7 @@
 # nim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nim.md)
+
 <p><span class="chinese">尼姆并不总是很乖巧、很可爱和很友好。</span><span class="english">Nim wasn't always sweet, cute and kind.</span></p>
 
 <p><span class="chinese">马什在继续向我们描述他对尼姆的印象。</span><span class="english">Marsh goes on to describe his impression of Nim.</span></p>

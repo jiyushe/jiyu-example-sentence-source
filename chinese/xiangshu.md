@@ -1,5 +1,7 @@
 # 相熟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshu.md)
+
 <p><span class="chinese">我已经和他相熟。</span><span class="english">I am already acquainted with him.</span></p>
 
 <p><span class="chinese">你对这儿的风尚习性相熟吗？</span><span class="english">Are you familiar with the customs here?</span></p>

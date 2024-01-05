@@ -1,5 +1,7 @@
 # dinky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dinky.md)
+
 <p><span class="chinese">多漂亮的小帽子！</span><span class="english">What a dinky little hat!</span></p>
 
 <p><span class="chinese">目前丁克家庭的数量正在不断增加。</span><span class="english">Dinky families keep on increasing at present.</span></p>

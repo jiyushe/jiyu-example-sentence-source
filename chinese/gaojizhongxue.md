@@ -1,5 +1,7 @@
 # 高级中学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojizhongxue.md)
+
 <p><span class="chinese">欢迎来到勃利县高级中学！</span><span class="english">Welcome to Boli Senior High School!</span></p>
 
 <p><span class="chinese">我两个姊姊都是乔治华盛顿高级中学的毕业生。</span><span class="english">My two sisters are both alumnae of George Washington High school.</span></p>

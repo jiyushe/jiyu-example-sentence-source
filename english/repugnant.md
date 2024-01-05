@@ -1,5 +1,7 @@
 # repugnant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repugnant.md)
+
 <p><span class="chinese">我讨厌现在的自我，十分的讨厌！</span><span class="english">My repugnant present, ten points repugnancy!</span></p>
 
 <p><span class="chinese">在球场上，姚明十分好胜，但从不令人反感。</span><span class="english">On court, Yao was pugnacious but never repugnant.</span></p>

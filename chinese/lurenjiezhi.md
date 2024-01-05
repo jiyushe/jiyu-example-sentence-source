@@ -1,5 +1,7 @@
 # 路人皆知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lurenjiezhi.md)
+
 <p><span class="chinese">他冀图夺取政权的野心已经路人皆知了。</span><span class="english">His ambition to seize power is known to all.</span></p>
 
 <p><span class="chinese">孩子需要父母的呵护，路人皆知。</span><span class="english">Everybody knows that children need parenting.</span></p>

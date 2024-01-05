@@ -1,5 +1,7 @@
 # 金鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinji_3.md)
+
 <p><span class="chinese">你曾听过会生金鸡蛋的母鸡吗?。</span><span class="english">Have you heard of the hen who laid golden eggs?</span></p>
 
 <p><span class="chinese">金鸡菊野花开花在德克萨斯州海岸大草原。</span><span class="english">Coreopsis wildflowers bloom on the Texas coastal prairie.</span></p>

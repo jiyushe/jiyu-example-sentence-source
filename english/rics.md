@@ -1,5 +1,7 @@
 # rics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rics.md)
+
 <p><span class="chinese">RICS会员现时已被一系列严谨的职业守则及政策指引规管。</span><span class="english">RICS members are regulated by a set of stringent code of ethics and policy guidelines.</span></p>
 
 <p><span class="chinese">RICS称,2010年初相对于登记购房者数量的房源短缺,将推动房价上涨,此后这种效应将消退.</span><span class="english">For 2010, RICS said an initial upward effect on prices caused by a shortage of property relative to the number of registered buyers would fade.</span></p>

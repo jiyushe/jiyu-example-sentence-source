@@ -1,5 +1,7 @@
 # 游轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youlun_1.md)
+
 <p><span class="chinese">我们赴年搭游轮到阿拉斯加。</span><span class="english">We cruised to Alaska last year.</span></p>
 
 <p><span class="chinese">他为了谋生还教些书，有时在游轮上打打工。</span><span class="english">He had to teach a bit, or work on cruise ships.</span></p>

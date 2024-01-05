@@ -1,5 +1,7 @@
 # zener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zener.md)
+
 <p><span class="chinese">表面贴装型齐纳二极管。齐纳额定电压4.7V，测试电流20.0毫安。</span><span class="english">Surface mount zener diode. Nominal zener voltage 4.7V, test current 20.0mA.</span></p>
 
 <p><span class="chinese">内部齐纳钳位功能可提供电源线过电压保护。</span><span class="english">An internal Zener clamp protects against over-voltage conditions on the supply line.</span></p>

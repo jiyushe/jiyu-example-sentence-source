@@ -1,5 +1,7 @@
 # pedophile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedophile.md)
+
 <p><span class="chinese">它使一个恋童癖人性化。</span><span class="english">It humanizes a pedophile.</span></p>
 
 <p><span class="chinese">你知道你跟一个恋童癖住在一起吗？</span><span class="english">Are you aware you're living with a pedophile ?</span></p>

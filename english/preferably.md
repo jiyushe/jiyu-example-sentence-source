@@ -1,5 +1,7 @@
 # preferably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preferably.md)
+
 <p><span class="chinese">文件尽量地小，最好小于1K</span><span class="english">It's small, preferably under 1K.</span></p>
 
 <p><span class="chinese">最好是一个没有蚁冢的树篱。</span><span class="english">Preferably one without an anthill.</span></p>

@@ -1,5 +1,7 @@
 # 风气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengqi.md)
+
 <p><span class="chinese">种族间的嫉恨是一种不良的风气。</span><span class="english">Racial hatred is a contagion.</span></p>
 
 <p><span class="chinese">那首流行歌曲在那时候带来了时髦的风气。</span><span class="english">That pop-song had a great vogue at one time.</span></p>

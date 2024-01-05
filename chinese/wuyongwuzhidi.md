@@ -1,5 +1,7 @@
 # 无用武之地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyongwuzhidi.md)
+
 <p><span class="chinese">但是，当他们试图预测股价时，许多过去的影响都变得无用武之地。</span><span class="english">But when they try to predict prices, many past influences have ceased to matter.</span></p>
 
 <p><span class="chinese">复元之后他在执政内阁和第一执政统治下的法国都无用武之地。</span><span class="english">When he recovered, he found no scope in the France of the directoire and the First Consul.</span></p>

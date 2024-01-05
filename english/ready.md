@@ -1,5 +1,7 @@
 # ready
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ready.md)
+
 <p><span class="chinese">准备好了吗</span><span class="english">Ready?</span></p>
 
 <p><span class="chinese">你准备好了吗？</span><span class="english">You are ready?</span></p>

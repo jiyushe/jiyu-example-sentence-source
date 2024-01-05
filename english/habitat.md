@@ -1,5 +1,7 @@
 # habitat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habitat.md)
+
 <p><span class="chinese">猴子生活在树上的栖息地。</span><span class="english">Monkeys live in an arboreal habitat.</span></p>
 
 <p><span class="chinese">作为栖息地的电子邮件。</span><span class="english">Duchenaut, and Bellotti. Email as Habitat.</span></p>

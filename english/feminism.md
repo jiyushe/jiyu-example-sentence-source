@@ -1,5 +1,7 @@
 # feminism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feminism.md)
+
 <p><span class="chinese">谁是女权主义的领导人？</span><span class="english">Who was the leader of feminism?</span></p>
 
 <p><span class="chinese">女权主义不仅仅是关于女性。</span><span class="english">Feminism is not just about women.</span></p>

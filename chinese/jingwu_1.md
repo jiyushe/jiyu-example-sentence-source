@@ -1,5 +1,7 @@
 # 警务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingwu_1.md)
+
 <p><span class="chinese">一位交通警务人员朴贞锡说，“我每次看车女士失败都感到很抱歉。</span><span class="english">I feel sorry every time I see Cha fail.</span></p>
 
 <p><span class="chinese">警察学与警务管理杂志。</span><span class="english">Journal of Police Science and Management.</span></p>

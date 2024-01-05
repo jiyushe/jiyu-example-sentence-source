@@ -1,5 +1,7 @@
 # 逸闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwen_5.md)
+
 <p><span class="chinese">我不知道-我的逸闻检定显然没过。</span><span class="english">I don't know-I must have failed my Bardic Lore roll.</span></p>
 
 <p><span class="chinese">由于钱锺书的幽默风趣，有不少关于他的逸闻趣事。</span><span class="english">For his sense of humour, There are many anecdotes of Qianzhongshu.</span></p>

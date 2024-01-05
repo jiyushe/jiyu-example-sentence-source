@@ -1,5 +1,7 @@
 # shane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shane.md)
+
 <p><span class="chinese">即便在第一场，他就肘击过肖恩。</span><span class="english">Even in Game 1, he elbowed Shane.</span></p>
 
 <p><span class="chinese">巴蒂尔和乔知道，这是它。</span><span class="english">Shane and Joe know that this is it.</span></p>

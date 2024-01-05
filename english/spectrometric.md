@@ -1,5 +1,7 @@
 # spectrometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectrometric.md)
+
 <p><span class="chinese">以光谱仪测试水样本。</span><span class="english">Spectrometric testing of water sample.</span></p>
 
 <p><span class="chinese">对4种百部生物碱的质谱行为进行了研究。</span><span class="english">The mass spectrometric behavior of four types of Stemona alkaloids was studied.</span></p>

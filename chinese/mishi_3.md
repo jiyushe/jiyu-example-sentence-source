@@ -1,5 +1,7 @@
 # 密室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mishi_3.md)
+
 <p><span class="chinese">我可以带你去我的密室里。</span><span class="english">I can take you to my hideaway.</span></p>
 
 <p><span class="chinese">并没有发现这样的密室。</span><span class="english">No such chamber has been found.</span></p>

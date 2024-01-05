@@ -1,5 +1,7 @@
 # 有机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youji.md)
+
 <p><span class="chinese">有机猕猴桃。</span><span class="english">This organic kiwi.</span></p>
 
 <p><span class="chinese">那是有机的，</span><span class="english">And yeah, it's organics,</span></p>

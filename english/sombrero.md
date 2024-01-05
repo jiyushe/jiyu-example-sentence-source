@@ -1,5 +1,7 @@
 # sombrero
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sombrero.md)
+
 <p><span class="chinese">打印松布列罗你的大小。</span><span class="english">Print a sombrero the size of your own.</span></p>
 
 <p><span class="chinese">为什麽草帽星系看起来像一顶帽子呢？</span><span class="english">Why does the Sombrero Galaxy look like a hat?</span></p>

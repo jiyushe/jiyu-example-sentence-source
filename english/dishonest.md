@@ -1,5 +1,7 @@
 # dishonest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishonest.md)
+
 <p><span class="chinese">这是不诚实的。</span><span class="english">It is dishonest.</span></p>
 
 <p><span class="chinese">他觉得你不够诚实。</span><span class="english">He thinks you are dishonest.</span></p>

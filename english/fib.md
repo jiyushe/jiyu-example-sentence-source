@@ -1,5 +1,7 @@
 # fib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fib.md)
+
 <p><span class="chinese">是等于8吗？，Should，Fib，of，6，be，8？,我不这么认为。</span><span class="english">fib I don't think so.</span></p>
 
 <p><span class="chinese">因为fib的值是？什么？</span><span class="english">Because Fib of is? What?</span></p>

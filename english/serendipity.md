@@ -1,5 +1,7 @@
 # serendipity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serendipity.md)
+
 <p><span class="chinese">这正是那种你心心期盼的命中注定！</span><span class="english">This is the kind of serendipity you want!</span></p>
 
 <p><span class="chinese">它能修复信息流中的惊喜。</span><span class="english">It restores serendipity to the flow of information.</span></p>

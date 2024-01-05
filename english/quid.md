@@ -1,5 +1,7 @@
 # quid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quid.md)
+
 <p><span class="chinese">你能付我500英镑吗？</span><span class="english">Can you send me 500 quid?</span></p>
 
 <p><span class="chinese">你借给我五镑钱行吗？</span><span class="english">Can you lend me five quid?</span></p>

@@ -1,5 +1,7 @@
 # 冷眼旁观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengyanpangguan.md)
+
 <p><span class="chinese">不要冷眼旁观看着你的朋友堕落。</span><span class="english">Never gloat over the ruin of your friend.</span></p>
 
 <p><span class="chinese">世俗的荒凉，我却冷眼旁观。</span><span class="english">Secular ruined, though I will look on coldly.</span></p>

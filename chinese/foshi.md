@@ -1,5 +1,7 @@
 # 佛事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/foshi.md)
+
 <p><span class="chinese">佛教法师在物品回归时作了佛事仪式。</span><span class="english">Buddhist priests blessed the items upon their return.</span></p>
 
 <p><span class="chinese">佛教信仰及参与佛事活动是傣族人传统行为习惯构成的核心。</span><span class="english">Buddhism and Buddhist activities are the core tradition of the Dai nationality.</span></p>

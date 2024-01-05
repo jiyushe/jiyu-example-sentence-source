@@ -1,5 +1,7 @@
 # charcoal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charcoal.md)
+
 <p><span class="chinese">那是烧炭的。</span><span class="english">That was a charcoal burner.</span></p>
 
 <p><span class="chinese">炭被用作许多气体的滤器。</span><span class="english">Charcoal filters many gases.</span></p>

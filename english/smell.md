@@ -1,5 +1,7 @@
 # smell 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smell.md)
+
 <p><span class="chinese">你味道不好。</span><span class="english">You smell.</span></p>
 
 <p><span class="chinese">闻一闻蛋。</span><span class="english">Smell the egg.</span></p>

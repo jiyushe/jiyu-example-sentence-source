@@ -1,5 +1,7 @@
 # silicide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silicide.md)
+
 <p><span class="chinese">首先，我们对锆覆盖在镍上后形成的金属矽化物的热稳定性作一系列的研究。</span><span class="english">First of all, we have investigated the thermal stability of nickel silicide with Zr capping.</span></p>
 
 <p><span class="chinese">利用多层膜可模拟共淀积多元膜，实现硅化物的浅接触。</span><span class="english">Theuse of multilayer film in imitation of codeposition can realize shallow silicide contacts.</span></p>

@@ -1,5 +1,7 @@
 # 特意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teyi_1.md)
+
 <p><span class="chinese">我是特意用这些字的。</span><span class="english">I use these words advisedly.</span></p>
 
 <p><span class="chinese">特意的批评或虐待？</span><span class="english">Mean criticism or mistreatment?</span></p>

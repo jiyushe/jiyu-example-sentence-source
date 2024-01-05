@@ -1,5 +1,7 @@
 # inessential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inessential.md)
+
 <p><span class="chinese">首先，我们省略一些无关紧要的功能。</span><span class="english">First, we omit some inessential features.</span></p>
 
 <p><span class="chinese">失败将那些非本质的东西都剥离了。</span><span class="english">Failure meant a stripping away of the inessential.</span></p>

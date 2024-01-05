@@ -1,5 +1,7 @@
 # righteous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/righteous.md)
+
 <p><span class="chinese">我是正义的斯莱特林。</span><span class="english">I am a righteous Slytherin.</span></p>
 
 <p><span class="chinese">朋友之义，难在义字千变万化。</span><span class="english">Friend, is the righteous word.</span></p>

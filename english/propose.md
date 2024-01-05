@@ -1,5 +1,7 @@
 # propose 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propose.md)
+
 <p><span class="chinese">你建议我们做什么?</span><span class="english">What do you propose we do?</span></p>
 
 <p><span class="chinese">艾伯向简求婚了没有？</span><span class="english">Did Abe propose to Jane yet?</span></p>

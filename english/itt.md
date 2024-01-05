@@ -1,5 +1,7 @@
 # itt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/itt.md)
+
 <p><span class="chinese">所有的ITT夜视技术产品使用放大光线。</span><span class="english">All ITT Night Vision products use light- amplifying technology.</span></p>
 
 <p><span class="chinese">ITT公司夜视系统分部是16毫米管家族的唯一生产商。</span><span class="english">ITT Night Vision is the only producer of the 16-mm tube family.</span></p>

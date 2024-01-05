@@ -1,5 +1,7 @@
 # bacteriophage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacteriophage.md)
+
 <p><span class="chinese">特异性转导是在温和噬菌体的溶原期发生的。</span><span class="english">This may occur during the lysogenic life cycle of a temperate bacteriophage.</span></p>
 
 <p><span class="chinese">噬菌体自发现之初就被人们应用于治疗各种细菌感染。</span><span class="english">Bacteriophage has been used to treat bacterial infections since it was discovered.</span></p>

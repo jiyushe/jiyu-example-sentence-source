@@ -1,5 +1,7 @@
 # 簇拥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuyong.md)
+
 <p><span class="chinese">无论走到哪里，他都被人们簇拥着。</span><span class="english">He was mobbed wherever he went.</span></p>
 
 <p><span class="chinese">细沙簇拥着我们的脚印。</span><span class="english">and sand embraces our footprints.</span></p>

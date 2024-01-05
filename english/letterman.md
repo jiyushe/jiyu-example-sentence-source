@@ -1,5 +1,7 @@
 # letterman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/letterman.md)
+
 <p><span class="chinese">戴维·莱特曼赚多少钱？</span><span class="english">How much do you think David Letterman makes?</span></p>
 
 <p><span class="chinese">我喜欢，大卫·利特曼是我的老板，我了解他的过去。</span><span class="english">I'm like, David Letterman is my boss. I have got his back.</span></p>

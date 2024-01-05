@@ -1,5 +1,7 @@
 # baryon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baryon.md)
+
 <p><span class="chinese">产品型号是由重子决定。</span><span class="english">The model number is determined from the Baryon.</span></p>
 
 <p><span class="chinese">这里是一个小的重子版本的解释。</span><span class="english">Here is a little explanation of the Baryon version.</span></p>

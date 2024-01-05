@@ -1,5 +1,7 @@
 # 所谓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suowei.md)
+
 <p><span class="chinese">尝试新事物，正所谓人挪活树挪死。</span><span class="english">Try new things.</span></p>
 
 <p><span class="chinese">这就是所谓的“晶格”。</span><span class="english">This is the lattice.</span></p>

@@ -1,5 +1,7 @@
 # intestine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intestine.md)
+
 <p><span class="chinese">我要猪肠汤。</span><span class="english">I want pork intestine.</span></p>
 
 <p><span class="chinese">这是黑暗的肠子。</span><span class="english">This is the dark intestine.</span></p>

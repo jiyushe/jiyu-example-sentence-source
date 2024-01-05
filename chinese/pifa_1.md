@@ -1,5 +1,7 @@
 # 疲乏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pifa_1.md)
+
 <p><span class="chinese">冉阿让疲乏不堪。</span><span class="english">Jean Valjean was fatigued.</span></p>
 
 <p><span class="chinese">由于焦虑，他感到疲乏不堪。</span><span class="english">He feels wrung out with anxiety.</span></p>

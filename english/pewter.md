@@ -1,5 +1,7 @@
 # pewter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pewter.md)
+
 <p><span class="chinese">锡器有一股臭气。</span><span class="english">Pewter has an odor.</span></p>
 
 <p><span class="chinese">两个铅锡合金扣口音的门襟。</span><span class="english">Two pewter clasps accent the placket.</span></p>

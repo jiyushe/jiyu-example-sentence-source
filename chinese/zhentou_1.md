@@ -1,5 +1,7 @@
 # 针头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhentou_1.md)
+
 <p><span class="chinese">我们是历史的针头。</span><span class="english">We are pinheads of the history.</span></p>
 
 <p><span class="chinese">针头绝不能重复使用。</span><span class="english">Needles can not be re-used EVER.</span></p>

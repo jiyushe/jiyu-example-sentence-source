@@ -1,5 +1,7 @@
 # 赞扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanyang.md)
+
 <p><span class="chinese">怎么去获得赞扬？</span><span class="english">How to get that praise?</span></p>
 
 <p><span class="chinese">世尊啊！这是受智者所赞扬的。</span><span class="english">Praised by the wise, lord.</span></p>

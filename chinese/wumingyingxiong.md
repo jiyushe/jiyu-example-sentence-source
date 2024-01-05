@@ -1,5 +1,7 @@
 # 无名英雄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumingyingxiong.md)
+
 <p><span class="chinese">这次竞选中的无名英雄。</span><span class="english">The unsung hero of this campaign.</span></p>
 
 <p><span class="chinese">您是无名英雄，又是教坛名师。</span><span class="english">You are unsung heroes, is the world famous.</span></p>

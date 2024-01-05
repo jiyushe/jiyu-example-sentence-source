@@ -1,5 +1,7 @@
 # reoccupy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reoccupy.md)
+
 <p><span class="chinese">以色列称其并没有长期占领加沙地区的意图。</span><span class="english">Israel says it has no plans to permanently reoccupy Gaza.</span></p>
 
 <p><span class="chinese">再用遮瑕膏会让你看起来非常假。</span><span class="english">Reoccupy block defect creams can let you look very false.</span></p>

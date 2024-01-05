@@ -1,5 +1,7 @@
 # 心魄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinpo.md)
+
 <p><span class="chinese">整个演出憾人心魄。</span><span class="english">The entire performance was soul-stirring.</span></p>
 
 <p><span class="chinese">你有一双摄人心魄的眼睛。我非常喜欢。</span><span class="english">You've got dangerous eyes. ? I like that.</span></p>

@@ -1,5 +1,7 @@
 # 待价而沽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daijiaergu.md)
+
 <p><span class="chinese">许多岗位待价而沽？这就是个拍卖会啊。</span><span class="english">Pecsaetnastill taking bids for many of the positions? quite an auction.</span></p>
 
 <p><span class="chinese">他在1980年去世，享年90岁，他死后他的形象就待价而沽了。</span><span class="english">But after he died, at the age of 90 in 1980, his image was up for grabs.</span></p>

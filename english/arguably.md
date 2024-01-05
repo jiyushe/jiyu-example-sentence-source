@@ -1,5 +1,7 @@
 # arguably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arguably.md)
+
 <p><span class="chinese">现在我们的书店可以说是有史以来最好的。</span><span class="english">We now have arguably the best bookshops ever.</span></p>
 
 <p><span class="chinese">阿德里安泽乔可以说是世界顶级酒店业。</span><span class="english">Adrian Zecha is arguably the top hotelier in the world.</span></p>

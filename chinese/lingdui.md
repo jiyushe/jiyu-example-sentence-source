@@ -1,5 +1,7 @@
 # 领队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingdui.md)
+
 <p><span class="chinese">队长有病时，副队长领队。</span><span class="english">The captain leads his team.</span></p>
 
 <p><span class="chinese">队长有病时，副队长领队。</span><span class="english">Who is captaining the side today?</span></p>

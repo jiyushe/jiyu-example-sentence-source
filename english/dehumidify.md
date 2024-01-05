@@ -1,5 +1,7 @@
 # dehumidify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dehumidify.md)
+
 <p><span class="chinese">谁可以提供给我祛风除湿的中药方子？</span><span class="english">The Chinese traditional medicine that who can offer dehumidify of my dispel the wind prescription?</span></p>
 
 <p><span class="chinese">诸如水的流体受冷并被提供到冷却盘管，以便对穿越冷却盘管的空气进行冷却和除湿。</span><span class="english">A fluid, such as water, is chilled and provided to a cooling coil to cool and dehumidify air passing over the cooling coil.</span></p>

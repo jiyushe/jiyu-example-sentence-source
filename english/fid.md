@@ -1,5 +1,7 @@
 # fid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fid.md)
+
 <p><span class="chinese">他用小提琴给我们奏了一个曲子。</span><span class="english">He gave us a tune on his fid dle.</span></p>
 
 <p><span class="chinese">大概是因为尼禄拉了小提琴，所以他们把罗马焚毁了。</span><span class="english">Perhaps it was because Nero played the fid dle, they burned Rome.</span></p>

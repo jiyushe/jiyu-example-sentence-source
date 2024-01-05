@@ -1,5 +1,7 @@
 # envelopment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/envelopment.md)
+
 <p><span class="chinese">打开包裹后她把封皮存了起来。</span><span class="english">She saved the envelopment after she opened the package.</span></p>
 
 <p><span class="chinese">也可能是外围控制或企图使来访者疲惫的一种征兆。</span><span class="english">It can also be a symptom of envelopment or an attempt to keep visitors fatigued.</span></p>

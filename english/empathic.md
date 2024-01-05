@@ -1,5 +1,7 @@
 # empathic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empathic.md)
+
 <p><span class="chinese">我是一个心理学家，倾向于移情思维。</span><span class="english">As a psychologist, my tendency is to be empathic.</span></p>
 
 <p><span class="chinese">猫儿不像狗或是大象那样具有利他的，移情的行为。</span><span class="english">Cats, unlike dogs or even elephants, aren't associated with altruistic, empathic behavior.</span></p>

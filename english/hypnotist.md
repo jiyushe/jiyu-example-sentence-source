@@ -1,5 +1,7 @@
 # hypnotist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypnotist.md)
+
 <p><span class="chinese">到最后我去找了一位催眠师。</span><span class="english">In the end I went to a hypnotist.</span></p>
 
 <p><span class="chinese">他在一位警方催眠师的引导下进入了催眠状态。</span><span class="english">He was put into a trance by a police hypnotist.</span></p>

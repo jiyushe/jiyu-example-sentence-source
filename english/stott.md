@@ -1,5 +1,7 @@
 # stott
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stott.md)
+
 <p><span class="chinese">斯托特坦言，该数据集显示不出明确的趋势。</span><span class="english">This data set showed no clear trend, said Stott.</span></p>
 
 <p><span class="chinese">斯托特普拉提练习套路中使用中立的立场脊柱。</span><span class="english">Stott Pilates uses the neutral spine position in exercise routines.</span></p>

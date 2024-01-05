@@ -1,5 +1,7 @@
 # quiver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quiver.md)
+
 <p><span class="chinese">柳树转白，山杨颤动著。</span><span class="english">Willows whiten, aspens quiver.</span></p>
 
 <p><span class="chinese">柳树泛白光，山杨在颤抖。</span><span class="english">Willows whiten, aspens quiver.</span></p>

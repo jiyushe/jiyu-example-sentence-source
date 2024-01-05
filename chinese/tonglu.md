@@ -1,5 +1,7 @@
 # 同路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonglu.md)
+
 <p><span class="chinese">我们可以同路回去.</span><span class="english">We're going back the same way.</span></p>
 
 <p><span class="chinese">那人是谁与我同路？</span><span class="english">Who is this man that comes my way?</span></p>

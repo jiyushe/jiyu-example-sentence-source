@@ -1,5 +1,7 @@
 # scott
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scott.md)
+
 <p><span class="chinese">斯高特工作很长时间。</span><span class="english">Scott works very long.</span></p>
 
 <p><span class="chinese">他的妻子是科丽塔·斯科特·金。</span><span class="english">His wife was Kelita Scott.</span></p>

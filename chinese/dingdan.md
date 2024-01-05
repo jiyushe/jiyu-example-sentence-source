@@ -1,5 +1,7 @@
 # 定单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingdan.md)
+
 <p><span class="chinese">我们的宣传册和定单也很少。</span><span class="english">And we have very few brochures and order forms.</span></p>
 
 <p><span class="chinese">加拿大的定单从25个系统增加到38个系统。</span><span class="english">Orders for Canada increase from 25 to 38 systems.</span></p>

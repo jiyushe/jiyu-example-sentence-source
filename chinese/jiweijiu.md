@@ -1,5 +1,7 @@
 # 鸡尾酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiweijiu.md)
+
 <p><span class="chinese">来一杯夏日鸡尾酒？</span><span class="english">Want a summer cocktail?</span></p>
 
 <p><span class="chinese">相比之下，贝利尼鸡尾酒还是在威尼斯更便宜些。</span><span class="english">Bellinis are cheaper in Venice.</span></p>

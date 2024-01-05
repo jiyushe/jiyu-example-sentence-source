@@ -1,5 +1,7 @@
 # 富丽堂皇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fulitanghuang.md)
+
 <p><span class="chinese">大厅装饰得富丽堂皇。</span><span class="english">The hall was sumptuously decorated.</span></p>
 
 <p><span class="chinese">宫殿被装饰得富丽堂皇。</span><span class="english">The palace is sumptuously decorated.</span></p>

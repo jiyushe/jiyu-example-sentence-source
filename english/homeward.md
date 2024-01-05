@@ -1,5 +1,7 @@
 # homeward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homeward.md)
+
 <p><span class="chinese">他急着赶回家。</span><span class="english">He hied him homeward.</span></p>
 
 <p><span class="chinese">农夫疲惫地蹒跚在回家途中。</span><span class="english">The plowman homeward plods his weary way.</span></p>

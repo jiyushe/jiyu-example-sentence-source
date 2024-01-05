@@ -1,5 +1,7 @@
 # empress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empress.md)
+
 <p><span class="chinese">亲亲叶赫你回来拉！</span><span class="english">Kiss Empress pull you back!</span></p>
 
 <p><span class="chinese">红南国的皇太后。</span><span class="english">Kounan Country's Empress dowager.</span></p>

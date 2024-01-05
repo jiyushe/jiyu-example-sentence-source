@@ -1,5 +1,7 @@
 # ritzy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ritzy.md)
+
 <p><span class="chinese">世界上的最佳人才都喜欢做最高级的工作。</span><span class="english">The optimal talent on the world likes to do ritzy work.</span></p>
 
 <p><span class="chinese">棕榈泉有高档的餐厅和奢华的夜生活。</span><span class="english">Palm Springs has ritzy restaurants and glitzy nightlife.</span></p>

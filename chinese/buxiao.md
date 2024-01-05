@@ -1,5 +1,7 @@
 # 不消
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxiao.md)
+
 <p><span class="chinese">阳光不升起，也不消翳。</span><span class="english">That doth not rise nor set.</span></p>
 
 <p><span class="chinese">什么工具不消接触就能拿着？</span><span class="english">What can you hold without touching?</span></p>

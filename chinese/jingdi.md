@@ -1,5 +1,7 @@
 # 井底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdi.md)
+
 <p><span class="chinese">他与怪物们一起坠入井底。</span><span class="english">He falls down a mine with a monster.</span></p>
 
 <p><span class="chinese">他很快就看到井底的那只狐狸。</span><span class="english">He soon saw the fox at the bottom of it.</span></p>

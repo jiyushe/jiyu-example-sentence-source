@@ -1,5 +1,7 @@
 # paleocene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleocene.md)
+
 <p><span class="chinese">晚古新世丽水凹陷经历了两次较大规模的海侵。</span><span class="english">During Late Paleocene there were two greater transgressions in the sag.</span></p>
 
 <p><span class="chinese">古新世可以说是一个丛林茂密演化不断的时代。</span><span class="english">The Paleocene epoch was a time of dense forests and evolutionary experiments.</span></p>

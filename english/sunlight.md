@@ -1,5 +1,7 @@
 # sunlight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunlight.md)
+
 <p><span class="chinese">享受阳光和新鲜的空气。</span><span class="english">Get sunlight and fresh air.</span></p>
 
 <p><span class="chinese">鸭舌帽阻挡阳光。</span><span class="english">Cap keeps the sunlight away.</span></p>

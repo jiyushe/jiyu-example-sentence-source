@@ -1,5 +1,7 @@
 # widespread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/widespread.md)
+
 <p><span class="chinese">新法例广获赞同。</span><span class="english">The new laws gained widespread acceptance.</span></p>
 
 <p><span class="chinese">全息摄影将得到普及。</span><span class="english">Holographic cameras will become widespread.</span></p>

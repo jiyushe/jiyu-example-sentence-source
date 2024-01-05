@@ -1,5 +1,7 @@
 # 特为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tewei.md)
+
 <p><span class="chinese">以简尼特为例。</span><span class="english">Take Janet, for instance.</span></p>
 
 <p><span class="chinese">特为看你而来。</span><span class="english">I came here specially to see you.</span></p>

@@ -1,5 +1,7 @@
 # bride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bride.md)
+
 <p><span class="chinese">躲猫猫新娘？</span><span class="english">Peekaboo bride?</span></p>
 
 <p><span class="chinese">新娘和新郎。</span><span class="english">Bride and groom.</span></p>

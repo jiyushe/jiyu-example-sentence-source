@@ -1,5 +1,7 @@
 # 见闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianwen_1.md)
+
 <p><span class="chinese">他是一个见闻广博的人。</span><span class="english">He is a storehouse of information.</span></p>
 
 <p><span class="chinese">广博的见闻是赠给知识贫乏者的宝贵的精神食粮。</span><span class="english">A broad range of horizons is donated to know?</span></p>

@@ -1,5 +1,7 @@
 # 武断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuduan.md)
+
 <p><span class="chinese">他太武断了！</span><span class="english">He is too dogmatic!</span></p>
 
 <p><span class="chinese">从而显得过于武断。</span><span class="english">They're overdetermined.</span></p>

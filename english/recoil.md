@@ -1,5 +1,7 @@
 # recoil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recoil.md)
+
 <p><span class="chinese">这只不过是一种回缩机制。</span><span class="english">It is simply a recoil mechanism.</span></p>
 
 <p><span class="chinese">部队在结束战斗以后撤走了。</span><span class="english">The unit recoil at over the fight.</span></p>

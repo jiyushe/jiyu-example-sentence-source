@@ -1,5 +1,7 @@
 # ember
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ember.md)
+
 <p><span class="chinese">我是史蒂夫·安贝。</span><span class="english">I'm Steven Ember.</span></p>
 
 <p><span class="chinese">一条灰烬隆头鱼的眼睛马尔代夫。</span><span class="english">The eye of an ember parrotfish Maldives.</span></p>

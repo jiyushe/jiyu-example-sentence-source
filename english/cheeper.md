@@ -1,5 +1,7 @@
 # cheeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheeper.md)
+
 <p><span class="chinese">幼儿耳内划伤怎么办？</span><span class="english">How does the cut inside cheeper ear do?</span></p>
 
 <p><span class="chinese">幼儿呕吐腹泻该怎么办？</span><span class="english">How should cheeper vomiting diarrhoea do?</span></p>

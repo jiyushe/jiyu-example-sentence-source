@@ -1,5 +1,7 @@
 # 睡意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiyi.md)
+
 <p><span class="chinese">我现在睡意朦胧的，而且还感到很满足。</span><span class="english">I am sleepy andcontent.</span></p>
 
 <p><span class="chinese">他没有取书读，疲倦得连睡意都感觉不到了。</span><span class="english">He did not reach out for a book.</span></p>

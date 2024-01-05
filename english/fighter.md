@@ -1,5 +1,7 @@
 # fighter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fighter.md)
+
 <p><span class="chinese">他是个小战士。</span><span class="english">A little fighter.</span></p>
 
 <p><span class="chinese">他是一位可敬的战士。</span><span class="english">He is a redoubtable fighter.</span></p>

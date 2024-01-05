@@ -1,5 +1,7 @@
 # 盆景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penjing.md)
+
 <p><span class="chinese">它是我的掌上盆景-----仙人球。</span><span class="english">It is my palm bonsai ----- cactus.</span></p>
 
 <p><span class="chinese">这些柳树的树干盘根错杂，仿佛盆景一般。</span><span class="english">Their trunks are as gnarled as bonsai.</span></p>

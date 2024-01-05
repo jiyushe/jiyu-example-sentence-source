@@ -1,5 +1,7 @@
 # inc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inc.md)
+
 <p><span class="chinese">纽约芬妮水晶首饰店。</span><span class="english">Fanny Crystal Jewelry Co. Inc.</span></p>
 
 <p><span class="chinese">大文行酒业有限公司欢迎您！</span><span class="english">Welcome to Diamond Hong, Inc. !</span></p>

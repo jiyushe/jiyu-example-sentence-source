@@ -1,5 +1,7 @@
 # 钻石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuanshi.md)
+
 <p><span class="chinese">钻石怎么样?</span><span class="english">How about diamond?</span></p>
 
 <p><span class="chinese">给她买颗钻石戒指。</span><span class="english">Buy her a diamond ring.</span></p>

@@ -1,5 +1,7 @@
 # 扬声器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangshengqi.md)
+
 <p><span class="chinese">于是,扬声器不再发出乐曲声了</span><span class="english">My boombox stops giving off music.</span></p>
 
 <p><span class="chinese">内置扬声器支持免提以及音乐播放</span><span class="english">Speaker for speakerphone and music</span></p>

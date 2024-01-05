@@ -1,5 +1,7 @@
 # apollo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apollo.md)
+
 <p><span class="chinese">阿波罗是太阳神。</span><span class="english">Apollo was me sun-god.</span></p>
 
 <p><span class="chinese">佩戴花环的阿波罗神。</span><span class="english">And garlanded Apollo goes.</span></p>

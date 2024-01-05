@@ -1,5 +1,7 @@
 # familiarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/familiarity.md)
+
 <p><span class="chinese">最后，熟悉度。</span><span class="english">Finally, familiarity.</span></p>
 
 <p><span class="chinese">因为熟悉感。</span><span class="english">Because of familiarity.</span></p>

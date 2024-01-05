@@ -1,5 +1,7 @@
 # expect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expect.md)
+
 <p><span class="chinese">我期望。</span><span class="english">I expect.</span></p>
 
 <p><span class="chinese">期待它。</span><span class="english">Expect it.</span></p>

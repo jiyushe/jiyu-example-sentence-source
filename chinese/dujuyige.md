@@ -1,5 +1,7 @@
 # 独具一格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dujuyige.md)
+
 <p><span class="chinese">同时颜色的选择也很独具一格。</span><span class="english">Also the choice of colors is quite impressive.</span></p>
 
 <p><span class="chinese">在他的诗里有独具一格和想象力。</span><span class="english">There is originality and imagery in his poems.</span></p>

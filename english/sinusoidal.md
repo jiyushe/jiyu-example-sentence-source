@@ -1,5 +1,7 @@
 # sinusoidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinusoidal.md)
+
 <p><span class="chinese">岂知你崇高的正弦魅力乎？</span><span class="english">Of thy supernal sinusoidal spell?</span></p>
 
 <p><span class="chinese">增加三个正弦波可形成一个复合波。</span><span class="english">The nonlinear wave shape degenerates to a sinusoidal wave.</span></p>

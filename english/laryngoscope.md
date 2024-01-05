@@ -1,5 +1,7 @@
 # laryngoscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laryngoscope.md)
+
 <p><span class="chinese">支撑喉镜下很显微手术是现代医学的先进技术。</span><span class="english">The Laryngeal microsurgery under laryngoscope is an advanced technique.</span></p>
 
 <p><span class="chinese">目的探讨纤维喉镜与鼻内镜联合应用治疗上颌窦囊肿的临床效果。</span><span class="english">Objective To study the fiberoptic laryngoscope and endoscopic treatment of Maxillary cysts.</span></p>

@@ -1,5 +1,7 @@
 # 惜别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xibie.md)
+
 <p><span class="chinese">停留在世界边缘，与之惜别。</span><span class="english">Stay on the edge of the world, and goodbye.</span></p>
 
 <p><span class="chinese">惜别伤离方寸乱，忘了临行，酒盏深和浅。</span><span class="english">Farewell to the wound leave way, forget her, gin deep and shallow.</span></p>

@@ -1,5 +1,7 @@
 # 扑腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puteng.md)
+
 <p><span class="chinese">他心里直扑腾。</span><span class="english">His heart was throbbing.</span></p>
 
 <p><span class="chinese">鱼还在扑腾。</span><span class="english">The fish are still flopping about.</span></p>

@@ -1,5 +1,7 @@
 # alley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alley.md)
+
 <p><span class="chinese">他们得钻过狭窄的隧道。</span><span class="english">A narrow way or alley.</span></p>
 
 <p><span class="chinese">我们住在同一条小巷里。</span><span class="english">We live in the same alley.</span></p>

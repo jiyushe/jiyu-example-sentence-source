@@ -1,5 +1,7 @@
 # orinoco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orinoco.md)
+
 <p><span class="chinese">多么想，去远航，让奥里诺科流淌。</span><span class="english">Let me sail, let me sail, let the orinoco flow.</span></p>
 
 <p><span class="chinese">让我们，去远航，顺着奥里诺科流。</span><span class="english">We can sail, we can sail with the orinoco flow.</span></p>

@@ -1,5 +1,7 @@
 # ju
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ju.md)
+
 <p><span class="chinese">“白沙在涅，与之俱黑”。</span><span class="english">Baisha in nirvana, with Ju black.</span></p>
 
 <p><span class="chinese">对了，有没有阿驹和小夜子的消息？</span><span class="english">To, have Ju and the news of small night son?</span></p>

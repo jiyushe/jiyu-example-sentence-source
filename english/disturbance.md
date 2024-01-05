@@ -1,5 +1,7 @@
 # disturbance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disturbance.md)
+
 <p><span class="chinese">我感觉到原力里有波动…</span><span class="english">I sense a disturbance in the force.</span></p>
 
 <p><span class="chinese">稍有动静，鹿就会受到惊吓。</span><span class="english">The deer spooked at any disturbance.</span></p>

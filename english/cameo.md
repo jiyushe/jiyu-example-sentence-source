@@ -1,5 +1,7 @@
 # cameo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cameo.md)
+
 <p><span class="chinese">那小女孩戴着一枚浮雕宝石胸针。</span><span class="english">That little girl is wearing a cameo brooch.</span></p>
 
 <p><span class="chinese">大卫的客串将在哪一天哪一集播出尚而知。</span><span class="english">No episode or date of his cameo are mentioned.</span></p>

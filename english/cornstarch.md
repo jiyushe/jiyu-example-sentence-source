@@ -1,5 +1,7 @@
 # cornstarch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornstarch.md)
+
 <p><span class="chinese">你要多加点玉米淀粉才行。</span><span class="english">You need to add more cornstarch.</span></p>
 
 <p><span class="chinese">把水和淀粉混合在一起。</span><span class="english">Mix the cornstarch and water together.</span></p>

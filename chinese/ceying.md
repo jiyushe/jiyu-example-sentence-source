@@ -1,5 +1,7 @@
 # 侧影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ceying.md)
+
 <p><span class="chinese">我删除了她的侧影。</span><span class="english">I cut out her silhouette.</span></p>
 
 <p><span class="chinese">你同样可以把它用作侧影刷。</span><span class="english">You can also use this brush for bronzer.</span></p>

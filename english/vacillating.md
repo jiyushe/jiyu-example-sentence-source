@@ -1,5 +1,7 @@
 # vacillating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacillating.md)
+
 <p><span class="chinese">这两个音又游移不定。</span><span class="english">These two sounds keep on vacillating.</span></p>
 
 <p><span class="chinese">我在大部分事情上，是个迟疑不决的、动摇不定的人。</span><span class="english">I am a very irresolute, vacillating man in most things.</span></p>

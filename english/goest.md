@@ -1,5 +1,7 @@
 # goest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goest.md)
+
 <p><span class="chinese">甜美的藍眼少女，你要去哪裡?。</span><span class="english">Sweet blue-eyed maid, Where goest thou?</span></p>
 
 <p><span class="chinese">他每四天去看去他弟弟一次。</span><span class="english">He goest o see his brother every four days.</span></p>

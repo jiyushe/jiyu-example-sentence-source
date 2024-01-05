@@ -1,5 +1,7 @@
 # 编年体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biannianti.md)
+
 <p><span class="chinese">章节应该按照编年体的顺序来安排，并且应该清楚明了的。</span><span class="english">Chapters are read in chronological order and make sense.</span></p>
 
 <p><span class="chinese">这一体例的设计，强化了编年体文学史的表现力。</span><span class="english">This, as a designed structure, keeps a strong possibility to tell the history vividly even in a chronological model.</span></p>

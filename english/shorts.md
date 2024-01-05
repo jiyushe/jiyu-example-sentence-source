@@ -1,5 +1,7 @@
 # shorts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shorts.md)
+
 <p><span class="chinese">穿短裤的女士，博格？</span><span class="english">The shorts lady. Boog?</span></p>
 
 <p><span class="chinese">一匹矮马穿着橘色的短裤。</span><span class="english">A short horse wore orange shorts.</span></p>

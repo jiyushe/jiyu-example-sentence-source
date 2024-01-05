@@ -1,5 +1,7 @@
 # mainspring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mainspring.md)
+
 <p><span class="chinese">我想主发条断了。</span><span class="english">I think the mainspring is broken.</span></p>
 
 <p><span class="chinese">发条带动表走。</span><span class="english">The mainspring makes the watch motion.</span></p>

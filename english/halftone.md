@@ -1,5 +1,7 @@
 # halftone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halftone.md)
+
 <p><span class="chinese">本教程教你简单制作网点和线性光效果照片。</span><span class="english">Open the image you want to add the linear light and halftone dot effect too.</span></p>
 
 <p><span class="chinese">指定进行黑白打印时半色调处理的方法。</span><span class="english">Specifies the method for halftone processing when printing in black and white.</span></p>

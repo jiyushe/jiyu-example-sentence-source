@@ -1,5 +1,7 @@
 # 意气用事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqiyongshi.md)
+
 <p><span class="chinese">我想人们只是意气用事罢了。</span><span class="english">I think this is just people being very judgmental.</span></p>
 
 <p><span class="chinese">无论发生什么事，我哥哥总是意气用事。</span><span class="english">No matter what happens, my brother always loses his head.</span></p>

@@ -1,5 +1,7 @@
 # 玩乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanle_1.md)
+
 <p><span class="chinese">我是酷玩乐队的死忠。</span><span class="english">I am a die hard fan of coldplay.</span></p>
 
 <p><span class="chinese">玩乐时，时间过得好快。</span><span class="english">Time flies when you're having fun.</span></p>

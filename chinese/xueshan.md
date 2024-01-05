@@ -1,5 +1,7 @@
 # 雪山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueshan.md)
+
 <p><span class="chinese">噢，轰掉雪山的那个小兵！</span><span class="english">The soldier from the mountains!</span></p>
 
 <p><span class="chinese">那就是我所说的西岭雪山。</span><span class="english">That I am talking about Xiling Xueshan.</span></p>

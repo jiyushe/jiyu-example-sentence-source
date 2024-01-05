@@ -1,5 +1,7 @@
 # crosshead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crosshead.md)
+
 <p><span class="chinese">十子头销变成椭圆了。</span><span class="english">The crosshead pin becomes oval.</span></p>
 
 <p><span class="chinese">十字头销为合金钢锻件。</span><span class="english">Crosshead pin is alloy-steel forged.</span></p>

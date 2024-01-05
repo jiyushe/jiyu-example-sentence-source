@@ -1,5 +1,7 @@
 # 淙淙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congcong_2.md)
+
 <p><span class="chinese">我爱你淙淙的小河。</span><span class="english">I love your gurgling creeks.</span></p>
 
 <p><span class="chinese">可我们找到了淙淙小溪</span><span class="english">Still we find the flowing brooks</span></p>

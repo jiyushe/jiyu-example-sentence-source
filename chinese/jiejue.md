@@ -1,5 +1,7 @@
 # 孑孓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejue.md)
+
 <p><span class="chinese">每杯茶都会喝上一个钟头，然后孑孓一身向家中漫走。</span><span class="english">Each tea lasts an hour then he wanders home alone.</span></p>
 
 <p><span class="chinese">它正在努力想办法是人想的孑孓这个问题了解。</span><span class="english">He's trying to figure out a way to solve the problem.</span></p>

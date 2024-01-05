@@ -1,5 +1,7 @@
 # 偷懒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toulan.md)
+
 <p><span class="chinese">真是个会偷懒的家伙！</span><span class="english">How lazy.</span></p>
 
 <p><span class="chinese">不要偷懒。</span><span class="english">Don’t be lazy!</span></p>

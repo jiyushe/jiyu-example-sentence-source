@@ -1,5 +1,7 @@
 # dissident
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissident.md)
+
 <p><span class="chinese">伊朗和衣索比亚则压抑异议人士的声音。</span><span class="english">Iran and Ethiopia are silencing dissident voices.</span></p>
 
 <p><span class="chinese">他开始通过各种途径和保守派贵族们进行密谋</span><span class="english">He begins to plot in various ways with dissident Boyars.</span></p>

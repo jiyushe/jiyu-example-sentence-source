@@ -1,5 +1,7 @@
 # panhandle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panhandle.md)
+
 <p><span class="chinese">美国阿拉斯加州首府，在锡特卡东北部的柄状狭长地带。</span><span class="english">The capital of Alaska, in the Panhandle northeast of Sitka.</span></p>
 
 <p><span class="chinese">西北部的一座城市，位于宾夕法尼亚州俄亥俄河沿岸的锅柄状地区。</span><span class="english">A city in the northern panhandle of West Virginia on the Ohio river.</span></p>

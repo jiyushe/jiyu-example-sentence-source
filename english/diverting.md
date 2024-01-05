@@ -1,5 +1,7 @@
 # diverting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diverting.md)
+
 <p><span class="chinese">这是一种自由自在，令人赏心悦目的生活。</span><span class="english">It was a commodious and a diverting life.</span></p>
 
 <p><span class="chinese">这就是西方的媒体，在转移视线。</span><span class="english">That's Western media for you, diverting attention.</span></p>

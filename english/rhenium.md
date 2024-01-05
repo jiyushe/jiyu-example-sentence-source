@@ -1,5 +1,7 @@
 # rhenium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhenium.md)
+
 <p><span class="chinese">铼的同位素被运用于肝癌的治疗。</span><span class="english">Rhenium isotopes are used to treat liver cancer.</span></p>
 
 <p><span class="chinese">铼是地壳中一种极度分散的元素。</span><span class="english">Rhenium is an element which is extremely dispersed in earth crust.</span></p>

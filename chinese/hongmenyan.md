@@ -1,5 +1,7 @@
 # 鸿门宴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongmenyan.md)
+
 <p><span class="chinese">我窥见到她正给耶斯列的贵族们写信，让他们办一场鸿门宴。</span><span class="english">I peeked in the windows and I saw her writing letters to the noblesof Jezreel to hold a feast.</span></p>
 
 <p><span class="chinese">还是说客，这么多的人来排着队来与我作对，我可是四面楚歌，鸿门宴是吗？</span><span class="english">Or lobbyists, so many people to be supplied to me and couplets, but I am besieged , Hongmenyan is it?</span></p>

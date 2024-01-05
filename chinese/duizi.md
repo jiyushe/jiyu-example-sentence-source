@@ -1,5 +1,7 @@
 # 对子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duizi.md)
+
 <p><span class="chinese">对子问题运行算法。</span><span class="english">Run the algorithm on the sub-problem.</span></p>
 
 <p><span class="chinese">到目前为止已经结成了大约2600个对子。</span><span class="english">About 2, 600 matches have been made so far.</span></p>

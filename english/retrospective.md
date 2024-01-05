@@ -1,5 +1,7 @@
 # retrospective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrospective.md)
+
 <p><span class="chinese">该税务裁定具有溯及力。</span><span class="english">The tax ruling has retrospective effect.</span></p>
 
 <p><span class="chinese">然而，建筑标准对已建的楼宇是无效的。</span><span class="english">Yet the building standards are not retrospective.</span></p>

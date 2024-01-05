@@ -1,5 +1,7 @@
 # 笔势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bishi_2.md)
+
 <p><span class="chinese">你想要自定义您的光标笔势吗？</span><span class="english">Would you like to customize your flick gestures?</span></p>
 
 <p><span class="chinese">在用户使用此触笔生成系统笔势时发生。</span><span class="english">Occurs when the user raises the stylus from the Tablet PC.</span></p>

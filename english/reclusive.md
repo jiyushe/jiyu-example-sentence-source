@@ -1,5 +1,7 @@
 # reclusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reclusive.md)
+
 <p><span class="chinese">隐居大熊猫的镜头很罕见。</span><span class="english">Shots of the reclusive giant panda are rare.</span></p>
 
 <p><span class="chinese">元明之际存在着大量不乐仕进的隐士群体。</span><span class="english">Reclusive groups flourished during the early Ming period.</span></p>

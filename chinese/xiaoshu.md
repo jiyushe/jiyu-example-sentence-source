@@ -1,5 +1,7 @@
 # 小数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshu.md)
+
 <p><span class="chinese">小数向下取整。</span><span class="english">Fractions are rounded down.</span></p>
 
 <p><span class="chinese">常用对数的小数部分。</span><span class="english">The fractional part of a logarithm.</span></p>

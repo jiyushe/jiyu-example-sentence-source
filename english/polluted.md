@@ -1,5 +1,7 @@
 # polluted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polluted.md)
+
 <p><span class="chinese">一些沼泽地已被污染。</span><span class="english">Some glades have been polluted.</span></p>
 
 <p><span class="chinese">结果，那条河被污染了。</span><span class="english">As a result, the river is polluted.</span></p>

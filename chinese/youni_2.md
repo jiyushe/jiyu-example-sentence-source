@@ -1,5 +1,7 @@
 # 犹疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youni_2.md)
+
 <p><span class="chinese">犹疑不决的时候，就便放把火吧。</span><span class="english">When in doubt, set something on fire.</span></p>
 
 <p><span class="chinese">派蒂感到犹疑，因为这也许会引致其它的事端。</span><span class="english">Patty is hesitant because it may lead to other things.</span></p>

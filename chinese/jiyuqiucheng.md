@@ -1,5 +1,7 @@
 # 急于求成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiyuqiucheng.md)
+
 <p><span class="chinese">但中国并不想急于求成。</span><span class="english">But China does not want to rush.</span></p>
 
 <p><span class="chinese">他太急于求成。</span><span class="english">He was too impatient for success.</span></p>

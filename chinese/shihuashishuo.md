@@ -1,5 +1,7 @@
 # 实话实说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihuashishuo.md)
+
 <p><span class="chinese">跟医生实话实说。</span><span class="english">Be honest with your doctor.</span></p>
 
 <p><span class="chinese">我跟他实话实说算了，就信任他这一回。</span><span class="english">I’m going to tell him, trust him.</span></p>

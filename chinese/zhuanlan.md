@@ -1,5 +1,7 @@
 # 专栏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanlan.md)
+
 <p><span class="chinese">例如，我专栏。</span><span class="english">For example, I Chron.</span></p>
 
 <p><span class="chinese">McNeill告诉路透社健康专栏。</span><span class="english">McNeill told Reuters Health.</span></p>

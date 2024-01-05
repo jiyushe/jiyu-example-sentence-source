@@ -1,5 +1,7 @@
 # crossing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossing.md)
+
 <p><span class="chinese">一个新的人行横道。</span><span class="english">A new pedestrian crossing.</span></p>
 
 <p><span class="chinese">这是个铁路交叉处。</span><span class="english">This is a railway crossing.</span></p>

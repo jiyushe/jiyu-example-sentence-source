@@ -1,5 +1,7 @@
 # 不吝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bulin.md)
+
 <p><span class="chinese">感谢您的光临和不吝赐教！</span><span class="english">Thank you for coming and comment!</span></p>
 
 <p><span class="chinese">有的话希望不吝赐教，谢谢！</span><span class="english">Any hope that the wing, thank you!</span></p>

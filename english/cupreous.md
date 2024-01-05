@@ -1,5 +1,7 @@
 # cupreous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cupreous.md)
+
 <p><span class="chinese">在全球建筑上下水道用铜水管是发展趋势。</span><span class="english">On global building sewer uses cupreous conduit is development trend.</span></p>
 
 <p><span class="chinese">经久耐用，铜水管安全性能强，终身无需维修。</span><span class="english">Wear well, cupreous conduit safety performance is strong, lifelong need not maintain.</span></p>

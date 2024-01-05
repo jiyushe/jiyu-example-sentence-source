@@ -1,5 +1,7 @@
 # 接力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieli_2.md)
+
 <p><span class="chinese">我还喜欢接力比赛。</span><span class="english">I also like the relay races.</span></p>
 
 <p><span class="chinese">混合泳接力赛的顺序又是怎样的呢？</span><span class="english">And the order in medley relays?</span></p>

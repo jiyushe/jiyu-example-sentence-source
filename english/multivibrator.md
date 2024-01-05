@@ -1,5 +1,7 @@
 # multivibrator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multivibrator.md)
+
 <p><span class="chinese">提出了采用单稳态触发器对采集的PWM波形进行占空比门限处理的方法。</span><span class="english">This paper brings forward a method of threshold processing PWM signals duty cycle by employing monostable multivibrator.</span></p>
 
 <p><span class="chinese">采用555定时器构成单稳态触发器，设计出一套PWM波形占空比门限处理电路。</span><span class="english">By using a monostable multivibrator consist of 555 timers, a circuit of threshold processing PWM signal's duty cycle is proposed.</span></p>

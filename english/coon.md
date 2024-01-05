@@ -1,5 +1,7 @@
 # coon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coon.md)
+
 <p><span class="chinese">下个进来浣熊先生。</span><span class="english">Next to come in was Mister Coon.</span></p>
 
 <p><span class="chinese">反复干同样的事，我真干腻了。</span><span class="english">I am tired of hunting the same old coon.</span></p>

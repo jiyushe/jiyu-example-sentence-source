@@ -1,5 +1,7 @@
 # 稀薄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xibo.md)
+
 <p><span class="chinese">小米粥不宜太稀薄。</span><span class="english">Small rice should not be too thin.</span></p>
 
 <p><span class="chinese">这意味着空气稀薄，风力微弱。</span><span class="english">This means thin air and weak winds.</span></p>

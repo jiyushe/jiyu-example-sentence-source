@@ -1,5 +1,7 @@
 # longtime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longtime.md)
+
 <p><span class="chinese">这些年我一塌胡涂。</span><span class="english">I was messed up for a longtime.</span></p>
 
 <p><span class="chinese">一些老用户十分气愤。</span><span class="english">Some longtime users were furious.</span></p>

@@ -1,5 +1,7 @@
 # interpersonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpersonal.md)
+
 <p><span class="chinese">建立人际沟通技巧。</span><span class="english">Build interpersonal skills.</span></p>
 
 <p><span class="chinese">人与人之间的住居距离感到底有多远?。</span><span class="english">What is the Interpersonal Distance On Earth?</span></p>

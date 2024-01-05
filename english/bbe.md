@@ -1,5 +1,7 @@
 # bbe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bbe.md)
+
 <p><span class="chinese">爱那些爱着你的人。</span><span class="english">Bbe loving to those who love you.</span></p>
 
 <p><span class="chinese">做图像处理的人可以用来参考。</span><span class="english">Do the image processing can bbe used for reference.</span></p>

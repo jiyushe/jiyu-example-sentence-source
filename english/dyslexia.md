@@ -1,5 +1,7 @@
 # dyslexia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyslexia.md)
+
 <p><span class="chinese">你知道阅读障碍是什么。</span><span class="english">You know what dyslexia is.</span></p>
 
 <p><span class="chinese">语言障碍也能影响一个人的情感。</span><span class="english">Dyslexia can also affect a person emotionally.</span></p>

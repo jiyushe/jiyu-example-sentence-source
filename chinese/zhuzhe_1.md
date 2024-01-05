@@ -1,5 +1,7 @@
 # 著者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhe_1.md)
+
 <p><span class="chinese">这样的书不会给著者添增名声的吧。</span><span class="english">Such a book won't add to the author's credit.</span></p>
 
 <p><span class="chinese">这样的书不会给著者添增名声的吧。</span><span class="english">Such a book will not add to the author's credit.</span></p>

@@ -1,5 +1,7 @@
 # geopotential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geopotential.md)
+
 <p><span class="chinese">高阶高精度地球重力场模型具有广泛的用途。</span><span class="english">High order, high precision geopotential models have broad application.</span></p>
 
 <p><span class="chinese">图5给出南半球中纬度300百帕位势高度场。</span><span class="english">Fig. 5 depicts the Southern Hemisphere midlatitude 300-hPa geopotential height field.</span></p>

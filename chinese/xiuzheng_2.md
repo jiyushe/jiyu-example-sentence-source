@@ -1,5 +1,7 @@
 # 修正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuzheng_2.md)
+
 <p><span class="chinese">它是一个修正带。</span><span class="english">It's a tape.</span></p>
 
 <p><span class="chinese">这是他的修正带吗？</span><span class="english">Is that his tape?</span></p>

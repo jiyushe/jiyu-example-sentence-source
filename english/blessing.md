@@ -1,5 +1,7 @@
 # blessing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blessing.md)
+
 <p><span class="chinese">福分是什么？</span><span class="english">What’s a blessing?</span></p>
 
 <p><span class="chinese">我真的很幸运。</span><span class="english">Well I had blessing.</span></p>

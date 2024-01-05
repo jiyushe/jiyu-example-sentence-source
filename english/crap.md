@@ -1,5 +1,7 @@
 # crap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crap.md)
+
 <p><span class="chinese">圣球废话！</span><span class="english">Holy crap balls!</span></p>
 
 <p><span class="chinese">这真是一堆废话啊。</span><span class="english">What a load of crap.</span></p>

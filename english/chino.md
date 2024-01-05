@@ -1,5 +1,7 @@
 # chino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chino.md)
+
 <p><span class="chinese">适用于千野AH系列记录仪。</span><span class="english">CHINO AH Series Electronic Recorders.</span></p>
 
 <p><span class="chinese">地点是在最好的地区奇诺岗。</span><span class="english">Location is in the best area of Chino Hills.</span></p>

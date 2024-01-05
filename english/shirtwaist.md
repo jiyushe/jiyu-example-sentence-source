@@ -1,5 +1,7 @@
 # shirtwaist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shirtwaist.md)
+
 <p><span class="chinese">照片在三角Shirtwaist公司机构。</span><span class="english">Picture of bodies at the Triangle Shirtwaist Company.</span></p>
 
 <p><span class="chinese">三角内衣厂的门只向内开。</span><span class="english">The doors in the Triangle Shirtwaist Factory only opened inward.</span></p>

@@ -1,5 +1,7 @@
 # cygnet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cygnet.md)
+
 <p><span class="chinese">野鸭孵化出的小天鹅</span><span class="english">A cygnet is hovered by a duck.</span></p>
 
 <p><span class="chinese">亲爱的小天鹅，我知道我外形不佳。</span><span class="english">My dearest Miss Cygnet , I see I don't look good.</span></p>

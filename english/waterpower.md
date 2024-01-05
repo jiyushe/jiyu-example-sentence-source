@@ -1,5 +1,7 @@
 # waterpower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterpower.md)
+
 <p><span class="chinese">实验农场靠近水电站。</span><span class="english">The experimental farm is near the waterpower station.</span></p>
 
 <p><span class="chinese">太原某电厂的灰场选择在煤矿已采区，贮灰形式为水力贮灰，山谷灰场。</span><span class="english">The form of ash storage is waterpower ash storage, ash site in valleys.</span></p>

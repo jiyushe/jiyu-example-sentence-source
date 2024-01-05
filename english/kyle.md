@@ -1,5 +1,7 @@
 # kyle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kyle.md)
+
 <p><span class="chinese">凯尔•韦德拿着他刚打下来的哀鸠。</span><span class="english">Kyle Wade holds a dove he just shot.</span></p>
 
 <p><span class="chinese">凯尔是我们班致告别词的学生代表。</span><span class="english">Kyle was valedictorian of our class.</span></p>

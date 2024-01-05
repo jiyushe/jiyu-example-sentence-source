@@ -1,5 +1,7 @@
 # mandibular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mandibular.md)
+
 <p><span class="chinese">她刚下颌关节，承受一切！</span><span class="english">She is nipping the mandibular joint, withstands all!</span></p>
 
 <p><span class="chinese">部分的下颌管近中的管壁不完整。</span><span class="english">Mesial portion of the mandibular canal wall was not intact.</span></p>

@@ -1,5 +1,7 @@
 # priceless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/priceless.md)
+
 <p><span class="chinese">你是无价的。</span><span class="english">You are priceless.</span></p>
 
 <p><span class="chinese">弗兰特是个大傻瓜。</span><span class="english">Fred is a priceless fool.</span></p>

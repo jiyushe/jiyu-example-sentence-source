@@ -1,5 +1,7 @@
 # 如此这般
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rucizheban.md)
+
 <p><span class="chinese">那个铂原子核就是如此这般的一个骗子。</span><span class="english">That platinum is such a trickster.</span></p>
 
 <p><span class="chinese">倘若如此这般你能容忍。</span><span class="english">If these and such-like you can bear.</span></p>

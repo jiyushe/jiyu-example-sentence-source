@@ -1,5 +1,7 @@
 # sullenly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sullenly.md)
+
 <p><span class="chinese">汤姆绷着脸说。</span><span class="english">Tom said sullenly.</span></p>
 
 <p><span class="chinese">怎么样呢？”汤姆绷着脸说。</span><span class="english">"So what?" Tom said sullenly.</span></p>

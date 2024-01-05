@@ -1,5 +1,7 @@
 # 诏书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoshu_2.md)
+
 <p><span class="chinese">我已收到了诏书，我不敢违抗。</span><span class="english">I have received a summons, and I dare not disobey it.</span></p>
 
 <p><span class="chinese">诏书是以皇帝名义发布指令的专用文书。</span><span class="english">An imperial edict is a writ in the name of an emperor.</span></p>

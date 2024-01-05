@@ -1,5 +1,7 @@
 # work
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/work.md)
+
 <p><span class="chinese">点解我哋要工作?。</span><span class="english">Why we work?</span></p>
 
 <p><span class="chinese">他在工作处。</span><span class="english">He's at work.</span></p>

@@ -1,5 +1,7 @@
 # bioassay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioassay.md)
+
 <p><span class="chinese">BOD试验实际上是一项生物测定方法。</span><span class="english">The BOD test is essentially a bioassay procedure.</span></p>
 
 <p><span class="chinese">描述了淡水沉积物毒性的生物测试方法。</span><span class="english">The bioassay of freshwater sediment toxicity is described.</span></p>

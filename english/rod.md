@@ -1,5 +1,7 @@
 # rod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rod.md)
+
 <p><span class="chinese">加一个双杆吗？</span><span class="english">A double rod?</span></p>
 
 <p><span class="chinese">,哦，对不起，是杆子。</span><span class="english">Oh, sorry, the rod.</span></p>

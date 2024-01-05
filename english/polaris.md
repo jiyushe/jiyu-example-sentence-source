@@ -1,5 +1,7 @@
 # polaris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polaris.md)
+
 <p><span class="chinese">星名，指北极星。</span><span class="english">The third is star, which means polaris.</span></p>
 
 <p><span class="chinese">妈妈们和帕帕斯北极星运动员700四。</span><span class="english">Mothers and Papas Polaris 700 four players.</span></p>

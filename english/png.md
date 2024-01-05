@@ -1,5 +1,7 @@
 # png
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/png.md)
+
 <p><span class="chinese">第一张图片，figure1.png</span><span class="english">The first picture goes here, figure1.png</span></p>
 
 <p><span class="chinese">第二张图片，figure2.png</span><span class="english">The second picture goes here, figure2.png</span></p>

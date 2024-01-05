@@ -1,5 +1,7 @@
 # 火山口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshankou.md)
+
 <p><span class="chinese">杯口，碟边，火山口。</span><span class="english">The lip of a cup, saucer, crater.</span></p>
 
 <p><span class="chinese">熔岩受到压挤而从火山口喷射出来。</span><span class="english">Lava was ejected from the volcano.</span></p>

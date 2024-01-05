@@ -1,5 +1,7 @@
 # specialisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specialisation.md)
+
 <p><span class="chinese">但是专业化也有其优势。</span><span class="english">But specialisation has its advantages as well.</span></p>
 
 <p><span class="chinese">作为有效的套期保值手段，合约交换需要有一定程度的特化。</span><span class="english">To be useful hedges , swaps need to have a degree of specialisation.</span></p>

@@ -1,5 +1,7 @@
 # 解手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshou_2.md)
+
 <p><span class="chinese">川人至今也称去厕所为解手。</span><span class="english">And Sichuan people still use this term today.</span></p>
 
 <p><span class="chinese">战士们在田野里蹲着解手。</span><span class="english">Men squatted in the fields, relieving themselves.</span></p>

@@ -1,5 +1,7 @@
 # 缠身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanshen.md)
+
 <p><span class="chinese">我重病缠身。</span><span class="english">am very ill.</span></p>
 
 <p><span class="chinese">我重病缠身。</span><span class="english">I am very ill.</span></p>

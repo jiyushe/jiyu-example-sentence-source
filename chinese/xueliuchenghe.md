@@ -1,5 +1,7 @@
 # 血流成河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueliuchenghe.md)
+
 <p><span class="chinese">毋庸赘言，现在华尔街的确已经是血流成河了。</span><span class="english">The blood is definitely running right now on Wall Street.</span></p>
 
 <p><span class="chinese">我通常都避免鲜艳的颜色，尤其是那些一洗就血流成河的。</span><span class="english">I avoid bright colors, especially those that bleed in the wash.</span></p>

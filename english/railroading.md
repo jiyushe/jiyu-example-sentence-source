@@ -1,5 +1,7 @@
 # railroading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/railroading.md)
+
 <p><span class="chinese">鲍尔在铁路上工作了四十年以后退休了。</span><span class="english">Ball bowed out after 40 years of railroading.</span></p>
 
 <p><span class="chinese">王先生觉得他老闆对他不公平。</span><span class="english">Mr. Wang thought his boss was railroading him.</span></p>

@@ -1,5 +1,7 @@
 # circumvention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumvention.md)
+
 <p><span class="chinese">但法里斯说，规避技术只是一个短期的解决办法。</span><span class="english">But Faris said circumvention technology is only a short-term solution.</span></p>
 
 <p><span class="chinese">国内学者普遍对反规避措施的合法性持否定观点。</span><span class="english">Domestic scholars have generally denied legality of anti circumvention.</span></p>

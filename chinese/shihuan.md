@@ -1,5 +1,7 @@
 # 使唤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihuan.md)
+
 <p><span class="chinese">你们是我获得的礼物，都得听我使唤，我才是你们的主人。</span><span class="english">You are the gifts I gained. I ' m your owner.</span></p>
 
 <p><span class="chinese">她想回答，但舌头却不听使唤了。</span><span class="english">Her tongue failed her when she tried to reply.</span></p>

@@ -1,5 +1,7 @@
 # nippy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nippy.md)
+
 <p><span class="chinese">到处是一片黑暗。</span><span class="english">It is a bit nippy.</span></p>
 
 <p><span class="chinese">天空的感觉是凛冽和宏伟的。</span><span class="english">The air felt nippy and grand.</span></p>

@@ -1,5 +1,7 @@
 # phagocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phagocyte.md)
+
 <p><span class="chinese">缺氧直接刺激网状内皮系统增生。</span><span class="english">Hypoxia directly causes growing of the mononuclear phagocyte system.</span></p>
 
 <p><span class="chinese">这时，它们会受到单核吞噬细胞系统屏障的阻挡。</span><span class="english">At that time, they will be mononuclear phagocyte system barriers blocking.</span></p>

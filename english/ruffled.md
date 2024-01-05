@@ -1,5 +1,7 @@
 # ruffled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruffled.md)
+
 <p><span class="chinese">风吹乱了我的头发。</span><span class="english">The wind ruffled my hair.</span></p>
 
 <p><span class="chinese">他动不动就生气。</span><span class="english">His temper is easily ruffled.</span></p>

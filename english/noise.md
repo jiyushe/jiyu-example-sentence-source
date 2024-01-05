@@ -1,5 +1,7 @@
 # noise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noise.md)
+
 <p><span class="chinese">加点响声。</span><span class="english">Add some noise.</span></p>
 
 <p><span class="chinese">什么声音？</span><span class="english">What'sthat noise?</span></p>

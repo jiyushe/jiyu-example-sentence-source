@@ -1,5 +1,7 @@
 # magnetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetics.md)
+
 <p><span class="chinese">等离子由强大的磁力集中在一起。</span><span class="english">The plasma is held together by incredibly strong magnetics.</span></p>
 
 <p><span class="chinese">因为这个磁力物理，还可以告诉你们其它的一些事。</span><span class="english">This should tell you something else because of the physics of magnetics.</span></p>

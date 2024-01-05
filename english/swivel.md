@@ -1,5 +1,7 @@
 # swivel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swivel.md)
+
 <p><span class="chinese">旋转木马开始转起来了。</span><span class="english">The turnabout began to swivel.</span></p>
 
 <p><span class="chinese">工作台的最大回转角度是120度。</span><span class="english">Maximum swivel of table is l20.</span></p>

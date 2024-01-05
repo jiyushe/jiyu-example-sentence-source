@@ -1,5 +1,7 @@
 # clumsiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clumsiness.md)
+
 <p><span class="chinese">她因为行动笨拙而被班上同学排斥。</span><span class="english">She's rejected in class because of he clumsiness.</span></p>
 
 <p><span class="chinese">权力拙劣地溺爱着钥匙，竟然利用了鹤嘴锄。</span><span class="english">The clumsiness of power spoils the key, and uses the pickaxe.</span></p>

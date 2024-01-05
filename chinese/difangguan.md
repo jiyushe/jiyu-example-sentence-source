@@ -1,5 +1,7 @@
 # 地方官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/difangguan.md)
+
 <p><span class="chinese">在地方官康复期间，他的权利已经移交给主管上尉。</span><span class="english">His duties have been assumed by the Lieutenant Governor during his recovery.</span></p>
 
 <p><span class="chinese">也许，那是地方官的遗愿西宾斯老夫人那样生性恶毒的巫婆，将要给吊死在绞架上。</span><span class="english">Hibbins, the bitter-tempered widow of the magistrate, was to DIE upon the gallows.</span></p>

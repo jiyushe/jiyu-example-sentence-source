@@ -1,5 +1,7 @@
 # flamboyant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flamboyant.md)
+
 <p><span class="chinese">泰华-如你所见，这非常华丽。</span><span class="english">Taehwa-As you can see, it's flamboyant.</span></p>
 
 <p><span class="chinese">全苏格兰班底会比较华丽.</span><span class="english">The all-Scottish cast is more flamboyant.</span></p>

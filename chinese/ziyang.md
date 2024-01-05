@@ -1,5 +1,7 @@
 # 字样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyang.md)
+
 <p><span class="chinese">发票上有'付讫'字样。</span><span class="english">The Invoice be marked ' paid'.</span></p>
 
 <p><span class="chinese">发票上有'付讫'字样。</span><span class="english">The invoice is marked ' paid'.</span></p>

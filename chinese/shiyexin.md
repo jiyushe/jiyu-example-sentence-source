@@ -1,5 +1,7 @@
 # 事业心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyexin.md)
+
 <p><span class="chinese">她很有事业心.</span><span class="english">She is enterprising.</span></p>
 
 <p><span class="chinese">你真有事业心。</span><span class="english">You are really career minded.</span></p>

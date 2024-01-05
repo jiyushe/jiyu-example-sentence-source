@@ -1,5 +1,7 @@
 # 探戈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tange.md)
+
 <p><span class="chinese">探戈？</span><span class="english">Tango?</span></p>
 
 <p><span class="chinese">探戈是我最喜爱的。</span><span class="english">Tango is my favorite.</span></p>

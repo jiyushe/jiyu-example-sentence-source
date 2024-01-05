@@ -1,5 +1,7 @@
 # criticality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/criticality.md)
+
 <p><span class="chinese">这可能是大脑自我组织临界的另一个例子吗？</span><span class="english">Could it be another example of self-organised criticality in the brain?</span></p>
 
 <p><span class="chinese">但是要说缺什么的话，他们通常有些，缺乏批判性。</span><span class="english">but if there's anything lacking, it's often, sort of, kind of criticality.</span></p>

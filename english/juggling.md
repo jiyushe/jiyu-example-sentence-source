@@ -1,5 +1,7 @@
 # juggling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juggling.md)
+
 <p><span class="chinese">就跟玩玻璃球一样。</span><span class="english">It's like juggling glass balls.</span></p>
 
 <p><span class="chinese">彼得老爱在用词造句方面玩花样。</span><span class="english">Peter loves juggling with language.</span></p>

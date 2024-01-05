@@ -1,5 +1,7 @@
 # footy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footy.md)
+
 <p><span class="chinese">这里的只是一些跛脚的额外无足轻重。</span><span class="english">Here's just some lame extra footy.</span></p>
 
 <p><span class="chinese">澳新军团日袋鼠特兹饮料，褴褛及两个向上！</span><span class="english">Wallaby Teds ANZAC Day drinks, footy & TWO UP!</span></p>

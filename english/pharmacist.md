@@ -1,5 +1,7 @@
 # pharmacist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharmacist.md)
+
 <p><span class="chinese">这些可从一药剂师得到。</span><span class="english">These are available from a pharmacist.</span></p>
 
 <p><span class="chinese">现在我在一个本地的药局担任药剂师工作。</span><span class="english">Now I work as a staff pharmacist in a local drug store.</span></p>

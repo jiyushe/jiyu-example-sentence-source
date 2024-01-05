@@ -1,5 +1,7 @@
 # intoxicant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intoxicant.md)
+
 <p><span class="chinese">它应该是甜甜的，很醉人的。</span><span class="english">It should be sweet, very intoxicant.</span></p>
 
 <p><span class="chinese">他们选择的是一种他们称为“黑煞”的烈性麻醉剂。</span><span class="english">Their drug of choice was a potent intoxicant they called hashish.</span></p>

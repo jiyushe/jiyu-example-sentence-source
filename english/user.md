@@ -1,5 +1,7 @@
 # user
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/user.md)
+
 <p><span class="chinese">这个用户是谁？</span><span class="english">Who is the user?</span></p>
 
 <p><span class="chinese">你炒菜，煎饼都用炒菜锅。</span><span class="english">You're a wok user.</span></p>

@@ -1,5 +1,7 @@
 # 可否
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kefou.md)
+
 <p><span class="chinese">可否谈谈你在康帝的生活？</span><span class="english">How is your life in Kande?</span></p>
 
 <p><span class="chinese">你们可否接受易货贸易呢？</span><span class="english">Could you accept barter trade?</span></p>

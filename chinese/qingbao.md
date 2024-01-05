@@ -1,5 +1,7 @@
 # 情报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingbao.md)
+
 <p><span class="chinese">我们来刺探杰里科城的情报。</span><span class="english">We want to spy in Jericho.</span></p>
 
 <p><span class="chinese">他在搜集情报。</span><span class="english">He is gathering information.</span></p>

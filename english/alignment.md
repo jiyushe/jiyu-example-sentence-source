@@ -1,5 +1,7 @@
 # alignment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alignment.md)
+
 <p><span class="chinese">桌子摆得很整齐。</span><span class="english">The tables are in alignment.</span></p>
 
 <p><span class="chinese">改变文字大小、颜色和排列。</span><span class="english">Vary text size, color and alignment.</span></p>

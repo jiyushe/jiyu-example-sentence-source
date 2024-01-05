@@ -1,5 +1,7 @@
 # 彻夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cheye.md)
+
 <p><span class="chinese">每个周末我们都曾彻夜狂欢。</span><span class="english">We had sleepovers every weekend.</span></p>
 
 <p><span class="chinese">他几乎彻夜未眠。</span><span class="english">He lay awake almost the whole night.</span></p>

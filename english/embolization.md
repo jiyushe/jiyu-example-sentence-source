@@ -1,5 +1,7 @@
 # embolization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embolization.md)
+
 <p><span class="chinese">肿块的碎片也可能引发栓塞。</span><span class="english">Embolization of fragments of tumor may also occur.</span></p>
 
 <p><span class="chinese">栓塞的长期成功性是不确切的。</span><span class="english">The long-term success of embolization is unpredictable.</span></p>

@@ -1,5 +1,7 @@
 # 贪得无厌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tandewuyan.md)
+
 <p><span class="chinese">女孩们越来越贪得无厌。</span><span class="english">Girls demanding more.</span></p>
 
 <p><span class="chinese">或者贪得无厌、自私自利、冷漠无情，诸如此类。</span><span class="english">Or greedy, selfish, uncaring, or whatever.</span></p>

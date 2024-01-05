@@ -1,5 +1,7 @@
 # painful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/painful.md)
+
 <p><span class="chinese">指出哪颗牙齿痛。</span><span class="english">Show me the painful tooth.</span></p>
 
 <p><span class="chinese">他有了一个充满磨砺的短途旅行。</span><span class="english">He had a painful excursion.</span></p>

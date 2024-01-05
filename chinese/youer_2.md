@@ -1,5 +1,7 @@
 # 诱饵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youer_2.md)
+
 <p><span class="chinese">林堡干酪也是相当好的诱饵。</span><span class="english">Limburger cheese is pretty good.</span></p>
 
 <p><span class="chinese">这只是个该死的诱饵。</span><span class="english">This is just a motherfucking decoy.</span></p>

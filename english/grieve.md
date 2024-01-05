@@ -1,5 +1,7 @@
 # grieve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grieve.md)
+
 <p><span class="chinese">他一去不归，我徒自悲伤。</span><span class="english">He tarries and I grieve.</span></p>
 
 <p><span class="chinese">令你厌烦忧戚？</span><span class="english">Weary thee, grieve thee?</span></p>

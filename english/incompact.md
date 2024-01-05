@@ -1,5 +1,7 @@
 # incompact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incompact.md)
+
 <p><span class="chinese">该机适用于料度分布较广的松散性粉状和料状的干燥。</span><span class="english">This model is used for the drying of incompact powder and granules.</span></p>
 
 <p><span class="chinese">描述流动的移民社会与松散的宗族组织。</span><span class="english">The author tries to describe the ambulatory immigrant society and incompact lineage organization.</span></p>

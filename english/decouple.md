@@ -1,5 +1,7 @@
 # decouple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decouple.md)
+
 <p><span class="chinese">这些客户机强制您对代码进行解耦。</span><span class="english">These clients force you to decouple your code.</span></p>
 
 <p><span class="chinese">方面用于倒置依赖和解耦代码。</span><span class="english">Aspects are used to invert dependencies and decouple code.</span></p>

@@ -1,5 +1,7 @@
 # tout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tout.md)
+
 <p><span class="chinese">巴黎的每个人都有罪"</span><span class="english">a Paris tout le monde etait coupable."</span></p>
 
 <p><span class="chinese">我们应该在电视上兜售商品。</span><span class="english">We should tout our wares on television.</span></p>

@@ -1,5 +1,7 @@
 # obsess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obsess.md)
+
 <p><span class="chinese">这项工程似乎令他着迷。</span><span class="english">The project seems to obsess him.</span></p>
 
 <p><span class="chinese">这是当然的，因为我对这些事情最入迷。</span><span class="english">It’s certainly the thing that I obsess about the most.</span></p>

@@ -1,5 +1,7 @@
 # domiciliary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domiciliary.md)
+
 <p><span class="chinese">一姓名、性别、年龄、住址。</span><span class="english">Name, sex, age, and domiciliary address.</span></p>
 
 <p><span class="chinese">在定期检查我发现了与BAL的一个休眠住所的帐户。</span><span class="english">On a routine inspection I discovered a dormant domiciliary account with a BAL.</span></p>

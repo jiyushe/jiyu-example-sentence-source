@@ -1,5 +1,7 @@
 # 贫血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinxue.md)
+
 <p><span class="chinese">对于再生障碍性贫血。</span><span class="english">Aplastic anemia.</span></p>
 
 <p><span class="chinese">对于溶血性贫血。</span><span class="english">Hemolytic anemias.</span></p>

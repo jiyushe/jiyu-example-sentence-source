@@ -1,5 +1,7 @@
 # foreigner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreigner.md)
+
 <p><span class="chinese">他的发音像个外国人。</span><span class="english">He sounds like a foreigner.</span></p>
 
 <p><span class="chinese">她跟了一个外国人。</span><span class="english">She is married to a foreigner.</span></p>

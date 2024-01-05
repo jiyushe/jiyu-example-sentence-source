@@ -1,5 +1,7 @@
 # thickening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thickening.md)
+
 <p><span class="chinese">你的液体粉底霜变稠了吗？</span><span class="english">Your liquid foundation thickening?</span></p>
 
 <p><span class="chinese">你们有卖浓稠式睫毛膏吗？</span><span class="english">Do you have a good thickening mascara?</span></p>

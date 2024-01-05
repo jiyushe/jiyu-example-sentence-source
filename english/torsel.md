@@ -1,5 +1,7 @@
 # torsel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torsel.md)
+
 <p><span class="chinese">因为还是同样的躯干。</span><span class="english">cause it's the same torsel.</span></p>
 
 <p><span class="chinese">约翰斯的大脑，史密斯的躯干。</span><span class="english">Johns' brain, Smith's torsel.</span></p>

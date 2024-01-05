@@ -1,5 +1,7 @@
 # boulder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boulder.md)
+
 <p><span class="chinese">哇，快看那块大石头。</span><span class="english">Wow, look at that boulder.</span></p>
 
 <p><span class="chinese">它可以一下就粉碎一块巨石。</span><span class="english">It can pulverize a boulder in one strike.</span></p>

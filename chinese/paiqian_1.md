@@ -1,5 +1,7 @@
 # 派遣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiqian_1.md)
+
 <p><span class="chinese">他派遣我去采访新闻材料。</span><span class="english">He sent me to find news stories.</span></p>
 
 <p><span class="chinese">该公司派遣了使者。</span><span class="english">The company dispatched a messager.</span></p>

@@ -1,5 +1,7 @@
 # 阴柔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinrou.md)
+
 <p><span class="chinese">面容阴柔的男性往往是两性关系配偶的更佳选择。</span><span class="english">More feminine men tend to be better providers.</span></p>
 
 <p><span class="chinese">女孩儿们更是受够了那些阴柔的娘娘腔。</span><span class="english">Girls get fed up with the feminine nature of the men.</span></p>

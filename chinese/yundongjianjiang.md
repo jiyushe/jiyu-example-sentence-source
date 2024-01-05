@@ -1,5 +1,7 @@
 # 运动健将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yundongjianjiang.md)
+
 <p><span class="chinese">史密斯是个出色的运动健将，他常常在比赛中获奖。</span><span class="english">Smith is an excellent athlete. He wins more often than not.</span></p>
 
 <p><span class="chinese">这问题真够蠢的！你知道我是个十足的运动健将。</span><span class="english">Isn't that a silly question? You know how much of an athlete I am.</span></p>

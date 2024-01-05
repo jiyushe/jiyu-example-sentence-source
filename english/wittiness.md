@@ -1,5 +1,7 @@
 # wittiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wittiness.md)
+
 <p><span class="chinese">他所说的话妙趣横生。</span><span class="english">What he said scintillated wittiness.</span></p>
 
 <p><span class="chinese">这真是多亏干部们的临场冷静与机智。</span><span class="english">That all thanks to our leaders' calmness and wittiness.</span></p>

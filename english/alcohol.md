@@ -1,5 +1,7 @@
 # alcohol 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alcohol.md)
+
 <p><span class="chinese">还有酒精</span><span class="english">There's alcohol.</span></p>
 
 <p><span class="chinese">酒精是一种溶剂。</span><span class="english">Alcohol is a solvent.</span></p>

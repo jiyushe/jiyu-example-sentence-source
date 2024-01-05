@@ -1,5 +1,7 @@
 # 忠贞不渝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhenbuyu.md)
+
 <p><span class="chinese">他是一个忠贞不渝的爱人。</span><span class="english">He was the constant lover.</span></p>
 
 <p><span class="chinese">她对丈夫始终忠贞不渝。</span><span class="english">She's always faithful to her husband.</span></p>

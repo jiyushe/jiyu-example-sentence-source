@@ -1,5 +1,7 @@
 # 孩子王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiziwang.md)
+
 <p><span class="chinese">孩子王和他的孩子们获得了许多欢乐。</span><span class="english">It's a lot of fun for King and his children.</span></p>
 
 <p><span class="chinese">随着它的发展，孩子王关于父亲的力量的说法是正确的。</span><span class="english">As it turns out, King is right about dad-power.</span></p>

@@ -1,5 +1,7 @@
 # pickle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pickle.md)
+
 <p><span class="chinese">一些泡菜汁怎么样?</span><span class="english">How about some pickle juice?</span></p>
 
 <p><span class="chinese">妈妈过去常腌制洋葱。</span><span class="english">Mother used to pickle onions.</span></p>

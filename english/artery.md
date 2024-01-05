@@ -1,5 +1,7 @@
 # artery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artery.md)
+
 <p><span class="chinese">血从割破的动脉间歇地喷出。</span><span class="english">Blood pumped from a cut artery.</span></p>
 
 <p><span class="chinese">肾动脉血管瘤怎么医治？</span><span class="english">Kidney artery hemangioma how cure?</span></p>

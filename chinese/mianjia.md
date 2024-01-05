@@ -1,5 +1,7 @@
 # 面颊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianjia.md)
+
 <p><span class="chinese">看看她那玫瑰色的面颊。</span><span class="english">Look at her rosy cheeks.</span></p>
 
 <p><span class="chinese">他轻轻地吻了一下她的面颊。</span><span class="english">He pecked her on the cheek.</span></p>

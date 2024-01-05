@@ -1,5 +1,7 @@
 # octagonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octagonal.md)
+
 <p><span class="chinese">我们做他的八角帽。</span><span class="english">We made his octagonal hat.</span></p>
 
 <p><span class="chinese">这书是八角钱一本。</span><span class="english">This book is one of an octagonal money.</span></p>

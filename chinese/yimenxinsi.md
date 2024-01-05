@@ -1,5 +1,7 @@
 # 一门心思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimenxinsi.md)
+
 <p><span class="chinese">他现在一门心思想找一份好工作。</span><span class="english">All he ever thinks about is to get a good job.</span></p>
 
 <p><span class="chinese">一门心思搜罗便宜货的人必须有耐心</span><span class="english">A truly dedicated bargain-hunter must have patience</span></p>

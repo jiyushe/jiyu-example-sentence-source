@@ -1,5 +1,7 @@
 # 地形图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixingtu.md)
+
 <p><span class="chinese">这些盆地在地形图中很明显。</span><span class="english">These basins are evident in the topographic image.</span></p>
 
 <p><span class="chinese">人脸的“地形图"透露了什么？</span><span class="english">What does the topography of a face say about a person?</span></p>

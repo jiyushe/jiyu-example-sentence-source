@@ -1,5 +1,7 @@
 # gamete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gamete.md)
+
 <p><span class="chinese">“配子”指精子或卵子。</span><span class="english">"Gamete" means either a sperm or an egg.</span></p>
 
 <p><span class="chinese">雄配子不能与雌配子结合。</span><span class="english">The male gamete could not unite with the female.</span></p>

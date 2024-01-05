@@ -1,5 +1,7 @@
 # remark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remark.md)
+
 <p><span class="chinese">好，下一件事。</span><span class="english">All right. Next remark.</span></p>
 
 <p><span class="chinese">他在深思我的话。</span><span class="english">He meditates my remark.</span></p>

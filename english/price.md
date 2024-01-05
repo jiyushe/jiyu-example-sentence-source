@@ -1,5 +1,7 @@
 # price
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/price.md)
+
 <p><span class="chinese">定价高于边际成本</span><span class="english">Price above that.</span></p>
 
 <p><span class="chinese">价格已跌落。</span><span class="english">Price has declined.</span></p>

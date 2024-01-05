@@ -1,5 +1,7 @@
 # gulch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gulch.md)
+
 <p><span class="chinese">这条羊肠小道突然下到一个狭窄的峡谷里。</span><span class="english">The trail ducks into a narrow gulch.</span></p>
 
 <p><span class="chinese">在。最后的机会峡谷。发现金子之后，建于8'4年。</span><span class="english">It was founded in 8'4 after the discovery of gold at Last Chance Gulch.</span></p>

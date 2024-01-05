@@ -1,5 +1,7 @@
 # sensitize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensitize.md)
+
 <p><span class="chinese">宗教领导人也在帮助向公众进行宣传。</span><span class="english">Religious leaders are also helping to sensitize the public.</span></p>
 
 <p><span class="chinese">素还能增敏多种致凋亡因子，具有多靶点抗肿瘤的潜力。</span><span class="english">Luteolin can also sensitize a number of apoptosis-inducing factors by unique mechanisms.</span></p>

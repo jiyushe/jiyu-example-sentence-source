@@ -1,5 +1,7 @@
 # weldment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weldment.md)
+
 <p><span class="chinese">用于强度要求不高的灰口铸铁件的焊补。</span><span class="english">For repair welding on general grey cast iron weldment.</span></p>
 
 <p><span class="chinese">常用的方法是先把钢板焊起来再镀锌。</span><span class="english">It is more usual to complete the weldment first and then to galvanize it.</span></p>

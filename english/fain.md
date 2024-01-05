@@ -1,5 +1,7 @@
 # fain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fain.md)
+
 <p><span class="chinese">他乐意去。</span><span class="english">He fain would go.</span></p>
 
 <p><span class="chinese">我乐意帮助你。</span><span class="english">I would fain help you.</span></p>

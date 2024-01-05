@@ -1,5 +1,7 @@
 # necrotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necrotic.md)
+
 <p><span class="chinese">应该怎样去照顾一个股骨头坏死的病人呢?。</span><span class="english">How should take care of the patient with necrotic head of a femur ?</span></p>
 
 <p><span class="chinese">褪绿区坏死，组织死亡，叶片干枯。</span><span class="english">The chlorotic areas become necrotic. The issue dies and leaves dry up.</span></p>

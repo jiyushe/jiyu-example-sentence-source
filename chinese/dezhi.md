@@ -1,5 +1,7 @@
 # 得志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dezhi.md)
+
 <p><span class="chinese">你对现在的生活得志吗？</span><span class="english">Your present life sover atisfthing?</span></p>
 
 <p><span class="chinese">他少年得志尽管是个黑人小孩…</span><span class="english">Although he was a black child wunderkind.</span></p>

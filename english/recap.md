@@ -1,5 +1,7 @@
 # recap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recap.md)
+
 <p><span class="chinese">让我们扼要重述。</span><span class="english">Let's recap.</span></p>
 
 <p><span class="chinese">简单概括一下就是</span><span class="english">So again, let's recap.</span></p>

@@ -1,5 +1,7 @@
 # 鸣叫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingjiao_1.md)
+
 <p><span class="chinese">艺术，来源于小鸟般的鸣叫。</span><span class="english">Art, from a tweet.</span></p>
 
 <p><span class="chinese">蟋蟀在草丛中高声鸣叫。</span><span class="english">A cricket shrills in the grass.</span></p>

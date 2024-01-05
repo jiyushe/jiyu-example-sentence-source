@@ -1,5 +1,7 @@
 # monotonous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monotonous.md)
+
 <p><span class="chinese">你厌倦了一尘不变的自来水吗？</span><span class="english">Tired of that same old monotonous water?</span></p>
 
 <p><span class="chinese">黑色带你进入单调的世界。</span><span class="english">Black takes you to enter the monotonous world.</span></p>

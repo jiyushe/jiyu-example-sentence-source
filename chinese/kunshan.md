@@ -1,5 +1,7 @@
 # 昆山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kunshan.md)
+
 <p><span class="chinese">昆山有自己的梦想！</span><span class="english">Kunshan has its dream!</span></p>
 
 <p><span class="chinese">请问您想要什么时候参观昆山？</span><span class="english">When would you like to visit Kunshan?</span></p>

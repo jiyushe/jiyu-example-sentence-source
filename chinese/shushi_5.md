@@ -1,5 +1,7 @@
 # 熟识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushi_5.md)
+
 <p><span class="chinese">截至目前，塔平最为人所熟识的角色是谁？</span><span class="english">Up until now, what's her best-known role?</span></p>
 
 <p><span class="chinese">你到底何时同李教师熟识起来的？</span><span class="english">When was it that you got to know Teacher li?</span></p>

@@ -1,5 +1,7 @@
 # logon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logon.md)
+
 <p><span class="chinese">登录到管理控制台。</span><span class="english">Logon to the administrative console.</span></p>
 
 <p><span class="chinese">登录信息有时并没有经过加密。</span><span class="english">Logon information is sometimes unencrypted.</span></p>

@@ -1,5 +1,7 @@
 # hubbub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hubbub.md)
+
 <p><span class="chinese">院子里一片吵闹声。</span><span class="english">A hubbub was heard in the courtyard.</span></p>
 
 <p><span class="chinese">中国数字地图市场已经是一片喧哗。</span><span class="english">China's digital map market is a hubbub.</span></p>

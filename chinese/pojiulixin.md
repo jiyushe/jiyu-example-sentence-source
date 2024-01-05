@@ -1,5 +1,7 @@
 # 破旧立新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pojiulixin.md)
+
 <p><span class="chinese">开放、流动的社会，破旧立新的取向。</span><span class="english">An open and fluid society, prefer change to tradition.</span></p>
 
 <p><span class="chinese">破旧立新的意思就是要用新方法解决问题。</span><span class="english">To "think outside the box" is to try new ways to solve a problem.</span></p>

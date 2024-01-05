@@ -1,5 +1,7 @@
 # provocative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provocative.md)
+
 <p><span class="chinese">他亦是一个厚脸皮的煽动家。</span><span class="english">He is also cheekily provocative.</span></p>
 
 <p><span class="chinese">我承认，这是个令人气愤的标题。</span><span class="english">I admit, it's a provocative headline.</span></p>

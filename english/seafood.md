@@ -1,5 +1,7 @@
 # seafood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seafood.md)
+
 <p><span class="chinese">避免吃海鲜。</span><span class="english">Avoid seafood.</span></p>
 
 <p><span class="chinese">我喜爱吃海鲜。</span><span class="english">I like seafood.</span></p>

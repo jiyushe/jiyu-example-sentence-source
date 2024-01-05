@@ -1,5 +1,7 @@
 # 美金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meijin.md)
+
 <p><span class="chinese">5250元美金卖给你。</span><span class="english">I’ll give it to you for 5250.</span></p>
 
 <p><span class="chinese">那时我们亏损了1500万美金。</span><span class="english">So we were losing 15 million dollars.</span></p>

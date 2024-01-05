@@ -1,5 +1,7 @@
 # 胸腔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongqiang_1.md)
+
 <p><span class="chinese">在胃部和胸腔之间。</span><span class="english">Mid-stomach and chest.</span></p>
 
 <p><span class="chinese">我的心悸动着，在我胸腔中鸣叫。</span><span class="english">My heart throbbed, singing in my chest.</span></p>

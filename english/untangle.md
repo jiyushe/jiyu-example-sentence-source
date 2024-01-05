@@ -1,5 +1,7 @@
 # untangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untangle.md)
+
 <p><span class="chinese">我曾经把我的胡子卡在电池播种机里，花了我三个半小时把它们弄出来。</span><span class="english">It took me three and a half hours to untangle it.</span></p>
 
 <p><span class="chinese">它起因打结这是很不容易理清。</span><span class="english">It causes knotting which is not at all easy to untangle.</span></p>

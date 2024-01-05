@@ -1,5 +1,7 @@
 # ephah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ephah.md)
+
 <p><span class="chinese">俄梅珥乃伊法十分之一。</span><span class="english">An omer is one tenth of an ephah.</span></p>
 
 <p><span class="chinese">成群的骆驼，并米甸和以法的独峰驼，必遮满你。</span><span class="english">Herds of camels will cover your land, young camels of Midian and Ephah.</span></p>

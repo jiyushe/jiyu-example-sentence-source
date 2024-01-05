@@ -1,5 +1,7 @@
 # curd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curd.md)
+
 <p><span class="chinese">这是被女人给吃豆腐了?。</span><span class="english">This drive woman to eat bean curd?</span></p>
 
 <p><span class="chinese">奶豆腐是几天前做的。</span><span class="english">Milk curd was made several days ago.</span></p>

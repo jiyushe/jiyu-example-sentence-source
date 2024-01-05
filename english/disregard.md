@@ -1,5 +1,7 @@
 # disregard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disregard.md)
+
 <p><span class="chinese">无视所有的预言。</span><span class="english">Disregard all prognostications.</span></p>
 
 <p><span class="chinese">所以忽略税的因素</span><span class="english">Well, let's just disregard taxes.</span></p>

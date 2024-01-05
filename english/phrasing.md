@@ -1,5 +1,7 @@
 # phrasing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phrasing.md)
+
 <p><span class="chinese">用词用得真好。</span><span class="english">That's a wonderful phrasing.</span></p>
 
 <p><span class="chinese">小说里也出现了一些别扭的措词。</span><span class="english">The novel does contain some awkward phrasing.</span></p>

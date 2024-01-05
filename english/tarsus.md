@@ -1,5 +1,7 @@
 # tarsus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tarsus.md)
+
 <p><span class="chinese">他说，他的名字被索尔贝趺。</span><span class="english">He said his name was Saul of Tarsus.</span></p>
 
 <p><span class="chinese">他现在留在他的家乡大数，我要去那里，把他带到这里来。</span><span class="english">He is back home in Tarsus. I will go and get him.</span></p>

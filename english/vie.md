@@ -1,5 +1,7 @@
 # vie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vie.md)
+
 <p><span class="chinese">阿连锁经营的润滑巢争夺。</span><span class="english">A nest vie of lubricator operating linkage.</span></p>
 
 <p><span class="chinese">农民们甚至竞争获得“上电视”的机会。”</span><span class="english">Farmers even vie for the privilege of appearing 'on TV'.</span></p>

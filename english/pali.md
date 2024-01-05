@@ -1,5 +1,7 @@
 # pali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pali.md)
+
 <p><span class="chinese">这些巴利文的意思是什么？</span><span class="english">What is the meaning of those Pali words?</span></p>
 
 <p><span class="chinese">三皈依的第一条，在巴利文如何拼读？</span><span class="english">How do you recite the first refuge in Pali?</span></p>

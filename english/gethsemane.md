@@ -1,5 +1,7 @@
 # gethsemane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gethsemane.md)
+
 <p><span class="chinese">这就是我们的蒙难之夜。</span><span class="english">These are our nights of Gethsemane.</span></p>
 
 <p><span class="chinese">感谢主，祢为了我们黑暗的客西马尼。</span><span class="english">We thank Thee for our dark Gethsemane.</span></p>

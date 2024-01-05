@@ -1,5 +1,7 @@
 # bochum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bochum.md)
+
 <p><span class="chinese">但遗憾的是，是波鸿的教科书。</span><span class="english">But regrettably, yes, yes Bochum textbooks.</span></p>
 
 <p><span class="chinese">他们分别在杜塞尔多夫和波鸿附近被捕。</span><span class="english">They were arrested in Duesseldorf and nearby Bochum.</span></p>

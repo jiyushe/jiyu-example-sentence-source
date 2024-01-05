@@ -1,5 +1,7 @@
 # 灼烧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoshao.md)
+
 <p><span class="chinese">用日光残忍的灼烧我的肌肤？</span><span class="english">The cruel daylights upon my skin?</span></p>
 
 <p><span class="chinese">烛影清摇爱，就是一种寂静的灼烧感吧？</span><span class="english">Love, is a feeling of burning quietly?</span></p>

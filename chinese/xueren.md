@@ -1,5 +1,7 @@
 # 学人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueren.md)
+
 <p><span class="chinese">我的鹦鹉会学人语。</span><span class="english">My parrot can talk.</span></p>
 
 <p><span class="chinese">不要学人搓麻将。</span><span class="english">Chaima who will not learn.</span></p>

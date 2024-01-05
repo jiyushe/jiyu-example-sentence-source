@@ -1,5 +1,7 @@
 # 困窘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kunjiong.md)
+
 <p><span class="chinese">这使我有点困窘。</span><span class="english">This embarassed me somewhat.</span></p>
 
 <p><span class="chinese">他困窘得直抓头皮。</span><span class="english">He scratched his head in perplexity.</span></p>

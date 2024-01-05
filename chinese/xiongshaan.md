@@ -1,5 +1,7 @@
 # 凶杀案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongshaan.md)
+
 <p><span class="chinese">讲的是在一个著名的艺术博物馆里发生的凶杀案。</span><span class="english">Murder at a famous art museum.</span></p>
 
 <p><span class="chinese">警察正在调查这宗凶杀案。</span><span class="english">The police are going into the murder case.</span></p>

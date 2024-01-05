@@ -1,5 +1,7 @@
 # providing 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/providing.md)
+
 <p><span class="chinese">提供文件和打印机共享。</span><span class="english">Providing file and printer shares.</span></p>
 
 <p><span class="chinese">它在仁慈在提供给你一切。</span><span class="english">It's benevolently providing for you.</span></p>

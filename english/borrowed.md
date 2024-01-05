@@ -1,5 +1,7 @@
 # borrowed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borrowed.md)
+
 <p><span class="chinese">我向他借了支笔。</span><span class="english">I borrowed a pen from him.</span></p>
 
 <p><span class="chinese">不要将借来的书的书页折角。</span><span class="english">Do not dog-ear borrowed books.</span></p>

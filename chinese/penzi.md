@@ -1,5 +1,7 @@
 # 盆子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penzi.md)
+
 <p><span class="chinese">这个盆子是铁做的。</span><span class="english">This basin is made of iron.</span></p>
 
 <p><span class="chinese">我已经把那些细瓷盆子拿出来了。</span><span class="english">I've put out the nut dishes.</span></p>

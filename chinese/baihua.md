@@ -1,5 +1,7 @@
 # 百花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baihua.md)
+
 <p><span class="chinese">而百花凋零的时候是秋天。</span><span class="english">And drama is autumn.</span></p>
 
 <p><span class="chinese">百花见了笑盈盈哟。</span><span class="english">Flowers see them smiling.</span></p>

@@ -1,5 +1,7 @@
 # 瓢虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaochong.md)
+
 <p><span class="chinese">这是一只瓢虫。</span><span class="english">It's a ladybird.</span></p>
 
 <p><span class="chinese">它们是瓢虫。</span><span class="english">They are ladybirds.</span></p>

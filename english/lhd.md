@@ -1,5 +1,7 @@
 # lhd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lhd.md)
+
 <p><span class="chinese">柴油铲运机是地下采矿作业中的高效运矿设备。</span><span class="english">Diesel driven LHD units are highly efficient ore hauling equipment in underground mining operations.</span></p>
 
 <p><span class="chinese">进行了ACY-2型地下铲运机整机结构强度实验，验证了整机有限元模型的正确性。</span><span class="english">Tests were made on the strength of ACY-2 LHD machine's bodywork structure, which validated the correctness of the FE model.</span></p>

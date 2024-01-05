@@ -1,5 +1,7 @@
 # 军机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junji.md)
+
 <p><span class="chinese">驻冲绳的军机也参与了此次救援行动。</span><span class="english">Aircraft based on Okinawa also took part in the relief operation.</span></p>
 
 <p><span class="chinese">军机的火力配置还有尼贝尔霍夫多管火箭发射器。</span><span class="english">Corps-level firepower was provided by Nebelwerfer multiple rocket launchers.</span></p>

@@ -1,5 +1,7 @@
 # xiv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xiv.md)
+
 <p><span class="chinese">路易十四做了些什么事情呢</span><span class="english">What does Louis XIV do?</span></p>
 
 <p><span class="chinese">这是我们的项目远景。</span><span class="english">That is our vision for XIV.</span></p>

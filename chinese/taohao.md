@@ -1,5 +1,7 @@
 # 讨好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taohao.md)
+
 <p><span class="chinese">他老是两面讨好。</span><span class="english">He is always trimming.</span></p>
 
 <p><span class="chinese">他时常讨好她。</span><span class="english">He often fawns on her.</span></p>

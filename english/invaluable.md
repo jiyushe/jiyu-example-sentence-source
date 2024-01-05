@@ -1,5 +1,7 @@
 # invaluable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invaluable.md)
+
 <p><span class="chinese">这个教训是无价的。</span><span class="english">The lesson proved invaluable.</span></p>
 
 <p><span class="chinese">马铃薯是极有价值的食物。</span><span class="english">The potato is an invaluable esculent.</span></p>

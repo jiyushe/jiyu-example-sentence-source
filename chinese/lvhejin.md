@@ -1,5 +1,7 @@
 # 铝合金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvhejin.md)
+
 <p><span class="chinese">铝合金运动型轮椅。</span><span class="english">Sport Aluminum-alloy Wheelchairs.</span></p>
 
 <p><span class="chinese">重量轻，耐水铝合金。</span><span class="english">Low weight, water-tolerant aluminum alloy.</span></p>

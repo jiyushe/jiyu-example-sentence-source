@@ -1,5 +1,7 @@
 # vdt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vdt.md)
+
 <p><span class="chinese">视频拨号音?。</span><span class="english">VDT? Video Dial Tone?</span></p>
 
 <p><span class="chinese">本研究考察了黑、白两种VDT背景颜色对视觉工效的影响。</span><span class="english">An experiment was carried out to investigate the effects of VDT back- ground color on visual performance.</span></p>

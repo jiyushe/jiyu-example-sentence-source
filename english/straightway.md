@@ -1,5 +1,7 @@
 # straightway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straightway.md)
+
 <p><span class="chinese">他们就立刻舍了网，跟从了他。</span><span class="english">And they straightway left their nets, and followed him.</span></p>
 
 <p><span class="chinese">他们就立刻舍了网，跟从了他。</span><span class="english">And straightway they forsook their nets, and followed him.</span></p>

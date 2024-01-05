@@ -1,5 +1,7 @@
 # circumscribe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumscribe.md)
+
 <p><span class="chinese">请将拼错的词圈出来。</span><span class="english">Please circumscribe the words which are wrongly spelled.</span></p>
 
 <p><span class="chinese">这里，限制矛盾的基本手法是次协调逻辑。</span><span class="english">Here the basic method to circumscribe contradiction is paraconsistent logic.</span></p>

@@ -1,5 +1,7 @@
 # couch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/couch.md)
+
 <p><span class="chinese">你这个电视迷！</span><span class="english">You couch potato!</span></p>
 
 <p><span class="chinese">在沙发上跳几下。</span><span class="english">Hop up on the couch.</span></p>

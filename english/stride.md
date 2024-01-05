@@ -1,5 +1,7 @@
 # stride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stride.md)
+
 <p><span class="chinese">缩短你的跨步。</span><span class="english">Shorten your stride.</span></p>
 
 <p><span class="chinese">我像巨人一般大步大步地踏地前行。</span><span class="english">I stride the earth like a colossus.</span></p>

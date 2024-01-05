@@ -1,5 +1,7 @@
 # 来宾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laibin.md)
+
 <p><span class="chinese">婚礼上的来宾。</span><span class="english">Guests at the wedding.</span></p>
 
 <p><span class="chinese">来宾可以看样定货。</span><span class="english">Visitors can trade on samples.</span></p>

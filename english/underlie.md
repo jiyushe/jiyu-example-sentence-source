@@ -1,5 +1,7 @@
 # underlie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underlie.md)
+
 <p><span class="chinese">作为我们外交政策基础的原则是健全的。</span><span class="english">The principles which underlie our foreign policy are sound.</span></p>
 
 <p><span class="chinese">这种重构被认为是学习与记忆的基础。</span><span class="english">This remodeling is thought to underlie learning and memory.</span></p>

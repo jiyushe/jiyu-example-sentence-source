@@ -1,5 +1,7 @@
 # 性别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingbie.md)
+
 <p><span class="chinese">你的性别。</span><span class="english">Your sex.</span></p>
 
 <p><span class="chinese">什么是性别？</span><span class="english">What is gender?</span></p>

@@ -1,5 +1,7 @@
 # 政协
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengxie.md)
+
 <p><span class="chinese">全国政协主席贾庆林将发表讲话。</span><span class="english">CPPCC Chairman Jia Qinglin will deliver a speech.</span></p>
 
 <p><span class="chinese">尊敬的全国人大、政协领导，尊敬的东盟国家各位朋友</span><span class="english">Respected leaders of National People’s Congress, CPPCC</span></p>

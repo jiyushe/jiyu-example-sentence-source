@@ -1,5 +1,7 @@
 # 虚拟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuni.md)
+
 <p><span class="chinese">虚拟存储体?。</span><span class="english">VS? Virtual Storage?</span></p>
 
 <p><span class="chinese">这只虚拟的手便伸开。</span><span class="english">The virtual hand opens.</span></p>

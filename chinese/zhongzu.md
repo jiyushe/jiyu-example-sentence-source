@@ -1,5 +1,7 @@
 # 种族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzu.md)
+
 <p><span class="chinese">你选择什么种族？</span><span class="english">What race will you be?</span></p>
 
 <p><span class="chinese">罗达没有爆发种族战争。</span><span class="english">No race war came to Vrede.</span></p>

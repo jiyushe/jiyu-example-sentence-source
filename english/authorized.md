@@ -1,5 +1,7 @@
 # authorized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authorized.md)
+
 <p><span class="chinese">1994年被评审为高级律师。</span><span class="english">Senior lawyer authorized in 1994.</span></p>
 
 <p><span class="chinese">该市批准了一项住房建筑规划。</span><span class="english">The city authorized a housing project.</span></p>

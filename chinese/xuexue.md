@@ -1,5 +1,7 @@
 # 学学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuexue.md)
+
 <p><span class="chinese">我得多学学英语了。</span><span class="english">I get a lot knowlege.</span></p>
 
 <p><span class="chinese">我在大学学写程序。</span><span class="english">I learned to code in college.</span></p>

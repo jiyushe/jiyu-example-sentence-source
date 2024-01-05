@@ -1,5 +1,7 @@
 # 命中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhong.md)
+
 <p><span class="chinese">命中注定？</span><span class="english">DOOMED?</span></p>
 
 <p><span class="chinese">神射手也有不能命中的时候。</span><span class="english">A good shooter may miss.</span></p>

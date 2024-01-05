@@ -1,5 +1,7 @@
 # roughage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roughage.md)
+
 <p><span class="chinese">多吃些粗粮保持健康。</span><span class="english">Eat more roughage to keep healthy.</span></p>
 
 <p><span class="chinese">如果加上一种粗粮就更好了。</span><span class="english">It will be better if added a kind of roughage.</span></p>

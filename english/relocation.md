@@ -1,5 +1,7 @@
 # relocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relocation.md)
+
 <p><span class="chinese">基地迁建问题是选战的主题。</span><span class="english">Relocation is the main campaign issue.</span></p>
 
 <p><span class="chinese">养猪场，Manzanar搬迁中心，加利福尼亚州。</span><span class="english">Hog farm, Manzanar Relocation Center, California.</span></p>

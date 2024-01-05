@@ -1,5 +1,7 @@
 # ida
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ida.md)
+
 <p><span class="chinese">于是黛拉去问艾达。</span><span class="english">She came to ask Ida.</span></p>
 
 <p><span class="chinese">意达说给泰迪熊听。</span><span class="english">Ida talked to her teddy bear.</span></p>

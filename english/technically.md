@@ -1,5 +1,7 @@
 # technically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technically.md)
+
 <p><span class="chinese">技术上说，这里是什么？</span><span class="english">Technically speaking what's here?</span></p>
 
 <p><span class="chinese">我们已经经过技术培训了。</span><span class="english">We have been technically trained.</span></p>

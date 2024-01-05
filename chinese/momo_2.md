@@ -1,5 +1,7 @@
 # 馍馍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/momo_2.md)
+
 <p><span class="chinese">我们的晚饭很简单，就是荞馍馍和水煮的生菜。</span><span class="english">We had a simple dinner of buckwheat bread and boiled lettuce.</span></p>
 
 <p><span class="chinese">宝宝的饭量不小，一次能吃一个小馍馍。</span><span class="english">The baby is a big eater, and can eat a whole mantou every time.</span></p>

@@ -1,5 +1,7 @@
 # multipole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multipole.md)
+
 <p><span class="chinese">并指出高阶电多极子电象的求解方法。</span><span class="english">Furthermore this, papet points the solution method of the image of higher multipole.</span></p>
 
 <p><span class="chinese">推导出了用多极场空间谐波函数表示的磁矢位的通项表达式。</span><span class="english">General expressions of the magnetic vector potential for multipole fields are derived.</span></p>

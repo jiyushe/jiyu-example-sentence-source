@@ -1,5 +1,7 @@
 # surpassing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surpassing.md)
+
 <p><span class="chinese">按著他极美的大德赞美他。</span><span class="english">Praise him for his surpassing greatness.</span></p>
 
 <p><span class="chinese">南玻集团工程玻璃事业部—一直领先中国，正在赶超世界！</span><span class="english">Has been in the lead China , is surpassing the world!</span></p>

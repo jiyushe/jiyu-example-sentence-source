@@ -1,5 +1,7 @@
 # expressively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressively.md)
+
 <p><span class="chinese">他意味深长地举起了他的手。</span><span class="english">He raised his hands expressively.</span></p>
 
 <p><span class="chinese">他朗诵自己的诗感情充沛。</span><span class="english">He reads his poems very expressively.</span></p>

@@ -1,5 +1,7 @@
 # 招兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaobing.md)
+
 <p><span class="chinese">因为招兵，我完成了学业。</span><span class="english">Although drafted, I finished the school year.</span></p>
 
 <p><span class="chinese">招兵人员现在甚至在名牌大学也受到欢迎。</span><span class="english">I hear those Ivy League Colleges are tough to get into.</span></p>

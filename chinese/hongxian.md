@@ -1,5 +1,7 @@
 # 红线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongxian.md)
+
 <p><span class="chinese">红线还是蓝线？</span><span class="english">Red wire or blue wire?</span></p>
 
 <p><span class="chinese">脸上的红线只是一条而已。</span><span class="english">Redlines are only one of them.</span></p>

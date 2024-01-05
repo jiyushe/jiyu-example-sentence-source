@@ -1,5 +1,7 @@
 # un
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/un.md)
+
 <p><span class="chinese">一个意识香肠？一个opplie？</span><span class="english">Un coppa ?Un opplie ?</span></p>
 
 <p><span class="chinese">他是个庸俗的男人。</span><span class="english">Es un hombre muy vulgar.</span></p>

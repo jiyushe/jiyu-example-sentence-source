@@ -1,5 +1,7 @@
 # 预算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yusuan.md)
+
 <p><span class="chinese">我的预算是多少?</span><span class="english">What is my budget?</span></p>
 
 <p><span class="chinese">您需要为它做出预算。</span><span class="english">Budget for it. Demand it.</span></p>

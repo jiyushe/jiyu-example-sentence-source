@@ -1,5 +1,7 @@
 # 卖方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maifang_1.md)
+
 <p><span class="chinese">卖方响应，向买方报价。</span><span class="english">The seller responds with the quote.</span></p>
 
 <p><span class="chinese">成本加成定价带有明显的卖方市场色彩。</span><span class="english">Cost-plus pricing of a seller's obvious color.</span></p>

@@ -1,5 +1,7 @@
 # 逃税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoshui.md)
+
 <p><span class="chinese">这项新法律简直成了为逃税者开的许可证。</span><span class="english">This new law amounts to a tax evader's charter.</span></p>
 
 <p><span class="chinese">全都被社会活动分子贴上了逃税者的标签。</span><span class="english">Each has been branded a tax dodger by activists.</span></p>

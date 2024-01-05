@@ -1,5 +1,7 @@
 # lincolnshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lincolnshire.md)
+
 <p><span class="chinese">我们在林肯郡一带确实有养猪。</span><span class="english">Of course we do in Lincolnshire.</span></p>
 
 <p><span class="chinese">格兰瑟姆是英格兰林肯郡的一个乡村集镇。</span><span class="english">Grantham is a market town in the English county of Lincolnshire.</span></p>

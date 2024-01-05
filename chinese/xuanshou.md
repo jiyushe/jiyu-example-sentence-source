@@ -1,5 +1,7 @@
 # 选手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanshou.md)
+
 <p><span class="chinese">你都是半决赛选手了！</span><span class="english">You are a semi-pro!</span></p>
 
 <p><span class="chinese">一个4小时的马拉松选手呢？</span><span class="english">A 4-hour marathoner?</span></p>

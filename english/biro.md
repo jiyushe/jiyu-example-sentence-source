@@ -1,5 +1,7 @@
 # biro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biro.md)
+
 <p><span class="chinese">我们喜欢用圆珠笔写书。</span><span class="english">We like to biro book.</span></p>
 
 <p><span class="chinese">不，这是一支圆珠笔。</span><span class="english">No, questa è una biro.</span></p>

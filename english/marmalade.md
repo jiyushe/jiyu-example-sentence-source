@@ -1,5 +1,7 @@
 # marmalade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marmalade.md)
+
 <p><span class="chinese">他们需要多弄一点橘子酱。</span><span class="english">They need more marmalade.</span></p>
 
 <p><span class="chinese">我想要一罐橘子酱。</span><span class="english">I would like a jar of marmalade.</span></p>

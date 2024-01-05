@@ -1,5 +1,7 @@
 # oceanus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oceanus.md)
+
 <p><span class="chinese">这就是海神之河。</span><span class="english">This is the River Oceanus.</span></p>
 
 <p><span class="chinese">俄刻阿诺斯休息室欢迎客人放松的气氛，美食和乐趣。</span><span class="english">Oceanus Lounge welcomes guests to a relaxing atmosphere of fine dining and fun.</span></p>

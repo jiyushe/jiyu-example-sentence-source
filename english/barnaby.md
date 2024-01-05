@@ -1,5 +1,7 @@
 # barnaby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barnaby.md)
+
 <p><span class="chinese">巴纳比玩这个游戏乔伊斯的刀柄。</span><span class="english">Barnaby Joyce played this game to the hilt.</span></p>
 
 <p><span class="chinese">巴纳比的爸爸希望他能老老实实地过一辈子。</span><span class="english">His father had hoped Barnaby might lead a life of dim propriety.</span></p>

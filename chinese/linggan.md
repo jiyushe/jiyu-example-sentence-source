@@ -1,5 +1,7 @@
 # 灵感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linggan.md)
+
 <p><span class="chinese">训练你的灵感。</span><span class="english">Train your muse.</span></p>
 
 <p><span class="chinese">是谁给了你灵感？</span><span class="english">Who inspires your style?</span></p>

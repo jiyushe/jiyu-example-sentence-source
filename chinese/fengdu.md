@@ -1,5 +1,7 @@
 # 风度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengdu.md)
+
 <p><span class="chinese">优雅的风度。</span><span class="english">The grace of my style.</span></p>
 
 <p><span class="chinese">他的举止很有风度。</span><span class="english">His deportment is beautiful.</span></p>

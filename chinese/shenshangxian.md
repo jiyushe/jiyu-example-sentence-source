@@ -1,5 +1,7 @@
 # 肾上腺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshangxian.md)
+
 <p><span class="chinese">你是从苦难疲劳肾上腺?。</span><span class="english">Are You Suffering from Fatigued Adrenals?</span></p>
 
 <p><span class="chinese">她的母亲肾上腺机能不全。</span><span class="english">Her mother has an underactive adrenal gland.</span></p>

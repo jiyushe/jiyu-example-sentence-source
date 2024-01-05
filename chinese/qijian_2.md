@@ -1,5 +1,7 @@
 # 期间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijian_2.md)
+
 <p><span class="chinese">服药期间不能喝酒。</span><span class="english">Do not drink alcohol.</span></p>
 
 <p><span class="chinese">读书周期间禁止在堂上讲话。</span><span class="english">Don't the Reading Week.</span></p>

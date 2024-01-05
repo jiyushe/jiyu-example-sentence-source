@@ -1,5 +1,7 @@
 # eurogroup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eurogroup.md)
+
 <p><span class="chinese">因此，欧元区财长提出建议，批准这两个国家的方案。</span><span class="english">Therefore, Eurogroup proposed to the ECOFIN to approve the two countries' programmes.</span></p>
 
 <p><span class="chinese">部长们表示,在这个所谓的欧元集团内部的讨论周日晚将继续在卢森堡进行.</span><span class="english">Discussions within the so-called Eurogroup were due to continue on Sunday evening in Luxembourg, ministers said.</span></p>

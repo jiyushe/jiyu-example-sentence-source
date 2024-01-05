@@ -1,5 +1,7 @@
 # utility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utility.md)
+
 <p><span class="chinese">运行效用。</span><span class="english">Run the utility.</span></p>
 
 <p><span class="chinese">羊毛毡的用途？</span><span class="english">The utility of abb felt?</span></p>

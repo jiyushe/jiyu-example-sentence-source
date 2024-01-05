@@ -1,5 +1,7 @@
 # hoodwink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoodwink.md)
+
 <p><span class="chinese">很难欺骗一个聪明的律师。</span><span class="english">It is difficult to hoodwink a smart lawyer.</span></p>
 
 <p><span class="chinese">作为商家，我们不能欺骗顾客。</span><span class="english">As sellers, we must not hoodwink our customers.</span></p>

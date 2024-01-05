@@ -1,5 +1,7 @@
 # avg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avg.md)
+
 <p><span class="chinese">但你能做到这一点的平均防毒亲？？？</span><span class="english">But can you do it for AVG antivirus pro???</span></p>
 
 <p><span class="chinese">的平均防病毒是免费的，而且易于使用。</span><span class="english">The AVG Anti Virus is free and easy to use.</span></p>

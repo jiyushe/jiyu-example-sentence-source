@@ -1,5 +1,7 @@
 # fluted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluted.md)
+
 <p><span class="chinese">这张柚木桌子的桌腿有凹槽纹饰。</span><span class="english">The teak table has fluted legs.</span></p>
 
 <p><span class="chinese">槽头螺钉的俯视图。</span><span class="english">Top view of fluted socket head set screw.</span></p>

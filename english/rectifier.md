@@ -1,5 +1,7 @@
 # rectifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rectifier.md)
+
 <p><span class="chinese">整流器滤波不良。</span><span class="english">Rectifier filter is poor.</span></p>
 
 <p><span class="chinese">硅整流快恢复，双通道，中心。</span><span class="english">Silicon Rectifier Fast Recovery, Dual, Center.</span></p>

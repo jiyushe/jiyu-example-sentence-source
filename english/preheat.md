@@ -1,5 +1,7 @@
 # preheat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preheat.md)
+
 <p><span class="chinese">预热焗炉至摄氏160度。</span><span class="english">Preheat Oven to 160℃.</span></p>
 
 <p><span class="chinese">预热烤箱至350F。</span><span class="english">Preheat oven to 350F.</span></p>

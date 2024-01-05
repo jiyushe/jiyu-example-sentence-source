@@ -1,5 +1,7 @@
 # 绒毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongmao_1.md)
+
 <p><span class="chinese">还是柔软似棉凫的绒毛?。</span><span class="english">Or soft as eiderdown fluff?</span></p>
 
 <p><span class="chinese">小枝披白绒毛。</span><span class="english">Twigs of white hair dressed.</span></p>

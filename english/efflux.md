@@ -1,5 +1,7 @@
 # efflux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/efflux.md)
+
 <p><span class="chinese">流出速率大为增加。</span><span class="english">The efflux rate increases greatly.</span></p>
 
 <p><span class="chinese">本研究基于血浆药物流出率的概念。</span><span class="english">The process of this study is based on the concept of plasma drug efflux.</span></p>

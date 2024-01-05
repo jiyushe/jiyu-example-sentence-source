@@ -1,5 +1,7 @@
 # 巧妙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaomiao.md)
+
 <p><span class="chinese">狂怒现在成为巧妙的技能。</span><span class="english">Fury now became skill.</span></p>
 
 <p><span class="chinese">他巧妙地将球接住。</span><span class="english">He fielded the ball smartly.</span></p>

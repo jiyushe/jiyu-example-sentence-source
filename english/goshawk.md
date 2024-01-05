@@ -1,5 +1,7 @@
 # goshawk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goshawk.md)
+
 <p><span class="chinese">蔚蓝的天际之上，“苍鹰”行动正在进行之中。</span><span class="english">The blue sky above, goshawk action is ongoing.</span></p>
 
 <p><span class="chinese">苍鹰在山峦上盘旋，江水随着绝壁激荡。</span><span class="english">Goshawk circled in the mountains on the river surging with the cliffs.</span></p>

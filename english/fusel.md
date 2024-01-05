@@ -1,5 +1,7 @@
 # fusel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fusel.md)
+
 <p><span class="chinese">白酒中的杂醇油和醛类含量过多也有一定害处。</span><span class="english">The liquor fusel oil and aldehyde content also have too much harm.</span></p>
 
 <p><span class="chinese">他们的实验倾向于制造一种杂醇油，让酒精带有一种“特别”的味道。</span><span class="english">Their process tended to produce fusel oils, which give alcohols an "off" flavor.</span></p>

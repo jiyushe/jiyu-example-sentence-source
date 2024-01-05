@@ -1,5 +1,7 @@
 # 刻刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kedao.md)
+
 <p><span class="chinese">图为商代蛙形刻刀。</span><span class="english">Frog-shaped carving knife, Shang Dynasty.</span></p>
 
 <p><span class="chinese">专业民间艺人是用刻刀在蜡板上制作，称“刻纸”。</span><span class="english">Wax tablets are made from secreta in bees' abdomens.</span></p>

@@ -1,5 +1,7 @@
 # necktie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necktie.md)
+
 <p><span class="chinese">他的领带和他的上衣不相配。</span><span class="english">His necktie does not match his coat.</span></p>
 
 <p><span class="chinese">在这样的地方打着领带你能想像吗?</span><span class="english">Can you feature wearing a necktie here?</span></p>

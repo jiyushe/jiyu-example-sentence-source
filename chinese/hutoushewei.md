@@ -1,5 +1,7 @@
 # 虎头蛇尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hutoushewei.md)
+
 <p><span class="chinese">其实，收缩是虎头蛇尾。</span><span class="english">In fact, contraction is a cop-out.</span></p>
 
 <p><span class="chinese">虎头蛇尾。把大山搬到老鼠前面，反差更甚。</span><span class="english">The mountain has brought forth a mouse.</span></p>

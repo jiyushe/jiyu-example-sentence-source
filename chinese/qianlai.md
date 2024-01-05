@@ -1,5 +1,7 @@
 # 前来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianlai.md)
+
 <p><span class="chinese">他们就近前来。</span><span class="english">And they came near.</span></p>
 
 <p><span class="chinese">欢迎八方贵友前来商谈！</span><span class="english">Welcome you come to talk!</span></p>

@@ -1,5 +1,7 @@
 # awhile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awhile.md)
+
 <p><span class="chinese">他们聊了一会儿。</span><span class="english">They talked awhile.</span></p>
 
 <p><span class="chinese">和我一起呆一会儿吧。</span><span class="english">Bide with me awhile.</span></p>

@@ -1,5 +1,7 @@
 # tripping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tripping.md)
+
 <p><span class="chinese">低压脱扣试验。</span><span class="english">Under voltage tripping test.</span></p>
 
 <p><span class="chinese">有时候，我会塌下来了刚刚由跳闸。</span><span class="english">Sometimes I would fall down just by tripping.</span></p>

@@ -1,5 +1,7 @@
 # ghibli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghibli.md)
+
 <p><span class="chinese">龙猫王是宫崎市吉卜力动画工作室的吉祥物。</span><span class="english">King Totoro is the mascot for Miyazaki's studio, Studio Ghibli.</span></p>
 
 <p><span class="chinese">而现在我也知道了吉卜力是十分有内涵的。</span><span class="english">I am aware now though that Studio Ghibli is so highly thought of.</span></p>

@@ -1,5 +1,7 @@
 # 文史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenshi.md)
+
 <p><span class="chinese">李华是一位文史兼通的大家。</span><span class="english">In short, Li Hua is both a litterateur and a historian.</span></p>
 
 <p><span class="chinese">我听说你买到了世界三大男高文史春秋杂志音北京演唱会的好票。</span><span class="english">I heard you had great seats for the Three Tenors concert in Beijing.</span></p>

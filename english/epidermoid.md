@@ -1,5 +1,7 @@
 # epidermoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epidermoid.md)
+
 <p><span class="chinese">表皮样囊肿与皮样囊肿。</span><span class="english">Epidermoid cyst and dermoid cyst.</span></p>
 
 <p><span class="chinese">单纯的囊肿较难与蛛网膜囊肿和表皮样囊肿相鉴别。</span><span class="english">Simple cysts are difficult to distinguish from arachnoid cyst or epidermoid.</span></p>

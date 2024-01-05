@@ -1,5 +1,7 @@
 # ternary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ternary.md)
+
 <p><span class="chinese">避免使用3元条件运算符。</span><span class="english">Avoid using the ternary conditional operator.</span></p>
 
 <p><span class="chinese">将三元层叠用列格式排好。</span><span class="english">Format cascaded ternary operators in columns.</span></p>

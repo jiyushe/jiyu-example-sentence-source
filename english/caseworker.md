@@ -1,5 +1,7 @@
 # caseworker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caseworker.md)
+
 <p><span class="chinese">那个管理人员试图帮忙。</span><span class="english">The caseworker tried to help.</span></p>
 
 <p><span class="chinese">我现在明白了社会工作者是从事什么工作的了。</span><span class="english">I've now understood what a caseworker is doing.</span></p>

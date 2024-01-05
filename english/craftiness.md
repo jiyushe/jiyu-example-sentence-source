@@ -1,5 +1,7 @@
 # craftiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craftiness.md)
+
 <p><span class="chinese">狡猾如狐者。</span><span class="english">Three, craftiness such as fox.</span></p>
 
 <p><span class="chinese">耶稣看出他们的诡诈，就对他们说。</span><span class="english">But He perceived their craftiness and said to them.</span></p>

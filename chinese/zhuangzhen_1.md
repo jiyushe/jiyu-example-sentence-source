@@ -1,5 +1,7 @@
 # 装帧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangzhen_1.md)
+
 <p><span class="chinese">这些书的装帧完全相同。</span><span class="english">The bindings of the books were identical.</span></p>
 
 <p><span class="chinese">这些书用红布封面装帧得很漂亮。</span><span class="english">These volumes are beautifully bound in red cloth.</span></p>

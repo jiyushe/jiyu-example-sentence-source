@@ -1,5 +1,7 @@
 # bulletin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulletin.md)
+
 <p><span class="chinese">这里是我们的公布栏。</span><span class="english">Here is our bulletin board.</span></p>
 
 <p><span class="chinese">真的吗？什么告示板？</span><span class="english">Oh really? What bulletin board?</span></p>

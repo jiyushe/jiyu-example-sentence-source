@@ -1,5 +1,7 @@
 # 目光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muguang.md)
+
 <p><span class="chinese">目光全都是呆滞的。</span><span class="english">The eyes are dull.</span></p>
 
 <p><span class="chinese">他把目光转向车厢地板。</span><span class="english">He looks at the floor.</span></p>

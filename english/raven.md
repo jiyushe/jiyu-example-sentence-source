@@ -1,5 +1,7 @@
 # raven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raven.md)
+
 <p><span class="chinese">乌鸦在树上呱呱叫着。</span><span class="english">The raven cawed on the tree.</span></p>
 
 <p><span class="chinese">渡鸦爱觅腐尸。</span><span class="english">The raven will seek the carrion.</span></p>

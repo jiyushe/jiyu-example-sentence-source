@@ -1,5 +1,7 @@
 # avoidant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avoidant.md)
+
 <p><span class="chinese">两个逃避型的人能在一起吗？</span><span class="english">Do two avoidant people ever get together?</span></p>
 
 <p><span class="chinese">有时候他们过于容忍焦虑型或回避型伴侣的行为。</span><span class="english">Sometimes they can be too forgiving of anxious or avoidant behaviour.</span></p>

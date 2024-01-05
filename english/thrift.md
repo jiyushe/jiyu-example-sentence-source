@@ -1,5 +1,7 @@
 # thrift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrift.md)
+
 <p><span class="chinese">节俭是美德。</span><span class="english">To practice thrift is a virtue.</span></p>
 
 <p><span class="chinese">在旧货店买二手礼物。</span><span class="english">Buy used gifts at thrift stores.</span></p>

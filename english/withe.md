@@ -1,5 +1,7 @@
 # withe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/withe.md)
+
 <p><span class="chinese">只是继续微笑着柳条，我们在做什么。</span><span class="english">Just go ahead withe what we are doing with a smile.</span></p>
 
 <p><span class="chinese">他以他的飞机去那里，而她的姐姐凯西。</span><span class="english">He is going there withe his plane and her sister Kathy.</span></p>

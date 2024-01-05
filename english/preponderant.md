@@ -1,5 +1,7 @@
 # preponderant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preponderant.md)
+
 <p><span class="chinese">黄色是这个房间的主色。</span><span class="english">Yellow was the preponderant color in the room.</span></p>
 
 <p><span class="chinese">煤炭产业是内蒙古的优势产业之一。</span><span class="english">Coal's industry is one of the preponderant industries in Inner Mongolia.</span></p>

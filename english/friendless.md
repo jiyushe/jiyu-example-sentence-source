@@ -1,5 +1,7 @@
 # friendless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/friendless.md)
+
 <p><span class="chinese">天晓得，我是举目无亲啊！</span><span class="english">I am friendless enough, God knows!</span></p>
 
 <p><span class="chinese">她的势利令她没有朋友。</span><span class="english">Her snobbery has rendered her friendless.</span></p>

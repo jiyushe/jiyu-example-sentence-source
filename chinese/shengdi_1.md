@@ -1,5 +1,7 @@
 # 生地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengdi_1.md)
+
 <p><span class="chinese">本杰和我将从这连根拔起迁到一个人生地不熟的地方。</span><span class="english">Benjy and me are to be uprooted, go to live in a strange place.</span></p>
 
 <p><span class="chinese">几乎没有哪个国家像南非那样拥有如此多样化的动植物栖生地。</span><span class="english">Few countries have as rich a diversity of habitat as South Africa.</span></p>

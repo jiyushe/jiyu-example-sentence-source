@@ -1,5 +1,7 @@
 # 增长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengzhang.md)
+
 <p><span class="chinese">它能够增长。</span><span class="english">It can grow.</span></p>
 
 <p><span class="chinese">资金急剧增长。</span><span class="english">The funds rose sharply.</span></p>

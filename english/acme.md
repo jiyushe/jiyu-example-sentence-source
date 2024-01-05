@@ -1,5 +1,7 @@
 # acme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acme.md)
+
 <p><span class="chinese">艾克明的定货吗？我今天早上寄出去了。</span><span class="english">The Acme order?I mailed it out this morning.</span></p>
 
 <p><span class="chinese">舒伯特的技巧在他十分年轻时即已达顶峰。</span><span class="english">Schubert reach the acme of his skill while quite young.</span></p>

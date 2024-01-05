@@ -1,5 +1,7 @@
 # psilocybin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psilocybin.md)
+
 <p><span class="chinese">裸盖菇素一种有效力的致幻化合物，c12h16n2o，与。</span><span class="english">A potent hallucinogenic compound, C12H16N2O, related to psilocybin.</span></p>
 
 <p><span class="chinese">致幻类蘑菇有很多通俗的叫法，最普遍的莫过于魔菇或死亡蘑菇。</span><span class="english">There are multiple colloquial terms for psilocybin mushrooms, the most common being magic mushrooms or 'shrooms.</span></p>

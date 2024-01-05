@@ -1,5 +1,7 @@
 # vfd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vfd.md)
+
 <p><span class="chinese">并讨论了今后的发展趋势。</span><span class="english">The further progress of VFD is discussed.</span></p>
 
 <p><span class="chinese">变频器的能接受的最高温度是多少？</span><span class="english">What's the highest temp that VFD can run properly?</span></p>

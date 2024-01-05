@@ -1,5 +1,7 @@
 # 哀愁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aichou.md)
+
 <p><span class="chinese">还会使哀愁的心儿唱歌。</span><span class="english">And make a sad heart sing.</span></p>
 
 <p><span class="chinese">哀愁却是坚强而耐久。</span><span class="english">But sorrow is strong and abiding.</span></p>

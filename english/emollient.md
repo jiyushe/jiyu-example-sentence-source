@@ -1,5 +1,7 @@
 # emollient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emollient.md)
+
 <p><span class="chinese">干燥的皮肤要使用润肤剂。</span><span class="english">Use an emollient for dry skin.</span></p>
 
 <p><span class="chinese">电视报道开始软化。</span><span class="english">Television reports were emollient.</span></p>

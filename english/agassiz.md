@@ -1,5 +1,7 @@
 # agassiz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agassiz.md)
+
 <p><span class="chinese">阿加西把一条腥臭难闻的鱼放在他面前。</span><span class="english">Agassiz placed in front of him a smelly fish.</span></p>
 
 <p><span class="chinese">“那已经非常不错了”，阿加西很严肃地说。</span><span class="english">"That is next best, " Agassiz said seriously.</span></p>

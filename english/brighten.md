@@ -1,5 +1,7 @@
 # brighten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brighten.md)
+
 <p><span class="chinese">色彩熠熠生辉。</span><span class="english">The colors brighten.</span></p>
 
 <p><span class="chinese">你让我今天增辉不少。</span><span class="english">You brighten my day.</span></p>

@@ -1,5 +1,7 @@
 # coaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coaster.md)
+
 <p><span class="chinese">那过山车真把我吓坏了。</span><span class="english">That roller coaster terrified me.</span></p>
 
 <p><span class="chinese">那时我觉得自己坐在数字过山车上。</span><span class="english">I felt I was in a digital roller coaster.</span></p>

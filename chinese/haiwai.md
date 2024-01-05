@@ -1,5 +1,7 @@
 # 海外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiwai.md)
+
 <p><span class="chinese">他被派到了海外工作。</span><span class="english">He was sent abroad.</span></p>
 
 <p><span class="chinese">海外营业部。</span><span class="english">Overseas Sales Department.</span></p>

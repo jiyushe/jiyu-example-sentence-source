@@ -1,5 +1,7 @@
 # burgess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burgess.md)
+
 <p><span class="chinese">杰伊•伯吉斯死了!</span><span class="english">Jay Burgess was dead.</span></p>
 
 <p><span class="chinese">博格斯深爱着沙漠。</span><span class="english">Burgess is in love with deserts.</span></p>

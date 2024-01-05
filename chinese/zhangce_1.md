@@ -1,5 +1,7 @@
 # 账册
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangce_1.md)
+
 <p><span class="chinese">在那里是许多账册在这图书馆。</span><span class="english">There are many books in this library.</span></p>
 
 <p><span class="chinese">如果他们的借贷账册变坏，股东就要为此自掏腰包。</span><span class="english">If their loan books go bad, the shareholders will have to stump up.</span></p>

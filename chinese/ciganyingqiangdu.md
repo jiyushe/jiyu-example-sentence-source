@@ -1,5 +1,7 @@
 # 磁感应强度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciganyingqiangdu.md)
+
 <p><span class="chinese">即一万亿分之一特斯拉，特斯拉是磁感应强度的计量单位。</span><span class="english">The tesla is the unit that defines magnetic field strength.</span></p>
 
 <p><span class="chinese">结构紧凑，磁感应强度高，线圈使用寿命长。</span><span class="english">Compact, high magnetic induction intensity and long coil service life.</span></p>

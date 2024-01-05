@@ -1,5 +1,7 @@
 # desiccator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desiccator.md)
+
 <p><span class="chinese">DT1系列可与静态类型的干燥器配合使用见下图。</span><span class="english">The DT1 series can be used in conjunction with a static type desiccator see the below drawing.</span></p>
 
 <p><span class="chinese">论述了小型火管式经济作物干燥机的研制过程和试验研究项目。</span><span class="english">The design and experiment of a small fire tube economic crop desiccator were studied in this paper.</span></p>

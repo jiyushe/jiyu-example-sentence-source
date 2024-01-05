@@ -1,5 +1,7 @@
 # afraid 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afraid.md)
+
 <p><span class="chinese">我很担心。</span><span class="english">I was afraid.</span></p>
 
 <p><span class="chinese">他们很害怕。</span><span class="english">They are afraid.</span></p>

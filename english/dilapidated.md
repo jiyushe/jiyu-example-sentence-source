@@ -1,5 +1,7 @@
 # dilapidated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilapidated.md)
+
 <p><span class="chinese">他的儿子们已把财产挥霍殆尽。</span><span class="english">His sons have dilapidated the estate.</span></p>
 
 <p><span class="chinese">儿童的研究，在破旧的校舍。</span><span class="english">Children study in dilapidated schoolhouses.</span></p>

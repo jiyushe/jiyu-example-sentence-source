@@ -1,5 +1,7 @@
 # 硬性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingxing.md)
+
 <p><span class="chinese">我们未必矢志坚持任何硬性方案。</span><span class="english">We are committed to no rigid formula.</span></p>
 
 <p><span class="chinese">硬性指不灵活或非常严格。</span><span class="english">Rigid means inflexible or very strict.</span></p>

@@ -1,5 +1,7 @@
 # synergism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synergism.md)
+
 <p><span class="chinese">许多因素间存在明显协同作用。</span><span class="english">Many factors showed synergism with each other.</span></p>
 
 <p><span class="chinese">氯化钙和甲醇存在协同增效作用。</span><span class="english">There was synergism between calcium chloride and methanol.</span></p>

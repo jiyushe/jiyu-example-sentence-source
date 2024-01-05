@@ -1,5 +1,7 @@
 # 不料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buliao.md)
+
 <p><span class="chinese">不料盖世太保反而把拉伯拘捕。</span><span class="english">Instead, Rabe was arrested by the Gestapo.</span></p>
 
 <p><span class="chinese">不料因为荣树的死。</span><span class="english">Unexpectedly, because of the death of the tree.</span></p>

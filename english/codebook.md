@@ -1,5 +1,7 @@
 # codebook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/codebook.md)
+
 <p><span class="chinese">仿真试验表明，相对于码书索引集合的加密，该算法效果更好。</span><span class="english">It is better than encrypting the sets of indices on the codebook.</span></p>
 
 <p><span class="chinese">在随机码本搜索中，采用高斯重叠稀疏码本。</span><span class="english">Gaussian over lapped and clipped codebook is used in codebook search.</span></p>

@@ -1,5 +1,7 @@
 # 歉意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianyi_1.md)
+
 <p><span class="chinese">我是来至歉意的！</span><span class="english">I come to apologize!</span></p>
 
 <p><span class="chinese">我对此表示歉意。</span><span class="english">On this I apologise.</span></p>

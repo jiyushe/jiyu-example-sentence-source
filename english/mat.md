@@ -1,5 +1,7 @@
 # mat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mat.md)
+
 <p><span class="chinese">做一个餐垫。</span><span class="english">Make a place mat.</span></p>
 
 <p><span class="chinese">一张五颜六色的席子做！</span><span class="english">A colourful mat is done!</span></p>

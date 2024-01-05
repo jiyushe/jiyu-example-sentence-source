@@ -1,5 +1,7 @@
 # 妃子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feizi.md)
+
 <p><span class="chinese">我已经找到我的妃子了，”王子说。</span><span class="english">"I have found my princess, " the prince says.</span></p>
 
 <p><span class="chinese">这个国王有四个妻子和二十个妃子。</span><span class="english">The king had four wives and twenty concubines.</span></p>

@@ -1,5 +1,7 @@
 # 狒狒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feifei_2.md)
+
 <p><span class="chinese">狒狒通常会猎捕花豹。</span><span class="english">Baboons usually hunt leopards.</span></p>
 
 <p><span class="chinese">这项研究的对象是南非大狒狒。</span><span class="english">It's a study of the chacma baboon.</span></p>

@@ -1,5 +1,7 @@
 # flamboyance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flamboyance.md)
+
 <p><span class="chinese">因此，它的花语就是-华丽。</span><span class="english">Therefore, its floral language is flamboyance.</span></p>
 
 <p><span class="chinese">鲜艳的色彩让整个脸庞都华丽明亮起来。</span><span class="english">Vivid color makes the whole face flamboyance and brightness.</span></p>

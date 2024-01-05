@@ -1,5 +1,7 @@
 # bleacher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleacher.md)
+
 <p><span class="chinese">我们还是买露天看台座位好了。</span><span class="english">Let's just get bleacher seats.</span></p>
 
 <p><span class="chinese">亚氯酸钠是一种新型、高效漂白剂和氧化杀菌剂。</span><span class="english">Sodium chlorite is a kind of latest, efficient bleacher and bactericide.</span></p>

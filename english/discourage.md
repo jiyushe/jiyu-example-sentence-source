@@ -1,5 +1,7 @@
 # discourage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discourage.md)
+
 <p><span class="chinese">劝阻未婚生育。</span><span class="english">Discourage out-of-wedlock births.</span></p>
 
 <p><span class="chinese">压缩膝盖的带子阻止我弯腿。</span><span class="english">Compression knee bands discourage bending.</span></p>

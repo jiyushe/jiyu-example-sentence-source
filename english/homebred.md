@@ -1,5 +1,7 @@
 # homebred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homebred.md)
+
 <p><span class="chinese">谁知道国产的最恐怖的鬼片？</span><span class="english">Who knows homebred most bloodcurdling ghost piece?</span></p>
 
 <p><span class="chinese">在这方面，国产网游有着太多的案例。</span><span class="english">In this respect, homebred net swims having too much case.</span></p>

@@ -1,5 +1,7 @@
 # ransack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ransack.md)
+
 <p><span class="chinese">她在我公寓里到处搜索寻找存折。</span><span class="english">She ransack my apartment for the bankbook.</span></p>
 
 <p><span class="chinese">我遍查字典找寻合适的词。</span><span class="english">I ransack a dictionary to find just the right word.</span></p>

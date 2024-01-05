@@ -1,5 +1,7 @@
 # gemma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gemma.md)
+
 <p><span class="chinese">吉玛则更热衷于艺术。</span><span class="english">Gemma is more artistic.</span></p>
 
 <p><span class="chinese">噢，琼玛将会冲锋在前。</span><span class="english">Oh, Gemma would fight at the barricades.</span></p>

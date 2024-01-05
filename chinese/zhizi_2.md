@@ -1,5 +1,7 @@
 # 枝子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizi_2.md)
+
 <p><span class="chinese">枝子开始在新学校上学。</span><span class="english">Mieko starts a new school.</span></p>
 
 <p><span class="chinese">树的生命活在枝子里面。</span><span class="english">The life of the tree lives in the branch.</span></p>

@@ -1,5 +1,7 @@
 # belong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belong.md)
+
 <p><span class="chinese">我们想要一个归宿。</span><span class="english">We want to belong.</span></p>
 
 <p><span class="chinese">它们属于谁呢？</span><span class="english">Where do they belong?</span></p>

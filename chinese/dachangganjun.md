@@ -1,5 +1,7 @@
 # 大肠杆菌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachangganjun.md)
+
 <p><span class="chinese">肠出血性大肠杆菌可引起出血腹泻和腹部疼痛。</span><span class="english">EHEC can cause bloody diarrhoea and abdominal pain.</span></p>
 
 <p><span class="chinese">大肠杆菌的前三个字母是Eco,也就是酶名字中的Eco</span><span class="english">The first three letters of E. Coli are Eco, so Eco.</span></p>

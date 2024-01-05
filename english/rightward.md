@@ -1,5 +1,7 @@
 # rightward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rightward.md)
+
 <p><span class="chinese">这些效应可以供应曲线右移到S2来代表。</span><span class="english">These effects are represented by a rightward shift in supply to S2.</span></p>
 
 <p><span class="chinese">换句话说，匹配从索引键的最左端开始并向右匹配。</span><span class="english">Put another way, matching starts at the far left of the index key and proceeds rightward.</span></p>

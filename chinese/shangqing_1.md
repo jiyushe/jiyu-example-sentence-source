@@ -1,5 +1,7 @@
 # 商情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangqing_1.md)
+
 <p><span class="chinese">外贸协会商情最新资料。</span><span class="english">Foreign trade association latest business information.</span></p>
 
 <p><span class="chinese">第二部分主要论述了丁力的商情文学观。</span><span class="english">The second chapter mainly discusses Dingli's commercial literary view.</span></p>

@@ -1,5 +1,7 @@
 # melamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melamine.md)
+
 <p><span class="chinese">那么，三聚氰胺怎么伤害你呢？</span><span class="english">So how can melamine hurt you?</span></p>
 
 <p><span class="chinese">三聚氰胺的一般用途是什么？</span><span class="english">What is melamine generally used for?</span></p>

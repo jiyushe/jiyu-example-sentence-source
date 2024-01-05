@@ -1,5 +1,7 @@
 # corneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corneous.md)
+
 <p><span class="chinese">角质层是由无生命活性的角朊细胞构成的。</span><span class="english">Corneous layer is formed by the horny protein cell of insensate active.</span></p>
 
 <p><span class="chinese">假如角质层过厚，营养成分就很难渗入。</span><span class="english">If corneous layer heavy panel, battalion nurturance divides very difficult infiltration.</span></p>

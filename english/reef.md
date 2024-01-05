@@ -1,5 +1,7 @@
 # reef
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reef.md)
+
 <p><span class="chinese">我们的船撞到了暗礁上。</span><span class="english">Our ship was thrown on a reef.</span></p>
 
 <p><span class="chinese">那艘船没能绕过暗礁。</span><span class="english">The ship failed to clear the reef.</span></p>

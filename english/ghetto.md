@@ -1,5 +1,7 @@
 # ghetto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghetto.md)
+
 <p><span class="chinese">我永远不会脱离黑人区。</span><span class="english">I ‘ll never escape from the ghetto.</span></p>
 
 <p><span class="chinese">那为什么她管这家店叫做“贫民区汉堡店”呢？</span><span class="english">Now, why did she call it a Ghetto Burger?</span></p>

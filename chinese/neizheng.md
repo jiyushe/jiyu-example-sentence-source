@@ -1,5 +1,7 @@
 # 内政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neizheng.md)
+
 <p><span class="chinese">内政大臣发言人Brig。</span><span class="english">Interior Ministry spokesman Brig.</span></p>
 
 <p><span class="chinese">我已经写信给英国内政大臣那里去询问。</span><span class="english">I have written to the home secretary to ask.</span></p>

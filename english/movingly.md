@@ -1,5 +1,7 @@
 # movingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/movingly.md)
+
 <p><span class="chinese">她以颇为动人的笔触形容了自己的思想和生命。</span><span class="english">She describes her mind and life quite movingly.</span></p>
 
 <p><span class="chinese">迈克皮克上将有关团队凝聚力的讲话触动人心。</span><span class="english">General McPeak speaks movingly of unit cohesion.</span></p>

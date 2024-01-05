@@ -1,5 +1,7 @@
 # masjid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masjid.md)
+
 <p><span class="chinese">在前面的一个拥挤的清真寺。</span><span class="english">In front of a packed masjid.</span></p>
 
 <p><span class="chinese">我们邀请他们到清真寺。</span><span class="english">We invite them to the masjid.</span></p>

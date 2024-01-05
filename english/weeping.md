@@ -1,5 +1,7 @@
 # weeping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weeping.md)
+
 <p><span class="chinese">萧萧雨更寒。</span><span class="english">Colder's the weeping rain.</span></p>
 
 <p><span class="chinese">那就意味着织女正在哭泣。</span><span class="english">It means that Zhinu is weeping.</span></p>

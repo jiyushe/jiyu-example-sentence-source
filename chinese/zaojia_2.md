@@ -1,5 +1,7 @@
 # 造假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaojia_2.md)
+
 <p><span class="chinese">第三，造假从而以假充真。</span><span class="english">Third, false and true.</span></p>
 
 <p><span class="chinese">谁导演了美国公司造假丑剧?。</span><span class="english">Who directed the US company fraud farce?</span></p>

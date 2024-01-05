@@ -1,5 +1,7 @@
 # telepathically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telepathically.md)
+
 <p><span class="chinese">他看起来用心灵感应术将他自己展示给我看。</span><span class="english">He looked as he had showed himself to me telepathically.</span></p>
 
 <p><span class="chinese">“它能用阿尔法射线通过心灵感应来和我交流。”他解释道。</span><span class="english">"It uses alpha waves to telepathically talk to me, " he explains.</span></p>

@@ -1,5 +1,7 @@
 # flax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flax.md)
+
 <p><span class="chinese">工人们正在梳理亚麻。</span><span class="english">The workers weer teasing flax.</span></p>
 
 <p><span class="chinese">亚麻籽是我的最爱。</span><span class="english">Flax seed is a favorite of mine.</span></p>

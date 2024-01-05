@@ -1,5 +1,7 @@
 # wba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wba.md)
+
 <p><span class="chinese">系统决定了WBA以及MBA。</span><span class="english">The system determines the WBA and MBA.</span></p>
 
 <p><span class="chinese">系统使用高四分之一工资数据来计算WBA。</span><span class="english">The system uses high quarter wages to calculate WBA.</span></p>

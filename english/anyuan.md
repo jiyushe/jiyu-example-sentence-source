@@ -1,5 +1,7 @@
 # anyuan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anyuan.md)
+
 <p><span class="chinese">安源区各社区积极探索艾滋病干预工作新模式。</span><span class="english">Anyuan area communities actively explore a new model of AIDS interventions.</span></p>
 
 <p><span class="chinese">萍乡市中填有限责任公司位于萍乡安源经济开发区。</span><span class="english">Pingxiang city in filling the limited liability company in Pingxiang Anyuan Economic Development Zone.</span></p>

@@ -1,5 +1,7 @@
 # subrogation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subrogation.md)
+
 <p><span class="chinese">第三章探讨权益转让书问题。</span><span class="english">Chapter Three researches on the subrogation form.</span></p>
 
 <p><span class="chinese">第四章保险代位求偿权的保护。</span><span class="english">Chapter four studies the protection of subrogation.</span></p>

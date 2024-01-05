@@ -1,5 +1,7 @@
 # 外资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waizi.md)
+
 <p><span class="chinese">我在一家外资企业工作。</span><span class="english">I'm in a foreign enterprise.</span></p>
 
 <p><span class="chinese">学校是否具有聘外资格?。</span><span class="english">Is the school SAFEA authorized to employ?</span></p>

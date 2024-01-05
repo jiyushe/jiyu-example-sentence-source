@@ -1,5 +1,7 @@
 # pecos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pecos.md)
+
 <p><span class="chinese">现在，佩科斯比尔是个好牛仔。</span><span class="english">Now, Pecos Bill was a good cowboy.</span></p>
 
 <p><span class="chinese">佩科斯比尔发明了作为一个牛仔的艺术。</span><span class="english">Pecos Bill invented the art of being a cowboy.</span></p>

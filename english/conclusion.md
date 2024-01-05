@@ -1,5 +1,7 @@
 # conclusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conclusion.md)
+
 <p><span class="chinese">我的结论是什么？</span><span class="english">What is my conclusion?</span></p>
 
 <p><span class="chinese">那么，他的结论是什么呢？</span><span class="english">Yet what is his conclusion?</span></p>

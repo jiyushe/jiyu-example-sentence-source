@@ -1,5 +1,7 @@
 # myoblast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myoblast.md)
+
 <p><span class="chinese">改进体外成肌细胞培养方法。</span><span class="english">To improve the method of myoblast cell culture in vitro.</span></p>
 
 <p><span class="chinese">结果近年成肌细胞移植技术不断改进，移植效率不断提高。</span><span class="english">How to improve the efficiency of the myoblast transplantation was also discussed.</span></p>

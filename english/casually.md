@@ -1,5 +1,7 @@
 # casually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casually.md)
+
 <p><span class="chinese">我只是随便说说。</span><span class="english">I am just speaking casually.</span></p>
 
 <p><span class="chinese">我问道，尽量装得若无其事。</span><span class="english">I asked, as casually as possible.</span></p>

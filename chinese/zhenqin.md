@@ -1,5 +1,7 @@
 # 珍禽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenqin.md)
+
 <p><span class="chinese">这天鹅虽然也是珍禽。</span><span class="english">Sure, the swan is a rare bird.</span></p>
 
 <p><span class="chinese">高地羊羔肉和各种珍禽野味。</span><span class="english">Highland lamb and unusual varieties of game.</span></p>

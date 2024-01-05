@@ -1,5 +1,7 @@
 # attraction 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attraction.md)
+
 <p><span class="chinese">这是呈现吸引力的死穴！</span><span class="english">This is ATTRACTION DEATH!</span></p>
 
 <p><span class="chinese">那么，它的吸引力在哪里？</span><span class="english">So, what’s the attraction?</span></p>

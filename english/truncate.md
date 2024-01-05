@@ -1,5 +1,7 @@
 # truncate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truncate.md)
+
 <p><span class="chinese">不能为该模板指定要截断的表。</span><span class="english">Cannot specify tables to truncate for this template.</span></p>
 
 <p><span class="chinese">现在，执行以下命令删除这些行</span><span class="english">Now issue the following command to truncate these rows</span></p>

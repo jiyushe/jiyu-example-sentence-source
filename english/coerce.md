@@ -1,5 +1,7 @@
 # coerce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coerce.md)
+
 <p><span class="chinese">你不能强迫别人学习。</span><span class="english">You cannot coerce someone into learning.</span></p>
 
 <p><span class="chinese">但强迫他仍然是不对的。</span><span class="english">But it would still be wrong to coerce him.</span></p>

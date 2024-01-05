@@ -1,5 +1,7 @@
 # humorist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humorist.md)
+
 <p><span class="chinese">你真是一个十足的幽默家。</span><span class="english">You're quite a humorist.</span></p>
 
 <p><span class="chinese">幽默家故意装成没有受过教育的平民。</span><span class="english">The humorist posed as a plain uneducated man.</span></p>

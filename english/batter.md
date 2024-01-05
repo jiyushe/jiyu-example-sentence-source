@@ -1,5 +1,7 @@
 # batter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/batter.md)
+
 <p><span class="chinese">浸到糊状物里。</span><span class="english">Dip into the batter.</span></p>
 
 <p><span class="chinese">打击手打中球了。</span><span class="english">The batter hit the ball.</span></p>

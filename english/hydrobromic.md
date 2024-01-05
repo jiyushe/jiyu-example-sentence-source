@@ -1,5 +1,7 @@
 # hydrobromic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrobromic.md)
+
 <p><span class="chinese">由甘露醇与氢溴酸反应制得。</span><span class="english">By the reaction of mannitol and hydrobromic acid.</span></p>
 
 <p><span class="chinese">焚烧或裂解以回收溴或氢溴酸。</span><span class="english">Incineration of pyrolysis with recovery of bromine or hydrobromic acid.</span></p>

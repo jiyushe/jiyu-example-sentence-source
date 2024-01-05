@@ -1,5 +1,7 @@
 # coumarin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coumarin.md)
+
 <p><span class="chinese">主要含有挥发油和香豆素类成分。</span><span class="english">Coumarin and Oil are the main component.</span></p>
 
 <p><span class="chinese">香豆素类与黄酮类为其主要活性成分。</span><span class="english">Coumarin and flavonoid is the main component.</span></p>

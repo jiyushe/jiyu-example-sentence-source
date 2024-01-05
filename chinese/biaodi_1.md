@@ -1,5 +1,7 @@
 # 标的
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaodi_1.md)
+
 <p><span class="chinese">他们的保险标的是什么</span><span class="english">What do they insure?</span></p>
 
 <p><span class="chinese">Cookie和网络信标的使用</span><span class="english">Use of cookies and web beacons</span></p>

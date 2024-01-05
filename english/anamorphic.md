@@ -1,5 +1,7 @@
 # anamorphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anamorphic.md)
+
 <p><span class="chinese">变形的选择。</span><span class="english">Anamorphic options.</span></p>
 
 <p><span class="chinese">提出用全息元件实现变形分数傅里叶变换。</span><span class="english">Implementation of anamorphic FRT using HOE is presented.</span></p>

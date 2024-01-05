@@ -1,5 +1,7 @@
 # 听写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingxie_1.md)
+
 <p><span class="chinese">接着我们就做了听写。</span><span class="english">Then we had a dictation.</span></p>
 
 <p><span class="chinese">请把你们的听写交上来。</span><span class="english">Hand in your dictations, please.</span></p>

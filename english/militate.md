@@ -1,5 +1,7 @@
 # militate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/militate.md)
+
 <p><span class="chinese">所有这些并不妨碍我们的成功。</span><span class="english">All this did not militate our success.</span></p>
 
 <p><span class="chinese">对思想的自由交流予以严密控制。</span><span class="english">Defensive instincts militate against free and easy exchange of ideas.</span></p>

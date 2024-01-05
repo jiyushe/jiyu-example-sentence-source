@@ -1,5 +1,7 @@
 # vacation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacation.md)
+
 <p><span class="chinese">寒假来了。</span><span class="english">Winter vacation came.</span></p>
 
 <p><span class="chinese">他们在那儿度假。</span><span class="english">They are on vacation there.</span></p>

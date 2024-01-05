@@ -1,5 +1,7 @@
 # 证券
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengquan_2.md)
+
 <p><span class="chinese">广发证券对此拒绝评论。</span><span class="english">Guangfa declines comment.</span></p>
 
 <p><span class="chinese">证券市场活跃起来。</span><span class="english">The stock market brisked up.</span></p>

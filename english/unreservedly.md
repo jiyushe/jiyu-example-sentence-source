@@ -1,5 +1,7 @@
 # unreservedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreservedly.md)
+
 <p><span class="chinese">她毫无保留地献身于这伟大的事业。</span><span class="english">She has devoted herself unreservedly to the great cause.</span></p>
 
 <p><span class="chinese">他们把技术知识毫无保留地传授给了我们。</span><span class="english">They unreservedly passed on to us their technical know-how.</span></p>

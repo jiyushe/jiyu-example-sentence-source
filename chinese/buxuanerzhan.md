@@ -1,5 +1,7 @@
 # 不宣而战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxuanerzhan.md)
+
 <p><span class="chinese">眼魔经常不宣而战。</span><span class="english">Beholders often attack without provocation.</span></p>
 
 <p><span class="chinese">绝大多数人反对授权他进行不宣而战的海战。</span><span class="english">How can you say you disagree when the majority of your classmates do not?</span></p>

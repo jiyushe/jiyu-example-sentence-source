@@ -1,5 +1,7 @@
 # sublimity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sublimity.md)
+
 <p><span class="chinese">当下小说远离了文学应有的崇高。</span><span class="english">Nowadays, novels go far away from the sublimity.</span></p>
 
 <p><span class="chinese">他发出的每一个声音都充满着悲怅和崇高。</span><span class="english">Every word he uttered was full of pathos and sublimity.</span></p>

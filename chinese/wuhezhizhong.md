@@ -1,5 +1,7 @@
 # 乌合之众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhezhizhong.md)
+
 <p><span class="chinese">利比亚反叛军是一群乌合之众组成的军事力量。</span><span class="english">The rebels are a ragtag force.</span></p>
 
 <p><span class="chinese">使用乌合之众的心理学控制群众。</span><span class="english">Use Mob Psychology to control the masses.</span></p>

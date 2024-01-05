@@ -1,5 +1,7 @@
 # edgewise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edgewise.md)
+
 <p><span class="chinese">带方丝弓托槽的正畸示范模型。</span><span class="english">Orthodontic model for demonstration With Edgewise Orthodontic bracket.</span></p>
 
 <p><span class="chinese">他们说，“这是不合时宜的使用这些括号中的0.018矫治时代”。</span><span class="english">They say "It's anachronistic to use these brackets in the . 018 Edgewise era".</span></p>

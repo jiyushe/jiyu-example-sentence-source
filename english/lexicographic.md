@@ -1,5 +1,7 @@
 # lexicographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lexicographic.md)
+
 <p><span class="chinese">此格式采用基底32编码，且保持通用字元集的词典排序顺序。</span><span class="english">The format adopts base32 encoding and preserves the lexicographic sorting order of UCS.</span></p>
 
 <p><span class="chinese">对名称空间声明和每个元素中的属性采用词典序。</span><span class="english">Lexicographic order is imposed on the namespace declarations and attributes of each element.</span></p>

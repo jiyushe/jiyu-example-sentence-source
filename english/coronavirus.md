@@ -1,5 +1,7 @@
 # coronavirus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coronavirus.md)
+
 <p><span class="chinese">它的名字是中东呼吸系统冠状病毒。</span><span class="english">Its name, the Middle East Respiratory System Coronavirus.</span></p>
 
 <p><span class="chinese">目的了解SARS病毒的组织嗜性和宿主趋向性。</span><span class="english">Objective To study the host range and tissue tropism of SARS coronavirus.</span></p>

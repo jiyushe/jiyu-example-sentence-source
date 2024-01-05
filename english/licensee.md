@@ -1,5 +1,7 @@
 # licensee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/licensee.md)
+
 <p><span class="chinese">如果这样的话，作为被许可方，您同意了哪些条款？</span><span class="english">If so, what terms did you agree to as a licensee?</span></p>
 
 <p><span class="chinese">被许可方可以通过销售软件获利。</span><span class="english">A licensee can profit from the sale of the software.</span></p>

@@ -1,5 +1,7 @@
 # 年期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianqi.md)
+
 <p><span class="chinese">助养一名孩子的年期需要多久？</span><span class="english">For how long do I sponsor a child?</span></p>
 
 <p><span class="chinese">半年期报告应以议定的标准格式提交。</span><span class="english">The semi-annual reports shall be submitted on an agreed standard form.</span></p>

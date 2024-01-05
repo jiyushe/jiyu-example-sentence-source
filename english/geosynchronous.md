@@ -1,5 +1,7 @@
 # geosynchronous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geosynchronous.md)
+
 <p><span class="chinese">它是一个卫星定位仪器。</span><span class="english">It's a geosynchronous positioning device.</span></p>
 
 <p><span class="chinese">因为地球的转动时期，那个相配，它是以是一同步轨道而闻名。</span><span class="english">Because that matches Earth's rotation period, it is known as a geosynchronous orbit.</span></p>

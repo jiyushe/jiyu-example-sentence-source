@@ -1,5 +1,7 @@
 # 成见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengjian.md)
+
 <p><span class="chinese">都是成见。</span><span class="english">False stereotypes.</span></p>
 
 <p><span class="chinese">她摒弃一切成见。</span><span class="english">She put away all prejudices.</span></p>

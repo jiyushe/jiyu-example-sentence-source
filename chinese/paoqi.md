@@ -1,5 +1,7 @@
 # 抛弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoqi.md)
+
 <p><span class="chinese">他们抛弃旧怨。</span><span class="english">They buried the feud.</span></p>
 
 <p><span class="chinese">我们并没有被抛弃！</span><span class="english">We have not abandoned!</span></p>

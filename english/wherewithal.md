@@ -1,5 +1,7 @@
 # wherewithal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wherewithal.md)
+
 <p><span class="chinese">本能知识也引导昆虫王国产生必要的行为。</span><span class="english">Instinctual knowledge also instructs the insect kingdoms in their wherewithal.</span></p>
 
 <p><span class="chinese">在钱德勒，但是，并没有对公司或政府必要的资金。</span><span class="english">The Chandlers, however, did not have the wherewithal of corporations or governments.</span></p>

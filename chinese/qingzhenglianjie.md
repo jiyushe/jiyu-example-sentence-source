@@ -1,5 +1,7 @@
 # 清正廉洁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzhenglianjie.md)
+
 <p><span class="chinese">民主选举，有利于督促干部保持清正廉洁。</span><span class="english">Democratic election urges officials to keep honest.</span></p>
 
 <p><span class="chinese">他被视为清正廉洁的典范。</span><span class="english">He is seen as the mirror of honesty and uprightness.</span></p>

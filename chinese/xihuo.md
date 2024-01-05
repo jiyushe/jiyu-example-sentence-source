@@ -1,5 +1,7 @@
 # 细活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xihuo.md)
+
 <p><span class="chinese">我坚持认为慢工出细活。</span><span class="english">I insist a soft fire makes sweet malt.</span></p>
 
 <p><span class="chinese">我们交替使用大小刷子来做粗活和细活。</span><span class="english">We traded off large and small brushes for rough and fine work.</span></p>

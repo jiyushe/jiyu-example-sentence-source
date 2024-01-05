@@ -1,5 +1,7 @@
 # sorghum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorghum.md)
+
 <p><span class="chinese">高粱抽穗了。</span><span class="english">The sorghum is in the ear.</span></p>
 
 <p><span class="chinese">红高粱就是一个例子。</span><span class="english">Red Sorghum is just an example.</span></p>

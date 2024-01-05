@@ -1,5 +1,7 @@
 # reduce 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reduce.md)
+
 <p><span class="chinese">饮食中减少盐的摄入。</span><span class="english">Reduce salt in your diet.</span></p>
 
 <p><span class="chinese">帮助减少老人斑。</span><span class="english">Helps to reduce age spots.</span></p>

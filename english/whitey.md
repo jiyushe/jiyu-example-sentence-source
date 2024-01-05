@@ -1,5 +1,7 @@
 # whitey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whitey.md)
+
 <p><span class="chinese">而这就是怀迪·布杰。</span><span class="english">and this is Whitey Bulger.</span></p>
 
 <p><span class="chinese">我是红红的苹果，猪二哥最爱吃了。</span><span class="english">I'm a red apple. Whitey likes me best.</span></p>

@@ -1,5 +1,7 @@
 # 土房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tufang_1.md)
+
 <p><span class="chinese">院子里走出皮肤黝黑的老人，将他拖进土房里。</span><span class="english">The yard out of the dark skin of the elderly, will land him into the room.</span></p>
 
 <p><span class="chinese">我们一家三代四口人都挤在爷爷的60平米左右的土房内。</span><span class="english">Three generations of our family of four live in Grandpa's 60 square meters house.</span></p>

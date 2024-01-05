@@ -1,5 +1,7 @@
 # 地图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ditu.md)
+
 <p><span class="chinese">他们有地图。</span><span class="english">They have maps.</span></p>
 
 <p><span class="chinese">那一张地图是她的。</span><span class="english">That map is hers.</span></p>

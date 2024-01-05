@@ -1,5 +1,7 @@
 # freshwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freshwater.md)
+
 <p><span class="chinese">我会带你们去钓淡水鱼。</span><span class="english">I’ll show you some freshwater fishing!</span></p>
 
 <p><span class="chinese">淡水贝壳，贝雕，福娃。</span><span class="english">Freshwater shells, shell carving, Fuwa.</span></p>

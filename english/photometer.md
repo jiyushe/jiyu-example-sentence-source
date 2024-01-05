@@ -1,5 +1,7 @@
 # photometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photometer.md)
+
 <p><span class="chinese">开展了流动注射分析在双光束光度计上的应用研究。</span><span class="english">The application of FIA two-beam photometer to flow injection analysis is studied.</span></p>
 
 <p><span class="chinese">介绍了HD型全自动显微镜光度计中主要的硬件技术。</span><span class="english">The main hardware technology in HD full automatic Microscope photometer is described.</span></p>

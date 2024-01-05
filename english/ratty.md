@@ -1,5 +1,7 @@
 # ratty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ratty.md)
+
 <p><span class="chinese">包登太太是一位面黄肌瘦的小妇人，梳着不太整洁的棕色头发。</span><span class="english">Mrs. Bowdon was a little sallow woman with ratty brown hair.</span></p>
 
 <p><span class="chinese">他想到了他的羊肉串和那些油腻腻的，在滚烫的上等油里炸的猪肉。</span><span class="english">He thought of his mutton kebabs and ratty pork cooked in the hottest, finest oil.</span></p>

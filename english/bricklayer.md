@@ -1,5 +1,7 @@
 # bricklayer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bricklayer.md)
+
 <p><span class="chinese">老二成了一名砌砖匠。</span><span class="english">The second brother became a bricklayer.</span></p>
 
 <p><span class="chinese">那男孩子被送给一个泥瓦匠当学徒。</span><span class="english">The boy was apprenticed to a bricklayer.</span></p>

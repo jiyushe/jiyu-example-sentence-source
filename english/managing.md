@@ -1,5 +1,7 @@
 # managing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/managing.md)
+
 <p><span class="chinese">每个人都要学会一心多用啊</span><span class="english">Everyone managing to multitask.</span></p>
 
 <p><span class="chinese">管理配置文件是艰苦的。</span><span class="english">Managing configuration files is tough.</span></p>

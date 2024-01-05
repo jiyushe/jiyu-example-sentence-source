@@ -1,5 +1,7 @@
 # alphabet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alphabet.md)
+
 <p><span class="chinese">身体字母表。</span><span class="english">Body alphabet.</span></p>
 
 <p><span class="chinese">我给你带字母汤来了。</span><span class="english">I brought you alphabet soup.</span></p>

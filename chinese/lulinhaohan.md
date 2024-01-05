@@ -1,5 +1,7 @@
 # 绿林好汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lulinhaohan.md)
+
 <p><span class="chinese">我要讲述一位绿林好汉的故事</span><span class="english">I shall tell you of a good yeoman</span></p>
 
 <p><span class="chinese">最后乔扮演了一伙绿林好汉，哭哭啼啼。</span><span class="english">And at last Joe, representing a whole tribe of weeping outlaws.</span></p>

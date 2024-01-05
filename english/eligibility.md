@@ -1,5 +1,7 @@
 # eligibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eligibility.md)
+
 <p><span class="chinese">您的就医资格和医疗津贴不会因通知而有所改变。</span><span class="english">Your MEDI- CAL eligibility and benefits are not changed by notice.</span></p>
 
 <p><span class="chinese">根据新的要求，海外旅行是否会影响入籍资格？</span><span class="english">Will travel overseas affect eligibility under the new requirements?</span></p>

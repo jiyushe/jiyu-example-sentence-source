@@ -1,5 +1,7 @@
 # enviously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enviously.md)
+
 <p><span class="chinese">命运却嫉妒地隔断。</span><span class="english">But Fate so enviously debars</span></p>
 
 <p><span class="chinese">毫无疑问，很多小公司正在羡慕的看着他们。</span><span class="english">No doubt many smaller companies look enviously upon them.</span></p>

@@ -1,5 +1,7 @@
 # 织布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibu_1.md)
+
 <p><span class="chinese">我现在能把“织布歌”全弹下来了。</span><span class="english">I can play "Spinning Song" quite well now.</span></p>
 
 <p><span class="chinese">这种线圈结构让针织布比梭织布更有弹性。</span><span class="english">None of these fabrics is woven or knitted.</span></p>

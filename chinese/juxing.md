@@ -1,5 +1,7 @@
 # 举行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juxing.md)
+
 <p><span class="chinese">举行家庭辩论赛。</span><span class="english">Hold debates.</span></p>
 
 <p><span class="chinese">在朝阳公园举行。</span><span class="english">It's in Chaoyang Park.</span></p>

@@ -1,5 +1,7 @@
 # alt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alt.md)
+
 <p><span class="chinese">得啦，少得意一点吧。</span><span class="english">Come, be a little less in alt.</span></p>
 
 <p><span class="chinese">按下并释放另外一个Alt键</span><span class="english">Press and release the other Alt key.</span></p>

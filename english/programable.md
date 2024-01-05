@@ -1,5 +1,7 @@
 # programable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/programable.md)
+
 <p><span class="chinese">是一种面向现代控制系统的微型可编程控制器。</span><span class="english">JDMPLC-1 is a new programable logic controller, for modern automatic control systems.</span></p>
 
 <p><span class="chinese">数位系统设计2。可程式逻辑元件3。软体工具使用。</span><span class="english">Digital system design 2. Programable logic Devices 3. Digital circuit simulation tools.</span></p>

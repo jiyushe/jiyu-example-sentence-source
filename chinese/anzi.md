@@ -1,5 +1,7 @@
 # 案子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anzi.md)
+
 <p><span class="chinese">案子就是他们的工作经历。</span><span class="english">The case is what they do.</span></p>
 
 <p><span class="chinese">这个案子一直悬而未决。</span><span class="english">The case is still pending.</span></p>

@@ -1,5 +1,7 @@
 # 评分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingfen_1.md)
+
 <p><span class="chinese">我会给试卷评分。</span><span class="english">I will grade the paper.</span></p>
 
 <p><span class="chinese">我们老师评分很严。</span><span class="english">Our teacher marks strictly.</span></p>

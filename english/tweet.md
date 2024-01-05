@@ -1,5 +1,7 @@
 # tweet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tweet.md)
+
 <p><span class="chinese">艺术，来源于小鸟般的鸣叫。</span><span class="english">Art, from a tweet.</span></p>
 
 <p><span class="chinese">艺术，来源于小鸟般的鸣叫。太有魅力了。</span><span class="english">Art, from a tweet. Fascinating.</span></p>

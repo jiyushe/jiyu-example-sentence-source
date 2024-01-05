@@ -1,5 +1,7 @@
 # solvable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solvable.md)
+
 <p><span class="chinese">这些是可以解决的问题。</span><span class="english">These are solvable problems.</span></p>
 
 <p><span class="chinese">可解方程的群都是交换群。</span><span class="english">The groups of the solvable equations are commutative.</span></p>

@@ -1,5 +1,7 @@
 # 心房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfang_1.md)
+
 <p><span class="chinese">刺碎我畏缩的心房。</span><span class="english">This shrinking heart of mine!</span></p>
 
 <p><span class="chinese">⊙、男人志在四方，女人志在心房。</span><span class="english">Men aim at four party, women at heart.</span></p>

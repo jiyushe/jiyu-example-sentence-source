@@ -1,5 +1,7 @@
 # eo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eo.md)
+
 <p><span class="chinese">烷基酚与环氧乙烷的缩合物。</span><span class="english">The condense of alkylphenol and EO.</span></p>
 
 <p><span class="chinese">这一地区的访问后，不仅消除板和幻灯片。</span><span class="english">Essa area so é acessivel apos remover a placa eo slide.</span></p>

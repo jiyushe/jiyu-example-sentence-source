@@ -1,5 +1,7 @@
 # 试演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyan_3.md)
+
 <p><span class="chinese">试演一出戏。</span><span class="english">Try out for a play.</span></p>
 
 <p><span class="chinese">对不起，我明天要试演。</span><span class="english">I'm sorry, I have an audition.</span></p>

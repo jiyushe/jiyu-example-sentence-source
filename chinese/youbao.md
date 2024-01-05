@@ -1,5 +1,7 @@
 # 邮包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youbao.md)
+
 <p><span class="chinese">这件邮包盖着伦敦的邮戳。</span><span class="english">The parcel was postmarked London.</span></p>
 
 <p><span class="chinese">你所寄的邮包必须妥善包装。</span><span class="english">The pracel you post must be well packed.</span></p>

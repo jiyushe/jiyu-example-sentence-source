@@ -1,5 +1,7 @@
 # pericles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pericles.md)
+
 <p><span class="chinese">伯里克利当政时期雅典臻于鼎盛。</span><span class="english">Pericles was in Athens are reaching its peak.</span></p>
 
 <p><span class="chinese">伯里克利和亚伯拉罕·林肯并非十分相象。</span><span class="english">Pericles and Abraham Lincoln were not very much alike.</span></p>

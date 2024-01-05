@@ -1,5 +1,7 @@
 # internetwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internetwork.md)
+
 <p><span class="chinese">重定向打印任务到网络中的打印机。</span><span class="english">Send a print job to an internetwork printer.</span></p>
 
 <p><span class="chinese">IP提供互连网路中第3层非连接导向的传输。</span><span class="english">IP provides Layer 3 connectionless transport through an internetwork.</span></p>

@@ -1,5 +1,7 @@
 # 指数函数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishuhanshu.md)
+
 <p><span class="chinese">因为这里是指数函数。</span><span class="english">This is an exponential function.</span></p>
 
 <p><span class="chinese">这是指数函数的本质。</span><span class="english">This is the nature of an exponential function.</span></p>

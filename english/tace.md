@@ -1,5 +1,7 @@
 # tace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tace.md)
+
 <p><span class="chinese">引流术后，接受了TACE治疗的患者其生存期明显超过未治疗组。</span><span class="english">But the survival time of TACE group was more perduring than the untreated.</span></p>
 
 <p><span class="chinese">对12例肝癌采用经肝动脉灌注化疗栓塞治疗，观察临床疗效。</span><span class="english">Methods 12 patients with liver cancer used TACE then observed clinical efficacy.</span></p>

@@ -1,5 +1,7 @@
 # 浑然天成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunrantiancheng.md)
+
 <p><span class="chinese">它的内部则有圆润的过渡，一切浑然天成。</span><span class="english">Its interior has fruity transition, all like nature itself.</span></p>
 
 <p><span class="chinese">在他每一件作品中，都可以看到他浑然天成的艺术感。</span><span class="english">His innate artistic sense can be seen in each piece of work.</span></p>

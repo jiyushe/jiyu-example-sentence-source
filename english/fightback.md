@@ -1,5 +1,7 @@
 # fightback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fightback.md)
+
 <p><span class="chinese">布朗从政治墓地反攻的事迹可能成为史诗。</span><span class="english">Mr Brown's fightback from the political graveyard would be epic.</span></p>
 
 <p><span class="chinese">霍金的评论已经点燃了从宗教领袖反击。</span><span class="english">Hawking's comments have ignited a fightback from religious leaders.</span></p>

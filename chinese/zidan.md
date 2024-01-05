@@ -1,5 +1,7 @@
 # 子弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zidan.md)
+
 <p><span class="chinese">能挡得住子弹吗？</span><span class="english">Can flesh stay bullets?</span></p>
 
 <p><span class="chinese">子弹飕地飞过我的头顶。</span><span class="english">The bullet zipped past.</span></p>

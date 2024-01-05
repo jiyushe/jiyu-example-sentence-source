@@ -1,5 +1,7 @@
 # alone 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alone.md)
+
 <p><span class="chinese">所向披靡,亦非一人之功</span><span class="english">He alone?</span></p>
 
 <p><span class="chinese">孤孤单单一个人。</span><span class="english">Alone a person.</span></p>

@@ -1,5 +1,7 @@
 # agp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agp.md)
+
 <p><span class="chinese">这将在此设备上测试AGP纹理。要开始操作吗?。</span><span class="english">This will test AGP texturing on this device. Okay to proceed?</span></p>
 
 <p><span class="chinese">目前有些新主板，提供了在BIOS中进行AGP电压调节的功能。</span><span class="english">At present, some new motherboards, the BIOS provides a voltage regulator in the function of AGP.</span></p>

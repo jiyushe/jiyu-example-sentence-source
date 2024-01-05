@@ -1,5 +1,7 @@
 # inferential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inferential.md)
+
 <p><span class="chinese">因而，它应作为推理操作的基本规则。</span><span class="english">They must be considered as basic rules of inferential operation.</span></p>
 
 <p><span class="chinese">推论式的歧视可通过教育而逐步克服，一个知识较多的人群将不会做出很肤浅的判断。</span><span class="english">Inferential discrimination can be gradually overcome through education.</span></p>

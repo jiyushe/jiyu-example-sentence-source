@@ -1,5 +1,7 @@
 # scriptwriter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scriptwriter.md)
+
 <p><span class="chinese">所以﹐我可能会当编剧吧。</span><span class="english">So maybe I'll be a scriptwriter.</span></p>
 
 <p><span class="chinese">编剧帮助他将其所著小说改编成电影。</span><span class="english">The scriptwriter helped him to adapt his novel for the screen.</span></p>

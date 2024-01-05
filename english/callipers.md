@@ -1,5 +1,7 @@
 # callipers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/callipers.md)
+
 <p><span class="chinese">提出一些使用数字卡尺时常见的问题。</span><span class="english">Presents the common issues in using digital callipers.</span></p>
 
 <p><span class="chinese">铝合金双辐式轮圈设计独特，能够清晰地看到制动系统的制动盘和卡尺。</span><span class="english">Its five delicate double spokes leave a clear view of the discs and sliding callipers of the braking system.</span></p>

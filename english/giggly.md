@@ -1,5 +1,7 @@
 # giggly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giggly.md)
+
 <p><span class="chinese">爱我自己给它起的名字读音。</span><span class="english">Loved the giggly sound of the name I'd given it.</span></p>
 
 <p><span class="chinese">傻傻的期待着你给的幸福。</span><span class="english">Giggly looking forward to the happiness you give.</span></p>

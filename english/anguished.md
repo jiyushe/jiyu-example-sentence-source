@@ -1,5 +1,7 @@
 # anguished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anguished.md)
+
 <p><span class="chinese">丧夫使她极为悲痛。</span><span class="english">The loss of her husband anguished her deeply.</span></p>
 
 <p><span class="chinese">在个美洲都激荡着这苦恼的争论。</span><span class="english">And throughout America the anguished debate roils on.</span></p>

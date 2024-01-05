@@ -1,5 +1,7 @@
 # 俯仰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyang.md)
+
 <p><span class="chinese">穿过白薯垄有节奏地俯仰着</span><span class="english">Stooping in rhythm through potato drills</span></p>
 
 <p><span class="chinese">平尾上的升降舵控制俯仰。</span><span class="english">Elevators on the tailplane control pitch.</span></p>

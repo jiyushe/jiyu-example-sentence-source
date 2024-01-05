@@ -1,5 +1,7 @@
 # 空间站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongjianzhan.md)
+
 <p><span class="chinese">佛罗里达，肯尼迪航天中心——星期一，亚特兰蒂斯航天飞机已经入轨并与国际空间站对接。</span><span class="english">KENNEDY SPACE CENTER, Fla.</span></p>
 
 <p><span class="chinese">在空间站看星星象的样子是什么？</span><span class="english">What do the stars look like in the space?</span></p>

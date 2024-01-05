@@ -1,5 +1,7 @@
 # 烟农
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yannong.md)
+
 <p><span class="chinese">讨论了小麦品种烟农19的淀粉品质性状改良等问题。</span><span class="english">Some question of the starch traits of Yannong 19 were discussed.</span></p>
 
 <p><span class="chinese">受到卡纳塔克邦高价销售价格的鼓舞，烟农们要求每公斤支付110卢比左右的价格。</span><span class="english">Farmers are demanding Rs 110 a kg or so, enthused by the high prices paid in Karnataka.</span></p>

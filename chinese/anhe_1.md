@@ -1,5 +1,7 @@
 # 暗河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anhe_1.md)
+
 <p><span class="chinese">此处的地下暗河据说可直通东海。</span><span class="english">It is said that the underground river here can link with the East Sea.</span></p>
 
 <p><span class="chinese">该寺山泉水池内的鱼有10余个品种，均是从寺后西山的暗河中流出的。</span><span class="english">There are more than 10 kinds of fishes in the pond of mountain spring water.</span></p>

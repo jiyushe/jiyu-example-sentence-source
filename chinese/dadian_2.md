@@ -1,5 +1,7 @@
 # 打点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadian_2.md)
+
 <p><span class="chinese">你能给我用打点字吗？</span><span class="english">Could you do some typing for me?</span></p>
 
 <p><span class="chinese">请给我的车胎打点气好吗？</span><span class="english">Could you please inflate my tires?</span></p>

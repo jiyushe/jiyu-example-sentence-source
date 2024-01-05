@@ -1,5 +1,7 @@
 # cyanogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyanogen.md)
+
 <p><span class="chinese">为他的牛机器人氰工作。</span><span class="english">Cyanogen for his awsome Android work.</span></p>
 
 <p><span class="chinese">这类毒剂包括氢氰酸和氯化氰。</span><span class="english">Such agents, including hydrocyanic acid and Cyanogen Chloride.</span></p>

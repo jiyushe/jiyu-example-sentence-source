@@ -1,5 +1,7 @@
 # shaoxing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaoxing.md)
+
 <p><span class="chinese">绍兴酒很好喝。</span><span class="english">Shaoxing wine tastes very good.</span></p>
 
 <p><span class="chinese">兰花是绍兴市市花。</span><span class="english">Orchid is the city flower of Shaoxing.</span></p>

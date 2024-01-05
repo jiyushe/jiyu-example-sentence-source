@@ -1,5 +1,7 @@
 # archive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archive.md)
+
 <p><span class="chinese">该存档档案具有唯读属性。</span><span class="english">This archive is read-only.</span></p>
 
 <p><span class="chinese">您必须指定归档文件名称。</span><span class="english">You have to specify an archive name.</span></p>

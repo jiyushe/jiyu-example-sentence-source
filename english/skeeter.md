@@ -1,5 +1,7 @@
 # skeeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skeeter.md)
+
 <p><span class="chinese">大多数蚊子咬你只会让你感到瘙痒。</span><span class="english">Most skeeter bites just make you itch.</span></p>
 
 <p><span class="chinese">斯基特仰天大笑。</span><span class="english">Skeeter throws back her head and laughs.</span></p>

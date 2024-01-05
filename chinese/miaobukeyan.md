@@ -1,5 +1,7 @@
 # 妙不可言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaobukeyan.md)
+
 <p><span class="chinese">当天的宴会妙不可言，席上一共有十四个人。</span><span class="english">It was a lovely dinner-party of fourteen.</span></p>
 
 <p><span class="chinese">他的这齣新戏有些地方真是妙不可言。</span><span class="english">His new play has a certain je ne sais quoi.</span></p>

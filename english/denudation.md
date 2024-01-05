@@ -1,5 +1,7 @@
 # denudation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denudation.md)
+
 <p><span class="chinese">总体上自北而南，剥蚀速率和冷却速率均逐渐变小。</span><span class="english">The cooling rate and denudation rate decreased overall from north to south.</span></p>
 
 <p><span class="chinese">这个国家滥伐森林，造成生态失调。</span><span class="english">Ecological inbalance is caused by the deforestation denudation in this country.</span></p>

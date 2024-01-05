@@ -1,5 +1,7 @@
 # 敬礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingli_1.md)
+
 <p><span class="chinese">我向一个无名之辈敬礼。</span><span class="english">I saluted a nobody.</span></p>
 
 <p><span class="chinese">叛军们，我向你们敬礼。</span><span class="english">I salute you, rebels.</span></p>

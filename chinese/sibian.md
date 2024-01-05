@@ -1,5 +1,7 @@
 # 四边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sibian.md)
+
 <p><span class="chinese">坚实的，四边的，从这一边的那和华，那是我。</span><span class="english">Solid, four-sided, from this side Jehovah am I.</span></p>
 
 <p><span class="chinese">淡水黄昏带诗意，夜雾罩四边。</span><span class="english">Poetical twilight of Tamsui is shrouding in the mist.</span></p>

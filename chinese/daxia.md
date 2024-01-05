@@ -1,5 +1,7 @@
 # 大侠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxia.md)
+
 <p><span class="chinese">真正的大侠决不放弃。</span><span class="english">A good warrior never quits.</span></p>
 
 <p><span class="chinese">你就是神龙大侠。</span><span class="english">You are the Dragon Warrior.</span></p>

@@ -1,5 +1,7 @@
 # 土司
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tusi.md)
+
 <p><span class="chinese">土司怎么样？我可以做。</span><span class="english">Toast. I can make toast.</span></p>
 
 <p><span class="chinese">吉姆用烤面包机烤土司。</span><span class="english">Jim made toast in the toaster.</span></p>

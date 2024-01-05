@@ -1,5 +1,7 @@
 # accommodative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accommodative.md)
+
 <p><span class="chinese">伯南克高度宽松的货币政策已然被批评地体无完肤。</span><span class="english">Critics have come out on all sides of Bernanke's highly accommodative monetary policy.</span></p>
 
 <p><span class="chinese">虽然出现瞳孔放大和适应效应等副作用，但是相对比较轻微。</span><span class="english">Mydriatric and accommodative effects were present, but relatively mild, as were adverse events.</span></p>

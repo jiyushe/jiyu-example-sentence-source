@@ -1,5 +1,7 @@
 # henceforth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/henceforth.md)
+
 <p><span class="chinese">是的，卡休斯，从今而后。</span><span class="english">Yes, Cassius, and from henceforth.</span></p>
 
 <p><span class="chinese">从今往后，我要爱所有的人。</span><span class="english">Henceforth will I love all mankind.</span></p>

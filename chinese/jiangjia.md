@@ -1,5 +1,7 @@
 # 降价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangjia.md)
+
 <p><span class="chinese">这间房子降价出售吗？</span><span class="english">Is this house on sale?</span></p>
 
 <p><span class="chinese">衬衣降价出售。</span><span class="english">The shirts are on sale.</span></p>

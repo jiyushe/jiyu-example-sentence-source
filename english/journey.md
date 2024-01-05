@@ -1,5 +1,7 @@
 # journey 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/journey.md)
+
 <p><span class="chinese">旅行开始了。</span><span class="english">The journey begins.</span></p>
 
 <p><span class="chinese">这次旅程很短暂。</span><span class="english">This journey is brief.</span></p>

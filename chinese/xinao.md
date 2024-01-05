@@ -1,5 +1,7 @@
 # 嬉闹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinao.md)
+
 <p><span class="chinese">它们认为这是嬉闹。</span><span class="english">They think this is hilarious.</span></p>
 
 <p><span class="chinese">太阳嬉闹，月华盈盈。</span><span class="english">The sportive sun, the gibbous moon.</span></p>

@@ -1,5 +1,7 @@
 # 白头翁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baitouweng.md)
+
 <p><span class="chinese">头顶上，响亮的白头翁在抢占它们的树枝</span><span class="english">overhead loud grackles are claiming their trees</span></p>
 
 <p><span class="chinese">一只白头翁在喷泉池中冲凉</span><span class="english">Starlings cool off in a fountain in Washington DC</span></p>

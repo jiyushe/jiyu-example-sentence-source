@@ -1,5 +1,7 @@
 # ping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ping.md)
+
 <p><span class="chinese">我的名字是李萍。</span><span class="english">My name is Li Ping.</span></p>
 
 <p><span class="chinese">会不会是王平呢？</span><span class="english">Can it be Wang Ping?</span></p>

@@ -1,5 +1,7 @@
 # 指向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixiang_1.md)
+
 <p><span class="chinese">指向他的胳膊。</span><span class="english">Ponit to his arm.</span></p>
 
 <p><span class="chinese">指向她的嘴。</span><span class="english">Ponit to her mouth.</span></p>

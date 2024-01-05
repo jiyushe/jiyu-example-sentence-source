@@ -1,5 +1,7 @@
 # 查获
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chahuo.md)
+
 <p><span class="chinese">该杂志被查获，戏剧性的美国的袭击。</span><span class="english">The journal was seized in the dramatic US raid.</span></p>
 
 <p><span class="chinese">没想到开张刚10天就被警方查获。</span><span class="english">Opened just did not expect the police seized 10 days.</span></p>

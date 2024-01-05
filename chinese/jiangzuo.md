@@ -1,5 +1,7 @@
 # 讲座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangzuo.md)
+
 <p><span class="chinese">讲座参加的人很多。</span><span class="english">The lectures were well- attended.</span></p>
 
 <p><span class="chinese">那是一个为期两天的系列讲座。</span><span class="english">It was a two-day package of lectures.</span></p>

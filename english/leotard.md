@@ -1,5 +1,7 @@
 # leotard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leotard.md)
+
 <p><span class="chinese">你需要一套紧身连衣裤，和一些运动鞋。</span><span class="english">You'll need a leotard and some sneakers.</span></p>
 
 <p><span class="chinese">为了赋予她运动的气质，我让她穿上紧身衣裤。</span><span class="english">To make her seem athletic, I need to give her a leotard.</span></p>

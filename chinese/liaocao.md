@@ -1,5 +1,7 @@
 # 潦草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaocao.md)
+
 <p><span class="chinese">比尔潦潦草草地给我写了个便条。</span><span class="english">Bill scribbled me a note.</span></p>
 
 <p><span class="chinese">他的字迹太潦草很难辨认。</span><span class="english">His handwriting is too spidery to read.</span></p>

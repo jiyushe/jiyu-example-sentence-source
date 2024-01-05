@@ -1,5 +1,7 @@
 # 简而言之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianeryanzhi.md)
+
 <p><span class="chinese">简而言之，这项技术来自于一个失误。</span><span class="english">Simply put, it came from a cock-up.</span></p>
 
 <p><span class="chinese">简而言之，他是“阴”，纳尼是“阳”。</span><span class="english">In short, he's the yin to Nani's yang.</span></p>

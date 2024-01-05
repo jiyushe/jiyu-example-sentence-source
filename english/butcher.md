@@ -1,5 +1,7 @@
 # butcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butcher.md)
+
 <p><span class="chinese">屠夫卖肉。</span><span class="english">The butcher sells meat.</span></p>
 
 <p><span class="chinese">屠夫砍下一块冻肉的肋条。</span><span class="english">The trade of a butcher.</span></p>

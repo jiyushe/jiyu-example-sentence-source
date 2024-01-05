@@ -1,5 +1,7 @@
 # 绵力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianli_1.md)
+
 <p><span class="chinese">她觉得自己似乎已经为环保尽绵力了。</span><span class="english">She feels as though she does her bit to be green.</span></p>
 
 <p><span class="chinese">我要做的只是以我微薄的绵力来为真理和正义服务。</span><span class="english">I want to do is to help my poor service for truth and justice.</span></p>

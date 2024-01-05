@@ -1,5 +1,7 @@
 # bella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bella.md)
+
 <p><span class="chinese">那么你和贝拉.斯万也就一样了。</span><span class="english">You’re Bella Swan now.</span></p>
 
 <p><span class="chinese">为林优宝姊妹在家平安祷告。</span><span class="english">Pray for Bella Lamb who has safety at home.</span></p>

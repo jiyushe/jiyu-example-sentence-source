@@ -1,5 +1,7 @@
 # 风势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengshi.md)
+
 <p><span class="chinese">风势渐衰。</span><span class="english">The wind is falling.</span></p>
 
 <p><span class="chinese">现在风势已经减弱。</span><span class="english">The wind has slackened off now.</span></p>

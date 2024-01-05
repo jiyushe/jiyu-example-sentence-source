@@ -1,5 +1,7 @@
 # peaceably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peaceably.md)
+
 <p><span class="chinese">和平结束这件事。</span><span class="english">End this thing peaceably.</span></p>
 
 <p><span class="chinese">另一方面，沙鼠相配，相伴终生，相安无事地一起抚养崽子。</span><span class="english">Gerbils, on the other hand, mate for life and raise babies peaceably together.</span></p>

@@ -1,5 +1,7 @@
 # 潜伏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfu_1.md)
+
 <p><span class="chinese">它潜伏在海底。</span><span class="english">It lurks beneath the sea.</span></p>
 
 <p><span class="chinese">潜伏，侦察，突击！</span><span class="english">Conceal, reconnoiter, assault!</span></p>

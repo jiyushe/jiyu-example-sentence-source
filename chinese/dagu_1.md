@@ -1,5 +1,7 @@
 # 大鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dagu_1.md)
+
 <p><span class="chinese">短笛大魔王又生出了一个新的怪物，他的名字叫作大鼓。</span><span class="english">There's a new beast in town and his name is Drum.</span></p>
 
 <p><span class="chinese">听大鼓在演奏，我精神多抖擞。</span><span class="english">Listen! The torn-torn is playing. How energetic I am!</span></p>

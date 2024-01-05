@@ -1,5 +1,7 @@
 # 沙枣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shazao.md)
+
 <p><span class="chinese">③沙枣根中观察有含晶细胞存在。</span><span class="english">It was found Crystalliterous cell in Elaeagnus angustifolia.</span></p>
 
 <p><span class="chinese">介绍沙枣果醋的酿制方法。</span><span class="english">This paper introduced the fermentation method of oleaster vinegar.</span></p>

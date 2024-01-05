@@ -1,5 +1,7 @@
 # dopaminergic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dopaminergic.md)
+
 <p><span class="chinese">当代的强化学习理论是基于多巴胺奖赏系统。</span><span class="english">Contemporary theories of reinforcement learning are rooted in the dopaminergic reward system.</span></p>
 
 <p><span class="chinese">晚期帕金森患者中持续多巴胺能药物应用不能满足治疗需要。</span><span class="english">Continuous dopaminergic drug delivery is an unmet medical need in advanced Parkinson's disease.</span></p>

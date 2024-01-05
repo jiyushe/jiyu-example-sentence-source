@@ -1,5 +1,7 @@
 # 出风头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chufengtou.md)
+
 <p><span class="chinese">她喜欢出风头。</span><span class="english">She likes to show off.</span></p>
 
 <p><span class="chinese">她喜欢出风头。</span><span class="english">She is fond of limelight.</span></p>

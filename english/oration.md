@@ -1,5 +1,7 @@
 # oration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oration.md)
+
 <p><span class="chinese">他精彩的演讲激起了观众的兴趣。</span><span class="english">His polished oration piqued the audiences's interest.</span></p>
 
 <p><span class="chinese">奥巴马总统将在丧礼上发表祭文。</span><span class="english">President Obama will be delivered the funeral oration.</span></p>

@@ -1,5 +1,7 @@
 # sportive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sportive.md)
+
 <p><span class="chinese">太阳嬉闹，月华盈盈。</span><span class="english">The sportive sun, the gibbous moon.</span></p>
 
 <p><span class="chinese">你爱和别人竞争，失败的感觉你最受不了。</span><span class="english">Competitive and sportive. Don't like losing and always cheerful!</span></p>

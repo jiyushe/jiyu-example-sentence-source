@@ -1,5 +1,7 @@
 # 蜂拥而来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyongerlai.md)
+
 <p><span class="chinese">人们蜂拥而来观看比赛。</span><span class="english">People crowded to see the match.</span></p>
 
 <p><span class="chinese">人群从四面八方蜂拥而来。</span><span class="english">The crowd swarmed in all directions.</span></p>

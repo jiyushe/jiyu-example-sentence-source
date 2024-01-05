@@ -1,5 +1,7 @@
 # 丸剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanji.md)
+
 <p><span class="chinese">滴丸剂质量基本稳定。</span><span class="english">The drop pills were relatively stable.</span></p>
 
 <p><span class="chinese">Victrelis丸剂的用法为每日三次，进餐时服用。</span><span class="english">Victrelis is a pill taken three times a day with food.</span></p>

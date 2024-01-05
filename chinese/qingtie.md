@@ -1,5 +1,7 @@
 # 请帖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtie.md)
+
 <p><span class="chinese">我哄乔治给我发了请帖。</span><span class="english">I wangled an invitation out of George.</span></p>
 
 <p><span class="chinese">所有的结婚请帖都发出去了。</span><span class="english">All the wedding invitations have gone out.</span></p>

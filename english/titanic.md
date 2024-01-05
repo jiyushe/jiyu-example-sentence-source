@@ -1,5 +1,7 @@
 # titanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titanic.md)
+
 <p><span class="chinese">铁达尼号还是挪亚方舟?。</span><span class="english">Titanic or Noah's Ark?</span></p>
 
 <p><span class="chinese">泰坦尼克号开始往下沉。</span><span class="english">The Titanic began to sink.</span></p>

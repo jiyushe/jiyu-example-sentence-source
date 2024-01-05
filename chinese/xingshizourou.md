@@ -1,5 +1,7 @@
 # 行尸走肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshizourou.md)
+
 <p><span class="chinese">我现在累得像一具行尸走肉。</span><span class="english">I am now tired look like a good-for-nothing.</span></p>
 
 <p><span class="chinese">很多投资者像行尸走肉一般没头脑。</span><span class="english">Many investors are walking around like zombies.</span></p>

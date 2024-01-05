@@ -1,5 +1,7 @@
 # collage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collage.md)
+
 <p><span class="chinese">画画或拼图你的悲痛。</span><span class="english">Draw or collage your grief.</span></p>
 
 <p><span class="chinese">时间的痕迹，生活的拼贴。</span><span class="english">Imprints of time, collage of life.</span></p>

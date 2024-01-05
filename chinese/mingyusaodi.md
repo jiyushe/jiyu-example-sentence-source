@@ -1,5 +1,7 @@
 # 名誉扫地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingyusaodi.md)
+
 <p><span class="chinese">这名政客名誉扫地。</span><span class="english">The politician became bankrupt in reputation.</span></p>
 
 <p><span class="chinese">勒庞形容他政治名誉扫地。</span><span class="english">She has described him as politically discredited.</span></p>

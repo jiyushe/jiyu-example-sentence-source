@@ -1,5 +1,7 @@
 # instantiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instantiate.md)
+
 <p><span class="chinese">实例化该类的一个对象。</span><span class="english">Instantiate an object of that class.</span></p>
 
 <p><span class="chinese">最低限度下，它们实例化并销毁对象。</span><span class="english">Minimally, they instantiate and destroy objects.</span></p>

@@ -1,5 +1,7 @@
 # obsidian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obsidian.md)
+
 <p><span class="chinese">你在黑曜石公司的工作是什么？</span><span class="english">What's your job at Obsidian?</span></p>
 
 <p><span class="chinese">此外，黑曜石是神圣的毛利人之物。</span><span class="english">In addition, the obsidian is sacred to the Maoris.</span></p>

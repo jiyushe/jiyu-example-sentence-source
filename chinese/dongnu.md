@@ -1,5 +1,7 @@
 # 动怒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongnu.md)
+
 <p><span class="chinese">对亨利方达动怒！</span><span class="english">Angry at Henry Fonda!</span></p>
 
 <p><span class="chinese">风箱能扇火，言语可动怒。</span><span class="english">The bellows puffed on the fire.</span></p>

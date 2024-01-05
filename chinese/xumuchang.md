@@ -1,5 +1,7 @@
 # 畜牧场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xumuchang.md)
+
 <p><span class="chinese">办工厂化畜牧场真的省钱吗?。</span><span class="english">Is factory farming really cheaper?</span></p>
 
 <p><span class="chinese">汤姆在加州有一个大畜牧场。</span><span class="english">Tom has a cattle ranch in California.</span></p>

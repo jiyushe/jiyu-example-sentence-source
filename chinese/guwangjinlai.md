@@ -1,5 +1,7 @@
 # 古往今来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guwangjinlai.md)
+
 <p><span class="chinese">呜哇！我是古往今来最浑的半身人！</span><span class="english">Woot! I am the most badass halfling EVER!</span></p>
 
 <p><span class="chinese">古往今来，岱海吸引着无数游人。</span><span class="english">Through the ages, attracts numerous tourists haidai sea.</span></p>

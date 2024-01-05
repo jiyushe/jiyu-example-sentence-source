@@ -1,5 +1,7 @@
 # landless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landless.md)
+
 <p><span class="chinese">失去土地的村民可以获得报酬。</span><span class="english">Landless villagers are paid for this work.</span></p>
 
 <p><span class="chinese">“失去了土地的大人们，”布朗·本说。“就像你，小恶魔。”</span><span class="english">"Landless lords, " said Brown Ben. "Like you, Imp. "</span></p>

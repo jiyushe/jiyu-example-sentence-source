@@ -1,5 +1,7 @@
 # 目次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muci.md)
+
 <p><span class="chinese">请先查卡片目次。</span><span class="english">Please consult the card catalog first.</span></p>
 
 <p><span class="chinese">你们收到了按我方目次所列的产物规格了吗？</span><span class="english">Have you received the specifications as shown in our catalog?</span></p>

@@ -1,5 +1,7 @@
 # hyperthermia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperthermia.md)
+
 <p><span class="chinese">如果不加治疗，低温症可能危及生命。</span><span class="english">If not treated, hyperthermia can be deadly.</span></p>
 
 <p><span class="chinese">热疗可导致化疗耐药的产生。</span><span class="english">Hyperthermia may induce chemotherapy resistance.</span></p>

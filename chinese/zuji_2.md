@@ -1,5 +1,7 @@
 # 阻击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuji_2.md)
+
 <p><span class="chinese">此时会有一名阻击手加入战斗。</span><span class="english">Sniper will now join the fight.</span></p>
 
 <p><span class="chinese">并让这个“阻击手”害死了多人！</span><span class="english">And let the "sniper" had killed the people!</span></p>

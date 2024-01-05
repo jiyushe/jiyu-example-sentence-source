@@ -1,5 +1,7 @@
 # liquor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liquor.md)
+
 <p><span class="chinese">她一口气喝了十杯酒。</span><span class="english">A drink of such liquor.</span></p>
 
 <p><span class="chinese">我看见他正在饮烈酒。</span><span class="english">I saw him imbibing liquor.</span></p>

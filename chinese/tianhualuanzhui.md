@@ -1,5 +1,7 @@
 # 天花乱坠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianhualuanzhui.md)
+
 <p><span class="chinese">这种意料中的倾向会把事情说得天花乱坠。</span><span class="english">The natural tendency is to hype things up.</span></p>
 
 <p><span class="chinese">商学院的主要罪过是天花乱坠的吹捧奉承。</span><span class="english">The original sin of business schools is boosterism.</span></p>

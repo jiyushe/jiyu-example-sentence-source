@@ -1,5 +1,7 @@
 # 冷色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengse.md)
+
 <p><span class="chinese">绿、蓝、紫都是冷色。</span><span class="english">The cool colors are green, blue, and violet.</span></p>
 
 <p><span class="chinese">蓝、绿、紫则属冷色系。</span><span class="english">Blue, green, violet is cool color department.</span></p>

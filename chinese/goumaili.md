@@ -1,5 +1,7 @@
 # 购买力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goumaili.md)
+
 <p><span class="chinese">第三列是巨无霸购买力平价。</span><span class="english">The third column calculates Big Mac PPPs.</span></p>
 
 <p><span class="chinese">广州人的购买力更是让人惊叹。</span><span class="english">People in Guangzhou have huge purchasing power.</span></p>

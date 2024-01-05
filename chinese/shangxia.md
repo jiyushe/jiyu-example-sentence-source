@@ -1,5 +1,7 @@
 # 上下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxia.md)
+
 <p><span class="chinese">我浑身上下都是耳朵。</span><span class="english">I am all ears.</span></p>
 
 <p><span class="chinese">上下颠倒了。</span><span class="english">It's upside down.</span></p>

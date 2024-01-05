@@ -1,5 +1,7 @@
 # yuppie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yuppie.md)
+
 <p><span class="chinese">你能接受雅痞的观念吗？</span><span class="english">Are you able to accept the yuppie point of view?</span></p>
 
 <p><span class="chinese">这是蔓延于办公室的雅皮士流感的症状。</span><span class="english">This is a case of yuppie flu, which is contagious in offices.</span></p>

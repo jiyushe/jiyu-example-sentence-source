@@ -1,5 +1,7 @@
 # chlorella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chlorella.md)
+
 <p><span class="chinese">萘酚对小球藻谷胱甘肽及其还原酶的影响。</span><span class="english">Effects of a-naphthol on the glutathione and its reductase in Chlorella.</span></p>
 
 <p><span class="chinese">经鱼油强化或海水小球藻二次培养后脂类含量明显升高。</span><span class="english">After enriched with fish oil or cultured twice for the seawater Chlorella spp.</span></p>

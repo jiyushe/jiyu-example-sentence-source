@@ -1,5 +1,7 @@
 # 族谱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zupu.md)
+
 <p><span class="chinese">但我没有规定必须要画族谱。</span><span class="english">But I didn't ask for a family tree.</span></p>
 
 <p><span class="chinese">但是家族谱并不会止于此。</span><span class="english">But the family tree doesn’t stop there.</span></p>

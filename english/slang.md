@@ -1,5 +1,7 @@
 # slang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slang.md)
+
 <p><span class="chinese">使用俚语。</span><span class="english">Use slang.</span></p>
 
 <p><span class="chinese">这便是黑话了。</span><span class="english">It is slang.</span></p>

@@ -1,5 +1,7 @@
 # maglev
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maglev.md)
+
 <p><span class="chinese">道岔是磁悬浮线路的重要部件。</span><span class="english">Turnout is an important part of maglev.</span></p>
 
 <p><span class="chinese">你可以从浦东国际机场乘坐磁悬浮列车。</span><span class="english">You can take the maglev train at Pudong Airport.</span></p>

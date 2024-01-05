@@ -1,5 +1,7 @@
 # corrugation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corrugation.md)
+
 <p><span class="chinese">波纹软管的设计包括标准波距，开阔波距和超柔韧。</span><span class="english">Hose corrugation designs include Standard Pitch, Open Pitch and Superflex.</span></p>
 
 <p><span class="chinese">波纹软管设计包括标准螺距、开阔螺距和超屈曲型。</span><span class="english">Hose corrugation designs include Standard Pitch, Open Pitch and Superflex.</span></p>

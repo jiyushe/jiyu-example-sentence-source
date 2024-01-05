@@ -1,5 +1,7 @@
 # expiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expiate.md)
+
 <p><span class="chinese">她要赎罪。</span><span class="english">She will expiate herself.</span></p>
 
 <p><span class="chinese">他希望为他的过失赎罪。</span><span class="english">He hoped to expiate his guilt.</span></p>

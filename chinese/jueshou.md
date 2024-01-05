@@ -1,5 +1,7 @@
 # 绝收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueshou.md)
+
 <p><span class="chinese">水稻病害的侵染会导致减产甚至绝收。</span><span class="english">Rice bacterial blight and Rice blast are the most important rice disease.</span></p>
 
 <p><span class="chinese">2004年以后成灾面积实际为绝收面积。</span><span class="english">The data of area affected is actually the date of area affected absolutely in 2004.</span></p>

@@ -1,5 +1,7 @@
 # daffodil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daffodil.md)
+
 <p><span class="chinese">水仙花是花吗？</span><span class="english">Is a daffodil a flower?</span></p>
 
 <p><span class="chinese">水仙花太纯洁了。</span><span class="english">That daffodil is too pure.</span></p>

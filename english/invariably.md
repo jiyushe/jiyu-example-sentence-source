@@ -1,5 +1,7 @@
 # invariably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invariably.md)
+
 <p><span class="chinese">但它总是会发生。</span><span class="english">But it invariably does happen.</span></p>
 
 <p><span class="chinese">贞操总能自保。</span><span class="english">Virtue invariably protects itself.</span></p>

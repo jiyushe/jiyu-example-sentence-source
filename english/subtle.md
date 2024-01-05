@@ -1,5 +1,7 @@
 # subtle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtle.md)
+
 <p><span class="chinese">是非常微妙的</span><span class="english">It's very subtle.</span></p>
 
 <p><span class="chinese">同样很微妙。</span><span class="english">It's get still subtle.</span></p>

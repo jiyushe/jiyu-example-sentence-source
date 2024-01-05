@@ -1,5 +1,7 @@
 # pugh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pugh.md)
+
 <p><span class="chinese">这种方法称为普氏概念选择法。</span><span class="english">This method is known as Pugh concept selection.</span></p>
 
 <p><span class="chinese">不同肝功能分级的肝硬化患者间血清瘦素水平差异不显著。</span><span class="english">There was no significant difference in different Child- Pugh class of cirrhosis.</span></p>

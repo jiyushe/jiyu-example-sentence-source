@@ -1,5 +1,7 @@
 # 万马奔腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanmabenteng.md)
+
 <p><span class="chinese">万马奔腾。</span><span class="english">Ten thousand horses gallop forward.</span></p>
 
 <p><span class="chinese">黄河以万马奔腾之势滚滚向前。</span><span class="english">The Yellow River surges onward like ten thousand horses galloping.</span></p>

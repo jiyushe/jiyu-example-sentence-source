@@ -1,5 +1,7 @@
 # aqueous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aqueous.md)
+
 <p><span class="chinese">可与酸形成水溶性的聚合物。</span><span class="english">An aqueous polymer solubilized with acid.</span></p>
 
 <p><span class="chinese">CMC水溶液增粘后用作浮游选矿等。</span><span class="english">CMC aqueous solution viscosity for flotation etc.</span></p>

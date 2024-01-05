@@ -1,5 +1,7 @@
 # canker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canker.md)
+
 <p><span class="chinese">有病的茎往往溃烂。</span><span class="english">Blighted stems often canker.</span></p>
 
 <p><span class="chinese">恰像馥郁的玫瑰花心的毛虫。</span><span class="english">Which like a canker in the fragrant rose.</span></p>

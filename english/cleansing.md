@@ -1,5 +1,7 @@
 # cleansing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleansing.md)
+
 <p><span class="chinese">蜡的洁面霜。</span><span class="english">Wax-based cleansing cream.</span></p>
 
 <p><span class="chinese">什么是清肠呢？</span><span class="english">What is colon cleansing anyway?</span></p>

@@ -1,5 +1,7 @@
 # 四书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishu.md)
+
 <p><span class="chinese">希腊语正典书目还有马卡比四书。</span><span class="english">And the Greek canon also accepts 4 Maccabees.</span></p>
 
 <p><span class="chinese">在四书，它对待的内部精神生活，在仿制的耶稣基督。</span><span class="english">In four books it treats of the interior spiritual life in imitation of Jesus Christ.</span></p>

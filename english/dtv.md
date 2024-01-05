@@ -1,5 +1,7 @@
 # dtv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dtv.md)
+
 <p><span class="chinese">也许他们并没有意识到数字电视革命将会带来什么。</span><span class="english">Perhaps they do not realize what the DTV revolution offers.</span></p>
 
 <p><span class="chinese">对其在数字电视和高清晰度电视检测上的应用也作了介绍。</span><span class="english">Its application in the test of DTV and HDTV is also described.</span></p>

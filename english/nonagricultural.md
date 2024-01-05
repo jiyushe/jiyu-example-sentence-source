@@ -1,5 +1,7 @@
 # nonagricultural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonagricultural.md)
+
 <p><span class="chinese">乡村非农化即乡村地域非农产业与活动逐步发展壮大之过程。</span><span class="english">The rural nonagriculturalizition is the proceed of nonagricultural sectors and its development and strength.</span></p>
 
 <p><span class="chinese">大城市是指市区和近郊区非农业人口五十万以上的城市。</span><span class="english">A "large city" means one which has a nonagricultural population of 500,000 or more in its urban and inner suburban districts.</span></p>

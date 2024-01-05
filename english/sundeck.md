@@ -1,5 +1,7 @@
 # sundeck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sundeck.md)
+
 <p><span class="chinese">大楼有一个小阳台面积。</span><span class="english">Building has a small sundeck area.</span></p>
 
 <p><span class="chinese">沐日光浴的甲板上挤满了度假者。</span><span class="english">The sundeck was crowded with holiday-makers.</span></p>

@@ -1,5 +1,7 @@
 # almond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/almond.md)
+
 <p><span class="chinese">我先尝一块杏仁的。</span><span class="english">I'll try an almond one first.</span></p>
 
 <p><span class="chinese">孕期可不可以吃大杏仁呢？</span><span class="english">Pregnancy can eat big almond?</span></p>

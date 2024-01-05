@@ -1,5 +1,7 @@
 # deduce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deduce.md)
+
 <p><span class="chinese">我们可以从这些东西中推理出什么呢？</span><span class="english">Can we deduce anything about those?</span></p>
 
 <p><span class="chinese">我们可以推断这段代码所做的事情么？</span><span class="english">Can you deduce what this chunk does?</span></p>

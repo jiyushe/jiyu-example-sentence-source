@@ -1,5 +1,7 @@
 # hohhot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hohhot.md)
+
 <p><span class="chinese">我现在已经回到呼市了。</span><span class="english">Now I am back in Hohhot.</span></p>
 
 <p><span class="chinese">呼和浩特保存最完好规模最大、年代最久的喇嘛教寺院。</span><span class="english">Hohhot best-preserved largest and the oldest in the temple Lamaism.</span></p>

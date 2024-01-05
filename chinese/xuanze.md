@@ -1,5 +1,7 @@
 # 选择
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanze.md)
+
 <p><span class="chinese">通过选择。</span><span class="english">By choice.</span></p>
 
 <p><span class="chinese">我选择这样做。</span><span class="english">I chose to.</span></p>

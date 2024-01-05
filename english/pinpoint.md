@@ -1,5 +1,7 @@
 # pinpoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinpoint.md)
+
 <p><span class="chinese">我至今还能记起恐慌袭上心头的那一刻。</span><span class="english">I can pinpoint the moment the panic set in.</span></p>
 
 <p><span class="chinese">经鉴别这是棉、府绸、牛津的混合物。</span><span class="english">Pinpoint is a combination of cotton, poplin and Oxford.</span></p>

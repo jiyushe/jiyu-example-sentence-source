@@ -1,5 +1,7 @@
 # supramolecular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supramolecular.md)
+
 <p><span class="chinese">超分子化学是目前化学学科中发展比较迅速的一个领域。</span><span class="english">Supramolecular is a rapidly developed area in chemistry recent years.</span></p>
 
 <p><span class="chinese">近年来，超分子科学的研究应用工作飞速发展。</span><span class="english">Recently, the research and application of the supramolecular develop rapidly.</span></p>

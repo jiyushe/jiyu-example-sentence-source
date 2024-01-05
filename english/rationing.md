@@ -1,5 +1,7 @@
 # rationing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rationing.md)
+
 <p><span class="chinese">一些地区将面临更为严重的定量配给。</span><span class="english">Some regions will face more than mere rationing.</span></p>
 
 <p><span class="chinese">他们采取严格的配给措施以延长储油的使用时间。</span><span class="english">They eked out the oil stores by strict rationing.</span></p>

@@ -1,5 +1,7 @@
 # 污点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudian.md)
+
 <p><span class="chinese">我无法把这污点洗去。</span><span class="english">I can't wash the spot away.</span></p>
 
 <p><span class="chinese">现在来看，什么是污点呢？</span><span class="english">Now, what is it that defiles?</span></p>

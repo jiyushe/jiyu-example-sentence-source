@@ -1,5 +1,7 @@
 # overlap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overlap.md)
+
 <p><span class="chinese">但是这里产生了冗余。</span><span class="english">But here there's overlap.</span></p>
 
 <p><span class="chinese">两者内容会有些重叠</span><span class="english">There will be some overlap.</span></p>

@@ -1,5 +1,7 @@
 # 永别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongbie.md)
+
 <p><span class="chinese">这就是要说的全部话。亲爱的，永别了。</span><span class="english">That is all. Good-bye, my dear.</span></p>
 
 <p><span class="chinese">他说了再见，永别，珍重…</span><span class="english">He says Adios, says Adios, Goodbye.</span></p>

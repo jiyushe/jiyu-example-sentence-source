@@ -1,5 +1,7 @@
 # sizing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sizing.md)
+
 <p><span class="chinese">亦称机内施胶。</span><span class="english">Also called Engine sizing.</span></p>
 
 <p><span class="chinese">后勤基础结构的规模评估</span><span class="english">Sizing back-office infrastructure</span></p>

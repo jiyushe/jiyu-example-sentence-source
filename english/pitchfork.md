@@ -1,5 +1,7 @@
 # pitchfork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitchfork.md)
+
 <p><span class="chinese">尖齿叉子或干草叉等工具上的尖头。</span><span class="english">A prong on an implement such as a fork or pitchfork.</span></p>
 
 <p><span class="chinese">如果只用干草叉来做园艺工作，真是一种浪费。</span><span class="english">What a waste to use a pitchfork only for garden work.</span></p>

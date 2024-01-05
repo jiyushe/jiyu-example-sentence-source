@@ -1,5 +1,7 @@
 # 智齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhichi_3.md)
+
 <p><span class="chinese">对于智齿，也是同样的道理。</span><span class="english">Same with wisdom teeth.</span></p>
 
 <p><span class="chinese">我要去把我的智齿拔掉。</span><span class="english">I'm getting my wisdom teeth out.</span></p>

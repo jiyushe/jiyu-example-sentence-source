@@ -1,5 +1,7 @@
 # 惊悚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingsong.md)
+
 <p><span class="chinese">全世界瞠目惊悚。</span><span class="english">All the world wondered.</span></p>
 
 <p><span class="chinese">或刺激，或惊悚，看看书。</span><span class="english">Horror! Check out a book.</span></p>

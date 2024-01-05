@@ -1,5 +1,7 @@
 # 凝聚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningju.md)
+
 <p><span class="chinese">微笑，凝聚成星星挂在我的心间。</span><span class="english">Smile, have become one of luxury.</span></p>
 
 <p><span class="chinese">一些话语也将在冬季凝聚成冰。</span><span class="english">Some words will be sealed in winter.</span></p>

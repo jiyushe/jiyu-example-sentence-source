@@ -1,5 +1,7 @@
 # bleomycin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleomycin.md)
+
 <p><span class="chinese">经气管内注射博莱霉素建立肺纤维化模型。</span><span class="english">Pulmonary fibrosis model was induced by intra-tracheal injection of bleomycin.</span></p>
 
 <p><span class="chinese">研究结果提示博来霉素A_6有可能用于肝癌化疗。</span><span class="english">These observations suggest that bleomycin A_6 may be useful in human liver cancer chemotherapy.</span></p>

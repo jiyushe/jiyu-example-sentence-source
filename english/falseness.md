@@ -1,5 +1,7 @@
 # falseness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falseness.md)
+
 <p><span class="chinese">他讨厌虚伪不知道怎么伪装自己。</span><span class="english">He hated falseness and did not know how to pretend.</span></p>
 
 <p><span class="chinese">逃离不洁与罪恶，并躲避一切虚谎。</span><span class="english">Fleeing unclean and evil and evading all other falseness.</span></p>

@@ -1,5 +1,7 @@
 # 堆积如山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duijirushan.md)
+
 <p><span class="chinese">货物堆积如山。</span><span class="english">Merchandise is piled up mountain-high.</span></p>
 
 <p><span class="chinese">他们用车子把堆积如山的垃圾运走了。</span><span class="english">They carted away the mountains of rubbish.</span></p>

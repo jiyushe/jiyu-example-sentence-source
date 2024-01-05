@@ -1,5 +1,7 @@
 # 风趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengqu.md)
+
 <p><span class="chinese">她说话很有风趣。</span><span class="english">She is a witty talker.</span></p>
 
 <p><span class="chinese">麦卡索是一个很风趣的人。</span><span class="english">Macasso was a funny fellow.</span></p>

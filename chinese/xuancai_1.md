@@ -1,5 +1,7 @@
 # 选才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuancai_1.md)
+
 <p><span class="chinese">选才正规，做工精细，以可靠的诚信。</span><span class="english">Select only the formal and elegant, with reliable integrity.</span></p>
 
 <p><span class="chinese">该系统已成功应用于体育运动选才。</span><span class="english">The system has been successfully applied in the sport recruiting.</span></p>

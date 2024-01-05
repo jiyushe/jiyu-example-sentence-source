@@ -1,5 +1,7 @@
 # tenor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenor.md)
+
 <p><span class="chinese">所以你想成为一位流行男高音吗？</span><span class="english">SO YOU WANT TO BE A POP TENOR?</span></p>
 
 <p><span class="chinese">这位男高音被奉为名人。</span><span class="english">The tenor was lionized in Vienna.</span></p>

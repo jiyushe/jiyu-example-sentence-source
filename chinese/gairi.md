@@ -1,5 +1,7 @@
 # 改日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gairi.md)
+
 <p><span class="chinese">请改日再来。</span><span class="english">Please come some other day.</span></p>
 
 <p><span class="chinese">咱们改日再议吧!</span><span class="english">Let's discuss it another day.</span></p>

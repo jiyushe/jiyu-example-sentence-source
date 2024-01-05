@@ -1,5 +1,7 @@
 # smf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smf.md)
+
 <p><span class="chinese">然后将已被诱导分化的细胞连续暴露于4000高斯的静磁场15天。</span><span class="english">Then the induced cells were continuously exposed to 4000G SMF for 15 days.</span></p>
 
 <p><span class="chinese">仿真展示了单模光纤和位移光纤在不同色散环境中的特性。</span><span class="english">The results of simulation are accurate to show the characters of SMF and DSF.</span></p>

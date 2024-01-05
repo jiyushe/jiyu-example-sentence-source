@@ -1,5 +1,7 @@
 # tolerance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tolerance.md)
+
 <p><span class="chinese">四是求同存异。</span><span class="english">The fourth is tolerance.</span></p>
 
 <p><span class="chinese">仅仅宽容是不够的。</span><span class="english">Tolerance is not enough.</span></p>

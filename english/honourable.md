@@ -1,5 +1,7 @@
 # honourable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honourable.md)
+
 <p><span class="chinese">尊敬的卫生部长西尔维亚•马塞博</span><span class="english">Honourable Sylvia Masebo Minister of Health</span></p>
 
 <p><span class="chinese">尊敬的北京市人民政府市长郭金龙先生。</span><span class="english">The honourable Mr. Guo Jinlong, Mayor of Beijing.</span></p>

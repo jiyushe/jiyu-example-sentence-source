@@ -1,5 +1,7 @@
 # 不虚此行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxucixing.md)
+
 <p><span class="chinese">这次真是不虚此行！</span><span class="english">This has really been a rewarding trip.</span></p>
 
 <p><span class="chinese">这让我们不虚此行。</span><span class="english">and it makes for a really nice day out.</span></p>

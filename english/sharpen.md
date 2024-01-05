@@ -1,5 +1,7 @@
 # sharpen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sharpen.md)
+
 <p><span class="chinese">你能把铅笔削尖吗？</span><span class="english">Can you sharpen the pencil?</span></p>
 
 <p><span class="chinese">辩论增长才智。</span><span class="english">Debates sharpen one's wits.</span></p>

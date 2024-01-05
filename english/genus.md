@@ -1,5 +1,7 @@
 # genus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genus.md)
+
 <p><span class="chinese">菊属的任何一种植物。</span><span class="english">Any plant of the genus Centaurea.</span></p>
 
 <p><span class="chinese">四川百合科蜘蛛抱蛋属新植物。</span><span class="english">New taxa of the genus Aspidistra.</span></p>

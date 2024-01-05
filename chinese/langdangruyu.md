@@ -1,5 +1,7 @@
 # 锒铛入狱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langdangruyu.md)
+
 <p><span class="chinese">终令波锒铛入狱。</span><span class="english">Finally make waves in jail.</span></p>
 
 <p><span class="chinese">他被警察逮捕，落了个锒铛入狱的下场。</span><span class="english">He was caught by the police and ended up behind bars.</span></p>

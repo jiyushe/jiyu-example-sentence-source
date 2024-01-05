@@ -1,5 +1,7 @@
 # 夺取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoqu.md)
+
 <p><span class="chinese">祝贺塞娜，夺取金牌吧。</span><span class="english">Congrats Saina. Go for Gold.</span></p>
 
 <p><span class="chinese">他们会使用武力夺取吗？</span><span class="english">Would they take it with force?</span></p>

@@ -1,5 +1,7 @@
 # 纳入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naru.md)
+
 <p><span class="chinese">我把面包纳入购物单内。</span><span class="english">I included bread on the shopping list.</span></p>
 
 <p><span class="chinese">各研究所纳入的病例数量为10～50例。</span><span class="english">Every research involved in 10-50 examples.</span></p>

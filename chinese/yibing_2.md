@@ -1,5 +1,7 @@
 # 癔病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibing_2.md)
+
 <p><span class="chinese">有的癔病样发作。</span><span class="english">Some of hysteria-like seizures.</span></p>
 
 <p><span class="chinese">作为一种癔病、一种政治宣传，媒体只是事件的一层外皮而已。</span><span class="english">Media as hysteria, media as propaganda, the skin of events only.</span></p>

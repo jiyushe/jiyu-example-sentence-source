@@ -1,5 +1,7 @@
 # pentose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentose.md)
+
 <p><span class="chinese">六碳糖与五碳糖的结构，以及糖链。</span><span class="english">Structures of hexose and pentose sugars and glycosidic bonds.</span></p>
 
 <p><span class="chinese">另一个重要的醛酸，葡萄糖酸是戊糖磷酸途径的中间产物。</span><span class="english">Another aldonic acid, gluconic acid, is an intermediate in the pentose phosphate pathway.</span></p>

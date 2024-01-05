@@ -1,5 +1,7 @@
 # 千户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianhu.md)
+
 <p><span class="chinese">各种各样的建筑计画总计达几千户新家。</span><span class="english">The various building programmes add up to several thousand new homes.</span></p>
 
 <p><span class="chinese">兵部黄册上，他在贵州普安卫平夷千户所。</span><span class="english">Soldier department Huang Ce up, he is thousands at the Pu Anne Wei of Guizhou even Yi.</span></p>

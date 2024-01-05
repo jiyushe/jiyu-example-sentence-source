@@ -1,5 +1,7 @@
 # 旁观者清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangguanzheqing.md)
+
 <p><span class="chinese">旁观者清，这一点还有什么可疑的吗？</span><span class="english">Is it doubtful that the onlooker sees most of the game ?</span></p>
 
 <p><span class="chinese">所以，爱情和希望经常蒙蔽我们的双眼，让我们看不清显而易见的事实，旁观者清，当局者迷。</span><span class="english">So often, love and hope blinds to what's obvious, when seen from a distance.</span></p>

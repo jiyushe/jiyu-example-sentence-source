@@ -1,5 +1,7 @@
 # 心性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxing_1.md)
+
 <p><span class="chinese">宁残体肤，不坠心性！</span><span class="english">Better crippled in body than corrupt in mind!</span></p>
 
 <p><span class="chinese">陈蔚的心性和作品安静而悠远。</span><span class="english">Chen Wei's mind and works are quiet and remote.</span></p>

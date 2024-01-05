@@ -1,5 +1,7 @@
 # 新任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinren_2.md)
+
 <p><span class="chinese">你就是新任管理员？</span><span class="english">You are the new groundskeeper?</span></p>
 
 <p><span class="chinese">新任的大队长接任了这项工作。</span><span class="english">The new monitor is taking over the job.</span></p>

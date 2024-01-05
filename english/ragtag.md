@@ -1,5 +1,7 @@
 # ragtag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ragtag.md)
+
 <p><span class="chinese">利比亚反叛军是一群乌合之众组成的军事力量。</span><span class="english">The rebels are a ragtag force.</span></p>
 
 <p><span class="chinese">显然，这支乌合之军买不起。</span><span class="english">It was a luxury the ragtag team obviously couldn't afford.</span></p>

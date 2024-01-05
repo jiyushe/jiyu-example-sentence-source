@@ -1,5 +1,7 @@
 # 下列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xialie.md)
+
 <p><span class="chinese">请看下列习惯用语。</span><span class="english">Look at the idioms below.</span></p>
 
 <p><span class="chinese">请按正确形式书写下列句子。</span><span class="english">IX. Write the sentences correctly.</span></p>

@@ -1,5 +1,7 @@
 # tink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tink.md)
+
 <p><span class="chinese">小叮当可以和我们一起去大陆地吗？</span><span class="english">Can't Tink come with us to the mainland?</span></p>
 
 <p><span class="chinese">叮叮铃说，影子是在那只大箱子里，她指的是那只带抽屉的柜子。</span><span class="english">Tink said that the shadow was in the big box.</span></p>

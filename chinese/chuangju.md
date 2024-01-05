@@ -1,5 +1,7 @@
 # 创举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuangju.md)
+
 <p><span class="chinese">让我们来听听亚历克斯·图是如何看待他这一创举的。</span><span class="english">Let's hear what Alex Tew says about his marvel5.</span></p>
 
 <p><span class="chinese">这在中国近现代史上仍为一大创举。</span><span class="english">It blazed new trails in the modern history of China.</span></p>

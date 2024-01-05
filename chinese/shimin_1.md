@@ -1,5 +1,7 @@
 # 市民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shimin_1.md)
+
 <p><span class="chinese">例8。向文明市民致敬！</span><span class="english">Salute eto Civilized Citizens!</span></p>
 
 <p><span class="chinese">市民甲我要听勃鲁托斯讲。</span><span class="english">Pleb. I will hear Brutus speak.</span></p>

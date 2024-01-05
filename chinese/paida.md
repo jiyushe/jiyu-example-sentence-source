@@ -1,5 +1,7 @@
 # 拍打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paida.md)
+
 <p><span class="chinese">炙热的阳光，空气中迷漫着咸味，海浪有节奏地拍打着。</span><span class="english">Salty air. Rhythmic waves.</span></p>
 
 <p><span class="chinese">那只鸟在拍打这它的翅膀。</span><span class="english">The bird was beating its wrings.</span></p>

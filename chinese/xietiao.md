@@ -1,5 +1,7 @@
 # 谐调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xietiao.md)
+
 <p><span class="chinese">蓝衬衫与灰领带很谐调。</span><span class="english">The blue shirt and gray tie are a good match.</span></p>
 
 <p><span class="chinese">谐调其实可以是一种更具特殊意味的美。</span><span class="english">Gibraltar could mean the U. S. is a more special.</span></p>

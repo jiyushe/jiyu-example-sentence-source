@@ -1,5 +1,7 @@
 # alkaloid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkaloid.md)
+
 <p><span class="chinese">育亨宾是一种带有毒性的生物碱。</span><span class="english">Yohimbine is a kind of poisonous alkaloid.</span></p>
 
 <p><span class="chinese">尼古丁是无色有毒生物碱。</span><span class="english">Nicotine is a colorless , poisonous alkaloid.</span></p>

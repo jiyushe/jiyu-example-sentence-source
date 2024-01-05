@@ -1,5 +1,7 @@
 # 评述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingshu.md)
+
 <p><span class="chinese">该评述包括九十年代中期以前的资料。</span><span class="english">This survey covers the data to mid-90.</span></p>
 
 <p><span class="chinese">她当即做了这些评述。</span><span class="english">She had made these remarks offhandedly.</span></p>

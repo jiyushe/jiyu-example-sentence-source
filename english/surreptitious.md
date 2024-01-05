@@ -1,5 +1,7 @@
 # surreptitious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surreptitious.md)
+
 <p><span class="chinese">他们有过几次秘密会谈。</span><span class="english">They had several surreptitious conversations.</span></p>
 
 <p><span class="chinese">而盘面，分明就是明修栈道，暗渡陈仓。</span><span class="english">The disk, clearly is repairing the surreptitious.</span></p>

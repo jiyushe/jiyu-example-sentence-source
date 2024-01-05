@@ -1,5 +1,7 @@
 # halting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halting.md)
+
 <p><span class="chinese">他的声音犹豫不决，吞吞吐吐。</span><span class="english">His voice is hesitant, halting.</span></p>
 
 <p><span class="chinese">年薪制“两次喊停”告诉我们什么?。</span><span class="english">What Does the Twice Halting of Age Salary Tell Us?</span></p>

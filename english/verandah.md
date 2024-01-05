@@ -1,5 +1,7 @@
 # verandah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verandah.md)
+
 <p><span class="chinese">和一些有少许私人露台。</span><span class="english">And some have a little private verandah.</span></p>
 
 <p><span class="chinese">夹带着狂风的大雨淹没了凉台的地面。</span><span class="english">The wind-driven rain has flooded the verandah floor.</span></p>

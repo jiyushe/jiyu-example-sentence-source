@@ -1,5 +1,7 @@
 # periodontium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periodontium.md)
+
 <p><span class="chinese">你们发现它对牙周组织有害吗？</span><span class="english">Have you found any adverse effects on the tissue of the periodontium ?</span></p>
 
 <p><span class="chinese">牙周与牙髓组织之间的关系是相当密切而且是相互影响。</span><span class="english">The close relationship between pulp and periodontium was well established.</span></p>

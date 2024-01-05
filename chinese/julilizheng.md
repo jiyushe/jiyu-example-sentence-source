@@ -1,5 +1,7 @@
 # 据理力争
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/julilizheng.md)
+
 <p><span class="chinese">你可以为你的权利据理力争。</span><span class="english">You can stand up for your right.</span></p>
 
 <p><span class="chinese">尽管如此，达林还是决意同那些相信危机已经过去的人据理力争。</span><span class="english">Darling, though, is determined to fight those who believe the crisis is over.</span></p>

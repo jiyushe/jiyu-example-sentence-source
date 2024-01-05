@@ -1,5 +1,7 @@
 # paramountcy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paramountcy.md)
+
 <p><span class="chinese">群众至上是马克思主义群众观的核心。</span><span class="english">The mass paramountcy is the core of the mass notion of Marxism.</span></p>
 
 <p><span class="chinese">民主的权威性和至上性有其确定的限制性条件和适用范围。</span><span class="english">The authority and paramountcy of democracy has certain limitations and conditions.</span></p>

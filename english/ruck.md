@@ -1,5 +1,7 @@
 # ruck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruck.md)
+
 <p><span class="chinese">杰克从乱成一团的运动员中把球踢出。</span><span class="english">Jack shot from out of a ruck of players.</span></p>
 
 <p><span class="chinese">他的才华使他从普通人群中脱颖而出。</span><span class="english">His brilliance raised him above the ruck.</span></p>

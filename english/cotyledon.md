@@ -1,5 +1,7 @@
 # cotyledon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cotyledon.md)
+
 <p><span class="chinese">棉花凝集素贮存在种子子叶和胚中。</span><span class="english">The lectin of cottons exist in their cotyledon and embryo.</span></p>
 
 <p><span class="chinese">下胚轴比子叶易诱导获得抗性愈伤组织。</span><span class="english">Hypocotyl was easier to obtain resistance callus than cotyledon.</span></p>

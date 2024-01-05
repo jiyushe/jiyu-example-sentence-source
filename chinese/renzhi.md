@@ -1,5 +1,7 @@
 # 人治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzhi.md)
+
 <p><span class="chinese">"坚持法治摈弃人治"的政府</span><span class="english">A GOVERNMENT “OF LAWS AND NOT OF MEN”</span></p>
 
 <p><span class="chinese">人治的宽容度最小，甚至不具有宽容性。</span><span class="english">Rule by man is the least tolerant, and even it is not tolerant at all.</span></p>

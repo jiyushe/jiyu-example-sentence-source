@@ -1,5 +1,7 @@
 # done
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/done.md)
+
 <p><span class="chinese">瞧，完成了。</span><span class="english">There, done.</span></p>
 
 <p><span class="chinese">非常棒。</span><span class="english">Very well done.</span></p>

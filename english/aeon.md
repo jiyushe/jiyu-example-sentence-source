@@ -1,5 +1,7 @@
 # aeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeon.md)
+
 <p><span class="chinese">关于发展方面，永旺拥有强大的管道。</span><span class="english">On the development front, Aeon has a robust pipeline.</span></p>
 
 <p><span class="chinese">如此，一个新的，低熵的宇宙便可能产生。</span><span class="english">At this point, a new aeon with a low entropy state will begin.</span></p>

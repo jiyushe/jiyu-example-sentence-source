@@ -1,5 +1,7 @@
 # 答理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dali_1.md)
+
 <p><span class="chinese">苔丝仍然没有答理他。</span><span class="english">Still no answer came from Tess.</span></p>
 
 <p><span class="chinese">他甚至不答理我。</span><span class="english">He didn't even return my greeting.</span></p>

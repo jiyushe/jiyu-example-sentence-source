@@ -1,5 +1,7 @@
 # sanitary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanitary.md)
+
 <p><span class="chinese">我想我们可以去买卫生巾。</span><span class="english">I think we can buy sanitary towel.</span></p>
 
 <p><span class="chinese">上海杜美厨浴制品有限公司。</span><span class="english">Shanghai Adoman Sanitary Ware Co. , Ltd.</span></p>

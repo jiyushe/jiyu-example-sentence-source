@@ -1,5 +1,7 @@
 # 咽气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanqi_1.md)
+
 <p><span class="chinese">我几乎没咽气。</span><span class="english">I hardly breathed.</span></p>
 
 <p><span class="chinese">那位著名的女影星咽气了。</span><span class="english">The famous actress breathed her last.</span></p>

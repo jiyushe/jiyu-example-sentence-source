@@ -1,5 +1,7 @@
 # attainments
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attainments.md)
+
 <p><span class="chinese">我们都羡慕他在语言方面的造诣。</span><span class="english">We all envy him his linguistic attainments.</span></p>
 
 <p><span class="chinese">他的成就远不如他的兄弟。</span><span class="english">His attainments are far below his brother's.</span></p>

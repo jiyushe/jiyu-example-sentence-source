@@ -1,5 +1,7 @@
 # 高科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoke.md)
+
 <p><span class="chinese">例如，现在那不勒斯也正在硬撬高科汉·因勒。</span><span class="english">For instance, right now Napoli are pushing hard for Gokhan Inler.</span></p>
 
 <p><span class="chinese">一些高科分析人士指出到明年Android平台会成为新的流行。</span><span class="english">By next year, they'll become the most popular, some tech analysts predict.</span></p>

@@ -1,5 +1,7 @@
 # misplace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misplace.md)
+
 <p><span class="chinese">她又问我常常把东西放错地方。</span><span class="english">Do I often misplace things?</span></p>
 
 <p><span class="chinese">我经常把她本该放起来的东西放错了地方。</span><span class="english">I often misplace something that she should have put away.</span></p>

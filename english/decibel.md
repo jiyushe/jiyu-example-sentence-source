@@ -1,5 +1,7 @@
 # decibel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decibel.md)
+
 <p><span class="chinese">在声学中我们采用分贝标度。</span><span class="english">In sound we use the decibel scale.</span></p>
 
 <p><span class="chinese">分贝是用来测定声音大小的单位。</span><span class="english">The decibel is the unit used to measure the loudness of sound.</span></p>

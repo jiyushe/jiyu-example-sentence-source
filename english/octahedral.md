@@ -1,5 +1,7 @@
 # octahedral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octahedral.md)
+
 <p><span class="chinese">具有完整的立方八面体晶形，高强度和热稳定性。</span><span class="english">Complete cubic octahedral crystal crystal shape, high strength and thermal stability.</span></p>
 
 <p><span class="chinese">八面体组合开始分离，蜂群一样飞出上层大气。</span><span class="english">The octahedral formations drifted apart and the drones spread out in the upper atmosphere.</span></p>

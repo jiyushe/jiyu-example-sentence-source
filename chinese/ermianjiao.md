@@ -1,5 +1,7 @@
 # 二面角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ermianjiao.md)
+
 <p><span class="chinese">当发光基团松弛，C15次甲基桥的两个二面角的扭曲是相反的。</span><span class="english">As the chromophore relaxes, the twist of the C15 methine bridge about its two dihedral angles is reversed.</span></p>
 
 <p><span class="chinese">结合计算行波和二面角散射的经验公式，计算了导弹整体的RCS。</span><span class="english">Combined with the equation of traveling wave and dihedral reflector, the RCS of total missile was calculated.</span></p>

@@ -1,5 +1,7 @@
 # consequent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consequent.md)
+
 <p><span class="chinese">这是肯定结果的谬论。</span><span class="english">This is the fallacy of affirming the consequent.</span></p>
 
 <p><span class="chinese">因此价值观是分开使用的符号。</span><span class="english">Consequent values are separated using ampersands.</span></p>

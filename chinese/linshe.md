@@ -1,5 +1,7 @@
 # 邻舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linshe.md)
+
 <p><span class="chinese">不可欺压你的邻舍，也不可抢夺他的物。</span><span class="english">Do not defraud your neighbor or rob him.</span></p>
 
 <p><span class="chinese">挪移邻舍地界的，必受咒诅。</span><span class="english">Cursed is the man who moves his neighbor's boundary stone.</span></p>

@@ -1,5 +1,7 @@
 # 账号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanghao.md)
+
 <p><span class="chinese">建立一个网上托收账号。</span><span class="english">Create a Clickbank account.</span></p>
 
 <p><span class="chinese">激活jolicloud账号</span><span class="english">Activate your Jolicloud account</span></p>

@@ -1,5 +1,7 @@
 # 篡夺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuanduo.md)
+
 <p><span class="chinese">他篡夺了王位。</span><span class="english">He accroached the throne to himself.</span></p>
 
 <p><span class="chinese">亨利四世篡夺了英国的王位。</span><span class="english">Henry IV usurped the throne of England.</span></p>

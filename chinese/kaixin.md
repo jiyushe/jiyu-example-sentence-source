@@ -1,5 +1,7 @@
 # 开心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaixin.md)
+
 <p><span class="chinese">但是开心点。</span><span class="english">But be happy.</span></p>
 
 <p><span class="chinese">我好开心。</span><span class="english">I am so happy.</span></p>

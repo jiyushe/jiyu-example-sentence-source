@@ -1,5 +1,7 @@
 # 投机取巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toujiquqiao.md)
+
 <p><span class="chinese">因此他们投机取巧不断放出不良贷款</span><span class="english">So, they had an unfortunate incentive to make bad loans.</span></p>
 
 <p><span class="chinese">投机取巧的团队依靠单一的强力战术制胜。</span><span class="english">A gimmicky or imbalanced team relies on one powerful tactic to win.</span></p>

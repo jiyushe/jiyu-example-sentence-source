@@ -1,5 +1,7 @@
 # maser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maser.md)
+
 <p><span class="chinese">学习英语是一回事，掌握它又是另外一回事。</span><span class="english">To study English is one thing, to maser it is another.</span></p>
 
 <p><span class="chinese">文中也简要介绍了恒星微波激射的动力学状态及抽运模型。</span><span class="english">The dynamics and pumping model of maser sources are introduced briefly.</span></p>

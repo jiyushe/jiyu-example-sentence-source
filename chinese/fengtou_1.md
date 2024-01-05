@@ -1,5 +1,7 @@
 # 风头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengtou_1.md)
+
 <p><span class="chinese">他的统治风头正盛。</span><span class="english">His rule had begun better.</span></p>
 
 <p><span class="chinese">雷欧在舞台上总是抢风头。</span><span class="english">Leo is a real ham on stage.</span></p>

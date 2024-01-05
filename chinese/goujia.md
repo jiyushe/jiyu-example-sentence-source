@@ -1,5 +1,7 @@
 # 构架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goujia.md)
+
 <p><span class="chinese">多数汽车都采用钢构架。</span><span class="english">Most cars have a steel frame.</span></p>
 
 <p><span class="chinese">这也是一种铁三角构架。</span><span class="english">It is a type of iron triangle.</span></p>

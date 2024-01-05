@@ -1,5 +1,7 @@
 # notability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notability.md)
+
 <p><span class="chinese">但“空位”因它的显性程度不同而出现层次不同。</span><span class="english">But the vacancy may have different levels as its notability is quite different.</span></p>
 
 <p><span class="chinese">努森之所以知名的另一原因是他的父亲曾经一度担任过通用汽车公司的总裁。</span><span class="english">One reason for Knudsen's notability was that his father had once been president of GM.</span></p>

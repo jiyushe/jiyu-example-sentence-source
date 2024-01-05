@@ -1,5 +1,7 @@
 # 天道酬勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiandaochouqin.md)
+
 <p><span class="chinese">“天道酬勤”是我的人生信念。</span><span class="english">"God" is my faith in life.</span></p>
 
 <p><span class="chinese">我相信“天道酬勤”。</span><span class="english">I believe that the God rewards the diligent.</span></p>

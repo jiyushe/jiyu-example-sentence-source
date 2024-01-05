@@ -1,5 +1,7 @@
 # limites
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limites.md)
+
 <p><span class="chinese">我我一定要挑战我的极限并且超越它们！</span><span class="english">I must challenge my limites and then surpass them!</span></p>
 
 <p><span class="chinese">供应链风险严重制约供应链的和谐发展。</span><span class="english">It limites the development of supply chian seriously.</span></p>

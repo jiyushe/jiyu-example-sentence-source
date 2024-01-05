@@ -1,5 +1,7 @@
 # 耍手段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuashouduan.md)
+
 <p><span class="chinese">这家伙耍手段了。</span><span class="english">This guy's playing hardball.</span></p>
 
 <p><span class="chinese">王子知道怎样耍手段。</span><span class="english">The Prince knew how to play his hand.</span></p>

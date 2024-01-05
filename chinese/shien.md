@@ -1,5 +1,7 @@
 # 施恩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shien.md)
+
 <p><span class="chinese">上主对人只会慈悲施恩。</span><span class="english">God offers only mercy.</span></p>
 
 <p><span class="chinese">我的神阿，求你记念我，施恩与我。</span><span class="english">Remember me, O my God, for good.</span></p>

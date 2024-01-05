@@ -1,5 +1,7 @@
 # 蹩脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biejiao.md)
+
 <p><span class="chinese">真蹩脚，我把它记正在家里了。</span><span class="english">What a pity I left it at home.</span></p>
 
 <p><span class="chinese">都怪他们那蹩脚的动画。</span><span class="english">It's that crappy Flash of theirs.</span></p>

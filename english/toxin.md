@@ -1,5 +1,7 @@
 # toxin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toxin.md)
+
 <p><span class="chinese">该种毒物能使海洋生物病变。</span><span class="english">The toxin can make sea life sick.</span></p>
 
 <p><span class="chinese">维生素C组可部分阻断毒素的作用。</span><span class="english">Vit C can partly block effect of toxin.</span></p>

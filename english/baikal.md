@@ -1,5 +1,7 @@
 # baikal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baikal.md)
+
 <p><span class="chinese">静待春天的贝加尔湖。</span><span class="english">Baikal waiting for spring.</span></p>
 
 <p><span class="chinese">圣点在俄罗斯的贝加尔湖。</span><span class="english">Svyatoy Point in Russia's Lake Baikal.</span></p>

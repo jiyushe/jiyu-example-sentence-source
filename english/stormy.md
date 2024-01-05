@@ -1,5 +1,7 @@
 # stormy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stormy.md)
+
 <p><span class="chinese">明天将有暴风雨。</span><span class="english">It will be stormy tomorrow.</span></p>
 
 <p><span class="chinese">有雾，有风，大风，又冷。</span><span class="english">Foggy, wind, stormy and cold.</span></p>

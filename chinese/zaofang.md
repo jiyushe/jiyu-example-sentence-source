@@ -1,5 +1,7 @@
 # 造访
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaofang.md)
+
 <p><span class="chinese">我们乘便造访一下约翰吗？</span><span class="english">Shall we drop in on John?</span></p>
 
 <p><span class="chinese">爱神曾造访过一位希腊少女。</span><span class="english">Love visited a Grecian maid.</span></p>

@@ -1,5 +1,7 @@
 # 唯心主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixinzhuyi.md)
+
 <p><span class="chinese">康德和黑格尔发展了唯心主义。</span><span class="english">Kant and Hegel have developed idealism.</span></p>
 
 <p><span class="chinese">一个唯心主义的游戏，只有你看到的才是存在的。</span><span class="english">A idealism game, only you see it is it exist.</span></p>

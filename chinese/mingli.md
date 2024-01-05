@@ -1,5 +1,7 @@
 # 名利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingli.md)
+
 <p><span class="chinese">名利的代价何其大。</span><span class="english">What price fame and fortune?</span></p>
 
 <p><span class="chinese">我不追求名利。</span><span class="english">I don't go after fame or money.</span></p>

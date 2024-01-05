@@ -1,5 +1,7 @@
 # 纵横驰骋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonghengchicheng.md)
+
 <p><span class="chinese">物流“和”网络并驾齐驱，在种种媒介上纵横驰骋。</span><span class="english">Logistics" and "network in unison across the various media.</span></p>
 
 <p><span class="chinese">本想让我们的想象力纵横驰骋一番，到头来却是又一场强塞给我们的自动武器交火所涂抹的高潮。</span><span class="english">We want a leap of the imagination, not one of those obligatory climaxes with automatic weapons fire.</span></p>

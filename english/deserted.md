@@ -1,5 +1,7 @@
 # deserted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deserted.md)
+
 <p><span class="chinese">街上空空荡荡的。</span><span class="english">It was almost deserted.</span></p>
 
 <p><span class="chinese">她是一个弃妇。</span><span class="english">She was a deserted wife.</span></p>

@@ -1,5 +1,7 @@
 # consubstantial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consubstantial.md)
+
 <p><span class="chinese">我那同体的父亲的声音。</span><span class="english">My consubstantial father's voice.</span></p>
 
 <p><span class="chinese">圣子与圣父同体。圣子与圣父同体。</span><span class="english">The Son is consubstantial with the Father.</span></p>

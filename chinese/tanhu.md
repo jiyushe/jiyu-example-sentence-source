@@ -1,5 +1,7 @@
 # 袒护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanhu.md)
+
 <p><span class="chinese">你的过分袒护，反而害了你的儿子。</span><span class="english">Your son suffers from your excessive shielding.</span></p>
 
 <p><span class="chinese">“我不会袒护我的儿子的，”李刚说道。</span><span class="english">"I will not shield my child," the elder Li said.</span></p>

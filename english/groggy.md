@@ -1,5 +1,7 @@
 # groggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groggy.md)
+
 <p><span class="chinese">“头晕眼花”这个词念起来很好玩。</span><span class="english">"Groggy" is a fun word to say.</span></p>
 
 <p><span class="chinese">而反之，我就会感觉有点头晕眼花。</span><span class="english">If I don’t quite hit REM, I may feel a bit groggy.</span></p>

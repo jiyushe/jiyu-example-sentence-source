@@ -1,5 +1,7 @@
 # intercross
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercross.md)
+
 <p><span class="chinese">穿越。时间和记忆的相互穿越。</span><span class="english">Intercrossing. Time and memory intercross each other.</span></p>
 
 <p><span class="chinese">纬度与经度交叉，我们可能一再错失某个点。</span><span class="english">The intercross of latitudes and longitudes, we may slip some points again.</span></p>

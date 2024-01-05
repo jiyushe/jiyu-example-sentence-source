@@ -1,5 +1,7 @@
 # exhaustion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhaustion.md)
+
 <p><span class="chinese">也许是因为我疲惫的程度。</span><span class="english">Maybe it was my level of exhaustion.</span></p>
 
 <p><span class="chinese">或是太多飞行的倦容？</span><span class="english">Or exhaustion from too many flights?</span></p>

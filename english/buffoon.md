@@ -1,5 +1,7 @@
 # buffoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buffoon.md)
+
 <p><span class="chinese">一个小丑比一个无教养的人更可耻。</span><span class="english">A buffoon is more humiliating than a bounder.</span></p>
 
 <p><span class="chinese">他是个小丑，家里的卫生间都镀着金？</span><span class="english">That he is a buffoon with bathroom fixtures of gold?</span></p>

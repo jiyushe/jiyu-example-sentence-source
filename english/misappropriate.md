@@ -1,5 +1,7 @@
 # misappropriate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misappropriate.md)
+
 <p><span class="chinese">受托人为了个人利益挪用金钱是不合法的。</span><span class="english">It is illegal for a fiduciary to misappropriate money for personal gain.</span></p>
 
 <p><span class="chinese">你真是狗胆包天，公家的钱也敢挪用？</span><span class="english">You are monstrously audacious, how dare you misappropriate public funds?</span></p>

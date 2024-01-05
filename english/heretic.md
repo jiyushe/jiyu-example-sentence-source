@@ -1,5 +1,7 @@
 # heretic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heretic.md)
+
 <p><span class="chinese">你知道瓜尔迪是异端分子吗？</span><span class="english">Do you realise Guardi is a heretic?</span></p>
 
 <p><span class="chinese">裹尸布的耶稣遗像伪造者必定是个异教徒。</span><span class="english">The faker of the shroud had to be a heretic.</span></p>

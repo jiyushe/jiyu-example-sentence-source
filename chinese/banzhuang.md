@@ -1,5 +1,7 @@
 # 扮装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banzhuang.md)
+
 <p><span class="chinese">五零一集中与星球大战的反派扮装。</span><span class="english">The 501st focuses on Star Wars villain costuming.</span></p>
 
 <p><span class="chinese">她是在洗手间扮装，照旧在表面吸烟?。</span><span class="english">Is she in the bathroom, is she smoking up outside?</span></p>

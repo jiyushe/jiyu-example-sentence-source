@@ -1,5 +1,7 @@
 # fissile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fissile.md)
+
 <p><span class="chinese">你能否澄清，中国是否还在生产核武器用裂变材料？</span><span class="english">Can you clarify whether China is producing fissile material for weapons purposes?</span></p>
 
 <p><span class="chinese">中国裂变材料的储备，比起美国的来小很多。</span><span class="english">China's stockpile of fissile material is a miniscule fraction of that of the United States.</span></p>

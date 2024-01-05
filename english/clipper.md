@@ -1,5 +1,7 @@
 # clipper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clipper.md)
+
 <p><span class="chinese">要不要我用理发推子理后面的头发？</span><span class="english">Shall I use the clipper on the back?</span></p>
 
 <p><span class="chinese">克利皮尔火车首先到达纽约。</span><span class="english">The Clipper arrives in New York first.</span></p>

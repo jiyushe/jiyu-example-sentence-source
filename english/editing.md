@@ -1,5 +1,7 @@
 # editing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/editing.md)
+
 <p><span class="chinese">预读编辑功能。</span><span class="english">Preread editing capability.</span></p>
 
 <p><span class="chinese">允许用户开始编辑。</span><span class="english">Allow the user to start editing.</span></p>

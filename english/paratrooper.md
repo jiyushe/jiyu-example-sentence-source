@@ -1,5 +1,7 @@
 # paratrooper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paratrooper.md)
+
 <p><span class="chinese">肠子在他的伞兵衣上摇晃。</span><span class="english">Intestines were a-dangling from his paratrooper suit.</span></p>
 
 <p><span class="chinese">新来的伞兵几乎是被踢出机舱的。</span><span class="english">The new paratrooper was almost kicked out of the cabin.</span></p>

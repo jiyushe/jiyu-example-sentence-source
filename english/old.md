@@ -1,5 +1,7 @@
 # old
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/old.md)
+
 <p><span class="chinese">新厌旧的家伙！</span><span class="english">New old guy!</span></p>
 
 <p><span class="chinese">老和新。</span><span class="english">Old and new.</span></p>

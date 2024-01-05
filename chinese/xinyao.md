@@ -1,5 +1,7 @@
 # 新药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyao.md)
+
 <p><span class="chinese">从那天起，艾博特先生有着热情发明一种新药。</span><span class="english">From that day on ,Mr.</span></p>
 
 <p><span class="chinese">是关于那种新药的。</span><span class="english">Its about the new medicine.</span></p>

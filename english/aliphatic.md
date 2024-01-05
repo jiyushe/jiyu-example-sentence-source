@@ -1,5 +1,7 @@
 # aliphatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aliphatic.md)
+
 <p><span class="chinese">可耐磨损、碰撞，耐海水和脂肪烃类物质。</span><span class="english">Resistant to wear, impact, salt water and aliphatic hydrocarbons.</span></p>
 
 <p><span class="chinese">本发明公开了一种梳状脂肪族磺酸型树脂。</span><span class="english">The present invention discloses a comb-like aliphatic resin acid.</span></p>

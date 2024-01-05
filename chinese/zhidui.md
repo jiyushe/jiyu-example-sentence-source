@@ -1,5 +1,7 @@
 # 支队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhidui.md)
+
 <p><span class="chinese">伍德说，"我们是格林芬顿几年来最棒的一支队。</span><span class="english">This is the best team Gryffindor's had in years.</span></p>
 
 <p><span class="chinese">到2005年的时候，有四支队在10小时的比赛时间内完成了比赛。</span><span class="english">By 2005 four teams finished in under the 10 hour time limit.</span></p>

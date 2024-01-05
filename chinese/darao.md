@@ -1,5 +1,7 @@
 # 打扰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/darao.md)
+
 <p><span class="chinese">我打扰你了吗？</span><span class="english">Do I disturb you?</span></p>
 
 <p><span class="chinese">我有没有打扰到你？</span><span class="english">Am I interrupting you?</span></p>

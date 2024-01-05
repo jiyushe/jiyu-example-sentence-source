@@ -1,5 +1,7 @@
 # 谷地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudi.md)
+
 <p><span class="chinese">愿葬吾心于伤膝谷地！</span><span class="english">Bury my Heart at wounded knee!</span></p>
 
 <p><span class="chinese">在山丘和谷地上飘荡。</span><span class="english">That floats on high oer vales hills.</span></p>

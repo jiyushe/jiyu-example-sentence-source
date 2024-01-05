@@ -1,5 +1,7 @@
 # 泼水节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poshuijie.md)
+
 <p><span class="chinese">谈论世界风情，体验狂欢节、泼水节等。</span><span class="english">I can talk about the world.</span></p>
 
 <p><span class="chinese">因循下来，从此有啦泼水节。</span><span class="english">Survial from the water-sprinkling festival, there.</span></p>

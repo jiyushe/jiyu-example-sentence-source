@@ -1,5 +1,7 @@
 # 水井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijing.md)
+
 <p><span class="chinese">农场水井出水口。</span><span class="english">Outlet of farm well.</span></p>
 
 <p><span class="chinese">这是我们傣族的水井。</span><span class="english">It's a Dai water-well.</span></p>

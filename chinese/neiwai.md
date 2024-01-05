@@ -1,5 +1,7 @@
 # 内外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiwai.md)
+
 <p><span class="chinese">一则他曾是中国外交部发言人，是外交部出镜率最高的几个人之一，不仅部内外知名度高，在中国青年人中还有众多“粉丝”。</span><span class="english">I hear that he has lots of fans in China.</span></p>
 
 <p><span class="chinese">籍着观察它们于你身心内外的影响。</span><span class="english">By watching their influence in you and on you.</span></p>

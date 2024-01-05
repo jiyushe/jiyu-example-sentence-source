@@ -1,5 +1,7 @@
 # walkout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walkout.md)
+
 <p><span class="chinese">肖先生由于领导游行很快被本田公司开除了。</span><span class="english">Mr.Xiao was fired by Honda soon after leading the walkout.</span></p>
 
 <p><span class="chinese">工厂的工人为了争取合理的工作环境而发动了罢工。</span><span class="english">Factory workers staged a walkout to protest for proper working conditions.</span></p>

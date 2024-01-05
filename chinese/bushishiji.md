@@ -1,5 +1,7 @@
 # 不失时机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushishiji.md)
+
 <p><span class="chinese">参议员奥尔德里奇不失时机的在1908年1月启动了国家货币委员会。</span><span class="english">Senator Aldrich lost no time in launching the NMC, in June 1908.</span></p>
 
 <p><span class="chinese">如果不能打时，就应不失时机，迅速地转移到另一方向去。</span><span class="english">And don't stress out about shifting back the time you go to sleep.</span></p>

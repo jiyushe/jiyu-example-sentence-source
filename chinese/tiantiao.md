@@ -1,5 +1,7 @@
 # 天条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiantiao.md)
+
 <p><span class="chinese">哇啊哇。他的因果报应以及天条啊。狠狠地！</span><span class="english">Wow. His karma ran over his dogma. Big time!</span></p>
 
 <p><span class="chinese">我也很迷惑，难道不懂英文也犯天条了！</span><span class="english">Yes or No! Who knows! Only God know, may be.</span></p>

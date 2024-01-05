@@ -1,5 +1,7 @@
 # 江河日下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangherixia.md)
+
 <p><span class="chinese">奢华旅游业江河日下。</span><span class="english">Luxury travel is going downstream.</span></p>
 
 <p><span class="chinese">新经理希望能够扭转公司江河日下的状况。</span><span class="english">The new manager hoped to reverse the decline in the company's fortunes.</span></p>

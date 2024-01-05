@@ -1,5 +1,7 @@
 # adolf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adolf.md)
+
 <p><span class="chinese">出售阿道夫·希特勒的酒杯</span><span class="english">Adolf Hitler's goblets go on sale</span></p>
 
 <p><span class="chinese">阿道夫希特勒在西线的重大赌博不行失败了。</span><span class="english">Adolf Hitler's massive gamble in the West had failed miserably.</span></p>

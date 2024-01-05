@@ -1,5 +1,7 @@
 # 武装部队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhuangbudui.md)
+
 <p><span class="chinese">国王统率武装部队。</span><span class="english">The King commands the armed forces.</span></p>
 
 <p><span class="chinese">总统统率武装部队。</span><span class="english">The President commands the armed forces.</span></p>

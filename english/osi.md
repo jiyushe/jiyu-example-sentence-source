@@ -1,5 +1,7 @@
 # osi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osi.md)
+
 <p><span class="chinese">网管功能包括OSI管理功能和非OSI管理功能。</span><span class="english">NM 's functions include OSI function and Non-OSI function.</span></p>
 
 <p><span class="chinese">OSI维护了一个庞大的列表，列出了公认的开源许可证种类。</span><span class="english">OSI maintains a large list of accepted open source licenses.</span></p>

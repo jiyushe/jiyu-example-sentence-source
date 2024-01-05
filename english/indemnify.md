@@ -1,5 +1,7 @@
 # indemnify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indemnify.md)
+
 <p><span class="chinese">他答应赔偿我的损失。</span><span class="english">He promised to indemnify me for my losses.</span></p>
 
 <p><span class="chinese">保险公司会赔偿您所受的损失。</span><span class="english">The insurance company will indemnify you for the loss incurred.</span></p>

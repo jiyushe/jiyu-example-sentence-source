@@ -1,5 +1,7 @@
 # pericardial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pericardial.md)
+
 <p><span class="chinese">中等量心包积液。</span><span class="english">Moderate amount of pericardial effusion is noted.</span></p>
 
 <p><span class="chinese">心包积液指心包积存了心包液。</span><span class="english">Pericardial effusion is a collection of fluid in the pericardium.</span></p>

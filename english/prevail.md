@@ -1,5 +1,7 @@
 # prevail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prevail.md)
+
 <p><span class="chinese">只有一个能占上风。</span><span class="english">Only one can prevail.</span></p>
 
 <p><span class="chinese">善良将战胜邪恶。</span><span class="english">Good will prevail over evil.</span></p>

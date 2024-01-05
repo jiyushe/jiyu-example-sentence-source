@@ -1,5 +1,7 @@
 # furthest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furthest.md)
+
 <p><span class="chinese">青蛙艾下潜得最远到了底部。</span><span class="english">AI sank furthest to the bottom.</span></p>
 
 <p><span class="chinese">这是英格兰最靠西的地方。</span><span class="english">It is the furthest point west in England.</span></p>

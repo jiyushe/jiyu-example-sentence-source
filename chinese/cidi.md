@@ -1,5 +1,7 @@
 # 此地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cidi.md)
+
 <p><span class="chinese">让我在此地睡唾。</span><span class="english">Let me sleep here.</span></p>
 
 <p><span class="chinese">在此地，在高尔基公园里。</span><span class="english">Here in Gorkiy Park.</span></p>

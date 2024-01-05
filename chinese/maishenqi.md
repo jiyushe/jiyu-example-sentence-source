@@ -1,5 +1,7 @@
 # 卖身契
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maishenqi.md)
+
 <p><span class="chinese">我可不想结婚—结婚就象是签了卖身契。</span><span class="english">I don't want to marry. married seem to sign the contract of selling myself.</span></p>
 
 <p><span class="chinese">由于欠地主家的钱，她不得已签了卖身契。</span><span class="english">She had to sign an indenture to sell herself, because she owed money to the landlord.</span></p>

@@ -1,5 +1,7 @@
 # 述职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzhi_4.md)
+
 <p><span class="chinese">兄弟，你连述职报告都不知道怎么写？</span><span class="english">Man, you don't know how to write a project report?</span></p>
 
 <p><span class="chinese">劳拉·米德尔顿述职于加拿大的新宁保健科学中心，她领导开展了此次研究。</span><span class="english">Laura Middleton of the Sunnybrook Health Sciences Center in Canada led the study.</span></p>

@@ -1,5 +1,7 @@
 # 下属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiashu.md)
+
 <p><span class="chinese">他对下属大吼大叫。</span><span class="english">He screams at subordinates.</span></p>
 
 <p><span class="chinese">管理175名下属销售人员。</span><span class="english">Managed regional sales staff of 175.</span></p>

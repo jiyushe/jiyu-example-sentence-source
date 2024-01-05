@@ -1,5 +1,7 @@
 # wiggly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wiggly.md)
+
 <p><span class="chinese">我看见一只蠕动的虫子。</span><span class="english">I see a wiggly worm.</span></p>
 
 <p><span class="chinese">你不时的会感到自由，精神饱满。</span><span class="english">You'll feel wiggly free and fresh!</span></p>

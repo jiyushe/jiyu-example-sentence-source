@@ -1,5 +1,7 @@
 # furtherance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furtherance.md)
+
 <p><span class="chinese">我们应更加努力以促进大众的福利。</span><span class="english">We should exert more efforts in furtherance of public welfare.</span></p>
 
 <p><span class="chinese">所以有必要对政府采购制度的深化进行思考。</span><span class="english">It is necessary to think about the furtherance of government purchase system.</span></p>

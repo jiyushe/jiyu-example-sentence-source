@@ -1,5 +1,7 @@
 # titanium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titanium.md)
+
 <p><span class="chinese">钛矿砂及其精矿。</span><span class="english">Titanium ores and concentrates.</span></p>
 
 <p><span class="chinese">我能制出多少的钛呢？</span><span class="english">So, how much titanium can I make?</span></p>

@@ -1,5 +1,7 @@
 # hereditary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hereditary.md)
+
 <p><span class="chinese">这种病遗传吗?</span><span class="english">Is this disease hereditary?</span></p>
 
 <p><span class="chinese">对于遗传性的少发、无发也有很好的效果。</span><span class="english">It is effective in hereditary hair loss.</span></p>

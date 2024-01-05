@@ -1,5 +1,7 @@
 # verbose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verbose.md)
+
 <p><span class="chinese">言词冗赘的演讲者、讲话、文体。</span><span class="english">A verbose speaker, speech, style.</span></p>
 
 <p><span class="chinese">她真是个唠叨、啰唆的伙伴。</span><span class="english">She is really a verbose companion.</span></p>

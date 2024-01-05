@@ -1,5 +1,7 @@
 # extremum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extremum.md)
+
 <p><span class="chinese">本文研究带集合约束的向量极值问题。</span><span class="english">The paper deals with the vector extremum problems with set constraint.</span></p>
 
 <p><span class="chinese">本文给出调和函数极值原理的一种推广。</span><span class="english">The note gives an extension of extremum principle for harmonic functions.</span></p>

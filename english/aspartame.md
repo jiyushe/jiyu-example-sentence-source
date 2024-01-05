@@ -1,5 +1,7 @@
 # aspartame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspartame.md)
+
 <p><span class="chinese">它也是天门冬氨醯苯丙氨酸甲酯的两种成分之一。</span><span class="english">It is one of the two components of aspartame.</span></p>
 
 <p><span class="chinese">阿斯巴甜于25年前被首次推向市场。</span><span class="english">Aspartame first came on the market 25 years ago.</span></p>

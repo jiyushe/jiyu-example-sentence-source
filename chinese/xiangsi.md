@@ -1,5 +1,7 @@
 # 乡思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangsi.md)
+
 <p><span class="chinese">还是为了对于天的乡思？</span><span class="english">Or a relief of your homesickness of heaven?</span></p>
 
 <p><span class="chinese">露丝悲伤的心灵，当乡思难耐</span><span class="english">Through the sad heart of Ruth, when, sick for home</span></p>

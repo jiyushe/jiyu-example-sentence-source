@@ -1,5 +1,7 @@
 # valence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valence.md)
+
 <p><span class="chinese">我们有七个价电子。</span><span class="english">So we have seven valence electrons.</span></p>
 
 <p><span class="chinese">钾在化合物中的原子价是1。</span><span class="english">Potassium in compounds has valence 1.</span></p>

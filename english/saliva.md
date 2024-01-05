@@ -1,5 +1,7 @@
 # saliva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saliva.md)
+
 <p><span class="chinese">口水直流一大摊。</span><span class="english">DC saliva a share.</span></p>
 
 <p><span class="chinese">他研究的是唾液的分泌。</span><span class="english">He was interested in saliva.</span></p>

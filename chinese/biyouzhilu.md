@@ -1,5 +1,7 @@
 # 必由之路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyouzhilu.md)
+
 <p><span class="chinese">历经严酷的训练是完善自我的必由之路。</span><span class="english">After rigorous training is the only way to self-perfection.</span></p>
 
 <p><span class="chinese">因此，提高ITO粉体品质是必由之路。</span><span class="english">Therefore, improving ITO powder quality is an evitable road.</span></p>

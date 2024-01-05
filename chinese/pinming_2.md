@@ -1,5 +1,7 @@
 # 拼命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinming_2.md)
+
 <p><span class="chinese">他们工作非常拼命。</span><span class="english">They work like dogs.</span></p>
 
 <p><span class="chinese">划手们拼命划桨。</span><span class="english">The rowers pulled hard.</span></p>

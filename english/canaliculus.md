@@ -1,5 +1,7 @@
 # canaliculus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canaliculus.md)
+
 <p><span class="chinese">泪小管断裂是眼部附属器外伤最常见的一种。</span><span class="english">The laceration of the canaliculus is a common trauma of the eye apparatus.</span></p>
 
 <p><span class="chinese">目的探讨外伤性泪小管断裂的手术治疗方法。</span><span class="english">Objective To explore surgical method in repair of laceration of canaliculus.</span></p>

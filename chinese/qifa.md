@@ -1,5 +1,7 @@
 # 启发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qifa.md)
+
 <p><span class="chinese">这个孩子需要启发。</span><span class="english">This child needs enlightenment.</span></p>
 
 <p><span class="chinese">我希望国人们能够得到启发。</span><span class="english">I hope people able to be inspired.</span></p>

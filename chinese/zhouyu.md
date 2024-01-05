@@ -1,5 +1,7 @@
 # 咒语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouyu.md)
+
 <p><span class="chinese">创造一个咒语。</span><span class="english">Create a mantra.</span></p>
 
 <p><span class="chinese">但是我的咒语说，不行，时机未到。</span><span class="english">But not yet, my mantra says.</span></p>

@@ -1,5 +1,7 @@
 # voraciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voraciously.md)
+
 <p><span class="chinese">莎士比亚阅读量应当是惊人的。</span><span class="english">It is also likely that Shakespeare read voraciously.</span></p>
 
 <p><span class="chinese">希望有朝一日能成为一名作家。</span><span class="english">She read voraciously and hoped one day to become a writer.</span></p>

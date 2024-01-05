@@ -1,5 +1,7 @@
 # lensed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lensed.md)
+
 <p><span class="chinese">披露了一种适用于改变光信号的模式场的透镜装置。</span><span class="english">A lensed apparatus for altering the mode field of an optical signal is disclosed.</span></p>
 
 <p><span class="chinese">通过这项技术，可以有效提高光纤输出光束的光亮度。</span><span class="english">The use of the lensed fiber can improve the fiber output beam brightness greatly.</span></p>

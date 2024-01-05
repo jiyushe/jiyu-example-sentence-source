@@ -1,5 +1,7 @@
 # taillight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taillight.md)
+
 <p><span class="chinese">我不知道我有个尾灯是坏的。</span><span class="english">I didn't know about a broken taillight.</span></p>
 
 <p><span class="chinese">无论是头灯和尾灯集成。</span><span class="english">Both the headlamp and the taillight are integrated.</span></p>

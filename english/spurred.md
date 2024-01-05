@@ -1,5 +1,7 @@
 # spurred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spurred.md)
+
 <p><span class="chinese">他驱马向前。</span><span class="english">He spurred his horse forward.</span></p>
 
 <p><span class="chinese">他驱马穿过了泥沼。</span><span class="english">He spurred on through the mud.</span></p>

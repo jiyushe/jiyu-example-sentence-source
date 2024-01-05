@@ -1,5 +1,7 @@
 # practical 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practical.md)
+
 <p><span class="chinese">我只是照实说而已。</span><span class="english">Just being practical.</span></p>
 
 <p><span class="chinese">成为实践理想主义者？</span><span class="english">Be practical idealists?</span></p>

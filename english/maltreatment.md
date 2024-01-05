@@ -1,5 +1,7 @@
 # maltreatment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maltreatment.md)
+
 <p><span class="chinese">这何谈是虐待儿童？</span><span class="english">Is this the maltreatment of children?</span></p>
 
 <p><span class="chinese">虐待儿童是一个复杂和困难的研究课题。</span><span class="english">Child maltreatment is complex and difficult to study.</span></p>

@@ -1,5 +1,7 @@
 # ergometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ergometer.md)
+
 <p><span class="chinese">有氧运动是以固定式脚踏车测力计进行40分钟。</span><span class="english">Aerobic exercise was performed for 40 minutes on a cycle ergometer.</span></p>
 
 <p><span class="chinese">用测力计在插头与弹片之间进行测量。</span><span class="english">Being measure at across spring piece and across matching plug for ergometer.</span></p>

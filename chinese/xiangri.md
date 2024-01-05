@@ -1,5 +1,7 @@
 # 向日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangri.md)
+
 <p><span class="chinese">需要向日箱转移试剂，开关打开。</span><span class="english">The demand from the Day Tank turns ON.</span></p>
 
 <p><span class="chinese">日航留在寰宇一家具有极大价值.我们正与美国航空和其他联盟成员向日航展示这点.</span><span class="english">There is huge value for JAL in being in Oneworld.</span></p>

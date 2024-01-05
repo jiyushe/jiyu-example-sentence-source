@@ -1,5 +1,7 @@
 # 原色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanse.md)
+
 <p><span class="chinese">到处都是原色。</span><span class="english">Primary colours are everywhere.</span></p>
 
 <p><span class="chinese">加色法原色参阅下文。</span><span class="english">Additive primaries See Additive primary colours.</span></p>

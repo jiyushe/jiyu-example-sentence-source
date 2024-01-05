@@ -1,5 +1,7 @@
 # minamata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minamata.md)
+
 <p><span class="chinese">1956年，水俣湾附近发现了一种奇怪的病。</span><span class="english">In 1956, Minamata Bay was found near a strange disease.</span></p>
 
 <p><span class="chinese">水污染问题中最著名的是日本的水俣病。</span><span class="english">Water pollution is the most famous in Japan's Minamata disease.</span></p>

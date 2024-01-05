@@ -1,5 +1,7 @@
 # impurity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impurity.md)
+
 <p><span class="chinese">不纯洁的来源又是什么呢？</span><span class="english">What are these sources of impurity?</span></p>
 
 <p><span class="chinese">仪式上的不洁也是暂时的。</span><span class="english">Ritual impurity is also impermanent.</span></p>

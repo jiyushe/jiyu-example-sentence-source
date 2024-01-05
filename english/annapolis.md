@@ -1,5 +1,7 @@
 # annapolis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annapolis.md)
+
 <p><span class="chinese">1845年建立的美国海军军官学校就设在此地。</span><span class="english">Naval Academy, founded in 1845, is in Annapolis. Population, 33,187.</span></p>
 
 <p><span class="chinese">美国马里兰州将种植三百六十株树，协助安那波利斯市绿化。</span><span class="english">The US state of Maryland will plant a total of 360 trees to help reforest the city of Annapolis.</span></p>

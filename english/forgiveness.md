@@ -1,5 +1,7 @@
 # forgiveness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forgiveness.md)
+
 <p><span class="chinese">宽恕是什么？</span><span class="english">What is Forgiveness?</span></p>
 
 <p><span class="chinese">对他人的宽恕。</span><span class="english">Forgiveness of others.</span></p>

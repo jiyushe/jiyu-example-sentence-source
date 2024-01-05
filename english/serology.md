@@ -1,5 +1,7 @@
 # serology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serology.md)
+
 <p><span class="chinese">方法采用电镜检查和病毒血清试验。</span><span class="english">Method Making use of electron microscope and Uiral serology.</span></p>
 
 <p><span class="chinese">方法采用流行病学、生物分类学、血清学调查方法进行综合分析。</span><span class="english">Methods Methods of epidemiology, taxonomy and serology were adopted in the survey.</span></p>

@@ -1,5 +1,7 @@
 # cute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cute.md)
+
 <p><span class="chinese">他真可爱。</span><span class="english">He's really cute.</span></p>
 
 <p><span class="chinese">我看上去很可爱。</span><span class="english">I look very cute.</span></p>

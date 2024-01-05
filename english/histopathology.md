@@ -1,5 +1,7 @@
 # histopathology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histopathology.md)
+
 <p><span class="chinese">组织病理学。</span><span class="english">Histopathology.</span></p>
 
 <p><span class="chinese">同时经皮肝活检观察治疗前后肝脏组织病理学变化。</span><span class="english">The change of histopathology by liver biopsy was observed simultaneously.</span></p>

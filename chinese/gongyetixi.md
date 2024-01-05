@@ -1,5 +1,7 @@
 # 工业体系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyetixi.md)
+
 <p><span class="chinese">而这正是工业体系所生产出的东西。</span><span class="english">That is what the industrial system produces.</span></p>
 
 <p><span class="chinese">我们一定要建立一个完整的现代化工业体系。</span><span class="english">We'll certainly set up a complete modern industrial system.</span></p>

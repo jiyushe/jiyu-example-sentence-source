@@ -1,5 +1,7 @@
 # pretreatment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretreatment.md)
+
 <p><span class="chinese">使用洗衣液。</span><span class="english">Apply laundry pretreatment.</span></p>
 
 <p><span class="chinese">对干涉图像进行预处理。</span><span class="english">Provided pretreatment to interferograms.</span></p>

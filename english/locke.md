@@ -1,5 +1,7 @@
 # locke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locke.md)
+
 <p><span class="chinese">你会为洛克辩护吗？</span><span class="english">Are you going to defend Locke?</span></p>
 
 <p><span class="chinese">好，现在我们来谈谈约翰洛克。</span><span class="english">Ok, now we come to John Locke.</span></p>

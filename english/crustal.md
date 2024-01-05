@@ -1,5 +1,7 @@
 # crustal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crustal.md)
+
 <p><span class="chinese">陆坡是地壳活动十分活跃的部位。</span><span class="english">Crustal movement is very active on the continental slope.</span></p>
 
 <p><span class="chinese">原文说深层地震发生在两个板块交接处。</span><span class="english">Deep events occur in places other than where crustal plates meet.</span></p>

@@ -1,5 +1,7 @@
 # 开宗明义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaizongmingyi.md)
+
 <p><span class="chinese">该部分为后续研究开宗明义。</span><span class="english">That part of the follow-up study stated at the outset.</span></p>
 
 <p><span class="chinese">这份白皮书开宗明义地指出了科学可以改变生活”。</span><span class="english">The report states up front that science can change lives.</span></p>

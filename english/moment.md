@@ -1,5 +1,7 @@
 # moment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moment.md)
+
 <p><span class="chinese">在每一刻。</span><span class="english">In every moment.</span></p>
 
 <p><span class="chinese">呼吸在瞬间凝止。</span><span class="english">Breath at moment.</span></p>

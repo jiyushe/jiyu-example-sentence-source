@@ -1,5 +1,7 @@
 # slake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slake.md)
+
 <p><span class="chinese">除了他的死能去消解成就我怒中所定的。</span><span class="english">Nothing but his death can slake my anger.</span></p>
 
 <p><span class="chinese">我认为迪克对权力的贪欲永远不会得到满足。</span><span class="english">I don't think dick will ever manage to slake his lust for power.</span></p>

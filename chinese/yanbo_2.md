@@ -1,5 +1,7 @@
 # 眼波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanbo_2.md)
+
 <p><span class="chinese">但栅栏似的假睫毛圈住的眼波，却暗淡犹疑。</span><span class="english">But the expressions in your eyes enclosed by the fence-like fake eyelashes are flickering dimly.</span></p>
 
 <p><span class="chinese">对人眼波面象差的构成特征、影响因素以及测量方法进行了讨论。</span><span class="english">The structure, affecting factors and measurement methods of ocular wavefront aberration were presented.</span></p>

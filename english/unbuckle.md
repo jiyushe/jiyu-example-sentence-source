@@ -1,5 +1,7 @@
 # unbuckle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbuckle.md)
+
 <p><span class="chinese">可调节的座位安全带。</span><span class="english">Unbuckle your seat belt.</span></p>
 
 <p><span class="chinese">解开你座位上的安全带。</span><span class="english">Unbuckle your seat belt.</span></p>

@@ -1,5 +1,7 @@
 # 过时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoshi.md)
+
 <p><span class="chinese">这已经过时了。</span><span class="english">It's obsolete.</span></p>
 
 <p><span class="chinese">丽莎已经过时了。</span><span class="english">Lisa is a has-been.</span></p>

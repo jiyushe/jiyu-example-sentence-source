@@ -1,5 +1,7 @@
 # intently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intently.md)
+
 <p><span class="chinese">那陌生人用眼睛盯着他说</span><span class="english">The stranger gazed intently at him.</span></p>
 
 <p><span class="chinese">他专注地听着，听完之后要求我再来一曲。</span><span class="english">He listened intently and asked for more.</span></p>

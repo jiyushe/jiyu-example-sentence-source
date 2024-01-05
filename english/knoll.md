@@ -1,5 +1,7 @@
 # knoll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knoll.md)
+
 <p><span class="chinese">我们在公园的小山上野餐。</span><span class="english">We picnicked on a knoll in the park.</span></p>
 
 <p><span class="chinese">青石路面，一直通到小山深处。</span><span class="english">Granite road noodles, all arrives knoll deep place.</span></p>

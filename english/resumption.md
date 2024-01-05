@@ -1,5 +1,7 @@
 # resumption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resumption.md)
+
 <p><span class="chinese">恢复给硬币，使币值更高。</span><span class="english">The resumption of specie payment appreciated the currency.</span></p>
 
 <p><span class="chinese">中方对重启六方会谈持何立场？</span><span class="english">What is China's stance on the resumption of the Six-Party Talks?</span></p>

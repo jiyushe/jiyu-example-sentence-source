@@ -1,5 +1,7 @@
 # stein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stein.md)
+
 <p><span class="chinese">地方检察官说，斯坦并没有超过追诉时效。</span><span class="english">The D. A. said that Stein had not lived through the limit.</span></p>
 
 <p><span class="chinese">奥莱尔•斯坦因是敦煌学术史上的关键人物之一。</span><span class="english">Aurel Stein is one of the key figures in the history of Dunhuang Studies.</span></p>

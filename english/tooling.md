@@ -1,5 +1,7 @@
 # tooling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tooling.md)
+
 <p><span class="chinese">业务级工具。</span><span class="english">Business-level tooling.</span></p>
 
 <p><span class="chinese">键槽插槽工具的位置。</span><span class="english">Keyway slot for tooling location.</span></p>

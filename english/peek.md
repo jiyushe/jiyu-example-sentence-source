@@ -1,5 +1,7 @@
 # peek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peek.md)
+
 <p><span class="chinese">我们赶快去一睹为快吧。</span><span class="english">Let's take a sneak peek.</span></p>
 
 <p><span class="chinese">赖瑞往窗外偷看了一下。</span><span class="english">Larry takes a peek out of the window.</span></p>

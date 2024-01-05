@@ -1,5 +1,7 @@
 # dimmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimmer.md)
+
 <p><span class="chinese">三裂星云比礁湖星云稍微暗一些。</span><span class="english">The Trifid is a little dimmer than the Lagoon.</span></p>
 
 <p><span class="chinese">一切都变得混沌暗淡。</span><span class="english">I've the--Everything's growing greyer and dimmer.</span></p>

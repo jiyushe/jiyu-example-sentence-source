@@ -1,5 +1,7 @@
 # laxity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laxity.md)
+
 <p><span class="chinese">这就走到软弱涣散的另一个极端。</span><span class="english">This leads to the other extreme, weakness and laxity.</span></p>
 
 <p><span class="chinese">临床测量Q角和全身关节松弛度。</span><span class="english">Clinically, Q angle and generalized joint laxity were measured.</span></p>

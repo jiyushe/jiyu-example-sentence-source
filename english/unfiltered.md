@@ -1,5 +1,7 @@
 # unfiltered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfiltered.md)
+
 <p><span class="chinese">他在无休止的市政厅集会上接受各种未经筛选的问题。</span><span class="english">He takes unfiltered questions at endless town hall meetings.</span></p>
 
 <p><span class="chinese">此葡萄酒储存在法国庄园橡木桶内，灌瓶前并没有过滤。</span><span class="english">This wine was aged in new French oak chateau barrels and bottled unfiltered.</span></p>

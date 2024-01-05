@@ -1,5 +1,7 @@
 # 震灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzai_1.md)
+
 <p><span class="chinese">他说，对他们来说，这次震灾是很大的。</span><span class="english">He says this was big for them.</span></p>
 
 <p><span class="chinese">在震灾最重的地区，几乎所有家畜丧失殆尽。</span><span class="english">In the worst-affected areas, nearly all the livestock were lost.</span></p>

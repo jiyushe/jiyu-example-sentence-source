@@ -1,5 +1,7 @@
 # bbb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bbb.md)
+
 <p><span class="chinese">加黑黑黑到你的魔法力池中。</span><span class="english">Add BBB to your mana pool.</span></p>
 
 <p><span class="chinese">这是冰片开放血脑屏障的作用机制之一。</span><span class="english">It was one of mechanisms for borneol opening BBB.</span></p>

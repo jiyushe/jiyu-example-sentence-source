@@ -1,5 +1,7 @@
 # polypectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polypectomy.md)
+
 <p><span class="chinese">药物治疗54例，食道下端息肉切除2例。</span><span class="english">Patients were treated by medicine. Polypectomy were performed in 2 cases.</span></p>
 
 <p><span class="chinese">术后不当饮食，术后过度运动量是息肉摘除后出血的诱因。</span><span class="english">Greasy food and excess exercises after polypectomy are the possible inducements of hemorrhage.</span></p>

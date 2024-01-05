@@ -1,5 +1,7 @@
 # 天下第一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianxiadiyi.md)
+
 <p><span class="chinese">论脸皮厚，你可算是天下第一。</span><span class="english">For sheer cheek, you're it.</span></p>
 
 <p><span class="chinese">天下第一的好姑娘哎……现在跟我唱！</span><span class="english">Nice of any girl ever- now sing!</span></p>

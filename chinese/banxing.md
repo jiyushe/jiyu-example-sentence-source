@@ -1,5 +1,7 @@
 # 伴星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banxing.md)
+
 <p><span class="chinese">我们担心，如果没有找到伴星，这篇论文就会成为我们的报应。</span><span class="english">We worry that if the companion is not found, this paper will be our nemesis.</span></p>
 
 <p><span class="chinese">如果一颗恒星有一颗伴星，那么当它横越天空运动时，它似乎是摇来摆去。</span><span class="english">If a star has a companion, it will seem to wobble as it moves across the sky.</span></p>

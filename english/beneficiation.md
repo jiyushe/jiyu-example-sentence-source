@@ -1,5 +1,7 @@
 # beneficiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beneficiation.md)
+
 <p><span class="chinese">富集操作除去粘土和硅石达到相当高的程度。</span><span class="english">Beneficiation removes clay and silica to considerable extent.</span></p>
 
 <p><span class="chinese">因此矿石的破碎是选矿过程的第一步。</span><span class="english">Hence crushing of ores became the first step in beneficiation.</span></p>

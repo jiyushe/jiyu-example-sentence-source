@@ -1,5 +1,7 @@
 # saccade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saccade.md)
+
 <p><span class="chinese">通常每次扫视的平均时间是20-40毫秒。</span><span class="english">The average length of a saccade is about 20-40 ms.</span></p>
 
 <p><span class="chinese">朝向和反向眼跳任务是两种较为常用的眼跳任务范式。</span><span class="english">Pro- and antisaccade tasks are two kinds of popular saccade paradigms.</span></p>

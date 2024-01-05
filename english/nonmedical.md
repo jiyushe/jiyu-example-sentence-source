@@ -1,5 +1,7 @@
 # nonmedical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonmedical.md)
+
 <p><span class="chinese">告诉自己这种焦虑是可掌握而且是有时效性的。</span><span class="english">They are all effective, nonmedical ways of dealing with anxiety.</span></p>
 
 <p><span class="chinese">但是如训练和其它非药物方法通常也是必要的。</span><span class="english">But training and other nonmedical treatments are usually needed too.</span></p>

@@ -1,5 +1,7 @@
 # gnocchi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnocchi.md)
+
 <p><span class="chinese">将香草蔬菜团和海篷子在沸水中重新加热。</span><span class="english">Reheat the gnocchi and samphire separately in boiling water.</span></p>
 
 <p><span class="chinese">现在有了速冻工艺，汤团才出现在商店里。</span><span class="english">Now, with quick-freezing process, gnocchi appeared on the store.</span></p>

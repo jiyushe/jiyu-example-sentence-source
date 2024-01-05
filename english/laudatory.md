@@ -1,5 +1,7 @@
 # laudatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laudatory.md)
+
 <p><span class="chinese">翡翠赢得了“玉石之王”的美称！</span><span class="english">Jadeite has won the laudatory title of " jade king "!</span></p>
 
 <p><span class="chinese">因此，土豆拥有“地下苹果”的美称。</span><span class="english">Therefore, potatoes have "underground apple" laudatory name.</span></p>

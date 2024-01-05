@@ -1,5 +1,7 @@
 # riley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riley.md)
+
 <p><span class="chinese">上周，Riley使用了一个新的避孕环。</span><span class="english">Last week, Riley got a new IUD.</span></p>
 
 <p><span class="chinese">然后他面临杰西约莱利。</span><span class="english">And then he confronted Jesse about Riley.</span></p>

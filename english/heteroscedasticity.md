@@ -1,5 +1,7 @@
 # heteroscedasticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heteroscedasticity.md)
+
 <p><span class="chinese">非常量误差方差或异方差性</span><span class="english">Non-constant error variance or heteroscedasticity</span></p>
 
 <p><span class="chinese">条件异方差是金融时间序列变量的一个典型特征。</span><span class="english">The conditional heteroscedasticity is a typical characteristic of finance time series.</span></p>

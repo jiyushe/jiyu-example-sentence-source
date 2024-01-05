@@ -1,5 +1,7 @@
 # whopper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whopper.md)
+
 <p><span class="chinese">这将是个弥天大谎。</span><span class="english">It's going to be a whopper.</span></p>
 
 <p><span class="chinese">华勃吃惊地跳了起来。</span><span class="english">Whopper jumped in surprise.</span></p>

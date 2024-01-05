@@ -1,5 +1,7 @@
 # ail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ail.md)
+
 <p><span class="chinese">骑士啊，是什么苦恼你。</span><span class="english">Ah, what Can ail thee, wretched wight.</span></p>
 
 <p><span class="chinese">这些区别所带来的影响似乎让你非常痛苦。</span><span class="english">These discrepancies influence what is likely to ail you.</span></p>

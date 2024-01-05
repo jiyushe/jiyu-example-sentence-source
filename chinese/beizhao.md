@@ -1,5 +1,7 @@
 # 被罩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beizhao.md)
+
 <p><span class="chinese">那个时代，人们做被罩时。</span><span class="english">In those days, when they made quilts.</span></p>
 
 <p><span class="chinese">甚至这条旧的百衲被罩也是一样！</span><span class="english">Even the old patchwork quilt is the same!</span></p>

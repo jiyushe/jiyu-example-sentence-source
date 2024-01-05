@@ -1,5 +1,7 @@
 # interconversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interconversion.md)
+
 <p><span class="chinese">我们假设没有互变发生。</span><span class="english">We assume that no interconversion takes place.</span></p>
 
 <p><span class="chinese">在细胞能量转变过程中，线粒体ATP合酶是一个关键酶。</span><span class="english">Mitochondria ATP synthase is a key enzyme in cellular energy interconversion.</span></p>

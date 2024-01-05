@@ -1,5 +1,7 @@
 # 寻思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinsi.md)
+
 <p><span class="chinese">我寻思着，没停下脚步。</span><span class="english">I thought, without stopping.</span></p>
 
 <p><span class="chinese">我睡不着，只顾躺着寻思，心猿意马。</span><span class="english">I lay awake thinking and mind jumping around.</span></p>

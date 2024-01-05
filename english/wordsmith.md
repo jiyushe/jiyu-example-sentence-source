@@ -1,5 +1,7 @@
 # wordsmith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wordsmith.md)
+
 <p><span class="chinese">成为一名语言大师。</span><span class="english">Become a great wordsmith.</span></p>
 
 <p><span class="chinese">除了文学大师所具有的才华外，他还是个很有天赋的漫画家。</span><span class="english">With all his talent as a wordsmith , he was also a gifted cartoonist.</span></p>

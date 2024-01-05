@@ -1,5 +1,7 @@
 # 岁末
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suimo.md)
+
 <p><span class="chinese">岁末年初送上我最诚挚的问候，祝您新年快乐！</span><span class="english">Holiday greetings and best wishes for the New Year!</span></p>
 
 <p><span class="chinese">进入岁末，李连杰的心仍悬着。</span><span class="english">The end of the year, Jet Li's heart is still hanging.</span></p>

@@ -1,5 +1,7 @@
 # 粉饰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshi_2.md)
+
 <p><span class="chinese">就让这场大粉饰开始吧！</span><span class="english">Let the whitewashing begin!</span></p>
 
 <p><span class="chinese">你不应该粉饰。</span><span class="english">You shouldn’t whitewash it.</span></p>

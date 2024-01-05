@@ -1,5 +1,7 @@
 # 独辟蹊径
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dupixijing.md)
+
 <p><span class="chinese">欣然女士作品的一些互动独辟蹊径。</span><span class="english">Some of Xinran's interactions are extraordinary.</span></p>
 
 <p><span class="chinese">他们计划独辟蹊径，盖自己的新房。</span><span class="english">They planed to branch off into building their own new house.</span></p>

@@ -1,5 +1,7 @@
 # brash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brash.md)
+
 <p><span class="chinese">他总是草率行事。</span><span class="english">He behaves in a brash way.</span></p>
 
 <p><span class="chinese">一个黑人如此轻率无礼在当时是很少见的。</span><span class="english">For a black man to be so brash was unique at the time.</span></p>

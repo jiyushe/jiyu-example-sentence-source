@@ -1,5 +1,7 @@
 # blindness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blindness.md)
+
 <p><span class="chinese">广告盲目性。</span><span class="english">Ad blindness.</span></p>
 
 <p><span class="chinese">夜盲好么?。</span><span class="english">Night Blindness.</span></p>

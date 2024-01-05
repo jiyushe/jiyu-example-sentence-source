@@ -1,5 +1,7 @@
 # 作乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoluan.md)
+
 <p><span class="chinese">荣耀使我感到羞愧，因为我的虚荣打算乘虚作乱。</span><span class="english">Praise shames me, for I secretly beg for it.</span></p>
 
 <p><span class="chinese">桀和纣带领天下暴虐无道，百姓也就跟随着抢夺作乱。</span><span class="english">Jie and Zhou led on the kingdom with violence, and people followed them.</span></p>

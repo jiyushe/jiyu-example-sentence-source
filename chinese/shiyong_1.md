@@ -1,5 +1,7 @@
 # 实用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyong_1.md)
+
 <p><span class="chinese">是非常实用的服务。</span><span class="english">It's very useful servise.</span></p>
 
 <p><span class="chinese">这有点傻，不过很实用。</span><span class="english">This is dorky, but practical.</span></p>

@@ -1,5 +1,7 @@
 # asarum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asarum.md)
+
 <p><span class="chinese">湖北是我国细辛属植物的分布中心之一。</span><span class="english">Hubei is one of the distribution centres of Asarum in China.</span></p>
 
 <p><span class="chinese">目的观察细辛水煎剂与硝苯地平伍用的镇痛作用。</span><span class="english">Objective To observe the analgesic action of combination of asarum decoction and nifedipine.</span></p>

@@ -1,5 +1,7 @@
 # 前尘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianchen.md)
+
 <p><span class="chinese">而司马樨对前尘往事俱已忘却。</span><span class="english">But Sima Xi had forgot all the past.</span></p>
 
 <p><span class="chinese">还能唤回你前尘历历。</span><span class="english">Thus much of thee can still restore.</span></p>

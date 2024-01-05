@@ -1,5 +1,7 @@
 # warpath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warpath.md)
+
 <p><span class="chinese">我们听说斯巴达在出征路途上。</span><span class="english">We heard Sparta was on the warpath.</span></p>
 
 <p><span class="chinese">与此同时，乌有之乡已经准备战斗。</span><span class="english">Utopia, meanwhile, has gone on the warpath</span></p>

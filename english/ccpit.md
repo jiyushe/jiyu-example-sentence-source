@@ -1,5 +1,7 @@
 # ccpit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ccpit.md)
+
 <p><span class="chinese">由海南省贸促会组建。</span><span class="english">The Pavilion is organised by CCPIT Hainan.</span></p>
 
 <p><span class="chinese">中国贸促会专利商标事务所资深律师。</span><span class="english">Senior Attorney of CCPIT Patent and Trademark Law Office.</span></p>

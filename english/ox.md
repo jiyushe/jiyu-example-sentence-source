@@ -1,5 +1,7 @@
 # ox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ox.md)
+
 <p><span class="chinese">那头牛的出肉率很高。</span><span class="english">The ox kills well.</span></p>
 
 <p><span class="chinese">他使劲地赶牛。</span><span class="english">He drove the ox hard.</span></p>

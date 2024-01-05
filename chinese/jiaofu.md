@@ -1,5 +1,7 @@
 # 交付
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaofu.md)
+
 <p><span class="chinese">可交付意味着已经完成了。</span><span class="english">Shippable means done.</span></p>
 
 <p><span class="chinese">实现和交付。</span><span class="english">Implement and Deliver.</span></p>

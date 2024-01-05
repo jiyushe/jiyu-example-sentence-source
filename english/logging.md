@@ -1,5 +1,7 @@
 # logging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logging.md)
+
 <p><span class="chinese">记录和监视。</span><span class="english">Logging and monitoring.</span></p>
 
 <p><span class="chinese">巴布亚岛砍伐森林清整土地</span><span class="english">Logging for Land Clearing in Papua</span></p>

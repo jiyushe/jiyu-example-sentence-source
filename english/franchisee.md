@@ -1,5 +1,7 @@
 # franchisee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/franchisee.md)
+
 <p><span class="chinese">加盟商有没有零售为王的思路，这很重要。</span><span class="english">Franchisee has no retail is king of the idea, it is very important.</span></p>
 
 <p><span class="chinese">所以他采取了向经销商转租店面的手法。</span><span class="english">So he adopted a policy of subleasing his properties to the franchisee.</span></p>

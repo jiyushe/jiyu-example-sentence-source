@@ -1,5 +1,7 @@
 # 舆情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuqing.md)
+
 <p><span class="chinese">网络舆情已成为社会情报的一种重要表现形式。</span><span class="english">Net-mediated public sentiment has become one format of social information.</span></p>
 
 <p><span class="chinese">这些话语共同构成了新媒体舆情的主要表达内容。</span><span class="english">These discourses co-compose main expression contents of public opinions of new media.</span></p>

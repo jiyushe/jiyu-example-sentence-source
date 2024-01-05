@@ -1,5 +1,7 @@
 # undercover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undercover.md)
+
 <p><span class="chinese">但是便衣警察正监控着这一幕。</span><span class="english">But undercover officers are watching.</span></p>
 
 <p><span class="chinese">趁便说一下，我如今正隐秘工作。</span><span class="english">By the way, I'm working undercover at this moment.</span></p>

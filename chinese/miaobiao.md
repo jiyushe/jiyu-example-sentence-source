@@ -1,5 +1,7 @@
 # 秒表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaobiao.md)
+
 <p><span class="chinese">使用秒表并且设定时间。</span><span class="english">Use a stopwatch and set a limit.</span></p>
 
 <p><span class="chinese">还有游戏、行事历、秒表、定时器等功能。</span><span class="english">Games, calendars, stopwatch, and lap timer.</span></p>

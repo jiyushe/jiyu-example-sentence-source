@@ -1,5 +1,7 @@
 # abundance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abundance.md)
+
 <p><span class="chinese">各种地方。</span><span class="english">abundance of things here.</span></p>
 
 <p><span class="chinese">他拥有大量的激光唱片。</span><span class="english">He has an abundance of CDs.</span></p>

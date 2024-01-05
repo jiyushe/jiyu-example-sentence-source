@@ -1,5 +1,7 @@
 # 多管闲事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoguanxianshi.md)
+
 <p><span class="chinese">但这个锁并不只是为了阻止多管闲事的人靠近。</span><span class="english">But that lock didn't just keep busybodies at bay.</span></p>
 
 <p><span class="chinese">但这个锁并不只是为了阻止多管闲事的人靠近。</span><span class="english">But that lock didn’t just keep busybodies at bay.</span></p>

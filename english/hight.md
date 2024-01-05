@@ -1,5 +1,7 @@
 # hight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hight.md)
+
 <p><span class="chinese">这调子对我来说太高兴了。</span><span class="english">This key is too hight for me.</span></p>
 
 <p><span class="chinese">他被称作“漂亮的查理”。</span><span class="english">He was hight Charles the Fair.</span></p>

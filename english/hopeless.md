@@ -1,5 +1,7 @@
 # hopeless 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hopeless.md)
+
 <p><span class="chinese">这种想法根本无用</span><span class="english">That's hopeless.</span></p>
 
 <p><span class="chinese">看来我是没指望了。</span><span class="english">I think I am hopeless here.</span></p>

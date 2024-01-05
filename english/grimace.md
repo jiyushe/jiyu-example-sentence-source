@@ -1,5 +1,7 @@
 # grimace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grimace.md)
+
 <p><span class="chinese">他一脸苦相，表示怀疑。</span><span class="english">He made a grimace of disbelief.</span></p>
 
 <p><span class="chinese">它出来如一个面部的歪扭更多。</span><span class="english">It came out as more of a grimace.</span></p>

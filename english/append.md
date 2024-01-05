@@ -1,5 +1,7 @@
 # append
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/append.md)
+
 <p><span class="chinese">将另一列追加到数据表。</span><span class="english">Append another column to the data table.</span></p>
 
 <p><span class="chinese">如果不为空，就将它附加到根元素。</span><span class="english">If it's not, append it to the root element.</span></p>

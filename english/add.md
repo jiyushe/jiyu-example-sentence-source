@@ -1,5 +1,7 @@
 # add
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/add.md)
+
 <p><span class="chinese">加入蛋液。</span><span class="english">Add in egg.</span></p>
 
 <p><span class="chinese">加入桃子。</span><span class="english">Add peaches.</span></p>

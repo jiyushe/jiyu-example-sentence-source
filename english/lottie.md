@@ -1,5 +1,7 @@
 # lottie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lottie.md)
+
 <p><span class="chinese">她看见洛蒂从灌木丛里钻出来。</span><span class="english">She saw Lottie emerge from the shrubbery.</span></p>
 
 <p><span class="chinese">年年岁岁珞蒂总劝碧丝要为年老之后做点准备。</span><span class="english">Over the years Lottie had urged Bess to prepare for her old age.</span></p>

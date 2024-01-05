@@ -1,5 +1,7 @@
 # genially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genially.md)
+
 <p><span class="chinese">他总是乐观的，并且和善地对待别人。</span><span class="english">He always optimistic and genially treats the others.</span></p>
 
 <p><span class="chinese">“你现在可以飞翔啦，”汤普森说，将控制器轻轻地递给了我。</span><span class="english">"You can fly now, " Thompson said, genially offering me the controls.</span></p>

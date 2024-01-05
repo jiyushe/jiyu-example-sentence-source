@@ -1,5 +1,7 @@
 # 名册
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingce.md)
+
 <p><span class="chinese">作为他们的供应商名册。</span><span class="english">UNGM as their supplier roster.</span></p>
 
 <p><span class="chinese">你们的登记名册上共有多少人？</span><span class="english">How many names are there on your books?</span></p>

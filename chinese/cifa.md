@@ -1,5 +1,7 @@
 # 词法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cifa.md)
+
 <p><span class="chinese">扫描，也称词法分析。</span><span class="english">Scanning, or lexical analysis.</span></p>
 
 <p><span class="chinese">中国古人已有相当丰富的词法观念。</span><span class="english">Ancient China had rich accidence concepts.</span></p>

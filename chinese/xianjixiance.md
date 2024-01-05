@@ -1,5 +1,7 @@
 # 献计献策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjixiance.md)
+
 <p><span class="chinese">他为这个计划献计献策。</span><span class="english">He brainstormed for the plan.</span></p>
 
 <p><span class="chinese">作为一名理论工作者，为这项工程献计献策，我们责无旁贷。</span><span class="english">As a theorist, suggests plans for this project, we are duty-bound.</span></p>

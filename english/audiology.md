@@ -1,5 +1,7 @@
 # audiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audiology.md)
+
 <p><span class="chinese">听力学与神经耳科学。</span><span class="english">Audiology and Neuro-Otology.</span></p>
 
 <p><span class="chinese">他对听力学有浓厚兴趣。</span><span class="english">He has strong interests in audiology study.</span></p>

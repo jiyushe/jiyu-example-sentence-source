@@ -1,5 +1,7 @@
 # 文言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenyan.md)
+
 <p><span class="chinese">文言梦幻小说是明清小说的重要组成部分。</span><span class="english">The classical dreamlike novel is an important part of the Ming and Qing novels.</span></p>
 
 <p><span class="chinese">话本小说叙事主要靠讲述，文言小说主要靠展示。</span><span class="english">Text stroy depends mainly on narration, and story in classical Chinese depends on display.</span></p>

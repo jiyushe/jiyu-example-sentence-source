@@ -1,5 +1,7 @@
 # 修业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuye.md)
+
 <p><span class="chinese">追修业习和成长。</span><span class="english">Pursue growth and learning.</span></p>
 
 <p><span class="chinese">其修业年限一般需四至六年。</span><span class="english">Studying for a degree generally takes four to six years.</span></p>

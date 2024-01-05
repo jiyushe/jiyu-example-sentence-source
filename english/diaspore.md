@@ -1,5 +1,7 @@
 # diaspore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diaspore.md)
+
 <p><span class="chinese">碱性条件下，一水硬铝石的回收率急剧下降。</span><span class="english">In the alkaline region, there is a marked drop in the recovery of diaspore.</span></p>
 
 <p><span class="chinese">研究了微波焙烧对一水硬铝石矿浸出性能的影响。</span><span class="english">The effects of microwave roasting pretreatment on leaching behavior of diaspore ore were investigated.</span></p>

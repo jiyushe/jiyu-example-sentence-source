@@ -1,5 +1,7 @@
 # hydrogenase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrogenase.md)
+
 <p><span class="chinese">因此，本论文开展了铁硫簇唯铁氢化酶活性中心的化学模拟研究。</span><span class="english">Chemical mimic of the Fe-only hydrogenase active site is mainly discussed in this thesis.</span></p>
 
 <p><span class="chinese">这种方法对于用氢化酶的兼性厌氧细菌或需氧细菌是有效的。</span><span class="english">This method is effective to the facultative anaerobic bacteria or aerobic bacteria with hydrogenase.</span></p>

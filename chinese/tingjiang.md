@@ -1,5 +1,7 @@
 # 听讲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingjiang.md)
+
 <p><span class="chinese">你确实仔细听讲了</span><span class="english">You're actually in there doing things.</span></p>
 
 <p><span class="chinese">米丽和露西听讲一样认真。</span><span class="english">Millie listens as carefully as Lucy does.</span></p>

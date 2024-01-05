@@ -1,5 +1,7 @@
 # unbelieving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbelieving.md)
+
 <p><span class="chinese">无止境的，对不知悔改的和不信。</span><span class="english">Endless, of the impenitent and unbelieving.</span></p>
 
 <p><span class="chinese">我们会思念我们没有信的在地狱的朋友吗？</span><span class="english">Will we miss unbelieving friends and relatives who went to hell?</span></p>

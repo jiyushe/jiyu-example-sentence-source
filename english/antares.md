@@ -1,5 +1,7 @@
 # antares
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antares.md)
+
 <p><span class="chinese">心宿二即是一颗巨星。</span><span class="english">Antares is a giant star.</span></p>
 
 <p><span class="chinese">心大星的亮度在天空中位于第15位。</span><span class="english">Antares is the 15th brightest star in the sky.</span></p>

@@ -1,5 +1,7 @@
 # blessed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blessed.md)
+
 <p><span class="chinese">有福之州。</span><span class="english">Blessed states.</span></p>
 
 <p><span class="chinese">他们都祝福我。</span><span class="english">They blessed me.</span></p>

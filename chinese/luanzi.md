@@ -1,5 +1,7 @@
 # 乱子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanzi.md)
+
 <p><span class="chinese">我们必须防止这个乱子扩大。</span><span class="english">We must prevent the trouble from spreading.</span></p>
 
 <p><span class="chinese">警察局提防出现任何乱子。</span><span class="english">The police were on the watch for any trouble.</span></p>

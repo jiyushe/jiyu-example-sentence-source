@@ -1,5 +1,7 @@
 # woodiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodiness.md)
+
 <p><span class="chinese">木质材料粘接。</span><span class="english">Woodiness material is stuck receive.</span></p>
 
 <p><span class="chinese">柔弱的木质藤本植物，茎四棱。</span><span class="english">Effeminate woodiness liana, bine 4 arris.</span></p>

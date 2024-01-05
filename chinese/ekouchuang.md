@@ -1,5 +1,7 @@
 # 鹅口疮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ekouchuang.md)
+
 <p><span class="chinese">我已经尽量小心动作轻柔了，她还是会出现鹅口疮，并且已经开始不耐烦。</span><span class="english">I have to be so gentle, she gets thrush and is turned off.</span></p>
 
 <p><span class="chinese">她还曾经鹅口疮诗记者通过出版工作。</span><span class="english">She has also had work published through Thrush Poetry Press.</span></p>

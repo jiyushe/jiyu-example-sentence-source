@@ -1,5 +1,7 @@
 # unstuck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unstuck.md)
+
 <p><span class="chinese">齿轮就是松不开来。</span><span class="english">The gear just would not come unstuck.</span></p>
 
 <p><span class="chinese">他尝试了每件事物他可以接合部份松懈。</span><span class="english">He tried everything he could to be unstuck.</span></p>

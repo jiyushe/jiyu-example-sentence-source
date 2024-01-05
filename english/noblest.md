@@ -1,5 +1,7 @@
 # noblest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noblest.md)
+
 <p><span class="chinese">仁爱乃征服人类之最高贵兵器。</span><span class="english">Kindness is noblest weapon to conquer with.</span></p>
 
 <p><span class="chinese">书——人类发出的最美妙的声音。</span><span class="english">Book-the noblest sound that man has yet uttered.</span></p>

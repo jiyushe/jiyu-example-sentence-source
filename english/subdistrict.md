@@ -1,5 +1,7 @@
 # subdistrict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subdistrict.md)
+
 <p><span class="chinese">这一举措帮助改善了街道一级的出生和死亡登记。</span><span class="english">This initiative helped improve registration of births and deaths at the subdistrict level.</span></p>
 
 <p><span class="chinese">全县辖21个乡镇、1个街道办事处，210个行政村、9个居委会。</span><span class="english">County jurisdiction 21 towns, a subdistrict offices, 210 administrative villages and 9 neighborhood.</span></p>

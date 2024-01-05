@@ -1,5 +1,7 @@
 # 字面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimian.md)
+
 <p><span class="chinese">集合字面值。</span><span class="english">Collection Literals.</span></p>
 
 <p><span class="chinese">又一次强调了字面意思的一天。</span><span class="english">This re-emphasizes a literal day.</span></p>

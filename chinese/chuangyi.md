@@ -1,5 +1,7 @@
 # 创意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuangyi.md)
+
 <p><span class="chinese">这是汤姆的创意。</span><span class="english">Tom, this is Susi.</span></p>
 
 <p><span class="chinese">蓝天创意有限公司。</span><span class="english">Blue Sky e-shop Ltd.</span></p>

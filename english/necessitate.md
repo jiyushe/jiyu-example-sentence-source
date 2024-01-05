@@ -1,5 +1,7 @@
 # necessitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necessitate.md)
+
 <p><span class="chinese">是否需要更加复杂的构建过程？</span><span class="english">Does it necessitate a more convoluted build process?</span></p>
 
 <p><span class="chinese">不过，必不可免地也会擦掉一点眼影。</span><span class="english">This may necessitate touching up your eye shadow a bit.</span></p>

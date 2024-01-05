@@ -1,5 +1,7 @@
 # 争雄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengxiong.md)
+
 <p><span class="chinese">他们争雄天下。</span><span class="english">They strove for supremacy under heaven.</span></p>
 
 <p><span class="chinese">曾经，这里只许权势，不准情谊的争雄之地。多少年头，我都在忍受着那份深入骨髓的仇恨。</span><span class="english">Here, only potence and influence, no affection. Men contend for hegemony. I've borne the deep hatred for many years.</span></p>

@@ -1,5 +1,7 @@
 # 资深
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishen_1.md)
+
 <p><span class="chinese">埃亨是一个资深的政界人士。</span><span class="english">Bertie Ahern is a veteran politician.</span></p>
 
 <p><span class="chinese">该会宣读了在艾肯，资深大律师今日。</span><span class="english">The will was read in Aiken , SC today.</span></p>

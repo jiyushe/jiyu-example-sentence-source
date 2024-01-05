@@ -1,5 +1,7 @@
 # splenomegaly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splenomegaly.md)
+
 <p><span class="chinese">多见有肝脾肿大。</span><span class="english">See splenomegaly having liver more.</span></p>
 
 <p><span class="chinese">一般无淋巴结及肝脾肿大。</span><span class="english">Do not have lymph node and liver splenomegaly commonly.</span></p>

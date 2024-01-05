@@ -1,5 +1,7 @@
 # 顶天立地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingtianlidi.md)
+
 <p><span class="chinese">身为皇帝，死也要顶天立地！</span><span class="english">An emperor ought to die standing.</span></p>
 
 <p><span class="chinese">而且，更重要的是，你会成为一个顶天立地的人。</span><span class="english">And-which is more-you'll be a Man!</span></p>

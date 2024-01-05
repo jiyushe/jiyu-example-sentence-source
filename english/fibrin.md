@@ -1,5 +1,7 @@
 # fibrin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibrin.md)
+
 <p><span class="chinese">淋巴管受纤维蛋白阻塞。</span><span class="english">Lymphatics are occluded with fibrin.</span></p>
 
 <p><span class="chinese">常用的助滤剂有硅藻土，纤维素等。</span><span class="english">Commonly used filter aid agent diatomite, have fibrin.</span></p>

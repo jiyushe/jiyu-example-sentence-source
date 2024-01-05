@@ -1,5 +1,7 @@
 # civet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/civet.md)
+
 <p><span class="chinese">没有狸猫能回答这个问题。</span><span class="english">No civet cats can answer this question.</span></p>
 
 <p><span class="chinese">果子狸在这些市场的贸易因而于2004年被禁。</span><span class="english">As a result, civet trading in these markets was banned in 2004.</span></p>

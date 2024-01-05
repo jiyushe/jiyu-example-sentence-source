@@ -1,5 +1,7 @@
 # 想像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxiang.md)
+
 <p><span class="chinese">我不敢想像。</span><span class="english">I can not imagine.</span></p>
 
 <p><span class="chinese">统统想像出全新的场景。</span><span class="english">Always imagine new places!</span></p>

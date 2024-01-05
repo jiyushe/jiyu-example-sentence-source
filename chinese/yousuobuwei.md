@@ -1,5 +1,7 @@
 # 有所不为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yousuobuwei.md)
+
 <p><span class="chinese">而是能力有限，有所不为。</span><span class="english">It means I can't do it for someone else.</span></p>
 
 <p><span class="chinese">页面SEO公关有所为，有所不为</span><span class="english">Do’s and Don’ts of On-Page SEO for Public Relations</span></p>

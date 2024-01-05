@@ -1,5 +1,7 @@
 # misdeed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misdeed.md)
+
 <p><span class="chinese">侧止他的不良行为。</span><span class="english">The side stops his misdeed.</span></p>
 
 <p><span class="chinese">这是卡扎菲最后的错误之举。</span><span class="english">This is Qaddafi's last misdeed.</span></p>

@@ -1,5 +1,7 @@
 # swansea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swansea.md)
+
 <p><span class="chinese">塔林大学历史拥久，是爱沙尼亚国最大的工程与商科大学。</span><span class="english">Swansea College is one of the best FE colleges in Wales.</span></p>
 
 <p><span class="chinese">这家服装店吸引了远至斯旺西的顾客。</span><span class="english">The salon attracts clients from as far afield as swansea.</span></p>

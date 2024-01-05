@@ -1,5 +1,7 @@
 # 半生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bansheng.md)
+
 <p><span class="chinese">牠的下半生能够改变吗？</span><span class="english">Could you change her life?</span></p>
 
 <p><span class="chinese">他的大半生在国外度过。</span><span class="english">He lived abroad for much of his life.</span></p>

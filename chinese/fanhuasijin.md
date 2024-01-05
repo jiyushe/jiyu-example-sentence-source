@@ -1,5 +1,7 @@
 # 繁花似锦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanhuasijin.md)
+
 <p><span class="chinese">节日的广场繁花似锦。</span><span class="english">The plaza in festival is a carpet of flowers.</span></p>
 
 <p><span class="chinese">在华藏世界，繁花似锦。</span><span class="english">In the Avatamsaka world there are a lot of flowers.</span></p>

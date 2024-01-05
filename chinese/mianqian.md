@@ -1,5 +1,7 @@
 # 面前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianqian.md)
+
 <p><span class="chinese">别在我面前唠叨！</span><span class="english">Don‘t nag me!</span></p>
 
 <p><span class="chinese">我们面前还有一段很长的路。</span><span class="english">A long way ahead.</span></p>

@@ -1,5 +1,7 @@
 # 总合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonghe.md)
+
 <p><span class="chinese">你所说的一切，总合起来就是正义。</span><span class="english">Everything you say adds up to justice.</span></p>
 
 <p><span class="chinese">人生就是你一系列决议的总合。</span><span class="english">Life is the cumulative sum of your decisions.</span></p>

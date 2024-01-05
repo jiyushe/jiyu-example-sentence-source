@@ -1,5 +1,7 @@
 # unambiguously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unambiguously.md)
+
 <p><span class="chinese">但是，医生办公室的照片毫不含糊地说明了。</span><span class="english">But the picture from the doctor’s office unambiguously does.</span></p>
 
 <p><span class="chinese">电路图中，每一个信号都应有明确无误的名称。</span><span class="english">Each signal in the block circuit diagram shall be named unambiguously.</span></p>

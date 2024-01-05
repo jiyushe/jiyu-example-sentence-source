@@ -1,5 +1,7 @@
 # guesstimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guesstimate.md)
+
 <p><span class="chinese">你能估计出修理我的车要花多少钱吗?。</span><span class="english">Can you give a guesstimate of how much it will cost to fix my car?</span></p>
 
 <p><span class="chinese">我没有掌握全部事实，但我可以根据自己的经验猜测。</span><span class="english">I don't have all the facts, but I can make a guesstimate based on my experience.</span></p>

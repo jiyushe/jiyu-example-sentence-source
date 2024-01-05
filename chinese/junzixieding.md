@@ -1,5 +1,7 @@
 # 君子协定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junzixieding.md)
+
 <p><span class="chinese">这就是我们的君子协定。</span><span class="english">Such is our gentleman's agreement.</span></p>
 
 <p><span class="chinese">我们订了个君子协定。</span><span class="english">We reached a gentleman's agreement.</span></p>

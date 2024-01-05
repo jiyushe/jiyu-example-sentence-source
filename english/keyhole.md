@@ -1,5 +1,7 @@
 # keyhole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keyhole.md)
+
 <p><span class="chinese">谷狗于2004年购买了“锁眼集团”。</span><span class="english">Google acquired Keyhole Inc. in 2004.</span></p>
 
 <p><span class="chinese">他认为，但是他找不到钥匙孔。</span><span class="english">He looked , but there was no keyhole.</span></p>

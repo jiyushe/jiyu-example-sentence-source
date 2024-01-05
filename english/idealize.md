@@ -1,5 +1,7 @@
 # idealize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idealize.md)
+
 <p><span class="chinese">他们会将朋友理想化。</span><span class="english">They tend to idealize their friends.</span></p>
 
 <p><span class="chinese">我并不想将小地方的生活理想化。</span><span class="english">I don't want to idealize lifeinsmall places.</span></p>

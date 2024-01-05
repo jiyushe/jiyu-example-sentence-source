@@ -1,5 +1,7 @@
 # hen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hen.md)
+
 <p><span class="chinese">母鸡咯咯叫。</span><span class="english">A hen cackles.</span></p>
 
 <p><span class="chinese">母鸡的繁殖？</span><span class="english">The breed of hen?</span></p>

@@ -1,5 +1,7 @@
 # 落水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoshui.md)
+
 <p><span class="chinese">船尾有人落水。</span><span class="english">Man overboard on astern.</span></p>
 
 <p><span class="chinese">一个小女孩落水了!</span><span class="english">A girl fell into the river!</span></p>

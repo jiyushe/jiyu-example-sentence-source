@@ -1,5 +1,7 @@
 # 柔情似水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rouqingsishui.md)
+
 <p><span class="chinese">我曾柔情似水满怀真挚地爱过你。</span><span class="english">I loved you tenderness and candor.</span></p>
 
 <p><span class="chinese">作为女人，她也有情意缠绵，柔情似水的一面。</span><span class="english">As a woman, she is as sweet as honey too.</span></p>

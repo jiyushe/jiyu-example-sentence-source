@@ -1,5 +1,7 @@
 # teach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teach.md)
+
 <p><span class="chinese">我教你做。</span><span class="english">I'll teach you.</span></p>
 
 <p><span class="chinese">老师教书。</span><span class="english">Teachers teach.</span></p>

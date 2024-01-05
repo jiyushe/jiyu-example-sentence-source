@@ -1,5 +1,7 @@
 # 再造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaizao.md)
+
 <p><span class="chinese">我希望能再造一家这样的公司。</span><span class="english">I want to do that again.</span></p>
 
 <p><span class="chinese">再造人卡辛来得正是时刻。</span><span class="english">You are equbest friend in time.</span></p>

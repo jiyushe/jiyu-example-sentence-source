@@ -1,5 +1,7 @@
 # 语系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxi_2.md)
+
 <p><span class="chinese">密特拉是一个印度—伊朗语系的太阳神。</span><span class="english">Mithra is an Indo-Iranian sun god.</span></p>
 
 <p><span class="chinese">丹麦语与瑞典语是同一语系的语言。</span><span class="english">Danish and Swedish are allied languages.</span></p>

@@ -1,5 +1,7 @@
 # tuckahoe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuckahoe.md)
+
 <p><span class="chinese">茯苓饼是一种宫廷点心。</span><span class="english">Tuckahoe Pie was originally a palace snack.</span></p>
 
 <p><span class="chinese">桂枝茯苓丸是治疗什么病的?。</span><span class="english">What disease does bolus of cassia twig tuckahoe treat?</span></p>

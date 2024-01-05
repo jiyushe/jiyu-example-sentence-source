@@ -1,5 +1,7 @@
 # diester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diester.md)
+
 <p><span class="chinese">一种制备2，3，5-三甲基氢醌二酯的方法。</span><span class="english">Method for preparing 2,3,5-trimethyl hydroquinone diester.</span></p>
 
 <p><span class="chinese">反应产物经薄层色谱鉴定为单酯和双酯。</span><span class="english">The products were identified TLC as monoester and diester.</span></p>

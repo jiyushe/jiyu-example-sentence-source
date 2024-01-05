@@ -1,5 +1,7 @@
 # hypotheses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypotheses.md)
+
 <p><span class="chinese">作品的归属通常是一种假定，而非不可动摇的事实。</span><span class="english">Attributions can often be hypotheses rather than unshakable facts.</span></p>
 
 <p><span class="chinese">目前，科学家提出了几个假说来解释黄杉数量的下降。</span><span class="english">Scientists have advanced several hypotheses to explain this decline.</span></p>

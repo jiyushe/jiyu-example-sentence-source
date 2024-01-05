@@ -1,5 +1,7 @@
 # 赔罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peizui.md)
+
 <p><span class="chinese">我应为我的过失赔罪。</span><span class="english">I must make amends for my fault.</span></p>
 
 <p><span class="chinese">她愿做任何事来赔罪。</span><span class="english">She would have done anything to make amends.</span></p>

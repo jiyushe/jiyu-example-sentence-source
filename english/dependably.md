@@ -1,5 +1,7 @@
 # dependably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dependably.md)
+
 <p><span class="chinese">可是那个女子，是踏实的干净的活着的。</span><span class="english">But that woman is dependably clean on the hoof.</span></p>
 
 <p><span class="chinese">今年的三八妇女节是徐新过得最踏实的一天。</span><span class="english">Women's Day this year is Xu Xin passes the most dependably one day.</span></p>

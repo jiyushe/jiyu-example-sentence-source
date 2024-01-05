@@ -1,5 +1,7 @@
 # 指挥所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhihuisuo.md)
+
 <p><span class="chinese">美军现在已经部署了超过1000个未来指挥所系统。</span><span class="english">More than 1,000 CPOF systems are deployed with the U.S. military.</span></p>
 
 <p><span class="chinese">美军现在已经部署了超过1000个未来指挥所系统。</span><span class="english">More than 1, 000 CPOF systems are deployed with the U.S. military.</span></p>

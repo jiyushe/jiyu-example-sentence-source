@@ -1,5 +1,7 @@
 # treasonous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treasonous.md)
+
 <p><span class="chinese">他的言论是叛国的。</span><span class="english">His speech was a treasonous one.</span></p>
 
 <p><span class="chinese">那个起了歹心的弟弟就趁他睡着了偷偷走到他身边。</span><span class="english">His treasonous brother stole upon him in his sleep.</span></p>

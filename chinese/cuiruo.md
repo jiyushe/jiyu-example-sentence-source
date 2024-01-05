@@ -1,5 +1,7 @@
 # 脆弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuiruo.md)
+
 <p><span class="chinese">为什么我如此脆弱？</span><span class="english">Why am I so weak?</span></p>
 
 <p><span class="chinese">我是个感情脆弱的失败者。</span><span class="english">I'm a sentimental failure.</span></p>

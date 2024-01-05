@@ -1,5 +1,7 @@
 # bpa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bpa.md)
+
 <p><span class="chinese">然后BPA便过滤到容器里面。</span><span class="english">BPA then leaches into the containers.</span></p>
 
 <p><span class="chinese">短期的暴露在BPA环境中会导致不孕不育</span><span class="english">Short exposure to BPA can cause infertility</span></p>

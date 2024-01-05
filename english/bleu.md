@@ -1,5 +1,7 @@
 # bleu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleu.md)
+
 <p><span class="chinese">你会怎样总结你在日本蓝带国际学院的学习经历？</span><span class="english">How would you sum up your experience at Le Cordon Bleu Japan?</span></p>
 
 <p><span class="chinese">同时，他还在巴黎著名的考敦·布鲁学校学习过烹饪。</span><span class="english">Alongside this there was his cooking study at the famed Cordon Bleu School in Paris.</span></p>

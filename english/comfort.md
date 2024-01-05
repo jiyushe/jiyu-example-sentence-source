@@ -1,5 +1,7 @@
 # comfort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comfort.md)
+
 <p><span class="chinese">乐儿安慰着他。</span><span class="english">LeEr comfort him.</span></p>
 
 <p><span class="chinese">一点都让人宽心。</span><span class="english">No comfort there.</span></p>

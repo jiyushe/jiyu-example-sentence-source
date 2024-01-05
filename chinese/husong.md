@@ -1,5 +1,7 @@
 # 护送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/husong.md)
+
 <p><span class="chinese">是的，他们会护送他进首都的。</span><span class="english">Yes, to escort him into the capital.</span></p>
 
 <p><span class="chinese">我被护送出了国境线。</span><span class="english">I was squired going out of the border.</span></p>

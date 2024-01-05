@@ -1,5 +1,7 @@
 # aromaticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aromaticity.md)
+
 <p><span class="chinese">结果表明环铝氮烷具有较强的芳香性。</span><span class="english">The results showed that alumazene possessed strong aromaticity.</span></p>
 
 <p><span class="chinese">考察了溶剂油磺化过程中芳烃含量的变化。</span><span class="english">The aromaticity of solvent oil in the sulfonation reaction was investigated.</span></p>

@@ -1,5 +1,7 @@
 # 烟蒂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yandi_1.md)
+
 <p><span class="chinese">他在地板上踩灭了他的烟蒂。</span><span class="english">He stamped his butt on the floor.</span></p>
 
 <p><span class="chinese">铅笔头、雪茄烟蒂、牙的残根。</span><span class="english">The stump of a pencil, cigar, tooth.</span></p>

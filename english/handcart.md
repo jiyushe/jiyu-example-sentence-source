@@ -1,5 +1,7 @@
 # handcart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handcart.md)
+
 <p><span class="chinese">我们的旧手推车嘎嘎地穿过大街。</span><span class="english">Our old handcart rattled over the street.</span></p>
 
 <p><span class="chinese">米奇发现他的手推车里什么都没有。</span><span class="english">Micky finds there is nothing in his handcart.</span></p>

@@ -1,5 +1,7 @@
 # trimmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trimmer.md)
+
 <p><span class="chinese">我用了树篱式修剪机来代替。</span><span class="english">I used a hedge trimmer instead.</span></p>
 
 <p><span class="chinese">为什么这么多微调电容？</span><span class="english">Why So Many Trimmer Capacitors?</span></p>

@@ -1,5 +1,7 @@
 # 北纬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiwei.md)
+
 <p><span class="chinese">行为，电子商务是北纬。</span><span class="english">Gosp. For Acts, e is Lat.</span></p>
 
 <p><span class="chinese">北纬34.07.080东经70.13.209。</span><span class="english">North 34.07.080 by East 70.13.209.</span></p>

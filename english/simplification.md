@@ -1,5 +1,7 @@
 # simplification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simplification.md)
+
 <p><span class="chinese">产品供应的简化。</span><span class="english">Simplification of product offerings.</span></p>
 
 <p><span class="chinese">现在看起来有些过于简单化了。</span><span class="english">Now, that's a bit of a simplification.</span></p>

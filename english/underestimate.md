@@ -1,5 +1,7 @@
 # underestimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underestimate.md)
+
 <p><span class="chinese">不要低估詹姆斯。</span><span class="english">Don't underestimate James.</span></p>
 
 <p><span class="chinese">你看轻你自己。</span><span class="english">You underestimate yourself.</span></p>

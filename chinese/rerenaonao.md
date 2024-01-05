@@ -1,5 +1,7 @@
 # 热热闹闹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rerenaonao.md)
+
 <p><span class="chinese">我们的历险热热闹闹的开幕了。</span><span class="english">Our adventure kicked off with a rousing start.</span></p>
 
 <p><span class="chinese">我并不屈就于它热热闹闹的外表。</span><span class="english">I don't condescend to boisterous displays of it.</span></p>

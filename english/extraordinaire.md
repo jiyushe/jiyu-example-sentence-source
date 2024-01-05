@@ -1,5 +1,7 @@
 # extraordinaire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extraordinaire.md)
+
 <p><span class="chinese">他们试图做的是一种非凡的钢丝绳表演。</span><span class="english">What they're attempting is a high-wire act extraordinaire.</span></p>
 
 <p><span class="chinese">这款特制布朗尼是由新泽西州亚特兰大城推出的。</span><span class="english">The Brownie Extraordinaire is sold in Atlantic City, New Jersey.</span></p>

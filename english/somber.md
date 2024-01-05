@@ -1,5 +1,7 @@
 # somber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somber.md)
+
 <p><span class="chinese">在那儿，在昏暗的光线里。</span><span class="english">There, in the somber light.</span></p>
 
 <p><span class="chinese">我阴郁的心总在追寻着你</span><span class="english">My somber heart seeks you always</span></p>

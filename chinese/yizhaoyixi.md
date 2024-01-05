@@ -1,5 +1,7 @@
 # 一朝一夕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhaoyixi.md)
+
 <p><span class="chinese">损害一个强大的品牌可能只需要一朝一夕。</span><span class="english">It can take awhile to damage a strong brand.</span></p>
 
 <p><span class="chinese">向低碳能源转变不会是一朝一夕的事。</span><span class="english">The transition to low carbon energy can't just happen overnight.</span></p>

@@ -1,5 +1,7 @@
 # 手掌心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhangxin.md)
+
 <p><span class="chinese">我把它重新放到我的手掌心。</span><span class="english">I put it back into my palm.</span></p>
 
 <p><span class="chinese">该怎么把月光握在手掌心？</span><span class="english">How do you hold a moonbeam in your hand?</span></p>

@@ -1,5 +1,7 @@
 # courtship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courtship.md)
+
 <p><span class="chinese">旋风般恋爱。</span><span class="english">It's a whirlwind courtship.</span></p>
 
 <p><span class="chinese">求偶行为还具有多种功能。</span><span class="english">Courtship behavior has many functions.</span></p>

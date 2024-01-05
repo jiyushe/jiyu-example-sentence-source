@@ -1,5 +1,7 @@
 # drift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drift.md)
+
 <p><span class="chinese">大陆漂移“假说。</span><span class="english">Continental Drift.</span></p>
 
 <p><span class="chinese">浮子就是浮漂。</span><span class="english">Bobber is floating drift.</span></p>

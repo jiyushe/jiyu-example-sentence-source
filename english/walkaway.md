@@ -1,5 +1,7 @@
 # walkaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walkaway.md)
+
 <p><span class="chinese">我的马在那场比赛中轻易取胜。</span><span class="english">That race was just a walkaway for my horse.</span></p>
 
 <p><span class="chinese">然后你放着它们不管，让它们发酵。</span><span class="english">Then you walkaway from it and let it ferment.</span></p>

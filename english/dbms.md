@@ -1,5 +1,7 @@
 # dbms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dbms.md)
+
 <p><span class="chinese">传统的数据库仅仅在显式的指令下才执行某个操作。</span><span class="english">Traditional DBMS is operated only under the explicit instructions.</span></p>
 
 <p><span class="chinese">表1-7是预约DBMS布局的一个逻辑模型的例子。</span><span class="english">Tables 1-7 indicate a sample logical model of the Reservation DBMS layout.</span></p>

@@ -1,5 +1,7 @@
 # 热火朝天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rehuochaotian.md)
+
 <p><span class="chinese">而在电影行业，工作已经进行得热火朝天了。</span><span class="english">Thus, in the movie world the work is humming already.</span></p>
 
 <p><span class="chinese">开沙龙，搞讲座，征文比赛，热火朝天过一阵子。</span><span class="english">Open Salon, engage in lectures, essay contest, be in full swing for a while.</span></p>

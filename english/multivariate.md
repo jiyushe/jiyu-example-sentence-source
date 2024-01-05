@@ -1,5 +1,7 @@
 # multivariate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multivariate.md)
+
 <p><span class="chinese">多变量GARCH模型也提出了。</span><span class="english">Multivariate GARCH models are also presented.</span></p>
 
 <p><span class="chinese">聚类分析是多元分析的一个分支。</span><span class="english">Cluster analysis is a branch of multivariate analysis.</span></p>

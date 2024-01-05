@@ -1,5 +1,7 @@
 # 强权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangquan.md)
+
 <p><span class="chinese">我们不能把强权视为公理。</span><span class="english">We cannot equate might with right.</span></p>
 
 <p><span class="chinese">由于当地其他文明的强权,希腊人被驱逐</span><span class="english">They're shut out for the same reasons.</span></p>

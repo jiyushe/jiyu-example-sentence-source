@@ -1,5 +1,7 @@
 # numerator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numerator.md)
+
 <p><span class="chinese">现在我们做黑板底部的，分母部分。</span><span class="english">And now we'll do the bottom, the numerator.</span></p>
 
 <p><span class="chinese">这个分数的分母是个整数。</span><span class="english">The numerator of the fraction is an integer.</span></p>

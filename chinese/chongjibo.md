@@ -1,5 +1,7 @@
 # 冲击波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongjibo.md)
+
 <p><span class="chinese">这个冲击波在发达国家最为强烈。</span><span class="english">The shockwave was strongest in the developed world.</span></p>
 
 <p><span class="chinese">炎阳冲击波对目标生物或玩家造成3点伤害。</span><span class="english">Solar Blast deals 3 damage to target creature orplayer.</span></p>

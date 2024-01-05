@@ -1,5 +1,7 @@
 # 惊魂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinghun.md)
+
 <p><span class="chinese">俯视大地飞影惊魂。</span><span class="english">Overlooking the land of flying Christmas video.</span></p>
 
 <p><span class="chinese">就这样，开始了我惊魂体验的第一天。</span><span class="english">Thus, day one of a near death experience began.</span></p>

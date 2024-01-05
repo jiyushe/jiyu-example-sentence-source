@@ -1,5 +1,7 @@
 # fave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fave.md)
+
 <p><span class="chinese">你最喜欢的音乐类型是什么？</span><span class="english">What's your fave music type?</span></p>
 
 <p><span class="chinese">烧烤肉，我知道那是你们的最爱。</span><span class="english">Barbecue, I know they're your fave.</span></p>

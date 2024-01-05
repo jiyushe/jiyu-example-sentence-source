@@ -1,5 +1,7 @@
 # 同样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyang.md)
+
 <p><span class="chinese">而且也同样是残酷的。</span><span class="english">And it's also cruel.</span></p>
 
 <p><span class="chinese">也同样是一个城邦。</span><span class="english">It was a city-state.</span></p>

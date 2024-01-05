@@ -1,5 +1,7 @@
 # 顺民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunmin.md)
+
 <p><span class="chinese">人水相和，水顺民安。</span><span class="english">Water the people is peaceful.</span></p>
 
 <p><span class="chinese">我认为，我们首先必须做人，其后才是做国王的顺民。</span><span class="english">I think that we should be men first, and subjects afterward.</span></p>

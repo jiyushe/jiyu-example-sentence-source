@@ -1,5 +1,7 @@
 # 疾风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jifeng.md)
+
 <p><span class="chinese">疾风吹倒了许多树。</span><span class="english">The gale prostrated many trees.</span></p>
 
 <p><span class="chinese">疾风使勇敢的吉姆不知所措。</span><span class="english">Quick wafting zephyrs vex bold Jim.</span></p>

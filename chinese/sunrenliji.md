@@ -1,5 +1,7 @@
 # 损人利己
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sunrenliji.md)
+
 <p><span class="chinese">市场上的唯一准则是损人利己。</span><span class="english">The only rule of the market place was dog-eat-dog.</span></p>
 
 <p><span class="chinese">切不可作任何损人利己的事。</span><span class="english">Never do anything to your profit at another's expense.</span></p>

@@ -1,5 +1,7 @@
 # globin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/globin.md)
+
 <p><span class="chinese">血红素或球蛋白的正常产生收到干扰会导致贫血。</span><span class="english">Interference with the normal production of heme or globin leads to anemia.</span></p>
 
 <p><span class="chinese">珠蛋白基因的程序性表达是组织发育时期专一性的。</span><span class="english">The programmed expression of globin genes is tissue and developmental stage specific.</span></p>

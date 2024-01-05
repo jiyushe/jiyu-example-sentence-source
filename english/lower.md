@@ -1,5 +1,7 @@
 # lower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lower.md)
+
 <p><span class="chinese">用上你的下半身。</span><span class="english">Use your lower body.</span></p>
 
 <p><span class="chinese">降落受电弓！</span><span class="english">Lower the pantograph!</span></p>

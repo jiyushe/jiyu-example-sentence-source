@@ -1,5 +1,7 @@
 # rumination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rumination.md)
+
 <p><span class="chinese">沉思没有帮助。</span><span class="english">So rumination doesn't help.</span></p>
 
 <p><span class="chinese">创作对于王秀雯而言是一种反刍，之于当下、之于自身。</span><span class="english">Creation is a continued rumination of herself for Wang.</span></p>

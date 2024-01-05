@@ -1,5 +1,7 @@
 # 素雅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suya.md)
+
 <p><span class="chinese">如今结婚礼服的基调是素雅。</span><span class="english">Today the keynote of the wedding gown is simplicity.</span></p>
 
 <p><span class="chinese">在我眼里，你素雅安然的背后有着我难以捉摸的隐伤。</span><span class="english">In my eyes, you elegant Enron behind with my elusive hidden injury.</span></p>

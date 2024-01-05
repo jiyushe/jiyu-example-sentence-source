@@ -1,5 +1,7 @@
 # jurisprudential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jurisprudential.md)
+
 <p><span class="chinese">再次，重点探讨了污点证人制度的法理基础。</span><span class="english">Third, the jurisprudential basis of the stain witness system is probed.</span></p>
 
 <p><span class="chinese">尤根·埃里希以其活法思想而闻名于法学界。</span><span class="english">Eugen Ehrilich is famous for his living law theory in the jurisprudential circle.</span></p>

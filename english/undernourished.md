@@ -1,5 +1,7 @@
 # undernourished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undernourished.md)
+
 <p><span class="chinese">一天早上在走廊上我发现了一只营养不良、被人抛弃的小狗。</span><span class="english">One morning we came upon an abandoned undernourished puppy on the porch.</span></p>
 
 <p><span class="chinese">这组作者写道，营养不良的人群的饮食常常缺乏色氨酸。</span><span class="english">The authors write that diets poor in tryptophan are common in undernourished populations.</span></p>

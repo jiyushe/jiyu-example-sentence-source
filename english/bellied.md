@@ -1,5 +1,7 @@
 # bellied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bellied.md)
+
 <p><span class="chinese">风把帆张满了。</span><span class="english">Wind bellied the sails.</span></p>
 
 <p><span class="chinese">风把船帆张满了。</span><span class="english">The wind bellied out the sail.</span></p>

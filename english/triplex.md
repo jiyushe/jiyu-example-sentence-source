@@ -1,5 +1,7 @@
 # triplex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triplex.md)
+
 <p><span class="chinese">给三抽缸泵马达安装接地线。</span><span class="english">Install a ground cable on the triplex pump motor.</span></p>
 
 <p><span class="chinese">我们住在多层公寓大楼的一个三室套间里。</span><span class="english">We live in a triplex house of a multilayer apartment.</span></p>

@@ -1,5 +1,7 @@
 # 逃兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taobing.md)
+
 <p><span class="chinese">他们是逃兵吗？</span><span class="english">Had they fled?</span></p>
 
 <p><span class="chinese">那名逃兵已经逃走。</span><span class="english">The deserter has escaped.</span></p>

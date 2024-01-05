@@ -1,5 +1,7 @@
 # bahamian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bahamian.md)
+
 <p><span class="chinese">他侥幸躲过了被扔进巴哈马监狱。</span><span class="english">He'd narrowly escaped being thrown into a Bahamian jail.</span></p>
 
 <p><span class="chinese">巴哈马群岛早餐---巴哈马群岛的早餐一定会有粗燕麦粉。</span><span class="english">A Bahamas breakfast – to be a Bahamian breakfast it must contain grits.</span></p>

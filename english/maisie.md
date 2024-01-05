@@ -1,5 +1,7 @@
 # maisie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maisie.md)
+
 <p><span class="chinese">梅西买唱片花了很多钱。</span><span class="english">Maisie spends a lot of money on records.</span></p>
 
 <p><span class="chinese">一定帮我谢谢梅齐烤了这么好的馅饼！</span><span class="english">You be sure and thank Maisie for this fine pie.</span></p>

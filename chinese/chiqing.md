@@ -1,5 +1,7 @@
 # 痴情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiqing.md)
+
 <p><span class="chinese">痴情要为在乎你的人而痴。</span><span class="english">My best wishes for you!</span></p>
 
 <p><span class="chinese">当一个痴情女好还是自由女好？</span><span class="english">I opted to be a 'free' girl!</span></p>

@@ -1,5 +1,7 @@
 # 无力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuli_2.md)
+
 <p><span class="chinese">无力的，恩。</span><span class="english">Powerless. Uh huh.</span></p>
 
 <p><span class="chinese">可是，她太虚弱了，虚弱到无力反抗。</span><span class="english">Too weak to defend herself.</span></p>

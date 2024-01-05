@@ -1,5 +1,7 @@
 # quietly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quietly.md)
+
 <p><span class="chinese">像羔羊一样地安静！</span><span class="english">Quietly as a lamb!</span></p>
 
 <p><span class="chinese">我轻声低语道。</span><span class="english">I murmured quietly.</span></p>

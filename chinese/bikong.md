@@ -1,5 +1,7 @@
 # 鼻孔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bikong.md)
+
 <p><span class="chinese">不要再挖你的鼻孔了。很恶心。</span><span class="english">Don't pick your nose. It's gross.</span></p>
 
 <p><span class="chinese">他鼻孔里长出毛来。</span><span class="english">Hairs sprouted out from his nostrils.</span></p>

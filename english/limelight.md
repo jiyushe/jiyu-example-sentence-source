@@ -1,5 +1,7 @@
 # limelight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limelight.md)
+
 <p><span class="chinese">她喜欢出风头。</span><span class="english">She is fond of limelight.</span></p>
 
 <p><span class="chinese">好了，伯特，别出风头。</span><span class="english">Now, Bert, quit hogging the limelight.</span></p>

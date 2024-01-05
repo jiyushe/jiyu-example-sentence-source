@@ -1,5 +1,7 @@
 # 浓浓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongnong.md)
+
 <p><span class="chinese">她浓浓地抹了一层脂粉。</span><span class="english">She laid the paint on thickly.</span></p>
 
 <p><span class="chinese">简单，便宜，而且秋意浓浓！</span><span class="english">Easy, inexpensive, and oh-so-autumn!</span></p>

@@ -1,5 +1,7 @@
 # eer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eer.md)
+
 <p><span class="chinese">愿你过个最愉锐的圣诞节。</span><span class="english">May you hae the best Christmas eer.</span></p>
 
 <p><span class="chinese">俄而白鹤展翅凌空，冲人霄汉。</span><span class="english">Eer volley crane wings, red people dauntless.</span></p>

@@ -1,5 +1,7 @@
 # err
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/err.md)
+
 <p><span class="chinese">尝试和犯错。</span><span class="english">Try and err.</span></p>
 
 <p><span class="chinese">有过失是人之常情。</span><span class="english">To err is human. To forgive, divine.</span></p>

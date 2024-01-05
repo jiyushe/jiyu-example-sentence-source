@@ -1,5 +1,7 @@
 # wadi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wadi.md)
+
 <p><span class="chinese">“鲸之谷”是一个美丽而冷酷的地方。</span><span class="english">Wadi Hitan is a beautiful but unforgiving place.</span></p>
 
 <p><span class="chinese">它还提供了无限机会疯狂河道水上乐园。</span><span class="english">It also provides Unlimited access to Wild Wadi Water Park.</span></p>

@@ -1,5 +1,7 @@
 # 视而不见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shierbujian.md)
+
 <p><span class="chinese">他们视而不见，听而不闻。</span><span class="english">They ignore complaints.</span></p>
 
 <p><span class="chinese">可是艾莱柯对这种暗示视而不见。</span><span class="english">We must not wink at his error.</span></p>

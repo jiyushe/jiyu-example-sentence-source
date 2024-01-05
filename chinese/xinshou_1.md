@@ -1,5 +1,7 @@
 # 信手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshou_1.md)
+
 <p><span class="chinese">她在拍纸簿上信手画出一只小鸟。</span><span class="english">She doodled a bird on a pad.</span></p>
 
 <p><span class="chinese">我打电话时常常信手乱画。</span><span class="english">I often doodle when I'm on the phone.</span></p>

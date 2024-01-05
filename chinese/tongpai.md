@@ -1,5 +1,7 @@
 # 铜牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongpai.md)
+
 <p><span class="chinese">他获得三枚金牌和一枚铜牌。</span><span class="english">He won three golds and a bronze.</span></p>
 
 <p><span class="chinese">切赫和日本选手松田丈志分别获得该项目的银牌和铜牌。</span><span class="english">Takeshi Matsuda of Japan got the bronze.</span></p>

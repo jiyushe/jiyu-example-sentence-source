@@ -1,5 +1,7 @@
 # associate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/associate.md)
+
 <p><span class="chinese">勿与此辈来往。</span><span class="english">Don't associate with such people.</span></p>
 
 <p><span class="chinese">不要质疑，不要细述，不要联想。</span><span class="english">Do not elaborate. Do not associate.</span></p>

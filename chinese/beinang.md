@@ -1,5 +1,7 @@
 # 背囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beinang.md)
+
 <p><span class="chinese">我有一个背囊。</span><span class="english">I have a backpack.</span></p>
 
 <p><span class="chinese">背上了那个背囊，如今他就样样俱全了。</span><span class="english">He was complete now with that knapsack on.</span></p>

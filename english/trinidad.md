@@ -1,5 +1,7 @@
 # trinidad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trinidad.md)
+
 <p><span class="chinese">看在特里尼达的孩子们。</span><span class="english">Look at children in Trinidad.</span></p>
 
 <p><span class="chinese">特立尼达岛上的西班牙港是国家的首都。</span><span class="english">Port of Spain , on Trinidad , is the capital.</span></p>

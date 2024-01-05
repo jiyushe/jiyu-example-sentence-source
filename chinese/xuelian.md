@@ -1,5 +1,7 @@
 # 雪莲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuelian.md)
+
 <p><span class="chinese">加上天山雪莲配制而成。</span><span class="english">Plus the Lotus from Tin Shan.</span></p>
 
 <p><span class="chinese">究竟亚贡雪莲果的果实是什么味道的呢？</span><span class="english">What does yacon tuber taste like?</span></p>

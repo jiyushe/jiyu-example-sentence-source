@@ -1,5 +1,7 @@
 # immunoreaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunoreaction.md)
+
 <p><span class="chinese">腺泡细胞呈免疫反应阴性。</span><span class="english">The acinar cells were negative for immunoreaction.</span></p>
 
 <p><span class="chinese">免疫损伤可能参与了庚型肝炎的肝脏损伤机制。</span><span class="english">Immunoreaction may take part in the mechanisms of liver damage.</span></p>

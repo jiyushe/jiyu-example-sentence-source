@@ -1,5 +1,7 @@
 # involuntary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/involuntary.md)
+
 <p><span class="chinese">他注意到她那不由自主的姿势，微微一笑。</span><span class="english">He noticed her involuntary gesture, and smiled.</span></p>
 
 <p><span class="chinese">发愣是完全出自无意识了。</span><span class="english">Absence of mind is altogether an involuntary thing.</span></p>

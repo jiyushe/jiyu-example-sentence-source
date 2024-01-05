@@ -1,5 +1,7 @@
 # bigger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bigger.md)
+
 <p><span class="chinese">比-1大吧</span><span class="english">is bigger than -1.</span></p>
 
 <p><span class="chinese">即使是改变大的部件。</span><span class="english">And even bigger parts.</span></p>

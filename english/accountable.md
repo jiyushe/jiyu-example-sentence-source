@@ -1,5 +1,7 @@
 # accountable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accountable.md)
+
 <p><span class="chinese">谁是有责任的？</span><span class="english">Who is accountable?</span></p>
 
 <p><span class="chinese">让媒体负起责任.</span><span class="english">Hold the media accountable.</span></p>

@@ -1,5 +1,7 @@
 # 打头阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/datouzhen.md)
+
 <p><span class="chinese">傻瓜冲在前，笨蛋打头阵。</span><span class="english">A fool always rush to the fore.</span></p>
 
 <p><span class="chinese">坦克在那次进攻中打头阵。</span><span class="english">The tanks spearheaded the offensive.</span></p>

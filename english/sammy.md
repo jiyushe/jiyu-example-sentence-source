@@ -1,5 +1,7 @@
 # sammy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sammy.md)
+
 <p><span class="chinese">摇摆萨米当他摇摇晃晃。</span><span class="english">Sammy wiggled when he wobbled.</span></p>
 
 <p><span class="chinese">英勇的狗儿萨米与索�…</span><span class="english">Gallant Canines Sammy and Thor.</span></p>

@@ -1,5 +1,7 @@
 # 旁观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangguan.md)
+
 <p><span class="chinese">我只是旁观。</span><span class="english">I just watched.</span></p>
 
 <p><span class="chinese">欢快的起舞，就像没人旁观一样。</span><span class="english">Dance as if nobody is waching you.</span></p>

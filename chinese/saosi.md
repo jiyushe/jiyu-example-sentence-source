@@ -1,5 +1,7 @@
 # 缫丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saosi.md)
+
 <p><span class="chinese">我已经学会缫丝了。</span><span class="english">I've already learned silk reeling.</span></p>
 
 <p><span class="chinese">设计了缫丝煮茧机连续温度自动调节控制系统。</span><span class="english">The temperature automatic control system for reeling machina was designed.</span></p>

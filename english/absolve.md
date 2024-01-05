@@ -1,5 +1,7 @@
 # absolve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absolve.md)
+
 <p><span class="chinese">这并不能解除你的全部责任。</span><span class="english">This cannot absolve you from all responsibility.</span></p>
 
 <p><span class="chinese">用吸油纸吸油，再放到盘中。</span><span class="english">Absolve oil with kitchen paper, and move to plate.</span></p>

@@ -1,5 +1,7 @@
 # 精良
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingliang_1.md)
+
 <p><span class="chinese">设计与科技室是装备精良。</span><span class="english">D&T Room is well-equipped.</span></p>
 
 <p><span class="chinese">一部充满感情、打造精良的骗术影片。</span><span class="english">A well-crafted grifter tale with heart.</span></p>

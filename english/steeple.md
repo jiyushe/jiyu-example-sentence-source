@@ -1,5 +1,7 @@
 # steeple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steeple.md)
+
 <p><span class="chinese">钟楼上的小钟自鸣。</span><span class="english">Small steeple bells may ring.</span></p>
 
 <p><span class="chinese">另一颗炸弹抛在教堂的塔尖上。</span><span class="english">Another landed on the church steeple.</span></p>

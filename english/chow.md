@@ -1,5 +1,7 @@
 # chow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chow.md)
+
 <p><span class="chinese">好的松狮犬舍在哪里啊？</span><span class="english">Good Chow kennel where ah?</span></p>
 
 <p><span class="chinese">我们先吃饱饭再出发吧。</span><span class="english">Lets chow down before we go.</span></p>

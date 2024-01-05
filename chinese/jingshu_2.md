@@ -1,5 +1,7 @@
 # 警署
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingshu_2.md)
+
 <p><span class="chinese">在警署报失。</span><span class="english">Reporting loss at police station.</span></p>
 
 <p><span class="chinese">我们又一次回到了警署。</span><span class="english">We go back to the second police station.</span></p>

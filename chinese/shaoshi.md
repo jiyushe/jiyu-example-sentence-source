@@ -1,5 +1,7 @@
 # 少时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoshi.md)
+
 <p><span class="chinese">少时闲混，到老穷困。</span><span class="english">Idle young, needy old.</span></p>
 
 <p><span class="chinese">少时闲混，老来穷困。</span><span class="english">A young man idle, an old man needy.</span></p>

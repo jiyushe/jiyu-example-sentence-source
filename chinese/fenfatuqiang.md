@@ -1,5 +1,7 @@
 # 奋发图强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfatuqiang.md)
+
 <p><span class="chinese">他们奋发图强为了谁？</span><span class="english">They make efforts to who?</span></p>
 
 <p><span class="chinese">那将激励你奋发图强还是让你变得消极厌世呢？</span><span class="english">Did it motivate or demotivate you?</span></p>

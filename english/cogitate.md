@@ -1,5 +1,7 @@
 # cogitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cogitate.md)
+
 <p><span class="chinese">我需要几天的时间来思考这问题。</span><span class="english">I need a few days to cogitate the problem.</span></p>
 
 <p><span class="chinese">缺乏战略管理思维是根本。</span><span class="english">The reason is lack of strategic management cogitate.</span></p>

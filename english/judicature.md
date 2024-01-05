@@ -1,5 +1,7 @@
 # judicature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judicature.md)
+
 <p><span class="chinese">司法改革在走回头路吗?。</span><span class="english">Does Reform of Judicature Return Again?</span></p>
 
 <p><span class="chinese">你能给我解释一下司法系统的功能吗？</span><span class="english">Can you explain to me the function of judicature?</span></p>

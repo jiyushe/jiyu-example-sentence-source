@@ -1,5 +1,7 @@
 # manfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manfully.md)
+
 <p><span class="chinese">他勇敢地面对苦难。</span><span class="english">He bore his sufferings manfully.</span></p>
 
 <p><span class="chinese">他勇敢地面对困难。</span><span class="english">He faced up to his troubles manfully.</span></p>

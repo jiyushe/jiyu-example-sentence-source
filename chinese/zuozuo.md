@@ -1,5 +1,7 @@
 # 做作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuozuo.md)
+
 <p><span class="chinese">她演得太做作。</span><span class="english">She overdoes her acting.</span></p>
 
 <p><span class="chinese">她在相机前摆出做作的姿势。</span><span class="english">She postured before the camera.</span></p>

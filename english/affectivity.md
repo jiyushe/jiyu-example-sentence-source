@@ -1,5 +1,7 @@
 # affectivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affectivity.md)
+
 <p><span class="chinese">情感包含了情绪与情意。</span><span class="english">Human affectivity includes emotions and feelings.</span></p>
 
 <p><span class="chinese">最后通过实验验证了方法的有效性。</span><span class="english">In the end, the affectivity of the method is tested by an experiment.</span></p>

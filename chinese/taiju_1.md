@@ -1,5 +1,7 @@
 # 胎具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiju_1.md)
+
 <p><span class="chinese">月饼是用胎具扣出来再烤制的。</span><span class="english">Moon cakes are baked in certain equipment.</span></p>
 
 <p><span class="chinese">铰刀的精度是以胎具的制造精度为基础。</span><span class="english">The precision of reamer depends on the precision of die.</span></p>

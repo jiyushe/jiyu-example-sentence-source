@@ -1,5 +1,7 @@
 # livery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/livery.md)
+
 <p><span class="chinese">他父亲经营着一个马车出租店。</span><span class="english">His father kept a livery stable.</span></p>
 
 <p><span class="chinese">门由一个穿制服的仆人打开了。</span><span class="english">The door was opened by a servant in livery.</span></p>

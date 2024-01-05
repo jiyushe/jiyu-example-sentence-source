@@ -1,5 +1,7 @@
 # heatproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heatproof.md)
+
 <p><span class="chinese">把切碎的巧克力放在耐高温的碗中。</span><span class="english">Place the chopped chocolate into a heatproof bowl.</span></p>
 
 <p><span class="chinese">耐热硅橡胶密封圈，不易老化。</span><span class="english">Heatproof silastic sealed ring, non-aging and good sealing property.</span></p>

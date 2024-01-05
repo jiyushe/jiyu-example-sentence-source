@@ -1,5 +1,7 @@
 # tbs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tbs.md)
+
 <p><span class="chinese">我同意精英商学院处理我的申请。</span><span class="english">I give my consent to the processing of my data by TBS.</span></p>
 
 <p><span class="chinese">喷雾器里，一夸脱水兑四勺苏打可做成一般清洁剂。</span><span class="english">Use it for general cleaning by adding 4 tbs to 1 q of water in a spray bottle.</span></p>

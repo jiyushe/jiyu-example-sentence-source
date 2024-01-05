@@ -1,5 +1,7 @@
 # 气泡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qipao_1.md)
+
 <p><span class="chinese">气泡破了。</span><span class="english">The bubble has burst.</span></p>
 
 <p><span class="chinese">那个男孩在吹气泡。</span><span class="english">The boy was blowing bubbles.</span></p>

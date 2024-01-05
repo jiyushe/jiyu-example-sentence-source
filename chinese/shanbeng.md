@@ -1,5 +1,7 @@
 # 山崩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanbeng.md)
+
 <p><span class="chinese">山崩挟带下大量的碎岩石。</span><span class="english">A landslide brings down tons of debris.</span></p>
 
 <p><span class="chinese">山崩地裂水倒流。</span><span class="english">Landslide ground crack water flow back.</span></p>

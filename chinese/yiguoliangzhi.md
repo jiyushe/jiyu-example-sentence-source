@@ -1,5 +1,7 @@
 # 一国两制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiguoliangzhi.md)
+
 <p><span class="chinese">但要成功落实「一国两制」，香港亦必须尽己本份。</span><span class="english">But for " one country, two systems" to work, Hong Kong must also do our part.</span></p>
 
 <p><span class="chinese">民主党形容此举将对一国两制造成「空前灾难」。</span><span class="english">The Democrats described it as a "catastrophic blow" to "one country two systems".</span></p>

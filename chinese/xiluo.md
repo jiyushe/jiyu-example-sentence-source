@@ -1,5 +1,7 @@
 # 奚落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiluo.md)
+
 <p><span class="chinese">有时他甚至奚落他们。</span><span class="english">At times he even taunts them.</span></p>
 
 <p><span class="chinese">颠簸在奚落与嘈杂的虚无之中</span><span class="english">Into the nothingness of scorn and noise</span></p>

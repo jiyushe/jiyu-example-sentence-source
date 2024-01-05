@@ -1,5 +1,7 @@
 # radially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radially.md)
+
 <p><span class="chinese">这种类型也可作为一个径向录音版本。</span><span class="english">This type is also available as a radially taped version.</span></p>
 
 <p><span class="chinese">取代横向纵向切割的是，我们沿半径切割。</span><span class="english">Instead of slicing horizontally or vertically,we slice radially.</span></p>

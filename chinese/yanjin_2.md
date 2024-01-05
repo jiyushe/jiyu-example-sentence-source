@@ -1,5 +1,7 @@
 # 演进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjin_2.md)
+
 <p><span class="chinese">投资于资产演进。</span><span class="english">Investment in asset evolution.</span></p>
 
 <p><span class="chinese">这种主体性创作推进了词史演进。</span><span class="english">This pushed forward the creation of ci.</span></p>

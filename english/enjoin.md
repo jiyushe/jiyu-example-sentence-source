@@ -1,5 +1,7 @@
 # enjoin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enjoin.md)
+
 <p><span class="chinese">患侧在上，嘱患肢屈膝屈髋。</span><span class="english">Paretic in, enjoin limb knees hip flexor.</span></p>
 
 <p><span class="chinese">她放─根手指在她旳唇上以交待安静。</span><span class="english">She put a finger to her lips to enjoin silence.</span></p>

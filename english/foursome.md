@@ -1,5 +1,7 @@
 # foursome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foursome.md)
+
 <p><span class="chinese">我怒视着这欢乐四人组。</span><span class="english">I glared at the merry foursome.</span></p>
 
 <p><span class="chinese">他们四人组去看电影。</span><span class="english">They went to the cinema in a foursome.</span></p>

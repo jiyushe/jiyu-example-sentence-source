@@ -1,5 +1,7 @@
 # lemony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lemony.md)
+
 <p><span class="chinese">这种色拉调料的柠檬味太重。</span><span class="english">The salad dressing was too lemony.</span></p>
 
 <p><span class="chinese">此酒呈带柠檬色泽的淡金黄色。</span><span class="english">The wine is a light golden yellow with lemony lights.</span></p>

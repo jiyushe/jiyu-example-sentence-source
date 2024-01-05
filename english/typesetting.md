@@ -1,5 +1,7 @@
 # typesetting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typesetting.md)
+
 <p><span class="chinese">关于排字的历史及行业。</span><span class="english">About the history and practice of typesetting.</span></p>
 
 <p><span class="chinese">我有给你们一些手稿请你们排版。</span><span class="english">I have left some manuscripts with you for typesetting.</span></p>

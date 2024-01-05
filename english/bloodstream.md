@@ -1,5 +1,7 @@
 # bloodstream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodstream.md)
+
 <p><span class="chinese">医生将盘尼西林注射入血液。</span><span class="english">The doctor injected penicillin into the bloodstream.</span></p>
 
 <p><span class="chinese">什么是导管相关血流感染？</span><span class="english">What is a catheter-associated bloodstream infection?</span></p>

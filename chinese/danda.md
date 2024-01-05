@@ -1,5 +1,7 @@
 # 单打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danda.md)
+
 <p><span class="chinese">约翰一举赢了一场双打和两场单打。</span><span class="english">John collected a double and two singles.</span></p>
 
 <p><span class="chinese">欧文的最厉害的技能包就是单打得分。</span><span class="english">Kyrie's greatest skill is his isolation scoring.</span></p>

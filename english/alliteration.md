@@ -1,5 +1,7 @@
 # alliteration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alliteration.md)
+
 <p><span class="chinese">这种梨花体会带来生意。</span><span class="english">That kind of alliteration will bring in the business.</span></p>
 
 <p><span class="chinese">我们知道，诗人一般总喜欢押头韵，觉得重复一个声音会产生美之效果。</span><span class="english">Poets as we know have always a made great use of alliteration.</span></p>

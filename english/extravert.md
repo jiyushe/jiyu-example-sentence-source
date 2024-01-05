@@ -1,5 +1,7 @@
 # extravert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extravert.md)
+
 <p><span class="chinese">用你自己的方式外倾。</span><span class="english">Extravert in your own style.</span></p>
 
 <p><span class="chinese">同样的交谈能让外向者荣光焕发，却让内向者精神颓靡。</span><span class="english">The same conversation that energizes the extravert also drains the introvert.</span></p>

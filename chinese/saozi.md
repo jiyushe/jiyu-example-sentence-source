@@ -1,5 +1,7 @@
 # 嫂子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saozi.md)
+
 <p><span class="chinese">你嫂子也工作吗?。</span><span class="english">Does your sister-in-law work too?</span></p>
 
 <p><span class="chinese">今天是哥哥和嫂子结缡的大喜日子。</span><span class="english">Today is the day my brother gets married.</span></p>

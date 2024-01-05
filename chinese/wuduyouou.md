@@ -1,5 +1,7 @@
 # 无独有偶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuduyouou.md)
+
 <p><span class="chinese">无独有偶地，这样的相似区块也出现在北极附近。</span><span class="english">A clump of similar patches exists near the North Pole.</span></p>
 
 <p><span class="chinese">在测试产品时凌虐动物这一方面，工业是无独有偶的。</span><span class="english">Industry is not alone in its abuse of animals in product testing.</span></p>

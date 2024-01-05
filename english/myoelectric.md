@@ -1,5 +1,7 @@
 # myoelectric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myoelectric.md)
+
 <p><span class="chinese">在20只家兔记录胃结肠肌电活动。</span><span class="english">The myoelectric activity of gastro-colon was recorded in 20 rabbits.</span></p>
 
 <p><span class="chinese">提示法莫替丁可兴奋胃窦肌电活动。</span><span class="english">The conclusion is famotidine could excite antral myoelectric activity.</span></p>

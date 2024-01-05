@@ -1,5 +1,7 @@
 # cruise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cruise.md)
+
 <p><span class="chinese">这邮轮的船龄有多长了？</span><span class="english">How old is the cruise ship?</span></p>
 
 <p><span class="chinese">汤姆·克鲁斯与卡梅隆·迪亚茨。</span><span class="english">Tom Cruise and Cameron Diaz.</span></p>

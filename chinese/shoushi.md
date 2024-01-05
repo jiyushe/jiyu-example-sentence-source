@@ -1,5 +1,7 @@
 # 受事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoushi.md)
+
 <p><span class="chinese">报纸新闻导语狭义受事主语句的构成成分分析。</span><span class="english">I. Types of narrow-sense accusative subject sentence in newspaper news lead.</span></p>
 
 <p><span class="chinese">汉语教学中，格语法适用于非受事宾语。</span><span class="english">In Chinese teaching, case grammar can be applied to teach non-patient objects.</span></p>

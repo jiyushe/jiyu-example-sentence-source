@@ -1,5 +1,7 @@
 # paul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paul.md)
+
 <p><span class="chinese">保罗不得任何报酬。</span><span class="english">Not Paul.</span></p>
 
 <p><span class="chinese">我是保罗-雷伯恩。</span><span class="english">I'm Paul Raeburn.</span></p>

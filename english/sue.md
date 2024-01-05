@@ -1,5 +1,7 @@
 # sue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sue.md)
+
 <p><span class="chinese">可怜的亚历克斯和苏。</span><span class="english">Poor Alex and Sue.</span></p>
 
 <p><span class="chinese">哈罗，我是苏。</span><span class="english">Hello, this is Sue.</span></p>

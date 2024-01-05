@@ -1,5 +1,7 @@
 # submarine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submarine.md)
+
 <p><span class="chinese">我命令我的潜艇潜航。</span><span class="english">I ordered the submarine to snorkel.</span></p>
 
 <p><span class="chinese">那么，现代潜艇到底有多牛？</span><span class="english">How effective is the modern submarine?</span></p>

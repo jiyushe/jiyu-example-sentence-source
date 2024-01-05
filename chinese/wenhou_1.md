@@ -1,5 +1,7 @@
 # 问候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhou_1.md)
+
 <p><span class="chinese">问候你老豆！</span><span class="english">Greet you father!</span></p>
 
 <p><span class="chinese">感谢和问候。</span><span class="english">Thanks and regards.</span></p>

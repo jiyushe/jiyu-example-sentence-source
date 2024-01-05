@@ -1,5 +1,7 @@
 # 前边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianbian.md)
+
 <p><span class="chinese">“是的，看前边！”迪格雷说。</span><span class="english">"Yes, but look ahead! " said Digory.</span></p>
 
 <p><span class="chinese">卸掉绞车前边的护罩。</span><span class="english">Remove the front cover of the drawworks.</span></p>

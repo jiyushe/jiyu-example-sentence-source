@@ -1,5 +1,7 @@
 # plaque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plaque.md)
+
 <p><span class="chinese">刷掉牙菌斑！</span><span class="english">Give plaque the brush-off!</span></p>
 
 <p><span class="chinese">这个匾额怎么奇怪了？</span><span class="english">How strange is this plaque?</span></p>

@@ -1,5 +1,7 @@
 # richness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/richness.md)
+
 <p><span class="chinese">富贵回答说，不，我不能。</span><span class="english">Richness answered, No, I can't.</span></p>
 
 <p><span class="chinese">品尝并欣赏它的色香味。</span><span class="english">Taste it and appreciate its richness.</span></p>

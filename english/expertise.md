@@ -1,5 +1,7 @@
 # expertise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expertise.md)
+
 <p><span class="chinese">我们提供专门知识。</span><span class="english">We deliver expertise.</span></p>
 
 <p><span class="chinese">一些公司也面临着专门人才的短缺。</span><span class="english">Some also face a shortage of expertise.</span></p>

@@ -1,5 +1,7 @@
 # debit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debit.md)
+
 <p><span class="chinese">我只用提款卡。</span><span class="english">I use debit card only.</span></p>
 
 <p><span class="chinese">考虑预付费的银行借记卡。</span><span class="english">Consider pre-paid debit cards.</span></p>

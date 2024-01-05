@@ -1,5 +1,7 @@
 # amount 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amount.md)
+
 <p><span class="chinese">金额以元为单位。</span><span class="english">Amount to dollar.</span></p>
 
 <p><span class="chinese">设置索赔金额。</span><span class="english">Sets the claim amount.</span></p>

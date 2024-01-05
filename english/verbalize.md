@@ -1,5 +1,7 @@
 # verbalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verbalize.md)
+
 <p><span class="chinese">她没有说过她有多喜欢我。</span><span class="english">She doesn't verbalize how much she likes me.</span></p>
 
 <p><span class="chinese">再一次让学生描述他自己的进步。</span><span class="english">Once again, let the student verbalize his own growth.</span></p>

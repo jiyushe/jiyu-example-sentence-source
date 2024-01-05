@@ -1,5 +1,7 @@
 # adjutant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjutant.md)
+
 <p><span class="chinese">“好了，爵爷。”副官说。</span><span class="english">"Yes, your excellency, " said the adjutant.</span></p>
 
 <p><span class="chinese">是否像那个不停呻吟的副官的样子？</span><span class="english">Was he like that unceasing moan of the adjutant?</span></p>

@@ -1,5 +1,7 @@
 # 强悍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianghan.md)
+
 <p><span class="chinese">写作者怎样才能写得更“强悍”？</span><span class="english">How can writers write “stronger”?</span></p>
 
 <p><span class="chinese">而女孩在那个年龄段都很强悍。</span><span class="english">Girls are all-consuming at that age.</span></p>

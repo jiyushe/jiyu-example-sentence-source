@@ -1,5 +1,7 @@
 # agitator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agitator.md)
+
 <p><span class="chinese">旋转的鼓动者灌溉他。</span><span class="english">The rotary agitator irrigated him.</span></p>
 
 <p><span class="chinese">旋转的鼓动者可灌溉的他。</span><span class="english">The rotary agitator irrigated him.</span></p>

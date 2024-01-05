@@ -1,5 +1,7 @@
 # 生造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzao.md)
+
 <p><span class="chinese">不要生造谁也不懂的术语。</span><span class="english">Do not coin terms that are intelligible to nobody.</span></p>
 
 <p><span class="chinese">花药壁按特有方式发生，主要特点是绒毡层与次生造孢细胞同源。</span><span class="english">The haploid pollen cells develop in the tapetal zone from spore mother cells.</span></p>

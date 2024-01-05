@@ -1,5 +1,7 @@
 # esop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esop.md)
+
 <p><span class="chinese">更多的研究是在员工持股的运行机制上下功夫。</span><span class="english">And much more research is made on the running mechanism of ESOP.</span></p>
 
 <p><span class="chinese">在貌似平静的职工持股会外表下面，其实是暗潮涌动。</span><span class="english">In the seemingly calm facade ESOP Association is actually surging undercurrent.</span></p>

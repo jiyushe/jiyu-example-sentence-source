@@ -1,5 +1,7 @@
 # backwash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backwash.md)
+
 <p><span class="chinese">要定期冲洗游泳池的滤水器。</span><span class="english">Backwash the swimming pool's filters regularly.</span></p>
 
 <p><span class="chinese">那艘经过的船造成的回浪让我们措手不及。</span><span class="english">The backwash of the passing boat took us a surprise.</span></p>

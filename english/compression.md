@@ -1,5 +1,7 @@
 # compression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compression.md)
+
 <p><span class="chinese">压塑成型是什么?。</span><span class="english">What is compression molding?</span></p>
 
 <p><span class="chinese">放松压紧螺帽工具。</span><span class="english">Loosen the compression nut tool.</span></p>

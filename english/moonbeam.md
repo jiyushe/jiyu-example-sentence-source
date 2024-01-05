@@ -1,5 +1,7 @@
 # moonbeam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moonbeam.md)
+
 <p><span class="chinese">银色月光洒下的道路。</span><span class="english">A path of silver moonbeam.</span></p>
 
 <p><span class="chinese">我是一个投机的月光猴子。</span><span class="english">I'm a moonbeam monkey on spec.</span></p>

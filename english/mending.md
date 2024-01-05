@@ -1,5 +1,7 @@
 # mending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mending.md)
+
 <p><span class="chinese">我的鞋需要补一补。</span><span class="english">My shoes need mending.</span></p>
 
 <p><span class="chinese">这双鞋需要修理。</span><span class="english">The shoes need mending.</span></p>

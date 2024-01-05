@@ -1,5 +1,7 @@
 # 毫无二致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haowuerzhi.md)
+
 <p><span class="chinese">她毫无二致地爱每个人。</span><span class="english">She loves each human the same way.</span></p>
 
 <p><span class="chinese">那两个兄弟毫无二致。</span><span class="english">The twin brothers are as like as two peas.</span></p>

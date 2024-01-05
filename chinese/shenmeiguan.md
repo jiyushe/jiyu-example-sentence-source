@@ -1,5 +1,7 @@
 # 审美观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenmeiguan.md)
+
 <p><span class="chinese">我妹妹的服饰审美观完全与我相反。</span><span class="english">My sister's taste in dresses is adverse to my own.</span></p>
 
 <p><span class="chinese">他们几乎不欣赏艺术，也缺乏审美观。</span><span class="english">They have little appreciation for the arts and have poor esthetics.</span></p>

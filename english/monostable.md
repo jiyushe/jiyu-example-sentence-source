@@ -1,5 +1,7 @@
 # monostable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monostable.md)
+
 <p><span class="chinese">本文对单稳态触发器的设计原理进行了研究。</span><span class="english">The design principle of monostable flip flops is investigated in this paper.</span></p>
 
 <p><span class="chinese">任意一个计时器都可以按照图9所示连接。</span><span class="english">For monostable operation, any of these timers can be connected as shown in Figure 9.</span></p>

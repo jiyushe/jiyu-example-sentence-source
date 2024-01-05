@@ -1,5 +1,7 @@
 # Antarctic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antarctic.md)
+
 <p><span class="chinese">南极不长树木。高考作文。</span><span class="english">Trees don't grow in the Antarctic.</span></p>
 
 <p><span class="chinese">全南极海冰区。</span><span class="english">SPI4, the whole Antarctic sea region.</span></p>

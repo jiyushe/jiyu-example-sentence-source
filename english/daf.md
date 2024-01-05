@@ -1,5 +1,7 @@
 # daf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daf.md)
+
 <p><span class="chinese">通过流式细胞仪检测转染细胞DAF的表达情况。</span><span class="english">The expression of DAF was assayed by flow cytometry.</span></p>
 
 <p><span class="chinese">朋友们除了听音乐，欣赏DAF设计展，还拿到了很多动保的资料。</span><span class="english">Except listening music , appreciating DAF design exhibition , friends also get so many materials for animal protection.</span></p>

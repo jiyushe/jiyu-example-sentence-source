@@ -1,5 +1,7 @@
 # preparation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preparation.md)
+
 <p><span class="chinese">我没有充分的准备。</span><span class="english">I have no adequate preparation.</span></p>
 
 <p><span class="chinese">基本的准备工作。</span><span class="english">Mise en place basic preparation.</span></p>

@@ -1,5 +1,7 @@
 # cab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cab.md)
+
 <p><span class="chinese">这辆是空车吗？</span><span class="english">Is this cab available?</span></p>
 
 <p><span class="chinese">一辆一尘不染的出租车停在面前。</span><span class="english">A spotless cab pulled up.</span></p>

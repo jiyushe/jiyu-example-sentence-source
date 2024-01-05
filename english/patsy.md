@@ -1,5 +1,7 @@
 # patsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patsy.md)
+
 <p><span class="chinese">不要让我替你顶罪。</span><span class="english">Don't make me your patsy.</span></p>
 
 <p><span class="chinese">帕齐她可以唱任何地方。</span><span class="english">Patsy sang anywhere she could.</span></p>

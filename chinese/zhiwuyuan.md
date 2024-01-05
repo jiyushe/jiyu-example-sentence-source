@@ -1,5 +1,7 @@
 # 植物园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwuyuan.md)
+
 <p><span class="chinese">什么是植物园？</span><span class="english">What is and arboretum?</span></p>
 
 <p><span class="chinese">植物园中的温室。</span><span class="english">Hothouse in Botanic gardens.</span></p>

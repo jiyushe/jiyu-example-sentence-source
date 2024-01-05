@@ -1,5 +1,7 @@
 # carryout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carryout.md)
+
 <p><span class="chinese">订货时要求交付或结转库存。</span><span class="english">When ordering ask for delivery or carryout.</span></p>
 
 <p><span class="chinese">并且我们一定要严格执行这些计划。</span><span class="english">And we should certainly carryout these plans to the letter.</span></p>

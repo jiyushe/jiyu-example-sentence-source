@@ -1,5 +1,7 @@
 # dike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dike.md)
+
 <p><span class="chinese">洪水冲坍了那座堤坝。</span><span class="english">The floods caved in that dike.</span></p>
 
 <p><span class="chinese">堤坝在洪水中屹立不动。</span><span class="english">The dike held during the flood.</span></p>

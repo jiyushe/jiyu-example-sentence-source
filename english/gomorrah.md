@@ -1,5 +1,7 @@
 # gomorrah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gomorrah.md)
+
 <p><span class="chinese">你有没有见过蛾摩拉？</span><span class="english">Did you ever visit Gomorrah?</span></p>
 
 <p><span class="chinese">诺亚毁灭了所多玛与蛾摩拉。</span><span class="english">Noah destroyed Sodom and Gomorrah.</span></p>

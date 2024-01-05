@@ -1,5 +1,7 @@
 # 风华正茂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenghuazhengmao.md)
+
 <p><span class="chinese">风华正茂的年纪。</span><span class="english">The age of their youth.</span></p>
 
 <p><span class="chinese">病魔使风华正茂的史密斯英年早逝。</span><span class="english">Disease cut Smith off in the best part of life.</span></p>

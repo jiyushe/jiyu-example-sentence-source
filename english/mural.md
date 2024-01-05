@@ -1,5 +1,7 @@
 # mural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mural.md)
+
 <p><span class="chinese">壁画上是释迦牟尼在说法。</span><span class="english">The mural depicts Sakyamuni teaching.</span></p>
 
 <p><span class="chinese">他们在一座古寺里发现一幅壁画。</span><span class="english">In an ancient temple, they see a mural on the wall.</span></p>

@@ -1,5 +1,7 @@
 # superficiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superficiality.md)
+
 <p><span class="chinese">他们的鄙陋无知造成大错。</span><span class="english">Their superficiality and ignorance led to a great mistake.</span></p>
 
 <p><span class="chinese">类似的浅薄差不多可以在所有行业发现。</span><span class="english">The same superficiality is found in nearly all kinds of business.</span></p>

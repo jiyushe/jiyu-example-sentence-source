@@ -1,5 +1,7 @@
 # suzerain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suzerain.md)
+
 <p><span class="chinese">领主表明自我身份。</span><span class="english">The suzerain identifies himself.</span></p>
 
 <p><span class="chinese">以优越的或者权威的位置。</span><span class="english">The position or authority of a suzerain.</span></p>

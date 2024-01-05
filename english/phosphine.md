@@ -1,5 +1,7 @@
 # phosphine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphine.md)
+
 <p><span class="chinese">氧气对吸附态磷化氢的影响不显著。</span><span class="english">Oxygen showed little effect on matrix bound phosphine.</span></p>
 
 <p><span class="chinese">熏蒸期间用磷化氢检测管测定PH3浓度。</span><span class="english">PH3, concentration was monitored using phosphine detection tubes.</span></p>

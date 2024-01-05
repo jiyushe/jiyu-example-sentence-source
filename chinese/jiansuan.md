@@ -1,5 +1,7 @@
 # 尖酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiansuan.md)
+
 <p><span class="chinese">她惯于用尖酸刻薄语言挖苦人。</span><span class="english">She was given to using bitter sarcasm.</span></p>
 
 <p><span class="chinese">在任何情况下，这都是一位尖酸刻薄。</span><span class="english">In any case, this is all a bit nit-picky.</span></p>

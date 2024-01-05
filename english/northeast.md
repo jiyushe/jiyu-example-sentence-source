@@ -1,5 +1,7 @@
 # northeast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northeast.md)
+
 <p><span class="chinese">东北高速公路全部封闭。</span><span class="english">Northeast Expressway all closed.</span></p>
 
 <p><span class="chinese">西冬风，威严力6级。</span><span class="english">Wind Northeast force Beaufort 6.</span></p>

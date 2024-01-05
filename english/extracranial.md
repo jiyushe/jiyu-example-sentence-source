@@ -1,5 +1,7 @@
 # extracranial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extracranial.md)
+
 <p><span class="chinese">方法10例颅外颈动脉血管SCTA及三维重建。</span><span class="english">Methods 10 cases of extracranial carotid artery were examined by SCTA.</span></p>
 
 <p><span class="chinese">神经母细胞瘤是儿童最常见的颅外实体肿瘤。</span><span class="english">Neuroblastoma is the most common extracranial solid tumor in children.</span></p>

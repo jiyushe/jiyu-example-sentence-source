@@ -1,5 +1,7 @@
 # hoover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoover.md)
+
 <p><span class="chinese">你可以用吸尘器清扫天花板。</span><span class="english">You can hoover the ceiling.</span></p>
 
 <p><span class="chinese">胡佛留下的遗风毁誉参半。</span><span class="english">Hoover leaves a bipolar legacy.</span></p>

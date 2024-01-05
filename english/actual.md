@@ -1,5 +1,7 @@
 # actual 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actual.md)
+
 <p><span class="chinese">现在我们演示实际操作。</span><span class="english">Now for the actual work.</span></p>
 
 <p><span class="chinese">这是真实的事件。</span><span class="english">This was an actual event.</span></p>

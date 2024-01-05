@@ -1,5 +1,7 @@
 # tor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tor.md)
+
 <p><span class="chinese">活贤社区中心。</span><span class="english">Woodgreen Community Centre of Tor.</span></p>
 
 <p><span class="chinese">你们有任何晕机药品吗？</span><span class="english">Do you have any medicine tor airsickness?</span></p>

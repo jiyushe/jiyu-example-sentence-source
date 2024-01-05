@@ -1,5 +1,7 @@
 # teletype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teletype.md)
+
 <p><span class="chinese">是的，通过电传打字电报。</span><span class="english">Yes, via teletype.</span></p>
 
 <p><span class="chinese">电传打字电报机在纸带上打出电报来。</span><span class="english">The teletype is ticking out messages.</span></p>

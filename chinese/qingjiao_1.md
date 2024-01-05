@@ -1,5 +1,7 @@
 # 青椒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjiao_1.md)
+
 <p><span class="chinese">还有洋葱和青椒。</span><span class="english">As well as onions and green peppers.</span></p>
 
 <p><span class="chinese">我想要一个带中红柿和青椒的披萨饼。</span><span class="english">I'd like a tomato and green pepper pizza.</span></p>

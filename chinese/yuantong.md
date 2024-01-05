@@ -1,5 +1,7 @@
 # 圆通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuantong.md)
+
 <p><span class="chinese">要想避免那样，你必须做出改变、灵活圆通。</span><span class="english">To avoid that, you must change and be flexible.</span></p>
 
 <p><span class="chinese">采用“日本”进口镜面不�钢圆通制造。</span><span class="english">Made of Stainless Steel which inport from Japan.</span></p>

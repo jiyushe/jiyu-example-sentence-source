@@ -1,5 +1,7 @@
 # 呵呵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hehe.md)
+
 <p><span class="chinese">呵呵，我真的需要这个。</span><span class="english">I so need this!</span></p>
 
 <p><span class="chinese">呵呵，好轻松啊！</span><span class="english">Oh, good easy ah!</span></p>

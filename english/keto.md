@@ -1,5 +1,7 @@
 # keto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keto.md)
+
 <p><span class="chinese">在许多醛和酮中酮基都是最主要的组分。</span><span class="english">The keto form predominates in many aldehydes and ketones, the enol form in phenols.</span></p>
 
 <p><span class="chinese">由此表明了在生成RDX酮的反应过程中，硝基脲上比脲更为合适的反应形式。</span><span class="english">This proved that nitrourea was a more suitable reactant than urea to synthesize Keto -RDX.</span></p>

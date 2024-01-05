@@ -1,5 +1,7 @@
 # manoeuvre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manoeuvre.md)
+
 <p><span class="chinese">他们施巧夺天工计拖垮了敌人。</span><span class="english">They laid out the enemy by skilful manoeuvre.</span></p>
 
 <p><span class="chinese">他们施巧计拖垮了敌人。</span><span class="english">They tired out the enemy by skilful manoeuvre.</span></p>

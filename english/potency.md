@@ -1,5 +1,7 @@
 # potency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potency.md)
+
 <p><span class="chinese">权力和力量有许多不固定的形式。</span><span class="english">Power and potency come in many fluid forms.</span></p>
 
 <p><span class="chinese">冷藏可以坚持益生菌的最好效能。</span><span class="english">Culturelle maintains potency best when refrigerated.</span></p>

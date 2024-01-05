@@ -1,5 +1,7 @@
 # incivility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incivility.md)
+
 <p><span class="chinese">他们对你非礼了吗？</span><span class="english">Are they right your incivility ?</span></p>
 
 <p><span class="chinese">当人家找你说话时拒绝答应是极其无礼的事。</span><span class="english">It is gross incivility to refuse answer when spoken to.</span></p>

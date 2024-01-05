@@ -1,5 +1,7 @@
 # sulfide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfide.md)
+
 <p><span class="chinese">一种黄色的硫化物，主要用作色素。</span><span class="english">A red mercuric sulfide used as a pigment.</span></p>
 
 <p><span class="chinese">方铅矿这种矿物就是由铅硫化物组成的。</span><span class="english">The mineral galena is composed of lead sulfide.</span></p>

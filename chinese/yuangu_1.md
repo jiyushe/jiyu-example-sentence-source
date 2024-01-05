@@ -1,5 +1,7 @@
 # 远古
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuangu_1.md)
+
 <p><span class="chinese">DNF远古腰带任务怎样做？</span><span class="english">DNF ancient belt task to do?</span></p>
 
 <p><span class="chinese">幽州远古时代的九州之一。</span><span class="english">Youzhou of Kyushu, one of ancient times.</span></p>

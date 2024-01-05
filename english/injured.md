@@ -1,5 +1,7 @@
 # injured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/injured.md)
+
 <p><span class="chinese">他有一条腿受伤了。</span><span class="english">He has an injured? leg.</span></p>
 
 <p><span class="chinese">你象是受了委曲的样子。</span><span class="english">You have an injured look.</span></p>

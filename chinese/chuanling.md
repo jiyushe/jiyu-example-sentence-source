@@ -1,5 +1,7 @@
 # 传令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanling.md)
+
 <p><span class="chinese">军士麦考夫是我的传令兵。</span><span class="english">Sergeant mckeogh was my orderly.</span></p>
 
 <p><span class="chinese">还只是喧闹春天的传令兵。</span><span class="english">And only herald to the gaudy spring.</span></p>

@@ -1,5 +1,7 @@
 # 文采
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wencai_1.md)
+
 <p><span class="chinese">跟凯文采蘑菇时我就是这一切。</span><span class="english">I am these when I am taking mushrooms with Kevin.</span></p>
 
 <p><span class="chinese">文采飞扬的美国哥伦比亚广播公司新闻编辑室的一半员工被裁掉的一天。</span><span class="english">Literarily half of the CBS newsroom got laid off one day.</span></p>

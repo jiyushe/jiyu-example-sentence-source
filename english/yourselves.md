@@ -1,5 +1,7 @@
 # yourselves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yourselves.md)
+
 <p><span class="chinese">眼见为实。</span><span class="english">See for yourselves.</span></p>
 
 <p><span class="chinese">去研究自己。</span><span class="english">To study yourselves.</span></p>

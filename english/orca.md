@@ -1,5 +1,7 @@
 # orca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orca.md)
+
 <p><span class="chinese">和抹香鲸和逆戟鲸的结果一样。</span><span class="english">Same result as Sperm Whale vs Orca.</span></p>
 
 <p><span class="chinese">杀人鲸捕猎时就像一群狼，无所畏惧。</span><span class="english">Hunting like a pack of wolves, orca know no fear.</span></p>

@@ -1,5 +1,7 @@
 # trichomoniasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trichomoniasis.md)
+
 <p><span class="chinese">滴虫病比梅毒常见。</span><span class="english">Trichomoniasis is more common than syphilis.</span></p>
 
 <p><span class="chinese">患有滴虫病的女性不可能传染其他的女性。</span><span class="english">Females cannot infect other females with trichomoniasis.</span></p>

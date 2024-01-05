@@ -1,5 +1,7 @@
 # redeemable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redeemable.md)
+
 <p><span class="chinese">在此之后，你的奖金不再赎回。</span><span class="english">After that, your bonus is no longer redeemable.</span></p>
 
 <p><span class="chinese">兑换券限本人使用，不得转让或兑换现金。</span><span class="english">The coupon is not transferable or redeemable for cash.</span></p>

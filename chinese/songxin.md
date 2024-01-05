@@ -1,5 +1,7 @@
 # 送信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songxin.md)
+
 <p><span class="chinese">海娃刚刚送信，就遇上了鬼子！</span><span class="english">Eva just send letters, sea met the devil!</span></p>
 
 <p><span class="chinese">后来，邮递员骑自行车送信。</span><span class="english">Later mailmen rode bicycles to send letters.</span></p>

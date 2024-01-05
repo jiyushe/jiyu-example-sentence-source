@@ -1,5 +1,7 @@
 # centered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centered.md)
+
 <p><span class="chinese">守卫者将球传至中央。</span><span class="english">The defender centered the ball.</span></p>
 
 <p><span class="chinese">中间或左边对齐的布局？</span><span class="english">Centered or left-aligned layout?</span></p>

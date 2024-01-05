@@ -1,5 +1,7 @@
 # wonderland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wonderland.md)
+
 <p><span class="chinese">这真是仙境中的爱丽丝。</span><span class="english">This is truly Alice in Wonderland.</span></p>
 
 <p><span class="chinese">尚存一息我眼见了仙境。</span><span class="english">As I was hang there, I see wonderland.</span></p>

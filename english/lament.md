@@ -1,5 +1,7 @@
 # lament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lament.md)
+
 <p><span class="chinese">我们哀悼它的消失。</span><span class="english">We lament its loss.</span></p>
 
 <p><span class="chinese">对此，许多人因苦无良方而兴叹。</span><span class="english">To this, many people lament their limited wits.</span></p>

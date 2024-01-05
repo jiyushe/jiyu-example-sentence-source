@@ -1,5 +1,7 @@
 # 原子量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanziliang.md)
+
 <p><span class="chinese">各种原子的原子量是不同的。</span><span class="english">Atoms differ in their atomic weights.</span></p>
 
 <p><span class="chinese">并非所有的铀原子都有相同的原子量。</span><span class="english">All uranium atoms do not have the same atomic weight.</span></p>

@@ -1,5 +1,7 @@
 # lounge 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lounge.md)
+
 <p><span class="chinese">现在，成了一个茶室。</span><span class="english">Now, there is a tea lounge.</span></p>
 
 <p><span class="chinese">别吊儿郎当地混时间。</span><span class="english">Don't lounge away your time.</span></p>

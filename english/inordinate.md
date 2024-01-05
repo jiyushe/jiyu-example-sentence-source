@@ -1,5 +1,7 @@
 # inordinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inordinate.md)
+
 <p><span class="chinese">每一杯过量的酒都是魔鬼酿成的毒汁。</span><span class="english">Every inordinate cup is unblessed and the ingredient is a devil.</span></p>
 
 <p><span class="chinese">携带婴儿和幼儿需备有非常大量衣物。</span><span class="english">Babies and small children require an inordinate amount of clobber.</span></p>

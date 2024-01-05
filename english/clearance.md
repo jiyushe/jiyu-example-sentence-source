@@ -1,5 +1,7 @@
 # clearance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clearance.md)
+
 <p><span class="chinese">我们今天清仓大甩卖。</span><span class="english">We have a clearance sale today.</span></p>
 
 <p><span class="chinese">前往海关办理结关手续。</span><span class="english">Go to the Customs for clearance.</span></p>

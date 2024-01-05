@@ -1,5 +1,7 @@
 # 轧钢机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhagangji.md)
+
 <p><span class="chinese">专门加工轧钢机配件。</span><span class="english">Specialized processing rolling mill accessories.</span></p>
 
 <p><span class="chinese">本实用新型涉及轧钢机立辊。</span><span class="english">The utility model relates to a vertical roller of a rolling mill.</span></p>

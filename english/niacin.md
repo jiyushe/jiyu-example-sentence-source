@@ -1,5 +1,7 @@
 # niacin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niacin.md)
+
 <p><span class="chinese">另一种维生素B是烟酸。</span><span class="english">Another B-vitamin is niacin.</span></p>
 
 <p><span class="chinese">烟酸是最稳定的B族维生素中的一种。</span><span class="english">Niacin is one of the most stable of the B-vitamins.</span></p>

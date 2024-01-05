@@ -1,5 +1,7 @@
 # reborn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reborn.md)
+
 <p><span class="chinese">一个人死后就会重新投胎回到人间。</span><span class="english">Once you die you are reborn.</span></p>
 
 <p><span class="chinese">里包恩已经去了那里了。</span><span class="english">Reborn has gone there already.</span></p>

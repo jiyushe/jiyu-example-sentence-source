@@ -1,5 +1,7 @@
 # 伎俩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiliang.md)
+
 <p><span class="chinese">其他的伎俩也是一个接着一个。</span><span class="english">Other shenanigans followed.</span></p>
 
 <p><span class="chinese">这个伎俩屡试不爽。</span><span class="english">That always does the trick.</span></p>

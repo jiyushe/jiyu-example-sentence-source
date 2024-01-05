@@ -1,5 +1,7 @@
 # guest 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guest.md)
+
 <p><span class="chinese">当然可以，请便。</span><span class="english">Sure, be my guest.</span></p>
 
 <p><span class="chinese">处理散客入住。</span><span class="english">Handle walk in guest.</span></p>

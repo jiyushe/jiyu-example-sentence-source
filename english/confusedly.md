@@ -1,5 +1,7 @@
 # confusedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confusedly.md)
+
 <p><span class="chinese">我混乱地认为人们是更多。</span><span class="english">I think that people were more confusedly.</span></p>
 
 <p><span class="chinese">他紧张不安地在屋里走来走去。嘉莉在一旁狼狈地看着他。</span><span class="english">He moved nervously about, while Carrie looked at him confusedly.</span></p>

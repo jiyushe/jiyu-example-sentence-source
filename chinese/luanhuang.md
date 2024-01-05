@@ -1,5 +1,7 @@
 # 卵黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanhuang.md)
+
 <p><span class="chinese">卵黄抗体热稳定性检测。</span><span class="english">Detection of IgY thermal stability.</span></p>
 
 <p><span class="chinese">卵黄形成开始。</span><span class="english">Vitellogenesis begin at this stage.</span></p>

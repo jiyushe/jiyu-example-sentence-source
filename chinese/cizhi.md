@@ -1,5 +1,7 @@
 # 辞职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cizhi.md)
+
 <p><span class="chinese">所以他辞职了。</span><span class="english">So he quit.</span></p>
 
 <p><span class="chinese">我要辞职！</span><span class="english">I am resigning.</span></p>

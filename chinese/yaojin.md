@@ -1,5 +1,7 @@
 # 要紧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaojin.md)
+
 <p><span class="chinese">我有要紧事告诉她。</span><span class="english">And then I tell her.</span></p>
 
 <p><span class="chinese">诚实，真的很要紧么？</span><span class="english">Be honest -- does it really matter?</span></p>

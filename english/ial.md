@@ -1,5 +1,7 @@
 # ial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ial.md)
+
 <p><span class="chinese">不要过份相信陌生人。</span><span class="english">Don't be too confident ial with strangers.</span></p>
 
 <p><span class="chinese">人们说他具有当总统的气质。</span><span class="english">He's being talked up as president ial timber.</span></p>

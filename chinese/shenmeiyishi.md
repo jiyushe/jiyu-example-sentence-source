@@ -1,5 +1,7 @@
 # 审美意识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenmeiyishi.md)
+
 <p><span class="chinese">这是他的审美意识的进步和提高。</span><span class="english">This is progress and improving of his aesthetic consciousness.</span></p>
 
 <p><span class="chinese">要以现代审美意识开创经典。</span><span class="english">We ought to preserve this ancient art with modern aesthetic consciousness.</span></p>

@@ -1,5 +1,7 @@
 # deducible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deducible.md)
+
 <p><span class="chinese">那件事可从该项事实中推断出。</span><span class="english">It is deducible from the fact.</span></p>
 
 <p><span class="chinese">在英吉利海峡海底凿隧道是一个大问题。</span><span class="english">It is a proposition deducible from basic postulates.</span></p>

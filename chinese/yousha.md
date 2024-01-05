@@ -1,5 +1,7 @@
 # 诱杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yousha.md)
+
 <p><span class="chinese">频振诱杀灯对二化螟成虫也有一定的诱杀作用。</span><span class="english">High frequency lights also had good attract effect to the moths.</span></p>
 
 <p><span class="chinese">物理防治利用黄板诱杀蚜虫，黑光灯诱杀蛾类。</span><span class="english">Physical control by yellow trap aphids, black light trapping moth.</span></p>

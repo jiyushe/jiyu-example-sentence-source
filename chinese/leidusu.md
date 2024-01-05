@@ -1,5 +1,7 @@
 # 类毒素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leidusu.md)
+
 <p><span class="chinese">建议进行类毒素强化注射。</span><span class="english">Toxoid booster injections are recommended.</span></p>
 
 <p><span class="chinese">脂质体对A型肉毒类毒素也有类似的强免疫佐剂作用。</span><span class="english">Moreover, the adjuvant effect could be compared with that of BSA-FCA.</span></p>

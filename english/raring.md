@@ -1,5 +1,7 @@
 # raring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raring.md)
+
 <p><span class="chinese">他们已准备妥当急切想出发。</span><span class="english">They are ready and raring to go.</span></p>
 
 <p><span class="chinese">她很想试试她那双新溜冰鞋。</span><span class="english">She is raring to try out her new skates.</span></p>

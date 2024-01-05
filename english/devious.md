@@ -1,5 +1,7 @@
 # devious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devious.md)
+
 <p><span class="chinese">他给我一个迂?的解释。</span><span class="english">He gave me a devious explanation.</span></p>
 
 <p><span class="chinese">她使用狡滑奸诈的手段获取权力。</span><span class="english">She used devious means to gain power.</span></p>

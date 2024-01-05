@@ -1,5 +1,7 @@
 # phosphatide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphatide.md)
+
 <p><span class="chinese">所以，溶血磷脂对红细胞具有潜在的损害作用。</span><span class="english">So, haemolysis phosphatide has potential harm to red blood cell action.</span></p>
 
 <p><span class="chinese">大雁卵中磷脂含量明显低于鹅卵。</span><span class="english">The content of phosphatide in anser eggs was higher than goose's significantly.</span></p>

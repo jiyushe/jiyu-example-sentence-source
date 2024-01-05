@@ -1,5 +1,7 @@
 # supplemental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supplemental.md)
+
 <p><span class="chinese">如果无效或不包含则要考虑追加保险。</span><span class="english">If it does not, consider supplemental insurance.</span></p>
 
 <p><span class="chinese">如果呼吸困难，输氧。</span><span class="english">If breathing is difficult, give supplemental oxygen.</span></p>

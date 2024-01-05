@@ -1,5 +1,7 @@
 # temper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temper.md)
+
 <p><span class="chinese">她就耍小脾气了。</span><span class="english">She petty temper.</span></p>
 
 <p><span class="chinese">哇，真是暴脾气。</span><span class="english">Wow, what a temper.</span></p>

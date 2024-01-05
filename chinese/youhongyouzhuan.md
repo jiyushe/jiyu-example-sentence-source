@@ -1,5 +1,7 @@
 # 又红又专
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youhongyouzhuan.md)
+
 <p><span class="chinese">我们必须成为又红又专。</span><span class="english">We must become'red and expert'.</span></p>
 
 <p><span class="chinese">他是一个又红又专的学生。</span><span class="english">He is a both red and expert student.</span></p>

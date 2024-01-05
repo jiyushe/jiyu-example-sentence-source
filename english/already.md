@@ -1,5 +1,7 @@
 # already
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/already.md)
+
 <p><span class="chinese">我早醒了。</span><span class="english">I'm already awake.</span></p>
 
 <p><span class="chinese">已经入夜了。</span><span class="english">It is already night.</span></p>

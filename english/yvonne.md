@@ -1,5 +1,7 @@
 # yvonne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yvonne.md)
+
 <p><span class="chinese">成群的亲戚来看伊凡。</span><span class="english">Kinfolk come to see Yvonne by the dozen.</span></p>
 
 <p><span class="chinese">成群的亲戚来看伊芳。</span><span class="english">Kinfolk come to see Yvonne by the dozen.</span></p>

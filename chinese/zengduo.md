@@ -1,5 +1,7 @@
 # 增多
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengduo.md)
+
 <p><span class="chinese">坏事减少并不等于好事增多。</span><span class="english">Eing less bad is not bEIng good.</span></p>
 
 <p><span class="chinese">羊驼的填充玩具在增多。</span><span class="english">Stuffed alpacas are multiplying.</span></p>

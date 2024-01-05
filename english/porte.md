@@ -1,5 +1,7 @@
 # porte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porte.md)
+
 <p><span class="chinese">飞往里昂的160航班在4号门登机。</span><span class="english">Vol 160 vers Lyon, porte 4.</span></p>
 
 <p><span class="chinese">杜登夫人穿着漂亮的鞋子。</span><span class="english">Madame Dupont porte de jolies chaussures.</span></p>

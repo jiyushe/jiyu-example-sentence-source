@@ -1,5 +1,7 @@
 # 习作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizuo.md)
+
 <p><span class="chinese">我经常翻阅习作簿來温习。</span><span class="english">I often go over my exercise books for revision.</span></p>
 
 <p><span class="chinese">如何激活习作兴趣，提高习作技能?。</span><span class="english">How to activate writing interest and improve writing skill?</span></p>

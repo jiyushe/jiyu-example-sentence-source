@@ -1,5 +1,7 @@
 # postbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postbox.md)
+
 <p><span class="chinese">他站在邮筒旁边。</span><span class="english">He stood by the postbox.</span></p>
 
 <p><span class="chinese">最近的邮箱在哪儿?。</span><span class="english">Where is the nearest postbox?</span></p>

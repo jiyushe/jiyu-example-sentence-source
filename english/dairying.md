@@ -1,5 +1,7 @@
 # dairying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dairying.md)
+
 <p><span class="chinese">但美国的乳业并没有在这些事件中从此一蹶不振。</span><span class="english">But US's dairying henceforth has not been unable to recover in these events.</span></p>
 
 <p><span class="chinese">杭州新希望·双峰乳业有限公司董事长林永裕透露。</span><span class="english">Hangzhou new hope · twin peaks dairying Limited company chairman forest Nagahiro disclosed.</span></p>

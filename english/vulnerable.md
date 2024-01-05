@@ -1,5 +1,7 @@
 # vulnerable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vulnerable.md)
+
 <p><span class="chinese">穷人比过去更不堪一击</span><span class="english">POOR MORE VULNERABLE THAN EVER</span></p>
 
 <p><span class="chinese">但它容易为故意捣乱所伤。</span><span class="english">But it is vulnerable to vandalism.</span></p>

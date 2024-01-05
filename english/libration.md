@@ -1,5 +1,7 @@
 # libration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libration.md)
+
 <p><span class="chinese">研究平动点卫星的轨道保持问题。</span><span class="english">This paper studies station keeping strategy for libration point missions.</span></p>
 
 <p><span class="chinese">特别对库水与坝体耦合振动问题进行了详细的阐述。</span><span class="english">Especially, the author researches the coupling libration of water and dam detailedly.</span></p>

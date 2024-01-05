@@ -1,5 +1,7 @@
 # 假手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashou.md)
+
 <p><span class="chinese">接着，科学家用刷子在真手和假手上轻轻掠过。</span><span class="english">The scientists then gently brushed the real and fake hands.</span></p>
 
 <p><span class="chinese">提出了一种带触觉反馈的肌电假手模糊控制方法。</span><span class="english">This paper introduces a fuzzy control method for myoelectric prosthesis with tactile sense.</span></p>

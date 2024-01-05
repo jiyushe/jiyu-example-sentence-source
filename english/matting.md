@@ -1,5 +1,7 @@
 # matting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matting.md)
+
 <p><span class="chinese">抗疲劳地垫是如何起作用的呢？</span><span class="english">How does anti-fatigue matting work?</span></p>
 
 <p><span class="chinese">我们在塌塌米上盘腿而坐。</span><span class="english">We sat cross-legged on the matting.</span></p>

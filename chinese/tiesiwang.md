@@ -1,5 +1,7 @@
 # 铁丝网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiesiwang.md)
+
 <p><span class="chinese">我隔着铁丝网望望奥军的阵地。</span><span class="english">I looked across the wire at the Austrian lines.</span></p>
 
 <p><span class="chinese">美国爱荷华州铁丝网上的白霜。</span><span class="english">Hoarfrost on a wire fence in the US state of Iowa.</span></p>

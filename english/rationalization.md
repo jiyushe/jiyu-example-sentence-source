@@ -1,5 +1,7 @@
 # rationalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rationalization.md)
+
 <p><span class="chinese">合理化。</span><span class="english">Rationalization.</span></p>
 
 <p><span class="chinese">今天，我们专注于理性化。</span><span class="english">Today, we focus on rationalization.</span></p>

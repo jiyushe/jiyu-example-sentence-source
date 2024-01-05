@@ -1,5 +1,7 @@
 # presentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presentation.md)
+
 <p><span class="chinese">你们做一个短的陈述即可。</span><span class="english">You give a short presentation.</span></p>
 
 <p><span class="chinese">甄妮的报告做的怎么样？</span><span class="english">How does Jenny's presentation go?</span></p>

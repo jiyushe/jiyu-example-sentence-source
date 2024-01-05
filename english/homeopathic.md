@@ -1,5 +1,7 @@
 # homeopathic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homeopathic.md)
+
 <p><span class="chinese">怎样使用顺势疗法药物</span><span class="english">How to Use Homeopathic Medicine</span></p>
 
 <p><span class="chinese">顺势疗法是基于“以毒攻毒”的原理。</span><span class="english">Homeopathic treatment is based on the "like cures like" principle.</span></p>

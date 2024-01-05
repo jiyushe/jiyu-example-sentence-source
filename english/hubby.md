@@ -1,5 +1,7 @@
 # hubby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hubby.md)
+
 <p><span class="chinese">另外我的丈夫是一个数学奇才。</span><span class="english">My hubby is a math wiz.</span></p>
 
 <p><span class="chinese">希望给爸比一个暖呼呼的新年。</span><span class="english">Wishing hubby a warm warm New Year.</span></p>

@@ -1,5 +1,7 @@
 # furiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furiously.md)
+
 <p><span class="chinese">我怒冲冲地说，这时我母亲进来了。</span><span class="english">I say furiously as my mother enters.</span></p>
 
 <p><span class="chinese">不停地喧腾起下午的艺术。</span><span class="english">Stir furiously the art of afternoon.</span></p>

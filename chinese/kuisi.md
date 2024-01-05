@@ -1,5 +1,7 @@
 # 窥伺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuisi.md)
+
 <p><span class="chinese">她顶着他就像猫在窥伺老鼠。</span><span class="english">She watches him as a cat would watch a mouse.</span></p>
 
 <p><span class="chinese">到目前为止，好像还没有疑心到有人窥伺。</span><span class="english">There's no suspicion of being shadowed so far.</span></p>

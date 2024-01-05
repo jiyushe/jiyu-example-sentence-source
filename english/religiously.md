@@ -1,5 +1,7 @@
 # religiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/religiously.md)
+
 <p><span class="chinese">哪当然﹐你知道﹐这个节目我每集必看。</span><span class="english">Of course, you know I watch it religiously.</span></p>
 
 <p><span class="chinese">每天早晨洗擦地板。</span><span class="english">He washes the floor religiously every morning.</span></p>

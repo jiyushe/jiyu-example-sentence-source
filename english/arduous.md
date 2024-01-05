@@ -1,5 +1,7 @@
 # arduous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arduous.md)
+
 <p><span class="chinese">我觉得那个东西象根硬的手指。</span><span class="english">I feel it like a powerful arduous finger.</span></p>
 
 <p><span class="chinese">这样的任务是非常光荣的，但同时也是非常艰巨的。</span><span class="english">It is a task at once glorious and arduous.</span></p>

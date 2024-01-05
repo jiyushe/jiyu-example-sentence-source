@@ -1,5 +1,7 @@
 # 辞行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cixing_2.md)
+
 <p><span class="chinese">我是来向你辞行的。</span><span class="english">I've come to say good-bye.</span></p>
 
 <p><span class="chinese">我是来向你辞行的。</span><span class="english">I have come to bid you farewell.</span></p>

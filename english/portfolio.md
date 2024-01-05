@@ -1,5 +1,7 @@
 # portfolio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portfolio.md)
+
 <p><span class="chinese">你谈你的股票证券投资。</span><span class="english">You talked about your portfolio.</span></p>
 
 <p><span class="chinese">出料段一体组合。</span><span class="english">Discharging one of the portfolio.</span></p>

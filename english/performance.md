@@ -1,5 +1,7 @@
 # performance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/performance.md)
+
 <p><span class="chinese">杂技演员表演的绝技。</span><span class="english">A performance by mummers.</span></p>
 
 <p><span class="chinese">特高性能?。</span><span class="english">VHP? Very High Performance?</span></p>

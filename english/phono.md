@@ -1,5 +1,7 @@
 # phono
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phono.md)
+
 <p><span class="chinese">单声道线路输出，唱机插座。</span><span class="english">Mono Line-out, phono socket.</span></p>
 
 <p><span class="chinese">5个针片，信号插座用。</span><span class="english">TIDP 5 pin, female DIN phono plug.</span></p>

@@ -1,5 +1,7 @@
 # 冷嘲热讽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengchaorefeng.md)
+
 <p><span class="chinese">对她冷嘲热讽是让她闭嘴的唯一方法。</span><span class="english">A sharp put-down was the only way to shut her up.</span></p>
 
 <p><span class="chinese">一开始他还只是漠不关心，后来竟变得冷嘲热讽起来。</span><span class="english">He swung from mere indifference to outright scorn.</span></p>

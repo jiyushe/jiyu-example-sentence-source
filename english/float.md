@@ -1,5 +1,7 @@
 # float
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/float.md)
+
 <p><span class="chinese">浮空城。</span><span class="english">Float empty city.</span></p>
 
 <p><span class="chinese">它就给我一个浮点数。</span><span class="english">It hands me a float.</span></p>

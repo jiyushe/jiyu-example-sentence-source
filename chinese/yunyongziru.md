@@ -1,5 +1,7 @@
 # 运用自如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunyongziru.md)
+
 <p><span class="chinese">你会觉得你的英语运用自如。</span><span class="english">Youll feel in command of your English.</span></p>
 
 <p><span class="chinese">我非常羡慕她对法语运用自如。</span><span class="english">I admire her good command of the French language.</span></p>

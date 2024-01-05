@@ -1,5 +1,7 @@
 # announcing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/announcing.md)
+
 <p><span class="chinese">希尔说，"我们遵守在30天内宣布裁定的要求。</span><span class="english">We met our 30-day requirement by announcing the rule.</span></p>
 
 <p><span class="chinese">喇叭高鸣，宣告总统之抵达。</span><span class="english">The trumpet blared, announcing the president's arrival.</span></p>

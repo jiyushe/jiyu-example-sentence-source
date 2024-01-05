@@ -1,5 +1,7 @@
 # 经济林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjilin.md)
+
 <p><span class="chinese">经济林地和草地则起到了很好的水土保持措施作用。</span><span class="english">Economical woodlands have a positive effect on soil conservation in red soil.</span></p>
 
 <p><span class="chinese">山杏是河北省干旱山区主要经济林树种之一。</span><span class="english">Armeniaca sibirica is one of the cash forest species in arid areas in Hebei province.</span></p>

@@ -1,5 +1,7 @@
 # avascular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avascular.md)
+
 <p><span class="chinese">葡萄胎无血管的绒毛是十分大的。</span><span class="english">The avascular villi of molar pregnancy are quite large.</span></p>
 
 <p><span class="chinese">目的探讨月骨无菌性坏死的病因。</span><span class="english">Objective To discuss the etiology of lunate avascular necrosis.</span></p>

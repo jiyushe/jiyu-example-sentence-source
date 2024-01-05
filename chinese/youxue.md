@@ -1,5 +1,7 @@
 # 游学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxue.md)
+
 <p><span class="chinese">我是参加游学活动。</span><span class="english">I'm on the study & Travel program.</span></p>
 
 <p><span class="chinese">出国游学中，暂停更新影片！</span><span class="english">Study Abroad, Service temporarily Stops!</span></p>

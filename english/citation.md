@@ -1,5 +1,7 @@
 # citation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citation.md)
+
 <p><span class="chinese">在课程大纲里有完整的引用。</span><span class="english">See the syllabus for the full citation.</span></p>
 
 <p><span class="chinese">不过，使用这些资料需要恰当地注明来源。</span><span class="english">Use of such material requires a proper citation.</span></p>

@@ -1,5 +1,7 @@
 # incineration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incineration.md)
+
 <p><span class="chinese">焚化我的记忆，祭奠你犹存的美丽。</span><span class="english">Incineration of my memory, marking you dwells beauty.</span></p>
 
 <p><span class="chinese">焚化当然不可能避免掩埋。</span><span class="english">Incineration cannot , of course , eliminate landfilling.</span></p>

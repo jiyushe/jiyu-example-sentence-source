@@ -1,5 +1,7 @@
 # 开裂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kailie_1.md)
+
 <p><span class="chinese">把开裂的接缝重新焊一下。</span><span class="english">Re-weld the broken joint, please.</span></p>
 
 <p><span class="chinese">这种还原反应致使弱的N-O键开裂。</span><span class="english">The reduction cleaves the weak N-O bond.</span></p>

@@ -1,5 +1,7 @@
 # 栲胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaojiao.md)
+
 <p><span class="chinese">研究了毛杨梅栲胶的磺甲基化改性方法。</span><span class="english">The method of sulfomethylation modification of bayberry tannin extract was investigated.</span></p>
 
 <p><span class="chinese">我国盛产栲胶，开发此法的前景是光明的。</span><span class="english">As China abounds in the tannin extract, so it is of bright prospect to develop this process.</span></p>

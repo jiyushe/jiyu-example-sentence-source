@@ -1,5 +1,7 @@
 # 传奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanqi.md)
+
 <p><span class="chinese">她是一个传奇。</span><span class="english">She is a legend.</span></p>
 
 <p><span class="chinese">她是个传奇。</span><span class="english">She was legendary.</span></p>

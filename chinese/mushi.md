@@ -1,5 +1,7 @@
 # 墓室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mushi.md)
+
 <p><span class="chinese">这间墓室非常阴暗。</span><span class="english">It is cool and dark in this tomb.</span></p>
 
 <p><span class="chinese">在金斯伯尔我有一个家族墓室！</span><span class="english">I've got a family vault at Kingsbere! '</span></p>

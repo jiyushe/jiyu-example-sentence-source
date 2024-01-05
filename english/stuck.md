@@ -1,5 +1,7 @@
 # stuck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stuck.md)
+
 <p><span class="chinese">我的手夹了。</span><span class="english">My hand is stuck.</span></p>
 
 <p><span class="chinese">你的脚趾被卡住了？</span><span class="english">Get your toe stuck?</span></p>

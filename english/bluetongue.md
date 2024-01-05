@@ -1,5 +1,7 @@
 # bluetongue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluetongue.md)
+
 <p><span class="chinese">蓝舌病的出现出乎意料，并可能再次发生。</span><span class="english">Bluetongue appeared out of the blue. And that could happen again.</span></p>
 
 <p><span class="chinese">蓝舌病发生于大多数家生的和野生的反刍动物。</span><span class="english">Bluetongue occurs in most species of ruminants, both domestic and wild.</span></p>

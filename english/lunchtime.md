@@ -1,5 +1,7 @@
 # lunchtime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lunchtime.md)
+
 <p><span class="chinese">在午餐时间。</span><span class="english">At lunchtime.</span></p>
 
 <p><span class="chinese">午饭时间散步一会。</span><span class="english">Take a walk at lunchtime.</span></p>

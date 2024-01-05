@@ -1,5 +1,7 @@
 # 公有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyou.md)
+
 <p><span class="chinese">居民公有的土地。</span><span class="english">Land owned in common by the residents.</span></p>
 
 <p><span class="chinese">结构体只能拥有公有的数据字段</span><span class="english">Structs can only have public data fields</span></p>

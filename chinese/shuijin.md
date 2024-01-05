@@ -1,5 +1,7 @@
 # 税金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijin.md)
+
 <p><span class="chinese">你必须为这项物品缴付税金。</span><span class="english">ou'll have to pay duty on this.</span></p>
 
 <p><span class="chinese">你必须为这项物品缴付税金。</span><span class="english">You’ll have to pay duty on this.</span></p>

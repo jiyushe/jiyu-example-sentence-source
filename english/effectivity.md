@@ -1,5 +1,7 @@
 # effectivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effectivity.md)
+
 <p><span class="chinese">流速对洗脱效果基本没有影响。</span><span class="english">Flow rate had little influence on elution effectivity.</span></p>
 
 <p><span class="chinese">目的观察新式剖宫术式有效性及安全性。</span><span class="english">Objective To study the effectivity and safety of type cesarean section.</span></p>

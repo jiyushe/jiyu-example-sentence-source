@@ -1,5 +1,7 @@
 # poppet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poppet.md)
+
 <p><span class="chinese">我的小乖乖今天好吗?。</span><span class="english">How's my little poppet today?</span></p>
 
 <p><span class="chinese">很少有作为单独的外壳，而与水轮机并行的情况。</span><span class="english">Use of poppet valve in a separate housing parallel to turbine is seldom.</span></p>

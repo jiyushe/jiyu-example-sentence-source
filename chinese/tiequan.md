@@ -1,5 +1,7 @@
 # 铁拳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiequan.md)
+
 <p><span class="chinese">不过我以前玩铁拳也很不错。</span><span class="english">But I was also really good in Tekken before.</span></p>
 
 <p><span class="chinese">铁拳迈克的末路也由此开始。</span><span class="english">It was the beginning of the end for Iron Mike.</span></p>

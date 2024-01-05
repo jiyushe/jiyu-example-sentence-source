@@ -1,5 +1,7 @@
 # 龃龉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juyu.md)
+
 <p><span class="chinese">一切难以了解的矛盾龃龉。</span><span class="english">All the contradictions, hard to understand.</span></p>
 
 <p><span class="chinese">完全不要和长得丑的龃龉，他们曾经没什么可输的了。</span><span class="english">Never get into fights with ugly people! they haudio-videoe nothing to lose.</span></p>

@@ -1,5 +1,7 @@
 # 恬不知耻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianbuzhichi.md)
+
 <p><span class="chinese">你实在恬不知耻。</span><span class="english">You really are shameless.</span></p>
 
 <p><span class="chinese">大家都说他恬不知耻。</span><span class="english">Everybody said he was shameless.</span></p>

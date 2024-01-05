@@ -1,5 +1,7 @@
 # blob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blob.md)
+
 <p><span class="chinese">做一个杂烩。</span><span class="english">Make a blob.</span></p>
 
 <p><span class="chinese">它们往往是粘乎乎黑糊糊的一团，可以是各种形状。</span><span class="english">It's a blob and can be of any shape.</span></p>

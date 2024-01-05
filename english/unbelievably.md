@@ -1,5 +1,7 @@
 # unbelievably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbelievably.md)
+
 <p><span class="chinese">他是如此难以置信的快!</span><span class="english">He's so unbelievably fast!</span></p>
 
 <p><span class="chinese">教授们也都难以置信的和蔼。</span><span class="english">The professors were unbelievably friendly.</span></p>

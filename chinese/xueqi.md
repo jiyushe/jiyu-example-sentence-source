@@ -1,5 +1,7 @@
 # 学期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueqi.md)
+
 <p><span class="chinese">学期。</span><span class="english">Semesters.</span></p>
 
 <p><span class="chinese">万岁！这是本学期在学校的最后一天了。</span><span class="english">It's the last day of school.</span></p>

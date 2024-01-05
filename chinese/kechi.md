@@ -1,5 +1,7 @@
 # 可耻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kechi.md)
+
 <p><span class="chinese">它是可耻的。</span><span class="english">It's shameful.</span></p>
 
 <p><span class="chinese">无耻也就是可耻。</span><span class="english">Effrontery is a disgrace.</span></p>

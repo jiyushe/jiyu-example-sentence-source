@@ -1,5 +1,7 @@
 # hugeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hugeness.md)
+
 <p><span class="chinese">笔者亲历过日本文化对中国的影响之巨大。</span><span class="english">The author has experienced the Japanese culture to China hugeness influence.</span></p>
 
 <p><span class="chinese">现代大城市正是聚集了这种孤立建筑物的庞大集合体。</span><span class="english">Modern metropolitans is the very hugeness aggregate of the isolated buildings.</span></p>

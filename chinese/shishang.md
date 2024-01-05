@@ -1,5 +1,7 @@
 # 世上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishang.md)
+
 <p><span class="chinese">让世上有光吧！</span><span class="english">Let there be light!</span></p>
 
 <p><span class="chinese">我是世上最和善的人。</span><span class="english">I'm the mildest man alive.</span></p>

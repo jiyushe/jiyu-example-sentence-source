@@ -1,5 +1,7 @@
 # germiculture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germiculture.md)
+
 <p><span class="chinese">根据细菌培养和药敏试验结果选用相应的抗生素。</span><span class="english">Mix according to germiculture result of medical quick test chooses corresponding antibiotic.</span></p>
 
 <p><span class="chinese">中段尿镜检及细菌培养不仅有助于诊断，对指导药物治疗也有帮助。</span><span class="english">Check of lens of middle make water and germiculture conduce to not only diagnose, medication to guidance helpful also.</span></p>

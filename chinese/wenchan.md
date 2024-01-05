@@ -1,5 +1,7 @@
 # 稳产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenchan.md)
+
 <p><span class="chinese">具有熟期早、产量高、稳产性好等特点。</span><span class="english">It has early-maturity, high yield and stable yield.</span></p>
 
 <p><span class="chinese">农药工业是农业稳产丰收的必要保证。</span><span class="english">The industry of pesticide is the necessary assurance to agriculture.</span></p>

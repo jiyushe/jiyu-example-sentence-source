@@ -1,5 +1,7 @@
 # woodman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodman.md)
+
 <p><span class="chinese">一位贫穷的樵夫正在砍一块大木头。</span><span class="english">A poor woodman was cutting a big piece of wood.</span></p>
 
 <p><span class="chinese">我不会伤害这棵树了，樵夫和气的说。</span><span class="english">I won't hurt the tree, said the woodman kindly.</span></p>

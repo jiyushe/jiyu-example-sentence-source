@@ -1,5 +1,7 @@
 # petiole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petiole.md)
+
 <p><span class="chinese">无柄的叶没有叶柄。</span><span class="english">A sessile leaf has no petiole.</span></p>
 
 <p><span class="chinese">叶柄及茎秆黄绿色或褐色。</span><span class="english">Olive or petiole and cauline stalk are Brown.</span></p>

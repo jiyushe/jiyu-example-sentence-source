@@ -1,5 +1,7 @@
 # 貌似
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maosi_1.md)
+
 <p><span class="chinese">貌似运行良好。</span><span class="english">It seems to run okay.</span></p>
 
 <p><span class="chinese">它貌似很有规律。</span><span class="english">It's,like,very regular.</span></p>

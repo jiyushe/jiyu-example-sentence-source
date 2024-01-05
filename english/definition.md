@@ -1,5 +1,7 @@
 # definition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/definition.md)
+
 <p><span class="chinese">那就是他的定义。</span><span class="english">That was his definition.</span></p>
 
 <p><span class="chinese">所有的那些内部的定义。</span><span class="english">I have a class definition.</span></p>

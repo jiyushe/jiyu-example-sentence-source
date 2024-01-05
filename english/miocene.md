@@ -1,5 +1,7 @@
 # miocene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miocene.md)
+
 <p><span class="chinese">汉诺坝玄武岩于中新世喷出。</span><span class="english">The Hannuoba basalts were erupted in Miocene.</span></p>
 
 <p><span class="chinese">中国中新世的利齿猪即为其中一属。</span><span class="english">China's sharp teeth Miocene pig shall be one of them is.</span></p>

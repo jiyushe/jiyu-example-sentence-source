@@ -1,5 +1,7 @@
 # reflector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflector.md)
+
 <p><span class="chinese">高纯铝反射器罩。</span><span class="english">High purity aluminum reflector.</span></p>
 
 <p><span class="chinese">高纯铝反射器。</span><span class="english">High purity aluminium reflector.</span></p>

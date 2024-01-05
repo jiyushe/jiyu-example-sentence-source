@@ -1,5 +1,7 @@
 # disenchanted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disenchanted.md)
+
 <p><span class="chinese">血腥凶残的乌托邦和幻灭的时代产下了混血儿。</span><span class="english">The hybrid child of a murderous utopia and a disenchanted époque.</span></p>
 
 <p><span class="chinese">最近的严酷现实使她从理想主义的迷梦中清醒过来。</span><span class="english">The harshness of recent reality disenchanted her of her idealistic hopes.</span></p>

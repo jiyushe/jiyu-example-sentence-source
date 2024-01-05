@@ -1,5 +1,7 @@
 # neurone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurone.md)
+
 <p><span class="chinese">他患有运动神经的疾病，因此被轮椅所限制。</span><span class="english">He has motor neurone disease and is wheelchair bound.</span></p>
 
 <p><span class="chinese">霍金教授身患运动神经元疾病。</span><span class="english">Professor Hawkins suffers from motor neurone disease.</span></p>

@@ -1,5 +1,7 @@
 # 授权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouquan_1.md)
+
 <p><span class="chinese">雇主授权。</span><span class="english">An employer mandate.</span></p>
 
 <p><span class="chinese">个人授权。</span><span class="english">An individual mandate.</span></p>

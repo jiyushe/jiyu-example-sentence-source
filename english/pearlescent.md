@@ -1,5 +1,7 @@
 # pearlescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pearlescent.md)
+
 <p><span class="chinese">珠光油墨增加深度和运动。</span><span class="english">Pearlescent inks add depth and movement.</span></p>
 
 <p><span class="chinese">鲜亮的覆盖材料可防沾污的烧焦。</span><span class="english">Pearlescent coating is scorch and stain resistant.</span></p>

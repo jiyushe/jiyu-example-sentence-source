@@ -1,5 +1,7 @@
 # phoneticize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phoneticize.md)
+
 <p><span class="chinese">为了学打字，平时不常用的拼音也捡了起来。</span><span class="english">To learn to type, seldom at ordinary times used phoneticize also was collected rise.</span></p>
 
 <p><span class="chinese">同时，也对汉字拼音化的萌芽没有得到发展以至于湮没的原因进行了初步的探索。</span><span class="english">At the same time, it also analyses the reason of development and disappearence of Chinese phoneticize.</span></p>

@@ -1,5 +1,7 @@
 # interpretable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpretable.md)
+
 <p><span class="chinese">这项声明对大多数人来说是可解释的。</span><span class="english">The statement is interpretable to most people.</span></p>
 
 <p><span class="chinese">法律是可以被解释的故事。</span><span class="english">The law is therefore a story that is interpretable.</span></p>

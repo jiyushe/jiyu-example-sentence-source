@@ -1,5 +1,7 @@
 # simulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simulate.md)
+
 <p><span class="chinese">现在他们不这么认为了。</span><span class="english">All right. Simulate the code.</span></p>
 
 <p><span class="chinese">有些蛾拟态为枯叶。</span><span class="english">Some moths simulate dead leaves.</span></p>

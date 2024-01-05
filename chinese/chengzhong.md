@@ -1,5 +1,7 @@
 # 承重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengzhong.md)
+
 <p><span class="chinese">这个轨道系统的最大承重是多少？</span><span class="english">What is the max. load for this rack system ? 100lbs.</span></p>
 
 <p><span class="chinese">一些具体的部位建立在承重砌体基础上。</span><span class="english">Some specific works are made in load-bearing masonry.</span></p>

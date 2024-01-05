@@ -1,5 +1,7 @@
 # 配音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiyin.md)
+
 <p><span class="chinese">配音是个巨大工程。</span><span class="english">The voice acting is huge.</span></p>
 
 <p><span class="chinese">我的梦想是当一名配音员。</span><span class="english">My dream is to be a dubbing.</span></p>

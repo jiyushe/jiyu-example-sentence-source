@@ -1,5 +1,7 @@
 # saxophonist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saxophonist.md)
+
 <p><span class="chinese">萨克斯演奏者朱利安•史密斯获季军。</span><span class="english">Saxophonist Julian Smith came in third place.</span></p>
 
 <p><span class="chinese">那位萨克斯管吹奏员在乐队中兼作鼓手。</span><span class="english">The saxophonist doubled the drum in the band.</span></p>

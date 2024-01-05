@@ -1,5 +1,7 @@
 # 余香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxiang.md)
+
 <p><span class="chinese">这些玫瑰花仍有余香。</span><span class="english">These roses retain their scent.</span></p>
 
 <p><span class="chinese">那时采的花，似余香依然。</span><span class="english">Then gathered, smell still. Mussulmans and Giaours.</span></p>

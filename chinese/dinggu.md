@@ -1,5 +1,7 @@
 # 顶骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinggu.md)
+
 <p><span class="chinese">在吉拉头盖骨的颅顶骨的区域有个伤口。</span><span class="english">A cranial trauma with a wound in the parietal region.</span></p>
 
 <p><span class="chinese">那个外科医生将刀刃穿过左顶骨区域插入到大脑中。</span><span class="english">The surgeon introduced a knife blade into the brain through the left parietal region.</span></p>

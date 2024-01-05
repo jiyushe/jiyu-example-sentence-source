@@ -1,5 +1,7 @@
 # 分机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenji.md)
+
 <p><span class="chinese">分机45,谢谢.</span><span class="english">Extension 45,please.</span></p>
 
 <p><span class="chinese">请接273号分机。</span><span class="english">Extension 273,please.</span></p>

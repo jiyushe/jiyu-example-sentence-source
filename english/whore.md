@@ -1,5 +1,7 @@
 # whore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whore.md)
+
 <p><span class="chinese">她只是一个不入流的娼妓。</span><span class="english">She is just a two-bit whore.</span></p>
 
 <p><span class="chinese">老人用墨西哥土语骂着「你这婊子。」</span><span class="english">"Aqua mala, " the man said. "You whore.</span></p>

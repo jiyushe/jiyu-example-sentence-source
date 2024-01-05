@@ -1,5 +1,7 @@
 # 营生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingsheng_1.md)
+
 <p><span class="chinese">她用钱开始干打字的营生。</span><span class="english">She used the money to start a typewriting business.</span></p>
 
 <p><span class="chinese">她用这些钱开始干打字的营生。</span><span class="english">She used the money to start a typewriting business.</span></p>

@@ -1,5 +1,7 @@
 # conviviality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conviviality.md)
+
 <p><span class="chinese">朋友的聚合带来欢宴和庆祝的喜悦。</span><span class="english">Gatherings of friends bring joy with conviviality and celebration.</span></p>
 
 <p><span class="chinese">由于距离远，所以餐桌上的大吃大喝变成了无声的精灵欢宴。</span><span class="english">Distance muted the gorging and tippling at the table to an elfin conviviality.</span></p>

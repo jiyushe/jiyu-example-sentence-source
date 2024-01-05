@@ -1,5 +1,7 @@
 # feed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feed.md)
+
 <p><span class="chinese">奶牛以干草为生。</span><span class="english">Cows feed on hay.</span></p>
 
 <p><span class="chinese">不可以随便喂鱼。</span><span class="english">Don't feed the fish.</span></p>

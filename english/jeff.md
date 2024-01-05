@@ -1,5 +1,7 @@
 # jeff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeff.md)
+
 <p><span class="chinese">亚马逊—杰夫-贝索斯。</span><span class="english">Amazon — Jeff Bezos.</span></p>
 
 <p><span class="chinese">我喜欢他。杰夫.班纳特？</span><span class="english">I like him.Jeff Bennett.</span></p>

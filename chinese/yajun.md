@@ -1,5 +1,7 @@
 # 亚军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yajun.md)
+
 <p><span class="chinese">英国队得了亚军。</span><span class="english">The British team came in second.</span></p>
 
 <p><span class="chinese">2003年获得荷兰足协杯亚军。</span><span class="english">Runner-up of Dutch National Cup in 2003.</span></p>

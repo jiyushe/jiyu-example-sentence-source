@@ -1,5 +1,7 @@
 # 标兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaobing_1.md)
+
 <p><span class="chinese">“三好学生”、“学习标兵”称号。</span><span class="english">"Miyoshi students", "learning model" title.</span></p>
 
 <p><span class="chinese">她被看成全公司的标兵。</span><span class="english">She is considered a pace-setter in the corporation.</span></p>

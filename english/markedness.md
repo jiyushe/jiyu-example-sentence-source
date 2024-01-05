@@ -1,5 +1,7 @@
 # markedness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/markedness.md)
+
 <p><span class="chinese">第二部分论述了形容词的有无标记性问题。</span><span class="english">The second part discusses the markedness of adjectives.</span></p>
 
 <p><span class="chinese">本文重点对词汇学中的标记现象和标记理论进行了研究。</span><span class="english">This study seeks to analyse Markedness Theory in the area of lexics.</span></p>

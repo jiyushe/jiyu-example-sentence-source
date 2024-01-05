@@ -1,5 +1,7 @@
 # 慢行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manxing_1.md)
+
 <p><span class="chinese">工地入口，请慢行。</span><span class="english">Slow down.Site entrance.</span></p>
 
 <p><span class="chinese">我要一叶扁舟缓航慢行去中国！</span><span class="english">I will be on a slow boat to China!</span></p>

@@ -1,5 +1,7 @@
 # bureaucrat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bureaucrat.md)
+
 <p><span class="chinese">这些虚伪的官绅背地里做尽了坏事。</span><span class="english">This hypocritical bureaucrat has done many bad things secretly.</span></p>
 
 <p><span class="chinese">一个四至七岁的孩子所做的书面作业和任何一个官僚所做的一样多。</span><span class="english">A four-to-seven-year-old does as much paperwork as any bureaucrat.</span></p>

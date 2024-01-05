@@ -1,5 +1,7 @@
 # asiatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asiatic.md)
+
 <p><span class="chinese">欧洲灌木，白色或玫瑰红色花冠，黑色浆果。</span><span class="english">Asiatic shrub cultivated for its rosy red flowers.</span></p>
 
 <p><span class="chinese">此前，从来没有亚洲国家能战胜欧洲。</span><span class="english">Never before had an Asiatic power defeated a European one.</span></p>

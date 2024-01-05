@@ -1,5 +1,7 @@
 # 诧异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chayi_1.md)
+
 <p><span class="chinese">我诧异的回答。</span><span class="english">I reply, appalled.</span></p>
 
 <p><span class="chinese">伊丽莎白有些神色诧异。</span><span class="english">Elizabeth looked surprised.</span></p>

@@ -1,5 +1,7 @@
 # 陈规陋习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenguilouxi.md)
+
 <p><span class="chinese">陈规陋习妨碍生产的发展。</span><span class="english">Outdated conventions and bad customs hamper the growth of production.</span></p>
 
 <p><span class="chinese">我们要抛弃陈规陋习以跟上新时代的步伐。</span><span class="english">We should abandon all outmoded conventions and customs to keep pace with new era.</span></p>

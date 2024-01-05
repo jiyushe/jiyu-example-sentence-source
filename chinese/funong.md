@@ -1,5 +1,7 @@
 # 抚弄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/funong.md)
+
 <p><span class="chinese">她抚弄她的珠宝。</span><span class="english">She fondled her jewels.</span></p>
 
 <p><span class="chinese">孩子们抚弄着那只猫。</span><span class="english">The children stroked the cat.</span></p>

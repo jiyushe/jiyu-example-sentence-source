@@ -1,5 +1,7 @@
 # 政敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdi_1.md)
+
 <p><span class="chinese">这位候选人的政敌猛烈抨击他。</span><span class="english">His political opponents broadsided the candidate.</span></p>
 
 <p><span class="chinese">他兴致勃勃地揭发政敌的贪污腐化。</span><span class="english">He muckraked his political rivals with great relish.</span></p>

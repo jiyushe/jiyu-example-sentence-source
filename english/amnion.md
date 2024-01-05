@@ -1,5 +1,7 @@
 # amnion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amnion.md)
+
 <p><span class="chinese">羊膜表面有感染者。</span><span class="english">The amnion surface has the infected person.</span></p>
 
 <p><span class="chinese">新鲜人体胎盘羊膜是一种新型的生物敷料。</span><span class="english">Fresh human body placenta amnion is a new type biological dressing.</span></p>

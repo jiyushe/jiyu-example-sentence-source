@@ -1,5 +1,7 @@
 # seizure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seizure.md)
+
 <p><span class="chinese">他死于心脏病突然发作。</span><span class="english">He died of a heart seizure.</span></p>
 
 <p><span class="chinese">什么原因导致局灶性癫痫发作？</span><span class="english">What Causes Seizure in Focal Epilepsy?</span></p>

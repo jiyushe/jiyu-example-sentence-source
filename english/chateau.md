@@ -1,5 +1,7 @@
 # chateau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chateau.md)
+
 <p><span class="chinese">这两位路人在一座法国古堡中就餐。</span><span class="english">Two people are at a French château.</span></p>
 
 <p><span class="chinese">大海就是伊夫堡的坟场。</span><span class="english">The sea is the cemetery of the Chateau d'If.</span></p>

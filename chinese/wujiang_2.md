@@ -1,5 +1,7 @@
 # 武将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujiang_2.md)
+
 <p><span class="chinese">拥抱那些无畏的武将！</span><span class="english">Embrace the fearless warriors!</span></p>
 
 <p><span class="chinese">缺乏是武将阻碍儿童的成长。</span><span class="english">Lack of food will stunt children's growth.</span></p>

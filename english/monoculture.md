@@ -1,5 +1,7 @@
 # monoculture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monoculture.md)
+
 <p><span class="chinese">它创建一个单一，而且总是坏。</span><span class="english">It creates a monoculture and that's always bad.</span></p>
 
 <p><span class="chinese">这些表明了城市单一布局的危害。</span><span class="english">Both demonstrate the dangers of the monoculture.</span></p>

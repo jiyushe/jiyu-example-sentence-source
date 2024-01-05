@@ -1,5 +1,7 @@
 # 托派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuopai.md)
+
 <p><span class="chinese">你什么时候才对得起你那百万托派分子？</span><span class="english">When will you be worthy of your million Trotskyites?</span></p>
 
 <p><span class="chinese">托派克·沙克曾经说“如果我活着就是为了死去，为什么我还要努力活着呢”。</span><span class="english">Tupac Shakur said “why am I trying to live if I am just living to die”.</span></p>

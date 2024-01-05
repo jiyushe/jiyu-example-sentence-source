@@ -1,5 +1,7 @@
 # largish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/largish.md)
+
 <p><span class="chinese">他从口袋里掏出一个相当大的米色信封。</span><span class="english">He took a largish buff envelope from his pocket.</span></p>
 
 <p><span class="chinese">这首交响曲确实需要为数不少的一组演奏者。</span><span class="english">The symphony does require a largish group of players.</span></p>

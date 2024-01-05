@@ -1,5 +1,7 @@
 # rpg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rpg.md)
+
 <p><span class="chinese">一束麦克风用于监听子弹或榴弹发射器。</span><span class="english">A bundle of microphones listens for a bullet or RPG.</span></p>
 
 <p><span class="chinese">麻将游戏，容入RPG特色，有故事情节。</span><span class="english">Mahjong Game, Yung into RPG features, has the story.</span></p>

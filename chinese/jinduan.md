@@ -1,5 +1,7 @@
 # 锦缎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinduan.md)
+
 <p><span class="chinese">慢慢地，温柔地，夜色铺开锦缎。</span><span class="english">Slowly, gently, night unfurls splendor.</span></p>
 
 <p><span class="chinese">下午好！请问有真丝锦缎吗？</span><span class="english">Good afternoon. Do you have brocades of natural silk?</span></p>

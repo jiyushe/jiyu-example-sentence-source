@@ -1,5 +1,7 @@
 # shipyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipyard.md)
+
 <p><span class="chinese">在我之后的这个图是个船坞</span><span class="english">This is the shipyard behind.</span></p>
 
 <p><span class="chinese">这个厂定名为东风造船厂。</span><span class="english">It was named Dongfeng Shipyard.</span></p>

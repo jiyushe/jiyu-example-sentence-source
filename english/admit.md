@@ -1,5 +1,7 @@
 # admit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admit.md)
+
 <p><span class="chinese">但是事实上，我经常失败。</span><span class="english">But I admit I fail often.</span></p>
 
 <p><span class="chinese">我承认我犯贱如何？</span><span class="english">I admit that I Fanjian how?</span></p>

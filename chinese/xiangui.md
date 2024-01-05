@@ -1,5 +1,7 @@
 # 显贵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangui.md)
+
 <p><span class="chinese">善良的心灵胜于显贵的地位。</span><span class="english">Kind hearts are more than coronets.</span></p>
 
 <p><span class="chinese">但他是一介布衣，而非死于显贵之家。</span><span class="english">But he was a commoner, not part of an important family.</span></p>

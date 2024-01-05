@@ -1,5 +1,7 @@
 # niue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niue.md)
+
 <p><span class="chinese">1974年的今天，纽埃岛脱离新西兰独立。</span><span class="english">In 1974 , Niue becomes independent from New Zealand.</span></p>
 
 <p><span class="chinese">纽埃属于波利尼西亚群岛，与新西兰保持自由联系。</span><span class="english">Niue belonging to the Polynesian Islands, New Zealand and maintain the Compact of Free Association.</span></p>

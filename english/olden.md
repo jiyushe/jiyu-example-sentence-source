@@ -1,5 +1,7 @@
 # olden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olden.md)
+
 <p><span class="chinese">古街场黑咖啡。</span><span class="english">Olden Town Black Coffee.</span></p>
 
 <p><span class="chinese">格来格。奥登是个摄影师。</span><span class="english">Greg Olden was a cameraman.</span></p>

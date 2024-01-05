@@ -1,5 +1,7 @@
 # soberly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soberly.md)
+
 <p><span class="chinese">“我也是突然想到这点了。”文斯冷静地说。</span><span class="english">"That occurred to me, too, " Vince said soberly.</span></p>
 
 <p><span class="chinese">不过，19岁的贝拉却清醒地看到了残酷的现实。</span><span class="english">However, 19 year-old Beira actually soberly saw the brutal reality.</span></p>

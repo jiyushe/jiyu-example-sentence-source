@@ -1,5 +1,7 @@
 # electromigration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electromigration.md)
+
 <p><span class="chinese">电迁移是金属原子沿着电流方向的移动。</span><span class="english">Electromigration is the movement of metal atoms in the direction of current flow.</span></p>
 
 <p><span class="chinese">另一方面，扩散和电迁移效应，则造成焊点中的原子移动。</span><span class="english">Atoms in the solder joints move as a result of both diffusion and electromigration.</span></p>

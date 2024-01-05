@@ -1,5 +1,7 @@
 # 图解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tujie.md)
+
 <p><span class="chinese">权将其理解成一种流行趋势的图解吧。</span><span class="english">Consider it a diagram of a trend.</span></p>
 
 <p><span class="chinese">他给一种新电脑做图解。</span><span class="english">He diagrammatized a new computer.</span></p>

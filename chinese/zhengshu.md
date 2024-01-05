@@ -1,5 +1,7 @@
 # 整数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengshu.md)
+
 <p><span class="chinese">多少个头？来个人选个整数。</span><span class="english">Pick an integer, somebody.</span></p>
 
 <p><span class="chinese">这是整数的除法。</span><span class="english">It's doing integer division.</span></p>

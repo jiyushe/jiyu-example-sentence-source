@@ -1,5 +1,7 @@
 # upland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upland.md)
+
 <p><span class="chinese">旱稻生长在旱地上。</span><span class="english">Upland rice grows in dry soil.</span></p>
 
 <p><span class="chinese">发展旱稻种植有广阔的前景。</span><span class="english">Planting upland rice has broad prospects.</span></p>

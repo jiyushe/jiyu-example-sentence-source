@@ -1,5 +1,7 @@
 # 如履薄冰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rulvbobing.md)
+
 <p><span class="chinese">我面对你都如履薄冰的。</span><span class="english">I walk on eggshells around you.</span></p>
 
 <p><span class="chinese">你知道，他现在是如履薄冰。</span><span class="english">He's on very thin ice now, you know?</span></p>

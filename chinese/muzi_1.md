@@ -1,5 +1,7 @@
 # 母子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muzi_1.md)
+
 <p><span class="chinese">王涛于六月六日出生，母子平安。</span><span class="english">Tao born June sixth both well.</span></p>
 
 <p><span class="chinese">王涛于六月六日出生，母子平安。</span><span class="english">Wang Tao born June sixth both well.</span></p>

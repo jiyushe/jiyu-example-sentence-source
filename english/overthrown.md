@@ -1,5 +1,7 @@
 # overthrown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overthrown.md)
+
 <p><span class="chinese">暴君被打倒了。</span><span class="english">The tyrant was overthrown.</span></p>
 
 <p><span class="chinese">许多树被暴风雨刮倒了。</span><span class="english">Many trees were overthrown by the storm.</span></p>

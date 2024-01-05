@@ -1,5 +1,7 @@
 # dimorphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimorphic.md)
+
 <p><span class="chinese">第一类型与第二类型稻胚都具有二型子叶。</span><span class="english">Both types of rice embryos have dimorphic cotyledons.</span></p>
 
 <p><span class="chinese">脑缺血结局在许多实验模型中表现出了性别差异。</span><span class="english">Outcome from cerebral ischemia is sexually dimorphic in many experimental models.</span></p>

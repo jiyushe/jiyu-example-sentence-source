@@ -1,5 +1,7 @@
 # 耕作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gengzuo.md)
+
 <p><span class="chinese">农业耕作支持着我们的社会。</span><span class="english">Farming underpins our society.</span></p>
 
 <p><span class="chinese">这头牛在另一个世界耕作。</span><span class="english">This ox did otherworldly plowing.</span></p>

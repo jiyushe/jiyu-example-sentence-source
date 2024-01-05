@@ -1,5 +1,7 @@
 # goodliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goodliness.md)
+
 <p><span class="chinese">这仍然是一个美好的世界。</span><span class="english">The goodliness world is still there.</span></p>
 
 <p><span class="chinese">尽情演绎人间的一切美好事物。</span><span class="english">Deduct all of the goodliness things as much as one likes.</span></p>

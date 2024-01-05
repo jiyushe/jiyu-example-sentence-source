@@ -1,5 +1,7 @@
 # particulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/particulate.md)
+
 <p><span class="chinese">在这里您可以看到一个名为颗粒细胞的核糖体。</span><span class="english">Here you can see a particulate organelle called the ribosome.</span></p>
 
 <p><span class="chinese">介绍了颗粒增强型金属基复合材料制备装置。</span><span class="english">A particulate reinforced MMCs preparation device is introduced.</span></p>

@@ -1,5 +1,7 @@
 # virgin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virgin.md)
+
 <p><span class="chinese">她当时是个处女。</span><span class="english">She was a virgin.</span></p>
 
 <p><span class="chinese">是的，她一定是处子。</span><span class="english">Yes she is a virgin.</span></p>

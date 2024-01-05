@@ -1,5 +1,7 @@
 # 阔叶树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuoyeshu.md)
+
 <p><span class="chinese">硬木材是阔叶树。</span><span class="english">The hardwoods are trees with broad leaves.</span></p>
 
 <p><span class="chinese">混交12年后可逐渐对阔叶树进行间伐。</span><span class="english">Mixed for 12 years, the thinning out may be done.</span></p>

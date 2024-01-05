@@ -1,5 +1,7 @@
 # fibonacci
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibonacci.md)
+
 <p><span class="chinese">你会惊讶斐波纳契数列如何提供支撑的。</span><span class="english">Amazing how it found support with Fibonacci.</span></p>
 
 <p><span class="chinese">这里体现了斐波纳契数列结果。</span><span class="english">Here the Fibonacci Outgrowth is represented.</span></p>

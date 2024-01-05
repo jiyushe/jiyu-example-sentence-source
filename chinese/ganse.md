@@ -1,5 +1,7 @@
 # 干涩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganse.md)
+
 <p><span class="chinese">我会变强硬，鹌鹑会变干涩。</span><span class="english">I get tough, quail get dry.</span></p>
 
 <p><span class="chinese">疲惫、发痒、干涩或流眼泪</span><span class="english">Tired, itchy, dry or watery eyes</span></p>

@@ -1,5 +1,7 @@
 # 金嗓子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinsangzi.md)
+
 <p><span class="chinese">那个女孩有副金嗓子。</span><span class="english">That girl has a golden voice.</span></p>
 
 <p><span class="chinese">我生来具有金嗓子的天赋</span><span class="english">I was born with the gift of a golden voice</span></p>

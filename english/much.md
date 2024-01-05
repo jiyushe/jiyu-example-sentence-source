@@ -1,5 +1,7 @@
 # much 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/much.md)
+
 <p><span class="chinese">并不多。</span><span class="english">Not much.</span></p>
 
 <p><span class="chinese">非常爱我吗？</span><span class="english">Very much?</span></p>

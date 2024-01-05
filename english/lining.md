@@ -1,5 +1,7 @@
 # lining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lining.md)
+
 <p><span class="chinese">平滑塔夫绸衬里。</span><span class="english">Smooth taffeta lining.</span></p>
 
 <p><span class="chinese">软条羔羊毛内衬。</span><span class="english">Soft lambswool lining.</span></p>

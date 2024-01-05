@@ -1,5 +1,7 @@
 # disrupt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disrupt.md)
+
 <p><span class="chinese">可不能把这个顺序搞反了。</span><span class="english">We can never disrupt this order.</span></p>
 
 <p><span class="chinese">他先派了一个小魔鬼去扰乱一个农夫。</span><span class="english">He first sent a little devil to disrupt a farmer.</span></p>

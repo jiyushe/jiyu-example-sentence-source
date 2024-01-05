@@ -1,5 +1,7 @@
 # scorching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scorching.md)
+
 <p><span class="chinese">太阳晒得人热辣辣的。</span><span class="english">The sun feels scorching.</span></p>
 
 <p><span class="chinese">今天像火烤一样热。</span><span class="english">It's scorching hot today.</span></p>

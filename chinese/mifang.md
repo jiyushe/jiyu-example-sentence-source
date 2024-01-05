@@ -1,5 +1,7 @@
 # 秘方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mifang.md)
+
 <p><span class="chinese">我有祖传的秘方。</span><span class="english">I have a secret recipe.</span></p>
 
 <p><span class="chinese">谁有治疗化脓的秘方？</span><span class="english">Who has remedial purulent secret recipe?</span></p>

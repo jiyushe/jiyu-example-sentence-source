@@ -1,5 +1,7 @@
 # granitoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granitoid.md)
+
 <p><span class="chinese">锆石的晶面、晶棱特点，可直接反映花岗岩时代的新老。</span><span class="english">The crystal plane and angle directly reflect the age of granitoid.</span></p>
 
 <p><span class="chinese">伊通县爱民乡疙瘩屯麦饭石资源丰富且品质优异，具有良好的开发价值。</span><span class="english">The Geda Village weathered granitoid resources have the good development value with rich and high quality.</span></p>

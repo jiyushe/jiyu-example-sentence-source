@@ -1,5 +1,7 @@
 # alist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alist.md)
+
 <p><span class="chinese">每个学生的总分都已计较出来平列入表中。</span><span class="english">Each student's marks were totaled and entered in alist.</span></p>
 
 <p><span class="chinese">在忠诚的侍者的腰里存有那拾位听众的名单。</span><span class="english">In the faithful waiter's waist exists alist of the ten listeners.</span></p>

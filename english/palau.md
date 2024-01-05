@@ -1,5 +1,7 @@
 # palau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palau.md)
+
 <p><span class="chinese">帛琉以其令人赞叹的浮潜和潜水景点著称。</span><span class="english">Palau is noteworthy for its amazing and scuba diving sights.</span></p>
 
 <p><span class="chinese">这样，帕劳水母湖拥有了世界上独一无二的无毒水母。</span><span class="english">Thus, Palau Jellyfish Lake has the world's only non-toxic jellyfish.</span></p>

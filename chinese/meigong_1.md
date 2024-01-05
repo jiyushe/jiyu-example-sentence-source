@@ -1,5 +1,7 @@
 # 美工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meigong_1.md)
+
 <p><span class="chinese">美工图案无法完成此作业。</span><span class="english">Clipart cannot complete the operation.</span></p>
 
 <p><span class="chinese">如果你是个程序员，只要找个美工就可以了。</span><span class="english">If you are a programmer, just get an artist.</span></p>

@@ -1,5 +1,7 @@
 # 宗派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongpai.md)
+
 <p><span class="chinese">天台宗是我国第一个佛教宗派。</span><span class="english">Tiantai Sect is the first Buddhism Sect in China.</span></p>
 
 <p><span class="chinese">天台宗是中国化的佛教宗派。</span><span class="english">Tiantai sect is a Buddhism sect of Chinese style.</span></p>

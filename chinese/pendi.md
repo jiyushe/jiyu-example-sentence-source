@@ -1,5 +1,7 @@
 # 盆地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pendi.md)
+
 <p><span class="chinese">衡阳盆地南高北低。</span><span class="english">North-South Hengyang basin low.</span></p>
 
 <p><span class="chinese">山间多河谷盆地。</span><span class="english">Multi-mountain catchment basins.</span></p>

@@ -1,5 +1,7 @@
 # bacteremia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacteremia.md)
+
 <p><span class="chinese">实验组有一只狗出现菌血症。</span><span class="english">The control group only had one dog appeared bacteremia.</span></p>
 
 <p><span class="chinese">可导致败血症的细菌种类很多。</span><span class="english">Infection by many kinds of bacteria may cause bacteremia.</span></p>

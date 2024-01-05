@@ -1,5 +1,7 @@
 # 顾虑重重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gulvchongchong.md)
+
 <p><span class="chinese">我对是否接受那份工作顾虑重重。</span><span class="english">I have serious misgivings about taking the job.</span></p>
 
 <p><span class="chinese">你能体谅缺乏经验的年轻人遇事顾虑重重。</span><span class="english">You will allow for the doubts of youth and inexperience.</span></p>

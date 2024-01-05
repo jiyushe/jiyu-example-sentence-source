@@ -1,5 +1,7 @@
 # impressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impressive.md)
+
 <p><span class="chinese">那似乎非常好。</span><span class="english">That sounds very impressive.</span></p>
 
 <p><span class="chinese">地面部队，也令人咋舌。</span><span class="english">Ground forces, also impressive.</span></p>

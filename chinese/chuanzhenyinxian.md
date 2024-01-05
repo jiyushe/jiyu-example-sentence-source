@@ -1,5 +1,7 @@
 # 穿针引线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanzhenyinxian.md)
+
 <p><span class="chinese">穿针引线本身就是一种技巧。</span><span class="english">Threading a needle is an art in itself.</span></p>
 
 <p><span class="chinese">黛安充当的是穿针引线的角色。</span><span class="english">Diane's role was to introduce the piece.</span></p>

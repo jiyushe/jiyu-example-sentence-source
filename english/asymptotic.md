@@ -1,5 +1,7 @@
 # asymptotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asymptotic.md)
+
 <p><span class="chinese">他把这些解叫作渐近解。</span><span class="english">These he called asymptotic solutions.</span></p>
 
 <p><span class="chinese">渐近中午，买花的人也多了。</span><span class="english">Asymptotic noon, buy flowers to people more.</span></p>

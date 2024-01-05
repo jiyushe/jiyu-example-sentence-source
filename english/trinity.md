@@ -1,5 +1,7 @@
 # trinity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trinity.md)
+
 <p><span class="chinese">剑桥，学院街。</span><span class="english">Cambridge, Trinity street.</span></p>
 
 <p><span class="chinese">三位一体教义。</span><span class="english">The Doctrine of the Trinity.</span></p>

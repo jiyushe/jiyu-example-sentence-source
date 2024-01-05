@@ -1,5 +1,7 @@
 # 博学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/boxue.md)
+
 <p><span class="chinese">他是个博学的学者。</span><span class="english">He is a learned scholar.</span></p>
 
 <p><span class="chinese">哈哈哈，现在我可是博学了哟。</span><span class="english">Ha-ha, I am so informed now.</span></p>

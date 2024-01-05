@@ -1,5 +1,7 @@
 # 胼胝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianzhi_2.md)
+
 <p><span class="chinese">侧壁通常不具胼胝质。</span><span class="english">But the side walls usually lacked callose.</span></p>
 
 <p><span class="chinese">生殖细胞壁为胼胝质成分。</span><span class="english">The wall of the generative cell contains callose.</span></p>

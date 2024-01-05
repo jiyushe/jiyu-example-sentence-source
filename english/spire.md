@@ -1,5 +1,7 @@
 # spire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spire.md)
+
 <p><span class="chinese">该塔顶上装竖着塔尖。</span><span class="english">The tower is surmounted with a spire.</span></p>
 
 <p><span class="chinese">那是一座有百叶窗的钟楼和尖顶的教堂。</span><span class="english">It was a church with a shuttered belfry and spire.</span></p>

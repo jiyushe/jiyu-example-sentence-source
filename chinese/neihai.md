@@ -1,5 +1,7 @@
 # 内海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neihai.md)
+
 <p><span class="chinese">内海畔，一片空旷区域里的露营者。</span><span class="english">Campers at inland sea in empty quarter.</span></p>
 
 <p><span class="chinese">别墅位于冈山省濑户内海附近。</span><span class="english">The house positions itself in Okayama Prefecture near Seto Inland Sea.</span></p>

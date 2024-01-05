@@ -1,5 +1,7 @@
 # decimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decimeter.md)
+
 <p><span class="chinese">厘米是分米的十分之一，或者说是米的百分之一。</span><span class="english">The centimeter is one-tenth of the decimeter or one-hundredth of the meter.</span></p>
 
 <p><span class="chinese">论文介绍了辐射器原理，给出了一种可利用的分米波辐射器。</span><span class="english">The principal of radiator is introduced, and an available Decimeter wave radiator is given.</span></p>

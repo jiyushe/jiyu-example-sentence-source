@@ -1,5 +1,7 @@
 # subtitling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtitling.md)
+
 <p><span class="chinese">指出相比配音而言，字幕更受到大众的喜爱。</span><span class="english">Compared with dubbing, subtitling is the way preferred by most people.</span></p>
 
 <p><span class="chinese">这篇专题是在探讨电影上的翻译，特别是在强调字幕上的不同。</span><span class="english">This project first looks at translation in film and specifically subtitling.</span></p>

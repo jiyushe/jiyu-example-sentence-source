@@ -1,5 +1,7 @@
 # realize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realize.md)
+
 <p><span class="chinese">生活就是至福，去体验它。</span><span class="english">Life is a dream realize it.</span></p>
 
 <p><span class="chinese">我可以实现我的所有梦想。</span><span class="english">I can realize all my dreams.</span></p>

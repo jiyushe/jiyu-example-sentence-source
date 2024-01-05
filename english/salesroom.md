@@ -1,5 +1,7 @@
 # salesroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salesroom.md)
+
 <p><span class="chinese">当最终霍克先生赢得竞价，拍卖大厅里响起了热烈的掌声。</span><span class="english">When the wining bid went to Mr. Hook, the salesroom burst into applause.</span></p>
 
 <p><span class="chinese">茅台不仅在拍卖场上“走红”，在市场上的销售价格也是扶摇直上。</span><span class="english">Maotai is not only on salesroom "popular", in the market sales price is also soared.</span></p>

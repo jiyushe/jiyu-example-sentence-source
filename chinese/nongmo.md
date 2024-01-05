@@ -1,5 +1,7 @@
 # 农膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongmo.md)
+
 <p><span class="chinese">研制出既转紫光又转绿光的新型高光能农膜。</span><span class="english">A new light conversion agriculture film was prepared.</span></p>
 
 <p><span class="chinese">在功能性农膜生产过程中，膜内容易形成气泡。</span><span class="english">Bubbles are formed easily during the producing of functional agricultural film.</span></p>

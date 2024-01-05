@@ -1,5 +1,7 @@
 # levator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/levator.md)
+
 <p><span class="chinese">我们可否预防和修补肛提肌损伤?。</span><span class="english">Can we prevent or repair levator trauma?</span></p>
 
 <p><span class="chinese">这种提肛运动益肾很简单。</span><span class="english">The levator ani Sports kidney is very simple.</span></p>

@@ -1,5 +1,7 @@
 # griddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/griddle.md)
+
 <p><span class="chinese">取大平底锅或烤盘一个，开中火融化黄油。</span><span class="english">Melt butter over medium heat in a large skillet or griddle.</span></p>
 
 <p><span class="chinese">放至煎锅，每面约煎三分钟，可至酥脆。</span><span class="english">Cook them on the griddle until crisp, about 3 minutes a side.</span></p>

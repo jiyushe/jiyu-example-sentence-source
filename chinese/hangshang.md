@@ -1,5 +1,7 @@
 # 行商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangshang.md)
+
 <p><span class="chinese">行商庇佑主之门，开启！</span><span class="english">Gate of the Lord of Protection, Open!</span></p>
 
 <p><span class="chinese">掌机游戏发行商开始对此投以关注。</span><span class="english">The console game publishers took notice.</span></p>

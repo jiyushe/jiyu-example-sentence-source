@@ -1,5 +1,7 @@
 # 稠油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouyou.md)
+
 <p><span class="chinese">塔河油田存在大量泡沫稠油。</span><span class="english">Taha oilfield has a large amount of foam heavy oil.</span></p>
 
 <p><span class="chinese">改质稠油酸值几乎没有变化。</span><span class="english">Acid number of upgrading heavy oil had little change.</span></p>

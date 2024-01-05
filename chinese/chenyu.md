@@ -1,5 +1,7 @@
 # 沉郁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenyu.md)
+
 <p><span class="chinese">“我不能，”她沉郁说道。“</span><span class="english">"I cannot, " she said heavily.</span></p>
 
 <p><span class="chinese">在他阴暗沉郁的脑海里闪耀亮光。</span><span class="english">Glows and grows in the murk of his brain.</span></p>

@@ -1,5 +1,7 @@
 # 株式会社
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushihuishe.md)
+
 <p><span class="chinese">东光株式会社为所有类型的IC进行匹配评估。</span><span class="english">TOKO performs matching evaluation for all types of ICs.</span></p>
 
 <p><span class="chinese">1997年，FTZ株式会社取得玻利维亚天然盐矿的采矿权。</span><span class="english">In 1997, the FTZ has natural salt Co. , the mining Bolivia.</span></p>

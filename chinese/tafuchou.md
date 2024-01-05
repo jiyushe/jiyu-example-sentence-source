@@ -1,5 +1,7 @@
 # 塔夫绸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tafuchou.md)
+
 <p><span class="chinese">平滑塔夫绸衬里。</span><span class="english">Smooth taffeta lining.</span></p>
 
 <p><span class="chinese">涤纶塔夫绸衬里。</span><span class="english">Polyester taffeta lining.</span></p>

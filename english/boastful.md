@@ -1,5 +1,7 @@
 # boastful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boastful.md)
+
 <p><span class="chinese">他把那个好自夸的男人称作说谎者。</span><span class="english">He labeled the boastful man a liar.</span></p>
 
 <p><span class="chinese">但是你应该避免给人感觉太自负。</span><span class="english">But you should avoid sounding overly boastful.</span></p>

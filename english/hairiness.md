@@ -1,5 +1,7 @@
 # hairiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hairiness.md)
+
 <p><span class="chinese">有条子直接纺纱-毛羽低。</span><span class="english">Sliver to yarn spinning-less hairiness.</span></p>
 
 <p><span class="chinese">他们的颜色及绒毛都各不相同。</span><span class="english">They can vary in color and in hairiness.</span></p>

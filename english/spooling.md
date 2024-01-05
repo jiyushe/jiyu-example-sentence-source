@@ -1,5 +1,7 @@
 # spooling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spooling.md)
+
 <p><span class="chinese">一直在放着锚链。</span><span class="english">The anchor chain was spooling off.</span></p>
 
 <p><span class="chinese">第三现场表演的过程中缓冲。</span><span class="english">The third scene shows the process of spooling.</span></p>

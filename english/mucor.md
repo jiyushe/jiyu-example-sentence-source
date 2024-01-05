@@ -1,5 +1,7 @@
 # mucor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mucor.md)
+
 <p><span class="chinese">定性结果表明，总状毛酶产辅酶Q10。</span><span class="english">The qualitative analysis result shows that Mucor racemosus produces CoQ10.</span></p>
 
 <p><span class="chinese">黄色毛霉是东北地区生产腐乳用的菌种之一。</span><span class="english">Mucor flavus is one of the main moulds used in sufu production in the northeast area of China.</span></p>

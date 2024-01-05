@@ -1,5 +1,7 @@
 # shareholding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shareholding.md)
+
 <p><span class="chinese">巴林1981年成立股份公司作为巴林。</span><span class="english">Batelco established in 1981 as a Bahraini Shareholding Company.</span></p>
 
 <p><span class="chinese">第二部分是对企业交叉持股研究文献的一个综合性回顾。</span><span class="english">The second part is an all-around of literature of the cross shareholding.</span></p>

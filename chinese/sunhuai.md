@@ -1,5 +1,7 @@
 # 损坏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sunhuai.md)
+
 <p><span class="chinese">有什么损坏吗？</span><span class="english">Was there any damage?</span></p>
 
 <p><span class="chinese">他损坏了那个地方。</span><span class="english">He busted up the place.</span></p>

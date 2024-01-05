@@ -1,5 +1,7 @@
 # understandability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/understandability.md)
+
 <p><span class="chinese">教师的教学是否具有可懂性是衡量教师教学水平的重要标准之一。</span><span class="english">The understandability of teaching is an important standard for measuring the teaching level.</span></p>
 
 <p><span class="chinese">代码是否好理解取决于是否能在未来维护它。</span><span class="english">The understandability of your code ultimately determines whether it can be maintained in the future.</span></p>

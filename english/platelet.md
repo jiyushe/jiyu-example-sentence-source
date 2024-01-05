@@ -1,5 +1,7 @@
 # platelet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platelet.md)
+
 <p><span class="chinese">血小板聚集实验正常。</span><span class="english">Platelet aggregation assay was normal.</span></p>
 
 <p><span class="chinese">血小板膜糖蛋白的表达。</span><span class="english">Expression of platelet membrane glycoproteins.</span></p>

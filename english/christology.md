@@ -1,5 +1,7 @@
 # christology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christology.md)
+
 <p><span class="chinese">基督论是什么意思，有人知道吗？</span><span class="english">What does Christology mean? Anybody?</span></p>
 
 <p><span class="chinese">约翰福音所关注的是基督论。</span><span class="english">What is at issue in the Gospel of John is Christology.</span></p>

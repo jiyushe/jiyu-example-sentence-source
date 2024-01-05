@@ -1,5 +1,7 @@
 # emotive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emotive.md)
+
 <p><span class="chinese">人都是会动感情的，是吧？</span><span class="english">The person is to meet emotive , yes?</span></p>
 
 <p><span class="chinese">感情的失败，工作的不顺心。</span><span class="english">Emotive fails, of the job not satisfactory.</span></p>

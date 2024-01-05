@@ -1,5 +1,7 @@
 # vicar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vicar.md)
+
 <p><span class="chinese">教区牧师的布道非常精彩。</span><span class="english">The vicar gave an excellent sermon.</span></p>
 
 <p><span class="chinese">教区牧师作了一次布道，宣讲赌博的危害。</span><span class="english">The vicar gave a sermon on the evils of gambling.</span></p>

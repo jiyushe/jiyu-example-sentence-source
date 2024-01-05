@@ -1,5 +1,7 @@
 # rawness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rawness.md)
+
 <p><span class="chinese">感冒了，紧接是喉咙和气管的疼痛。</span><span class="english">After taking a cold rawness of the larynx and trachea come on.</span></p>
 
 <p><span class="chinese">虽然还是有些紧张，但他也不禁跟着笑了起来。</span><span class="english">Simon, despite a certain rawness of nerves, could not help but join in.</span></p>

@@ -1,5 +1,7 @@
 # 堡垒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baolei.md)
+
 <p><span class="chinese">砌一座堡垒。</span><span class="english">Build a fort.</span></p>
 
 <p><span class="chinese">我是这座堡垒的首领！</span><span class="english">I am the captain of my fort!</span></p>

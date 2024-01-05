@@ -1,5 +1,7 @@
 # 背书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beishu_1.md)
+
 <p><span class="chinese">该轮到我背书了。</span><span class="english">It's my turn to recite.</span></p>
 
 <p><span class="chinese">这张机票没有背书。</span><span class="english">This ticket is non-endorsable.</span></p>

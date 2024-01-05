@@ -1,5 +1,7 @@
 # penitentiary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penitentiary.md)
+
 <p><span class="chinese">这是一个国家监狱。</span><span class="english">This is a state penitentiary.</span></p>
 
 <p><span class="chinese">力石先出了管教所。</span><span class="english">Power stone out of the first penitentiary.</span></p>

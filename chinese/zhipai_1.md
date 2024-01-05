@@ -1,5 +1,7 @@
 # 支派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhipai_1.md)
+
 <p><span class="chinese">已支派一名护士上他那儿去了。</span><span class="english">A nurse was dispatched to him.</span></p>
 
 <p><span class="chinese">麦克偷了同学的一支派克笔。</span><span class="english">Mike stole a Parker pen from a classmate.</span></p>

@@ -1,5 +1,7 @@
 # concordia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concordia.md)
+
 <p><span class="chinese">首先，感谢您和康克迪亚大学。</span><span class="english">I am grateful to you and Concordia.</span></p>
 
 <p><span class="chinese">这就是现在康科迪亚的样子。</span><span class="english">This is what the Coast Concordia looks like now.</span></p>

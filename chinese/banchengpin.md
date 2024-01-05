@@ -1,5 +1,7 @@
 # 半成品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banchengpin.md)
+
 <p><span class="chinese">鞋的半成品已经做好。</span><span class="english">and half of the shoe is ready.</span></p>
 
 <p><span class="chinese">这是打磨好的半成品。</span><span class="english">This is grinding good semi-finished products.</span></p>

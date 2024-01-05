@@ -1,5 +1,7 @@
 # 大选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxuan.md)
+
 <p><span class="chinese">大选等于是在9月15日就结束了。</span><span class="english">The election ended Sept. 15.</span></p>
 
 <p><span class="chinese">我在抵制大选。</span><span class="english">I am boycotting the elections.</span></p>

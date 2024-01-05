@@ -1,5 +1,7 @@
 # 思亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siqin.md)
+
 <p><span class="chinese">中秋夜，皎洁的月光，让我倍思亲。</span><span class="english">In the autumn, bringing a moon, I loved.</span></p>
 
 <p><span class="chinese">一寸丹心图报国，两行清泪为思亲。</span><span class="english">A loyal heart figure to serve the country, two lines of tears for pro.</span></p>

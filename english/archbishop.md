@@ -1,5 +1,7 @@
 # archbishop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archbishop.md)
+
 <p><span class="chinese">坎特伯雷大主教柏克特T。</span><span class="english">Thomas ket, Archbishop of Canterbury.</span></p>
 
 <p><span class="chinese">坎特伯雷大主教罗文·威廉斯说道。</span><span class="english">Archbishop of Canterbury, Rowan Williams</span></p>

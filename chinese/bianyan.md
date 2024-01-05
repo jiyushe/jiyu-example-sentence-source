@@ -1,5 +1,7 @@
 # 边沿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianyan.md)
+
 <p><span class="chinese">沿着湖湾的边沿。</span><span class="english">Along the margin of a bay.</span></p>
 
 <p><span class="chinese">草席边沿翘起来了。</span><span class="english">The edge of the mat is cocked up.</span></p>

@@ -1,5 +1,7 @@
 # io
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/io.md)
+
 <p><span class="chinese">您真的认识爱娥？</span><span class="english">But you did know Io?</span></p>
 
 <p><span class="chinese">我也是你的爱好者。</span><span class="english">Io so no anche per i fan.</span></p>

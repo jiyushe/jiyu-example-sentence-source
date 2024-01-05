@@ -1,5 +1,7 @@
 # dubbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dubbing.md)
+
 <p><span class="chinese">我的梦想是当一名配音员。</span><span class="english">My dream is to be a dubbing.</span></p>
 
 <p><span class="chinese">他进入了配音间。</span><span class="english">He entered into the dubbing room.</span></p>

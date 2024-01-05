@@ -1,5 +1,7 @@
 # milker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milker.md)
+
 <p><span class="chinese">达内尔是一位专业采蛇毒者。</span><span class="english">Darnell is a snake milker.</span></p>
 
 <p><span class="chinese">亨利挤奶器一个手动的真空泵。</span><span class="english">The Henry Milker is a hand-operated vacuum pump.</span></p>

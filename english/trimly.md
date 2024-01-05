@@ -1,5 +1,7 @@
 # trimly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trimly.md)
+
 <p><span class="chinese">在厨房中整洁地摆放物品也会让它看上去有一种清新感。</span><span class="english">Put article trimly to also can let it look have a kind of pure and fresh feeling.</span></p>
 
 <p><span class="chinese">装订时，文件没有放整齐，出现漏订的情况。</span><span class="english">When binding, the document hasn't been put trimly that make some paper haven't been bound.</span></p>

@@ -1,5 +1,7 @@
 # 根据
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/genju.md)
+
 <p><span class="chinese">根据最新的研究结果，饮食对健康有着重要影响。</span><span class="english">According to the latest research findings, diet has a significant impact on health.</span></p>
 <p><span class="chinese">我们需要根据客户的需求来调整产品设计。</span><span class="english">We need to adjust the product design according to the customer's requirements.</span></p>
 <p><span class="chinese">根据公司政策，员工可以享受带薪年假。</span><span class="english">According to company policy, employees are entitled to paid annual leave.</span></p>

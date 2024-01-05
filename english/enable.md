@@ -1,5 +1,7 @@
 # enable 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enable.md)
+
 <p><span class="chinese">支持多页面应用程序。</span><span class="english">Enable multi-page applications.</span></p>
 
 <p><span class="chinese">启用用户可切换的布局。</span><span class="english">Enable user-switchable layouts.</span></p>

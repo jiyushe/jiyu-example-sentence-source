@@ -1,5 +1,7 @@
 # motorman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motorman.md)
+
 <p><span class="chinese">驾驶员放慢了火车的速度。</span><span class="english">The motorman slowed down the train.</span></p>
 
 <p><span class="chinese">这是个十分善辩且狡猾的司机。</span><span class="english">It was a mostphilosophic jesuitical motorman.</span></p>

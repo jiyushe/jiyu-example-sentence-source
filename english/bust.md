@@ -1,5 +1,7 @@
 # bust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bust.md)
+
 <p><span class="chinese">它们全裂开了吗?</span><span class="english">Did they all bust open?</span></p>
 
 <p><span class="chinese">她的胸部很美。</span><span class="english">She has a beautiful bust.</span></p>

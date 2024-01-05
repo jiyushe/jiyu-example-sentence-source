@@ -1,5 +1,7 @@
 # impolitely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impolitely.md)
+
 <p><span class="chinese">他过去回答别人总是很有礼貌的。</span><span class="english">He didn't use to answer impolitely.</span></p>
 
 <p><span class="chinese">如果他们对待你不礼貌，请告诉我。</span><span class="english">Let me know if they treat you impolitely.</span></p>

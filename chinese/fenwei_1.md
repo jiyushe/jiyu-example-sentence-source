@@ -1,5 +1,7 @@
 # 氛围
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenwei_1.md)
+
 <p><span class="chinese">你已经感觉到了一个好的氛围。</span><span class="english">You've got a good vibe.</span></p>
 
 <p><span class="chinese">原本的氛围已无迹可寻。</span><span class="english">All form of aura is absent.</span></p>

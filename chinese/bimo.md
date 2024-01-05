@@ -1,5 +1,7 @@
 # 笔墨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bimo.md)
+
 <p><span class="chinese">这是空耗笔墨。</span><span class="english">This is a waste of ink.</span></p>
 
 <p><span class="chinese">她的美貌绝非笔墨所能形容。</span><span class="english">She has the beauty that beggars description.</span></p>

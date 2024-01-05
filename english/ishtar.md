@@ -1,5 +1,7 @@
 # ishtar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ishtar.md)
+
 <p><span class="chinese">那有一处伊斯塔门的复制品又在何处呢？</span><span class="english">Where is there a reproduction of the Ishtar Gate?</span></p>
 
 <p><span class="chinese">伊师塔在那里被虐待，但是以另一位神作为交换，她被释放。</span><span class="english">Ishtar was abused there but released in exchange for another god.</span></p>

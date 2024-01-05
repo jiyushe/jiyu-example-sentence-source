@@ -1,5 +1,7 @@
 # bodywork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bodywork.md)
+
 <p><span class="chinese">我们把大客车的外部重新油漆了一遍。</span><span class="english">We repainted the bodywork of the bus.</span></p>
 
 <p><span class="chinese">这汽车的车身简直都要散架了。</span><span class="english">The car's bodywork scarcely holds together.</span></p>

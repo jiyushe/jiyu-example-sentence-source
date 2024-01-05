@@ -1,5 +1,7 @@
 # headstrong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headstrong.md)
+
 <p><span class="chinese">那个小男孩很任性。</span><span class="english">The boy is rather headstrong.</span></p>
 
 <p><span class="chinese">我相信你可以，你是个倔丫头。</span><span class="english">I believe you could. You’re a headstrong girl.</span></p>

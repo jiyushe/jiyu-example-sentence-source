@@ -1,5 +1,7 @@
 # dpn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dpn.md)
+
 <p><span class="chinese">本研究的纳入对象是2型糖尿病并发DPN患者。</span><span class="english">Included in this study are patients with DPN of type 2 diabetes.</span></p>
 
 <p><span class="chinese">笔者认为在辨证论治指导下运用中医药治疗DPN将是未来的发展方向。</span><span class="english">I think using Chinese medicine under the TCM theory is the way to cure DPN in future.</span></p>

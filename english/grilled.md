@@ -1,5 +1,7 @@
 # grilled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grilled.md)
+
 <p><span class="chinese">你能吃到整个的烤洋葱，</span><span class="english">you can get whole grilled onions,</span></p>
 
 <p><span class="chinese">我建议您来点牛腰排或者烤鳟鱼好吗?。</span><span class="english">I'll have the grilled trout, then.</span></p>

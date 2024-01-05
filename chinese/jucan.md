@@ -1,5 +1,7 @@
 # 聚餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jucan.md)
+
 <p><span class="chinese">这是一个聚餐会。</span><span class="english">This is a potluck.</span></p>
 
 <p><span class="chinese">坚持家庭聚餐。</span><span class="english">Insist on family meals.</span></p>

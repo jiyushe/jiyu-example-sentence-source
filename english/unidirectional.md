@@ -1,5 +1,7 @@
 # unidirectional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unidirectional.md)
+
 <p><span class="chinese">单向关联优先于双向关联。</span><span class="english">Preferring unidirectional to bidirectional.</span></p>
 
 <p><span class="chinese">通道可以是单向的或双向的。</span><span class="english">Channels can be unidirectional or bidirectional.</span></p>

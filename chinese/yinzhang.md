@@ -1,5 +1,7 @@
 # 印张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzhang.md)
+
 <p><span class="chinese">他们决定重印全部有缺陷的印张。</span><span class="english">They decided to make all the defective sheets up.</span></p>
 
 <p><span class="chinese">印刷厂已将词典的印张粘贴好了，以供编辑修改校正。</span><span class="english">The printing plant has pasted up the editors to make corrections on.</span></p>

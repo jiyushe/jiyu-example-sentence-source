@@ -1,5 +1,7 @@
 # remittance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remittance.md)
+
 <p><span class="chinese">汇出利润。</span><span class="english">Remittance of profits.</span></p>
 
 <p><span class="chinese">你方是否已收到我方汇款？</span><span class="english">Have you received our remittance?</span></p>

@@ -1,5 +1,7 @@
 # hemal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemal.md)
+
 <p><span class="chinese">怎样治疗血管曲张？</span><span class="english">How to treat hemal music piece?</span></p>
 
 <p><span class="chinese">血管神经性头痛是种什么病？怎么治疗？</span><span class="english">Kind of what disease is hemal nerve sex has a headache? How to treat?</span></p>

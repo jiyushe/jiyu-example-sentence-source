@@ -1,5 +1,7 @@
 # 慕名而来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mumingerlai.md)
+
 <p><span class="chinese">我慕名而来，我一直支持你，你知道的…</span><span class="english">I've been here for you. I'm consistent and you know it.</span></p>
 
 <p><span class="chinese">这间餐厅大部分的新顾客都是慕名而来。</span><span class="english">Most of the restaurant's new customers come from word of mouth.</span></p>

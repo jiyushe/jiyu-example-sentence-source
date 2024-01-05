@@ -1,5 +1,7 @@
 # commonplace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commonplace.md)
+
 <p><span class="chinese">现在坐飞机是平常事。</span><span class="english">Air travel is a commonplace nowadays.</span></p>
 
 <p><span class="chinese">他所说的无非是老生常谈而已。</span><span class="english">What he has said is a mere commonplace.</span></p>

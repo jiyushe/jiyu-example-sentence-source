@@ -1,5 +1,7 @@
 # 备件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beijian.md)
+
 <p><span class="chinese">台架的零备件。</span><span class="english">Spare parts of stages.</span></p>
 
 <p><span class="chinese">维修成本和备件价格较高。</span><span class="english">Cost of maintance is high.</span></p>

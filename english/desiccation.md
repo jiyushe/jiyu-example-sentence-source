@@ -1,5 +1,7 @@
 # desiccation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desiccation.md)
+
 <p><span class="chinese">理论上你现在应该开始感到浑身干燥难忍了。</span><span class="english">I know you get desiccation in theory, Stefan.</span></p>
 
 <p><span class="chinese">第二个时期包括种子的成熟、后脱落和干化。</span><span class="english">Stage II involves maturation, post-abscission and desiccation.</span></p>

@@ -1,5 +1,7 @@
 # 雄伟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongwei.md)
+
 <p><span class="chinese">门不挡衣服雄伟的人。</span><span class="english">Good clothes open isl doors.</span></p>
 
 <p><span class="chinese">你是雄伟高峻的山。</span><span class="english">You're an eagle flying high.</span></p>

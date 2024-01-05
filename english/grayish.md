@@ -1,5 +1,7 @@
 # grayish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grayish.md)
+
 <p><span class="chinese">一种淡灰的绿黄色。</span><span class="english">A grayish green yellow.</span></p>
 
 <p><span class="chinese">还有四周灰叶的死水一池。</span><span class="english">And a pond edged with grayish leaves.</span></p>

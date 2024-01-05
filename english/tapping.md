@@ -1,5 +1,7 @@
 # tapping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tapping.md)
+
 <p><span class="chinese">现在他在用脚打拍子。</span><span class="english">Now he's tapping his feet.</span></p>
 
 <p><span class="chinese">你们大部分人都没有打拍子啊</span><span class="english">Most of you are not tapping.</span></p>

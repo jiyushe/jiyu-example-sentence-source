@@ -1,5 +1,7 @@
 # disagreeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disagreeable.md)
+
 <p><span class="chinese">我同去不会惹人讨厌。</span><span class="english">My society would not be disagreeable.</span></p>
 
 <p><span class="chinese">他发现这位合股人很难相处。</span><span class="english">He found his partner to be very disagreeable.</span></p>

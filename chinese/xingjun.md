@@ -1,5 +1,7 @@
 # 行军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingjun.md)
+
 <p><span class="chinese">蚂蚁行军歌。</span><span class="english">Sing The Ants go Marching.</span></p>
 
 <p><span class="chinese">行军者向右看齐。</span><span class="english">The marchers dressed right.</span></p>

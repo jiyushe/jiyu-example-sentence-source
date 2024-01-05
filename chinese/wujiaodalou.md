@@ -1,5 +1,7 @@
 # 五角大楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujiaodalou.md)
+
 <p><span class="chinese">艾普，五角大楼！</span><span class="english">Epps, Pentagon!</span></p>
 
 <p><span class="chinese">五角大楼发言人拉潘当天说。</span><span class="english">Pentagon spokesman Lapan said the same day.</span></p>

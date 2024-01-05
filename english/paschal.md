@@ -1,5 +1,7 @@
 # paschal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paschal.md)
+
 <p><span class="chinese">他看到逾越节崇祀中一切动人心弦的仪式。</span><span class="english">He witnessed the impressive rites of the paschal service.</span></p>
 
 <p><span class="chinese">他向我们解释，复活的奥秘就是神的怜悯。</span><span class="english">He interpreted for us the paschal mystery as a mystery of divine mercy.</span></p>

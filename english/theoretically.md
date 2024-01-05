@@ -1,5 +1,7 @@
 # theoretically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theoretically.md)
+
 <p><span class="chinese">但是理论上是能够完成。</span><span class="english">But you theoretically can do it.</span></p>
 
 <p><span class="chinese">这些模型在理论上能够自圆其说。</span><span class="english">The models are theoretically self-consistent.</span></p>

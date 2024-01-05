@@ -1,5 +1,7 @@
 # vascular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vascular.md)
+
 <p><span class="chinese">普通及血管外科。</span><span class="english">General and Vascular Surgery.</span></p>
 
 <p><span class="chinese">血管胀痛，腿痛，不能走。</span><span class="english">Vascular pain, leg pain, can not go.</span></p>

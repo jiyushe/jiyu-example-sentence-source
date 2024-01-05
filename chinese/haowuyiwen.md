@@ -1,5 +1,7 @@
 # 毫无疑问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haowuyiwen.md)
+
 <p><span class="chinese">毫无疑问，乔希。</span><span class="english">Sure thing, Josh.</span></p>
 
 <p><span class="chinese">难道一切都毫无疑问地丧失殆尽了吗？</span><span class="english">Surely all is lost?</span></p>

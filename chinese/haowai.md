@@ -1,5 +1,7 @@
 # 号外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haowai.md)
+
 <p><span class="chinese">“号外”才是鸡年的最后一个帖子！</span><span class="english">You are the last but one!</span></p>
 
 <p><span class="chinese">一个报童在尖声叫卖号外。</span><span class="english">A newsboy was screaming an extra.</span></p>

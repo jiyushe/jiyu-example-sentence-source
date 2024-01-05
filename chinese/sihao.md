@@ -1,5 +1,7 @@
 # 丝毫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihao.md)
+
 <p><span class="chinese">她丝毫没有一点退缩躲让。</span><span class="english">She does not flinch.</span></p>
 
 <p><span class="chinese">但你丝毫未觉恐惧。</span><span class="english">But you're not afraid.</span></p>

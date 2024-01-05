@@ -1,5 +1,7 @@
 # osteon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteon.md)
+
 <p><span class="chinese">第三部分介绍了哈弗氏骨的力学模型。</span><span class="english">The third introduces the mechanical models of Haversian osteon.</span></p>
 
 <p><span class="chinese">最后讨论了哈弗氏骨的应力-应变关系。</span><span class="english">The last part discusses the stress-strain relationship of Haversian osteon.</span></p>

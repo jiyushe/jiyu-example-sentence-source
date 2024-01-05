@@ -1,5 +1,7 @@
 # 吊儿郎当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaoerlangdang.md)
+
 <p><span class="chinese">别整天吊儿郎当无所事事。</span><span class="english">Don't lie about all day.</span></p>
 
 <p><span class="chinese">别吊儿郎当地混时间。</span><span class="english">Don't lounge away your time.</span></p>

@@ -1,5 +1,7 @@
 # womanhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/womanhood.md)
+
 <p><span class="chinese">欢迎进入成年期。</span><span class="english">Way to welcome in womanhood.</span></p>
 
 <p><span class="chinese">女王，你才是正真的女中豪杰。</span><span class="english">Queen, as true to womanhood as Queenhood.</span></p>

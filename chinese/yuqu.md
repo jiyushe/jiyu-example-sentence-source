@@ -1,5 +1,7 @@
 # 迂曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuqu.md)
+
 <p><span class="chinese">穴居沙龟打一个迂曲的地洞。</span><span class="english">The gopher digs a maze of tunnels.</span></p>
 
 <p><span class="chinese">小路迂曲一英里长。</span><span class="english">The path straggles out a mile long.</span></p>

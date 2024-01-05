@@ -1,5 +1,7 @@
 # trusty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trusty.md)
+
 <p><span class="chinese">我是大力牛，踏实讲信用。</span><span class="english">I am MACHO OX, solid and trusty.</span></p>
 
 <p><span class="chinese">这儿，是我的手，我信赖的朋友。</span><span class="english">And here's a hand, my trusty fiere.</span></p>

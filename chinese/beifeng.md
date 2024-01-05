@@ -1,5 +1,7 @@
 # 背风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beifeng.md)
+
 <p><span class="chinese">转舵背风！</span><span class="english">Luff the helm!</span></p>
 
 <p><span class="chinese">例如，船只总是在背风一侧航行。</span><span class="english">The boats sails, for example, are always on the leeward side of the boat.</span></p>

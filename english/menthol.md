@@ -1,5 +1,7 @@
 # menthol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menthol.md)
+
 <p><span class="chinese">他们在患部涂上薄荷醇。</span><span class="english">They covered the affected parts with menthol.</span></p>
 
 <p><span class="chinese">他们发现，薄荷醇能激活离子通道。</span><span class="english">They found that menthol can activate the ion channel.</span></p>

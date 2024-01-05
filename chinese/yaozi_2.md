@@ -1,5 +1,7 @@
 # 鹞子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaozi_2.md)
+
 <p><span class="chinese">请不要在这放你的鹞子。</span><span class="english">Please don't fly your kite here.</span></p>
 
 <p><span class="chinese">她昨天为她妹妹做了一个鹞子。</span><span class="english">She made a kite for her sister yesterday.</span></p>

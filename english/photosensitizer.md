@@ -1,5 +1,7 @@
 # photosensitizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photosensitizer.md)
+
 <p><span class="chinese">结论光敏剂有诱导HOS细胞凋亡的作用。</span><span class="english">Conclusion The photosensitizer mTHPC can induce apoptosis of HOS cells.</span></p>
 
 <p><span class="chinese">结果表明竹红菌素可能是一种有效的光动力学反应的光敏剂。</span><span class="english">It showed that hypocrellin might be an effective photosensitizer in photodynamic reaction.</span></p>

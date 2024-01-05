@@ -1,5 +1,7 @@
 # boost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boost.md)
+
 <p><span class="chinese">他老是宣扬他的公司。</span><span class="english">He always boost his company.</span></p>
 
 <p><span class="chinese">他们缺乏水来提高产量。</span><span class="english">It lacks water to boost output.</span></p>

@@ -1,5 +1,7 @@
 # 一鼓作气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiguzuoqi.md)
+
 <p><span class="chinese">他一鼓作气完成了任务。</span><span class="english">He sailed in and finished the job.</span></p>
 
 <p><span class="chinese">今天我一鼓作气背了50个单词。</span><span class="english">I memorized 50 new words at one fling today.</span></p>

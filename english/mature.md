@@ -1,5 +1,7 @@
 # mature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mature.md)
+
 <p><span class="chinese">他的精神世界无比成熟。</span><span class="english">His spirit was just so mature.</span></p>
 
 <p><span class="chinese">成熟原质团棕色。</span><span class="english">The mature plasmodium is brown.</span></p>

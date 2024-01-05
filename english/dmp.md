@@ -1,5 +1,7 @@
 # dmp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dmp.md)
+
 <p><span class="chinese">数字音乐播放器销量的增长驱动着数字音乐下载量的增长。</span><span class="english">Digital music downloads have been driven by DMP sales growth.</span></p>
 
 <p><span class="chinese">现综述疾病管理概念，管理方法，以及疾病管理和心力衰竭的关系。</span><span class="english">This article reviews the definition, methods of DMP, and the relationship between DMP and CHF.</span></p>

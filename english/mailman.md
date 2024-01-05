@@ -1,5 +1,7 @@
 # mailman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mailman.md)
+
 <p><span class="chinese">我叔叔是个邮差。</span><span class="english">My uncle is a mailman.</span></p>
 
 <p><span class="chinese">邮递员还没来过。</span><span class="english">The mailman hasn't been round yet.</span></p>

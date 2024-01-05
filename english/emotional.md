@@ -1,5 +1,7 @@
 # emotional 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emotional.md)
+
 <p><span class="chinese">他是个易动感情的人。</span><span class="english">He is an emotional person.</span></p>
 
 <p><span class="chinese">这是一种情感的宣泄。</span><span class="english">A kind of emotional reflex.</span></p>

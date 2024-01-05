@@ -1,5 +1,7 @@
 # 战例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanli.md)
+
 <p><span class="chinese">所有这些战例都证实了这种炮不同寻常的精确性以及它全面的战斗价值。</span><span class="english">All bespeak the unusual accuracy of the gun and it's all-around combat worthiness.</span></p>
 
 <p><span class="chinese">美国独立战争是以小胜大，以弱胜强的典型战例。</span><span class="english">Is a big victory over the American Revolutionary War, the typical David and Goliath wars.</span></p>

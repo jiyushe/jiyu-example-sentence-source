@@ -1,5 +1,7 @@
 # dae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dae.md)
+
 <p><span class="chinese">众所周知，高指标问题是困扰DAE系统数值求解的一大难题。</span><span class="english">It is well known that it is numerically difficult to solve a high-index DAE problem.</span></p>
 
 <p><span class="chinese">麻油和种子为韩国创造金大中籍Congi猪肉菜腌坚果味。</span><span class="english">Sesame oil and seeds create a nutty flavor for the Korean pork dish Dae Ji Congi marinade.</span></p>

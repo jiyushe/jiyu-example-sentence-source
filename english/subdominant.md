@@ -1,5 +1,7 @@
 # subdominant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subdominant.md)
+
 <p><span class="chinese">下属音，下中音和主音共同构成下属音三和弦。</span><span class="english">Subdominant , submediant and tonic together form the subdominant triad.</span></p>
 
 <p><span class="chinese">结果表明，优势种叶片解剖可塑性显著大于亚优势种。</span><span class="english">The results showed that the dominant species had more anatomic plasticity than subdominant species.</span></p>

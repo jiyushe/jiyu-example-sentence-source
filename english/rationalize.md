@@ -1,5 +1,7 @@
 # rationalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rationalize.md)
+
 <p><span class="chinese">我能找出选择下的理由吗</span><span class="english">Can I rationalize choosing Down?</span></p>
 
 <p><span class="chinese">我该如何解释我为什么选下呢</span><span class="english">How am I going to rationalize choosing down?</span></p>

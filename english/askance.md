@@ -1,5 +1,7 @@
 # askance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/askance.md)
+
 <p><span class="chinese">萨金特透过歪戴着的眼镜斜睨着他。</span><span class="english">Sargent peered askance through his slanted glasses.</span></p>
 
 <p><span class="chinese">“你会下棋吗？”他斜睨着米格尔问道。</span><span class="english">Do you play chess?" he asked, looking askance at Miguel."</span></p>

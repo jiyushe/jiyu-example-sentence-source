@@ -1,5 +1,7 @@
 # initialization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initialization.md)
+
 <p><span class="chinese">推拉力机当机无法初始化?。</span><span class="english">Machine hangs-up on initialization?</span></p>
 
 <p><span class="chinese">数组初始化的格式错误。</span><span class="english">An array initialization was ill-formed.</span></p>

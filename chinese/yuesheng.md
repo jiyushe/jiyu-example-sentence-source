@@ -1,5 +1,7 @@
 # 跃升
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuesheng.md)
+
 <p><span class="chinese">期望，他迅速地向前跃升前的包。</span><span class="english">Expectations, he quickly jumped ahead of the pack before.</span></p>
 
 <p><span class="chinese">这个学校的升学率大幅度跃升。</span><span class="english">This school's enrollment quotas have surged by a large margin.</span></p>

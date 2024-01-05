@@ -1,5 +1,7 @@
 # rheumatoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rheumatoid.md)
+
 <p><span class="chinese">类风湿性关节炎属于中医痹症范畴。</span><span class="english">Chinese arthralgia syndrome areas of rheumatoid arthritis.</span></p>
 
 <p><span class="chinese">很少有关于硬膜外类风湿性结节的报道。</span><span class="english">There have been few reports on extradural rheumatoid nodules.</span></p>

@@ -1,5 +1,7 @@
 # redevelop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redevelop.md)
+
 <p><span class="chinese">他希望重建铁路使用。</span><span class="english">He wanted to redevelop it for railroad use.</span></p>
 
 <p><span class="chinese">改造市中心、住宅区、贫民区等。</span><span class="english">Redevelop a city centre housing estate slum area etc eg.</span></p>

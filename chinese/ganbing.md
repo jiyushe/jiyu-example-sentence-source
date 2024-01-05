@@ -1,5 +1,7 @@
 # 干冰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganbing.md)
+
 <p><span class="chinese">把干冰放入水中。</span><span class="english">And you put some dry ice into it.</span></p>
 
 <p><span class="chinese">看！我们应有尽有，有刨冰、方冰还有干冰。</span><span class="english">We have crushed! Cubed ! And dry! Watch!</span></p>

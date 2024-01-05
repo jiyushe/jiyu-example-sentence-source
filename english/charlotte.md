@@ -1,5 +1,7 @@
 # charlotte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charlotte.md)
+
 <p><span class="chinese">我在夏洛特市长大。</span><span class="english">I grew up in Charlotte.</span></p>
 
 <p><span class="chinese">“就是很容易骗啦。”夏洛蒂又说。</span><span class="english">"Easy to fool, " said Charlotte.</span></p>

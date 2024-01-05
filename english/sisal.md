@@ -1,5 +1,7 @@
 # sisal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sisal.md)
+
 <p><span class="chinese">早期预混配方中包括剑麻纤维。</span><span class="english">The early premix formulations contained sisal fibers.</span></p>
 
 <p><span class="chinese">通过对剑麻纤维原料爆破法处理，继而进行烧碱法化学蒸煮。</span><span class="english">Sisal fibre material managed by steam explosion and then NaOH pulping.</span></p>

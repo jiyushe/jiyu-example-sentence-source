@@ -1,5 +1,7 @@
 # annuli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annuli.md)
+
 <p><span class="chinese">结果可以很好地反映出偏心环空流动的基本特征。</span><span class="english">Results could reflect the basic characteristics of eccentric annuli flow well.</span></p>
 
 <p><span class="chinese">在研究非牛顿流体圆管和环空管流层流流动问题时，确定其速度分布是关键。</span><span class="english">The velocity profile should be confirmed when non-Newtonian fluid flowing in duct and annuli is researched.</span></p>

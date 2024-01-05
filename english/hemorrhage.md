@@ -1,5 +1,7 @@
 # hemorrhage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemorrhage.md)
+
 <p><span class="chinese">塔布斯突发脑溢血去世，年仅58岁。</span><span class="english">The 58-year-old Tubbs died from a brain hemorrhage.</span></p>
 
 <p><span class="chinese">理查怨正在1984年生于脑溢血，生时58岁。</span><span class="english">Burton died in 1984 of a brain hemorrhage. He was 58.</span></p>

@@ -1,5 +1,7 @@
 # camerawork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camerawork.md)
+
 <p><span class="chinese">我发现杜可风的摄影工作是有感觉的和衬歌式的。</span><span class="english">I found Doyle's camerawork to be lyrical and elegiac.</span></p>
 
 <p><span class="chinese">这里缺少的唯一元素只有基一贯的华丽的摄影技法。</span><span class="english">The only element missing here is Kiarostami's usually gorgeous camerawork.</span></p>

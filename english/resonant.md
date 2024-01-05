@@ -1,5 +1,7 @@
 # resonant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resonant.md)
+
 <p><span class="chinese">他嗓音洪亮。</span><span class="english">He has a resonant voice.</span></p>
 
 <p><span class="chinese">她的嗓子真亮。</span><span class="english">She has a resonant voice.</span></p>

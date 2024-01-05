@@ -1,5 +1,7 @@
 # uncomfortableness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncomfortableness.md)
+
 <p><span class="chinese">而且这种不适感如影随形，与我们每个人亦步亦趋。</span><span class="english">And this kind of uncomfortableness associates and follows everyone of us closely.</span></p>
 
 <p><span class="chinese">独特的植物配方可缓解眼部不适，预防眼袋及细纹产生。</span><span class="english">The unique plant formula can soothe the uncomfortableness of eye skin and prevent eye bag and wrinkles.</span></p>

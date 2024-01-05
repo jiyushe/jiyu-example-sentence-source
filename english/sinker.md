@@ -1,5 +1,7 @@
 # sinker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinker.md)
+
 <p><span class="chinese">许多人对电视的内容照单全收。</span><span class="english">Many accept TV hook, line, and sinker.</span></p>
 
 <p><span class="chinese">这傢伙的伸卡球简直不可能打到。</span><span class="english">This guy's sinker is practically unhittable.</span></p>

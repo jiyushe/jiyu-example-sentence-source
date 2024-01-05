@@ -1,5 +1,7 @@
 # vacuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacuous.md)
+
 <p><span class="chinese">二者都同样是遥远和空虚的。</span><span class="english">Both are equally remote and vacuous.</span></p>
 
 <p><span class="chinese">有一个有关的问题，参见空虚真理。</span><span class="english">For a related problem, see vacuous truth.</span></p>

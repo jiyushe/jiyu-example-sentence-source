@@ -1,5 +1,7 @@
 # koala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/koala.md)
+
 <p><span class="chinese">真要感谢那只树熊？！</span><span class="english">No thanks to the koala.</span></p>
 
 <p><span class="chinese">她不曾见过无尾熊。</span><span class="english">She has not seen a koala.</span></p>

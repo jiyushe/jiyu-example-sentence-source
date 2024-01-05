@@ -1,5 +1,7 @@
 # leash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leash.md)
+
 <p><span class="chinese">这就是你的牵绳。</span><span class="english">This is your leash.</span></p>
 
 <p><span class="chinese">狗必须用狗链拴起来。</span><span class="english">Dogs must be kept on a leash.</span></p>

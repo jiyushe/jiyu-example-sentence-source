@@ -1,5 +1,7 @@
 # 略为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvewei.md)
+
 <p><span class="chinese">拍岸浪的咆哮声在这儿略为低沉。</span><span class="english">The surf's roar was here dulled.</span></p>
 
 <p><span class="chinese">我有两个问题，一个略为笼统些。</span><span class="english">I had two questions, one more general.</span></p>

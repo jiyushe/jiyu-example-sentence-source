@@ -1,5 +1,7 @@
 # fragment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fragment.md)
+
 <p><span class="chinese">这是智性之中很小的一个部分。</span><span class="english">It's a tiny fragment of what intelligence is.</span></p>
 
 <p><span class="chinese">他们的对话，我只听到片言只语。</span><span class="english">I heard only a fragment of their conversation.</span></p>

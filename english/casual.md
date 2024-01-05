@@ -1,5 +1,7 @@
 # casual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casual.md)
+
 <p><span class="chinese">当时非常随意。</span><span class="english">And it was very casual.</span></p>
 
 <p><span class="chinese">他喜欢休闲服装。</span><span class="english">He likes casual attires.</span></p>

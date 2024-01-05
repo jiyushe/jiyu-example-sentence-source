@@ -1,5 +1,7 @@
 # 阻挡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zudang.md)
+
 <p><span class="chinese">软脚流氓不能进行阻挡。</span><span class="english">Spineless Thug can't block.</span></p>
 
 <p><span class="chinese">现在你却要阻挡我？</span><span class="english">And now you want to stop me?</span></p>

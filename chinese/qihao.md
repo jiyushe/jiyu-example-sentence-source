@@ -1,5 +1,7 @@
 # 旗号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihao.md)
+
 <p><span class="chinese">海滨救生员通经日常旗号传达讯息。</span><span class="english">The beach life-guards applying flag one anotIT for communication.</span></p>
 
 <p><span class="chinese">海滨救生员通常用旗号传达信息。</span><span class="english">The beach life-guards usually flag one another for communication.</span></p>

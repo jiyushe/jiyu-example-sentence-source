@@ -1,5 +1,7 @@
 # hypoglycemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypoglycemic.md)
+
 <p><span class="chinese">该药为安全有效的降糖药。</span><span class="english">Gliquidone is a safe and effective hypoglycemic drug.</span></p>
 
 <p><span class="chinese">排名第一的，你就会得到降糖缺乏碳水化合物。</span><span class="english">Number one, you get hypoglycemic from the lack of carbs.</span></p>

@@ -1,5 +1,7 @@
 # 著作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzuo.md)
+
 <p><span class="chinese">果戈理仅有一本著作。</span><span class="english">Gogol onlywrote one book.</span></p>
 
 <p><span class="chinese">十三大报告应该是一篇好的著作。</span><span class="english">It should be a good document.</span></p>

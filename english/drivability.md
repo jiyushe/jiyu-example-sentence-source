@@ -1,5 +1,7 @@
 # drivability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drivability.md)
+
 <p><span class="chinese">更完全的燃烧获得更好的性能，动力和驾驶性能。</span><span class="english">More complete combustion for better performance, power and drivability.</span></p>
 
 <p><span class="chinese">燃料和时间曲线广泛修改为最佳性能和驾驶性能。</span><span class="english">Fuel and timing curves are extensively modified for peak performance and drivability.</span></p>

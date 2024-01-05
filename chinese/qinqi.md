@@ -1,5 +1,7 @@
 # 亲戚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinqi.md)
+
 <p><span class="chinese">她跟你是什么亲戚关系？</span><span class="english">What relation is she to you?</span></p>
 
 <p><span class="chinese">你在国外有亲戚吗？</span><span class="english">Have you any relatives oversea?</span></p>

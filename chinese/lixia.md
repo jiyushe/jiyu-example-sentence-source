@@ -1,5 +1,7 @@
 # 立夏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lixia.md)
+
 <p><span class="chinese">立夏之后。</span><span class="english">After Summer Begins.</span></p>
 
 <p><span class="chinese">立夏意味着夏季的开始。</span><span class="english">It means the beginning of summer.</span></p>

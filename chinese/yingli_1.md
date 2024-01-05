@@ -1,5 +1,7 @@
 # 英里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingli_1.md)
+
 <p><span class="chinese">五十英里。</span><span class="english">Fifty miles.</span></p>
 
 <p><span class="chinese">那是一个6.2英里的比赛。</span><span class="english">It's 6.2 miles.</span></p>

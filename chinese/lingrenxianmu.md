@@ -1,5 +1,7 @@
 # 令人羡慕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingrenxianmu.md)
+
 <p><span class="chinese">或者在韦利旺卡的巧克力工厂获得一份令人羡慕的工作？</span><span class="english">Or work at Willy Wonka’s Chocolate Factory?</span></p>
 
 <p><span class="chinese">这些人是令人羡慕的</span><span class="english">Those people are the envy of many other people.</span></p>

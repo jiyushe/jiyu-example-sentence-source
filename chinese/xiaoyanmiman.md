@@ -1,5 +1,7 @@
 # 硝烟弥漫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyanmiman.md)
+
 <p><span class="chinese">硝烟弥漫在燃烧的残船上。</span><span class="english">Smoke curled over the burning wreckage.</span></p>
 
 <p><span class="chinese">两边的枪声同时爆发，硝烟弥漫，任何东西都看不见了。</span><span class="english">The two discharges took place at the same moment, and all disappeared in smoke.</span></p>

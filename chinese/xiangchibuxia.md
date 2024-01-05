@@ -1,5 +1,7 @@
 # 相持不下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangchibuxia.md)
+
 <p><span class="chinese">目前正处于相持不下的阶段。</span><span class="english">Right now we are at the loggerheads stage.</span></p>
 
 <p><span class="chinese">在夺取了圣拉埃以后，战事形成了相持不下的局面。</span><span class="english">After the taking of La Haie-Sainte the battle wavered.</span></p>

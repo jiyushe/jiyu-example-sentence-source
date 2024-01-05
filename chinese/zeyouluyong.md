@@ -1,5 +1,7 @@
 # 择优录用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zeyouluyong.md)
+
 <p><span class="chinese">凡是达到功效申请留本门表演团队的弟子，择优录用。</span><span class="english">Apply for staying and performing, if reaching certain criteria.</span></p>
 
 <p><span class="chinese">参加公务员择优录用的考试。</span><span class="english">Take the competitive examination for the job of government functionary.</span></p>

@@ -1,5 +1,7 @@
 # populist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/populist.md)
+
 <p><span class="chinese">在许多民粹主义的举措上，法国孤立无援。</span><span class="english">On many of these populist measures, France is isolated.</span></p>
 
 <p><span class="chinese">它因太过平民而被看轻实在是一件憾事。</span><span class="english">It's a shame that it's looked down on for being too populist.</span></p>

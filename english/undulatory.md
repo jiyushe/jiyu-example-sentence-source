@@ -1,5 +1,7 @@
 # undulatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undulatory.md)
+
 <p><span class="chinese">故事的旋律不会如此悠扬跌宕。</span><span class="english">The melody of the story won't be so euphonious and undulatory.</span></p>
 
 <p><span class="chinese">变化和发展也是以各种形式波动起伏。</span><span class="english">The changes and developments are also seen to be in many cases undulatory.</span></p>

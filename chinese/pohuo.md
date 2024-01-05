@@ -1,5 +1,7 @@
 # 破获
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pohuo.md)
+
 <p><span class="chinese">警方破获了一项阴谋。</span><span class="english">The police have uncovered a plot.</span></p>
 
 <p><span class="chinese">岩破获他们的头，不停滚动。</span><span class="english">Rock cracked their heads and kept rolling.</span></p>

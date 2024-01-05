@@ -1,5 +1,7 @@
 # housewife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housewife.md)
+
 <p><span class="chinese">他是一个家庭妇女吗？</span><span class="english">Is she a housewife?</span></p>
 
 <p><span class="chinese">裕子是一位家庭主妇。</span><span class="english">Yuko is a housewife.</span></p>

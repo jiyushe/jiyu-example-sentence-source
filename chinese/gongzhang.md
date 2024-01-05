@@ -1,5 +1,7 @@
 # 公章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhang.md)
+
 <p><span class="chinese">收入证实是一定要盖公章的。</span><span class="english">Income proof must build official seal.</span></p>
 
 <p><span class="chinese">劳动合同1份盖公章。</span><span class="english">Labour contract with company stamp on it.</span></p>

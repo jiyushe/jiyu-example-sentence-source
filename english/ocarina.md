@@ -1,5 +1,7 @@
 # ocarina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ocarina.md)
+
 <p><span class="chinese">它被设计为一个陶笛。</span><span class="english">It is designed as an Ocarina.</span></p>
 
 <p><span class="chinese">我的陶笛流行曲练习，阿…</span><span class="english">An ocarina practice of a Chinese Pop.</span></p>

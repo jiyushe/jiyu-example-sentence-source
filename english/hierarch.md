@@ -1,5 +1,7 @@
 # hierarch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hierarch.md)
+
 <p><span class="chinese">没有让暴力掌权者的爪牙，找到攻击莎士比亚的借口。</span><span class="english">Has not let the violence hierarch the lackey, found attacks Shakespeare's excuse.</span></p>
 
 <p><span class="chinese">长老要求在成为他们所属团体的成员之前，必须要先通过一项的测试。</span><span class="english">The Hierarch says that you must pass a trial to be recognized as a member of his group.</span></p>

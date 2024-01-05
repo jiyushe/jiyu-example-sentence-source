@@ -1,5 +1,7 @@
 # maturation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maturation.md)
+
 <p><span class="chinese">FSH催促卵细胞在卵巢的成熟。</span><span class="english">FSH spurs egg maturation in ovary.</span></p>
 
 <p><span class="chinese">雄体的性成熟一般经历四个龄期。</span><span class="english">The sexual maturation experiences four stages.</span></p>

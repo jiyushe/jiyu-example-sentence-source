@@ -1,5 +1,7 @@
 # roughly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roughly.md)
+
 <p><span class="chinese">大概一小时一次。</span><span class="english">Roughly once an hour.</span></p>
 
 <p><span class="chinese">仅仅拥有大致相同的形势。</span><span class="english">But roughly has the same form.</span></p>

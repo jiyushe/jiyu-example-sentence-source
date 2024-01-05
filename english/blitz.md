@@ -1,5 +1,7 @@
 # blitz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blitz.md)
+
 <p><span class="chinese">有人问我闪击战期间的感受。</span><span class="english">I have been asked how I felt in the Blitz.</span></p>
 
 <p><span class="chinese">置于食品搅拌机内，搅成浓汤。</span><span class="english">Blitz in a food processor to a chunky puree.</span></p>

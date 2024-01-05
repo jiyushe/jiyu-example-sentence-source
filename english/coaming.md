@@ -1,5 +1,7 @@
 # coaming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coaming.md)
+
 <p><span class="chinese">再者，不要撞击舱口围板。</span><span class="english">What's more, don't bang against the hatch coaming.</span></p>
 
 <p><span class="chinese">货舱口围板船上安装精度检查。</span><span class="english">Inspecting fitting accuracy of hatch coaming on board.</span></p>

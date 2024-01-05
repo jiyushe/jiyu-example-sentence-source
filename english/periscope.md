@@ -1,5 +1,7 @@
 # periscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periscope.md)
+
 <p><span class="chinese">简单的潜望镜使用平面镜。</span><span class="english">A simple periscope uses mirrors.</span></p>
 
 <p><span class="chinese">那个潜艇艇长有个类似于潜望镜之类的东西。</span><span class="english">The captain of the submarine has got this periscope thing.</span></p>

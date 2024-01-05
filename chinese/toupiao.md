@@ -1,5 +1,7 @@
 # 投票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toupiao.md)
+
 <p><span class="chinese">我弃权不投票。</span><span class="english">I _ from voting.</span></p>
 
 <p><span class="chinese">请投票支持我们！</span><span class="english">Please vote for us!</span></p>

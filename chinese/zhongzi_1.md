@@ -1,5 +1,7 @@
 # 中资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzi_1.md)
+
 <p><span class="chinese">中资银行十分仁慈。</span><span class="english">Chinese banks are more lenient.</span></p>
 
 <p><span class="chinese">普罗科波维奇还拒绝透露这家中资银行名称。</span><span class="english">Prokopovich also refused to name the Chinese bank.</span></p>

@@ -1,5 +1,7 @@
 # timepiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timepiece.md)
+
 <p><span class="chinese">警察科利尔里拿出他的表。</span><span class="english">Policeman Cleary took out his timepiece.</span></p>
 
 <p><span class="chinese">手表既是计时工具也是配饰。</span><span class="english">A watch is as much an accessory as it is a timepiece.</span></p>

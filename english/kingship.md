@@ -1,5 +1,7 @@
 # kingship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kingship.md)
+
 <p><span class="chinese">布里安·奥尼尔想恢复往昔的最高王位。</span><span class="english">Brian O'Neill now sought to revive the old high kingship.</span></p>
 
 <p><span class="chinese">她头上的蛇形装饰代表着王权。</span><span class="english">The snake that adorned her headdress was an emblem of kingship.</span></p>

@@ -1,5 +1,7 @@
 # batch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/batch.md)
+
 <p><span class="chinese">是批量请求处理吗？</span><span class="english">Do you batch requests?</span></p>
 
 <p><span class="chinese">因此，混搭你自己的百搭果仁吧。</span><span class="english">So, mix your own batch.</span></p>

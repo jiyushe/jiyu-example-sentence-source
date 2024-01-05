@@ -1,5 +1,7 @@
 # jap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jap.md)
+
 <p><span class="chinese">你是小日本吗?。</span><span class="english">Are you a jap?</span></p>
 
 <p><span class="chinese">或者鬼子的刺刀?。</span><span class="english">Or a jap bayonet?</span></p>

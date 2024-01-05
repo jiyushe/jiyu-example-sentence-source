@@ -1,5 +1,7 @@
 # ration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ration.md)
+
 <p><span class="chinese">息票，赠品券，附单，配给券。</span><span class="english">The allotment of ration coupons.</span></p>
 
 <p><span class="chinese">的果寡糖，以基础日粮组作为对照组。</span><span class="english">Control group was fed with basal ration.</span></p>

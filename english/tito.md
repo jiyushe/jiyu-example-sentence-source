@@ -1,5 +1,7 @@
 # tito
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tito.md)
+
 <p><span class="chinese">最近巴尔多已经有一两次这样称呼蒂托了。</span><span class="english">Tito in this way once or twice of late.</span></p>
 
 <p><span class="chinese">在铁托的指挥下，这些游击队员从德军手中夺取了武器。</span><span class="english">The partisans under tito wrested weapons from german hands.</span></p>

@@ -1,5 +1,7 @@
 # belowground
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belowground.md)
+
 <p><span class="chinese">轻度退化草地地下生物量明显高于退化草地。</span><span class="english">Belowground biomass in light degraded grassland is higher than in severely degraded grassland.</span></p>
 
 <p><span class="chinese">但地下环境可能或许截然不同——温暖，潮湿，甚至可能有生命。</span><span class="english">But belowground the environment may have been very different—warm, watery and possibly even hospitable to life.</span></p>

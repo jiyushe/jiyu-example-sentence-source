@@ -1,5 +1,7 @@
 # firmament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firmament.md)
+
 <p><span class="chinese">这就是苍穹。</span><span class="english">And that's what the firmament.</span></p>
 
 <p><span class="chinese">在第二天，开辟了苍穹。</span><span class="english">On day two, the firmament is established.</span></p>

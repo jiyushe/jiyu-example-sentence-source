@@ -1,5 +1,7 @@
 # 康复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangfu.md)
+
 <p><span class="chinese">好好休息，早日康复。</span><span class="english">Rest well.</span></p>
 
 <p><span class="chinese">为你的康复而祈祷。</span><span class="english">I pray for you.</span></p>

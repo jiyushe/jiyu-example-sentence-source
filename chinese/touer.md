@@ -1,5 +1,7 @@
 # 头儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touer.md)
+
 <p><span class="chinese">他是这儿的新头儿。</span><span class="english">He's the new honcho here.</span></p>
 
 <p><span class="chinese">这里的温泉可是很有年头儿了。</span><span class="english">The hot spring here is very old.</span></p>

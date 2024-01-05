@@ -1,5 +1,7 @@
 # 翻越
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyue_1.md)
+
 <p><span class="chinese">翻越圣安娜峰。</span><span class="english">From the Santa Anna Peak.</span></p>
 
 <p><span class="chinese">我甚至让人们从我身上翻越过去。</span><span class="english">I’ve even had people flip me off.</span></p>

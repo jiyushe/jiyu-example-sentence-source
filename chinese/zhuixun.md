@@ -1,5 +1,7 @@
 # 追寻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuixun.md)
+
 <p><span class="chinese">将会有越来越多的人去追寻。</span><span class="english">This is quite striking.</span></p>
 
 <p><span class="chinese">我阴郁的心总在追寻着你</span><span class="english">My somber heart seeks you always</span></p>

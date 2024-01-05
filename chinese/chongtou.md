@@ -1,5 +1,7 @@
 # 重头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongtou.md)
+
 <p><span class="chinese">我不能让生命就此消失无踪，重头再来。</span><span class="english">I cant make an entier life disappear to start a new one.</span></p>
 
 <p><span class="chinese">我不能让生命就此消逝无踪，重头再来。</span><span class="english">I can't make an entier life disappear to start a new one.</span></p>

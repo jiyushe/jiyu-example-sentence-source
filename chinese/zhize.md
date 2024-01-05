@@ -1,5 +1,7 @@
 # 指责
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhize.md)
+
 <p><span class="chinese">所有这些指责全是假的。</span><span class="english">None of these is true.</span></p>
 
 <p><span class="chinese">但谁又能指责他们呢？</span><span class="english">And who can blame them?</span></p>

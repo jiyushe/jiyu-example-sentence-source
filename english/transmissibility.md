@@ -1,5 +1,7 @@
 # transmissibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmissibility.md)
+
 <p><span class="chinese">怎样治疗遗传性胃病？</span><span class="english">How to treat transmissibility gastric disease?</span></p>
 
 <p><span class="chinese">定义了部件透射率和反射率。</span><span class="english">The transmissibility and reflectivity of parts are defined.</span></p>

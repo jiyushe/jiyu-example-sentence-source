@@ -1,5 +1,7 @@
 # neckband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neckband.md)
+
 <p><span class="chinese">领口太小了。</span><span class="english">The neckband is too small.</span></p>
 
 <p><span class="chinese">他的头很大，衣服领口太小，把衣服脱下来时，吐出来的蒸蛋都跑到脸上了。</span><span class="english">He has a big head so the neckband is small for him.</span></p>

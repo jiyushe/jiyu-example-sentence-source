@@ -1,5 +1,7 @@
 # 中饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongfan.md)
+
 <p><span class="chinese">他们在哪儿吃中饭？</span><span class="english">Where do they eat lunch?</span></p>
 
 <p><span class="chinese">你要不要去吃中饭？</span><span class="english">Do you want to go to lunch?</span></p>

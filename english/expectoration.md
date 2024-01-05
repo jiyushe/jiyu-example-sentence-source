@@ -1,5 +1,7 @@
 # expectoration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expectoration.md)
+
 <p><span class="chinese">干燥咳痰多吃梨。</span><span class="english">Drying expectoration eat pears.</span></p>
 
 <p><span class="chinese">有什么办法可以帮宝宝快点咳痰呢？</span><span class="english">What method can help darling quickly expectoration?</span></p>

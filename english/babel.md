@@ -1,5 +1,7 @@
 # babel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babel.md)
+
 <p><span class="chinese">来自于巴别塔的雅虎宝贝鱼翻译工具。</span><span class="english">From the Tower of Babel comes Yahoo Babel Fish.</span></p>
 
 <p><span class="chinese">古代的巴别塔正是现今的预兆。</span><span class="english">The Babel of antiquity foreshadows the babble of 1991.</span></p>

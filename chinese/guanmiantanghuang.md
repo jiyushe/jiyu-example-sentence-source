@@ -1,5 +1,7 @@
 # 冠冕堂皇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanmiantanghuang.md)
+
 <p><span class="chinese">当然我还是冠冕堂皇的说游戏质量第一，卖钱第二。</span><span class="english">But I try to focus on the art first and the money second.</span></p>
 
 <p><span class="chinese">有很多类似地打着“循证医学”口号冠冕堂皇的主张。</span><span class="english">So much for the grand claims of "evidence-based medicine."</span></p>

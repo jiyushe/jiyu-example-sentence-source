@@ -1,5 +1,7 @@
 # 领巾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingjin.md)
+
 <p><span class="chinese">我的玩具娃娃有一条蓝色的领巾。</span><span class="english">My doll has a blue scarf.</span></p>
 
 <p><span class="chinese">她为她的儿子做了一条领巾。</span><span class="english">She made her son a scarf.</span></p>

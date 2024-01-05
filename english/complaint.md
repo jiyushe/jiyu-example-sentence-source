@@ -1,5 +1,7 @@
 # complaint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complaint.md)
+
 <p><span class="chinese">抱怨的信件源源而来。</span><span class="english">Letters of complaint poured in.</span></p>
 
 <p><span class="chinese">我们没有理由怨天尤人。</span><span class="english">We have no cause for complaint.</span></p>

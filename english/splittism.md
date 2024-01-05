@@ -1,5 +1,7 @@
 # splittism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splittism.md)
+
 <p><span class="chinese">高校是维护社会稳定、反对民族分裂的重要阵地。</span><span class="english">Colleges are the most important place to uphold social stability and combat national splittism.</span></p>
 
 <p><span class="chinese">反对分裂主义要坚定不移地相信和依靠各民族的广大干部和群众，等等。</span><span class="english">Fighting against the splittism must believe in and depend on the national cadres and people firmly.</span></p>

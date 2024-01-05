@@ -1,5 +1,7 @@
 # advisability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advisability.md)
+
 <p><span class="chinese">与时俱进的人才是明智的人。</span><span class="english">The people who advance with times is advisability.</span></p>
 
 <p><span class="chinese">关于该病例做手术的可行性，我持有疑问。</span><span class="english">I have doubts about the advisability of surgery in this case.</span></p>

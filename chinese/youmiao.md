@@ -1,5 +1,7 @@
 # 幼苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmiao.md)
+
 <p><span class="chinese">严霜把幼苗冻坏了。</span><span class="english">The frost killed the seedings.</span></p>
 
 <p><span class="chinese">让我们把洋葱幼苗移出来。</span><span class="english">Let's prick the onion plant out.</span></p>

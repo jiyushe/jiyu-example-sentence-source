@@ -1,5 +1,7 @@
 # 山头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shantou.md)
+
 <p><span class="chinese">我们在卡贝琳山头相遇。</span><span class="english">We met them at Carberry Hill.</span></p>
 
 <p><span class="chinese">若非群玉山头见。</span><span class="english">If not Qungyu Mountain-top see.</span></p>

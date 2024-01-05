@@ -1,5 +1,7 @@
 # adjure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjure.md)
+
 <p><span class="chinese">他在空闲时绘画。</span><span class="english">I adjure you to spare him.</span></p>
 
 <p><span class="chinese">我恳求你饶恕他。</span><span class="english">I adjure you to spare him.</span></p>

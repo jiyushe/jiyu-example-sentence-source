@@ -1,5 +1,7 @@
 # 迟缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chihuan_1.md)
+
 <p><span class="chinese">他的呼吸迟缓而困难。</span><span class="english">His breathing is laboured.</span></p>
 
 <p><span class="chinese">这种决策上的迟缓可以追溯到多年前。</span><span class="english">The torpor dates back years.</span></p>

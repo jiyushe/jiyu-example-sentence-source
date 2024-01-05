@@ -1,5 +1,7 @@
 # containerboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/containerboard.md)
+
 <p><span class="chinese">玖龙纸业控股公司已停止其计划兴建一座大型瓦楞纸板轧机。</span><span class="english">Nine Dragons Paper Holdings has halted its plans to build a large containerboard mill.</span></p>
 
 <p><span class="chinese">公司还为美国和加拿大的特定市场生产硬板纸和瓦楞纸。</span><span class="english">The Company also produces containerboard and corrugated products for niche markets in the US and Canada.</span></p>

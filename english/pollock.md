@@ -1,5 +1,7 @@
 # pollock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollock.md)
+
 <p><span class="chinese">阿拉斯加狭鳕鱼片，单冻，分层，块冻。</span><span class="english">Alaska Pollock fillets IQF, interleaved, Block.</span></p>
 
 <p><span class="chinese">我们的确正在看到这种局面。</span><span class="english">We are indeed already seeing that," said Pollock.</span></p>

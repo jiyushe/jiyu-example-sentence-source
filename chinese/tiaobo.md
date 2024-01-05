@@ -1,5 +1,7 @@
 # 挑拨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaobo.md)
+
 <p><span class="chinese">千万不要挑拨夫妇关系。</span><span class="english">Never get between husband and wife.</span></p>
 
 <p><span class="chinese">为了挑拨绝地，她声称效忠于梅斯·温杜。</span><span class="english">Sewing distrust among the Jedi, she claimed allegiance to Mace Windu.</span></p>

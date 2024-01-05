@@ -1,5 +1,7 @@
 # receivable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/receivable.md)
+
 <p><span class="chinese">再下一行是“应收账款”。</span><span class="english">The next line is "accounts receivable".</span></p>
 
 <p><span class="chinese">现金和可收帐目也属于资产。</span><span class="english">Cash and accounts receivable are also assets.</span></p>

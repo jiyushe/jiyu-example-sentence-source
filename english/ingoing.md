@@ -1,5 +1,7 @@
 # ingoing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingoing.md)
+
 <p><span class="chinese">我国的人口迁移在地区空间分布上存在很大差异，主要是由各地区经济发展不平衡所导致的。</span><span class="english">It shows the economic factors of Ingoing and outgoing place have significant impacts on the migration.</span></p>
 
 <p><span class="chinese">本机适用于平房仓及其类似仓型的散粮入仓及补仓作业。</span><span class="english">This machine is used for grading ingoing and supplying square barns or similar barns of unpacked grain.</span></p>

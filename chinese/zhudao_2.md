@@ -1,5 +1,7 @@
 # 主道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhudao_2.md)
+
 <p><span class="chinese">遵行主道的人是有福的。</span><span class="english">Blessed are those who obey the Lord's words.</span></p>
 
 <p><span class="chinese">在采尔马特镇，走在前往火车站的主道上。</span><span class="english">Walking on the main road in Zermatt to the train station.</span></p>

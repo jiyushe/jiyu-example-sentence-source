@@ -1,5 +1,7 @@
 # abas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abas.md)
+
 <p><span class="chinese">文章内容字字珠玑、句句堪精！</span><span class="english">Abas every word content, sentence worthy of sperm!</span></p>
 
 <p><span class="chinese">珠玑工业园的管理信誉怎样？</span><span class="english">Abas Industrial Park, the credibility of the management of what?</span></p>

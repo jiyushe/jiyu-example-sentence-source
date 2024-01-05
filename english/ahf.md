@@ -1,5 +1,7 @@
 # ahf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ahf.md)
+
 <p><span class="chinese">本文对急性心衰诊断和治疗最新进展做一概述。</span><span class="english">This article reviews new information relating to the diagnosis and treatment of AHF.</span></p>
 
 <p><span class="chinese">探讨了国内设计AHF大规模装置需考虑的问题，并提出了建议。</span><span class="english">Considerations in designing large -scale AHF equipments and suggestions are put forward.</span></p>

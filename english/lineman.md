@@ -1,5 +1,7 @@
 # lineman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lineman.md)
+
 <p><span class="chinese">布朗是选秀中被选中的第二位进攻内锋。</span><span class="english">Brown was the second offensive lineman chosen in the draft.</span></p>
 
 <p><span class="chinese">他和德切格列都应该在一线队慢慢成长。</span><span class="english">He cuts Geleg with Germany to grow slowly in a lineman unit.</span></p>

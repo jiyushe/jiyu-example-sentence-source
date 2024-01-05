@@ -1,5 +1,7 @@
 # 币值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizhi_1.md)
+
 <p><span class="chinese">如果你不能还债，那就把降低币值。</span><span class="english">If you can't pay your debts, debase your currency.</span></p>
 
 <p><span class="chinese">他们企图恢复英镑币值，但劳而无功。</span><span class="english">They tried to rally the pound sterling but in vain.</span></p>

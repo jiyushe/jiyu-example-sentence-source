@@ -1,5 +1,7 @@
 # string
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/string.md)
+
 <p><span class="chinese">输入任何字符串。</span><span class="english">Type any string in.</span></p>
 
 <p><span class="chinese">用细绳把它扎起来。</span><span class="english">Tie it with a string.</span></p>

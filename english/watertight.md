@@ -1,5 +1,7 @@
 # watertight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watertight.md)
+
 <p><span class="chinese">船上为何有水密门？</span><span class="english">Why do we have watertight doors ?</span></p>
 
 <p><span class="chinese">我要装上不漏水的窗。</span><span class="english">I'll have watertight windows fixed.</span></p>

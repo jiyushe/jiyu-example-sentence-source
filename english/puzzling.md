@@ -1,5 +1,7 @@
 # puzzling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puzzling.md)
+
 <p><span class="chinese">并且一些事情也具有迷惑性</span><span class="english">And there's something puzzling.</span></p>
 
 <p><span class="chinese">“范·奥曼”是一个令人费解的姓氏。</span><span class="english">The name "Van Orman" is puzzling.</span></p>

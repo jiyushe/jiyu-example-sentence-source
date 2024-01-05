@@ -1,5 +1,7 @@
 # 进取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinqu_2.md)
+
 <p><span class="chinese">他是个勇于进取的经理。</span><span class="english">He was an aggressive manager.</span></p>
 
 <p><span class="chinese">不要安于半发展的恩赐，要竭力进取学习。</span><span class="english">Don't settle for a half-developed gift.</span></p>

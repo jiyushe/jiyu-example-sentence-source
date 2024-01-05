@@ -1,5 +1,7 @@
 # hurdler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurdler.md)
+
 <p><span class="chinese">刘翔是中国杰出的110米栏运动员，今年25岁，来自中国的上海。</span><span class="english">Liu Xiang is a 25-year-old outstanding 110 meter hurdler from Shanghai.</span></p>
 
 <p><span class="chinese">“姚明和跨栏明星刘翔推动了中国的自豪感，”Yang说道。</span><span class="english">"Yao Ming and star hurdler Liu Xiang boosted Chinese pride," said Yang.</span></p>

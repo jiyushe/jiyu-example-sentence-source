@@ -1,5 +1,7 @@
 # potence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potence.md)
+
 <p><span class="chinese">一个健康的人和团队需要的是什么力量呢？</span><span class="english">What kind of potence does a healthy man or team need?</span></p>
 
 <p><span class="chinese">这药因受潮失去了效力。</span><span class="english">The drug has lost its potence by being exposed to moisture.</span></p>

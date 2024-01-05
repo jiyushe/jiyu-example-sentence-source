@@ -1,5 +1,7 @@
 # 公斤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjin.md)
+
 <p><span class="chinese">七元一公斤。</span><span class="english">Seven yuan a kilo.</span></p>
 
 <p><span class="chinese">这个箱子重20公斤。</span><span class="english">The box weighs 20 kgs.</span></p>

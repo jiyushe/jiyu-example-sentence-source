@@ -1,5 +1,7 @@
 # 清亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingliang.md)
+
 <p><span class="chinese">我们听到了那清亮的号角。</span><span class="english">We hear the silver voices of heroic bugles.</span></p>
 
 <p><span class="chinese">如同清亮的溪涧，在风里，在我眼前。</span><span class="english">Like a clear stream, in the wind, in my eyes.</span></p>

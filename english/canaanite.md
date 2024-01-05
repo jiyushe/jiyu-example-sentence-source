@@ -1,5 +1,7 @@
 # canaanite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canaanite.md)
+
 <p><span class="chinese">以色列祖先的迦南根源是非常清楚的。</span><span class="english">The Canaanite roots of Israel's ancestors are clear.</span></p>
 
 <p><span class="chinese">而且神庙中还有“为巴力所造的器皿”，巴力是迦南人的神。</span><span class="english">And there were "vessels made for Baal," the Canaanite God.</span></p>

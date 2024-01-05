@@ -1,5 +1,7 @@
 # 半身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banshen.md)
+
 <p><span class="chinese">全身还是半身？</span><span class="english">Fulling or halfing?</span></p>
 
 <p><span class="chinese">还有，瞄准那个半身人。</span><span class="english">And aim for the halfling.</span></p>

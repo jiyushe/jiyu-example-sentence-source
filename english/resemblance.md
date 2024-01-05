@@ -1,5 +1,7 @@
 # resemblance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resemblance.md)
+
 <p><span class="chinese">他们惊人的相似。</span><span class="english">They had an uncanny resemblance.</span></p>
 
 <p><span class="chinese">双生子常极相似。</span><span class="english">Twins often show great resemblance.</span></p>

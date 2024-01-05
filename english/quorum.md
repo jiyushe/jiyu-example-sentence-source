@@ -1,5 +1,7 @@
 # quorum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quorum.md)
+
 <p><span class="chinese">⑴的⑸法定人数⑴是⑴多少⑩？</span><span class="english">How many members make a quorum?</span></p>
 
 <p><span class="chinese">发起人符合法定人数。</span><span class="english">The number of initiators meets the quorum.</span></p>

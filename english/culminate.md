@@ -1,5 +1,7 @@
 # culminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culminate.md)
+
 <p><span class="chinese">是否上天冥冥之中的安排，一切巧合聚在一天之中。</span><span class="english">If god's arrangement, all culminate in a day.</span></p>
 
 <p><span class="chinese">贾尔斯触发了随后的一系列事件，这些事件最终将以悲剧收场。</span><span class="english">Giles set in motion a train of events which would culminate in tragedy.</span></p>

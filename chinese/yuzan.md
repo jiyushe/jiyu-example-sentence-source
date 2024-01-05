@@ -1,5 +1,7 @@
 # 玉簪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzan.md)
+
 <p><span class="chinese">等等一支玉簪值九百万?。</span><span class="english">Hang on. A hairpin worth nine million?</span></p>
 
 <p><span class="chinese">素玖玖眼睛一亮，接过玉簪。</span><span class="english">Pigment for eye one bright, took the hosta.</span></p>

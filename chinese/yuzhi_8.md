@@ -1,5 +1,7 @@
 # 预置
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhi_8.md)
+
 <p><span class="chinese">随软件一起的有多少个预置的模板？</span><span class="english">How many pre-set templates come in the box?</span></p>
 
 <p><span class="chinese">你只有接受一个预定义的预置。</span><span class="english">You have only to accept one of predefined presets.</span></p>

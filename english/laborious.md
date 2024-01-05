@@ -1,5 +1,7 @@
 # laborious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laborious.md)
+
 <p><span class="chinese">我们必须辛苦地绕远路。</span><span class="english">We'd have to take some laborious detour.</span></p>
 
 <p><span class="chinese">她的母亲辛辛苦苦的缝制棉织品。</span><span class="english">Her mother laborious sews the cotton fabric.</span></p>

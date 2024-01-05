@@ -1,5 +1,7 @@
 # bloodstain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodstain.md)
+
 <p><span class="chinese">难道是你手中的血迹？</span><span class="english">Is it just the bloodstain on your hands?</span></p>
 
 <p><span class="chinese">血迹是命案现场上常见的痕迹之一。</span><span class="english">Bloodstain is one of the most common traces at the scene of crime.</span></p>

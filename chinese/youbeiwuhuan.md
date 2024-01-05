@@ -1,5 +1,7 @@
 # 有备无患
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youbeiwuhuan.md)
+
 <p><span class="chinese">这时，你应当来一个“有备无患”。</span><span class="english">At this time, you should come to a "danger".</span></p>
 
 <p><span class="chinese">如今真的下起了瓢泼大雨，它们感到自己已经有备无患。</span><span class="english">Now, it's pouring─and companies feel prepared.</span></p>

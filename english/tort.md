@@ -1,5 +1,7 @@
 # tort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tort.md)
+
 <p><span class="chinese">过失行为通常是侵权。</span><span class="english">Usually negligence is a tort.</span></p>
 
 <p><span class="chinese">侵权行为法以普通法为基础。</span><span class="english">The law of tort is common-law based.</span></p>

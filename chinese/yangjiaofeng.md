@@ -1,5 +1,7 @@
 # 羊角风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangjiaofeng.md)
+
 <p><span class="chinese">羊角风的危害具体有哪些呢？</span><span class="english">Epilepsy what specific harm it?</span></p>
 
 <p><span class="chinese">羊角风的早期症状都表现为什么？</span><span class="english">Early symptoms of epilepsy have shown why?</span></p>

@@ -1,5 +1,7 @@
 # deleterious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deleterious.md)
+
 <p><span class="chinese">然而，大多数突变是有害的。</span><span class="english">However, most mutations are deleterious.</span></p>
 
 <p><span class="chinese">税收政策的一体化也会产生相似的恶果。</span><span class="english">Harmonizing taxes would have similarly deleterious consequences.</span></p>

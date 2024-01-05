@@ -1,5 +1,7 @@
 # 柑橘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganju.md)
+
 <p><span class="chinese">不喜欢柑橘？</span><span class="english">Not into citrus?</span></p>
 
 <p><span class="chinese">今冬柑橘冻坏了。</span><span class="english">The orange crop froze this winter.</span></p>

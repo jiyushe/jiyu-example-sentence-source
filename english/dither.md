@@ -1,5 +1,7 @@
 # dither
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dither.md)
+
 <p><span class="chinese">一见到警察，那个谋杀者吓得浑身发抖。</span><span class="english">The sight of the policeman made the murderer all of a dither.</span></p>
 
 <p><span class="chinese">面临很多选择时，他便会犹豫不决。</span><span class="english">He tends to get all of a dither when there are many possible choices.</span></p>

@@ -1,5 +1,7 @@
 # reemployment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reemployment.md)
+
 <p><span class="chinese">毫无疑问，社区服务能有助于再就业。</span><span class="english">To be sure, community service can aid reemployment.</span></p>
 
 <p><span class="chinese">第三节阐述了宜宾市政府在再就业中的作用。</span><span class="english">In the third section, role of government in reemployment is stated.</span></p>

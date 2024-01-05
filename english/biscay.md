@@ -1,5 +1,7 @@
 # biscay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biscay.md)
+
 <p><span class="chinese">他们航行通过比斯开湾。</span><span class="english">They sailed through the Bay of Biscay.</span></p>
 
 <p><span class="chinese">大西洋的比斯开湾有时也会巨浪汹涌。</span><span class="english">The Bay of Biscay can be very rough at times.</span></p>

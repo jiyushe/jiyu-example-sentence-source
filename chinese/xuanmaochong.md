@@ -1,5 +1,7 @@
 # 旋毛虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanmaochong.md)
+
 <p><span class="chinese">例如，旋毛虫会使人感染上旋毛虫病。</span><span class="english">The trichinella worm, for example, causes the infection trichinellosis.</span></p>
 
 <p><span class="chinese">旋毛虫的体细胞分离，可以不用加胰酶消化。</span><span class="english">It need not add pancreatin to separate the somatic cells of Trichinella spiralis.</span></p>

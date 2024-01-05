@@ -1,5 +1,7 @@
 # ostensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ostensive.md)
+
 <p><span class="chinese">其次，是对私人语言实指定义的批判。</span><span class="english">Secondly, he has criticized the ostensive definition.</span></p>
 
 <p><span class="chinese">在这一过程中，说话人首先在其活动中设置明示刺激。</span><span class="english">In this process, the speaker first sets up in his activity an ostensive stimulus.</span></p>

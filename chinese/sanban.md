@@ -1,5 +1,7 @@
 # 三板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanban.md)
+
 <p><span class="chinese">三板花边裙。</span><span class="english">Three-panel lace skirt.</span></p>
 
 <p><span class="chinese">我们可以改做三板模吗？</span><span class="english">Could we change it to 3 plate mold?</span></p>

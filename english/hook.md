@@ -1,5 +1,7 @@
 # hook 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hook.md)
+
 <p><span class="chinese">这里只是抛砖引玉。</span><span class="english">It's a hook.</span></p>
 
 <p><span class="chinese">钩与钩眼？</span><span class="english">Hook and eye?</span></p>

@@ -1,5 +1,7 @@
 # 名利场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minglichang.md)
+
 <p><span class="chinese">他已经为生活杂志工作30年，仍然是名利场杂志的签约摄影师。</span><span class="english">He photographed for LIFE for 30 years, and remains under contract with Vanity Fair.</span></p>
 
 <p><span class="chinese">2009年，布拉德·皮特已经连续三次荣登名利场国际最佳着装名单。</span><span class="english">Brad Pitt made it onto Vanity Fair's International Best-Dressed List for the third time in a row in 2009.</span></p>

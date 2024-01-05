@@ -1,5 +1,7 @@
 # curvature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curvature.md)
+
 <p><span class="chinese">他的脊梁弯曲得怕人。</span><span class="english">The curvature of the spine was astonishing.</span></p>
 
 <p><span class="chinese">这种曲度对润湿性并无影响。</span><span class="english">Such curvature has no effect on wettability.</span></p>

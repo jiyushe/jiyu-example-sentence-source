@@ -1,5 +1,7 @@
 # 温顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenshun.md)
+
 <p><span class="chinese">他们是“温顺的”。</span><span class="english">They are “meek”.</span></p>
 
 <p><span class="chinese">她的温顺让他吃惊。</span><span class="english">Her docility had surprised him.</span></p>

@@ -1,5 +1,7 @@
 # 中毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdu_1.md)
+
 <p><span class="chinese">什么是缓存中毒？</span><span class="english">What is cache poisoning?</span></p>
 
 <p><span class="chinese">大量的水就可能使你中毒。</span><span class="english">A large amount can poison you.</span></p>

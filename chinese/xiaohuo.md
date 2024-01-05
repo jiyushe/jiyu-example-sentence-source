@@ -1,5 +1,7 @@
 # 小伙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohuo.md)
+
 <p><span class="chinese">活跃的帅小伙，晚餐，甜点。</span><span class="english">Dinner and desserts.</span></p>
 
 <p><span class="chinese">我让小伙坐到了一张长凳上。</span><span class="english">I got the kid to a bench.</span></p>

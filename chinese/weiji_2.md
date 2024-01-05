@@ -1,5 +1,7 @@
 # 危机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiji_2.md)
+
 <p><span class="chinese">它能运行孤岛危机么?。</span><span class="english">Can it run Crysis?</span></p>
 
 <p><span class="chinese">危机很快就过去了。</span><span class="english">The crisis soon passed.</span></p>

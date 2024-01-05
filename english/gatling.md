@@ -1,5 +1,7 @@
 # gatling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gatling.md)
+
 <p><span class="chinese">加特林四个豌豆豌豆芽的时间！</span><span class="english">Gatling peas shoot four peas at a time!</span></p>
 
 <p><span class="chinese">但是他们有加特林机枪，这种机枪可以象泼水一样向敌人发射子弹。</span><span class="english">But they had Gatling machine guns which poured a stream of bullets at the enemy.</span></p>

@@ -1,5 +1,7 @@
 # inscription
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inscription.md)
+
 <p><span class="chinese">他的头上是一段拉丁语献词。</span><span class="english">Above his head is a Latin inscription.</span></p>
 
 <p><span class="chinese">碑文兴起于秦。</span><span class="english">Inscription originated in Qin Dynasty.</span></p>

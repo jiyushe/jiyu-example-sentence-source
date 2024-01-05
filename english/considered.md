@@ -1,5 +1,7 @@
 # considered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/considered.md)
+
 <p><span class="chinese">我把她看作是我的敌人。</span><span class="english">I considered her my enemy.</span></p>
 
 <p><span class="chinese">这样做太多礼了。</span><span class="english">It is considered too polite.</span></p>

@@ -1,5 +1,7 @@
 # navigate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/navigate.md)
+
 <p><span class="chinese">是他们帮助我理解了乐曲。</span><span class="english">They help me navigate the music.</span></p>
 
 <p><span class="chinese">蝙蝠是靠回声定位法来导航的。</span><span class="english">Most bats navigate by echolocation.</span></p>

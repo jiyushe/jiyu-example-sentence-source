@@ -1,5 +1,7 @@
 # mitch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitch.md)
+
 <p><span class="chinese">他们不希望米奇发飙。</span><span class="english">They didn’t want Mitch mad.</span></p>
 
 <p><span class="chinese">米契自出生就有斜视。</span><span class="english">Mitch has been cross-eyed from birth.</span></p>

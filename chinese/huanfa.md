@@ -1,5 +1,7 @@
 # 焕发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanfa.md)
+
 <p><span class="chinese">你会觉得脸部倍感清爽，焕发青春。</span><span class="english">Your face will feel fresh and rejuvenated.</span></p>
 
 <p><span class="chinese">使细胞焕发活力，恢复生机！</span><span class="english">Revitalizes Skin Cells, Brings them to Life!</span></p>

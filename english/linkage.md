@@ -1,5 +1,7 @@
 # linkage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linkage.md)
+
 <p><span class="chinese">脱开操纵联动机构。</span><span class="english">Disengage the maneuvering linkage.</span></p>
 
 <p><span class="chinese">连接将自动发生。</span><span class="english">The linkage happens automatically.</span></p>

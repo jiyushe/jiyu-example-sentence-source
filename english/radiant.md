@@ -1,5 +1,7 @@
 # radiant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiant.md)
+
 <p><span class="chinese">你光芒四射。</span><span class="english">You were radiant.</span></p>
 
 <p><span class="chinese">妈妈脸上泛出自豪的光芒。</span><span class="english">Mama's face was radiant with pride.</span></p>

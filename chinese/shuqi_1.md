@@ -1,5 +1,7 @@
 # 输气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuqi_1.md)
+
 <p><span class="chinese">土库曼斯坦输气入俄罗斯的影响是非常深远的。</span><span class="english">The commitment of Turkmen gas to Russia has broader implications.</span></p>
 
 <p><span class="chinese">根据齐塔人的说法，输气管道是一个很大的威胁，不要忽视。</span><span class="english">Per the Zetas, gas lines are a very real danger, not to be ignored.</span></p>

@@ -1,5 +1,7 @@
 # trompe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trompe.md)
+
 <p><span class="chinese">他还为私人住宅和公共建筑物创作立体感强而逼真的错视画。</span><span class="english">He also creates trompe l'oeil, both in private houses and public buildings.</span></p>
 
 <p><span class="chinese">巨大的画作，整墙的尺寸，用嵌贝术精心包裹着，覆盖在这闪耀的大理石墙上。</span><span class="english">Monstrous wall-sized paintings, encased with elaborate trompe l’oeil, sheathed</span></p>

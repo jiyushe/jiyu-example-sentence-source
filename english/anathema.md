@@ -1,5 +1,7 @@
 # anathema
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anathema.md)
+
 <p><span class="chinese">回到anathema这个词，起初它是个好词。</span><span class="english">So back there at first anathema was a good thing.</span></p>
 
 <p><span class="chinese">若有人不爱主，这人可诅可咒。主必要来。</span><span class="english">If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.</span></p>

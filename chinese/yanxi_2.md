@@ -1,5 +1,7 @@
 # 演戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxi_2.md)
+
 <p><span class="chinese">我喜欢演戏。</span><span class="english">I love acting.</span></p>
 
 <p><span class="chinese">一切都是在演戏。</span><span class="english">Everything is role-play.</span></p>

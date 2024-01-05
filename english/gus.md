@@ -1,5 +1,7 @@
 # gus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gus.md)
+
 <p><span class="chinese">谁在那儿？这是葛斯。</span><span class="english">Who's there? It's Gus.</span></p>
 
 <p><span class="chinese">玉米。葛斯在吃玉米。</span><span class="english">Corn. Gus is eating corn.</span></p>

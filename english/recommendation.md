@@ -1,5 +1,7 @@
 # recommendation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recommendation.md)
+
 <p><span class="chinese">没有推荐。</span><span class="english">No recommendation.</span></p>
 
 <p><span class="chinese">那你的建议是什么呢？</span><span class="english">So what's your recommendation?</span></p>

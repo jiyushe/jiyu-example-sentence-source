@@ -1,5 +1,7 @@
 # 歼击机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjiji.md)
+
 <p><span class="chinese">歼击机很快从战斗中撤出了。</span><span class="english">The fighter planes quickly disengaged from the combat.</span></p>
 
 <p><span class="chinese">方法①检查103名歼击机飞行员和62名地勤人员的听力。</span><span class="english">Methods Hearing of 103 fighter pilots and 62 ground crew was examined.</span></p>

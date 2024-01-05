@@ -1,5 +1,7 @@
 # govt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/govt.md)
+
 <p><span class="chinese">印度是尽管有政府仍然发展。</span><span class="english">India grows, inspite of our govt.</span></p>
 
 <p><span class="chinese">政府采购普通公务车屏蔽合资车。</span><span class="english">Govt to exclude JV cars from purchase.</span></p>

@@ -1,5 +1,7 @@
 # 说笑话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuoxiaohua.md)
+
 <p><span class="chinese">我想我是在说笑话。</span><span class="english">I'm joking. I think.</span></p>
 
 <p><span class="chinese">父母说笑话时要笑。</span><span class="english">Laugh at your parents’ jokes.</span></p>

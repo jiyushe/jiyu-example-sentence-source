@@ -1,5 +1,7 @@
 # spacecraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spacecraft.md)
+
 <p><span class="chinese">我在宁静的宇宙飞船里踱步.</span><span class="english">I paced in the peaceful  spacecraft.</span></p>
 
 <p><span class="chinese">火星快车号的火卫一动画。</span><span class="english">Phobos from Mars Express Spacecraft.</span></p>

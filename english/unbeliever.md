@@ -1,5 +1,7 @@
 # unbeliever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbeliever.md)
+
 <p><span class="chinese">倘若那不信的人要离去、就由他离去罢。</span><span class="english">But if the unbeliever leaves , let him do so.</span></p>
 
 <p><span class="chinese">非信徒可以实行正确有效的施洗吗？</span><span class="english">D. Can an unbeliever perform a valid baptism?</span></p>

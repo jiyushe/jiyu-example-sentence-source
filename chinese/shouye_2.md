@@ -1,5 +1,7 @@
 # 守夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouye_2.md)
+
 <p><span class="chinese">我们在圣周六的守夜中期待。</span><span class="english">We waited in hope on Saturday's Vigil.</span></p>
 
 <p><span class="chinese">这条狗为他入睡的主人守夜。</span><span class="english">The dog kept vigil over his sleeping master.</span></p>

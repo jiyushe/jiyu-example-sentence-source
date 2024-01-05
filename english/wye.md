@@ -1,5 +1,7 @@
 # wye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wye.md)
+
 <p><span class="chinese">据记载，这是亨利国王唯一一次驾临怀伊。</span><span class="english">This is the one and only time Henry is known to have visited Wye.</span></p>
 
 <p><span class="chinese">思想禁锢整夜，怅怀一宿你冷吗？</span><span class="english">Thinking detained throughout the night, you Protection of Wye head cold?</span></p>

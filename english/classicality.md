@@ -1,5 +1,7 @@
 # classicality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classicality.md)
+
 <p><span class="chinese">来自中国的紫砂壶，古典而优美。</span><span class="english">Tea pot from China. classicality and beauty.</span></p>
 
 <p><span class="chinese">我们大量提供优质，实惠的古典家具！</span><span class="english">We can offer a lot of good quality boon classicality furniture!</span></p>

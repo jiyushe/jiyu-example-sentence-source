@@ -1,5 +1,7 @@
 # reamer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reamer.md)
+
 <p><span class="chinese">把螺旋铰刀给我拿过来。</span><span class="english">Pass me that reamer for making spirals.</span></p>
 
 <p><span class="chinese">轴系连接螺栓和孔尺寸测量。</span><span class="english">Measuring dimension of coupling bolts and reamer hole.</span></p>

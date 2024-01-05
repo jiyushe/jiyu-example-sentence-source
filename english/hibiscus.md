@@ -1,5 +1,7 @@
 # hibiscus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hibiscus.md)
+
 <p><span class="chinese">冰雹摧毁了我的芙蓉花。</span><span class="english">The hailstorm destroyed my hibiscus.</span></p>
 
 <p><span class="chinese">木槿花茶能降低血压吗？</span><span class="english">Can hibiscus tea lower blood pressure?</span></p>

@@ -1,5 +1,7 @@
 # 脑海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naohai.md)
+
 <p><span class="chinese">起初，我在脑海中掘开了一个坟墓。</span><span class="english">Mentally I dug a grave.</span></p>
 
 <p><span class="chinese">闺蜜、你存在我深深的脑海里。</span><span class="english">Bestie, you deep in my mind.</span></p>

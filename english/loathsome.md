@@ -1,5 +1,7 @@
 # loathsome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loathsome.md)
+
 <p><span class="chinese">我恨自己讨厌的味道！</span><span class="english">I hate my own loathsome smell.</span></p>
 
 <p><span class="chinese">爱的窃贼是可恶的。</span><span class="english">a burglar for love is loathsome.</span></p>

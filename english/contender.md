@@ -1,5 +1,7 @@
 # contender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contender.md)
+
 <p><span class="chinese">但就我们的目标而言,它与我们讨论的话题并不相关</span><span class="english">But for our purposes, I think it's not a contender.</span></p>
 
 <p><span class="chinese">报纸公认他是主要竞争者。</span><span class="english">The press established him as the leading contender.</span></p>

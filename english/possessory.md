@@ -1,5 +1,7 @@
 # possessory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/possessory.md)
+
 <p><span class="chinese">而船舶留置权的性质在不同国家之间也没有得到统一。</span><span class="english">But there is no agreement about the nature of possessory lien on vessel.</span></p>
 
 <p><span class="chinese">命令只授予占有的兴趣谴责的当局。</span><span class="english">The order only grants a possessory interest to the condemning authority.</span></p>

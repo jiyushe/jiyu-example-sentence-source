@@ -1,5 +1,7 @@
 # 不觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujue.md)
+
 <p><span class="chinese">与贤妻为伴路遥不觉远。</span><span class="english">No road is long with your wife.</span></p>
 
 <p><span class="chinese">他人不知鬼不觉地溜走了。</span><span class="english">He sloped off without being seen.</span></p>

@@ -1,5 +1,7 @@
 # prosper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosper.md)
+
 <p><span class="chinese">他岂能亨通呢。</span><span class="english">Shall he prosper?</span></p>
 
 <p><span class="chinese">愿神灵保佑我们的城市繁荣!</span><span class="english">May the gods prosper our city!</span></p>

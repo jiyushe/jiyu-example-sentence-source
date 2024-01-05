@@ -1,5 +1,7 @@
 # 争论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenglun.md)
+
 <p><span class="chinese">他们争论。</span><span class="english">They argue.</span></p>
 
 <p><span class="chinese">这是有争论的。</span><span class="english">That's disputed.</span></p>

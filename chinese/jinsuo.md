@@ -1,5 +1,7 @@
 # 紧缩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinsuo.md)
+
 <p><span class="chinese">通货紧缩的威胁？</span><span class="english">The threat of deflation?</span></p>
 
 <p><span class="chinese">一个强硬的紧缩型货币市场</span><span class="english">A money market tough to tighten</span></p>

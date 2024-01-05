@@ -1,5 +1,7 @@
 # hydroforming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroforming.md)
+
 <p><span class="chinese">内高压成形过程是很重复。</span><span class="english">The hydroforming process is very repeatable.</span></p>
 
 <p><span class="chinese">选择圆管中间膨胀的液压成形为研究对象。</span><span class="english">The hydroforming of bulging in the middle of a tube was studied.</span></p>

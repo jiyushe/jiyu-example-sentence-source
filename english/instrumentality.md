@@ -1,5 +1,7 @@
 # instrumentality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instrumentality.md)
+
 <p><span class="chinese">或者换句话说，与这两个计划的工具性观念将偏低。</span><span class="english">In other words, with both these schemes instrumentality perceptions will be low.</span></p>
 
 <p><span class="chinese">沈从文使艺术的工具性与审美性得到了完美的结合。</span><span class="english">The instrumentality and aesthetics of art is perfectly integrated by Shen Congwen.</span></p>

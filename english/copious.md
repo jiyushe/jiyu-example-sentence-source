@@ -1,5 +1,7 @@
 # copious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copious.md)
+
 <p><span class="chinese">她是一位多产作家。</span><span class="english">She was a copious writer.</span></p>
 
 <p><span class="chinese">沛然降雨。</span><span class="english">A copious rain began to fall.</span></p>

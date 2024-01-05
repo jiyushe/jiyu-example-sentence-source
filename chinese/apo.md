@@ -1,5 +1,7 @@
 # 阿婆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/apo.md)
+
 <p><span class="chinese">阿婆，不要谢，我们是一家人。</span><span class="english">Old lady, no need to say thanks, we are one family.</span></p>
 
 <p><span class="chinese">原来阿婆挑了一只鸡，并伸手落去捉。</span><span class="english">Grandmother choose a chicken and catches it by herself.</span></p>

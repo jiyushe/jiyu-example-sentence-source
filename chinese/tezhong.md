@@ -1,5 +1,7 @@
 # 特种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tezhong.md)
+
 <p><span class="chinese">什么是特种邮票？</span><span class="english">What is a special service stamp?</span></p>
 
 <p><span class="chinese">OIV还承认其它类型的特种葡萄酒。</span><span class="english">OIV admit to other types of special wine.</span></p>

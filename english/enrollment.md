@@ -1,5 +1,7 @@
 # enrollment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enrollment.md)
+
 <p><span class="chinese">登记功能。</span><span class="english">Enrollment functions.</span></p>
 
 <p><span class="chinese">硕士学位研究生入学英语试题汇编＞。</span><span class="english">The class has an enrollment of27 students.</span></p>

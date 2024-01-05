@@ -1,5 +1,7 @@
 # let
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/let.md)
+
 <p><span class="chinese">让绑腿。</span><span class="english">Let gaiters.</span></p>
 
 <p><span class="chinese">让他等一等。</span><span class="english">Let him wait.</span></p>

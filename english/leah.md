@@ -1,5 +1,7 @@
 # leah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leah.md)
+
 <p><span class="chinese">我有时真受不了莉雅。</span><span class="english">I cannot stand Leah sometimes.</span></p>
 
 <p><span class="chinese">利亚说，神赐我厚赏。</span><span class="english">Then Leah said, "How happy I am!"</span></p>

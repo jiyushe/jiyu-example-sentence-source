@@ -1,5 +1,7 @@
 # darned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darned.md)
+
 <p><span class="chinese">埃米莉姨妈织补旧袜子。</span><span class="english">Aunt Emilie darned old socks.</span></p>
 
 <p><span class="chinese">罗默是真他妈的对极了。</span><span class="english">Romer is pretty darned right.</span></p>

@@ -1,5 +1,7 @@
 # sari
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sari.md)
+
 <p><span class="chinese">这是你的书，莎莉。</span><span class="english">This is your book, Sari.</span></p>
 
 <p><span class="chinese">纱丽和紧身连衣裤，孟买，印度，1999。</span><span class="english">Sari and Catsuit, Mumbai, India, 1999</span></p>

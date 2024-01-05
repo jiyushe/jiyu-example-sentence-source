@@ -1,5 +1,7 @@
 # reconfigure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconfigure.md)
+
 <p><span class="chinese">根据需要重新配置负载平衡器。</span><span class="english">Reconfigure the load balancer if necessary.</span></p>
 
 <p><span class="chinese">无法加载RAS，请重新配置拨号网络。</span><span class="english">Can't load RAS. Please reconfigure Dial-Up Networking.</span></p>

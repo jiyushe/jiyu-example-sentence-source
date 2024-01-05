@@ -1,5 +1,7 @@
 # varicella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varicella.md)
+
 <p><span class="chinese">是水痘不能见风吗？</span><span class="english">Varicella can not see wind?</span></p>
 
 <p><span class="chinese">水痘疫苗的安全性问题</span><span class="english">Safety issues of varicella vaccines</span></p>

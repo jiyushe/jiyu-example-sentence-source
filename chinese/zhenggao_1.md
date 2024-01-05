@@ -1,5 +1,7 @@
 # 正告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenggao_1.md)
+
 <p><span class="chinese">他正告我不要碰它。</span><span class="english">He warned me not to touch it.</span></p>
 
 <p><span class="chinese">最终正告磁盘配额的时期和工夫。</span><span class="english">Date and time of last warning about disk quota.</span></p>

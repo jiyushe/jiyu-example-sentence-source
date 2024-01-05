@@ -1,5 +1,7 @@
 # 心不在焉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinbuzaiyan.md)
+
 <p><span class="chinese">他常常心不在焉。</span><span class="english">He’s often absent-minded.</span></p>
 
 <p><span class="chinese">心不在焉的教授。</span><span class="english">The absent-minded Professor.</span></p>

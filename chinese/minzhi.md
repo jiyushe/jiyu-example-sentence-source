@@ -1,5 +1,7 @@
 # 民智
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minzhi.md)
+
 <p><span class="chinese">对于一些人来说，这是个民智的主意。</span><span class="english">To some people, that is a smart idea.</span></p>
 
 <p><span class="chinese">在传播民主宪政思想，启迪民智方面，产生了重大影响。</span><span class="english">The paper had a great influence on spreading the constitutional thought and inspiring people.</span></p>

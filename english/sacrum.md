@@ -1,5 +1,7 @@
 # sacrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacrum.md)
+
 <p><span class="chinese">骶骨骨折了该注意些什么？</span><span class="english">Sacrum fracture what should notice?</span></p>
 
 <p><span class="chinese">固定肩胛骨、骶骨相对于身体后侧的位置。</span><span class="english">Firm the scapulas and sacrum against the back torso.</span></p>

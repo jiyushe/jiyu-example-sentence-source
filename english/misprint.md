@@ -1,5 +1,7 @@
 # misprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misprint.md)
+
 <p><span class="chinese">这会不会是印刷错误？</span><span class="english">Could this be a misprint?</span></p>
 
 <p><span class="chinese">错误的印刷导致很大的混淆。</span><span class="english">The misprint led to great confusion.</span></p>

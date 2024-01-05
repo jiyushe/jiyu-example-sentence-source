@@ -1,5 +1,7 @@
 # updating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/updating.md)
+
 <p><span class="chinese">奇摩电子信箱近期持续更新系统功能。</span><span class="english">Yahoo Email is updating it's system.</span></p>
 
 <p><span class="chinese">更新基于映像部署的客户机。</span><span class="english">Updating image-based provisioned clients.</span></p>

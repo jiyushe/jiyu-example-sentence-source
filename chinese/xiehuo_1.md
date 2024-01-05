@@ -1,5 +1,7 @@
 # 泻火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiehuo_1.md)
+
 <p><span class="chinese">你需要找个女孩泻泻火了，伙计。</span><span class="english">You need to get laid, man.</span></p>
 
 <p><span class="chinese">有清热泻火、润燥止渴的保健功能。</span><span class="english">There Qingre Xiehuo, functional health Runzao thirst.</span></p>

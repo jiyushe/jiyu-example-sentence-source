@@ -1,5 +1,7 @@
 # 古拙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzhuo.md)
+
 <p><span class="chinese">或古拙或亮丽，或深重或明快，突显显着的特性特征。</span><span class="english">Like bright, or deep or bright, highlighting significant characteristic features.</span></p>
 
 <p><span class="chinese">“古拙”风格在中国绘画史中享有崇高地位。</span><span class="english">"Primitive Crudity" style has been holding an important position in Chinese painting.</span></p>

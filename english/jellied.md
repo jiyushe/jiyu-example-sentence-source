@@ -1,5 +1,7 @@
 # jellied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jellied.md)
+
 <p><span class="chinese">从伦敦的畜舍内吃已成为冻状的鳗鱼。</span><span class="english">Eat jellied eels from a stall in London.</span></p>
 
 <p><span class="chinese">滑溜溜的鳗鱼和多恩红酒消磨了午后时光。</span><span class="english">Jellied eels and Dornish reds filled their afternoon.</span></p>

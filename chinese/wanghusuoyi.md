@@ -1,5 +1,7 @@
 # 忘乎所以
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanghusuoyi.md)
+
 <p><span class="chinese">不要高兴得忘乎所以。</span><span class="english">Don't be too happy to forget yourself.</span></p>
 
 <p><span class="chinese">不要高兴得忘乎所以。</span><span class="english">Don’t be so happy as to forget everything.</span></p>

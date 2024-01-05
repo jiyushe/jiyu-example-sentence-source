@@ -1,5 +1,7 @@
 # octagon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octagon.md)
+
 <p><span class="chinese">八边形有八条边。</span><span class="english">An octagon has eight sides.</span></p>
 
 <p><span class="chinese">来吧，让我们找一个八角形出来。</span><span class="english">Come on, let's go find an octagon.</span></p>

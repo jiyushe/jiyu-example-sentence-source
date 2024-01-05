@@ -1,5 +1,7 @@
 # bluster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluster.md)
+
 <p><span class="chinese">我们能听到狂风暴雨的吹打声。</span><span class="english">We could hear the bluster of the wind and rain.</span></p>
 
 <p><span class="chinese">我们决不会被反动派的气势汹汹所吓倒。</span><span class="english">We shall never be cowed by the bluster of reactionaries.</span></p>

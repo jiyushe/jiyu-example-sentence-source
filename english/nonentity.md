@@ -1,5 +1,7 @@
 # nonentity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonentity.md)
+
 <p><span class="chinese">因为我拒绝让我的上帝和救主变成可有可无。</span><span class="english">I refuse to make my God and Saviour a nonentity.</span></p>
 
 <p><span class="chinese">因为不做事只说话，而说话总是很虚无的，虚无的东西便抓摸不着。</span><span class="english">And talking is always difficult to catch owing to its nonentity.</span></p>

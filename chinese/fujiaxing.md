@@ -1,5 +1,7 @@
 # 附加刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fujiaxing.md)
+
 <p><span class="chinese">第三十二条刑罚分为主刑和附加刑。</span><span class="english">Article 32 Punishments are divided into principal punishments and supplementary punishments.</span></p>
 
 <p><span class="chinese">罚金刑是刑法规定的三种附加刑之一。</span><span class="english">The fine penalty is one of the three main additional penalties that the criminal law prescribes.</span></p>

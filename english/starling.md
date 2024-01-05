@@ -1,5 +1,7 @@
 # starling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starling.md)
+
 <p><span class="chinese">史戴琳探员就是那只深沉的鹞鸽。</span><span class="english">Agent Starling is a deep roller.</span></p>
 
 <p><span class="chinese">斯塔琳特工，你承认存在耶稣吗？</span><span class="english">Have you accepted Jesus, Agent Starling?</span></p>

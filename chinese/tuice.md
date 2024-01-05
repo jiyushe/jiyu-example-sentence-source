@@ -1,5 +1,7 @@
 # 推测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuice.md)
+
 <p><span class="chinese">我来推测一下吧</span><span class="english">Let me hazard a guess here.</span></p>
 
 <p><span class="chinese">那些推测是对的。</span><span class="english">Those conjectures are correct.</span></p>

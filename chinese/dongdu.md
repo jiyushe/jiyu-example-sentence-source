@@ -1,5 +1,7 @@
 # 东渡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongdu.md)
+
 <p><span class="chinese">他东渡去日本</span><span class="english">He crossed over to Japan.</span></p>
 
 <p><span class="chinese">他们已东渡去日本了。</span><span class="english">They have crossed over to Japan.</span></p>

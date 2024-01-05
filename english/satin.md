@@ -1,5 +1,7 @@
 # satin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satin.md)
+
 <p><span class="chinese">一条白色缎面裙子。</span><span class="english">A skirt of white satin.</span></p>
 
 <p><span class="chinese">这缎子摸起来很滑溜。</span><span class="english">The satin feels smooth.</span></p>

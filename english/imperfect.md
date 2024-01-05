@@ -1,5 +1,7 @@
 # imperfect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperfect.md)
+
 <p><span class="chinese">什么是下等痛悔？</span><span class="english">What is imperfect contrition?</span></p>
 
 <p><span class="chinese">不完善的边对边锐利度。</span><span class="english">Imperfect edge-to-edge sharpness.</span></p>

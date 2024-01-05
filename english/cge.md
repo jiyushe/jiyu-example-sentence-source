@@ -1,5 +1,7 @@
 # cge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cge.md)
+
 <p><span class="chinese">从面向对象的角度出发，将CGE算法的实现封装为一个类。</span><span class="english">From the view of object-oriented, the CGE method was packaged as a Class.</span></p>
 
 <p><span class="chinese">应用多区域产业关联表，构建了2区域4部门的可计算一般模型。</span><span class="english">This paper takes multi-regional input-output matrix to form a 2 x 4 CGE model.</span></p>

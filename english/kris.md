@@ -1,5 +1,7 @@
 # kris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kris.md)
+
 <p><span class="chinese">所以我和克丽丝做了个交易。</span><span class="english">So, I made a deal with Kris.</span></p>
 
 <p><span class="chinese">“懒人罗斯”，克丽丝这么叫我。</span><span class="english">Sloth Roth, ” Kris would call me.</span></p>

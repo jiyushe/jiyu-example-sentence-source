@@ -1,5 +1,7 @@
 # 香脂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzhi_1.md)
+
 <p><span class="chinese">她在脸上抹了些香脂。</span><span class="english">She tallowed her face.</span></p>
 
 <p><span class="chinese">这种香脂最好晚上抹脸用。</span><span class="english">This cream is best applied to the face at night.</span></p>

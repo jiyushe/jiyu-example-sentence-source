@@ -1,5 +1,7 @@
 # 请求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqiu_1.md)
+
 <p><span class="chinese">有临终请求吗?。</span><span class="english">Anv last requests?</span></p>
 
 <p><span class="chinese">请求一个实例。</span><span class="english">Request an instance.</span></p>

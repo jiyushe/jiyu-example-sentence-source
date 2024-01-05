@@ -1,5 +1,7 @@
 # phimosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phimosis.md)
+
 <p><span class="chinese">包茎只有在青春期后才能被治愈。</span><span class="english">A phimosis can be cured only after puberty.</span></p>
 
 <p><span class="chinese">目的探讨小儿包茎手术较佳方式。</span><span class="english">Objective To evaluate the two operative approaches to manage phimosis.</span></p>

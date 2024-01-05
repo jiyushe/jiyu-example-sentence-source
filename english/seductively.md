@@ -1,5 +1,7 @@
 # seductively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seductively.md)
+
 <p><span class="chinese">她转过头十分诱惑地看着我。</span><span class="english">She turns to look at me seductively.</span></p>
 
 <p><span class="chinese">白血病能冶好吗?。</span><span class="english">Can leukaemia seductively dressed or made up?</span></p>

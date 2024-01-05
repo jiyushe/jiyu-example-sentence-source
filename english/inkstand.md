@@ -1,5 +1,7 @@
 # inkstand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inkstand.md)
+
 <p><span class="chinese">这是墨水台吗?。</span><span class="english">Is this an inkstand?</span></p>
 
 <p><span class="chinese">他打开墨水瓶去写一首诗。</span><span class="english">He opened the inkstand to write a poem.</span></p>

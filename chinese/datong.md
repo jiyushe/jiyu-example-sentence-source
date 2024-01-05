@@ -1,5 +1,7 @@
 # 打通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/datong.md)
+
 <p><span class="chinese">阻止其易位，并打通中心部分。</span><span class="english">Prevent castling and open the center.</span></p>
 
 <p><span class="chinese">它打通基督教及甚具说服力的无神论。</span><span class="english">It bridges Christianity and the convincing atheism.</span></p>

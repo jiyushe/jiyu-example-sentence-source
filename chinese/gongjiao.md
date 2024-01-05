@@ -1,5 +1,7 @@
 # 公交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjiao.md)
+
 <p><span class="chinese">您可以乘坐25路公交。</span><span class="english">You should take No. 25.</span></p>
 
 <p><span class="chinese">不，我总是坐公交车上班。</span><span class="english">No, I always take a bus.</span></p>

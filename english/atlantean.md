@@ -1,5 +1,7 @@
 # atlantean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atlantean.md)
+
 <p><span class="chinese">利莫里亚长老和亚特兰蒂斯的统治者对此争论不休了70年。</span><span class="english">Lemurian Elders and Atlantean governance went head to head over this issue for 70 years.</span></p>
 
 <p><span class="chinese">唐山艾特兰蒂陶瓷有限公司是一家专业设计、生产、销售高档骨质瓷的陶瓷企业。</span><span class="english">Atlantean is a professional design, production and sale of high-grade ceramic bone china companies.</span></p>

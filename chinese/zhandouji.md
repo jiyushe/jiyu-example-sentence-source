@@ -1,5 +1,7 @@
 # 战斗机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhandouji.md)
+
 <p><span class="chinese">喷气式战斗机在空中侦察巡逻。</span><span class="english">Jet fighters scout the skies.</span></p>
 
 <p><span class="chinese">两架战斗机掠过那架客机。</span><span class="english">Two fighters buzzed the airliner.</span></p>

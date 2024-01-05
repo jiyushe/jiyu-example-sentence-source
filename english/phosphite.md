@@ -1,5 +1,7 @@
 # phosphite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphite.md)
+
 <p><span class="chinese">叙述了亚磷酸酯类抗氧剂的特征、作用机理。</span><span class="english">It discussed the characteristics and mechanism of phosphite antioxidant.</span></p>
 
 <p><span class="chinese">为流动相可同时测定因卡膦酸二钠胶囊中的磷酸盐和亚磷酸盐。</span><span class="english">Phosphate and phosphite in incadronate capsules were determined by IE-HPLC.</span></p>

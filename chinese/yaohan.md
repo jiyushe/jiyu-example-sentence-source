@@ -1,5 +1,7 @@
 # 摇撼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaohan.md)
+
 <p><span class="chinese">并且幼稚野蛮地把你黄铜的三角架不停摇撼。</span><span class="english">And toss your brass tripod with somewhat childish wildness.</span></p>
 
 <p><span class="chinese">狂风，暴雨，雷轰，电闪摇撼着我爱你的凭据。</span><span class="english">Winds, heavy rain, thunder, lightning shaking the love and support.</span></p>

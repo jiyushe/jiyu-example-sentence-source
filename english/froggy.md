@@ -1,5 +1,7 @@
 # froggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/froggy.md)
+
 <p><span class="chinese">你在跟我说话吗，小青蛙？</span><span class="english">You talking to me, froggy?</span></p>
 
 <p><span class="chinese">青蛙王子还在我手里！</span><span class="english">I still got that froggy prince locked away!</span></p>

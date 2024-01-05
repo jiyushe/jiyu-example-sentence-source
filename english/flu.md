@@ -1,5 +1,7 @@
 # flu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flu.md)
+
 <p><span class="chinese">你得的是流感。</span><span class="english">You have the flu.</span></p>
 
 <p><span class="chinese">但季节性流感也是如此。</span><span class="english">But so is seasonal flu.</span></p>

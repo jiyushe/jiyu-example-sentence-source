@@ -1,5 +1,7 @@
 # 弯弯曲曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanwanququ.md)
+
 <p><span class="chinese">这条路弯弯曲曲通往山下。</span><span class="english">The road twisted down the hill.</span></p>
 
 <p><span class="chinese">一条小河弯弯曲曲地穿过城市。</span><span class="english">A river winds its way through the city.</span></p>

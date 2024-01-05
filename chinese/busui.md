@@ -1,5 +1,7 @@
 # 不遂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/busui.md)
+
 <p><span class="chinese">这正是恋爱不遂的疯狂。</span><span class="english">This is the very exstasy of love.</span></p>
 
 <p><span class="chinese">这几件事办得太不遂他的心了。</span><span class="english">He was far from being satisfied with the way the things were done.</span></p>

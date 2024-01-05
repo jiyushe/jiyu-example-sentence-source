@@ -1,5 +1,7 @@
 # naturalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naturalist.md)
+
 <p><span class="chinese">他是一位博物学家。</span><span class="english">My father was a naturalist.</span></p>
 
 <p><span class="chinese">——自然主义者大卫·艾登堡</span><span class="english">David Attenborough, naturalist</span></p>

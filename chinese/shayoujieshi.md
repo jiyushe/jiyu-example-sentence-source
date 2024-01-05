@@ -1,5 +1,7 @@
 # 煞有介事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shayoujieshi.md)
+
 <p><span class="chinese">有时也煞有介事，拿着简谱在钢琴上摩拳擦掌。</span><span class="english">Sometimes story, take on the piano chords try.</span></p>
 
 <p><span class="chinese">他们能将不可能的事制作的煞有介事”。</span><span class="english">They can make impossible things seem possible.</span></p>

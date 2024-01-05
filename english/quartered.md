@@ -1,5 +1,7 @@
 # quartered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quartered.md)
+
 <p><span class="chinese">她把苹果切成四分。</span><span class="english">She quartered the apple.</span></p>
 
 <p><span class="chinese">比萨饼被分成六块。</span><span class="english">The pizza was quartered into six pieces.</span></p>

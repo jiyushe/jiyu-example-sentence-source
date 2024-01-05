@@ -1,5 +1,7 @@
 # onus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onus.md)
+
 <p><span class="chinese">举证责任如何分配?。</span><span class="english">How to divide onus probandi?</span></p>
 
 <p><span class="chinese">现在需要担负起责任的是莫迪。</span><span class="english">The immediate onus is on Modi.</span></p>

@@ -1,5 +1,7 @@
 # impoverish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impoverish.md)
+
 <p><span class="chinese">对你的崇拜不会令整个世界枯竭。</span><span class="english">Thy worship does not impoverish the world.</span></p>
 
 <p><span class="chinese">过度耕作而使土壤变得贫瘠参见。</span><span class="english">Impoverish the soil by overuse . See Synonyms at deplete.</span></p>

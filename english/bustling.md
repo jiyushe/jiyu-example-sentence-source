@@ -1,5 +1,7 @@
 # bustling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bustling.md)
+
 <p><span class="chinese">你忙活些什么?</span><span class="english">What are you bustling about?</span></p>
 
 <p><span class="chinese">格里姆斯比是一个热闹的渔镇。</span><span class="english">Grimsby is a bustling fishing town.</span></p>

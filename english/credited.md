@@ -1,5 +1,7 @@
 # credited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/credited.md)
+
 <p><span class="chinese">是蔡伦发明的。</span><span class="english">Cailun is credited for its invention.</span></p>
 
 <p><span class="chinese">他把300元记在客户的账上。</span><span class="english">He credited the customer with 300 yuan.</span></p>

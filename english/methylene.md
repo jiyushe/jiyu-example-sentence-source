@@ -1,5 +1,7 @@
 # methylene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methylene.md)
+
 <p><span class="chinese">图为亚甲基兰染色见杆状菌。</span><span class="english">The rods are seen here with a methylene blue stain.</span></p>
 
 <p><span class="chinese">事实上，他曾刻意服用晶体甲基。</span><span class="english">He had in fact intentionally used crystal methylene.</span></p>

@@ -1,5 +1,7 @@
 # cryptomeria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryptomeria.md)
+
 <p><span class="chinese">苏斯曼的第一个拍摄对象是绳文杉——一种生长在日本屋久岛的柳杉。</span><span class="english">Sussman's first subject was the Jomon Sugi, a Cryptomeria tree on Yakushima Island, Japan.</span></p>
 
 <p><span class="chinese">生物测定证明这三种物质对柳杉种子萌发均具有化感作用。</span><span class="english">And the bioassay showed they all have the function of restraining seed germination of Cryptomeria fortunei.</span></p>

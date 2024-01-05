@@ -1,5 +1,7 @@
 # concentrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concentrate.md)
+
 <p><span class="chinese">集中练习16至20这几个新数字。</span><span class="english">Concentrate on the new numbers 16-20.</span></p>
 
 <p><span class="chinese">全身心构筑你的角色。</span><span class="english">Concentrate on building your character.</span></p>

@@ -1,5 +1,7 @@
 # swore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swore.md)
+
 <p><span class="chinese">相约爱到永远永远。</span><span class="english">And swore eternal love.</span></p>
 
 <p><span class="chinese">他对我的画评价很高。</span><span class="english">He swore by my pictures.</span></p>

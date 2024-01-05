@@ -1,5 +1,7 @@
 # armand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armand.md)
+
 <p><span class="chinese">但阿曼德将会回来。</span><span class="english">But Armand will come back.</span></p>
 
 <p><span class="chinese">你为什么要这样做，阿曼德？</span><span class="english">Why did you do it, Armand?</span></p>

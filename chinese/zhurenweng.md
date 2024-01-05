@@ -1,5 +1,7 @@
 # 主人翁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhurenweng.md)
+
 <p><span class="chinese">海明威的许多主人翁喜欢斗牛。</span><span class="english">Many of Hemingway's heroes love bullfight.</span></p>
 
 <p><span class="chinese">海明威的许多主人翁喜欢斗牛。</span><span class="english">Many of Hemingway's heroses love bullfight.</span></p>

@@ -1,5 +1,7 @@
 # scarcity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scarcity.md)
+
 <p><span class="chinese">这是一个资源稀缺的世界。</span><span class="english">This is the world of scarcity.</span></p>
 
 <p><span class="chinese">而他们所卖的正是稀有性。</span><span class="english">And scarcity is what they sell.</span></p>

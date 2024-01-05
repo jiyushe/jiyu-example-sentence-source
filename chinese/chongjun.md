@@ -1,5 +1,7 @@
 # 充军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongjun.md)
+
 <p><span class="chinese">他在这儿充军。</span><span class="english">He lived there in exile.</span></p>
 
 <p><span class="chinese">各地军官一致同意免贱充军。</span><span class="english">Around the officer agreed to free base banishment.</span></p>

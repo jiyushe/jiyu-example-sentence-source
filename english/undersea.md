@@ -1,5 +1,7 @@
 # undersea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undersea.md)
+
 <p><span class="chinese">海面下的战争正要开始。</span><span class="english">The undersea battle is about to begin.</span></p>
 
 <p><span class="chinese">跳过去在海底的道路的障碍。</span><span class="english">Jump over the obstacles on the undersea road.</span></p>

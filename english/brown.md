@@ -1,5 +1,7 @@
 # brown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brown.md)
+
 <p><span class="chinese">棕色还是白色？</span><span class="english">Brown or white?</span></p>
 
 <p><span class="chinese">熊熊说道，“一只大棕熊。”</span><span class="english">A big brown bear.</span></p>

@@ -1,5 +1,7 @@
 # 净值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzhi.md)
+
 <p><span class="chinese">他的净值下降。</span><span class="english">His net worth declines.</span></p>
 
 <p><span class="chinese">按基金净值算!</span><span class="english">Calculate by fund net value!</span></p>

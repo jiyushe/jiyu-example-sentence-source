@@ -1,5 +1,7 @@
 # 戈壁滩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gebitan.md)
+
 <p><span class="chinese">戈壁滩沙漠正在向南方侵蚀。</span><span class="english">The Gobi Desert is inching south.</span></p>
 
 <p><span class="chinese">是的。这些蛋是在戈壁滩发现的。</span><span class="english">Yes. These eggs were found in the Gobi Desert.</span></p>

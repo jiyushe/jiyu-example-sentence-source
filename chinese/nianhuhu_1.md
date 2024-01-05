@@ -1,5 +1,7 @@
 # 粘乎乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianhuhu_1.md)
+
 <p><span class="chinese">哦，对不起。我的手粘乎乎的。</span><span class="english">Oh, I'm sorry. My hands are sticky.</span></p>
 
 <p><span class="chinese">它们往往是粘乎乎黑糊糊的一团，可以是各种形状。</span><span class="english">It's a blob and can be of any shape.</span></p>

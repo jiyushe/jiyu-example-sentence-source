@@ -1,5 +1,7 @@
 # ruined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruined.md)
+
 <p><span class="chinese">她被一个流氓引诱而失去了贞操。</span><span class="english">She was ruined by a rascal.</span></p>
 
 <p><span class="chinese">电子游戏毁了我的生活。</span><span class="english">Vidoe games ruined my life.</span></p>

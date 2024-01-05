@@ -1,5 +1,7 @@
 # 病态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingtai.md)
+
 <p><span class="chinese">她对老鼠有病态恐惧。</span><span class="english">She has a compex about rats.</span></p>
 
 <p><span class="chinese">整个世界都摇晃了，病态了。</span><span class="english">The world reeled and sickened.</span></p>

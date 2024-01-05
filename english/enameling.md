@@ -1,5 +1,7 @@
 # enameling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enameling.md)
+
 <p><span class="chinese">研究了冷轧超低碳搪瓷钢板的抗鳞爆性能。</span><span class="english">The fish scaling resistance of the ultra low carbon steel sheet for enameling has been studied.</span></p>
 
 <p><span class="chinese">介绍了搪瓷管道及喷瓷管道的国内外发展现状和搪瓷管道的连接技术。</span><span class="english">The present status of researching on the enameling pipe and its joining technology are introduced.</span></p>

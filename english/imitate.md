@@ -1,5 +1,7 @@
 # imitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imitate.md)
+
 <p><span class="chinese">他能模仿鸟叫。</span><span class="english">He can imitate the cries of birds.</span></p>
 
 <p><span class="chinese">绝不像痴情的鸟儿。</span><span class="english">I will never imitate spoony birds.</span></p>

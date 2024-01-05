@@ -1,5 +1,7 @@
 # 中流砥柱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongliudizhu.md)
+
 <p><span class="chinese">这两个都是温州经济的中流砥柱。</span><span class="english">Both are mainstays of the Wenzhou economy.</span></p>
 
 <p><span class="chinese">历史上，义务兵一直是解放军的中流砥柱。</span><span class="english">Historically, conscription was the mainstay of PLA recruitment.</span></p>

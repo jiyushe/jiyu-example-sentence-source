@@ -1,5 +1,7 @@
 # 助跑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhupao.md)
+
 <p><span class="chinese">为企业电子商务助跑！</span><span class="english">For Enterprise E-C run-up!</span></p>
 
 <p><span class="chinese">哈德利正在助跑投球。</span><span class="english">Hadlee is now running up to bowl.</span></p>

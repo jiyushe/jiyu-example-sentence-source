@@ -1,5 +1,7 @@
 # innovate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innovate.md)
+
 <p><span class="chinese">敢于创新。</span><span class="english">Dare to innovate.</span></p>
 
 <p><span class="chinese">IDEO帮助公司进行创新。</span><span class="english">IDEO helps companies innovate.</span></p>

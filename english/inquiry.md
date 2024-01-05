@@ -1,5 +1,7 @@
 # inquiry 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inquiry.md)
+
 <p><span class="chinese">感谢您的询价。</span><span class="english">I appreciate your inquiry.</span></p>
 
 <p><span class="chinese">问讯处在哪里？</span><span class="english">Where is the Inquiry Office?</span></p>

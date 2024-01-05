@@ -1,5 +1,7 @@
 # corduroy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corduroy.md)
+
 <p><span class="chinese">他们看见灯芯绒。</span><span class="english">They see corduroy.</span></p>
 
 <p><span class="chinese">这些灯心绒裤多少钱？</span><span class="english">How much are these corduroy pants?</span></p>

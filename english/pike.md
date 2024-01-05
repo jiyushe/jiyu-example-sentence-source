@@ -1,5 +1,7 @@
 # pike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pike.md)
+
 <p><span class="chinese">里海的梭鲈，哈萨克斯坦，1999。</span><span class="english">Caspian Pike Perch, Kazakhstan, 1999</span></p>
 
 <p><span class="chinese">那是我钓到的最大的狗鱼。</span><span class="english">It was the biggest pike I ever hooked.</span></p>

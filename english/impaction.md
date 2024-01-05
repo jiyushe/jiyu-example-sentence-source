@@ -1,5 +1,7 @@
 # impaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impaction.md)
+
 <p><span class="chinese">对会计信息价值相关性的影响如何？</span><span class="english">What is the impaction on accounting information relevance?</span></p>
 
 <p><span class="chinese">今天我发现心爱的天竺鼠得了肠阻塞。</span><span class="english">Today, I found out that my beloved guinea pig has impaction.</span></p>

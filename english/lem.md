@@ -1,5 +1,7 @@
 # lem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lem.md)
+
 <p><span class="chinese">这一道德准则针对LEM所有员工。</span><span class="english">This Ethics Code is binding upon all LEM employees.</span></p>
 
 <p><span class="chinese">Lem广告公司设计的极富创意的红十字购物袋</span><span class="english">Creative Red Cross shopping bag by Lem advertising agency.</span></p>

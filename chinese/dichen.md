@@ -1,5 +1,7 @@
 # 低沉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dichen.md)
+
 <p><span class="chinese">她的呼救声变低沉了。</span><span class="english">Her cry for help dulled.</span></p>
 
 <p><span class="chinese">嗨，你为什么看起来这么低沉啊。</span><span class="english">Hi, why you look so down?</span></p>

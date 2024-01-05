@@ -1,5 +1,7 @@
 # comical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comical.md)
+
 <p><span class="chinese">卡通式的视觉效果和滑稽的声音。</span><span class="english">Cartoon-style visuals and comical audio.</span></p>
 
 <p><span class="chinese">他戴著那顶小帽子，看上去真滑稽。</span><span class="english">He looked comical wearing that tiny hat.</span></p>

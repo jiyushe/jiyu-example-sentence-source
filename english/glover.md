@@ -1,5 +1,7 @@
 # glover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glover.md)
+
 <p><span class="chinese">格洛弗狠狠地踢他的胯部。</span><span class="english">Glover kicked him hard in the crotch.</span></p>
 
 <p><span class="chinese">我们大家一起请比尔格洛弗出去吃晚饭。</span><span class="english">We're all going to take Bill Glover out to dinner.</span></p>

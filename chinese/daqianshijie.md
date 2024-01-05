@@ -1,5 +1,7 @@
 # 大千世界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daqianshijie.md)
+
 <p><span class="chinese">我们是这个大千世界如此渺小的一员。</span><span class="english">We are so small the universe of a.</span></p>
 
 <p><span class="chinese">即使我搜遍这大千世界。</span><span class="english">I chould search this whole word over.</span></p>

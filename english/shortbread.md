@@ -1,5 +1,7 @@
 # shortbread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortbread.md)
+
 <p><span class="chinese">脆饼干是一种薄的、松脆的饼干。</span><span class="english">Shortbread is a short crumbly cookie.</span></p>
 
 <p><span class="chinese">其纹理不同于一般的脆饼。</span><span class="english">Its texture is different from regular shortbread.</span></p>

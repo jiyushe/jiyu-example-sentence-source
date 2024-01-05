@@ -1,5 +1,7 @@
 # colgate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colgate.md)
+
 <p><span class="chinese">设菲尔德的公司后来成为高露洁。</span><span class="english">Sheffield's company was to become Colgate.</span></p>
 
 <p><span class="chinese">受影响的牙膏品牌包括佳洁士和高露洁。</span><span class="english">Toothpaste brands affected include Crest and Colgate.</span></p>

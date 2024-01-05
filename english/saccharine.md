@@ -1,5 +1,7 @@
 # saccharine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saccharine.md)
+
 <p><span class="chinese">我觉得这部电影太缠绵了。</span><span class="english">I found the film far too saccharine.</span></p>
 
 <p><span class="chinese">不管怎样，saccharine这个词来源于拉丁语中的saccharum，saccharum的意思是“糖”。</span><span class="english">Either way, saccharine comes from saccharum, Latin for "sugar."</span></p>

@@ -1,5 +1,7 @@
 # 无日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuri.md)
+
 <p><span class="chinese">我每周都有自己的无日车。</span><span class="english">I have my own weekly bike-to-work day.</span></p>
 
 <p><span class="chinese">更教无日不花开。</span><span class="english">More education does not bloom every day.</span></p>

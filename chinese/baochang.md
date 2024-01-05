@@ -1,5 +1,7 @@
 # 饱尝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baochang.md)
+
 <p><span class="chinese">他曾饱尝贫穷之苦。</span><span class="english">He is no stranger to poverty.</span></p>
 
 <p><span class="chinese">由于他们总是饱尝口渴的折磨。</span><span class="english">They suffer from thirst first and always.</span></p>

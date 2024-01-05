@@ -1,5 +1,7 @@
 # 竹签
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuqian.md)
+
 <p><span class="chinese">用竹签把小丸子串起。</span><span class="english">Hold up with the bamboo skewers.</span></p>
 
 <p><span class="chinese">先用清水把竹签浸30分钟。</span><span class="english">Soak bamboo skewers in water for 30 minutes.</span></p>

@@ -1,5 +1,7 @@
 # perversity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perversity.md)
+
 <p><span class="chinese">她嫁给他纯粹是任性。</span><span class="english">She's marrying him out of sheer perversity.</span></p>
 
 <p><span class="chinese">为了故意作对而继续这样做是不对的。</span><span class="english">It would be wrong to continue out of perversity.</span></p>

@@ -1,5 +1,7 @@
 # obedient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obedient.md)
+
 <p><span class="chinese">让我们不要只在某些场合顺从。</span><span class="english">Let us not be obedient onoccasion.</span></p>
 
 <p><span class="chinese">一个是顽梗，另两个是顺服。</span><span class="english">One was obstinate , the others obedient.</span></p>

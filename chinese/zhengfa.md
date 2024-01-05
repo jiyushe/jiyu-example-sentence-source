@@ -1,5 +1,7 @@
 # 征伐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfa.md)
+
 <p><span class="chinese">一群好战的牧师呼吁建立通过征伐将所有奥术施法者从大陆驱逐。</span><span class="english">A militant cleric calls for a crusade to expel all arcane spell casters from the continent.</span></p>
 
 <p><span class="chinese">公元429年北魏太武帝征伐东部高车后，迁移至嫩江流域。</span><span class="english">The tribe was migrated to Neng River area when the North Wei Dynasty conquered Gao Che in 429.</span></p>

@@ -1,5 +1,7 @@
 # sherry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sherry.md)
+
 <p><span class="chinese">我要雪利酒。</span><span class="english">I prefer sherry.</span></p>
 
 <p><span class="chinese">诺维克和雪莉交换了一个眼神。</span><span class="english">Novick and Sherry trade looks.</span></p>

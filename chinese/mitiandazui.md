@@ -1,5 +1,7 @@
 # 弥天大罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mitiandazui.md)
+
 <p><span class="chinese">你知道不知道你犯了弥天大罪？</span><span class="english">Do you know you've made a real big mistake?</span></p>
 
 <p><span class="chinese">你知不知道你犯了弥天大罪？</span><span class="english">Do you know you’ve made a real big mistake?</span></p>

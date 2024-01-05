@@ -1,5 +1,7 @@
 # perverse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perverse.md)
+
 <p><span class="chinese">另一个疑虑是有悖于常情的诱因。</span><span class="english">A related worry is that of perverse incentives.</span></p>
 
 <p><span class="chinese">那个故意与我作对的家伙让我终日不得安宁。</span><span class="english">That perverse guy has been nagging at me all day.</span></p>

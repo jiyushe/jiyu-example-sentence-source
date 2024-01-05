@@ -1,5 +1,7 @@
 # 本字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benzi_1.md)
+
 <p><span class="chinese">取本字串与泛型物件中的泛型物件。</span><span class="english">Gets the generic type object of this.</span></p>
 
 <p><span class="chinese">语言工具的另一个特色是可以帮你翻译一些可自由剪贴的文本字块。</span><span class="english">There's also a box that you can enter a direct URL into, translating to the chosen language.</span></p>

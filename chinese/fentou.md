@@ -1,5 +1,7 @@
 # 分头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fentou.md)
+
 <p><span class="chinese">他们分头吃饭。</span><span class="english">They eat separately.</span></p>
 
 <p><span class="chinese">分头去找他们，狗东西！</span><span class="english">Scatter and look for them, dogs!</span></p>

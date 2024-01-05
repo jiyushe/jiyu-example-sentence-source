@@ -1,5 +1,7 @@
 # athletic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/athletic.md)
+
 <p><span class="chinese">我在运动家庭长大。</span><span class="english">Grew up in athletic family,</span></p>
 
 <p><span class="chinese">她有一运动选手的身材。</span><span class="english">She has an athletic figure.</span></p>

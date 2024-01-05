@@ -1,5 +1,7 @@
 # dielectric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dielectric.md)
+
 <p><span class="chinese">这是一款电介质焊接机。</span><span class="english">This is a dielectric welder.</span></p>
 
 <p><span class="chinese">它由一个透明的电介质隔片构成。</span><span class="english">It consists of a transparent dielectric spacer.</span></p>

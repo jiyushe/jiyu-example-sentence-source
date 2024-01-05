@@ -1,5 +1,7 @@
 # allspice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allspice.md)
+
 <p><span class="chinese">混合了樱桃，可可粉，多香果粉及薄荷的香味。</span><span class="english">The final blend has aromas of Bing cherries, cocoa, cedar, allspice and mint.</span></p>
 
 <p><span class="chinese">哪一种波多黎各朗姆酒含有丁香和肉桂的味道?。</span><span class="english">This Puerto Rican rum is flavored with a blend of clove, allspice and cinnamon.</span></p>

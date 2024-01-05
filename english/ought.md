@@ -1,5 +1,7 @@
 # ought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ought.md)
+
 <p><span class="chinese">我们大家都应该去。</span><span class="english">All of us ought to go.</span></p>
 
 <p><span class="chinese">他应该开车回家。</span><span class="english">He ought to drive home.</span></p>

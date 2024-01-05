@@ -1,5 +1,7 @@
 # 胸有成竹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongyouchengzhu.md)
+
 <p><span class="chinese">汤姆备有锦囊妙计胸有成竹。</span><span class="english">Tom had an ace up his sleeve.</span></p>
 
 <p><span class="chinese">徐茂山则胸有成竹表示定能夺取山头。</span><span class="english">XuMaoShan is in the bag says it can take cap.</span></p>

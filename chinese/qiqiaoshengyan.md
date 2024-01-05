@@ -1,5 +1,7 @@
 # 七窍生烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqiaoshengyan.md)
+
 <p><span class="chinese">这件事气得他七窍生烟。</span><span class="english">He foamed with anger over the matter.</span></p>
 
 <p><span class="chinese">老沃特闻言七窍生烟，立马甩了他儿子一个耳光。</span><span class="english">Sir Walter promptly boxed his son's ears.</span></p>

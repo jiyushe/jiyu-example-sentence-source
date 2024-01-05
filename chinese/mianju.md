@@ -1,5 +1,7 @@
 # 面具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianju.md)
+
 <p><span class="chinese">一个面具舞会?。</span><span class="english">A masked ball?</span></p>
 
 <p><span class="chinese">什么样的面具？</span><span class="english">What kind of mask?</span></p>

@@ -1,5 +1,7 @@
 # pus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pus.md)
+
 <p><span class="chinese">伤口在流脓。</span><span class="english">The wound was oozing pus.</span></p>
 
 <p><span class="chinese">朦脓中做了很多自娱自乐的傻事。</span><span class="english">Dim pus did a lot of enjoyment.</span></p>

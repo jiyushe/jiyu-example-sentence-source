@@ -1,5 +1,7 @@
 # 有生以来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshengyilai.md)
+
 <p><span class="chinese">有生以来我第一次感到如此自由自在。</span><span class="english">I’m free for the first time in my life.</span></p>
 
 <p><span class="chinese">有生以来第一次，我感到了自己是一个整体。</span><span class="english">For the first time in my life, I felt whole.</span></p>

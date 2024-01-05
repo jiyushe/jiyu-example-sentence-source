@@ -1,5 +1,7 @@
 # tuberculous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuberculous.md)
+
 <p><span class="chinese">结核性黏液囊炎发生率非常低。</span><span class="english">The incidence of tuberculous bursitis is very low.</span></p>
 
 <p><span class="chinese">青年阶段是结核病发病的高峰年令组。</span><span class="english">Young generation can be the peak period of tuberculous incidence.</span></p>

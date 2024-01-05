@@ -1,5 +1,7 @@
 # underpin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underpin.md)
+
 <p><span class="chinese">但该公司并没有承诺支撑所有稀土元素的价格。</span><span class="english">Yet it didn’t pledge to underpin all rare earth prices.</span></p>
 
 <p><span class="chinese">中国需要地区稳定来巩固其持续的经济增长。</span><span class="english">China needs regional stability to underpin its continued economic growth.</span></p>

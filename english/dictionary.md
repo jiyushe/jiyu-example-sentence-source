@@ -1,5 +1,7 @@
 # dictionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dictionary.md)
+
 <p><span class="chinese">请把那本词典给我。</span><span class="english">Give me the dictionary.</span></p>
 
 <p><span class="chinese">把那本词典扔给我。</span><span class="english">Throw me that dictionary.</span></p>

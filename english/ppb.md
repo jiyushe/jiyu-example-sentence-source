@@ -1,5 +1,7 @@
 # ppb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ppb.md)
+
 <p><span class="chinese">所有的钻井水都要按每桶加两磅的戊二醛作预处理。</span><span class="english">All drill water to be pretreated with 2 ppb Gluteraldehyde.</span></p>
 
 <p><span class="chinese">按每桶钻井液加25磅的膨润土，允许水化至少6个小时。</span><span class="english">Add 25 ppb Bentonite and allow to hydrate for a minimum of 6 hrs.</span></p>

@@ -1,5 +1,7 @@
 # quotation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quotation.md)
+
 <p><span class="chinese">这是我们的报价单。</span><span class="english">Here is our quotation.</span></p>
 
 <p><span class="chinese">你的报价是多少？</span><span class="english">What’s your quotation?</span></p>

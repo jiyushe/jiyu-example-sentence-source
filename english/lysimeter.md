@@ -1,5 +1,7 @@
 # lysimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lysimeter.md)
+
 <p><span class="chinese">蒸渗仪受自身因素影响，变化比较敏感。</span><span class="english">The results of lysimeter were sensitively affected by its own factors.</span></p>
 
 <p><span class="chinese">本文介绍了用两种不同规格的微型蒸发器测定麦田和裸地土面蒸发强度的方法，并对实测结果进行了对比分析。</span><span class="english">The method for measuring the soil evaporation from wheat field and bare soil surface by means of two types of micro lysimeter is described.</span></p>

@@ -1,5 +1,7 @@
 # locator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locator.md)
+
 <p><span class="chinese">但是服务定位器不应包含资源缓存。</span><span class="english">But the service locator should not include a resource cache.</span></p>
 
 <p><span class="chinese">提供定位器缓存和命令集来提高测试速度</span><span class="english">Has Locator caching and command bundles to improve test speed</span></p>

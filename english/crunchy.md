@@ -1,5 +1,7 @@
 # crunchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crunchy.md)
+
 <p><span class="chinese">易咀嚼的和有嚼劲的。</span><span class="english">crunchy and chewy.</span></p>
 
 <p><span class="chinese">嚼咬新鲜爽脆的胡萝卜。</span><span class="english">Chew on a crisp crunchy carrot.</span></p>

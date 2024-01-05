@@ -1,5 +1,7 @@
 # 高风亮节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaofengliangjie.md)
+
 <p><span class="chinese">他的高风亮节为人仰慕。</span><span class="english">His noble character and sterling integrity are admired by people.</span></p>
 
 <p><span class="chinese">始终揣怀着对人类高风亮节的爱。</span><span class="english">It always cherishes the love for human's noble character and sterling integrity.</span></p>

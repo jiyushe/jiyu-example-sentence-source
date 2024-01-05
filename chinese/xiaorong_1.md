@@ -1,5 +1,7 @@
 # 消融
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaorong_1.md)
+
 <p><span class="chinese">南极大陆的冰川将持续消融。</span><span class="english">Continental ice will continue to melt.</span></p>
 
 <p><span class="chinese">脑部肿瘤激光消融需要精确的定位。</span><span class="english">LITT of brain tumors need exact location.</span></p>

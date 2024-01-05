@@ -1,5 +1,7 @@
 # genocidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genocidal.md)
+
 <p><span class="chinese">你们谴责伊朗政权的种族灭绝宗旨。</span><span class="english">You've condemned the Iranian regime for its genocidal aims.</span></p>
 
 <p><span class="chinese">然而，事实是，它是一个奉行有计划谋杀的秘密警察国家，这只会使问题更加恶化。</span><span class="english">The fact that it's a genocidal and secretive police state only exacerbates matters.</span></p>

@@ -1,5 +1,7 @@
 # 心酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinsuan_1.md)
+
 <p><span class="chinese">我又一次感到一阵心酸。</span><span class="english">Again, I felt a sense of pain.</span></p>
 
 <p><span class="chinese">我把最心酸的委屈汇在那里。</span><span class="english">I collect the sad humiliation there.</span></p>

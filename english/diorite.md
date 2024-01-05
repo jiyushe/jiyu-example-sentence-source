@@ -1,5 +1,7 @@
 # diorite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diorite.md)
+
 <p><span class="chinese">朝山金矿床与白芒山辉石闪长岩有直接的成因联系。</span><span class="english">Chaoshan gold deposit is directly related to augite diorite.</span></p>
 
 <p><span class="chinese">陶村铁矿床为与辉石闪长玢岩密切相关的岩浆热液型矿床。</span><span class="english">The Taocun iron deposit is a diorite porphyry related hydrothermal deposit.</span></p>

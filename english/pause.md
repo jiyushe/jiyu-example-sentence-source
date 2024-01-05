@@ -1,5 +1,7 @@
 # pause
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pause.md)
+
 <p><span class="chinese">沉默良久。</span><span class="english">A long pause.</span></p>
 
 <p><span class="chinese">然后我又停住口。</span><span class="english">Then I pause again.</span></p>

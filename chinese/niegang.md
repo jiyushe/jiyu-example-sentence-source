@@ -1,5 +1,7 @@
 # 镍钢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niegang.md)
+
 <p><span class="chinese">框架是古铜色的镍钢。</span><span class="english">Frames are in bronzed nickel steel.</span></p>
 
 <p><span class="chinese">金属网为镀镍钢网或不锈钢网。</span><span class="english">The metal net is a nickel-plated steel net or a stainless steel net.</span></p>

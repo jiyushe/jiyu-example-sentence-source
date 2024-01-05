@@ -1,5 +1,7 @@
 # 领路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linglu.md)
+
 <p><span class="chinese">你们这瞎眼领路的有祸了。</span><span class="english">Woe to you, blind guides!</span></p>
 
 <p><span class="chinese">我在前领路非常必要。</span><span class="english">It is essential that I lead the way.</span></p>

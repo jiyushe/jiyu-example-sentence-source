@@ -1,5 +1,7 @@
 # 受罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzui.md)
+
 <p><span class="chinese">在这个城市里停车简直是受罪！</span><span class="english">Parking in this city is a nightmare!</span></p>
 
 <p><span class="chinese">大人轻心了不少，重要的是孩子不受罪啊。</span><span class="english">Heart is also very light, very long way.</span></p>

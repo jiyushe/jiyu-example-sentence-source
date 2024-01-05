@@ -1,5 +1,7 @@
 # 交响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxiang.md)
+
 <p><span class="chinese">听上千交响鸟啼音符。</span><span class="english">I heard a thousand blended notes.</span></p>
 
 <p><span class="chinese">第四交响曲，作品44，“交响片段”</span><span class="english">Symphony No. 4, Op. 44, Pages symphoniques.</span></p>

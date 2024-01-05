@@ -1,5 +1,7 @@
 # infrasonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infrasonic.md)
+
 <p><span class="chinese">次声武器与传统的枪炮不同。</span><span class="english">The infrasonic weapon and the traditional arms is different.</span></p>
 
 <p><span class="chinese">第一部分为次声压力仓系统的建立及性能检测。</span><span class="english">In the first part, an infrasonic pressure chamber system was established.</span></p>

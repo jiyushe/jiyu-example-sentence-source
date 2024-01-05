@@ -1,5 +1,7 @@
 # sparkle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparkle.md)
+
 <p><span class="chinese">柔和的棕黄色带浅粉亮片。</span><span class="english">Soft tan with light pink sparkle.</span></p>
 
 <p><span class="chinese">夜晚的天空上星星闪闪发光。</span><span class="english">The stars sparkle in the dark sky.</span></p>

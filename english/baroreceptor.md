@@ -1,5 +1,7 @@
 # baroreceptor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baroreceptor.md)
+
 <p><span class="chinese">该结果提示，家兔体内内源性神经降压素可能参与压力感受性反射的调节过程。</span><span class="english">This indicates that endogenous NT may be involved in the regulative mechanism of baroreceptor reflex in rabbits.</span></p>
 
 <p><span class="chinese">动脉压力感受性和心房容量感受性刺激可会聚于同一下丘脑神经元。</span><span class="english">The inputs from the atrial volume receptor and carotid baroreceptor converge on the same neuron of the hypothalamus.</span></p>

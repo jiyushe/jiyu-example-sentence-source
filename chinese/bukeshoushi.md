@@ -1,5 +1,7 @@
 # 不可收拾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukeshoushi.md)
+
 <p><span class="chinese">然后事情一发不可收拾了。</span><span class="english">And things got out of hand.</span></p>
 
 <p><span class="chinese">这种情况就如滔滔江水，一发不可收拾。</span><span class="english">It just flows, like a river in flood.</span></p>

@@ -1,5 +1,7 @@
 # 大兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabing.md)
+
 <p><span class="chinese">大兵在搭帐篷。</span><span class="english">Soldiers are putting up a tent.</span></p>
 
 <p><span class="chinese">有个少女和一个大兵走过大街。</span><span class="english">A girl and a soldier went by in the street.</span></p>

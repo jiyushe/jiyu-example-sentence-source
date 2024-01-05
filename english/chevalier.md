@@ -1,5 +1,7 @@
 # chevalier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chevalier.md)
+
 <p><span class="chinese">骑士先生和伏尔泰曾经会面和交谈是确信无疑的。</span><span class="english">No one doubts that the Chevalier and Voltaire met and conversed.</span></p>
 
 <p><span class="chinese">这里，莫里斯?勒穆瓦纳阁下很显然，他是骑士会的人。</span><span class="english">Here, monsignor maurice le moyne. and apparently, he ' s a chevalier.</span></p>

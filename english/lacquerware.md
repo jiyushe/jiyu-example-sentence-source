@@ -1,5 +1,7 @@
 # lacquerware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacquerware.md)
+
 <p><span class="chinese">这是漆器柜台。</span><span class="english">This is the lacquerware counter.</span></p>
 
 <p><span class="chinese">福建漆器远近闻名。</span><span class="english">Fujian lacquerware is known far and wide.</span></p>

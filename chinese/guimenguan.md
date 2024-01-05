@@ -1,5 +1,7 @@
 # 鬼门关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guimenguan.md)
+
 <p><span class="chinese">况且，我也还没干完我从鬼门关回来该做的事。</span><span class="english">Anyway, I hadn't yet done what I'd come back to do.</span></p>
 
 <p><span class="chinese">国际比赛日对于经理们来说是个鬼门关。</span><span class="english">International breaks are a nervous time for managers.</span></p>

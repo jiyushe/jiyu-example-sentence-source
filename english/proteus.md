@@ -1,5 +1,7 @@
 # proteus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proteus.md)
+
 <p><span class="chinese">尿液培养发现变形杆菌感染。</span><span class="english">Urine culture showed Proteus mirabilis infection.</span></p>
 
 <p><span class="chinese">在不加介体情况下，普通变形菌电池性能优于大肠杆菌。</span><span class="english">Proteus vulgaris to the performance of MFC is superior to E.</span></p>

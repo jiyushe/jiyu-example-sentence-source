@@ -1,5 +1,7 @@
 # episodic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/episodic.md)
+
 <p><span class="chinese">北塘凹陷具有幕式沉降的特征。</span><span class="english">Beitang Sag had a feature of episodic subsidence.</span></p>
 
 <p><span class="chinese">眼壁闪电和台风总闪电存在阶段性变化。</span><span class="english">The evolution of eyewall lightning and total lightning tended to be episodic.</span></p>

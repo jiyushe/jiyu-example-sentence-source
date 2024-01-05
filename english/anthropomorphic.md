@@ -1,5 +1,7 @@
 # anthropomorphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropomorphic.md)
+
 <p><span class="chinese">爱因斯坦注意到这两者都有对上帝的人神同形论的概念。</span><span class="english">Einstein noted that both have an anthropomorphic concept of God.</span></p>
 
 <p><span class="chinese">我们过于从人的角度来看问题，我们无法透过猫的眼睛来看这个世界。</span><span class="english">We are so anthropomorphic we can't see the world through their eyes.</span></p>

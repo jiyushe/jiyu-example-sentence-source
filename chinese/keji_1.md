@@ -1,5 +1,7 @@
 # 科技
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keji_1.md)
+
 <p><span class="chinese">科技日报。</span><span class="english">ScienceDaily.</span></p>
 
 <p><span class="chinese">答案是骨头传导科技。</span><span class="english">Bone conduction.</span></p>

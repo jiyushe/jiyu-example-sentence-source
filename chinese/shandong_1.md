@@ -1,5 +1,7 @@
 # 扇动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shandong_1.md)
+
 <p><span class="chinese">她晾干翅膀扇动着双翅飞下去找他。</span><span class="english">She dried her wings and fluttered down to look for him.</span></p>
 
 <p><span class="chinese">每只鸟会以同样的频率扇动翅膀吗？</span><span class="english">Is every bird flapping its wings at the exact same frequency?</span></p>

@@ -1,5 +1,7 @@
 # 扬长而去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangchangerqu.md)
+
 <p><span class="chinese">然后我就这样看你开着我的船扬长而去？</span><span class="english">And I watch my words from a long way off.</span></p>
 
 <p><span class="chinese">然后将那文章背诵一遍，扬长而去！</span><span class="english">Then recites that article, swaggers away!</span></p>

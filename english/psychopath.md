@@ -1,5 +1,7 @@
 # psychopath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychopath.md)
+
 <p><span class="chinese">那是精神异常者的眼睛。</span><span class="english">These are the eyes of a psychopath.</span></p>
 
 <p><span class="chinese">而心理变态者则继续他的行径。</span><span class="english">And so the psychopath continues on his way.</span></p>

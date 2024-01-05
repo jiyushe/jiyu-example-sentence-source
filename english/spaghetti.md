@@ -1,5 +1,7 @@
 # spaghetti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spaghetti.md)
+
 <p><span class="chinese">意大利肉酱面和肉饭。</span><span class="english">Spaghetti meat sauce and pilaf.</span></p>
 
 <p><span class="chinese">在滤器中控干面条。</span><span class="english">In a colander, drain the spaghetti.</span></p>

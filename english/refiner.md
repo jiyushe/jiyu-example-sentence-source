@@ -1,5 +1,7 @@
 # refiner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refiner.md)
+
 <p><span class="chinese">指出加入细化剂和稀土元素对改善铸锭质量有重要作用。</span><span class="english">The addition of refiner and RE can improve the quality of ingot.</span></p>
 
 <p><span class="chinese">提炼者用她精细的手指定义了一个明确的界限.</span><span class="english">The  refiner  defined a  definite  confine with her  fine finger.</span></p>

@@ -1,5 +1,7 @@
 # 精神恍惚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingshenhuanghu.md)
+
 <p><span class="chinese">她老是精神恍惚地想念那小子。</span><span class="english">She was always mooning over that bloke.</span></p>
 
 <p><span class="chinese">她精神恍惚地听着他的话语。</span><span class="english">Her mind only vaguely grasped what he was saying.</span></p>

@@ -1,5 +1,7 @@
 # trackball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trackball.md)
+
 <p><span class="chinese">确认的话按下轨迹球，按其他键取消。</span><span class="english">Press Trackball to confirm, any other key to abort.</span></p>
 
 <p><span class="chinese">使用鼠标或者轨迹球有时候会有一点点儿棘手。</span><span class="english">Using a computer mouse or trackball can be a little tricky.</span></p>

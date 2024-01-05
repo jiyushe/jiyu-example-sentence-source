@@ -1,5 +1,7 @@
 # 单子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danzi.md)
+
 <p><span class="chinese">但这只是一个单子。</span><span class="english">But it's just one monad.</span></p>
 
 <p><span class="chinese">你单子上还有别的吗？</span><span class="english">Anything else on your list?</span></p>

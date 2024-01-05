@@ -1,5 +1,7 @@
 # habakkuk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habakkuk.md)
+
 <p><span class="chinese">但这是大卫、约伯或是哈巴谷做过的吗？</span><span class="english">Is that what David, Job or Habakkuk did?</span></p>
 
 <p><span class="chinese">谁会关于哈巴谷进行一系列的讲道？</span><span class="english">Who teaches a sermon series on Habakkuk?</span></p>

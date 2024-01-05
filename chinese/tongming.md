@@ -1,5 +1,7 @@
 # 同名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongming.md)
+
 <p><span class="chinese">两者之间的关系是同名。</span><span class="english">The relation between the two is homonymy.</span></p>
 
 <p><span class="chinese">2006年，泰勒发行了第一张个人同名专辑。</span><span class="english">Her self-titled debut was released in 2006.</span></p>

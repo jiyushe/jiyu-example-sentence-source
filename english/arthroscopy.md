@@ -1,5 +1,7 @@
 # arthroscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthroscopy.md)
+
 <p><span class="chinese">对26例次的关节镜结果和28例次的磁共振成像结果进行分析。</span><span class="english">A total of 26 second arthroscopy and 28 MRI were analyzed.</span></p>
 
 <p><span class="chinese">关节镜是非常有帮助时，试图寻找事业的一个问题。</span><span class="english">Arthroscopy is very helpful when trying to find the cause of a problem.</span></p>

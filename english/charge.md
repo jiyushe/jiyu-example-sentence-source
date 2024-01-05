@@ -1,5 +1,7 @@
 # charge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charge.md)
+
 <p><span class="chinese">我们可以赊账吗？</span><span class="english">Can we charge it?</span></p>
 
 <p><span class="chinese">指控还是没有？</span><span class="english">In charge or not?</span></p>

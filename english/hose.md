@@ -1,5 +1,7 @@
 # hose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hose.md)
+
 <p><span class="chinese">穿护腿长筒袜。</span><span class="english">Wear support hose.</span></p>
 
 <p><span class="chinese">检查所有金属软管。</span><span class="english">Check all metal hose.</span></p>

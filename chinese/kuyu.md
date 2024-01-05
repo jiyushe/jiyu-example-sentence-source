@@ -1,5 +1,7 @@
 # 苦于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuyu.md)
+
 <p><span class="chinese">他们苦于没有钱缮。</span><span class="english">They were straitened for money.</span></p>
 
 <p><span class="chinese">居民们正苦于缺乏粮食。</span><span class="english">The inhabitants are suffering for provisions.</span></p>

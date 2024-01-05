@@ -1,5 +1,7 @@
 # 病夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingfu.md)
+
 <p><span class="chinese">他从年轻时就一直是个病夫。</span><span class="english">He has been a sick man from youth.</span></p>
 
 <p><span class="chinese">十年前，德国是“欧洲病夫”。</span><span class="english">A decade ago Germany was the “sick man of Europe.”</span></p>

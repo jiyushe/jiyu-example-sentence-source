@@ -1,5 +1,7 @@
 # fig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fig.md)
+
 <p><span class="chinese">无花果树沉默无语。</span><span class="english">The Fig tree was silent.</span></p>
 
 <p><span class="chinese">第六版支持我们的分析。</span><span class="english">Fig. 6e supports our analysis.</span></p>

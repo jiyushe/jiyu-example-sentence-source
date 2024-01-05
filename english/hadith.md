@@ -1,5 +1,7 @@
 # hadith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hadith.md)
+
 <p><span class="chinese">可以以此观念为例深思一段圣训。</span><span class="english">Pondering on one hadith can exemplify this notion.</span></p>
 
 <p><span class="chinese">这段圣训表明说谎与伊斯兰如何的格格不入。</span><span class="english">This hadith shows how repugnant lying is viewed in Islam.</span></p>

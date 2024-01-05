@@ -1,5 +1,7 @@
 # net
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/net.md)
+
 <p><span class="chinese">飞到我的网里来。</span><span class="english">Come into my net.</span></p>
 
 <p><span class="chinese">我在这上网冲浪。</span><span class="english">I'm surfing the net.</span></p>

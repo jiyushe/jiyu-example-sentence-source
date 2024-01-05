@@ -1,5 +1,7 @@
 # control
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/control.md)
+
 <p><span class="chinese">但是，控制是什么呢？</span><span class="english">But what is control?</span></p>
 
 <p><span class="chinese">无法再控制自己了</span><span class="english">He lost his control.</span></p>

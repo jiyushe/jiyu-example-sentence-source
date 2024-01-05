@@ -1,5 +1,7 @@
 # ampersand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ampersand.md)
+
 <p><span class="chinese">你可以使用&获得地址。</span><span class="english">Ampersand gets the address so you can use it.</span></p>
 
 <p><span class="chinese">该符号将参数识别为代码块的持有者。</span><span class="english">The ampersand identifies the parameter as the holder of a code block.</span></p>

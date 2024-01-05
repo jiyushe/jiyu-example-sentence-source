@@ -1,5 +1,7 @@
 # cleavage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleavage.md)
+
 <p><span class="chinese">如果你想让你的胸看起来更大就多加点颜色。</span><span class="english">Apply more color if you want more cleavage.</span></p>
 
 <p><span class="chinese">用望远镜，我看见她的股沟了。</span><span class="english">By using a binocular, i saw her butt cleavage.</span></p>

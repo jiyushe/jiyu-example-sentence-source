@@ -1,5 +1,7 @@
 # 引经据典
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinjingjudian.md)
+
 <p><span class="chinese">故以亚氏的中产阶级理论来引经据典，未必适合对当代中产阶级的价值判断。</span><span class="english">Thus it is not proper for applying his "middle-class" theory to the value judgment of current middle class.</span></p>
 
 <p><span class="chinese">许多经济学家引经据典，其要点就是预期财政刺激一揽子计划是美国走出衰退的关键。</span><span class="english">Many economists cited a major expected fiscal-stimulus package as the key to pulling the U. S. out of recession.</span></p>

@@ -1,5 +1,7 @@
 # knut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knut.md)
+
 <p><span class="chinese">柏林动物园北极熊努特与蔬菜叶。</span><span class="english">Knut & a Vegetable leaf, Berlin Zoo.</span></p>
 
 <p><span class="chinese">从出生开始，克努特就被悲剧围绕。</span><span class="english">From birth, Knut was surrounded by tragedy.</span></p>

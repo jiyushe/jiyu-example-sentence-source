@@ -1,5 +1,7 @@
 # 伴同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bantong.md)
+
 <p><span class="chinese">良伴同行路途短。</span><span class="english">Good company makes short miles.</span></p>
 
 <p><span class="chinese">偕伴同去比自己独自去好玩。</span><span class="english">It is more fun to go with someone than to go alone.</span></p>

@@ -1,5 +1,7 @@
 # accurate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accurate.md)
+
 <p><span class="chinese">我把它看作是精确的。</span><span class="english">I see it as accurate.</span></p>
 
 <p><span class="chinese">寿桃造型准确。</span><span class="english">Peach is accurate shape.</span></p>

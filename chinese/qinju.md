@@ -1,5 +1,7 @@
 # 寝具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinju.md)
+
 <p><span class="chinese">我折迭寝具把它放在柜子里。</span><span class="english">I fold up the bedding and put it in the closet.</span></p>
 
 <p><span class="chinese">我会把我的寝具移出来，在太阳下晒干，托德先生说。</span><span class="english">I will bring my bedding out, and dry it in the sun, said Mr.</span></p>

@@ -1,5 +1,7 @@
 # phraseology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phraseology.md)
+
 <p><span class="chinese">进入中国的关键在于“广阔的潜在市场”这一说法以及为了回报愿意等待多久。</span><span class="english">The key to entering China rests with the phraseology “ vast potential market ”</span></p>
 
 <p><span class="chinese">在黑格尔的措辞中，国家则是完美正义的实现方式。</span><span class="english">In Hegelian phraseology the State is the reality of which justice is the ideal.</span></p>

@@ -1,5 +1,7 @@
 # absorbent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorbent.md)
+
 <p><span class="chinese">这种纸能吸水。</span><span class="english">This paper is absorbent of water.</span></p>
 
 <p><span class="chinese">您是否需要一些药棉呢？</span><span class="english">Do you need some absorbent cotton?</span></p>

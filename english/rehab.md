@@ -1,5 +1,7 @@
 # rehab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rehab.md)
+
 <p><span class="chinese">送她去戒毒所。</span><span class="english">Get her into rehab.</span></p>
 
 <p><span class="chinese">或许戒毒所帮上忙？</span><span class="english">Maybe rehab might have helped?</span></p>

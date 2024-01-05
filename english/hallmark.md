@@ -1,5 +1,7 @@
 # hallmark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hallmark.md)
+
 <p><span class="chinese">您获得了一张电子会员卡！</span><span class="english">You have received A Hallmark E-Card!</span></p>
 
 <p><span class="chinese">看起来，最后是一个标志性的爆炸和Olufsen。</span><span class="english">Looks that last are a hallmark of Bang & Olufsen.</span></p>

@@ -1,5 +1,7 @@
 # 提价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tijia.md)
+
 <p><span class="chinese">他提出了非常充分的提价理由。</span><span class="english">He put a well-reasoned case for increasing the prices.</span></p>
 
 <p><span class="chinese">再不允许商店想什么时候提价就提价了。</span><span class="english">Shops are no longer allowed to push up their prices whenever they want.</span></p>

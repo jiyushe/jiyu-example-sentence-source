@@ -1,5 +1,7 @@
 # diverge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diverge.md)
+
 <p><span class="chinese">风将在海岸上辐散。</span><span class="english">Winds will diverge at the coast.</span></p>
 
 <p><span class="chinese">我们的政见不一致。</span><span class="english">Our opinions diverge on politics.</span></p>

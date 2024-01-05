@@ -1,5 +1,7 @@
 # 忠臣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongchen.md)
+
 <p><span class="chinese">联合帝国忠臣何时来到加拿大？</span><span class="english">When did the United Empire Loyalists come to Canada?</span></p>
 
 <p><span class="chinese">女王将贵族称号授予其忠臣。</span><span class="english">The Queen conferred a noble title on her faithful minister.</span></p>

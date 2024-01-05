@@ -1,5 +1,7 @@
 # 海豹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haibao.md)
+
 <p><span class="chinese">我们用海豹皮作大衣。</span><span class="english">We used the seal's for coats.</span></p>
 
 <p><span class="chinese">他们把标矛掷向海豹。</span><span class="english">They darted spears at the seal.</span></p>

@@ -1,5 +1,7 @@
 # 苗木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaomu.md)
+
 <p><span class="chinese">她得到当地一位苗木工的帮助。</span><span class="english">She enlisted the aid of a local nurseryman.</span></p>
 
 <p><span class="chinese">他们还培育无毒果树苗木二十万株。</span><span class="english">They have also bred 200,000 toxin-free fruit tree nurseries.</span></p>

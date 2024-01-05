@@ -1,5 +1,7 @@
 # rioter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rioter.md)
+
 <p><span class="chinese">暴徒们袭击银行和邮局。</span><span class="english">Rioter attack the bank and post office.</span></p>
 
 <p><span class="chinese">一个暴乱者一定用这大石头砸了一些可怜的路人！</span><span class="english">A rioter must have thrown this huge stone at some poor passerby !</span></p>

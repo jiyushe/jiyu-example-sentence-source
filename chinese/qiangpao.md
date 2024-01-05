@@ -1,5 +1,7 @@
 # 枪炮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangpao.md)
+
 <p><span class="chinese">枪炮喷吐出火舌。</span><span class="english">The gun spits fire.</span></p>
 
 <p><span class="chinese">枪炮又发出砰砰声。</span><span class="english">The guns boomed again.</span></p>

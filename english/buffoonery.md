@@ -1,5 +1,7 @@
 # buffoonery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buffoonery.md)
+
 <p><span class="chinese">他上的是小丑大学。</span><span class="english">He went to the university of buffoonery.</span></p>
 
 <p><span class="chinese">语言上的插科打诨、揶揄嘲笑也有很强的喜剧效果。</span><span class="english">The buffoonery and derision of Language also have very strong comedy result.</span></p>

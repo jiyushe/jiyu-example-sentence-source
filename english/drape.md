@@ -1,5 +1,7 @@
 # drape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drape.md)
+
 <p><span class="chinese">剪辑褶皱的、船形的、品质一流的袜子。</span><span class="english">A clip drape ship-shape tip-top sock.</span></p>
 
 <p><span class="chinese">别把你的双脚吊儿郎当地搁在椅子上!</span><span class="english">Don't drape your feet over the chair!</span></p>

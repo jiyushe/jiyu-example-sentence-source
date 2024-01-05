@@ -1,5 +1,7 @@
 # 公论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonglun.md)
+
 <p><span class="chinese">人们自有公论。</span><span class="english">People have their fair judgment.</span></p>
 
 <p><span class="chinese">这在国际社会有目共睹，自有公论。</span><span class="english">This is evident in the international community, its own conclusions.</span></p>

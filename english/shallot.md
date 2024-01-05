@@ -1,5 +1,7 @@
 # shallot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shallot.md)
+
 <p><span class="chinese">但是我不愿意，我担心，小葱会生病的！</span><span class="english">But I do not want, I am worried, shallot will be sick!</span></p>
 
 <p><span class="chinese">情侣靠感情生活，正象云雀靠韭葱生活相同。</span><span class="english">The lover live by loving as same as lark live by shallot.</span></p>

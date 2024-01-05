@@ -1,5 +1,7 @@
 # 窝囊废
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wonangfei.md)
+
 <p><span class="chinese">我是个窝囊废。</span><span class="english">I was a wimp.</span></p>
 
 <p><span class="chinese">那就证明我是个窝囊废。</span><span class="english">Then I’m a loser.</span></p>

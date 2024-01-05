@@ -1,5 +1,7 @@
 # 日记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riji.md)
+
 <p><span class="chinese">日记中写些什么？</span><span class="english">What do we write?</span></p>
 
 <p><span class="chinese">我的个人日记。</span><span class="english">My Personal Diary.</span></p>

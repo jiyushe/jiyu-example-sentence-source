@@ -1,5 +1,7 @@
 # manor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manor.md)
+
 <p><span class="chinese">我们为什么有庄园？</span><span class="english">Why do we have a manor?</span></p>
 
 <p><span class="chinese">满堂客家大围。</span><span class="english">"Mantang Hakka Manor House".</span></p>

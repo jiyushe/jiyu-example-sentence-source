@@ -1,5 +1,7 @@
 # transdisciplinary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transdisciplinary.md)
+
 <p><span class="chinese">胡安同学做为一名跨专业的学生，在专业学习上所需付出的努力远远超过其他本专业学生。</span><span class="english">As a transdisciplinary student, An Hu paid much more on study than other students in the department.</span></p>
 
 <p><span class="chinese">有什么可以证明中心思想和跨学科之间的联系？</span><span class="english">What was the evidence that connections were made between the central idea and the transdisciplinary theme?</span></p>

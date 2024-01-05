@@ -1,5 +1,7 @@
 # 深浅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqian.md)
+
 <p><span class="chinese">我知道深浅。</span><span class="english">I know my depths.</span></p>
 
 <p><span class="chinese">不知水深浅，切勿涉河滩。</span><span class="english">Wade not in unknown water.</span></p>

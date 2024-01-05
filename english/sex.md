@@ -1,5 +1,7 @@
 # sex 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sex.md)
+
 <p><span class="chinese">你的性别。</span><span class="english">Your sex.</span></p>
 
 <p><span class="chinese">性本善。</span><span class="english">Sex is good.</span></p>

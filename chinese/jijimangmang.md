@@ -1,5 +1,7 @@
 # 急急忙忙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijimangmang.md)
+
 <p><span class="chinese">为什么生活总是急急忙忙的？</span><span class="english">Why is life so rushie-rushie ?</span></p>
 
 <p><span class="chinese">她急急忙忙给我们弄了一顿晚饭。</span><span class="english">She rustled up a supper for us.</span></p>

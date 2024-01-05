@@ -1,5 +1,7 @@
 # compensative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compensative.md)
+
 <p><span class="chinese">光刻槽的补偿问题在激光雕刻中有着重要意义。</span><span class="english">The compensative problem of laser trough is very important in laser carving.</span></p>
 
 <p><span class="chinese">研究了一种带补偿节流器的两级电液伺服阀结构和特性。</span><span class="english">The characteristics and structure of electro-hydraulic servovalve with compensative restrictors are analyzed.</span></p>

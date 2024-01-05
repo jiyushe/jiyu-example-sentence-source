@@ -1,5 +1,7 @@
 # 主顾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhugu.md)
+
 <p><span class="chinese">主顾常临。</span><span class="english">Customers constantly make calls.</span></p>
 
 <p><span class="chinese">这间酒吧有许多忠实的老主顾。</span><span class="english">This pub has many loyal customers.</span></p>

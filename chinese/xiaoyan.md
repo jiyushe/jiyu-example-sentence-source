@@ -1,5 +1,7 @@
 # 小眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyan.md)
+
 <p><span class="chinese">然后他把小眼闭上。</span><span class="english">And then he shut his little eyes.</span></p>
 
 <p><span class="chinese">那两个澳洲人大眼瞪小眼地瞪着他。</span><span class="english">The two Aussies just stared at him.</span></p>

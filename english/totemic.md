@@ -1,5 +1,7 @@
 # totemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/totemic.md)
+
 <p><span class="chinese">小岗村几乎算是一个图腾。</span><span class="english">Xiaogang has an almost totemic significance.</span></p>
 
 <p><span class="chinese">像位于赫尔曼德省北部的穆萨卡拉这样的地区便具有典型色彩。</span><span class="english">Places like Musa Qala, in northern Helmand, are totemic.</span></p>

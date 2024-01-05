@@ -1,5 +1,7 @@
 # 暑期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuqi.md)
+
 <p><span class="chinese">我报暑期班，谢谢。</span><span class="english">I will sign up summer class.</span></p>
 
 <p><span class="chinese">我报暑期班，谢谢。</span><span class="english">I will sign up summer class. Thanks.</span></p>

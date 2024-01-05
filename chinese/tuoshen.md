@@ -1,5 +1,7 @@
 # 脱身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoshen.md)
+
 <p><span class="chinese">他在找办法脱身。</span><span class="english">He fumbles for a way out.</span></p>
 
 <p><span class="chinese">他没有脱身机会。</span><span class="english">He had no chance to get away.</span></p>

@@ -1,5 +1,7 @@
 # kharkov
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kharkov.md)
+
 <p><span class="chinese">苏联欧洲部分南部一城市，位于乌克兰境内、哈尔科夫西南偏西。</span><span class="english">A city of southern European U. S. S. R. in the Ukraine west-southwest of Kharkov.</span></p>
 
 <p><span class="chinese">苏联欧洲部分中南部一城市，位于卡尔科夫东北的顿河上。</span><span class="english">A city of south-central European U. S. S. R. on the Don River northeast of Kharkov.</span></p>

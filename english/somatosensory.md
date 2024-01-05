@@ -1,5 +1,7 @@
 # somatosensory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somatosensory.md)
+
 <p><span class="chinese">小脑和大脑皮层都可以收到来自体觉系统的输入信息。</span><span class="english">Both cerebellum and neocortex receive input from the somatosensory system.</span></p>
 
 <p><span class="chinese">结果显示，视觉系统和体感系统的快速适应具有许多相似之处。</span><span class="english">The results indicate great similarity of rapid adaptation in visual and somatosensory system.</span></p>

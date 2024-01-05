@@ -1,5 +1,7 @@
 # 西风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xifeng.md)
+
 <p><span class="chinese">一定，是嫉妒的西风。</span><span class="english">A jealous zephyr , not a doubt.</span></p>
 
 <p><span class="chinese">整天吹微微的西风。</span><span class="english">It breezed from the west all day.</span></p>

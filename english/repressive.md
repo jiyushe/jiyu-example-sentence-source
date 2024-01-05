@@ -1,5 +1,7 @@
 # repressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repressive.md)
+
 <p><span class="chinese">是呵，家庭，社会与学校的束缚是何等的严紧呀！</span><span class="english">Yes, how repressive is the bondage of family, society and school!</span></p>
 
 <p><span class="chinese">这是他回应的镇压1798年的外国人及煽动叛乱的行为。</span><span class="english">It was his response to the repressive 1798 Alien and Sedition Acts.</span></p>

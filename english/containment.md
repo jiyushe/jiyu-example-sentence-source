@@ -1,5 +1,7 @@
 # containment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/containment.md)
+
 <p><span class="chinese">只是现在的策略不再是欢迎，而是围堵。</span><span class="english">but containment is now the game.</span></p>
 
 <p><span class="chinese">这里应付的都是损害性的打击。</span><span class="english">It's all about damage containment here.</span></p>

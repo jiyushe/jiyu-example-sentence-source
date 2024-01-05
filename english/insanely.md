@@ -1,5 +1,7 @@
 # insanely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insanely.md)
+
 <p><span class="chinese">他疯狂地嫉妒子爵</span><span class="english">He was insanely jealous.</span></p>
 
 <p><span class="chinese">我丈夫是个醋坛子。</span><span class="english">My husband is insanely jealous.</span></p>

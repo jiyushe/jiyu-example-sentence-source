@@ -1,5 +1,7 @@
 # 欢蹦乱跳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanbengluantiao.md)
+
 <p><span class="chinese">我欢蹦乱跳地走过去一看。</span><span class="english">I romp to take a look at the past.</span></p>
 
 <p><span class="chinese">小羊喜好在草地上欢蹦乱跳。</span><span class="english">Lamps like to skip across the meadow.</span></p>

@@ -1,5 +1,7 @@
 # connate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connate.md)
+
 <p><span class="chinese">萼齿突出，合生和宿存。</span><span class="english">Calyx teeth prominent, connate and persistent.</span></p>
 
 <p><span class="chinese">天赋异能，谁与争风。</span><span class="english">Connate different can, who and contend for wind.</span></p>

@@ -1,5 +1,7 @@
 # 提案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tian.md)
+
 <p><span class="chinese">提案被否决了。</span><span class="english">The proposal was rejected.</span></p>
 
 <p><span class="chinese">事实上，提案是一种令人恶心的笑话。</span><span class="english">In fact, it was a sick joke.</span></p>

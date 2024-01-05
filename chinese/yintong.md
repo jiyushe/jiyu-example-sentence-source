@@ -1,5 +1,7 @@
 # 隐痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yintong.md)
+
 <p><span class="chinese">我有一个地方隐痛。</span><span class="english">I feel a dull ache.</span></p>
 
 <p><span class="chinese">我感觉到隐痛。</span><span class="english">I feel a dull pain.</span></p>

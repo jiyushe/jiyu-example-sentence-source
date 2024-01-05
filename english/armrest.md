@@ -1,5 +1,7 @@
 # armrest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armrest.md)
+
 <p><span class="chinese">我是从扶手上滑下来的。</span><span class="english">I am slip from armrest those who come down.</span></p>
 
 <p><span class="chinese">我将扶手取下，这样您就可以躺下来了。</span><span class="english">I'll take out the armrest and you can lie down.</span></p>

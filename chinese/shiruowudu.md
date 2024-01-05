@@ -1,5 +1,7 @@
 # 视若无睹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiruowudu.md)
+
 <p><span class="chinese">对过去视若无睹的人也将瞽盲于现在。</span><span class="english">Whoever closes their eyes to the past, will be blind to the present.</span></p>
 
 <p><span class="chinese">有时纸团刚好呆在过道中间，同学们就会视若无睹。</span><span class="english">Zhiqiu sometimes just stay middle aisle, the students will turn a blind eye.</span></p>

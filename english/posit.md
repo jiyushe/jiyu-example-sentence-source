@@ -1,5 +1,7 @@
 # posit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posit.md)
+
 <p><span class="chinese">你设想第三次世界大战将在2050年爆发.</span><span class="english">You posit a third world war starting in 2050.</span></p>
 
 <p><span class="chinese">如果她需要救助，她就会设想一个救助者。</span><span class="english">If she needs salvation, she will posit a savior.</span></p>

@@ -1,5 +1,7 @@
 # 塔台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tatai.md)
+
 <p><span class="chinese">福州塔台，白鹭8801过远台。</span><span class="english">Fuzhou Tower, Xiamen Air 8801, over out maker.</span></p>
 
 <p><span class="chinese">成田塔台，ANA9963，34右跑道外等，听你指挥。</span><span class="english">Narita Tower, ANA9963, hold short of runway 34R, with you.</span></p>

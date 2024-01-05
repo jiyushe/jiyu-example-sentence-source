@@ -1,5 +1,7 @@
 # 蟾蜍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanchu.md)
+
 <p><span class="chinese">它的商店里还销售活龟和蟾蜍。</span><span class="english">Its stores sell live turtles and toads.</span></p>
 
 <p><span class="chinese">有一天她发现此地的蟾蜍都不见了。</span><span class="english">One dayshe noticed there were no toads.</span></p>

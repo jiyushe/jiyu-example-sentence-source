@@ -1,5 +1,7 @@
 # slimy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slimy.md)
+
 <p><span class="chinese">这些墙布满了青苔，极其黏滑。</span><span class="english">The walls were all slimy and green.</span></p>
 
 <p><span class="chinese">或者潜行于海里的都有一颗脑袋…</span><span class="english">Or slinks through slimy seas has a brain.</span></p>

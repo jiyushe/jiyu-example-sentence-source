@@ -1,5 +1,7 @@
 # pollster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollster.md)
+
 <p><span class="chinese">我想让格林伯格做我的民意测验人。</span><span class="english">I wanted Greenberg to be my pollster.</span></p>
 
 <p><span class="chinese">哈佛大学民意测评专家罗伯特·布雷顿称民调依然不甚清晰。</span><span class="english">pollster Robert Blendon said public opinion remains mixed.</span></p>

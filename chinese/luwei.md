@@ -1,5 +1,7 @@
 # 卤味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luwei.md)
+
 <p><span class="chinese">他目前开了一家卤味店，要做药膳。</span><span class="english">He is now opened a braised food store, to do medicinal food.</span></p>
 
 <p><span class="chinese">与谷歌发现，网页排名没有强大到足以卤味这里它说，让有词组等级。</span><span class="english">And Google found that page rank was not strong enough and lo here it said, Let there be Phrase Rank.</span></p>

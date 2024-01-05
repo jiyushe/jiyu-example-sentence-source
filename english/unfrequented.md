@@ -1,5 +1,7 @@
 # unfrequented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfrequented.md)
+
 <p><span class="chinese">他飞快地穿过冷冷清清的小巷。</span><span class="english">He flew along unfrequented alleys.</span></p>
 
 <p><span class="chinese">间有游人来往的花园边上。</span><span class="english">By some not unfrequented Garden-side.</span></p>

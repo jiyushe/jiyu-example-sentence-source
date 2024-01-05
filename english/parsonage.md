@@ -1,5 +1,7 @@
 # parsonage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parsonage.md)
+
 <p><span class="chinese">乡村的牧师住宅，四周静谧得难以名状。</span><span class="english">Nothing can describe the peace that surrounded the country parsonage.</span></p>
 
 <p><span class="chinese">他们还建议耶茨先生随他们一起回家，在牧师住宅消磨一个晚上。</span><span class="english">Yates's accompanying them and spending the evening at the Parsonage. But Mr.</span></p>

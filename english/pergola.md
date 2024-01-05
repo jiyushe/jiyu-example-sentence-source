@@ -1,5 +1,7 @@
 # pergola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pergola.md)
+
 <p><span class="chinese">他们在幽静的藤架下拥坐在一起。</span><span class="english">They sit close together in the sequestered pergola.</span></p>
 
 <p><span class="chinese">奥比岛魔法花架外星城堡遗址的种子在哪里?。</span><span class="english">Is pergola outside star castle ruin seed in Ao Bi Island magic Thenk you?</span></p>

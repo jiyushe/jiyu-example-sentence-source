@@ -1,5 +1,7 @@
 # humoristic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humoristic.md)
+
 <p><span class="chinese">它是一部非常滑稽的喜剧片。</span><span class="english">It is a very humoristic comedy.</span></p>
 
 <p><span class="chinese">我喜欢幽默的艺术，我也一直致力于用这一方法来表现我的想法。</span><span class="english">I like art in a humoristic way, so I use this method to express my ideas.</span></p>

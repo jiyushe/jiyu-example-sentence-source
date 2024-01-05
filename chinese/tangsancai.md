@@ -1,5 +1,7 @@
 # 唐三彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangsancai.md)
+
 <p><span class="chinese">唐三彩还可作为高雅而珍贵的礼品用来馈赠亲友。</span><span class="english">They are also elegant and valuable presents for your kith and kin.</span></p>
 
 <p><span class="chinese">唐代是一个繁荣昌盛的时代，唐三彩就盛行于此时。</span><span class="english">The Tang Dynasty was a time of prosperity whenthe pottery was prevailing.</span></p>

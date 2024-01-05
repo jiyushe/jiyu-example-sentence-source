@@ -1,5 +1,7 @@
 # cultivator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cultivator.md)
+
 <p><span class="chinese">这是相同的耕耘。</span><span class="english">It is the same for the cultivator.</span></p>
 
 <p><span class="chinese">耕耘者的汗水是哺育种子成长的乳汁。</span><span class="english">Cultivator sweat is nurtured to grow seed milk.</span></p>

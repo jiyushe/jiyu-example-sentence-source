@@ -1,5 +1,7 @@
 # 邮件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjian_1.md)
+
 <p><span class="chinese">邮件点名！</span><span class="english">Mail call!</span></p>
 
 <p><span class="chinese">新邮件。</span><span class="english">New email.</span></p>

@@ -1,5 +1,7 @@
 # clade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clade.md)
+
 <p><span class="chinese">一个进化枝可能包括许多进化级。</span><span class="english">A clade may contain many grades.</span></p>
 
 <p><span class="chinese">判断一个演化支或单源群。</span><span class="english">Diagnoses a clade or monophyletic group.</span></p>

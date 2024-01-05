@@ -1,5 +1,7 @@
 # 汽车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiche.md)
+
 <p><span class="chinese">汽车蜡？</span><span class="english">Car wax?</span></p>
 
 <p><span class="chinese">我是个罗曼蒂克的人，经常为汽车写诗。</span><span class="english">I'm a romantic.</span></p>

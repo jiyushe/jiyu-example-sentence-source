@@ -1,5 +1,7 @@
 # chosen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chosen.md)
+
 <p><span class="chinese">他是被选中的那一位。</span><span class="english">He is the Chosen One.</span></p>
 
 <p><span class="chinese">他本来可能会选择我的！</span><span class="english">He could have chosen ME!</span></p>

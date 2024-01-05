@@ -1,5 +1,7 @@
 # jurisdiction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jurisdiction.md)
+
 <p><span class="chinese">属长治市管辖。</span><span class="english">Jurisdiction is in Changzhi City.</span></p>
 
 <p><span class="chinese">偏关县辖镇。</span><span class="english">Pianguan County town jurisdiction.</span></p>

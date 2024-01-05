@@ -1,5 +1,7 @@
 # 减退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiantui.md)
+
 <p><span class="chinese">他们的热情减退了。</span><span class="english">Their enthusiasm slacked off.</span></p>
 
 <p><span class="chinese">他们的热情开始减退。</span><span class="english">Their enthusiasm slacked off.</span></p>

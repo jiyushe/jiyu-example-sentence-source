@@ -1,5 +1,7 @@
 # raffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raffle.md)
+
 <p><span class="chinese">他在兑奖售物活动中赢得了一辆汽车。</span><span class="english">He won a car in the raffle.</span></p>
 
 <p><span class="chinese">我的运气来了--在有奖抽彩中我得了一辆新汽车。</span><span class="english">My luck's in I won a new car in a raffle.</span></p>

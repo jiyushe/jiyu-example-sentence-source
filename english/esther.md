@@ -1,5 +1,7 @@
 # esther
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esther.md)
+
 <p><span class="chinese">埃丝特不能生育。</span><span class="english">Esther could not conceive.</span></p>
 
 <p><span class="chinese">“我是埃丝特·格宾斯阿姨，”她说。“</span><span class="english">"I'm Aunt Esther Gubbins, " she said.</span></p>

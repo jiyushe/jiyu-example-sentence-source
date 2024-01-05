@@ -1,5 +1,7 @@
 # dob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dob.md)
+
 <p><span class="chinese">他适合什么样的工作？</span><span class="english">What kind of work experience dob you have?</span></p>
 
 <p><span class="chinese">你真的想尝试网络营销?。</span><span class="english">Dob ou Really Want To Try Network Marketing?</span></p>

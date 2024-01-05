@@ -1,5 +1,7 @@
 # finial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finial.md)
+
 <p><span class="chinese">那时，孝也成了一种摆设，只不过是中国人为了显面子的东西。</span><span class="english">But in china, it is another kind of meaning of finial piety.</span></p>
 
 <p><span class="chinese">农业产业活动的成果是农产品。</span><span class="english">The finial output of the activity of agriculture is product.</span></p>

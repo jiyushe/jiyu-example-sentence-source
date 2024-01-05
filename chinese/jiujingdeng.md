@@ -1,5 +1,7 @@
 # 酒精灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiujingdeng.md)
+
 <p><span class="chinese">酒精灯不要用嘴吹灭。</span><span class="english">Alcohol lamps Chuimie not through your mouth.</span></p>
 
 <p><span class="chinese">作为热源，酒精灯，建立了自己。</span><span class="english">As the heat source, an alcohol lamp is built by myself.</span></p>

@@ -1,5 +1,7 @@
 # birdy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birdy.md)
+
 <p><span class="chinese">那小岛上有许多鸟。</span><span class="english">The isle is very birdy.</span></p>
 
 <p><span class="chinese">小鸟唱，虫儿响。</span><span class="english">Birdy songs and bug's cry.</span></p>

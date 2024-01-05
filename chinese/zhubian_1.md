@@ -1,5 +1,7 @@
 # 竹编
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhubian_1.md)
+
 <p><span class="chinese">那儿有一艘竹编龙船。</span><span class="english">There is a plaited bamboo dragon-barge.</span></p>
 
 <p><span class="chinese">并介绍了竹编动物的普及。</span><span class="english">And it also introduces the popularization bamboo animal weaving.</span></p>

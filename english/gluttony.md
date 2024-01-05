@@ -1,5 +1,7 @@
 # gluttony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gluttony.md)
+
 <p><span class="chinese">他的暴食使他生病了。</span><span class="english">His gluttony made him sick.</span></p>
 
 <p><span class="chinese">贪婪，愤怒，骄傲，淫欲，贪食。</span><span class="english">Greed, Wrath, Pride, Lust, Gluttony.</span></p>

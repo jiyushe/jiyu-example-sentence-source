@@ -1,5 +1,7 @@
 # 医务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwu_1.md)
+
 <p><span class="chinese">他是医务界的一员。</span><span class="english">He's a member of the medical fraternity.</span></p>
 
 <p><span class="chinese">对VCT医务工作者的选择性。</span><span class="english">Alternative to the medical personnel of VCT.</span></p>

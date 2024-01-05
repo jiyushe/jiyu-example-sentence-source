@@ -1,5 +1,7 @@
 # changer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changer.md)
+
 <p><span class="chinese">这个决定几乎成为了一个游戏的改变者。</span><span class="english">That's hardly a game changer.</span></p>
 
 <p><span class="chinese">沈阳市城建房地产开发有限公司。</span><span class="english">Shenyang Changer Real Estate Dvevlopment Ltd.</span></p>

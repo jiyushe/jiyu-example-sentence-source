@@ -1,5 +1,7 @@
 # fount
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fount.md)
+
 <p><span class="chinese">他发现那位老人正等着他。</span><span class="english">He fount the old man waiting for him.</span></p>
 
 <p><span class="chinese">我们终于找到办法解决问题了。</span><span class="english">We fount a way _to_ _slove_ the _problem_ in the end.</span></p>

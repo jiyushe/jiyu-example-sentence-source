@@ -1,5 +1,7 @@
 # phosphorescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphorescence.md)
+
 <p><span class="chinese">他看见马尾藻在水中发出的磷光。</span><span class="english">He saw the phosphorescence of the Gulf weed in the water.</span></p>
 
 <p><span class="chinese">曾测验过8个不同国家的邮票上的磷光带。</span><span class="english">The phosphorescence bands on stamps of 8 different countries were examined.</span></p>

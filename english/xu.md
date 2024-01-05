@@ -1,5 +1,7 @@
 # xu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xu.md)
+
 <p><span class="chinese">最后许斌接受了这份工作。</span><span class="english">Prof. Xu took the job.</span></p>
 
 <p><span class="chinese">徐志摩找到了谁？</span><span class="english">who did Xu Zhimo found?</span></p>

@@ -1,5 +1,7 @@
 # 出走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuzou.md)
+
 <p><span class="chinese">我决定离家出走。</span><span class="english">I decided I'd leave home.</span></p>
 
 <p><span class="chinese">离家出走前要做得几件事</span><span class="english">What to do before you leave home</span></p>

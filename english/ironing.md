@@ -1,5 +1,7 @@
 # ironing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ironing.md)
+
 <p><span class="chinese">熨衣服时要小心。</span><span class="english">Be careful while ironing.</span></p>
 
 <p><span class="chinese">如何熨烫金袖一族衬衫？</span><span class="english">How to ironing GGM shirts?</span></p>

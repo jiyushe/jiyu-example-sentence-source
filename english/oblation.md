@@ -1,5 +1,7 @@
 # oblation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oblation.md)
+
 <p><span class="chinese">这是我最后且最终的祭礼。</span><span class="english">This is my last and final oblation.</span></p>
 
 <p><span class="chinese">扁化系统可将运输时间从90天减至10天。</span><span class="english">Oblation system is able to reduce transport time from 90 to 10 days.</span></p>

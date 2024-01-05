@@ -1,5 +1,7 @@
 # renvoi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renvoi.md)
+
 <p><span class="chinese">广义的反致包括反致、转致、间接反致和双重反致。</span><span class="english">The broad sense of remission consist remission, transmission, indirect remission and double renvoi.</span></p>
 
 <p><span class="chinese">本文第一部分以福尔果案为例，探讨反致制度的传统理念。</span><span class="english">In the first part, we use Forgo case as an example to discuss the system's traditional concept pf renvoi.</span></p>

@@ -1,5 +1,7 @@
 # cartridge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cartridge.md)
+
 <p><span class="chinese">要改变弹药筒么？</span><span class="english">A change of cartridge?</span></p>
 
 <p><span class="chinese">两支替换笔芯。</span><span class="english">Two refills for a cartridge pen.</span></p>

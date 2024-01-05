@@ -1,5 +1,7 @@
 # 招牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaopai.md)
+
 <p><span class="chinese">海鲜是我们店的招牌。</span><span class="english">The seafood is our house special.</span></p>
 
 <p><span class="chinese">酒家正门挂着一块很大的招牌。</span><span class="english">There's a big sign in front of it.</span></p>

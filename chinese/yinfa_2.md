@@ -1,5 +1,7 @@
 # 银发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinfa_2.md)
+
 <p><span class="chinese">砒霜真会让银发黑吗？</span><span class="english">Is it true the arsenic blackens silver?</span></p>
 
 <p><span class="chinese">为什么我满头银发?</span><span class="english">Why does my hair glisten a shiny silver?</span></p>

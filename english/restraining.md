@@ -1,5 +1,7 @@
 # restraining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restraining.md)
+
 <p><span class="chinese">那天，禁制令到期了。</span><span class="english">The restraining order had expired that day.</span></p>
 
 <p><span class="chinese">现在我知道该在限制令上填什么名字了。</span><span class="english">Now I know what name to put on the restraining order.</span></p>

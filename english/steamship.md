@@ -1,5 +1,7 @@
 # steamship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steamship.md)
+
 <p><span class="chinese">轮船掉头返航。</span><span class="english">The steamship veered around for the port.</span></p>
 
 <p><span class="chinese">一艘轮船在码头泊位停泊。</span><span class="english">A steamship moored to its berth at the pier.</span></p>

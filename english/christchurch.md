@@ -1,5 +1,7 @@
 # christchurch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christchurch.md)
+
 <p><span class="chinese">震中距克赖斯特彻奇市56公里。</span><span class="english">The epicenter was 56 km from Christchurch.</span></p>
 
 <p><span class="chinese">黄色表示城区，包括克赖斯特彻奇市。</span><span class="english">Yellow shows urban areas, including Christchurch.</span></p>

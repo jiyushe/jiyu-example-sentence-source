@@ -1,5 +1,7 @@
 # songstress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/songstress.md)
+
 <p><span class="chinese">在她的一生中，录制了超过100部专辑。</span><span class="english">During her lifetime, the songstress had recorded over 100 albums.</span></p>
 
 <p><span class="chinese">这场百老汇女歌手与奥斯卡得主的结合在蜜月期就出现了问题。</span><span class="english">The Broadway songstress and the Oscar winner's marriage, however, began unraveling during the honeymoon.</span></p>

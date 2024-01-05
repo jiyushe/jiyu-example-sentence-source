@@ -1,5 +1,7 @@
 # 赎身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushen_3.md)
+
 <p><span class="chinese">他已经得到了赎身的钱了。</span><span class="english">He's got the ransom money.</span></p>
 
 <p><span class="chinese">奴隶主们有时允许奴隶为自己赎身。</span><span class="english">Masters sometimes allowed their slaves to buy their way out of bondage.</span></p>

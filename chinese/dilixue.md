@@ -1,5 +1,7 @@
 # 地理学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dilixue.md)
+
 <p><span class="chinese">森林学和地理学有关。</span><span class="english">Forestry appertains to geography.</span></p>
 
 <p><span class="chinese">地理学的意义改变了。</span><span class="english">The meaning of geography had changed.</span></p>

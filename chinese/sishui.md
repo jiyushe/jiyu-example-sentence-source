@@ -1,5 +1,7 @@
 # 死水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishui.md)
+
 <p><span class="chinese">死水滋生蚊子。</span><span class="english">Stagnant water breeds mosquitoes.</span></p>
 
 <p><span class="chinese">还有四周灰叶的死水一池。</span><span class="english">And a pond edged with grayish leaves.</span></p>

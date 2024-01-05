@@ -1,5 +1,7 @@
 # aloft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aloft.md)
+
 <p><span class="chinese">他高举出鞘的匕首。</span><span class="english">He bore aloft a drawn dagger.</span></p>
 
 <p><span class="chinese">啸声高奏著风暴曲。</span><span class="english">Or whistles aloft his tempest tune.</span></p>

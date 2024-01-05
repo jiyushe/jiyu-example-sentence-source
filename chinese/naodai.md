@@ -1,5 +1,7 @@
 # 脑袋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naodai.md)
+
 <p><span class="chinese">用你们的脑袋。</span><span class="english">Use your brain.</span></p>
 
 <p><span class="chinese">我挠挠脑袋。</span><span class="english">I scratched my head.</span></p>

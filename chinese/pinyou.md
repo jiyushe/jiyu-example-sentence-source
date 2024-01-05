@@ -1,5 +1,7 @@
 # 贫油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinyou.md)
+
 <p><span class="chinese">实验考虑了进气速度、进气温度对贫油熄火油气比的影响。</span><span class="english">The effects of inlet temperature and inlet velocity were taken into account.</span></p>
 
 <p><span class="chinese">在世界上一些曾被宣告为贫油的地区，石油正在为人们所发现。</span><span class="english">Oil is being found in parts of the world which were once pronounced lacking in oil.</span></p>

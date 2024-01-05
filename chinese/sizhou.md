@@ -1,5 +1,7 @@
 # 四周
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sizhou.md)
+
 <p><span class="chinese">我向四周望了望。</span><span class="english">I looked all around.</span></p>
 
 <p><span class="chinese">他在四周某地方。</span><span class="english">He is around somewhere.</span></p>

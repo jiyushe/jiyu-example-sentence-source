@@ -1,5 +1,7 @@
 # bounder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bounder.md)
+
 <p><span class="chinese">一个小丑比一个无教养的人更可耻。</span><span class="english">A buffoon is more humiliating than a bounder.</span></p>
 
 <p><span class="chinese">丽沙克，多拉，快点儿！那巨石会在任何时间落下来！</span><span class="english">Isaac, Dora, hurry! The Bounder could fall at any second!</span></p>

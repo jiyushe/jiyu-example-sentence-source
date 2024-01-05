@@ -1,5 +1,7 @@
 # 剽窃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoqie.md)
+
 <p><span class="chinese">剽窃节约时间。</span><span class="english">Plagiarism saves time.</span></p>
 
 <p><span class="chinese">什么构成了生物剽窃？</span><span class="english">What counts as biopiracy?</span></p>

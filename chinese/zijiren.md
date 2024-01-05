@@ -1,5 +1,7 @@
 # 自己人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijiren.md)
+
 <p><span class="chinese">自己人跟自己人窝里斗？</span><span class="english">Own people with their own people Woli Dou?</span></p>
 
 <p><span class="chinese">你在这儿自己人中间，有话直说好啦。</span><span class="english">You're among friends here-you can speak freely.</span></p>

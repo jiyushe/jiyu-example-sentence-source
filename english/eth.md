@@ -1,5 +1,7 @@
 # eth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eth.md)
+
 <p><span class="chinese">ETH的科学家对这一稻株新品种十分兴奋。</span><span class="english">The ETH scientists are excited about the new rice variety.</span></p>
 
 <p><span class="chinese">弗兰克·施韦策是瑞士苏黎世理工学院系统设计专业主任。</span><span class="english">Frank Schweitzer is chair of systems design at ETH Zürich, Switzerland.</span></p>

@@ -1,5 +1,7 @@
 # inhabited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhabited.md)
+
 <p><span class="chinese">苍鹭也栖息在这一带。</span><span class="english">The place is also inhabited by herons.</span></p>
 
 <p><span class="chinese">这个地区太荒凉了，不宜居住。</span><span class="english">The region is too wild to be inhabited.</span></p>

@@ -1,5 +1,7 @@
 # 劈啪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pipa.md)
+
 <p><span class="chinese">炉火中劈啪劈啪地爆溅出煤渣。</span><span class="english">The fire sputtered cinders.</span></p>
 
 <p><span class="chinese">肥油在炸锅里劈啪劈啪地响。</span><span class="english">Fat sputters in the frying pan.</span></p>

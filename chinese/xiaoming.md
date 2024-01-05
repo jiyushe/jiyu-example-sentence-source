@@ -1,5 +1,7 @@
 # 小名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoming.md)
+
 <p><span class="chinese">他讨厌被人叫他的小名。</span><span class="english">He resented being called his nickname.</span></p>
 
 <p><span class="chinese">对啦，叫我的小名儿呀！让我再听见。</span><span class="english">Yes, call me by my pet-name! let me hear.</span></p>

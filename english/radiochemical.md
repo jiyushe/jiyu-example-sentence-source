@@ -1,5 +1,7 @@
 # radiochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiochemical.md)
+
 <p><span class="chinese">1966年起从事核试验的放射化学诊断技术工作。</span><span class="english">Engaged in nuclear testing in 1966, the radiochemical diagnostic technical work.</span></p>
 
 <p><span class="chinese">此研究利用放射化学方法和荧光分光光度法。</span><span class="english">The study was carried out using radiochemical and spectrofluorimetrical determination.</span></p>

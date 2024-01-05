@@ -1,5 +1,7 @@
 # 商战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangzhan.md)
+
 <p><span class="chinese">通过这些影响，晚清“商战”思潮的兴起加速了中国近代化的进程。</span><span class="english">Such effects quicken the process of modernization of China at the time.</span></p>
 
 <p><span class="chinese">你要是想在残酷商战中胜出的话，就得拿出点勇气来。</span><span class="english">You need to show some grit if you want to succeed in the tough world of business.</span></p>

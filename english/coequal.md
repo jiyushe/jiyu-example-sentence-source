@@ -1,5 +1,7 @@
 # coequal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coequal.md)
+
 <p><span class="chinese">当然，并非所有的后台链接都是同等重要。</span><span class="english">Of course, be not all tiring-room to link is coequal and important.</span></p>
 
 <p><span class="chinese">所以同等材料比较价格才是明智之举。</span><span class="english">So coequal material compares the price just is advisability to lift.</span></p>

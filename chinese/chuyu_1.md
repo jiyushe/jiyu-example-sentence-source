@@ -1,5 +1,7 @@
 # 出语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuyu_1.md)
+
 <p><span class="chinese">她出语伤人已经吓跑了许多追求者。</span><span class="english">The sting of her tongue has scared away many pursuers.</span></p>
 
 <p><span class="chinese">昨晚他真是出语惊人，把人们当场镇住了。</span><span class="english">Everyone was really startled by what he said last night.</span></p>

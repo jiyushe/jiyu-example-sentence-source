@@ -1,5 +1,7 @@
 # pga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pga.md)
+
 <p><span class="chinese">但PGA巡回赛是最好的，是顶点。</span><span class="english">But the PGA Tour is the best,is the pinnacle</span></p>
 
 <p><span class="chinese">我想在PGA巡回赛里有着另外的选择。</span><span class="english">I think there are other options in the PGA Tour.</span></p>

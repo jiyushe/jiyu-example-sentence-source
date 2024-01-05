@@ -1,5 +1,7 @@
 # conciliate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conciliate.md)
+
 <p><span class="chinese">他决不屈就和解。</span><span class="english">He would never stoop to conciliate.</span></p>
 
 <p><span class="chinese">他们用礼物来博得土著人的好感。</span><span class="english">They tried to conciliate the natives with presents.</span></p>

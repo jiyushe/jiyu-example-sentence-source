@@ -1,5 +1,7 @@
 # careerist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/careerist.md)
+
 <p><span class="chinese">连串绑架事件的幕后主脑乃一名叫火狼的野心家。</span><span class="english">The connected kidnapping event's secret control central is a named fire wolf's careerist.</span></p>
 
 <p><span class="chinese">在多伦多这个追名逐利者之都，陌生人见面彼此并不说“你好吗？”</span><span class="english">In Toronto, the careerist capital of Canada, when strangers meet, they don't say "How do you do?"</span></p>

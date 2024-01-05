@@ -1,5 +1,7 @@
 # 争霸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengba.md)
+
 <p><span class="chinese">你能想象三维的“电子世界争霸赛”吗？</span><span class="english">Can you imagine TRON in 3 dimensions?</span></p>
 
 <p><span class="chinese">他想要成为星际争霸战里的寇克舰长。</span><span class="english">He wanted to be Captain Kirk in Star Trek.</span></p>

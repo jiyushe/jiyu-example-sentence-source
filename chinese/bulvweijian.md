@@ -1,5 +1,7 @@
 # 步履维艰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bulvweijian.md)
+
 <p><span class="chinese">她步履维艰，“保持稳定”，直到她赢得了他们的支持。</span><span class="english">She slogged on, "keeping steady", until she had won them over.</span></p>
 
 <p><span class="chinese">然而，自2008年以来，六方会谈进展缓慢、步履维艰且没有取得实质性成果。</span><span class="english">But those talks have been slow and arduous and in limbo since 2008.</span></p>

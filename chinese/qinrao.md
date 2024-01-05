@@ -1,5 +1,7 @@
 # 侵扰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinrao.md)
+
 <p><span class="chinese">我是否过多地侵扰了别人的悲痛？</span><span class="english">Did I intrude too far into people\'s grief?</span></p>
 
 <p><span class="chinese">该村村民常常受到土匪的侵扰。</span><span class="english">The villagers were harassed by the bandits.</span></p>

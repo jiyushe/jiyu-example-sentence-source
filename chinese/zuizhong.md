@@ -1,5 +1,7 @@
 # 最终
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuizhong.md)
+
 <p><span class="chinese">它是最终的。</span><span class="english">It is final.</span></p>
 
 <p><span class="chinese">我们最终变成尸体。</span><span class="english">We end up corpses.</span></p>

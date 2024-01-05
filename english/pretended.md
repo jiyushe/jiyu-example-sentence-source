@@ -1,5 +1,7 @@
 # pretended
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretended.md)
+
 <p><span class="chinese">他装假在找东西。</span><span class="english">He pretended for something.</span></p>
 
 <p><span class="chinese">那青年觊觎王位。</span><span class="english">He pretended to the throne.</span></p>

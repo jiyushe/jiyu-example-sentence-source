@@ -1,5 +1,7 @@
 # 协理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieli_1.md)
+
 <p><span class="chinese">有些人试图协理驾驶员取得损坏的汽车。</span><span class="english">Some people were trying to help the driver get out of the dwoulmaged car.</span></p>
 
 <p><span class="chinese">这实情上是在协理者的高度，一种从协理别人而获得的精神大爆发。</span><span class="english">There's actually a helper's high, a spiritual surge you gain from serving others.</span></p>

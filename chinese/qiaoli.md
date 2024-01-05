@@ -1,5 +1,7 @@
 # 俏丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoli.md)
+
 <p><span class="chinese">您能看，我是俏丽和可爱的。</span><span class="english">You can see, I'm pretty and lovely.</span></p>
 
 <p><span class="chinese">她是位俏丽的女人，只有三十四岁。</span><span class="english">She was a handsome woman, just thirty-four.</span></p>

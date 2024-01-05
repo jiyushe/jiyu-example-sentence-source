@@ -1,5 +1,7 @@
 # 油松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yousong.md)
+
 <p><span class="chinese">腐殖质土是培育油松苗的很好基质。</span><span class="english">Humus soil is the best culture substrate for Chinese pine.</span></p>
 
 <p><span class="chinese">答案就是脆米饼、奶油松糕和啤酒。</span><span class="english">Well, it spurred Rice Krispies, Twinkies and the beer can.</span></p>

@@ -1,5 +1,7 @@
 # finally 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finally.md)
+
 <p><span class="chinese">罗恩终于问道。</span><span class="english">Ron asked finally.</span></p>
 
 <p><span class="chinese">我终于知道啦。</span><span class="english">Now I finally know.</span></p>

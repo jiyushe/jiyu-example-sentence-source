@@ -1,5 +1,7 @@
 # 气概
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qigai.md)
+
 <p><span class="chinese">我是一个很有男子气概的人。</span><span class="english">I'm a very virile man.</span></p>
 
 <p><span class="chinese">这似乎是个相当男子气概的指控。</span><span class="english">This seems a fairly macho accusation.</span></p>

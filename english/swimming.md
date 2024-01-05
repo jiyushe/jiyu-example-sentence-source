@@ -1,5 +1,7 @@
 # swimming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swimming.md)
+
 <p><span class="chinese">有游泳区吗？</span><span class="english">Any swimming areas?</span></p>
 
 <p><span class="chinese">我最喜欢肜游泳。</span><span class="english">I like swimming best.</span></p>

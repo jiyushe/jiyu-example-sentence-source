@@ -1,5 +1,7 @@
 # 虚胖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xupang.md)
+
 <p><span class="chinese">也是虚胖的缘由一。</span><span class="english">Puffiness of the reason is one.</span></p>
 
 <p><span class="chinese">使用在眼睛区域之下减少虚胖。</span><span class="english">May be used under the eye area to reduce puffiness.</span></p>

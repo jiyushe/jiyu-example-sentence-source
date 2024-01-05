@@ -1,5 +1,7 @@
 # lymphocytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lymphocytic.md)
+
 <p><span class="chinese">其它淋巴系统疾病包括淋巴球性白血病与淋巴瘤。</span><span class="english">Other lymphatic system disorders include lymphocytic leukemias and lymphoma.</span></p>
 
 <p><span class="chinese">丙种球蛋白很低通常是慢性淋巴细胞白血病的特征。</span><span class="english">Very low gamma globulins are a frequent feature of chronic lymphocytic leukemia.</span></p>

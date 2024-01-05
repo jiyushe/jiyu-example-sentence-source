@@ -1,5 +1,7 @@
 # 相依为命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyiweiming.md)
+
 <p><span class="chinese">留下了我们姊妹弎和母亲相依为命。</span><span class="english">San left our sisters and mother.</span></p>
 
 <p><span class="chinese">阿甘和他的母亲相依为命。</span><span class="english">Forrest Gump and his mother had each other.</span></p>

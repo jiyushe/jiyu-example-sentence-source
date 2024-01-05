@@ -1,5 +1,7 @@
 # 笔调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bidiao.md)
+
 <p><span class="chinese">鲁迅以一种悠闲的笔调进行写作。</span><span class="english">Lu Xun writes with a leisurely pace.</span></p>
 
 <p><span class="chinese">李则拒绝躲在唯美的笔调后面不去刺痛真正的社会脓包。</span><span class="english">Lee refuses to hide behind aesthetics.</span></p>

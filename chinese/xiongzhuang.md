@@ -1,5 +1,7 @@
 # 雄壮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongzhuang.md)
+
 <p><span class="chinese">我是威武雄壮的鼓。</span><span class="english">I am in the drums loud and grand.</span></p>
 
 <p><span class="chinese">这骊山高大、雄壮。</span><span class="english">The mountain is high and magnificent.</span></p>

@@ -1,5 +1,7 @@
 # sumerian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sumerian.md)
+
 <p><span class="chinese">我们都听说过关于苏美尔洪水的古老传说。</span><span class="english">We know of a very ancient Sumerian flood story.</span></p>
 
 <p><span class="chinese">阿曼地区曾经因美根的闪族人而闻名。</span><span class="english">The region of Oman was once known by its Sumerian name Magan.</span></p>

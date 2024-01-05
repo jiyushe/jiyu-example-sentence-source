@@ -1,5 +1,7 @@
 # bootstrap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bootstrap.md)
+
 <p><span class="chinese">还记得我们前面谈过的引导程序对象吗？</span><span class="english">Remember the bootstrap objects we talked about earlier?</span></p>
 
 <p><span class="chinese">于是，用一系列的步骤，我们就可“自展”我们的方法，以接近L。</span><span class="english">Now, we try to "bootstrap" our way up to L in a series of steps.</span></p>

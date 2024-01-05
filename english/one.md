@@ -1,5 +1,7 @@
 # one 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/one.md)
+
 <p><span class="chinese">等一下。</span><span class="english">One sec.</span></p>
 
 <p><span class="chinese">哪怕一周。</span><span class="english">One week.</span></p>

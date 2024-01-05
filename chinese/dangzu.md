@@ -1,5 +1,7 @@
 # 党组
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangzu.md)
+
 <p><span class="chinese">党组发挥领导核心作用。</span><span class="english">The group plays the role of the core of leadership.</span></p>
 
 <p><span class="chinese">李静，深圳广播电影电视集团党组成员、副总编辑。</span><span class="english">Ms. Li Jing, Vice Chief Editor of Shenzhen Media Group.</span></p>

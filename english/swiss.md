@@ -1,5 +1,7 @@
 # swiss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swiss.md)
+
 <p><span class="chinese">你选定了哪一块表？</span><span class="english">This is a Swiss made watch.</span></p>
 
 <p><span class="chinese">一个瑞士人忙着记笔记。</span><span class="english">A Swiss was busy making notes.</span></p>

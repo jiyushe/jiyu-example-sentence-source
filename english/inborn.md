@@ -1,5 +1,7 @@
 # inborn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inborn.md)
+
 <p><span class="chinese">女人是天生的“购物狂”吗？</span><span class="english">Are women inborn “shopaholics”?</span></p>
 
 <p><span class="chinese">这都是先天注定的亲缘。</span><span class="english">This is all the inborn to destine relative.</span></p>

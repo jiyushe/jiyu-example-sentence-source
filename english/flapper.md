@@ -1,5 +1,7 @@
 # flapper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flapper.md)
+
 <p><span class="chinese">本发明涉及一种用于捕杀蚊蝇的蚊甩子。</span><span class="english">The invention relates to swing flapper used to kill mosquito and fly.</span></p>
 
 <p><span class="chinese">穿得像一个小技巧，从时尚杂志的编辑在这个挡板复古服装免费视频。</span><span class="english">Dress like a flapper with tips from a fashion magazine editor in this free video on retro clothing.</span></p>

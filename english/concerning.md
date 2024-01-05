@@ -1,5 +1,7 @@
 # concerning 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concerning.md)
+
 <p><span class="chinese">先来谈下信息这方面。</span><span class="english">Concerning the information.</span></p>
 
 <p><span class="chinese">关于帕拉丁级的变化。</span><span class="english">Concerning Paladin class changes.</span></p>

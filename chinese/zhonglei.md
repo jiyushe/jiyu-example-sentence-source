@@ -1,5 +1,7 @@
 # 种类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonglei.md)
+
 <p><span class="chinese">寄主植物种类。</span><span class="english">The species of host plants.</span></p>
 
 <p><span class="chinese">她的兴趣种类不多。</span><span class="english">Her interest lacked variety.</span></p>

@@ -1,5 +1,7 @@
 # affiliation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affiliation.md)
+
 <p><span class="chinese">布兰奇弗劳尔表示自己没有党派关联。</span><span class="english">Blanchflower, who says he has no party affiliation.</span></p>
 
 <p><span class="chinese">市政协委员、无党派人士。</span><span class="english">Municipal CPPCC members, personages without party affiliation.</span></p>

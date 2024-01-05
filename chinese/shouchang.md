@@ -1,5 +1,7 @@
 # 瘦长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouchang.md)
+
 <p><span class="chinese">他外表瘦长。</span><span class="english">He has a reedy appearance.</span></p>
 
 <p><span class="chinese">他身材瘦长而结识，动作敏捷，身体强壮。</span><span class="english">He was wiry, quick, strong.</span></p>

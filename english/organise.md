@@ -1,5 +1,7 @@
 # organise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organise.md)
+
 <p><span class="chinese">第二，就是要组织好那些无家可归的人们。</span><span class="english">Second, is to organise the lives of the homeless.</span></p>
 
 <p><span class="chinese">他们会按照一定的句法规则组织单词吗？</span><span class="english">Do they organise words around a principle of syntax?</span></p>

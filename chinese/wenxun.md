@@ -1,5 +1,7 @@
 # 温驯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxun.md)
+
 <p><span class="chinese">松鼠是非常温驯的。</span><span class="english">The squirrels are very tame.</span></p>
 
 <p><span class="chinese">野鹅生不出温驯的蛋。</span><span class="english">A wild goose never laid a tame egg.</span></p>

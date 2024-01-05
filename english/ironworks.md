@@ -1,5 +1,7 @@
 # ironworks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ironworks.md)
+
 <p><span class="chinese">为什么要将画廊办在炼铁厂里？</span><span class="english">Why put a gallery in an ironworks ?</span></p>
 
 <p><span class="chinese">但是，现在大大小小的钢铁厂又都开足马力生产。</span><span class="english">But, greatly small now steel ironworks production of put into high gear.</span></p>

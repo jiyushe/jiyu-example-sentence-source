@@ -1,5 +1,7 @@
 # cowl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cowl.md)
+
 <p><span class="chinese">兜帽脖子上搭着口音。</span><span class="english">Cowl neck with draped accents.</span></p>
 
 <p><span class="chinese">僧袍不能使人成为僧侣。</span><span class="english">The cowl does not make the monk.</span></p>

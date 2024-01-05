@@ -1,5 +1,7 @@
 # skittish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skittish.md)
+
 <p><span class="chinese">她应该是一个水性杨花的女人。</span><span class="english">She should be a skittish woman.</span></p>
 
 <p><span class="chinese">他一直都介意这个女人的水性杨花。</span><span class="english">He has been uneasy with this woman's skittish.</span></p>

@@ -1,5 +1,7 @@
 # tracheobronchial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tracheobronchial.md)
+
 <p><span class="chinese">总结了小儿气管支气管异物取出术的护理要点。</span><span class="english">Summerized the key nursing methods of removing the tracheobronchial foreign bodies in children.</span></p>
 
 <p><span class="chinese">目的报告结核性气管、支气管狭窄的外科治疗经验。</span><span class="english">Objective To report the experience of surgical treatment of tuberculous tracheobronchial stenosis.</span></p>

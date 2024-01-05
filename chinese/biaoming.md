@@ -1,5 +1,7 @@
 # 标明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoming.md)
+
 <p><span class="chinese">心动描记器上标明心跳次数。</span><span class="english">A cardiograph records the heartbeat.</span></p>
 
 <p><span class="chinese">这首打油诗没有标明作者是谁。</span><span class="english">The doggerel doesn't filiate itself.</span></p>

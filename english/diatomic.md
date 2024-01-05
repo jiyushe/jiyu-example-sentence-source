@@ -1,5 +1,7 @@
 # diatomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diatomic.md)
+
 <p><span class="chinese">这是一个双原子分子。</span><span class="english">It is a diatomic molecule.</span></p>
 
 <p><span class="chinese">对非刚性双原子分子的能量表达式给出一种简明的推导。</span><span class="english">A concise derivation of energy formula of diatomic molecules is proposed.</span></p>

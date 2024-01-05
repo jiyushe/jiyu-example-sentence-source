@@ -1,5 +1,7 @@
 # listing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/listing.md)
+
 <p><span class="chinese">清单5-30提供了一个演示。</span><span class="english">Listing 5-30 provides a demonstration.</span></p>
 
 <p><span class="chinese">现在，通过添加一个新的清单试试效果。</span><span class="english">Now, try it out by adding a new listing.</span></p>

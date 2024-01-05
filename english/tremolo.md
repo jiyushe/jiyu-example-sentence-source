@@ -1,5 +1,7 @@
 # tremolo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tremolo.md)
+
 <p><span class="chinese">琴弓来回拉过</span><span class="english">Tremolo. Just sawing away there.</span></p>
 
 <p><span class="chinese">很好,最后是碎弓</span><span class="english">Sure. Okay, and then finally tremolo.</span></p>

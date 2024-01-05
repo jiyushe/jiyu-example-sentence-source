@@ -1,5 +1,7 @@
 # elevation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elevation.md)
+
 <p><span class="chinese">电力海拔铣头。</span><span class="english">Power elevation mill head.</span></p>
 
 <p><span class="chinese">平均海水面?。</span><span class="english">Elevation above mean sea-level?</span></p>

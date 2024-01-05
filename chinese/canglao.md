@@ -1,5 +1,7 @@
 # 苍老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canglao.md)
+
 <p><span class="chinese">一个憨厚苍老的声音传来。</span><span class="english">A simple and honest old voice.</span></p>
 
 <p><span class="chinese">啊，你青春年少还是皓首苍老？</span><span class="english">O blower, are you young or old?</span></p>

@@ -1,5 +1,7 @@
 # 撞车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangche.md)
+
 <p><span class="chinese">撞车，还是汽车？</span><span class="english">Crashes, or motor-cars?</span></p>
 
 <p><span class="chinese">杰克在撞车事故中把汽车撞凹了。</span><span class="english">Jack dented up the car in the collision.</span></p>

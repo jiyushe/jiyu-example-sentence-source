@@ -1,5 +1,7 @@
 # revamp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revamp.md)
+
 <p><span class="chinese">我需要改变我的生活方式！</span><span class="english">I needed to revamp my lifestyle!</span></p>
 
 <p><span class="chinese">我们必须极力修补我们的外交关系。</span><span class="english">We must fight the urge to revamp our diplomatic relations.</span></p>

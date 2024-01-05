@@ -1,5 +1,7 @@
 # authoritarianism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authoritarianism.md)
+
 <p><span class="chinese">暴虐和专横跋扈的癖性。</span><span class="english">A proclivity for violence and authoritarianism.</span></p>
 
 <p><span class="chinese">我们发现，非白人群体中，专制教养的比例更高一些。</span><span class="english">We saw more rates of authoritarianism in non-white groups.</span></p>

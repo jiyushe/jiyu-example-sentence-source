@@ -1,5 +1,7 @@
 # 裁决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caijue.md)
+
 <p><span class="chinese">但是还有更多的问题需要作出裁决。</span><span class="english">But more has yet to be decided.</span></p>
 
 <p><span class="chinese">对该裁决的含义，众说纷纭。</span><span class="english">As to what it means, opinions vary.</span></p>

@@ -1,5 +1,7 @@
 # strangulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strangulation.md)
+
 <p><span class="chinese">组织有绞窄且血液供应差。</span><span class="english">There is strangulation of tissue and poor blood supply.</span></p>
 
 <p><span class="chinese">她颈部有擦伤，应该是扼杀留下的痕迹。</span><span class="english">She's got bruising to the neck which is consistent with manual strangulation.</span></p>

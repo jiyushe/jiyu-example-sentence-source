@@ -1,5 +1,7 @@
 # christ
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christ.md)
+
 <p><span class="chinese">耶稣基督是左派吗？</span><span class="english">Was Jesus Christ a lefty?</span></p>
 
 <p><span class="chinese">然后基督医治了瘫子。</span><span class="english">Then Christ healed the man.</span></p>

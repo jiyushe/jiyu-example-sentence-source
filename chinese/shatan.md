@@ -1,5 +1,7 @@
 # 沙滩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shatan.md)
+
 <p><span class="chinese">这里有很多沙滩。</span><span class="english">There's so many beaches.</span></p>
 
 <p><span class="chinese">沙滩女孩变身救护员！</span><span class="english">Beach Girls to the Rescue!</span></p>

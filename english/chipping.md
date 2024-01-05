@@ -1,5 +1,7 @@
 # chipping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chipping.md)
+
 <p><span class="chinese">油漆在严重剥落。</span><span class="english">The paint is chipping badly.</span></p>
 
 <p><span class="chinese">墙壁上的漆在剥落。</span><span class="english">The paint on the wall is chipping off.</span></p>

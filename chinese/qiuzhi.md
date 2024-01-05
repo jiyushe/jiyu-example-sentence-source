@@ -1,5 +1,7 @@
 # 求知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuzhi.md)
+
 <p><span class="chinese">如今求知之路畅通无阻。</span><span class="english">The path to knowledge is now unbarred.</span></p>
 
 <p><span class="chinese">第一，求知的能力。</span><span class="english">First, the power to know, you could say.</span></p>

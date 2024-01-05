@@ -1,5 +1,7 @@
 # 天成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiancheng.md)
+
 <p><span class="chinese">新人就在我们的面前，真是佳偶天成一对碧人。</span><span class="english">The lovely couple is now here, such a perfect match.</span></p>
 
 <p><span class="chinese">婚然天成是行业内领先的婚礼公司。</span><span class="english">HRTC is the industry's leading wedding design company.</span></p>

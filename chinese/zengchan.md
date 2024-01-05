@@ -1,5 +1,7 @@
 # 增产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengchan.md)
+
 <p><span class="chinese">压条是粮食增产的一种方式。</span><span class="english">Layer is a method for propagating crops.</span></p>
 
 <p><span class="chinese">以期对粮食生产的保产、增产有所帮助。</span><span class="english">Hope it would help to increase grain yield.</span></p>

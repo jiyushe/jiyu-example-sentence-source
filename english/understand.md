@@ -1,5 +1,7 @@
 # understand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/understand.md)
+
 <p><span class="chinese">我似懂非懂。</span><span class="english">I understand.</span></p>
 
 <p><span class="chinese">是呀，我懂。</span><span class="english">Ah! I understand.</span></p>

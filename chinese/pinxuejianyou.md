@@ -1,5 +1,7 @@
 # 品学兼优
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinxuejianyou.md)
+
 <p><span class="chinese">嗯嗯！一定要努力学习，做个品学兼优的学生！</span><span class="english">Huh! We must study hard to be a high academic students!</span></p>
 
 <p><span class="chinese">我将努力地学习，争做一名品学兼优的小学生！</span><span class="english">I will study hard. I will do my best to be a good pupil!</span></p>

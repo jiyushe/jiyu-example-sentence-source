@@ -1,5 +1,7 @@
 # culex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culex.md)
+
 <p><span class="chinese">方法淡色库蚊抗性测定采用浸泡法。</span><span class="english">Methods Culex pipiens pallens resistance determined by immersion method.</span></p>
 
 <p><span class="chinese">这可能是影响蚊幼虫正常生命活动以致死亡的重要原因。</span><span class="english">This might be a part of the killing mechanism to Culex quinquefasciatus larvae.</span></p>

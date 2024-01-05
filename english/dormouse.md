@@ -1,5 +1,7 @@
 # dormouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dormouse.md)
+
 <p><span class="chinese">“把那只睡鼠揪出来！”王后尖声叫道。</span><span class="english">Collar that dormouse the queen shrieked out.</span></p>
 
 <p><span class="chinese">一只睡鼠坐在他们中间，但他睡得很沉。</span><span class="english">A dormouse sat between them, but he was fast asleep.</span></p>

@@ -1,5 +1,7 @@
 # supermarket 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supermarket.md)
+
 <p><span class="chinese">假设你在超市购物。</span><span class="english">Maybe you are at the supermarket.</span></p>
 
 <p><span class="chinese">超市就在校区里。</span><span class="english">The supermarket is on the campus.</span></p>

@@ -1,5 +1,7 @@
 # perivascular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perivascular.md)
+
 <p><span class="chinese">血管周围的淋巴细胞主要是T辅助。</span><span class="english">Perivascular T lymphocytes are mainly auxiliary.</span></p>
 
 <p><span class="chinese">因为胶质瘤不会有血管周围套特征。</span><span class="english">Since gliomas donot give this perivascular cuff feature.</span></p>

@@ -1,5 +1,7 @@
 # full
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/full.md)
+
 <p><span class="chinese">我的包是满的。</span><span class="english">My bag's full.</span></p>
 
 <p><span class="chinese">它盛得满满的。</span><span class="english">It is 'quite full.</span></p>

@@ -1,5 +1,7 @@
 # doss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doss.md)
+
 <p><span class="chinese">因为我们没钱吃东西也没钱住店。</span><span class="english">Cause we have no money for food and no money for a doss.</span></p>
 
 <p><span class="chinese">多功能枕头插入简易头部支持随时随地可拆下来过夜。</span><span class="english">Versatile pillow insert for improvised head support wherever you doss down for the night.</span></p>

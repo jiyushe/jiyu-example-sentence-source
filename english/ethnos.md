@@ -1,5 +1,7 @@
 # ethnos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethnos.md)
+
 <p><span class="chinese">大兴安岭东西两麓有众多小民族生存。</span><span class="english">There are many minor ethnos living around Daxing Anling region.</span></p>
 
 <p><span class="chinese">由此，各民族得以协调振荡，完整共存。</span><span class="english">As a result, all Ethnos could coexist completely and harmoniously.</span></p>

@@ -1,5 +1,7 @@
 # inductively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inductively.md)
+
 <p><span class="chinese">金属化聚丙烯作介质，无感式卷绕。</span><span class="english">Non- inductively wound with metallized polypropylene film.</span></p>
 
 <p><span class="chinese">应用感应耦合等离子体技术首次实现了对锑化铟薄膜的干法刻蚀。</span><span class="english">Inductively coupled plasma was first used to dry etch of InSb thin film.</span></p>

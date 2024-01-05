@@ -1,5 +1,7 @@
 # confinement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confinement.md)
+
 <p><span class="chinese">她的分娩期临近了。</span><span class="english">Her confinement was approaching.</span></p>
 
 <p><span class="chinese">限制自由比痛苦更加残忍。</span><span class="english">Confinement is crueler than pain.</span></p>

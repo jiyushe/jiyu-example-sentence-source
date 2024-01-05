@@ -1,5 +1,7 @@
 # gallus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallus.md)
+
 <p><span class="chinese">安莉芳有二款运动型的小背心和小吊带式的。</span><span class="english">Embry has two kinds of sports waists and gallus.</span></p>
 
 <p><span class="chinese">佩服！特别羡慕的是每把刀都有皮背带。</span><span class="english">I admire you! Especially that one with leather gallus.</span></p>

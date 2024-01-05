@@ -1,5 +1,7 @@
 # assent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assent.md)
+
 <p><span class="chinese">她露齿而笑以表同意。</span><span class="english">She grinned her assent.</span></p>
 
 <p><span class="chinese">卡克先生微笑着表示同意。</span><span class="english">Mr Carker smiled assent.</span></p>

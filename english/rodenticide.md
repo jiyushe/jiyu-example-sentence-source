@@ -1,5 +1,7 @@
 # rodenticide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rodenticide.md)
+
 <p><span class="chinese">目的探讨家栖鼠对抗凝血杀鼠剂的抗药性变化。</span><span class="english">Objective To study the anticoagulant rodenticide resistance in commensal rodents.</span></p>
 
 <p><span class="chinese">经出血情况观察，证实均为抗凝血灭鼠剂所致。</span><span class="english">The bleeding symptom substantiated that the death due to anticoagulant rodenticide.</span></p>

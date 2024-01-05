@@ -1,5 +1,7 @@
 # bedrock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedrock.md)
+
 <p><span class="chinese">宝贝，摩登始，做“床岩”喔。</span><span class="english">Flintstone, but I can make your Bedrock.</span></p>
 
 <p><span class="chinese">但是他们仍旧有工业底子。</span><span class="english">But there was still an industrial bedrock.</span></p>

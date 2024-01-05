@@ -1,5 +1,7 @@
 # postponement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postponement.md)
+
 <p><span class="chinese">延期或休会至将来某一日期。</span><span class="english">Postponement or adjournment to a future date.</span></p>
 
 <p><span class="chinese">好几场比赛都因雨延迟。</span><span class="english">Rain caused the postponement of several matches.</span></p>

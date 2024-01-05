@@ -1,5 +1,7 @@
 # 食管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiguan_6.md)
+
 <p><span class="chinese">腹腔镜手术治疗胃食管反流病是如何进行的？</span><span class="english">HOW IS LAPAROSCOPIC ANTI-REFLUX SURGERY PERFORMED?</span></p>
 
 <p><span class="chinese">怎样可以预防胃食管逆流呢？</span><span class="english">What can be done to prevent gastro- oesophageal reflux?</span></p>

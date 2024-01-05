@@ -1,5 +1,7 @@
 # 相同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangtong.md)
+
 <p><span class="chinese">完全相同。</span><span class="english">Exactly the same.</span></p>
 
 <p><span class="chinese">但又不完全相同。</span><span class="english">But not identical.</span></p>

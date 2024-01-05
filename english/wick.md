@@ -1,5 +1,7 @@
 # wick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wick.md)
+
 <p><span class="chinese">吸掉这个问题。</span><span class="english">WICK AWAY THE PROBLEM.</span></p>
 
 <p><span class="chinese">棉织品吸汗。</span><span class="english">Cotton textiles wick away perspiration.</span></p>

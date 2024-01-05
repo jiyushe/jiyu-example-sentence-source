@@ -1,5 +1,7 @@
 # unshaken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unshaken.md)
+
 <p><span class="chinese">谁您是是独立和坚定的。</span><span class="english">Who you are is unattached and unshaken.</span></p>
 
 <p><span class="chinese">在那最危急的时候，他自己的希望和勇气并没有动摇。</span><span class="english">In that trying hour his hope and courage were unshaken.</span></p>

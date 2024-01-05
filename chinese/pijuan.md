@@ -1,5 +1,7 @@
 # 疲倦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pijuan.md)
+
 <p><span class="chinese">你感觉疲倦吗？</span><span class="english">Do you feel tired?</span></p>
 
 <p><span class="chinese">我总是感到疲倦。</span><span class="english">I was always tired.</span></p>

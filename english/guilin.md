@@ -1,5 +1,7 @@
 # guilin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guilin.md)
+
 <p><span class="chinese">桂林的每座山都有洞。</span><span class="english">Each hill in Guilin has caves.</span></p>
 
 <p><span class="chinese">这是桂林市的标志。</span><span class="english">It is the symbol of Guilin City.</span></p>

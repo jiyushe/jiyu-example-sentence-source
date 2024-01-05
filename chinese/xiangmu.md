@@ -1,5 +1,7 @@
 # 项目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangmu.md)
+
 <p><span class="chinese">我欢迎这个项目。</span><span class="english">I welcome this item.</span></p>
 
 <p><span class="chinese">它是经典的比赛项目。</span><span class="english">It’s a classic race.</span></p>

@@ -1,5 +1,7 @@
 # 片面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianmian.md)
+
 <p><span class="chinese">这种想法是片面的。</span><span class="english">This idea is one-sided.</span></p>
 
 <p><span class="chinese">它们只是片面的美</span><span class="english">They're partially beautiful.</span></p>

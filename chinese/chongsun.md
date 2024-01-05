@@ -1,5 +1,7 @@
 # 重孙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongsun.md)
+
 <p><span class="chinese">谢谢您，曾祖母。重孙在此为您默哀。</span><span class="english">So, thank you. I'll mourn for you.</span></p>
 
 <p><span class="chinese">他带着他的两个重孙，偶尔去串门。</span><span class="english">He took his two great-grandson, occasionally visited.</span></p>

@@ -1,5 +1,7 @@
 # 决算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juesuan.md)
+
 <p><span class="chinese">他们也在你的财务决算中分属不同的类别。</span><span class="english">They're also classified separately on your financial statements 4.</span></p>
 
 <p><span class="chinese">议决年度工作计划、报告、及预算、决算。</span><span class="english">Determination for annual working plan, report, budget, final account.</span></p>

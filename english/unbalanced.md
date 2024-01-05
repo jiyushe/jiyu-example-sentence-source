@@ -1,5 +1,7 @@
 # unbalanced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbalanced.md)
+
 <p><span class="chinese">那样做是冒险和不平衡的。</span><span class="english">That would be risky and unbalanced.</span></p>
 
 <p><span class="chinese">他们加税使预算不平衡。</span><span class="english">They raised taxes and unbalanced the budget.</span></p>

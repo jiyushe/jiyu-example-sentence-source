@@ -1,5 +1,7 @@
 # tangy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangy.md)
+
 <p><span class="chinese">头顶是蜘蛛网和电线，空气弥漫着汗和胡椒油的味道。</span><span class="english">The air was tangy with sweat and pepper oil.</span></p>
 
 <p><span class="chinese">未经一番寒彻骨，焉得梅花扑鼻香。</span><span class="english">Without a cold biting, nothing is tangy incense.</span></p>

@@ -1,5 +1,7 @@
 # precontract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precontract.md)
+
 <p><span class="chinese">预约合同的本质是契约。</span><span class="english">Precontract is a contract in substance.</span></p>
 
 <p><span class="chinese">欲参加培训请提前10-15天预约，谢谢合作！</span><span class="english">Please precontract 10—15 days in advance if join training.</span></p>

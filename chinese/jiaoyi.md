@@ -1,5 +1,7 @@
 # 交易
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyi.md)
+
 <p><span class="chinese">锭蓝交易区。</span><span class="english">Dye trading zone.</span></p>
 
 <p><span class="chinese">这是一笔肮脏的交易。</span><span class="english">It's a dirty deal.</span></p>

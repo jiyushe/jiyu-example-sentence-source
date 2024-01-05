@@ -1,5 +1,7 @@
 # 连声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liansheng.md)
+
 <p><span class="chinese">不要哭哭啼啼、连声抱怨。</span><span class="english">Stop sniveling and complaining.</span></p>
 
 <p><span class="chinese">她微笑着，连声说谢谢。</span><span class="english">She smiled and said a thousand thanks.</span></p>

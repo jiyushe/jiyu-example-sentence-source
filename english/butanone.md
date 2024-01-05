@@ -1,5 +1,7 @@
 # butanone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butanone.md)
+
 <p><span class="chinese">论文测定了DMF、丁酮和甲苯在DBP中的亨利系数。</span><span class="english">In this thesis, the Henry coefficients of DMF, butanone and toluene in DBP were measured.</span></p>
 
 <p><span class="chinese">本文研究了镍超细粒子催化2-丁醇液相脱氢反应的动力学。</span><span class="english">The kinetics of dehydrogenation of 2-butanol to butanone on Ni-Ultrafine particle catalyst has been studied.</span></p>

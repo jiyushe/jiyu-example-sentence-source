@@ -1,5 +1,7 @@
 # dimorphism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimorphism.md)
+
 <p><span class="chinese">出现两种不同的类型。</span><span class="english">Dimorphism The existence of two distinct forms.</span></p>
 
 <p><span class="chinese">雌雄两性的形态在所有发育阶段均不相同。</span><span class="english">Sexual dimorphism occurs at all stages, including the deposited eggs.</span></p>

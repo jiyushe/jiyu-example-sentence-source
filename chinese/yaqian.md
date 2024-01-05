@@ -1,5 +1,7 @@
 # 牙签
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaqian.md)
+
 <p><span class="chinese">谁会数这些牙签？</span><span class="english">Who can count these toothpicks?</span></p>
 
 <p><span class="chinese">你能把牙签递给我吗？</span><span class="english">Would you please pass the toothpicks?</span></p>

@@ -1,5 +1,7 @@
 # voluble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voluble.md)
+
 <p><span class="chinese">他表示了振振有词的抗议。</span><span class="english">He expressed voluble protests.</span></p>
 
 <p><span class="chinese">我们公司新来的同事很健谈。</span><span class="english">The new comer in our company is voluble.</span></p>

@@ -1,5 +1,7 @@
 # 鼢鼠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshu_2.md)
+
 <p><span class="chinese">鼢鼠危害已制约当地造林工程的发展。</span><span class="english">The zokor harm has restricted the local development of afforestation project.</span></p>
 
 <p><span class="chinese">为探讨中华鼢鼠、甘肃鼢鼠和斯氏鼢鼠的分类地位，对它们牙齿釉质的超微结构做了分析比较。</span><span class="english">Microstructure of enamel in the common Chinese zokor , Gansu zokor and Smith′s zokor was compared here.</span></p>

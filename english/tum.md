@@ -1,5 +1,7 @@
 # tum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tum.md)
+
 <p><span class="chinese">向左转，您就会看见它了。</span><span class="english">Tum left and you'll see it.</span></p>
 
 <p><span class="chinese">找旧的，回到那里去。</span><span class="english">Tum the old, return to them.</span></p>

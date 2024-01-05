@@ -1,5 +1,7 @@
 # tactician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tactician.md)
+
 <p><span class="chinese">他与其说是个战术家，不如说是个战略家。</span><span class="english">He  is  more  of a  strategist than  of a tactician.</span></p>
 
 <p><span class="chinese">尽管金正日偏执且妄自尊大，但他却是一个狡猾的谋略家。</span><span class="english">But Mr Kim, for all his megalomania and paranoia, is a shrewd tactician.</span></p>

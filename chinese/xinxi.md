@@ -1,5 +1,7 @@
 # 心细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxi.md)
+
 <p><span class="chinese">他们心细，热爱他们的职业。</span><span class="english">They are circumspect , and they love this career.</span></p>
 
 <p><span class="chinese">属薄珠心，胚囊形成时珠心细胞全部消失。</span><span class="english">All nucellar cells disappear, when an embryo sac is ripe.</span></p>

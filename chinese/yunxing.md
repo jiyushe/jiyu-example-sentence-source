@@ -1,5 +1,7 @@
 # 运行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunxing.md)
+
 <p><span class="chinese">运行它。</span><span class="english">Run it.</span></p>
 
 <p><span class="chinese">还不能运行。</span><span class="english">Do not run yet.</span></p>

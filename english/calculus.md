@@ -1,5 +1,7 @@
 # calculus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calculus.md)
+
 <p><span class="chinese">你们必须真的懂微积分</span><span class="english">You really have to know calculus.</span></p>
 
 <p><span class="chinese">我学微积分已经有一段时间了。</span><span class="english">It's been awhile since I did calculus.</span></p>

@@ -1,5 +1,7 @@
 # desiccated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desiccated.md)
+
 <p><span class="chinese">大块大块脱水的兽皮和脂肪。</span><span class="english">Hunks of desiccated skin and fat.</span></p>
 
 <p><span class="chinese">砖块被太阳晒干了。</span><span class="english">The bricks were desiccated by the sun.</span></p>

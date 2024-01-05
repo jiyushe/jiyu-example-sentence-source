@@ -1,5 +1,7 @@
 # thallium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thallium.md)
+
 <p><span class="chinese">铊是一种稀有分散元素。</span><span class="english">Thallium is a rare hut widely dispersed element.</span></p>
 
 <p><span class="chinese">鸡的不同器官中铊含量均低于铊的安全食用标准。</span><span class="english">Thallium content of chook is also lower than safe edible value.</span></p>

@@ -1,5 +1,7 @@
 # 植树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishu_1.md)
+
 <p><span class="chinese">全民植树日。</span><span class="english">National Tree-Planting Day.</span></p>
 
 <p><span class="chinese">今天是植树日。</span><span class="english">Today is Tree-planting Day.</span></p>

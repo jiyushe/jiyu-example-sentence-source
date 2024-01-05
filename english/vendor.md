@@ -1,5 +1,7 @@
 # vendor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vendor.md)
+
 <p><span class="chinese">厂商中立。</span><span class="english">Vendor neutrality.</span></p>
 
 <p><span class="chinese">售主晶体管逻辑?。</span><span class="english">VTL? Vendor Transistor Logic?</span></p>

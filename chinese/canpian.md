@@ -1,5 +1,7 @@
 # 残片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canpian.md)
+
 <p><span class="chinese">不要带着昨日的残片来开心今天的生活。</span><span class="english">Don’t start your day with the broken pieces of yesterday.</span></p>
 
 <p><span class="chinese">救援人员已在海滩上发现部分气球残片。</span><span class="english">Rescuers have reported finding balloon pieces on a beach.</span></p>

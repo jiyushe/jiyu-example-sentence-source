@@ -1,5 +1,7 @@
 # memorable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memorable.md)
+
 <p><span class="chinese">印象深刻的乘客？</span><span class="english">Memorable customers?</span></p>
 
 <p><span class="chinese">这是一个难忘的周未。</span><span class="english">It was a memorable week not.</span></p>

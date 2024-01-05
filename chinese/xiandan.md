@@ -1,5 +1,7 @@
 # 仙丹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandan.md)
+
 <p><span class="chinese">节制是仙丹妙药。</span><span class="english">Temperance is the Best physic.</span></p>
 
 <p><span class="chinese">嫦娥慌乱中服下了所有的仙丹。</span><span class="english">In her panic, Chang`e drank it all up.</span></p>

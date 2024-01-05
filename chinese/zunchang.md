@@ -1,5 +1,7 @@
 # 尊长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunchang.md)
+
 <p><span class="chinese">在尊长的面前。</span><span class="english">In front of an elder.</span></p>
 
 <p><span class="chinese">称呼一位尊长。</span><span class="english">When we call an elder.</span></p>

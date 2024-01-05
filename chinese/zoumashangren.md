@@ -1,5 +1,7 @@
 # 走马上任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoumashangren.md)
+
 <p><span class="chinese">6周以前，他深孚众望，走马上任。</span><span class="english">He came to office only six weeks ago, offering hope.</span></p>
 
 <p><span class="chinese">总统先生，我热切地盼望走马上任。</span><span class="english">Mr. President, I’m eager to assume this new position.</span></p>

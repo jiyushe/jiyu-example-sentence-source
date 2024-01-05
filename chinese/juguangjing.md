@@ -1,5 +1,7 @@
 # 聚光镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juguangjing.md)
+
 <p><span class="chinese">是在奥林匹亚用…用聚光镜聚集阳光引燃火焰。</span><span class="english">It's lighted with the sunshine through condenser in Olympia.</span></p>
 
 <p><span class="chinese">在光源和标本之间是聚光镜。</span><span class="english">The condenser is interposed between the light source and the specimen.</span></p>

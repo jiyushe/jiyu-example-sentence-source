@@ -1,5 +1,7 @@
 # 纸板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiban_2.md)
+
 <p><span class="chinese">使用倒装图表或白纸板.</span><span class="english">Use a flip chart or white board</span></p>
 
 <p><span class="chinese">这些盒子是纸板做的。</span><span class="english">The boxes are made of pasteboard.</span></p>

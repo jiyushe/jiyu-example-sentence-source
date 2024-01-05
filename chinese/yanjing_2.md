@@ -1,5 +1,7 @@
 # 眼睛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjing_2.md)
+
 <p><span class="chinese">哦，我的眼睛！</span><span class="english">Ow, my eye!</span></p>
 
 <p><span class="chinese">他的眼睛睁开。</span><span class="english">His eyes open.</span></p>

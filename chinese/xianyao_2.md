@@ -1,5 +1,7 @@
 # 险要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyao_2.md)
+
 <p><span class="chinese">地势险要，为关隘重地。</span><span class="english">Topography Xianyao, to pass heavily.</span></p>
 
 <p><span class="chinese">在一块岩石和一个险要的地方之间被捉住了。</span><span class="english">Caught between a rock and a hard place.</span></p>

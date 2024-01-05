@@ -1,5 +1,7 @@
 # angioma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angioma.md)
+
 <p><span class="chinese">同时这也为血管瘤的研究提供了很好的动物模型。</span><span class="english">This provides a good animal model for angioma research.</span></p>
 
 <p><span class="chinese">附一医院脑血管瘤介入治疗。</span><span class="english">Angioma interventional therapy in the First Affiliated Hospital.</span></p>

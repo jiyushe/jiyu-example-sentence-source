@@ -1,5 +1,7 @@
 # 朱雀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuque.md)
+
 <p><span class="chinese">他的挚友，朱雀，成为了他的敌人。</span><span class="english">His best friend who called Suzaku became his enemy.</span></p>
 
 <p><span class="chinese">幸存的朱雀星士之一。与魏、井宿一起行动。</span><span class="english">One of the surviving Suzaku Seishi. Co-operating with Chichiri.</span></p>

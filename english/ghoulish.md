@@ -1,5 +1,7 @@
 # ghoulish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghoulish.md)
+
 <p><span class="chinese">这个认识可能来自恐怖小说。</span><span class="english">This idea may stem from ghoulish novels.</span></p>
 
 <p><span class="chinese">一个“僵尸艺妓”参加了位于日本东京附近的万圣节游行。</span><span class="english">A ghoulish geisha girl takes part in the Halloween parade in Kawasaki near Tokyo.</span></p>

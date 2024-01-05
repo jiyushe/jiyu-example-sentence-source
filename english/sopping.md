@@ -1,5 +1,7 @@
 # sopping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sopping.md)
+
 <p><span class="chinese">这可以防止水的渗透。</span><span class="english">It can prevent the water from sopping in.</span></p>
 
 <p><span class="chinese">隔着草帽，他的头发已经全湿。</span><span class="english">His hair under his straw hat was sopping wet.</span></p>

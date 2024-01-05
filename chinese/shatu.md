@@ -1,5 +1,7 @@
 # 沙土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shatu.md)
+
 <p><span class="chinese">箱子里满都是沙土。</span><span class="english">The box was full of sand.</span></p>
 
 <p><span class="chinese">用于铺在冰冷的通道上猫砂或者是沙土。</span><span class="english">cat litter or sand for icy walkways.</span></p>

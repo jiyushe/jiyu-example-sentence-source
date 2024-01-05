@@ -1,5 +1,7 @@
 # candied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candied.md)
+
 <p><span class="chinese">他的话总是甜言蜜语的多过于正直的。</span><span class="english">His words are always more candied than candid.</span></p>
 
 <p><span class="chinese">有甜果冻的馅饼，有枣仁的甜汤团。</span><span class="english">Tarts with candied jelly, sugar dumplings with dates.</span></p>

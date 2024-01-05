@@ -1,5 +1,7 @@
 # 黄金时代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangjinshidai.md)
+
 <p><span class="chinese">我们今天生活在黄金时代。</span><span class="english">We live today in a golden age.</span></p>
 
 <p><span class="chinese">发现系外行星的“黄金时代”</span><span class="english">"Golden Age" of Exoplanet Discovery</span></p>

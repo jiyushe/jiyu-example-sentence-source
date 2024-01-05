@@ -1,5 +1,7 @@
 # blinder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blinder.md)
+
 <p><span class="chinese">让我更大度豁达一点。</span><span class="english">Let me be a little blinder.</span></p>
 
 <p><span class="chinese">我想我父母大概瞎了眼！</span><span class="english">I think parents put a blinder over their faces.</span></p>

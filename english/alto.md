@@ -1,5 +1,7 @@
 # alto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alto.md)
+
 <p><span class="chinese">我们为了奥拓干杯。</span><span class="english">We drank a toast to the Alto.</span></p>
 
 <p><span class="chinese">此型号适合金属中音吹嘴使用。</span><span class="english">This model suits most metal alto mouthpieces.</span></p>

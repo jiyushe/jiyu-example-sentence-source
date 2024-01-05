@@ -1,5 +1,7 @@
 # 耳边风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erbianfeng.md)
+
 <p><span class="chinese">所有的批评对他似乎都是耳边风。</span><span class="english">All the criticism seems to have flowed over him.</span></p>
 
 <p><span class="chinese">我给你讲的话，你怎么老当作耳边风？</span><span class="english">Why will you always turn a deaf ear to what I tell you?</span></p>

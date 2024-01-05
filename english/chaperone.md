@@ -1,5 +1,7 @@
 # chaperone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaperone.md)
+
 <p><span class="chinese">你是来作陪的吗？</span><span class="english">Are you here to chaperone?</span></p>
 
 <p><span class="chinese">实地教学返回时，要与每位陪同老师握手告别。</span><span class="english">When returning from a trip, shake the hand of every chaperone.</span></p>

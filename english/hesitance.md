@@ -1,5 +1,7 @@
 # hesitance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hesitance.md)
+
 <p><span class="chinese">可是，有把握的你却看到我的犹豫。</span><span class="english">But unexpectedly, you only saw the hesitance.</span></p>
 
 <p><span class="chinese">“我仍是个学生，我将永远是个学生，”他毫不迟疑的承认。</span><span class="english">I will always be a student, " he admitted, without hesitance."</span></p>

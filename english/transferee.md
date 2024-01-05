@@ -1,5 +1,7 @@
 # transferee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transferee.md)
+
 <p><span class="chinese">受让方的实际操纵人是谁？</span><span class="english">Transferee to manipulate the actual people?</span></p>
 
 <p><span class="chinese">受让人称为第二受益人。</span><span class="english">The transferee is called the second beneficiary.</span></p>

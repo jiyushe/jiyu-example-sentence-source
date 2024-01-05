@@ -1,5 +1,7 @@
 # decor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decor.md)
+
 <p><span class="chinese">外观和装饰。</span><span class="english">Look and décor.</span></p>
 
 <p><span class="chinese">一些装饰的细节。</span><span class="english">Some decor elements.</span></p>

@@ -1,5 +1,7 @@
 # chelated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chelated.md)
+
 <p><span class="chinese">从来没有人螯合矿物，为吸收矿物的最高形式。</span><span class="english">NO one else has Chelated Minerals, the highest form of minerals for absorption.</span></p>
 
 <p><span class="chinese">目的研究稳定性螯合金属多胺型抗菌棉纤维。</span><span class="english">Objective To study the stable chelated metal polyamine antibacterial cotton fibre.</span></p>

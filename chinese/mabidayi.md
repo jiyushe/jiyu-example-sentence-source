@@ -1,5 +1,7 @@
 # 麻痹大意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mabidayi.md)
+
 <p><span class="chinese">不要麻痹大意。</span><span class="english">Don't slacken your vigilance.</span></p>
 
 <p><span class="chinese">一看二慢三通过，麻痹大意闯大祸。</span><span class="english">A look at the two slow three through a catastrophe, careless.</span></p>

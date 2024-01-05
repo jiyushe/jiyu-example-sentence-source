@@ -1,5 +1,7 @@
 # 静养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyang_2.md)
+
 <p><span class="chinese">我必须静养。</span><span class="english">I must stay in bed.</span></p>
 
 <p><span class="chinese">那名病人需要长期静养。</span><span class="english">The patient needs plenty of rest.</span></p>

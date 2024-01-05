@@ -1,5 +1,7 @@
 # shareware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shareware.md)
+
 <p><span class="chinese">其他人可能被归类为共享软件或者试用软件。</span><span class="english">Others may be categorized as shareware or trialware.</span></p>
 
 <p><span class="chinese">对共享软件当前的状况你有什么想法？</span><span class="english">What are your thoughts on the current state of shareware?</span></p>

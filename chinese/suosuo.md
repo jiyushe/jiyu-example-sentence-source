@@ -1,5 +1,7 @@
 # 梭梭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suosuo.md)
+
 <p><span class="chinese">梭梭直播造林成功率很低，是急待解决的问题。</span><span class="english">It was impatient to solve the low survival rate of direct seeding.</span></p>
 
 <p><span class="chinese">分析了梭梭种群的径级结构、高度结构、密度和空间分布格局变化等。</span><span class="english">The diameter structure, the height structure , the density and the distribution pattern were worked out.</span></p>

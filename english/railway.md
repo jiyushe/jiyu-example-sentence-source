@@ -1,5 +1,7 @@
 # railway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/railway.md)
+
 <p><span class="chinese">铁路法?。</span><span class="english">Railway Law?</span></p>
 
 <p><span class="chinese">宁河谷铁路。</span><span class="english">Nene Valley Railway.</span></p>

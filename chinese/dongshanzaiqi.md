@@ -1,5 +1,7 @@
 # 东山再起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongshanzaiqi.md)
+
 <p><span class="chinese">我可以东山再起。</span><span class="english">I can try again.</span></p>
 
 <p><span class="chinese">那个人经过患难，东山再起。</span><span class="english">That fellow bobs up like a cork.</span></p>

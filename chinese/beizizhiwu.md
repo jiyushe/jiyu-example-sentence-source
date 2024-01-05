@@ -1,5 +1,7 @@
 # 被子植物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beizizhiwu.md)
+
 <p><span class="chinese">被子植物分类系统介绍和评注。</span><span class="english">Dahlgren's system of classification of the angiosperms.</span></p>
 
 <p><span class="chinese">被子植物在植物区系的组成成分中占据绝对优势。</span><span class="english">Angiosperm predominates in the halophytes flora in Bohai-Bay.</span></p>

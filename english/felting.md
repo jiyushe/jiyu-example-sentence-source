@@ -1,5 +1,7 @@
 # felting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/felting.md)
+
 <p><span class="chinese">目前还没有，但是我计划尝试着去做。</span><span class="english">No, I haven't tried wet felting yet, but I plan to.</span></p>
 
 <p><span class="chinese">粘结剂使用量较其他粒形铸模砂少。</span><span class="english">The less felting liquid can be used than other sand when using NFS.</span></p>

@@ -1,5 +1,7 @@
 # chicory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chicory.md)
+
 <p><span class="chinese">菊苣是亚洲和欧洲部分地区人们食用的一种蔬菜。</span><span class="english">Chicory is a vegetable eaten in Asia and parts of Europe.</span></p>
 
 <p><span class="chinese">对奇可力的化学成分进行了分析。</span><span class="english">Chemical components of chicory are analyzed in this paper.</span></p>

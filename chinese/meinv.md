@@ -1,5 +1,7 @@
 # 美女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meinv.md)
+
 <p><span class="chinese">我们厌倦了机器人美女。</span><span class="english">We're tired of fembots.</span></p>
 
 <p><span class="chinese">什么是美女？你呗！</span><span class="english">The beautiful is for you.</span></p>

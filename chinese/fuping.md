@@ -1,5 +1,7 @@
 # 浮萍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuping.md)
+
 <p><span class="chinese">偏那薛蟠本是浮萍心性，今日爱东，明日爱西。</span><span class="english">But Xue Pan was as fickle as water-weed which drifts EAST today, west tomorrow.</span></p>
 
 <p><span class="chinese">浮萍种群增长能力极强，主要通过生物量的增长实现对氮磷营养的吸收去除。</span><span class="english">Duckweed population grows rapidly and removes the nutrients mainly by biomass increasing.</span></p>

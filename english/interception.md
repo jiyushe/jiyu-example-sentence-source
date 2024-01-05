@@ -1,5 +1,7 @@
 # interception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interception.md)
+
 <p><span class="chinese">被截留的固体物称为滤饼或滤渣。</span><span class="english">Interception of solid content called filter cake or cake.</span></p>
 
 <p><span class="chinese">其他的指标同样适合截取模式。</span><span class="english">Other standard metrics also fit the interception pattern.</span></p>

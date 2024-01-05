@@ -1,5 +1,7 @@
 # immigrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immigrate.md)
+
 <p><span class="chinese">他们打算移民加拿大。</span><span class="english">They are going to immigrate to Canada.</span></p>
 
 <p><span class="chinese">他决定移居到澳大利亚找个工作。</span><span class="english">He decided to immigrate to Australia to find work.</span></p>

@@ -1,5 +1,7 @@
 # vaishnava
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaishnava.md)
+
 <p><span class="chinese">罗姆的父亲是一位虔诚的外氏那瓦，每天都在家中敬拜克里希纳。</span><span class="english">Ram's father was a devout Vaishnava and worshipped Krishna daily at home.</span></p>
 
 <p><span class="chinese">他已经根据毗瑟奴派经文指定的，开始与神建立其他关系。</span><span class="english">He was now to take up the other relationships prescribed by the Vaishnava scriptures.</span></p>

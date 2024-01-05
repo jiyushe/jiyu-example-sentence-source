@@ -1,5 +1,7 @@
 # gossypol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gossypol.md)
+
 <p><span class="chinese">但是由于其棉酚含量高，影响了它的充分利用。</span><span class="english">The high level of gossypol affected the cotton's full using.</span></p>
 
 <p><span class="chinese">这表明棉酚可能引起近端肾小管损害。</span><span class="english">Thatindicated that gossypol might induce proximal renal tubular damage.</span></p>

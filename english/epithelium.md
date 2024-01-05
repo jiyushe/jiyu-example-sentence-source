@@ -1,5 +1,7 @@
 # epithelium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epithelium.md)
+
 <p><span class="chinese">上皮组织还衬盖气管和肺腔。</span><span class="english">Epithelium also lines the air tubes and lung cavities.</span></p>
 
 <p><span class="chinese">因此我们发现，它们也起源于上皮组织。</span><span class="english">Thus we find that they, too, arise from an epithelium.</span></p>

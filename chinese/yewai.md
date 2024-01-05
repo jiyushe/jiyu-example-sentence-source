@@ -1,5 +1,7 @@
 # 野外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yewai.md)
+
 <p><span class="chinese">野外采集柱形样。</span><span class="english">Field collection of cores.</span></p>
 
 <p><span class="chinese">牛在野外吃草。</span><span class="english">Cows were grazing in the field.</span></p>

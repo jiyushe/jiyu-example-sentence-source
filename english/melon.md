@@ -1,5 +1,7 @@
 # melon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melon.md)
+
 <p><span class="chinese">我有一个猕猴桃和一个甜瓜。</span><span class="english">Jag har en kiwi och en melon.</span></p>
 
 <p><span class="chinese">用挖球器将哈蜜瓜挖成球状，备用。</span><span class="english">Dig honey dew melon to be balls.</span></p>

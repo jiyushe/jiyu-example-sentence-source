@@ -1,5 +1,7 @@
 # pumpkin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pumpkin.md)
+
 <p><span class="chinese">我爱你，小南瓜。</span><span class="english">I love you, pumpkin.</span></p>
 
 <p><span class="chinese">南瓜是一种瓜，不代表颜色。</span><span class="english">Pumpkin is also a fruit.</span></p>

@@ -1,5 +1,7 @@
 # exploratory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exploratory.md)
+
 <p><span class="chinese">使用“探索性测试”来产生反馈。</span><span class="english">Use Exploratory Testing to generate feedback</span></p>
 
 <p><span class="chinese">特别是如果你不知道选择探索性测试的话。</span><span class="english">Especially if you do not choose Exploratory Testing.</span></p>

@@ -1,5 +1,7 @@
 # 花被
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huabei.md)
+
 <p><span class="chinese">花被剪下后，很快会凋谢的。</span><span class="english">Flower soon fade when cut.</span></p>
 
 <p><span class="chinese">花被野草盖没而凋落。</span><span class="english">The flowers were choked by weeds.</span></p>

@@ -1,5 +1,7 @@
 # 动听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongting.md)
+
 <p><span class="chinese">这个称呼多么动听！</span><span class="english">How well it sounds.</span></p>
 
 <p><span class="chinese">像鸟一样动听。</span><span class="english">As songful as a bird.</span></p>

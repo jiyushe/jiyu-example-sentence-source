@@ -1,5 +1,7 @@
 # 爱小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aixiao.md)
+
 <p><span class="chinese">我太爱小婴儿。</span><span class="english">I love babies.</span></p>
 
 <p><span class="chinese">我爱小动物！</span><span class="english">I love my little pets !</span></p>

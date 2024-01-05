@@ -1,5 +1,7 @@
 # 可知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kezhi_1.md)
+
 <p><span class="chinese">它之前都是未可知的。</span><span class="english">It was unknown.</span></p>
 
 <p><span class="chinese">前路未可知，梦想今犹在。</span><span class="english">The road ahead unclear, dream today.</span></p>

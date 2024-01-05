@@ -1,5 +1,7 @@
 # 相接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjie.md)
+
 <p><span class="chinese">汽车拥塞，首尾相接长达数英里。</span><span class="english">The cars backed up for miles.</span></p>
 
 <p><span class="chinese">它们是背部相接。</span><span class="english">And, they are sort of backed into it.</span></p>

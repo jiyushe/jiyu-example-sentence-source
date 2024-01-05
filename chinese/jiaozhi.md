@@ -1,5 +1,7 @@
 # 脚趾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaozhi.md)
+
 <p><span class="chinese">弄弯我的脚趾！</span><span class="english">Bent my toe!</span></p>
 
 <p><span class="chinese">他的脚趾向内弯。</span><span class="english">His toes turn in.</span></p>

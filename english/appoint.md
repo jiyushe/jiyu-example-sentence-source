@@ -1,5 +1,7 @@
 # appoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appoint.md)
+
 <p><span class="chinese">必须由元老院任命。</span><span class="english">The Senate had to appoint you.</span></p>
 
 <p><span class="chinese">作为一位总经理，他应当任人为贤。</span><span class="english">We must appoint a new teacher soon.</span></p>

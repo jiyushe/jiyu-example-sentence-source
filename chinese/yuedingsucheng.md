@@ -1,5 +1,7 @@
 # 约定俗成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuedingsucheng.md)
+
 <p><span class="chinese">那是约定俗成的</span><span class="english">That is a matter of convention.</span></p>
 
 <p><span class="chinese">财产既是自然权利，但也有约定俗成的一面。</span><span class="english">Property is natural in one sense but conventional in another.</span></p>

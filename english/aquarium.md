@@ -1,5 +1,7 @@
 # aquarium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquarium.md)
+
 <p><span class="chinese">水族箱是用什么制造的？为什么？</span><span class="english">What is an aquarium made of?Why?</span></p>
 
 <p><span class="chinese">他们把白化鳐鱼送到水族馆。</span><span class="english">They handed it in to an aquarium.</span></p>

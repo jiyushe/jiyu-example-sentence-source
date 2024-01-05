@@ -1,5 +1,7 @@
 # matchmaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matchmaking.md)
+
 <p><span class="chinese">但是，做媒需要一定的技巧。</span><span class="english">But matchmaking is a tricky business.</span></p>
 
 <p><span class="chinese">有些婚介所还根据血型提供配对服务。</span><span class="english">Some matchmaking services cater to blood type.</span></p>

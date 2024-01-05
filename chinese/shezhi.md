@@ -1,5 +1,7 @@
 # 摄制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shezhi.md)
+
 <p><span class="chinese">它像在电影摄制建身房。</span><span class="english">It's like being at filmmaking gym.</span></p>
 
 <p><span class="chinese">这小说不适于摄制成电影。</span><span class="english">The fiction story won't film well.</span></p>

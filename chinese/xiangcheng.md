@@ -1,5 +1,7 @@
 # 相乘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangcheng.md)
+
 <p><span class="chinese">然后再交叉相乘。</span><span class="english">And I can cross-multiply here.</span></p>
 
 <p><span class="chinese">现在我们就能使q1和q2相乘了。</span><span class="english">And now we can plug in q1 and q2.</span></p>

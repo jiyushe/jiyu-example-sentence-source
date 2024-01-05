@@ -1,5 +1,7 @@
 # ferry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferry.md)
+
 <p><span class="chinese">我们乘摆渡船去浦东。</span><span class="english">We go to Pudong by ferry.</span></p>
 
 <p><span class="chinese">亚力克乘着渡船逃离了。</span><span class="english">Aleck took a ferry to escape.</span></p>

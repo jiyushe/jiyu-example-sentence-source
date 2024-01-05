@@ -1,5 +1,7 @@
 # 功底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongdi_1.md)
+
 <p><span class="chinese">他拉丁语的功底很扎实。</span><span class="english">He is well grounded in Latin.</span></p>
 
 <p><span class="chinese">学室内设计，没有美术功底到底行不行？</span><span class="english">Interior design school, no art skills in the end work?</span></p>

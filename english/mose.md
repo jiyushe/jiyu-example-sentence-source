@@ -1,5 +1,7 @@
 # mose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mose.md)
+
 <p><span class="chinese">在申命记中，他是那位先知，正如摩西所说。</span><span class="english">In Deuteronomy, he is a prophet, like Mose.</span></p>
 
 <p><span class="chinese">摩西这个字是取自义大利人名摩西而来。</span><span class="english">MOSE is a play on the Italian name for Moses.</span></p>

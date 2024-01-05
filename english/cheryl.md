@@ -1,5 +1,7 @@
 # cheryl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheryl.md)
+
 <p><span class="chinese">谢丽尔·霍普伍德是否有理由？</span><span class="english">Does Cheryl Hopwood have a case?</span></p>
 
 <p><span class="chinese">杰克和谢丽尔住在宾馆的506房。</span><span class="english">Jack and Cheryl live in Room 506.</span></p>

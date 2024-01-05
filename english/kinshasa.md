@@ -1,5 +1,7 @@
 # kinshasa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinshasa.md)
+
 <p><span class="chinese">VOA新闻，艾米莉·奥柏于金沙萨为您播报。</span><span class="english">Emilie Iob, for VOA News, in Kinshasa.</span></p>
 
 <p><span class="chinese">我有个兄弟，他住在金沙萨，是个生意人。</span><span class="english">My brother lives in Kinshasa where he is a trader.</span></p>

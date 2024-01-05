@@ -1,5 +1,7 @@
 # blundering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blundering.md)
+
 <p><span class="chinese">总之，这是关于“失态效应“的实验。</span><span class="english">All right. So blundering.</span></p>
 
 <p><span class="chinese">都是那笨蛋侦探的罪过！</span><span class="english">And by the blundering of the detective!</span></p>

@@ -1,5 +1,7 @@
 # mortal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortal.md)
+
 <p><span class="chinese">就是人必有一死。</span><span class="english">All men are mortal.</span></p>
 
 <p><span class="chinese">是可恕之罪，或是死罪？</span><span class="english">Venial sin or mortal sin?</span></p>

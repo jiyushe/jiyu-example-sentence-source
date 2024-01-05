@@ -1,5 +1,7 @@
 # elastomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elastomer.md)
+
 <p><span class="chinese">加入乙酸叔丁酯以溶解弹性体。</span><span class="english">Tert-butyl acetate is added to dissolve the elastomer.</span></p>
 
 <p><span class="chinese">有能力为客户解决弹性体方面的问题。</span><span class="english">Customers have the ability to solve problems elastomer.</span></p>

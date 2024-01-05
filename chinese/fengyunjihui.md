@@ -1,5 +1,7 @@
 # 风云际会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyunjihui.md)
+
 <p><span class="chinese">镖行天下之风云际会们收信誉卡吗?。</span><span class="english">Do you take in credit cards?</span></p>
 
 <p><span class="chinese">地主在大陆高原上镖行城市猎人下之风云际会土地扩展了良多。</span><span class="english">The landlord's land on the highland of the mainland expanded a lot.</span></p>

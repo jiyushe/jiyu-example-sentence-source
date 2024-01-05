@@ -1,5 +1,7 @@
 # doomsday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doomsday.md)
+
 <p><span class="chinese">如果天马舰是世界末日的世界。</span><span class="english">If tml is the doomsday of the world.</span></p>
 
 <p><span class="chinese">这是零售界版本的死光炮塔。</span><span class="english">It’s the retail version of the doomsday machine.</span></p>

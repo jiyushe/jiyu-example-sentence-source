@@ -1,5 +1,7 @@
 # 肩胛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjia_1.md)
+
 <p><span class="chinese">白色延伸到肩胛或颈部。</span><span class="english">White extending on the shoulders or neck.</span></p>
 
 <p><span class="chinese">感受你的肩胛关节的活动。</span><span class="english">Feel your shoulders move in their sockets.</span></p>

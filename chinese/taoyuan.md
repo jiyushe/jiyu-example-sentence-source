@@ -1,5 +1,7 @@
 # 桃园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoyuan.md)
+
 <p><span class="chinese">我们在核桃园互道晚安。</span><span class="english">We said goodnight in Walnut Garden.</span></p>
 
 <p><span class="chinese">2001年桃园俱乐部秋季500公里大奖赛冠军。</span><span class="english">Champion Peach Garden Club 500km fall 2001.</span></p>

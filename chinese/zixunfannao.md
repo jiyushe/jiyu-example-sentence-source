@@ -1,5 +1,7 @@
 # 自寻烦恼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixunfannao.md)
+
 <p><span class="chinese">为什么要自寻烦恼？</span><span class="english">Why bother, then?</span></p>
 
 <p><span class="chinese">不要自寻烦恼。</span><span class="english">Don't meet trouble half-way.</span></p>

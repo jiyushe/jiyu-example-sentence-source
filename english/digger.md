@@ -1,5 +1,7 @@
 # digger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digger.md)
+
 <p><span class="chinese">这个可怜的人是一个采煤工。</span><span class="english">The poor man is a coal digger.</span></p>
 
 <p><span class="chinese">林子大了什么鸟都有！</span><span class="english">Forest digger what bird all have!</span></p>

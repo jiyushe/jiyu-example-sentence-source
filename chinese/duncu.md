@@ -1,5 +1,7 @@
 # 敦促
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duncu.md)
+
 <p><span class="chinese">良心会来敦促。</span><span class="english">Consciences may nag.</span></p>
 
 <p><span class="chinese">他们敦促我发起进攻。</span><span class="english">They urged me to attack.</span></p>

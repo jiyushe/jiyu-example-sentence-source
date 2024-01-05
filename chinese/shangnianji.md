@@ -1,5 +1,7 @@
 # 上年纪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangnianji.md)
+
 <p><span class="chinese">祖母已78岁，上年纪了。</span><span class="english">Grandmother is 78 and getting along.</span></p>
 
 <p><span class="chinese">尽管我妈妈上年纪了，她依然有光滑的皮肤。</span><span class="english">Though my mother is old, she still has smooth skin.</span></p>

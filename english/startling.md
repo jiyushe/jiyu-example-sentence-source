@@ -1,5 +1,7 @@
 # startling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/startling.md)
+
 <p><span class="chinese">这的确是很令人警醒的论述。</span><span class="english">It's a startling argument.</span></p>
 
 <p><span class="chinese">答案相当惊人</span><span class="english">The answer is fairly startling.</span></p>

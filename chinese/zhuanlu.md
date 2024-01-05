@@ -1,5 +1,7 @@
 # 转录
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanlu.md)
+
 <p><span class="chinese">记录并转录会议纪要。</span><span class="english">Record and transcribe minutes of meetings.</span></p>
 
 <p><span class="chinese">转录活跃区域先复制。</span><span class="english">Transcriptionally active regions are replicated first.</span></p>

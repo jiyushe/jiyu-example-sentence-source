@@ -1,5 +1,7 @@
 # winehouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winehouse.md)
+
 <p><span class="chinese">英国的人怎么看待艾米•怀恩豪斯？</span><span class="english">What do people in the UK think about Amy Winehouse?</span></p>
 
 <p><span class="chinese">怀恩豪斯在周末有个大计划，毛里斯说。</span><span class="english">Winehouse had "big plans for the weekend, " said Morris.</span></p>

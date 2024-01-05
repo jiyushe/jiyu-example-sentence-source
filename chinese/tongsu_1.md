@@ -1,5 +1,7 @@
 # 通俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongsu_1.md)
+
 <p><span class="chinese">这个理论通俗易懂</span><span class="english">This was out there.</span></p>
 
 <p><span class="chinese">我最喜欢通俗歌曲。</span><span class="english">I likes simple folk song. 10.</span></p>

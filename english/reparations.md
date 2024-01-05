@@ -1,5 +1,7 @@
 # reparations
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reparations.md)
+
 <p><span class="chinese">赔款暂时中止了。</span><span class="english">Reparations were temporarily pretermitted.</span></p>
 
 <p><span class="chinese">中国承担严厉的战争赔款。</span><span class="english">Stiff reparations for war damages were to be paid—by the Chinese.</span></p>

@@ -1,5 +1,7 @@
 # 深化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenhua.md)
+
 <p><span class="chinese">第三是要深化外贸体制改革。</span><span class="english">Third, deepen reforming trade system.</span></p>
 
 <p><span class="chinese">同侪评审需要深化为同侪压力。</span><span class="english">Peer review will need to be peer pressure.</span></p>

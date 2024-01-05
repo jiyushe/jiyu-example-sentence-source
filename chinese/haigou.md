@@ -1,5 +1,7 @@
 # 海沟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haigou.md)
+
 <p><span class="chinese">马里亚那海沟是地球最深的地方。</span><span class="english">The Marianna Trench is the deepest part of the Earth's surface.</span></p>
 
 <p><span class="chinese">一位潜水者正在探索冰岛Silfra附近的大陆海沟，拍摄于2010年。</span><span class="english">A diver explores a continental trench in Silfra Iceland in 2010.</span></p>

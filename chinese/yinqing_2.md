@@ -1,5 +1,7 @@
 # 隐情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinqing_2.md)
+
 <p><span class="chinese">是女人的善变，还是另有隐情?。</span><span class="english">Is womens fickle, or the story?</span></p>
 
 <p><span class="chinese">你生下来带出这世界的隐情。</span><span class="english">You're born to bring this world affection.</span></p>

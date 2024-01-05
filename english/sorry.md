@@ -1,5 +1,7 @@
 # sorry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorry.md)
+
 <p><span class="chinese">抱歉，没听清。</span><span class="english">Sorry.</span></p>
 
 <p><span class="chinese">这是--抱歉？</span><span class="english">Its-- sorry?</span></p>

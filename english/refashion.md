@@ -1,5 +1,7 @@
 # refashion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refashion.md)
+
 <p><span class="chinese">你能将这个连衣裙改成短裙子吗？</span><span class="english">Can you refashion this dress into a skirt?</span></p>
 
 <p><span class="chinese">现在他们正在寻找重塑记忆的方法，即便那些记忆已经存留多年。</span><span class="english">Now, they are looking for a way to refashion memories even years after they were created.</span></p>

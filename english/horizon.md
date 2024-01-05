@@ -1,5 +1,7 @@
 # horizon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horizon.md)
+
 <p><span class="chinese">灌溉天边朝露。</span><span class="english">Dew irrigation horizon.</span></p>
 
 <p><span class="chinese">他们消失在地平线上了。</span><span class="english">They faded out in the horizon.</span></p>

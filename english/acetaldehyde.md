@@ -1,5 +1,7 @@
 # acetaldehyde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetaldehyde.md)
+
 <p><span class="chinese">乙醛是有毒物质，会损害人体的DNA。</span><span class="english">Acetaldehyde is toxic and has been shown to damage DNA.</span></p>
 
 <p><span class="chinese">乙醛广泛存在于环境中，危害人体健康。</span><span class="english">Acetaldehyde almost exists ubiquitously and is harmful to people.</span></p>

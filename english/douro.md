@@ -1,5 +1,7 @@
 # douro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/douro.md)
+
 <p><span class="chinese">杜罗河，参观博物馆和古老的纪念碑。</span><span class="english">Douro river, visit the museums and old monuments.</span></p>
 
 <p><span class="chinese">继续留在波尔图杜罗河银行过夜。</span><span class="english">Continue to Oporto at the bank of Douro river for overnight stay.</span></p>

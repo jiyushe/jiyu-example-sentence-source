@@ -1,5 +1,7 @@
 # 硬邦邦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingbangbang_1.md)
+
 <p><span class="chinese">它摸上去冷冰冰、硬邦邦的。这是一个盒子。</span><span class="english">It feels cold and hard. It is a box.</span></p>
 
 <p><span class="chinese">新鞋刚穿起来常常都是硬邦邦的。</span><span class="english">Shoes are often stiff when they are new.</span></p>

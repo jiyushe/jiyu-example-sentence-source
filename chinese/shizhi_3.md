@@ -1,5 +1,7 @@
 # 试制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhi_3.md)
+
 <p><span class="chinese">大卫·德·昂热正试制大理石粉。</span><span class="english">David d'Angers was trying to work in marble.</span></p>
 
 <p><span class="chinese">很多新品已试制出来了。</span><span class="english">A number of new products have been trial-produced.</span></p>

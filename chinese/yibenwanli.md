@@ -1,5 +1,7 @@
 # 一本万利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibenwanli.md)
+
 <p><span class="chinese">天天一脸笑容，年年一本万利。</span><span class="english">A face of smile every day, year after year.</span></p>
 
 <p><span class="chinese">这些奴隶社会初期都是一本万利的</span><span class="english">All were highly profitable in their primes.</span></p>

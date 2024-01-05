@@ -1,5 +1,7 @@
 # 选配
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanpei.md)
+
 <p><span class="chinese">消费者也可选配6速自动变速箱。</span><span class="english">A six-speed automatic is also available.</span></p>
 
 <p><span class="chinese">见选配毛毯及一味太舒服了！</span><span class="english">See matching blankets and comfy cozies too!</span></p>

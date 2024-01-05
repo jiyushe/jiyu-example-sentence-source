@@ -1,5 +1,7 @@
 # 爱子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aizi.md)
+
 <p><span class="chinese">爱子公主已于本周一回学校上课。</span><span class="english">Princess Aiko was back to school on Monday.</span></p>
 
 <p><span class="chinese">原以为唯有亲娘爱子深。</span><span class="english">I thought only mother loves son in the world.</span></p>

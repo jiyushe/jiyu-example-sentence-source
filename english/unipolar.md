@@ -1,5 +1,7 @@
 # unipolar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unipolar.md)
+
 <p><span class="chinese">单极控制器需要中心抽头绕组。</span><span class="english">Unipolar controllers need center-tapped windings.</span></p>
 
 <p><span class="chinese">当下的世界是最为单极的世界。</span><span class="english">We have never had a more unipolar world than we have today.</span></p>

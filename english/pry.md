@@ -1,5 +1,7 @@
 # pry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pry.md)
+
 <p><span class="chinese">把撬棍给我！</span><span class="english">Pry stick to me!</span></p>
 
 <p><span class="chinese">轻轻地把他们撬开，取下。</span><span class="english">Gently pry then off.</span></p>

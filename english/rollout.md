@@ -1,5 +1,7 @@
 # rollout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rollout.md)
+
 <p><span class="chinese">实现满刻度的首次展示。</span><span class="english">Implement the full-scale rollout.</span></p>
 
 <p><span class="chinese">这就是我们所说的主题性释放。</span><span class="english">It's what we call a thematic rollout.</span></p>

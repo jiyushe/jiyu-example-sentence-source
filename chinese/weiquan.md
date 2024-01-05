@@ -1,5 +1,7 @@
 # 威权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiquan.md)
+
 <p><span class="chinese">不过截止目前，威权统治下的中国仍执亚洲经济增长之牛耳。</span><span class="english">But, for now, autocratic China remains Asia's lodestar.</span></p>
 
 <p><span class="chinese">神的巨大的威权是在柔和的微飔里，而不在狂风暴雨之中。</span><span class="english">God'sgreat power is in the gentle breeze, not in the storm.</span></p>

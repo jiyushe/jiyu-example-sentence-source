@@ -1,5 +1,7 @@
 # 大势所趋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashisuoqu.md)
+
 <p><span class="chinese">看得出，PLM采用云技术已经是大势所趋。</span><span class="english">I can see cloud PLM is trending.</span></p>
 
 <p><span class="chinese">入世后，开放我国律师业已是大势所趋。</span><span class="english">It is a tendency to open up this trade.</span></p>

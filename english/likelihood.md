@@ -1,5 +1,7 @@
 # likelihood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/likelihood.md)
+
 <p><span class="chinese">□阳痿的可能性增加。</span><span class="english">Increases likelihood of impotence</span></p>
 
 <p><span class="chinese">没有这件事情发生的可能性。</span><span class="english">There is no likelihood of that happening.</span></p>

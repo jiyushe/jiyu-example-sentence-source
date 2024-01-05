@@ -1,5 +1,7 @@
 # 价值连城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazhiliancheng.md)
+
 <p><span class="chinese">那幅画一定价值连城。</span><span class="english">That painting must be worth a king's ransom.</span></p>
 
 <p><span class="chinese">优秀的推荐引擎可谓价值连城。</span><span class="english">A good recommendation engine is worth a lot of money.</span></p>

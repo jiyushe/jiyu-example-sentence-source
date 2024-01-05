@@ -1,5 +1,7 @@
 # misrepresentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misrepresentation.md)
+
 <p><span class="chinese">这是对我们的政策的恶意歪曲。</span><span class="english">This is a slanderous misrepresentation of our policy.</span></p>
 
 <p><span class="chinese">我听到一些来意曲解她的话。</span><span class="english">I have heard some malevolent misrepresentation of her.</span></p>

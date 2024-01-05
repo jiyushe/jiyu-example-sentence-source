@@ -1,5 +1,7 @@
 # stereotyped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stereotyped.md)
+
 <p><span class="chinese">人们把他看成一个恶棍的成见已无法改变。</span><span class="english">He was stereotyped a villain.</span></p>
 
 <p><span class="chinese">没有剧情，没有特色，大多都是公式化。</span><span class="english">No plot, bno features. Many are stereotyped !</span></p>

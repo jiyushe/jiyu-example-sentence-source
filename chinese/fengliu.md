@@ -1,5 +1,7 @@
 # 风流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengliu.md)
+
 <p><span class="chinese">一夜风流。</span><span class="english">One night stand.</span></p>
 
 <p><span class="chinese">一夜风流。</span><span class="english">It Happened One Night.</span></p>

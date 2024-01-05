@@ -1,5 +1,7 @@
 # handyman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handyman.md)
+
 <p><span class="chinese">他曾做过杂工，曾是一名专业的弓手。</span><span class="english">He's a handyman and an expert marskman.</span></p>
 
 <p><span class="chinese">爷爷是我们这一片的能工巧匠。</span><span class="english">Grandpa is the handyman in the neighborhood.</span></p>

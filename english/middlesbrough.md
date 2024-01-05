@@ -1,5 +1,7 @@
 # middlesbrough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/middlesbrough.md)
+
 <p><span class="chinese">他在对米杜士堡和韦根一役中，表现非常出色。</span><span class="english">He did really well against Middlesbrough and Wigan.</span></p>
 
 <p><span class="chinese">米杜士堡踢来像支意大利球队，队中十一人全都在后半场防守。</span><span class="english">Middlesbrough played liked an Italian team with 11 men behind the ball.</span></p>

@@ -1,5 +1,7 @@
 # 山药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanyao_1.md)
+
 <p><span class="chinese">扬州炒饭，排骨山药汤，橘子。</span><span class="english">Fried rice, Sparerib soup with yam, Orange.</span></p>
 
 <p><span class="chinese">山药有纤体、降血糖的功用。</span><span class="english">Yam have slimming, fall blood sugar function.</span></p>

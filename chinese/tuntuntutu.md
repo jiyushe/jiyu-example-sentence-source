@@ -1,5 +1,7 @@
 # 吞吞吐吐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuntuntutu.md)
+
 <p><span class="chinese">他的声音犹豫不决，吞吞吐吐。</span><span class="english">His voice is hesitant, halting.</span></p>
 
 <p><span class="chinese">她吞吞吐吐说了一些求情的话。</span><span class="english">She stammered a few supplicating words.</span></p>

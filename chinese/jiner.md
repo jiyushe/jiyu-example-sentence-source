@@ -1,5 +1,7 @@
 # 今儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiner.md)
+
 <p><span class="chinese">今儿不会了，相信我。</span><span class="english">I won't today. Believe me.</span></p>
 
 <p><span class="chinese">你今儿啥时候最难受？</span><span class="english">What time of day is hardest for you?</span></p>

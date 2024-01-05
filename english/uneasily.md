@@ -1,5 +1,7 @@
 # uneasily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uneasily.md)
+
 <p><span class="chinese">Fowkes不安地扫视一番。</span><span class="english">Fowkes glanced around uneasily.</span></p>
 
 <p><span class="chinese">被告不安地在椅子上扭动身子。</span><span class="english">The defendant twisted uneasily in his chair.</span></p>

@@ -1,5 +1,7 @@
 # eavesdrop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eavesdrop.md)
+
 <p><span class="chinese">她停下她正在做的事情去偷听她丈夫的电话。</span><span class="english">She stopped to eavesdrop her husband´s phone talk.</span></p>
 
 <p><span class="chinese">她藏身于壁橱里，以便偷听。</span><span class="english">She ensconced herself in the closet in order to eavesdrop.</span></p>

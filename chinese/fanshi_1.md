@@ -1,5 +1,7 @@
 # 凡是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanshi_1.md)
+
 <p><span class="chinese">凡是过去，皆为序章。</span><span class="english">What's past is prologue.</span></p>
 
 <p><span class="chinese">凡是人都会犯错误。</span><span class="english">There is no man but errs.</span></p>

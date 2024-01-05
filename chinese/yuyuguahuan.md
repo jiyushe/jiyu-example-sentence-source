@@ -1,5 +1,7 @@
 # 郁郁寡欢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyuguahuan.md)
+
 <p><span class="chinese">他依旧郁郁寡欢，并且有点粗野。</span><span class="english">He remained heavy and somewhat uncouth.</span></p>
 
 <p><span class="chinese">他陷入郁郁寡欢的境地。</span><span class="english">He had plunged into an involved melancholy.</span></p>

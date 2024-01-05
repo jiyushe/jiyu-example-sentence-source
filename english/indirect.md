@@ -1,5 +1,7 @@
 # indirect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indirect.md)
+
 <p><span class="chinese">他是一种算计的动物。</span><span class="english">He is an indirect animal.</span></p>
 
 <p><span class="chinese">这条路迂回地通向海滩。</span><span class="english">This route is indirect to the beach.</span></p>

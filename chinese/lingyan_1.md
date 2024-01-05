@@ -1,5 +1,7 @@
 # 灵验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingyan_1.md)
+
 <p><span class="chinese">这药很灵验。</span><span class="english">This medicine is highly efficacious.</span></p>
 
 <p><span class="chinese">锐化是提矮图像澄辉度的灵验霸术。</span><span class="english">Sharpening is to enhance the effective method of image sharpness.</span></p>

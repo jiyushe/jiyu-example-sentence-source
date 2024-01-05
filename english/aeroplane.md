@@ -1,5 +1,7 @@
 # aeroplane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeroplane.md)
+
 <p><span class="chinese">明能听见飞机的声音。</span><span class="english">Ming can hear an aeroplane.</span></p>
 
 <p><span class="chinese">我做了一架模型飞机。</span><span class="english">I had made a model aeroplane.</span></p>

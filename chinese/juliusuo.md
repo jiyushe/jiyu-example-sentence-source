@@ -1,5 +1,7 @@
 # 拘留所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juliusuo.md)
+
 <p><span class="chinese">他从青少年拘留所潜逃了。</span><span class="english">He absconded from a remand home.</span></p>
 
 <p><span class="chinese">他在拘留所里焦急地煎熬了一天。</span><span class="english">He spent an anxious day in the lockup.</span></p>

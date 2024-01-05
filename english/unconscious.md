@@ -1,5 +1,7 @@
 # unconscious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconscious.md)
+
 <p><span class="chinese">他们把他打昏了。</span><span class="english">They beat him unconscious.</span></p>
 
 <p><span class="chinese">我这样不省人事有多久了？</span><span class="english">How long had I been unconscious?</span></p>

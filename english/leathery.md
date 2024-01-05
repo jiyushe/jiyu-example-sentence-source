@@ -1,5 +1,7 @@
 # leathery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leathery.md)
+
 <p><span class="chinese">因此，皮肤变得坚韧。</span><span class="english">Because of this, the skin becomes leathery.</span></p>
 
 <p><span class="chinese">她的皮都有皱纹了，我真是忌妒！</span><span class="english">She's all leathery and wrinkled. I'm so jealous!</span></p>

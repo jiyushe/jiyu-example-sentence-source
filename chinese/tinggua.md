@@ -1,5 +1,7 @@
 # 挺括
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tinggua.md)
+
 <p><span class="chinese">压缩封口后平整，挺括之特点。</span><span class="english">With characteristics of neatrecovering after compressing the sealing.</span></p>
 
 <p><span class="chinese">采用整烫方式尽量保证衣服各部位平整，顺直，挺括，对称。</span><span class="english">The different part of garment must be no crease, smooth after ironing.</span></p>

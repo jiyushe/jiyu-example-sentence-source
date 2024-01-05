@@ -1,5 +1,7 @@
 # glamour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glamour.md)
+
 <p><span class="chinese">妖艳的女孩。</span><span class="english">Holly was a glamour girl.</span></p>
 
 <p><span class="chinese">诗的光环消失了。</span><span class="english">The glamour of poesy is gone.</span></p>

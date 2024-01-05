@@ -1,5 +1,7 @@
 # zesty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zesty.md)
+
 <p><span class="chinese">舞会阶段则是与会嘉宾释放激情的“舞”极限时刻。</span><span class="english">The dancing part gives the guests a chance to show out themselves with zesty dance.</span></p>
 
 <p><span class="chinese">这些草莓水果香味没有很甜的味觉，伴着令人愉快的余味。</span><span class="english">These strawberry fruits continue onto the semi-sweet palate, with a lovely zesty finish.</span></p>

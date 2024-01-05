@@ -1,5 +1,7 @@
 # 壮美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangmei.md)
+
 <p><span class="chinese">祈祷中的莱布尼茨③是伟大的，崇拜中的伏尔泰是壮美的。</span><span class="english">Leibnitz praying is grand, Voltaire adoring is fine.</span></p>
 
 <p><span class="chinese">佛光是峨眉山最壮美的奇观。</span><span class="english">Mount Emei Buddha is the most magnificent spectacle.</span></p>

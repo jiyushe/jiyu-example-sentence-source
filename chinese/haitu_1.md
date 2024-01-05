@@ -1,5 +1,7 @@
 # 海涂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haitu_1.md)
+
 <p><span class="chinese">我国幅员辽阔，江河密布，海涂宽广，具有巨大的开发潜力。</span><span class="english">It is giant exploitation potentiality in our country with the numerous rivers.</span></p>
 
 <p><span class="chinese">慈溪县位于宁波地区东部沿海，海涂面积大，海涂资源丰富。</span><span class="english">Cixi county is located in the coastal area, east of Ningbo city, Zhejiang Province.</span></p>

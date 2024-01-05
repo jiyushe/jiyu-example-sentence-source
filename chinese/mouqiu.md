@@ -1,5 +1,7 @@
 # 谋求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mouqiu.md)
+
 <p><span class="chinese">他钻营谋求加薪。</span><span class="english">He  bucked for a raise.</span></p>
 
 <p><span class="chinese">谋求持久的不均衡。</span><span class="english">Seek persistent disequilibrium.</span></p>

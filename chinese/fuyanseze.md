@@ -1,5 +1,7 @@
 # 敷衍塞责
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyanseze.md)
+
 <p><span class="chinese">不要指望一个敷衍塞责的人来帮你。</span><span class="english">Don't count on a slacker to help.</span></p>
 
 <p><span class="chinese">决不消极应付、敷衍塞责、推卸责任。</span><span class="english">No negative coping, muddle with one's duty, pass the buck.</span></p>

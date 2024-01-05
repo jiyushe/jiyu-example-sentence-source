@@ -1,5 +1,7 @@
 # sopped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sopped.md)
+
 <p><span class="chinese">他用粉笔吸干了墨水。</span><span class="english">He sopped up the ink with  chalk.</span></p>
 
 <p><span class="chinese">她用一块布抹去溢出的牛奶。</span><span class="english">She sopped up the spilt milk with a cloth.</span></p>

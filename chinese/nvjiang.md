@@ -1,5 +1,7 @@
 # 女将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvjiang.md)
+
 <p><span class="chinese">欧文家的三员女将都在飞往布鲁塞尔的航班上。</span><span class="english">All three of the Owen women were on the plane bound for Brussels.</span></p>
 
 <p><span class="chinese">中国的长跑女将都是用这个来增强耐力的。</span><span class="english">It's what the Chinese women distance runners use to improve their endurance.</span></p>

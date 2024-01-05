@@ -1,5 +1,7 @@
 # 骂骂咧咧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mamalielie.md)
+
 <p><span class="chinese">他骂骂咧咧地走了进来。</span><span class="english">He entered vociferating curses.</span></p>
 
 <p><span class="chinese">杰克常会整天争论不休骂骂咧咧。</span><span class="english">Jack would argue and eff all day long.</span></p>

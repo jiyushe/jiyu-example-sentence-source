@@ -1,5 +1,7 @@
 # ethiopia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethiopia.md)
+
 <p><span class="chinese">麦拉库来自埃塞俄比亚。</span><span class="english">Melaku is from Ethiopia.</span></p>
 
 <p><span class="chinese">摩卡咖啡生长于非洲的埃塞俄比亚。</span><span class="english">Mocha coffee was grown in Ethiopia of Africa.</span></p>

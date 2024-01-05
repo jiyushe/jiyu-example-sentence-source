@@ -1,5 +1,7 @@
 # 食物中毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwuzhongdu.md)
+
 <p><span class="chinese">我食物中毒了。</span><span class="english">I have food poisoning.</span></p>
 
 <p><span class="chinese">是的，我食物中毒过。</span><span class="english">Yes, I have had food poisoning.</span></p>

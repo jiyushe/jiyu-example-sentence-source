@@ -1,5 +1,7 @@
 # 幸好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinghao_1.md)
+
 <p><span class="chinese">幸好，无妨，还是…好。</span><span class="english">Just as well adv.</span></p>
 
 <p><span class="chinese">幸好运气和他们同在。</span><span class="english">But luck stayed with them.</span></p>

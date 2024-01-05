@@ -1,5 +1,7 @@
 # relinquishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relinquishment.md)
+
 <p><span class="chinese">这使人们很难相信乔伊的放弃理论。</span><span class="english">This makes Joy's relinquishment argument hard to swallow.</span></p>
 
 <p><span class="chinese">无疑地它必须放下悭吝、执著与贪心。</span><span class="english">Certainly it involves relinquishment of stinginess, clinging and greed.</span></p>

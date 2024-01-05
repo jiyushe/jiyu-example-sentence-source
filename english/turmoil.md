@@ -1,5 +1,7 @@
 # turmoil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turmoil.md)
+
 <p><span class="chinese">所以，心混乱了，世界就倾斜了。</span><span class="english">October. at CUC. Turmoil in my heart.</span></p>
 
 <p><span class="chinese">中国不搞四个坚持能行吗？</span><span class="english">Without them, China would be in turmoil.</span></p>

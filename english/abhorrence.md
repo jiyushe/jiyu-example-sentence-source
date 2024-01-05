@@ -1,5 +1,7 @@
 # abhorrence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abhorrence.md)
+
 <p><span class="chinese">她痛恨地看著他。</span><span class="english">She looked at him with abhorrence.</span></p>
 
 <p><span class="chinese">可惜无论是什么样的装假，我都痛恨。</span><span class="english">But disguise of every sort is my abhorrence.</span></p>

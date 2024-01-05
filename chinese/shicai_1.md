@@ -1,5 +1,7 @@
 # 适才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shicai_1.md)
+
 <p><span class="chinese">你适才看见琼了吗？</span><span class="english">Did you see Joan just now?</span></p>
 
 <p><span class="chinese">对不起，我适才没听。</span><span class="english">Sorry, I wasn't listening.</span></p>

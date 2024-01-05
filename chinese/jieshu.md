@@ -1,5 +1,7 @@
 # 劫数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshu.md)
+
 <p><span class="chinese">他的劫数已定。</span><span class="english">His doom is sealed.</span></p>
 
 <p><span class="chinese">我一眼就知道，他就是我的劫数了。</span><span class="english">I know at a glance, he is my plunders the.</span></p>

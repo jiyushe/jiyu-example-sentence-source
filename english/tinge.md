@@ -1,5 +1,7 @@
 # tinge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinge.md)
+
 <p><span class="chinese">你应该带黄。色彩越来越。</span><span class="english">You should be getting a yellowish tinge.</span></p>
 
 <p><span class="chinese">如果你对他们说“不”，你会觉得有点罪恶感。</span><span class="english">If you say no, you feel a tinge of guilt.</span></p>

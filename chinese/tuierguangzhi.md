@@ -1,5 +1,7 @@
 # 推而广之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuierguangzhi.md)
+
 <p><span class="chinese">现在，让我们将这个比喻推而广之，将它应用到你和你的生活。</span><span class="english">Let's take this metaphor, blow it up and apply it to you and your life.</span></p>
 
 <p><span class="chinese">新月的策略应该推而广之成为文学现代化的策略。</span><span class="english">Its method should be widely spreaded to stimulate the modernization of literature.</span></p>

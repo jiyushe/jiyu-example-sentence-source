@@ -1,5 +1,7 @@
 # writhe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/writhe.md)
+
 <p><span class="chinese">她的话羞得他十分难堪。</span><span class="english">Her remarks made him writhe with shame.</span></p>
 
 <p><span class="chinese">他们肯定对这种压力感到苦恼。</span><span class="english">They surely writhe under this pressure.</span></p>

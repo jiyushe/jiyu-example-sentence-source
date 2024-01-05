@@ -1,5 +1,7 @@
 # fluoride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluoride.md)
+
 <p><span class="chinese">还是含氟量高的？！</span><span class="english">Fluoride?</span></p>
 
 <p><span class="chinese">但是氟是如何发挥其魔力的？</span><span class="english">But how does fluoride work its magic?</span></p>

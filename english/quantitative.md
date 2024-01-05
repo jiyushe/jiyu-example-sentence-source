@@ -1,5 +1,7 @@
 # quantitative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantitative.md)
+
 <p><span class="chinese">这种模型是量化的。</span><span class="english">And this model is quantitative.</span></p>
 
 <p><span class="chinese">他需要得到定量的因素。</span><span class="english">And, he needed to get quantitative.</span></p>

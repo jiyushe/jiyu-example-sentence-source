@@ -1,5 +1,7 @@
 # caboose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caboose.md)
+
 <p><span class="chinese">我指着车尾。</span><span class="english">I point to the caboose.</span></p>
 
 <p><span class="chinese">这辆火车，车尾只是一部分。</span><span class="english">The train. The caboose is just a part.</span></p>

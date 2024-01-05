@@ -1,5 +1,7 @@
 # arthritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthritis.md)
+
 <p><span class="chinese">有关节炎者。</span><span class="english">You have arthritis.</span></p>
 
 <p><span class="chinese">关节炎把她折腾得够呛。</span><span class="english">Her arthritis troubles her greatly.</span></p>

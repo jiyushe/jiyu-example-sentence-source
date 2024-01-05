@@ -1,5 +1,7 @@
 # 优质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhi.md)
+
 <p><span class="chinese">她喜欢戴优质珍珠。</span><span class="english">She enjoys wearing orients.</span></p>
 
 <p><span class="chinese">威丽优质伦敦口味纯干杜松子酒。</span><span class="english">Wembley London Dry Gin N. V.</span></p>

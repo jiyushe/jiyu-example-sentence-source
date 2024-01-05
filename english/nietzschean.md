@@ -1,5 +1,7 @@
 # nietzschean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nietzschean.md)
+
 <p><span class="chinese">本文试图把超越思想理解为尼采哲学的主旨。</span><span class="english">I think Nietzschean leitmotiv is the transcending thought.</span></p>
 
 <p><span class="chinese">现在，就让我们狂妄一回，以一种尼采式的姿态来宣布。</span><span class="english">Now, boldly, let's declare in a Nietzschean manner , that.</span></p>

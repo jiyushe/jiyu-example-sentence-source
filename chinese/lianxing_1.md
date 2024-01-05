@@ -1,5 +1,7 @@
 # 脸形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianxing_1.md)
+
 <p><span class="chinese">如果你的脸形是圆的」力就选个刚好切合你脸型大小的发型。</span><span class="english">If your face is round, choose a hairstyle that frames your face.</span></p>
 
 <p><span class="chinese">他们的脸形一般较长，因此西装领子较宽广狭长。</span><span class="english">They face a long, therefore suit than the broad and narrow collar.</span></p>

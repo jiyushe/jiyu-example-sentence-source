@@ -1,5 +1,7 @@
 # reelection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reelection.md)
+
 <p><span class="chinese">1984年初，到了再次参加连任竞选的时候了。</span><span class="english">In early 1984, it was time to run for reelection again.</span></p>
 
 <p><span class="chinese">德国总理格哈德·施罗德将再次竞选的基础建立在反对伊拉克战争之上。</span><span class="english">German Chancellor Gerhard Schroeder based his reelection campaign on opposition to the war.</span></p>

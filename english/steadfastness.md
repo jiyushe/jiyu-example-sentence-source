@@ -1,5 +1,7 @@
 # steadfastness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steadfastness.md)
+
 <p><span class="chinese">它代表坚定不移，勇气及希望。</span><span class="english">It is steadfastness and courage and hope.</span></p>
 
 <p><span class="chinese">一切安稳的根基在于对上帝的奉献。</span><span class="english">The root of all steadfastness is in consecration to God.</span></p>

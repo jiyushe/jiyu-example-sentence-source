@@ -1,5 +1,7 @@
 # 古装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzhuang.md)
+
 <p><span class="chinese">两颗相爱的心之彩虹堂古装间不需要言语。</span><span class="english">No words are nece ary between two loving hearts.</span></p>
 
 <p><span class="chinese">她特别喜欢这本画满了古装粉黛的画册。</span><span class="english">She likes this picture book of ancient beauties.</span></p>

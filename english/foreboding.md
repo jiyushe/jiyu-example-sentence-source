@@ -1,5 +1,7 @@
 # foreboding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreboding.md)
+
 <p><span class="chinese">是否先兆流产？</span><span class="english">Whether or not foreboding abortion?</span></p>
 
 <p><span class="chinese">那是一个非常有维多利亚预感的机构。</span><span class="english">It’s a very foreboding Victorian institution.</span></p>

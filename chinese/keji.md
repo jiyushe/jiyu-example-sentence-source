@@ -1,5 +1,7 @@
 # 克己
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keji.md)
+
 <p><span class="chinese">你为什么如此克己呢？</span><span class="english">Why are you so ascetic?</span></p>
 
 <p><span class="chinese">他们属于更加克己的上一代人。</span><span class="english">They belong to an older, more self-denying generation.</span></p>

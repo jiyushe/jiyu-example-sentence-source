@@ -1,5 +1,7 @@
 # alleviation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alleviation.md)
+
 <p><span class="chinese">扶贫贷款，1994年至今。</span><span class="english">For poverty alleviation loans 1994--now.</span></p>
 
 <p><span class="chinese">扶贫已成为印尼政府的一项重点工作。</span><span class="english">Poverty alleviation has become a priority for Indonesia.</span></p>

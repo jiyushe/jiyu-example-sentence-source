@@ -1,5 +1,7 @@
 # 猪苓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuling.md)
+
 <p><span class="chinese">猪苓自身也具有从周围环境中吸收营养物质的能力。</span><span class="english">Grifola umbellate could also absorb nutrition from the earth.</span></p>
 
 <p><span class="chinese">猪苓在医疗方面表现出良好的应用前景。</span><span class="english">In the performance of health care, polyporus had a good prospect.</span></p>

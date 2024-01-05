@@ -1,5 +1,7 @@
 # 爱女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ainv.md)
+
 <p><span class="chinese">爱女人的声音。</span><span class="english">Love the woman's voice.</span></p>
 
 <p><span class="chinese">他不能正常地爱女孩子。</span><span class="english">He could not love girls normally.</span></p>

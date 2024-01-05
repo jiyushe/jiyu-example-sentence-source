@@ -1,5 +1,7 @@
 # pdp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pdp.md)
+
 <p><span class="chinese">关键持牌人包括怪物，等离子和Razer。</span><span class="english">Key licensees include Monster, PDP and Razer.</span></p>
 
 <p><span class="chinese">彩色等离子体显示器正在东山再起，重显昔日风采。</span><span class="english">Color PDP is just bob up like a cork, recurring in former days mien.</span></p>

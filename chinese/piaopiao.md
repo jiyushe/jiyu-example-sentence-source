@@ -1,5 +1,7 @@
 # 飘飘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaopiao.md)
+
 <p><span class="chinese">红旗飘飘。</span><span class="english">Red flags are fluttering.</span></p>
 
 <p><span class="chinese">落花随风飘飘摇摇。</span><span class="english">Fallen petal shaking in wind.</span></p>

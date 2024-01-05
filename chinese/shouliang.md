@@ -1,5 +1,7 @@
 # 受凉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouliang.md)
+
 <p><span class="chinese">注意保暖，避免受凉。</span><span class="english">Keep warm. Prevent from cold.</span></p>
 
 <p><span class="chinese">当雏鸡受凉时会发生什么？</span><span class="english">What Happens when Chicks Get Cold?</span></p>

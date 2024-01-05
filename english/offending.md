@@ -1,5 +1,7 @@
 # offending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offending.md)
+
 <p><span class="chinese">他们甚至都没有看一眼讨厌的DVD。</span><span class="english">They did not even look at the offending DVD.</span></p>
 
 <p><span class="chinese">你总是出言不逊得罪人。</span><span class="english">You are always abusing and offending people.</span></p>

@@ -1,5 +1,7 @@
 # palaestra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palaestra.md)
+
 <p><span class="chinese">大约5分钟之后我们到达了目的地，这是体育场的正面。</span><span class="english">Maybe 5minites we got the destination, this is the front view of the palaestra.</span></p>
 
 <p><span class="chinese">我相信每个球场总是至少有一两个高手的。</span><span class="english">I believe there are always at least one or two splendid players in one palaestra.</span></p>

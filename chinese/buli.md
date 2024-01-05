@@ -1,5 +1,7 @@
 # 不利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buli.md)
+
 <p><span class="chinese">而且有些方法不利于健康。</span><span class="english">And some may not be healthy.</span></p>
 
 <p><span class="chinese">仲裁对他们不利。</span><span class="english">The arbitration is against them.</span></p>

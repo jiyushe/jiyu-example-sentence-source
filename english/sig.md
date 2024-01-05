@@ -1,5 +1,7 @@
 # sig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sig.md)
+
 <p><span class="chinese">按照这个相当容易的指南可以做一个签名。</span><span class="english">A fairly easy tutorial to follow to make a sig.</span></p>
 
 <p><span class="chinese">船用烟火信号通用技术条件。</span><span class="english">General specifications of pyrotechnic distress sig.</span></p>

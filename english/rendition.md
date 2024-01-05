@@ -1,5 +1,7 @@
 # rendition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rendition.md)
+
 <p><span class="chinese">罗拉演绎了她自编的硫黄岛战役。</span><span class="english">Lola shows us her own rendition of Iwo Jima.</span></p>
 
 <p><span class="chinese">他们将贝多芬的一篇交响曲演译得很优秀。</span><span class="english">They gave an excellent rendition of a Beethoven symphony.</span></p>

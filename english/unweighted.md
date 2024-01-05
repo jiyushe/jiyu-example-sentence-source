@@ -1,5 +1,7 @@
 # unweighted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unweighted.md)
+
 <p><span class="chinese">不加权的指数指简单算术平均或几何平均数。</span><span class="english">Unweighted indices are simple arithmetic or geometric averages.</span></p>
 
 <p><span class="chinese">在美国，一个没有加权的GPA是指所有学科成绩以4.0为满分时的平均值。</span><span class="english">In the US, an unweighted GPA is the average grade in all your classes based on a 4.0 scale.</span></p>

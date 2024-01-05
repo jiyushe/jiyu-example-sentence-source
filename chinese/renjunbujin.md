@@ -1,5 +1,7 @@
 # 忍俊不禁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renjunbujin.md)
+
 <p><span class="chinese">她忍俊不禁地颤动着嘴唇。</span><span class="english">Her lips twitched with amusement.</span></p>
 
 <p><span class="chinese">听了他那荒谬的意见，我忍俊不禁走开了。</span><span class="english">On hearing his absurd opinion , i went snickering.</span></p>

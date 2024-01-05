@@ -1,5 +1,7 @@
 # unreasonable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreasonable.md)
+
 <p><span class="chinese">这事不合理。</span><span class="english">This affair is unreasonable.</span></p>
 
 <p><span class="chinese">这完整是不讲理。</span><span class="english">This is totally unreasonable.</span></p>

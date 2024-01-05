@@ -1,5 +1,7 @@
 # purchase 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purchase.md)
+
 <p><span class="chinese">本项目常期采购。</span><span class="english">Long period purchase.</span></p>
 
 <p><span class="chinese">切勿购买整个城镇。</span><span class="english">Never purchase a town.</span></p>

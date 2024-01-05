@@ -1,5 +1,7 @@
 # glyoxal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glyoxal.md)
+
 <p><span class="chinese">利用报废的液体推进剂硝酸-27S和乙醛制备乙二醛。</span><span class="english">Glyoxal is prepared with waste liquid propellant HNO3-27S and ethanal.</span></p>
 
 <p><span class="chinese">在催化剂存在下，用双氧水氧化乙二醛溶液快速合成了乙醛酸。</span><span class="english">Glyoxylic acid was rapidly synthesized by catalytic oxidation of glyoxal with H2O2.</span></p>

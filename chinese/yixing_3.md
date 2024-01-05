@@ -1,5 +1,7 @@
 # 异性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixing_3.md)
+
 <p><span class="chinese">这就是异性相吸的原因所在。</span><span class="english">This is why opposites attract.</span></p>
 
 <p><span class="chinese">晚会和爽滑的异性气息。</span><span class="english">A party and the talcum smell of sex.</span></p>

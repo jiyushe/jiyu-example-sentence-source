@@ -1,5 +1,7 @@
 # 眼巴巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanbaba.md)
+
 <p><span class="chinese">他的继承人正眼巴巴地盼着他死呢。</span><span class="english">His heirs were greedily waiting for him to kick the bucket.</span></p>
 
 <p><span class="chinese">凭什么我要给你再做一双脚呢？是为了眼巴巴看着你再打家里溜出去吗？</span><span class="english">Why should I make your feet over again? To see you run away from home once more?</span></p>

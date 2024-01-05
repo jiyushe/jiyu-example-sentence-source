@@ -1,5 +1,7 @@
 # 铜锣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongluo.md)
+
 <p><span class="chinese">踩踏着一面铜锣的野蛮的铿锵节拍。</span><span class="english">Goes to the barbarous clangour of a gong.</span></p>
 
 <p><span class="chinese">那个大铜锣和锤子是干什麽用的？</span><span class="english">What is the big brass gong and hammer for?</span></p>

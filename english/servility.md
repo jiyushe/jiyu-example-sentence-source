@@ -1,5 +1,7 @@
 # servility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/servility.md)
+
 <p><span class="chinese">他看到我，脱掉帽子，满脸都是阿谀的神色。</span><span class="english">When he saw me, he took off his hat with an air of gorgeous servility.</span></p>
 
 <p><span class="chinese">他的一部分，铝-马利基已表示是有限制的，以他的奴性。</span><span class="english">For his part al-Maliki has indicated there are limits to his servility.</span></p>

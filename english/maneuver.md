@@ -1,5 +1,7 @@
 # maneuver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maneuver.md)
+
 <p><span class="chinese">大回环是一个很酷的机动动作。</span><span class="english">The power loop is a cool maneuver.</span></p>
 
 <p><span class="chinese">一个大的战略上的侧翼包围…</span><span class="english">A vast, strategic maneuver to outflank.</span></p>

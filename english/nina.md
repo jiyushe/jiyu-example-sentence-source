@@ -1,5 +1,7 @@
 # nina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nina.md)
+
 <p><span class="chinese">妮娜你选了什么</span><span class="english">Nina what did you do?</span></p>
 
 <p><span class="chinese">请大点声说</span><span class="english">Nina. Say again loudly.</span></p>

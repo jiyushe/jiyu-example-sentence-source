@@ -1,5 +1,7 @@
 # transcendent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcendent.md)
+
 <p><span class="chinese">没有超宇宙的秩序或力量的存在。</span><span class="english">There's no transcendent cosmic order or power.</span></p>
 
 <p><span class="chinese">对人的超验抱负，他既肯定又否定。</span><span class="english">He both affirms and denies the transcendent aspirations of men.</span></p>

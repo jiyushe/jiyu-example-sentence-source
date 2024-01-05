@@ -1,5 +1,7 @@
 # decline 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decline.md)
+
 <p><span class="chinese">还是婉言谢绝？</span><span class="english">Or do you decline?</span></p>
 
 <p><span class="chinese">抑或男人一词的衰亡。</span><span class="english">Or the decline of man.</span></p>

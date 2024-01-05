@@ -1,5 +1,7 @@
 # schadenfreude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schadenfreude.md)
+
 <p><span class="chinese">幸灾乐祸是快乐的事。</span><span class="english">Schadenfreude is beste Freude.</span></p>
 
 <p><span class="chinese">但那种幸灾乐祸不会持续很久。</span><span class="english">But that schadenfreude doesn't last long.</span></p>

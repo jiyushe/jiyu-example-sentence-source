@@ -1,5 +1,7 @@
 # transformer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transformer.md)
+
 <p><span class="chinese">这就是变压器的工作原理。</span><span class="english">That is how a transformer works.</span></p>
 
 <p><span class="chinese">因为有一个变压器。</span><span class="english">There is a transformer in there.</span></p>

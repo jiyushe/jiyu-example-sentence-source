@@ -1,5 +1,7 @@
 # 事后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihou.md)
+
 <p><span class="chinese">“事后”审查。</span><span class="english">"Post-mortem" reviews.</span></p>
 
 <p><span class="chinese">徐是早上-事后避孕药。</span><span class="english">SEO is the morning-after pill.</span></p>

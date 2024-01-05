@@ -1,5 +1,7 @@
 # 战国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanguo.md)
+
 <p><span class="chinese">没错儿。战国时期有很多国家。</span><span class="english">It's called the Warring States Period.</span></p>
 
 <p><span class="chinese">这不我们已经到了战国风情园了。</span><span class="english">We're already in the Warring States Park.</span></p>

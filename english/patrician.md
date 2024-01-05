@@ -1,5 +1,7 @@
 # patrician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patrician.md)
+
 <p><span class="chinese">阿米莉亚与贵族加布里埃尔‧阿多诺相恋。</span><span class="english">Amelia's lover is the patrician Gabriele Adorno.</span></p>
 
 <p><span class="chinese">生于贵族家庭，他的家族曾产生过几名罗马执政官。</span><span class="english">He was born into a patrician family that had produced several consuls.</span></p>

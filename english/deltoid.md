@@ -1,5 +1,7 @@
 # deltoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deltoid.md)
+
 <p><span class="chinese">婴儿和幼儿的三角肌很小。</span><span class="english">The deltoid muscle is small in infants and young children.</span></p>
 
 <p><span class="chinese">三角韧带在应力作用下，足部旋前。</span><span class="english">The deltoid ligament is under stress when the foot is pronated.</span></p>

@@ -1,5 +1,7 @@
 # 通力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongli_1.md)
+
 <p><span class="chinese">通力电梯给您最好的服务！</span><span class="english">KONE Elevator to you the best service!</span></p>
 
 <p><span class="chinese">通力已经收购了龙电梯及机械有限公司。</span><span class="english">KONE has acquired Long Elevator & Machine Co.</span></p>

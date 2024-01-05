@@ -1,5 +1,7 @@
 # brotherly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brotherly.md)
+
 <p><span class="chinese">稳定，民主，友爱，和平。</span><span class="english">Stability, democracy, brotherly love, peace.</span></p>
 
 <p><span class="chinese">你对她只是兄妹之情，为什么现在又会这样？</span><span class="english">You just a brotherly affection for her, why is it so?</span></p>

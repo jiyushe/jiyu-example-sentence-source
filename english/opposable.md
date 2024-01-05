@@ -1,5 +1,7 @@
 # opposable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opposable.md)
+
 <p><span class="chinese">无对抗性竖起大拇指，甚至手指。</span><span class="english">Without opposable thumbs, or even fingers.</span></p>
 
 <p><span class="chinese">没有进化论，你怎么解释可相对的大拇指？</span><span class="english">Without evolution, how do you explain opposable thumbs?</span></p>

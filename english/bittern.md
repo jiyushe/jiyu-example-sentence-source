@@ -1,5 +1,7 @@
 # bittern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bittern.md)
+
 <p><span class="chinese">癌痛喝卤水？？？</span><span class="english">Is cancer painful drink bittern? ?? ?</span></p>
 
 <p><span class="chinese">提出了以卤代盐制碱的设想。</span><span class="english">And the plan of bittern replaced salt was put forward.</span></p>

@@ -1,5 +1,7 @@
 # attemper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attemper.md)
+
 <p><span class="chinese">调度中心所有的数据都存储于数据库中。</span><span class="english">All the data of the attemper center are stored in the database.</span></p>
 
 <p><span class="chinese">触摸式智能调度台是JSQ-31-128程控调度机的专用终端设备。</span><span class="english">Intelligent attemper telephone is the special terminal of JSQ-31-128.</span></p>

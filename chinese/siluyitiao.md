@@ -1,5 +1,7 @@
 # 死路一条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siluyitiao.md)
+
 <p><span class="chinese">你又饥又渴，最终死路一条。</span><span class="english">You're hungry, thirsty and eventually you'll die.</span></p>
 
 <p><span class="chinese">有人说婚姻是坟墓，踏进去只有死路一条。</span><span class="english">Why do men have to enter the tomb to the end then?</span></p>

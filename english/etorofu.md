@@ -1,5 +1,7 @@
 # etorofu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etorofu.md)
+
 <p><span class="chinese">代表团一行计划于2月1日访问择捉岛。</span><span class="english">The delegation plans to visit on February 1 Etorofu Island.</span></p>
 
 <p><span class="chinese">前原诚司这次是以怎样的身份对择捉岛进行访问？</span><span class="english">Maehara, this is how the identity of the island of Etorofu visit?</span></p>

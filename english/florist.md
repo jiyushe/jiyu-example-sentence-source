@@ -1,5 +1,7 @@
 # florist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/florist.md)
+
 <p><span class="chinese">五颜六色的香石竹被摆到花店里。</span><span class="english">Colorful carnations were placed in florist.</span></p>
 
 <p><span class="chinese">不满意的顾客责骂花商。</span><span class="english">The dissatisfied customer berated the florist.</span></p>

@@ -1,5 +1,7 @@
 # 耕畜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gengchu.md)
+
 <p><span class="chinese">在干旱时期，很多耕畜都生病或者死亡了。</span><span class="english">During droughts, many farm animals get sick or die.</span></p>
 
 <p><span class="chinese">它们也将提供饲料来饲养更多耕畜。</span><span class="english">They will also provide feed for raising more draught animals.</span></p>

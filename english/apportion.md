@@ -1,5 +1,7 @@
 # apportion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apportion.md)
+
 <p><span class="chinese">为许多工作分配时间。</span><span class="english">Apportion time among various employments.</span></p>
 
 <p><span class="chinese">如果你们把股权就这么分了，那无疑就做错了。</span><span class="english">If you apportion equity, you will certainly do it wrong.</span></p>

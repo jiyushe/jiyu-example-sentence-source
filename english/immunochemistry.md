@@ -1,5 +1,7 @@
 # immunochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunochemistry.md)
+
 <p><span class="chinese">免疫组化试验结果为阳性。</span><span class="english">The assay result of immunochemistry was positive.</span></p>
 
 <p><span class="chinese">以免疫酶组织化学方法检测兔肺、肝、脾、肾组织中烟曲霉抗原。</span><span class="english">The antigen of A. fumigatus in tissue was detected by immunochemistry.</span></p>

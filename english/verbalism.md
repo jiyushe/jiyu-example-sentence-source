@@ -1,5 +1,7 @@
 # verbalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verbalism.md)
+
 <p><span class="chinese">礼貌的言辞是对别人的尊重。</span><span class="english">Polite verbalism is the respect to others.</span></p>
 
 <p><span class="chinese">想法瞬间可得，但表达出来却花费时间。</span><span class="english">The idea was immediate but the verbalism took hours.</span></p>

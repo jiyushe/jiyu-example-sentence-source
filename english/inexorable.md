@@ -1,5 +1,7 @@
 # inexorable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexorable.md)
+
 <p><span class="chinese">合流是历史的必然。</span><span class="english">Confluence is an inexorable historical trend.</span></p>
 
 <p><span class="chinese">他事业的上升势头锐不可当。</span><span class="english">His own career continues its inexorable ascent.</span></p>

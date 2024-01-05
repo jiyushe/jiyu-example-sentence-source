@@ -1,5 +1,7 @@
 # 二老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erlao.md)
+
 <p><span class="chinese">你二老也得享受享受啦。</span><span class="english">You may also enjoy enjoy telephone.</span></p>
 
 <p><span class="chinese">请二老多多保重身体。</span><span class="english">Please two old very much take care the body.</span></p>

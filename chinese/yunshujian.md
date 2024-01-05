@@ -1,5 +1,7 @@
 # 运输舰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunshujian.md)
+
 <p><span class="chinese">到第二波攻击结束时，只剩下五艘驱逐舰和一艘运输舰。</span><span class="english">When the Allied bombers left, all that existed were five destroyers and a transport.</span></p>
 
 <p><span class="chinese">船坞运输舰LPD有飞行甲板，通常设在坞舱上方，可供多至5架直升机作业。</span><span class="english">An LPD also has a flight deck, usually aft over the well-deck, for operating up to five helicopters.</span></p>

@@ -1,5 +1,7 @@
 # hypothetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothetically.md)
+
 <p><span class="chinese">他问道。</span><span class="english">"Hypothetically?" he asked.</span></p>
 
 <p><span class="chinese">我只是说假设。</span><span class="english">I just meant hypothetically.</span></p>

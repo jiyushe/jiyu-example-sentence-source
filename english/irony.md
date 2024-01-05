@@ -1,5 +1,7 @@
 # irony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irony.md)
+
 <p><span class="chinese">这真是讽刺。</span><span class="english">There's an irony.</span></p>
 
 <p><span class="chinese">还有比这更讽刺的吗？</span><span class="english">The irony in all this?</span></p>

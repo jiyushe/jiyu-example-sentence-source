@@ -1,5 +1,7 @@
 # 暗器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anqi.md)
+
 <p><span class="chinese">结果他被叶公瑾的暗器杀死。</span><span class="english">As a result, he was killed by leaf GongJin concealed weapon.</span></p>
 
 <p><span class="chinese">飞镖暗器之一。亦称脱手镖。是古代战场上常用的一种暗器。</span><span class="english">A kind of hidden weapons, which are also called darts out of the hand.</span></p>

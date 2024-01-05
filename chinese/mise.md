@@ -1,5 +1,7 @@
 # 米色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mise.md)
+
 <p><span class="chinese">颜色范围可以从香槟色到米色。</span><span class="english">Color ranges from champagne to beige.</span></p>
 
 <p><span class="chinese">对不起，请问那个米色的钱包多少钱？</span><span class="english">Excuse me.How much is that cream-colored purse?</span></p>

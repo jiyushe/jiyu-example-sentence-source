@@ -1,5 +1,7 @@
 # orthonormal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthonormal.md)
+
 <p><span class="chinese">基频与通频的正则扩大。</span><span class="english">Orthonormal expansions at baseband and passband.</span></p>
 
 <p><span class="chinese">同时构造该核特征空间的一组正交基。</span><span class="english">And an orthonormal basis of the kernel feature space is constructed.</span></p>

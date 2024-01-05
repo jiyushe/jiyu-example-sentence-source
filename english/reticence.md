@@ -1,5 +1,7 @@
 # reticence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reticence.md)
+
 <p><span class="chinese">他在爱情上的沉默延长了魔法。</span><span class="english">But his reticence of love prolonged it.</span></p>
 
 <p><span class="chinese">爱情，在静穆中生长，又在遐想中浓郁。</span><span class="english">Love grows in reticence and matures in reverie.</span></p>

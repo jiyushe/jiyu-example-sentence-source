@@ -1,5 +1,7 @@
 # haddock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haddock.md)
+
 <p><span class="chinese">玫瑰和鳕鱼的气味又来了。</span><span class="english">So, some whiffs of roses and haddock.</span></p>
 
 <p><span class="chinese">好，请给我来点儿黑线鳕和炸土豆片。</span><span class="english">Yes. Haddock and chips for me, please.</span></p>

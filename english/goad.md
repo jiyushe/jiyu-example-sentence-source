@@ -1,5 +1,7 @@
 # goad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goad.md)
+
 <p><span class="chinese">他们劝杰克不要冲动，返回反恐组去与家人团聚。</span><span class="english">They goad Jack to go back inside to be with his family.</span></p>
 
 <p><span class="chinese">他们也可以刺激我们进入战术错误和战略上的失误。</span><span class="english">They can goad us into tactical errors and strategic blunders.</span></p>

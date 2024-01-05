@@ -1,5 +1,7 @@
 # 短处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanchu.md)
+
 <p><span class="chinese">他承认自己的短处。</span><span class="english">He admitted his weakness.</span></p>
 
 <p><span class="chinese">人皆有短处。</span><span class="english">We all have some shortcomings.</span></p>

@@ -1,5 +1,7 @@
 # 耳鬓厮磨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erbinsimo.md)
+
 <p><span class="chinese">神情好似情人间的耳鬓厮磨。</span><span class="english">Facial expression agreeable sweetheart of quite intimate.</span></p>
 
 <p><span class="chinese">按照伊朗的伊斯兰教法，未婚恋人是不能耳鬓厮磨的。</span><span class="english">Under Iran's Islamic law, unmarried couples are not allowed to mingle.</span></p>

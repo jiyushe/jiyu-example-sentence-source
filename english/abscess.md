@@ -1,5 +1,7 @@
 # abscess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abscess.md)
+
 <p><span class="chinese">他息了肺脓肿。</span><span class="english">His breath the lung abscess.</span></p>
 
 <p><span class="chinese">我脖子上长了个脓包。</span><span class="english">I developed an abscess on my neck.</span></p>

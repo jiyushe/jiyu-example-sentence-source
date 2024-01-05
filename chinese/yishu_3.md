@@ -1,5 +1,7 @@
 # 艺术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishu_3.md)
+
 <p><span class="chinese">大师级的艺术。</span><span class="english">Master of Arts.</span></p>
 
 <p><span class="chinese">艺术是人造物，艺术包含许多文化包袱。</span><span class="english">Art is man-made.</span></p>

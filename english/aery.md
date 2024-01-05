@@ -1,5 +1,7 @@
 # aery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aery.md)
+
 <p><span class="chinese">在你的磅礴之气的蔚蓝的波面。</span><span class="english">On the blue surface of thine aery surge.</span></p>
 
 <p><span class="chinese">胎盘显示大量出血，与子宫剥离。</span><span class="english">The placenta demonstrated aery large bleed, consistent with an abruption.</span></p>

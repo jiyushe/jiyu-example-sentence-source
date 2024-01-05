@@ -1,5 +1,7 @@
 # soon 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soon.md)
+
 <p><span class="chinese">快面女起床！</span><span class="english">Get up soon.</span></p>
 
 <p><span class="chinese">今天过得愉快吗？</span><span class="english">Get tup soon.</span></p>

@@ -1,5 +1,7 @@
 # radian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radian.md)
+
 <p><span class="chinese">手臂带点晃动，但是弧度不能太大。</span><span class="english">Arm belt sway, but not too big radian.</span></p>
 
 <p><span class="chinese">在厚刘海中剪出流线型的弧度。</span><span class="english">A clipper-built radian is cut in thick bang.</span></p>

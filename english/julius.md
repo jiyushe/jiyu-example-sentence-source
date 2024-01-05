@@ -1,5 +1,7 @@
 # julius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/julius.md)
+
 <p><span class="chinese">公元前44年，凯撒大帝被刺。</span><span class="english">BC 44, Julius Caesar was stabbed.</span></p>
 
 <p><span class="chinese">朱利叶斯Rosenwald是一个商人。</span><span class="english">Julius Rosenwald was a businessman.</span></p>

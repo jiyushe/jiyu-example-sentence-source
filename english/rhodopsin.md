@@ -1,5 +1,7 @@
 # rhodopsin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhodopsin.md)
+
 <p><span class="chinese">视紫红质对于光线的探测高度敏感。</span><span class="english">Rhodopsin is highly specialized to be very sensitive to the detection of light.</span></p>
 
 <p><span class="chinese">不论视网膜紫质存在的原因是什么，它们所产生的能量转换也非常有趣。</span><span class="english">Whatever the cause the energy conversion that rhodopsin brings about is also of interest.</span></p>

@@ -1,5 +1,7 @@
 # chondrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chondrite.md)
+
 <p><span class="chinese">宁强陨石的岩石学、岩石化学及基质的化学成份。</span><span class="english">Petrology, petrologic Chemistry, and Matrix Chemical Compositions of the Ningqiang Chondrite.</span></p>
 
 <p><span class="chinese">过渡元素球粒陨石标准化曲线，也均呈微向右倾斜的W形曲线。</span><span class="english">The transitional element curves standardized by chondrite were all W type curves inclining gently to the right.</span></p>

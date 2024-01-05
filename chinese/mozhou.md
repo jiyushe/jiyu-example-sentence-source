@@ -1,5 +1,7 @@
 # 魔咒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mozhou.md)
+
 <p><span class="chinese">她被魔咒镇住了。</span><span class="english">She's under a magic spell.</span></p>
 
 <p><span class="chinese">谁被魔咒镇住了？</span><span class="english">Who is under a magic spell?</span></p>

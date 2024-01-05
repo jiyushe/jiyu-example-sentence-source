@@ -1,5 +1,7 @@
 # coalescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coalescence.md)
+
 <p><span class="chinese">联合是第五个C。</span><span class="english">Coalescence is the fifth "C."</span></p>
 
 <p><span class="chinese">云滴增长的另一个过程是各云滴间的碰撞和并合。</span><span class="english">The other process of droplet growth is by collision and coalescence.</span></p>

@@ -1,5 +1,7 @@
 # 曾祖父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengzufu.md)
+
 <p><span class="chinese">那么你的曾祖父呢?</span><span class="english">And your great-grandfather?</span></p>
 
 <p><span class="chinese">我的两位曾祖父都遭到杀害。</span><span class="english">Both of my great-grandfathers were killed.</span></p>

@@ -1,5 +1,7 @@
 # 援用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyong.md)
+
 <p><span class="chinese">他援用了一些中国话来解释他的论点。</span><span class="english">He quoted some old Chinese sayings to illustrate his points.</span></p>
 
 <p><span class="chinese">你援用这样或那样权利对你一点好处都没有。</span><span class="english">Your invocation of some right or other will do you no good at all.</span></p>

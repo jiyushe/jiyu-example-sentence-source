@@ -1,5 +1,7 @@
 # 精美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingmei.md)
+
 <p><span class="chinese">马送陈一个精美的瓷器。</span><span class="english">Ma gave Chen a fine porcelain.</span></p>
 
 <p><span class="chinese">精美的家具美化了房间。</span><span class="english">Fine furniture graced the room.</span></p>

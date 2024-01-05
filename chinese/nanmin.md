@@ -1,5 +1,7 @@
 # 难民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanmin.md)
+
 <p><span class="chinese">因为我是难民！</span><span class="english">I am refugee!</span></p>
 
 <p><span class="chinese">大批难民涌往边境。</span><span class="english">Refugees swarmed the border.</span></p>

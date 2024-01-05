@@ -1,5 +1,7 @@
 # kanamycin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kanamycin.md)
+
 <p><span class="chinese">再生植株表现卡那霉素抗性。</span><span class="english">Transgenic plant show up response to Kanamycin.</span></p>
 
 <p><span class="chinese">卡那霉素的有效浓度最高。</span><span class="english">The effective concentration of kanamycin is the highest.</span></p>

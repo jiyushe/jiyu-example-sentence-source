@@ -1,5 +1,7 @@
 # 强颜欢笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangyanhuanxiao.md)
+
 <p><span class="chinese">强颜欢笑，是莪面对妳时旳习惯。</span><span class="english">I smile, when you face the habit.</span></p>
 
 <p><span class="chinese">这支队伍正在强颜欢笑。</span><span class="english">The team is putting on a happy face now.</span></p>

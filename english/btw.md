@@ -1,5 +1,7 @@
 # btw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/btw.md)
+
 <p><span class="chinese">顺便说一句，德里克-罗斯真棒！</span><span class="english">Btw D. Rose is the real deal!</span></p>
 
 <p><span class="chinese">顺便说一下，我不怪中国。</span><span class="english">I don't blame the Chinese at all btw.</span></p>

@@ -1,5 +1,7 @@
 # burka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burka.md)
+
 <p><span class="chinese">唯一不同的颜色就是穆斯林长袍的蓝色。</span><span class="english">The only color was that blue of the burka.</span></p>
 
 <p><span class="chinese">第三个女孩正在为是否需要脱下她的布卡尔而争论着。</span><span class="english">A third debated whether to take off her burka.</span></p>

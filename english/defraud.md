@@ -1,5 +1,7 @@
 # defraud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defraud.md)
+
 <p><span class="chinese">他怀着诈取钱财的目的而来。</span><span class="english">He came with intent to defraud.</span></p>
 
 <p><span class="chinese">不可欺压你的邻舍，也不可抢夺他的物。</span><span class="english">Do not defraud your neighbor or rob him.</span></p>

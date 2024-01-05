@@ -1,5 +1,7 @@
 # 晃着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangzhe.md)
+
 <p><span class="chinese">小猪仔轻轻的晃着摇篮。</span><span class="english">The little pig rocked the cradle.</span></p>
 
 <p><span class="chinese">他继续把那张纸在我鼻子下晃着。</span><span class="english">He shakes the paper under my nose.</span></p>

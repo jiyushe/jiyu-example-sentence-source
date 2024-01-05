@@ -1,5 +1,7 @@
 # 醋栗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/culi.md)
+
 <p><span class="chinese">你是从哪得到醋栗的？</span><span class="english">Where do you get your currants?</span></p>
 
 <p><span class="chinese">一个白化形式的红醋栗。</span><span class="english">An albino forms of the red currant.</span></p>

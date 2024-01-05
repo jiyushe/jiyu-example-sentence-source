@@ -1,5 +1,7 @@
 # hula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hula.md)
+
 <p><span class="chinese">我想看草裙舞表演。</span><span class="english">I want to see the hula show.</span></p>
 
 <p><span class="chinese">呼啦圈，仰卧起坐，俯卧撑。</span><span class="english">Hula Hoop, sit-ups, push-ups.</span></p>

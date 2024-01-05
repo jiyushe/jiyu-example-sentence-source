@@ -1,5 +1,7 @@
 # 连锁店
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liansuodian.md)
+
 <p><span class="chinese">连锁店赔钱了。</span><span class="english">The chain lost money.</span></p>
 
 <p><span class="chinese">玛莎百货公司是连锁店。</span><span class="english">Marks and Spencers is a chain store.</span></p>

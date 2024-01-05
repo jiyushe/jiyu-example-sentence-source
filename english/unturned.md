@@ -1,5 +1,7 @@
 # unturned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unturned.md)
+
 <p><span class="chinese">为了完成这一件伟大的任务，我们将会千方百计。</span><span class="english">We'll leave no stone unturned to accomplish the great task.</span></p>
 
 <p><span class="chinese">军政府将不留余地务必努力赢得选举。</span><span class="english">The junta will leave no stones unturned to win the elections.</span></p>

@@ -1,5 +1,7 @@
 # 皮毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pimao.md)
+
 <p><span class="chinese">你会穿着皮毛衣服滑冰吗？</span><span class="english">Do you skate in fur?</span></p>
 
 <p><span class="chinese">不过我还有皮毛帽子。</span><span class="english">Then I have all the hats.</span></p>

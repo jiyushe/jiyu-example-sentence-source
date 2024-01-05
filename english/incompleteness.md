@@ -1,5 +1,7 @@
 # incompleteness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incompleteness.md)
+
 <p><span class="chinese">哥德尔的不完全定理就象一个恶作剧.</span><span class="english">Godel's incompleteness theorem seems like a practical joke.</span></p>
 
 <p><span class="chinese">于是我所剩的，只是半途而废和失望沮丧。</span><span class="english">So all I had behind me was incompleteness and disappointment.</span></p>

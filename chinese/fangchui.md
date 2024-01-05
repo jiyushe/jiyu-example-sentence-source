@@ -1,5 +1,7 @@
 # 纺锤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangchui.md)
+
 <p><span class="chinese">卵子内纺锤体或纺锤丝不恢复。</span><span class="english">Spindle don't recover in eggs.</span></p>
 
 <p><span class="chinese">该区域被称为"纺锤状区"。</span><span class="english">The part of the brain is called the fusiform region.</span></p>

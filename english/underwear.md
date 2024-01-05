@@ -1,5 +1,7 @@
 # underwear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underwear.md)
+
 <p><span class="chinese">当男性内衣模特儿？</span><span class="english">Model men's underwear?</span></p>
 
 <p><span class="chinese">你看见我的底裤没有？</span><span class="english">Did you see my underwear?</span></p>

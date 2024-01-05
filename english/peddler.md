@@ -1,5 +1,7 @@
 # peddler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peddler.md)
+
 <p><span class="chinese">赵勇是一个小贩。</span><span class="english">Zhao Yong was a peddler.</span></p>
 
 <p><span class="chinese">小贩叫卖他的商品。</span><span class="english">The peddler bawled his wares.</span></p>

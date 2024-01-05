@@ -1,5 +1,7 @@
 # 现状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhuang.md)
+
 <p><span class="chinese">图书馆的现状如何？</span><span class="english">And how about the library?</span></p>
 
 <p><span class="chinese">尼日利亚的电力供应现状很是滑稽。</span><span class="english">The situation is grotesque.</span></p>

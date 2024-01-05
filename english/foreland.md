@@ -1,5 +1,7 @@
 # foreland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreland.md)
+
 <p><span class="chinese">楚雄盆地的性质属弧后前陆盆地。</span><span class="english">The Chuxiong basin is a back-arc foreland basin.</span></p>
 
 <p><span class="chinese">前陆盆地是研究造山运动的关键地区之一。</span><span class="english">Foreland basins are the key areas for the study of orogeny.</span></p>

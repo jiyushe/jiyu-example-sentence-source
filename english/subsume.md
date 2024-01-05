@@ -1,5 +1,7 @@
 # subsume
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsume.md)
+
 <p><span class="chinese">这些条款应归入到什么项目上?</span><span class="english">How can subsume these items?</span></p>
 
 <p><span class="chinese">把军事部门归总于一个部门并授予权限。</span><span class="english">Subsume all of the military under one, with authority.</span></p>

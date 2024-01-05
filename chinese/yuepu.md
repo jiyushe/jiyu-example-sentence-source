@@ -1,5 +1,7 @@
 # 乐器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuepu.md)
+
 <p><span class="chinese">你演奏什么乐器,露西？</span><span class="english">What do you play, Lucy?</span></p>
 
 <p><span class="chinese">是的,是乐器的演奏方法</span><span class="english">Yes, the instrumentation.</span></p>

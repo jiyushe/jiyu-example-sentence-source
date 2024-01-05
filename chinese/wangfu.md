@@ -1,5 +1,7 @@
 # 往复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangfu.md)
+
 <p><span class="chinese">我往复运动。</span><span class="english">To and fro, do I move.</span></p>
 
 <p><span class="chinese">历史的发展是周期往复，螺旋上升的，历史的车轮不可阻挡。</span><span class="english">History is cyclical. The wheel turns.</span></p>

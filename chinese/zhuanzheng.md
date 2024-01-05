@@ -1,5 +1,7 @@
 # 专政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzheng.md)
+
 <p><span class="chinese">在现实中，它是一个党专政。</span><span class="english">In reality, it is a party dictatorship.</span></p>
 
 <p><span class="chinese">周恩来呼吁要结束一党专政！</span><span class="english">Zhou Enlai calls to abolish one party dictatorship.</span></p>

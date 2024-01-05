@@ -1,5 +1,7 @@
 # jigger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jigger.md)
+
 <p><span class="chinese">这个量杯是你最好的朋友，或者应该是。</span><span class="english">This jigger is your best friend, or it should be.</span></p>
 
 <p><span class="chinese">卷染机在印染行业具有广泛的使用。</span><span class="english">Jigger machine is used extensively in the field of printing and dyeing.</span></p>

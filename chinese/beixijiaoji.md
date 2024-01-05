@@ -1,5 +1,7 @@
 # 悲喜交集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beixijiaoji.md)
+
 <p><span class="chinese">今天，看到他的大理石雕像树立起来了，我悲喜交集。</span><span class="english">To see his likeness perpetuated in marble is to me today a sad but pleasing sensation.</span></p>
 
 <p><span class="chinese">世上再没有比获救后再见到家人更让人感到悲喜交集的事了。</span><span class="english">And to be saved, to see my family again – it was the most bittersweet feeling imaginable.</span></p>

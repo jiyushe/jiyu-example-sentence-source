@@ -1,5 +1,7 @@
 # hamiltonian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hamiltonian.md)
+
 <p><span class="chinese">研究了带有时滞的哈密顿系统的稳定性问题。</span><span class="english">The stability of Hamiltonian systems with time delay was investigated.</span></p>
 
 <p><span class="chinese">首次给出纳米颗粒哈密顿量的明确表示。</span><span class="english">The exact expression of Hamiltonian for a nano-particle was proposed firstly.</span></p>

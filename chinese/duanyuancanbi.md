@@ -1,5 +1,7 @@
 # 断垣残壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanyuancanbi.md)
+
 <p><span class="chinese">该城已成为断垣残壁的废墟。</span><span class="english">The city was a waste of tumbled walls.</span></p>
 
 <p><span class="chinese">这些片段我用来支撑我的断垣残壁。</span><span class="english">These fragments I have shored against my ruins.</span></p>

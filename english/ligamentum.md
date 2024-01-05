@@ -1,5 +1,7 @@
 # ligamentum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ligamentum.md)
+
 <p><span class="chinese">术前漏诊前交叉韧带损伤6例，半月板损伤5例。</span><span class="english">The diagnosis of 6 anterior cruciate ligamentum and 5 meniscus injuries were missed.</span></p>
 
 <p><span class="chinese">这次事故使得他的左脚踝三角韧带撕裂和严重扭伤。</span><span class="english">This accident causes his left ankle area ligamentum deltoideum tearing and sprains seriously.</span></p>

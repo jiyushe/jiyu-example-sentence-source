@@ -1,5 +1,7 @@
 # 迎新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingxin.md)
+
 <p><span class="chinese">钟声送旧，钟声迎新。</span><span class="english">Ring out the old, ring in the new.</span></p>
 
 <p><span class="chinese">大多数高校的迎新周始于周一。</span><span class="english">Freshers' week at most universities starts on Monday.</span></p>

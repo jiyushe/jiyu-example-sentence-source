@@ -1,5 +1,7 @@
 # 连连
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianlian_2.md)
+
 <p><span class="chinese">爸爸连连称我是是“篮球迷”。</span><span class="english">Dad says I'm "basketball fan".</span></p>
 
 <p><span class="chinese">会有点赌运，在麻将台上连连获胜！</span><span class="english">You might win a lot at the mahjong table.</span></p>

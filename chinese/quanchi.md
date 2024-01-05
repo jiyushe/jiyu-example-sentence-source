@@ -1,5 +1,7 @@
 # 犬齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanchi.md)
+
 <p><span class="chinese">他们有短粗的尾巴和长而尖利的犬齿。</span><span class="english">They have short, stubby tails and long, sharp fangs.</span></p>
 
 <p><span class="chinese">猫的牙齿分为门齿、犬齿和臼齿。</span><span class="english">Incisor teeth into the cat and canine and the molars.</span></p>

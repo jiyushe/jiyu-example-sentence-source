@@ -1,5 +1,7 @@
 # bim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bim.md)
+
 <p><span class="chinese">我们询问人们是否会在将来使用BIM。</span><span class="english">We asked whether people would use BIM in the future.</span></p>
 
 <p><span class="chinese">宾来了，本来了。宾给本拿来了扫帚，本给宾拿来了扫帚。</span><span class="english">Ben comes. Bim brings Ben broom. Ben brings Bim broom.</span></p>

@@ -1,5 +1,7 @@
 # ubiquitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ubiquitous.md)
+
 <p><span class="chinese">教堂在海德堡是最常见的。</span><span class="english">Churchs are ubiquitous in Heidelberg.</span></p>
 
 <p><span class="chinese">钙是一种普遍存在的第二信使。</span><span class="english">Calcium is a ubiquitous second messenger.</span></p>

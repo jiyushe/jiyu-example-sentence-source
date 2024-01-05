@@ -1,5 +1,7 @@
 # thermoelectric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermoelectric.md)
+
 <p><span class="chinese">同理，在发电厂的烟囱上安装热电装置，就可以收集更多的能量，从而发更多的电。</span><span class="english">And thermoelectric devices could be used in other areas.</span></p>
 
 <p><span class="chinese">量杯的下部有热电制冷器。</span><span class="english">The lower part of the measuring cup houses a thermoelectric cooler.</span></p>

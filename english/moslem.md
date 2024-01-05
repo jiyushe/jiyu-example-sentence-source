@@ -1,5 +1,7 @@
 # moslem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moslem.md)
+
 <p><span class="chinese">这是穆斯林的节日。</span><span class="english">It is the festival of Moslem.</span></p>
 
 <p><span class="chinese">每年很多回教朝圣者到麦加。</span><span class="english">Many Moslem pilgrims go to Mecca every year.</span></p>

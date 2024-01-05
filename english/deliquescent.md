@@ -1,5 +1,7 @@
 # deliquescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deliquescent.md)
+
 <p><span class="chinese">不结块，不潮解。</span><span class="english">Is not caking, Not deliquescent.</span></p>
 
 <p><span class="chinese">干燥的麦芽糖醇晶体是很易吸潮和溶解的。</span><span class="english">Maltitol in dry form is extremely hygroscopic and deliquescent.</span></p>

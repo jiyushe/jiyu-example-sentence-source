@@ -1,5 +1,7 @@
 # dihedral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dihedral.md)
+
 <p><span class="chinese">夹角与残基组成来决定。</span><span class="english">Variation of helices based on dihedral angels and residue composition.</span></p>
 
 <p><span class="chinese">有别于内角的左侧，Brooke也曾在第六营上的岩面打过bolts。</span><span class="english">Brooke had also bolted the face variant to the left of the dihedral above Camp Six.</span></p>

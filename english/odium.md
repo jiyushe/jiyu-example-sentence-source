@@ -1,5 +1,7 @@
 # odium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odium.md)
+
 <p><span class="chinese">“他命该尝受被公众憎恨的苦头”。</span><span class="english">It was his lot to taste the bitterness of popular odium"."</span></p>
 
 <p><span class="chinese">他因解雇老管理员而激起公愤。</span><span class="english">He incurred the odium of everyone by sacking the old caretaker.</span></p>

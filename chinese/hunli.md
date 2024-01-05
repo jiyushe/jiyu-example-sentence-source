@@ -1,5 +1,7 @@
 # 婚礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunli.md)
+
 <p><span class="chinese">这缏媞莪们婚礼。</span><span class="english">This is our wedding.</span></p>
 
 <p><span class="chinese">你的婚礼定在什么时候？</span><span class="english">When is your wedding?</span></p>

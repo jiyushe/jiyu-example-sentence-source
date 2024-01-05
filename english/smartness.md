@@ -1,5 +1,7 @@
 # smartness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smartness.md)
+
 <p><span class="chinese">将来，你身边环绕的都是电脑的精明。</span><span class="english">In the future, the smartness of computers will surround you.</span></p>
 
 <p><span class="chinese">一般而言，智能或者聪明，根本就是一种预测机制。</span><span class="english">Intelligence and smartness in general is fundamentally prediction machinery.</span></p>

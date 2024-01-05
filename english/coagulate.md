@@ -1,5 +1,7 @@
 # coagulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coagulate.md)
+
 <p><span class="chinese">粘胶在酸浴中成形为粘胶人造丝。</span><span class="english">The viscose in acid bath coagulate to viscose rayon.</span></p>
 
 <p><span class="chinese">血液开始在伤口的边缘凝固。</span><span class="english">Blood began to coagulate around the edges of the wound.</span></p>

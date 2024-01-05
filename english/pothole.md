@@ -1,5 +1,7 @@
 # pothole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pothole.md)
+
 <p><span class="chinese">壶穴使车轴上的一只螺钉破碎。</span><span class="english">The pothole fractured a bolt on the axle.</span></p>
 
 <p><span class="chinese">大凹坑你就不能开慢点吗?。</span><span class="english">Major pothole drive a little safer would you?</span></p>

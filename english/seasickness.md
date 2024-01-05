@@ -1,5 +1,7 @@
 # seasickness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seasickness.md)
+
 <p><span class="chinese">我有止晕药片。</span><span class="english">I have some tablets for seasickness.</span></p>
 
 <p><span class="chinese">带上足够的晕船药。</span><span class="english">Take a good supply of seasickness pills.</span></p>

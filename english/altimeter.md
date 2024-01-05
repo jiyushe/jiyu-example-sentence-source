@@ -1,5 +1,7 @@
 # altimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/altimeter.md)
+
 <p><span class="chinese">高度表设定好了没有？</span><span class="english">Did you set the altimeter?</span></p>
 
 <p><span class="chinese">高度表–高度测量仪器。</span><span class="english">ALTIMETER – instrument that measures altitude.</span></p>

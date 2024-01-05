@@ -1,5 +1,7 @@
 # perchloroethylene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perchloroethylene.md)
+
 <p><span class="chinese">干洗装置使用的干洗溶剂以外的其他氯乙烯。</span><span class="english">Dry cleaning installations that use dry cleaning solvents other than perchloroethylene.</span></p>
 
 <p><span class="chinese">接触氯乙烯已链接到的发展，肝脏肿瘤在小鼠体内。</span><span class="english">Exposure to perchloroethylene has been linked to the development of liver tumors in mice.</span></p>

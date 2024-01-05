@@ -1,5 +1,7 @@
 # sublimation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sublimation.md)
+
 <p><span class="chinese">这个过程是升华。</span><span class="english">This is called sublimation.</span></p>
 
 <p><span class="chinese">对于升华和蒸发。</span><span class="english">For sublimation. Or vaporization.</span></p>

@@ -1,5 +1,7 @@
 # faith 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faith.md)
+
 <p><span class="chinese">用信心等候。</span><span class="english">Wait in faith.</span></p>
 
 <p><span class="chinese">但是，那是我的信仰。</span><span class="english">But it is my faith.</span></p>

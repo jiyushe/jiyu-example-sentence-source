@@ -1,5 +1,7 @@
 # unburned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unburned.md)
+
 <p><span class="chinese">他们正在检查垃圾堆中的煤渣，拣出未烧掉的煤块。</span><span class="english">They are picking over the cinders in the rubbish heap for unburned pieces of coal.</span></p>
 
 <p><span class="chinese">然而，如果体内的睾酮水平持续偏高而无法释放，也会产生严重的负面影响。</span><span class="english">There is a serious downside, however, to constant levels  of   unburned  testosterone.</span></p>

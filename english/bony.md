@@ -1,5 +1,7 @@
 # bony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bony.md)
+
 <p><span class="chinese">由于骨质增生而导致的跗节内肿。</span><span class="english">Spavin caused by a bony growth.</span></p>
 
 <p><span class="chinese">这些有骨鱼都长着圆形的鳍。</span><span class="english">These are bony fish with paired rounded fins.</span></p>

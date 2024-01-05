@@ -1,5 +1,7 @@
 # 同一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyi.md)
+
 <p><span class="chinese">是同一条还是两条？</span><span class="english">One worm there or two?</span></p>
 
 <p><span class="chinese">是同一辆车。</span><span class="english">It's the very same car.</span></p>

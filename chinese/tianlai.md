@@ -1,5 +1,7 @@
 # 天籁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianlai.md)
+
 <p><span class="chinese">我们十分欣赏她美如天籁的歌声。</span><span class="english">We appreciated her beautiful voice very much.</span></p>
 
 <p><span class="chinese">我打赌肯定有那样的天籁之音</span><span class="english">I bet there's heavenly music of that sort. Okay.</span></p>

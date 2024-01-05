@@ -1,5 +1,7 @@
 # 台座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taizuo.md)
+
 <p><span class="chinese">雕像安放在台座上。</span><span class="english">The statue repose on a pedestal.</span></p>
 
 <p><span class="chinese">塑像安放再台座上。</span><span class="english">The statue reposes on a pedestal.</span></p>

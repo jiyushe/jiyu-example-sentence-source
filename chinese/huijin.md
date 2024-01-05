@@ -1,5 +1,7 @@
 # 灰烬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huijin.md)
+
 <p><span class="chinese">现在竟一同化作灰烬。</span><span class="english">Here enclos'd in cinders lie.</span></p>
 
 <p><span class="chinese">火星在灰烬中熄灭。</span><span class="english">The sparks expired in the ashes.</span></p>

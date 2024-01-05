@@ -1,5 +1,7 @@
 # 青年团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingniantuan.md)
+
 <p><span class="chinese">一九二三年加入中国社会主义青年团。</span><span class="english">In 1923 joined the Chinese Socialist Youth League.</span></p>
 
 <p><span class="chinese">中国青年团的夏季活动也是十分受欢迎的。</span><span class="english">The CYC's summer activities are also quite popular.</span></p>

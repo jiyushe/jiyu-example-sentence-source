@@ -1,5 +1,7 @@
 # pidgin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pidgin.md)
+
 <p><span class="chinese">然后，我的朋友，洋泾浜是为你。</span><span class="english">Then, my friend, Pidgin is for you.</span></p>
 
 <p><span class="chinese">什么是本地话、洋泾浜、混合语？</span><span class="english">What is vernacular? Pidgin? Creole?</span></p>

@@ -1,5 +1,7 @@
 # 夜景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yejing_1.md)
+
 <p><span class="chinese">在⒈起去看夜景狠緈諨。</span><span class="english">Look at the Night together very happy.</span></p>
 
 <p><span class="chinese">竞技场的夜景，罗马，意大利，1970。</span><span class="english">Colosseum Nightscape, Rome, Italy, 1970</span></p>

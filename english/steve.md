@@ -1,5 +1,7 @@
 # steve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steve.md)
+
 <p><span class="chinese">我是史蒂夫。</span><span class="english">Myname is Steve.</span></p>
 
 <p><span class="chinese">史蒂夫•鲍尔默真可怜。</span><span class="english">Poor Steve Ballmer.</span></p>

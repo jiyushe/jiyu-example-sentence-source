@@ -1,5 +1,7 @@
 # seasoning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seasoning.md)
+
 <p><span class="chinese">这调味酱用蘑菇作调料。</span><span class="english">This sauce uses mushroom as its seasoning.</span></p>
 
 <p><span class="chinese">全部调味料放在煲内，煮至汁液浓稠。</span><span class="english">Boil all seasoning until the sauce thickens.</span></p>

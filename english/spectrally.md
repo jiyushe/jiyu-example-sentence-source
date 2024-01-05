@@ -1,5 +1,7 @@
 # spectrally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectrally.md)
+
 <p><span class="chinese">她有着幽灵般苍白的皮肤和长长的灰白头发，穿着黑色工装裤。</span><span class="english">She has spectrally pale skin and long grey-white hair, and is wearing black dungarees.</span></p>
 
 <p><span class="chinese">光栅仍然会使得稍后会在面阵CCD探测器上聚焦的光线分散。</span><span class="english">The grating spectrally disperses the light, which is then focused onto the CCD-array detector.</span></p>

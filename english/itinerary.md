@@ -1,5 +1,7 @@
 # itinerary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/itinerary.md)
+
 <p><span class="chinese">带上你的旅程表。</span><span class="english">Bring your itinerary with you.</span></p>
 
 <p><span class="chinese">不得签转，不得更改行程。</span><span class="english">Not signed to change the itinerary.</span></p>

@@ -1,5 +1,7 @@
 # 唾液
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoye.md)
+
 <p><span class="chinese">不再分泌唾液。</span><span class="english">You stop.</span></p>
 
 <p><span class="chinese">我看见了他的唾液，伙计。</span><span class="english">I saw his gob , me mate.</span></p>

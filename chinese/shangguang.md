@@ -1,5 +1,7 @@
 # 赏光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangguang.md)
+
 <p><span class="chinese">可否请您赏光?</span><span class="english">Will you honour me with a visit?</span></p>
 
 <p><span class="chinese">能否赏光来敝处作客？</span><span class="english">Would you honor us with a visit?</span></p>

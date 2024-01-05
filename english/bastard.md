@@ -1,5 +1,7 @@
 # bastard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bastard.md)
+
 <p><span class="chinese">可怜的家伙。</span><span class="english">The poor bastard.</span></p>
 
 <p><span class="chinese">孙悟空，你这个畜牲。</span><span class="english">Monkey King, you bastard.</span></p>

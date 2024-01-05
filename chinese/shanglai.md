@@ -1,5 +1,7 @@
 # 上来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanglai.md)
+
 <p><span class="chinese">上来。</span><span class="english">Yes come on up.</span></p>
 
 <p><span class="chinese">一条鱼迅速浮了上来。</span><span class="english">A fish bobbed up.</span></p>

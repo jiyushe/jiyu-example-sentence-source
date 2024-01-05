@@ -1,5 +1,7 @@
 # laminar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laminar.md)
+
 <p><span class="chinese">等离子热层流反应堆。</span><span class="english">Plasma Heated Laminar Entrained Flow Reactor.</span></p>
 
 <p><span class="chinese">黏性流、层流和紊流边界层。</span><span class="english">Viscous-fluid flow, laminar and turbulent boundary layers.</span></p>

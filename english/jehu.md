@@ -1,5 +1,7 @@
 # jehu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jehu.md)
+
 <p><span class="chinese">这样，耶户在以色列中灭了巴力。</span><span class="english">Thus Jehu destroyed Baal out of Israel.</span></p>
 
 <p><span class="chinese">耶户与他列祖同睡，葬在撒玛利亚。</span><span class="english">Jehu rested with his fathers and was buried in Samaria.</span></p>

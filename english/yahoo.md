@@ -1,5 +1,7 @@
 # yahoo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yahoo.md)
+
 <p><span class="chinese">你上雅虎网吗？</span><span class="english">Do you Yahoo?</span></p>
 
 <p><span class="chinese">那就用雅虎问答吧。</span><span class="english">Use Yahoo Answers.</span></p>

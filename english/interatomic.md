@@ -1,5 +1,7 @@
 # interatomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interatomic.md)
+
 <p><span class="chinese">原子结构与原子间的键结。</span><span class="english">Atomic Structure and Interatomic Bonding.</span></p>
 
 <p><span class="chinese">原子内部间距,差不多也是一埃。</span><span class="english">Interatomic spacing is also on the order of about an angstrom.</span></p>

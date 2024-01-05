@@ -1,5 +1,7 @@
 # zest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zest.md)
+
 <p><span class="chinese">加入擦成细丝的柠檬皮。</span><span class="english">Add the lemon zest.</span></p>
 
 <p><span class="chinese">加一些磨碎的橙子皮。</span><span class="english">Add a little grated orange zest.</span></p>

@@ -1,5 +1,7 @@
 # reindeer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reindeer.md)
+
 <p><span class="chinese">哪一只麋鹿永远飞在最前面?。</span><span class="english">Which reindeer flies in front?</span></p>
 
 <p><span class="chinese">红鼻子的驯鹿鲁道夫。</span><span class="english">Rudolph the Red-Nosed Reindeer.</span></p>

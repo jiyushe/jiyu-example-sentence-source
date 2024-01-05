@@ -1,5 +1,7 @@
 # shantung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shantung.md)
+
 <p><span class="chinese">山东士族具有文化性和地方性。</span><span class="english">Shantung literati was cultural and regional.</span></p>
 
 <p><span class="chinese">山东海岸边的村庄房子都用石头建造。</span><span class="english">Houses in Shantung coastal villages were built of stone.</span></p>

@@ -1,5 +1,7 @@
 # wryly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wryly.md)
+
 <p><span class="chinese">我挖苦地笑着。</span><span class="english">I smiled wryly.</span></p>
 
 <p><span class="chinese">他挖苦地一笑。</span><span class="english">He smiled wryly.</span></p>

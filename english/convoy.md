@@ -1,5 +1,7 @@
 # convoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convoy.md)
+
 <p><span class="chinese">一支护航舰队被炮火击中。</span><span class="english">A convoy was hit by gunfire.</span></p>
 
 <p><span class="chinese">编队8号船必须在船闸停船处待命。</span><span class="english">Convoy 8 must wait at lay-by.</span></p>

@@ -1,5 +1,7 @@
 # uninstall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uninstall.md)
+
 <p><span class="chinese">按照屏幕上的卸载步骤。</span><span class="english">Follow the on-screen uninstall instructions.</span></p>
 
 <p><span class="chinese">此步骤可以卸载旧应用程序。</span><span class="english">This step can uninstall the old application.</span></p>

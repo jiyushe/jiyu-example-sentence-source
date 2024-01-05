@@ -1,5 +1,7 @@
 # tartness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tartness.md)
+
 <p><span class="chinese">他又嗅到松树和附近树汁尖酸的气味。</span><span class="english">He could smell the pine, the tartness of nearby tree sap.</span></p>
 
 <p><span class="chinese">一些酒的酸味是由于L-苹果酸的高浓度。</span><span class="english">The tartness of some wines is due to high concentrations of L-malate.</span></p>

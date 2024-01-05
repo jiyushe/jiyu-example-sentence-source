@@ -1,5 +1,7 @@
 # ignatius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ignatius.md)
+
 <p><span class="chinese">伊格内修斯自视为先知和哲学家。</span><span class="english">Ignatius sees himself as a seer and philosopher.</span></p>
 
 <p><span class="chinese">该中心的一个重要组成部分就是圣依纳爵教堂。</span><span class="english">A key component of the Center is the St. Ignatius Chapel.</span></p>

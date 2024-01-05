@@ -1,5 +1,7 @@
 # desorption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desorption.md)
+
 <p><span class="chinese">吸湿与脱湿曲线间有一定的滞后现象。</span><span class="english">There is hysteresis between the sorption and desorption curves.</span></p>
 
 <p><span class="chinese">磷在土壤中的解吸动力学。</span><span class="english">The desorption kinetics of phosphorus from calcareous soil in china.</span></p>

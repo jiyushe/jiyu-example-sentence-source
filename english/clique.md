@@ -1,5 +1,7 @@
 # clique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clique.md)
+
 <p><span class="chinese">薇奇已经离开她的小团体很久了。</span><span class="english">Vickie had long left their clique.</span></p>
 
 <p><span class="chinese">席皮尔曼和波兰斯基他们要杀我！</span><span class="english">Szpilman and Polanski’s clique want to kill me!</span></p>

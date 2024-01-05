@@ -1,5 +1,7 @@
 # 日月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riyue.md)
+
 <p><span class="chinese">那么中华民族的日月二神是谁呢？</span><span class="english">So the national sun 2 who god is?</span></p>
 
 <p><span class="chinese">解放前的日月可真不好过啊!</span><span class="english">What a hard life we had before liberation!</span></p>

@@ -1,5 +1,7 @@
 # 疑难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinan.md)
+
 <p><span class="chinese">咱们是来解决疑难题目的。</span><span class="english">We are not ITe to solve problems.</span></p>
 
 <p><span class="chinese">女孩善于处理疑难题目。</span><span class="english">Women are not good problem-solvers.</span></p>

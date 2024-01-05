@@ -1,5 +1,7 @@
 # 出厂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchang.md)
+
 <p><span class="chinese">未上牌的出厂新车。</span><span class="english">The new ones without licensing.</span></p>
 
 <p><span class="chinese">填入要运行的出厂日期范围，点击“确定”。</span><span class="english">Input check-in date range, and click "OK".</span></p>

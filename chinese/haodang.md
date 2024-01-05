@@ -1,5 +1,7 @@
 # 浩荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haodang.md)
+
 <p><span class="chinese">东风浩荡。</span><span class="english">The east wind blows with mighty power.</span></p>
 
 <p><span class="chinese">然而，这趟浩荡的旅行仍具有历史意义。</span><span class="english">Still, the grand tour has been historic.</span></p>

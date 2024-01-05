@@ -1,5 +1,7 @@
 # 浴衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyi_4.md)
+
 <p><span class="chinese">给，穿上这件浴衣。</span><span class="english">Here. Put this bathing suit on.</span></p>
 
 <p><span class="chinese">她昨天买了一件新浴衣。</span><span class="english">She bought a new bathrobe yesterday.</span></p>

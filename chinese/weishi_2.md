@@ -1,5 +1,7 @@
 # 卫士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishi_2.md)
+
 <p><span class="chinese">能节士-您可信赖的能源节约卫士！</span><span class="english">CAS-Care all saving of energy!</span></p>
 
 <p><span class="chinese">如今是御用侍从卫士在管理。</span><span class="english">The yeoman warders manage it now.</span></p>

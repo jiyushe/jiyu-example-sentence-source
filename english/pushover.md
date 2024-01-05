@@ -1,5 +1,7 @@
 # pushover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pushover.md)
+
 <p><span class="chinese">但达西并非等闲之辈。</span><span class="english">But Darcy's no pushover.</span></p>
 
 <p><span class="chinese">那家伙很喜欢受人奉承。</span><span class="english">That guy is a pushover for flattery.</span></p>

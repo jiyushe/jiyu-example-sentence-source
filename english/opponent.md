@@ -1,5 +1,7 @@
 # opponent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opponent.md)
+
 <p><span class="chinese">他面临一个强有力的敌手</span><span class="english">He had a worthy opponent.</span></p>
 
 <p><span class="chinese">他猛击对手。</span><span class="english">He duked out his opponent.</span></p>

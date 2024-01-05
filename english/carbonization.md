@@ -1,5 +1,7 @@
 # carbonization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbonization.md)
+
 <p><span class="chinese">低碳化倾向和较强的油膜保持性。</span><span class="english">Low carbonization trend and strong oil film preservation.</span></p>
 
 <p><span class="chinese">本文分析了混凝土碳化的影响因素。</span><span class="english">Influence factors of concrete carbonization are analysed in this paper.</span></p>

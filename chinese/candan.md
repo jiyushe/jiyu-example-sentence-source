@@ -1,5 +1,7 @@
 # 惨淡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/candan.md)
+
 <p><span class="chinese">白得惨淡，蓝得忧郁，最重要是红得血腥。</span><span class="english">Red white and blue, accent on the red.</span></p>
 
 <p><span class="chinese">过了几分钟，新一天的黎明在惨淡的气氛中来临。</span><span class="english">The dawn came in bleakly a few minutes later.</span></p>

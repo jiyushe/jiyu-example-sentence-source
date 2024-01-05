@@ -1,5 +1,7 @@
 # happen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/happen.md)
+
 <p><span class="chinese">怎么会这样的呢</span><span class="english">How does that happen?</span></p>
 
 <p><span class="chinese">你现在就是一坨屎！</span><span class="english">Make shit happen now!</span></p>

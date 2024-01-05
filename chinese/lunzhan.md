@@ -1,5 +1,7 @@
 # 论战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunzhan.md)
+
 <p><span class="chinese">而这个论战永远不会结束。</span><span class="english">And that's never gonna end.</span></p>
 
 <p><span class="chinese">你可能听过这样一场论战。</span><span class="english">You've heard the controversy.</span></p>

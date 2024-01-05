@@ -1,5 +1,7 @@
 # phosphorus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphorus.md)
+
 <p><span class="chinese">并且磷发光了。</span><span class="english">And the phosphorus glow.</span></p>
 
 <p><span class="chinese">但是，磷的情况有所不同。</span><span class="english">But phosphorus is a different story.</span></p>

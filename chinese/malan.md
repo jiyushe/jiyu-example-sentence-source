@@ -1,5 +1,7 @@
 # 马兰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/malan.md)
+
 <p><span class="chinese">是啊，但是我还是很伤心，再见了，萨马兰奇。</span><span class="english">Yeah, but I still feel sad.Goodbye, Samaranch.</span></p>
 
 <p><span class="chinese">我要陪X公司来的马兰先生出去吃饭。</span><span class="english">I'll take Mr. Malan from Company X out to dinner.</span></p>

@@ -1,5 +1,7 @@
 # 南方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanfang.md)
+
 <p><span class="chinese">许多鸟都飞向南方。</span><span class="english">Many birds fly south.</span></p>
 
 <p><span class="chinese">这风是向正南方吹。</span><span class="english">The wind is due south.</span></p>

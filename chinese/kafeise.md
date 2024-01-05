@@ -1,5 +1,7 @@
 # 咖啡色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kafeise.md)
+
 <p><span class="chinese">他喜欢穿咖啡色的。</span><span class="english">He likes to wear brown.</span></p>
 
 <p><span class="chinese">她把头发染成咖啡色。</span><span class="english">She dyed her hair brown.</span></p>

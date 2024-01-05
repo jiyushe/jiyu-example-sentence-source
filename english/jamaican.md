@@ -1,5 +1,7 @@
 # Jamaican
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jamaican.md)
+
 <p><span class="chinese">你能说说牙买加音乐吗？</span><span class="english">Can you tell us about Jamaican music?</span></p>
 
 <p><span class="chinese">牙买加军警抓捕毒枭引发冲突至少30人死亡。</span><span class="english">Gunbattles in Jamaican capital kill at least 30.</span></p>

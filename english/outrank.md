@@ -1,5 +1,7 @@
 # outrank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outrank.md)
+
 <p><span class="chinese">好的问题容易解答。</span><span class="english">Good questions outrank easy answers.</span></p>
 
 <p><span class="chinese">如今桃子是比棉花重要的主要产品。</span><span class="english">Peaches now outrank cotton as the chief crop.</span></p>

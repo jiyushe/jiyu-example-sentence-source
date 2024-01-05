@@ -1,5 +1,7 @@
 # 离乡背井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lixiangbeijing.md)
+
 <p><span class="chinese">他感一种离乡背井告别亲人的忧伤，他望了望屋角的稿件。</span><span class="english">He looked at the manuscripts in the corner.</span></p>
 
 <p><span class="chinese">这些士兵离乡背井，而且时常好几个月都没拿到薪俸。</span><span class="english">These soldiers were far away from home and often weren't paid for months.</span></p>

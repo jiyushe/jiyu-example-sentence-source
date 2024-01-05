@@ -1,5 +1,7 @@
 # 空挡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongdang_1.md)
+
 <p><span class="chinese">让汽车排挡置于空挡位置。</span><span class="english">Leave a car in neutral gear.</span></p>
 
 <p><span class="chinese">让车手选择空挡和倒车档。</span><span class="english">Allows the driver to select neutral and reverse gear.</span></p>

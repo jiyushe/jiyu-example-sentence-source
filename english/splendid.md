@@ -1,5 +1,7 @@
 # splendid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splendid.md)
+
 <p><span class="chinese">她的眼睛光彩照人。</span><span class="english">Her eyes were splendid.</span></p>
 
 <p><span class="chinese">你做了一份极好的事。</span><span class="english">Pass 1. You did a splendid job.</span></p>

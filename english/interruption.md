@@ -1,5 +1,7 @@
 # interruption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interruption.md)
+
 <p><span class="chinese">我问，很恼火他打断我。</span><span class="english">I ask, annoyed at the interruption.</span></p>
 
 <p><span class="chinese">一打岔我就把这事全忘了。</span><span class="english">An interruption put it quite out of my head.</span></p>

@@ -1,5 +1,7 @@
 # 碍眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiyan.md)
+
 <p><span class="chinese">门前那堆垃圾实在太碍眼了。</span><span class="english">Garbage before the door is in the way.</span></p>
 
 <p><span class="chinese">耳机碍眼得就像把一出精彩的演出变成黑白的了。</span><span class="english">Earplugs turned the picture to black-and-white.</span></p>

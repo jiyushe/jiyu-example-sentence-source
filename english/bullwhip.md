@@ -1,5 +1,7 @@
 # bullwhip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullwhip.md)
+
 <p><span class="chinese">牛鞭效应的风险分析。</span><span class="english">Risk analysis of the bullwhip effect.</span></p>
 
 <p><span class="chinese">提高预测的准确性是缓解供应链牛鞭效应的关键。</span><span class="english">Prediction accuracy is the key of in prevention of Bullwhip effect in supply chain.</span></p>

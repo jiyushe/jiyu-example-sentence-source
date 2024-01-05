@@ -1,5 +1,7 @@
 # cerium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cerium.md)
+
 <p><span class="chinese">所述催化剂比未负载的氧化铈的活性更大。</span><span class="english">The catalyst is more active than unsupported cerium oxide.</span></p>
 
 <p><span class="chinese">研究结果证明，硝酸钠对铈的氧化作用是显著的。</span><span class="english">It shows that the oxygenation of the sodium nitrate is obvious to cerium.</span></p>

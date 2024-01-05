@@ -1,5 +1,7 @@
 # disfavour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disfavour.md)
+
 <p><span class="chinese">他不赞成我的建议。</span><span class="english">He regarded my suggestions with disfavour.</span></p>
 
 <p><span class="chinese">这位大臣招致国王的冷遇。</span><span class="english">The minister incurred the king's disfavour.</span></p>

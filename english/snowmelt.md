@@ -1,5 +1,7 @@
 # snowmelt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowmelt.md)
+
 <p><span class="chinese">马克打着炉子，融雪取水。</span><span class="english">Marc fires up the stove for fresh water from snowmelt.</span></p>
 
 <p><span class="chinese">好茶要好水才行，最好是用雪融化的水。</span><span class="english">Good tea needs good water.It had better come from the snowmelt water.</span></p>

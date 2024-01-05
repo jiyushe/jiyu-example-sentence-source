@@ -1,5 +1,7 @@
 # 无线电话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxiandianhua.md)
+
 <p><span class="chinese">她被无线电话的线给绊倒在地。</span><span class="english">She tripped over a cordless phone.</span></p>
 
 <p><span class="chinese">她给母亲打无线电话说她要晚到。</span><span class="english">She radiotelephoned her mother to say she would be late.</span></p>

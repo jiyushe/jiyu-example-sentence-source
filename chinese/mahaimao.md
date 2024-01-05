@@ -1,5 +1,7 @@
 # 马海毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mahaimao.md)
+
 <p><span class="chinese">美国生产马海毛最顶尖的州是德克萨斯州。</span><span class="english">America's top producing state is Texas.</span></p>
 
 <p><span class="chinese">文章利用等离子体对马海毛纤维进行处理。</span><span class="english">In this paper, the mohair fiber is processed by plasma.</span></p>

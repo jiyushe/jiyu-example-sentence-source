@@ -1,5 +1,7 @@
 # 鸭绒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yarong.md)
+
 <p><span class="chinese">还是柔软若鸭绒?。</span><span class="english">Or soft as eiderdown fluff?</span></p>
 
 <p><span class="chinese">我们一定要知道鸭绒垫子吗？</span><span class="english">Why guys like you and I know what a duvet is?</span></p>

@@ -1,5 +1,7 @@
 # 有期徒刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youqituxing.md)
+
 <p><span class="chinese">陈炳锡的妻子被判处有期徒刑11年。</span><span class="english">His wife was sentenced to 11-years in prison.</span></p>
 
 <p><span class="chinese">褚时健被判后减刑为有期徒刑17年。</span><span class="english">When Chu Kin was commuted to prison after 17 years.</span></p>

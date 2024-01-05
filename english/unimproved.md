@@ -1,5 +1,7 @@
 # unimproved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unimproved.md)
+
 <p><span class="chinese">但是主体建筑仍未做改善。</span><span class="english">But the main building remained unimproved.</span></p>
 
 <p><span class="chinese">未改制的钢塑板呈少筋脆性破坏特征。</span><span class="english">The failure of unimproved slabs was brittle.</span></p>

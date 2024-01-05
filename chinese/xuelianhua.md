@@ -1,5 +1,7 @@
 # 雪莲花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuelianhua.md)
+
 <p><span class="chinese">雪莲花圣洁、高贵、高雅。</span><span class="english">Snow Lotus holy, noble, elegant.</span></p>
 
 <p><span class="chinese">雪莲花这首歌是我的舞曲之一。</span><span class="english">Snow Lotus this song is one of my dance.</span></p>

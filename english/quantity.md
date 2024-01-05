@@ -1,5 +1,7 @@
 # quantity 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantity.md)
+
 <p><span class="chinese">重质，不重量。</span><span class="english">Quality, not quantity.</span></p>
 
 <p><span class="chinese">量大从优。</span><span class="english">Large quantity of Cong.</span></p>

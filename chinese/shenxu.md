@@ -1,5 +1,7 @@
 # 肾虚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenxu.md)
+
 <p><span class="chinese">肾虚腰痛是女性中最常见的。</span><span class="english">Kidney waist pain is the most common among women.</span></p>
 
 <p><span class="chinese">性爱后，第二天膝盖酸软是肾虚吗？</span><span class="english">After sex, knee soreness the next day the kidney do?</span></p>

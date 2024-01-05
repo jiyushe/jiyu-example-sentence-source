@@ -1,5 +1,7 @@
 # unease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unease.md)
+
 <p><span class="chinese">这种不安的感觉是相互的。</span><span class="english">The feeling of  unease is mutual.</span></p>
 
 <p><span class="chinese">那句我爱你，遗失在流年里。</span><span class="english">The words I love you, lost in the unease.</span></p>

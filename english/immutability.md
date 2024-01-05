@@ -1,5 +1,7 @@
 # immutability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immutability.md)
+
 <p><span class="chinese">天父啊，请您引领他们朝向永恒不变的路程奔跑。</span><span class="english">Father, please guide them to run for the course of eternal immutability.</span></p>
 
 <p><span class="chinese">全世界的农民们都明白季节的重要性和永恒性。</span><span class="english">Farmers all over the world know the importance and immutability of the seasons.</span></p>

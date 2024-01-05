@@ -1,5 +1,7 @@
 # jamesonite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jamesonite.md)
+
 <p><span class="chinese">此外，还鉴定出含铋脆硫锑铅矿和含锰脆硫锑铅矿。</span><span class="english">In addition, Biand Mn-bearing jamesonite bas also been identified.</span></p>
 
 <p><span class="chinese">研究了有机抑制剂DMPS对脆硫锑铅矿和磁黄铁矿的抑制作用。</span><span class="english">The effects of organic depressant DMPS on jamesonite and pyrrhotite have been studied.</span></p>

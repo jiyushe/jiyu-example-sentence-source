@@ -1,5 +1,7 @@
 # 暗暗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anan.md)
+
 <p><span class="chinese">我们妄自暗暗叹息。</span><span class="english">We sigh for it in vain.</span></p>
 
 <p><span class="chinese">私底下，我暗暗与她较劲。</span><span class="english">Secretly, I emulated her.</span></p>

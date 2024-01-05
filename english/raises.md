@@ -1,5 +1,7 @@
 # raises
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raises.md)
+
 <p><span class="chinese">奖金和加薪。</span><span class="english">Bonuses and raises.</span></p>
 
 <p><span class="chinese">他扬起眉毛。</span><span class="english">He raises his eyebrows.</span></p>

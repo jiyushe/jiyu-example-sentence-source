@@ -1,5 +1,7 @@
 # consent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consent.md)
+
 <p><span class="chinese">这么说来，我以为你是不应承。</span><span class="english">I take it you don't consent.</span></p>
 
 <p><span class="chinese">我敢肯定她不会答应的。</span><span class="english">I'm sure she wouldn't consent.</span></p>

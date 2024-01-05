@@ -1,5 +1,7 @@
 # 得势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deshi.md)
+
 <p><span class="chinese">这同样也是体现谁家得势谁家失意很好的晴雨表。</span><span class="english">They, too, are a good barometer of who is up and who is down.</span></p>
 
 <p><span class="chinese">树叶得势时趾高气扬，失意时威风扫地。</span><span class="english">Leafs will be astrut in breeze but chill when gale makes them falling down.</span></p>

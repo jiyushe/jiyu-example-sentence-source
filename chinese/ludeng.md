@@ -1,5 +1,7 @@
 # 路灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ludeng.md)
+
 <p><span class="chinese">路灯都灭了，</span><span class="english">all the traffic lights were out</span></p>
 
 <p><span class="chinese">这儿都没有路灯。</span><span class="english">There are no street light out there.</span></p>

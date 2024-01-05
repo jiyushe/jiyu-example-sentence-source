@@ -1,5 +1,7 @@
 # 牛虻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niumeng.md)
+
 <p><span class="chinese">整整一个星期，牛虻的病都处于严重的状态。</span><span class="english">FOR a week the Gadfly lay in a fearful state.</span></p>
 
 <p><span class="chinese">我是一只快乐的牛虻，无论是活着还是死亡。</span><span class="english">Then am I a happy fly, if I live or if I die.</span></p>

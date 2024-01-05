@@ -1,5 +1,7 @@
 # idiomatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idiomatic.md)
+
 <p><span class="chinese">我发现了一个惯用模式。</span><span class="english">I have found an idiomatic pattern.</span></p>
 
 <p><span class="chinese">此态度也影响了惯用模式。</span><span class="english">That attitude affects idiomatic patterns as well.</span></p>

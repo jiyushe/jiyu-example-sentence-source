@@ -1,5 +1,7 @@
 # expel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expel.md)
+
 <p><span class="chinese">在我的作品中，我驱散了外部力量。</span><span class="english">I expel all outside forces in my works.</span></p>
 
 <p><span class="chinese">空气从肺部排出来。</span><span class="english">When we exhale we expel air from our lungs.</span></p>

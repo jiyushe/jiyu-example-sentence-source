@@ -1,5 +1,7 @@
 # 邮袋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdai.md)
+
 <p><span class="chinese">外交邮袋不得开拆或者扣留。</span><span class="english">The diplomatic bag shall not be opened or detained.</span></p>
 
 <p><span class="chinese">星期六的邮袋早已轻于工作日。</span><span class="english">Postbags are already lighter on Saturdays than on weekdays.</span></p>

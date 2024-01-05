@@ -1,5 +1,7 @@
 # 先民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianmin.md)
+
 <p><span class="chinese">是先民祭拜的神灵。</span><span class="english">The ancestors worship of the gods.</span></p>
 
 <p><span class="chinese">马勺原本是先民的一种生活用具。</span><span class="english">Mashao original inhabitants of a life appliances.</span></p>

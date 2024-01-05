@@ -1,5 +1,7 @@
 # 打雪仗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxuezhang.md)
+
 <p><span class="chinese">他们靠打雪仗打发时间。</span><span class="english">A snow fight helps pass the time.</span></p>
 
 <p><span class="chinese">我们可以堆雪人也可以打雪仗。</span><span class="english">We can snowman and throw snowballs.</span></p>

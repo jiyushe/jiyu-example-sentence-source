@@ -1,5 +1,7 @@
 # 弯弓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangong_1.md)
+
 <p><span class="chinese">只识弯弓射大雕。</span><span class="english">Knew only shooting eagles, bow outstretched.</span></p>
 
 <p><span class="chinese">爱神丘比特正在弯弓射箭。</span><span class="english">Venus ratio with shoot arrow in the curved bow.</span></p>

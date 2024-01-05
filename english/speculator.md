@@ -1,5 +1,7 @@
 # speculator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speculator.md)
+
 <p><span class="chinese">他是一个险诈的投机商。</span><span class="english">He was a sinister and crafty speculator.</span></p>
 
 <p><span class="chinese">赔钱不能赢利，但能使投机者细心钻研。</span><span class="english">Losses make the speculator studious——not profits.</span></p>

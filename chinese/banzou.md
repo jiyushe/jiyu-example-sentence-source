@@ -1,5 +1,7 @@
 # 伴奏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banzou.md)
+
 <p><span class="chinese">他为我们跳舞击鼓伴奏。</span><span class="english">He drummed us a dance.</span></p>
 
 <p><span class="chinese">长笛伴奏的一首歌。</span><span class="english">A song with a flute obbligato.</span></p>

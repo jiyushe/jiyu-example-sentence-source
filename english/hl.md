@@ -1,5 +1,7 @@
 # hl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hl.md)
+
 <p><span class="chinese">“战略联盟”是海林的合作方式！</span><span class="english">Strategic Union is cooperation mode HL wanted.</span></p>
 
 <p><span class="chinese">若被发现，我们将取消其HL会籍。</span><span class="english">If found, we will deprive of rights of HL membership.</span></p>

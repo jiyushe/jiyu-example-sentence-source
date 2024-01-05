@@ -1,5 +1,7 @@
 # goodish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goodish.md)
+
 <p><span class="chinese">对他那个年纪的孩子来说，他拿的东西真是太多了。</span><span class="english">He carried quite a goodish things for a boy of his age.</span></p>
 
 <p><span class="chinese">他们的办公大楼离地铁站很长一段距离。</span><span class="english">Their office building was a goodish distance from the subway station.</span></p>

@@ -1,5 +1,7 @@
 # 阻滞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzhi_2.md)
+
 <p><span class="chinese">阻滞了的希望使心头怅惘。</span><span class="english">Hope deferred makes the heart sick.</span></p>
 
 <p><span class="chinese">神经阻滞，超声，和多发性硬化症。</span><span class="english">Nerve blocks, ultrasounds, and multiple sclerosis.</span></p>

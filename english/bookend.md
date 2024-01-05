@@ -1,5 +1,7 @@
 # bookend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookend.md)
+
 <p><span class="chinese">这一最重要的核心价值，贯穿了Zappos历程中的每一个行为。</span><span class="english">The all-important bookend core value.</span></p>
 
 <p><span class="chinese">这当然是个成就，但这也是个好时机去结束它。</span><span class="english">That's quite an achievement, but it's also a nice place to bookend things.</span></p>

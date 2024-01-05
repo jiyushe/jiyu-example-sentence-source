@@ -1,5 +1,7 @@
 # cementum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cementum.md)
+
 <p><span class="chinese">牙根上覆盖着的坚硬材料叫作牙骨质。</span><span class="english">The root is covered with a hard material called cementum.</span></p>
 
 <p><span class="chinese">这本书综合评论压焊给牙质和牙骨质和分析相关的黏著机制涂瓷釉。</span><span class="english">This book comprehensively reviews bonding to enamel, dentin and cementum and analyses relevant adhesion mechanisms.</span></p>

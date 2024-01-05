@@ -1,5 +1,7 @@
 # 晋级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinji.md)
+
 <p><span class="chinese">破音还晋级！搞我是吧！</span><span class="english">Broken sound also cut! Do I!</span></p>
 
 <p><span class="chinese">我真心希望他们能够一路晋级。</span><span class="english">I really hope they go all the way.</span></p>

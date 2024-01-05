@@ -1,5 +1,7 @@
 # francis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/francis.md)
+
 <p><span class="chinese">佛朗西斯是个不错的朋友。</span><span class="english">Francis is a great friend.</span></p>
 
 <p><span class="chinese">弗朗西斯面如死灰。</span><span class="english">Francis was as pale as death.</span></p>

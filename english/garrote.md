@@ -1,5 +1,7 @@
 # garrote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garrote.md)
+
 <p><span class="chinese">它的升级版本是卡塔兰绞喉.</span><span class="english">This spiked version is known as the Catalan garrote.</span></p>
 
 <p><span class="chinese">绞喉是一个可以把人拧死的装置.</span><span class="english">The garrote is a device that strangles a person to death.</span></p>

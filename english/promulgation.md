@@ -1,5 +1,7 @@
 # promulgation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promulgation.md)
+
 <p><span class="chinese">公布解释说为什么他能承担债务。</span><span class="english">The promulgation explained how it could service its debt.</span></p>
 
 <p><span class="chinese">本法自公布之日起施行。</span><span class="english">This law will go into effect on the day if its promulgation.</span></p>

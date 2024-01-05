@@ -1,5 +1,7 @@
 # semiannual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiannual.md)
+
 <p><span class="chinese">结果表明除半年项、周年项外，在谱图中还存在2年、3.1年、4.4年项。</span><span class="english">They are 2, 3.1, 4.4 years besides semiannual and annual terms.</span></p>
 
 <p><span class="chinese">按照国会的要求，财政部每半年发布汇率操纵国报告。</span><span class="english">The Treasury makes such determinations in a semiannual report required by Congress.</span></p>

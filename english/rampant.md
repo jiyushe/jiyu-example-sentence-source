@@ -1,5 +1,7 @@
 # rampant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rampant.md)
+
 <p><span class="chinese">要求扫描的行为是猖獗的。</span><span class="english">Demand for scans is rampant.</span></p>
 
 <p><span class="chinese">七月十四，猛鬼横行。</span><span class="english">In July fourteen, on rampant.</span></p>

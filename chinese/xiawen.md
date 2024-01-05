@@ -1,5 +1,7 @@
 # 下文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiawen.md)
+
 <p><span class="chinese">详细情况见下文的叙述。</span><span class="english">Specific situations are described below.</span></p>
 
 <p><span class="chinese">其刑事管辖权在下文讨论。</span><span class="english">Its criminal jurisdiction is discussed below.</span></p>

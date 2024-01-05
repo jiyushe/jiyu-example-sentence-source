@@ -1,5 +1,7 @@
 # 节流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieliu_1.md)
+
 <p><span class="chinese">那么，我们或许应该把每辆车都装上节流板？</span><span class="english">So, should we put restrictor plates on all cars?</span></p>
 
 <p><span class="chinese">节流棒安装完成后再安装上模唇。</span><span class="english">Mount upper die lip after mounting restrictor bar.</span></p>

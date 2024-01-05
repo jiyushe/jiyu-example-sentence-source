@@ -1,5 +1,7 @@
 # chandigarh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chandigarh.md)
+
 <p><span class="chinese">例如，昌迪加尔是印度的一座由法国建筑师设计的现代化城市。</span><span class="english">For example, Chandigarh is a modern Indian city designed by a French architect.</span></p>
 
 <p><span class="chinese">莱维敦，昌迪加尔和英国的新城镇的例子人工城市。</span><span class="english">Levittown, Chandigarh and the British New Towns are examples of artificial cities.</span></p>

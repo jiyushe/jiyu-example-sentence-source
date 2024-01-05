@@ -1,5 +1,7 @@
 # traditionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traditionally.md)
+
 <p><span class="chinese">中国人传统上用八仙桌。</span><span class="english">Chinese traditionally use square table.</span></p>
 
 <p><span class="chinese">印度是一个传统的饮茶的国家。</span><span class="english">India is traditionally a tea-drinking country.</span></p>

@@ -1,5 +1,7 @@
 # unromantic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unromantic.md)
+
 <p><span class="chinese">我就知道你会忘记，你真不浪漫！</span><span class="english">I knew you would forget. You're so unromantic !</span></p>
 
 <p><span class="chinese">这看起来是平淡无奇的景色。</span><span class="english">That may seem a distinctly unromantic prospect.</span></p>

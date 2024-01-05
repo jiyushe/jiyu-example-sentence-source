@@ -1,5 +1,7 @@
 # favoured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favoured.md)
+
 <p><span class="chinese">天公作美。</span><span class="english">The weather favoured us.</span></p>
 
 <p><span class="chinese">雨天有利于他的逃跑。</span><span class="english">Rain favoured his escape.</span></p>

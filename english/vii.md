@@ -1,5 +1,7 @@
 # vii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vii.md)
+
 <p><span class="chinese">做一回小小服务员。</span><span class="english">VII. I Am a Waiter!</span></p>
 
 <p><span class="chinese">第七章去布里斯托尔途中。</span><span class="english">VII I Go to Bristol.</span></p>

@@ -1,5 +1,7 @@
 # 火源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoyuan.md)
+
 <p><span class="chinese">勿在近火源处存放或使用。</span><span class="english">Do not use or store near fire.</span></p>
 
 <p><span class="chinese">保持镇静，检查所有火源。</span><span class="english">Keep calm and check all fire sources.</span></p>

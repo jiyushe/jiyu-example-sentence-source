@@ -1,5 +1,7 @@
 # 国泰民安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guotaiminan.md)
+
 <p><span class="chinese">祝福我们的祖国繁荣富强，国泰民安！</span><span class="english">I'm proud of you, my country! I love you!</span></p>
 
 <p><span class="chinese">为中英两国的国泰民安</span><span class="english">To the prosperity of our countries and happiness of our peoples</span></p>

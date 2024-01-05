@@ -1,5 +1,7 @@
 # 人烟稀少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renyanxishao.md)
+
 <p><span class="chinese">肥沃富饶但人烟稀少的象牙海岸。</span><span class="english">The richly endowed but underpopulated ivory coast.</span></p>
 
 <p><span class="chinese">和一两个朋友去人烟稀少的地方。</span><span class="english">Hanging out with little friends to some desolated places.</span></p>

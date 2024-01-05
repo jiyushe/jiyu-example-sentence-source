@@ -1,5 +1,7 @@
 # 反证法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanzhengfa.md)
+
 <p><span class="chinese">没人能用反证法或者重造历史来说服大众——说明某事也许会发生。</span><span class="english">You can’t prove a negative nor recreate history to show what might have been.</span></p>
 
 <p><span class="chinese">通过反证法，不存在一个程序，能像传说中的P一样运行。</span><span class="english">By reductio, there cannot possibly be a procedure that acts like the mythical P.</span></p>

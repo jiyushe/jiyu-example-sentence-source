@@ -1,5 +1,7 @@
 # clockwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clockwork.md)
+
 <p><span class="chinese">邮递员来的时间很次序。</span><span class="english">The mailman ingways comes like clockwork.</span></p>
 
 <p><span class="chinese">海地将会遇到像钟表齿轮一样一连串的问题。</span><span class="english">Haiti will be facing storms like clockwork.</span></p>

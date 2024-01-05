@@ -1,5 +1,7 @@
 # fondly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fondly.md)
+
 <p><span class="chinese">我十分怀恋我的童年。</span><span class="english">I think fondly of my childhood.</span></p>
 
 <p><span class="chinese">我永远对你魂牵梦绕。</span><span class="english">Ever of you I'm fondly dreaming.</span></p>

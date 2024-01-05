@@ -1,5 +1,7 @@
 # barnard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barnard.md)
+
 <p><span class="chinese">1967年巴纳德首次进行人体心脏移植手术。</span><span class="english">The first was performed in 1967 by Christiaan Barnard.</span></p>
 
 <p><span class="chinese">我叫巴纳德，能够向你们说明我们的新产品，我感到非常荣幸。</span><span class="english">I'm Barnard and it's my great honor to tell you about our new product.</span></p>

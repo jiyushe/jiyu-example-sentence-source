@@ -1,5 +1,7 @@
 # stinger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stinger.md)
+
 <p><span class="chinese">先把我自己翻译的贴下，我撞到了不该撞的人，并且受了刺伤。</span><span class="english">I ran into someone I shouldn't have and I got a stinger.</span></p>
 
 <p><span class="chinese">蜂后只用她的螫针螫另外一只蜂后。</span><span class="english">A queen bee uses her stinger only to sting another queen bee.</span></p>

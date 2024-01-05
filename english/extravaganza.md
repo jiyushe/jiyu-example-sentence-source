@@ -1,5 +1,7 @@
 # extravaganza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extravaganza.md)
+
 <p><span class="chinese">那时装表演是艳丽色彩的大汇展。</span><span class="english">The fashion show was a technicolour extravaganza.</span></p>
 
 <p><span class="chinese">有些印度人沈迷于婚礼的大肆铺张。</span><span class="english">Some indian people indulge in wedding extravaganza.</span></p>

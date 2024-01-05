@@ -1,5 +1,7 @@
 # shovel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shovel.md)
+
 <p><span class="chinese">不需要桶或铲子。</span><span class="english">No pail and shovel required.</span></p>
 
 <p><span class="chinese">他拿起一把铲就干上了。</span><span class="english">He seized a shovel and set to.</span></p>

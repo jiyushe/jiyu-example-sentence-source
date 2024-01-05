@@ -1,5 +1,7 @@
 # daylight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daylight.md)
+
 <p><span class="chinese">猫头鹰在白天行动？</span><span class="english">Owls flying by daylight?</span></p>
 
 <p><span class="chinese">我们必须在黎明之时启程。</span><span class="english">We must leave at daylight.</span></p>

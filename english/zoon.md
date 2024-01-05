@@ -1,5 +1,7 @@
 # zoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoon.md)
+
 <p><span class="chinese">上海野生动物园的入口处。</span><span class="english">The entrance of the zoon.</span></p>
 
 <p><span class="chinese">我们去动物园看熊猫好吗?。</span><span class="english">Shall we go to the zoon to see the pandas?</span></p>

@@ -1,5 +1,7 @@
 # moola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moola.md)
+
 <p><span class="chinese">会阴收束被证实对分娩同样有帮助。</span><span class="english">Moola bandha has also proved to be useful in childbirth.</span></p>
 
 <p><span class="chinese">如果你成绩很好，家教可以帮你赚一笔不少的钱。</span><span class="english">If you're good at a subject, private tutoring can earn you some nice moola.</span></p>

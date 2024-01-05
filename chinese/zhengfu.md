@@ -1,5 +1,7 @@
 # 征服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfu.md)
+
 <p><span class="chinese">劳动征服一切。</span><span class="english">Labor vanquishes all.</span></p>
 
 <p><span class="chinese">这一行动征服了伽弗洛什。</span><span class="english">This conquered Gavroche.</span></p>

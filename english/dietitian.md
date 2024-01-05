@@ -1,5 +1,7 @@
 # dietitian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dietitian.md)
+
 <p><span class="chinese">营养师乌尔苏拉。阿伦斯说不用。</span><span class="english">Dietitian Ursula Arens says no.</span></p>
 
 <p><span class="chinese">遵循医生或饮食学家推荐的饮食建议。</span><span class="english">Follow the diet recommended by your doctor or dietitian.</span></p>

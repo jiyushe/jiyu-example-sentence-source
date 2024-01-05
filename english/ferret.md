@@ -1,5 +1,7 @@
 # ferret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferret.md)
+
 <p><span class="chinese">雪貂是什么？</span><span class="english">What Is A Ferret?</span></p>
 
 <p><span class="chinese">我会搜出“狐狸”和她的党羽。</span><span class="english">I'll ferret out Fox and her gang.</span></p>

@@ -1,5 +1,7 @@
 # snapshot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snapshot.md)
+
 <p><span class="chinese">确何建筑与谷歌地球上快照位置是一致的。</span><span class="english">in your Google Earth snapshot.</span></p>
 
 <p><span class="chinese">变更集模型与快照模型</span><span class="english">Changeset versus snapshot models</span></p>

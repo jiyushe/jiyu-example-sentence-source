@@ -1,5 +1,7 @@
 # isomerase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isomerase.md)
+
 <p><span class="chinese">葡萄糖异构酶的生物工程研究进展。</span><span class="english">Progress in Biological Engineering of D-Glucose Isomerase.</span></p>
 
 <p><span class="chinese">本发明公开了一种突变的木糖异构酶及其基因。</span><span class="english">The invention discloses a discontinuous xylo-pfan isomerase and its genes.</span></p>

@@ -1,5 +1,7 @@
 # 相反相成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangfanxiangcheng.md)
+
 <p><span class="chinese">他的个性与她的相反相成。</span><span class="english">His personality is complementary to hers.</span></p>
 
 <p><span class="chinese">所谓张力，简而言之，就是一种相反相成的力。</span><span class="english">The so-called tension, in a nutshell, is a contrast Xiang-cheng of the force.</span></p>

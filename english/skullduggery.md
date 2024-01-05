@@ -1,5 +1,7 @@
 # skullduggery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skullduggery.md)
+
 <p><span class="chinese">一定是政治欺骗。</span><span class="english">There must be political skullduggery afoot!</span></p>
 
 <p><span class="chinese">这一次，我们的马穆迪耶之行完全没有这些担忧。</span><span class="english">This time around, our trip was entirely lacking in skullduggery.</span></p>

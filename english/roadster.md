@@ -1,5 +1,7 @@
 # roadster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roadster.md)
+
 <p><span class="chinese">这辆跑车有一个可升起来的遮阳棚顶。</span><span class="english">The roadster had a raisable suo of.</span></p>
 
 <p><span class="chinese">梅赛德斯的F-cell是一款氢动力马车式双门敞篷汽车。</span><span class="english">Mercedes F-CELL is a concept hydrogen-powered buggy roadster.</span></p>

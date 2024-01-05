@@ -1,5 +1,7 @@
 # 时尚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishang_1.md)
+
 <p><span class="chinese">时尚的环圈设计。</span><span class="english">Ring desain fashion.</span></p>
 
 <p><span class="chinese">你的马靴很时尚。</span><span class="english">Your boot is latest fashion.</span></p>

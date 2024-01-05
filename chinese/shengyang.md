@@ -1,5 +1,7 @@
 # 生养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyang.md)
+
 <p><span class="chinese">这对于我来说就像生养孩子的感觉似的。</span><span class="english">That's what having children felt like for me.</span></p>
 
 <p><span class="chinese">百鸟王和王后生养了百鸟。</span><span class="english">Hundred phoenixes and queen have given birth to hundred birds.</span></p>

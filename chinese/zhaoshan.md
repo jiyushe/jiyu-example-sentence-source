@@ -1,5 +1,7 @@
 # 罩衫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoshan.md)
+
 <p><span class="chinese">这件罩衫剪裁得很合身。</span><span class="english">This is a well-tailored blouse.</span></p>
 
 <p><span class="chinese">那件布罩衫，他是从什么地方得来的呢？</span><span class="english">Where had he obtained that blouse?</span></p>

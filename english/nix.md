@@ -1,5 +1,7 @@
 # nix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nix.md)
+
 <p><span class="chinese">你是几点离开你的办公室的?</span><span class="english">When did you nix out of your office?</span></p>
 
 <p><span class="chinese">那个小男孩喜欢为他的哥哥们望风。</span><span class="english">That little boy likes to keep nix for his brothers.</span></p>

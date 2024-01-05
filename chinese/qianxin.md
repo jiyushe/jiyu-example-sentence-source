@@ -1,5 +1,7 @@
 # 潜心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianxin.md)
+
 <p><span class="chinese">一个潜心于特殊技术方法练习的人。</span><span class="english">There are other ways to do this exercise.</span></p>
 
 <p><span class="chinese">在晚上，他潜心于书本。</span><span class="english">In the evenings, he buries himself in a book.</span></p>

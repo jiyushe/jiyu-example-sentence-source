@@ -1,5 +1,7 @@
 # 下不为例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabuweili.md)
+
 <p><span class="chinese">“下不为例”成了口号。</span><span class="english">"Never again" became the watchword.</span></p>
 
 <p><span class="chinese">今天特殊么,下不为例。</span><span class="english">Today is a special case. I won't do it again.</span></p>

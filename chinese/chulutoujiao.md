@@ -1,5 +1,7 @@
 # 初露头角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chulutoujiao.md)
+
 <p><span class="chinese">公主的衣服是由一位初露头角的年轻的设计师设计的。</span><span class="english">The princess is dressed by a rising young designer.</span></p>
 
 <p><span class="chinese">初露头角的男性都是引人注目需要交配。</span><span class="english">Head budding males are conspicuous icons of the need to breed.</span></p>

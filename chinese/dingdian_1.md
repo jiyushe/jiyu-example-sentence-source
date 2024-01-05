@@ -1,5 +1,7 @@
 # 顶点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingdian_1.md)
+
 <p><span class="chinese">于是我鼓起劲，终于爬上了顶点。</span><span class="english">I climbed to the top finally.</span></p>
 
 <p><span class="chinese">很明显，它的顶点就是我们的最终目标。</span><span class="english">Obviously, the apex is the end goal.</span></p>

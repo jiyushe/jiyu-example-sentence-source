@@ -1,5 +1,7 @@
 # acromegaly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acromegaly.md)
+
 <p><span class="chinese">忽然之间，他觉得有这种可能，他可能真的患有先端肥大症。</span><span class="english">Suddenly, she could see the possibilities. Maybe he did have acromegaly.</span></p>
 
 <p><span class="chinese">排除中枢性睡眠呼吸暂停综合征、状腺功能低下、端肥大症等患者。</span><span class="english">Patients with central sleep apnea syndrome, hypothyroidism and acromegaly , etc.</span></p>

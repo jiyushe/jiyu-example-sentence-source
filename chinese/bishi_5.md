@@ -1,5 +1,7 @@
 # 逼视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bishi_5.md)
+
 <p><span class="chinese">他逼视着我，眼睛睁得大大的。</span><span class="english">He stared at me, his eyes widening.</span></p>
 
 <p><span class="chinese">斯利姆逼视乔治，并且朝他身后望去。</span><span class="english">Slim looked through George and beyond him.</span></p>

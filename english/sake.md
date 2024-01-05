@@ -1,5 +1,7 @@
 # sake 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sake.md)
+
 <p><span class="chinese">寻找真爱之吻。</span><span class="english">A kiss for love's sake.</span></p>
 
 <p><span class="chinese">只是为了爱才爱我。</span><span class="english">Except for love's sake only.</span></p>

@@ -1,5 +1,7 @@
 # 浮光掠影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuguanglveying.md)
+
 <p><span class="chinese">从依赖到独立，从束缚到自由，浮光掠影般。</span><span class="english">From dependence to independence, To free from restraint, Like surface.</span></p>
 
 <p><span class="chinese">多数人不见太阳，至少，只是浮光掠影。</span><span class="english">Most persons do not see the sun. At least they have a very superficial seeing.</span></p>

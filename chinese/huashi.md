@@ -1,5 +1,7 @@
 # 花式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huashi.md)
+
 <p><span class="chinese">而花式大写就不一样。</span><span class="english">Swash capitals however do.</span></p>
 
 <p><span class="chinese">盘花式吧，我想。</span><span class="english">Chaplet style is fine, I think.</span></p>

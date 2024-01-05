@@ -1,5 +1,7 @@
 # supposing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supposing.md)
+
 <p><span class="chinese">说不定食尸鬼倒在那儿！</span><span class="english">Supposing the ghouls were!</span></p>
 
 <p><span class="chinese">假如你很富裕的话，那么会怎样呢?。</span><span class="english">Supposing that yon were rich, what then?</span></p>

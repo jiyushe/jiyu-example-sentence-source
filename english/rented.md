@@ -1,5 +1,7 @@
 # rented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rented.md)
+
 <p><span class="chinese">他们把我的房间出租了。</span><span class="english">They rented out my room.</span></p>
 
 <p><span class="chinese">你们不能租点地来种吗？</span><span class="english">And cannot land be rented?</span></p>

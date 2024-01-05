@@ -1,5 +1,7 @@
 # premium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premium.md)
+
 <p><span class="chinese">它使用高级无铅汽油。</span><span class="english">It use premium unleaded gas.</span></p>
 
 <p><span class="chinese">欢迎高级奥特莱斯?。</span><span class="english">Welcome to the Premium Outlets?</span></p>

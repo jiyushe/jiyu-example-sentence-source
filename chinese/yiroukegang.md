@@ -1,5 +1,7 @@
 # 以柔克刚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiroukegang.md)
+
 <p><span class="chinese">做人要低调如水，以柔克刚。</span><span class="english">One should be low key like water, use soft to conquer hard.</span></p>
 
 <p><span class="chinese">但是儒家思想因其推崇以柔克刚的权力手段得以复兴。</span><span class="english">But Confucianism revived, with its softer approach to power.</span></p>

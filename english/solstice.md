@@ -1,5 +1,7 @@
 # solstice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solstice.md)
+
 <p><span class="chinese">明天就交夏至了。</span><span class="english">Tomorrow will be the Summer Solstice.</span></p>
 
 <p><span class="chinese">图片里的索斯提斯有三个月大。</span><span class="english">Solstice is three months old in this shot.</span></p>

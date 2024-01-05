@@ -1,5 +1,7 @@
 # 弱肉强食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruorouqiangshi.md)
+
 <p><span class="chinese">弱肉强食的海底世界，您也快来探索吧！</span><span class="english">Law of the jungle world of the ocean floor, you come and explore!</span></p>
 
 <p><span class="chinese">山姆钟情于海洋所谓“丑陋”和弱肉强食的一面。</span><span class="english">Sam's interest tends towards the reputedly 'ugly' and predatory side of the sea.</span></p>

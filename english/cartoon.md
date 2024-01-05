@@ -1,5 +1,7 @@
 # cartoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cartoon.md)
+
 <p><span class="chinese">泰国动画片网。</span><span class="english">Thai cartoon web.</span></p>
 
 <p><span class="chinese">我喜欢这幅漫画。</span><span class="english">I like this cartoon.</span></p>

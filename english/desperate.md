@@ -1,5 +1,7 @@
 # desperate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desperate.md)
+
 <p><span class="chinese">绝望的。</span><span class="english">Desperate.</span></p>
 
 <p><span class="chinese">绝望的手盖我的脸。</span><span class="english">Desperate hands cover my face.</span></p>

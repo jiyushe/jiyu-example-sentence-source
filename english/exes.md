@@ -1,5 +1,7 @@
 # exes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exes.md)
+
 <p><span class="chinese">与前任在一起的经历对我们是会有所帮助还是阻碍？</span><span class="english">Will our experiences with our exes help or hinder us?</span></p>
 
 <p><span class="chinese">我提供了DLL的各种情况和可能发生的EXE文件。</span><span class="english">I've provided DLLs and EXEs for various situations that can occur.</span></p>

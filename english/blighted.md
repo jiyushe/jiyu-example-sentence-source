@@ -1,5 +1,7 @@
 # blighted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blighted.md)
+
 <p><span class="chinese">6月的玫瑰花枯萎了。</span><span class="english">The June roses blighted.</span></p>
 
 <p><span class="chinese">有病的茎往往溃烂。</span><span class="english">Blighted stems often canker.</span></p>

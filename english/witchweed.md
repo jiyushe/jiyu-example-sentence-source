@@ -1,5 +1,7 @@
 # witchweed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/witchweed.md)
+
 <p><span class="chinese">独脚金有另一个特征。</span><span class="english">Witchweed has another unusual quality.</span></p>
 
 <p><span class="chinese">如果它入侵了一个地区是非常难以清除的。</span><span class="english">Witchweed is very difficult to remove if it invades an area.</span></p>

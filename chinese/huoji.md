@@ -1,5 +1,7 @@
 # 伙计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoji.md)
+
 <p><span class="chinese">伙计们,拼了"</span><span class="english">Fight harder men!</span></p>
 
 <p><span class="chinese">我爱你啊，伙计。</span><span class="english">I love you, buddy.</span></p>

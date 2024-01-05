@@ -1,5 +1,7 @@
 # radicalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radicalize.md)
+
 <p><span class="chinese">他说如果这些条件不能得到满足，反对派的要求会变得更激进。</span><span class="english">He says the opposition will radicalize its demands if these conditions aren't met.</span></p>
 
 <p><span class="chinese">性网志作家通过聪明的自拍和短暂的出境激化他们博客的使命。</span><span class="english">Sex bloggers radicalize the blogging mission through witty self-photography and ephemeral appearances.</span></p>

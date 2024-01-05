@@ -1,5 +1,7 @@
 # deva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deva.md)
+
 <p><span class="chinese">天路，它用一块整体石头由人工雕凿而成。</span><span class="english">Deva Road, it made by artificial shape with a whole stone.</span></p>
 
 <p><span class="chinese">如是，世尊！如来有天眼。</span><span class="english">Yes, World Honoured One, the Tathagata possesses deva eyes.</span></p>

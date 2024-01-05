@@ -1,5 +1,7 @@
 # colonoscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colonoscopy.md)
+
 <p><span class="chinese">结肠镜检查后该注意什么？</span><span class="english">WHAT HAPPENS AFTER COLONOSCOPY?</span></p>
 
 <p><span class="chinese">可以用来加热大肠镜检测仪器。</span><span class="english">Warm up the colonoscopy instruments.</span></p>

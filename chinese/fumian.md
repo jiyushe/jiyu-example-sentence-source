@@ -1,5 +1,7 @@
 # 幅面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fumian.md)
+
 <p><span class="chinese">从加工材料的幅面上来选择。</span><span class="english">The wide from processing materials come up choice.</span></p>
 
 <p><span class="chinese">大幅面图形，视频剪辑和文本的副本将提供给您。</span><span class="english">Large Format Graphics, video clips and textual copy will be provided to you.</span></p>

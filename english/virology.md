@@ -1,5 +1,7 @@
 # virology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virology.md)
+
 <p><span class="chinese">兽医微生物学上册，刘荣标编著，艺轩图书出版社。</span><span class="english">Veterinary Bacteriology and Virology Merchant &Packer. Seventh Edition.</span></p>
 
 <p><span class="chinese">HIV病毒的获取是依照现代滤过性微生物学最严格的标准执行。</span><span class="english">HIV has been isolated according to the most rigorous standards of modern virology.</span></p>

@@ -1,5 +1,7 @@
 # 作伴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoban.md)
+
 <p><span class="chinese">黑夜会送来一只枭或蝙蝠与我作伴吗？</span><span class="english">Will the night send a howlet or a bat?</span></p>
 
 <p><span class="chinese">为什么和机器人作伴中会有危险？</span><span class="english">Why is there a danger in robot companions?</span></p>

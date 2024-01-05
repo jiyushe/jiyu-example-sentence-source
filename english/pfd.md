@@ -1,5 +1,7 @@
 # pfd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pfd.md)
+
 <p><span class="chinese">我还需要一个同样PFD的副本。</span><span class="english">I also need a pfd copy of the same.</span></p>
 
 <p><span class="chinese">原理控制回路也应显示在PFD。</span><span class="english">Principle Control Loops shall also be shown in the PFD.</span></p>

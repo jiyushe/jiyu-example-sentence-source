@@ -1,5 +1,7 @@
 # apprehensively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apprehensively.md)
+
 <p><span class="chinese">我战战兢兢地等着他给出评论。</span><span class="english">I waited apprehensively for him to comment.</span></p>
 
 <p><span class="chinese">他担心地审视着我的脸。</span><span class="english">He studied my face apprehensively , and I sighed.</span></p>

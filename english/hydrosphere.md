@@ -1,5 +1,7 @@
 # hydrosphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrosphere.md)
+
 <p><span class="chinese">它还包括与水圈的交互。</span><span class="english">It also includes interactions with the hydrosphere.</span></p>
 
 <p><span class="chinese">把大气圈和水圈中的物质加进这10英里岩带的物质中。</span><span class="english">The materials in the atmosphere and hydrosphere are added to those of the10-mile zone.</span></p>

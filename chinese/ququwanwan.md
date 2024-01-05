@@ -1,5 +1,7 @@
 # 曲曲弯弯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ququwanwan.md)
+
 <p><span class="chinese">这条小路曲曲弯弯地通往山上。</span><span class="english">The path ran zigzag up the hill.</span></p>
 
 <p><span class="chinese">这条路在山区里曲曲弯弯蜿蜒向前。</span><span class="english">The road zigzags in the mountains.</span></p>

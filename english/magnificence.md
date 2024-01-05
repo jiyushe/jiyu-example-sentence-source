@@ -1,5 +1,7 @@
 # magnificence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnificence.md)
+
 <p><span class="chinese">我喜欢这件展品的华丽和耀眼。</span><span class="english">I loved the magnificence of bling this piece exhibits.</span></p>
 
 <p><span class="chinese">不可阻挡的是，大芦村的辉煌大气早已不再。</span><span class="english">The past glory and magnificence of the village is irrevocably gone.</span></p>

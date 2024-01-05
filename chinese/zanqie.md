@@ -1,5 +1,7 @@
 # 暂且
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanqie.md)
+
 <p><span class="chinese">暂且就成为合伙人博弈吧</span><span class="english">So Partnership Game.</span></p>
 
 <p><span class="chinese">请你暂且控制住感情。</span><span class="english">Please try to govern your passions.</span></p>

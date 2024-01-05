@@ -1,5 +1,7 @@
 # 禽兽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinshou_1.md)
+
 <p><span class="chinese">实是禽兽不如！</span><span class="english">Are not in animals!</span></p>
 
 <p><span class="chinese">他们禽兽不如。</span><span class="english">They're lower than the animals.</span></p>

@@ -1,5 +1,7 @@
 # removed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/removed.md)
+
 <p><span class="chinese">它的壶盖是可以揭开的。</span><span class="english">Its lid can be removed.</span></p>
 
 <p><span class="chinese">什么也没有移动。</span><span class="english">Nothing will be removed.</span></p>

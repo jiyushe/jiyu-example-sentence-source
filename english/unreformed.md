@@ -1,5 +1,7 @@
 # unreformed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreformed.md)
+
 <p><span class="chinese">但未经改革的原有制度的缺点更加明显。</span><span class="english">But the downsides of an unreformed system are much more obvious.</span></p>
 
 <p><span class="chinese">苏联时代遗留下来的社会福利制度和政府的官僚习气，已成为乌克兰无法承受之重负。</span><span class="english">Its unreformed social system and its red tape, both inherited from Soviet days, are crushing burdens.</span></p>

@@ -1,5 +1,7 @@
 # giselle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giselle.md)
+
 <p><span class="chinese">你是我的吉塞尔，回到我身边吧。</span><span class="english">You are my Giselle come on to my side.</span></p>
 
 <p><span class="chinese">听着，兄弟，我们需要吉赛儿她是很棒的追踪者。</span><span class="english">Look, man, we need Giselle. She's a great tracker.</span></p>

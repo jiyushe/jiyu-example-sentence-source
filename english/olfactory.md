@@ -1,5 +1,7 @@
 # olfactory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olfactory.md)
+
 <p><span class="chinese">鼻子是嗅觉器官。</span><span class="english">The nose is an olfactory organ.</span></p>
 
 <p><span class="chinese">头部撞击能够损伤或撕裂嗅神经。</span><span class="english">A head blow can injure or tear olfactory nerves.</span></p>

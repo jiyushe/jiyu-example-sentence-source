@@ -1,5 +1,7 @@
 # scissors
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scissors.md)
+
 <p><span class="chinese">我的剪刀由钢铁构成。</span><span class="english">My scissors are made of steel.</span></p>
 
 <p><span class="chinese">用剪刀剪开纸币。</span><span class="english">Use scissors to separate notes.</span></p>

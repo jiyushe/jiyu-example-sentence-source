@@ -1,5 +1,7 @@
 # kart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kart.md)
+
 <p><span class="chinese">这将彻底改变的外观卡丁车。</span><span class="english">It will totally change the appearance of your kart.</span></p>
 
 <p><span class="chinese">虽然“左”或“权利”将让你的赛车左转或右转。</span><span class="english">Whilst "left" or "right" will let your kart turn left or right.</span></p>

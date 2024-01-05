@@ -1,5 +1,7 @@
 # 云石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunshi.md)
+
 <p><span class="chinese">一滴眼泪慢慢流到安灼拉那云石般的面颊上。</span><span class="english">And a tear trickled slowly down Enjolras' marble cheek.</span></p>
 
 <p><span class="chinese">如使用云石灯或落地灯，效果会更好。</span><span class="english">If use marble lamp or floor lamp, the effect will be better.</span></p>

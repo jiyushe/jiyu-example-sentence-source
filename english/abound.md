@@ -1,5 +1,7 @@
 # abound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abound.md)
+
 <p><span class="chinese">这方面的理论不胜枚举。</span><span class="english">Theories abound.</span></p>
 
 <p><span class="chinese">海中有丰富的渔产。</span><span class="english">Fish abound in the sea.</span></p>

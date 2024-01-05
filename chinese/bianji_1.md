@@ -1,5 +1,7 @@
 # 边际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianji_1.md)
+
 <p><span class="chinese">定价高于边际成本</span><span class="english">Price above that.</span></p>
 
 <p><span class="chinese">也将价格设定在边际成本</span><span class="english">To price at marginal cost as well.</span></p>

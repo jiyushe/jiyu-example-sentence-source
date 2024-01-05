@@ -1,5 +1,7 @@
 # intake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intake.md)
+
 <p><span class="chinese">封锁进气口。</span><span class="english">Blocked air intake.</span></p>
 
 <p><span class="chinese">喷涂进气口后面的蓝色。</span><span class="english">Spray blue behind the intake.</span></p>

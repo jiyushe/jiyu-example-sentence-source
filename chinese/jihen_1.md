@@ -1,5 +1,7 @@
 # 记恨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jihen_1.md)
+
 <p><span class="chinese">但黄金投资者记恨这个。</span><span class="english">But gold bugs hated it.</span></p>
 
 <p><span class="chinese">我呢，一直也害怕小仙儿会记恨我。</span><span class="english">I was wondering if Xiaoxian would hate me.</span></p>

@@ -1,5 +1,7 @@
 # carmine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carmine.md)
+
 <p><span class="chinese">胭脂香鹅是什么样的菜?</span><span class="english">What is the Carmine Goose like?</span></p>
 
 <p><span class="chinese">美丽的洋红色。</span><span class="english">Very beautiful carmine red color.</span></p>

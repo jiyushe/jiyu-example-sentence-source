@@ -1,5 +1,7 @@
 # autonomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autonomy.md)
+
 <p><span class="chinese">你会获得自主。</span><span class="english">You get autonomy.</span></p>
 
 <p><span class="chinese">给我一些自主权。</span><span class="english">Give me some autonomy.</span></p>

@@ -1,5 +1,7 @@
 # 凉棚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangpeng.md)
+
 <p><span class="chinese">房屋有阳台、门廊、凉棚和热水浴盆。</span><span class="english">House with a balcony, porch, arbor and hot tub.</span></p>
 
 <p><span class="chinese">在后院盖顶凉棚四周砖墙。</span><span class="english">Covered patio in backyard surrounded by block walls.</span></p>

@@ -1,5 +1,7 @@
 # psychoactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychoactive.md)
+
 <p><span class="chinese">它一般通过是通过烟或直接摄取来吸食的，对精神和生理都有一定的作用。</span><span class="english">It has psychoactive and physiological effects when consumed, usually by smoking or ingestion.</span></p>
 
 <p><span class="chinese">改良了神经致幻型毒菌活性色胺类物质的比色检测方法。</span><span class="english">A colorimetric method for measuring active tryptamines in psychoactive mushrooms was modified.</span></p>

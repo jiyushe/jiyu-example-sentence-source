@@ -1,5 +1,7 @@
 # 丹顶鹤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dandinghe.md)
+
 <p><span class="chinese">他喜欢孔雀和丹顶鹤。</span><span class="english">He likes peacocks and cranes.</span></p>
 
 <p><span class="chinese">这些丹顶鹤啊，都是人工饲养的。</span><span class="english">These birds are all raised by humans.</span></p>

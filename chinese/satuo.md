@@ -1,5 +1,7 @@
 # 洒脱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/satuo.md)
+
 <p><span class="chinese">诺伊斯生性洒脱，豁达正真。</span><span class="english">Noyes naturally carefree, open-minded is true.</span></p>
 
 <p><span class="chinese">这是一种洒脱，然而很需要勇气。</span><span class="english">This is a kind of handsom, yet courage is need.</span></p>

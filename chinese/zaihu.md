@@ -1,5 +1,7 @@
 # 在乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaihu.md)
+
 <p><span class="chinese">但是谁在乎呢？</span><span class="english">But who cares?</span></p>
 
 <p><span class="chinese">不，谁在乎呢。</span><span class="english">No, who cares.</span></p>

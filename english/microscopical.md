@@ -1,5 +1,7 @@
 # microscopical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microscopical.md)
+
 <p><span class="chinese">研究古镜化石在地球上，然后这些火星上。</span><span class="english">Studying ancient microscopical fossils on Earth and then those on Mars.</span></p>
 
 <p><span class="chinese">采用宏观、微观检验、化学成分分析等方法，对失效件进行了检测。</span><span class="english">The failure components were examined by macro and microscopical analysis and so on.</span></p>

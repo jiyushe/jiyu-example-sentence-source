@@ -1,5 +1,7 @@
 # 冲锋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongfeng.md)
+
 <p><span class="chinese">然后双方冲锋。</span><span class="english">Then both sides charged.</span></p>
 
 <p><span class="chinese">她以前是美国海军陆战队冲锋连的。</span><span class="english">Who was with bravo company usmc.</span></p>

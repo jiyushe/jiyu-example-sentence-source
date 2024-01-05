@@ -1,5 +1,7 @@
 # cleave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleave.md)
+
 <p><span class="chinese">增加重击和劈裂的伤害。</span><span class="english">Increases the damage of Bash and Cleave.</span></p>
 
 <p><span class="chinese">这或许就是我们依然坚守着他伟大诗篇的原因。</span><span class="english">Which may be why we still cleave to his great poem.</span></p>

@@ -1,5 +1,7 @@
 # 男男女女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nannannvnv.md)
+
 <p><span class="chinese">塞拉利昂是一个男男女女都诚实的国家。</span><span class="english">Sierra Leone is a land of honest men and women.</span></p>
 
 <p><span class="chinese">虽然天气很热，可是还有满大街的男男女女。</span><span class="english">Girls and boys were walking though the weather is so hot.</span></p>

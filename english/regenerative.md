@@ -1,5 +1,7 @@
 # regenerative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regenerative.md)
+
 <p><span class="chinese">这个过程就是所谓再生制动。</span><span class="english">The process is known as regenerative braking.</span></p>
 
 <p><span class="chinese">木材可以反复地循环利用，再利用和再生。</span><span class="english">Wood can be recirculated, reused and regenerative.</span></p>

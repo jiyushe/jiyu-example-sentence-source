@@ -1,5 +1,7 @@
 # hostess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hostess.md)
+
 <p><span class="chinese">你真是一位出色的女主人。</span><span class="english">You’re a wonderful hostess.</span></p>
 
 <p><span class="chinese">她正在扮演麦克白夫人。</span><span class="english">She's going to play hostess.</span></p>

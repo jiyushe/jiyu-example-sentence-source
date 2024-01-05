@@ -1,5 +1,7 @@
 # constringency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constringency.md)
+
 <p><span class="chinese">从设计、施工角度针对不均匀沉降、温度、收缩等因素对墙体开裂影响的给出具体的防裂措施建议。</span><span class="english">The advice of avoiding cracks because of the asymmetric sedimentation temperature , constringency in design and construction.</span></p>
 
 <p><span class="chinese">新模型能有效地保留目标信息，消除噪音，增大图像梯度值，具有更强的收敛效果。</span><span class="english">The new model can reserve the object information effectually, eliminate the noise, augment image gradient, and pose stronger constringency effect.</span></p>

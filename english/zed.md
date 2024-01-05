@@ -1,5 +1,7 @@
 # zed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zed.md)
+
 <p><span class="chinese">瑞德“你很有可能会是我的得力助手。”</span><span class="english">Zed You could be my right-hand man.</span></p>
 
 <p><span class="chinese">ZED的结构被设计为120年使用寿命年或者更长。</span><span class="english">ZED structure is designed for a 120 year of longer.</span></p>

@@ -1,5 +1,7 @@
 # eightfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eightfold.md)
+
 <p><span class="chinese">是否巳经开发了八正道？</span><span class="english">Are the Noble Eightfold Path developed in me?</span></p>
 
 <p><span class="chinese">就象是有八倍宽的道路，十二层台阶，十条戒律。</span><span class="english">It's like the eightfold path the twelve steps the ten commandments.</span></p>

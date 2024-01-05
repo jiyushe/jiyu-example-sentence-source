@@ -1,5 +1,7 @@
 # favored
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favored.md)
+
 <p><span class="chinese">我是天之骄子。</span><span class="english">I am God's favored one.</span></p>
 
 <p><span class="chinese">这支地方队倍受人喜爱。</span><span class="english">The local team was favored.</span></p>

@@ -1,5 +1,7 @@
 # complain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complain.md)
+
 <p><span class="chinese">我怎么还好意思抱怨呢？</span><span class="english">How can I complain?</span></p>
 
 <p><span class="chinese">你应该抱怨吗？</span><span class="english">Should you complain?</span></p>

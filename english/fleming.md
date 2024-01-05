@@ -1,5 +1,7 @@
 # fleming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleming.md)
+
 <p><span class="chinese">帕斯奇是大的弗兰芒人。</span><span class="english">Patrasche was a big Fleming.</span></p>
 
 <p><span class="chinese">盘尼西林是亚历山大·弗来明发现的。</span><span class="english">Penicillin was discovered by Alexander Fleming.</span></p>

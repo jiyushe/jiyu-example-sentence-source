@@ -1,5 +1,7 @@
 # audience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audience.md)
+
 <p><span class="chinese">观众捧腹大笑。</span><span class="english">Big audience laugh.</span></p>
 
 <p><span class="chinese">谁是你的观众？</span><span class="english">Who is your audience?</span></p>

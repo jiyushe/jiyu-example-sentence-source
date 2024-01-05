@@ -1,5 +1,7 @@
 # chlamydomonas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chlamydomonas.md)
+
 <p><span class="chinese">南极冰藻就是指生活在南极海冰、海冰边缘或海水中的一大类微藻。</span><span class="english">In order to construct the cDNA library from Antarctic ice alga Chlamydomonas sp.</span></p>
 
 <p><span class="chinese">衣藻经常分裂，原先为一个而分为两个个体。</span><span class="english">Chlamydomonas divides frequently and forms two individuals where before there was one.</span></p>

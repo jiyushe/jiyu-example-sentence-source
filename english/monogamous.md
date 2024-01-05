@@ -1,5 +1,7 @@
 # monogamous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monogamous.md)
+
 <p><span class="chinese">从本性上来说，女人是纯情的。</span><span class="english">Women nare monogamous by nature.</span></p>
 
 <p><span class="chinese">长臂猿则实行的是虔诚的一夫一妻制。</span><span class="english">Gibbons are monogamous to the point of piety.</span></p>

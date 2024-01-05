@@ -1,5 +1,7 @@
 # downstate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downstate.md)
+
 <p><span class="chinese">我和叔叔正在等一位州南部的朋友来他家。</span><span class="english">My uncle and I were waiting for a friend from downstate to show up at my uncle’s place.</span></p>
 
 <p><span class="chinese">你们说，这些事情和观念非常重要--全州的就业问题是重要的，保健是重要的，教育是重要的，环境是重要的，社会保险是重要的，还有妇女选择权是重要的。</span><span class="english">You came out and said that issues and ideals matter. Jobs matter, downstate and upstate.</span></p>

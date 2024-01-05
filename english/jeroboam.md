@@ -1,5 +1,7 @@
 # jeroboam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeroboam.md)
+
 <p><span class="chinese">亚比雅常与耶罗波安争战。</span><span class="english">There was war between Abijah and Jeroboam.</span></p>
 
 <p><span class="chinese">他儿子耶罗波安接续他作王。</span><span class="english">And Jeroboam his son succeeded him as king.</span></p>

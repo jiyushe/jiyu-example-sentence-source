@@ -1,5 +1,7 @@
 # 不可理喻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukeliyu.md)
+
 <p><span class="chinese">你是孤独的、孤独的，你是一个隐士，你变得不可理喻。</span><span class="english">It is lonely.</span></p>
 
 <p><span class="chinese">这简直是不可理喻的事情。</span><span class="english">It is impossible.</span></p>

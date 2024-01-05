@@ -1,5 +1,7 @@
 # ius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ius.md)
+
 <p><span class="chinese">对于年龄在71或更大的成年人，此推荐增加至每日800IUs。</span><span class="english">The recommendation increases to 800 IUs a day for adults age 71 and older.</span></p>
 
 <p><span class="chinese">如果没有这样的条件，可以考虑添加至少含600IU维生素D的补品到每天的饮食。</span><span class="english">If not, consider adding a supplement of at least 600 IUs to your daily intake.</span></p>

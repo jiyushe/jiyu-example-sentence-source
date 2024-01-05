@@ -1,5 +1,7 @@
 # 飞蝗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feihuang.md)
+
 <p><span class="chinese">首先，对东亚飞蝗生境的含义进行了探讨。</span><span class="english">First, the meanings of habitat of oriental migratory locust were explored.</span></p>
 
 <p><span class="chinese">山东省是东亚飞蝗蝗灾重发区，蝗区面积大。</span><span class="english">Locust plague is the serious problem in Shandong Province, the occurring area are large.</span></p>

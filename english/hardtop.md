@@ -1,5 +1,7 @@
 # hardtop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardtop.md)
+
 <p><span class="chinese">它精选软和硬顶版本。</span><span class="english">It featured soft- and hardtop versions.</span></p>
 
 <p><span class="chinese">其他配选配置还包含了疝气大灯、可硬顶篷和GPS导航系统。</span><span class="english">Other options include xenon headlamps, a removable hardtop and GPS navigation.</span></p>

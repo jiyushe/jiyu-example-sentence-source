@@ -1,5 +1,7 @@
 # misgivings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misgivings.md)
+
 <p><span class="chinese">他的疑虑涣然冰释。</span><span class="english">All his misgivings vanished.</span></p>
 
 <p><span class="chinese">对于这次旅行我有过极大的顾虑.</span><span class="english">I had grave misgivings about making the trip.</span></p>

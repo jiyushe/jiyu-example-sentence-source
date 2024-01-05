@@ -1,5 +1,7 @@
 # insulator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insulator.md)
+
 <p><span class="chinese">他教学生们做绝缘体。</span><span class="english">He taught the students to make the insulator.</span></p>
 
 <p><span class="chinese">苏州电瓷厂有限公司欢迎您！</span><span class="english">Welcome to Suzhou Porcelain Insulator Works Co.</span></p>

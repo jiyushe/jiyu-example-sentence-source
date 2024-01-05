@@ -1,5 +1,7 @@
 # granular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granular.md)
+
 <p><span class="chinese">那如果我们需要更细的粒度呢？</span><span class="english">What if we want to get more granular?</span></p>
 
 <p><span class="chinese">还观察到极少的颗粒细胞具有典型的核仁。</span><span class="english">A few of granular cells have typical nucleolus.</span></p>

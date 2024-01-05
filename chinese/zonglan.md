@@ -1,5 +1,7 @@
 # 总揽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonglan.md)
+
 <p><span class="chinese">我们必须要找到一个人来总揽这个计划。</span><span class="english">We must find someone to take charge of the project.</span></p>
 
 <p><span class="chinese">图3显示了类的总揽。</span><span class="english">Figure 3. The figure above shows the class overview.</span></p>

@@ -1,5 +1,7 @@
 # 征文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengwen.md)
+
 <p><span class="chinese">第一个阶段是征文比赛。</span><span class="english">The first stage covered the writing competition.</span></p>
 
 <p><span class="chinese">到现在为止，这个是我听到的六一参赛征文里最好的录音了。</span><span class="english">Up to now, this is the best one I have ever heard here.</span></p>

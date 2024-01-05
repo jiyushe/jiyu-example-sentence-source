@@ -1,5 +1,7 @@
 # fabric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fabric.md)
+
 <p><span class="chinese">面布有裂痕。</span><span class="english">Rips on the fabric.</span></p>
 
 <p><span class="chinese">最好的织物是毛织品。</span><span class="english">The best fabric is wool.</span></p>

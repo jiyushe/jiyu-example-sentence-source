@@ -1,5 +1,7 @@
 # 客气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keqi_1.md)
+
 <p><span class="chinese">我客气地问道。</span><span class="english">I inquired politely.</span></p>
 
 <p><span class="chinese">我这室友还真是客气啊。</span><span class="english">Courtesy of my room-mate.</span></p>

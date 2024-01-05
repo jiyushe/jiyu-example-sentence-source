@@ -1,5 +1,7 @@
 # willingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willingly.md)
+
 <p><span class="chinese">他甘心做这事。</span><span class="english">He did it quite willingly.</span></p>
 
 <p><span class="chinese">锡金国王欣然同意了吗？</span><span class="english">Did the King agree to it willingly?</span></p>

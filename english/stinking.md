@@ -1,5 +1,7 @@
 # stinking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stinking.md)
+
 <p><span class="chinese">哪个卖鱼的都不说鱼臭。</span><span class="english">No man cries stinking fish.</span></p>
 
 <p><span class="chinese">卖鱼的不喊鱼臭。</span><span class="english">No man vries "stinking fish".</span></p>

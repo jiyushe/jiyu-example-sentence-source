@@ -1,5 +1,7 @@
 # microscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microscope.md)
+
 <p><span class="chinese">什么是电子显微镜？</span><span class="english">What’s an electron microscope?</span></p>
 
 <p><span class="chinese">他调整显微镜的透镜以定焦点。</span><span class="english">He focuses the lens of a microscope.</span></p>

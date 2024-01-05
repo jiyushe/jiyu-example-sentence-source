@@ -1,5 +1,7 @@
 # bugle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bugle.md)
+
 <p><span class="chinese">军号吹响退兵号。</span><span class="english">The bugle tooted retreat.</span></p>
 
 <p><span class="chinese">还有狂野而尖利的号角。</span><span class="english">And the bugle wild and shrill.</span></p>

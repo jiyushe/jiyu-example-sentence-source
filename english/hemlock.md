@@ -1,5 +1,7 @@
 # hemlock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemlock.md)
+
 <p><span class="chinese">喝下了剧毒的铁杉。</span><span class="english">He's drunk the hemlock.</span></p>
 
 <p><span class="chinese">折磨我的感知，仿佛喝了毒芹汤</span><span class="english">My sense, as though of hemlock I had drunk</span></p>

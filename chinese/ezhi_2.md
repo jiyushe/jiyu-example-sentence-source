@@ -1,5 +1,7 @@
 # 遏制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ezhi_2.md)
+
 <p><span class="chinese">她竭力遏制自己，不打哆嗦。</span><span class="english">She forced herself not to shudder.</span></p>
 
 <p><span class="chinese">只有我试着遏制这战火?。</span><span class="english">Am Ithe one to try to stop the fire?</span></p>

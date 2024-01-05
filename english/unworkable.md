@@ -1,5 +1,7 @@
 # unworkable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unworkable.md)
+
 <p><span class="chinese">如果说法国的想法是没有谁会接受的，那么德国的设想就是无法付诸于行动的。</span><span class="english">If the French idea is unacceptable, the German idea is unworkable.</span></p>
 
 <p><span class="chinese">然而有另外一种意识，社会主义被某些人认为是不切实际的。</span><span class="english">There is, however, another sense in which socialism is thought by some tobe unworkable.</span></p>

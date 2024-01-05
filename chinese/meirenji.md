@@ -1,5 +1,7 @@
 # 美人计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meirenji.md)
+
 <p><span class="chinese">不过美人的美人计一施，还真行进的不错。</span><span class="english">But the beauty of a beauty Oxfam, the road really good.</span></p>
 
 <p><span class="chinese">这类间谍活动美其名曰“美人计”。</span><span class="english">The trade name for this type of spying is the "honey trap."</span></p>

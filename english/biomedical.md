@@ -1,5 +1,7 @@
 # biomedical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biomedical.md)
+
 <p><span class="chinese">生物医学研究也是如此。</span><span class="english">So too has biomedical research.</span></p>
 
 <p><span class="chinese">什么是生物医学工程？</span><span class="english">What Is Biomedical Engineering?</span></p>

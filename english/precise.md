@@ -1,5 +1,7 @@
 # precise 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precise.md)
+
 <p><span class="chinese">准确地讲是沙丁鱼。</span><span class="english">Sardines, to be precise.</span></p>
 
 <p><span class="chinese">但这是一次精确的袭击。</span><span class="english">But it was a precise raid.</span></p>

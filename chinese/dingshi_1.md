@@ -1,5 +1,7 @@
 # 定时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingshi_1.md)
+
 <p><span class="chinese">可设置定时开关机。</span><span class="english">To set the timer switch.</span></p>
 
 <p><span class="chinese">可定时启动录音。</span><span class="english">Timing can start recording.</span></p>

@@ -1,5 +1,7 @@
 # cloak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloak.md)
+
 <p><span class="chinese">一件白袍。</span><span class="english">A white cloak.</span></p>
 
 <p><span class="chinese">是的，我带了斗蓬来。</span><span class="english">Yeah, I brought the cloak.</span></p>

@@ -1,5 +1,7 @@
 # skunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skunk.md)
+
 <p><span class="chinese">猎人捕得一只臭鼬。</span><span class="english">The hunter snared a skunk.</span></p>
 
 <p><span class="chinese">买鼬鼠还是更多酒？</span><span class="english">Money for skunk or just more booze?</span></p>

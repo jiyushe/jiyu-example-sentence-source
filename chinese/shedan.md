@@ -1,5 +1,7 @@
 # 蛇胆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shedan.md)
+
 <p><span class="chinese">药剂是用蛇胆提炼而成的。</span><span class="english">This medicine was extracted from the gallbladder of snakes.</span></p>
 
 <p><span class="chinese">建立了测定蛇胆陈皮胶囊中橙皮苷的HPLC法。</span><span class="english">HPLC method for determination of hesperidin in Shedan Chenpi capsules was established.</span></p>

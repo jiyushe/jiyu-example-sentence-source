@@ -1,5 +1,7 @@
 # 全力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanli.md)
+
 <p><span class="chinese">用尽全力爱我所爱。</span><span class="english">Love with all my love.</span></p>
 
 <p><span class="chinese">我尽全力找到这里来，蒂姆。</span><span class="english">I came all this way, Tim.</span></p>

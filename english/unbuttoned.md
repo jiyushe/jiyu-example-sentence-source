@@ -1,5 +1,7 @@
 # unbuttoned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbuttoned.md)
+
 <p><span class="chinese">我解开了我的袖口。</span><span class="english">I unbuttoned my shirt cuffs.</span></p>
 
 <p><span class="chinese">他立刻解开老人的衣服。</span><span class="english">He unbuttoned the old man at once.</span></p>

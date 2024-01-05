@@ -1,5 +1,7 @@
 # tranquilly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tranquilly.md)
+
 <p><span class="chinese">她继续平静地工作着。</span><span class="english">Tranquilly she went on with her work.</span></p>
 
 <p><span class="chinese">因为生活始终很“平静”。</span><span class="english">Because lives throughout very "tranquilly".</span></p>

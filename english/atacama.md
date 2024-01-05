@@ -1,5 +1,7 @@
 # atacama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atacama.md)
+
 <p><span class="chinese">智力北部的阿塔卡马沙漠是世界上最干的沙漠。</span><span class="english">The Atacama in northern Chile is the driest desert on Earth.</span></p>
 
 <p><span class="chinese">这张照片摄于2000年，智利阿塔卡马沙漠。</span><span class="english">Herman and Candelaria Zapp in 2000 in the Atacama Desert, Chile.</span></p>

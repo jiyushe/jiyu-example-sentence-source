@@ -1,5 +1,7 @@
 # epichlorohydrin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epichlorohydrin.md)
+
 <p><span class="chinese">提出了我国发展环氧氯丙烷的参考意见。</span><span class="english">The reference advice for development epichlorohydrin were put forward.</span></p>
 
 <p><span class="chinese">研究了羧甲基纤维素-丙烯酰胺接枝共聚反应。</span><span class="english">Grafting copolymerization of epichlorohydrin and bone glue was investigated.</span></p>

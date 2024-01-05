@@ -1,5 +1,7 @@
 # 出点子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chudianzi.md)
+
 <p><span class="chinese">有创造力的人如何想出点子？</span><span class="english">How do creative people come up with their ideas?</span></p>
 
 <p><span class="chinese">大概目前也是最难想出点子的时候。</span><span class="english">This is probably one of the hardest times to think of ideas.</span></p>

@@ -1,5 +1,7 @@
 # alertly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alertly.md)
+
 <p><span class="chinese">当你握住朋友的手时，很警觉的做它。</span><span class="english">When you hold the hand of your friend, do it very alertly.</span></p>
 
 <p><span class="chinese">然后她就看到了渔网，于是在瞬间做出反应，警觉地避开了它。</span><span class="english">Then she saw it and alertly avoided it at the very last moment.</span></p>

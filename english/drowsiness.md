@@ -1,5 +1,7 @@
 # drowsiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drowsiness.md)
+
 <p><span class="chinese">蒸汽可能引起困倦和眩晕。</span><span class="english">Vapours may cause drowsiness and dizziness.</span></p>
 
 <p><span class="chinese">蒸汽会引起昏睡和眩晕。</span><span class="english">R67 Vapours may cause drowsiness and dizziness.</span></p>

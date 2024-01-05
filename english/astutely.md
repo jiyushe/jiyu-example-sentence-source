@@ -1,5 +1,7 @@
 # astutely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astutely.md)
+
 <p><span class="chinese">这正是艾达昆赛脱狡狯之处。</span><span class="english">That was what ada quonsetf astutely intended.</span></p>
 
 <p><span class="chinese">一些受访高管认为他们的中国买家很会讨价还价。</span><span class="english">Some executives felt that their Chinese suitors had bargained astutely.</span></p>

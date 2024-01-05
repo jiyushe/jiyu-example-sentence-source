@@ -1,5 +1,7 @@
 # abyssal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abyssal.md)
+
 <p><span class="chinese">深沙化石岭。</span><span class="english">Abyssal Sands Fossil Ridge.</span></p>
 
 <p><span class="chinese">只有深渊般的眼睛才能在那儿航行并飞翔。</span><span class="english">Which only abyssal eyes can sail and fly in.</span></p>

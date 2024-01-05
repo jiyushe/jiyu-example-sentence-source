@@ -1,5 +1,7 @@
 # 情愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyuan.md)
+
 <p><span class="chinese">我情愿先死给你们看！</span><span class="english">I will die first!</span></p>
 
 <p><span class="chinese">我情愿不去。</span><span class="english">B. I'd rather not.</span></p>

@@ -1,5 +1,7 @@
 # 开航
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaihang.md)
+
 <p><span class="chinese">你们轮船什么时候开航?</span><span class="english">When will your ship sail?</span></p>
 
 <p><span class="chinese">我船开航去援助你。</span><span class="english">I proceed to your assistance.</span></p>

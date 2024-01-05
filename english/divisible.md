@@ -1,5 +1,7 @@
 # divisible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divisible.md)
+
 <p><span class="chinese">他们是不可分离的。</span><span class="english">They're not divisible.</span></p>
 
 <p><span class="chinese">但能被400整除的世纪年2000年，则为闰年。</span><span class="english">But century years divisible by 400, like 2000, would be leap years.</span></p>

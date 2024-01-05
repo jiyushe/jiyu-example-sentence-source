@@ -1,5 +1,7 @@
 # ineluctable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ineluctable.md)
+
 <p><span class="chinese">在将来这些年挤牌将是不可避免的。</span><span class="english">For the next few years our squeezes will be ineluctable.</span></p>
 
 <p><span class="chinese">在当今这个充满竞争的社会里，任何人都无法逃避竞争。</span><span class="english">Nowadays the society is full of competition and anybody is ineluctable.</span></p>

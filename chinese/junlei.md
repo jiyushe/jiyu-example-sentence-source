@@ -1,5 +1,7 @@
 # 菌类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junlei.md)
+
 <p><span class="chinese">真菌类分类仍然是未定形的。</span><span class="english">Fungal classification is still unsettled.</span></p>
 
 <p><span class="chinese">还有的以水果、菌类、腐肉或者昆虫为食。</span><span class="english">Some eat fruit, fungi, carrion, or insects.</span></p>

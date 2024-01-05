@@ -1,5 +1,7 @@
 # benzophenone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benzophenone.md)
+
 <p><span class="chinese">由此确定了二苯甲酮的绿色合成路线。</span><span class="english">From this, the green synthesis route of benzophenone was defined.</span></p>
 
 <p><span class="chinese">在以证实这一假说，二苯甲酮是用来代替丙酮。</span><span class="english">In order to confirm this hypothesis, benzophenone was used instead of acetone.</span></p>

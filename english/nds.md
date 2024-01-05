@@ -1,5 +1,7 @@
 # nds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nds.md)
+
 <p><span class="chinese">在这个情况下如何能得到？</span><span class="english">ndS So, how do I get ndS in that case?</span></p>
 
 <p><span class="chinese">我们已经在很多情形下见过ndS的公式。</span><span class="english">Well, we've seen formulas for ndS in various settings.</span></p>

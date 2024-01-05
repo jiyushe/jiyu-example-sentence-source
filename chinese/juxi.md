@@ -1,5 +1,7 @@
 # 巨细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juxi.md)
+
 <p><span class="chinese">腮腺巨细胞病毒感染。</span><span class="english">CMV infection of parotid gland.</span></p>
 
 <p><span class="chinese">这是肺巨细胞病毒感染。</span><span class="english">This is cytomegalovirus infection in the lung.</span></p>

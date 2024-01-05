@@ -1,5 +1,7 @@
 # 浪淘沙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langtaosha.md)
+
 <p><span class="chinese">其中不可避免地将会有一个大浪淘沙的过程。</span><span class="english">There will inevitably be a sorting-out process.</span></p>
 
 <p><span class="chinese">其中较常见但较有趣-品牌低音号渔船是大浪淘沙。</span><span class="english">One of the more common – but less interesting – brands of bass fishing boat is the Ebbtide.</span></p>

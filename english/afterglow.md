@@ -1,5 +1,7 @@
 # afterglow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterglow.md)
+
 <p><span class="chinese">金色的晚霞在西方颤动著。</span><span class="english">A golden afterglow throbbed in the west.</span></p>
 
 <p><span class="chinese">金色的晚霞在西方颤动着。</span><span class="english">A golden afterglow throbbed in the west.</span></p>

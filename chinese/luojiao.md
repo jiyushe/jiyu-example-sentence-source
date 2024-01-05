@@ -1,5 +1,7 @@
 # 落脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luojiao.md)
+
 <p><span class="chinese">他落脚在一家大旅馆内。</span><span class="english">Stayin' in a big hotel.</span></p>
 
 <p><span class="chinese">当一个故事“完成”后，它需要有一个落脚之处。</span><span class="english">When a story is Done, it needs a home.</span></p>

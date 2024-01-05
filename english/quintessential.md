@@ -1,5 +1,7 @@
 # quintessential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quintessential.md)
+
 <p><span class="chinese">“”他们是典型的幸存者”，他说。</span><span class="english">"They're the quintessential survivors," he says.</span></p>
 
 <p><span class="chinese">舞蹈的确是肢体语言的精髓。</span><span class="english">Indeed, dance is the quintessential gesture language.</span></p>

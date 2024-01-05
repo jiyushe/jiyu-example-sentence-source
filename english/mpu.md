@@ -1,5 +1,7 @@
 # mpu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mpu.md)
+
 <p><span class="chinese">PLC是以微处理器为核心的工业控制装置。</span><span class="english">PLC is a industry control equipment which cores on MPU.</span></p>
 
 <p><span class="chinese">提出一种适用于微处理器完成脱扣器保护的算法原理。</span><span class="english">A proper principle of algorithm for release used by MPU was proposed.</span></p>

@@ -1,5 +1,7 @@
 # 镁砖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meizhuan.md)
+
 <p><span class="chinese">这是一种由重烧镁砂制成的混合型低铬镁砖。</span><span class="english">This is a hybrid magnesia low chromite brick made from dead burned magnesia.</span></p>
 
 <p><span class="chinese">本文提出了一种综合利用含铜镁砖的新方法。</span><span class="english">This paper presents a new method for the comprehensive utilization of copper- containing magnesite bricks.</span></p>

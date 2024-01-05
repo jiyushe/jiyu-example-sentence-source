@@ -1,5 +1,7 @@
 # emphatically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emphatically.md)
+
 <p><span class="chinese">“是的，”瓦里安坚定地说。</span><span class="english">“Yes,” says Varian emphatically.</span></p>
 
 <p><span class="chinese">惠尔登显然是那些幸运儿中的一个。</span><span class="english">Wheeldon is emphatically one of the lucky ones.</span></p>

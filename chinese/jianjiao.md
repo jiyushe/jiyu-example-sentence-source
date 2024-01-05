@@ -1,5 +1,7 @@
 # 建交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjiao.md)
+
 <p><span class="chinese">今年是中印建交60周年。</span><span class="english">This year marks the 60th anniversary of China-India relations.</span></p>
 
 <p><span class="chinese">它标志着加拿大与中国建交40周年了。</span><span class="english">It marked the 40th anniversary of Canada-China diplomatic ties.</span></p>

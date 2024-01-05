@@ -1,5 +1,7 @@
 # 湍急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuanji.md)
+
 <p><span class="chinese">水流湍急。</span><span class="english">The current is swift.</span></p>
 
 <p><span class="chinese">也许不深，却激烈而湍急</span><span class="english">Perchance not deep, but intense and rapid</span></p>

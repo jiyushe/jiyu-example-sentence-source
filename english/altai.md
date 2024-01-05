@@ -1,5 +1,7 @@
 # altai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/altai.md)
+
 <p><span class="chinese">在阿勒泰等地试验结果类同。</span><span class="english">Results in Altai were similar.</span></p>
 
 <p><span class="chinese">阿勒泰靠近中苏边境。</span><span class="english">Altai lies close to the Sino-Soviet border.</span></p>

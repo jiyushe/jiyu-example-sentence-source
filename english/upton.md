@@ -1,5 +1,7 @@
 # upton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upton.md)
+
 <p><span class="chinese">弗朗西斯·厄普顿是一名数学家。</span><span class="english">Francis Upton was a mathematician.</span></p>
 
 <p><span class="chinese">他雇用了一个物理学家法兰西斯·尤佩顿来协助他。</span><span class="english">He hired physics expert named Francis Upton to help him.</span></p>

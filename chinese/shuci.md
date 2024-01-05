@@ -1,5 +1,7 @@
 # 数词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuci.md)
+
 <p><span class="chinese">这一数量结构中的数词通常是任意的。</span><span class="english">The number of structure is usually the numeral arbitrary.</span></p>
 
 <p><span class="chinese">数词在汉语成语中的使用是灵活多样的。</span><span class="english">Numerals are used in flexible and diversified ways in Chinese idioms.</span></p>

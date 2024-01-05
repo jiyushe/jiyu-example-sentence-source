@@ -1,5 +1,7 @@
 # 烂漫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanman.md)
+
 <p><span class="chinese">而现在正是春花烂漫时节。</span><span class="english">Spring was in full bloom.</span></p>
 
 <p><span class="chinese">灌木丛中花团烂漫。</span><span class="english">All the shrubs are in blossom.</span></p>

@@ -1,5 +1,7 @@
 # sanctification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanctification.md)
+
 <p><span class="chinese">成圣是上帝的工作。</span><span class="english">Sanctification is a Work of God.</span></p>
 
 <p><span class="chinese">成圣是称义的结果。</span><span class="english">Sanctification is the result of justification.</span></p>

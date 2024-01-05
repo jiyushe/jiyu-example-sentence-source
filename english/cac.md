@@ -1,5 +1,7 @@
 # cac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cac.md)
+
 <p><span class="chinese">皮前风险暴露并没有显着影响CIMT，颈动脉斑块，或CAC。</span><span class="english">PI exposure did not significantly affect CIMT, carotid plaque, or CAC.</span></p>
 
 <p><span class="chinese">在1989年，公司制定了长期的民品开发战略规划。</span><span class="english">At 1989, CAC has formulated the CPDS and implemented it for morn than ten years.</span></p>

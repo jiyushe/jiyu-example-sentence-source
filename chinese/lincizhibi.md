@@ -1,5 +1,7 @@
 # 鳞次栉比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lincizhibi.md)
+
 <p><span class="chinese">江岸新建的仓库鳞次栉比。</span><span class="english">Row upon row of newly built warehouses line the waterfront.</span></p>
 
 <p><span class="chinese">画面中鳞次栉比的红点是前景星和违景星。</span><span class="english">Both background and foreground stars are dotted throughout the image.</span></p>

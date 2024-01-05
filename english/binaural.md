@@ -1,5 +1,7 @@
 # binaural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/binaural.md)
+
 <p><span class="chinese">听诊头，耳挂，Y形胶管可以选配。</span><span class="english">The head, binaural and Y-tubing can choose.</span></p>
 
 <p><span class="chinese">重放双耳信号可自然逼真地再现原声场。</span><span class="english">Good natural results are obtained with binaural sound reproduction.</span></p>

@@ -1,5 +1,7 @@
 # dystocia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dystocia.md)
+
 <p><span class="chinese">结论胎膜早破与难产的关系密切。</span><span class="english">Conclusions The PROM is the cause of dystocia.</span></p>
 
 <p><span class="chinese">子宫破裂的首要原因是胎位性难产，其次为疤痕破裂。</span><span class="english">The first reason for uterine ruptures is fetal dystocia.</span></p>

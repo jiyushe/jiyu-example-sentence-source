@@ -1,5 +1,7 @@
 # 献花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhua_1.md)
+
 <p><span class="chinese">鲜花当然由献花女捧着。</span><span class="english">The flowers belonged by right to the florists.</span></p>
 
 <p><span class="chinese">朝圣者也不再来此留言或献花。</span><span class="english">Pilgrims no longer come to leave notes or flowers.</span></p>

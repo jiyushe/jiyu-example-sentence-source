@@ -1,5 +1,7 @@
 # rejection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rejection.md)
+
 <p><span class="chinese">你是怎么处理的？</span><span class="english">And how do you manage rejection?</span></p>
 
 <p><span class="chinese">但在他温柔的宛然拒绝声中。</span><span class="english">But with his soft- hearted rejection.</span></p>

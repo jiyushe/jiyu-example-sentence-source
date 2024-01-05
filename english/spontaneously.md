@@ -1,5 +1,7 @@
 # spontaneously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spontaneously.md)
+
 <p><span class="chinese">哪条路径是自发的？</span><span class="english">Which way will it go spontaneously?</span></p>
 
 <p><span class="chinese">这个反应同样自发发生。</span><span class="english">This one also happens spontaneously.</span></p>

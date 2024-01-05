@@ -1,5 +1,7 @@
 # 劈柴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pichai.md)
+
 <p><span class="chinese">我看见了一捆劈柴在地板上。</span><span class="english">I see a bundle of firewood on the floor.</span></p>
 
 <p><span class="chinese">他一整个上午都在劈柴。</span><span class="english">He spent the whole morning splitting wood.</span></p>

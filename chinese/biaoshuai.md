@@ -1,5 +1,7 @@
 # 表率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoshuai.md)
+
 <p><span class="chinese">足球必须做出表率。</span><span class="english">Football must set an example.</span></p>
 
 <p><span class="chinese">领导就意味着起表率作用。</span><span class="english">Leadership means showing the way by example.</span></p>

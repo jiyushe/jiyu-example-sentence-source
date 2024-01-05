@@ -1,5 +1,7 @@
 # waziristan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waziristan.md)
+
 <p><span class="chinese">瓦齐里斯坦真的是西方的威胁吗？</span><span class="english">Can Waziristan really be a threat to the West?</span></p>
 
 <p><span class="chinese">有人会不喜欢失去对北瓦济里斯坦南瓦济里斯坦。</span><span class="english">One would not like to lose South Waziristan for North Waziristan.</span></p>

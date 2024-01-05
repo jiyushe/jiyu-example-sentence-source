@@ -1,5 +1,7 @@
 # 号叫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haojiao.md)
+
 <p><span class="chinese">他像猪似的号叫著。</span><span class="english">He squealed like a pig.</span></p>
 
 <p><span class="chinese">那只猫疼的号叫起来。</span><span class="english">The cat yowled his pain.</span></p>

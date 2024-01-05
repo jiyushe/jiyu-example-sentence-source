@@ -1,5 +1,7 @@
 # pureness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pureness.md)
+
 <p><span class="chinese">“纯粹”似乎是一个颇为可疑的词汇。</span><span class="english">"Pureness" seems like a rather dubious word.</span></p>
 
 <p><span class="chinese">其魅力缘于他的赤子般“纯念”和孺子般“真诚”。</span><span class="english">His enchantment comes from his childlike pureness and sincerity.</span></p>

@@ -1,5 +1,7 @@
 # picaresque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/picaresque.md)
+
 <p><span class="chinese">我们说这是一个历险故事。</span><span class="english">Now we've said that it's picaresque.</span></p>
 
 <p><span class="chinese">犯罪题材的影片往往感觉要比实际上来的冗长。</span><span class="english">Picaresque movies often feel longer than they are.</span></p>

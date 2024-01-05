@@ -1,5 +1,7 @@
 # lamed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamed.md)
+
 <p><span class="chinese">那次事故使他跛足了。</span><span class="english">The accident lamed him.</span></p>
 
 <p><span class="chinese">曾几何时，希望的迷失折断了梦想的翅膀。</span><span class="english">Whose wings loss of hope had lamed.</span></p>

@@ -1,5 +1,7 @@
 # 荆棘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingji_3.md)
+
 <p><span class="chinese">一个萼片，一叶花瓣，和一根荆棘。</span><span class="english">A sepal, petal, and a thorn.</span></p>
 
 <p><span class="chinese">道路上有荆棘。</span><span class="english">There are briars in the road.</span></p>

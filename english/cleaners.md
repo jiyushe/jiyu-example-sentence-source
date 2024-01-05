@@ -1,5 +1,7 @@
 # cleaners
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleaners.md)
+
 <p><span class="chinese">清洁员？</span><span class="english">Cleaners?</span></p>
 
 <p><span class="chinese">到干洗店去？</span><span class="english">A trip to the dry cleaners?</span></p>

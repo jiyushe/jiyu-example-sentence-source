@@ -1,5 +1,7 @@
 # foregone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foregone.md)
+
 <p><span class="chinese">选举的结果还并非是定局。</span><span class="english">The election result is not a foregone conclusion.</span></p>
 
 <p><span class="chinese">看来对抗是不可避免了，大人。</span><span class="english">Confrontation might be a foregone conclusion, milord.</span></p>

@@ -1,5 +1,7 @@
 # aeg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeg.md)
+
 <p><span class="chinese">贝伦斯的AEG涡轮工厂。</span><span class="english">AEG Turbine factory, Behrens, Berlin, 1909.</span></p>
 
 <p><span class="chinese">在雇佣导致杰克逊死亡的医生上面，安舒茨娱乐集团不认为这项行为存在任何过失。</span><span class="english">AEG deny any wrong doing in hiring the doctor convicted of causing Jackson's death.</span></p>

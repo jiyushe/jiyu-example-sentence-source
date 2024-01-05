@@ -1,5 +1,7 @@
 # frivolity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frivolity.md)
+
 <p><span class="chinese">我讨厌她轻浮的举止。</span><span class="english">I dislike her frivolity.</span></p>
 
 <p><span class="chinese">但无聊并非当下之新发明。</span><span class="english">But frivolity isn’t a recent invention.</span></p>

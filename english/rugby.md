@@ -1,5 +1,7 @@
 # rugby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rugby.md)
+
 <p><span class="chinese">他们还有拉格比球比赛。</span><span class="english">They play the game "Rugby".</span></p>
 
 <p><span class="chinese">他们在进行一场橄榄球比赛。</span><span class="english">They are having a rugby match.</span></p>

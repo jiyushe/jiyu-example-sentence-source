@@ -1,5 +1,7 @@
 # iris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iris.md)
+
 <p><span class="chinese">谢谢你，艾瑞斯。</span><span class="english">Thank you, Iris.</span></p>
 
 <p><span class="chinese">一列火车在这鸢尾花里。</span><span class="english">A train inside this iris.</span></p>

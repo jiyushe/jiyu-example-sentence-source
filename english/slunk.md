@@ -1,5 +1,7 @@
 # slunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slunk.md)
+
 <p><span class="chinese">然后他冲向冰箱。</span><span class="english">Then he slunk to the icebox.</span></p>
 
 <p><span class="chinese">我们偷偷潜回了修行中心。</span><span class="english">And so we slunk into the retreat center.</span></p>

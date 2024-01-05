@@ -1,5 +1,7 @@
 # committed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/committed.md)
+
 <p><span class="chinese">他犯下了滔天大罪。</span><span class="english">He committed a flagrant crime.</span></p>
 
 <p><span class="chinese">他们犯了什么罪？</span><span class="english">What crimes have they committed?</span></p>

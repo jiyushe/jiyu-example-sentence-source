@@ -1,5 +1,7 @@
 # 推延
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiyan.md)
+
 <p><span class="chinese">尽可能推延社会保险。</span><span class="english">Put off Social Security as long as possible.</span></p>
 
 <p><span class="chinese">梦想可能被推延，但决不能放弃。</span><span class="english">Dreams can be postponed, but NEVER give them up.</span></p>

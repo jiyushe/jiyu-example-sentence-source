@@ -1,5 +1,7 @@
 # subset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subset.md)
+
 <p><span class="chinese">它拥有一个子集</span><span class="english">There's a subset.</span></p>
 
 <p><span class="chinese">在你看来，一个是另一个的子集吗？</span><span class="english">Is one a subset of another in your mind?</span></p>

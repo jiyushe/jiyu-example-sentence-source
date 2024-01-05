@@ -1,5 +1,7 @@
 # 走运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouyun.md)
+
 <p><span class="chinese">他自认为很走运。</span><span class="english">He accounted himself lucky.</span></p>
 
 <p><span class="chinese">有些垂钓者就是不走运。</span><span class="english">SOme fishermen are unlucky.</span></p>

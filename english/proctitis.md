@@ -1,5 +1,7 @@
 # proctitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proctitis.md)
+
 <p><span class="chinese">直肠炎是什么原因引起的?。</span><span class="english">Is proctitis what reason is caused?</span></p>
 
 <p><span class="chinese">直肠炎常见于骨盆放射治疗的病人。</span><span class="english">Proctitis is common in patients undergoing pelvic radiation therapy.</span></p>

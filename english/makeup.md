@@ -1,5 +1,7 @@
 # makeup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/makeup.md)
+
 <p><span class="chinese">补妆？</span><span class="english">Fix your makeup?</span></p>
 
 <p><span class="chinese">不要浓妆艳抹。</span><span class="english">Don't paint on the makeup.</span></p>

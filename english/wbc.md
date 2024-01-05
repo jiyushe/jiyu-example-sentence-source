@@ -1,5 +1,7 @@
 # wbc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wbc.md)
+
 <p><span class="chinese">贝托是WBC次中量级拳王。</span><span class="english">Berto is the WBC welterweight titleholder.</span></p>
 
 <p><span class="chinese">WCD降低与白细胞的活化有关。</span><span class="english">The lower WCD were related to WBC activation.</span></p>

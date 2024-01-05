@@ -1,5 +1,7 @@
 # dysmenorrhea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysmenorrhea.md)
+
 <p><span class="chinese">至于该如何应对痛经呢？</span><span class="english">As for how to deal with dysmenorrhea ?</span></p>
 
 <p><span class="chinese">痛经有关的风险因素包括</span><span class="english">Risk factors associated with dysmenorrhea include</span></p>

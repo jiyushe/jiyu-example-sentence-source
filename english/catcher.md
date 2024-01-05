@@ -1,5 +1,7 @@
 # catcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catcher.md)
+
 <p><span class="chinese">这是捕梦网。</span><span class="english">That is a dream catcher.</span></p>
 
 <p><span class="chinese">“每个人都需要一个捕梦器”。</span><span class="english">Every body needs a deam catcher.</span></p>

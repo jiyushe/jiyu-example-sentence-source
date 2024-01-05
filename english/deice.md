@@ -1,5 +1,7 @@
 # deice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deice.md)
+
 <p><span class="chinese">这时她说，“我们其实不过是这里的囚徒，甘心被自己所驱使”</span><span class="english">And she said 'We are all just prisoners here, of our own deice.</span></p>
 
 <p><span class="chinese">在机器人冲击除冰时，也可以获得更大的冲击力。</span><span class="english">Larger impact force can be obtained when the robot impacts to deice.</span></p>

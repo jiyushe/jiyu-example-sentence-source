@@ -1,5 +1,7 @@
 # chalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chalk.md)
+
 <p><span class="chinese">我的粉笔在哪里？</span><span class="english">Where is my chalk?</span></p>
 
 <p><span class="chinese">这有一根粉笔。</span><span class="english">Here's a piece of chalk.</span></p>

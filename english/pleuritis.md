@@ -1,5 +1,7 @@
 # pleuritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleuritis.md)
+
 <p><span class="chinese">咳嗽，呼吸困难，胸膜炎，发烧。</span><span class="english">Cough, dyspnea, pleuritis and fever.</span></p>
 
 <p><span class="chinese">肺炎也可能并发胸膜炎。</span><span class="english">Pneumonia may be complicated by a pleuritis.</span></p>

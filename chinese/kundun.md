@@ -1,5 +1,7 @@
 # 困顿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kundun.md)
+
 <p><span class="chinese">我个人认为困顿犹如生产力的扼杀器。</span><span class="english">I personally see a rut as a productivity vacuum.</span></p>
 
 <p><span class="chinese">是否困顿在一年前就已消亡的感情关系中？</span><span class="english">Stuck in a relationship that was over years ago?</span></p>

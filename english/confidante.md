@@ -1,5 +1,7 @@
 # confidante
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confidante.md)
+
 <p><span class="chinese">莉莉安对我敞开心胸，我成了她的知己。</span><span class="english">Lillian opened up to me, and I became her confidante.</span></p>
 
 <p><span class="chinese">红颜尽碎，促成半生孤寒。</span><span class="english">Confidante as broken, contributed to half of the cold.</span></p>

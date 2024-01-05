@@ -1,5 +1,7 @@
 # 兵不血刃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingbuxueren.md)
+
 <p><span class="chinese">中国人总是说他们会兵不血刃就把我们拿下！</span><span class="english">China always said they would take us without firing a shot!</span></p>
 
 <p><span class="chinese">我军把城市包围起来，获得兵不血刃的胜利。</span><span class="english">By surrounding the city our troops achieve a bloodless victory.</span></p>

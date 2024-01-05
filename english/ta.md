@@ -1,5 +1,7 @@
 # ta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ta.md)
+
 <p><span class="chinese">多翯美丽的景色啊！</span><span class="english">What ta beautiful view!</span></p>
 
 <p><span class="chinese">在办公时间拜访助教。</span><span class="english">Drop in during TA office hours.</span></p>

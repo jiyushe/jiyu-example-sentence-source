@@ -1,5 +1,7 @@
 # keynes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keynes.md)
+
 <p><span class="chinese">想想凯恩斯现在会做什么呢？</span><span class="english">And what would Keynes do now?</span></p>
 
 <p><span class="chinese">评论者格里克在我关于凯恩斯的文章下说的很好</span><span class="english">Commenter Greg has a good point on my Keynes post</span></p>

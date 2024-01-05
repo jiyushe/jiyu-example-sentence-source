@@ -1,5 +1,7 @@
 # extratropical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extratropical.md)
+
 <p><span class="chinese">菲特将于12小时内转化为温带气旋。</span><span class="english">Extratropical transition should finish in 12 hours.</span></p>
 
 <p><span class="chinese">变性后的温带气旋暖锋锋生较冷锋锋生更为显著。</span><span class="english">Extratropical cyclone's warm frontal genesis was more significant than that of cold front.</span></p>

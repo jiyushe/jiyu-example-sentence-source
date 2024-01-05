@@ -1,5 +1,7 @@
 # polar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polar.md)
+
 <p><span class="chinese">一根极性键。</span><span class="english">So I have a polar bond.</span></p>
 
 <p><span class="chinese">北极熊都是左撇子。</span><span class="english">Polar bears are left-handed.</span></p>

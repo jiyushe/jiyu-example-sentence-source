@@ -1,5 +1,7 @@
 # voting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voting.md)
+
 <p><span class="chinese">我弃权不投票。</span><span class="english">I _ from voting.</span></p>
 
 <p><span class="chinese">他们合计了投票数。</span><span class="english">They summed up the voting.</span></p>

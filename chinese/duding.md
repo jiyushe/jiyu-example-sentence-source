@@ -1,5 +1,7 @@
 # 笃定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duding.md)
+
 <p><span class="chinese">有了我们一致支持，他们才会更加笃定信念，动力十足。</span><span class="english">With our solid support, they will be more convinced and exert more power!</span></p>
 
 <p><span class="chinese">“这里有个地方直通地面。”老钟笃定地说。</span><span class="english">"there is a place here keeping a ground. "the old clock du settles ground to say.</span></p>

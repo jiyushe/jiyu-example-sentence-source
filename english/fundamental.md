@@ -1,5 +1,7 @@
 # fundamental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fundamental.md)
+
 <p><span class="chinese">Gee指出这是根本所在。</span><span class="english">This, Gee says, is fundamental.</span></p>
 
 <p><span class="chinese">给人留面子是基本要求。</span><span class="english">Saving face is a fundamental value.</span></p>

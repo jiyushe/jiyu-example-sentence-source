@@ -1,5 +1,7 @@
 # 金合欢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinhehuan.md)
+
 <p><span class="chinese">金合欢1000年讲话，没有说泪花入小珠！</span><span class="english">Acacia 1000 speech, did not say tears into beads!</span></p>
 
 <p><span class="chinese">银叶金合欢是独具一格、观赏价值极高的植物。</span><span class="english">Acacia podalyriifolia is a particular plant with high ornamental value.</span></p>

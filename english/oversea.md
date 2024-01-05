@@ -1,5 +1,7 @@
 # oversea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oversea.md)
+
 <p><span class="chinese">你在国外有亲戚吗？</span><span class="english">Have you any relatives oversea?</span></p>
 
 <p><span class="chinese">但是我中国人，出生的国外。</span><span class="english">But I am a chinese, born oversea.</span></p>

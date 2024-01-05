@@ -1,5 +1,7 @@
 # recidivist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recidivist.md)
+
 <p><span class="chinese">本文是从理论上对单位累犯所作的研究。</span><span class="english">This dissertation is the research of unit recidivist on theory.</span></p>
 
 <p><span class="chinese">刑法典第三百五十六条实质上是关于特别累犯的规定。</span><span class="english">Essentially, Article 356 Of Penal Code stipulates special recidivist.</span></p>

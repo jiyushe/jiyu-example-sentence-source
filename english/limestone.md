@@ -1,5 +1,7 @@
 # limestone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limestone.md)
+
 <p><span class="chinese">水泥是由石灰石制成的。</span><span class="english">Cement is made from limestone.</span></p>
 
 <p><span class="chinese">大理岩的原岩为灰岩。</span><span class="english">The protolith of marble is limestone.</span></p>

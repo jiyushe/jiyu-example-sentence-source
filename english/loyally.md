@@ -1,5 +1,7 @@
 # loyally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loyally.md)
+
 <p><span class="chinese">我们的爱能走多远我就有多忠诚。</span><span class="english">Our love can walk is much far I to have loyally.</span></p>
 
 <p><span class="chinese">几十年来，全国人们忠心跟随毛。</span><span class="english">For decades, the whole nation followed Mao loyally.</span></p>

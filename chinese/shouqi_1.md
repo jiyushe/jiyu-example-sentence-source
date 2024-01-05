@@ -1,5 +1,7 @@
 # 手气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouqi_1.md)
+
 <p><span class="chinese">他手气不佳。</span><span class="english">Luck goes against him.</span></p>
 
 <p><span class="chinese">你讨厌试手气么？</span><span class="english">Do you hate to tempt fate?</span></p>

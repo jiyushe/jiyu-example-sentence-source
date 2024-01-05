@@ -1,5 +1,7 @@
 # 近况
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinkuang.md)
+
 <p><span class="chinese">哦，告诉我你的近况。</span><span class="english">So, tell me your news.</span></p>
 
 <p><span class="chinese">近况如何?</span><span class="english">How have you been doing lately?</span></p>

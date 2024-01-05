@@ -1,5 +1,7 @@
 # 八旗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baqi.md)
+
 <p><span class="chinese">这些资源是八旗户籍制度的产物。</span><span class="english">The sources are a product of the Eight Banner registration system.</span></p>
 
 <p><span class="chinese">清代八旗蒙古人法式善是著名作家、文学理论家。</span><span class="english">Fasshan was famous Mongolian writer and literature theorist of ching dynasty.</span></p>

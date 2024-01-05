@@ -1,5 +1,7 @@
 # organize 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organize.md)
+
 <p><span class="chinese">组织搜索队。</span><span class="english">Organize a search team.</span></p>
 
 <p><span class="chinese">按日期整理文件。</span><span class="english">Organize files by dates.</span></p>

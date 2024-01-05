@@ -1,5 +1,7 @@
 # 头晕眼花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touyunyanhua.md)
+
 <p><span class="chinese">我觉得头晕眼花。</span><span class="english">I feel dizzy.</span></p>
 
 <p><span class="chinese">它使贝西头晕眼花。</span><span class="english">It made Bessie dizzy.</span></p>

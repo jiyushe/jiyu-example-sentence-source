@@ -1,5 +1,7 @@
 # 放逐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangzhu.md)
+
 <p><span class="chinese">拿破仑被放逐到厄尔巴岛。</span><span class="english">Napoleon was banished to Elba.</span></p>
 
 <p><span class="chinese">他被放逐到一个很远的地方。</span><span class="english">He was exiled to a distant land.</span></p>

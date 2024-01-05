@@ -1,5 +1,7 @@
 # taxiway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxiway.md)
+
 <p><span class="chinese">注意滑行道上散步的人们。</span><span class="english">Caution walk men on the taxiway.</span></p>
 
 <p><span class="chinese">旧的电子战滑行道已被部分删除。</span><span class="english">The old EW taxiway has been partially removed.</span></p>

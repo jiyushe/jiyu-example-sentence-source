@@ -1,5 +1,7 @@
 # visible 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visible.md)
+
 <p><span class="chinese">那星星可以用肉眼看见。</span><span class="english">The star is visible.</span></p>
 
 <p><span class="chinese">38“内页链接都够显眼吗？”</span><span class="english">How visible are links?</span></p>

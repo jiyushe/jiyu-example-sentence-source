@@ -1,5 +1,7 @@
 # herbivore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herbivore.md)
+
 <p><span class="chinese">食草男是时髦的都市美男，厌恶武术。</span><span class="english">Herbivore man is a dandy  metrosexual with an abhorrence of martial arts.</span></p>
 
 <p><span class="chinese">相对地，食草动物的肉闻起来要好些，更易食用。</span><span class="english">The meat of the herbivore is, in comparison, far more edible , smellwise.</span></p>

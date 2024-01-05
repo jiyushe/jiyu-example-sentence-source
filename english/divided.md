@@ -1,5 +1,7 @@
 # divided
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divided.md)
+
 <p><span class="chinese">他们把钱分了。</span><span class="english">They divided up the money.</span></p>
 
 <p><span class="chinese">2除8等于4。</span><span class="english">Eight divided by two is four.</span></p>

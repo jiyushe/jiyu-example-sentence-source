@@ -1,5 +1,7 @@
 # iaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iaf.md)
+
 <p><span class="chinese">光辉战机是一个灾难，希望印度空军能拿到更先进的战机！</span><span class="english">Tejas is a disaster, hope IAF gets better fighter planes!</span></p>
 
 <p><span class="chinese">印度空军干得漂亮。你们的战备给了我们反击中国的信心。</span><span class="english">Amazing job performed by IAF. Your preparedness give us confidence to counter China's move.</span></p>

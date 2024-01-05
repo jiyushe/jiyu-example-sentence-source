@@ -1,5 +1,7 @@
 # 本相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benxiang_1.md)
+
 <p><span class="chinese">但我怕说出本相郭德纲于谦。</span><span class="english">But I'm afraid to tell the truth.</span></p>
 
 <p><span class="chinese">耶稣呼吁我们按本相去到祂跟前。</span><span class="english">Jesus invites us to come as we are.</span></p>

@@ -1,5 +1,7 @@
 # jacques
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jacques.md)
+
 <p><span class="chinese">我能为你做什么吗？</span><span class="english">So, what can I do for you, Jacques?</span></p>
 
 <p><span class="chinese">所以雅克、欧博特，你有什么看法？</span><span class="english">Sothen, Jacques Aubert, what do you think?</span></p>

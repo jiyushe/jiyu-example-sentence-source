@@ -1,5 +1,7 @@
 # sendai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sendai.md)
+
 <p><span class="chinese">仙台市的现状，就是整个日本的缩影。</span><span class="english">Sendai is a microcosm of what ails Japan.</span></p>
 
 <p><span class="chinese">火车从仙台开向东京。</span><span class="english">The train puffed towards Tokyo from Sendai.</span></p>

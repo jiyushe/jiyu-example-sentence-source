@@ -1,5 +1,7 @@
 # multiprocessor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiprocessor.md)
+
 <p><span class="chinese">在多处理器的系统中，它们确实可以同时运行。</span><span class="english">On a multiprocessor system, they really can run simultaneously.</span></p>
 
 <p><span class="chinese">在第四章中，对多处理机系统结构进行了研究。</span><span class="english">In chapter 4, the architecture of multiprocessor system is studied.</span></p>

@@ -1,5 +1,7 @@
 # chap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chap.md)
+
 <p><span class="chinese">这些全都有关，小伙子。</span><span class="english">It's all relative chap.</span></p>
 
 <p><span class="chinese">是的，他是个有意思的家伙。</span><span class="english">Yes, he was a nice chap.</span></p>

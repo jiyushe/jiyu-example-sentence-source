@@ -1,5 +1,7 @@
 # discovery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discovery.md)
+
 <p><span class="chinese">他们意外获得的发现呢？</span><span class="english">Their bonus discovery?</span></p>
 
 <p><span class="chinese">欢迎来到愉景湾！</span><span class="english">Welcome to Discovery Bay!</span></p>

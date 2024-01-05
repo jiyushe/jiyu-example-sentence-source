@@ -1,5 +1,7 @@
 # began
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/began.md)
+
 <p><span class="chinese">我只是开始。</span><span class="english">I just began.</span></p>
 
 <p><span class="chinese">一切就这样开始了。</span><span class="english">And so it began.</span></p>

@@ -1,5 +1,7 @@
 # saxophone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saxophone.md)
+
 <p><span class="chinese">他还演奏萨克斯呢。</span><span class="english">He was playing saxophone.</span></p>
 
 <p><span class="chinese">你的萨克斯风吹得好。</span><span class="english">You play the saxophone well.</span></p>

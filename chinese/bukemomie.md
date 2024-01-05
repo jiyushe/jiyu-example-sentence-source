@@ -1,5 +1,7 @@
 # 不可磨灭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukemomie.md)
+
 <p><span class="chinese">这将成为他记忆中一个不可磨灭的污点。</span><span class="english">It will remain an indelible stain on his memory.</span></p>
 
 <p><span class="chinese">云为摄影大片做出了不可磨灭的贡献。</span><span class="english">Clouds are the noble contributor for awesome photos.</span></p>

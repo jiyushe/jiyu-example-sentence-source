@@ -1,5 +1,7 @@
 # manure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manure.md)
+
 <p><span class="chinese">粪被用做肥料。</span><span class="english">Dung is used as manure.</span></p>
 
 <p><span class="chinese">啊，绿肥是其中一种。</span><span class="english">Well, one is green manure.</span></p>

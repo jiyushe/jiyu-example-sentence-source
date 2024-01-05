@@ -1,5 +1,7 @@
 # jubilee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jubilee.md)
+
 <p><span class="chinese">七台河有禧龙宾馆么？</span><span class="english">Dragon Hotel Jubilee Qitaihe have it?</span></p>
 
 <p><span class="chinese">晃晃兔头，福禄祷禧。</span><span class="english">The rabbit head, sway ferro prayer jubilee.</span></p>

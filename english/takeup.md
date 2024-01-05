@@ -1,5 +1,7 @@
 # takeup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/takeup.md)
+
 <p><span class="chinese">机组设计了电动提升装置，方便工具及备件的提升。</span><span class="english">The generator set has design of electromotion takeup , to take up convenient tool and backup.</span></p>
 
 <p><span class="chinese">这样的宣传和支持，是否有利于敏捷实践在商业世界中推广和实施呢？</span><span class="english">Will this endorsement encourage or discourage the takeup of Agile practices in businesses today?</span></p>

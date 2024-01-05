@@ -1,5 +1,7 @@
 # oscillogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oscillogram.md)
+
 <p><span class="chinese">因此，小示波图示波测定法是对经典示波测定法的一个重要的补充和发展。</span><span class="english">A small oscillogram and a new method of oscillographic determination based on it were pre- sented.</span></p>
 
 <p><span class="chinese">首次拍摄到我国激光聚变上发射的中子信号波形照片。</span><span class="english">The oscillogram photographs of the neutrons from laser-produced plasma were taken for the first time.</span></p>

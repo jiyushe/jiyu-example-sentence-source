@@ -1,5 +1,7 @@
 # 铸模
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhumo.md)
+
 <p><span class="chinese">此出价是1压铸模型。</span><span class="english">This bid is for 1 diecast model.</span></p>
 
 <p><span class="chinese">缝隙将是构件的铸模。</span><span class="english">The gap would be mold of the member.</span></p>

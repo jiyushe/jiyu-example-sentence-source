@@ -1,5 +1,7 @@
 # reconsideration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconsideration.md)
+
 <p><span class="chinese">你应该仔细地重新考虑一下这个问题。</span><span class="english">You should give it careful reconsideration.</span></p>
 
 <p><span class="chinese">认真实施行政复议制度。</span><span class="english">Administrative reconsideration system is earnestly implemented.</span></p>

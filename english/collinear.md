@@ -1,5 +1,7 @@
 # collinear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collinear.md)
+
 <p><span class="chinese">让T是在同一平面上的2005个点的集合。这些点没有三点共线。</span><span class="english">Let T be a set of 2005 coplanar points with no three collinear.</span></p>
 
 <p><span class="chinese">图4-47是四点同线探针用于电阻率测量的配置图。</span><span class="english">Figure 4-47 is a diagram of four-point collinear probe setup for resistivity measurements.</span></p>

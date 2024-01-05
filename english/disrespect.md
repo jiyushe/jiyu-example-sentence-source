@@ -1,5 +1,7 @@
 # disrespect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disrespect.md)
+
 <p><span class="chinese">违抗或对古茹不敬。</span><span class="english">To disobey or disrespect the guru.</span></p>
 
 <p><span class="chinese">这展现的是不关心和不尊敬。</span><span class="english">It shows disinterest and disrespect.</span></p>

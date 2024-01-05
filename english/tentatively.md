@@ -1,5 +1,7 @@
 # tentatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tentatively.md)
+
 <p><span class="chinese">因此我们就暂称祂为“壹”吧！</span><span class="english">Hence, we call it "One" tentatively.</span></p>
 
 <p><span class="chinese">我们把会议日期暂定为。</span><span class="english">The conference is tentatively set for March.</span></p>

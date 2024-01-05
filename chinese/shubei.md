@@ -1,5 +1,7 @@
 # 鼠辈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shubei.md)
+
 <p><span class="chinese">形容一个人是鼠辈。</span><span class="english">You are a rat.</span></p>
 
 <p><span class="chinese">“鼠辈轴心”如何?。</span><span class="english">How about Axis of Weasels?</span></p>

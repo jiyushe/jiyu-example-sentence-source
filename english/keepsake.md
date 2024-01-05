@@ -1,5 +1,7 @@
 # keepsake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keepsake.md)
+
 <p><span class="chinese">它是一个很好的纪念品。</span><span class="english">It's a good keepsake.</span></p>
 
 <p><span class="chinese">请收下这个戒指作为信物。</span><span class="english">Please have this ring for a keepsake.</span></p>

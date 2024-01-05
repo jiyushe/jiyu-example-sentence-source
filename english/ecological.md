@@ -1,5 +1,7 @@
 # ecological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecological.md)
+
 <p><span class="chinese">因为这是一场生态灾难。</span><span class="english">This is an ecological disaster.</span></p>
 
 <p><span class="chinese">这里的确是一座生态园。</span><span class="english">Here is indeed an ecological park.</span></p>

@@ -1,5 +1,7 @@
 # 戒除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiechu.md)
+
 <p><span class="chinese">戒除过程中出现的戒断症状</span><span class="english">withdrawal symptoms of quitting</span></p>
 
 <p><span class="chinese">他从未能戒除烟瘾。</span><span class="english">He has never conquered his addiction to smoking.</span></p>

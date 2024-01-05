@@ -1,5 +1,7 @@
 # 幼儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youer_1.md)
+
 <p><span class="chinese">他们还是幼儿。</span><span class="english">They are still infants.</span></p>
 
 <p><span class="chinese">店Hayneedle幼儿床消防车。</span><span class="english">Cot fire Hayneedle shop.</span></p>

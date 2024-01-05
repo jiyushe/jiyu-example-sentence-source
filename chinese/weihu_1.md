@@ -1,5 +1,7 @@
 # 维护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weihu_1.md)
+
 <p><span class="chinese">维护阶段。</span><span class="english">Maintenance stage.</span></p>
 
 <p><span class="chinese">他维护了自己的权利。</span><span class="english">He maintained his rights.</span></p>

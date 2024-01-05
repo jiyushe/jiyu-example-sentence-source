@@ -1,5 +1,7 @@
 # 经纬仪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingweiyi.md)
+
 <p><span class="chinese">用于制造经纬仪等设备以提高精度减少成本。</span><span class="english">It is used for mfg. transit to raise precision and lower cost.</span></p>
 
 <p><span class="chinese">大地经纬仪的度盘直径一般为140毫米。</span><span class="english">Geodetic theodolites generally have circles of about 140mm diameter.</span></p>

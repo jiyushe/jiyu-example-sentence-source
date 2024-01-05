@@ -1,5 +1,7 @@
 # 生涯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengya_1.md)
+
 <p><span class="chinese">他开始了律师的生涯。</span><span class="english">He began as a lawyer.</span></p>
 
 <p><span class="chinese">我就在职业生涯里这样做的。</span><span class="english">I do it with careers.</span></p>

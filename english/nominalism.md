@@ -1,5 +1,7 @@
 # nominalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nominalism.md)
+
 <p><span class="chinese">这如何比相似唯名论更优？</span><span class="english">How is this better than Resemblance Nominalism?</span></p>
 
 <p><span class="chinese">因此，霍布斯的法律概念基于他的唯名论之上。</span><span class="english">Therefore, Hobbes'concept of law is based on his nominalism.</span></p>

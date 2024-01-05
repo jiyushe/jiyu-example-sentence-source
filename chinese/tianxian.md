@@ -1,5 +1,7 @@
 # 天仙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianxian.md)
+
 <p><span class="chinese">她是位美如天仙的女人。</span><span class="english">She is an angel of a woman.</span></p>
 
 <p><span class="chinese">她是天仙般的妻子。</span><span class="english">She was an angel of a wife.</span></p>

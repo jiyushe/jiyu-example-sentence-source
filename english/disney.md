@@ -1,5 +1,7 @@
 # disney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disney.md)
+
 <p><span class="chinese">迪士尼，等着接招吧。</span><span class="english">Take that, Disney.</span></p>
 
 <p><span class="chinese">人人都爱迪士尼。</span><span class="english">Everybody loves Disney.</span></p>

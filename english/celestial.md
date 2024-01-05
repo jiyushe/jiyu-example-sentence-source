@@ -1,5 +1,7 @@
 # celestial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celestial.md)
+
 <p><span class="chinese">遇期攀登似如仙。</span><span class="english">Climbing as celestial being.</span></p>
 
 <p><span class="chinese">天葬是不允许观看的。</span><span class="english">Celestial burial is not to be watched.</span></p>

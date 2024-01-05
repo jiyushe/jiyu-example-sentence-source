@@ -1,5 +1,7 @@
 # 心跳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xintiao.md)
+
 <p><span class="chinese">令我激动与心跳。</span><span class="english">So excited and palpitate.</span></p>
 
 <p><span class="chinese">我听到他们的心跳声。</span><span class="english">I heard their heart beats.</span></p>

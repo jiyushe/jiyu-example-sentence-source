@@ -1,5 +1,7 @@
 # archaic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archaic.md)
+
 <p><span class="chinese">“纳西古乐”是什么东西?。</span><span class="english">What is Naxi Archaic Music?</span></p>
 
 <p><span class="chinese">汝是你的过去用法。</span><span class="english">Thee is an archaic form of you.</span></p>

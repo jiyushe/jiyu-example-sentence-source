@@ -1,5 +1,7 @@
 # fruitage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fruitage.md)
+
 <p><span class="chinese">秋是一个硕果累累的季节，我们却有要孕育新的果实。</span><span class="english">Autumn is full of achievement, but we should gestate the new fruitage.</span></p>
 
 <p><span class="chinese">农民在春天播种，秋天收果，而我们呢？</span><span class="english">Farmer have planting in Spring and getting fruitage in Autumn, and you?</span></p>

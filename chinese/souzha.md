@@ -1,5 +1,7 @@
 # 搜查
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/souzha.md)
+
 <p><span class="chinese">搜查你的家。</span><span class="english">Frisk your home.</span></p>
 
 <p><span class="chinese">他们彻底搜查了房间。</span><span class="english">They fine-combed the room.</span></p>

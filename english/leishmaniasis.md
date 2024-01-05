@@ -1,5 +1,7 @@
 # leishmaniasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leishmaniasis.md)
+
 <p><span class="chinese">如果不及时治疗，内脏利什曼病通常是致命的。</span><span class="english">If left untreated, visceral leishmaniasis is usually fatal.</span></p>
 
 <p><span class="chinese">利什曼病是通过一种沙蝇的咬伤而传播的。</span><span class="english">Leishmaniasis is transmitted by the bite of certain sand flies.</span></p>

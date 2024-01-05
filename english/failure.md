@@ -1,5 +1,7 @@
 # failure 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/failure.md)
+
 <p><span class="chinese">执行失败。</span><span class="english">Exec failure.</span></p>
 
 <p><span class="chinese">对失败的畏惧吗？</span><span class="english">The fear of failure?</span></p>

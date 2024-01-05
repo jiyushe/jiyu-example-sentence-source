@@ -1,5 +1,7 @@
 # 四散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sisan.md)
+
 <p><span class="chinese">它发出四散的光。</span><span class="english">It gave off diffused light.</span></p>
 
 <p><span class="chinese">狗群四散离去。</span><span class="english">The dogs scattered and left.</span></p>

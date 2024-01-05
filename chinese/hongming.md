@@ -1,5 +1,7 @@
 # 轰鸣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongming.md)
+
 <p><span class="chinese">火车轰鸣着驶过。</span><span class="english">The train roared past.</span></p>
 
 <p><span class="chinese">大家的炮管将会轰鸣。</span><span class="english">Our cannons shall sing.</span></p>

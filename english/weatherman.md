@@ -1,5 +1,7 @@
 # weatherman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weatherman.md)
+
 <p><span class="chinese">气象人员怎么说的？</span><span class="english">What did the weatherman say?</span></p>
 
 <p><span class="chinese">一个气象员进入房间。</span><span class="english">A weatherman entered the room.</span></p>

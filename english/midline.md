@@ -1,5 +1,7 @@
 # midline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midline.md)
+
 <p><span class="chinese">中线，不过，并非投资机会。</span><span class="english">Midline , however, not investment opportunities.</span></p>
 
 <p><span class="chinese">有一个以上和以下的中线的吊舱。</span><span class="english">There is one above and below the midline of the pods.</span></p>

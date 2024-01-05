@@ -1,5 +1,7 @@
 # 战将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanjiang.md)
+
 <p><span class="chinese">马克白是苏格兰的名战将。</span><span class="english">Macbeth is a renowned Scottish warrior.</span></p>
 
 <p><span class="chinese">又打败一名骁悍战将，老将军十分高兴。</span><span class="english">The old general is very happy to beat another brave general.</span></p>

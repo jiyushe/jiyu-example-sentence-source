@@ -1,5 +1,7 @@
 # 恋爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianai.md)
+
 <p><span class="chinese">斑比在恋爱。</span><span class="english">Bambi is in love.</span></p>
 
 <p><span class="chinese">他们在恋爱。</span><span class="english">They are in love.</span></p>

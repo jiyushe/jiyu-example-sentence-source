@@ -1,5 +1,7 @@
 # flawless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flawless.md)
+
 <p><span class="chinese">谁说苹果机是完美的？</span><span class="english">Who says Mac OS is flawless?</span></p>
 
 <p><span class="chinese">该页是必看的，必须保证无误。</span><span class="english">This page must look and work flawless.</span></p>

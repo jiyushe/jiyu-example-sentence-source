@@ -1,5 +1,7 @@
 # ticket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ticket.md)
+
 <p><span class="chinese">我可以用这张票吗？</span><span class="english">Can I use this ticket?</span></p>
 
 <p><span class="chinese">这是一张票根。</span><span class="english">This is a ticket stub.</span></p>

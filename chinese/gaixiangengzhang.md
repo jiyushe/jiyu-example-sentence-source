@@ -1,5 +1,7 @@
 # 改弦更张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaixiangengzhang.md)
+
 <p><span class="chinese">他应该改弦更张，不要再走老路了。</span><span class="english">He should change his method and not adhere to the old way any longer.</span></p>
 
 <p><span class="chinese">既然美国国债还有投资者买，国会为什么要改弦更张？</span><span class="english">Until investorsstop buying US Treasurys, why should Congress change its ways?</span></p>

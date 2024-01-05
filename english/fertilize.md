@@ -1,5 +1,7 @@
 # fertilize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fertilize.md)
+
 <p><span class="chinese">帮你妆点贫瘠的土地。</span><span class="english">To fertilize the infertile land.</span></p>
 
 <p><span class="chinese">该是给草坪上肥的时候了…</span><span class="english">It is time to fertilize the lawn.</span></p>

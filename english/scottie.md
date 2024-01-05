@@ -1,5 +1,7 @@
 # scottie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scottie.md)
+
 <p><span class="chinese">斯科蒂，为什么这样做？</span><span class="english">Scottie. Why are you doing this?</span></p>
 
 <p><span class="chinese">分别是J博士、皮蓬、乔丹、魔术师和年轻时的奥尼尔。</span><span class="english">Dr. J, Scottie Pippin, Jordan, Magic, and young Shaq.</span></p>

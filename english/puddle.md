@@ -1,5 +1,7 @@
 # puddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puddle.md)
+
 <p><span class="chinese">他敏捷地跨过泥水坑。</span><span class="english">He stepped lightly over the puddle.</span></p>
 
 <p><span class="chinese">狗舔水坑中的水喝。</span><span class="english">The dog licked up water in a puddle.</span></p>

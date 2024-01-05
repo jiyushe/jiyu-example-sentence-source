@@ -1,5 +1,7 @@
 # neurasthenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurasthenic.md)
+
 <p><span class="chinese">患者有什么症状，医治的一些方法，？</span><span class="english">Excuse me neurasthenic patient has what symptom, a few methods of cure, ?</span></p>
 
 <p><span class="chinese">五味子酒对人体具有保健作用，不仅可改善睡眠，还具有保肝益肝作用。</span><span class="english">The wine has several functions, which can therapy neurasthenic and protect and benefit to liver.</span></p>

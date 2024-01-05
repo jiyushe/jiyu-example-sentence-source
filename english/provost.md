@@ -1,5 +1,7 @@
 # provost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provost.md)
+
 <p><span class="chinese">刘战博士，总教务长办公室，亚洲区。</span><span class="english">Dr. Jonathan Noble, Provost Office, Asia.</span></p>
 
 <p><span class="chinese">他从2006年起担任教务长并于次年成为校长。</span><span class="english">He became provost in 2006 and president the following year.</span></p>

@@ -1,5 +1,7 @@
 # 年景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianjing.md)
+
 <p><span class="chinese">我们是否能预期一个正常年景？</span><span class="english">Are we looking at a normal year?</span></p>
 
 <p><span class="chinese">不断增加的销售量预示着好年景。</span><span class="english">Mounting sales augur a profitable year.</span></p>

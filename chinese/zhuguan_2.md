@@ -1,5 +1,7 @@
 # 主观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuguan_2.md)
+
 <p><span class="chinese">这都是很主观的。</span><span class="english">It's all subjective.</span></p>
 
 <p><span class="chinese">设计是主观的。</span><span class="english">Design is subjective.</span></p>

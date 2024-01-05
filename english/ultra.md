@@ -1,5 +1,7 @@
 # ultra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultra.md)
+
 <p><span class="chinese">快使用超级球！</span><span class="english">Use Your Ultra Balls!</span></p>
 
 <p><span class="chinese">还要检查土坯超虚拟集。</span><span class="english">Also check Adobe Ultra Virtual Sets.</span></p>

@@ -1,5 +1,7 @@
 # defatted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defatted.md)
+
 <p><span class="chinese">可可膏，不论是否脱脂。</span><span class="english">Cocoa paste, whether or not defatted.</span></p>
 
 <p><span class="chinese">本研究以经过脱脂处理的蝇蛆为试验材料。</span><span class="english">The subject of this study was the defatted fly maggot.</span></p>

@@ -1,5 +1,7 @@
 # curtail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curtail.md)
+
 <p><span class="chinese">没有人能够剥夺你做使你快乐的事情的权利。</span><span class="english">No one will curtail you to do things that make you happy.</span></p>
 
 <p><span class="chinese">至于这是否会在很大程度上遏制打金业还要拭目以待。</span><span class="english">Whether it will greatly curtail gold farming remains to be seen.</span></p>

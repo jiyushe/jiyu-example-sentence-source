@@ -1,5 +1,7 @@
 # consistence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consistence.md)
+
 <p><span class="chinese">介绍了一种温室CO2浓度测控仪设计方案。</span><span class="english">It introduces a scheme about CO2 consistence controllers.</span></p>
 
 <p><span class="chinese">大便颜色很淡，并且软如泥。</span><span class="english">Stools were very light in color and of mushy consistence.</span></p>

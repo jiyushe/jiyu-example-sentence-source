@@ -1,5 +1,7 @@
 # msdn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/msdn.md)
+
 <p><span class="chinese">最近我的关于Lambda表达式的文章被发表在MSDN杂志上。</span><span class="english">Recently my article on lambda expressions got published on MSDN magazine.</span></p>
 
 <p><span class="chinese">你可以到微软MSDN网页如果你想知道更多关于DLL的。</span><span class="english">You can go to the Microsoft MSDN web page if you want to know more on DLLs.</span></p>

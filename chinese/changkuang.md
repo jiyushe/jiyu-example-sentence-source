@@ -1,5 +1,7 @@
 # 猖狂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changkuang.md)
+
 <p><span class="chinese">审慎的顾虑几乎被猖狂的欲念窒息。</span><span class="english">Is almost choked by unresisted lust.</span></p>
 
 <p><span class="chinese">不要太猖狂吧，太猖狂就没有好下场。</span><span class="english">Don't be too crazy, so crazy will come to no good end.</span></p>

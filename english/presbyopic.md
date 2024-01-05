@@ -1,5 +1,7 @@
 # presbyopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presbyopic.md)
+
 <p><span class="chinese">我是近视眼，还是远视眼？</span><span class="english">Am I myopic, or presbyopic ?</span></p>
 
 <p><span class="chinese">老花眼可以治疗吗?。</span><span class="english">Presbyopic can be you treated?</span></p>

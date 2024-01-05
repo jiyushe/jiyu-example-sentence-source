@@ -1,5 +1,7 @@
 # 甜橙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiancheng_2.md)
+
 <p><span class="chinese">这些树结著美好的甜橙。</span><span class="english">These trees bear beautiful oranges.</span></p>
 
 <p><span class="chinese">甜橙精油会温和地溶解死皮细胞。</span><span class="english">The orange oil gently dissolves dead skin cells.</span></p>

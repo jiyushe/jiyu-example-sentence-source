@@ -1,5 +1,7 @@
 # callous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/callous.md)
+
 <p><span class="chinese">她冷酷无情的态度引起我的反感。</span><span class="english">Her callous attitude repels me.</span></p>
 
 <p><span class="chinese">她冷酷无情的态度引起我的反感。</span><span class="english">She was selfish, arrogant and often callous.</span></p>

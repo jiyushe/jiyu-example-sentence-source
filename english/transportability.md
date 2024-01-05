@@ -1,5 +1,7 @@
 # transportability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transportability.md)
+
 <p><span class="chinese">运输性是产品的固有属性和设计属性。</span><span class="english">Transportability is the inherent capability and the design capabaility of products.</span></p>
 
 <p><span class="chinese">确定了运输性试验内容并建立了评价指标体系。</span><span class="english">Determine test contents of transportability and build up an evaluation parameter system.</span></p>

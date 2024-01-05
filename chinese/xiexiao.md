@@ -1,5 +1,7 @@
 # 谢孝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiexiao.md)
+
 <p><span class="chinese">部队行进中发现谢孝彰尾随在后。</span><span class="english">Troops marched XieXiaoZhang tailing found in behind.</span></p>
 
 <p><span class="chinese">谢孝彰却在部队树立了稳定的“大众根底”，争得了军心。</span><span class="english">But in the army XieXiaoZhang set the stability of "the mass", achieved molecular woof.</span></p>

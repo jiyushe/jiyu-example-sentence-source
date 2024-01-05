@@ -1,5 +1,7 @@
 # cor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cor.md)
+
 <p><span class="chinese">白云谦逊地站在天之一隅。晨光给它戴上霞彩。</span><span class="english">The cloud stood humbly in a cor.</span></p>
 
 <p><span class="chinese">记得我们在哥林多前书15章所读过的吗？</span><span class="english">Remember what we read from I Cor 15?</span></p>

@@ -1,5 +1,7 @@
 # 掌故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanggu.md)
+
 <p><span class="chinese">现在，这里是美国之音慢速英语词汇掌故节目。</span><span class="english">Now, the Special English program WORDS AND THEIR STORIES.</span></p>
 
 <p><span class="chinese">现在是美国之音慢速英语词汇掌故节目。</span><span class="english">Now the VOA Special English program WORDS AND THEIR STORIES.</span></p>

@@ -1,5 +1,7 @@
 # masticatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masticatory.md)
+
 <p><span class="chinese">并在分根术前后进行咀嚼效率测定。</span><span class="english">Masticatory efficiency was measured before and after therapy.</span></p>
 
 <p><span class="chinese">咀嚼功能是口颌系统的重要功能之一。</span><span class="english">Masticatory function is one of main functions for stomatognathic system.</span></p>

@@ -1,5 +1,7 @@
 # 千夫所指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfusuozhi.md)
+
 <p><span class="chinese">同样的真实发生在这次危机之中，大反派就是那些被千夫所指的企业巨子，比如汽车制造商们。</span><span class="english">The same is true in the current crisis for glowering corporate giants such as carmakers.</span></p>
 
 <p><span class="chinese">然而，唯有亨利遭到千夫所指，一来他逃过了判罚，二来他的手球发生在关键时刻的关键区域。</span><span class="english">Henry stands alone because he got away with it and did so in a critical area at a key moment.</span></p>

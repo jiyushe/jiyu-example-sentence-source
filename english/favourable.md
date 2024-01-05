@@ -1,5 +1,7 @@
 # favourable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favourable.md)
+
 <p><span class="chinese">有好歌分享，请在此区发表。</span><span class="english">Share your favourable song here.</span></p>
 
 <p><span class="chinese">他的病情有了转机。</span><span class="english">His illness took a favourable turn.</span></p>

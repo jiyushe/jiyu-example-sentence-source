@@ -1,5 +1,7 @@
 # esau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esau.md)
+
 <p><span class="chinese">嗯，你闻起来像是以扫。</span><span class="english">Ah, yet you smell like Esau.</span></p>
 
 <p><span class="chinese">这不正是以扫所经历的吗？</span><span class="english">Isn't this what happens to Esau?</span></p>

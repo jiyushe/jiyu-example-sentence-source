@@ -1,5 +1,7 @@
 # 昆虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kunchong.md)
+
 <p><span class="chinese">大多数的昆虫都有六只脚。</span><span class="english">Most bugs have six legs.</span></p>
 
 <p><span class="chinese">蚂蚁和苍蝇都是昆虫。</span><span class="english">Ants and flies are insects.</span></p>

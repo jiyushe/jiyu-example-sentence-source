@@ -1,5 +1,7 @@
 # 风味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengwei_1.md)
+
 <p><span class="chinese">这道菜可算是潮州风味。</span><span class="english">This is a Teochew-style dish.</span></p>
 
 <p><span class="chinese">你们今天有什么风味特餐?。</span><span class="english">What flavor lcee you got today?</span></p>

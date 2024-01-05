@@ -1,5 +1,7 @@
 # edmonton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edmonton.md)
+
 <p><span class="chinese">受害者是在埃德蒙德上车的。</span><span class="english">The victim had been on the bus since Edmonton.</span></p>
 
 <p><span class="chinese">我们花了6个小时才到埃德蒙顿，但总算到家了！</span><span class="english">It took us six hours to drive to Edmonton but we made it!</span></p>

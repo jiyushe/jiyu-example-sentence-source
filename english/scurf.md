@@ -1,5 +1,7 @@
 # scurf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scurf.md)
+
 <p><span class="chinese">这种洗发剂有助于去头屑。</span><span class="english">This shampoo helps to get rid of scurf.</span></p>
 
 <p><span class="chinese">这些猴子正在互相找寻皮毛中的皮屑。</span><span class="english">The monkeys are searching each other's fur for scurf.</span></p>

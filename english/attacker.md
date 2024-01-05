@@ -1,5 +1,7 @@
 # attacker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attacker.md)
+
 <p><span class="chinese">他打了那个攻击者一耳光。</span><span class="english">He struck his attacker on the ear.</span></p>
 
 <p><span class="chinese">他用膝盖猛撞攻击者的下身。</span><span class="english">He kneed his attacker in the groin.</span></p>

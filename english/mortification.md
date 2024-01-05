@@ -1,5 +1,7 @@
 # mortification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortification.md)
+
 <p><span class="chinese">基督教也希望禁欲，但它多是出于抑制戒嗔的本性。</span><span class="english">Christianity also wants to suspend desire. But, more natural, it sees a mortification in this.</span></p>
 
 <p><span class="chinese">当时的和平活动家们也对他成为诺奖得主感到耻辱。</span><span class="english">Even so, the peace activists of the day reacted to the news of his Nobel Prize with mortification.</span></p>

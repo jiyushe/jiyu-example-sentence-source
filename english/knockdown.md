@@ -1,5 +1,7 @@
 # knockdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knockdown.md)
+
 <p><span class="chinese">刚在一小时前，我们经历了第一次的翻倒。</span><span class="english">We just had our first knockdown about an hour ago.</span></p>
 
 <p><span class="chinese">指拍卖会上拍卖师落槌决定拍卖标的售予买受人。</span><span class="english">Means the auctioneer knockdown his hammer and decide the lot sold to a buyer.</span></p>

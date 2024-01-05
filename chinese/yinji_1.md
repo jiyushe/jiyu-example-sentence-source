@@ -1,5 +1,7 @@
 # 印迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinji_1.md)
+
 <p><span class="chinese">我难以从衬衫上洗去印迹。</span><span class="english">I can not wash out the marks from the shirt.</span></p>
 
 <p><span class="chinese">塔克拉玛干的风卷走了太多的印迹。</span><span class="english">The footprints blown off by the wind of Talimakan.</span></p>

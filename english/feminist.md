@@ -1,5 +1,7 @@
 # feminist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feminist.md)
+
 <p><span class="chinese">苏格拉底是女性主义吗？</span><span class="english">Is Socrates a feminist?</span></p>
 
 <p><span class="chinese">她自称是女权运动者。</span><span class="english">She is professedly a feminist.</span></p>

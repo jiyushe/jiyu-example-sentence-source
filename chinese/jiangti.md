@@ -1,5 +1,7 @@
 # 讲题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangti.md)
+
 <p><span class="chinese">他颇有口才，讲题是“慈善”。</span><span class="english">The subject of his sermon was charity.</span></p>
 
 <p><span class="chinese">他的长篇演讲把讲题都弄混了。</span><span class="english">His long lecture confused about the topic.</span></p>

@@ -1,5 +1,7 @@
 # trenton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trenton.md)
+
 <p><span class="chinese">罗伊特伦顿用来驱动一辆出租车。</span><span class="english">Roy Trenton used to drive a taxi.</span></p>
 
 <p><span class="chinese">我们将在Trenton建造一座社区花园。</span><span class="english">We'll be building a community garden in Trenton.</span></p>

@@ -1,5 +1,7 @@
 # snarl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snarl.md)
+
 <p><span class="chinese">我对她咆哮，汪汪汪。</span><span class="english">I snarl at her and bark.</span></p>
 
 <p><span class="chinese">这只狗发出低沉的吠声。</span><span class="english">The dog gave a low snarl.</span></p>

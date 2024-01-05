@@ -1,5 +1,7 @@
 # medal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medal.md)
+
 <p><span class="chinese">他获得了一枚金质奖章。</span><span class="english">He has won a gold medal.</span></p>
 
 <p><span class="chinese">每枚奖章都有反面/凡事有利有弊。</span><span class="english">Every medal has its reverse.</span></p>

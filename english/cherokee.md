@@ -1,5 +1,7 @@
 # cherokee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cherokee.md)
+
 <p><span class="chinese">但切罗基人不愿意离开。</span><span class="english">The Cherokee would not go.</span></p>
 
 <p><span class="chinese">既是一个彻罗基的圈内人，又是一个圈外人。</span><span class="english">A Cherokee insider and outsider.</span></p>

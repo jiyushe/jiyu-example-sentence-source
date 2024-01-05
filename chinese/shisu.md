@@ -1,5 +1,7 @@
 # 时速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shisu.md)
+
 <p><span class="chinese">最高时速500公里每小时！</span><span class="english">Top speed is 500km per hour!</span></p>
 
 <p><span class="chinese">你试过开到时速六十英里以上吗？</span><span class="english">Have you tried to go over sixty?</span></p>

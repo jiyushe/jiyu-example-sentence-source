@@ -1,5 +1,7 @@
 # londoner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/londoner.md)
+
 <p><span class="chinese">萨克雷是典型的英国人，而且是典型的伦敦人。</span><span class="english">Thackery was an Englishman of Englishmen, a Londoner of Londoners.</span></p>
 
 <p><span class="chinese">苏格兰人若想知道伦敦人在说什么的话，他就必须仔细地听。</span><span class="english">Scottish person has to listen carefully if he wants to understand a Londoner.</span></p>

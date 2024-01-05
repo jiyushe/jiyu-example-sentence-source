@@ -1,5 +1,7 @@
 # 各得其所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gedeqisuo.md)
+
 <p><span class="chinese">妇女中真正有才能的人总是各得其所。</span><span class="english">The really talented among women would always make their own niche.</span></p>
 
 <p><span class="chinese">一切东西各有其位，就各得其所。富兰克林。</span><span class="english">A place for everything, everything in its place. -Franklin, Benjamin.</span></p>

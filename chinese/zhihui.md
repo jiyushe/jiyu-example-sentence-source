@@ -1,5 +1,7 @@
 # 指挥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhihui.md)
+
 <p><span class="chinese">你们能指挥这个吗</span><span class="english">Can you conduct this?</span></p>
 
 <p><span class="chinese">他指挥了那场战斗。</span><span class="english">He directed the battle.</span></p>

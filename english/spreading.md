@@ -1,5 +1,7 @@
 # spreading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spreading.md)
+
 <p><span class="chinese">你又在散播谣言吗？</span><span class="english">Are you spreading rumours again?</span></p>
 
 <p><span class="chinese">如何预防疱疹病毒的传播</span><span class="english">How To Avoid Spreading the Virus</span></p>

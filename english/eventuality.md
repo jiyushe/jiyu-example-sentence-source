@@ -1,5 +1,7 @@
 # eventuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eventuality.md)
+
 <p><span class="chinese">我们应该在预算中为可能出现的一切情况做好准备。</span><span class="english">We should provide for every eventuality in the budget.</span></p>
 
 <p><span class="chinese">但他们一致认同，最终很可能会达到那个级别。</span><span class="english">But they agreed that going to the highest level could be an eventuality.</span></p>

@@ -1,5 +1,7 @@
 # preparatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preparatory.md)
+
 <p><span class="chinese">1952年，预备工程开始了。</span><span class="english">In 1952 the preparatory period began.</span></p>
 
 <p><span class="chinese">预备铃响后，坐在位置上作好课前准备，静候老师上课。</span><span class="english">The preparatory bell for class has already sounded.</span></p>

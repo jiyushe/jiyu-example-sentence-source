@@ -1,5 +1,7 @@
 # poverty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poverty.md)
+
 <p><span class="chinese">贫非罪。</span><span class="english">Poverty is not a crime.</span></p>
 
 <p><span class="chinese">和贫困率并不相关。</span><span class="english">That's not about poverty.</span></p>

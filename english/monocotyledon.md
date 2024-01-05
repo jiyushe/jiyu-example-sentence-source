@@ -1,5 +1,7 @@
 # monocotyledon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monocotyledon.md)
+
 <p><span class="chinese">通常单子叶植物的组织培养与再生比双子叶植物困难。</span><span class="english">In general the monocotyledon is more difficult than dicotyledon in tissue culture.</span></p>
 
 <p><span class="chinese">对双子叶杂草的活性明显优于对单子叶杂草的活性。</span><span class="english">The herbicidal activity on dicotyledon weeds is better than on monocotyledon weeds.</span></p>

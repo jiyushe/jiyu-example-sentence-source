@@ -1,5 +1,7 @@
 # 译介
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijie_1.md)
+
 <p><span class="chinese">拉丁文和希腊文作家的作品也被译介到现代语言中。</span><span class="english">Latin and Greek authors too were translated into modern languages.</span></p>
 
 <p><span class="chinese">第六章着重讨论巴金在法国的译介情况。</span><span class="english">Chapter Six mainly discusses the translation of Ba Jin's works in France.</span></p>

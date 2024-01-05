@@ -1,5 +1,7 @@
 # martini
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/martini.md)
+
 <p><span class="chinese">他喝下了马蒂尼。</span><span class="english">He redrank his Martini.</span></p>
 
 <p><span class="chinese">她喝马蒂尼打个嗝。</span><span class="english">She burped her martini.</span></p>

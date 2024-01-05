@@ -1,5 +1,7 @@
 # 腓骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feigu.md)
+
 <p><span class="chinese">胫骨、腓骨和大腿骨在哪儿？</span><span class="english">Where are your tibia, fibula, and femur?</span></p>
 
 <p><span class="chinese">接下来是腓骨，我的课本这样说。</span><span class="english">The fibula is next, according to my text.</span></p>

@@ -1,5 +1,7 @@
 # 短句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanju.md)
+
 <p><span class="chinese">他运用短句和粗话。</span><span class="english">He used short sentences and rough words.</span></p>
 
 <p><span class="chinese">我们可把这一命题表达为一个短句。</span><span class="english">We can express this statement as an epigram.</span></p>

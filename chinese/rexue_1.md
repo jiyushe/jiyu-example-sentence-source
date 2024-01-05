@@ -1,5 +1,7 @@
 # 热血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rexue_1.md)
+
 <p><span class="chinese">他是一个热血男儿。</span><span class="english">He is a man of heart.</span></p>
 
 <p><span class="chinese">这是多麽热血的一件事啊！</span><span class="english">How hot-blooded it is!</span></p>

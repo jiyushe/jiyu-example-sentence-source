@@ -1,5 +1,7 @@
 # nonmetallic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonmetallic.md)
+
 <p><span class="chinese">非金属矿物为石英、碳酸盐矿物。</span><span class="english">The nonmetallic minerals are quartz and carbonate mineral.</span></p>
 
 <p><span class="chinese">美国非金属矿产品制造子行业。</span><span class="english">Nonmetallic Mineral Product Manufacturing Subsector in the U. S.</span></p>

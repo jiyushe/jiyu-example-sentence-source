@@ -1,5 +1,7 @@
 # 树敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shudi_2.md)
+
 <p><span class="chinese">首先，不要树敌。</span><span class="english">Don’t make enemies.</span></p>
 
 <p><span class="chinese">我是否值得为此树敌？</span><span class="english">Is it worth making an enemy?</span></p>

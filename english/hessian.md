@@ -1,5 +1,7 @@
 # hessian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hessian.md)
+
 <p><span class="chinese">Hessian完美地满足了这种需求。</span><span class="english">Hessian fits this requirement perfectly.</span></p>
 
 <p><span class="chinese">一块粗麻布被染红、缝上流苏，做成了一块雅致的地毯。</span><span class="english">A piece of hessian dyed red, fringed, made an elegant carpet.</span></p>

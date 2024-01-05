@@ -1,5 +1,7 @@
 # wistfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wistfully.md)
+
 <p><span class="chinese">“而且他特别招人疼，”玛丽霍奇沉思着说。</span><span class="english">"And he was very sweet, " said Mary Hodges wistfully.</span></p>
 
 <p><span class="chinese">这里脏，热而且臭，“她充满渴望地说。”</span><span class="english">“It’s dirty, hot and smelly here, ” she said wistfully.</span></p>

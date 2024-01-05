@@ -1,5 +1,7 @@
 # albinism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albinism.md)
+
 <p><span class="chinese">白血病与白化病是同一种病吗?。</span><span class="english">Are leukaemia and albinism same kind of disease?</span></p>
 
 <p><span class="chinese">白化病孩子在日常护理中应该注意什么?。</span><span class="english">What should albinism child notice in nursing daily?</span></p>

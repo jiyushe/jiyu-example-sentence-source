@@ -1,5 +1,7 @@
 # 泡沫塑料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paomosuliao.md)
+
 <p><span class="chinese">指出了今后PUR泡沫塑料的发展方向。</span><span class="english">At last, the tendency of PUR foam was indicated.</span></p>
 
 <p><span class="chinese">箱子里垫有泡沫塑料免得货物受压。</span><span class="english">The canned goods are to be packed in cartons with bifold bands.</span></p>

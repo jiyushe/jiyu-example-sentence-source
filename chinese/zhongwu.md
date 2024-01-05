@@ -1,5 +1,7 @@
 # 中午
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongwu.md)
+
 <p><span class="chinese">现在已过中午了。</span><span class="english">It is past noon.</span></p>
 
 <p><span class="chinese">我中午时很困。</span><span class="english">I'm sleepy at noon.</span></p>

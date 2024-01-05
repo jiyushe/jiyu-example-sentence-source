@@ -1,5 +1,7 @@
 # microalgae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microalgae.md)
+
 <p><span class="chinese">这些生物技术为微藻类的利用开辟了广阔的前景。</span><span class="english">These biotechnique opened up broad prospects for exploit of microalgae.</span></p>
 
 <p><span class="chinese">软骨藻酸是由一些微藻产生的强毒素。</span><span class="english">Domoic acid is a powerful neurotoxin produced by one kind of microalgae.</span></p>

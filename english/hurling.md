@@ -1,5 +1,7 @@
 # hurling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurling.md)
+
 <p><span class="chinese">这个家伙一直在大声叫骂些侮辱我的话。</span><span class="english">This man is for ever hurling insults against me.</span></p>
 
 <p><span class="chinese">米基·洛克将饰演大反派。</span><span class="english">Mickey Rourke plays the lightning-bolt hurling villain.</span></p>

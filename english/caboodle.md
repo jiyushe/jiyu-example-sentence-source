@@ -1,5 +1,7 @@
 # caboodle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caboodle.md)
+
 <p><span class="chinese">我想处理掉所有这些东西。</span><span class="english">I want to buy the whole kit and caboodle.</span></p>
 
 <p><span class="chinese">我想知道所有这些东西的价钱。</span><span class="english">I want to know the price for the whole kit and caboodle.</span></p>

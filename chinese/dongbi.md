@@ -1,5 +1,7 @@
 # 动笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongbi.md)
+
 <p><span class="chinese">这是一个自动笔盒吗？</span><span class="english">Is the a pencil-box?</span></p>
 
 <p><span class="chinese">然而，我浑然不知时，我为什么动笔写作？</span><span class="english">But not knowing, why did I begin to write?</span></p>

@@ -1,5 +1,7 @@
 # 龅牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoya.md)
+
 <p><span class="chinese">蒂姆长着龅牙，金黄色的头发像稻草一样朝天竖着，眼睛还有点突出。</span><span class="english">Tim had buck teeth and his blond hair stuck out like straw and his eyes were a little buggy.</span></p>
 
 <p><span class="chinese">今天我上网搜万圣节服装，发现有一个名为“超级宅女”的，包括一顶假发一副眼镜和一只龅牙套。</span><span class="english">Today, I was surfing the web for Halloween costumes, and found one labeled "Extreme Girl Nerd".</span></p>

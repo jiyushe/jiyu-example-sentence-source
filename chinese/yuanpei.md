@@ -1,5 +1,7 @@
 # 原配
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanpei.md)
+
 <p><span class="chinese">不错，我说鞘是原配。</span><span class="english">Yes, the sheath is original.</span></p>
 
 <p><span class="chinese">原配妻子去世后，他又娶了一个。</span><span class="english">He cheated his wife and married another woman.</span></p>

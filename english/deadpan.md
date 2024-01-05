@@ -1,5 +1,7 @@
 # deadpan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deadpan.md)
+
 <p><span class="chinese">他可以面无表情地用平静的声音讲出笑死人的故事来。</span><span class="english">He told hilarious stories in a deadpan voice.</span></p>
 
 <p><span class="chinese">这里的服务没有笑脸，价格却不低廉。</span><span class="english">Here, the service is deadpan and prices sharp.</span></p>

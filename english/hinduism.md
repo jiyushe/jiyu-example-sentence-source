@@ -1,5 +1,7 @@
 # hinduism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hinduism.md)
+
 <p><span class="chinese">非印度教。</span><span class="english">It is not Hinduism.</span></p>
 
 <p><span class="chinese">那些我们都称之为“印度教</span><span class="english">We're going to call that "Hinduism."</span></p>

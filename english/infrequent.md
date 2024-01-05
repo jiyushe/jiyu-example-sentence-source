@@ -1,5 +1,7 @@
 # infrequent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infrequent.md)
+
 <p><span class="chinese">此并发症也不多见。</span><span class="english">This complication is also infrequent.</span></p>
 
 <p><span class="chinese">乳糜性腹水是一种极为少见的临床疾病。</span><span class="english">Chylous ascites is an clinically infrequent disease.</span></p>

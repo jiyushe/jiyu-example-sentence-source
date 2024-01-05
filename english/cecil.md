@@ -1,5 +1,7 @@
 # cecil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cecil.md)
+
 <p><span class="chinese">不过今年这个时候我却有丝丝郁闷。</span><span class="english">However, this time of year, I have a Cecil depressed.</span></p>
 
 <p><span class="chinese">想想塞西尔·B·戴米尔，好莱坞的那种闪电效果。</span><span class="english">Imagine Cecil B.DeMille,Hollywood type lighting effects.</span></p>

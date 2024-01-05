@@ -1,5 +1,7 @@
 # busty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busty.md)
+
 <p><span class="chinese">查伦是个胸部丰满的金发碧眼的女人，笑起来的声音像链锯。</span><span class="english">Charlene was a busty blonde with a laugh like a chain saw.</span></p>
 
 <p><span class="chinese">他说，女性尤希望自己双腿修长、胸部丰满、身材苗条。</span><span class="english">They particularly wanted to look leggy , busty and skinny, he said.</span></p>

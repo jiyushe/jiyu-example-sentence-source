@@ -1,5 +1,7 @@
 # 鲜卑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianbei_1.md)
+
 <p><span class="chinese">隋炀帝本人就是一个汉族与鲜卑族的混血帝王。</span><span class="english">Sui Yangdi is a mixed blood emperor between Han and Xianbei.</span></p>
 
 <p><span class="chinese">吉林省是汉族，满族，回族，蒙古族和鲜卑族的聚集地。</span><span class="english">Jilin is inhabited by Han Chinese, Manchus , Hui, Mongols and Xibe.</span></p>

@@ -1,5 +1,7 @@
 # chaffy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaffy.md)
+
 <p><span class="chinese">请问现在火锅赚钱吗。</span><span class="english">Does excuse me chaffy dish make money now.</span></p>
 
 <p><span class="chinese">那么，跟这样的外国朋友要怎么解释中国的火锅呢？</span><span class="english">So, how should explain Chinese chaffy dish with such foreign friend?</span></p>

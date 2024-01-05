@@ -1,5 +1,7 @@
 # hurriedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurriedly.md)
+
 <p><span class="chinese">王柏川连忙同意。</span><span class="english">Bai-chuan wang hurriedly agreed to.</span></p>
 
 <p><span class="chinese">我又急忙改口说您都听懂了？</span><span class="english">I also hurriedly say you understand?</span></p>

@@ -1,5 +1,7 @@
 # 香波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangbo.md)
+
 <p><span class="chinese">啊哈，香波。</span><span class="english">Aha! Shampoo!</span></p>
 
 <p><span class="chinese">用抗真菌香波给他洗澡。</span><span class="english">Bathe him with anti-fungal shampoo.</span></p>

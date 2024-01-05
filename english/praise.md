@@ -1,5 +1,7 @@
 # praise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/praise.md)
+
 <p><span class="chinese">表扬他们。</span><span class="english">Praise them.</span></p>
 
 <p><span class="chinese">赞美是什么？</span><span class="english">What is praise?</span></p>

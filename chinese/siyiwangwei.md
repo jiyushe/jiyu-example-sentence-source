@@ -1,5 +1,7 @@
 # 肆意妄为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siyiwangwei.md)
+
 <p><span class="chinese">我要肆无忌惮的笑，肆意妄为的哭。</span><span class="english">I will laugh unbridled, rampant cry.</span></p>
 
 <p><span class="chinese">叛乱者杀人破坏，肆意妄为。</span><span class="english">The rebels went on an orgy of killing and destruction.</span></p>

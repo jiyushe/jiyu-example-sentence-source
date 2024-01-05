@@ -1,5 +1,7 @@
 # 土地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tudi.md)
+
 <p><span class="chinese">我们在土地上生活。</span><span class="english">We live on land.</span></p>
 
 <p><span class="chinese">他将土地出租。</span><span class="english">He farmed out his land.</span></p>

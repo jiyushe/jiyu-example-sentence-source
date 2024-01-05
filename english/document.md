@@ -1,5 +1,7 @@
 # document 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/document.md)
+
 <p><span class="chinese">使用一个文件架。</span><span class="english">Use a document holder.</span></p>
 
 <p><span class="chinese">保存文档类型。</span><span class="english">Save the document type.</span></p>

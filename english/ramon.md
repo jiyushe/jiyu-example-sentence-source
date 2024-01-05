@@ -1,5 +1,7 @@
 # ramon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramon.md)
+
 <p><span class="chinese">是拉蒙和他儿子阿里克斯。</span><span class="english">This is Ramón and his son, Alex.</span></p>
 
 <p><span class="chinese">噢，是吗，拉蒙对我提起过。</span><span class="english">Oh, yeah, Ramon mentioned it to me.</span></p>

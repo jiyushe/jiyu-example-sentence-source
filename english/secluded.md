@@ -1,5 +1,7 @@
 # secluded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secluded.md)
+
 <p><span class="chinese">在田野的僻静处，在森林之荫？</span><span class="english">At the secluded field, the shade at?</span></p>
 
 <p><span class="chinese">船停靠在一个幽僻的小湾里。</span><span class="english">We were anchored in a secluded cove.</span></p>

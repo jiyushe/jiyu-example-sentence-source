@@ -1,5 +1,7 @@
 # 游园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyuan_3.md)
+
 <p><span class="chinese">就让他人在新的游园中享受徜徉的欢乐吧。</span><span class="english">Let others delight mid new pleasures to roam.</span></p>
 
 <p><span class="chinese">台北儿童交通博物馆内准备运行的游园小火车。</span><span class="english">A small tourist train in Taipei Kid's Park Museum.</span></p>

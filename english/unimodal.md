@@ -1,5 +1,7 @@
 # unimodal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unimodal.md)
+
 <p><span class="chinese">本文给出了单峰函数符号序列即由字母R。</span><span class="english">Unimodal symbols are the letters R, L and C.</span></p>
 
 <p><span class="chinese">气溶胶粒子浓度谱为单峰分布。</span><span class="english">The size distribution of aerosol follows unimodal distribution.</span></p>

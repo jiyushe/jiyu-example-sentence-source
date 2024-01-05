@@ -1,5 +1,7 @@
 # acidproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acidproof.md)
+
 <p><span class="chinese">本文介绍了该技术的工艺原理及耐酸高强度堵剂的性能评价结果。</span><span class="english">This paper presents the technology principle and test results of acidproof plugging agent.</span></p>
 
 <p><span class="chinese">介绍一种用数学规划方法进行搪瓷产品耐酸性能最佳的计算机辅助设计方法。</span><span class="english">This paper introduces a method of computer aided design on optimum acidproof property of enamel products by mathematical programming.</span></p>

@@ -1,5 +1,7 @@
 # unglamorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unglamorous.md)
+
 <p><span class="chinese">芒果财政的目标指向一个乏味的市场——无银行账户的群体。</span><span class="english">Mango is aiming at an unglamorous market, the unbanked.</span></p>
 
 <p><span class="chinese">这名二十九岁的球员效力于西班牙的塞维利亚俱乐部。</span><span class="english">The 29-year-old plays for the unglamorous Sevilla in Spain.</span></p>

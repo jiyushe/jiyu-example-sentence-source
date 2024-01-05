@@ -1,5 +1,7 @@
 # correlate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correlate.md)
+
 <p><span class="chinese">关联本机进程大小。</span><span class="english">Correlate the native process size.</span></p>
 
 <p><span class="chinese">查询及关联这些事件是困难的。</span><span class="english">It is difficult to query and correlate these events.</span></p>

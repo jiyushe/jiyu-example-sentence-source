@@ -1,5 +1,7 @@
 # drunk 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drunk.md)
+
 <p><span class="chinese">以求一醉。</span><span class="english">drunk.</span></p>
 
 <p><span class="chinese">把她灌醉。</span><span class="english">Get her drunk.</span></p>

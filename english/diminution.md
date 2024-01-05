@@ -1,5 +1,7 @@
 # diminution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diminution.md)
+
 <p><span class="chinese">他们希望捐税能稍有减少。</span><span class="english">They hope for a small diminution in taxes.</span></p>
 
 <p><span class="chinese">他们希望税捐略微减少。</span><span class="english">They are hoping for a small diminution in taxes.</span></p>

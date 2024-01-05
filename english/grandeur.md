@@ -1,5 +1,7 @@
 # grandeur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandeur.md)
+
 <p><span class="chinese">它们具有革命的伟大意义。</span><span class="english">They have a revolutionary grandeur.</span></p>
 
 <p><span class="chinese">该地以祥和的气氛取代了逐渐消退的庄严。</span><span class="english">The place has a gracious air of faded grandeur.</span></p>

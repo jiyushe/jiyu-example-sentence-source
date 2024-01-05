@@ -1,5 +1,7 @@
 # 盐井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjing_1.md)
+
 <p><span class="chinese">并根据测量结果成功地处理了三口盐井。</span><span class="english">With logging results, they succeeded in dealing with the three salt wells.</span></p>
 
 <p><span class="chinese">唐朝末年，剑南道和山南道盐井数大约为640所。</span><span class="english">In the late Tang Dynasty, there were almost 640 salt wells in Jiannandao and Shannandao.</span></p>

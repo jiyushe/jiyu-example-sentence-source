@@ -1,5 +1,7 @@
 # 消遣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqian_1.md)
+
 <p><span class="chinese">某人到一家脱衣舞俱乐部消遣。</span><span class="english">A man went to a strip club.</span></p>
 
 <p><span class="chinese">我公馀时间读书以消遣。</span><span class="english">I spent my off-hour reading.</span></p>

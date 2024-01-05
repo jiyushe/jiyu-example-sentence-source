@@ -1,5 +1,7 @@
 # purveyor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purveyor.md)
+
 <p><span class="chinese">接受者加拿大熏鳟鱼，阿拉斯加鲑鱼和湖优越的白鱼。</span><span class="english">Purveyor of smoked Canadian trout, Alaskan salmon and Lake Superior whitefish.</span></p>
 
 <p><span class="chinese">1999年和2000年，美国人还认为三星是低端的显像管电视的生产商，到2004年，三星开始与索尼在高端个人电子产品市场展开竞争。</span><span class="english">Back in 1999 and 2000, Americans viewed Samsung as a low-end purveyor of tube TVs.</span></p>

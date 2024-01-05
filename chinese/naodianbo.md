@@ -1,5 +1,7 @@
 # 脑电波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naodianbo.md)
+
 <p><span class="chinese">你可以去研究他们的脑电波</span><span class="english">You could study their brain waves.</span></p>
 
 <p><span class="chinese">一种聪明的方法便是去观察脑电波</span><span class="english">One clever method is to look at their brain waves.</span></p>

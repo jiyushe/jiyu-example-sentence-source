@@ -1,5 +1,7 @@
 # leguminous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leguminous.md)
+
 <p><span class="chinese">大豆是豆料作物。</span><span class="english">Soybeans are leguminous plants.</span></p>
 
 <p><span class="chinese">某些豆科植物的种子或荚果。</span><span class="english">Seed or pod of certain leguminous plants.</span></p>

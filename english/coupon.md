@@ -1,5 +1,7 @@
 # coupon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coupon.md)
+
 <p><span class="chinese">用折价券就不会。</span><span class="english">Not with the coupon.</span></p>
 
 <p><span class="chinese">我能用这张优惠券吗？</span><span class="english">Can I use this coupon?</span></p>

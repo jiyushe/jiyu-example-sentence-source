@@ -1,5 +1,7 @@
 # folk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folk.md)
+
 <p><span class="chinese">我刚是民间的。</span><span class="english">I am just folk.</span></p>
 
 <p><span class="chinese">我特别喜欢民间舞。</span><span class="english">I love folk dancing.</span></p>

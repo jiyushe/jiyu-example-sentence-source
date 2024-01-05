@@ -1,5 +1,7 @@
 # locker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locker.md)
+
 <p><span class="chinese">我能去锁柜吗？</span><span class="english">Can I go to th locker?</span></p>
 
 <p><span class="chinese">我帮你锁好更衣柜。</span><span class="english">Let me lock your locker.</span></p>

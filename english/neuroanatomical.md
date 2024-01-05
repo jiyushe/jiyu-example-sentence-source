@@ -1,5 +1,7 @@
 # neuroanatomical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuroanatomical.md)
+
 <p><span class="chinese">深度脑刺激疗法要求在特定神经解剖部位放置电极。</span><span class="english">Deep brain stimulation requires placement of electrodes at specific neuroanatomical sites.</span></p>
 
 <p><span class="chinese">研究的局限性，在于缺乏长期的认知随访，以及身体或神经解剖学试验。</span><span class="english">Study limitations included lack of long-term cognitive follow-up and lack of physical or neuroanatomical testing.</span></p>

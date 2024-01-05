@@ -1,5 +1,7 @@
 # 银钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinqian.md)
+
 <p><span class="chinese">拿一个银钱来给我看。</span><span class="english">Shew me a penny.</span></p>
 
 <p><span class="chinese">他们就拿一个银钱来给他。</span><span class="english">And they brought him a denarius.</span></p>

@@ -1,5 +1,7 @@
 # cheerily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheerily.md)
+
 <p><span class="chinese">夫人快活地说。</span><span class="english">Lady cheerily said.</span></p>
 
 <p><span class="chinese">“不要担心，爷爷，”尼克快活地说。</span><span class="english">"Don't worry, Grandpa," Nick said cheerily.</span></p>

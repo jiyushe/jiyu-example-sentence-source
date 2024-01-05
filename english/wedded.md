@@ -1,5 +1,7 @@
 # wedded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wedded.md)
+
 <p><span class="chinese">他与翻译结下不解之缘。</span><span class="english">He has been wedded to translation.</span></p>
 
 <p><span class="chinese">早已跟学问与逻辑私定终身。</span><span class="english">Wedded to lore and logic long ago.</span></p>

@@ -1,5 +1,7 @@
 # 飘带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaodai.md)
+
 <p><span class="chinese">她根本没有感到飘带在拍打她的脸。</span><span class="english">She didn't care the ribbon slatting her face.</span></p>
 
 <p><span class="chinese">我们刚才经过的石柱和飘带般的机车道。</span><span class="english">The stone pillar and winding road we just passed.</span></p>

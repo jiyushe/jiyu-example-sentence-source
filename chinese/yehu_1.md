@@ -1,5 +1,7 @@
 # 夜壶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yehu_1.md)
+
 <p><span class="chinese">是的，我们有一个夜壶。</span><span class="english">Yes, we had a chamber pot.</span></p>
 
 <p><span class="chinese">被我们的一场场战争注满沉默的夜壶里。</span><span class="english">In the jugs of silence filled during our wars.</span></p>

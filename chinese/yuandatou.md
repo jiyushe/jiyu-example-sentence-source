@@ -1,5 +1,7 @@
 # 冤大头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuandatou.md)
+
 <p><span class="chinese">有些人天生就是冤大头。</span><span class="english">Some people are born suckers.</span></p>
 
 <p><span class="chinese">你以为我是什么人？冤大头吗？</span><span class="english">What do you think I am? A sitting duck?</span></p>

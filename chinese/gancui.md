@@ -1,5 +1,7 @@
 # 干脆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gancui.md)
+
 <p><span class="chinese">或者干脆用我，我们和它。</span><span class="english">Or simply I, we,and it.</span></p>
 
 <p><span class="chinese">亦或是干脆选择避而不答？</span><span class="english">Also evaded or simply choose?</span></p>

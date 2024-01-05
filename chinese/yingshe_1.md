@@ -1,5 +1,7 @@
 # 映射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingshe_1.md)
+
 <p><span class="chinese">我可以重新映射PIC吗？</span><span class="english">Can I remap the PIC?</span></p>
 
 <p><span class="chinese">端口映射服务启动失败！</span><span class="english">MAP service startup failed!</span></p>

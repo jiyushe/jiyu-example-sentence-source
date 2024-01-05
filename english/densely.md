@@ -1,5 +1,7 @@
 # densely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/densely.md)
+
 <p><span class="chinese">这一地区林木繁密。</span><span class="english">This area is densely wooded.</span></p>
 
 <p><span class="chinese">这个社区人口稠密。</span><span class="english">The community is densely populated.</span></p>

@@ -1,5 +1,7 @@
 # raise 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raise.md)
+
 <p><span class="chinese">举起我的手来。</span><span class="english">Raise my hand.</span></p>
 
 <p><span class="chinese">举高你的双臂。</span><span class="english">Raise your arms.</span></p>

@@ -1,5 +1,7 @@
 # 内因
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiyin.md)
+
 <p><span class="chinese">这个就是内因。</span><span class="english">This is the internal cause.</span></p>
 
 <p><span class="chinese">内因火灾是煤矿的重大灾害之一。</span><span class="english">The internal-caused fire is one of the disasters in coal mine.</span></p>

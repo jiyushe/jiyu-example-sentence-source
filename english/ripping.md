@@ -1,5 +1,7 @@
 # ripping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ripping.md)
+
 <p><span class="chinese">他的合作伙伴说他正在压榨他们。</span><span class="english">His partners say he is ripping them off.</span></p>
 
 <p><span class="chinese">卡车在一条热闹的大街上疾驶而过。</span><span class="english">The truck is ripping through a busy street.</span></p>

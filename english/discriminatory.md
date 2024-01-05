@@ -1,5 +1,7 @@
 # discriminatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discriminatory.md)
+
 <p><span class="chinese">在此基础上列出T值的判别法。</span><span class="english">Then a discriminatory method for "T-value" is given.</span></p>
 
 <p><span class="chinese">但是，区域贸易协定具有歧视性是不用争辩的事实。</span><span class="english">However, it is quite clear that RTAs are discriminatory.</span></p>

@@ -1,5 +1,7 @@
 # 排水量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paishuiliang.md)
+
 <p><span class="chinese">这艘船的排水量为两万吨。</span><span class="english">The ship displaces 20, 000tons.</span></p>
 
 <p><span class="chinese">它有62立方英寸排水量。</span><span class="english">It has a 62 cubic inch displacement.</span></p>

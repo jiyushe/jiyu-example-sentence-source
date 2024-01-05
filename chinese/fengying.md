@@ -1,5 +1,7 @@
 # 奉迎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengying.md)
+
 <p><span class="chinese">我们奉迎到会的嘉宾。</span><span class="english">We welcome all the guests here.</span></p>
 
 <p><span class="chinese">因为我想奉迎他，我给他买了一件好礼物。</span><span class="english">Being anxious to please him, I bought him a nice present.</span></p>

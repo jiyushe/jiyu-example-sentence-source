@@ -1,5 +1,7 @@
 # 出身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushen_1.md)
+
 <p><span class="chinese">他出身高贵。</span><span class="english">He is of noble birth.</span></p>
 
 <p><span class="chinese">我很高。千叶県出身。</span><span class="english">I'm tall. I'm from Chiba.</span></p>

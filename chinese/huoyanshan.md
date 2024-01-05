@@ -1,5 +1,7 @@
 # 火焰山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoyanshan.md)
+
 <p><span class="chinese">她这会儿在火焰山呢。</span><span class="english">She's right now at the Flame Mountain.</span></p>
 
 <p><span class="chinese">离吐鲁番不远有一座火焰山。</span><span class="english">Not far from Truvan is a Flaming Mountain.</span></p>

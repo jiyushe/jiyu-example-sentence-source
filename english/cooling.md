@@ -1,5 +1,7 @@
 # cooling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cooling.md)
+
 <p><span class="chinese">全球气候变冷了么？</span><span class="english">Global cooling?</span></p>
 
 <p><span class="chinese">峩们都知道冷。</span><span class="english">We all know cooling down.</span></p>

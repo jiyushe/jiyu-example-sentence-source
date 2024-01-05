@@ -1,5 +1,7 @@
 # 干裂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganlie.md)
+
 <p><span class="chinese">有没有擦皮肤干裂的药？</span><span class="english">Do you have anything for chapped skin?</span></p>
 
 <p><span class="chinese">这个地区的土地是干裂的。</span><span class="english">The land in this region is dry and parched.</span></p>

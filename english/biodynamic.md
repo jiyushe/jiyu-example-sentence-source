@@ -1,5 +1,7 @@
 # biodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biodynamic.md)
+
 <p><span class="chinese">当然还应该试着吃生物动力食品。</span><span class="english">And, of course, try to eat biodynamic food.</span></p>
 
 <p><span class="chinese">我们拥有12公顷的葡萄圆，完全以天然方式种植。</span><span class="english">We have 12 ha of vineyard cultivated in biodynamic.</span></p>

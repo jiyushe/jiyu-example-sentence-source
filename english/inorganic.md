@@ -1,5 +1,7 @@
 # inorganic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inorganic.md)
+
 <p><span class="chinese">岩石和金属是无机物。</span><span class="english">Rocks and metals are inorganic substances.</span></p>
 
 <p><span class="chinese">大多数无机盐在水溶液中离解。</span><span class="english">Most inorganic salts ionize in water solution.</span></p>

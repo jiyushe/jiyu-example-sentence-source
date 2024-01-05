@@ -1,5 +1,7 @@
 # tantra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tantra.md)
+
 <p><span class="chinese">坦陀罗影像接受万物。</span><span class="english">The Tantra vision accepts everything.</span></p>
 
 <p><span class="chinese">密宗里，这就叫作“乘潮”。</span><span class="english">In Tantra this is called "riding the wave."</span></p>

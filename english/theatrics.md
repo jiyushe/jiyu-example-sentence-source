@@ -1,5 +1,7 @@
 # theatrics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theatrics.md)
+
 <p><span class="chinese">布莱希特陌生化理论除了包含戏剧本身的层面之外，还有其政治的层面。</span><span class="english">Brecht's theory of alienation effect consists not only in its theatrics but also in its politics.</span></p>
 
 <p><span class="chinese">现在，这些难以令人置信的戏剧正在崩溃，因为没有多少可以让他们苟延残喘的空间了。</span><span class="english">Now, these unbelievable theatrics are about to crash as there is practically no wriggle-room left to them.</span></p>

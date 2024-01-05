@@ -1,5 +1,7 @@
 # 姓名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingming.md)
+
 <p><span class="chinese">你知道他们的姓名？</span><span class="english">Do you know by name?</span></p>
 
 <p><span class="chinese">他必须招出同谋的姓名。</span><span class="english">And he must name names.</span></p>

@@ -1,5 +1,7 @@
 # rami
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rami.md)
+
 <p><span class="chinese">皮质中动脉和皮质深动脉可见喷泉样分支。</span><span class="english">There were some fountain-like rami in the middle and deep cortical branches.</span></p>
 
 <p><span class="chinese">拉米•阿德汗出生在阿勒颇，但在1989年和家人移居芬兰。</span><span class="english">Rami Adhman was born in Aleppo, but moved to Finland with his family in 1989.</span></p>

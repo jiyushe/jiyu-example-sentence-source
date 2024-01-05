@@ -1,5 +1,7 @@
 # 表哥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoge.md)
+
 <p><span class="chinese">他，我的表哥！</span><span class="english">He my cousin!</span></p>
 
 <p><span class="chinese">我知道，-，他是我的一个表哥。</span><span class="english">I know -Who was a cousin.</span></p>

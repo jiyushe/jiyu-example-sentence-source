@@ -1,5 +1,7 @@
 # 间作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzuo.md)
+
 <p><span class="chinese">果园间作小浆果。</span><span class="english">These orchards were interplanted with soft fruits.</span></p>
 
 <p><span class="chinese">说实在的，你怎么能在两个勃朗特间作取舍呢？</span><span class="english">Really, how can you pick one Bront? over the other?</span></p>

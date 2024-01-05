@@ -1,5 +1,7 @@
 # barnsley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barnsley.md)
+
 <p><span class="chinese">是在为西汉姆和巴恩斯利的比赛进的，我和里奥费迪南德跳了个难看的舞…</span><span class="english">It was against Barnsley for West Ham and I did a very embarrassing dance with Rio Ferdinand.</span></p>
 
 <p><span class="chinese">和巴恩斯利的比赛后他告诉我继续努力，吧注意力放在欧冠比赛上。他很支持我。</span><span class="english">After Barnsley he said 'come on, keep focused on the Champions League' – he's very supportive.</span></p>

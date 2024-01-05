@@ -1,5 +1,7 @@
 # 求生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiusheng.md)
+
 <p><span class="chinese">荒野求生秘技第2季全。</span><span class="english">Man Vs. Wild season 2.</span></p>
 
 <p><span class="chinese">荒野求生秘技第3季全。</span><span class="english">Man Vs. Wild season 3.</span></p>

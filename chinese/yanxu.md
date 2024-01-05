@@ -1,5 +1,7 @@
 # 延续
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxu.md)
+
 <p><span class="chinese">梦在延续着。</span><span class="english">The dream continue.</span></p>
 
 <p><span class="chinese">实现延续。</span><span class="english">Implement continuations.</span></p>

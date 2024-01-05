@@ -1,5 +1,7 @@
 # johannes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/johannes.md)
+
 <p><span class="chinese">这是美因兹约翰尼斯古腾堡大学的网站。</span><span class="english">This is the website of Johannes Gutenberg-University Mainz.</span></p>
 
 <p><span class="chinese">我哥哥约翰尼斯，姐姐祖乐比和我要和叔叔和婶婶住在一起。</span><span class="english">My brother Johannes , sister Jollibee and I would stay with our uncle and aunt.</span></p>

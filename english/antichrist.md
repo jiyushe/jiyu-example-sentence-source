@@ -1,5 +1,7 @@
 # antichrist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antichrist.md)
+
 <p><span class="chinese">敌基督和玛各的歌革是一回事吗？</span><span class="english">Is the Antichrist & Gog of Magog the same?</span></p>
 
 <p><span class="chinese">这就是那迷惑人，敌基督的。</span><span class="english">Any such person is the deceiver and the antichrist.</span></p>

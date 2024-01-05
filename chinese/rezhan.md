@@ -1,5 +1,7 @@
 # 热战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rezhan.md)
+
 <p><span class="chinese">但是，毕竟这场战争显然是一场热战。</span><span class="english">But this one is, after all, distinctly a hot war.</span></p>
 
 <p><span class="chinese">战争，无论是冷战、热战还是温战，都不再被人们所接受。</span><span class="english">War is no longer accepted, be it cold, hot or warm.</span></p>

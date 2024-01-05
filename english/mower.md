@@ -1,5 +1,7 @@
 # mower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mower.md)
+
 <p><span class="chinese">割草机。</span><span class="english">The lawn mower.</span></p>
 
 <p><span class="chinese">他推着割草机。</span><span class="english">He moved the lawn mower.</span></p>

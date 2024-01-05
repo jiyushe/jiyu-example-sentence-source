@@ -1,5 +1,7 @@
 # internship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internship.md)
+
 <p><span class="chinese">我的实习期会持续一个礼拜。</span><span class="english">And my internship will last 1 week.</span></p>
 
 <p><span class="chinese">就像我说的，我人生的这部分叫做“冒傻气”。</span><span class="english">This part of my life is called"Internship".</span></p>

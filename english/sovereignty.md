@@ -1,5 +1,7 @@
 # sovereignty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sovereignty.md)
+
 <p><span class="chinese">于955年收回全部主权。</span><span class="english">Full sovereignty was restored in 955.</span></p>
 
 <p><span class="chinese">今天，我想跟大家聊聊关于主权的一些东西。</span><span class="english">But today, I want to talk about sovereignty.</span></p>

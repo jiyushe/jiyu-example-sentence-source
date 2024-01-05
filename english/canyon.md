@@ -1,5 +1,7 @@
 # canyon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canyon.md)
+
 <p><span class="chinese">岩石峡谷。</span><span class="english">Stone Canyon.</span></p>
 
 <p><span class="chinese">黄石公园的大峡谷。</span><span class="english">Grand Canyon of the Yellowstone.</span></p>

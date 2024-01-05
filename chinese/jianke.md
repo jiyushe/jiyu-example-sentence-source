@@ -1,5 +1,7 @@
 # 尖刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianke.md)
+
 <p><span class="chinese">她言语尖刻，有一张刀子般的嘴。</span><span class="english">She had an acerbic tongue.</span></p>
 
 <p><span class="chinese">那段话有点尖刻的讽刺味。</span><span class="english">That’s sort of a poignant irony.</span></p>

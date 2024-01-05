@@ -1,5 +1,7 @@
 # visa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visa.md)
+
 <p><span class="chinese">你的签证已过期。</span><span class="english">Your visa has expired.</span></p>
 
 <p><span class="chinese">该签证是一个永居签证。</span><span class="english">This visa is permanent.</span></p>

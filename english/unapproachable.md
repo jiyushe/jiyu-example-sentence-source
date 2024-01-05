@@ -1,5 +1,7 @@
 # unapproachable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unapproachable.md)
+
 <p><span class="chinese">那位法官是个严肃、难以接近的人。</span><span class="english">The judge was a stern, unapproachable man.</span></p>
 
 <p><span class="chinese">这些女孩是封闭而无法接近的。</span><span class="english">The girls are close and yet unapproachable.</span></p>

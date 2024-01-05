@@ -1,5 +1,7 @@
 # 跑题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoti.md)
+
 <p><span class="chinese">唉，我跑题了。</span><span class="english">Alas, I have wandered off topic.</span></p>
 
 <p><span class="chinese">我完全说跑题了。</span><span class="english">I"ve gone completely off-track."</span></p>

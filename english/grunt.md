@@ -1,5 +1,7 @@
 # grunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grunt.md)
+
 <p><span class="chinese">格雷伯克满意地哼了一声。</span><span class="english">Greyback gave a grunt of pleasure.</span></p>
 
 <p><span class="chinese">他咕噜着把沉重的提箱拎了起来。</span><span class="english">He lifted the heavy suitcase with a grunt.</span></p>

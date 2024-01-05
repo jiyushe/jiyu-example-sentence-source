@@ -1,5 +1,7 @@
 # 洗浴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyu.md)
+
 <p><span class="chinese">控制洗浴时间。</span><span class="english">Limit bath time.</span></p>
 
 <p><span class="chinese">他脱衣洗浴。</span><span class="english">He stripped for a bath.</span></p>

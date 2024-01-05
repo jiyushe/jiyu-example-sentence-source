@@ -1,5 +1,7 @@
 # phosphatidylcholine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphatidylcholine.md)
+
 <p><span class="chinese">分泌进入胆汁的胆盐和磷脂的降低。</span><span class="english">Second, secretion of bile salt and phosphatidylcholine is decreased.</span></p>
 
 <p><span class="chinese">儿茶素对大白鼠磷脂酰胆碱脂肪酸组成影响的研究。</span><span class="english">Effect of Dietary Tea Catechins on Fatty Acid Composition of Phosphatidylcholine in Rats.</span></p>

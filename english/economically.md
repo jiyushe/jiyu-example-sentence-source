@@ -1,5 +1,7 @@
 # economically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/economically.md)
+
 <p><span class="chinese">这在经济上是不可行的。</span><span class="english">It'll be economically unfeasible.</span></p>
 
 <p><span class="chinese">经济上来说,大学值不值?</span><span class="english">Is college worth it, economically?</span></p>

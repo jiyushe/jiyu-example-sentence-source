@@ -1,5 +1,7 @@
 # gremlin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gremlin.md)
+
 <p><span class="chinese">小鬼铃铛是其中卖得最好的。</span><span class="english">Gremlin bells are his best sellers.</span></p>
 
 <p><span class="chinese">这次小鬼没有忘记在家里，却在纽约走失了！</span><span class="english">The gremlin not forgotten at home, but in New York lost!</span></p>

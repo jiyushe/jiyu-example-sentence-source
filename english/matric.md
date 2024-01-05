@@ -1,5 +1,7 @@
 # matric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matric.md)
+
 <p><span class="chinese">微基质修复材料修复恒前牙、恒前磨牙的临床状况。</span><span class="english">X micro matric restorations in permanent anterior and premolar teeth.</span></p>
 
 <p><span class="chinese">探讨了F数空间的度量特征及几种收敛性的关系。</span><span class="english">The matric characteristics and convergences on F-number space are investigated.</span></p>

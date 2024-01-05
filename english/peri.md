@@ -1,5 +1,7 @@
 # peri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peri.md)
+
 <p><span class="chinese">“天堂与妖精”。</span><span class="english">Paradise and the peri.</span></p>
 
 <p><span class="chinese">亲爱的仙女，我想要一些巧克力！</span><span class="english">Dear peri , May I have some chocolate?</span></p>

@@ -1,5 +1,7 @@
 # gesticulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gesticulate.md)
+
 <p><span class="chinese">他试图用手势来传递信息。</span><span class="english">He tried to gesticulate a message.</span></p>
 
 <p><span class="chinese">真人生得比画上可生动了许多。</span><span class="english">The true life have to gesticulate up vivid many.</span></p>

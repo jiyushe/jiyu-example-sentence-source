@@ -1,5 +1,7 @@
 # 付之一笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzhiyixiao.md)
+
 <p><span class="chinese">他对那谣言付之一笑。</span><span class="english">He laughed at the rumour.</span></p>
 
 <p><span class="chinese">显然穆加贝对此付之一笑。</span><span class="english">Mugabe, apparently, laughed it off.</span></p>

@@ -1,5 +1,7 @@
 # animus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animus.md)
+
 <p><span class="chinese">阿尼姆斯也像阿尼玛一样有一个积极的方面。</span><span class="english">Like the anima, the animus too has a positive aspect.</span></p>
 
 <p><span class="chinese">但，也许，始终不如他对伊莎贝尔里昂的敌意引人注目。</span><span class="english">But not as striking, perhaps, as his animus for Isabel Lyon.</span></p>

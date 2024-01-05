@@ -1,5 +1,7 @@
 # illegality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illegality.md)
+
 <p><span class="chinese">不同的是，其非法性对意大利人有一定的吸引力。</span><span class="english">By contrast, illegality is part of the appeal in Italy.</span></p>
 
 <p><span class="chinese">第一部分，对“侵权行为”和“违法性”的重新解读。</span><span class="english">The first part re-interpretate "tort" and "illegality".</span></p>

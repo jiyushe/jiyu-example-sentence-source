@@ -1,5 +1,7 @@
 # jackal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jackal.md)
+
 <p><span class="chinese">豺爸爸弓低了自己的腰。</span><span class="english">The father Jackal bowed very low.</span></p>
 
 <p><span class="chinese">一只饥饿的豺狗早己把尸首拖入自己的洞穴。</span><span class="english">A hungry jackal had dragged it to his lair.</span></p>

@@ -1,5 +1,7 @@
 # lyra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyra.md)
+
 <p><span class="chinese">莉拉，我会找到你的。</span><span class="english">I'll find you, Lyra.</span></p>
 
 <p><span class="chinese">洁西卡?我是天琴座，你是伤害吗?。</span><span class="english">Jessica?I'm Lyra , are you hurt?</span></p>

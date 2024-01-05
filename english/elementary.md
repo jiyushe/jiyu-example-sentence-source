@@ -1,5 +1,7 @@
 # elementary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elementary.md)
+
 <p><span class="chinese">我要去仁爱国小上学。</span><span class="english">I go to Ren-Ai Elementary school.</span></p>
 
 <p><span class="chinese">我上学的学校是松浦国小。</span><span class="english">I go to Song Pu elementary school.</span></p>

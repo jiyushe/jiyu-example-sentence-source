@@ -1,5 +1,7 @@
 # 专横
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanheng.md)
+
 <p><span class="chinese">我不喜欢他那幅专横的态度。</span><span class="english">I dislike his dictatorial manner.</span></p>
 
 <p><span class="chinese">唉，为什么，既怵于时光的专横。</span><span class="english">Alas why fearing of time's tyranny.</span></p>

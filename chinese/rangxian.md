@@ -1,5 +1,7 @@
 # 让贤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rangxian.md)
+
 <p><span class="chinese">令华彩的白天让贤。</span><span class="english">Which Heaven to gaudy⑩ day denies.</span></p>
 
 <p><span class="chinese">你是说如果你不让贤，我就没有机会？</span><span class="english">Like if you didn't I wouldn't have a shot?</span></p>

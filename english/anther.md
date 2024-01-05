@@ -1,5 +1,7 @@
 # anther
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anther.md)
+
 <p><span class="chinese">我们所有人都爱一花药。</span><span class="english">All of us love one anther.</span></p>
 
 <p><span class="chinese">我的父亲是工作在花药的城市…</span><span class="english">My father is working in anther city.</span></p>

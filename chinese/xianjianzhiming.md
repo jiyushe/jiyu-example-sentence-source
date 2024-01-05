@@ -1,5 +1,7 @@
 # 先见之明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjianzhiming.md)
+
 <p><span class="chinese">这就是先见之明的事。</span><span class="english">That is the true vision thing.</span></p>
 
 <p><span class="chinese">缺乏先见之明，带来的是伤害。</span><span class="english">That lack of prescience is hurting.</span></p>

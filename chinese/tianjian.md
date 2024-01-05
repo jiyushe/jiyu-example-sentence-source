@@ -1,5 +1,7 @@
 # 田间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianjian.md)
+
 <p><span class="chinese">我们需要一个强壮的田间能手。</span><span class="english">We need a strong farm hand.</span></p>
 
 <p><span class="chinese">从田间取走作物残体。</span><span class="english">Removal of crop residues from the field.</span></p>

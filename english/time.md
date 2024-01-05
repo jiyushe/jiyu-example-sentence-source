@@ -1,5 +1,7 @@
 # time
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/time.md)
+
 <p><span class="chinese">下堂课见。</span><span class="english">Next time.</span></p>
 
 <p><span class="chinese">时间飞逝。</span><span class="english">Time flys.</span></p>

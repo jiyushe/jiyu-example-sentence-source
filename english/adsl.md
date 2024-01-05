@@ -1,5 +1,7 @@
 # adsl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adsl.md)
+
 <p><span class="chinese">多数电信公司目前仍在对adsl进行测试之中。</span><span class="english">Most of the telcos are still testing ADSL.</span></p>
 
 <p><span class="chinese">他们帮我连接了ADSL。</span><span class="english">They have helped me get my ADSL connection.</span></p>

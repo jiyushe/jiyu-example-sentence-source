@@ -1,5 +1,7 @@
 # drown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drown.md)
+
 <p><span class="chinese">我要消愁解闷。</span><span class="english">I"ll drown my sorrows."</span></p>
 
 <p><span class="chinese">罗礼士能把鱼淹死。</span><span class="english">Chuck Norris can drown fish.</span></p>

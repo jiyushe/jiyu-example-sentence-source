@@ -1,5 +1,7 @@
 # retroactivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retroactivity.md)
+
 <p><span class="chinese">第四部分研究刑法解释的溯及力。</span><span class="english">The fourth part pays attention on the retroactivity.</span></p>
 
 <p><span class="chinese">行政行为的追溯力仅限于执行力。</span><span class="english">The retroactivity of administrative act is limited to the executive force.</span></p>

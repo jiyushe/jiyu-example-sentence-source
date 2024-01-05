@@ -1,5 +1,7 @@
 # anteriorly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anteriorly.md)
+
 <p><span class="chinese">可能是分离的，也可能向前连接到肩带。</span><span class="english">May be free, or may attach anteriorly to the pectoral girdle.</span></p>
 
 <p><span class="chinese">相反的，前方的耻骨联合薄弱，更容易发生断裂。</span><span class="english">Conversely, the pubic symphysis anteriorly is weaker and more easily ruptured.</span></p>

@@ -1,5 +1,7 @@
 # 回归
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huigui.md)
+
 <p><span class="chinese">黄土回归。</span><span class="english">Loess regression.</span></p>
 
 <p><span class="chinese">花点时间回归自然。</span><span class="english">Spend time in nature.</span></p>

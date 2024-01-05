@@ -1,5 +1,7 @@
 # doc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doc.md)
+
 <p><span class="chinese">和睡眠医生聊聊。</span><span class="english">TALK TO A SLEEP DOC.</span></p>
 
 <p><span class="chinese">大大的爱献给Galal医生。</span><span class="english">Big love to doc Galal.</span></p>

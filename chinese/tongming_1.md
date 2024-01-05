@@ -1,5 +1,7 @@
 # 通明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongming_1.md)
+
 <p><span class="chinese">这个旋钮只是用通明胶带牢固住的。</span><span class="english">This knob is only held on by sellotape.</span></p>
 
 <p><span class="chinese">大厅里灯火彻夜通明。</span><span class="english">The lights in the hall burned all night.</span></p>

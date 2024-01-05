@@ -1,5 +1,7 @@
 # 生老病死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenglaobingsi.md)
+
 <p><span class="chinese">孤独地生老病死?。</span><span class="english">To live and die alone?</span></p>
 
 <p><span class="chinese">他肯定知道这些生老病死的事情。</span><span class="english">He always knows about life and death.</span></p>

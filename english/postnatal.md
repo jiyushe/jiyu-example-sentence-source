@@ -1,5 +1,7 @@
 # postnatal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postnatal.md)
+
 <p><span class="chinese">他说，有些男人也患上了产后抑郁症。</span><span class="english">Some men ended up with a male equivalent of postnatal depression, he said.</span></p>
 
 <p><span class="chinese">后天八卦的对应数字，就解决了这个问题。</span><span class="english">The homologous figures to postnatal Eight Trigrams can solve the contradiction.</span></p>

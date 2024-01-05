@@ -1,5 +1,7 @@
 # decathlon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decathlon.md)
+
 <p><span class="chinese">他是十项全能和七项全能。</span><span class="english">He is Decathlon and heptathlon.</span></p>
 
 <p><span class="chinese">一名十项全能冠军可视为世上的强人。</span><span class="english">A decathlon champion could be seen as a strong man.</span></p>

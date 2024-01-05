@@ -1,5 +1,7 @@
 # stakeholder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stakeholder.md)
+
 <p><span class="chinese">在范围定义上的涉众协作</span><span class="english">Stakeholder concurrence on scope definition</span></p>
 
 <p><span class="chinese">使故事板获得股东利益者的赞同</span><span class="english">Get storyboard approval from the stakeholder</span></p>

@@ -1,5 +1,7 @@
 # anneal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anneal.md)
+
 <p><span class="chinese">你说的退火是什么意思?。</span><span class="english">What do you mean by anneal?</span></p>
 
 <p><span class="chinese">困难可以磨练人的意志。</span><span class="english">Difficulties can anneal will.</span></p>

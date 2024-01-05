@@ -1,5 +1,7 @@
 # conspirator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conspirator.md)
+
 <p><span class="chinese">那是一张阴谋家的脸。</span><span class="english">It is the face of a conspirator.</span></p>
 
 <p><span class="chinese">金姆告诉尼娜，里克并不能真正算是绑架的同谋。</span><span class="english">Kim tells Nina that Rick wasn't really a conspirator in the kidnapping.</span></p>

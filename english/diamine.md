@@ -1,5 +1,7 @@
 # diamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diamine.md)
+
 <p><span class="chinese">合成了一种席夫碱金属络合物——呋喃甲醛乙二胺铜络合物，收率为63。</span><span class="english">Cu furaldehyde-ethylene diamine Schiff base complex was synthesized with the yield of 63.</span></p>
 
 <p><span class="chinese">通过一系列的化学过程将这些物质转化成已导致胺和已二酸。</span><span class="english">These are converted by a series of chemical steps into hexamethylene diamine and adipic acid.</span></p>

@@ -1,5 +1,7 @@
 # payer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/payer.md)
+
 <p><span class="chinese">无信之欠债者从不需借口。</span><span class="english">An ill payer never wants an excuse.</span></p>
 
 <p><span class="chinese">电子商业汇票的付款人为承兑人。</span><span class="english">The payer of an ECD shall be the acceptor.</span></p>

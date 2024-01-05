@@ -1,5 +1,7 @@
 # 出师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushi_3.md)
+
 <p><span class="chinese">他们还没有完全出师。</span><span class="english">They haven't trained fully yet.</span></p>
 
 <p><span class="chinese">我不想一开始和彼得·戴维斯打交道就出师不利。</span><span class="english">I don't want to get off on the wrong foot with Peter Davis.</span></p>

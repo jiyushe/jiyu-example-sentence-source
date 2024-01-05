@@ -1,5 +1,7 @@
 # 病榻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingta.md)
+
 <p><span class="chinese">在过去的几年中，我从未离开过病榻。</span><span class="english">In the last few years I have never left my bed.</span></p>
 
 <p><span class="chinese">病榻上，神父终于悔悟了。</span><span class="english">On his deathbed, the priest repented of his crime.</span></p>

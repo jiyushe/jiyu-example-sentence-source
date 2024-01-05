@@ -1,5 +1,7 @@
 # 配色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peise.md)
+
 <p><span class="chinese">配色方案保持一致。</span><span class="english">Keep the color scheme consistent.</span></p>
 
 <p><span class="chinese">配色是干净的，类似Scandi。</span><span class="english">The colorway was clean and Scandi.</span></p>

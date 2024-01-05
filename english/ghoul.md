@@ -1,5 +1,7 @@
 # ghoul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghoul.md)
+
 <p><span class="chinese">还是盗尸鬼？</span><span class="english">Or a ghoul?</span></p>
 
 <p><span class="chinese">他是一个食尸鬼，还是一个吸血鬼呢？</span><span class="english">Is he a ghoul or a vampire?</span></p>

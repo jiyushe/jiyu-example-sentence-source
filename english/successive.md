@@ -1,5 +1,7 @@
 # successive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/successive.md)
+
 <p><span class="chinese">他连胜三场比赛。</span><span class="english">He won three successive matches.</span></p>
 
 <p><span class="chinese">灾祸连年。</span><span class="english">Calamity occurs in successive years.</span></p>

@@ -1,5 +1,7 @@
 # 从长计议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congchangjiyi.md)
+
 <p><span class="chinese">因此，他们更能够从长计议。</span><span class="english">As aresult they're more able to take a long-term view.</span></p>
 
 <p><span class="chinese">也许从长计议泰国的前景并非那么糟糕。</span><span class="english">Perhaps Thailand’s longer-term prospects are not so bad.</span></p>

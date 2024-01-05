@@ -1,5 +1,7 @@
 # 职业学校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyexuexiao.md)
+
 <p><span class="chinese">我是从职业学校出来的。</span><span class="english">I am from a vocational school.</span></p>
 
 <p><span class="chinese">她在职业学校受过速成训练。</span><span class="english">She was given some quick training at the vocational school.</span></p>

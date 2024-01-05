@@ -1,5 +1,7 @@
 # wizardry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wizardry.md)
+
 <p><span class="chinese">超介质可能是麻瓜们所拥有的最接近魔法的物质了。</span><span class="english">Metamaterials might be the closest Muggles have come to wizardry.</span></p>
 
 <p><span class="chinese">作家的离去看上去似乎只是另一场魔法。</span><span class="english">The writer's departure seems like just another piece of wizardry.</span></p>

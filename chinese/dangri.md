@@ -1,5 +1,7 @@
 # 当日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangri.md)
+
 <p><span class="chinese">活动当日付于签到到，接受现金。</span><span class="english">Pay at the door, cash only.</span></p>
 
 <p><span class="chinese">当日，扫罗就与撒母耳同席。</span><span class="english">And Saul dined with Samuel that day.</span></p>

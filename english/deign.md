@@ -1,5 +1,7 @@
 # deign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deign.md)
+
 <p><span class="chinese">您不屑赐予回答吗?</span><span class="english">Will you deign no answer?</span></p>
 
 <p><span class="chinese">她认为她不值得和我们说话。</span><span class="english">She would not deign to speak to us.</span></p>

@@ -1,5 +1,7 @@
 # birch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birch.md)
+
 <p><span class="chinese">桦木胶合板结构。</span><span class="english">Birch plywood construction.</span></p>
 
 <p><span class="chinese">他们用桦条鞭打他。</span><span class="english">They beat him with a birch rod.</span></p>

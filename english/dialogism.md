@@ -1,5 +1,7 @@
 # dialogism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dialogism.md)
+
 <p><span class="chinese">换句话说，这首诗是一次对话。</span><span class="english">In other words, it's a poem that performs dialogism.</span></p>
 
 <p><span class="chinese">对话性指话语中存在两个以上相互作用的声音。</span><span class="english">Dialogism refers to the interactive voices of discourse.</span></p>

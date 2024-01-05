@@ -1,5 +1,7 @@
 # 丧心病狂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangxinbingkuang.md)
+
 <p><span class="chinese">什么丧心病狂的人才会做这种事？</span><span class="english">What kind of horror of a person could do that?</span></p>
 
 <p><span class="chinese">科赫工业是丧心病狂的公司的例证。</span><span class="english">Koch Industries was the poster child of a company run amok.</span></p>

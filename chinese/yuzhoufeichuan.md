@@ -1,5 +1,7 @@
 # 宇宙飞船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhoufeichuan.md)
+
 <p><span class="chinese">我要乘宇宙飞船去那里。</span><span class="english">I will go there by spaceship.</span></p>
 
 <p><span class="chinese">我在宁静的宇宙飞船里踱步.</span><span class="english">I paced in the peaceful  spacecraft.</span></p>

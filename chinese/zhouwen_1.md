@@ -1,5 +1,7 @@
 # 绉纹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouwen_1.md)
+
 <p><span class="chinese">彩色绉纹纸是广泛应用的一个纸张品种。</span><span class="english">Colour crepe paper is a kind of paper of widely used.</span></p>
 
 <p><span class="chinese">绉纹底吸收冲击，并提供额外的缓冲。</span><span class="english">Crepe midsole absorbs shock and provides added cushioning.</span></p>

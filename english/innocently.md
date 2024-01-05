@@ -1,5 +1,7 @@
 # innocently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innocently.md)
+
 <p><span class="chinese">床上的婴儿天真地咯咯笑着。</span><span class="english">The baby gurgled innocently on the bed.</span></p>
 
 <p><span class="chinese">你认为有人能够清白无辜地进行统治吗“</span><span class="english">Do you think anyone can govern innocently?"</span></p>

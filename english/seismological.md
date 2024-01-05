@@ -1,5 +1,7 @@
 # seismological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seismological.md)
+
 <p><span class="chinese">地震灾害损失评估是地震部门的一项职责。</span><span class="english">Earthquake disaster assesment is a duty of seismological bureau.</span></p>
 
 <p><span class="chinese">国家地震局派出了以副局长陈为团长的13人代表团出席会议。</span><span class="english">The State Seismological Bureau sends a 13-member delegation headed by Prof.</span></p>

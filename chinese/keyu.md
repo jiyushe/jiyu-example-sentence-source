@@ -1,5 +1,7 @@
 # 课余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keyu.md)
+
 <p><span class="chinese">第五、学有余力之时，丰富自己的课余生活。</span><span class="english">Fifth, , learn to spare time, enrich my life.</span></p>
 
 <p><span class="chinese">课余她经常很耐心的帮助我们学习。</span><span class="english">After class she often helps us learn patiently.</span></p>

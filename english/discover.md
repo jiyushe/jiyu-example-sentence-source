@@ -1,5 +1,7 @@
 # discover 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discover.md)
+
 <p><span class="chinese">自己去发现它？</span><span class="english">Discover it by himself?</span></p>
 
 <p><span class="chinese">他如何发现这个呢？</span><span class="english">How did he discover this?</span></p>

@@ -1,5 +1,7 @@
 # trellis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trellis.md)
+
 <p><span class="chinese">藤攀满了藤架。</span><span class="english">The vine wound about the trellis.</span></p>
 
 <p><span class="chinese">家家户户的院子里，也都盖满了葡萄。</span><span class="english">Each courtyard had a grape trellis.</span></p>

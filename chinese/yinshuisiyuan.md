@@ -1,5 +1,7 @@
 # 饮水思源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshuisiyuan.md)
+
 <p><span class="chinese">我哋喺唔可以忘记饮水思源嘅！</span><span class="english">We can't forget the steps behind!</span></p>
 
 <p><span class="chinese">我们做人不能忘恩负义，但要饮水思源，而为此尊重我们的父母亲。</span><span class="english">We should not behave like the bean forgetting its pod but honour our parents.</span></p>

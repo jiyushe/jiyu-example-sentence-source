@@ -1,5 +1,7 @@
 # tastefully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tastefully.md)
+
 <p><span class="chinese">我想如果他们这样做高雅。</span><span class="english">I would if they were tastefully done.</span></p>
 
 <p><span class="chinese">这座花园布局雅致。</span><span class="english">The flower garden was tastefully laid out.</span></p>

@@ -1,5 +1,7 @@
 # electrocute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrocute.md)
+
 <p><span class="chinese">别碰那根电线，你会被电死的。</span><span class="english">Don't touch that wire, you'll electrocute yourself.</span></p>
 
 <p><span class="chinese">不要碰那条电线，否则你会触电而死。</span><span class="english">Do not touch that wire or you will electrocute yourself.</span></p>

@@ -1,5 +1,7 @@
 # investigator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/investigator.md)
+
 <p><span class="chinese">瑞姆于是就将调查员加为了好友。</span><span class="english">Rehmund then ‘friended’ the investigator.</span></p>
 
 <p><span class="chinese">他们的青年科学家基金项目发展了我的事业。</span><span class="english">Their Young Investigator grant shaped my career.</span></p>

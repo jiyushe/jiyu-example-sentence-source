@@ -1,5 +1,7 @@
 # crosscut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crosscut.md)
+
 <p><span class="chinese">好习惯是成功的捷径。</span><span class="english">Good habits are the crosscut to success.</span></p>
 
 <p><span class="chinese">爸爸说，它能让木锯子上都抽出芽来。</span><span class="english">Papa said it would grow hair on a crosscut saw.</span></p>

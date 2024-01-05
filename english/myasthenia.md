@@ -1,5 +1,7 @@
 # myasthenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myasthenia.md)
+
 <p><span class="chinese">个别患者出现局部肌无力、肌萎缩。</span><span class="english">Individual local myasthenia gravis patients, muscular atrophy.</span></p>
 
 <p><span class="chinese">“重症肌无力症”也可表现眼睑下垂的症状。</span><span class="english">"Myasthenia gravis" can also be performance blepharoptosis symptoms.</span></p>

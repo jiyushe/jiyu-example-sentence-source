@@ -1,5 +1,7 @@
 # 硫磺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuhuang.md)
+
 <p><span class="chinese">一个会喷出硫磺的卫星。</span><span class="english">A moon that spews brimstone.</span></p>
 
 <p><span class="chinese">一个蝙蝠粪和硫磺小球。</span><span class="english">A tiny ball of bat guano and sulfur.</span></p>

@@ -1,5 +1,7 @@
 # equivocal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equivocal.md)
+
 <p><span class="chinese">这人，有他英勇可敬的一面，也有他暧昧可疑的一面。</span><span class="english">That man had his heroic and his equivocal sides.</span></p>
 
 <p><span class="chinese">古代的神谕常是意义模糊和模棱两可的。</span><span class="english">The ancient oracles were often vague and equivocal.</span></p>

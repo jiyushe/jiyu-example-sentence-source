@@ -1,5 +1,7 @@
 # askew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/askew.md)
+
 <p><span class="chinese">轴承歪斜。</span><span class="english">Bearings askew.</span></p>
 
 <p><span class="chinese">他歪戴着帽子。</span><span class="english">He wore his hat askew.</span></p>

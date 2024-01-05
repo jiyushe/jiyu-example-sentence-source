@@ -1,5 +1,7 @@
 # embarkation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embarkation.md)
+
 <p><span class="chinese">它是一个乘船卡。</span><span class="english">It is an embarkation card.</span></p>
 
 <p><span class="chinese">通过登艇甲板进救生艇。</span><span class="english">Enter lifeboats over embarkation deck.</span></p>

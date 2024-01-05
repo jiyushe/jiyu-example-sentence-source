@@ -1,5 +1,7 @@
 # troika
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troika.md)
+
 <p><span class="chinese">问题的根源显然在于troika的援助计划。</span><span class="english">The causes clearly lie with the programme of the troika.</span></p>
 
 <p><span class="chinese">然而，三驾马车仍然建议应理解释放第六批捄助资金。</span><span class="english">However, the Troika still recommended that the 6th tranche should be released regardless.</span></p>

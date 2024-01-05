@@ -1,5 +1,7 @@
 # thiobacillus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thiobacillus.md)
+
 <p><span class="chinese">采用氧化亚铁硫杆菌从镍黄铁矿中浸出镍。</span><span class="english">Thiobacillus ferrooxidans are used to leach Ni from nicopyrite.</span></p>
 
 <p><span class="chinese">研究微波辐照诱变氧化铁硫杆菌T。</span><span class="english">The microwave radiation mutation of the thiobacillus ferrooxidans, called T.</span></p>

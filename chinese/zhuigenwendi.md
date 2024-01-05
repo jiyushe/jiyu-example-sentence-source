@@ -1,5 +1,7 @@
 # 追根问底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuigenwendi.md)
+
 <p><span class="chinese">孩子们总是喜欢追根问底。</span><span class="english">Children always love to dive to the bottom of a subject.</span></p>
 
 <p><span class="chinese">我们决定从头开始并对不了解的一切问题追根问底。</span><span class="english">We decided to start from scratch and question everything.</span></p>

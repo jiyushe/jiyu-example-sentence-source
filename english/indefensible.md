@@ -1,5 +1,7 @@
 # indefensible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indefensible.md)
+
 <p><span class="chinese">持相反的论点就是试图为站不住脚的事情强辩。</span><span class="english">To argue otherwise is trying to defend the indefensible.</span></p>
 
 <p><span class="chinese">以色列不会回到1967年的那个不能进行自我防御的边界。</span><span class="english">Israel will not return to the indefensible lines of 1967.</span></p>

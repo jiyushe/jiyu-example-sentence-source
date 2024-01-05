@@ -1,5 +1,7 @@
 # curt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curt.md)
+
 <p><span class="chinese">从李生硬的回应。</span><span class="english">A curt response from Lee.</span></p>
 
 <p><span class="chinese">他只简短地哼了声“去吧。</span><span class="english">He grunted a curt 'Go by.</span></p>

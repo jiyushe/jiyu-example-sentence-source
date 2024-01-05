@@ -1,5 +1,7 @@
 # 摸底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/modi.md)
+
 <p><span class="chinese">恐怕你也不摸底。</span><span class="english">I'm afraid you haven't a very clear idea either.</span></p>
 
 <p><span class="chinese">“摸底”的几种译法这次我们摸了一下美国军队的底。</span><span class="english">This time we have taken measure of the U. S. armed forces.</span></p>

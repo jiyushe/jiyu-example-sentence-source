@@ -1,5 +1,7 @@
 # bullring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullring.md)
+
 <p><span class="chinese">在接收端那些退出了血腥的斗牛场。</span><span class="english">Those on the receiving end exited the bloody bullring.</span></p>
 
 <p><span class="chinese">一部分队伍在该城的斗牛场“建筑”人塔，其他队伍则在街道上叠人塔。</span><span class="english">Some of the towers were built in the city's bullring. Others were constructed in the streets.</span></p>

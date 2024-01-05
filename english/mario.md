@@ -1,5 +1,7 @@
 # mario
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mario.md)
+
 <p><span class="chinese">马力欧的进化史！</span><span class="english">The Evolution of Mario !</span></p>
 
 <p><span class="chinese">我与克里斯马里奥克鲁斯里特。</span><span class="english">I'm Mario Ritter with Chris Cruise.</span></p>

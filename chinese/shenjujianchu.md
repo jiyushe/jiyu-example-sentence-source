@@ -1,5 +1,7 @@
 # 深居简出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjujianchu.md)
+
 <p><span class="chinese">这位大名鼎鼎的演员现在深居简出了。</span><span class="english">The famous actor now lives in seclusion.</span></p>
 
 <p><span class="chinese">她在大多数时候深居简出，包在纱布里或闭门独处。</span><span class="english">She's invisible much of the time, bandaged or in seclusion.</span></p>

@@ -1,5 +1,7 @@
 # vanquish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vanquish.md)
+
 <p><span class="chinese">你必须克服你的恐惧心理。</span><span class="english">You must vanquish your fears.</span></p>
 
 <p><span class="chinese">他努力克服恐惧心理。</span><span class="english">He tried to vanquish his fears.</span></p>

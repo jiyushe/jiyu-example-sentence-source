@@ -1,5 +1,7 @@
 # rabbet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rabbet.md)
+
 <p><span class="chinese">木材机加工刀具。榫口加工刀具。尺寸。</span><span class="english">Mechanical tooling for wood . cutters for rabbet . dimensions.</span></p>
 
 <p><span class="chinese">前后优质玻璃，嵌件组成传动机构，清洗方便。</span><span class="english">Front and back good glasses, rabbet joint moving system, easy cleaning.</span></p>

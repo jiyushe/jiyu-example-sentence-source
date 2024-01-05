@@ -1,5 +1,7 @@
 # 枪支
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangzhi_2.md)
+
 <p><span class="chinese">枪支爱好者现在十分庆幸。</span><span class="english">Gun-lovers are guardedly jubilant.</span></p>
 
 <p><span class="chinese">一名男子发疯似的用各种枪支乱射。</span><span class="english">A man went berserk with an arsenal of guns.</span></p>

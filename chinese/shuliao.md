@@ -1,5 +1,7 @@
 # 熟料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuliao.md)
+
 <p><span class="chinese">熟料窑滚圈在交变应力的作用下易发生开裂。</span><span class="english">The rolling ring will crack under the alternative-stress.</span></p>
 
 <p><span class="chinese">生料质量的稳定影响着出窑熟料质量。</span><span class="english">Quality stability of raw meal influenced the clinker quality.</span></p>

@@ -1,5 +1,7 @@
 # intercostal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercostal.md)
+
 <p><span class="chinese">肋间神经痛呈阵发性的灼痛或刺痛。</span><span class="english">Intercostal neuralgia causes paroxysmal burning pain or pricking pain.</span></p>
 
 <p><span class="chinese">我的心在第五肋间左锁骨中线5厘米处为你跳动。</span><span class="english">My heart is in the fifth left intercostal clavicle middle5cm beat for you.</span></p>

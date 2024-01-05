@@ -1,5 +1,7 @@
 # agrestic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agrestic.md)
+
 <p><span class="chinese">摘要民间美术是乡土艺术，是一切美术的母体。</span><span class="english">Folk art, an agrestic art, is the mother of all types of art.</span></p>
 
 <p><span class="chinese">自然朴实的格调，显示出悠远的乡土气息。</span><span class="english">The style of natural guileless, show a long time ago agrestic breath.</span></p>

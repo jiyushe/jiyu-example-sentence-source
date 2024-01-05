@@ -1,5 +1,7 @@
 # 营寨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzhai.md)
+
 <p><span class="chinese">鲍立抱着营寨中的一个孩子合影留念。</span><span class="english">Ly Pao holds one of the group's children.</span></p>
 
 <p><span class="chinese">约翰，我看见印第安人营寨里冒出的烟了。</span><span class="english">I say, John, I see the smoke of the redskin camp!</span></p>

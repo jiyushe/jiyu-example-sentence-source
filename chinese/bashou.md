@@ -1,5 +1,7 @@
 # 罢手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bashou.md)
+
 <p><span class="chinese">但金里奇并未因此罢手。</span><span class="english">But Gingrich didn’t stop there.</span></p>
 
 <p><span class="chinese">试验不成功，我们决不罢手。</span><span class="english">Eg. We will never stop until the experiment succeeds.</span></p>

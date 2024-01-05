@@ -1,5 +1,7 @@
 # bummer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bummer.md)
+
 <p><span class="chinese">我知道这是一个无赖。</span><span class="english">I know it is a bummer.</span></p>
 
 <p><span class="chinese">我发现这是一个主要的游手好闲的人。</span><span class="english">I found this to be a major bummer.</span></p>

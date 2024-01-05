@@ -1,5 +1,7 @@
 # audiovisual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audiovisual.md)
+
 <p><span class="chinese">音像遗产从本质上说是脆弱易损的。</span><span class="english">Audiovisual heritage is by nature fragile.</span></p>
 
 <p><span class="chinese">缅甸的印刷媒体和视听媒体均受政府监控。</span><span class="english">Censorship of printed and audiovisual media.</span></p>

@@ -1,5 +1,7 @@
 # 养家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangjia.md)
+
 <p><span class="chinese">我们也得挣钱养家。</span><span class="english">We have to earn our bread.</span></p>
 
 <p><span class="chinese">“He”是指Kat的老爸，一个在硅谷工作的IT人，是Kat家的“breadwinner”，即是赚钱养家的人。</span><span class="english">He was breadwinner of the family.</span></p>

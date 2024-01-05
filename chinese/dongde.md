@@ -1,5 +1,7 @@
 # 懂得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongde.md)
+
 <p><span class="chinese">伱懂得他是的哪个谁嘛？？</span><span class="english">Do you know who he is?</span></p>
 
 <p><span class="chinese">你们懂得-我很纳闷？</span><span class="english">Good programming style?</span></p>

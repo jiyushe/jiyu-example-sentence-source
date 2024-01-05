@@ -1,5 +1,7 @@
 # neritic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neritic.md)
+
 <p><span class="chinese">有孔虫类显示了外围浅海的古代水深。</span><span class="english">Foraminifera indicate an outer neritic paleobathymetric setting.</span></p>
 
 <p><span class="chinese">摘要桩海地区位于济阳坳陷渤海湾南部极浅海地区。</span><span class="english">Zhuanghai district is located in the south of neritic area in Bohai gulf.</span></p>

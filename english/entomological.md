@@ -1,5 +1,7 @@
 # entomological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entomological.md)
+
 <p><span class="chinese">这是皇家昆虫学会的网站。</span><span class="english">This is the website of Royal Entomological Society.</span></p>
 
 <p><span class="chinese">这是加拿大昆虫学会的网站。</span><span class="english">This is the website of Entomological Society of Canada.</span></p>

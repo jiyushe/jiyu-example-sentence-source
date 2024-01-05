@@ -1,5 +1,7 @@
 # germen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germen.md)
+
 <p><span class="chinese">索菲亚，这是汉斯，他是德国人。</span><span class="english">Sophy , this is Hans, he is Germen.</span></p>
 
 <p><span class="chinese">我们是法国人，他们是德国人。</span><span class="english">We are Frenchmen, and they are Germen.</span></p>

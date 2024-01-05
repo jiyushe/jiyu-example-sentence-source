@@ -1,5 +1,7 @@
 # 物欲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyu_3.md)
+
 <p><span class="chinese">停止物欲增长，保持简朴。</span><span class="english">Stop expanding and keep it simple.</span></p>
 
 <p><span class="chinese">但伊斯特林的论证却指出人类的物欲永无止境。</span><span class="english">But Easterlin's evidence points to the persistence of materialism.</span></p>

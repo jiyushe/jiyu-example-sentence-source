@@ -1,5 +1,7 @@
 # synthetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synthetical.md)
+
 <p><span class="chinese">本文介绍苹果渣综合利用。</span><span class="english">The paper is introducing synthetical use of pomace.</span></p>
 
 <p><span class="chinese">综合验光仪验先并用同视机法测定视功能。</span><span class="english">To examine visual function with synthetical optometry and synoptophore.</span></p>

@@ -1,5 +1,7 @@
 # gangway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gangway.md)
+
 <p><span class="chinese">说完那青年人就向舷门那儿迎过去了。</span><span class="english">And the young man went to the gangway.</span></p>
 
 <p><span class="chinese">请把舷梯降低一点。</span><span class="english">Please lower the gangway a little bit.</span></p>

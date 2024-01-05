@@ -1,5 +1,7 @@
 # positron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/positron.md)
+
 <p><span class="chinese">这样也就有了电子和正电子的阴影。</span><span class="english">This creates, as it were, electron and positron shadows.</span></p>
 
 <p><span class="chinese">这将产生电子和正电子的阴影带，正如月亮阴影带本身。</span><span class="english">This creates, as it were, electron and positron shadows.</span></p>

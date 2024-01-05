@@ -1,5 +1,7 @@
 # 交友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyou.md)
+
 <p><span class="chinese">试试看交友网站。</span><span class="english">Try personals sites.</span></p>
 
 <p><span class="chinese">猪狗交友，与人何干？</span><span class="english">Pig dog makes friends, with people?</span></p>

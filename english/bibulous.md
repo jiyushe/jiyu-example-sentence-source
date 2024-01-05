@@ -1,5 +1,7 @@
 # bibulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bibulous.md)
+
 <p><span class="chinese">又被偷酒的花蚊咬破。</span><span class="english">To be bitten and broken by bibulous mosquitoes.</span></p>
 
 <p><span class="chinese">因此，要选择吸水率小的绝热材料。</span><span class="english">Therefore, to choose bibulous rate small insulation materials.</span></p>

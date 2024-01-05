@@ -1,5 +1,7 @@
 # collapse 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collapse.md)
+
 <p><span class="chinese">它们确实喜欢崩溃。</span><span class="english">They do like to collapse.</span></p>
 
 <p><span class="chinese">但调整不代表着崩溃。</span><span class="english">But adjustment is not collapse.</span></p>

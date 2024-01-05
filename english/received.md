@@ -1,5 +1,7 @@
 # received
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/received.md)
+
 <p><span class="chinese">所收到的基准。</span><span class="english">ARB As Received Basis.</span></p>
 
 <p><span class="chinese">谁收到了我的电子贺卡？</span><span class="english">Who received my e-card?</span></p>

@@ -1,5 +1,7 @@
 # haply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haply.md)
+
 <p><span class="chinese">或许我会记得。</span><span class="english">Haply I remember.</span></p>
 
 <p><span class="chinese">或许我早已遗忘。</span><span class="english">And haply may forget.</span></p>

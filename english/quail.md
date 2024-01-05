@@ -1,5 +1,7 @@
 # quail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quail.md)
+
 <p><span class="chinese">卖鹌鹑蛋的。</span><span class="english">Quail egg lady.</span></p>
 
 <p><span class="chinese">那只狗于鹌鹑惊起。</span><span class="english">The dog flushed a quail.</span></p>

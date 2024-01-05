@@ -1,5 +1,7 @@
 # 下层
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaceng.md)
+
 <p><span class="chinese">他卖地毯给社会下层的人。</span><span class="english">He sold carpets to underclassmen.</span></p>
 
 <p><span class="chinese">只要有下层阶级，我就同俦。</span><span class="english">While there is a lower class I an in it.</span></p>

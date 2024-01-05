@@ -1,5 +1,7 @@
 # 特约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teyue.md)
+
 <p><span class="chinese">特约底部正在安装。</span><span class="english">Bottom stringers being installed.</span></p>
 
 <p><span class="chinese">并与15家航空公司定有特约运价。</span><span class="english">And 15 airlines will have special tariffs.</span></p>

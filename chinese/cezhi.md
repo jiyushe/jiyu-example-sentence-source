@@ -1,5 +1,7 @@
 # 侧枝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cezhi.md)
+
 <p><span class="chinese">他将侧枝掐掉。</span><span class="english">He pinched out the side shoots.</span></p>
 
 <p><span class="chinese">狒狒会折断侧枝和顶梢。</span><span class="english">Baboons could break branches and leaders.</span></p>

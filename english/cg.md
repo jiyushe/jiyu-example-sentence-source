@@ -1,5 +1,7 @@
 # cg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cg.md)
+
 <p><span class="chinese">管理团队风险，就如近期的CG问题。</span><span class="english">Mgmt team risk, ie short track record, CG issue.</span></p>
 
 <p><span class="chinese">对照组与AD模型组则给予等量的生理盐水灌胃。</span><span class="english">CG and ADG gave the same dose of Sodium Chloride.</span></p>

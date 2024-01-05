@@ -1,5 +1,7 @@
 # 盼头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pantou.md)
+
 <p><span class="chinese">谢谢楼主告知！这回有个盼头了！</span><span class="english">Thank you, God. I love you, Mom and Dad.</span></p>
 
 <p><span class="chinese">没有盼头是日子是苍白不可想象的。</span><span class="english">A day without hope would be unimaginably pale.</span></p>

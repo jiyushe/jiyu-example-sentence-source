@@ -1,5 +1,7 @@
 # oxytetracycline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxytetracycline.md)
+
 <p><span class="chinese">土霉素对炭疽杆菌是有效的。</span><span class="english">Oxytetracycline is effective against b anthracis.</span></p>
 
 <p><span class="chinese">美中不足包含在一个多粘菌素B和石油基地土霉素。</span><span class="english">The ointment contains polymixin B and oxytetracycline in a petroleum base.</span></p>

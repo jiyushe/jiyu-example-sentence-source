@@ -1,5 +1,7 @@
 # airworthiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airworthiness.md)
+
 <p><span class="chinese">机舱空气质量被视为适航条件之一…。</span><span class="english">Cabin air quality seen as airworthiness issue.</span></p>
 
 <p><span class="chinese">有关适航性的警告性备忘录。</span><span class="english">An advisory memorandum regarding airworthiness.</span></p>

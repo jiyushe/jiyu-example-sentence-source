@@ -1,5 +1,7 @@
 # homomorphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homomorphic.md)
+
 <p><span class="chinese">提出一种新的用于压缩散斑噪声的同态滤波算法。</span><span class="english">In this paper, a new homomorphic filtering algorithm is proposed.</span></p>
 
 <p><span class="chinese">同态技术在红外图像处理中的应用。</span><span class="english">Application of Homomorphic technology in infrared imagines processing.</span></p>

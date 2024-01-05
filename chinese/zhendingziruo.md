@@ -1,5 +1,7 @@
 # 镇定自若
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhendingziruo.md)
+
 <p><span class="chinese">她镇定自若，心平气和且很友好。</span><span class="english">She was very calm, quiet and friendly.</span></p>
 
 <p><span class="chinese">尽管面对危险，他仍然镇定自若。</span><span class="english">Faced with danger, he still remained calm.</span></p>

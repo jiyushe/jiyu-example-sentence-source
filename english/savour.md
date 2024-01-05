@@ -1,5 +1,7 @@
 # savour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savour.md)
+
 <p><span class="chinese">触摸我，相信我，为每一次美妙的感觉而悸动</span><span class="english">Touch me, trust me savour each sensation!</span></p>
 
 <p><span class="chinese">体会早期电视先锋们的过失。</span><span class="english">Savour the stupidities of earlier TV pioneers.</span></p>

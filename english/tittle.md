@@ -1,5 +1,7 @@
 # tittle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tittle.md)
+
 <p><span class="chinese">我忘记电影名字了。</span><span class="english">I forgot the tittle of the film.</span></p>
 
 <p><span class="chinese">在最后我只想对你说我这篇文章的标题。</span><span class="english">I wanna say in last that the tittle of this article.</span></p>

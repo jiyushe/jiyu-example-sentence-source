@@ -1,5 +1,7 @@
 # weedy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weedy.md)
+
 <p><span class="chinese">他是一个瘦瘦、细长身材的青年人。</span><span class="english">He is a thin, weedy youth.</span></p>
 
 <p><span class="chinese">伊乐藻属的任何一种水生植物。</span><span class="english">A weedy aquatic plant of genus elodea.</span></p>

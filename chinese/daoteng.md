@@ -1,5 +1,7 @@
 # 倒腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoteng.md)
+
 <p><span class="chinese">目前他正倒腾钢材。</span><span class="english">He buys and sells steel materials.</span></p>
 
 <p><span class="chinese">那会儿，她在华盛顿州的一个小郊县倒腾私酒。</span><span class="english">She was a bootlegger in a little county up in the state of Washington.</span></p>

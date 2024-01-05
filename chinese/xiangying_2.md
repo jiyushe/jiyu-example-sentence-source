@@ -1,5 +1,7 @@
 # 相映
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangying_2.md)
+
 <p><span class="chinese">自然与人文相映，湖光与山色齐名！</span><span class="english">Natural and human form, scenery of lake and mountain combine!</span></p>
 
 <p><span class="chinese">细观其与日相映，则知其明处乃一面，暗处又一面。</span><span class="english">One side may be facing the sun and is bright, while the other is dark.</span></p>

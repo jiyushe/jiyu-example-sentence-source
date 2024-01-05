@@ -1,5 +1,7 @@
 # shrewdly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrewdly.md)
+
 <p><span class="chinese">纳佐林机灵地看了她一眼。</span><span class="english">Nazorine glanced at her shrewdly.</span></p>
 
 <p><span class="chinese">我当然向他们保证绝不会的，"他机灵地说。</span><span class="english">I'll warrant nothing will,” he said shrewdly.</span></p>

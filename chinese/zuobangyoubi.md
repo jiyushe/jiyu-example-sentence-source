@@ -1,5 +1,7 @@
 # 左膀右臂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuobangyoubi.md)
+
 <p><span class="chinese">现在詹姆斯有了左膀右臂来对抗湖人。</span><span class="english">James comes armed for the Lakers now.</span></p>
 
 <p><span class="chinese">没有一个好部长，我们就觉得好像失去了左膀右臂。</span><span class="english">Without a good minister we feel as if we aremissing our hands.</span></p>

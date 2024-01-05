@@ -1,5 +1,7 @@
 # 上宾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangbin.md)
+
 <p><span class="chinese">我们把他待为上宾。</span><span class="english">We treat him as a distinguished guest.</span></p>
 
 <p><span class="chinese">在中国通常哪个座位是上宾座位呢？</span><span class="english">Which seat is usually the honored seat?</span></p>

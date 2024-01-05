@@ -1,5 +1,7 @@
 # modifiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modifiable.md)
+
 <p><span class="chinese">创建新的可修改状态容器。</span><span class="english">Creates a new modifiable state holder.</span></p>
 
 <p><span class="chinese">用户可以修改预算的数目。</span><span class="english">The budget numbers are user modifiable.</span></p>

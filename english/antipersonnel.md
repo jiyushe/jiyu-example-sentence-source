@@ -1,5 +1,7 @@
 # antipersonnel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antipersonnel.md)
+
 <p><span class="chinese">库存的杀伤人员地雷已有4400万个被销毁了。</span><span class="english">Some 44 million antipersonnel mines have been destroyed from stockpiles.</span></p>
 
 <p><span class="chinese">他的双腿被地雷炸掉，次日便死去了。</span><span class="english">His legs were blown off by an antipersonnel mine, and he died the next day.</span></p>

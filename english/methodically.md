@@ -1,5 +1,7 @@
 # methodically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methodically.md)
+
 <p><span class="chinese">理性的，有条不紊的一个方法。</span><span class="english">A way of thinking rationally and methodically.</span></p>
 
 <p><span class="chinese">他井井有条地整理、弄直了领带，严肃的脸上显示出了决心。</span><span class="english">He methodically straightens his tie, his jaw set in a stern resolution.</span></p>

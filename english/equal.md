@@ -1,5 +1,7 @@
 # equal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equal.md)
+
 <p><span class="chinese">对一切众生，我都平等对待。</span><span class="english">I am equal to all.</span></p>
 
 <p><span class="chinese">恋爱不分贵贱。</span><span class="english">Love makes all equal.</span></p>

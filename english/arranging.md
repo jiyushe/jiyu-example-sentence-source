@@ -1,5 +1,7 @@
 # arranging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arranging.md)
+
 <p><span class="chinese">我们正在整理那些英文书。</span><span class="english">We are arranging those English books.</span></p>
 
 <p><span class="chinese">为什么不试试插花？</span><span class="english">Why don't you try the flower arranging?</span></p>

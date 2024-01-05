@@ -1,5 +1,7 @@
 # 求全责备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuquanzebei.md)
+
 <p><span class="chinese">对一个人不要求全责备。</span><span class="english">He does not demand perfection in one man.</span></p>
 
 <p><span class="chinese">至于使用人的时候，他是求全责备的。</span><span class="english">When he employs a person, he demands perfection.</span></p>

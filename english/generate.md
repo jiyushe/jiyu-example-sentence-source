@@ -1,5 +1,7 @@
 # generate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generate.md)
+
 <p><span class="chinese">您要测试或生成的文件。</span><span class="english">What you test or generate.</span></p>
 
 <p><span class="chinese">应该生成什么列表呢？</span><span class="english">What list should you generate?</span></p>

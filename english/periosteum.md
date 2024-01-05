@@ -1,5 +1,7 @@
 # periosteum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periosteum.md)
+
 <p><span class="chinese">新生骨质同骨膜结合紧密。</span><span class="english">Thenew–bone combine with periosteum closely.</span></p>
 
 <p><span class="chinese">手术切口小不易发现，一律采用骨膜下法。</span><span class="english">Difficult to find a small incision, all with periosteum dismount.</span></p>

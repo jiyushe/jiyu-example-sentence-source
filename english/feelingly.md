@@ -1,5 +1,7 @@
 # feelingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feelingly.md)
+
 <p><span class="chinese">玲珑焱平凡的孩子，喜欢追逐美好并将它定格在感动的瞬间。</span><span class="english">Linglong Yan, an ordinary child, likes chase nicety and fix it in the feelingly moment.</span></p>
 
 <p><span class="chinese">我通过狭小的门缝惊讶的看着他充满感情地向茹阿达和奎师那祈祷。</span><span class="english">I watched in amazement through a slightly opened door as he prayed feelingly to Radha and Krsna.</span></p>

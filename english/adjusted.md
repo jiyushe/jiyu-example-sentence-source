@@ -1,5 +1,7 @@
 # adjusted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjusted.md)
+
 <p><span class="chinese">还有调整后利润</span><span class="english">Adjusted earnings.</span></p>
 
 <p><span class="chinese">索赔金额正在理算中。</span><span class="english">The claim is being adjusted.</span></p>

@@ -1,5 +1,7 @@
 # zimbabwean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zimbabwean.md)
+
 <p><span class="chinese">三位记者都是辛巴威的公民。</span><span class="english">All three are Zimbabwean citizens.</span></p>
 
 <p><span class="chinese">这名年轻的津巴布韦移民没有上学的机会。</span><span class="english">This young Zimbabwean migrant does not have the means to attend school.</span></p>

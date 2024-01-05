@@ -1,5 +1,7 @@
 # 天子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzi.md)
+
 <p><span class="chinese">也许你会找到你的真命天子呢。</span><span class="english">Maybe you can find your Mr. Right.</span></p>
 
 <p><span class="chinese">你遇到的就是你的真命天子。</span><span class="english">You've just met that special person.</span></p>

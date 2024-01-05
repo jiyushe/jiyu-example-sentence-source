@@ -1,5 +1,7 @@
 # 闭关自守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biguanzishou.md)
+
 <p><span class="chinese">一个国家不能闭关自守。</span><span class="english">A nation can't live isolated.</span></p>
 
 <p><span class="chinese">闭关自守的政策不能引导国家走向繁荣。</span><span class="english">The close-door policy couldn't steer a country to prosperity.</span></p>

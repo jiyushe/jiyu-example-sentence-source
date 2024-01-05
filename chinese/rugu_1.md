@@ -1,5 +1,7 @@
 # 入骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rugu_1.md)
+
 <p><span class="chinese">这老婆娘对我恨这入骨。</span><span class="english">The old girl hates my guts.</span></p>
 
 <p><span class="chinese">你恨那老小子入骨，对吧？</span><span class="english">Hated the old fellow, did you?</span></p>

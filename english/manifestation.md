@@ -1,5 +1,7 @@
 # manifestation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manifestation.md)
+
 <p><span class="chinese">发烧是感冒的一种表现形式。</span><span class="english">Fever is one manifestation of cold.</span></p>
 
 <p><span class="chinese">发烧是受凉的一种表现。</span><span class="english">Fever is one manifestation of a cold.</span></p>

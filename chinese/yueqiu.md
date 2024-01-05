@@ -1,5 +1,7 @@
 # 月球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueqiu.md)
+
 <p><span class="chinese">再见了，月球！</span><span class="english">Bye bye Moon!</span></p>
 
 <p><span class="chinese">月球上真有生命吗？</span><span class="english">Life on the Moon?</span></p>

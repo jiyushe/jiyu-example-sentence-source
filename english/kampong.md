@@ -1,5 +1,7 @@
 # kampong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kampong.md)
+
 <p><span class="chinese">在途中，您将通过典型的马来的房子。</span><span class="english">This is one of the typical malay kampong house.</span></p>
 
 <p><span class="chinese">抵达后，体验富有当地部落风俗的早餐。</span><span class="english">Upon arrival you will have the local kampong style breakfast.</span></p>

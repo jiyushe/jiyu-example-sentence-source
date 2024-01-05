@@ -1,5 +1,7 @@
 # sword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sword.md)
+
 <p><span class="chinese">锻造钢剑？</span><span class="english">Sword forging?</span></p>
 
 <p><span class="chinese">收起你的剑。</span><span class="english">Put up your sword.</span></p>

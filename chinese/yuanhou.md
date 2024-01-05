@@ -1,5 +1,7 @@
 # 猿猴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanhou.md)
+
 <p><span class="chinese">猿猴也会笑。</span><span class="english">Apes laugh.</span></p>
 
 <p><span class="chinese">人起源于猿猴。</span><span class="english">Men descended from apes.</span></p>

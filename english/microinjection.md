@@ -1,5 +1,7 @@
 # microinjection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microinjection.md)
+
 <p><span class="chinese">目前原核注射工作仍在紧张进行中。</span><span class="english">The microinjection work is still going on.</span></p>
 
 <p><span class="chinese">注射法是当今构建转基因动物模型的主要方法。</span><span class="english">Microinjection is a key method to animal gene transfer.</span></p>

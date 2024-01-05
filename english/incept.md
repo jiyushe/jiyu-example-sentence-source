@@ -1,5 +1,7 @@
 # incept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incept.md)
+
 <p><span class="chinese">经实验表明，该系统能成功地发射和接收信号。</span><span class="english">As we test, this system could transmit and incept signals successfully.</span></p>
 
 <p><span class="chinese">更多端软件，包括视频接收、视频解码和视频播放程序。</span><span class="english">And the Client software is designed , which contains video incept , video decode and video play.</span></p>

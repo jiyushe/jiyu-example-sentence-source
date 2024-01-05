@@ -1,5 +1,7 @@
 # obstetrician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obstetrician.md)
+
 <p><span class="chinese">纰佑•欧康医生是乌干达的产科医生。</span><span class="english">Okong is an obstetrician from Uganda.</span></p>
 
 <p><span class="chinese">产科医生替这个孩子接生。</span><span class="english">The obstetrician delivered the child.</span></p>

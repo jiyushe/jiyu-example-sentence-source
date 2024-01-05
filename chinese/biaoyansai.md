@@ -1,5 +1,7 @@
 # 表演赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoyansai.md)
+
 <p><span class="chinese">同时关颖珊继续参加各种花样滑冰表演赛。</span><span class="english">Kwan continues to perform in skating exhibitions.</span></p>
 
 <p><span class="chinese">尽管如此，很多运动员还是为能进入北京奥运会武术表演赛而兴奋不已。</span><span class="english">Still, some are happy to make it to the Beijing Olympics.</span></p>

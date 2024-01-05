@@ -1,5 +1,7 @@
 # 恋旧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianjiu.md)
+
 <p><span class="chinese">你说，我是一个恋旧的人，今天，就让我深深的怀恋一次。</span><span class="english">You say, I am a nostalgia person, today, let me once a deep nostalgia.</span></p>
 
 <p><span class="chinese">怀旧人老恋旧事，喜欢追忆过去的美好时光。</span><span class="english">Nostalgia nostalgic old people things, like recalling the good old days.</span></p>

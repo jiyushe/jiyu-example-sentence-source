@@ -1,5 +1,7 @@
 # 声名鹊起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengmingqueqi.md)
+
 <p><span class="chinese">弗里德里克·布兰德博士有几个让他声名鹊起的名言。</span><span class="english">Dr Frederic Brandt has several claims to fame.</span></p>
 
 <p><span class="chinese">这本书讲述她的声名鹊起而成为一位女演员。</span><span class="english">This book charts her rise to fame as an actress.</span></p>

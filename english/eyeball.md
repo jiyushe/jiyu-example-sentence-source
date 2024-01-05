@@ -1,5 +1,7 @@
 # eyeball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyeball.md)
+
 <p><span class="chinese">虎纹蛙眼球呈圆球形。</span><span class="english">The eyeball is of sphere.</span></p>
 
 <p><span class="chinese">和一盆有趣的眼珠子花。</span><span class="english">And one interesting eyeball plant.</span></p>

@@ -1,5 +1,7 @@
 # participatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/participatory.md)
+
 <p><span class="chinese">参与式方法也更具挑战性。</span><span class="english">Participatory approaches are also more challenging.</span></p>
 
 <p><span class="chinese">开源开发是一个参与式的活动。</span><span class="english">Open source development is a participatory activity.</span></p>

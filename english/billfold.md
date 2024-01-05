@@ -1,5 +1,7 @@
 # billfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billfold.md)
+
 <p><span class="chinese">我忘了我将皮包放在什么地方。</span><span class="english">I do not remember where I put my billfold.</span></p>
 
 <p><span class="chinese">皮夹子有什么特征?。</span><span class="english">Any distinguishing feature about the billfold?</span></p>

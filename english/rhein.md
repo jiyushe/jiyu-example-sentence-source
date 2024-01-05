@@ -1,5 +1,7 @@
 # rhein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhein.md)
+
 <p><span class="chinese">HPLC法可测定出大黄酸的含量。</span><span class="english">The content of rhein could be determined by HPLC.</span></p>
 
 <p><span class="chinese">目的研究大黄酸衍生物RH-01对鼻咽癌KB细胞的抑制作用。</span><span class="english">Objective To study the effects of rhein derivative RH-01 on KB cells.</span></p>

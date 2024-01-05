@@ -1,5 +1,7 @@
 # 严肃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yansu.md)
+
 <p><span class="chinese">我是比较严肃的。</span><span class="english">I'm being half-serious.</span></p>
 
 <p><span class="chinese">他摆出一副严肃的面孔。</span><span class="english">He put on a serious look.</span></p>

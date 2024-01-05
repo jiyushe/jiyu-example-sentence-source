@@ -1,5 +1,7 @@
 # bankbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bankbook.md)
+
 <p><span class="chinese">请把您的存折给我。</span><span class="english">Pass me your bankbook please.</span></p>
 
 <p><span class="chinese">我可以看一看你的银行存折吗？</span><span class="english">May I have a look at your bankbook ?</span></p>

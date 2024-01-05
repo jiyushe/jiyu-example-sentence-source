@@ -1,5 +1,7 @@
 # 半空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bankong.md)
+
 <p><span class="chinese">半空就是半满。</span><span class="english">Half empty is half full.</span></p>
 
 <p><span class="chinese">说它半满还是半空好？</span><span class="english">Half empty or half full?</span></p>

@@ -1,5 +1,7 @@
 # atheromatous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atheromatous.md)
+
 <p><span class="chinese">在粥样斑块中看到的针状空隙即为胆固醇结晶。</span><span class="english">The open, needle-like aces in the atheromatous plaque are cholesterol clefts.</span></p>
 
 <p><span class="chinese">在粥样斑块中看到的针状空隙即为胆固醇结晶。</span><span class="english">The open, needle-like spaces in the atheromatous plaque are cholesterol clefts.</span></p>

@@ -1,5 +1,7 @@
 # lanky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lanky.md)
+
 <p><span class="chinese">兰基。劳伦斯失去了他的情妇和龙虾。</span><span class="english">Lanky Lawrence lost his lass and lobster.</span></p>
 
 <p><span class="chinese">汤姆是一个腿很细的瘦高个儿。</span><span class="english">Tom was a lanky boy with long skinny legs.</span></p>

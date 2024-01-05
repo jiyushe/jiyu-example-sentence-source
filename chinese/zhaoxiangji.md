@@ -1,5 +1,7 @@
 # 照相机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoxiangji.md)
+
 <p><span class="chinese">租一架照相机倒也不坏。</span><span class="english">That's not a bad idea.</span></p>
 
 <p><span class="chinese">你需要更大的照相机。</span><span class="english">You need a bigger camera.</span></p>

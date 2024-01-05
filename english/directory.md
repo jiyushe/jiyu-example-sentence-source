@@ -1,5 +1,7 @@
 # directory 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/directory.md)
+
 <p><span class="chinese">我位于什么目录内？</span><span class="english">What directory am I in?</span></p>
 
 <p><span class="chinese">拥有自己的主目录。</span><span class="english">Have their home directory.</span></p>

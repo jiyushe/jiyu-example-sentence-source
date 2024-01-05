@@ -1,5 +1,7 @@
 # constance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constance.md)
+
 <p><span class="chinese">她多少还有点挂念康斯坦斯。</span><span class="english">She was somewhat concerned about Constance.</span></p>
 
 <p><span class="chinese">好，那以后我就叫你康斯坦斯。</span><span class="english">Okay, I'm gonna call you Constance from now on.</span></p>

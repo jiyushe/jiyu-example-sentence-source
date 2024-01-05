@@ -1,5 +1,7 @@
 # 引狼入室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinlangrushi.md)
+
 <p><span class="chinese">凯文一家真是引狼入室了。</span><span class="english">The Kevin's do lead the wolf into the house.</span></p>
 
 <p><span class="chinese">向他寻求帮助就是引狼入室。</span><span class="english">Asking for his help means setting the wolf the keep the sheep.</span></p>

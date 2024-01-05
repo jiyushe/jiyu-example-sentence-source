@@ -1,5 +1,7 @@
 # 涵义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanyi_1.md)
+
 <p><span class="chinese">法律合同的涵义。</span><span class="english">Implications for contract law.</span></p>
 
 <p><span class="chinese">我懂得束发带的全部涵义。</span><span class="english">I know the full value of the snood.</span></p>

@@ -1,5 +1,7 @@
 # 自行火炮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixinghuopao.md)
+
 <p><span class="chinese">自行火炮发射动力学研究?。</span><span class="english">On Launching Dynamics of Self-Propelled Cannons?</span></p>
 
 <p><span class="chinese">在西里西亚我们看到的坦克和自行火炮一样多。</span><span class="english">We saw equal quantities of tanks and SPG's in Silesia.</span></p>

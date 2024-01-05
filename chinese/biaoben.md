@@ -1,5 +1,7 @@
 # 标本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoben.md)
+
 <p><span class="chinese">这些都是鱼的标本。</span><span class="english">All these are fish specimen.</span></p>
 
 <p><span class="chinese">它们是标本来的，大型的，</span><span class="english">That are stuffed, you know, huge,</span></p>

@@ -1,5 +1,7 @@
 # 图文并茂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuwenbingmao.md)
+
 <p><span class="chinese">没错，你的出柜将会是图文并茂了！</span><span class="english">Your coming-out is about to get real graphic!</span></p>
 
 <p><span class="chinese">这是一本图文并茂的童话绘本有声书。</span><span class="english">This is an illustrated audio book for children.</span></p>

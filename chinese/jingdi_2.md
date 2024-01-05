@@ -1,5 +1,7 @@
 # 境地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdi_2.md)
+
 <p><span class="chinese">公司处于极度困难的境地。</span><span class="english">The company is in dire straits.</span></p>
 
 <p><span class="chinese">汽球落于波兰境地。</span><span class="english">The balloon descended in Poland.</span></p>

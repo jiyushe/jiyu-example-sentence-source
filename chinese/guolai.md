@@ -1,5 +1,7 @@
 # 过来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guolai.md)
+
 <p><span class="chinese">他醒过来，冻僵了。</span><span class="english">He woke.</span></p>
 
 <p><span class="chinese">谁送过来的？</span><span class="english">Who send it?</span></p>

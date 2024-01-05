@@ -1,5 +1,7 @@
 # 救星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuxing_1.md)
+
 <p><span class="chinese">谁是世界的救星？</span><span class="english">The Saviour of the world?</span></p>
 
 <p><span class="chinese">“海洋的救星”？</span><span class="english">"The Saviours of the Sea"?</span></p>

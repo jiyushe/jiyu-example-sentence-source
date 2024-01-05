@@ -1,5 +1,7 @@
 # cribbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cribbing.md)
+
 <p><span class="chinese">根本没有剽窃米歇尔的演讲。</span><span class="english">There's no cribbing of Michelle Obama's speech.</span></p>
 
 <p><span class="chinese">说她剽窃米歇尔的用词简单是疯了。</span><span class="english">To think that she'd be cribbing Michelle Obama's words is crazy.</span></p>

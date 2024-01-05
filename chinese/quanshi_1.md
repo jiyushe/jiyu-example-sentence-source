@@ -1,5 +1,7 @@
 # 拳师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanshi_1.md)
+
 <p><span class="chinese">我相信他会成为一名身手不凡的拳师。</span><span class="english">I'm sure he'll make a master boxer.</span></p>
 
 <p><span class="chinese">我相信他会成为一名身手不凡的拳师。</span><span class="english">I' m sure he' ll make a master boxer.</span></p>

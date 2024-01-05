@@ -1,5 +1,7 @@
 # palatine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palatine.md)
+
 <p><span class="chinese">目前我与丈夫托贝住在巴拉丁。</span><span class="english">I live in Palatine with my husband, Tobey.</span></p>
 
 <p><span class="chinese">口咽含有上颚扁桃腺。</span><span class="english">The oropharynx contains the palatine tonsils.</span></p>

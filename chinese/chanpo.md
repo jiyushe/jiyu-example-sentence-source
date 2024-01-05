@@ -1,5 +1,7 @@
 # 产婆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanpo.md)
+
 <p><span class="chinese">一位产婆监督了孩子的生产过程。</span><span class="english">A midwife supervised the delivery of the child.</span></p>
 
 <p><span class="chinese">他的实验由一种被称为产婆蟾的蟾蜍完成。</span><span class="english">His experiment involved a species of toad called the Midwife Toad.</span></p>

@@ -1,5 +1,7 @@
 # 酸辣汤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanlatang.md)
+
 <p><span class="chinese">我很觉得这个酸辣汤。</span><span class="english">I really like this sweet and sour soup.</span></p>
 
 <p><span class="chinese">我们来份川味酸辣汤吧。</span><span class="english">We'll take the Sichuan hot and sour soup.</span></p>

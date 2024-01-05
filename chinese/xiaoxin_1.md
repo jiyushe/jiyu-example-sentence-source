@@ -1,5 +1,7 @@
 # 小心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxin_1.md)
+
 <p><span class="chinese">小心火烛。</span><span class="english">Beware of fire.</span></p>
 
 <p><span class="chinese">刮面要小心。</span><span class="english">Shave carefully.</span></p>

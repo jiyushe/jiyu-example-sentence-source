@@ -1,5 +1,7 @@
 # humming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humming.md)
+
 <p><span class="chinese">别再哼那首歌了！</span><span class="english">Stop humming that song!</span></p>
 
 <p><span class="chinese">他停止哼歌，说，“为什么？</span><span class="english">He stopped humming. “Why?</span></p>

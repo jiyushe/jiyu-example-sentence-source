@@ -1,5 +1,7 @@
 # 文蛤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenge.md)
+
 <p><span class="chinese">文蛤放养前要做好哪些准备工作？</span><span class="english">What to do before stocking clams preparations?</span></p>
 
 <p><span class="chinese">这些海产包括牡蛎，文蛤，贻贝和蛾螺。</span><span class="english">These include oysters, clams, mussels and whelks.</span></p>

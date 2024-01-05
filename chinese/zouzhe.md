@@ -1,5 +1,7 @@
 # 奏折
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouzhe.md)
+
 <p><span class="chinese">因而即便是写奏折，古人也尽可能地写得文采斐然。</span><span class="english">Therefore, even in writing a memorial, the ancients tried to make it rich and bright.</span></p>
 
 <p><span class="chinese">也就是说，清廷对林则徐的奏折尚未作出反应。</span><span class="english">Is also say, Manchu Court to wood then slowly of the memorial haven't made a reaction.</span></p>

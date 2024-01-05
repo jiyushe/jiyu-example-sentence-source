@@ -1,5 +1,7 @@
 # choreography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choreography.md)
+
 <p><span class="chinese">的确，这次罢工似乎蓄谋已久。</span><span class="english">Indeed, there was almost an element of choreography in the strike.</span></p>
 
 <p><span class="chinese">自由体操的常规动作是伴随着音乐进行的。</span><span class="english">The floor exercise routines are performed to music with choreography.</span></p>

@@ -1,5 +1,7 @@
 # mimetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mimetic.md)
+
 <p><span class="chinese">他有模仿能力。</span><span class="english">He has mimetic ability.</span></p>
 
 <p><span class="chinese">这事模仿行为的产物。</span><span class="english">This is a product of mimetic conduct.</span></p>

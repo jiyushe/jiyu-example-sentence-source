@@ -1,5 +1,7 @@
 # 生业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengye.md)
+
 <p><span class="chinese">在他13年的生业生涯里，12次参加全明星赛。</span><span class="english">He was selected to 12 Bll Star teams in his 13-year career.</span></p>
 
 <p><span class="chinese">失业后我一直以修理汽车为主要生业。</span><span class="english">I have earned my living by fixing cars since I lost my job.</span></p>

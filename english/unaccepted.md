@@ -1,5 +1,7 @@
 # unaccepted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaccepted.md)
+
 <p><span class="chinese">未经检验合格的基层不得进行施工。</span><span class="english">Unaccepted basic level should not be constructed.</span></p>
 
 <p><span class="chinese">很遗憾，我们的报盘在失效前未被接受。</span><span class="english">We regret to say our offer has lapsed unaccepted.</span></p>

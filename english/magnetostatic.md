@@ -1,5 +1,7 @@
 # magnetostatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetostatic.md)
+
 <p><span class="chinese">并绘出了一个非线性的平衡位形。</span><span class="english">A configuration of nonlinear magnetostatic equilibrium is plotted in Fig.</span></p>
 
 <p><span class="chinese">论述了这类复合材料的静磁特性和高频性能。</span><span class="english">Magnetostatic and high-frequency properties were presented for the composites.</span></p>

@@ -1,5 +1,7 @@
 # awoken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awoken.md)
+
 <p><span class="chinese">她被响声弄醒了。</span><span class="english">She was awoken by the noise.</span></p>
 
 <p><span class="chinese">你惊醒了一个沉睡的巨人。</span><span class="english">You have awoken a sleeping giant.</span></p>

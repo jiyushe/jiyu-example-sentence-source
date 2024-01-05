@@ -1,5 +1,7 @@
 # 政客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengke.md)
+
 <p><span class="chinese">他是个精明的政客。</span><span class="english">He is a shrewd politician.</span></p>
 
 <p><span class="chinese">他们是群老奸巨滑的政客。</span><span class="english">They are crafty politicians.</span></p>

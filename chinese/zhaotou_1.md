@@ -1,5 +1,7 @@
 # 找头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaotou_1.md)
+
 <p><span class="chinese">这是找头。</span><span class="english">Here is your change.</span></p>
 
 <p><span class="chinese">这是您的找头，夫人。</span><span class="english">Here's your change, madam.</span></p>

@@ -1,5 +1,7 @@
 # ambitious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambitious.md)
+
 <p><span class="chinese">我们要有远大的抱负。</span><span class="english">We need to be ambitious.</span></p>
 
 <p><span class="chinese">要求有点高了</span><span class="english">That's a little ambitious.</span></p>

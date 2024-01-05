@@ -1,5 +1,7 @@
 # 铜线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxian.md)
+
 <p><span class="chinese">电镀锡铅或焊锡铜线“，”</span><span class="english">Tin-Lead or Solder-Plating Copper Wire.</span></p>
 
 <p><span class="chinese">然后把磁体置于两瓣铜线之间。</span><span class="english">Then place the magnet between both fascias.</span></p>

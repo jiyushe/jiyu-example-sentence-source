@@ -1,5 +1,7 @@
 # 亲生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinsheng.md)
+
 <p><span class="chinese">乔伟就是她的亲生儿子！</span><span class="english">Qiao Wei is her own son!</span></p>
 
 <p><span class="chinese">找一条狗的亲生父母。</span><span class="english">A biological birth parent search.</span></p>

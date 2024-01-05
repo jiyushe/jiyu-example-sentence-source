@@ -1,5 +1,7 @@
 # scoop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scoop.md)
+
 <p><span class="chinese">在密封罐服务勺子。</span><span class="english">Serving scoop enclosed in jar.</span></p>
 
 <p><span class="chinese">用汤匙舀冰激凌。</span><span class="english">Scoop out ice-cream with spoon.</span></p>

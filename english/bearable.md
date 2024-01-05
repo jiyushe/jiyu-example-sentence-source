@@ -1,5 +1,7 @@
 # bearable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bearable.md)
+
 <p><span class="chinese">它可以由习惯成自然。</span><span class="english">It ends by becoming bearable.</span></p>
 
 <p><span class="chinese">说你想要她们把最后一个月忍受下来。</span><span class="english">Say you wanted make their last month bearable.</span></p>

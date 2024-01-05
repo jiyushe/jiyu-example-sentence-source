@@ -1,5 +1,7 @@
 # 天时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianshi.md)
+
 <p><span class="chinese">他朝天时冷冷地笑着。</span><span class="english">He smiled coldly at the angel.</span></p>
 
 <p><span class="chinese">靠噶天时想热善我莫？</span><span class="english">This hot weather would die me?</span></p>

@@ -1,5 +1,7 @@
 # halfway 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halfway.md)
+
 <p><span class="chinese">他的拉锁拉上一半时卡住了。</span><span class="english">Her zipper stuck halfway up.</span></p>
 
 <p><span class="chinese">山的半中腰有一座房子。</span><span class="english">A house is halfway up the hill.</span></p>

@@ -1,5 +1,7 @@
 # 支点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhidian_1.md)
+
 <p><span class="chinese">三个支点缺一不可。</span><span class="english">Three fulcrums lack a can't.</span></p>
 
 <p><span class="chinese">有神失去了支点。</span><span class="english">It draws out the pivot of theism.</span></p>

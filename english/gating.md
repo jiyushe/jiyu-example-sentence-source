@@ -1,5 +1,7 @@
 # gating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gating.md)
+
 <p><span class="chinese">人工地把守进展导致了延迟和等待。</span><span class="english">Artificially gating progress creates delays and wait.</span></p>
 
 <p><span class="chinese">大多数的时间限制涉及到一个玩家闸门机制。</span><span class="english">Most time dependencies involve a player gating mechanism.</span></p>

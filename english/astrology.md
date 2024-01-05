@@ -1,5 +1,7 @@
 # astrology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrology.md)
+
 <p><span class="chinese">我非常相信星相学。</span><span class="english">I believe firmly in astrology.</span></p>
 
 <p><span class="chinese">弗兰克不相信占星术。</span><span class="english">Frank disbelieved in astrology.</span></p>

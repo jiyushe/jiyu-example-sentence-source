@@ -1,5 +1,7 @@
 # colloquial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colloquial.md)
+
 <p><span class="chinese">他研究口语体的英语。</span><span class="english">He studies English colloquial style.</span></p>
 
 <p><span class="chinese">肯，老伙计，说实在的我真佩服你这口语化的腔调。</span><span class="english">Ken, compadre, I admire the colloquial style.</span></p>

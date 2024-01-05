@@ -1,5 +1,7 @@
 # limousine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limousine.md)
+
 <p><span class="chinese">一辆轿车呼地一声把他载走。</span><span class="english">A limousine whirred him away.</span></p>
 
 <p><span class="chinese">我到哪儿可以租一部加长型礼仪车呢?。</span><span class="english">Where can I hire a limousine?</span></p>

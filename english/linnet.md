@@ -1,5 +1,7 @@
 # linnet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linnet.md)
+
 <p><span class="chinese">是我，红雀说。</span><span class="english">I, said the Linnet.</span></p>
 
 <p><span class="chinese">是这红雀飞走无踪！</span><span class="english">And this linnet flew!</span></p>

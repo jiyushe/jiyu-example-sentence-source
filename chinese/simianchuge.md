@@ -1,5 +1,7 @@
 # 四面楚歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/simianchuge.md)
+
 <p><span class="chinese">所以,巴黎人民发现自己四面楚歌</span><span class="english">And, so, in Paris people find themselves surrounded.</span></p>
 
 <p><span class="chinese">投票结果也给四面楚歌的爱尔兰总理布莱恩•考恩解了围。</span><span class="english">The result will also be a boost to Brian Cowen, Ireland's embattled taoiseach.</span></p>

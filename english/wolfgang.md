@@ -1,5 +1,7 @@
 # wolfgang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wolfgang.md)
+
 <p><span class="chinese">德国剧作家、诗人歌德.</span><span class="english">Johann Wolfgang von Goethe, German dramatist and poet</span></p>
 
 <p><span class="chinese">沃尔夫冈·阿玛多伊斯·莫扎特,有着很好的音乐记忆力</span><span class="english">Wolfgang Amadeus Mozart had a very good musical memory.</span></p>

@@ -1,5 +1,7 @@
 # amorite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amorite.md)
+
 <p><span class="chinese">你母亲是赫人，你父亲是亚摩利人。</span><span class="english">Your mother was a Hittite and your father an Amorite.</span></p>
 
 <p><span class="chinese">你们的母亲是赫人，你们的父亲是亚摩利人。</span><span class="english">Your mother was a Hittite and your father was an Amorite.</span></p>

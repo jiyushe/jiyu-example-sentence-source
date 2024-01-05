@@ -1,5 +1,7 @@
 # 统观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongguan_1.md)
+
 <p><span class="chinese">首先统观全文。阅读不熟悉的新材料时，不要一头栽进去。</span><span class="english">When reading new, unfamiliar material, do not plunge directly into it.</span></p>
 
 <p><span class="chinese">统观全局自然能总结出这个事情失败的原因。</span><span class="english">A general review of the situation can lead us to the reason for this failure.</span></p>

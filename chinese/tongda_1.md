@@ -1,5 +1,7 @@
 # 通达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongda_1.md)
+
 <p><span class="chinese">跳舞吧，那扇门会开启，那条路会通达。</span><span class="english">Move, and the way will open.</span></p>
 
 <p><span class="chinese">你需要打小通达给你的状师吗?。</span><span class="english">do you need to call your lawyer?</span></p>

@@ -1,5 +1,7 @@
 # 前脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianjiao.md)
+
 <p><span class="chinese">汤姆教他的小狗举起前脚做乞求状。</span><span class="english">Tom taught his small dog to beg.</span></p>
 
 <p><span class="chinese">后退的步数是按照前脚往后移的次数计算。</span><span class="english">The steps are counted as foreleg moves back.</span></p>

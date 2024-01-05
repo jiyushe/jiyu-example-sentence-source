@@ -1,5 +1,7 @@
 # 轻淡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdan_3.md)
+
 <p><span class="chinese">气味很轻淡，而且这油很光滑，很好用。</span><span class="english">The scent is light and the oil smoothes applies easily.</span></p>
 
 <p><span class="chinese">传给我们听得时候，变成了故事，好像很轻淡的样子。</span><span class="english">We could hear the experience, into a story, seem very light.</span></p>

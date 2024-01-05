@@ -1,5 +1,7 @@
 # topographical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topographical.md)
+
 <p><span class="chinese">等高线就像是这幅图的地形图。</span><span class="english">And then, the contour plot will be the topographical map for this graph.</span></p>
 
 <p><span class="chinese">序列数据显示基因扩增，丢失作为地形学数据。</span><span class="english">The array data displays gene amplification and losses as topographical data.</span></p>

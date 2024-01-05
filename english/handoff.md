@@ -1,5 +1,7 @@
 # handoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handoff.md)
+
 <p><span class="chinese">开发人员之间的代码交接</span><span class="english">handoff of code between developers</span></p>
 
 <p><span class="chinese">开发人员和测试人员间软件的交接</span><span class="english">handoff of software from developer to tester</span></p>

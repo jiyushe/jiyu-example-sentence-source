@@ -1,5 +1,7 @@
 # ferocity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferocity.md)
+
 <p><span class="chinese">她疯狂而凶猛地厮打著。</span><span class="english">She fought with crazed ferocity.</span></p>
 
 <p><span class="chinese">娇虎，你要更凶猛。</span><span class="english">Tigress, you need more ferocity.</span></p>

@@ -1,5 +1,7 @@
 # 拿手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nashou_1.md)
+
 <p><span class="chinese">我跳舞很拿手。</span><span class="english">I'm good at dancing.</span></p>
 
 <p><span class="chinese">那是我最拿手的。</span><span class="english">That's my best line.</span></p>

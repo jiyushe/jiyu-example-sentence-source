@@ -1,5 +1,7 @@
 # scrap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrap.md)
+
 <p><span class="chinese">那些边角碎料呢？</span><span class="english">Those corner scrap it?</span></p>
 
 <p><span class="chinese">把那辆汽车当残品卖了吧。</span><span class="english">Sell that car for scrap.</span></p>

@@ -1,5 +1,7 @@
 # 傻里傻气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shalishaqi.md)
+
 <p><span class="chinese">她总是问傻里傻气的问题。</span><span class="english">He is always asking silly questions.</span></p>
 
 <p><span class="chinese">别傻里傻气了，吉姆，唔，我想大概喜欢吧。</span><span class="english">Ask me another, Jim. Well, I suppose so.</span></p>

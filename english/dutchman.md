@@ -1,5 +1,7 @@
 # dutchman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dutchman.md)
+
 <p><span class="chinese">幽冥飞船的船长？</span><span class="english">The captain of the Flying Dutchman?</span></p>
 
 <p><span class="chinese">这个荷兰人瘫成一团泥，昏了过去。</span><span class="english">The Dutchman just crumpled up and fainted.</span></p>

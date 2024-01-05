@@ -1,5 +1,7 @@
 # bunchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bunchy.md)
+
 <p><span class="chinese">束顶病除了植株间相互感染外，还能通过一种蚜虫传播。</span><span class="english">Bunchy top disease can spread from plant to plant and is also spread by aphids.</span></p>
 
 <p><span class="chinese">束顶病可以使所有的叶片都只在香蕉植株的顶部生长。</span><span class="english">Bunchy top disease causes all of the leaves to grow from the top of the banana plant.</span></p>

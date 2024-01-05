@@ -1,5 +1,7 @@
 # magician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magician.md)
+
 <p><span class="chinese">梅林是个魔林师。</span><span class="english">Merlin is a magician.</span></p>
 
 <p><span class="chinese">魔术师使用骗术。</span><span class="english">A magician uses deception.</span></p>

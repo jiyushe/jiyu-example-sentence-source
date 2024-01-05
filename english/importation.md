@@ -1,5 +1,7 @@
 # importation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/importation.md)
+
 <p><span class="chinese">这是一条禁止进口的法律。</span><span class="english">Proscribed the importation of raw fruits and vegetables.</span></p>
 
 <p><span class="chinese">今年，欧盟已禁止进口未经许可的转基因玉米。</span><span class="english">U. banned the importation of non-approved GM corn. In the U.</span></p>

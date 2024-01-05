@@ -1,5 +1,7 @@
 # 温情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenqing.md)
+
 <p><span class="chinese">是温情？</span><span class="english">Was it the rating of warmth?</span></p>
 
 <p><span class="chinese">对他不能太温情了。</span><span class="english">Don't be too lenient with him.</span></p>

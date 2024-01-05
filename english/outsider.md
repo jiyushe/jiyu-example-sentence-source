@@ -1,5 +1,7 @@
 # outsider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outsider.md)
+
 <p><span class="chinese">所以我变成了一个局外人。</span><span class="english">So I learn to be an outsider.</span></p>
 
 <p><span class="chinese">别把我当做外人。</span><span class="english">Don't treat me as an outsider.</span></p>

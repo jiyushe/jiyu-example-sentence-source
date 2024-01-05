@@ -1,5 +1,7 @@
 # 乡里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangli.md)
+
 <p><span class="chinese">教训乡里的道德家们怎样去死。</span><span class="english">That teach the rustic moralist to die.</span></p>
 
 <p><span class="chinese">这些腐恶的势力依旧横行乡里。</span><span class="english">These evil people are still playing tyrants.</span></p>

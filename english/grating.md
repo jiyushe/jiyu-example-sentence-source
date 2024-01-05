@@ -1,5 +1,7 @@
 # grating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grating.md)
+
 <p><span class="chinese">主轴线回转的光栅修理起来。</span><span class="english">The main grating fix up in the gyre axis.</span></p>
 
 <p><span class="chinese">她听出了萨尔诺夫博士刺耳的嗓音。</span><span class="english">She recognized the grating voice of Dr. Sarnoff.</span></p>

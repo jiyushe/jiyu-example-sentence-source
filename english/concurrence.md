@@ -1,5 +1,7 @@
 # concurrence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concurrence.md)
+
 <p><span class="chinese">在范围定义上的涉众协作</span><span class="english">Stakeholder concurrence on scope definition</span></p>
 
 <p><span class="chinese">数个派系的联合使这个法案得以通过。</span><span class="english">The concurrence of several factions got the bill passed.</span></p>

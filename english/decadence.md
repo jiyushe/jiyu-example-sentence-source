@@ -1,5 +1,7 @@
 # decadence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decadence.md)
+
 <p><span class="chinese">而我们，这一群老男孩，不还是在颓废之中虚度光阴吗？</span><span class="english">And we, a group of old boys, not in decadence in wasted time?</span></p>
 
 <p><span class="chinese">显然应该是时候把社会包容置于目空一切的糜烂浮华之前了。</span><span class="english">Time, surely, to put social inclusion before defiant decadence.</span></p>

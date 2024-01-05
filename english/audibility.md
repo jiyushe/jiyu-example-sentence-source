@@ -1,5 +1,7 @@
 # audibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audibility.md)
+
 <p><span class="chinese">老倌可听说最近一条大新闻啊？</span><span class="english">The age Guan audibility says a recent big newspaper?</span></p>
 
 <p><span class="chinese">达到可视、可听形象直观的目的。</span><span class="english">Doing them for the purposes of visibleness, audibility , visuality and intuitionistics.</span></p>

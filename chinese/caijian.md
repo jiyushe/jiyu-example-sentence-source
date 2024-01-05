@@ -1,5 +1,7 @@
 # 裁剪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caijian.md)
+
 <p><span class="chinese">我们确实要招一名裁剪工。</span><span class="english">We do have a vacancy for a cutter.</span></p>
 
 <p><span class="chinese">裁剪Rational统一过程为项目管理知识体系最佳实践</span><span class="english">Tailoring RUP to PMBOK best practices</span></p>

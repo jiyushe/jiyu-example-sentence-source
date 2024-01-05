@@ -1,5 +1,7 @@
 # 现实主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshizhuyi.md)
+
 <p><span class="chinese">这是现实主义和常识。</span><span class="english">This is realism and common sense.</span></p>
 
 <p><span class="chinese">这种现实主义做法确实有先例可循。</span><span class="english">Such realism does have precedents.</span></p>

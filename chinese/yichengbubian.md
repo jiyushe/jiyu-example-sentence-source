@@ -1,5 +1,7 @@
 # 一成不变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichengbubian.md)
+
 <p><span class="chinese">记住，没有决定是一成不变的。</span><span class="english">Remember, no decision is set in stone.</span></p>
 
 <p><span class="chinese">早饭还是那一成不变的粥。</span><span class="english">Once again, I had congee for breakfast.</span></p>

@@ -1,5 +1,7 @@
 # asymmetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asymmetric.md)
+
 <p><span class="chinese">风险是不对称的。</span><span class="english">The risk is asymmetric.</span></p>
 
 <p><span class="chinese">第三，树是用不均匀的方式生长的。</span><span class="english">Third, the tree grows in an asymmetric manner.</span></p>

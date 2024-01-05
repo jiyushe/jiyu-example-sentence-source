@@ -1,5 +1,7 @@
 # 回电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huidian.md)
+
 <p><span class="chinese">嗨，我可能在家里，但我不想给我讨厌的人回电话。</span><span class="english">Hi. I am probably home.</span></p>
 
 <p><span class="chinese">唐说他过后会回电话来。</span><span class="english">Don said he's call back later.</span></p>

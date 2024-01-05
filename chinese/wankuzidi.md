@@ -1,5 +1,7 @@
 # 纨绔子弟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wankuzidi.md)
+
 <p><span class="chinese">他是纨绔子弟。</span><span class="english">He is a dandy.</span></p>
 
 <p><span class="chinese">他是一个纨绔子弟。</span><span class="english">He is a coxcomb.</span></p>

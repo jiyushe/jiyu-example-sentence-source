@@ -1,5 +1,7 @@
 # saggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saggy.md)
+
 <p><span class="chinese">我现在睡的床垫下陷了。</span><span class="english">The mattress I'm now sleeping on is saggy.</span></p>
 
 <p><span class="chinese">不！我要的是松弛的肚皮和下垂的胸部！</span><span class="english">No, I want a flabby gut and saggy man-breasts.</span></p>

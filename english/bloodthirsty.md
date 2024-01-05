@@ -1,5 +1,7 @@
 # bloodthirsty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodthirsty.md)
+
 <p><span class="chinese">妖媚的嗜血不属光明的流浪人。</span><span class="english">Lusty bloodthirsty not of light hang out.</span></p>
 
 <p><span class="chinese">阿兹台克人的宗教信仰是一种嗜杀的宗教。</span><span class="english">The religion of the Aztec was a bloodthirsty one.</span></p>

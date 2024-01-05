@@ -1,5 +1,7 @@
 # lavender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lavender.md)
+
 <p><span class="chinese">你穿淡紫色总是更好看。</span><span class="english">Lavender always becomes you.</span></p>
 
 <p><span class="chinese">谁要熏衣草冰淇淋？</span><span class="english">Who wants lavender ice cream?</span></p>

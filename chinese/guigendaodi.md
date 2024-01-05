@@ -1,5 +1,7 @@
 # 归根到底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guigendaodi.md)
+
 <p><span class="chinese">青春归根到底是什么?</span><span class="english">What was youth at best?</span></p>
 
 <p><span class="chinese">归根到底，也许罪恶感是个好东西。</span><span class="english">So perhaps guilt is good after all.</span></p>

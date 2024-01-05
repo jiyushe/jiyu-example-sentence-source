@@ -1,5 +1,7 @@
 # transaction 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transaction.md)
+
 <p><span class="chinese">土地产权交易。</span><span class="english">Transaction of land property.</span></p>
 
 <p><span class="chinese">分有服装交易区。</span><span class="english">It has a garment transaction area.</span></p>

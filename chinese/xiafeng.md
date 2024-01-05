@@ -1,5 +1,7 @@
 # 下风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiafeng.md)
+
 <p><span class="chinese">保证下风处的窗口通风。</span><span class="english">Keep a downwind window open.</span></p>
 
 <p><span class="chinese">留下风儿划过的痕迹。</span><span class="english">To leave my spoor in the free wind.</span></p>

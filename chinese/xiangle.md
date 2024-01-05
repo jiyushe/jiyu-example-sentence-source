@@ -1,5 +1,7 @@
 # 享乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangle.md)
+
 <p><span class="chinese">喜爱世俗的享乐。</span><span class="english">He is fond of worldly enjoyments.</span></p>
 
 <p><span class="chinese">他喜爱世俗的享乐。</span><span class="english">He is fond of worldly enjoyments.</span></p>

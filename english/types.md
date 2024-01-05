@@ -1,5 +1,7 @@
 # types
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/types.md)
+
 <p><span class="chinese">所有类型都是匿名的。</span><span class="english">All types are anonymous.</span></p>
 
 <p><span class="chinese">找齐4种类型鸡蛋。</span><span class="english">Find all 4 types of eggs.</span></p>

@@ -1,5 +1,7 @@
 # lipoprotein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lipoprotein.md)
+
 <p><span class="chinese">囊液中含有糖蛋白和脂蛋白。</span><span class="english">Glycoprotein and lipoprotein were found to exist in cyst fluid.</span></p>
 
 <p><span class="chinese">低密度脂蛋白作为药物载体的研究进展。</span><span class="english">Research advances of low density lipoprotein as medicine carrier.</span></p>

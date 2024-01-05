@@ -1,5 +1,7 @@
 # hardheaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardheaded.md)
+
 <p><span class="chinese">但是这个主意确实伴随着某些利益权衡。</span><span class="english">But the initial idea was accompanied by some hardheaded trade-offs.</span></p>
 
 <p><span class="chinese">萨克斯无懈可击的分析，并不止步于推导和建议。</span><span class="english">Jeff's hardheaded analysis does not stop at why and how to do all this.</span></p>

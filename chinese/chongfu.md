@@ -1,5 +1,7 @@
 # 重复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongfu.md)
+
 <p><span class="chinese">能重复一下吗</span><span class="english">I beg your pardon.</span></p>
 
 <p><span class="chinese">重复做15-20次。</span><span class="english">Repeat 15-20 times.</span></p>

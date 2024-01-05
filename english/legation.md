@@ -1,5 +1,7 @@
 # legation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legation.md)
+
 <p><span class="chinese">他在法国驻华大使馆工作。</span><span class="english">He works at the French Legation in China.</span></p>
 
 <p><span class="chinese">大使馆降为公使馆。</span><span class="english">The embassy was downgraded to a legation.</span></p>

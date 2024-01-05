@@ -1,5 +1,7 @@
 # dystopian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dystopian.md)
+
 <p><span class="chinese">等着看到发生在“奥巴马医改”崩溃后的反乌托邦故事吧。</span><span class="english">Look for dystopian stories that take place in the aftermath of the collapse of "ObamaCare."</span></p>
 
 <p><span class="chinese">正如这个简要的概括可能提示的，现实主义对这个世界有着一种极力反乌托邦的偏颇看法。</span><span class="english">As this summary might suggest, realism has a rather dystopian and jaundiced view of the world.</span></p>

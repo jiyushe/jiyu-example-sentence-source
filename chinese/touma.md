@@ -1,5 +1,7 @@
 # 头马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touma.md)
+
 <p><span class="chinese">在转盘中有多少头马配着黄色的马鞍？</span><span class="english">On the Merry-go-round, how many horses have yellow saddles?</span></p>
 
 <p><span class="chinese">被抓的嫌疑人也引领士兵在一房间里找到了头马隐藏的更多的炸弹。</span><span class="english">The suspects also let soldiers to a house where more bombs were found.</span></p>

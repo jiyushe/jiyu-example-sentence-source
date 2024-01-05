@@ -1,5 +1,7 @@
 # 新交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjiao_1.md)
+
 <p><span class="chinese">她跟新交的男朋友吹了。</span><span class="english">She's through with her new boy-friend.</span></p>
 
 <p><span class="chinese">把你新交的男朋友带来给我们看看。</span><span class="english">Do get your new boyfriend round to see us.</span></p>

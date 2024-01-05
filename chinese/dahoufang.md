@@ -1,5 +1,7 @@
 # 大后方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahoufang.md)
+
 <p><span class="chinese">温暖的家是我们休息的港湾和坚固的大后方。</span><span class="english">A warm home is our bay and solid base.</span></p>
 
 <p><span class="chinese">大后方的人民都希望和平，需要民主。</span><span class="english">The people in the Great Rear Area desire peace and need democracy.</span></p>

@@ -1,5 +1,7 @@
 # meter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meter.md)
+
 <p><span class="chinese">一伏米。</span><span class="english">A volt meter.</span></p>
 
 <p><span class="chinese">发动机米米的。</span><span class="english">Engine meter meter.</span></p>

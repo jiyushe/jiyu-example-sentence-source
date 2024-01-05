@@ -1,5 +1,7 @@
 # gras
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gras.md)
+
 <p><span class="chinese">参加新奥尔良的狂欢节。</span><span class="english">Hit up Mardi Gras in New Orleans.</span></p>
 
 <p><span class="chinese">牛柳内的鹅肝可改用芝士代替。</span><span class="english">Cheese can be used as substitute of foie gras.</span></p>

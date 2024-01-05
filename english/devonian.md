@@ -1,5 +1,7 @@
 # devonian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devonian.md)
+
 <p><span class="chinese">其时代主要为震旦纪—早古生代至泥盆纪。</span><span class="english">Its age is Sinian early Paleozoic to Devonian.</span></p>
 
 <p><span class="chinese">含金层位为泥盆纪地层。</span><span class="english">Gold-bearing beds belong to the Devonian System.</span></p>

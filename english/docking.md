@@ -1,5 +1,7 @@
 # docking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/docking.md)
+
 <p><span class="chinese">对接的膝部！</span><span class="english">Docking of knees!</span></p>
 
 <p><span class="chinese">创建一个对接极小。</span><span class="english">Create a docking minimizer.</span></p>

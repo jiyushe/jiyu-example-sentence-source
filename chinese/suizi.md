@@ -1,5 +1,7 @@
 # 穗子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suizi.md)
+
 <p><span class="chinese">我的帽子有一个黑色的穗子。</span><span class="english">I got one with a black tassel.</span></p>
 
 <p><span class="chinese">穗子沉沉地垂下来。</span><span class="english">The ears hang heavy on the stalks.</span></p>

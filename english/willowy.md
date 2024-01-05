@@ -1,5 +1,7 @@
 # willowy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willowy.md)
+
 <p><span class="chinese">杨柳环绕的小溪转动着磨房。</span><span class="english">A willowy brook that turns a mill.</span></p>
 
 <p><span class="chinese">杨柳见于田野丘陵。</span><span class="english">The willowy hills and fields among.</span></p>

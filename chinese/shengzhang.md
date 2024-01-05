@@ -1,5 +1,7 @@
 # 胜仗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzhang.md)
+
 <p><span class="chinese">我们在普选票数方面打了胜仗。</span><span class="english">We are winning the popular vote.</span></p>
 
 <p><span class="chinese">启禀将军，我们又打了个胜仗。</span><span class="english">General, we've achieved another victory.</span></p>

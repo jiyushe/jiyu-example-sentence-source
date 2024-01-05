@@ -1,5 +1,7 @@
 # doneness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doneness.md)
+
 <p><span class="chinese">这块牛排煎得恰到好处。</span><span class="english">The doneness of the steak is very perfect.</span></p>
 
 <p><span class="chinese">约10分钟后，检查鱼肉熟的程度。</span><span class="english">Begin checking the fish for doneness after 10 minutes.</span></p>

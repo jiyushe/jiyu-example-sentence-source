@@ -1,5 +1,7 @@
 # antsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antsy.md)
+
 <p><span class="chinese">你的厌食理论让我不舒服。不要再说了。</span><span class="english">Your anorexia theory makes me antsy. Will you please stop?</span></p>
 
 <p><span class="chinese">就我自己而言，当我觉得打搅到别人的时候，我会感到坐立不安。</span><span class="english">Personally, I get antsy when I think I'm boring someone else.</span></p>

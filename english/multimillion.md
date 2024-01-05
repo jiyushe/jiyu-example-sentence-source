@@ -1,5 +1,7 @@
 # multimillion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multimillion.md)
+
 <p><span class="chinese">是的，就像那种上百万美元的房子，</span><span class="english">Yeah, they're like multimillion dollar homes,</span></p>
 
 <p><span class="chinese">在这两家公司之间代理促成一笔数百万美元交易的正是史密斯。</span><span class="english">It was Smith who brokered the multimillion dollar deal between the two companies.</span></p>

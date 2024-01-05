@@ -1,5 +1,7 @@
 # conjugation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjugation.md)
+
 <p><span class="chinese">六岁的儿童何时听说过连词？</span><span class="english">What six year old child ever heard of a conjugation?</span></p>
 
 <p><span class="chinese">细菌嘛，细胞分裂和结合。</span><span class="english">For bacteria, it’s binary fission and conjugation. It can be</span></p>

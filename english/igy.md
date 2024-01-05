@@ -1,5 +1,7 @@
 # igy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/igy.md)
+
 <p><span class="chinese">卵黄抗体热稳定性检测。</span><span class="english">Detection of IgY thermal stability.</span></p>
 
 <p><span class="chinese">经免疫印迹分析，具有良好的免疫学特异性。</span><span class="english">Western blot showed the good immunological specificity of the IgY.</span></p>

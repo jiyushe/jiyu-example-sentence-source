@@ -1,5 +1,7 @@
 # art
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/art.md)
+
 <p><span class="chinese">美术室。</span><span class="english">Art room.</span></p>
 
 <p><span class="chinese">艺术史家。</span><span class="english">Art historians.</span></p>

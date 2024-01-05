@@ -1,5 +1,7 @@
 # haloperidol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haloperidol.md)
+
 <p><span class="chinese">氟哌啶醇和五氟利多等，其明显的镇静作用可降低患者的性要求。</span><span class="english">Haloperidol and five Penfluridol and so on, its obvious sedation can reduce the patient's requirements.</span></p>
 
 <p><span class="chinese">目的评价奎硫平与氟哌啶醇治疗精神分裂症的疗效及安全性。</span><span class="english">Objective To evaluate the efficacy and safety of quetiapine vs. haloperidol in the treatment of schizophrenia.</span></p>

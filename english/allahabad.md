@@ -1,5 +1,7 @@
 # allahabad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allahabad.md)
+
 <p><span class="chinese">这张照片拍摄于2007年在大壶节在阿拉哈巴德。</span><span class="english">This photo was taken during the 2007 Kumbh Mela in Allahabad.</span></p>
 
 <p><span class="chinese">印度农民在阿拉哈巴德以北25英里处的一片稻田里工作。</span><span class="english">Indian farmers work in a paddy field 25 miles north of Allahabad.</span></p>

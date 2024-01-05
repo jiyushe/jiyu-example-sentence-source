@@ -1,5 +1,7 @@
 # 尺牍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chidu.md)
+
 <p><span class="chinese">尺牍技巧行将消失。</span><span class="english">The art of letter-writing is fast disappearing.</span></p>
 
 <p><span class="chinese">进一步论述吴门书派文人尺牍艺术的历史价值及其影响。</span><span class="english">The part also discusses the historical values of Wu men Calligraphy.</span></p>

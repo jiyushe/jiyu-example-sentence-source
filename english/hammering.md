@@ -1,5 +1,7 @@
 # hammering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hammering.md)
+
 <p><span class="chinese">老约翰只管继续敲敲打打地干活儿。</span><span class="english">Old John kept right on hammering.</span></p>
 
 <p><span class="chinese">仿佛在用锤子不断地捶打</span><span class="english">As if I were hammering and hammering</span></p>

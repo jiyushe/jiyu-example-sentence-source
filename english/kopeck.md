@@ -1,5 +1,7 @@
 # kopeck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kopeck.md)
+
 <p><span class="chinese">这枚戈比是一个俄罗斯叔叔给的。</span><span class="english">The kopeck was given by an uncle from Russia.</span></p>
 
 <p><span class="chinese">科比在得到海报时表现的非常兴奋。</span><span class="english">The kopeck when obtains the playbill displays is excited.</span></p>

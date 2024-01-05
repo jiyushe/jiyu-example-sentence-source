@@ -1,5 +1,7 @@
 # eda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eda.md)
+
 <p><span class="chinese">EDA是现代电子设计的发展方向。</span><span class="english">EDA is a new trend in modern electronic design.</span></p>
 
 <p><span class="chinese">目的诱导EDA基因在原核细胞中的表达。</span><span class="english">Objective To express EDA gene in prokaryotic cells.</span></p>

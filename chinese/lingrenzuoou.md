@@ -1,5 +1,7 @@
 # 令人作呕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingrenzuoou.md)
+
 <p><span class="chinese">呃，这地方令人作呕。</span><span class="english">Ugh, this place disgusts me.</span></p>
 
 <p><span class="chinese">装模作样劲儿真令人作呕。</span><span class="english">Her affectations make you sick.</span></p>

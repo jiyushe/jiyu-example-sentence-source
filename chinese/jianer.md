@@ -1,5 +1,7 @@
 # 尖儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianer.md)
+
 <p><span class="chinese">大车上的稻草装得冒尖儿了。</span><span class="english">The cart is piled high with straw.</span></p>
 
 <p><span class="chinese">把蛋白打得起稠尖儿。</span><span class="english">Whip the egg whites up into stiff peaks.</span></p>

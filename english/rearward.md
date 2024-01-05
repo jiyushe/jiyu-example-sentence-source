@@ -1,5 +1,7 @@
 # rearward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rearward.md)
+
 <p><span class="chinese">来为一个已克服的厄难作殿。</span><span class="english">Come in the rearward of a conquered woe.</span></p>
 
 <p><span class="chinese">前鼻下单元双轮并且向后收起。</span><span class="english">The nose unit is twin-wheeled and retracts rearward.</span></p>

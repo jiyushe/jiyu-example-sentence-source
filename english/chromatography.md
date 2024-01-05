@@ -1,5 +1,7 @@
 # chromatography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromatography.md)
+
 <p><span class="chinese">柱层析技术的一种。</span><span class="english">A kind of column chromatography technique.</span></p>
 
 <p><span class="chinese">我能教你一些基本的色谱学知识。</span><span class="english">I can teach you some rudimentary Chromatography.</span></p>

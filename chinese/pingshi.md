@@ -1,5 +1,7 @@
 # 平实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingshi.md)
+
 <p><span class="chinese">使用平实的语言并且要简短。</span><span class="english">Use plain language and make it quick.</span></p>
 
 <p><span class="chinese">以平实简单的语言编纂法规。</span><span class="english">Plain-language drafting of regulations.</span></p>

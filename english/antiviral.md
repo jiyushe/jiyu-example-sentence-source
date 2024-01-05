@@ -1,5 +1,7 @@
 # antiviral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiviral.md)
+
 <p><span class="chinese">是否抗滤过性病原体药物可以治疗猪流感？</span><span class="english">Can swine flu be treated with antiviral medications?</span></p>
 
 <p><span class="chinese">但有些人蜂拥去购买抗病毒药物以求心安。</span><span class="english">Yet some people are flocking to get an antiviral to feel safe.</span></p>

@@ -1,5 +1,7 @@
 # 追悔莫及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuihuimoji.md)
+
 <p><span class="chinese">这个决定可能会让你在有生之年都追悔莫及。</span><span class="english">The decision could be one you live to regret.</span></p>
 
 <p><span class="chinese">现在就开始采取行动吧，省得日后追悔莫及。</span><span class="english">Take action now to avoid that possibility later.</span></p>

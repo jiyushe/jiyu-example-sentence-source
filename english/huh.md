@@ -1,5 +1,7 @@
 # huh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huh.md)
+
 <p><span class="chinese">车出问题了，啊？</span><span class="english">Car trouble, huh?</span></p>
 
 <p><span class="chinese">生活就是这样吧！</span><span class="english">That’s life, huh?</span></p>

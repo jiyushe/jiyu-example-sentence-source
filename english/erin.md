@@ -1,5 +1,7 @@
 # erin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erin.md)
+
 <p><span class="chinese">你有什么建议给艾金呢？</span><span class="english">What advice do you have for Erin?</span></p>
 
 <p><span class="chinese">艾琳·康迪特-伯根博客，写自巴厘岛。</span><span class="english">Erin Condit-Bergren blogs from Bali.</span></p>

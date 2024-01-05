@@ -1,5 +1,7 @@
 # 置身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishen_1.md)
+
 <p><span class="chinese">我们仿佛置身于天堂!</span><span class="english">We were in heaven!</span></p>
 
 <p><span class="chinese">我置身在静室。</span><span class="english">I am in a quiet room.</span></p>

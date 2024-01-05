@@ -1,5 +1,7 @@
 # alimentary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alimentary.md)
+
 <p><span class="chinese">他患了消化道疾病。</span><span class="english">He had the disease of alimentary canal.</span></p>
 
 <p><span class="chinese">看完了介绍，我们对这款滋养水都有了一定的了解。</span><span class="english">Read the introduction, we have a certain alimentary water.</span></p>

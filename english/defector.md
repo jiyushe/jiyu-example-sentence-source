@@ -1,5 +1,7 @@
 # defector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defector.md)
+
 <p><span class="chinese">那个政治叛逃者被一大使馆接纳避难。</span><span class="english">The political defector was refuged in an embassy.</span></p>
 
 <p><span class="chinese">在询问过程中叛变者供出了两名双重间谍。</span><span class="english">While being debriefed the defector named two double agents.</span></p>

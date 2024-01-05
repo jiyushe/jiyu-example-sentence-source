@@ -1,5 +1,7 @@
 # rewarding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rewarding.md)
+
 <p><span class="chinese">但是，这值得一试。</span><span class="english">But it was rewarding.</span></p>
 
 <p><span class="chinese">但从另一些方面看也有很多好处。</span><span class="english">but very rewarding in other respects.</span></p>

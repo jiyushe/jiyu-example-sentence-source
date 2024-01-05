@@ -1,5 +1,7 @@
 # folding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folding.md)
+
 <p><span class="chinese">三十张摺椅。</span><span class="english">Thirty folding chairs.</span></p>
 
 <p><span class="chinese">他正在折叠沙发床。</span><span class="english">He was folding away the sofa bed.</span></p>

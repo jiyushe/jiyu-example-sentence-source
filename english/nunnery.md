@@ -1,5 +1,7 @@
 # nunnery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nunnery.md)
+
 <p><span class="chinese">她离家去了尼姑庵。</span><span class="english">She left home and went to a nunnery.</span></p>
 
 <p><span class="chinese">去女修道院，现在就滚，你这卑劣的女人！</span><span class="english">Go to a nunnery. Go away right now, you dirty woman!</span></p>

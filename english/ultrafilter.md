@@ -1,5 +1,7 @@
 # ultrafilter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrafilter.md)
+
 <p><span class="chinese">使用超滤过滤介质可达到澄清、除菌的目的。</span><span class="english">With ultrafilter medium it can attain the goal of clarification and desterilization.</span></p>
 
 <p><span class="chinese">结果表明，中空纤维超滤器具有截留率佳、总通量大、浓缩效果好等到优点。</span><span class="english">The results show that this ultrafilter is efficient on concentration and its filtration speed is high.</span></p>

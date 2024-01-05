@@ -1,5 +1,7 @@
 # ru
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ru.md)
+
 <p><span class="chinese">她每天都跑步炫舞社区怎么捡贝壳是为了减肥。</span><span class="english">She ru everyday in order to lose weight.</span></p>
 
 <p><span class="chinese">景德镇瓷与汝瓷无关。</span><span class="english">Jingdezhen porcelain is unconcerned with Ru porcelains.</span></p>

@@ -1,5 +1,7 @@
 # 遮荫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheyin.md)
+
 <p><span class="chinese">出生和长大，遮荫P黑鬼。</span><span class="english">Born and raised, Shady P nigga.</span></p>
 
 <p><span class="chinese">高大的树将花园遮荫了起来。</span><span class="english">The tall trees shade the garden.</span></p>

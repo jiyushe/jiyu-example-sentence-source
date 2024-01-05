@@ -1,5 +1,7 @@
 # 民俗学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minsuxue.md)
+
 <p><span class="chinese">民俗学的知识基础是田野作业。</span><span class="english">Fieldwork is the basic knowledge of folklore.</span></p>
 
 <p><span class="chinese">考古学、历史学和民俗学方面的展览品。</span><span class="english">Exhibitions of archaeology history and folklore.</span></p>

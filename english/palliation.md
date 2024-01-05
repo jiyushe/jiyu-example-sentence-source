@@ -1,5 +1,7 @@
 # palliation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palliation.md)
+
 <p><span class="chinese">地塞米松应当被用于短期缓解使用。</span><span class="english">Dexamethasone should be considered for short-term palliation.</span></p>
 
 <p><span class="chinese">达到缓解或治愈目的需要多学科的手段。</span><span class="english">This requires a multidisciplinary approach to achieve palliation or cure.</span></p>

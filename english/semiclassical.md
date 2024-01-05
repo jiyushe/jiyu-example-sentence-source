@@ -1,5 +1,7 @@
 # semiclassical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiclassical.md)
+
 <p><span class="chinese">半经典波函数，遂穿，束缚态。</span><span class="english">Semiclassical wave functions. Tunneling. Bound states.</span></p>
 
 <p><span class="chinese">正如半经典理论预言，通量分布具有振荡特性。</span><span class="english">Just as the semiclassical theroy predicts, oscillations appear in the flux distribution.</span></p>

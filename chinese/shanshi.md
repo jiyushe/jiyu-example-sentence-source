@@ -1,5 +1,7 @@
 # 善事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshi.md)
+
 <p><span class="chinese">你能通过做善事而事业有成吗？</span><span class="english">Can you do well by doing good?</span></p>
 
 <p><span class="chinese">见这样一位阿罗汉是件善事。</span><span class="english">It is good to see such a worthy one.</span></p>

@@ -1,5 +1,7 @@
 # fretted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fretted.md)
+
 <p><span class="chinese">链条已经把木头磨损坏了。</span><span class="english">The chain has fretted into the wood and damaged it.</span></p>
 
 <p><span class="chinese">但有人公开担忧房地产泡沫。</span><span class="english">But some have fretted openly about property bubbles.</span></p>

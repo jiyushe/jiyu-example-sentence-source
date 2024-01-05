@@ -1,5 +1,7 @@
 # 郎君
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langjun.md)
+
 <p><span class="chinese">我保证我会成为你的如意郎君。</span><span class="english">I can promise I'll make you Mr. Right"."</span></p>
 
 <p><span class="chinese">求婚者多的少女往往选中最差的郎君。</span><span class="english">A maiden with many wooers often chooses the worst.</span></p>

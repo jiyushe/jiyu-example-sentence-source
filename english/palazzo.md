@@ -1,5 +1,7 @@
 # palazzo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palazzo.md)
+
 <p><span class="chinese">这是卡萨诺瓦的宅邸吗？</span><span class="english">Is this the palazzo of Signor Casanova?</span></p>
 
 <p><span class="chinese">在意大利期间，皮特一家居住在一栋十五世纪的府邸建筑里。</span><span class="english">They have been based in a 15th century palazzo during their stay.</span></p>

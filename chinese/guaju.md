@@ -1,5 +1,7 @@
 # 寡居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guaju.md)
+
 <p><span class="chinese">并且，我还开始面对丧夫寡居的生活。</span><span class="english">I was also facing life newly widowed.</span></p>
 
 <p><span class="chinese">女子若是年老寡居的，也能当祭司。</span><span class="english">Women can be priests, if they are old and widowed.</span></p>

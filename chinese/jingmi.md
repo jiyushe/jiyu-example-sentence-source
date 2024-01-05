@@ -1,5 +1,7 @@
 # 静谧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingmi.md)
+
 <p><span class="chinese">静谧的早晨。</span><span class="english">The morning is quiet.</span></p>
 
 <p><span class="chinese">水，静谧与智慧之宝。</span><span class="english">Water stands for Wisdom.</span></p>

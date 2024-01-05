@@ -1,5 +1,7 @@
 # inane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inane.md)
+
 <p><span class="chinese">这真是个愚蠢的问题。</span><span class="english">This is an inane question.</span></p>
 
 <p><span class="chinese">他们不屑于他们视为空无意义的东西。</span><span class="english">They don't value what they regard as inane and pointless.</span></p>

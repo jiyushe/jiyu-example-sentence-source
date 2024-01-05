@@ -1,5 +1,7 @@
 # disinfect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinfect.md)
+
 <p><span class="chinese">然后再将水井消毒。</span><span class="english">Then disinfect the well.</span></p>
 
 <p><span class="chinese">消毒柜也被送走了。</span><span class="english">Disinfect a cabinet also be send to walk.</span></p>

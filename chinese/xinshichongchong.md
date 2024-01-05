@@ -1,5 +1,7 @@
 # 心事重重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshichongchong.md)
+
 <p><span class="chinese">你看上去心事重重的。</span><span class="english">You look stressed.</span></p>
 
 <p><span class="chinese">他心事重重地上班去了。</span><span class="english">He went to work, burdened with worries.</span></p>

@@ -1,5 +1,7 @@
 # bronco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronco.md)
+
 <p><span class="chinese">这匹野马仅10秒钟就弓背跃起把骑者摔了下来。</span><span class="english">This wild bronco bucked its rider in just ten seconds.</span></p>
 
 <p><span class="chinese">巨大的龙卷风踢这片土地上宛如脱缰野马。</span><span class="english">The huge tornado kicked across the land like a wild bronco.</span></p>

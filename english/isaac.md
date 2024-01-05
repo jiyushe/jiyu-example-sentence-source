@@ -1,5 +1,7 @@
 # isaac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isaac.md)
+
 <p><span class="chinese">买了一个叫艾萨克的男孩</span><span class="english">Bought a boy named Isaac.</span></p>
 
 <p><span class="chinese">于是，以撒就住在基拉耳。</span><span class="english">So Isaac stayed in Gerar.</span></p>

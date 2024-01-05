@@ -1,5 +1,7 @@
 # 地带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/didai.md)
+
 <p><span class="chinese">我们住在硬水地带。</span><span class="english">We live in a hard water area.</span></p>
 
 <p><span class="chinese">我们要穿过一大片沼泽地带。</span><span class="english">We have to cross a wide marsh.</span></p>

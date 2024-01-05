@@ -1,5 +1,7 @@
 # vanda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vanda.md)
+
 <p><span class="chinese">中联地毯欢迎您！</span><span class="english">Vanda carpet welcome you!</span></p>
 
 <p><span class="chinese">万带兰的组织培养和试管苗栽培初探。</span><span class="english">Preliminary Study on the Tissue Culture of Vanda sp.</span></p>

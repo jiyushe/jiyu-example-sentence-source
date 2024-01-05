@@ -1,5 +1,7 @@
 # resell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resell.md)
+
 <p><span class="chinese">他们可以转售他们给别人以更高的价格。</span><span class="english">and they could resell them to someone else at a higher price.</span></p>
 
 <p><span class="chinese">一旦家被封死了，我们的目标是迅速转卖。</span><span class="english">Once the home is foreclosed , the goal is to resell it quickly.</span></p>

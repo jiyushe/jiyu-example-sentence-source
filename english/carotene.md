@@ -1,5 +1,7 @@
 # carotene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carotene.md)
+
 <p><span class="chinese">类胡萝卜素的提取进行了研究。</span><span class="english">The abstraction of carotene from Rhoddoseudo-monas Palustris strain B.</span></p>
 
 <p><span class="chinese">B-胡萝卜素在500多个成员的类胡萝卜素中，只是其中一员。</span><span class="english">Beta carotene is only one of more than 500 members of the carotenoid family.</span></p>

@@ -1,5 +1,7 @@
 # 来之不易
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laizhibuyi.md)
+
 <p><span class="chinese">我们的胜利来之不易。</span><span class="english">Our victory was hard-won.</span></p>
 
 <p><span class="chinese">我们的成功来之不易。</span><span class="english">Our successes were hard-earned.</span></p>

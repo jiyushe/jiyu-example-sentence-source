@@ -1,5 +1,7 @@
 # extinct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extinct.md)
+
 <p><span class="chinese">这座火山是座死火山。</span><span class="english">The volcano is extinct.</span></p>
 
 <p><span class="chinese">长毛象是不会绝种的。</span><span class="english">Mammoths can't go extinct.</span></p>

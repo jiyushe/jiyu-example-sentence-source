@@ -1,5 +1,7 @@
 # yeasty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yeasty.md)
+
 <p><span class="chinese">我们，随著热情的音乐，起舞。</span><span class="english">Following the yeasty music, we dance.</span></p>
 
 <p><span class="chinese">她将发酵的沉淀物舀了出来。</span><span class="english">She scooped out the yeasty sediments.</span></p>

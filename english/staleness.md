@@ -1,5 +1,7 @@
 # staleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staleness.md)
+
 <p><span class="chinese">这是变味的第一迹象。</span><span class="english">That is the first sign of staleness.</span></p>
 
 <p><span class="chinese">解决缓存过时问题有两种方法</span><span class="english">There are two approaches to addressing this cache staleness</span></p>

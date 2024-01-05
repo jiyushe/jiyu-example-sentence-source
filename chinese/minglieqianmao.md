@@ -1,5 +1,7 @@
 # 名列前茅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minglieqianmao.md)
+
 <p><span class="chinese">他一直刻苦学习，现在在班内名列前茅。</span><span class="english">He work, and now a in his class.</span></p>
 
 <p><span class="chinese">阿满3年，在行业中名列前茅。</span><span class="english">A full 3 years, the best in the industry.</span></p>

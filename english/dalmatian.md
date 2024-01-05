@@ -1,5 +1,7 @@
 # dalmatian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dalmatian.md)
+
 <p><span class="chinese">所以我建议让达尔马提亚狗做我的接班人。</span><span class="english">So I suggest a Dalmatian as my successor.</span></p>
 
 <p><span class="chinese">达尔马提亚可以成为一个很好的例子。</span><span class="english">The Dalmatian can serve as a good example.</span></p>

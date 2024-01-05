@@ -1,5 +1,7 @@
 # illiterate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illiterate.md)
+
 <p><span class="chinese">许多人是文盲。</span><span class="english">Many are illiterate.</span></p>
 
 <p><span class="chinese">暴力是文盲常采用的巧妙应答。</span><span class="english">Violence is the repartee of the illiterate.</span></p>

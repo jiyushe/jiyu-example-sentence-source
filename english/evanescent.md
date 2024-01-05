@@ -1,5 +1,7 @@
 # evanescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evanescent.md)
+
 <p><span class="chinese">成功是短暂易逝的。</span><span class="english">Success id transient, evanescent.</span></p>
 
 <p><span class="chinese">惹得音符像气泡一样消散。</span><span class="english">Leading to evanescent musical notes as bubbles.</span></p>

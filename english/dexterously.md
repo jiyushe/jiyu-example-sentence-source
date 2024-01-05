@@ -1,5 +1,7 @@
 # dexterously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dexterously.md)
+
 <p><span class="chinese">他很巧妙地应付了一个尴尬局面。</span><span class="english">He dealed with an embarrassed situation dexterously.</span></p>
 
 <p><span class="chinese">这三景风格浑然不同但又能巧妙地融合在一起。</span><span class="english">These three sceneries has totally different style but are dexterously mixed together.</span></p>

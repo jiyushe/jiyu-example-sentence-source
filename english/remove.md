@@ -1,5 +1,7 @@
 # remove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remove.md)
+
 <p><span class="chinese">不要删除。</span><span class="english">Don't remove.</span></p>
 
 <p><span class="chinese">去掉GIL本身。</span><span class="english">Remove the GIL itself.</span></p>

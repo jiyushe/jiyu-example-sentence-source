@@ -1,5 +1,7 @@
 # 阳春
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangchun.md)
+
 <p><span class="chinese">阳春三月，朝霞红艳。</span><span class="english">Spring March, alpenglow Gong Yan.</span></p>
 
 <p><span class="chinese">一八一五是种阴沉的阳春天气。</span><span class="english">This 1815 was a sort of lugubrious April.</span></p>

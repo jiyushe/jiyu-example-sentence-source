@@ -1,5 +1,7 @@
 # 白纸黑字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baizhiheizi.md)
+
 <p><span class="chinese">另有法令，白纸黑字，统领此地。</span><span class="english">Other laws, black on white, obtain.</span></p>
 
 <p><span class="chinese">我会把所有事情白纸黑字写清楚。</span><span class="english">I'll put everything black and white !</span></p>

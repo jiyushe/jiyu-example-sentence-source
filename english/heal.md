@@ -1,5 +1,7 @@
 # heal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heal.md)
+
 <p><span class="chinese">来治愈创伤。</span><span class="english">or heal from trauma.</span></p>
 
 <p><span class="chinese">时间会治愈你的心伤。</span><span class="english">In time you will heal.</span></p>

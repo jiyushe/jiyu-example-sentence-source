@@ -1,5 +1,7 @@
 # search 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/search.md)
+
 <p><span class="chinese">像专家一样搜索。</span><span class="english">Search like a pro.</span></p>
 
 <p><span class="chinese">组搜索过滤器。</span><span class="english">Group search filter.</span></p>

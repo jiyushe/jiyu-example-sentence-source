@@ -1,5 +1,7 @@
 # moneylender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moneylender.md)
+
 <p><span class="chinese">当他们谈论著的时候，女债主弯下腰去挑选了两粒鹅卵石。</span><span class="english">As they talked, the moneylender bent over to pick up two pebbles.</span></p>
 
 <p><span class="chinese">由于安东尼奥没有任何金钱，然后，他又到夏洛克，贷款行业。</span><span class="english">As Antonio did not have any money just then , he went to Shylock, a moneylender.</span></p>

@@ -1,5 +1,7 @@
 # 华丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huali.md)
+
 <p><span class="chinese">华丽的腕表系列！</span><span class="english">Gorgeous watch collection!</span></p>
 
 <p><span class="chinese">华丽的拖地礼服。</span><span class="english">Gorgeous floor-length gown.</span></p>

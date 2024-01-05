@@ -1,5 +1,7 @@
 # ethos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethos.md)
+
 <p><span class="chinese">它们是资本主义的精神危机</span><span class="english">They are crises of the ethos of capitalism.</span></p>
 
 <p><span class="chinese">年轻人必须成为建立该社会风气的主力。</span><span class="english">Young people have to be a key part of building that ethos.</span></p>

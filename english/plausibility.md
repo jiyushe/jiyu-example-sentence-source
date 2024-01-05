@@ -1,5 +1,7 @@
 # plausibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plausibility.md)
+
 <p><span class="chinese">对于某些宗教信仰而言，他的论证存在明显的合理性。</span><span class="english">His argument has clear plausibility for some sorts of religious beliefs.</span></p>
 
 <p><span class="chinese">你可以对输入的出勤和缺勤做特别的核对。</span><span class="english">You can define specific plausibility checks for the entry of attendances and absences.</span></p>

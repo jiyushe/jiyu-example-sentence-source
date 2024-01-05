@@ -1,5 +1,7 @@
 # 热学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rexue.md)
+
 <p><span class="chinese">热学，动力学理论，和热动力学。</span><span class="english">Heat, Kinetic Theory, and Thermodynamics.</span></p>
 
 <p><span class="chinese">物理学包括力学，热学，光学，电学等。</span><span class="english">The physics includes mechanics, heat, light, electricity, etc.</span></p>

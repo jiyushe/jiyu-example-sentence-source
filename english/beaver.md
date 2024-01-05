@@ -1,5 +1,7 @@
 # beaver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beaver.md)
+
 <p><span class="chinese">捉海狸的时候伤到了背部</span><span class="english">Hurt his back chasing a beaver</span></p>
 
 <p><span class="chinese">在追海狸的时候弄伤了背。</span><span class="english">Employee hurt his back chasing a beaver.</span></p>

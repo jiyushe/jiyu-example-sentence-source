@@ -1,5 +1,7 @@
 # crotch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crotch.md)
+
 <p><span class="chinese">我正看着他的裤裆呢。</span><span class="english">I'm looking at his crotch.</span></p>
 
 <p><span class="chinese">你跟我说“胯下”吗？</span><span class="english">You're saying "crotch" to me?</span></p>

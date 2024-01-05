@@ -1,5 +1,7 @@
 # 农贷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongdai.md)
+
 <p><span class="chinese">国际上，小额农贷最早成功实践于孟加拉国乡村银行。</span><span class="english">Internationally, the microcredit service has first successfully practiced in Bangladesh Country bank.</span></p>
 
 <p><span class="chinese">农贷收到了一定的实际效果，对借贷农民的农业生产起到了一定的救济作用，促进了部分地区农业的增产增收。</span><span class="english">It also poi nts out that the service had a practical effect and promoted the agricultural production in parts of China.</span></p>

@@ -1,5 +1,7 @@
 # 特定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teding.md)
+
 <p><span class="chinese">它们是设备特定的。</span><span class="english">They are device specific.</span></p>
 
 <p><span class="chinese">从任何特定一年来看都是存在风险的。</span><span class="english">Any given year was a crapshoot.</span></p>

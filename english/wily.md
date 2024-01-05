@@ -1,5 +1,7 @@
 # wily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wily.md)
+
 <p><span class="chinese">他是个老谋深算的老狐狸。</span><span class="english">He is a wily old fox.</span></p>
 
 <p><span class="chinese">加油工是一个狡猾的飙网者。</span><span class="english">The oiler was a wily surfman.</span></p>

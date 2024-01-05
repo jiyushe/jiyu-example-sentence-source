@@ -1,5 +1,7 @@
 # insightful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insightful.md)
+
 <p><span class="chinese">孩子们都很有见地。</span><span class="english">Children are very insightful.</span></p>
 
 <p><span class="chinese">可以学到大量独到的建议和窍门。</span><span class="english">Lot’s of insightful tips and tricks to learn.</span></p>

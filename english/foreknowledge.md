@@ -1,5 +1,7 @@
 # foreknowledge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreknowledge.md)
+
 <p><span class="chinese">预知是在预定之前。</span><span class="english">Foreknowledge is prior to predestination.</span></p>
 
 <p><span class="chinese">幸亏我有先见之明。带雨伞。</span><span class="english">Luckily I have the foreknowledge. brought the umbrella.</span></p>

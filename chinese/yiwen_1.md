@@ -1,5 +1,7 @@
 # 疑问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwen_1.md)
+
 <p><span class="chinese">非洲人也有疑问。</span><span class="english">Africans, too, have doubts.</span></p>
 
 <p><span class="chinese">若有任何疑问请咨询牙科医生。</span><span class="english">If in doubt ask your dentist.</span></p>

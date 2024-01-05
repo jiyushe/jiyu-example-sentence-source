@@ -1,5 +1,7 @@
 # lawbreaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawbreaker.md)
+
 <p><span class="chinese">因为了，如果我一再建造自己所拆毁的，就是证明我破坏法律。</span><span class="english">If I rebuild what I destroyed, I prove that I am a lawbreaker.</span></p>
 
 <p><span class="chinese">那个违法分子没来得及伸手拿刀就已被制服了。</span><span class="english">The lawbreaker was overpowered before he could reach for his knife.</span></p>

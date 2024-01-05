@@ -1,5 +1,7 @@
 # amendatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amendatory.md)
+
 <p><span class="chinese">是否有修正的可能？</span><span class="english">Whether to have an amendatory likelihood?</span></p>
 
 <p><span class="chinese">同时盗窃罪的故意和盗窃数额对本罪既遂也具有修正意义。</span><span class="english">Likewise, the intention of the theft and the theft amount has amendatory significance.</span></p>

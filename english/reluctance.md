@@ -1,5 +1,7 @@
 # reluctance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reluctance.md)
+
 <p><span class="chinese">难道说你和他在一起是很不情愿的吗？</span><span class="english">Are you with him is the reluctance of it?</span></p>
 
 <p><span class="chinese">不过这种不情愿将被证明为短见。</span><span class="english">Yet this reluctance might prove short-sighted.</span></p>

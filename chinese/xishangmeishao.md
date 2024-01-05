@@ -1,5 +1,7 @@
 # 喜上眉梢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishangmeishao.md)
+
 <p><span class="chinese">“喜上眉梢”是个成语。</span><span class="english">"Xi shang meishao" is an idiom.</span></p>
 
 <p><span class="chinese">一会儿之后，她是喜上眉梢。</span><span class="english">A moment later, she was beaming.</span></p>

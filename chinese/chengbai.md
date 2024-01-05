@@ -1,5 +1,7 @@
 # 成败
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengbai.md)
+
 <p><span class="chinese">你的成败取决于此。</span><span class="english">Your dreams depend on it.</span></p>
 
 <p><span class="chinese">我来试试看看，成败在此一举。</span><span class="english">Let me try it. we will see.</span></p>

@@ -1,5 +1,7 @@
 # 水土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuitu.md)
+
 <p><span class="chinese">一方水土养一方人。</span><span class="english">One water live one people.</span></p>
 
 <p><span class="chinese">他们从未在埃及服水土。</span><span class="english">They never acclimatized in Egypt.</span></p>

@@ -1,5 +1,7 @@
 # 遗弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqi_4.md)
+
 <p><span class="chinese">汝为何将我遗弃？</span><span class="english">Why hast thou forsaken me?</span></p>
 
 <p><span class="chinese">他遗弃了他的妻子和孩子。</span><span class="english">He abandoned his wife and child.</span></p>

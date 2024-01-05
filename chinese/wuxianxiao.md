@@ -1,5 +1,7 @@
 # 无限小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxianxiao.md)
+
 <p><span class="chinese">认识有限小数和无限小数。</span><span class="english">Recognizee finite decimals and infinite decimals.</span></p>
 
 <p><span class="chinese">它是同时由无限大和无限小所构成的。</span><span class="english">It is composed both of the infinitely great and the infinitely little.</span></p>

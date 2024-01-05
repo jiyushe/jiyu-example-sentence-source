@@ -1,5 +1,7 @@
 # checkers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/checkers.md)
+
 <p><span class="chinese">这里有两排方格</span><span class="english">But there's two rows of checkers.</span></p>
 
 <p><span class="chinese">当等待植物生长时，可以下下棋。</span><span class="english">Play checkers while the plants grow.</span></p>

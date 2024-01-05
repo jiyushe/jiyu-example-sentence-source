@@ -1,5 +1,7 @@
 # uptodate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uptodate.md)
+
 <p><span class="chinese">您能否帮我查一下我活期账户上的当前余额?。</span><span class="english">Could you please check my uptodate balance on my current account?</span></p>
 
 <p><span class="chinese">书里对这种技术提供了综合而新颖的展示。</span><span class="english">The text provides a comprehensive and uptodate presentation of the techniques.</span></p>

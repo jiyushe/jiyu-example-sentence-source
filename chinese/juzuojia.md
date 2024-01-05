@@ -1,5 +1,7 @@
 # 剧作家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzuojia.md)
+
 <p><span class="chinese">剧作家偷偷溜走了。</span><span class="english">The dramatist sneaked away.</span></p>
 
 <p><span class="chinese">夏衍是现代著名的剧作家。</span><span class="english">Xia Yan is a modern playwright.</span></p>

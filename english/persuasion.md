@@ -1,5 +1,7 @@
 # persuasion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persuasion.md)
+
 <p><span class="chinese">我们所有的劝告都无用。</span><span class="english">All our persuasion was of no use.</span></p>
 
 <p><span class="chinese">她的说服力没有起到作用。</span><span class="english">Her powers of persuasion were to no avail.</span></p>

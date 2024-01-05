@@ -1,5 +1,7 @@
 # undiagnosed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undiagnosed.md)
+
 <p><span class="chinese">在这样的妇女中，有些很有可能有孤独症而没有被诊断出来。</span><span class="english">Some women could be going undiagnosed.</span></p>
 
 <p><span class="chinese">他很有可能没诊断出囊性纤维化。</span><span class="english">It is even possible he had undiagnosed cystic fibrosis.</span></p>

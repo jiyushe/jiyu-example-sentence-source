@@ -1,5 +1,7 @@
 # 表示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoshi_2.md)
+
 <p><span class="chinese">而陆先生也表示同意。</span><span class="english">Mr. Lu agreed.</span></p>
 
 <p><span class="chinese">甘尼先生表示。</span><span class="english">Mr. Ghani said.</span></p>

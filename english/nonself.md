@@ -1,5 +1,7 @@
 # nonself
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonself.md)
+
 <p><span class="chinese">免疫系统的核心是能够辨别同类和异类。</span><span class="english">At the heart of the immune system is the ability to distinguish between self and nonself.</span></p>
 
 <p><span class="chinese">基于网络的入侵检测系统就是要在大量的网络数据中区分出“自我”和“非我”。</span><span class="english">Intrusion detection system based on network is differentiate self from nonself among huge network data.</span></p>

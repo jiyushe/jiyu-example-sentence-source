@@ -1,5 +1,7 @@
 # 状况
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangkuang.md)
+
 <p><span class="chinese">景气状况周期性地出现。</span><span class="english">Booms run in cycle.</span></p>
 
 <p><span class="chinese">这种状况并不因你的善行而有所改变。</span><span class="english">That had not changed.</span></p>

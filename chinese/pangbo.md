@@ -1,5 +1,7 @@
 # 磅礴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangbo.md)
+
 <p><span class="chinese">在你的磅礴之气的蔚蓝的波面</span><span class="english">On the blue surface of thine airy surge</span></p>
 
 <p><span class="chinese">在你的磅礴之气的蔚蓝的波面。</span><span class="english">On the blue surface of thine aery surge.</span></p>

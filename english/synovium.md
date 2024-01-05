@@ -1,5 +1,7 @@
 # synovium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synovium.md)
+
 <p><span class="chinese">于用药后4，6周观察大鼠滑膜组织和软骨组织病理学改变。</span><span class="english">Histopathology of synovium and cartilage was tested at weeks 4 and 6 after treatment.</span></p>
 
 <p><span class="chinese">强化后滑膜增强，结节强化。</span><span class="english">The proliferated synovium and synovial nodules were enhanced after contrast administration.</span></p>

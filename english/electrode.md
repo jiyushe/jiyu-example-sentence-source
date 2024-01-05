@@ -1,5 +1,7 @@
 # electrode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrode.md)
+
 <p><span class="chinese">可使用普通电焊条。</span><span class="english">Can use an ordinary electrode.</span></p>
 
 <p><span class="chinese">换上长电极马笼头。</span><span class="english">Change to a long electrode bridle.</span></p>

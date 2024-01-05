@@ -1,5 +1,7 @@
 # torture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torture.md)
+
 <p><span class="chinese">折磨我吧！</span><span class="english">Torture me!</span></p>
 
 <p><span class="chinese">总之不要折磨我！</span><span class="english">Don't torture me!</span></p>

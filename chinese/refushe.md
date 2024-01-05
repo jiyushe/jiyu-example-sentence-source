@@ -1,5 +1,7 @@
 # 热辐射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/refushe.md)
+
 <p><span class="chinese">对非热辐射谱也进行了观测。</span><span class="english">Non-thermal radiation spectra are also observed.</span></p>
 
 <p><span class="chinese">叶蜡石相对热辐射率较低。</span><span class="english">The relative heat radiation rate of pyrophyllite is fairly low.</span></p>

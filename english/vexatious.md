@@ -1,5 +1,7 @@
 # vexatious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vexatious.md)
+
 <p><span class="chinese">我的眼泪在你心里永远是无理取闹。</span><span class="english">I have tears in your heart is always vexatious.</span></p>
 
 <p><span class="chinese">往后再也没有讨厌的老师，紧张的考试，再也不用上学了！</span><span class="english">No more vexatious teachers, stressful tests, NO MORE SCHOOL!</span></p>

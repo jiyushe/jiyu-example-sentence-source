@@ -1,5 +1,7 @@
 # 引桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinqiao.md)
+
 <p><span class="chinese">该引桥坡道是双层公路桥。</span><span class="english">The approach ramp is a double deck roadway structure.</span></p>
 
 <p><span class="chinese">码头引桥受船舶撞击的事故屡有发生。</span><span class="english">It often happens that the jetty of a wharf is struck by a ship.</span></p>

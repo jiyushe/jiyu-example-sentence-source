@@ -1,5 +1,7 @@
 # pushcart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pushcart.md)
+
 <p><span class="chinese">他推着手推车沿街卖鱼。</span><span class="english">He peddled fish from a pushcart.</span></p>
 
 <p><span class="chinese">客房打扫房间的时候推的手推车上都放有那些东西?。</span><span class="english">Do you how many things on the pushcart?</span></p>

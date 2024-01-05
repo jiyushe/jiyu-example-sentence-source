@@ -1,5 +1,7 @@
 # rhombic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhombic.md)
+
 <p><span class="chinese">菱形驱动机构有两个“轭”。</span><span class="english">The rhombic drive mechanism has two "yokes".</span></p>
 
 <p><span class="chinese">固体正交硫在95℃转变为固体单斜硫。</span><span class="english">At 95℃, solid rhombic sulfur is transformed to solid monoclinic sulfur.</span></p>

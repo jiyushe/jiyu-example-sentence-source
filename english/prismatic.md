@@ -1,5 +1,7 @@
 # prismatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prismatic.md)
+
 <p><span class="chinese">棱镜核失控，我们需要援助！</span><span class="english">Prismatic core failing! We require assistance.</span></p>
 
 <p><span class="chinese">柱状晶形的重晶石在方解石晶簇上。</span><span class="english">Prismatic crystal of Barite on Calcite crystals.</span></p>

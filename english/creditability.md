@@ -1,5 +1,7 @@
 # creditability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creditability.md)
+
 <p><span class="chinese">诚信是我国公民道德教育的基本内容。</span><span class="english">Creditability is the fundamental content in Chinese citizens' ethical education.</span></p>
 
 <p><span class="chinese">但是，随着时间的推移，当失言的暴露，我们失去了信誉受损更多。</span><span class="english">But when indiscretions are exposed over time, we lose more in compromised creditability.</span></p>

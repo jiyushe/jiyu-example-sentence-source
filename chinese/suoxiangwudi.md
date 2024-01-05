@@ -1,5 +1,7 @@
 # 所向无敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoxiangwudi.md)
+
 <p><span class="chinese">人们说“爱”所向无敌，也许“爱”从来没有遇见过G。</span><span class="english">They say love conquers all, but maybe love never meet Georgina Sparks.</span></p>
 
 <p><span class="chinese">迄今为止，人类文明的历史是勇往直前，所向无敌的历史。</span><span class="english">The history of man's civilization is hitherto a bravely advanced history.</span></p>

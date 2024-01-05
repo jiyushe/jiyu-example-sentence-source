@@ -1,5 +1,7 @@
 # disassembly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disassembly.md)
+
 <p><span class="chinese">快速容易拆卸。</span><span class="english">Quick and easy disassembly.</span></p>
 
 <p><span class="chinese">拆卸冷却器前应排干冷却水。</span><span class="english">Let the water out before disassembly.</span></p>

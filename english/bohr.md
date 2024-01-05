@@ -1,5 +1,7 @@
 # bohr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bohr.md)
+
 <p><span class="chinese">这是年轻的波尔。</span><span class="english">Here's a young Niels Bohr.</span></p>
 
 <p><span class="chinese">所有这些，波尔是怎样做的？</span><span class="english">All of this. What did Bohr do?</span></p>

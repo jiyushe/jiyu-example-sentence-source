@@ -1,5 +1,7 @@
 # inferiority
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inferiority.md)
+
 <p><span class="chinese">我当然自惭形秽了。</span><span class="english">Of course I had a sense of inferiority.</span></p>
 
 <p><span class="chinese">一方的伟大暗示着另一方的渺小。</span><span class="english">Greatness of one implicates inferiority of another.</span></p>

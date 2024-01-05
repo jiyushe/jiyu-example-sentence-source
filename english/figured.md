@@ -1,5 +1,7 @@
 # figured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/figured.md)
+
 <p><span class="chinese">我自己悟出来的。</span><span class="english">I figured it out.</span></p>
 
 <p><span class="chinese">即使古巴也早已想通这一点。</span><span class="english">Even Cuba figured this one out.</span></p>

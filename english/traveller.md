@@ -1,5 +1,7 @@
 # traveller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traveller.md)
+
 <p><span class="chinese">旅客付了直到拉尼的车费。</span><span class="english">The traveller paid to Lagny.</span></p>
 
 <p><span class="chinese">这匹马是一匹走得快的马。</span><span class="english">This horse is a fast traveller.</span></p>

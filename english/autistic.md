@@ -1,5 +1,7 @@
 # autistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autistic.md)
+
 <p><span class="chinese">我被劝退也因为患有孤独症。</span><span class="english">I flunked out because I am autistic.</span></p>
 
 <p><span class="chinese">他们有两个孩子，其中一个是孤独症患者。</span><span class="english">They have two children, one of them autistic.</span></p>

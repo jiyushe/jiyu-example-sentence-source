@@ -1,5 +1,7 @@
 # 新机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinji_2.md)
+
 <p><span class="chinese">然而，这款新机可不轻便便宜。</span><span class="english">However, the new laptop is neither light nor cheap.</span></p>
 
 <p><span class="chinese">经过5年的努力,他发明了一个新机器.</span><span class="english">Afer five years of effort,he invented a new machine.</span></p>

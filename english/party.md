@@ -1,5 +1,7 @@
 # party
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/party.md)
+
 <p><span class="chinese">办一个茶话会.</span><span class="english">Have a tea party.</span></p>
 
 <p><span class="chinese">现在派对结束了。</span><span class="english">The party is over.</span></p>

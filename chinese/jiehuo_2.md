@@ -1,5 +1,7 @@
 # 解惑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiehuo_2.md)
+
 <p><span class="chinese">师者，传道，授业，解惑也。</span><span class="english">Teacher, preach, teach, dispel doubt also.</span></p>
 
 <p><span class="chinese">我需要您的倾听，我需要您来解惑！</span><span class="english">I need you to listen, I need you to answer.</span></p>

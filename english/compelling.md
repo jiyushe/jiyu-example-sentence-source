@@ -1,5 +1,7 @@
 # compelling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compelling.md)
+
 <p><span class="chinese">硬科学，令人信服的理由</span><span class="english">Hard science, compelling reasons</span></p>
 
 <p><span class="chinese">毫无疑问，这是一个令人注目的故事。</span><span class="english">It is a compelling story, no doubt.</span></p>

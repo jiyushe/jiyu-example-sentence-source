@@ -1,5 +1,7 @@
 # 帮工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banggong.md)
+
 <p><span class="chinese">生意红火，还雇了个帮工。</span><span class="english">Business was good enough to hire a helper.</span></p>
 
 <p><span class="chinese">他在马里韦莱斯海军司令部向他的那帮工人告别。</span><span class="english">At the Mariveles Navy headquarters he said good-bye to his work gang.</span></p>

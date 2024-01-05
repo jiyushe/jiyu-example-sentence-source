@@ -1,5 +1,7 @@
 # 索取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoqu.md)
+
 <p><span class="chinese">请来电索取实样。</span><span class="english">Please call for the samples.</span></p>
 
 <p><span class="chinese">美国索取次数为3，580次，位居第二。</span><span class="english">The U. S was second with 3,580.</span></p>

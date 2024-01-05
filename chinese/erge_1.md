@@ -1,5 +1,7 @@
 # 儿歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erge_1.md)
+
 <p><span class="chinese">我们一起来念儿歌。</span><span class="english">Let's read a chant.</span></p>
 
 <p><span class="chinese">下雨和哎呦的儿歌。</span><span class="english">Rain ank ouch ouch chant.</span></p>

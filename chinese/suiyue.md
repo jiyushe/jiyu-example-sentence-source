@@ -1,5 +1,7 @@
 # 岁月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suiyue.md)
+
 <p><span class="chinese">时光荏苒，岁月流逝。</span><span class="english">Years passed by.</span></p>
 
 <p><span class="chinese">光阴似箭，岁月如梭。</span><span class="english">Time flies like an arrow.</span></p>

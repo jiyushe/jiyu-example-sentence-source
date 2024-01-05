@@ -1,5 +1,7 @@
 # fatalness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatalness.md)
+
 <p><span class="chinese">对储油罐动火维修的安全控制提出建议。</span><span class="english">This article analyzed the fire fatalness of oil tank in unite station.</span></p>
 
 <p><span class="chinese">在各种地下建筑形式中，地下商业建筑具有更高的火灾危险性。</span><span class="english">Underground commercial construction shows the higher fire fatalness within all types of underground construction.</span></p>

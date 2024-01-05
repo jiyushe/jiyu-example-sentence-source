@@ -1,5 +1,7 @@
 # encouragement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encouragement.md)
+
 <p><span class="chinese">一种鼓励的意义。</span><span class="english">A sense of encouragement.</span></p>
 
 <p><span class="chinese">我们都需要鼓励。</span><span class="english">We all need encouragement.</span></p>

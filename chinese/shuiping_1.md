@@ -1,5 +1,7 @@
 # 水瓶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiping_1.md)
+
 <p><span class="chinese">把你的水瓶灌满了吧。</span><span class="english">Fill your pitcher.</span></p>
 
 <p><span class="chinese">灌满你的水瓶回家去吧。</span><span class="english">Fill your pitcher and come home.</span></p>

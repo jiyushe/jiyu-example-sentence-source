@@ -1,5 +1,7 @@
 # mm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mm.md)
+
 <p><span class="chinese">指甲每个月会长3毫米。</span><span class="english">Nails grow at 3 mm per month.</span></p>
 
 <p><span class="chinese">花粉红色，直径约8毫米。</span><span class="english">Flowers pink, ca. 8 mm in diam.</span></p>

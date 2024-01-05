@@ -1,5 +1,7 @@
 # tribunal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tribunal.md)
+
 <p><span class="chinese">此外，他还肩负马龙礼教会法庭的领导工作。</span><span class="english">He also led the Maronite Tribunal.</span></p>
 
 <p><span class="chinese">每个裁判所由两名法官组成。</span><span class="english">Each tribunal consists of two judges.</span></p>

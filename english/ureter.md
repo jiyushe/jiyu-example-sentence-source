@@ -1,5 +1,7 @@
 # ureter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ureter.md)
+
 <p><span class="chinese">目的探讨腔静脉后输尿管的诊断及治疗。</span><span class="english">Objective To explore the diagnosis and treatment of retrocaval ureter.</span></p>
 
 <p><span class="chinese">本文在31具大月份胎儿尸体上对输尿管动脉进行了观察。</span><span class="english">The arteries of the ureter were investigated on 31 still-born fetuses.</span></p>

@@ -1,5 +1,7 @@
 # halibut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halibut.md)
+
 <p><span class="chinese">在阿拉斯加，大比目鱼已经恢复。</span><span class="english">Halibut have made a comeback in Alaska.</span></p>
 
 <p><span class="chinese">庸鲽神经坏死病毒。</span><span class="english">Atlantic halibut nervous necrosis virus.</span></p>

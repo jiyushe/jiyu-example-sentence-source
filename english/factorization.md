@@ -1,5 +1,7 @@
 # factorization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/factorization.md)
+
 <p><span class="chinese">对交互式质询来说，因数分解足以胜任。</span><span class="english">Factorization works well enough for interactive challenges.</span></p>
 
 <p><span class="chinese">设计一个因子分解算法，并分析其复杂性。</span><span class="english">Design a factorization algorithm and analysis of their complexity.</span></p>

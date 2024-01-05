@@ -1,5 +1,7 @@
 # 飞虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feichong.md)
+
 <p><span class="chinese">没有更多的蚊子和飞虫。</span><span class="english">No more mosquitos and flying insects.</span></p>
 
 <p><span class="chinese">我们忍受着蚊子和飞虫的叮咬。</span><span class="english">We suffer from mosquito bites, flies.</span></p>

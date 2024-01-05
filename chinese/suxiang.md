@@ -1,5 +1,7 @@
 # 塑像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suxiang.md)
+
 <p><span class="chinese">她把那个旧的塑像扔掉了。</span><span class="english">She superseded the old statue.</span></p>
 
 <p><span class="chinese">这座塑像是用青铜铸成的。</span><span class="english">The statue was cast in bronze.</span></p>

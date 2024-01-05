@@ -1,5 +1,7 @@
 # stimulating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stimulating.md)
+
 <p><span class="chinese">和他一起工作应该够刺激的。</span><span class="english">Working with him shall be stimulating.</span></p>
 
 <p><span class="chinese">刺激了外生菌根的形成。</span><span class="english">Stimulating the formation of the ectomycorrhizae.</span></p>

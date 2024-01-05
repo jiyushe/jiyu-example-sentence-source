@@ -1,5 +1,7 @@
 # watchword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watchword.md)
+
 <p><span class="chinese">指导原则依然是管制。</span><span class="english">Control is still the watchword.</span></p>
 
 <p><span class="chinese">透明是这个过程中的口号。</span><span class="english">Transparency is the watchword here.</span></p>

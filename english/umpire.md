@@ -1,5 +1,7 @@
 # umpire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/umpire.md)
+
 <p><span class="chinese">主裁判应。</span><span class="english">An umpire shall.</span></p>
 
 <p><span class="chinese">那裁判一定瞎了眼。</span><span class="english">To serve as an umpire.</span></p>

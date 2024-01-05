@@ -1,5 +1,7 @@
 # croquet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croquet.md)
+
 <p><span class="chinese">你可以参加南边草坪上的槌球游戏。</span><span class="english">You can engage in croquet on the south lawn.</span></p>
 
 <p><span class="chinese">爱丽丝想玩槌球，可是她不会玩。</span><span class="english">Alice wants to play croquet. But she can't play.</span></p>

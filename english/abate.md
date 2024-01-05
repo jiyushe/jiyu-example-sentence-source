@@ -1,5 +1,7 @@
 # abate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abate.md)
+
 <p><span class="chinese">北方的需求并没有减轻。</span><span class="english">The demands of the north will not abate.</span></p>
 
 <p><span class="chinese">我们必须在我们大城市中消除噪音。</span><span class="english">We must abate the noise in our big cities.</span></p>

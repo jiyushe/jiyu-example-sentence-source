@@ -1,5 +1,7 @@
 # foray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foray.md)
+
 <p><span class="chinese">他可能会夺占我们的田地。</span><span class="english">He might foray our lands.</span></p>
 
 <p><span class="chinese">我就这样展开了在受到大肆宣传的“第二人生”里的短暂旅程。</span><span class="english">So began my foray into the much- hyped Second Life.</span></p>

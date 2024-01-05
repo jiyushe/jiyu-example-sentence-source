@@ -1,5 +1,7 @@
 # hyphenated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyphenated.md)
+
 <p><span class="chinese">我们用电脑查找所有用连字符连接的词。</span><span class="english">We did a computer search for all the hyphenated words.</span></p>
 
 <p><span class="chinese">我甚至拒绝使用“美籍华裔”这个组合词。</span><span class="english">I refuse to even use the hyphenated term Chinese-American.</span></p>

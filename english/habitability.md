@@ -1,5 +1,7 @@
 # habitability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habitability.md)
+
 <p><span class="chinese">目的对区域每一点的适居性进行综合评价。</span><span class="english">Aim To evaluate the habitability of every spot of region.</span></p>
 
 <p><span class="chinese">这里有通过潮汐相互作用调节适居性的新方式。</span><span class="english">There are new ways to mediate habitability viatidal interactions.</span></p>

@@ -1,5 +1,7 @@
 # technicality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technicality.md)
+
 <p><span class="chinese">这一观点主要是关于术语的专门性的。</span><span class="english">This argument rests largely on a technicality.</span></p>
 
 <p><span class="chinese">上诉法院驳回了就技术细节问题的上诉。</span><span class="english">The Appeal Court rejected the appeal on a technicality.</span></p>

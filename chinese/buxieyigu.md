@@ -1,5 +1,7 @@
 # 不屑一顾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxieyigu.md)
+
 <p><span class="chinese">他对我的提议不屑一顾。</span><span class="english">He sniffed at my offer.</span></p>
 
 <p><span class="chinese">但每个人都不屑一顾。</span><span class="english">But everyone was scornful to it.</span></p>

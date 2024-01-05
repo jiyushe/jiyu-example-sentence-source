@@ -1,5 +1,7 @@
 # 危在旦夕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizaidanxi.md)
+
 <p><span class="chinese">有三条生命危在旦夕，三比一。</span><span class="english">There were three lives at stake versus one.</span></p>
 
 <p><span class="chinese">危在旦夕之际，楚河忽然从昏迷中醒来，砍倒数名龙匪，挽救众人于危难。</span><span class="english">At stake of bo Lin suddenly out of a coma, cut bottom name men, and save all dragon in distress.</span></p>

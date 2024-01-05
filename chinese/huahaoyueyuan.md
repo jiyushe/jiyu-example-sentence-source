@@ -1,5 +1,7 @@
 # 花好月圆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huahaoyueyuan.md)
+
 <p><span class="chinese">我在这里，等待最后的花好月圆。</span><span class="english">That is it, here is the final effect.</span></p>
 
 <p><span class="chinese">花好月圆得正果，美满姻缘一线牵。</span><span class="english">Flowers and fruit, a happy marriage on a string.</span></p>

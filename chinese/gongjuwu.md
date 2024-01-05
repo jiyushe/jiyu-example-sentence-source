@@ -1,5 +1,7 @@
 # 共聚物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjuwu.md)
+
 <p><span class="chinese">共聚物仍具有很好的耐热性。</span><span class="english">The solubility of the copolymers is good.</span></p>
 
 <p><span class="chinese">利用红外光谱对接枝共聚物进行了表征。</span><span class="english">The graft copolymer was indentified by IR.</span></p>

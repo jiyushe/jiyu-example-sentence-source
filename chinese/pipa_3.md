@@ -1,5 +1,7 @@
 # 琵琶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pipa_3.md)
+
 <p><span class="chinese">那人捉住一条琵琶鱼。</span><span class="english">The man caught an angler.</span></p>
 
 <p><span class="chinese">然后琵琶鱼闭上嘴。</span><span class="english">Then the angler closes her mouth.</span></p>

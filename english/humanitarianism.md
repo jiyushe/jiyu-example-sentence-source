@@ -1,5 +1,7 @@
 # humanitarianism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanitarianism.md)
+
 <p><span class="chinese">在全球约30个冲突地区和85个国家，ECHO都提供了人道主义援助。</span><span class="english">ECHO provides humanitarianism aid in 30 conflict areas and 85 countries.</span></p>
 
 <p><span class="chinese">这就是胡劲松宣称为“人道主义”的一年。</span><span class="english">This is the exact year of which Hu Jessis claimed of " humanitarianism".</span></p>

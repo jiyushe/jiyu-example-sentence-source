@@ -1,5 +1,7 @@
 # conch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conch.md)
+
 <p><span class="chinese">更有意识地控制会议进程</span><span class="english">More consciously passing the conch</span></p>
 
 <p><span class="chinese">海绵宝宝居住在贝壳街124号。</span><span class="english">Spongebob lives at 124 Conch Street.</span></p>

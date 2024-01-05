@@ -1,5 +1,7 @@
 # paragon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paragon.md)
+
 <p><span class="chinese">她的叔叔是一名劳动模范。</span><span class="english">Her uncle is a labor paragon.</span></p>
 
 <p><span class="chinese">孔子就是五岳独尊的泰山吗?。</span><span class="english">Is Confucius the paragon of Mount Tai?</span></p>

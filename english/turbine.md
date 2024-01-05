@@ -1,5 +1,7 @@
 # turbine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turbine.md)
+
 <p><span class="chinese">建设轮机间。</span><span class="english">Turbine room construction.</span></p>
 
 <p><span class="chinese">另一个涡轮曲柄出手。</span><span class="english">Another shot of the Turbine cranks.</span></p>

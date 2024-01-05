@@ -1,5 +1,7 @@
 # smacking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smacking.md)
+
 <p><span class="chinese">接吻声，仿狼嚎，吧哒嘴唇。</span><span class="english">Kissing sounds, howling, and smacking lips.</span></p>
 
 <p><span class="chinese">做出接吻声音，仿狼嚎，和吧哒嘴唇。</span><span class="english">Making kissing sounds, howling, and smacking lips.</span></p>

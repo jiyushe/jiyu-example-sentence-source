@@ -1,5 +1,7 @@
 # splotch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splotch.md)
+
 <p><span class="chinese">别在墙上乱涂乱画!</span><span class="english">Don't splotch on the wall.</span></p>
 
 <p><span class="chinese">真幸运她要是叫大污点怎么办？</span><span class="english">What if her name was Big Ugly Splotch ?</span></p>

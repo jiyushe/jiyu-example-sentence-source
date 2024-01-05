@@ -1,5 +1,7 @@
 # 轻微
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingwei_1.md)
+
 <p><span class="chinese">轻微地，非常轻微地。</span><span class="english">Slightly. Ever so slightly.</span></p>
 
 <p><span class="chinese">脚部轻微烤漆不良。</span><span class="english">Slight poor painting at leg.</span></p>

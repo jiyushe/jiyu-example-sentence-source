@@ -1,5 +1,7 @@
 # loading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loading.md)
+
 <p><span class="chinese">工人们正在上货。</span><span class="english">The workers are loading.</span></p>
 
 <p><span class="chinese">当载入一针的时候?。</span><span class="english">While loading a Stitcher?</span></p>

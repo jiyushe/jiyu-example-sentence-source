@@ -1,5 +1,7 @@
 # cmyk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cmyk.md)
+
 <p><span class="chinese">这是一本书，超过四色范围。</span><span class="english">This is a book that goes beyond CMYK.</span></p>
 
 <p><span class="chinese">CMYK是用来结合主要颜料的颜色设计方案。</span><span class="english">CMYK is a scheme for combining primary pigments.</span></p>

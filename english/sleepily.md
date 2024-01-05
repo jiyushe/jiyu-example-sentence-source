@@ -1,5 +1,7 @@
 # sleepily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleepily.md)
+
 <p><span class="chinese">Towser的声音带着倦意颤抖着。</span><span class="english">Towser's voice wavered sleepily.</span></p>
 
 <p><span class="chinese">我们爱抚着，昏睡着，你的手</span><span class="english">caressing and dozing, your hand sleepily</span></p>

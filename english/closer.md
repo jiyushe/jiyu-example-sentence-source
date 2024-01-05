@@ -1,5 +1,7 @@
 # closer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/closer.md)
+
 <p><span class="chinese">我爬了过去。</span><span class="english">I crawl closer.</span></p>
 
 <p><span class="chinese">让我们游近点。</span><span class="english">Let's swim closer.</span></p>

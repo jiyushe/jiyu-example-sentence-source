@@ -1,5 +1,7 @@
 # misdiagnose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misdiagnose.md)
+
 <p><span class="chinese">因医院错误诊断病情而在Facebook上诋毁医院</span><span class="english">Libel a hospital when they misdiagnose your illness</span></p>
 
 <p><span class="chinese">或者因生可能将其误诊为哮喘或其它感染。</span><span class="english">Or, doctor misdiagnose as asthma or another infection.</span></p>

@@ -1,5 +1,7 @@
 # 打桩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhuang.md)
+
 <p><span class="chinese">并可用作打桩、打水井等作业，其应用比较广泛。</span><span class="english">It can also be used in pile-driving, well-drilling and etc.</span></p>
 
 <p><span class="chinese">文章介绍了气动夯锤打桩的施工方法。</span><span class="english">This paper presents the construction method of pneumatic rammer piling.</span></p>

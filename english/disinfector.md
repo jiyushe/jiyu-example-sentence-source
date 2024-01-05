@@ -1,5 +1,7 @@
 # disinfector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinfector.md)
+
 <p><span class="chinese">介绍了臭氧消毒机控制系统的设计和实现。</span><span class="english">The design of the control system of the ozone disinfector is introduced.</span></p>
 
 <p><span class="chinese">结果用臭氧水消毒机生产制备的臭氧水浓度为13。</span><span class="english">Results The concentration of ozone water produced by ozone water disinfector was 13.</span></p>

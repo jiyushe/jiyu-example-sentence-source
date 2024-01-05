@@ -1,5 +1,7 @@
 # 转危为安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanweiweian.md)
+
 <p><span class="chinese">生命垂危的重病有可能不能转危为安了。</span><span class="english">There may be no turning back for life-limiting illnesses.</span></p>
 
 <p><span class="chinese">看来，多亏了糙米中的某种物质，日本海军才转危为安。</span><span class="english">There was something in that brown rice that seemed to save the day.</span></p>

@@ -1,5 +1,7 @@
 # leonid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leonid.md)
+
 <p><span class="chinese">勃列日涅夫和博塔都被扔进历史的垃圾堆中。</span><span class="english">Leonid Brezhnev and PW Botha are consigned to the dustbin of history.</span></p>
 
 <p><span class="chinese">勃列日涅夫第四次成为苏联的英雄。</span><span class="english">Leonid Brezhnev becomes the Hero of the Soviet Union for the fourth time.</span></p>

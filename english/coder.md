@@ -1,5 +1,7 @@
 # coder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coder.md)
+
 <p><span class="chinese">辽宁电动打码机，沈阳油墨，鸡蛋打码机。</span><span class="english">Liaoning Electric coder, Shenyang ink, egg coder.</span></p>
 
 <p><span class="chinese">沈阳电动打码机，沈阳油墨，鸡蛋打码机。</span><span class="english">Shenyang Electric coder, Shenyang ink, egg coder.</span></p>

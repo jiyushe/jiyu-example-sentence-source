@@ -1,5 +1,7 @@
 # home
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/home.md)
+
 <p><span class="chinese">终于到家了。</span><span class="english">Home at last.</span></p>
 
 <p><span class="chinese">我们到家了。</span><span class="english">We were home.</span></p>

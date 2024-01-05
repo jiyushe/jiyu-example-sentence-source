@@ -1,5 +1,7 @@
 # whimsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whimsy.md)
+
 <p><span class="chinese">我写过的许多书经常会横跨奇思妙想与忠告之间的界限。</span><span class="english">I've written a lot of books that straddle the line between whimsy and advice.</span></p>
 
 <p><span class="chinese">有用性可能会有益于效用的增加，但是风格、潮流、想法同样可以。</span><span class="english">Usefulness might contribute to utility, but so does style, fashion, or even whimsy.</span></p>

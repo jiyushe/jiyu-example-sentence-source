@@ -1,5 +1,7 @@
 # betty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betty.md)
+
 <p><span class="chinese">我的名字是贝蒂·里克森。</span><span class="english">My name's Betty Rixon.</span></p>
 
 <p><span class="chinese">疯狂的贝蒂是一个女巫。</span><span class="english">Batty Betty is a witch.</span></p>

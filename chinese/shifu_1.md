@@ -1,5 +1,7 @@
 # 师傅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifu_1.md)
+
 <p><span class="chinese">陈师傅说。</span><span class="english">Master Chen said.</span></p>
 
 <p><span class="chinese">但是师傅，他会杀了你。</span><span class="english">But Shifu, he'll kill you.</span></p>

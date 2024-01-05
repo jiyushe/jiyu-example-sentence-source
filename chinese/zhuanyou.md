@@ -1,5 +1,7 @@
 # 专有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyou.md)
+
 <p><span class="chinese">他们持有的是自己专有的股份。</span><span class="english">They hold their shares in severalty.</span></p>
 
 <p><span class="chinese">点到点的专有整合。</span><span class="english">Point to point proprietary integration.</span></p>

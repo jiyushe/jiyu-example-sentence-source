@@ -1,5 +1,7 @@
 # phosphorylation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphorylation.md)
+
 <p><span class="chinese">这条通路由磷酸化来控制。</span><span class="english">This pathway operates by phosphorylation.</span></p>
 
 <p><span class="chinese">我们还确定了一些水通道蛋白磷酸化位点。</span><span class="english">We also identified some phosphorylation sites in aquaporins.</span></p>

@@ -1,5 +1,7 @@
 # rapid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapid.md)
+
 <p><span class="chinese">这标志者迅速的转变。</span><span class="english">This marks a rapid shift.</span></p>
 
 <p><span class="chinese">他进步很快。</span><span class="english">He has made rapid progress.</span></p>

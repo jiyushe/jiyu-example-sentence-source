@@ -1,5 +1,7 @@
 # epicardial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epicardial.md)
+
 <p><span class="chinese">心外膜脂肪量增加与肥胖有关。</span><span class="english">Increased epicardial fat correlates with increasing total body fat.</span></p>
 
 <p><span class="chinese">心外膜表面可见粗糙的纤维蛋白渗出物。</span><span class="english">The epicardial surface of the heart shows a shaggy fibrinous exudate.</span></p>

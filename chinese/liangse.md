@@ -1,5 +1,7 @@
 # 亮色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangse.md)
+
 <p><span class="chinese">我觉得你穿亮色很不错。</span><span class="english">I think you look best in bright colors.</span></p>
 
 <p><span class="chinese">黑色与亮色对比鲜明。</span><span class="english">Black contrasts well with bright colors.</span></p>

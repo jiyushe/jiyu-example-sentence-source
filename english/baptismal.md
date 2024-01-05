@@ -1,5 +1,7 @@
 # baptismal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baptismal.md)
+
 <p><span class="chinese">这个教堂没有洗礼池。</span><span class="english">This chapel has no baptismal font.</span></p>
 
 <p><span class="chinese">包含名字，教名或者洗礼名。</span><span class="english">contains a forename, given or baptismal name.</span></p>

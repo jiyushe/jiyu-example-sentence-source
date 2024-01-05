@@ -1,5 +1,7 @@
 # 极度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jidu_1.md)
+
 <p><span class="chinese">本日极度严冷。</span><span class="english">It's very cold today.</span></p>
 
 <p><span class="chinese">“艾斯科巴，”乔说，他极度兴奋。</span><span class="english">"Escobar, " says Joe.</span></p>

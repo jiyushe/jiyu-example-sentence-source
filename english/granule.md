@@ -1,5 +1,7 @@
 # granule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granule.md)
+
 <p><span class="chinese">牛奶或奶粉冲剂1杯。</span><span class="english">Milk or milk powder granule 1 cup.</span></p>
 
 <p><span class="chinese">这就是为什么我建议食用颗粒卵磷脂。</span><span class="english">That is why I suggest the granule form to you.</span></p>

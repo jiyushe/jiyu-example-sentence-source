@@ -1,5 +1,7 @@
 # 合龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/helong.md)
+
 <p><span class="chinese">她的牙齿合龙在一起。</span><span class="english">She ground her teeth together.</span></p>
 
 <p><span class="chinese">沿海堤坝工程的合龙，不同于江河截流。</span><span class="english">The closure works for offshore dykes are different from the closure works for a river.</span></p>

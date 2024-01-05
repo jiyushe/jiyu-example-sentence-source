@@ -1,5 +1,7 @@
 # numbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numbing.md)
+
 <p><span class="chinese">我的眼睛带着迟钝和麻木的痛跳动着。</span><span class="english">My eye throbbed with a dull, numbing pain.</span></p>
 
 <p><span class="chinese">这个消息实在太惊人了，以致于他麻木到忘了哭泣。</span><span class="english">The news was too numbing for Jimmy to cry.</span></p>

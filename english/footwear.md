@@ -1,5 +1,7 @@
 # footwear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footwear.md)
+
 <p><span class="chinese">购买或浏览马格南安全鞋。</span><span class="english">Buy or Browse Magnum Safety Footwear.</span></p>
 
 <p><span class="chinese">全家适用的休闲鞋。</span><span class="english">Casual footwear for the entire family.</span></p>

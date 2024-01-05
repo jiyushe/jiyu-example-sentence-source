@@ -1,5 +1,7 @@
 # 码子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mazi.md)
+
 <p><span class="chinese">这码子事跟我没关系。</span><span class="english">That doesn't concern me.</span></p>
 
 <p><span class="chinese">经过两个月的约会后，他们决定做那码子的事。</span><span class="english">After two-month dating, they decided to go all the way.</span></p>

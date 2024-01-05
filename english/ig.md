@@ -1,5 +1,7 @@
 # ig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ig.md)
+
 <p><span class="chinese">固定式之惰气压力与含氧量记录仪是否运作正常？</span><span class="english">Are fixed IG pressure and oxygen content recorders working?</span></p>
 
 <p><span class="chinese">该研究成果为作者兰道夫·布雷克赢得了2006年的搞笑诺贝尔奖。</span><span class="english">The work won author Randolph Blake an Ig Nobel Prize in 2006.</span></p>

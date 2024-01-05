@@ -1,5 +1,7 @@
 # disqualify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disqualify.md)
+
 <p><span class="chinese">肉色或棕褐色与鼻不符合标准。</span><span class="english">A Dudley, flesh-colored or brown nose shall disqualify.</span></p>
 
 <p><span class="chinese">由于缺乏良好的教育，可能使你不适合做某些工作。</span><span class="english">The lack of a good education might disqualify you from some jobs.</span></p>

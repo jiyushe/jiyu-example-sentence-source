@@ -1,5 +1,7 @@
 # 冷面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengmian.md)
+
 <p><span class="chinese">很多人是慢慢才喜欢上她的冷面幽默的。</span><span class="english">For many people, her dry humor is an acquired taste.</span></p>
 
 <p><span class="chinese">然后，他开始担任一家报纸的专栏作家，作为冷面讲师。</span><span class="english">Then he began to work as a newspaper columnist and as a deadpan lecturer.</span></p>

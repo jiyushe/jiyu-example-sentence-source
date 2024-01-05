@@ -1,5 +1,7 @@
 # reshuffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reshuffle.md)
+
 <p><span class="chinese">他表示这是马华重组及改革的决定。</span><span class="english">He claims this is a decision to reshuffle and reform MCA.</span></p>
 
 <p><span class="chinese">在洗牌时地要先将牌背朝上，然后再洗牌。</span><span class="english">In the reshuffle when first trump back upward, then shuffle.</span></p>

@@ -1,5 +1,7 @@
 # 突兀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuwu_1.md)
+
 <p><span class="chinese">思想斗争是激烈的——但结束得太突兀。</span><span class="english">Thestruggle was great--but it ended too soon.</span></p>
 
 <p><span class="chinese">怪峰突兀。</span><span class="english">A grotesque peak thrusts itself towards the sky.</span></p>

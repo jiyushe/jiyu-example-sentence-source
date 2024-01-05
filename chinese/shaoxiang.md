@@ -1,5 +1,7 @@
 # 烧香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoxiang.md)
+
 <p><span class="chinese">闲时不烧香，临时抱佛脚。</span><span class="english">Embrace Buddha's feet in one' hour of need.</span></p>
 
 <p><span class="chinese">你要用皂荚木做一座烧香的坛。</span><span class="english">Make an altar of acacia wood for burning incense.</span></p>

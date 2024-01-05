@@ -1,5 +1,7 @@
 # 天极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianji_2.md)
+
 <p><span class="chinese">看着星星围绕南天极旋转，又一个拉西亚天文台的不眠之夜。</span><span class="english">Just another night watching the stars rotate around the southern celestial pole at La Silla Observatory.</span></p>
 
 <p><span class="chinese">这些弯曲的星迹有一个明显的圆心，这就是南天极，它位于画面左上方边缘外一点点的位置上。</span><span class="english">At the apparent center of the curving trails, the South Celestial Pole lies just off the upper left edge.</span></p>

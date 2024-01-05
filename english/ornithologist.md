@@ -1,5 +1,7 @@
 # ornithologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ornithologist.md)
+
 <p><span class="chinese">“我马上过来，”对方说。</span><span class="english">"I'll be right over, " said the ornithologist.</span></p>
 
 <p><span class="chinese">他懂得5种语言并是一名鸟类学者。</span><span class="english">He spoke five languages and was an expert ornithologist.</span></p>

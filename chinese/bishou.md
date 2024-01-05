@@ -1,5 +1,7 @@
 # 匕首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bishou.md)
+
 <p><span class="chinese">收起你的匕首。</span><span class="english">Sheathe your dagger.</span></p>
 
 <p><span class="chinese">当心工作场所的“匕首”！</span><span class="english">Beware the workplace whinger!</span></p>

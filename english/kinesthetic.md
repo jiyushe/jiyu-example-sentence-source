@@ -1,5 +1,7 @@
 # kinesthetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinesthetic.md)
+
 <p><span class="chinese">我是一个在视觉和知觉上的事物处理者。</span><span class="english">I, for one, am a visual and kinesthetic processor.</span></p>
 
 <p><span class="chinese">有些人更明了一些，有些人更直观一些，也有些人更感性，更动感一些。</span><span class="english">Some people are more visual. Some people are much more feeling and more kinesthetic.</span></p>

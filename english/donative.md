@@ -1,5 +1,7 @@
 # donative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donative.md)
+
 <p><span class="chinese">浅议赠和的房产还能要回吗？赠和的房产还能要回吗？</span><span class="english">Can donative house property still want to answer?</span></p>
 
 <p><span class="chinese">在大陆法系各国民法中，赠与都是重要的有名合同。</span><span class="english">The donative contract is typical contract in the Civil Law.</span></p>

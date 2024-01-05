@@ -1,5 +1,7 @@
 # pudding 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pudding.md)
+
 <p><span class="chinese">布丁或水果什锦。</span><span class="english">Pudding and fruit cups.</span></p>
 
 <p><span class="chinese">我想尝尝白脱布丁。</span><span class="english">I'll try the butter pudding.</span></p>

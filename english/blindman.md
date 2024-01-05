@@ -1,5 +1,7 @@
 # blindman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blindman.md)
+
 <p><span class="chinese">这位盲人非常感谢我。</span><span class="english">And the blindman thanked me very much.</span></p>
 
 <p><span class="chinese">帮助盲人是善良的行为。</span><span class="english">Helping a blindman is an act of kindness.</span></p>

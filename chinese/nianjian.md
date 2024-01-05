@@ -1,5 +1,7 @@
 # 年间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianjian.md)
+
 <p><span class="chinese">回忆定格的年间，悲伤如水般弥漫。</span><span class="english">Memory frames, sad like water diffuse.</span></p>
 
 <p><span class="chinese">寂寞相随的年间，悲伤如水般弥漫。</span><span class="english">The years lonely, sad like water diffuse.</span></p>

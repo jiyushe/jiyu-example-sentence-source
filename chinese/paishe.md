@@ -1,5 +1,7 @@
 # 拍摄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paishe.md)
+
 <p><span class="chinese">由上传者拍摄。</span><span class="english">Captured by uploader.</span></p>
 
 <p><span class="chinese">下次拍摄时我会怎么做?</span><span class="english">What I would do next time?</span></p>

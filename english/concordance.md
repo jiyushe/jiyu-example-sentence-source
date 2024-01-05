@@ -1,5 +1,7 @@
 # concordance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concordance.md)
+
 <p><span class="chinese">我们还需要一本词汇索引。</span><span class="english">We also need a concordance.</span></p>
 
 <p><span class="chinese">对体重的自我感知是把估计与测量整合到一起而产生的一种方法。</span><span class="english">Self-perception of body weight is the degree of concordance between perceived and measured weight.</span></p>

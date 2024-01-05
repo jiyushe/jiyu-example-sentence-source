@@ -1,5 +1,7 @@
 # 呋喃西林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/funanxilin.md)
+
 <p><span class="chinese">目的研究呋喃西林粉用于宫颈糜烂微波治疗术后的临床效果。</span><span class="english">Research on the efficacy of microwave-furacilin therapy against cervix erosion.</span></p>
 
 <p><span class="chinese">目的制备高浓度且质量稳定的呋喃西林溶液。</span><span class="english">Objective To prepare the furacilin solution with higher concentration and stable quality.</span></p>

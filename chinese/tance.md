@@ -1,5 +1,7 @@
 # 探测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tance.md)
+
 <p><span class="chinese">他用卜杖在我的农场中探测水源。</span><span class="english">He divined water on my farm.</span></p>
 
 <p><span class="chinese">未探测到以太网卡。</span><span class="english">No Ethernet card was detected.</span></p>

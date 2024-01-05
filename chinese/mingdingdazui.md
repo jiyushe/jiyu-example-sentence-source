@@ -1,5 +1,7 @@
 # 酩酊大醉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingdingdazui.md)
+
 <p><span class="chinese">他大部分的时间都喝得酩酊大醉。</span><span class="english">He is on the sace most of the time.</span></p>
 
 <p><span class="chinese">聚会上他喝得酩酊大醉，不慎从台阶摔下，磕破了嘴唇。</span><span class="english">He got drunk, tripped on some steps and cut his lip.</span></p>

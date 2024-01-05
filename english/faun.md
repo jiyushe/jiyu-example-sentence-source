@@ -1,5 +1,7 @@
 # faun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faun.md)
+
 <p><span class="chinese">他是一只羊怪。</span><span class="english">He was a Faun.</span></p>
 
 <p><span class="chinese">牧神代表了森林之神。</span><span class="english">A faun represents a forest god.</span></p>

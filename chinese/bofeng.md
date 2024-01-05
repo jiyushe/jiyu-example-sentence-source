@@ -1,5 +1,7 @@
 # 波峰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bofeng.md)
+
 <p><span class="chinese">绣波峰门襟底部。</span><span class="english">Embroidered crest at placket bottom.</span></p>
 
 <p><span class="chinese">适应再流焊与波峰焊。</span><span class="english">Suit for reflow and wave flow solder.</span></p>

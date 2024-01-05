@@ -1,5 +1,7 @@
 # 开关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiguan.md)
+
 <p><span class="chinese">阀门和开关。</span><span class="english">Valves and gauges.</span></p>
 
 <p><span class="chinese">请重设卡上的开关。</span><span class="english">Reset switch on card.</span></p>

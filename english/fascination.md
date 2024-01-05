@@ -1,5 +1,7 @@
 # fascination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fascination.md)
+
 <p><span class="chinese">来体验乐高顶级藏品的魅力吧。</span><span class="english">Fascination of a true collectioner.</span></p>
 
 <p><span class="chinese">令你由日到夜都能为你的面容增添光彩。</span><span class="english">Fascination added to your face from day and night.</span></p>

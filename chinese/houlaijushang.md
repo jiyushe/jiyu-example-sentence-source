@@ -1,5 +1,7 @@
 # 后来居上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houlaijushang.md)
+
 <p><span class="chinese">维勒列出的后来居上者如下</span><span class="english">Wayner lists the following as up-and-comers</span></p>
 
 <p><span class="chinese">我们将后来居上，赢得这场比赛，教练。</span><span class="english">We're going to come from behind and win this game, coach.</span></p>

@@ -1,5 +1,7 @@
 # crass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crass.md)
+
 <p><span class="chinese">作为一个地道的美国人你干得真不赖。</span><span class="english">As a crass american you do a good job.</span></p>
 
 <p><span class="chinese">是纯粹的偶然遮住了阳光雨露。</span><span class="english">Crass Casualty obstructs the sun and rain.</span></p>

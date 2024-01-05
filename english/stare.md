@@ -1,5 +1,7 @@
 # stare 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stare.md)
+
 <p><span class="chinese">我瞪着他。</span><span class="english">I stare at him.</span></p>
 
 <p><span class="chinese">我望著深红色的太阳。</span><span class="english">I stare the red sun.</span></p>

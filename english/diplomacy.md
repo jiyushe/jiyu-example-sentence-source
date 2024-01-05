@@ -1,5 +1,7 @@
 # diplomacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diplomacy.md)
+
 <p><span class="chinese">他是职业外交人员。</span><span class="english">His profession is diplomacy.</span></p>
 
 <p><span class="chinese">诶呀呀，看来我们的外交努力失败了。</span><span class="english">Well, I’d say diplomacy has failed.</span></p>

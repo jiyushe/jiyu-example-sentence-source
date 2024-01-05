@@ -1,5 +1,7 @@
 # 区域环境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quyuhuanjing.md)
+
 <p><span class="chinese">这对于改善区域环境污染有一定参考意义。</span><span class="english">It is of reference value to control the pollution of the regional environment.</span></p>
 
 <p><span class="chinese">中国的旅游业在良好的国际和区域环境中发展。</span><span class="english">China's tourism is growing in a very favourable world and regional environment.</span></p>

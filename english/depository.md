@@ -1,5 +1,7 @@
 # depository
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depository.md)
+
 <p><span class="chinese">来代替储蓄机构这个词。</span><span class="english">to a depository institution.</span></p>
 
 <p><span class="chinese">这样的收据我们称为联邦存储收据。</span><span class="english">what we call a Federal Depository Receipt.</span></p>

@@ -1,5 +1,7 @@
 # 结集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieji_1.md)
+
 <p><span class="chinese">虽然拜伦的书信有很多已经被结集出版，但有些还没有。</span><span class="english">Many of those have been collected and published, but some haven’t.</span></p>
 
 <p><span class="chinese">再一次，是用家父的故事结集成书，这是第二本书。</span><span class="english">Again , that book was my fathers short stories compiled into a book.</span></p>

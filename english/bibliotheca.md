@@ -1,5 +1,7 @@
 # bibliotheca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bibliotheca.md)
+
 <p><span class="chinese">从古老的金字塔到亚历山德里娜图书馆，无论从古老还是从前卫的角度来说，埃及现在都拥有一流的建筑精品。</span><span class="english">Between the ancient pyramids and the Bibliotheca Alexandrina, Egypt now has the best of old and new.</span></p>
 
 <p><span class="chinese">她曾就澳洲国家图书馆、埃及亚历山卓图书馆的项目发表多场演讲。</span><span class="english">She has spoken at venues ranging from the National Library of Australia to the Bibliotheca Alexandrina.</span></p>

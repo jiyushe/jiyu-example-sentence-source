@@ -1,5 +1,7 @@
 # beard 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beard.md)
+
 <p><span class="chinese">蓝胡子在喊叫着。</span><span class="english">Blue Beard called.</span></p>
 
 <p><span class="chinese">他一脸白胡子。</span><span class="english">He has white beard.</span></p>
