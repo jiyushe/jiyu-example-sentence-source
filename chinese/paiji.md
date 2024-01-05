@@ -1,5 +1,7 @@
 # 拍击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiji.md)
+
 <p><span class="chinese">你能听到轻轻的拍击声吗？</span><span class="english">Could you hear the pat?</span></p>
 
 <p><span class="chinese">怒气得到了一个坏拍击!</span><span class="english">Anger has gotten a bad rap!</span></p>

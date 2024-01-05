@@ -1,5 +1,7 @@
 # 志气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqi.md)
+
 <p><span class="chinese">我爱他有志气。</span><span class="english">I love him for his ambition.</span></p>
 
 <p><span class="chinese">可是人不能靠志气生活呀！</span><span class="english">But no one can live on pride!</span></p>

@@ -1,5 +1,7 @@
 # boron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boron.md)
+
 <p><span class="chinese">他认为在，硼的下面也有个元素。</span><span class="english">He said there should be an element under boron.</span></p>
 
 <p><span class="chinese">它有3个价电子？</span><span class="english">Would you expect to see electron promotion for boron?</span></p>

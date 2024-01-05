@@ -1,5 +1,7 @@
 # shambolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shambolic.md)
+
 <p><span class="chinese">巴基斯坦政府在灾难来临时的应对措施常被形容成“一团糟”。</span><span class="english">The aid response of Pakistan’s government has been described as shambolic.</span></p>
 
 <p><span class="chinese">我开始诅咒自己，一天疲劳之后，到头来还碰上这么乱七八糟的事。</span><span class="english">I began to curse myself for yet another shambolic conclusion to a wearying day.</span></p>

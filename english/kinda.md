@@ -1,5 +1,7 @@
 # kinda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinda.md)
+
 <p><span class="chinese">对我而言，听起来挺大的。</span><span class="english">Sounds kinda big to me.</span></p>
 
 <p><span class="chinese">是的，我有点喜欢这样。</span><span class="english">Yeah, I kinda like that.</span></p>

@@ -1,5 +1,7 @@
 # 标准语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozhunyu.md)
+
 <p><span class="chinese">我的民族标准语是汉语。</span><span class="english">My native language is Dhinese.</span></p>
 
 <p><span class="chinese">我的民族标准语是汉语。</span><span class="english">My native language is Chellonese.</span></p>

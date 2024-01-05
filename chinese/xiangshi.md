@@ -1,5 +1,7 @@
 # 乡试
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshi.md)
+
 <p><span class="chinese">乡试是科举考试中规模最大、竞争最为激烈的一级考试。</span><span class="english">Provincial examination is the most competitive and the large-scale level in Imperial Examination System.</span></p>
 
 <p><span class="chinese">同时，对于乡试人均中式率的省际差异进行了比较研究。</span><span class="english">At the same time, it makes a provincial comparison about admission ratio per capita in different provinces.</span></p>

@@ -1,5 +1,7 @@
 # appropriative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appropriative.md)
+
 <p><span class="chinese">赠送专用琴凳、琴罩。</span><span class="english">Donate the appropriative Shawayi piano bench and cover.</span></p>
 
 <p><span class="chinese">这是个非常明显的他固有的老套说辞。</span><span class="english">Well, this is hugely stereotypical, hugely appropriative.</span></p>

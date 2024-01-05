@@ -1,5 +1,7 @@
 # metonymic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metonymic.md)
+
 <p><span class="chinese">同语的理解需要运用转喻推理。</span><span class="english">The interpretation of nominal tautology requires metonymic reasoning.</span></p>
 
 <p><span class="chinese">隐喻和转喻意义扩展各有其特点。</span><span class="english">Metaphorical and metonymic sense extensions have their respective features.</span></p>

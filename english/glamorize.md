@@ -1,5 +1,7 @@
 # glamorize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glamorize.md)
+
 <p><span class="chinese">电视往往渲染暴力。</span><span class="english">Television tends to glamorize acts of violence.</span></p>
 
 <p><span class="chinese">报纸经常美化电影明星的生活。</span><span class="english">The newspapers often glamorize the lives of film stars.</span></p>

@@ -1,5 +1,7 @@
 # ellipsis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ellipsis.md)
+
 <p><span class="chinese">您一定注意到上述代码中的省略号。</span><span class="english">You no doubt noticed the ellipsis in the code above.</span></p>
 
 <p><span class="chinese">现在，让我们回到我们前面跳过的用省略号表示的代码。</span><span class="english">Now let's return to the ellipsis code we skipped earlier.</span></p>

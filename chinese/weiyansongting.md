@@ -1,5 +1,7 @@
 # 危言耸听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyansongting.md)
+
 <p><span class="chinese">这绝非危言耸听。</span><span class="english">It is not alarmism.</span></p>
 
 <p><span class="chinese">这种危言耸听的话人们很熟悉了。</span><span class="english">The alarmism is familiar.</span></p>

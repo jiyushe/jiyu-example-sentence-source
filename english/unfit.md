@@ -1,5 +1,7 @@
 # unfit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfit.md)
+
 <p><span class="chinese">于是我被划为不宜参军的人。</span><span class="english">I was classified unfit to serve.</span></p>
 
 <p><span class="chinese">今天我穿了一双不合脚的鞋。</span><span class="english">Today I wore a pair of unfit shoes.</span></p>

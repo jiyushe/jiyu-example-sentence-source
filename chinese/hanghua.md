@@ -1,5 +1,7 @@
 # 行话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanghua.md)
+
 <p><span class="chinese">你对计算机行话熟悉吗？</span><span class="english">Are you fluent in computerese?</span></p>
 
 <p><span class="chinese">你的行业有哪些行话?</span><span class="english">What’s the lingo in your industry?</span></p>

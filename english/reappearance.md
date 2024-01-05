@@ -1,5 +1,7 @@
 # reappearance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reappearance.md)
+
 <p><span class="chinese">俄罗斯的再现也令中国不安。</span><span class="english">Adding to Chinese unease is the reappearance of Russia on the scene.</span></p>
 
 <p><span class="chinese">她的重新出现使得复活哈特的亡灵巫师们也感到惊讶。</span><span class="english">Her reappearance surprised even the necromancers involved in raising Haart.</span></p>

@@ -1,5 +1,7 @@
 # malefactor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malefactor.md)
+
 <p><span class="chinese">他是一个恶毒的，坏心肠的罪犯，土匪。</span><span class="english">He's a malicious and malevolent malefactor and gangster.</span></p>
 
 <p><span class="chinese">来过的那个“小偷”正是马德兰伯伯。</span><span class="english">The " malefactor" who had been there was Father Madeleine.</span></p>

@@ -1,5 +1,7 @@
 # 不祥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxiang_1.md)
+
 <p><span class="chinese">又或者说是一种不祥的预兆？</span><span class="english">Or is it an ominous omen?</span></p>
 
 <p><span class="chinese">像不祥的鸟儿双翅翻振……</span><span class="english">Like an ominous bird a-wing...</span></p>

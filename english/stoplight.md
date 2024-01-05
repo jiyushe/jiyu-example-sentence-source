@@ -1,5 +1,7 @@
 # stoplight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stoplight.md)
+
 <p><span class="chinese">车遇到红灯停了下来，这时一个模糊的身影吸引了我的注意。</span><span class="english">At a stoplight a blur of movement draws my attention.</span></p>
 
 <p><span class="chinese">我停下车等红灯，然后看到一个无家可归的人在那里乞讨，</span><span class="english">I stopped at the stoplight and there was a homeless guy there, a beggar,</span></p>

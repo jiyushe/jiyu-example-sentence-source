@@ -1,5 +1,7 @@
 # debenture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debenture.md)
+
 <p><span class="chinese">在我的财务规划里，我买了一些企业债券。</span><span class="english">In my portfolio, I bought some debenture stock.</span></p>
 
 <p><span class="chinese">债券和股票有什么不同？</span><span class="english">What's the difference between debenture and share?</span></p>

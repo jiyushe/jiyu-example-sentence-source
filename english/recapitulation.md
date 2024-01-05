@@ -1,5 +1,7 @@
 # recapitulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recapitulation.md)
+
 <p><span class="chinese">近代沉积史看来就是过去沉积史的重演。</span><span class="english">Recent history of sedimentation is seen to be a recapitulation of the past.</span></p>
 
 <p><span class="chinese">确保及时准确地提供前厅和餐厅业务的报表。</span><span class="english">Prepare the recapitulation of all Front Office and Outlet Transactions accurately and timely.</span></p>

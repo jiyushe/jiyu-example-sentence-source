@@ -1,5 +1,7 @@
 # petulant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petulant.md)
+
 <p><span class="chinese">生气，不悦一阵愠怒。</span><span class="english">A fit of petulant sulkiness.</span></p>
 
 <p><span class="chinese">我们，是不会被这个讨厌的愚人所替代的。</span><span class="english">We will not be swept aside by this petulant fool!</span></p>

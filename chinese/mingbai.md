@@ -1,5 +1,7 @@
 # 明白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingbai.md)
+
 <p><span class="chinese">但他心里明白。</span><span class="english">But he knows.</span></p>
 
 <p><span class="chinese">嗯——嗯，我明白了。</span><span class="english">Uh-huh, I see.</span></p>

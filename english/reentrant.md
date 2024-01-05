@@ -1,5 +1,7 @@
 # reentrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reentrant.md)
+
 <p><span class="chinese">见”编写可重入函数“。</span><span class="english">See Making a Function Reentrant.</span></p>
 
 <p><span class="chinese">可重入函数不能调用不可重入的函数。</span><span class="english">A reentrant function must not call non-reentrant functions.</span></p>

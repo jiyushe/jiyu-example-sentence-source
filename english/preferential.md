@@ -1,5 +1,7 @@
 # preferential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preferential.md)
+
 <p><span class="chinese">这是优惠价。</span><span class="english">This is the preferential price.</span></p>
 
 <p><span class="chinese">您能得到优惠价。</span><span class="english">You can get a preferential price.</span></p>

@@ -1,5 +1,7 @@
 # luminary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luminary.md)
+
 <p><span class="chinese">原来他是一个古代的大官啊！</span><span class="english">Wow, he was a local luminary in ancient times!</span></p>
 
 <p><span class="chinese">这是太阳永存的星，并且它的名字永远称为太阳。</span><span class="english">The great luminary which is named the sun, for ever and ever.</span></p>

@@ -1,5 +1,7 @@
 # riffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riffle.md)
+
 <p><span class="chinese">免费浅滩婴儿阿富汗模式。</span><span class="english">Free riffle baby afghan pattern.</span></p>
 
 <p><span class="chinese">一颗子弹穿过心脏。</span><span class="english">A riffle bullet clean through the heart.</span></p>

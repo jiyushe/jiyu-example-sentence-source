@@ -1,5 +1,7 @@
 # 屈膝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quxi.md)
+
 <p><span class="chinese">她行了个屈膝礼。</span><span class="english">She gave a curtsy.</span></p>
 
 <p><span class="chinese">她走过时对他行了一个屈膝礼。</span><span class="english">She swept him a curtsy.</span></p>

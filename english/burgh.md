@@ -1,5 +1,7 @@
 # burgh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burgh.md)
+
 <p><span class="chinese">劳伦斯·伯格的人生态度一向比较严谨。</span><span class="english">Lawrence Burgh has a sober outlook on life.</span></p>
 
 <p><span class="chinese">星期六的下午三点，我们在博格房见面。</span><span class="english">At three Saturday afternoon, we met at Burgh House.</span></p>

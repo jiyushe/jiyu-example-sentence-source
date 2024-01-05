@@ -1,5 +1,7 @@
 # 见面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianmian_1.md)
+
 <p><span class="chinese">午夜与他见面.</span><span class="english">Meet him at mid-night.</span></p>
 
 <p><span class="chinese">世界也真小，又见面了！</span><span class="english">Small world, isn't it?</span></p>

@@ -1,5 +1,7 @@
 # indecisive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indecisive.md)
+
 <p><span class="chinese">这时，你会变得犹豫不决。</span><span class="english">You then become indecisive.</span></p>
 
 <p><span class="chinese">感觉像是有些恍惚和犹豫不决。</span><span class="english">As in being spacy and indecisive.</span></p>

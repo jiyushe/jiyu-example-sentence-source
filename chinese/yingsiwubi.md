@@ -1,5 +1,7 @@
 # 营私舞弊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingsiwubi.md)
+
 <p><span class="chinese">我敢说他在选举中肯定营私舞弊。</span><span class="english">I dare say he jobs in elections.</span></p>
 
 <p><span class="chinese">这家美国公司营私舞弊极为严重。</span><span class="english">This American company is steeped in fraud up the armpits.</span></p>

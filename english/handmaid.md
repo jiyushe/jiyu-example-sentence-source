@@ -1,5 +1,7 @@
 # handmaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handmaid.md)
+
 <p><span class="chinese">辟拉是拉结的婢女。</span><span class="english">Bilhah the handmaid of Rachel.</span></p>
 
 <p><span class="chinese">瞧瞧月亮的侍女。</span><span class="english">Behold the handmaid of the moon.</span></p>

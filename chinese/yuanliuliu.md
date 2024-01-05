@@ -1,5 +1,7 @@
 # 圆溜溜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanliuliu.md)
+
 <p><span class="chinese">他长着黑白相间的猫，还有一双圆溜溜的大眼睛。</span><span class="english">He long with black and white cat, as well as a pair of round Yo's big eyes.</span></p>
 
 <p><span class="chinese">它的头上鼓着一双圆溜溜的大眼睛，长着大嘴巴、小鼻子。</span><span class="english">Its round yo head drum with a pair of big eyes, long a big mouth, small nose.</span></p>

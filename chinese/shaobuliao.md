@@ -1,5 +1,7 @@
 # 少不了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaobuliao.md)
+
 <p><span class="chinese">更少不了多喝几盅。</span><span class="english">Must have drinks several cups.</span></p>
 
 <p><span class="chinese">当然少不了的还有2.5英寸液晶显示屏。</span><span class="english">There is a 2.5-inch LCD display.</span></p>

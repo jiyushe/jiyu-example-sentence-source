@@ -1,5 +1,7 @@
 # panamanian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panamanian.md)
+
 <p><span class="chinese">浴着她的巴拿马月光。</span><span class="english">Neath her Panamanian moon.</span></p>
 
 <p><span class="chinese">在巴拿马警察逮捕他时，索菲亚和他儿子小林肯跑开了。</span><span class="english">As the Panamanian police capture him, Sofia and LJ run.</span></p>

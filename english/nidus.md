@@ -1,5 +1,7 @@
 # nidus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nidus.md)
+
 <p><span class="chinese">的病灶被视为在所有患者。</span><span class="english">The nidus was seen well in all patients.</span></p>
 
 <p><span class="chinese">淮南地区存在毛毕属吸虫自然疫源地。</span><span class="english">Natural nidus of Trichobilharzia exists in Huainan area.</span></p>

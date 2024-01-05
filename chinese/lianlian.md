@@ -1,5 +1,7 @@
 # 涟涟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianlian.md)
+
 <p><span class="chinese">悲伤的我泪水涟涟。</span><span class="english">Sad tears I cannot hold.</span></p>
 
 <p><span class="chinese">脸苍白泪涟涟。</span><span class="english">With tears on my pale face.</span></p>

@@ -1,5 +1,7 @@
 # ciliated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ciliated.md)
+
 <p><span class="chinese">粘膜上皮主要为单层柱状纤毛细胞。</span><span class="english">Most of the epithelia are ciliated columnar cells.</span></p>
 
 <p><span class="chinese">浮浪幼体腔肠动物其扁平的，能自由浮游的，有纤毛的幼体。</span><span class="english">The flat, free-swimming, ciliated larva of a coelenterate.</span></p>

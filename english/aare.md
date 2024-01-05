@@ -1,5 +1,7 @@
 # aare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aare.md)
+
 <p><span class="chinese">别人休息时你学习。</span><span class="english">Study while others aare sleeping.</span></p>
 
 <p><span class="chinese">这四件行李都是你们的吗？</span><span class="english">AAre these four pieces all your luggage?</span></p>

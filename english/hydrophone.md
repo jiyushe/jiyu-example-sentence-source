@@ -1,5 +1,7 @@
 # hydrophone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrophone.md)
+
 <p><span class="chinese">本文建立了矢量水听器的拾振模型，并分析推导了其拾振条件。</span><span class="english">The model of vibration picking for a vector hydrophone is established.</span></p>
 
 <p><span class="chinese">第五，矢量水听器时间反转镜被动定位技术研究。</span><span class="english">Fifth, the paper studies TRM passive localization with vector hydrophone.</span></p>

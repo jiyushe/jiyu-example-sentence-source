@@ -1,5 +1,7 @@
 # immunosorbent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunosorbent.md)
+
 <p><span class="chinese">符合条件的进行酶联免疫吸附试验。</span><span class="english">Conditioned media was analyzed with enzyme-linked immunosorbent assay.</span></p>
 
 <p><span class="chinese">方法用酶联免疫吸附法测定尿微量蛋白。</span><span class="english">Methods Using Enzyme Immunosorbent Assay detected urine micro protein.</span></p>

@@ -1,5 +1,7 @@
 # satisfaction 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satisfaction.md)
+
 <p><span class="chinese">他的微笑表示他满意了。</span><span class="english">His smile betoken his satisfaction.</span></p>
 
 <p><span class="chinese">一切都让你满意吗?。</span><span class="english">Is everything to your satisfaction?</span></p>

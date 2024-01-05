@@ -1,5 +1,7 @@
 # effluvium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effluvium.md)
+
 <p><span class="chinese">甚至还有一个名称的话，休止期臭气。</span><span class="english">There's even a name for it, Telogen Effluvium.</span></p>
 
 <p><span class="chinese">是慢性静止期脱发还是雄性秃发?。</span><span class="english">Chronic telogen effluvium or early androgenetic alopecia?</span></p>

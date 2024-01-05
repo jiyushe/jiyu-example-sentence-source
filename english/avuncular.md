@@ -1,5 +1,7 @@
 # avuncular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avuncular.md)
+
 <p><span class="chinese">他开始讲话了，态度极其和蔼而慈祥。</span><span class="english">He began to talk in his most gentle and avuncular manner.</span></p>
 
 <p><span class="chinese">他用长辈的口气劝告年轻的同事。</span><span class="english">He adopt an avuncular tone of voice when give advice to junior colleagues.</span></p>

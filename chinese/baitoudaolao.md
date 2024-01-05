@@ -1,5 +1,7 @@
 # 白头到老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baitoudaolao.md)
+
 <p><span class="chinese">然而我还是祝愿妳们白头到老，幸福美满。</span><span class="english">Whenas I wish you both a lifetime of happiness.</span></p>
 
 <p><span class="chinese">祝你们白头到老。幸福美满。</span><span class="english">Here's wishing you both a lifetime of happiness.</span></p>

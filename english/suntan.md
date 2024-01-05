@@ -1,5 +1,7 @@
 # suntan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suntan.md)
+
 <p><span class="chinese">闻闻防晒油。</span><span class="english">Smell the suntan lotion.</span></p>
 
 <p><span class="chinese">夏天怎么样可以不晒黑？</span><span class="english">How need not summer suntan ?</span></p>

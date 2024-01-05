@@ -1,5 +1,7 @@
 # timeline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timeline.md)
+
 <p><span class="chinese">然而，我可以确定一个时间线吗？</span><span class="english">But can I put that on a timeline?</span></p>
 
 <p><span class="chinese">使用时间轴调整按键输入速度。</span><span class="english">Use the Timeline to change keystroke speed.</span></p>

@@ -1,5 +1,7 @@
 # gabion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gabion.md)
+
 <p><span class="chinese">格宾网箱施工怎样组装？</span><span class="english">Gabion construction how to assemble?</span></p>
 
 <p><span class="chinese">格宾网又称格宾笼，格宾网箱。</span><span class="english">Also called gabion mesh gabion box, gabion.</span></p>

@@ -1,5 +1,7 @@
 # polyandry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyandry.md)
+
 <p><span class="chinese">在一妻多夫制的情况下，女人一般也会嫁给她原本丈夫的兄弟。</span><span class="english">In fraternal polyandry the woman is expected to marry each of her original husband's brothers.</span></p>
 
 <p><span class="chinese">一妻多夫制已在此沿袭了数个世纪，但仅过了一代人，多夫制风俗便已近消失殆竭。</span><span class="english">Polyandry has been practiced here for centuries, but in a single generation it has all but vanished.</span></p>

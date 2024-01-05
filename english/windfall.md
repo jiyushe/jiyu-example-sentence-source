@@ -1,5 +1,7 @@
 # windfall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windfall.md)
+
 <p><span class="chinese">我刚发了笔意外之财。</span><span class="english">I just got a windfall.</span></p>
 
 <p><span class="chinese">我们以为那是一场意外之财。</span><span class="english">We thought they were a windfall.</span></p>

@@ -1,5 +1,7 @@
 # supercharge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supercharge.md)
+
 <p><span class="chinese">想要为您的自尊心加加油了吧。</span><span class="english">So you want to supercharge your self esteem.</span></p>
 
 <p><span class="chinese">增压你小子的阅读，数学和学校的成功。</span><span class="english">Supercharge your kid's reading, math and school success.</span></p>

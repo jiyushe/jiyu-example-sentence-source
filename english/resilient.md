@@ -1,5 +1,7 @@
 # resilient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resilient.md)
+
 <p><span class="chinese">什么是最有韧劲白勺寄生物？</span><span class="english">What is the most resilient parasite?</span></p>
 
 <p><span class="chinese">外国直接投资表现颇佳</span><span class="english">Foreign direct investment proved resilient</span></p>

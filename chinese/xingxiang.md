@@ -1,5 +1,7 @@
 # 形相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxiang.md)
+
 <p><span class="chinese">装饰着你不可思议的形相。</span><span class="english">To deck Thy wondrous form.</span></p>
 
 <p><span class="chinese">几根形相可疑的废铁件堆在一个角落里。</span><span class="english">In one corner lay some ironmongery of dubious aspect.</span></p>

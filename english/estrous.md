@@ -1,5 +1,7 @@
 # estrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estrous.md)
+
 <p><span class="chinese">体的水生陆生或寄生环节动物。</span><span class="english">Having one estrous cycle per year. Used of certain mammals.</span></p>
 
 <p><span class="chinese">本文对小鼠动情周期子宫肥大细胞数量变化的机制进行了讨论。</span><span class="english">These findings indicate that uterine mast cell number varied in estrous cycle in mice.</span></p>

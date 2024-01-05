@@ -1,5 +1,7 @@
 # coyly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coyly.md)
+
 <p><span class="chinese">“哇！”青蛙向前跳了亲近的一步。</span><span class="english">The frog croaked and jumped coyly.</span></p>
 
 <p><span class="chinese">她撅着嘴害羞地看着他。</span><span class="english">She pouted and looked at him coyly.</span></p>

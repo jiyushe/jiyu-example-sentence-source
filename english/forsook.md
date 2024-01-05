@@ -1,5 +1,7 @@
 # forsook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forsook.md)
+
 <p><span class="chinese">他的两颊没有血色。</span><span class="english">The blood forsook his cheeks.</span></p>
 
 <p><span class="chinese">门徒都离开他逃走了。</span><span class="english">And they all forsook him, and fled.</span></p>

@@ -1,5 +1,7 @@
 # engender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engender.md)
+
 <p><span class="chinese">产生一种良好的双向的问题讨论</span><span class="english">Engender a good two-way discussion of issues</span></p>
 
 <p><span class="chinese">他能够让你更快的找到爱情或者加深感情。</span><span class="english">It can help you find love or engender more love.</span></p>

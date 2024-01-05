@@ -1,5 +1,7 @@
 # reorient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reorient.md)
+
 <p><span class="chinese">中国必须根据新的形势重新调整其外交政策。</span><span class="english">China had to reorient her foreign policy according to the new situation.</span></p>
 
 <p><span class="chinese">人们已经开始借这次衰退来调整经济了。</span><span class="english">People are already using this economic slowdown to retool and reorient economies.</span></p>

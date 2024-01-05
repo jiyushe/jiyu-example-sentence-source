@@ -1,5 +1,7 @@
 # lignocellulose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lignocellulose.md)
+
 <p><span class="chinese">木质纤维素的结构导致其不易降解。</span><span class="english">The structure of lignocellulose makes it hard to be degraded.</span></p>
 
 <p><span class="chinese">木质纤维素是地球上数量最丰富的可再生性资源。</span><span class="english">Lignocellulose is the most abundant renewable resource in the world.</span></p>

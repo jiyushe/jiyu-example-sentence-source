@@ -1,5 +1,7 @@
 # hosea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hosea.md)
+
 <p><span class="chinese">在何西阿书中可以读到这些。</span><span class="english">Read the Book of Hosea about this.</span></p>
 
 <p><span class="chinese">希伯来的先知曾经说过，“噢，我们可以感知上帝！</span><span class="english">Hosea once said, "Oh, that we might know the Lord!</span></p>

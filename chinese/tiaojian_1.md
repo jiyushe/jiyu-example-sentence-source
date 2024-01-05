@@ -1,5 +1,7 @@
 # 条件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaojian_1.md)
+
 <p><span class="chinese">条件性。</span><span class="english">Conditional.</span></p>
 
 <p><span class="chinese">我们接受您的条件。</span><span class="english">We accept your terms.</span></p>

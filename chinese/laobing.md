@@ -1,5 +1,7 @@
 # 痨病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laobing.md)
+
 <p><span class="chinese">他的病本来就不像是痨病。</span><span class="english">It is not consumption at all , it seems.</span></p>
 
 <p><span class="chinese">不用再怕脑溢血了，痨病却还存在。</span><span class="english">Apoplexy is no longer to be feared, but phthisis is there.</span></p>

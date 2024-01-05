@@ -1,5 +1,7 @@
 # rant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rant.md)
+
 <p><span class="chinese">当我怒吼的时候，请原谅我。</span><span class="english">Excuse me while I rant.</span></p>
 
 <p><span class="chinese">对负面的咆哮方式说抱歉。</span><span class="english">Sorry about the negative rant.</span></p>

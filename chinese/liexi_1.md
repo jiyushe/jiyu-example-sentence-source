@@ -1,5 +1,7 @@
 # 裂隙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liexi_1.md)
+
 <p><span class="chinese">它在这个裂隙并且出来。</span><span class="english">It’s jointed and it comes out.</span></p>
 
 <p><span class="chinese">一名男子站在出现裂隙的道路上。</span><span class="english">A man stands atop a fissured road.</span></p>

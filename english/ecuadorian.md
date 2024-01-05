@@ -1,5 +1,7 @@
 # ecuadorian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecuadorian.md)
+
 <p><span class="chinese">我们减持了厄瓜多尔债券。</span><span class="english">We took an underweight position in Ecuadorian bonds.</span></p>
 
 <p><span class="chinese">厄瓜多尔人民珍视同中国人民的友谊。</span><span class="english">The Ecuadorian people treasure their friendship with the Chinese people.</span></p>

@@ -1,5 +1,7 @@
 # ave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ave.md)
+
 <p><span class="chinese">所有的工作都完成了，你们可以休息了。</span><span class="english">All te ork done, you can ave a rest.</span></p>
 
 <p><span class="chinese">我可以在诺曼蒂大街让您下车。</span><span class="english">I can drop you off at normandie ave.</span></p>

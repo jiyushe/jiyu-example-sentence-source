@@ -1,5 +1,7 @@
 # 师团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shituan_1.md)
+
 <p><span class="chinese">片冈师团长亲自用刀开路。</span><span class="english">Kataoka himself cut the jungle by sword and made a route.</span></p>
 
 <p><span class="chinese">安德森1977年至1978年曾在美陆军第二师团司令部服役。</span><span class="english">Anderson from 1977 to 1978 the second division in the U. S.</span></p>

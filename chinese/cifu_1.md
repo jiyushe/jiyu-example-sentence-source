@@ -1,5 +1,7 @@
 # 赐福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cifu_1.md)
+
 <p><span class="chinese">这就是一个蒙神赐福的人。</span><span class="english">Such is the blessed man.</span></p>
 
 <p><span class="chinese">我今年运气不好，所以就到这儿来‘冲喜’，请求赐福让好事来到我身边。</span><span class="english">I had bad luck this year.</span></p>

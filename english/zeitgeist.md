@@ -1,5 +1,7 @@
 # zeitgeist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zeitgeist.md)
+
 <p><span class="chinese">而如今它已然成了时代精神的中心。</span><span class="english">Now it's at the center of the zeitgeist.</span></p>
 
 <p><span class="chinese">现在，车轮真正转动起来而他们也成为时代精神的一部分”。</span><span class="english">Now that wheel is really rolling and they are part of the zeitgeist.</span></p>

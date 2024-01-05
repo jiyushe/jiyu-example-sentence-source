@@ -1,5 +1,7 @@
 # suntanned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suntanned.md)
+
 <p><span class="chinese">怎么让晒黑的皮肤变白呐？</span><span class="english">How to make suntanned skin whiten?</span></p>
 
 <p><span class="chinese">怎样可以恢复晒黑的皮肤啊?。</span><span class="english">How can you restore suntanned skin?</span></p>

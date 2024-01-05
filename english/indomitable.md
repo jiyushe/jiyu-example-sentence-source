@@ -1,5 +1,7 @@
 # indomitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indomitable.md)
+
 <p><span class="chinese">人的精神就是不屈不挠的。</span><span class="english">The human spirit is indomitable.</span></p>
 
 <p><span class="chinese">畏怯那不屈不挠的勇气！</span><span class="english">Awed by that indomitable courage!</span></p>

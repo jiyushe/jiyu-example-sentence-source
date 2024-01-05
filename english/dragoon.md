@@ -1,5 +1,7 @@
 # dragoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dragoon.md)
+
 <p><span class="chinese">你一定会成为优秀的骑兵的。</span><span class="english">You will make a fine dragoon , young man.</span></p>
 
 <p><span class="chinese">这龙骑兵大个儿象婴儿似的毫无办法。</span><span class="english">The big dragoon was as helpless as a baby.</span></p>

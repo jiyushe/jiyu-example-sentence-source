@@ -1,5 +1,7 @@
 # 却步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quebu.md)
+
 <p><span class="chinese">有意向的买者并不会因此却步。</span><span class="english">Would-be buyers are not deterred.</span></p>
 
 <p><span class="chinese">暗能量依旧是一个更加令人却步的问题。</span><span class="english">Dark energy is a more daunting problem still.</span></p>

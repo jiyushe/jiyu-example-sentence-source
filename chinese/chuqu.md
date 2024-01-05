@@ -1,5 +1,7 @@
 # 出去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuqu.md)
+
 <p><span class="chinese">滚出去。</span><span class="english">Get out.</span></p>
 
 <p><span class="chinese">去把垃圾拖出去。</span><span class="english">Pull it out.</span></p>

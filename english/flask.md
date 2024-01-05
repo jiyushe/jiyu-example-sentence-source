@@ -1,5 +1,7 @@
 # flask
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flask.md)
+
 <p><span class="chinese">不要动长颈瓶。</span><span class="english">Do not move the flask.</span></p>
 
 <p><span class="chinese">你把A放到长颈瓶里。</span><span class="english">You put your A in your flask.</span></p>

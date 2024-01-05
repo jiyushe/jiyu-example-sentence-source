@@ -1,5 +1,7 @@
 # 一条龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yitiaolong.md)
+
 <p><span class="chinese">一条龙服务。</span><span class="english">A dragon service.</span></p>
 
 <p><span class="chinese">就是些像杀死了一条龙之类的事件而已。</span><span class="english">Like killing a dragon.</span></p>

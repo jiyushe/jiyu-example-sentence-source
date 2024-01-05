@@ -1,5 +1,7 @@
 # 传送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuansong.md)
+
 <p><span class="chinese">那边的传送门是什么？</span><span class="english">What is that portal there?</span></p>
 
 <p><span class="chinese">进入你身后的传送门。</span><span class="english">Enter the portal behind you.</span></p>

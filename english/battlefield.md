@@ -1,5 +1,7 @@
 # battlefield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/battlefield.md)
+
 <p><span class="chinese">战场上枪炮林立。</span><span class="english">The battlefield was bristled with guns.</span></p>
 
 <p><span class="chinese">疆场的景象令人毛骨悚然。</span><span class="english">The sight of the battlefield was horrible.</span></p>

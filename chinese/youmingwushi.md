@@ -1,5 +1,7 @@
 # 有名无实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmingwushi.md)
+
 <p><span class="chinese">1793年起法国有名无实的国王。</span><span class="english">Titular king of France from 1793.</span></p>
 
 <p><span class="chinese">特里大笑着说，“你只不过是这个考察队的一个有名无实的小头目。”</span><span class="english">You’re just the figurehead for this expedition.</span></p>

@@ -1,5 +1,7 @@
 # parallel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parallel.md)
+
 <p><span class="chinese">这两条线是平行的。</span><span class="english">The two lines are parallel.</span></p>
 
 <p><span class="chinese">看看一个相似的例子。</span><span class="english">And, you can see a parallel.</span></p>

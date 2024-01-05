@@ -1,5 +1,7 @@
 # 叛逃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pantao.md)
+
 <p><span class="chinese">那名科学家叛逃到另一国家了。</span><span class="english">The scientist defected to another country.</span></p>
 
 <p><span class="chinese">两年以后，伯吉斯和麦克莱恩叛逃了。</span><span class="english">Two years later, burgess and maclean defected.</span></p>

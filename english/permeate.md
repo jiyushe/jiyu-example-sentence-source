@@ -1,5 +1,7 @@
 # permeate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permeate.md)
+
 <p><span class="chinese">水能渗透吸水纸。</span><span class="english">Water will permeate blotting paper.</span></p>
 
 <p><span class="chinese">水很容易渗透棉布衣服。</span><span class="english">Water will easily permeate a cotton dress.</span></p>

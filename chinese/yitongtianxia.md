@@ -1,5 +1,7 @@
 # 一统天下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yitongtianxia.md)
+
 <p><span class="chinese">若是蜀国一统天下了，斩与不斩就都是对的了。</span><span class="english">If Shu rule all the land, chopping and not cut is right.</span></p>
 
 <p><span class="chinese">转基因油菜作物不可能将一统天下。</span><span class="english">The transgenic canola plants are not about to take over the world.</span></p>

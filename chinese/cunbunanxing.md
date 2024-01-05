@@ -1,5 +1,7 @@
 # 寸步难行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cunbunanxing.md)
+
 <p><span class="chinese">我遇上了高峰时间的车辆，寸步难行。</span><span class="english">I got caught in the rush-hour traffic.</span></p>
 
 <p><span class="chinese">可是一把椅子拦住了她的路，让她寸步难行。</span><span class="english">The chair was stuck to her and she could hardly walk.</span></p>

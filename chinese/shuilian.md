@@ -1,5 +1,7 @@
 # 睡莲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilian.md)
+
 <p><span class="chinese">星星在睡莲中开放。</span><span class="english">Stars open among the lilies.</span></p>
 
 <p><span class="chinese">她的脚像睡莲那样吗？</span><span class="english">Has it feet like water-lilies?</span></p>

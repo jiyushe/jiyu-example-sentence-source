@@ -1,5 +1,7 @@
 # 珍品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenpin.md)
+
 <p><span class="chinese">现代汝窑珍品。</span><span class="english">Modern your kiln treasures.</span></p>
 
 <p><span class="chinese">这些古董是希世珍品。</span><span class="english">These antiques are curiosities.</span></p>

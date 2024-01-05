@@ -1,5 +1,7 @@
 # 工效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongxiao.md)
+
 <p><span class="chinese">木质样机是用来对环境工效进行配置以及修正样机的。</span><span class="english">This wooden plane is used for configuration ergonomics and correction of drafts.</span></p>
 
 <p><span class="chinese">在大多数情况下，设备在第一年内收回成本工效。</span><span class="english">In most cases, the cost of ergonomics equipment is recouped within the first year.</span></p>

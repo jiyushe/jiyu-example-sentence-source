@@ -1,5 +1,7 @@
 # 部署
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushu_1.md)
+
 <p><span class="chinese">然后，部署该文件。</span><span class="english">Next, deploy the file.</span></p>
 
 <p><span class="chinese">部署启动材料。</span><span class="english">Deploy enablement materials.</span></p>

@@ -1,5 +1,7 @@
 # 脚脖子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaobozi.md)
+
 <p><span class="chinese">我可以请教大家脚脖子是指脚踝吗?。</span><span class="english">I think he meant the ankle.</span></p>
 
 <p><span class="chinese">他又伸下手去搔一搔脚脖子。</span><span class="english">I tickled him with a feather.</span></p>

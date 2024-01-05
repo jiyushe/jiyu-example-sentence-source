@@ -1,5 +1,7 @@
 # 积冰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jibing.md)
+
 <p><span class="chinese">由于多积冰，在北极附近水域航行是危险的。</span><span class="english">Navigation dangerous on area around the North Pole due to pack ice.</span></p>
 
 <p><span class="chinese">而太乙冰洞地处终南胜境，洞内积冰更是终年不化。</span><span class="english">While the second ice located in Zhongnanshan Shengjing, icing is not year-round.</span></p>

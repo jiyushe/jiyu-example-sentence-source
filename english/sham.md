@@ -1,5 +1,7 @@
 # sham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sham.md)
+
 <p><span class="chinese">你，你这个冒牌的驯象师！</span><span class="english">You are a sham elephant trainer!</span></p>
 
 <p><span class="chinese">这些是真的钻石还是膺品？</span><span class="english">Are these real diamonds or only sham?</span></p>

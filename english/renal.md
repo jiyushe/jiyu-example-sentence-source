@@ -1,5 +1,7 @@
 # renal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renal.md)
+
 <p><span class="chinese">损伤肾小球。</span><span class="english">Damage renal glomerulus.</span></p>
 
 <p><span class="chinese">而且，肾脏替代疗法的费用很高。</span><span class="english">And renal replacement therapy is expensive.</span></p>

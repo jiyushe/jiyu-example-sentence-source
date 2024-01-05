@@ -1,5 +1,7 @@
 # intrepidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intrepidity.md)
+
 <p><span class="chinese">他的部队是众所周知及其无畏。</span><span class="english">His troop were well known as its intrepidity.</span></p>
 
 <p><span class="chinese">学习传统，大胆创新。</span><span class="english">We should learn from the tradition and innovate intrepidity.</span></p>

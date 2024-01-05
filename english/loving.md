@@ -1,5 +1,7 @@
 # loving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loving.md)
+
 <p><span class="chinese">啊，我的欢爱！</span><span class="english">Oh, my loving dear!</span></p>
 
 <p><span class="chinese">谢谢你爱我。</span><span class="english">Thank you for loving me.</span></p>

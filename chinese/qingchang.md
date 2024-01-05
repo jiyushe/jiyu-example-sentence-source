@@ -1,5 +1,7 @@
 # 情场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingchang.md)
+
 <p><span class="chinese">她是一个情场高手。</span><span class="english">She is a real flirt.</span></p>
 
 <p><span class="chinese">所有人都在说汤姆是个情场高手。</span><span class="english">Everybody says Tom is a lady-killer.</span></p>

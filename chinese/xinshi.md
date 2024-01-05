@@ -1,5 +1,7 @@
 # 信使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshi.md)
+
 <p><span class="chinese">你魔鬼的邪恶的信使。</span><span class="english">Foul pre-currer of the fiend.</span></p>
 
 <p><span class="chinese">中英双语。杀死信使。</span><span class="english">ChrisRock. Kill. The. Messenger.</span></p>

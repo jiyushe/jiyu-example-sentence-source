@@ -1,5 +1,7 @@
 # 预谋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yumou.md)
+
 <p><span class="chinese">犯罪是预谋好的。</span><span class="english">The crime was premeditated.</span></p>
 
 <p><span class="chinese">摧毁马尔戴克是有预谋的。</span><span class="english">The destruction of Maldek was premeditated.</span></p>

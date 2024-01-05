@@ -1,5 +1,7 @@
 # recluse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recluse.md)
+
 <p><span class="chinese">隐士隐居者，遁世者，尤。</span><span class="english">A recluse or hermit, especially a religious recluse.</span></p>
 
 <p><span class="chinese">给我一种遁世，让我独自吟唱那如鸟鸣的随性之歌。</span><span class="english">Give me to warble spontaneous songs recluse by myself.</span></p>

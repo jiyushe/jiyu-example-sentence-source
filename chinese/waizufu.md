@@ -1,5 +1,7 @@
 # 外祖父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waizufu.md)
+
 <p><span class="chinese">被他的外祖父。</span><span class="english">By his grandfather.</span></p>
 
 <p><span class="chinese">您的外祖父看起来人很好！</span><span class="english">Your grandfather has a very kindly air.</span></p>

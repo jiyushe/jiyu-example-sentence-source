@@ -1,5 +1,7 @@
 # contorted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contorted.md)
+
 <p><span class="chinese">他的脸都气歪了。</span><span class="english">His face was contorted with anger.</span></p>
 
 <p><span class="chinese">一阵剧烈的疼痛扭歪了他的脸。</span><span class="english">A spasm of pain contorted his face.</span></p>

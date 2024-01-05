@@ -1,5 +1,7 @@
 # acth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acth.md)
+
 <p><span class="chinese">目的观察补锌对急性冷应激大鼠ACTH分泌及小鼠耐寒力的影响。</span><span class="english">AIM To study the effects of zinc on ACTH secretion and cold endurance in animals.</span></p>
 
 <p><span class="chinese">目的分析和探讨垂体ACTH腺瘤的诊断和治疗。</span><span class="english">Objective To analysis and discus the diagnosis and treatment of pituitary ACTH adenoma.</span></p>

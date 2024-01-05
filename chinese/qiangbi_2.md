@@ -1,5 +1,7 @@
 # 枪毙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangbi_2.md)
+
 <p><span class="chinese">你的朋友刚才把你枪毙了。</span><span class="english">Your friends have just shot you.</span></p>
 
 <p><span class="chinese">奥斯汀预料自己会被当场枪毙。</span><span class="english">Austin expected to be shot on the spot.</span></p>

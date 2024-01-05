@@ -1,5 +1,7 @@
 # 兄长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongzhang.md)
+
 <p><span class="chinese">我的兄长将我刺死。</span><span class="english">My brother struck me dead.</span></p>
 
 <p><span class="chinese">我是你的朋友和兄长。</span><span class="english">I am your friend and brother.</span></p>

@@ -1,5 +1,7 @@
 # within 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/within.md)
+
 <p><span class="chinese">把羊赶进羊圈里面去。</span><span class="english">Get the sheep within.</span></p>
 
 <p><span class="chinese">这个体式来自你的内在。</span><span class="english">It comes from within.</span></p>

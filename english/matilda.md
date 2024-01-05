@@ -1,5 +1,7 @@
 # matilda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matilda.md)
+
 <p><span class="chinese">谁要跟我一起来带著背包流浪？</span><span class="english">Who'll come a- waltzing Matilda with me?</span></p>
 
 <p><span class="chinese">“我们手里拿着海龟蛋，”马蒂尔德说。</span><span class="english">“We had eggs in our hands, ” Matilda said.</span></p>

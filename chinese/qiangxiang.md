@@ -1,5 +1,7 @@
 # 强项
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangxiang.md)
+
 <p><span class="chinese">他的强项在于他的坚忍。</span><span class="english">His strength lies in his perseverance.</span></p>
 
 <p><span class="chinese">那是我们政府的强项与强音。</span><span class="english">That is the forte and forte of our govement.</span></p>

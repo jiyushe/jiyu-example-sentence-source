@@ -1,5 +1,7 @@
 # 一揽子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilanzi.md)
+
 <p><span class="chinese">而是用的“一揽子增长计划“</span><span class="english">He uses the word "growth package."</span></p>
 
 <p><span class="chinese">不过，总体来说，一揽子计划还是利大于弊的。</span><span class="english">Still, overall, it does more good than harm.</span></p>

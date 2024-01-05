@@ -1,5 +1,7 @@
 # lies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lies.md)
+
 <p><span class="chinese">谎言，全是谎言。</span><span class="english">A lie, all lies.</span></p>
 
 <p><span class="chinese">s层在4d层下面。</span><span class="english">s lies below 4d.</span></p>

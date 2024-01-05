@@ -1,5 +1,7 @@
 # adhesive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adhesive.md)
+
 <p><span class="chinese">我要两条粘胶带。</span><span class="english">I need two strips of adhesive tape.</span></p>
 
 <p><span class="chinese">粘贴型斜纹棉布保护填充垫</span><span class="english">Moleskin adhesive protection padding</span></p>

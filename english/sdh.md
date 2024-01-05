@@ -1,5 +1,7 @@
 # sdh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sdh.md)
+
 <p><span class="chinese">目前的SDH传输网处于多厂商设备环境下。</span><span class="english">SDH transfer network is a multi-vendor environment.</span></p>
 
 <p><span class="chinese">是基于SDH的多业务传送平台。</span><span class="english">MSTP is multiservice transport platform based on SDH.</span></p>

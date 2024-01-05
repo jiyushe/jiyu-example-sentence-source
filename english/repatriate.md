@@ -1,5 +1,7 @@
 # repatriate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repatriate.md)
+
 <p><span class="chinese">外国人如何将卖房款汇回国内？</span><span class="english">How can I repatriate the funds from the sale of house?</span></p>
 
 <p><span class="chinese">干得好，把其他美国官员揪出来，然后遣返。</span><span class="english">Well done. Find out some other US officials and repatriate them.</span></p>

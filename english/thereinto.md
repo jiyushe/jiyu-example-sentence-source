@@ -1,5 +1,7 @@
 # thereinto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thereinto.md)
+
 <p><span class="chinese">在诸多的环境问题中，大气污染是一个十分严重的问题。</span><span class="english">Thereinto , atmosphere pollution is one of a good many serious problems.</span></p>
 
 <p><span class="chinese">公司现有员工300余人，其中工程技术人员约60人。</span><span class="english">Chinehwa has more than 300 employees, thereinto , more than 60 technical engineers.</span></p>

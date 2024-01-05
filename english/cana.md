@@ -1,5 +1,7 @@
 # cana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cana.md)
+
 <p><span class="chinese">这在加利利的一个小城迦拿发生。</span><span class="english">This happened in a small town of Cana in Galilee.</span></p>
 
 <p><span class="chinese">耶稣在加利利的迦南行了这个第一次的神迹。</span><span class="english">Jesus performed this first miracle in Cana in Galilee.</span></p>

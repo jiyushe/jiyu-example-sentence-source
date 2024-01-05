@@ -1,5 +1,7 @@
 # narwhal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narwhal.md)
+
 <p><span class="chinese">独角鲸的再次出现则要到第二年的五月，但到那时海面上的冰块早已不知了去向。</span><span class="english">The narwhal do not arrive until May, but by then the sea ice is long gone.</span></p>
 
 <p><span class="chinese">其实这怪物并非什么独角鲸，而是一艘构造奇妙的潜水船。</span><span class="english">In fact, this monster not a narwhal , but a wonderful dive boat construction.</span></p>

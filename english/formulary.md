@@ -1,5 +1,7 @@
 # formulary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formulary.md)
+
 <p><span class="chinese">⑻谓词公式的分类。</span><span class="english">The classification with ⑻ formulary predication.</span></p>
 
 <p><span class="chinese">按规定周期做好设备的清洁工作。</span><span class="english">Press formulary cycle well equipment cleaning job.</span></p>

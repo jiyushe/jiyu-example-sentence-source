@@ -1,5 +1,7 @@
 # 左顾右盼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoguyoupan.md)
+
 <p><span class="chinese">她考试从不左顾右盼。</span><span class="english">She never copies during examinations.</span></p>
 
 <p><span class="chinese">但是很多男人并没结束自己左顾右盼的心理和行为。</span><span class="english">However, So many men do not stop grazing round.</span></p>

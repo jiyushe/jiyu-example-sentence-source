@@ -1,5 +1,7 @@
 # unconfirmed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconfirmed.md)
+
 <p><span class="chinese">这一说法的真实性未经证实。</span><span class="english">Whether this is true or not is unconfirmed.</span></p>
 
 <p><span class="chinese">各大银行对传闻的会议直播计划忧心忡忡。</span><span class="english">Banks also worry about unconfirmed plans to televise the conference.</span></p>

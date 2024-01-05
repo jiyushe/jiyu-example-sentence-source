@@ -1,5 +1,7 @@
 # 樵夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaofu.md)
+
 <p><span class="chinese">樵夫是做什么的呀?。</span><span class="english">What does a woodcutter do?</span></p>
 
 <p><span class="chinese">吃的是像一个樵夫。</span><span class="english">And he ate like a lumberjack.</span></p>

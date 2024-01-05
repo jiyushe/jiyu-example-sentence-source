@@ -1,5 +1,7 @@
 # weeds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weeds.md)
+
 <p><span class="chinese">恶习易染。</span><span class="english">Ill weeds grow apace.</span></p>
 
 <p><span class="chinese">他们挖掉杂草。</span><span class="english">They dug out the weeds.</span></p>

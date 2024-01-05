@@ -1,5 +1,7 @@
 # airlift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airlift.md)
+
 <p><span class="chinese">空运扭转了围攻战的战局。</span><span class="english">Airlift tipped the balance of the sieges.</span></p>
 
 <p><span class="chinese">正是这些渴望促成了空运的开始。</span><span class="english">It is because of these aspirations that the airlift began.</span></p>

@@ -1,5 +1,7 @@
 # conceited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conceited.md)
+
 <p><span class="chinese">你很卑鄙，而且很自负。</span><span class="english">You're coarse, and you're conceited.</span></p>
 
 <p><span class="chinese">不骄不躁，不浮不傲。</span><span class="english">Conceited or rash, do not float is not proud.</span></p>

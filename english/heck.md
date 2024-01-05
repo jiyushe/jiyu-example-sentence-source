@@ -1,5 +1,7 @@
 # heck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heck.md)
+
 <p><span class="chinese">活见鬼了？</span><span class="english">What the heck?</span></p>
 
 <p><span class="chinese">他可怎么才能做到幽默呢？</span><span class="english">How the heck does he do that?</span></p>

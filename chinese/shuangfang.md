@@ -1,5 +1,7 @@
 # 双方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangfang.md)
+
 <p><span class="chinese">我们双方都应该受益。</span><span class="english">Both of us must benefit.</span></p>
 
 <p><span class="chinese">然后双方冲锋。</span><span class="english">Then both sides charged.</span></p>

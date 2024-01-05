@@ -1,5 +1,7 @@
 # 屁滚尿流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pigunniaoliu.md)
+
 <p><span class="chinese">是什么把杰克吓得屁滚尿流?</span><span class="english">What is it that has Jack spooked?</span></p>
 
 <p><span class="chinese">如果你做事情的方式不对，你会输得屁滚尿流。</span><span class="english">If you don’t approach things right you can lose your ass.</span></p>

@@ -1,5 +1,7 @@
 # skiing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skiing.md)
+
 <p><span class="chinese">在下雪天滑雪。</span><span class="english">Go skiing on a snowy day.</span></p>
 
 <p><span class="chinese">你喜欢花样滑雪吗？</span><span class="english">Do you like figure skiing?</span></p>

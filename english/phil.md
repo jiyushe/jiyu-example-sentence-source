@@ -1,5 +1,7 @@
 # phil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phil.md)
+
 <p><span class="chinese">戴夫菲尔．沃森的电话。</span><span class="english">DAVE Phil Watson's phone.</span></p>
 
 <p><span class="chinese">艾咪和菲尔两个我们都喜欢。</span><span class="english">We like Amy and Phil both.</span></p>

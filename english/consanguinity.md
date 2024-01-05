@@ -1,5 +1,7 @@
 # consanguinity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consanguinity.md)
+
 <p><span class="chinese">因此这两个种亲缘上是相近的。</span><span class="english">Therefore the two species were close in consanguinity.</span></p>
 
 <p><span class="chinese">从其字面上看，它明显就是血缘关系的一种模拟。</span><span class="english">It's a kind of simulation to the consanguinity obviously.</span></p>

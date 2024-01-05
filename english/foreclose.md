@@ -1,5 +1,7 @@
 # foreclose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreclose.md)
+
 <p><span class="chinese">银行有很多理由不去实施止赎.</span><span class="english">Banks have many reasons not to foreclose.</span></p>
 
 <p><span class="chinese">如果你不，贷方将排除在回家。</span><span class="english">If you don't , the lender will foreclose on the home.</span></p>

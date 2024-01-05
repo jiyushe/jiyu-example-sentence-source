@@ -1,5 +1,7 @@
 # becquerel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/becquerel.md)
+
 <p><span class="chinese">甚至在个别地区检测出2.8万贝克勒尔。</span><span class="english">Detected in some areas even 28,000 Becquerel.</span></p>
 
 <p><span class="chinese">其实，最早发现是一个名叫贝克勒尔的人。</span><span class="english">In fact, the first found to be a man named Henri Becquerel.</span></p>

@@ -1,5 +1,7 @@
 # 眨眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhayan.md)
+
 <p><span class="chinese">思考、眨眼还是在上面睡觉？</span><span class="english">Think, blink or sleep on it?</span></p>
 
 <p><span class="chinese">我很喜欢那眨眼驱动自拍器。</span><span class="english">I love the wink-driven self-timer.</span></p>

@@ -1,5 +1,7 @@
 # chardonnay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chardonnay.md)
+
 <p><span class="chinese">就像一只苍蝇毁了你一瓶昂贵的夏敦奈。</span><span class="english">It's a black fly in your Chardonnay.</span></p>
 
 <p><span class="chinese">典雅的霞多丽风格伴随着新鲜果味。</span><span class="english">An elegant style of Chardonnay with fresh flavours.</span></p>

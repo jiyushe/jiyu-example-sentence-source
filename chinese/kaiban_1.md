@@ -1,5 +1,7 @@
 # 开班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiban_1.md)
+
 <p><span class="chinese">你待会儿去开班会吗？</span><span class="english">Are you going to the class meeting later?</span></p>
 
 <p><span class="chinese">我不知道什么时候开班会。</span><span class="english">I don't know when to have the class meeting.</span></p>

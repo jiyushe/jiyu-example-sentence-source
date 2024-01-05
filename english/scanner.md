@@ -1,5 +1,7 @@
 # scanner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scanner.md)
+
 <p><span class="chinese">我觉得这台扫描仪老跟我作对。</span><span class="english">I suppose the scanner hates me.</span></p>
 
 <p><span class="chinese">我们可以买一台新扫瞄器吗?。</span><span class="english">Can we afford buying a new scanner?</span></p>

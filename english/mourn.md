@@ -1,5 +1,7 @@
 # mourn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mourn.md)
+
 <p><span class="chinese">也在追悼我们的爱情。</span><span class="english">And mourn for our love.</span></p>
 
 <p><span class="chinese">但是我们不应该哀悼。</span><span class="english">But we should not mourn.</span></p>

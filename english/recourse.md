@@ -1,5 +1,7 @@
 # recourse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recourse.md)
+
 <p><span class="chinese">他唯一解套的办法是辞职。</span><span class="english">His only recourse was to resign.</span></p>
 
 <p><span class="chinese">他力陈马上采取行动的必要性。</span><span class="english">New means must of necessity be had recourse to.</span></p>

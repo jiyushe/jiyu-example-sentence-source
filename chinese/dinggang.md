@@ -1,5 +1,7 @@
 # 顶岗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinggang.md)
+
 <p><span class="chinese">文章就顶岗实习的全面管理进行了初步探讨。</span><span class="english">The paper mainly researches on total management of post practice.</span></p>
 
 <p><span class="chinese">文章就纺织专业顶岗实习的柔性管理进行了初步探讨。</span><span class="english">The Paper mainly researches on flexible management of textile speciality.</span></p>

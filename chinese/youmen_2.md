@@ -1,5 +1,7 @@
 # 油门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmen_2.md)
+
 <p><span class="chinese">于是他踩下油门。</span><span class="english">Hence he trampled accelerator.</span></p>
 
 <p><span class="chinese">我这时将油门从加力状态下收回。</span><span class="english">I bring the throttles out of AB.</span></p>

@@ -1,5 +1,7 @@
 # benin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benin.md)
+
 <p><span class="chinese">科托努贝宁北部几内亚湾附近城市。</span><span class="english">A city of southern Benin on the Gulf of Guinea.</span></p>
 
 <p><span class="chinese">我想到，在贝宁湾的朋友今晚的晚餐吃的是什么呢？</span><span class="english">What were my friends in Benin eating for dinner tonight?</span></p>

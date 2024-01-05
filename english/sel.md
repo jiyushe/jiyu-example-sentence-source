@@ -1,5 +1,7 @@
 # sel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sel.md)
+
 <p><span class="chinese">我决不会和这么自私的家伙合作。</span><span class="english">I will never cooperate with such a sel sh guy.</span></p>
 
 <p><span class="chinese">请确实在贵方的汇票上，附上整套装船文件。</span><span class="english">Please be sure to attach a full sel of shipping documents to your draft.</span></p>

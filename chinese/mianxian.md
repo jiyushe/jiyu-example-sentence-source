@@ -1,5 +1,7 @@
 # 棉线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianxian.md)
+
 <p><span class="chinese">胡安娜说棉线修眉也“比使用蜜蜡更加准确。</span><span class="english">Threading is also "more defined than waxing.</span></p>
 
 <p><span class="chinese">我想，他的头发是棕色的，并且他穿着一件黑色长袖棉线衫。</span><span class="english">He had brown hair, I think, and he was wearing a black sweatshirt.</span></p>

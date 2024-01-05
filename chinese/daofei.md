@@ -1,5 +1,7 @@
 # 倒飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daofei.md)
+
 <p><span class="chinese">飞机正在表演倒飞和其他绝技。</span><span class="english">The aeroplanes were flying upside down and doing other stunts.</span></p>
 
 <p><span class="chinese">蜂鸟是唯一可以倒飞的鸟类。</span><span class="english">Hummingbirds are the only types of birds that can fly backwards.</span></p>

@@ -1,5 +1,7 @@
 # visual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visual.md)
+
 <p><span class="chinese">运用视觉教具。</span><span class="english">Use visual aids.</span></p>
 
 <p><span class="chinese">欢迎来到视觉炸弹！</span><span class="english">Welcom to Visual Bomb!</span></p>

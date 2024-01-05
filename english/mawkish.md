@@ -1,5 +1,7 @@
 # mawkish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mawkish.md)
+
 <p><span class="chinese">爱情从来免不了多愁善感。</span><span class="english">Mawkish sentimentality, affection, or amorousness.</span></p>
 
 <p><span class="chinese">还要有温柔——但在生活中追求它难道不看似一件矫情的事吗？</span><span class="english">And tenderness, too—but does that appear a mawkish thing to desiderate in life?</span></p>

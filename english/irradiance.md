@@ -1,5 +1,7 @@
 # irradiance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irradiance.md)
+
 <p><span class="chinese">下面示光子贴图和抗锯齿的设置。</span><span class="english">Below there are Irradiance map and Antialiasing settings.</span></p>
 
 <p><span class="chinese">辐射的发射强度和辐照度是两个互补的概念。</span><span class="english">The concepts of radiant emittance and of irradiance are complementary.</span></p>

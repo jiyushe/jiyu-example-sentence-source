@@ -1,5 +1,7 @@
 # syntax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syntax.md)
+
 <p><span class="chinese">最后一个成分是语法</span><span class="english">Finally, syntax.</span></p>
 
 <p><span class="chinese">请注意简单句法。</span><span class="english">Note the simple syntax.</span></p>

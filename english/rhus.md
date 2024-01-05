@@ -1,5 +1,7 @@
 # rhus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhus.md)
+
 <p><span class="chinese">几种盐肤木属植物的染色体观察。</span><span class="english">The chromosome observation on 4 species in the genus Rhus.</span></p>
 
 <p><span class="chinese">本文叙述了漆树茎次生韧皮部各组成分子的超微结构。</span><span class="english">The ultrastructure of the secondary phloem of Rhus verniciflua Stokes was studies.</span></p>

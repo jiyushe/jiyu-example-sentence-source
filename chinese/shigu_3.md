@@ -1,5 +1,7 @@
 # 石鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shigu_3.md)
+
 <p><span class="chinese">石鼓书院是中国历史上盛名天下的“四大书院”之一。</span><span class="english">The Stone Drum Academy is one of the four famous academies.</span></p>
 
 <p><span class="chinese">宋、元、明、清时期，一些官员、学者以及生徒常在石鼓书院雅集，兴味浓厚。</span><span class="english">Governmental officials, scholars and students often held special meeting in Shi-gu Academy.</span></p>

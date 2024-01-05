@@ -1,5 +1,7 @@
 # 追索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuisuo.md)
+
 <p><span class="chinese">债券持有者们放弃了一些债务追索权。</span><span class="english">Bondholders have forgiven debts.</span></p>
 
 <p><span class="chinese">无追索权的营运资本贷款</span><span class="english">Non-Recourse Working Capital Bank Loans</span></p>

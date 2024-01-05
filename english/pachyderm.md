@@ -1,5 +1,7 @@
 # pachyderm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pachyderm.md)
+
 <p><span class="chinese">怎样才能让大象远离你家的花园？</span><span class="english">How do you keep a pachyderm out of your garden?</span></p>
 
 <p><span class="chinese">在英国的一个野生动物园里一头象堪称毕加索。</span><span class="english">And pachyderm turns Picassoat a safari park in Britain.</span></p>

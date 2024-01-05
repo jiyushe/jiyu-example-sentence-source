@@ -1,5 +1,7 @@
 # sidon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sidon.md)
+
 <p><span class="chinese">耶稣离开那里，退到推罗西顿的境内去。</span><span class="english">Leaving that place, Jesus withdrew to the region of Tyre and Sidon.</span></p>
 
 <p><span class="chinese">耶稣离开那里，退到推罗西顿的境内去。</span><span class="english">Then Jesus went thence, and departed into the coasts of Tyre and Sidon.</span></p>

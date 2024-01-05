@@ -1,5 +1,7 @@
 # tribe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tribe.md)
+
 <p><span class="chinese">一个部落征服另一个部落。</span><span class="english">One tribe conquered another one.</span></p>
 
 <p><span class="chinese">其中一个是有关布农族的。</span><span class="english">One is about Bunun tribe. In Sept.</span></p>

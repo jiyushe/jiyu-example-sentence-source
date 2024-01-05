@@ -1,5 +1,7 @@
 # 延长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanchang.md)
+
 <p><span class="chinese">我要求国会延长这一权力的有效期限。</span><span class="english">I ask Congress to renew it.</span></p>
 
 <p><span class="chinese">句子可以无限延长</span><span class="english">There's no longest sentence.</span></p>

@@ -1,5 +1,7 @@
 # 开学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaixue.md)
+
 <p><span class="chinese">各校今天开学。</span><span class="english">Schools open today.</span></p>
 
 <p><span class="chinese">好像是开学第二周。</span><span class="english">Like second week or something.</span></p>

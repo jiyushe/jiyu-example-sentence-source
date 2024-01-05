@@ -1,5 +1,7 @@
 # speechless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speechless.md)
+
 <p><span class="chinese">我无话可说。</span><span class="english">I’m speechless.</span></p>
 
 <p><span class="chinese">我一时语塞。</span><span class="english">I was speechless.</span></p>

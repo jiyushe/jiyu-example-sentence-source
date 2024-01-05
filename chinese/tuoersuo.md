@@ -1,5 +1,7 @@
 # 托儿所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoersuo.md)
+
 <p><span class="chinese">把托儿所带回家中。</span><span class="english">Put a creche in your home.</span></p>
 
 <p><span class="chinese">这就像托儿所系统一样。</span><span class="english">This is like a creche system.</span></p>

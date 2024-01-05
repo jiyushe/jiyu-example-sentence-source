@@ -1,5 +1,7 @@
 # pinnacle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinnacle.md)
+
 <p><span class="chinese">品尼高点在第五洞。</span><span class="english">The fifth hole at Pinnacle Point.</span></p>
 
 <p><span class="chinese">过去品尼高安装必须的。</span><span class="english">Past Pinnacle installation a MUST.</span></p>

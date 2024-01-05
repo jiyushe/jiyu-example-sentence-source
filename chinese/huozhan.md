@@ -1,5 +1,7 @@
 # 货栈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huozhan.md)
+
 <p><span class="chinese">商店和货栈都停业了。</span><span class="english">The shops and warehouses are all closed.</span></p>
 
 <p><span class="chinese">这大货栈背朝江河。</span><span class="english">The large warehouse backs on to the river.</span></p>

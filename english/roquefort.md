@@ -1,5 +1,7 @@
 # roquefort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roquefort.md)
+
 <p><span class="chinese">雷孟达允许这个白痴一点小小的胜利。</span><span class="english">De Roquefort allowed the fool a victory.</span></p>
 
 <p><span class="chinese">“我要第一个投票，”雷孟达说。</span><span class="english">“I shall vote first, ” de Roquefort said.</span></p>

@@ -1,5 +1,7 @@
 # handbag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handbag.md)
+
 <p><span class="chinese">买一个皮革手袋。</span><span class="english">Buy a leather handbag.</span></p>
 
 <p><span class="chinese">这是你的手拎包吗?。</span><span class="english">Is thellos your handbag?</span></p>

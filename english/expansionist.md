@@ -1,5 +1,7 @@
 # expansionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expansionist.md)
+
 <p><span class="chinese">极权政府是建立一个持久的、扩张的政府。</span><span class="english">Totalitarians construct a regime that is persistent and expansionist.</span></p>
 
 <p><span class="chinese">在军事扩张主义的推动下，第二次中日战争在1937年爆发了。</span><span class="english">Fuelled by an expansionist military, the second Sino-Japanese War began in 1937.</span></p>

@@ -1,5 +1,7 @@
 # deflexion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deflexion.md)
+
 <p><span class="chinese">采用偏转法对RPQ产额进行了校正。</span><span class="english">The calibration of RPQ yields by deflexion was described.</span></p>
 
 <p><span class="chinese">研究了程序控制墨滴的偏转位移的实现方法。</span><span class="english">The program of controlling the deflexion distance of ink is researched.</span></p>

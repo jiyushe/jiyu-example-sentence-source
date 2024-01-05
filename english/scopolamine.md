@@ -1,5 +1,7 @@
 # scopolamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scopolamine.md)
+
 <p><span class="chinese">对于更加严重的症状，他推荐服用东莨菪碱或异丙嗪。</span><span class="english">For more severe symptoms, he recommends taking scopolamine or promethazine.</span></p>
 
 <p><span class="chinese">组除不用东莨菪碱外，其他治疗同A组。</span><span class="english">B group patients were treated as A group patients except without scopolamine.</span></p>

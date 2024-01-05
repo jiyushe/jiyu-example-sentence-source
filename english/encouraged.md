@@ -1,5 +1,7 @@
 # encouraged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encouraged.md)
+
 <p><span class="chinese">其它鼓励类项目。</span><span class="english">Other encouraged projects.</span></p>
 
 <p><span class="chinese">听了他说的话，我倍受鼓舞。</span><span class="english">I was encouraged by what he said.</span></p>

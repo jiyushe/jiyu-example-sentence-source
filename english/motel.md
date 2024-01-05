@@ -1,5 +1,7 @@
 # motel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motel.md)
+
 <p><span class="chinese">两个久别重逢的爱人去了汽车旅馆。</span><span class="english">The reunited lovers rush to a motel.</span></p>
 
 <p><span class="chinese">我第一次是在一家汽车旅馆的浴室。</span><span class="english">The first one I went into was in a motel bathroom.</span></p>

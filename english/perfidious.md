@@ -1,5 +1,7 @@
 # perfidious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perfidious.md)
+
 <p><span class="chinese">女人是邪淫寡信的。</span><span class="english">Woman is perfidious and disingenuous.</span></p>
 
 <p><span class="chinese">这是德国人拥有的最出色而危险的俯冲轰炸机。</span><span class="english">It was the most perfidious and dangerous dive bomber the Germans had.</span></p>

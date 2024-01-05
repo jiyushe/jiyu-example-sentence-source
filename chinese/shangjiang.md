@@ -1,5 +1,7 @@
 # 上将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangjiang.md)
+
 <p><span class="chinese">他的父亲是五星上将。</span><span class="english">His father is five-star general.</span></p>
 
 <p><span class="chinese">您必须在签名簿上将他们签出。</span><span class="english">You need to sign the student out.</span></p>

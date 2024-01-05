@@ -1,5 +1,7 @@
 # purine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purine.md)
+
 <p><span class="chinese">腺嘌呤具有嘌呤环的结构。</span><span class="english">Adenine has a purine ring structure.</span></p>
 
 <p><span class="chinese">痛风是由于嘌呤代谢异常引起的疾病。</span><span class="english">Gout is caused by abnormal metabolism of purine.</span></p>

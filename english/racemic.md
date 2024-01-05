@@ -1,5 +1,7 @@
 # racemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racemic.md)
+
 <p><span class="chinese">考察了一些手性化合物在该固定相上的拆分。</span><span class="english">Optical resolution of a range of racemic compounds was investigated.</span></p>
 
 <p><span class="chinese">用酵母进行了氧化拆分外消旋1，2-丙二醇的试验研究。</span><span class="english">This paper studied the resolution of racemic 1,2-propanediol with bakers yeast.</span></p>

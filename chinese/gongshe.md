@@ -1,5 +1,7 @@
 # 公设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshe.md)
+
 <p><span class="chinese">从公设的基础上严谨地推演几何学。</span><span class="english">Geometry is developed rigorously from a postulational base.</span></p>
 
 <p><span class="chinese">文中提出了电路理论的两个基本公设和一个假设。</span><span class="english">Two basic postulates and a hypothesis in circuit theory are provided.</span></p>

@@ -1,5 +1,7 @@
 # 祖祖辈辈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzubeibei.md)
+
 <p><span class="chinese">我家祖祖辈辈都是农民。</span><span class="english">Our family have been farmers for generations.</span></p>
 
 <p><span class="chinese">约20户人家，他们祖祖辈辈都是住在大山上。</span><span class="english">About 20 people, for generations are living in the mountains.</span></p>

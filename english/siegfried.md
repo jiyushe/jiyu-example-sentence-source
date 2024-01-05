@@ -1,5 +1,7 @@
 # siegfried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siegfried.md)
+
 <p><span class="chinese">这是1916年齐格弗里德·沙逊穿军装的样子。</span><span class="english">This is Siegfried Sassoon in uniform in 1916.</span></p>
 
 <p><span class="chinese">西格弗里德畏缩了，退避到墙根。</span><span class="english">Siegfried cringed and shrank against the wall.</span></p>

@@ -1,5 +1,7 @@
 # 东魏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongwei.md)
+
 <p><span class="chinese">北朝营建机制研究??以东魏邺南城建设为例。</span><span class="english">Building Mechanism in Northern Dynasty??Taking Southern Ye as an Example.</span></p>
 
 <p><span class="chinese">天龙山东西两峰的悬崖腰部，有东魏，北齐、隋、唐开凿的24个洞窟。</span><span class="english">Yongsan-day peak of the two things back the cliff, Eastern Wei, Northern Qi, Sui , Tang 24 dug caves.</span></p>

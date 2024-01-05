@@ -1,5 +1,7 @@
 # croesus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croesus.md)
+
 <p><span class="chinese">你现在很富有了，是个大财主了。</span><span class="english">You are rich as Croesus now!</span></p>
 
 <p><span class="chinese">现在他富得流油。</span><span class="english">Now he is richer than Croesus.</span></p>

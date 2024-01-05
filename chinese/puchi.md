@@ -1,5 +1,7 @@
 # 扑哧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puchi.md)
+
 <p><span class="chinese">扑哧，又一个关于俄罗斯的谎言？</span><span class="english">Ooops. Lies about Russia, again?</span></p>
 
 <p><span class="chinese">她忍不住扑哧一笑。</span><span class="english">She could not conceal a snort of laughter.</span></p>

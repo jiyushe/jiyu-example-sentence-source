@@ -1,5 +1,7 @@
 # 汽缸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qigang.md)
+
 <p><span class="chinese">我们把汽缸盖给炸掉了。</span><span class="english">We blowed out a cylinder-head.</span></p>
 
 <p><span class="chinese">开始在汽缸镗的位置。</span><span class="english">Initial cylinder boring on location.</span></p>

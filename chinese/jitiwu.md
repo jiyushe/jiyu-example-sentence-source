@@ -1,5 +1,7 @@
 # 集体舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jitiwu.md)
+
 <p><span class="chinese">跳集体舞的时候我们都穿了百褶裙。</span><span class="english">We all wore pleated skirts for that dance.</span></p>
 
 <p><span class="chinese">我已经习惯每天去跳集体舞，既简单又轻松。</span><span class="english">I am used to doing group dancing every day, which is simple and relaxing.</span></p>

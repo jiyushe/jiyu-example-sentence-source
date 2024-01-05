@@ -1,5 +1,7 @@
 # corrode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corrode.md)
+
 <p><span class="chinese">铁制工具易受腐蚀。</span><span class="english">Iron tools corrode easily.</span></p>
 
 <p><span class="chinese">酸使金属腐蚀。</span><span class="english">Acid causes metal to corrode.</span></p>

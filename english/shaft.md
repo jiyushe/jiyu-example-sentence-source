@@ -1,5 +1,7 @@
 # shaft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaft.md)
+
 <p><span class="chinese">轴带发电机?。</span><span class="english">Shaft generator?</span></p>
 
 <p><span class="chinese">传动轴带保护离合器。</span><span class="english">Cardan shaft with clutch.</span></p>

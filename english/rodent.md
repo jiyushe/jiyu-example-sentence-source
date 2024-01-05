@@ -1,5 +1,7 @@
 # rodent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rodent.md)
+
 <p><span class="chinese">如何鉴定它一直是争论的焦点，是啮齿类异或灵长类？</span><span class="english">Is it a rodent? A primate?</span></p>
 
 <p><span class="chinese">方法用ELTON夹夜法对鼠密度进行调查。</span><span class="english">Methods Investigating the rodent density by ELTON.</span></p>

@@ -1,5 +1,7 @@
 # 陪伴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiban.md)
+
 <p><span class="chinese">一点也不，我需要有人陪伴。</span><span class="english">Not at all- I need company.</span></p>
 
 <p><span class="chinese">他陪伴她去巴黎。</span><span class="english">He accompanied her to Paris.</span></p>

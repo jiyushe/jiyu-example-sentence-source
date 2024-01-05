@@ -1,5 +1,7 @@
 # rudiment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rudiment.md)
+
 <p><span class="chinese">杯状蚴已具备成虫神经系统的雏形。</span><span class="english">The Cotylocidium have found to possessing nervous system rudiment.</span></p>
 
 <p><span class="chinese">事实上，产生原基的倾向，有时的确是这样遗传的。</span><span class="english">A mere tendency to produce a rudiment is indeed sometimes thus inherited.</span></p>

@@ -1,5 +1,7 @@
 # illocutionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illocutionary.md)
+
 <p><span class="chinese">言语行为包括言内行为、言外行为和言后行为。</span><span class="english">Speech act includes locutionary act, illocutionary act and perlocutionary act.</span></p>
 
 <p><span class="chinese">对言语活动的分析是研究更多言外之意的另一种途经。</span><span class="english">So the analysis of the speech event is another way for studying more illocutionary acts.</span></p>

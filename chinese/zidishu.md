@@ -1,5 +1,7 @@
 # 子弟书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zidishu.md)
+
 <p><span class="chinese">子弟书作家运用多种方式化长为短，对原著进行不同程度的改编。</span><span class="english">The writers of Zidishu used many ways to change long novel into a short one.</span></p>
 
 <p><span class="chinese">这其中，在北方影响最大、成就最高的当数子弟书。</span><span class="english">Affects in the north is biggest, the achievement highest works as the number juniors book.</span></p>

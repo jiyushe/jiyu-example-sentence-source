@@ -1,5 +1,7 @@
 # 主旋律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuxuanlv.md)
+
 <p><span class="chinese">这才是我们新时代的主旋律。</span><span class="english">This is the main theme of our new era.</span></p>
 
 <p><span class="chinese">当然，这一主旋律也有变奏。</span><span class="english">Of course, there are variations to this theme.</span></p>

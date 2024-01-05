@@ -1,5 +1,7 @@
 # 窃窃私语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieqiesiyu.md)
+
 <p><span class="chinese">书册们在窃窃私语。</span><span class="english">The books are whispering.</span></p>
 
 <p><span class="chinese">让梦中窃窃私语的蜜蜂</span><span class="english">Let the murmurous bees of sleep</span></p>

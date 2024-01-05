@@ -1,5 +1,7 @@
 # 重茬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongcha.md)
+
 <p><span class="chinese">抗枯萎病能力强，耐重茬，耐旱，适应广。</span><span class="english">Resistant to blight, tolerate to re-plant and drought. Wide adaption.</span></p>
 
 <p><span class="chinese">大豆重茬造成的危害，一直是大豆生产中的主要问题。</span><span class="english">Hazards of soybean continous planting are existent key problem of soybean production.</span></p>

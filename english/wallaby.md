@@ -1,5 +1,7 @@
 # wallaby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wallaby.md)
+
 <p><span class="chinese">皮雪蔓，瓦鲁比路42号，悉尼。</span><span class="english">P. Sherman, 42 Wallaby Way, Sydney.</span></p>
 
 <p><span class="chinese">我要去见一个人，商量一下关于一个小袋鼠的事情。</span><span class="english">I'm going to see a man about a wallaby.</span></p>

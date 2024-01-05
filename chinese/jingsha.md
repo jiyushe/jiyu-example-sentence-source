@@ -1,5 +1,7 @@
 # 经纱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingsha.md)
+
 <p><span class="chinese">在该系统中，经纱被送入织机。</span><span class="english">In this system, the warp yarns are fed to the loom.</span></p>
 
 <p><span class="chinese">经纱工卷取，纬纱式卷取，复合式卷取，组合式卷取。</span><span class="english">Warp wind, weft wind, compound wind, combined wind.</span></p>

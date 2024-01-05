@@ -1,5 +1,7 @@
 # impropriety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impropriety.md)
+
 <p><span class="chinese">不规矩是打趣话的精髓。</span><span class="english">Impropriety is the soul of wit.</span></p>
 
 <p><span class="chinese">因行为不当我向她提出告诫。</span><span class="english">I expostulate with her on the impropriety.</span></p>

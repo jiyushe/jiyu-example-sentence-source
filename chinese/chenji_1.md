@@ -1,5 +1,7 @@
 # 趁机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenji_1.md)
+
 <p><span class="chinese">你喜欢趁机混水摸鱼。</span><span class="english">You delight to fish in troubled waters.</span></p>
 
 <p><span class="chinese">你要打铁趁热，趁机行事。</span><span class="english">You should strike while the iron is hot.</span></p>

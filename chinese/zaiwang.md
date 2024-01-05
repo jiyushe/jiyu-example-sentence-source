@@ -1,5 +1,7 @@
 # 在望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiwang.md)
+
 <p><span class="chinese">胜利在望。</span><span class="english">Victory is in sight.</span></p>
 
 <p><span class="chinese">丰收在望。</span><span class="english">A bumper harvest is in sight.</span></p>

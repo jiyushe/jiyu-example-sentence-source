@@ -1,5 +1,7 @@
 # oos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oos.md)
+
 <p><span class="chinese">数据处理程序，计算复核，OOS。</span><span class="english">Data handling procedures, calculation checks, OOS.</span></p>
 
 <p><span class="chinese">不应该对OOS结果的原因进行预想的假定。</span><span class="english">There should be no preconceived assumptions as to the cause of the OOS result.</span></p>

@@ -1,5 +1,7 @@
 # invisibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invisibility.md)
+
 <p><span class="chinese">隐形术雕文的持续时间增加。</span><span class="english">Glyph of Invisibility duration has been increased.</span></p>
 
 <p><span class="chinese">因此，我在这里，陶醉于被隐形的年纪。</span><span class="english">So here I am, revelling in the age of invisibility.</span></p>

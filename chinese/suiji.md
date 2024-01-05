@@ -1,5 +1,7 @@
 # 随机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suiji.md)
+
 <p><span class="chinese">它是随机的。</span><span class="english">It's random.</span></p>
 
 <p><span class="chinese">但随机噪声的效果是一样的。</span><span class="english">But the effect is the same.</span></p>

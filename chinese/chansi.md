@@ -1,5 +1,7 @@
 # 禅寺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chansi.md)
+
 <p><span class="chinese">安陆金泉禅寺，一处佛教场所。</span><span class="english">Jinquan Temple is a Buddhist site.</span></p>
 
 <p><span class="chinese">中禅寺湖的赏金，日光，日本。</span><span class="english">The bounty of Lake Chuzenji, Nikko, Japan.</span></p>

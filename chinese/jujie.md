@@ -1,5 +1,7 @@
 # 举借
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jujie.md)
+
 <p><span class="chinese">许多年轻人都举借了大笔债务。</span><span class="english">Many young adults are heavily leveraged.</span></p>
 
 <p><span class="chinese">弥补赤字现实可行的选择就是增加税收或者举借国债。</span><span class="english">The alternatives to make up the deficit include tax and debt issuance.</span></p>

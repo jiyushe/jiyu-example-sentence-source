@@ -1,5 +1,7 @@
 # globulin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/globulin.md)
+
 <p><span class="chinese">淋巴结行为就像丙种球蛋白。</span><span class="english">Lymph acts just like gamma globulin.</span></p>
 
 <p><span class="chinese">荞麦的谷蛋白含量很低，主要的蛋白质是球蛋白。</span><span class="english">Buckwheat glutenin content is low, the main protein is globulin.</span></p>

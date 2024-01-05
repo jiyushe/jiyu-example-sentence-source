@@ -1,5 +1,7 @@
 # palm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palm.md)
+
 <p><span class="chinese">我吻了他的手掌。</span><span class="english">I kissed his palm.</span></p>
 
 <p><span class="chinese">那是一棵棕榈。</span><span class="english">The tree was a palm.</span></p>

@@ -1,5 +1,7 @@
 # proclamation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proclamation.md)
+
 <p><span class="chinese">解放宣言的用意何在？</span><span class="english">What did the Emancipation Proclamation udo ?</span></p>
 
 <p><span class="chinese">唐“吨的饵料，您的合作与宣布”我爱你。</span><span class="english">Don"t bait your partner with the proclamation "I love you.</span></p>

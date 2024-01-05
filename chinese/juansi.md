@@ -1,5 +1,7 @@
 # 绢丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juansi.md)
+
 <p><span class="chinese">RAPD分析在绢丝昆虫亲缘关系研究中的应用I。</span><span class="english">Application of RAPD Technique in Genetic Relationship Study of Silk Insect I.</span></p>
 
 <p><span class="chinese">他圆圆的脸蛋上有一对酒窝，头上覆盖着一圈圈光滑，鬈曲、细如绢丝的黑发。</span><span class="english">His black hair fine as floss silk, hung in glossy curls about his round dimpled face.</span></p>

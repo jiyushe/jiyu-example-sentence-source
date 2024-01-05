@@ -1,5 +1,7 @@
 # 四邻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/silin.md)
+
 <p><span class="chinese">与四邻和睦相处。</span><span class="english">Live in concord with sb.</span></p>
 
 <p><span class="chinese">噪声闹得整个街坊四邻心烦意乱。</span><span class="english">The noise upset the entire neighborhood.</span></p>

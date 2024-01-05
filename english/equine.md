@@ -1,5 +1,7 @@
 # equine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equine.md)
+
 <p><span class="chinese">一张有点像马的长脸。</span><span class="english">A long slightly equine face.</span></p>
 
 <p><span class="chinese">马血涂片，中性粒细胞</span><span class="english">Equine blood smear, neutrophils</span></p>

@@ -1,5 +1,7 @@
 # geat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geat.md)
+
 <p><span class="chinese">没有Geat的客户服务。</span><span class="english">No. Geat customer service.</span></p>
 
 <p><span class="chinese">十全十美，你这可爱的宝贝。</span><span class="english">Everything's geat , you pretty thing.</span></p>

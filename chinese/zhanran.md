@@ -1,5 +1,7 @@
 # 沾染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanran.md)
+
 <p><span class="chinese">他沾染上坏习惯。</span><span class="english">He slipped into bad habits.</span></p>
 
 <p><span class="chinese">伤口沾染了细菌。</span><span class="english">The wound was infected with germs.</span></p>

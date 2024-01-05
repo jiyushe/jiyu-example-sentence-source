@@ -1,5 +1,7 @@
 # 巴结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bajie_2.md)
+
 <p><span class="chinese">他经常巴结她。</span><span class="english">He often fawns on her.</span></p>
 
 <p><span class="chinese">他巴结富有的叔叔。</span><span class="english">He fawns on his rich uncle.</span></p>

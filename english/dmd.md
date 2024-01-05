@@ -1,5 +1,7 @@
 # dmd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dmd.md)
+
 <p><span class="chinese">江苏戴梦德钻石科技有限公司，成立于2014年。</span><span class="english">Jiangsu DMD Diamond Technology Co. , Ltd. , founded in 2014.</span></p>
 
 <p><span class="chinese">说明骨髓移植治疗DMD是有一定价值的，为临床应用提供实验基础。</span><span class="english">These results give a powerful proof for the treatment of DMD with BMT.</span></p>

@@ -1,5 +1,7 @@
 # lapsed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lapsed.md)
+
 <p><span class="chinese">我想他又失检了。</span><span class="english">I fear he has lapsed again.</span></p>
 
 <p><span class="chinese">我怕她又失检了。</span><span class="english">I fear she has lapsed again.</span></p>

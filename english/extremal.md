@@ -1,5 +1,7 @@
 # extremal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extremal.md)
+
 <p><span class="chinese">这类事件是应用概率领域中所谓的极端事件。</span><span class="english">These kinds of events are the so-called extremal events in applied probability.</span></p>
 
 <p><span class="chinese">目前在对冰荷载的研究上，主要有极值静冰力和交变冰力两种。</span><span class="english">In present research, the extremal ice force and dynamic ice force are the main ice force.</span></p>

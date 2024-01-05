@@ -1,5 +1,7 @@
 # disadvantaged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disadvantaged.md)
+
 <p><span class="chinese">关怀弱势团体。</span><span class="english">Care for the disadvantaged groups.</span></p>
 
 <p><span class="chinese">在弱势地区家庭的孩子仍然处于劣势。</span><span class="english">Children from disadvantaged homes are still falling behind.</span></p>

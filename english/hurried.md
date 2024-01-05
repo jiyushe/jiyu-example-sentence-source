@@ -1,5 +1,7 @@
 # hurried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurried.md)
+
 <p><span class="chinese">我赶紧跑了过去。</span><span class="english">I hurried over. The 11</span></p>
 
 <p><span class="chinese">我也赶紧加入他们的行列。</span><span class="english">So I hurried to join them.</span></p>

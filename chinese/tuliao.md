@@ -1,5 +1,7 @@
 # 涂料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuliao.md)
+
 <p><span class="chinese">油漆和涂料。</span><span class="english">Paint and stain.</span></p>
 
 <p><span class="chinese">这层涂料能防潮。</span><span class="english">This coating repels moisture.</span></p>

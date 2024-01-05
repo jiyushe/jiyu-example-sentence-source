@@ -1,5 +1,7 @@
 # frontier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frontier.md)
+
 <p><span class="chinese">互市”的主要基地。</span><span class="english">Frontier "of the main base."</span></p>
 
 <p><span class="chinese">做边境贸易的边疆宾馆。</span><span class="english">Hotels do border trade frontier.</span></p>

@@ -1,5 +1,7 @@
 # carboxylic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carboxylic.md)
+
 <p><span class="chinese">而茅莓根的主要化学成分是有机酸酯和烷烃。</span><span class="english">In the roots, there were carboxylic acid ester and alkane.</span></p>
 
 <p><span class="chinese">芳香羧酸进行脱羧反应是一个例外。</span><span class="english">One exception is the decarboxylation of aromatic carboxylic acids.</span></p>

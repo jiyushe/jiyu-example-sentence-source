@@ -1,5 +1,7 @@
 # 姊妹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimei.md)
+
 <p><span class="chinese">罗堂的姊妹是提默纳。</span><span class="english">Lotan's sister was Timna.</span></p>
 
 <p><span class="chinese">我同母异父的姊妹是个护士。</span><span class="english">My stepsister is a nurse.</span></p>

@@ -1,5 +1,7 @@
 # flavor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flavor.md)
+
 <p><span class="chinese">牛油花生味的？</span><span class="english">Peanut Butter flavor?</span></p>
 
 <p><span class="chinese">它有枫糖味。</span><span class="english">It's got maple flavor.</span></p>

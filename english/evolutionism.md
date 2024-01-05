@@ -1,5 +1,7 @@
 # evolutionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evolutionism.md)
+
 <p><span class="chinese">其创作不具历史进化论色彩。</span><span class="english">Her creative works doesn't have the colour of historical evolutionism.</span></p>
 
 <p><span class="chinese">四是提出并论证了城市绿地系统进化论。</span><span class="english">Fourthly, it puts forward and proves urban green space system evolutionism.</span></p>

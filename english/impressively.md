@@ -1,5 +1,7 @@
 # impressively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impressively.md)
+
 <p><span class="chinese">他说得非常轻缓，好像是故意的，漫不经心的。</span><span class="english">He spoke very low, advisedly, and impressively.</span></p>
 
 <p><span class="chinese">该工厂表面看起来干净地令人难忘。</span><span class="english">On the surface, the plant is impressively clean.</span></p>

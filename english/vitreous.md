@@ -1,5 +1,7 @@
 # vitreous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitreous.md)
+
 <p><span class="chinese">它包含在玻璃体里面。</span><span class="english">This is contained in the vitreous.</span></p>
 
 <p><span class="chinese">自穿通伤口向玻璃体内有明显的纤维组织增生。</span><span class="english">Fibroplasia was visible from wound to vitreous body.</span></p>

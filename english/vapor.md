@@ -1,5 +1,7 @@
 # vapor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vapor.md)
+
 <p><span class="chinese">侵蚀目标的蒸汽。</span><span class="english">Vapor that corrodes target.</span></p>
 
 <p><span class="chinese">空气中饱含着潮气。</span><span class="english">The air was charged with vapor.</span></p>

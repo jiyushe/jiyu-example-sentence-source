@@ -1,5 +1,7 @@
 # thuggery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thuggery.md)
+
 <p><span class="chinese">各类选举已经成为组织性暗杀活动的特定行动期。</span><span class="english">Elections have become long spells of organised thuggery.</span></p>
 
 <p><span class="chinese">对于伊斯兰主义治安维持会分子的容忍也达到了令人担忧的地步。</span><span class="english">There has also been a worrying tolerance for thuggery by Islamist vigilantes.</span></p>

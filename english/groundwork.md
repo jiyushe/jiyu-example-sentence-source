@@ -1,5 +1,7 @@
 # groundwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groundwork.md)
+
 <p><span class="chinese">为未来的快乐做展垫。</span><span class="english">Lay the groundwork for some future fun.</span></p>
 
 <p><span class="chinese">这实际上成了万hm2间接基础。</span><span class="english">This actually became the groundwork for HM2 indirectly.</span></p>

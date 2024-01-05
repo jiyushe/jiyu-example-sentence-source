@@ -1,5 +1,7 @@
 # uptown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uptown.md)
+
 <p><span class="chinese">这车是去住宅区的吗？</span><span class="english">Is this bus going uptown?</span></p>
 
 <p><span class="chinese">他在住宅区租了一间公寓。</span><span class="english">He rented an apartment uptown.</span></p>

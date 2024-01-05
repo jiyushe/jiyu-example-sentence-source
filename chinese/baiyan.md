@@ -1,5 +1,7 @@
 # 白眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiyan.md)
+
 <p><span class="chinese">他恨遭人白眼。</span><span class="english">He hates being treated with disdain.</span></p>
 
 <p><span class="chinese">不论她给了你多少“白眼”！</span><span class="english">No matter how much she gives you "the butterflies"!</span></p>

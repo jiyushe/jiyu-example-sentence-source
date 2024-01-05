@@ -1,5 +1,7 @@
 # 塑性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suxing.md)
+
 <p><span class="chinese">淀粉糊为假塑性流体。</span><span class="english">Starch paste was pseudoplastic fluid.</span></p>
 
 <p><span class="chinese">这部分都是塑性流动。</span><span class="english">So this whole portion here is plastic flow.</span></p>

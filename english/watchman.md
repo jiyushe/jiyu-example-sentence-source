@@ -1,5 +1,7 @@
 # watchman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watchman.md)
+
 <p><span class="chinese">黑海。巡夜者。</span><span class="english">The Black Sea. A watchman.</span></p>
 
 <p><span class="chinese">那里住着一个老看守人。</span><span class="english">There's an old watchman living there.</span></p>

@@ -1,5 +1,7 @@
 # disarming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disarming.md)
+
 <p><span class="chinese">这是极为顶事、消解的方式。</span><span class="english">This is extremely effective and disarming.</span></p>
 
 <p><span class="chinese">只有解除嗔恨才可以达致和平。</span><span class="english">Only disarming our hatred can bring real peace.</span></p>

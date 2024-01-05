@@ -1,5 +1,7 @@
 # disoriented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disoriented.md)
+
 <p><span class="chinese">我们大家有时会迷失方向，不知道自己在那。</span><span class="english">We all get disoriented sometimes.</span></p>
 
 <p><span class="chinese">方向感尽失的您，开始往下沉。</span><span class="english">You become disoriented and start to sink.</span></p>

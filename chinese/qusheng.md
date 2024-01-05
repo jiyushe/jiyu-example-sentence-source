@@ -1,5 +1,7 @@
 # 取胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qusheng.md)
+
 <p><span class="chinese">以质取胜。</span><span class="english">Quality win.</span></p>
 
 <p><span class="chinese">他的马以一鼻之差取胜。</span><span class="english">His horse won by a nose.</span></p>

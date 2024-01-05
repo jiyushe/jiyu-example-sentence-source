@@ -1,5 +1,7 @@
 # lashing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lashing.md)
+
 <p><span class="chinese">倾盆大雨直泻下来。</span><span class="english">The rain was lashing down.</span></p>
 
 <p><span class="chinese">冰雹猛烈地砸在屋顶上。</span><span class="english">The hail is lashing down on the roof.</span></p>

@@ -1,5 +1,7 @@
 # stegosaurus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stegosaurus.md)
+
 <p><span class="chinese">那就是剑龙。</span><span class="english">That is a Stegosaurus.</span></p>
 
 <p><span class="chinese">剑龙是草食动物。</span><span class="english">Stegosaurus was a plant eater.</span></p>

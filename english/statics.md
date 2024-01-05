@@ -1,5 +1,7 @@
 # statics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statics.md)
+
 <p><span class="chinese">避免静态。</span><span class="english">Avoid statics.</span></p>
 
 <p><span class="chinese">该问题归结为静力学的范畴。</span><span class="english">The problem is placed under the division of statics.</span></p>

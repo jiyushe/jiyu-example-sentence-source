@@ -1,5 +1,7 @@
 # patchouli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patchouli.md)
+
 <p><span class="chinese">广霍香精油也被广泛地使用在现代香水中。</span><span class="english">Patchouli has also been used extensively in modern perfumery.</span></p>
 
 <p><span class="chinese">在现代，广藿香精油仍然被广泛用于制造香水。</span><span class="english">Patchouli has also been used extensively in modern perfumery.</span></p>

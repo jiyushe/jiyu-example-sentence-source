@@ -1,5 +1,7 @@
 # 入籍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruji_1.md)
+
 <p><span class="chinese">配偶的出生证明或入籍美国的证明</span><span class="english">Spouse's birth certificate or Naturalization certificate</span></p>
 
 <p><span class="chinese">另外，通过衍生或后天取得公民权的父母，或通过个人申请入籍，你也可以成为美国公民。</span><span class="english">Apply for “derived” or “acquired” citizenship through parents</span></p>

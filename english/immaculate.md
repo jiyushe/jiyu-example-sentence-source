@@ -1,5 +1,7 @@
 # immaculate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immaculate.md)
+
 <p><span class="chinese">她的公寓房间洁净无垢。</span><span class="english">Her apartment was immaculate.</span></p>
 
 <p><span class="chinese">无原罪就是“无污点“的意思“</span><span class="english">Immaculate means "without stain."</span></p>

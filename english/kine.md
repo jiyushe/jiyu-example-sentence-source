@@ -1,5 +1,7 @@
 # kine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kine.md)
+
 <p><span class="chinese">而你又是哪种人呢？</span><span class="english">And what kine of people you are ?</span></p>
 
 <p><span class="chinese">欢迎进入夏威夷风的世界！</span><span class="english">Welcome to the World of Hawaii kine.</span></p>

@@ -1,5 +1,7 @@
 # harness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harness.md)
+
 <p><span class="chinese">但是是马具的哪里呢？？？？？？？</span><span class="english">But where is the harness ????</span></p>
 
 <p><span class="chinese">挽具也要搬离我们的背梁。</span><span class="english">And the harness from our back.</span></p>

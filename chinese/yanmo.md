@@ -1,5 +1,7 @@
 # 淹没
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmo.md)
+
 <p><span class="chinese">他们的船被淹没了。</span><span class="english">Their boat swamped.</span></p>
 
 <p><span class="chinese">你淹没了房屋。</span><span class="english">You flooded the house.</span></p>

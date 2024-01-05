@@ -1,5 +1,7 @@
 # 私商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishang_1.md)
+
 <p><span class="chinese">以合法商业掩护他们走私是走私商经常采用，也是最佳的方法之一。</span><span class="english">One of the best ways smugglers usually take is</span></p>
 
 <p><span class="chinese">萨德尔和来自伊朗的武器走私商在该地区都有很大势力。</span><span class="english">Al-Sadr has great sway there, and it's thought that weapons smugglers from Iran do too.</span></p>

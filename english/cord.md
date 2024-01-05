@@ -1,5 +1,7 @@
 # cord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cord.md)
+
 <p><span class="chinese">我喜欢跳蹦极跳。</span><span class="english">I love bungee cord jumping.</span></p>
 
 <p><span class="chinese">亦称藏绳锁线订。</span><span class="english">Also called Sunk cord sewing.</span></p>

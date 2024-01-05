@@ -1,5 +1,7 @@
 # slingshot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slingshot.md)
+
 <p><span class="chinese">早餐后，那小家伙从口袋里拿出一个弓单弓来。</span><span class="english">After breakfast the kid took a slingshot outofhis pocket.</span></p>
 
 <p><span class="chinese">如同一把弹弓，拉的越紧，射的越远。</span><span class="english">It's like a slingshot -- the harder you pull, the more propulsion you generate.</span></p>

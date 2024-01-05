@@ -1,5 +1,7 @@
 # corded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corded.md)
+
 <p><span class="chinese">他为了携带方便将盒子捆绑。</span><span class="english">He corded the boxes for easy handling.</span></p>
 
 <p><span class="chinese">在包括无线和有线来这些手机的样式。</span><span class="english">These phones come in both cordless and corded styles.</span></p>

@@ -1,5 +1,7 @@
 # 放疗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangliao.md)
+
 <p><span class="chinese">放疗和化疗哪个更好些？</span><span class="english">Put cure and change cure which betterer ?</span></p>
 
 <p><span class="chinese">医疗保险还需耗资数十亿美元来支付靶向放疗吗？</span><span class="english">Should Medicare spend billions to pay for targeted radiation?</span></p>

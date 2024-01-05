@@ -1,5 +1,7 @@
 # 天光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianguang.md)
+
 <p><span class="chinese">天光将晓。</span><span class="english">The day will dawn.</span></p>
 
 <p><span class="chinese">是谁温暖了天光，又是谁把月色点亮？</span><span class="english">Who climes the daylight? Who lights the moon?</span></p>

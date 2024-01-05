@@ -1,5 +1,7 @@
 # 进深
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshen_2.md)
+
 <p><span class="chinese">基地面对大海，进深很大。</span><span class="english">The site faces the sea and has deep depth.</span></p>
 
 <p><span class="chinese">场地规整，南北进深较大。</span><span class="english">The site is standard, long in the south-north direction.</span></p>

@@ -1,5 +1,7 @@
 # buckinghamshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buckinghamshire.md)
+
 <p><span class="chinese">目前他们都住在白金汉郡。</span><span class="english">They both currently live in Buckinghamshire.</span></p>
 
 <p><span class="chinese">“曼德维尔”则受到白金汉郡的斯托克曼德维尔的启发。</span><span class="english">Mandeville's name is inspired by Stoke Mandeville in Buckinghamshire.</span></p>

@@ -1,5 +1,7 @@
 # anthill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthill.md)
+
 <p><span class="chinese">多少蚂蚁是一家?。</span><span class="english">How Many Ants in an Anthill?</span></p>
 
 <p><span class="chinese">最好是一个没有蚁冢的树篱。</span><span class="english">Preferably one without an anthill.</span></p>

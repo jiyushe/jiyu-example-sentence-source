@@ -1,5 +1,7 @@
 # shading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shading.md)
+
 <p><span class="chinese">她的眼中闪现出一丝阴郁的目光。</span><span class="english">Her eyes flashed a shading glance.</span></p>
 
 <p><span class="chinese">支持单元格底纹&模式。</span><span class="english">Support for Cell shading & patterns.</span></p>

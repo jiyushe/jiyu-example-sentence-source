@@ -1,5 +1,7 @@
 # lr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lr.md)
+
 <p><span class="chinese">模铸进的衬垫被整体固定在阀体的法兰密封处。</span><span class="english">Molded-in lr fully supported by valve body at flange seals.</span></p>
 
 <p><span class="chinese">现在的设计已经实现了我们现在想到的一些功能。</span><span class="english">Current design produces the functionality we have a lr eady specified.</span></p>

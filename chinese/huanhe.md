@@ -1,5 +1,7 @@
 # 缓和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanhe.md)
+
 <p><span class="chinese">我称之为美元缓和政策.</span><span class="english">I call it dollar detente.</span></p>
 
 <p><span class="chinese">让仁慈来缓和峻法吧。</span><span class="english">Let mercy season justice.</span></p>

@@ -1,5 +1,7 @@
 # shaper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaper.md)
+
 <p><span class="chinese">我们是自己命运的塑造者！</span><span class="english">We are the shaper of our own destiny.</span></p>
 
 <p><span class="chinese">你认识这件雕塑的塑造者吗?。</span><span class="english">Do you know the shaper of this sculpture?</span></p>

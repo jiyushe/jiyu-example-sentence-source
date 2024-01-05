@@ -1,5 +1,7 @@
 # wrangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrangle.md)
+
 <p><span class="chinese">别为一些琐事与别人争吵。</span><span class="english">Don't wrangle with others over trifles.</span></p>
 
 <p><span class="chinese">他不愿卷入这种激烈的党争。</span><span class="english">He was reluctant to plunge into the bitter partisan wrangle.</span></p>

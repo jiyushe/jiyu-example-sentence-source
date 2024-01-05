@@ -1,5 +1,7 @@
 # 轰响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongxiang_1.md)
+
 <p><span class="chinese">雷声轰响。</span><span class="english">Strikes the thunder.</span></p>
 
 <p><span class="chinese">大炮发出短促清脆的轰响。</span><span class="english">The big guns barked.</span></p>

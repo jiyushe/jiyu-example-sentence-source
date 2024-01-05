@@ -1,5 +1,7 @@
 # 垂线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuixian_1.md)
+
 <p><span class="chinese">变态河工模型垂线流速分布是不相似的。</span><span class="english">Vertical velocity distribution of distorted model is not similar.</span></p>
 
 <p><span class="chinese">一个正方形由四个九十度的直角和四条垂线组成。</span><span class="english">A square has four 90-degree angles made by its four perpendicular.</span></p>

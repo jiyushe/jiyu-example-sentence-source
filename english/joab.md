@@ -1,5 +1,7 @@
 # joab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joab.md)
+
 <p><span class="chinese">约押就回耶路撒冷去了。</span><span class="english">Then Joab came to Jerusalem.</span></p>
 
 <p><span class="chinese">约押就打发乌利亚去见大卫。</span><span class="english">And Joab sent Uriah to David.</span></p>

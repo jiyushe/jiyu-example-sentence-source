@@ -1,5 +1,7 @@
 # interferometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interferometer.md)
+
 <p><span class="chinese">这些「不同调」的装置无法用在干涉仪里。</span><span class="english">These "incoherent" devices cannot be used in an interferometer.</span></p>
 
 <p><span class="chinese">主动镜是恒星光干涉仪中的关键部件之一。</span><span class="english">Active mirror is one of the key parts in the stellar interferometer.</span></p>

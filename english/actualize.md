@@ -1,5 +1,7 @@
 # actualize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actualize.md)
+
 <p><span class="chinese">我将实现自己最终的价值。</span><span class="english">I will finally actualize my value of life.</span></p>
 
 <p><span class="chinese">我很想实现自我潜能来为它添色。</span><span class="english">I want to actualize my potentiality to add to its color.</span></p>

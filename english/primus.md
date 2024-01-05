@@ -1,5 +1,7 @@
 # primus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primus.md)
+
 <p><span class="chinese">我们非常高兴地欢迎博智金融加入南山大家庭。</span><span class="english">We are happy to welcome Primus into our Nan Shan family.</span></p>
 
 <p><span class="chinese">博智并购的咨询为德意志银行。</span><span class="english">Deutsche Bank AG advised Primus Financial on the acquisition.</span></p>

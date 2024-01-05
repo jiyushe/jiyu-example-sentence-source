@@ -1,5 +1,7 @@
 # centrepiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centrepiece.md)
+
 <p><span class="chinese">这一功能的一个核心部件就是一顶有博格人般的镜片的头盔。</span><span class="english">A centrepiece of this effort is a helmet with a Borg -like eyepiece.</span></p>
 
 <p><span class="chinese">在阿勒马克图姆国际机场的核心是发展。</span><span class="english">The Al Maktoum International Airport is the centrepiece of the development.</span></p>

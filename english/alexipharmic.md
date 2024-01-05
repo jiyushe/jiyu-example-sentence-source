@@ -1,5 +1,7 @@
 # alexipharmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alexipharmic.md)
+
 <p><span class="chinese">有的设置了消毒柜，却又没有配置洗碗机。</span><span class="english">Some installed alexipharmic ark, did not configure dishwasher again however.</span></p>
 
 <p><span class="chinese">不过，您知道怎样选择一款适合自己家的消毒柜吗？</span><span class="english">Nevertheless, how do you know the choice suits the alexipharmic ark of own home?</span></p>

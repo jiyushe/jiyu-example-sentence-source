@@ -1,5 +1,7 @@
 # 围拢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilong.md)
+
 <p><span class="chinese">我们都向桌子围拢来。</span><span class="english">We all drew around at the desk.</span></p>
 
 <p><span class="chinese">随即，多名保安围拢过来。</span><span class="english">Then, more than security over crowded.</span></p>

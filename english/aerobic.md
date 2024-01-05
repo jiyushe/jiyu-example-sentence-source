@@ -1,5 +1,7 @@
 # aerobic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerobic.md)
+
 <p><span class="chinese">它还使你头脑清醒。</span><span class="english">Aerobic exercise also keeps your mind sharp.</span></p>
 
 <p><span class="chinese">健美社团里都是女同学吗？</span><span class="english">Are there all female students in aerobic club?</span></p>

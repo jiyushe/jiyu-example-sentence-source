@@ -1,5 +1,7 @@
 # extractor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extractor.md)
+
 <p><span class="chinese">因为我就是最熟练的盗梦者。</span><span class="english">Cause I am the most skilled extractor.</span></p>
 
 <p><span class="chinese">他用电动榨汁机榨取新鲜的橙汁。</span><span class="english">He makes fresh orange juice with an electric extractor.</span></p>

@@ -1,5 +1,7 @@
 # technica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technica.md)
+
 <p><span class="chinese">这是我第一次搞老铁的入耳。</span><span class="english">This is the first time I got Audio Technica IEM.</span></p>
 
 <p><span class="chinese">本桥技术参数发生变更，恕不另行通知。</span><span class="english">The technica data may be changed without prior notice.</span></p>

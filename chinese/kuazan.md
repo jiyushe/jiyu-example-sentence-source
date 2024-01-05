@@ -1,5 +1,7 @@
 # 夸赞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuazan.md)
+
 <p><span class="chinese">今天您应该被夸赞一番。</span><span class="english">You deserve to be flattered today.</span></p>
 
 <p><span class="chinese">夸赞孩子告诉我们的每一件好事。</span><span class="english">B oast about the good things they tell me.</span></p>

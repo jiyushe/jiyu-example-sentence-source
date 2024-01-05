@@ -1,5 +1,7 @@
 # 张口结舌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangkoujieshe.md)
+
 <p><span class="chinese">彼得张口结舌答不上来。</span><span class="english">Peter was tongue-tied.</span></p>
 
 <p><span class="chinese">杰克张口结舌，手足无措。</span><span class="english">Jack's tongue stands still.</span></p>

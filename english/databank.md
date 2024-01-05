@@ -1,5 +1,7 @@
 # databank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/databank.md)
+
 <p><span class="chinese">贸发局的全球商贸联系资料库约载有60万家公司的资料。</span><span class="english">The TDC's global databank stood at about 600 000 business contacts.</span></p>
 
 <p><span class="chinese">这项条文亦订明DNA资料库所包含的指标。</span><span class="english">This clause also sets out the indices contained in the DNA Databank.</span></p>

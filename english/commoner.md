@@ -1,5 +1,7 @@
 # commoner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commoner.md)
+
 <p><span class="chinese">国王爱德华八世于1936年退位与一个平民结婚。</span><span class="english">in 1936 to marry a commoner.</span></p>
 
 <p><span class="chinese">他会用一个普通人的名字</span><span class="english">He would take the name of a commoner.</span></p>

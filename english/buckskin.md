@@ -1,5 +1,7 @@
 # buckskin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buckskin.md)
+
 <p><span class="chinese">去找一张一样洁白的鹿皮，留着它。</span><span class="english">Find a buckskin as white as this, she told him.</span></p>
 
 <p><span class="chinese">许多早年的美国伐木人穿鹿皮衣服。</span><span class="english">Many early American woodsmen wore buckskin clothing.</span></p>

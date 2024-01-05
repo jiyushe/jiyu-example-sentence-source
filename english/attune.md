@@ -1,5 +1,7 @@
 # attune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attune.md)
+
 <p><span class="chinese">薰香可以使有限调谐至无限。</span><span class="english">Incense can attune the finite to the Infinite.</span></p>
 
 <p><span class="chinese">请感应到我们，如果我们经过你的脚边或者入侵你的住处的话。</span><span class="english">Attune to us if we cross your path or invade you home.</span></p>

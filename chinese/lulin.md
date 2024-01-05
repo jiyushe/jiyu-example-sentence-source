@@ -1,5 +1,7 @@
 # 绿林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lulin.md)
+
 <p><span class="chinese">而蒸汽机车却是山东绿林中的武士”。</span><span class="english">But a steam locomotive is a Shandong warrior.</span></p>
 
 <p><span class="chinese">“绿林少年”准备在此逗留5天。</span><span class="english">The Greenwood Boys will be staying for five days.</span></p>

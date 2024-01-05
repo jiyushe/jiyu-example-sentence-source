@@ -1,5 +1,7 @@
 # shijiazhuang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shijiazhuang.md)
+
 <p><span class="chinese">想石家庄买一只八哥？</span><span class="english">Think that Shijiazhuang buys one mynah?</span></p>
 
 <p><span class="chinese">石家庄市市长被罢免。</span><span class="english">The mayor of Shijiazhuang has been dismissed.</span></p>

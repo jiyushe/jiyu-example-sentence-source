@@ -1,5 +1,7 @@
 # 金牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinpai.md)
+
 <p><span class="chinese">祝贺塞娜，夺取金牌吧。</span><span class="english">Congrats Saina. Go for Gold.</span></p>
 
 <p><span class="chinese">没有，但她赢得高低杠金牌。</span><span class="english">No. But she won uneven bars.</span></p>

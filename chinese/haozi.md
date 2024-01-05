@@ -1,5 +1,7 @@
 # 耗子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haozi.md)
+
 <p><span class="chinese">那只猫叼着那只耗子甩动。</span><span class="english">The cat shook the rat.</span></p>
 
 <p><span class="chinese">他们在向小耗子大声地嘲笑道。</span><span class="english">they cried in derision.</span></p>

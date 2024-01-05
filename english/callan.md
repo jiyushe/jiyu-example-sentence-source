@@ -1,5 +1,7 @@
 # callan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/callan.md)
+
 <p><span class="chinese">加兰女士则透过其现任雇主瑞士信贷的一名发言人拒绝就此事表态。</span><span class="english">Ms. Callan declined to comment through a spokeswoman for her current employer</span></p>
 
 <p><span class="chinese">我院收治一例罕见的青少年脊柱神经母细胞瘤的患者。</span><span class="english">There is a multiple neuroma of the spine's sufferer who is a callan in our hospital.</span></p>

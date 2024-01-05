@@ -1,5 +1,7 @@
 # harmonize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmonize.md)
+
 <p><span class="chinese">使…一致、协调或合谐。</span><span class="english">To agree, correspond, or harmonize.</span></p>
 
 <p><span class="chinese">协调个人愿望同公共价值观的关系。</span><span class="english">Harmonize private desire with public goals.</span></p>

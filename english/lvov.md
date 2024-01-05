@@ -1,5 +1,7 @@
 # lvov
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lvov.md)
+
 <p><span class="chinese">伊曼纽尔。艾克斯出生于波兰的利沃夫，六岁时开始在华沙学习钢琴。</span><span class="english">Emanuel Ax was born in Lvov and began to study the piano at the age of six in Warsaw.</span></p>
 
 <p><span class="chinese">我们把元帅抬上了飞机，我和医生以及飞行员一起向利沃夫出发。</span><span class="english">We took off with field marshal on board, myself, doctor and pilot and set course on Lvov.</span></p>

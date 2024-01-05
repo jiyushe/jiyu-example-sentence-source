@@ -1,5 +1,7 @@
 # 螺栓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoshuan.md)
+
 <p><span class="chinese">底脚螺栓松动。</span><span class="english">Foot stud loose.</span></p>
 
 <p><span class="chinese">螺栓同志电影47。</span><span class="english">Stud gay Movies 47.</span></p>

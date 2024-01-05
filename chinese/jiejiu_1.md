@@ -1,5 +1,7 @@
 # 解救
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejiu_1.md)
+
 <p><span class="chinese">从遇火的惨状命运中解救。</span><span class="english">The horror of that fate.</span></p>
 
 <p><span class="chinese">他们把他从死亡线上解救出来。</span><span class="english">They delivered him from death.</span></p>

@@ -1,5 +1,7 @@
 # 山脊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanji.md)
+
 <p><span class="chinese">它被锯齿形的山脊所环绕。</span><span class="english">Surrounded by a jagged mountain ridge.</span></p>
 
 <p><span class="chinese">陡峭，狭窄的山脊或横岭。</span><span class="english">A sharp, narrow mountain ridge or spur.</span></p>

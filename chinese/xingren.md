@@ -1,5 +1,7 @@
 # 杏仁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingren.md)
+
 <p><span class="chinese">杏仁形露趾。</span><span class="english">Almond-shaped open toe.</span></p>
 
 <p><span class="chinese">这种杏仁油是最便宜的也是最好的。</span><span class="english">It is the cheapest and best.</span></p>

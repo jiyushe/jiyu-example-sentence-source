@@ -1,5 +1,7 @@
 # 竹板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuban_1.md)
+
 <p><span class="chinese">竹板宽幅和厚度可以根据客户要求定做。</span><span class="english">Heavy bamboo slats wide-width and thickness can according to customer requirements.</span></p>
 
 <p><span class="chinese">把这两个残忍的人用竹板打三十大板，让他们接受痛苦的教训。</span><span class="english">Give each of these savages thirty strokes with the bamboo poles, to teach them a lesson about pain!</span></p>

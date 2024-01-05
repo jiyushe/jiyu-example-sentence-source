@@ -1,5 +1,7 @@
 # 二门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ermen.md)
+
 <p><span class="chinese">你就是大门不出二门不迈。</span><span class="english">Or you're just a wuss.</span></p>
 
 <p><span class="chinese">他们高举“自由”与“新人类”大旗，却终日大门不出、二门不迈、深居简出。</span><span class="english">They hold high the " freedom" and" human " banner, however all day door out, two door step, reclusive.</span></p>

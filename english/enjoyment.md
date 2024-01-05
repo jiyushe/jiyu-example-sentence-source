@@ -1,5 +1,7 @@
 # enjoyment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enjoyment.md)
+
 <p><span class="chinese">提高食物的享受。</span><span class="english">Increased enjoyment of food.</span></p>
 
 <p><span class="chinese">现在他已没有其他的享受。</span><span class="english">He had now no other enjoyment.</span></p>

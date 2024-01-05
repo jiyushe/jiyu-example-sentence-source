@@ -1,5 +1,7 @@
 # 不名一文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bumingyiwen.md)
+
 <p><span class="chinese">这些学问对我而言不名一文。</span><span class="english">Such studies are to me unworthy ones.</span></p>
 
 <p><span class="chinese">看来体弱多病已经把萨拉弄得不名一文。</span><span class="english">Ill health seems to have cleared Sarah out.</span></p>

@@ -1,5 +1,7 @@
 # microsoft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microsoft.md)
+
 <p><span class="chinese">但是这些分析并没有使微软气馁。</span><span class="english">But Microsoft is undaunted.</span></p>
 
 <p><span class="chinese">诺基亚和微软2007年之前。</span><span class="english">Nokia and Microsoft pre-2007.</span></p>

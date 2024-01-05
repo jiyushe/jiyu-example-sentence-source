@@ -1,5 +1,7 @@
 # rode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rode.md)
+
 <p><span class="chinese">我乘车去了那里。</span><span class="english">I rode over there.</span></p>
 
 <p><span class="chinese">他骑了那匹新马。</span><span class="english">He rode the new horse.</span></p>

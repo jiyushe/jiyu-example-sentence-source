@@ -1,5 +1,7 @@
 # maharaja
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maharaja.md)
+
 <p><span class="chinese">他也是当时在位的克什米尔王公古拉·辛格的非官方政治顾问。</span><span class="english">He was also an unofficial poptical adviser to Gpab Singh, the then Maharaja of Kashmir.</span></p>
 
 <p><span class="chinese">站起身来，我把我小小的白日梦留在了花园里，和玛哈如阿佳一起向车子走去。</span><span class="english">Getting up, I left my little daydream in the garden and walked with Maharaja to the car.</span></p>

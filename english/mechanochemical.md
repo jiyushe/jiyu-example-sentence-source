@@ -1,5 +1,7 @@
 # mechanochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mechanochemical.md)
+
 <p><span class="chinese">经受着变形的岩石可以发生化学变化，也就是力学-化学之间存在耦合作用。</span><span class="english">Rock deformation may be coupled by chemical changes , that is the so-called mechanochemical coupling.</span></p>
 
 <p><span class="chinese">从力学-化学耦合的角度建立了构造成矿作用的非线性动力学模型。</span><span class="english">The nonlinear dynamic model for tectonic ore-forming isfounded from mechanochemical coupling in the paper.</span></p>

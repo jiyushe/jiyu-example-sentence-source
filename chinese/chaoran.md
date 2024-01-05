@@ -1,5 +1,7 @@
 # 超然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaoran.md)
+
 <p><span class="chinese">内心超然并非漠然尘网！</span><span class="english">Inner detachment is not indifference!</span></p>
 
 <p><span class="chinese">里德利以一种吹毛求疵的超然态度看待他的作品。</span><span class="english">Ridley viewed his work with a cynical detachment.</span></p>

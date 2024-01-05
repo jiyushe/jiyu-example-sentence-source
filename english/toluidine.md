@@ -1,5 +1,7 @@
 # toluidine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toluidine.md)
+
 <p><span class="chinese">用甲苯胺蓝染色的方法检测肥大细胞。</span><span class="english">Mast cells were detected with toluidine blue stain.</span></p>
 
 <p><span class="chinese">方法采用甲苯胺蓝染色和免疫组织化学方法。</span><span class="english">Methods Using toluidine blue stains and immunohistochemical ABC methods.</span></p>

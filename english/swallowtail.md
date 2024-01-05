@@ -1,5 +1,7 @@
 # swallowtail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swallowtail.md)
+
 <p><span class="chinese">我看见一只虎斑燕尾凤蝶。</span><span class="english">I saw a tiger swallowtail butterfly.</span></p>
 
 <p><span class="chinese">牙买加有世界上最大的燕尾蝶。</span><span class="english">The largest swallowtail lives in Jamaica.</span></p>

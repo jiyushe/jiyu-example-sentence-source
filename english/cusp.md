@@ -1,5 +1,7 @@
 # cusp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cusp.md)
+
 <p><span class="chinese">在这幅图中，艾达坐在一块尖石之上。</span><span class="english">In this vision, Ida sits at the cusp.</span></p>
 
 <p><span class="chinese">父亲，我们已经胜利在望了。</span><span class="english">Father, we are on the cusp of victory.</span></p>

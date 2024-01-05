@@ -1,5 +1,7 @@
 # 婚姻法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunyinfa.md)
+
 <p><span class="chinese">紫外线辐射能炙烤皮肤，婚姻法司法解释三。引发皮肤癌。</span><span class="english">Ultraviolet radi can burn the skin as well as cause skin cancer.</span></p>
 
 <p><span class="chinese">此变化是婚姻法中一项新的司法解释的一部分。</span><span class="english">The change is part of a new judicial interpretation of the marriage law.</span></p>

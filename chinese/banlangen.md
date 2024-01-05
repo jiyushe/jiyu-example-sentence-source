@@ -1,5 +1,7 @@
 # 板蓝根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banlangen.md)
+
 <p><span class="chinese">但板蓝根为什么不能出售给西方呢？</span><span class="english">Why can't it be sold to the west?</span></p>
 
 <p><span class="chinese">板蓝根可以每日喝吗？</span><span class="english">Board is Lagen OK and daily drink?</span></p>

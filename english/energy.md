@@ -1,5 +1,7 @@
 # energy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/energy.md)
+
 <p><span class="chinese">我看到活力。</span><span class="english">I see energy.</span></p>
 
 <p><span class="chinese">我没有精力做了。</span><span class="english">I have no energy.</span></p>

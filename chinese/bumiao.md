@@ -1,5 +1,7 @@
 # 不妙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bumiao.md)
+
 <p><span class="chinese">这可不妙,对吧</span><span class="english">And that's not great, right?</span></p>
 
 <p><span class="chinese">不幸的是，目前迹象不妙。</span><span class="english">The signs, sadly, are not good.</span></p>

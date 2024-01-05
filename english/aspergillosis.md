@@ -1,5 +1,7 @@
 # aspergillosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspergillosis.md)
+
 <p><span class="chinese">瘙痒表明得了霉菌病。</span><span class="english">Show that the itching had aspergillosis.</span></p>
 
 <p><span class="chinese">单一蝶窦之麴菌感染则甚少见。</span><span class="english">Isolated aspergillosis of the sphenoid sinus is very rare.</span></p>

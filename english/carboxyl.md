@@ -1,5 +1,7 @@
 # carboxyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carboxyl.md)
+
 <p><span class="chinese">用傅立叶红外光谱仪测定羧基含量。</span><span class="english">Determine carboxyl content with Fourier infrared spectrum instrument.</span></p>
 
 <p><span class="chinese">在各个因素变化范围内，羧基含量均呈先上升后下降的趋势。</span><span class="english">In each factor, carboxyl content within the range is increased and the trend.</span></p>

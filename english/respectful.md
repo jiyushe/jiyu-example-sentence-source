@@ -1,5 +1,7 @@
 # respectful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respectful.md)
+
 <p><span class="chinese">他在长者之前很是恭敬。</span><span class="english">He was respectful before his betters.</span></p>
 
 <p><span class="chinese">培养优良品行举止。</span><span class="english">Cultivate good conduct and respectful behavior.</span></p>

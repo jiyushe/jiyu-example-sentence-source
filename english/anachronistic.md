@@ -1,5 +1,7 @@
 # anachronistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anachronistic.md)
+
 <p><span class="chinese">首先，合资企业本身多少就是一个时代错误。</span><span class="english">For one thing, JVs themselves are a tad anachronistic.</span></p>
 
 <p><span class="chinese">像总会屋一样，这些日子将成为时代错误。</span><span class="english">Those days are becoming as anachronistic as the sokaiya.</span></p>

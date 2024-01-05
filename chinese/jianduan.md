@@ -1,5 +1,7 @@
 # 剪断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianduan.md)
+
 <p><span class="chinese">留一小段的线，然后剪断。</span><span class="english">Cut the thread leaving a small tail.</span></p>
 
 <p><span class="chinese">别剪断绳子，把结解开。</span><span class="english">Don't cut the string, untie the knots.</span></p>

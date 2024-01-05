@@ -1,5 +1,7 @@
 # 杂念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanian.md)
+
 <p><span class="chinese">摒除所有杂念一分钟。</span><span class="english">Stop all your thoughts for a minute.</span></p>
 
 <p><span class="chinese">规定时间内消除一切杂念。</span><span class="english">Eliminate all distractions for a set time.</span></p>

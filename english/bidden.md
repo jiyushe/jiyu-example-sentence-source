@@ -1,5 +1,7 @@
 # bidden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bidden.md)
+
 <p><span class="chinese">按照吩咐你的去做。</span><span class="english">Do as you are bidden.</span></p>
 
 <p><span class="chinese">我被吩咐去做那项任务。</span><span class="english">I was bidden to do the work.</span></p>

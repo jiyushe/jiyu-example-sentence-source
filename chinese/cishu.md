@@ -1,5 +1,7 @@
 # 次数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cishu.md)
+
 <p><span class="chinese">他对第18穴打出超过规定球次数的一击。</span><span class="english">He bogeyed the 18th hole.</span></p>
 
 <p><span class="chinese">连接重试次数。</span><span class="english">Number of connection retries.</span></p>

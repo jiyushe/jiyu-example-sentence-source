@@ -1,5 +1,7 @@
 # 转向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanxiang.md)
+
 <p><span class="chinese">比尔转向我了。</span><span class="english">Bill turned to me.</span></p>
 
 <p><span class="chinese">杰克转向泰斯拉。</span><span class="english">Jack turned to Tesla.</span></p>

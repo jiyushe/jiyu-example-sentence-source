@@ -1,5 +1,7 @@
 # depopulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depopulation.md)
+
 <p><span class="chinese">那个村庄正为人口减少而苦恼。</span><span class="english">The village is suffering from depopulation.</span></p>
 
 <p><span class="chinese">PMIC在确保以百万计的居民中毒，实现议程21减少人口。</span><span class="english">The PMIC is ensuring that millions of residents are poisoned, fulfilling Agenda 21 depopulation.</span></p>

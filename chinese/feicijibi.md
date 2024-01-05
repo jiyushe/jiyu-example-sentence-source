@@ -1,5 +1,7 @@
 # 非此即彼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feicijibi.md)
+
 <p><span class="chinese">非此即彼。</span><span class="english">This is really all neither here nor there.</span></p>
 
 <p><span class="chinese">你应该知道演绎的论点是一个非此即彼的东西。</span><span class="english">You should know that a deductive argument is an either-or thing.</span></p>

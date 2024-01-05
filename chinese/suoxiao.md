@@ -1,5 +1,7 @@
 # 缩小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoxiao.md)
+
 <p><span class="chinese">缩小你的梦想！</span><span class="english">Downsize your dreams!</span></p>
 
 <p><span class="chinese">所以缩小你的焦点。</span><span class="english">So narrow your focus.</span></p>

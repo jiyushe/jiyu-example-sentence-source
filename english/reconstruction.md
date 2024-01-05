@@ -1,5 +1,7 @@
 # reconstruction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconstruction.md)
+
 <p><span class="chinese">然后它创造一个三维重建。</span><span class="english">Then it creates a 3D reconstruction.</span></p>
 
 <p><span class="chinese">这个城市的重建正在进行中。</span><span class="english">The reconstruction of the city is underway.</span></p>

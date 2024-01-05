@@ -1,5 +1,7 @@
 # expiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expiation.md)
+
 <p><span class="chinese">你是要说罪行被惩?舾虐?。</span><span class="english">You mean to say, thecrimeandthe expiation.</span></p>
 
 <p><span class="chinese">他公开道歉以弥补其过错。</span><span class="english">He made a public apology in expiation of his error.</span></p>

@@ -1,5 +1,7 @@
 # fuel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fuel.md)
+
 <p><span class="chinese">食物是燃料。</span><span class="english">Food is fuel.</span></p>
 
 <p><span class="chinese">但是，火箭燃料？</span><span class="english">But rocket fuel?</span></p>

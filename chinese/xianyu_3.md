@@ -1,5 +1,7 @@
 # 鲜鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyu_3.md)
+
 <p><span class="chinese">鲜鱼四日臭，来客三日香。</span><span class="english">Fish and visitor smell in three day.</span></p>
 
 <p><span class="chinese">九龙鲜鱼商会。</span><span class="english">Kowloon Fresh Fish Merchants Association.</span></p>

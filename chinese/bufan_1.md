@@ -1,5 +1,7 @@
 # 不犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufan_1.md)
+
 <p><span class="chinese">没人能不犯语法错误。</span><span class="english">No man could avoid solecizing.</span></p>
 
 <p><span class="chinese">他几乎不犯拼写错误。</span><span class="english">Hardly does he make spelling mistakes.</span></p>

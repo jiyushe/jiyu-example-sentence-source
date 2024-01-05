@@ -1,5 +1,7 @@
 # 吸附
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xifu.md)
+
 <p><span class="chinese">氧吸附于钨。</span><span class="english">Oxygen adsorbs on tungsten.</span></p>
 
 <p><span class="chinese">被吸附的气体叫吸附质。</span><span class="english">The adsorbed gas is the adsorbate.</span></p>

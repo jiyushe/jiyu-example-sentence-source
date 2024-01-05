@@ -1,5 +1,7 @@
 # ddn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ddn.md)
+
 <p><span class="chinese">完全可利用卫星传输方式来替代DDN传输方式。</span><span class="english">So, the satellite transfer mode can instead DDN completely.</span></p>
 
 <p><span class="chinese">针对DDN网络，提出了一种视频会议加密技术。</span><span class="english">This paper presents a new encryption scheme of videoconference on DDN network.</span></p>

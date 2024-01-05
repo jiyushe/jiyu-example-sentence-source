@@ -1,5 +1,7 @@
 # shantou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shantou.md)
+
 <p><span class="chinese">这不，在汕头市中心。</span><span class="english">Look, in the center of Shantou.</span></p>
 
 <p><span class="chinese">汕头南国商城有什么店？</span><span class="english">Shantou Southland Mall What shop?</span></p>

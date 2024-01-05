@@ -1,5 +1,7 @@
 # 放在眼里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangzaiyanli.md)
+
 <p><span class="chinese">这点困难她根本不放在眼里。</span><span class="english">She thinks nothing of a difficulty like that.</span></p>
 
 <p><span class="chinese">如果你瞧瞧韩国对核试验的态度，他们几乎都不放在眼里。</span><span class="english">If you look at what the South Koreans did, they hardly blinked an eye.</span></p>

@@ -1,5 +1,7 @@
 # 如何
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruhe.md)
+
 <p><span class="chinese">那又如何</span><span class="english">So what?</span></p>
 
 <p><span class="chinese">我要如何付钱?</span><span class="english">How can I pay?</span></p>

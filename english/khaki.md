@@ -1,5 +1,7 @@
 # khaki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/khaki.md)
+
 <p><span class="chinese">斜纹棉布裤可能是卡其色。</span><span class="english">Chinos can be khaki color.</span></p>
 
 <p><span class="chinese">卡其色有点偏重，不过挺好看。</span><span class="english">Khaki little too much weight, but very pretty.</span></p>

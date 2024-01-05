@@ -1,5 +1,7 @@
 # birthright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birthright.md)
+
 <p><span class="chinese">他失去了他长子的继承权。</span><span class="english">He lost his birthright.</span></p>
 
 <p><span class="chinese">让爱常伴你左右，而且这也是你与生俱来的特权，从本质上来讲，爱是属于你的。</span><span class="english">It is your birthright. And so it is.</span></p>

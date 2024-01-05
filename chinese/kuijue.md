@@ -1,5 +1,7 @@
 # 溃决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuijue.md)
+
 <p><span class="chinese">堤坝溃决，河水泛滥。</span><span class="english">The water broke loose when the dam burst.</span></p>
 
 <p><span class="chinese">伊姆加冰川湖是可能爆发冰湖溃决洪水的最引人注目的例子。</span><span class="english">Imja lake is the most dramatic example of a potential one.</span></p>

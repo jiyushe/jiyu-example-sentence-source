@@ -1,5 +1,7 @@
 # apprehension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apprehension.md)
+
 <p><span class="chinese">他们明显的表现出了担心。</span><span class="english">Their apprehension evident.</span></p>
 
 <p><span class="chinese">胜利在忧虑和恐惧以后。</span><span class="english">Victory after apprehension and fear.</span></p>

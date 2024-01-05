@@ -1,5 +1,7 @@
 # 农畜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongchu.md)
+
 <p><span class="chinese">此外，还有丰富的农畜土特产品，开发潜力比较大。</span><span class="english">In addition, there are abundant animal native products, the development potential is great.</span></p>
 
 <p><span class="chinese">研究表明，使用农药防虫，不可避免地对农畜产品及环境带来污染。</span><span class="english">It is unavoidable to pollute farm products and environment by using chemicals to control pests.</span></p>

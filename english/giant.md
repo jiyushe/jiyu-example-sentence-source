@@ -1,5 +1,7 @@
 # giant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giant.md)
+
 <p><span class="chinese">我想叫巨熊吧。</span><span class="english">I think is Giant Bear.</span></p>
 
 <p><span class="chinese">心宿二即是一颗巨星。</span><span class="english">Antares is a giant star.</span></p>

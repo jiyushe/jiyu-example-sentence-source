@@ -1,5 +1,7 @@
 # hellish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hellish.md)
+
 <p><span class="chinese">这是个令人毛骨悚然的地方。</span><span class="english">It is a hellish place.</span></p>
 
 <p><span class="chinese">到那时，世界会成为地狱吗？</span><span class="english">Will the world be hellish then?</span></p>

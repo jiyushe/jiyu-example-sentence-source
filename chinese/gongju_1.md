@@ -1,5 +1,7 @@
 # 共聚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongju_1.md)
+
 <p><span class="chinese">共聚树脂的合成及热分解性能。</span><span class="english">Preparation and thermolysis of the copolymer.</span></p>
 
 <p><span class="chinese">很抱歉不能考试大论坛与你们共聚一堂。</span><span class="english">I'm sorry I couldn't be there with you in person.</span></p>

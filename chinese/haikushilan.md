@@ -1,5 +1,7 @@
 # 海枯石烂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haikushilan.md)
+
 <p><span class="chinese">我没有贪婪鳦我羡慕海枯石烂。</span><span class="english">I am not greed but I envy.</span></p>
 
 <p><span class="chinese">爱情真的是海枯石烂的吗？</span><span class="english">Love is really never ending?</span></p>

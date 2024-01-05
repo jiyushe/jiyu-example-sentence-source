@@ -1,5 +1,7 @@
 # 主宰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzai.md)
+
 <p><span class="chinese">那种想法曾是我的精神主宰。</span><span class="english">It was a spiritual master.</span></p>
 
 <p><span class="chinese">恺撒于是成了罗马的主宰。</span><span class="english">Gasser was the master of Rome.</span></p>

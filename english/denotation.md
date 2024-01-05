@@ -1,5 +1,7 @@
 # denotation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denotation.md)
+
 <p><span class="chinese">拼搭场内实现了系统的表示层。</span><span class="english">The layer of denotation was implemented by the building field.</span></p>
 
 <p><span class="chinese">一个单词的含义是由表面义和引申义组成的。</span><span class="english">A word's meaning is made up of both denotation and connotation.</span></p>

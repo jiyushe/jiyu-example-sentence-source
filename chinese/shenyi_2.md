@@ -1,5 +1,7 @@
 # 神医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyi_2.md)
+
 <p><span class="chinese">“你是教皇还是个神医？”盖茨问。</span><span class="english">"Were you a Pope or a doctor healing the sick?" asked Gates.</span></p>
 
 <p><span class="chinese">天贞见神医老人为她说话，立即说这就是实情。</span><span class="english">Day zhen see happy old man speak for her, immediately said it is the truth.</span></p>

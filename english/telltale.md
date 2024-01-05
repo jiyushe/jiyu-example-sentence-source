@@ -1,5 +1,7 @@
 # telltale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telltale.md)
+
 <p><span class="chinese">但是谁又能证明这些小东西就是识别人类的线索呢？</span><span class="english">But just how telltale is this trail of microbiota?</span></p>
 
 <p><span class="chinese">上升趋势是存在内存泄漏的警示信号。</span><span class="english">The upward-sloping trend is a telltale sign of a memory leak.</span></p>

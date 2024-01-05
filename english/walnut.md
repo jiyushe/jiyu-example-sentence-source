@@ -1,5 +1,7 @@
 # walnut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walnut.md)
+
 <p><span class="chinese">是的，不仅仅是核桃仁哦。</span><span class="english">Yeah, not a walnut.</span></p>
 
 <p><span class="chinese">这个箱子是胡桃木做的。</span><span class="english">This box is made of walnut.</span></p>

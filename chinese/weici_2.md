@@ -1,5 +1,7 @@
 # 微词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weici_2.md)
+
 <p><span class="chinese">对于格林斯泰因的领导，也有人颇有微词。</span><span class="english">There have been some grumbles about his leadership.</span></p>
 
 <p><span class="chinese">一谈到核电站安全问题，我颇有微词。</span><span class="english">When it comes to the safety of nuclear power plants, I am biased.</span></p>

@@ -1,5 +1,7 @@
 # corrosive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corrosive.md)
+
 <p><span class="chinese">它是极强的腐蚀剂。</span><span class="english">It is extremely corrosive.</span></p>
 
 <p><span class="chinese">腐蚀性对于铜会产生腐蚀性。</span><span class="english">Corrosivity Corrosive in presence of copper.</span></p>

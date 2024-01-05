@@ -1,5 +1,7 @@
 # 介质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezhi.md)
+
 <p><span class="chinese">使用的介质为硅油。</span><span class="english">Medium used is silicone oil.</span></p>
 
 <p><span class="chinese">传播声音的最佳介质是固体。</span><span class="english">It travels best through solid.</span></p>

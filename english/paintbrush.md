@@ -1,5 +1,7 @@
 # paintbrush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paintbrush.md)
+
 <p><span class="chinese">这把刷子可以用作漆刷吗?。</span><span class="english">Can this brush go for a paintbrush?</span></p>
 
 <p><span class="chinese">他带走了马良的画笔。</span><span class="english">He took MaLiang's magic paintbrush.</span></p>

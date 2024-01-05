@@ -1,5 +1,7 @@
 # haul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haul.md)
+
 <p><span class="chinese">渔民们拉鱼网。</span><span class="english">The fishermen haul the net.</span></p>
 
 <p><span class="chinese">用象鼻虫把他的脚绑起来。</span><span class="english">Haul that weevil to his feet.</span></p>

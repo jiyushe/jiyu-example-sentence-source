@@ -1,5 +1,7 @@
 # stealthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stealthy.md)
+
 <p><span class="chinese">自我怀疑可能是一种潜在的问题。</span><span class="english">Self-doubt can be a stealthy problem.</span></p>
 
 <p><span class="chinese">这只青蛇继续鬼鬼祟祟的打猎。</span><span class="english">The snake continues its stealthy hunt.</span></p>

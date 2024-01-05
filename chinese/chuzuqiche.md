@@ -1,5 +1,7 @@
 # 出租汽车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuzuqiche.md)
+
 <p><span class="chinese">这是部出租汽车。</span><span class="english">This car is rental.</span></p>
 
 <p><span class="chinese">我们叫辆出租汽车好吗？</span><span class="english">Shall we call a taxi?</span></p>

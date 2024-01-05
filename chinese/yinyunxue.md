@@ -1,5 +1,7 @@
 # 音韵学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyunxue.md)
+
 <p><span class="chinese">从音韵学的角度清理其失误，计有六处之多。</span><span class="english">This essay disposes of its six errors from the angle of phonology.</span></p>
 
 <p><span class="chinese">了解音韵学以及语言的需求性。</span><span class="english">Know what phonetics and phonology are and how language is acquired.</span></p>

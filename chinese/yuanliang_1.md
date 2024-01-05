@@ -1,5 +1,7 @@
 # 原谅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanliang_1.md)
+
 <p><span class="chinese">我原谅。</span><span class="english">I forgive.</span></p>
 
 <p><span class="chinese">原谅我。</span><span class="english">Forgive me.</span></p>

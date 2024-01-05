@@ -1,5 +1,7 @@
 # 母音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muyin.md)
+
 <p><span class="chinese">胆怯的母牛发誓不拖母音字母。</span><span class="english">the cowardly cow vows not to tow vowels.</span></p>
 
 <p><span class="chinese">短母音与长母音，何者先教？</span><span class="english">Should Short Vowels Be Taught before Long Vowels?</span></p>

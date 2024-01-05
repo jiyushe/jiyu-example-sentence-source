@@ -1,5 +1,7 @@
 # 跻身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jishen.md)
+
 <p><span class="chinese">印度首次跻身前12位，取代了滑落至第14位的西班牙。</span><span class="english">It replaced Spain, which fell to 14th.</span></p>
 
 <p><span class="chinese">同时跻身前十名的还有狮子狗和西施犬。</span><span class="english">The Poodle and the Shih Tzu completed the top 10.</span></p>

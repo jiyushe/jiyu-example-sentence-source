@@ -1,5 +1,7 @@
 # plexiglas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plexiglas.md)
+
 <p><span class="chinese">为什么把它印在了有机玻璃上？</span><span class="english">Why did you print it on Plexiglas?</span></p>
 
 <p><span class="chinese">用了有机玻璃价格就会更高。</span><span class="english">It would drive the price higher with the Plexiglas.</span></p>

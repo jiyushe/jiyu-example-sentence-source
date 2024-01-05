@@ -1,5 +1,7 @@
 # forme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forme.md)
+
 <p><span class="chinese">我想她就是适合我的人。</span><span class="english">I think she is the one forme.</span></p>
 
 <p><span class="chinese">你能替我兑现这张支票吗？</span><span class="english">Can you cash this check forme?</span></p>

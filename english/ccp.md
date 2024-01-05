@@ -1,5 +1,7 @@
 # ccp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ccp.md)
+
 <p><span class="chinese">是党所面临的新的课题。</span><span class="english">It is a new lesson for the CCP.</span></p>
 
 <p><span class="chinese">怎能让一个美国的大使让中国的官员下不了台？</span><span class="english">Can't have a US Ambassador upstaging CCP officials.</span></p>

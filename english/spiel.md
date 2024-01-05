@@ -1,5 +1,7 @@
 # spiel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiel.md)
+
 <p><span class="chinese">今天云达不来梅对战切尔西。</span><span class="english">Heute spiel t werder bremen gegen chelsea.</span></p>
 
 <p><span class="chinese">他极力向我推销店里卖的一台电脑。</span><span class="english">He gave me some spiel about a computer he had for sale.</span></p>

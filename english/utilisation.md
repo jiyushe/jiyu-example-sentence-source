@@ -1,5 +1,7 @@
 # utilisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utilisation.md)
+
 <p><span class="chinese">市场会放缓,LCD厂商可能再度降低产能利用率.</span><span class="english">There will be a slowdown, and LCD companies may lower plant utilisation again.</span></p>
 
 <p><span class="chinese">这是一个利用自然资源扩张经济的庞大计划的一部分。</span><span class="english">It is part of a major plan to expand the economy through the utilisation of natural resources.</span></p>

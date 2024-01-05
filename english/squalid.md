@@ -1,5 +1,7 @@
 # squalid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squalid.md)
+
 <p><span class="chinese">洗手间有些污秽。</span><span class="english">The washrooms were a squalid mess.</span></p>
 
 <p><span class="chinese">这出拙劣的悲剧在这里一直演到终场。</span><span class="english">Here the squalid tragedy was played out.</span></p>

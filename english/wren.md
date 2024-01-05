@@ -1,5 +1,7 @@
 # wren
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wren.md)
+
 <p><span class="chinese">是我们，鹪鹩说。</span><span class="english">We, said the Wren.</span></p>
 
 <p><span class="chinese">四个叫化子，一只小黄莺。</span><span class="english">Four Larks and a Wren.</span></p>

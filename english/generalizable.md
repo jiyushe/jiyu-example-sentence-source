@@ -1,5 +1,7 @@
 # generalizable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generalizable.md)
+
 <p><span class="chinese">结果可能不具有普遍性。</span><span class="english">Results may not be generalizable.</span></p>
 
 <p><span class="chinese">这是生命中最有用和最普遍的技能之一。</span><span class="english">This technique is one of life's most useful and generalizable skills.</span></p>

@@ -1,5 +1,7 @@
 # babassu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babassu.md)
+
 <p><span class="chinese">妇女是生产巴西棕榈树油的重要一环。</span><span class="english">Women are at the center of the babassu story.</span></p>
 
 <p><span class="chinese">Maranhão州法律规定，砍伐巴巴苏棕榈树是违法行为。</span><span class="english">Under Maranhão state law, it is illegal to cut down babassu palm trees.</span></p>

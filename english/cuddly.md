@@ -1,5 +1,7 @@
 # cuddly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuddly.md)
+
 <p><span class="chinese">暴躁的龙而非可爱的熊猫。</span><span class="english">Fiery dragon rather than cuddly panda.</span></p>
 
 <p><span class="chinese">我喜欢那个看上去很想抱一抱他的小孩。</span><span class="english">I like that kid who appears so cuddly.</span></p>

@@ -1,5 +1,7 @@
 # brainpower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brainpower.md)
+
 <p><span class="chinese">专注能增进脑力。</span><span class="english">Concentration can increase brainpower.</span></p>
 
 <p><span class="chinese">马上用这个技巧来增进自己的脑力吧。</span><span class="english">Use this technique to increase your brainpower now.</span></p>

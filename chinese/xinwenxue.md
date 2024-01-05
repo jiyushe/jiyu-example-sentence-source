@@ -1,5 +1,7 @@
 # 新文学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinwenxue.md)
+
 <p><span class="chinese">鲁迅与胡适是新文学的开创者与奠基人。</span><span class="english">Luxun and Hushi are explorer and founder of Chinese modem literature.</span></p>
 
 <p><span class="chinese">鲁迅与胡适是新文学的开创者与奠基人。</span><span class="english">Luxun and Hushi are explorer and founder of Chinese modern literature.</span></p>

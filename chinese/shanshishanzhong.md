@@ -1,5 +1,7 @@
 # 善始善终
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshishanzhong.md)
+
 <p><span class="chinese">是一款善始善终的超价手链。</span><span class="english">Is a super-price bracelet from start to finish.</span></p>
 
 <p><span class="chinese">在这个反复无常的世界里，我们竭力保持自身的一致性，力图善始善终。</span><span class="english">In an inconsistent world we at least should be self-consistent.</span></p>

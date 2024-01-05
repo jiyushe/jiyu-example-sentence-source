@@ -1,5 +1,7 @@
 # generation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generation.md)
+
 <p><span class="chinese">另一代人？</span><span class="english">Another generation?</span></p>
 
 <p><span class="chinese">旅次发生率?。</span><span class="english">Trip Generation Rate?</span></p>

@@ -1,5 +1,7 @@
 # telemetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telemetry.md)
+
 <p><span class="chinese">这些系统模仿了过去在赛车场合出现的遥测装置。</span><span class="english">This echoes what has happened to motor-racing telemetry.</span></p>
 
 <p><span class="chinese">他的意思是只看那些通过遥测能够看到的温度，确实如此。</span><span class="english">He meant only those that the telemetry allowed him to see.</span></p>

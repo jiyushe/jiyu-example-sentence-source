@@ -1,5 +1,7 @@
 # asthenosphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asthenosphere.md)
+
 <p><span class="chinese">中间圈包括岩流圈以下地幔的其余部分。</span><span class="english">The mesosphere comprises the rest of the mantle below the asthenosphere.</span></p>
 
 <p><span class="chinese">该阶段的碱性玄武岩浆可能来源于软流圈。</span><span class="english">The alkalic basaltic magma of this stage may be derived from asthenosphere.</span></p>

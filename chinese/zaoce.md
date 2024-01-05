@@ -1,5 +1,7 @@
 # 造册
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoce.md)
+
 <p><span class="chinese">给中国的植物登记造册</span><span class="english">Cataloging the plants of China</span></p>
 
 <p><span class="chinese">每一座建筑物都必须被确认，登记造册，写明时间、地点和用途。</span><span class="english">Each property shall be recognized as a physical record of its time, place, and use.</span></p>

@@ -1,5 +1,7 @@
 # autotrophic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autotrophic.md)
+
 <p><span class="chinese">绿色植物在性质上是自养的。</span><span class="english">Green Plants are autotrophic in nature.</span></p>
 
 <p><span class="chinese">文心兰在无糖培养基中自养生长基本正常。</span><span class="english">Oncidium was autotrophic without sugar in the medium.</span></p>

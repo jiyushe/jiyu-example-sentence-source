@@ -1,5 +1,7 @@
 # contractual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contractual.md)
+
 <p><span class="chinese">不再承担所有先前的合同义务。</span><span class="english">To torch all pre-existing contractual obligations.</span></p>
 
 <p><span class="chinese">与非直接雇佣的灾难援助反应队的合同安排。</span><span class="english">Contractual arrangements with non-direct hire DART members.</span></p>

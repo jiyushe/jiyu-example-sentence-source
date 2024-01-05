@@ -1,5 +1,7 @@
 # 酱菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangcai.md)
+
 <p><span class="chinese">父亲自己是在一家酱菜园里学徒。</span><span class="english">My father was an apprentice in a sauce and pickle shop.</span></p>
 
 <p><span class="chinese">大连哪里有卖六必居酱菜的？</span><span class="english">Where does Dalian have selling six must store pickle's?</span></p>

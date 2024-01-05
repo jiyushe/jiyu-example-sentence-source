@@ -1,5 +1,7 @@
 # 主张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhang.md)
+
 <p><span class="chinese">我们主张公平竞赛。</span><span class="english">We stand for fair play.</span></p>
 
 <p><span class="chinese">咱们主张自力更生。</span><span class="english">We stor to self-reliance.</span></p>

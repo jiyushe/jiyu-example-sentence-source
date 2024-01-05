@@ -1,5 +1,7 @@
 # 插班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaban_1.md)
+
 <p><span class="chinese">我能否提早插班读这门课程？</span><span class="english">Can I skip to this course?</span></p>
 
 <p><span class="chinese">学员自愿插班，且通过相应的学员水平测试后方可安排插班。</span><span class="english">Students willing to transfer in should take an English level test first.</span></p>

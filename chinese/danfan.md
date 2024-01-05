@@ -1,5 +1,7 @@
 # 但凡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danfan.md)
+
 <p><span class="chinese">但凡有耳的就该当听！</span><span class="english">Whoever has ears to hear should listen!</span></p>
 
 <p><span class="chinese">然而但凡兵锋所指之处皆是一片生灵涂炭</span><span class="english">But when they got there, there was hell to pay.</span></p>

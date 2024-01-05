@@ -1,5 +1,7 @@
 # 早衰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoshuai.md)
+
 <p><span class="chinese">布雷弗曼指出，并非所有的早衰迹象都会表现在脸上。</span><span class="english">Braverman points out that not all premature aging signs are written on your face.</span></p>
 
 <p><span class="chinese">预烧是为了减少产品早衰的生产过程必要的手段。</span><span class="english">Burn-in is a manufacturing operation that is intended to eliminate early failure.</span></p>

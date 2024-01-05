@@ -1,5 +1,7 @@
 # 生疼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengteng_1.md)
+
 <p><span class="chinese">我的短裤把大腿磨得生疼。</span><span class="english">My shorts were chafing my thighs.</span></p>
 
 <p><span class="chinese">飞沙打得他的双颊生疼。</span><span class="english">The blowing sand stung his cheeks.</span></p>

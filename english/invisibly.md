@@ -1,5 +1,7 @@
 # invisibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invisibly.md)
+
 <p><span class="chinese">所有的微生物都小得看不见。</span><span class="english">All microbes are invisibly small.</span></p>
 
 <p><span class="chinese">每天消陨于无形之中。</span><span class="english">Every day disappears falls invisibly.</span></p>

@@ -1,5 +1,7 @@
 # 元旦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuandan.md)
+
 <p><span class="chinese">今天是一九七九年元旦。</span><span class="english">Today is New Year's Day 1979.</span></p>
 
 <p><span class="chinese">元旦是一个合成词，由两个字组成。</span><span class="english">Is a compound word , made up of two words.</span></p>

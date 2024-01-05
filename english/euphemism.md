@@ -1,5 +1,7 @@
 # euphemism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euphemism.md)
+
 <p><span class="chinese">“很少”这里都是委婉的说法。</span><span class="english">"Rarely" is a euphemism there.</span></p>
 
 <p><span class="chinese">受教育程度高的人更多地使用委婉语。</span><span class="english">Euphemism is more used by highly-educated people.</span></p>

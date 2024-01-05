@@ -1,5 +1,7 @@
 # unconformity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconformity.md)
+
 <p><span class="chinese">这里有充足的砂质物铺盖不整合面。</span><span class="english">There is sufficient sand available to blanket the unconformity.</span></p>
 
 <p><span class="chinese">这里有富足的砂质物铺盖不整合面。</span><span class="english">There is sufficient sand available to blanket the unconformity.</span></p>

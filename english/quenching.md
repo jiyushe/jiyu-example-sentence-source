@@ -1,5 +1,7 @@
 # quenching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quenching.md)
+
 <p><span class="chinese">带给ta解渴的饮料。</span><span class="english">Bring them a thirst quenching drink.</span></p>
 
 <p><span class="chinese">包括喷雾和直接淬火。</span><span class="english">Includes spray and direct quenching.</span></p>

@@ -1,5 +1,7 @@
 # 误事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushi_8.md)
+
 <p><span class="chinese">深思熟虑不误事。</span><span class="english">Deliberating is not delaying.</span></p>
 
 <p><span class="chinese">国家在他手里一定会误事的。</span><span class="english">Country must be messy in his hands.</span></p>

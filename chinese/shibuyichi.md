@@ -1,5 +1,7 @@
 # 事不宜迟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibuyichi.md)
+
 <p><span class="chinese">这件事不宜迟。</span><span class="english">This matter asks haste.</span></p>
 
 <p><span class="chinese">无须赘言，事不宜迟，这项改革年内一定会展开。</span><span class="english">Health care reform must happen this year.</span></p>

@@ -1,5 +1,7 @@
 # 耐久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naijiu.md)
+
 <p><span class="chinese">耐久度的衡量单位是圆点数。</span><span class="english">Durability is measured in dots.</span></p>
 
 <p><span class="chinese">哀愁却是坚强而耐久。</span><span class="english">But sorrow is strong and abiding.</span></p>

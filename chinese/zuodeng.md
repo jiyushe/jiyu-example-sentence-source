@@ -1,5 +1,7 @@
 # 坐等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuodeng.md)
+
 <p><span class="chinese">最好的求职者从来不坐等其成，而是主动出击。</span><span class="english">The best jobseekers are and don't wait.</span></p>
 
 <p><span class="chinese">最好的求职者从来不坐等其成，而是主动出击。</span><span class="english">The best jobseekers are proactive and don’t wait.</span></p>

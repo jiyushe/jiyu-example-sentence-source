@@ -1,5 +1,7 @@
 # pellicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pellicle.md)
+
 <p><span class="chinese">我们只晓得我们所生活的地球上的一张薄膜。</span><span class="english">We are acquainted with a mere pellicle of the globe on which we live.</span></p>
 
 <p><span class="chinese">采用HPLC对核桃仁种皮中的多酚类物质进行了分析研究。</span><span class="english">The determination of polyphenols in the walnut kernel pellicle was studied by HPLC.</span></p>

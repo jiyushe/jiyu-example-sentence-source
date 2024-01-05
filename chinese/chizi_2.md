@@ -1,5 +1,7 @@
 # 斥资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chizi_2.md)
+
 <p><span class="chinese">公司斥资引进瑞士片梭织机，整经机。</span><span class="english">We have advanced looms and warping machine from Switzerland.</span></p>
 
 <p><span class="chinese">该协会斥资上百万元给医改计划做广告宣传。</span><span class="english">PhRMA is spending millions on advertising to support the plan.</span></p>

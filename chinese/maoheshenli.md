@@ -1,5 +1,7 @@
 # 貌合神离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoheshenli.md)
+
 <p><span class="chinese">一连几天，他们过着貌合神离的生活。</span><span class="english">For several days they lead a formal, isolated existence.</span></p>
 
 <p><span class="chinese">不过貌合神离的合作关系充满着许多危机。</span><span class="english">But these odd-couple relationships can be fraught with peril.</span></p>

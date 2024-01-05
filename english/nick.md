@@ -1,5 +1,7 @@
 # nick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nick.md)
+
 <p><span class="chinese">尼克在哪里？</span><span class="english">Where’s Nick?</span></p>
 
 <p><span class="chinese">我是尼克</span><span class="english">My name's Nick.</span></p>

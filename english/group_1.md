@@ -1,5 +1,7 @@
 # group 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/group_1.md)
+
 <p><span class="chinese">跟一个团组去的?</span><span class="english">With a group?</span></p>
 
 <p><span class="chinese">通过事件组。</span><span class="english">By event group.</span></p>

@@ -1,5 +1,7 @@
 # 过家家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guojiajia.md)
+
 <p><span class="chinese">小孩喜欢玩“过家家”。</span><span class="english">Children like to play house.</span></p>
 
 <p><span class="chinese">你觉得我们能在这儿玩多久过家家？</span><span class="english">How long do you think we can play house?</span></p>

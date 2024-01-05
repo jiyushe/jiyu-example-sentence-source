@@ -1,5 +1,7 @@
 # unmanly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmanly.md)
+
 <p><span class="chinese">这样攻击一个女人算哪路好汉！</span><span class="english">It is unmanly to attack a woman so!</span></p>
 
 <p><span class="chinese">那个时候，裤子被视为很女人气。</span><span class="english">At that time, pants were considered unmanly.</span></p>

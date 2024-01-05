@@ -1,5 +1,7 @@
 # 社火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shehuo.md)
+
 <p><span class="chinese">“社火”活动很受当地人们的欢迎。</span><span class="english">The parade is warmly welcomed by the local people.</span></p>
 
 <p><span class="chinese">只有正月十五至十七日，传统比赛社火按照规矩勉力为之。</span><span class="english">Only from 15 to 17 , traditional Shehuo race were held.</span></p>

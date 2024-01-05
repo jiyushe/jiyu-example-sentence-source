@@ -1,5 +1,7 @@
 # candace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candace.md)
+
 <p><span class="chinese">请参阅坎迪斯所写的“上帝之子”了解更多。</span><span class="english">See "Sonship with God" for further reading by Candace.</span></p>
 
 <p><span class="chinese">这就像堪黛丝·布希聂尔要用讽刺手法描写你的生活。</span><span class="english">It's like Candace Bushnell wanted to satirize your life.</span></p>

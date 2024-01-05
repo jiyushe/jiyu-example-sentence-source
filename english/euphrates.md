@@ -1,5 +1,7 @@
 # euphrates
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euphrates.md)
+
 <p><span class="chinese">第四条支流是幼发拉底。</span><span class="english">And the fourth river is Euphrates.</span></p>
 
 <p><span class="chinese">四道乃比逊、基训、底格里斯和幼发拉底河。</span><span class="english">The four headwaters are Pishon, Gihon, Tigris and Euphrates.</span></p>

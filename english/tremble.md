@@ -1,5 +1,7 @@
 # tremble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tremble.md)
+
 <p><span class="chinese">你是否会颤抖？</span><span class="english">Would Uyou tremble.</span></p>
 
 <p><span class="chinese">我要看着他浑身战抖。</span><span class="english">I shall see him tremble.</span></p>

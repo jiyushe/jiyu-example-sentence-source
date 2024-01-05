@@ -1,5 +1,7 @@
 # cordless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cordless.md)
+
 <p><span class="chinese">她被无线电话的线给绊倒在地。</span><span class="english">She tripped over a cordless phone.</span></p>
 
 <p><span class="chinese">我们也应该避免使用无绳电话。</span><span class="english">We should also avoid cordless phones.</span></p>

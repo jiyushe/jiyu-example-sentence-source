@@ -1,5 +1,7 @@
 # 确立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queli.md)
+
 <p><span class="chinese">他确立了他的学说。</span><span class="english">He has established his theory.</span></p>
 
 <p><span class="chinese">这种用法已牢牢确立起来了。</span><span class="english">The usage is now firmly indurated.</span></p>

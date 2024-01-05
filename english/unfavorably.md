@@ -1,5 +1,7 @@
 # unfavorably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfavorably.md)
+
 <p><span class="chinese">与贵方的竞争对手相比，你们所报价格一点也不占优势。</span><span class="english">Your price compare unfavorably with your competitor's.</span></p>
 
 <p><span class="chinese">从来不对孩子说，他比别的孩子差。</span><span class="english">I never compare my child unfavorably to other children.</span></p>

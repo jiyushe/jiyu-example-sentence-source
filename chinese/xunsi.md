@@ -1,5 +1,7 @@
 # 寻死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunsi.md)
+
 <p><span class="chinese">你这是自寻死路。</span><span class="english">You which is the kiss of death.</span></p>
 
 <p><span class="chinese">地穴恶魔们，你们这是自寻死路！</span><span class="english">Crypt fiends, you're not prepared!</span></p>

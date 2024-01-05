@@ -1,5 +1,7 @@
 # extrapyramidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrapyramidal.md)
+
 <p><span class="chinese">较多见的不良反应为锥体外系症状和失眠。</span><span class="english">The common adverse reactions were extrapyramidal symptoms and insomnia.</span></p>
 
 <p><span class="chinese">结论PKC由突然运动诱发，表现为发作性不自主运动等锥体外系症状。</span><span class="english">PKC is usually induced by sudden movement and present paroxysmal extrapyramidal symptoms.</span></p>

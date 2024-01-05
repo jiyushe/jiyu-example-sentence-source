@@ -1,5 +1,7 @@
 # refocus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refocus.md)
+
 <p><span class="chinese">它将会帮你变得专注。</span><span class="english">It will help you refocus.</span></p>
 
 <p><span class="chinese">转移注意力于其他事上</span><span class="english">Refocus your attention on something else.</span></p>

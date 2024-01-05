@@ -1,5 +1,7 @@
 # wheresoever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheresoever.md)
+
 <p><span class="chinese">她在哪里，哪里就是伊甸园！</span><span class="english">Wheresoever she was, there was Eden.</span></p>
 
 <p><span class="chinese">无论何处，她所在的地方就是伊甸园。</span><span class="english">Wheresoever she was, there was Eden.</span></p>

@@ -1,5 +1,7 @@
 # investigation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/investigation.md)
+
 <p><span class="chinese">他现在面对侦讯。</span><span class="english">He now faces investigation.</span></p>
 
 <p><span class="chinese">这件事情需要调查。</span><span class="english">This matter bears investigation.</span></p>

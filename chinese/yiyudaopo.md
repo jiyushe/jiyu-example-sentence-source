@@ -1,5 +1,7 @@
 # 一语道破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyudaopo.md)
+
 <p><span class="chinese">一语道破了我们这个时代的困境。</span><span class="english">Wilson captures the dilemma of our era.</span></p>
 
 <p><span class="chinese">却可以一语道破你隐藏着的是个怎样的人。</span><span class="english">But can you hide victims of is a how of person.</span></p>

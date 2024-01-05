@@ -1,5 +1,7 @@
 # 充沛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongpei.md)
+
 <p><span class="chinese">你是那么活力充沛！</span><span class="english">You feel Alive!</span></p>
 
 <p><span class="chinese">我感觉自己体力充沛。</span><span class="english">And I have lots of energy.</span></p>

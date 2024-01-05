@@ -1,5 +1,7 @@
 # 清高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinggao.md)
+
 <p><span class="chinese">第二种，太清高的人。</span><span class="english">The 2nd kind, too great-hearted person.</span></p>
 
 <p><span class="chinese">哦，倘若你的清高未把欢乐阻碍。</span><span class="english">O if thy pride did not our joys controul.</span></p>

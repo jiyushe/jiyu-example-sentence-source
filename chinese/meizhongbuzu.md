@@ -1,5 +1,7 @@
 # 美中不足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meizhongbuzu.md)
+
 <p><span class="chinese">最大的谎言是你美中不足的谎言。</span><span class="english">The biggest lie is the lie of your imperfection.</span></p>
 
 <p><span class="chinese">唯一美中不足的是天气。</span><span class="english">The only fly in the ointment could be the weather.</span></p>

@@ -1,5 +1,7 @@
 # framing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/framing.md)
+
 <p><span class="chinese">这就是框架效应。</span><span class="english">Well, that's framing.</span></p>
 
 <p><span class="chinese">什么是一帧钉枪？。</span><span class="english">What is a Framing Nailer?</span></p>

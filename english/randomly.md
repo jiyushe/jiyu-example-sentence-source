@@ -1,5 +1,7 @@
 # randomly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/randomly.md)
+
 <p><span class="chinese">请勿任意增删列，更动格式。</span><span class="english">Do not change the form randomly.</span></p>
 
 <p><span class="chinese">在其他的情况中，是随机给的。</span><span class="english">In other cases, it was randomly given.</span></p>

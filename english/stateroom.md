@@ -1,5 +1,7 @@
 # stateroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stateroom.md)
+
 <p><span class="chinese">内侧舱房可以看到海景吗?。</span><span class="english">Can I get a sea-view from the inside stateroom?</span></p>
 
 <p><span class="chinese">请问可以改换有海景窗户的舱房吗？</span><span class="english">May I change to a stateroom with an ocean view?</span></p>

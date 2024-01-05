@@ -1,5 +1,7 @@
 # 戈壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gebi.md)
+
 <p><span class="chinese">第一批恐龙蛋就是在戈壁发现的。</span><span class="english">The first dinosaur eggs were found in the Gobi.</span></p>
 
 <p><span class="chinese">南戈壁同样拥有其它两个地方的执照。</span><span class="english">SouthGobi also has licenses for two other sites.</span></p>

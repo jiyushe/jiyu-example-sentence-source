@@ -1,5 +1,7 @@
 # 蹂躏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roulin.md)
+
 <p><span class="chinese">这个农奴被蹂躏致死。</span><span class="english">The serf was trod to death.</span></p>
 
 <p><span class="chinese">土匪们蹂躏这个村庄。</span><span class="english">The bandits took the village apart.</span></p>

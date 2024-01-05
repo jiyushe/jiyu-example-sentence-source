@@ -1,5 +1,7 @@
 # jailbird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jailbird.md)
+
 <p><span class="chinese">他是个囚犯。</span><span class="english">He's jailbird.</span></p>
 
 <p><span class="chinese">他是个囚犯。</span><span class="english">He's a jailbird.</span></p>

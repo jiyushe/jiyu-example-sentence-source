@@ -1,5 +1,7 @@
 # cv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cv.md)
+
 <p><span class="chinese">那么构型。</span><span class="english">Cv So Cv configurational.</span></p>
 
 <p><span class="chinese">有意者请将简历发送到。</span><span class="english">Applicants should send the CV to.</span></p>

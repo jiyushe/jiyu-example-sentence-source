@@ -1,5 +1,7 @@
 # irreducible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irreducible.md)
+
 <p><span class="chinese">“不可折算的”因素是一种不能数量化的因素。</span><span class="english">An "irreducible" element is one that can not be quantified.</span></p>
 
 <p><span class="chinese">大便的臭味,是宇宙中不可约的事实。</span><span class="english">The stinkiness of poop is not an irreducible fact about the universe.</span></p>

@@ -1,5 +1,7 @@
 # 转载
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzai.md)
+
 <p><span class="chinese">本文经许可转载。</span><span class="english">Reprinted by permission.</span></p>
 
 <p><span class="chinese">未经允许，请勿转载。</span><span class="english">No copys without permission.</span></p>

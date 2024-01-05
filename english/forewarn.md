@@ -1,5 +1,7 @@
 # forewarn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forewarn.md)
+
 <p><span class="chinese">难道圣灵徒劳的预先这些东西？</span><span class="english">Did the Holy Ghost in vain forewarn of these things?</span></p>
 
 <p><span class="chinese">但是受精的蟋蟀似乎确实拥有预警能力。</span><span class="english">But pregnant crickets, it appears, do have the ability to forewarn.</span></p>

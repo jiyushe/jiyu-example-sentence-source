@@ -1,5 +1,7 @@
 # 新式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshi_5.md)
+
 <p><span class="chinese">这种新式玻璃瓶口，易于开启。</span><span class="english">This new type of Bottle is easy to uncap.</span></p>
 
 <p><span class="chinese">这是一张可怕的新式武器的图片。</span><span class="english">This is a picture of terrible new weapons.</span></p>

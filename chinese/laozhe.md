@@ -1,5 +1,7 @@
 # 老者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laozhe.md)
+
 <p><span class="chinese">这是一个老者。</span><span class="english">It was an elder.</span></p>
 
 <p><span class="chinese">老者生气了。</span><span class="english">The old man got angry.</span></p>

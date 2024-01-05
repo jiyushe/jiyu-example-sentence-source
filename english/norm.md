@@ -1,5 +1,7 @@
 # norm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norm.md)
+
 <p><span class="chinese">双收入家庭一时成为基准。</span><span class="english">Two-income families were the norm.</span></p>
 
 <p><span class="chinese">然而，在卢旺达这是正常现象。</span><span class="english">In Rwanda, however, it is the norm.</span></p>

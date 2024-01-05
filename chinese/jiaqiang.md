@@ -1,5 +1,7 @@
 # 加强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaqiang.md)
+
 <p><span class="chinese">我们的执行力更加强。</span><span class="english">We've executing better.</span></p>
 
 <p><span class="chinese">提供积极的加强推进效应。</span><span class="english">Provide positive reinforcement.</span></p>

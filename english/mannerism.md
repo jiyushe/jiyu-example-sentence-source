@@ -1,5 +1,7 @@
 # mannerism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mannerism.md)
+
 <p><span class="chinese">他说话间歇时总爱用“呃”“嗯”之类的话搭头。</span><span class="english">He used such mannerism as “er” and “uh” to fill in a pause.</span></p>
 
 <p><span class="chinese">举手投足间展示着天生王者的绝对影响力！</span><span class="english">Its mannerism shows absolute domination power of inborn crown!</span></p>

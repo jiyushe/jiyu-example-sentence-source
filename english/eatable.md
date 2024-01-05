@@ -1,5 +1,7 @@
 # eatable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eatable.md)
+
 <p><span class="chinese">这种食物难以咽下。</span><span class="english">This food is scarcely eatable.</span></p>
 
 <p><span class="chinese">这些腐烂的水果不能再吃。</span><span class="english">The rotten fruit is not eatable.</span></p>

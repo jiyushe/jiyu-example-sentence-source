@@ -1,5 +1,7 @@
 # wrench
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrench.md)
+
 <p><span class="chinese">现在全力转动扳手。</span><span class="english">Now turn the wrench fully.</span></p>
 
 <p><span class="chinese">这就是你的扳手。</span><span class="english">Here is the wrench you did.</span></p>

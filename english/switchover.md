@@ -1,5 +1,7 @@
 # switchover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/switchover.md)
+
 <p><span class="chinese">一个多实例代理的受控切换</span><span class="english">Controlled switchover of a multi-instance broker</span></p>
 
 <p><span class="chinese">常规模式与满屏模式下进行切换。</span><span class="english">Common mode and full screen mode switchover freely.</span></p>

@@ -1,5 +1,7 @@
 # 丢面子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diumianzi.md)
+
 <p><span class="chinese">不要怕丢面子。</span><span class="english">Don't be afraid of losing face.</span></p>
 
 <p><span class="chinese">最糟糕的是丢面子。</span><span class="english">Worst of all were the humiliations.</span></p>

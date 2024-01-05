@@ -1,5 +1,7 @@
 # 假名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaming.md)
+
 <p><span class="chinese">吉姆是一个假名。</span><span class="english">Jim is a pseudonym.</span></p>
 
 <p><span class="chinese">此方法不区分假名宽度。</span><span class="english">This method is kana-width insensitive.</span></p>

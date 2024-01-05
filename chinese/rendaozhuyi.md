@@ -1,5 +1,7 @@
 # 人道主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rendaozhuyi.md)
+
 <p><span class="chinese">所有人道主义者都反对奴隶制。</span><span class="english">All humanitarians are against slavery.</span></p>
 
 <p><span class="chinese">这就是无神论者和人道主义的谎言。</span><span class="english">Well that is the lie of atheism and humanism.</span></p>

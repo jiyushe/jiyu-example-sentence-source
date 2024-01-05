@@ -1,5 +1,7 @@
 # interposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interposition.md)
+
 <p><span class="chinese">提出了一种简便通用的快速干涉检查算法。</span><span class="english">This paper presents a simple universal efficient interposition checking algorithm.</span></p>
 
 <p><span class="chinese">干预是外力对某种关系或机制的一种介入…</span><span class="english">Intervention means the interposition on some relations or mechanisms by outside force.</span></p>

@@ -1,5 +1,7 @@
 # 输送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shusong_1.md)
+
 <p><span class="chinese">煤气通过管道输送到各家各户。</span><span class="english">Gas is piped to all the houses.</span></p>
 
 <p><span class="chinese">这些管道将水输送到城镇。</span><span class="english">These pipes carry water to the town.</span></p>

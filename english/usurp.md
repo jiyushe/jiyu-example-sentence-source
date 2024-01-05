@@ -1,5 +1,7 @@
 # usurp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usurp.md)
+
 <p><span class="chinese">他们所处的地位使其得以篡权。</span><span class="english">Their position enabled them to usurp power.</span></p>
 
 <p><span class="chinese">他企图僭越校长的权力。</span><span class="english">He attempted to usurp the principal's authority.</span></p>

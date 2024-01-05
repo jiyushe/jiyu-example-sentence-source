@@ -1,5 +1,7 @@
 # 承前启后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengqianqihou.md)
+
 <p><span class="chinese">SOX9可能是SRY的一个下游基因，起着承前启后的作用。</span><span class="english">SOX9 is a downstream gene of SRY and plays pivot roles.</span></p>
 
 <p><span class="chinese">承前启后与时偕行。把人类艺术之花。</span><span class="english">With the accompanying ChengQianQiHou. The flower of human art.</span></p>

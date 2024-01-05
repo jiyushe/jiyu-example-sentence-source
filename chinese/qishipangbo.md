@@ -1,5 +1,7 @@
 # 气势磅礴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishipangbo.md)
+
 <p><span class="chinese">山之阳的两路，山势陡峭，气势磅礴。</span><span class="english">Hill of Yang 's two, steep mountains, of great momentum.</span></p>
 
 <p><span class="chinese">我生长在大山之中，我们那的人，无法想象什么气势磅礴的大型乐团。</span><span class="english">Growing up in the mountains, we couldn't imagine big orchestras.</span></p>

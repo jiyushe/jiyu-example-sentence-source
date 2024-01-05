@@ -1,5 +1,7 @@
 # tranquilizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tranquilizer.md)
+
 <p><span class="chinese">看看这种“麻醉枪”吧！</span><span class="english">Enter the Tranquilizer Gun!</span></p>
 
 <p><span class="chinese">瑜伽，她说，“是我的镇定剂。”</span><span class="english">Yoga, she says, "is my tranquilizer."</span></p>

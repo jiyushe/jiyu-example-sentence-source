@@ -1,5 +1,7 @@
 # 重于泰山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyutaishan.md)
+
 <p><span class="chinese">工程质量重于泰山。</span><span class="english">The construction quality is extremely important.</span></p>
 
 <p><span class="chinese">为国家效死，死重于泰山。??孙中山。</span><span class="english">Death for the homeland is heavier than Mount Tai.</span></p>

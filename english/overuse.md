@@ -1,5 +1,7 @@
 # overuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overuse.md)
+
 <p><span class="chinese">过度使用现代医学名词术语。</span><span class="english">Overuse of Modern Medical Terms.</span></p>
 
 <p><span class="chinese">过度使用只会让你显得莽撞。</span><span class="english">Overuse will only make you look pushy.</span></p>

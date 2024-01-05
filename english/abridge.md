@@ -1,5 +1,7 @@
 # abridge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abridge.md)
+
 <p><span class="chinese">英语是通向丰富知识的桥梁。</span><span class="english">English is abridge to so much knowledge.</span></p>
 
 <p><span class="chinese">这样就能缩短旅游的时间，而又获益更多。</span><span class="english">Thus he may abridge his travel with much profit.</span></p>

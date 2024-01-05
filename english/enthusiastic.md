@@ -1,5 +1,7 @@
 # enthusiastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enthusiastic.md)
+
 <p><span class="chinese">王先生是一位满怀激情的游客。</span><span class="english">Wang was an enthusiastic tourist.</span></p>
 
 <p><span class="chinese">他们更有热情。</span><span class="english">They are more enthusiastic of that.</span></p>

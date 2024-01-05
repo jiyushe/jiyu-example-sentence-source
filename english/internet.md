@@ -1,5 +1,7 @@
 # internet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internet.md)
+
 <p><span class="chinese">互联网？呸!</span><span class="english">The Internet? Bah!</span></p>
 
 <p><span class="chinese">网路是一个大粪坑?。</span><span class="english">Internet is a Cesspool?</span></p>

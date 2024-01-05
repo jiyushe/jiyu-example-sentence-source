@@ -1,5 +1,7 @@
 # relational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relational.md)
+
 <p><span class="chinese">平安始终相依相伴。</span><span class="english">Peace is always relational.</span></p>
 
 <p><span class="chinese">关系数据是规则且同构的。</span><span class="english">Relational data is regular and homogeneous.</span></p>

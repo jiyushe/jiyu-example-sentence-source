@@ -1,5 +1,7 @@
 # 华人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaren.md)
+
 <p><span class="chinese">峇峇是土生华人男子。</span><span class="english">A baba is a Peranakan man.</span></p>
 
 <p><span class="chinese">什么是土生华人珠绣？</span><span class="english">What is Peranakan beading?</span></p>

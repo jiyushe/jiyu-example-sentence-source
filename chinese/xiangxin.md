@@ -1,5 +1,7 @@
 # 向心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxin.md)
+
 <p><span class="chinese">我们称之为“向心加速度</span><span class="english">We call it "centripetal acceleration."</span></p>
 
 <p><span class="chinese">向心，即指向圆心。</span><span class="english">Centripetal, pointing towards the center.</span></p>

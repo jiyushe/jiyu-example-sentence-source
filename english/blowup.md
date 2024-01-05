@@ -1,5 +1,7 @@
 # blowup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blowup.md)
+
 <p><span class="chinese">下图是这个局部的再次放大。</span><span class="english">Here is even a further blowup of this region.</span></p>
 
 <p><span class="chinese">现在看这儿。这是条约的放大照片。</span><span class="english">Now look at this. It's a blowup of the treaty.</span></p>

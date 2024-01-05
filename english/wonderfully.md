@@ -1,5 +1,7 @@
 # wonderfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wonderfully.md)
+
 <p><span class="chinese">这支笔好写。</span><span class="english">The pen is written wonderfully.</span></p>
 
 <p><span class="chinese">这树长得快得惊人。</span><span class="english">The tree grows wonderfully fast.</span></p>

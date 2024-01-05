@@ -1,5 +1,7 @@
 # 价廉物美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jialianwumei.md)
+
 <p><span class="chinese">试试最价廉物美的去处--拉斯维加斯吧。</span><span class="english">Try the best bargain getaway -- Las Vegas.</span></p>
 
 <p><span class="chinese">这部打字机真是价廉物美。</span><span class="english">This typewriter is very cheap and fine indeed.</span></p>

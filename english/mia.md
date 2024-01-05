@@ -1,5 +1,7 @@
 # mia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mia.md)
+
 <p><span class="chinese">热火限量珍藏版的一部分。</span><span class="english">Part of the MIA Limited Edition Collection.</span></p>
 
 <p><span class="chinese">米雅只想休息一下，歇口气。</span><span class="english">Mia just wanted to rest and catch her breath.</span></p>

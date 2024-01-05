@@ -1,5 +1,7 @@
 # realm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realm.md)
+
 <p><span class="chinese">他的思想境界非常崇高。</span><span class="english">His realm of thought is lofty.</span></p>
 
 <p><span class="chinese">而无痕正是这样的一种境界。</span><span class="english">The Traceless is such a realm.</span></p>

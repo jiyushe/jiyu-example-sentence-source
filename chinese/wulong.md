@@ -1,5 +1,7 @@
 # 乌龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wulong.md)
+
 <p><span class="chinese">世界杯决赛还从来没有出现过乌龙球。</span><span class="english">There has never been an own goal in the World Cup Final.</span></p>
 
 <p><span class="chinese">世界杯乌龙球占进球数的比例是多少?。</span><span class="english">Is world cup own-goal Zhan goals for proportion a number?</span></p>

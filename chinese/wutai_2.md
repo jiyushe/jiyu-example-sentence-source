@@ -1,5 +1,7 @@
 # 舞台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wutai_2.md)
+
 <p><span class="chinese">我被人嘘下了舞台。</span><span class="english">And booed off stage.</span></p>
 
 <p><span class="chinese">莫文蔚本来就是属于舞台的。</span><span class="english">She belongs to the stage.</span></p>

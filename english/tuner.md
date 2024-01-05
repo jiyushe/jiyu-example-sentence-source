@@ -1,5 +1,7 @@
 # tuner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuner.md)
+
 <p><span class="chinese">有一点我想这是一个电视调谐器。</span><span class="english">One thing I would like for it is a tv tuner.</span></p>
 
 <p><span class="chinese">您的计算机安装有电视调谐卡。</span><span class="english">Your computer has a TV tuner card installed.</span></p>

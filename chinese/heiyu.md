@@ -1,5 +1,7 @@
 # 黑鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heiyu.md)
+
 <p><span class="chinese">昨天我钓了一条黑鱼。</span><span class="english">Yesterday I caught a mullet.</span></p>
 
 <p><span class="chinese">它向小黑鱼游去，两条小黑鱼甩甩尾巴游走了。</span><span class="english">Swimmy swim it to go, two Swimmy Shuaishuai walk the tail.</span></p>

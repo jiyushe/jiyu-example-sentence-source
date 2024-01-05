@@ -1,5 +1,7 @@
 # 拭目以待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shimuyidai.md)
+
 <p><span class="chinese">哈哈，让我们拭目以待吧。</span><span class="english">Ha-ha. Let's wait and see.</span></p>
 
 <p><span class="chinese">好吧，那我可要拭目以待了。</span><span class="english">Okay. I'm going to watch for that.</span></p>

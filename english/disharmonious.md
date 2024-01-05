@@ -1,5 +1,7 @@
 # disharmonious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disharmonious.md)
+
 <p><span class="chinese">但当前也面临许多问题，有着不少不和谐的因素。</span><span class="english">However, there are still a lot of problems of disharmonious factors.</span></p>
 
 <p><span class="chinese">不要搞出地域歧视来，否则会激起很多不和谐的声音。</span><span class="english">Don't stir up area discrimination, or it'll trigger many disharmonious sounds.</span></p>

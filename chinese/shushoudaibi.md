@@ -1,5 +1,7 @@
 # 束手待毙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushoudaibi.md)
+
 <p><span class="chinese">我们可以束手待毙，或者学会冲浪，驾驭浪潮。</span><span class="english">We can do nothing and get swamped, or learn to surf and ride the wave.</span></p>
 
 <p><span class="chinese">当你剩下的，只有一卷铺盖的时候，你将很难再安于“轮椅上的革命”——只知道发牢骚，却继续束手待毙。</span><span class="english">When all you have is a roll-up mattress, it's hard to stay an armchair revolutionary.</span></p>

@@ -1,5 +1,7 @@
 # doughy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doughy.md)
+
 <p><span class="chinese">很快，混合物成了面团状。</span><span class="english">Soon the mixture was doughy.</span></p>
 
 <p><span class="chinese">它应该很柔软潮湿，不黏也不软稠。</span><span class="english">It should be tender and moist but not gummy or doughy.</span></p>

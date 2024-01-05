@@ -1,5 +1,7 @@
 # 有志之士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhizhishi.md)
+
 <p><span class="chinese">愿结交国内外有志之士共商发展大计。</span><span class="english">We are glad to associate with more foreigners with lofty ideas.</span></p>
 
 <p><span class="chinese">我们期待有志之士的加入，与蜜丝罗妮一同快速成长。</span><span class="english">We expect candidates to join us, grow up rapidly with Marchiori.</span></p>

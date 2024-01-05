@@ -1,5 +1,7 @@
 # oversupply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oversupply.md)
+
 <p><span class="chinese">茶园过度扩张，使得市场上逐渐供过于求。</span><span class="english">Overexpansion of tea fields has led to oversupply.</span></p>
 
 <p><span class="chinese">但过度供给意味着价格还将继续下跌。</span><span class="english">But the oversupply means that prices will keep falling.</span></p>

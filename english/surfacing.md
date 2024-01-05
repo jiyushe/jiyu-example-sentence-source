@@ -1,5 +1,7 @@
 # surfacing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surfacing.md)
+
 <p><span class="chinese">慢步林间，和你的聊天又浮现眼前。</span><span class="english">Jog trot forest, and your chat again surfacing.</span></p>
 
 <p><span class="chinese">我看到这种忧虑已显露在网上。</span><span class="english">I am seeing such concerns already surfacing on the Web.</span></p>

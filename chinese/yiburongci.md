@@ -1,5 +1,7 @@
 # 义不容辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiburongci.md)
+
 <p><span class="chinese">帮助他人是义不容辞的责任。</span><span class="english">Helping others is duty-bound responsibility.</span></p>
 
 <p><span class="chinese">帮助残疾人是我们义不容辞的责任。</span><span class="english">It is our bounden duty to help the disabled.</span></p>

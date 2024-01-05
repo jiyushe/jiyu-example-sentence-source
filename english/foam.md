@@ -1,5 +1,7 @@
 # foam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foam.md)
+
 <p><span class="chinese">泡绵无尘切割。</span><span class="english">The foam clean cut.</span></p>
 
 <p><span class="chinese">今天我想试一下泡沫烫。</span><span class="english">Today, I'll try a foam perm.</span></p>

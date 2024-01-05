@@ -1,5 +1,7 @@
 # 维持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weichi.md)
+
 <p><span class="chinese">你做什么维持生计？</span><span class="english">What do you do for a living?</span></p>
 
 <p><span class="chinese">你想要维持窈窕身材吗？</span><span class="english">Do you want to keep in shape?</span></p>

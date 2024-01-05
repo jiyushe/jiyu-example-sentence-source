@@ -1,5 +1,7 @@
 # bedfordshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedfordshire.md)
+
 <p><span class="chinese">莎拉·雷诺兹1819年出生在贝德福德郡波顿的一个村庄里。</span><span class="english">Sarah Reynolds was born in the village of Potton, Bedfordshire in 1819.</span></p>
 
 <p><span class="chinese">拍摄了在东京举行，贝德福德郡和伦敦，巴黎，丹吉尔，洛杉矶和加拿大的卡尔加里。</span><span class="english">Filming took place in Tokyo, Bedfordshire and London, Paris, Tangiers, Los Angeles and Calgary in Canada.</span></p>

@@ -1,5 +1,7 @@
 # bradshaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bradshaw.md)
+
 <p><span class="chinese">唐肯，你知道这位是谁吗？</span><span class="english">Do you know who this is?Carrie Bradshaw.</span></p>
 
 <p><span class="chinese">Bradshaw是世界上最自私的人。</span><span class="english">Ms. Bradshaw is the most self-involved person in the world.</span></p>

@@ -1,5 +1,7 @@
 # sichuan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sichuan.md)
+
 <p><span class="chinese">我住在四川省渠县。</span><span class="english">I live in Quxian, Sichuan.</span></p>
 
 <p><span class="chinese">这是四川饭店。</span><span class="english">This is Sichuan Restaurant.</span></p>

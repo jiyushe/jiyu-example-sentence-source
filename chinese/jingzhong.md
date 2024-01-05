@@ -1,5 +1,7 @@
 # 警种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzhong.md)
+
 <p><span class="chinese">刑事警察是警察序列中的一个单独警种。</span><span class="english">Criminal police is a separate type of police.</span></p>
 
 <p><span class="chinese">一般人都不知道我们国家有多少警种。</span><span class="english">Most people do not know how many kinds of police officers we have.</span></p>

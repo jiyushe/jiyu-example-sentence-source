@@ -1,5 +1,7 @@
 # 流程图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuchengtu.md)
+
 <p><span class="chinese">查看这个流程图的大版本。</span><span class="english">See a larger image of this flowchart.</span></p>
 
 <p><span class="chinese">流程图就是一张图片。</span><span class="english">A flowchart picture is just a picture.</span></p>

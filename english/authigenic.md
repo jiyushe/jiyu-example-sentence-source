@@ -1,5 +1,7 @@
 # authigenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authigenic.md)
+
 <p><span class="chinese">自生方沸石是地下次生孔隙发育带的标志矿物。</span><span class="english">Authigenic zeolites are index minerals for the growing band of secondary pores.</span></p>
 
 <p><span class="chinese">自生黄铁矿是海洋沉积物缺氧硫酸盐还原过程的主要产物。</span><span class="english">Authigenic pyrite is the normal product of anoxic sulfate reduction in marine sediments.</span></p>

@@ -1,5 +1,7 @@
 # betweenness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betweenness.md)
+
 <p><span class="chinese">蛮荒之地的分割则呈岛状，生命力最强的物种在各斑块的交错区蓬勃发展。</span><span class="english">What wilderness is left is divided into islands and the species that thrive best thrive on the betweenness of patches.</span></p>
 
 <p><span class="chinese">我国证券市场尚处于从无效到有效市场过渡的中间状态。</span><span class="english">On the information dissymetry condition, the stock market of China is still in betweenness from inefficacy to efficiency.</span></p>

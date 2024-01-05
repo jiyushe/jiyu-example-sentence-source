@@ -1,5 +1,7 @@
 # 幻觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanjue.md)
+
 <p><span class="chinese">但这只是一个幻觉。</span><span class="english">But this is an illusion.</span></p>
 
 <p><span class="chinese">完美是一种幻觉。</span><span class="english">Perfection is an illusion.</span></p>

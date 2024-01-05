@@ -1,5 +1,7 @@
 # perlite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perlite.md)
+
 <p><span class="chinese">如果珍珠岩是重复使用，消毒可能是必要的。</span><span class="english">If perlite is reused, sterilization may be necessary.</span></p>
 
 <p><span class="chinese">吸入珍珠石的粉对你的健康是很危险的！</span><span class="english">Breathing perlite dust is very dangerous to your health.</span></p>

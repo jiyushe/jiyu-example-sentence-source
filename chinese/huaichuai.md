@@ -1,5 +1,7 @@
 # 怀揣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaichuai.md)
+
 <p><span class="chinese">喜欢想象自己是怀揣着一个目标在世间漫游。</span><span class="english">I like to think I wander with a purpose.</span></p>
 
 <p><span class="chinese">怀揣着500元，他来到这座城市，想要实现自己的歌手梦。</span><span class="english">With only 500 yuan in his pocket, he came to the city to sing.</span></p>

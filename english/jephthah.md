@@ -1,5 +1,7 @@
 # jephthah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jephthah.md)
+
 <p><span class="chinese">耶弗他又打发使者去见亚扪人的王</span><span class="english">Jephthah sent back messengers to the Ammonite king</span></p>
 
 <p><span class="chinese">亚扪人攻打以色列的时候，基列的长老到陀伯地去，要叫耶弗他回来。</span><span class="english">the elders of Gilead went to get Jephthah from the land of Tob.</span></p>

@@ -1,5 +1,7 @@
 # valentine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valentine.md)
+
 <p><span class="chinese">你愿意当我的情人吗？</span><span class="english">Will you be my Valentine?</span></p>
 
 <p><span class="chinese">做一个公平交易的情人。</span><span class="english">Be a Fair-Trade Valentine.</span></p>

@@ -1,5 +1,7 @@
 # 传输
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanshu.md)
+
 <p><span class="chinese">取得此站台连结的传输类型。</span><span class="english">Gets the name of the site link.</span></p>
 
 <p><span class="chinese">等待所有缓冲区传输完毕。</span><span class="english">Wait for all buffers to finish.</span></p>

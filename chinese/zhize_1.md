@@ -1,5 +1,7 @@
 # 职责
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhize_1.md)
+
 <p><span class="chinese">她没有履行她的职责。</span><span class="english">She failed in her duty.</span></p>
 
 <p><span class="chinese">CEO的职责是分配资源。</span><span class="english">CEOs allocate resources.</span></p>

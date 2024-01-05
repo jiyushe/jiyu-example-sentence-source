@@ -1,5 +1,7 @@
 # marshmallow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marshmallow.md)
+
 <p><span class="chinese">就像靠在一个温暖的棉花糖上面。</span><span class="english">Ahh! It's like spooning a warm marshmallow.</span></p>
 
 <p><span class="chinese">碧空中的白云像一大团棉花糖在天空飞翔。</span><span class="english">Blue sky in the clouds like a marshmallow in the sky fly big group.</span></p>

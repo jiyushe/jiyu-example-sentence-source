@@ -1,5 +1,7 @@
 # 平日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingri.md)
+
 <p><span class="chinese">至少我们平日是这样说的。</span><span class="english">At least, this is said in conversation.</span></p>
 
 <p><span class="chinese">平日我到一家游泳池冲澡。</span><span class="english">I shower at the swimming pool on weekdays.</span></p>

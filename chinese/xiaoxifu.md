@@ -1,5 +1,7 @@
 # 小媳妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxifu.md)
+
 <p><span class="chinese">一位年轻的小媳妇深受村里上了年纪的老妈妈们的喜爱。</span><span class="english">There was a daughter-in-law who liked by the old women in the village.</span></p>
 
 <p><span class="chinese">第三类叫“小媳妇型”中层，唯唯诺诺，像个受气包。</span><span class="english">Third category called" little wife" middle, be a yes-man, like a doormat.</span></p>

@@ -1,5 +1,7 @@
 # 鹏程万里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengchengwanli.md)
+
 <p><span class="chinese">祝你新年快乐，鹏程万里！</span><span class="english">Wish you a happy New Year, and promising future!</span></p>
 
 <p><span class="chinese">一帆风顺靠运气，鹏程万里靠志气。</span><span class="english">Everything is going smoothly. luck, have a bright future. by ambition.</span></p>

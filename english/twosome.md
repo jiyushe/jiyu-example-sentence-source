@@ -1,5 +1,7 @@
 # twosome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twosome.md)
+
 <p><span class="chinese">他和约翰正好是一对。</span><span class="english">He and John make a nice twosome.</span></p>
 
 <p><span class="chinese">我和朋友形影不离，大家都知道。</span><span class="english">My friend and I are beginning to be known as a twosome.</span></p>

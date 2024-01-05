@@ -1,5 +1,7 @@
 # 辱没
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rumo.md)
+
 <p><span class="chinese">他决不会把自己的名声辱没到这般田地。</span><span class="english">He would never disgrace his name so far.</span></p>
 
 <p><span class="chinese">他的行为辱没了家门。</span><span class="english">His actions have soiled his family name.</span></p>

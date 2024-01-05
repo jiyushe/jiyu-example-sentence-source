@@ -1,5 +1,7 @@
 # termly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/termly.md)
+
 <p><span class="chinese">定期进行管网冲洗工作。</span><span class="english">Termly flush the water distribution networks.</span></p>
 
 <p><span class="chinese">定期的安排洁净服的洗涤。</span><span class="english">Organize washing dirty clothes crectly termly.</span></p>

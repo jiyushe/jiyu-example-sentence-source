@@ -1,5 +1,7 @@
 # ra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ra.md)
+
 <p><span class="chinese">过了一伙儿，我就出发了。</span><span class="english">After ra group of son, I would set out.</span></p>
 
 <p><span class="chinese">目的用去白细胞去血浆疗法治疗类风湿关节炎。</span><span class="english">Objective To cure the RA using Leuco-PE.</span></p>

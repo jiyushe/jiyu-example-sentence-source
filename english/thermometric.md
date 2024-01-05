@@ -1,5 +1,7 @@
 # thermometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermometric.md)
+
 <p><span class="chinese">氦和氩都是单原子气体。</span><span class="english">Helium gas was the thermometric fluid.</span></p>
 
 <p><span class="chinese">本实用新型的有益效果是，能迅速知道淋浴水温。</span><span class="english">The thermometric shower nozzle has the advantage that the shower water temperature can be rapidly known.</span></p>

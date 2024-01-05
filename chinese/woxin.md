@@ -1,5 +1,7 @@
 # 窝心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woxin.md)
+
 <p><span class="chinese">就是你给我最窝心的说话。</span><span class="english">Love You More Than I Can Say!</span></p>
 
 <p><span class="chinese">爱是无微不至的窝心呵护。</span><span class="english">Love is the Woxin meticulous care.</span></p>

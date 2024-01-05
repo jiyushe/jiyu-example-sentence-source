@@ -1,5 +1,7 @@
 # 农作物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongzuowu.md)
+
 <p><span class="chinese">农作物濒临干死。</span><span class="english">CROPS are dying.</span></p>
 
 <p><span class="chinese">阳光使农作物成熟。</span><span class="english">The sun ripens the corn.</span></p>

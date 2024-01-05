@@ -1,5 +1,7 @@
 # parafoil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parafoil.md)
+
 <p><span class="chinese">用一个翼伞将分离舱飘回地球。</span><span class="english">A parafoil is deployed to fly the pod back to earth.</span></p>
 
 <p><span class="chinese">研究结果对翼伞回收系统的设计和试验有参考价值。</span><span class="english">The conclusion of simulation studies is useful to parafoil system designs and experiment.</span></p>

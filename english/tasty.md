@@ -1,5 +1,7 @@
 # tasty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tasty.md)
+
 <p><span class="chinese">菜做得很入味。</span><span class="english">The dish is very tasty.</span></p>
 
 <p><span class="chinese">香肠是相当美味的。</span><span class="english">Sausage is pretty tasty.</span></p>

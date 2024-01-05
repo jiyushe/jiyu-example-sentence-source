@@ -1,5 +1,7 @@
 # expandable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expandable.md)
+
 <p><span class="chinese">颊部有可扩大的囊袋。</span><span class="english">They have expandable cheek pouches.</span></p>
 
 <p><span class="chinese">皂土是一种可膨胀的土层粘土矿物。</span><span class="english">Bentonite is an expandable three-layer clay mineral.</span></p>

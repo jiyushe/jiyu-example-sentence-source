@@ -1,5 +1,7 @@
 # cholelithiasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cholelithiasis.md)
+
 <p><span class="chinese">胆石症是我国的常见病。</span><span class="english">Cholelithiasis is the most common disease in our country.</span></p>
 
 <p><span class="chinese">探讨了胆红素结石成石的现代研究机理。</span><span class="english">The literature study deals with the epidemiology of cholelithiasis.</span></p>

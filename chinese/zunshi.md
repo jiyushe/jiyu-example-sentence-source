@@ -1,5 +1,7 @@
 # 尊师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunshi.md)
+
 <p><span class="chinese">但是更叫人不可思议的是我见到了尊师米拉。</span><span class="english">But it is still more marvelous to have met my venerated Master, Mila.</span></p>
 
 <p><span class="chinese">把尊师爱校、团结同学真正落实到行动中。</span><span class="english">The love of respecting teachers, schools, real unity of the students into action.</span></p>

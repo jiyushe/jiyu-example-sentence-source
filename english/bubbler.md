@@ -1,5 +1,7 @@
 # bubbler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bubbler.md)
+
 <p><span class="chinese">喝了一些水后，他坚持讲话。</span><span class="english">After bubbler some baptize, he kept on talking.</span></p>
 
 <p><span class="chinese">俱乐部的生涯开端于1650年-咖啡成为饮品的时候。</span><span class="english">Club activity alphaed with coffee bubbler which began about 1650.</span></p>

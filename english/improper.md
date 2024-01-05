@@ -1,5 +1,7 @@
 # improper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improper.md)
+
 <p><span class="chinese">筒管支架不合适。</span><span class="english">Improper arms of bobbin holder.</span></p>
 
 <p><span class="chinese">突然插到排队的行列中去是不恰当的。</span><span class="english">It is improper to cut in on a queue.</span></p>

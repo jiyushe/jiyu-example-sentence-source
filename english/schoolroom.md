@@ -1,5 +1,7 @@
 # schoolroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolroom.md)
+
 <p><span class="chinese">保持教室清洁。</span><span class="english">To keep the schoolroom clean.</span></p>
 
 <p><span class="chinese">这种行为在教室里肯定要遭到非议。</span><span class="english">Such behavior cannot pass in a schoolroom.</span></p>

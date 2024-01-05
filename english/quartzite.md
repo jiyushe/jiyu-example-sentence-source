@@ -1,5 +1,7 @@
 # quartzite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quartzite.md)
+
 <p><span class="chinese">硅化岩是坚硬而且强度大的岩石。</span><span class="english">The quartzite is the hard-strength rock.</span></p>
 
 <p><span class="chinese">硅化岩是坚硬而强度大的岩石。</span><span class="english">The quartzite is the hard and high-strength rock.</span></p>

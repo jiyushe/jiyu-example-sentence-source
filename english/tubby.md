@@ -1,5 +1,7 @@
 # tubby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tubby.md)
+
 <p><span class="chinese">那只熊因为缺少锻炼而越来越肥了。</span><span class="english">That bear grows tubby without exercise.</span></p>
 
 <p><span class="chinese">于是拉拉让迪西坐在她的座位上。</span><span class="english">So Laa-Laa let Dipsy sit on her tubby seat.</span></p>

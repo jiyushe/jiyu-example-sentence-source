@@ -1,5 +1,7 @@
 # toxicologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toxicologist.md)
+
 <p><span class="chinese">那么，你的毒物学专家是怎么说的？</span><span class="english">So, what did your toxicologist say?</span></p>
 
 <p><span class="chinese">毒物学家史必乐是肯塔基地区毒物中心主任。</span><span class="english">Toxicologist Spiller is director of the Kentucky Regional Poison Center.</span></p>

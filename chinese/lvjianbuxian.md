@@ -1,5 +1,7 @@
 # 屡见不鲜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvjianbuxian.md)
+
 <p><span class="chinese">缩写与略语在政治中屡见不鲜。</span><span class="english">Initials abound in politics.</span></p>
 
 <p><span class="chinese">对于拜尔来说，这样的挑战屡见不鲜。</span><span class="english">For Bair, such challenges are nothing new.</span></p>

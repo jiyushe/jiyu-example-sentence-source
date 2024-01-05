@@ -1,5 +1,7 @@
 # capernaum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capernaum.md)
+
 <p><span class="chinese">我们听说你在葛法翁所行的一切，也在你的家乡这里行罢！</span><span class="english">Do here in your town what they say you did in Capernaum.</span></p>
 
 <p><span class="chinese">上了船，要过海往迦百农去。</span><span class="english">And entered into a ship, and went over the sea toward Capernaum.</span></p>

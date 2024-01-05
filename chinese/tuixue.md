@@ -1,5 +1,7 @@
 # 退学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuixue.md)
+
 <p><span class="chinese">我为什么要退学呢？</span><span class="english">So why did Id rop out?</span></p>
 
 <p><span class="chinese">你要退学真是发疯了。</span><span class="english">You'd be crazy to drop out.</span></p>

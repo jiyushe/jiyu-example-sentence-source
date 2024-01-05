@@ -1,5 +1,7 @@
 # unmoving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmoving.md)
+
 <p><span class="chinese">藉由他的身体不感人大小。</span><span class="english">With the unmoving size of his body.</span></p>
 
 <p><span class="chinese">你听不到我的声响，由于我是静止的。</span><span class="english">You cannot hear me. I am static and unmoving.</span></p>

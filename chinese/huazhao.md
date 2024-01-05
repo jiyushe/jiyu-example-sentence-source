@@ -1,5 +1,7 @@
 # 花招
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huazhao.md)
+
 <p><span class="chinese">她花招比他多。</span><span class="english">She faked him out.</span></p>
 
 <p><span class="chinese">这是新花招。</span><span class="english">It's a new gimmick.</span></p>

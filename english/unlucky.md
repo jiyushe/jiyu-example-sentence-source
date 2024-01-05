@@ -1,5 +1,7 @@
 # unlucky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlucky.md)
+
 <p><span class="chinese">我是个倒霉蛋。</span><span class="english">I’m just an unlucky guy.</span></p>
 
 <p><span class="chinese">有些垂钓者就是不走运。</span><span class="english">SOme fishermen are unlucky.</span></p>

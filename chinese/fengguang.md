@@ -1,5 +1,7 @@
 # 风光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengguang.md)
+
 <p><span class="chinese">在这个镇里受尊敬、风风光光。</span><span class="english">High honored in the town.</span></p>
 
 <p><span class="chinese">无限风光在前头！</span><span class="english">Infinite beauty in the head!</span></p>

@@ -1,5 +1,7 @@
 # 小帽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaomao.md)
+
 <p><span class="chinese">黑头发，带蓝圆顶小帽，真是帅极了。</span><span class="english">Dark hair blue yamulka, absolutely gorgeous.</span></p>
 
 <p><span class="chinese">她头上戴着一顶银丝小帽。</span><span class="english">On her head was a tiny cap of silver tissue.</span></p>

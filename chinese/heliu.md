@@ -1,5 +1,7 @@
 # 合流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heliu.md)
+
 <p><span class="chinese">合流是历史的必然。</span><span class="english">Confluence is an inexorable historical trend.</span></p>
 
 <p><span class="chinese">永定河和大清河在天津附近合流。</span><span class="english">The Yongding and Daqing rivers meet near Tianjin.</span></p>

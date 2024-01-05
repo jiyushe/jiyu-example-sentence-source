@@ -1,5 +1,7 @@
 # perturb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perturb.md)
+
 <p><span class="chinese">还要害我去救你，麻烦精！</span><span class="english">Return vital chapter I save you and perturb Jing!</span></p>
 
 <p><span class="chinese">但我不会鸣叫，不会打扰你的清静。</span><span class="english">But I won't tweet , won't perturb you from the peace.</span></p>

@@ -1,5 +1,7 @@
 # heard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heard.md)
+
 <p><span class="chinese">我听见他在喊。</span><span class="english">I heard him shout.</span></p>
 
 <p><span class="chinese">我们听说你哭了？</span><span class="english">We heard you wept.</span></p>

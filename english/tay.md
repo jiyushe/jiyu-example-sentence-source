@@ -1,5 +1,7 @@
 # tay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tay.md)
+
 <p><span class="chinese">寺庙中的朝圣者，西宁，越南，1961。</span><span class="english">Worshipers in Temple, Tay Ninh, Vietnam, 1961</span></p>
 
 <p><span class="chinese">泰先生每个月的所做的雕塑还非常有限。</span><span class="english">Mr. Tay sells just a few sculptures every month.</span></p>

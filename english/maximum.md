@@ -1,5 +1,7 @@
 # maximum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maximum.md)
+
 <p><span class="chinese">最多一条裤褶。</span><span class="english">One pleat, maximum.</span></p>
 
 <p><span class="chinese">无最大数就是零。</span><span class="english">Zero if no maximum.</span></p>

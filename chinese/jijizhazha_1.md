@@ -1,5 +1,7 @@
 # 唧唧喳喳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijizhazha_1.md)
+
 <p><span class="chinese">一阵唧唧喳喳的说话声。</span><span class="english">A babble of voices.</span></p>
 
 <p><span class="chinese">你听那群猴子唧唧喳喳的叫声。</span><span class="english">Listen to the jabber of those monkeys.</span></p>

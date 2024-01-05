@@ -1,5 +1,7 @@
 # 飘摇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoyao.md)
+
 <p><span class="chinese">羽毛飘摇落地。</span><span class="english">The feather wavered to the floor.</span></p>
 
 <p><span class="chinese">大江旁，勃勃柳树在飘摇。</span><span class="english">By the river, willows grew bright.</span></p>

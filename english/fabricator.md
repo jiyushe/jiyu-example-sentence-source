@@ -1,5 +1,7 @@
 # fabricator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fabricator.md)
+
 <p><span class="chinese">最小间距和第二选择间距由制造商确定。</span><span class="english">Minimum and secondary spacings are to be determined by the fabricator.</span></p>
 
 <p><span class="chinese">砖，然后去一个再次被削减，塑造和打磨的制造者。</span><span class="english">The slabs then go to a fabricator to be cut again, shaped and polished.</span></p>

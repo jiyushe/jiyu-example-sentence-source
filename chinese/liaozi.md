@@ -1,5 +1,7 @@
 # 料子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaozi.md)
+
 <p><span class="chinese">这料子耐洗。</span><span class="english">The cloth washes well.</span></p>
 
 <p><span class="chinese">这料子耐洗。</span><span class="english">Thee cloth washes well.</span></p>

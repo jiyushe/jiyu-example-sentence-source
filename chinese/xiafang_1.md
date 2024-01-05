@@ -1,5 +1,7 @@
 # 下方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiafang_1.md)
+
 <p><span class="chinese">在标签下方添加编辑框。</span><span class="english">Add an edit box below the label.</span></p>
 
 <p><span class="chinese">街垒正处在它的下方。</span><span class="english">The barricade was underneath it.</span></p>

@@ -1,5 +1,7 @@
 # 庸庸碌碌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongyonglulu.md)
+
 <p><span class="chinese">他一生过得庸庸碌碌。</span><span class="english">He lived a futile life.</span></p>
 
 <p><span class="chinese">我该庸庸碌碌过一生。</span><span class="english">I should finish life mediocre and unambitious.</span></p>

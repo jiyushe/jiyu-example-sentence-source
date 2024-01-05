@@ -1,5 +1,7 @@
 # testily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testily.md)
+
 <p><span class="chinese">没有，没有，”他有些恼火，回答得很简捷。</span><span class="english">No, no! he responded shortly and somewhat testily.</span></p>
 
 <p><span class="chinese">西瓦恼火地指责帕莱欺骗了他。</span><span class="english">West tile testily accused the act of parliament had lied to him.</span></p>

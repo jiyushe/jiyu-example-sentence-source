@@ -1,5 +1,7 @@
 # 本系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benxi_2.md)
+
 <p><span class="chinese">有一些学生已经从本系毕业了。</span><span class="english">A number of students have graduated from this department.</span></p>
 
 <p><span class="chinese">惩罚性赔偿本系英美法中的一项制度。</span><span class="english">Punitive damages is a legal system of Anglo-American law.</span></p>

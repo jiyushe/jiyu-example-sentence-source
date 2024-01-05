@@ -1,5 +1,7 @@
 # 凶悍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xionghan.md)
+
 <p><span class="chinese">狗在家门前条条都凶悍。</span><span class="english">Every dog is valiant at his won door.</span></p>
 
 <p><span class="chinese">出自大海凶悍的无邪。</span><span class="english">Out of the murderous innocence of the sea.</span></p>

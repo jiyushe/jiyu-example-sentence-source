@@ -1,5 +1,7 @@
 # duodenum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duodenum.md)
+
 <p><span class="chinese">这儿是结肠，这儿是十二指肠。</span><span class="english">This is the colon, that is the duodenum.</span></p>
 
 <p><span class="chinese">胆汁是通过胆道进入十二指肠的。</span><span class="english">Bile is introduced into the duodenum by the bile duct.</span></p>

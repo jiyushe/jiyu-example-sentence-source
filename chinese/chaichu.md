@@ -1,5 +1,7 @@
 # 拆除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaichu.md)
+
 <p><span class="chinese">他们是北京的奴隶，栖身于违章建筑，那是不断扩张的北京所要拆除的部分。</span><span class="english">They are Beijing’s slaves.</span></p>
 
 <p><span class="chinese">那座旧桥上个星期被拆除了。</span><span class="english">The old bridge was last week.</span></p>

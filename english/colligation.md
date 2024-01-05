@@ -1,5 +1,7 @@
 # colligation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colligation.md)
+
 <p><span class="chinese">本文中重点研究的动词搭配是动名搭配及动词的类联接。</span><span class="english">This thesis focuses on V-N collocation as well as verb colligation.</span></p>
 
 <p><span class="chinese">以广州市某工程为实例，介绍高层商住楼工程技术转换层的支模方法及验算、钢筋绑扎与砼浇灌等施工技术措施。</span><span class="english">With some engineering is solid a mold method and check to calculate, the reinforcing bar colligation sprinkles with concret.</span></p>

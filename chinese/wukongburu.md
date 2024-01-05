@@ -1,5 +1,7 @@
 # 无孔不入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wukongburu.md)
+
 <p><span class="chinese">小说要的就是这种无孔不入的细劲儿。</span><span class="english">This is the novel to the all-pervasive fine Jiner.</span></p>
 
 <p><span class="chinese">客观环境对我们的影响是无孔不入的。</span><span class="english">The objective conditions have all-pervasive influences on us.</span></p>

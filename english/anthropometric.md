@@ -1,5 +1,7 @@
 # anthropometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropometric.md)
+
 <p><span class="chinese">可见的严重消瘦的诊断效能根据人体测量标准进行评估。</span><span class="english">The diagnostic performance of visible severe wasting was evaluated against anthropometric criteria.</span></p>
 
 <p><span class="chinese">目的旨在探讨我国歼、强击机飞行员人体参数变化趋势及程度。</span><span class="english">Objective To study the changing tendency of the anthropometric parameters of Chinese fighter pilots.</span></p>

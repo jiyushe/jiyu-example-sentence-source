@@ -1,5 +1,7 @@
 # untenable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untenable.md)
+
 <p><span class="chinese">这样的局面就是在短期内也无法维持。</span><span class="english">The situation is untenable even in the short term.</span></p>
 
 <p><span class="chinese">然而中期选举的局势让他高位难守。</span><span class="english">But the mid-term election made his position untenable.</span></p>

@@ -1,5 +1,7 @@
 # photojournalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photojournalism.md)
+
 <p><span class="chinese">新闻摄影是其中的一种方式。</span><span class="english">Photojournalism is one means of doing that.</span></p>
 
 <p><span class="chinese">她在多伦多大学教新闻摄影课。</span><span class="english">She teaches photojournalism at the University of Toronto.</span></p>

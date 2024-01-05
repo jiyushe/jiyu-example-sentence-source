@@ -1,5 +1,7 @@
 # 两侧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangce.md)
+
 <p><span class="chinese">抠图补丁在两侧。</span><span class="english">Cutout patches at sides.</span></p>
 
 <p><span class="chinese">花园两侧是一些柳树。</span><span class="english">Some willows flank the garden.</span></p>

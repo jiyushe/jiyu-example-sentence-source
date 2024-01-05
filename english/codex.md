@@ -1,5 +1,7 @@
 # codex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/codex.md)
+
 <p><span class="chinese">什么是抄本？</span><span class="english">What is a codex?</span></p>
 
 <p><span class="chinese">玛雅古籍是玛雅人的文字记录。</span><span class="english">A codex is a Mayan written record.</span></p>

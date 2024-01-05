@@ -1,5 +1,7 @@
 # mountainside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mountainside.md)
+
 <p><span class="chinese">我当时正在在山腰上玩耍。</span><span class="english">I was playing in the mountainside.</span></p>
 
 <p><span class="chinese">许多人来到这里，在山坡上祈祷。</span><span class="english">Many come and pray on the mountainside.</span></p>

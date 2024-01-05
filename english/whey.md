@@ -1,5 +1,7 @@
 # whey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whey.md)
+
 <p><span class="chinese">我也喜欢奶油点心。</span><span class="english">I love curds and whey , too.</span></p>
 
 <p><span class="chinese">我推荐乳清或者大豆蛋白奶昔。</span><span class="english">I recommend either whey or soy protein shakes.</span></p>

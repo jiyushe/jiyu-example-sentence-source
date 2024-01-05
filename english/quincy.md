@@ -1,5 +1,7 @@
 # quincy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quincy.md)
+
 <p><span class="chinese">在昆西市场的另一侧。</span><span class="english">On the other side of Quincy Market.</span></p>
 
 <p><span class="chinese">亚当斯退休后回到了昆西的农场。</span><span class="english">Adams retired to his farm in Quincy.</span></p>

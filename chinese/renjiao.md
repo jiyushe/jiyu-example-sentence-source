@@ -1,5 +1,7 @@
 # 任教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renjiao.md)
+
 <p><span class="chinese">她在一所州立大学任教。</span><span class="english">She teaches in a state university.</span></p>
 
 <p><span class="chinese">现在弗吉尼亚大学任教授。</span><span class="english">He is teaching at University of Virginia.</span></p>

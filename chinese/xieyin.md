@@ -1,5 +1,7 @@
 # 谐音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieyin.md)
+
 <p><span class="chinese">中文“河蟹”与“和谐”是谐音。</span><span class="english">Chinese "crab" and "harmony" is a homonym.</span></p>
 
 <p><span class="chinese">“五日元”在日语里谐音“有缘份”。</span><span class="english">"Five yen" in Japanese harmonics "have fate".</span></p>

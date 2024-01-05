@@ -1,5 +1,7 @@
 # condemnatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condemnatory.md)
+
 <p><span class="chinese">建立有效的处罚制度。</span><span class="english">Build effective condemnatory system.</span></p>
 
 <p><span class="chinese">第三、处罚责任人，“重典”显示决心。</span><span class="english">The 3rd, condemnatory responsibility person, "Heavy allusion " indication determination.</span></p>

@@ -1,5 +1,7 @@
 # coupler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coupler.md)
+
 <p><span class="chinese">SA-3型车钩。</span><span class="english">The SA-3 coupler.</span></p>
 
 <p><span class="chinese">转向柱轴接合器过紧。</span><span class="english">Column shaft coupler binding.</span></p>

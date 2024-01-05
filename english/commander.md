@@ -1,5 +1,7 @@
 # commander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commander.md)
+
 <p><span class="chinese">您是司令官吗？</span><span class="english">You are the commander?</span></p>
 
 <p><span class="chinese">ERD简直是天堂给我们的。</span><span class="english">ERD Commander is heaven sent.</span></p>

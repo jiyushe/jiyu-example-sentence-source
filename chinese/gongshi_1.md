@@ -1,5 +1,7 @@
 # 公使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshi_1.md)
+
 <p><span class="chinese">秦公使等还回答了记者们的提问。</span><span class="english">Minister Qin also answered questions from the journalists.</span></p>
 
 <p><span class="chinese">公使发表这番长篇宏论的时候，斯鲁特一直咬着他那熄了火的烟斗。</span><span class="english">Slote was chewing on his cold pipe during the minister's tirade.</span></p>

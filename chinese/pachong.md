@@ -1,5 +1,7 @@
 # 爬虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pachong.md)
+
 <p><span class="chinese">外科医生救了这条重达60磅的爬虫。</span><span class="english">Surgery saved the 60-pound reptile.</span></p>
 
 <p><span class="chinese">鸟类、爬虫及昆虫是卵生的。</span><span class="english">Birds, reptiles and insects come from eggs.</span></p>

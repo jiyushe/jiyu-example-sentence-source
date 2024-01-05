@@ -1,5 +1,7 @@
 # frog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frog.md)
+
 <p><span class="chinese">做蛙式。</span><span class="english">Do the frog.</span></p>
 
 <p><span class="chinese">毕比遇见一只青蛙。</span><span class="english">BeeBee meets a frog.</span></p>

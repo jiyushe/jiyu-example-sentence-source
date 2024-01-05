@@ -1,5 +1,7 @@
 # perplexing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perplexing.md)
+
 <p><span class="chinese">英语是一种令人困惑的语言。</span><span class="english">English is a perplexing language.</span></p>
 
 <p><span class="chinese">这个事实对他儿子来说很令人费解。</span><span class="english">This fact was perplexing news to his son.</span></p>

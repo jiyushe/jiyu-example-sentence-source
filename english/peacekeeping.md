@@ -1,5 +1,7 @@
 # peacekeeping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peacekeeping.md)
+
 <p><span class="chinese">由奈尔维和蓬蒂设计。</span><span class="english">By Nervi peacekeeping peng's design.</span></p>
 
 <p><span class="chinese">联合国维和部队被送往索马利亚。</span><span class="english">The U. N. peacekeeping force was sent to Somalia.</span></p>

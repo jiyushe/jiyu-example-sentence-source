@@ -1,5 +1,7 @@
 # departure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/departure.md)
+
 <p><span class="chinese">我船始发港是伦敦。</span><span class="english">My departure was London.</span></p>
 
 <p><span class="chinese">查询起飞时间。</span><span class="english">Asking for departure time.</span></p>

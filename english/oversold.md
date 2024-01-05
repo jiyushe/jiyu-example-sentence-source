@@ -1,5 +1,7 @@
 # oversold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oversold.md)
+
 <p><span class="chinese">他对我在新影片中扮演的角色过分称赞了。</span><span class="english">He oversold the part I played in the new film.</span></p>
 
 <p><span class="chinese">出于此类原因，国防股票可能将被大大地卖空。</span><span class="english">For reasons like that, defense stocks may well be oversold.</span></p>

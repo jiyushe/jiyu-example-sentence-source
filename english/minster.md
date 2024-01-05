@@ -1,5 +1,7 @@
 # minster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minster.md)
+
 <p><span class="chinese">参见麻瓜百科全书关于温伯恩明斯特的词条。</span><span class="english">See also the Muggle Encyclopedia entry for Wimborne Minster.</span></p>
 
 <p><span class="chinese">这项计划最先由英国副首相尼克•克莱格于今年1月提出。</span><span class="english">The plan was first championed by British Deputy Prime Minster Nick Clegg in January.</span></p>

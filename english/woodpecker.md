@@ -1,5 +1,7 @@
 # woodpecker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodpecker.md)
+
 <p><span class="chinese">啄木鸟正在啄木发出啄木声。</span><span class="english">The woodpecker was drumming.</span></p>
 
 <p><span class="chinese">游隼和橡实啄木鸟。</span><span class="english">Peregrine Falcon, and Acorn Woodpecker.</span></p>

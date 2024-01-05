@@ -1,5 +1,7 @@
 # 假装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazhuang.md)
+
 <p><span class="chinese">是否要假装我喜欢他们？</span><span class="english">Pretend I like them?</span></p>
 
 <p><span class="chinese">其他女性都是假装的。</span><span class="english">All the others fake it.</span></p>

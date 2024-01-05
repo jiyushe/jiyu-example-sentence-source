@@ -1,5 +1,7 @@
 # stow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stow.md)
+
 <p><span class="chinese">把货物堆在冷冻舱内。</span><span class="english">Stow cargo in reefer hold.</span></p>
 
 <p><span class="chinese">你可以把你的珠宝存到银行里。</span><span class="english">You can stow your jewellery away in the bank.</span></p>

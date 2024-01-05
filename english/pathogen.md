@@ -1,5 +1,7 @@
 # pathogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathogen.md)
+
 <p><span class="chinese">灭菌星对病原菌几乎没有抑制作用。</span><span class="english">Miejunxing hardly have no effects on pathogen.</span></p>
 
 <p><span class="chinese">结论MRSA是多重耐药细菌。</span><span class="english">CONCLUSIONS MRSA is a multi-resistant pathogen.</span></p>

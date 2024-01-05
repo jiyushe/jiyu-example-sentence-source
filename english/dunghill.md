@@ -1,5 +1,7 @@
 # dunghill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dunghill.md)
+
 <p><span class="chinese">站在粪堆上，公鸡也称王。</span><span class="english">A cock is bold on his dunghill.</span></p>
 
 <p><span class="chinese">公鸡只会在自家粪堆上显威。</span><span class="english">A cock is bold on his dunghill.</span></p>

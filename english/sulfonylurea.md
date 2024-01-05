@@ -1,5 +1,7 @@
 # sulfonylurea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfonylurea.md)
+
 <p><span class="chinese">单嘧磺隆是一种高效、低毒除草剂。</span><span class="english">Monosulfuron is a sulfonylurea herbicide with ultra-low dosage.</span></p>
 
 <p><span class="chinese">试验前，每个患者均服用了二甲双胍和一种磺酰脲类降糖药。</span><span class="english">At baseline, each patient was taking metformin and a sulfonylurea.</span></p>

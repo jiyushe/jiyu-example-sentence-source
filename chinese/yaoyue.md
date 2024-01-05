@@ -1,5 +1,7 @@
 # 要约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyue.md)
+
 <p><span class="chinese">我向你要约翰的头。</span><span class="english">I ask of you the head of Iokanaan.</span></p>
 
 <p><span class="chinese">投资意向书是个有条件的要约。</span><span class="english">A term sheet is a conditional offer.</span></p>

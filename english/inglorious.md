@@ -1,5 +1,7 @@
 # inglorious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inglorious.md)
+
 <p><span class="chinese">他扮演了一个不光彩的角色。</span><span class="english">He plays a most inglorious part.</span></p>
 
 <p><span class="chinese">被捕捉并圈养在卑劣的猪栏。</span><span class="english">Hunted and penned in an inglorious spot.</span></p>

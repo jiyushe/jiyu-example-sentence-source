@@ -1,5 +1,7 @@
 # metonymy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metonymy.md)
+
 <p><span class="chinese">转喻是汉语文本中常见的语言现象。</span><span class="english">Metonymy is a common phenomenon in Chinese texts.</span></p>
 
 <p><span class="chinese">看看有没有明喻、暗喻、转喻和提喻。</span><span class="english">Check for similes metaphors metonymy and synecdoche.</span></p>

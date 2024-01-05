@@ -1,5 +1,7 @@
 # ferromagnet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferromagnet.md)
+
 <p><span class="chinese">铁磁物质甚至会影响附近非磁性金属内的电流。</span><span class="english">A ferromagnet can even affect the flow of a current in a nearby nonmagnetic metal.</span></p>
 
 <p><span class="chinese">在二维正方绝缘铁磁系统基础上建立了一个磁振子-声子相互作用模型。</span><span class="english">A magnon-phonon interaction model is developed for a two dimensional square insulating ferromagnet.</span></p>

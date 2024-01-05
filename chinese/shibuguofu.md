@@ -1,5 +1,7 @@
 # 食不果腹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibuguofu.md)
+
 <p><span class="chinese">想想那些食不果腹的人吧。</span><span class="english">Think of someone who has nothing to eat.</span></p>
 
 <p><span class="chinese">食不果腹是许多穷人经常存在的问题。</span><span class="english">With many of the poor, hunger is a constant problem.</span></p>

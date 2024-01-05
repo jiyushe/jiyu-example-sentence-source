@@ -1,5 +1,7 @@
 # romanian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romanian.md)
+
 <p><span class="chinese">山顶矗立罗星塔。</span><span class="english">Peak towering Romanian Star Tower.</span></p>
 
 <p><span class="chinese">我同意。我超爱看来自罗马尼亚的体操选手比赛。</span><span class="english">I agree. I love to watch the Romanian gymnasts!</span></p>

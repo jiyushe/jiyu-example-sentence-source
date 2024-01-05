@@ -1,5 +1,7 @@
 # 光怪陆离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangguailuli.md)
+
 <p><span class="chinese">那是一种光怪陆离的杂拌儿。</span><span class="english">It was a singular pell-mell.</span></p>
 
 <p><span class="chinese">他们把墙上涂抹得光怪陆离。</span><span class="english">They splashed the wall with different colours.</span></p>

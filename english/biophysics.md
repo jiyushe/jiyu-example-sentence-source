@@ -1,5 +1,7 @@
 # biophysics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biophysics.md)
+
 <p><span class="chinese">“生物物理学的运算”第六章。</span><span class="english">Koch, C. Chap. 6 in Biophysics of Computation.</span></p>
 
 <p><span class="chinese">贝时璋院士，中国生物物理学的奠基者辞世，享年107岁。</span><span class="english">Bei Shizhang, Founder of China's biophysics dies at 107.</span></p>

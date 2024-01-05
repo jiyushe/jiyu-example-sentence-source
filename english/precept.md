@@ -1,5 +1,7 @@
 # precept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precept.md)
+
 <p><span class="chinese">这里讲的规则是什么呢?。</span><span class="english">What is the precept here?</span></p>
 
 <p><span class="chinese">榜样是最好的良言。</span><span class="english">Example is the best precept.</span></p>

@@ -1,5 +1,7 @@
 # polyolefin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyolefin.md)
+
 <p><span class="chinese">其中聚烯烃应用范围广泛。</span><span class="english">Polyolefin constituted a widely employed toughener.</span></p>
 
 <p><span class="chinese">文内分析了影响聚烯烃价格的各种因素。</span><span class="english">The price-related factors of polyolefin are discussed.</span></p>

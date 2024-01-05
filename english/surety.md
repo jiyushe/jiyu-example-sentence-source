@@ -1,5 +1,7 @@
 # surety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surety.md)
+
 <p><span class="chinese">他给我一块表作为担保。</span><span class="english">He gave me a watch as surety.</span></p>
 
 <p><span class="chinese">约伯已经豫先看见上帝作他的证人和确据。</span><span class="english">Job had previously seen God as his witness and surety.</span></p>

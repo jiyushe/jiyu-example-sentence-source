@@ -1,5 +1,7 @@
 # cubage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cubage.md)
+
 <p><span class="chinese">常满储物箱的容积及质料则以本公司为准。</span><span class="english">The cubage and material of Sheung Moon Box is valid for us.</span></p>
 
 <p><span class="chinese">在闭花过程中，浆片逐渐萎缩、干瘪，体积缩小。</span><span class="english">During flowering process, lodicules cubage increased by absorbing water.</span></p>

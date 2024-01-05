@@ -1,5 +1,7 @@
 # sturdiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sturdiness.md)
+
 <p><span class="chinese">这就是为什么你应该考虑成本，舒适，坚固。</span><span class="english">That is why you should consider cost, comfort, and sturdiness.</span></p>
 
 <p><span class="chinese">整车采用镁合金压铸成型，坚固耐用。</span><span class="english">Magnesium alloy die-casting molding, sturdiness and durability.</span></p>

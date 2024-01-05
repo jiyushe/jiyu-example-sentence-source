@@ -1,5 +1,7 @@
 # numbness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numbness.md)
+
 <p><span class="chinese">现在患部感到麻木吗？</span><span class="english">Do you feel numbness in the area now?</span></p>
 
 <p><span class="chinese">当我的脚发麻的时候，我可以怎样做？</span><span class="english">What can I do for the numbness in my feet?</span></p>

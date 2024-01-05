@@ -1,5 +1,7 @@
 # enforce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enforce.md)
+
 <p><span class="chinese">他们强制顺从。</span><span class="english">They enforce conformity.</span></p>
 
 <p><span class="chinese">人民警察必须做到公正执法。</span><span class="english">Police must enforce law justly.</span></p>

@@ -1,5 +1,7 @@
 # inserted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inserted.md)
+
 <p><span class="chinese">下一步是插入一个键。</span><span class="english">Next, a key is inserted.</span></p>
 
 <p><span class="chinese">她把硬币插入孔内。</span><span class="english">She inserted the coin in the slot.</span></p>

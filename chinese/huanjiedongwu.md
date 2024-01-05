@@ -1,5 +1,7 @@
 # 环节动物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanjiedongwu.md)
+
 <p><span class="chinese">体的水生陆生或寄生环节动物。</span><span class="english">Having one estrous cycle per year. Used of certain mammals.</span></p>
 
 <p><span class="chinese">环节动物是柔软、黏湿的蠕虫，身体周围有环节。</span><span class="english">Annelids are soft, moist worms which have rings around their bodies.</span></p>

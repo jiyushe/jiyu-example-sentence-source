@@ -1,5 +1,7 @@
 # bonded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonded.md)
+
 <p><span class="chinese">他们将永远互相束缚。</span><span class="english">They would be forever bonded.</span></p>
 
 <p><span class="chinese">拥有自己的保税仓库。</span><span class="english">Have their own bonded warehouse.</span></p>

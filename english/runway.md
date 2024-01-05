@@ -1,5 +1,7 @@
 # runway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/runway.md)
+
 <p><span class="chinese">跑道未清除，拉起复飞。</span><span class="english">Clear ice on the runway.</span></p>
 
 <p><span class="chinese">飞机着陆未达飞机跑道。</span><span class="english">The plane undershot the runway.</span></p>

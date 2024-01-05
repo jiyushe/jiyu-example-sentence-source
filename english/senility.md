@@ -1,5 +1,7 @@
 # senility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senility.md)
+
 <p><span class="chinese">你会如何评价里根的衰老？</span><span class="english">How would you rate Reagan's senility ?</span></p>
 
 <p><span class="chinese">预防朽迈，减少老年痴呆。</span><span class="english">Reduces senility and age-related dementia.</span></p>

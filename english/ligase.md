@@ -1,5 +1,7 @@
 # ligase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ligase.md)
+
 <p><span class="chinese">什麽是连接酶的作用在脱氧核糖核酸复制的？</span><span class="english">What is the function of ligase in DNA replication?</span></p>
 
 <p><span class="chinese">由NEU所诱发的染色体初级断裂不能为连接酶所修复。</span><span class="english">Thus, the NEU-induced primary chromosome breakage may not be repaired by the ligase.</span></p>

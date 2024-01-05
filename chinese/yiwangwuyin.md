@@ -1,5 +1,7 @@
 # 一望无垠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwangwuyin.md)
+
 <p><span class="chinese">看这一望无垠的绿色田野。</span><span class="english">Look at the vast stretches of green fields.</span></p>
 
 <p><span class="chinese">山那边是泥泽，死气沉沉，一望无垠。</span><span class="english">To the one side of the mountain is the boundless and melancholy marsh.</span></p>

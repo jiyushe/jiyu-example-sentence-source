@@ -1,5 +1,7 @@
 # residency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/residency.md)
+
 <p><span class="chinese">一个见习期一般需要3到7年时间。</span><span class="english">A residency is general ly between 3 and 7 years.</span></p>
 
 <p><span class="chinese">此政策对我的永居移民签证会有什么影响？</span><span class="english">How does this affect my application for permanent residency?</span></p>

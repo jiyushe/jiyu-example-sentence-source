@@ -1,5 +1,7 @@
 # 修史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiushi_1.md)
+
 <p><span class="chinese">盛世的修史与修志往往是同步的。</span><span class="english">In flourishing ages, it synchronized with the compilation and revision of national history.</span></p>
 
 <p><span class="chinese">对此，有必要对美学史的修史方法进行某种反思。</span><span class="english">A reflection on the methodology hitherto used in the study of Chinese aesthetics is therefore necessary.</span></p>

@@ -1,5 +1,7 @@
 # 外用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiyong.md)
+
 <p><span class="chinese">这种洗剂只可外用。</span><span class="english">This lotion is for external use only.</span></p>
 
 <p><span class="chinese">生藤黄只能作外用。</span><span class="english">Health Garcinia for external use only.</span></p>

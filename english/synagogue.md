@@ -1,5 +1,7 @@
 # synagogue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synagogue.md)
+
 <p><span class="chinese">会堂里的人都定睛看他。</span><span class="english">The eyes of all in the synagogue were fixed on him.</span></p>
 
 <p><span class="chinese">把它放到犹太教堂或教会。</span><span class="english">Put it somewhere else in the synagogue or the church.</span></p>

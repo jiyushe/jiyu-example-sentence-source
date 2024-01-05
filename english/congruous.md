@@ -1,5 +1,7 @@
 # congruous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congruous.md)
+
 <p><span class="chinese">你的行为和你的社会地位不相称。</span><span class="english">Your behaviour is not congruous with your rank.</span></p>
 
 <p><span class="chinese">在大学组织整合中发挥主要作用的是文化机制，即组织共同的价值、信念和目标。</span><span class="english">The glue, which could hold the organization together, is shared values, beliefs and congruous goals.</span></p>

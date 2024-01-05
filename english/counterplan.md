@@ -1,5 +1,7 @@
 # counterplan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterplan.md)
+
 <p><span class="chinese">所以我们要想个对策。</span><span class="english">So IWant to think a counterplan.</span></p>
 
 <p><span class="chinese">本文针对这一问题提出了相应的对策。</span><span class="english">This text aims at this problem put forward the homologous counterplan.</span></p>

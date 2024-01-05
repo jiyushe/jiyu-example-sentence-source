@@ -1,5 +1,7 @@
 # unconditionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconditionally.md)
+
 <p><span class="chinese">神是无条件的爱你。</span><span class="english">He loves you unconditionally.</span></p>
 
 <p><span class="chinese">她无条件地爱他。</span><span class="english">She loves him unconditionally.</span></p>

@@ -1,5 +1,7 @@
 # historiography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/historiography.md)
+
 <p><span class="chinese">音乐史学是音乐学的一个分支学科。</span><span class="english">The music historiography is a branch of musicology.</span></p>
 
 <p><span class="chinese">而在西方史学中，谁也没有听说过这件事。</span><span class="english">Nobody had ever heard of that in Western historiography.</span></p>

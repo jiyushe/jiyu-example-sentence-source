@@ -1,5 +1,7 @@
 # statistical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statistical.md)
+
 <p><span class="chinese">这是一个统计学过程</span><span class="english">It's a statistical process.</span></p>
 
 <p><span class="chinese">你完全是统计上的异数！</span><span class="english">You are a statistical anomaly!</span></p>

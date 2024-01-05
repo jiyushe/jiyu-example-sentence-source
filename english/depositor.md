@@ -1,5 +1,7 @@
 # depositor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depositor.md)
+
 <p><span class="chinese">我们需要一个新沈积器。</span><span class="english">We need a new depositor.</span></p>
 
 <p><span class="chinese">我行存款人的数量每天都在增长。</span><span class="english">The number of our depositor is growing every day.</span></p>

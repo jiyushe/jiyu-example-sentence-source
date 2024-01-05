@@ -1,5 +1,7 @@
 # 枯黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuhuang.md)
+
 <p><span class="chinese">它来到枯黄的树枝上。</span><span class="english">It comes to withered and yellow branch.</span></p>
 
 <p><span class="chinese">烈日之下的景色，一片枯黄憔悴</span><span class="english">The landscape, brown and sere beneath the sun</span></p>

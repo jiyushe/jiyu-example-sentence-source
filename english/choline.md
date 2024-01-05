@@ -1,5 +1,7 @@
 # choline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choline.md)
+
 <p><span class="chinese">胆碱能够帮助改善您的记忆力。</span><span class="english">Choline can help improve your memory.</span></p>
 
 <p><span class="chinese">胆碱有助于正常的神经功能。</span><span class="english">Choline helps with proper nerve function.</span></p>

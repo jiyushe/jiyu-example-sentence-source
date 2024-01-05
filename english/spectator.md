@@ -1,5 +1,7 @@
 # spectator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectator.md)
+
 <p><span class="chinese">但是你们不能只做观众</span><span class="english">But this is not a spectator sport.</span></p>
 
 <p><span class="chinese">一位观看表演的人试图去拿橘子。</span><span class="english">A spectator tries to grab the orange.</span></p>

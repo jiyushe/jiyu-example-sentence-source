@@ -1,5 +1,7 @@
 # 并肩作战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingjianzuozhan.md)
+
 <p><span class="chinese">我跟你们并肩作战！</span><span class="english">I fight with you!</span></p>
 
 <p><span class="chinese">他们总是与他并肩作战。</span><span class="english">They always fought alongside him.</span></p>

@@ -1,5 +1,7 @@
 # 付之东流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzhidongliu.md)
+
 <p><span class="chinese">过去两年的一切努力将付之东流。</span><span class="english">Two years hard-works became useless.</span></p>
 
 <p><span class="chinese">那你是否知道不良的饮食习惯可能使你减肥的努力付之东流。</span><span class="english">It could be you're eating more than you realize!</span></p>

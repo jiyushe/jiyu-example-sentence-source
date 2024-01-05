@@ -1,5 +1,7 @@
 # 经济效益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjixiaoyi.md)
+
 <p><span class="chinese">环境效益和经济效益皆佳。</span><span class="english">It is benefit to environment and economy.</span></p>
 
 <p><span class="chinese">所以，从经济效益上来说，</span><span class="english">And so it's better economically for the company</span></p>

@@ -1,5 +1,7 @@
 # gaza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaza.md)
+
 <p><span class="chinese">加沙的形势严峻。</span><span class="english">The situation in Gaza is grim.</span></p>
 
 <p><span class="chinese">它使黎巴嫩和加沙屈从。</span><span class="english">It subjugates Lebanon and Gaza.</span></p>

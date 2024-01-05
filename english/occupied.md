@@ -1,5 +1,7 @@
 # occupied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occupied.md)
+
 <p><span class="chinese">你已租下这套公寓了吗?</span><span class="english">Have you occupied this flat?</span></p>
 
 <p><span class="chinese">我今天下午都排满了。</span><span class="english">I'm fully occupied this afternoon.</span></p>

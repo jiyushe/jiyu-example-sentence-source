@@ -1,5 +1,7 @@
 # disclaimer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disclaimer.md)
+
 <p><span class="chinese">说实话，免责声明哦。</span><span class="english">Truth be told, disclaimer.</span></p>
 
 <p><span class="chinese">首先，我想要做一点澄清。</span><span class="english">First, I want to make a little disclaimer.</span></p>

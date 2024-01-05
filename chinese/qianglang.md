@@ -1,5 +1,7 @@
 # 蜣螂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianglang.md)
+
 <p><span class="chinese">蜣螂觉得粪便是好东西。</span><span class="english">To a dung beetle poop smells just fine.</span></p>
 
 <p><span class="chinese">埃及圣甲虫其实就是蜣螂。</span><span class="english">The Egyptian sacred scarab is a dung beetle.</span></p>

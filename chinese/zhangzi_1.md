@@ -1,5 +1,7 @@
 # 掌子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangzi_1.md)
+
 <p><span class="chinese">公用之马，掌子最差。</span><span class="english">The common horse is worst shod.</span></p>
 
 <p><span class="chinese">结果表明，施工时掌子面稳定性好，工程进展顺利。</span><span class="english">As a result, the tunnel face was stable during construction and the project progressed smoothly.</span></p>

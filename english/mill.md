@@ -1,5 +1,7 @@
 # mill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mill.md)
+
 <p><span class="chinese">他有一个木材厂。</span><span class="english">He had a lumber mill.</span></p>
 
 <p><span class="chinese">他转动咖啡磨。</span><span class="english">He grinds coffee mill.</span></p>

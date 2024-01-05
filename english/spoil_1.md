@@ -1,5 +1,7 @@
 # spoil 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spoil_1.md)
+
 <p><span class="chinese">不要娇惯我。</span><span class="english">Don't spoil me.</span></p>
 
 <p><span class="chinese">别把孩子惯坏了。</span><span class="english">Don't spoil the child.</span></p>

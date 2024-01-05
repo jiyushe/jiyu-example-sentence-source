@@ -1,5 +1,7 @@
 # sealer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sealer.md)
+
 <p><span class="chinese">可单独使用也可与L式封切机配套使用。</span><span class="english">Use alone or together with L-type sealer.</span></p>
 
 <p><span class="chinese">但这可以容易恢复用有色封箱机。</span><span class="english">But this can be easily restored by using a colored sealer.</span></p>

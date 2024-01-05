@@ -1,5 +1,7 @@
 # ritz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ritz.md)
+
 <p><span class="chinese">“丽池”的厨房餐具柜</span><span class="english">The Kitchen Cabinet at the Ritz</span></p>
 
 <p><span class="chinese">先生们，晚安，欢迎光临丽池餐厅。</span><span class="english">Good evening, sirs. Welcome to the Ritz Restaurant.</span></p>

@@ -1,5 +1,7 @@
 # poisonous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poisonous.md)
+
 <p><span class="chinese">应当怎样对待毒草？</span><span class="english">How to treat the poisonous?</span></p>
 
 <p><span class="chinese">雄性鸭嘴兽有毒。</span><span class="english">Male platypuses are poisonous.</span></p>

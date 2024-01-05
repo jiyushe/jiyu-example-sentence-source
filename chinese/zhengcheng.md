@@ -1,5 +1,7 @@
 # 征程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengcheng.md)
+
 <p><span class="chinese">踏上征程去寻梦。</span><span class="english">Take a journey to find your dream.</span></p>
 
 <p><span class="chinese">对有些人来说，征程可能不会远于布里斯托。</span><span class="english">Some might get no farther than Bristol.</span></p>

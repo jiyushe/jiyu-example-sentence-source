@@ -1,5 +1,7 @@
 # unitary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unitary.md)
+
 <p><span class="chinese">它们使测试更单元化。</span><span class="english">They make tests more unitary.</span></p>
 
 <p><span class="chinese">未来会是一个大同世界。</span><span class="english">The future lay in a unitary world of total consummation.</span></p>

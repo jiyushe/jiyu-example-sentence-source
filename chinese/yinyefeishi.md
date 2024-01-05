@@ -1,5 +1,7 @@
 # 因噎废食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyefeishi.md)
+
 <p><span class="chinese">但我们是否该因噎废食呢？</span><span class="english">But shall we stop eating for fear of choking?</span></p>
 
 <p><span class="chinese">听起来有些理，其实是个因噎废食的逻辑。</span><span class="english">It sounds reasonable but it is actually a fallacy.</span></p>

@@ -1,5 +1,7 @@
 # selfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selfish.md)
+
 <p><span class="chinese">“我并不自私，”布里森登冷静地笑了。</span><span class="english">I'm not selfish.</span></p>
 
 <p><span class="chinese">自私的基因。</span><span class="english">The selfish gene.</span></p>

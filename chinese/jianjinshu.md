@@ -1,5 +1,7 @@
 # 碱金属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjinshu.md)
+
 <p><span class="chinese">这一套的短片是有关碱金属的短片。</span><span class="english">This is a movie about Alkali Metal.</span></p>
 
 <p><span class="chinese">事实上，所有的碱金属都有这样的性质。</span><span class="english">And, in fact, this is the case for all the alkali metals.</span></p>

@@ -1,5 +1,7 @@
 # moulin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moulin.md)
+
 <p><span class="chinese">看，这就是红磨坊的地标。</span><span class="english">See, this is the landmark of Moulin Rough.</span></p>
 
 <p><span class="chinese">胭脂泪，留人醉，几时重？</span><span class="english">Moulin Rouge, keep a person drunk, when heavy?</span></p>

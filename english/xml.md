@@ -1,5 +1,7 @@
 # xml
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xml.md)
+
 <p><span class="chinese">此文件被称为“MyGrid.xml”。</span><span class="english">This is called "MyGrid.xml."</span></p>
 
 <p><span class="chinese">单系列图表XML样例</span><span class="english">Sample Single-Series Chart XML</span></p>

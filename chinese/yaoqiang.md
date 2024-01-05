@@ -1,5 +1,7 @@
 # 要强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoqiang.md)
+
 <p><span class="chinese">要强既是没用，何不乐乐眼前呢？</span><span class="english">Stronger is useless, why not Lele eyes?</span></p>
 
 <p><span class="chinese">长跑运动员耐力要强。</span><span class="english">Long-distance runners need staying-power.</span></p>

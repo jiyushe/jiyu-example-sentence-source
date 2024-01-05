@@ -1,5 +1,7 @@
 # externality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/externality.md)
+
 <p><span class="chinese">那么什么叫“外部成本”？</span><span class="english">So what's an externality?</span></p>
 
 <p><span class="chinese">横江就是一个典型的外部成本例子。</span><span class="english">Hengjiang is a classic externality.</span></p>

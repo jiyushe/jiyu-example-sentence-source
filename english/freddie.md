@@ -1,5 +1,7 @@
 # freddie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freddie.md)
+
 <p><span class="chinese">我很同情费雷迪。</span><span class="english">I pity Freddie.</span></p>
 
 <p><span class="chinese">最大的就是房利美和房贷美。</span><span class="english">The biggest are Fannie Mae and Freddie Mac.</span></p>

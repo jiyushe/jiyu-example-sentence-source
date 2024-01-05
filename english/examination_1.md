@@ -1,5 +1,7 @@
 # examination 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/examination_1.md)
+
 <p><span class="chinese">直接涂片检查。</span><span class="english">Direct smear examination.</span></p>
 
 <p><span class="chinese">他怕这次考试。</span><span class="english">He dreads the examination.</span></p>

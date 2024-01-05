@@ -1,5 +1,7 @@
 # 欣欣向荣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxinxiangrong.md)
+
 <p><span class="chinese">各行各业都欣欣向荣。</span><span class="english">Every trade is thriving.</span></p>
 
 <p><span class="chinese">骄春花盛放，欣欣向荣。</span><span class="english">The Spring flowers are blooming.</span></p>

@@ -1,5 +1,7 @@
 # 胆寒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danhan.md)
+
 <p><span class="chinese">匈奴王阿提拉曾令东欧人民胆寒。</span><span class="english">Attila struck terror into the people of Eastern Europe.</span></p>
 
 <p><span class="chinese">淡化万圣节那可怕，令人胆寒生畏的部分。</span><span class="english">Downplay the scary, chilling, creepy, parts of Halloween.</span></p>

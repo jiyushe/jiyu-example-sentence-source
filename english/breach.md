@@ -1,5 +1,7 @@
 # breach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breach.md)
+
 <p><span class="chinese">也违背了神的首者了！</span><span class="english">Breach divine head person too!</span></p>
 
 <p><span class="chinese">墙上豁了一个口子。</span><span class="english">There is a breach in the wall.</span></p>

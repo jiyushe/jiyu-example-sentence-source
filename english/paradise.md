@@ -1,5 +1,7 @@
 # paradise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paradise.md)
+
 <p><span class="chinese">赤壁是他的乐园。</span><span class="english">Chibi is his paradise.</span></p>
 
 <p><span class="chinese">“天堂与妖精”。</span><span class="english">Paradise and the peri.</span></p>

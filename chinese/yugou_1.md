@@ -1,5 +1,7 @@
 # 鱼钩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yugou_1.md)
+
 <p><span class="chinese">一个鱼钩？</span><span class="english">A fishhook?</span></p>
 
 <p><span class="chinese">把蚯蚓装在鱼钩上作为钓饵。</span><span class="english">Bait your hook with a worm.</span></p>

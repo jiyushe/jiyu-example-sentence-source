@@ -1,5 +1,7 @@
 # phytophagous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phytophagous.md)
+
 <p><span class="chinese">植食性昆虫较捕食性和中性昆虫多。</span><span class="english">Phytophagous insects were more abundant than predatory and neutral insects.</span></p>
 
 <p><span class="chinese">此外，植物减少对那些食草类动物而言也缺少食物来源。</span><span class="english">In addition, the plant reduces speaking of these phytophagous animal also lacks food origin.</span></p>

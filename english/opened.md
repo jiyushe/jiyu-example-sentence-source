@@ -1,5 +1,7 @@
 # opened
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opened.md)
+
 <p><span class="chinese">他已开了门，表示门已翻开了。</span><span class="english">He has opened the door.</span></p>
 
 <p><span class="chinese">罗恩瞪大了眼睛。</span><span class="english">Ron's eyes opened wide.</span></p>

@@ -1,5 +1,7 @@
 # keyword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keyword.md)
+
 <p><span class="chinese">编程语言中每一个关键字都有其特殊的用途。</span><span class="english">Every keyword has a purpose.</span></p>
 
 <p><span class="chinese">找到它--我们得到了这些return命令。</span><span class="english">So return is another keyword.</span></p>

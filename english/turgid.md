@@ -1,5 +1,7 @@
 # turgid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turgid.md)
+
 <p><span class="chinese">译者成功地用一种朗朗上口的地道英文转达了海氏一贯铺张的写作风格。</span><span class="english">He succeeded in presenting Heidegger's often turgid style in a readable and idiomatic English.</span></p>
 
 <p><span class="chinese">当然，他们是一类特别乏味的浪漫主义者，念的全是华而不实的散文，却没有诗章。</span><span class="english">They are, to be sure, a peculiarly boring breed of romantic, speaking in turgid prose rather than poetry.</span></p>

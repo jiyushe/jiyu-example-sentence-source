@@ -1,5 +1,7 @@
 # 重油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyou_2.md)
+
 <p><span class="chinese">重油的减产额度达到了历史新高。</span><span class="english">The discount on heavier crudes has risen to record levels.</span></p>
 
 <p><span class="chinese">这台发动机类似目前的单作用煤气和重油发动机。</span><span class="english">This engine resembled present single-acting gas and oil engines.</span></p>

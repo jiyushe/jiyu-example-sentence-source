@@ -1,5 +1,7 @@
 # annealing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annealing.md)
+
 <p><span class="chinese">采用无氧化还原退火炉。</span><span class="english">The reducing annealing furnace is _.</span></p>
 
 <p><span class="chinese">采用无氧化还原退火炉。</span><span class="english">The reducing annealing furnace is adopted.</span></p>

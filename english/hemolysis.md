@@ -1,5 +1,7 @@
 # hemolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemolysis.md)
+
 <p><span class="chinese">溶血和贫血的症状都较轻。</span><span class="english">Symptoms of hemolysis and anemia are less.</span></p>
 
 <p><span class="chinese">另外，RSP-R还可抑制大鼠红细胞氧化溶血程度。</span><span class="english">RSP-R can also inhibiting the hemolysis of mice red blood cell as well.</span></p>

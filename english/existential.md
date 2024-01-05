@@ -1,5 +1,7 @@
 # existential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/existential.md)
+
 <p><span class="chinese">但这也是一场生存斗争。</span><span class="english">But it is also an existential struggle.</span></p>
 
 <p><span class="chinese">森林里的事情远远比这更实在。</span><span class="english">Matters in the forest were far more existential.</span></p>

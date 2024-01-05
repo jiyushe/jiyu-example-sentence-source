@@ -1,5 +1,7 @@
 # inoculant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inoculant.md)
+
 <p><span class="chinese">接种剂是一种非常便宜的投入。</span><span class="english">Inoculant is a very inexpensive input.</span></p>
 
 <p><span class="chinese">第二部分为根瘤菌剂型的比较与优化。</span><span class="english">The second part involved in the production of rhizobium inoculant.</span></p>

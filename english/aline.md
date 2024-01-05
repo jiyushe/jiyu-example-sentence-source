@@ -1,5 +1,7 @@
 # aline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aline.md)
+
 <p><span class="chinese">一旦他傻傻的踩上边线。</span><span class="english">As soon as he's silly and steps on aline.</span></p>
 
 <p><span class="chinese">从今天开始，我会一直陪著妳学习英语，每天通信吧。</span><span class="english">Let's study English together form today. Drop me aline everyday!</span></p>

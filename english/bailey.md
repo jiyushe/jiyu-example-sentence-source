@@ -1,5 +1,7 @@
 # bailey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bailey.md)
+
 <p><span class="chinese">那是贝利先生吗？</span><span class="english">Was that Mr. Bailey?</span></p>
 
 <p><span class="chinese">你叫贝利医生和谢弗德医生了吗?。</span><span class="english">You paged Dr. Bailey and Cr. Shepherd?</span></p>

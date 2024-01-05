@@ -1,5 +1,7 @@
 # puppet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puppet.md)
+
 <p><span class="chinese">它是一只木偶。</span><span class="english">It's a puppet.</span></p>
 
 <p><span class="chinese">日本就是个傀儡。</span><span class="english">Japan is the puppet.</span></p>

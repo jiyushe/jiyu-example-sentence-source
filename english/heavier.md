@@ -1,5 +1,7 @@
 # heavier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heavier.md)
+
 <p><span class="chinese">感觉这个重一些。</span><span class="english">This one feels heavier.</span></p>
 
 <p><span class="chinese">吉姆比杰克沉四斤。</span><span class="english">Jim is 2kg heavier than Jack.</span></p>

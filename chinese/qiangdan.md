@@ -1,5 +1,7 @@
 # 枪弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangdan.md)
+
 <p><span class="chinese">枪弹穿入他的身体。</span><span class="english">A bullet entered his body.</span></p>
 
 <p><span class="chinese">战斗激烈进行时，枪弹密如雨点。</span><span class="english">While the battle raged , the bullets flew thick as hail.</span></p>

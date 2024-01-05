@@ -1,5 +1,7 @@
 # scavenge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scavenge.md)
+
 <p><span class="chinese">对于北极狐来说，这是一个捕食的机会…</span><span class="english">For the fox, it's a chance to scavenge.</span></p>
 
 <p><span class="chinese">鱼和蟹搜寻腐烂的组织为食。</span><span class="english">The fish and crabs scavenge for decaying tissue.</span></p>

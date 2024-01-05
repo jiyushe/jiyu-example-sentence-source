@@ -1,5 +1,7 @@
 # dit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dit.md)
+
 <p><span class="chinese">要么结束，要么改进。</span><span class="english">End dit or mend it.</span></p>
 
 <p><span class="chinese">为什么你那么说？</span><span class="english">Pourquoi t'as dit ça ? Why did you say that?</span></p>

@@ -1,5 +1,7 @@
 # 遥遥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyao_2.md)
+
 <p><span class="chinese">地狱天堂路遥遥。</span><span class="english">From the hell to the heaven.</span></p>
 
 <p><span class="chinese">而成长就是那弯遥遥迢迢的来时路。</span><span class="english">And growing is that sinuous road.</span></p>

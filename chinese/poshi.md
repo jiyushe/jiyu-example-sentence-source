@@ -1,5 +1,7 @@
 # 迫使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poshi.md)
+
 <p><span class="chinese">他迫使这匹马走。</span><span class="english">He make the horse go.</span></p>
 
 <p><span class="chinese">我将会迫使他做那件事。</span><span class="english">I will force him to do it.</span></p>

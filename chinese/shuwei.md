@@ -1,5 +1,7 @@
 # 数位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuwei.md)
+
 <p><span class="chinese">数位式转速及时间显示。</span><span class="english">LED speed and time display.</span></p>
 
 <p><span class="chinese">这是数位时代的血汗工厂。</span><span class="english">This is the digital-era sweatshop.</span></p>

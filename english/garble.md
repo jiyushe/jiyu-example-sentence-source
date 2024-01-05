@@ -1,5 +1,7 @@
 # garble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garble.md)
+
 <p><span class="chinese">你曲解了我的话的真实含义。</span><span class="english">You garble my words from their real meaning.</span></p>
 
 <p><span class="chinese">最后还有一种人，说自己的名字或者电话的时候没说清楚，或者说太快了。</span><span class="english">And, finally, there are the people who garble or say their name or phone number too fast.</span></p>

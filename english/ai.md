@@ -1,5 +1,7 @@
 # ai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ai.md)
+
 <p><span class="chinese">艾前往早矢香的半身像。</span><span class="english">Ai going for Sayaka's bust.</span></p>
 
 <p><span class="chinese">而不像人工智能电影那样。</span><span class="english">It’s not like the movie AI.</span></p>

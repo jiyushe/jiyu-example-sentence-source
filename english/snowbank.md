@@ -1,5 +1,7 @@
 # snowbank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowbank.md)
+
 <p><span class="chinese">我们在后院有一个魔法雪堆。</span><span class="english">We have a magic snowbank in our backyard.</span></p>
 
 <p><span class="chinese">在后院我们有一个神奇的雪花银行。</span><span class="english">We have a magic snowbank in our backyard.</span></p>

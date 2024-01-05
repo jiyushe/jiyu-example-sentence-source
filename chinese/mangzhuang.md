@@ -1,5 +1,7 @@
 # 莽撞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangzhuang.md)
+
 <p><span class="chinese">1960年是一个闰年，我还只是一个有点儿笨拙和莽撞的少女，还在为彼得潘的故事所吸引。</span><span class="english">It was a leap year. 1960.</span></p>
 
 <p><span class="chinese">过度使用只会让你显得莽撞。</span><span class="english">Overuse will only make you look pushy.</span></p>

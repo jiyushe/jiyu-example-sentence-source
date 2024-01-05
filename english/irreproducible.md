@@ -1,5 +1,7 @@
 # irreproducible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irreproducible.md)
+
 <p><span class="chinese">时间是不可复制的奢侈。</span><span class="english">Time is the irreproducible luxury.</span></p>
 
 <p><span class="chinese">如此一来，哈伯关于宇宙膨胀的重要发现将无法重现。</span><span class="english">As a result, Hubble's crucial discovery of the expanding universe will become irreproducible.</span></p>

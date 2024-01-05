@@ -1,5 +1,7 @@
 # homestead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homestead.md)
+
 <p><span class="chinese">园坑池，中途，犹他州。</span><span class="english">Homestead Crater Pool, Midway, Utah.</span></p>
 
 <p><span class="chinese">是家园独霸还是和谐共享？</span><span class="english">Dispossessing the homestead or sharing harmoniously?</span></p>

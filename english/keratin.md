@@ -1,5 +1,7 @@
 # keratin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keratin.md)
+
 <p><span class="chinese">头发的主要成分被称为角蛋白。</span><span class="english">The main component of hair is known as keratin.</span></p>
 
 <p><span class="chinese">我们的头发是由一种称为角蛋白的蛋白质。</span><span class="english">Our hair is made of a type of protein called keratin.</span></p>

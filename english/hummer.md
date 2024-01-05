@@ -1,5 +1,7 @@
 # hummer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hummer.md)
+
 <p><span class="chinese">悍马将保留美国的生产基地。</span><span class="english">Hummer will remain based in the US.</span></p>
 
 <p><span class="chinese">悍马让通用汽车看起来像是一家耗油大户。</span><span class="english">Hummer made GM seem like the gas-guzzler company.</span></p>

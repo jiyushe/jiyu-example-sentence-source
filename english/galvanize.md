@@ -1,5 +1,7 @@
 # galvanize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galvanize.md)
+
 <p><span class="chinese">奥巴马说，希拉里.克林顿会刺激共和党人。</span><span class="english">Obama said Hillary Clinton will galvanize Republicans.</span></p>
 
 <p><span class="chinese">常用的方法是先把钢板焊起来再镀锌。</span><span class="english">It is more usual to complete the weldment first and then to galvanize it.</span></p>

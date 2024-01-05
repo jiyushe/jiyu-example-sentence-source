@@ -1,5 +1,7 @@
 # kingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kingly.md)
+
 <p><span class="chinese">那才是真正的王道。</span><span class="english">That ability is right kingly way.</span></p>
 
 <p><span class="chinese">他的言辞是对王权的侵犯。</span><span class="english">His words was a breach upon kingly power.</span></p>

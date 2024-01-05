@@ -1,5 +1,7 @@
 # 间接税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjieshui.md)
+
 <p><span class="chinese">以下哪一项是间接税?。</span><span class="english">Which of the following is an indirect tax?</span></p>
 
 <p><span class="chinese">在使用间接税方面，美国近乎老末。</span><span class="english">It is close to the bottom on its use of indirect taxes.</span></p>

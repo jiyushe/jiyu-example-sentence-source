@@ -1,5 +1,7 @@
 # ballasting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballasting.md)
+
 <p><span class="chinese">这类型的加重车自从1934年开始在俄罗斯铁路上行驶。</span><span class="english">A ballasting train was used on Russian railways since 1934.</span></p>
 
 <p><span class="chinese">港监，我舟需要在装货期间排放压载水。</span><span class="english">Harbor master, I need to discharge ballasting water during loading.</span></p>

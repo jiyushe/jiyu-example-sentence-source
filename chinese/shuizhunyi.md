@@ -1,5 +1,7 @@
 # 水准仪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizhunyi.md)
+
 <p><span class="chinese">水准仪的自动读数和自动记录产生了两种方式。</span><span class="english">Levels have two forms of automatic reading and recording.</span></p>
 
 <p><span class="chinese">施工人员正在用水准仪进行测距工作。</span><span class="english">Construction workers are measuring distances with a level.</span></p>

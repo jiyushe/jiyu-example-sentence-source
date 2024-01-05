@@ -1,5 +1,7 @@
 # 蘑菇云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moguyun.md)
+
 <p><span class="chinese">蘑菇云在蓝天下消散了。</span><span class="english">The cloud was dissipating in the blue sky.</span></p>
 
 <p><span class="chinese">因为我们曾听说每个蘑菇云过后。</span><span class="english">Because we've heard it said that every mushroom cloud.</span></p>

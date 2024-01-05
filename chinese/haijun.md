@@ -1,5 +1,7 @@
 # 海军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haijun.md)
+
 <p><span class="chinese">海军潜水员，退下。</span><span class="english">Navy diver, stand down.</span></p>
 
 <p><span class="chinese">但是彼得想要一支海军</span><span class="english">But Peter wanted a navy.</span></p>

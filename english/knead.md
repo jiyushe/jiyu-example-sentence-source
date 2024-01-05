@@ -1,5 +1,7 @@
 # knead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knead.md)
+
 <p><span class="chinese">破坏，搓招和胜利！</span><span class="english">Destroy, knead and win!</span></p>
 
 <p><span class="chinese">不多不少，捏成两个泥人。</span><span class="english">No less, knead into two clay figurine.</span></p>

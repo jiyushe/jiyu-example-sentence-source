@@ -1,5 +1,7 @@
 # missus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/missus.md)
+
 <p><span class="chinese">我仍然会说吉拉迪诺的太太是最好的。</span><span class="english">I still say that Gilardino's missus takes the cake.</span></p>
 
 <p><span class="chinese">你应当让你的太太给裤腿加上荷叶边。</span><span class="english">You should get your missus to put a flounce on them.</span></p>

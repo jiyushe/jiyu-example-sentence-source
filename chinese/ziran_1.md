@@ -1,5 +1,7 @@
 # 自燃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziran_1.md)
+
 <p><span class="chinese">人体自燃是指由人体内部自发燃烧。</span><span class="english">SHC is burning from the inside out.</span></p>
 
 <p><span class="chinese">硅烷是无色的，可以自燃的压缩气体。</span><span class="english">Silane is a colorless, pyrophoric compressed gas.</span></p>

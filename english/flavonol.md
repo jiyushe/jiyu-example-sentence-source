@@ -1,5 +1,7 @@
 # flavonol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flavonol.md)
+
 <p><span class="chinese">本文还对黄酮醇的合成进行了初步探索。</span><span class="english">The exploration for synthesis of flavonol also was conducted.</span></p>
 
 <p><span class="chinese">黄酮苷比苷元抑菌活性强。</span><span class="english">Flavonol glycosides has stronger activity than that in the form of flavonol.</span></p>

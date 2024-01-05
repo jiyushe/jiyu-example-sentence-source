@@ -1,5 +1,7 @@
 # 遮风挡雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhefengdangyu.md)
+
 <p><span class="chinese">没有遮风挡雨的庇护所。</span><span class="english">No houses to shelter them.</span></p>
 
 <p><span class="chinese">愿为你遮风挡雨！</span><span class="english">Wish for you from the rain!</span></p>

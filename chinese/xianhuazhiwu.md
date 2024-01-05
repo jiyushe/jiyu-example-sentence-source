@@ -1,5 +1,7 @@
 # 显花植物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhuazhiwu.md)
+
 <p><span class="chinese">蒂娜博士说,观叶植物比显花植物更佳。</span><span class="english">Dr Tina says that foliage plants may be better than flowering plants.</span></p>
 
 <p><span class="chinese">在多数显花植物和无脊椎动物中，雌雄同体是正常现象。</span><span class="english">It is normal in most flowering plants and in some invertebrate animals.</span></p>

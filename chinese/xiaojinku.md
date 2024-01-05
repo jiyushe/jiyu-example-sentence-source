@@ -1,5 +1,7 @@
 # 小金库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaojinku.md)
+
 <p><span class="chinese">创建一个紧急小金库。</span><span class="english">Build an emergency fund.</span></p>
 
 <p><span class="chinese">这是我的小金库。</span><span class="english">It is my private coffer.</span></p>

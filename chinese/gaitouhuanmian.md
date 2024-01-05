@@ -1,5 +1,7 @@
 # 改头换面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaitouhuanmian.md)
+
 <p><span class="chinese">改头换面的熊仍然能够吃了你</span><span class="english">A bear with a face-lift can still eat you</span></p>
 
 <p><span class="chinese">风险资本改头换面进入投机热。</span><span class="english">Venture capital transmogrified into speculative fever.</span></p>

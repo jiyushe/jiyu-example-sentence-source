@@ -1,5 +1,7 @@
 # 平生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingsheng.md)
+
 <p><span class="chinese">那是她平生众多个第一次中的一个，她原本觉得醉酒是那么地自由，多么美妙！</span><span class="english">She’d been feeling so wonderfully free!</span></p>
 
 <p><span class="chinese">他平生的慰藉是探亲访友，打听消息。</span><span class="english">Her life's solace was visiting and news.</span></p>

@@ -1,5 +1,7 @@
 # annulment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annulment.md)
+
 <p><span class="chinese">同盟的废止，在日本发生了强烈的反响。</span><span class="english">The annulment caused a profound impression in Japan.</span></p>
 
 <p><span class="chinese">是黑尔先生提出要离婚仍是他的妻子提出要离婚？</span><span class="english">Did Mr. Hill annulment his wife or did she annulment him?</span></p>

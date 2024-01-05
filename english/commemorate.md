@@ -1,5 +1,7 @@
 # commemorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commemorate.md)
+
 <p><span class="chinese">为了留念这一天，他们给它命名为“王老五骗子节”。</span><span class="english">In order to commemorate the day, they nicknamed it Singles Day.</span></p>
 
 <p><span class="chinese">葬于苏州阊门内，以“专诸巷”以留念。</span><span class="english">Buried Chang door, with "suzhou designed to commemorate the alleys".</span></p>

@@ -1,5 +1,7 @@
 # concourse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concourse.md)
+
 <p><span class="chinese">但是，像所有有钱的孩子一样，他的地址也是大广场街的。</span><span class="english">But he’d had a Concourse address, like all the brats.</span></p>
 
 <p><span class="chinese">您走东部通道，从13号门登机。</span><span class="english">You'll be leaving from Gate 13 on the eastern concourse.</span></p>

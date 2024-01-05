@@ -1,5 +1,7 @@
 # 殉葬品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunzangpin.md)
+
 <p><span class="chinese">我们都是时间的殉葬品。</span><span class="english">We are all sarifical objects for time.</span></p>
 
 <p><span class="chinese">你这样做简直就是在做旧制度的殉葬品。</span><span class="english">What you are doing is burying yourself alive with the old system.</span></p>

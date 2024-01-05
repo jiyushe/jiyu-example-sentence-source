@@ -1,5 +1,7 @@
 # noisome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noisome.md)
+
 <p><span class="chinese">房间里有令人讨厌的味道。</span><span class="english">There is a noisome smell in the room.</span></p>
 
 <p><span class="chinese">空气受到了有害气体的污染。</span><span class="english">The air is infected with noisome gases.</span></p>

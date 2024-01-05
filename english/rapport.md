@@ -1,5 +1,7 @@
 # rapport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapport.md)
+
 <p><span class="chinese">我和曾加的关系？</span><span class="english">My rapport with Zenga?</span></p>
 
 <p><span class="chinese">你与加图索的关系？</span><span class="english">Your rapport with Gattuso?</span></p>

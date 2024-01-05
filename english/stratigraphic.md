@@ -1,5 +1,7 @@
 # stratigraphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stratigraphic.md)
+
 <p><span class="chinese">海绿石砂岩是一个稳定的地层单元。</span><span class="english">Sandstone is a persistent stratigraphic unit.</span></p>
 
 <p><span class="chinese">海绿石砂岩是一个稳定的地层单元。</span><span class="english">The glauconite sandstone is a persistent stratigraphic unit.</span></p>

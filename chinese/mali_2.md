@@ -1,5 +1,7 @@
 # 麻利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mali_2.md)
+
 <p><span class="chinese">他处理事情很麻利。</span><span class="english">He handles stuff quickly.</span></p>
 
 <p><span class="chinese">他麻利地转过身来，黑斗篷兜着圈圈。</span><span class="english">He turned quickly, his black cloak circling.</span></p>

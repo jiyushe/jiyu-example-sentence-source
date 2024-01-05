@@ -1,5 +1,7 @@
 # aflatoxin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aflatoxin.md)
+
 <p><span class="chinese">烤花生可降低黄曲霉毒素，但不能完全消除。</span><span class="english">Roasting the peanuts reduces aflatoxin but does not eliminate it entirely.</span></p>
 
 <p><span class="chinese">“地沟油”中含有黄曲霉素、苯并芘，这两种毒素都是致癌物质。</span><span class="english">"Waste oil" contains toxins aflatoxin and benzopyrene, which are both carcinogens.</span></p>

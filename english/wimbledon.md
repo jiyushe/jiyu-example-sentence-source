@@ -1,5 +1,7 @@
 # wimbledon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wimbledon.md)
+
 <p><span class="chinese">你知道温布尔顿是什么吗？</span><span class="english">Do you know what Wimbledon is?</span></p>
 
 <p><span class="chinese">这是他首次获得温网冠军。</span><span class="english">It's his first Wimbledon title.</span></p>

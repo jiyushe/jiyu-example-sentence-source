@@ -1,5 +1,7 @@
 # banshee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banshee.md)
+
 <p><span class="chinese">在致远星战役关卡劫持一架妖姬战机。</span><span class="english">Hijacked a Banshee during the Reach Campaign.</span></p>
 
 <p><span class="chinese">骑着斑溪兽的战士在天空盘旋俯冲，遮天蔽日。</span><span class="english">BANSHEE RIDERS circle and swoop, darkening the sky above the grotto.</span></p>

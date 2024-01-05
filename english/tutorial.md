@@ -1,5 +1,7 @@
 # tutorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tutorial.md)
+
 <p><span class="chinese">我需要本教程吗？</span><span class="english">Do I need this tutorial?</span></p>
 
 <p><span class="chinese">谁应该学习本教程？</span><span class="english">Should I take this tutorial?</span></p>

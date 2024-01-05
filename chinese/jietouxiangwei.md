@@ -1,5 +1,7 @@
 # 街头巷尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jietouxiangwei.md)
+
 <p><span class="chinese">这已是街头巷尾谈论的事了。</span><span class="english">It is the talk of the town.</span></p>
 
 <p><span class="chinese">那个离了婚的女子成了街头巷尾的话题。</span><span class="english">The divorced woman is the talk of the street.</span></p>

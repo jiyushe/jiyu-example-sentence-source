@@ -1,5 +1,7 @@
 # persistent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persistent.md)
+
 <p><span class="chinese">他是一个顽固争持的人。</span><span class="english">He is a persistent person.</span></p>
 
 <p><span class="chinese">一定要坚持，别放弃，加油。</span><span class="english">Be persistent. Don’t give up.</span></p>

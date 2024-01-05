@@ -1,5 +1,7 @@
 # passbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passbook.md)
+
 <p><span class="chinese">你项要存折还是储蓄卡？</span><span class="english">You want a passbook or a card?</span></p>
 
 <p><span class="chinese">这是您的钱跟存折。</span><span class="english">Here is your money and passbook.</span></p>

@@ -1,5 +1,7 @@
 # chinaman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chinaman.md)
+
 <p><span class="chinese">这是我的朋友张明，他是我们学校的学生会主席。</span><span class="english">This is my friend, Zhang Ming. And he is Chinaman of our Student Union.</span></p>
 
 <p><span class="chinese">作为难民去加拿大，享受一下结扎。愚蠢的中国人。</span><span class="english">Move them to Canada as refugees and get a vasectomy, you silly Chinaman.</span></p>

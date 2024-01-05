@@ -1,5 +1,7 @@
 # russia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/russia.md)
+
 <p><span class="chinese">俄罗斯4-1印度。</span><span class="english">Russia 4-1</span></p>
 
 <p><span class="chinese">玛各就是俄国。</span><span class="english">Magog is Russia.</span></p>

@@ -1,5 +1,7 @@
 # 助兴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuxing.md)
+
 <p><span class="chinese">由学校铜管乐队助兴。</span><span class="english">School brass band will provide music for entertainment.</span></p>
 
 <p><span class="chinese">随后，男生又助兴，为我们演唱了好几首歌。</span><span class="english">Later, the boy again christmas-to sing to us several song.</span></p>

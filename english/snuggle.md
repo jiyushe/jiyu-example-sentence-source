@@ -1,5 +1,7 @@
 # snuggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snuggle.md)
+
 <p><span class="chinese">常常拥抱和偎依。</span><span class="english">Hug and snuggle more often.</span></p>
 
 <p><span class="chinese">快条到被子里去，我来给你盖好。</span><span class="english">Now, snuggle right down and I'll tuck up.</span></p>

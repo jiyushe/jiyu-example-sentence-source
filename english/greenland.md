@@ -1,5 +1,7 @@
 # greenland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenland.md)
+
 <p><span class="chinese">孩子打秋千在格陵兰。</span><span class="english">Child swing in Greenland.</span></p>
 
 <p><span class="chinese">格陵兰岛冰融比…</span><span class="english">Greenland melting faster than expected.</span></p>

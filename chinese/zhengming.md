@@ -1,5 +1,7 @@
 # 争鸣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengming.md)
+
 <p><span class="chinese">竹林里各种鸟儿在争鸣。</span><span class="english">All kinds of birds are calling to one another in the bamboo forest.</span></p>
 
 <p><span class="chinese">期待学人指点抑或是学术争鸣，同将庄学研究推向前进。</span><span class="english">Looking forward to being taught or arguing on the theme for the further research!</span></p>

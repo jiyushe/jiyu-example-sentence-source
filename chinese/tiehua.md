@@ -1,5 +1,7 @@
 # 贴画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiehua.md)
+
 <p><span class="chinese">我做了些拼贴画。</span><span class="english">I made some collages.</span></p>
 
 <p><span class="chinese">他得到了三个贴画。</span><span class="english">He's got three sticks.</span></p>

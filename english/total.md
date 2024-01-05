@@ -1,5 +1,7 @@
 # total 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/total.md)
+
 <p><span class="chinese">这纯粹是一个谎言。</span><span class="english">This was a total lie.</span></p>
 
 <p><span class="chinese">每个波总福佑。</span><span class="english">Each wave total bliss.</span></p>

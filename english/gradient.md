@@ -1,5 +1,7 @@
 # gradient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gradient.md)
+
 <p><span class="chinese">什么的梯度向量呢？</span><span class="english">So, a gradient of what?</span></p>
 
 <p><span class="chinese">最大爬坡度。</span><span class="english">Maximum climbable gradient.</span></p>

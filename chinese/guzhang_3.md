@@ -1,5 +1,7 @@
 # 鼓胀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzhang_3.md)
+
 <p><span class="chinese">他的大肚子鼓胀着像个大锅。</span><span class="english">His big belly swells out like a pot.</span></p>
 
 <p><span class="chinese">流行时尚从空虚的头脑和鼓胀的钱包中产生。</span><span class="english">Fads breed in empty heads and full purses.</span></p>

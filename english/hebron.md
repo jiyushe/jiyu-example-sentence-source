@@ -1,5 +1,7 @@
 # hebron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hebron.md)
+
 <p><span class="chinese">押沙龙就起身，往希伯仑去了。</span><span class="english">So he arose, and went to Hebron.</span></p>
 
 <p><span class="chinese">大卫这六个儿子都是在希伯仑生的。</span><span class="english">These were born to David in Hebron.</span></p>

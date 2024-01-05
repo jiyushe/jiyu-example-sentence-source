@@ -1,5 +1,7 @@
 # pathogenetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathogenetic.md)
+
 <p><span class="chinese">几丁质酶在昆虫病原真菌的入侵中有重要作用。</span><span class="english">Chitinase has a important role when pathogenetic fungi infected insects.</span></p>
 
 <p><span class="chinese">本院报告一个病例，并说明隐翅虫的生活环境与致病机转。</span><span class="english">By the way, explaining habit of paederus living and the pathogenetic mechanism.</span></p>

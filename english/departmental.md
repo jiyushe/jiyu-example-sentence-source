@@ -1,5 +1,7 @@
 # departmental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/departmental.md)
+
 <p><span class="chinese">协调部门间交叉培训。</span><span class="english">Coordinate departmental cross-training.</span></p>
 
 <p><span class="chinese">“小金库”是当前滋生腐败现象的温床。</span><span class="english">The "departmental coffer" is a hotbed of corruption.</span></p>

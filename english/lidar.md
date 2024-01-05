@@ -1,5 +1,7 @@
 # lidar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lidar.md)
+
 <p><span class="chinese">首先对激光多普勒测风雷达系统的总体控制方案进行了设计。</span><span class="english">The paper began with research on automatic manipulation of wind lidar.</span></p>
 
 <p><span class="chinese">美国的卡利普索激光雷达在反馈此数据方面表现的非常有效。</span><span class="english">The US Calipso lidar was shown to be very effective in returning this data.</span></p>

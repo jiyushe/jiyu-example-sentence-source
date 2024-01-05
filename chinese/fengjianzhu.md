@@ -1,5 +1,7 @@
 # 封建主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengjianzhu.md)
+
 <p><span class="chinese">他自己来自于封建主阶层。</span><span class="english">He himself comes from the feudal caste.</span></p>
 
 <p><span class="chinese">封君封臣制中体现的封建原则，协调了封建主间的权利义务关系。</span><span class="english">The principles were to define the rights and duties between the feudal lords.</span></p>

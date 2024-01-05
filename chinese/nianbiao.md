@@ -1,5 +1,7 @@
 # 年表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianbiao.md)
+
 <p><span class="chinese">对于那些不安时间顺序讲授的历史知识，地图和年表对学习是有帮助的。</span><span class="english">Maps and timelines can assist in teaching non-chronological history.</span></p>
 
 <p><span class="chinese">年表是安排的事实和事件，在该命令的时间。</span><span class="english">Chronology is the arrangement of facts and events in the order of time.</span></p>

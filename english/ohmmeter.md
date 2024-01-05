@@ -1,5 +1,7 @@
 # ohmmeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ohmmeter.md)
+
 <p><span class="chinese">把测试探针连接到插头1和2，并记下欧姆表读数。</span><span class="english">Attach test leads to pins 1 and 2 and note ohmmeter reading.</span></p>
 
 <p><span class="chinese">把测试探针连接到插头5和6，并记下欧姆表读数。</span><span class="english">Attach test leads to pins 5 and 6 and note ohmmeter reading.</span></p>

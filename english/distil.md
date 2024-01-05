@@ -1,5 +1,7 @@
 # distil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distil.md)
+
 <p><span class="chinese">云凝结成雨。</span><span class="english">Clouds distil rain.</span></p>
 
 <p><span class="chinese">你可以用蒸馏法从海水中提取淡水。</span><span class="english">You can distil fresh water from the sea.</span></p>

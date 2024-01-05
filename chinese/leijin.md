@@ -1,5 +1,7 @@
 # 累进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leijin.md)
+
 <p><span class="chinese">联邦所得税仍采取累进计税法。</span><span class="english">The federal income tax remains progressive.</span></p>
 
 <p><span class="chinese">水土流失是一种累进性地质灾害，其实质就是土壤侵蚀作用。</span><span class="english">Soil and water erosion is a kind of incrementally geological hazard.</span></p>

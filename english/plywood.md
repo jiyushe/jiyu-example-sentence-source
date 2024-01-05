@@ -1,5 +1,7 @@
 # plywood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plywood.md)
+
 <p><span class="chinese">胶合板有什么问题呢？</span><span class="english">What’s wrong with plywood?</span></p>
 
 <p><span class="chinese">桦木胶合板结构。</span><span class="english">Birch plywood construction.</span></p>

@@ -1,5 +1,7 @@
 # multination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multination.md)
+
 <p><span class="chinese">最后本文还考察跨国项目组织的问题。</span><span class="english">Lastly, this paper will refer to the problems in multination national organizations.</span></p>
 
 <p><span class="chinese">北京摩比斯是一家在中国的外资企业，因此它不可避免存在跨国组织的问题。</span><span class="english">Beijing Mobis is a foreign company in China, so it can't get away from the problems in multination national organizations.</span></p>

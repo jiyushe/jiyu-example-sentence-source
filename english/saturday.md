@@ -1,5 +1,7 @@
 # saturday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saturday.md)
+
 <p><span class="chinese">周六是M25公路建成25周年。</span><span class="english">The M25 is 25 on Saturday.</span></p>
 
 <p><span class="chinese">我们就在星期六开始给他试吃豆制婴儿食品。</span><span class="english">We start him on a Saturday.</span></p>

@@ -1,5 +1,7 @@
 # franchise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/franchise.md)
+
 <p><span class="chinese">签定特许经营合同书。</span><span class="english">Sign the franchise contract.</span></p>
 
 <p><span class="chinese">他购买了一家特许谋划店。</span><span class="english">He has bought a hot dog franchise.</span></p>

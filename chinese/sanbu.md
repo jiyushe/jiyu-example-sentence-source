@@ -1,5 +1,7 @@
 # 散布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanbu.md)
+
 <p><span class="chinese">星星散布在天空上。</span><span class="english">Stars stud the sky.</span></p>
 
 <p><span class="chinese">野鸭们散布在各处。</span><span class="english">Ducks are spread everywhere.</span></p>

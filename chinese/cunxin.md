@@ -1,5 +1,7 @@
 # 存心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cunxin.md)
+
 <p><span class="chinese">存心忍耐的，胜过居心骄傲的。</span><span class="english">Patience is better than pride.</span></p>
 
 <p><span class="chinese">谁要是存心偷懒，当然也可以。</span><span class="english">Those who chose to be idle, certainly might.</span></p>

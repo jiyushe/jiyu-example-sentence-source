@@ -1,5 +1,7 @@
 # 异地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidi.md)
+
 <p><span class="chinese">深圳火车站能退异地车票吗？</span><span class="english">Shenzhen Railway Station to back off-site ticket?</span></p>
 
 <p><span class="chinese">我就一个儿子是研究生，在异地工作。</span><span class="english">My son is a graduate student in the off-site work.</span></p>

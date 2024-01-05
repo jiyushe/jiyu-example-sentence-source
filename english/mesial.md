@@ -1,5 +1,7 @@
 # mesial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesial.md)
+
 <p><span class="chinese">部分的下颌管近中的管壁不完整。</span><span class="english">Mesial portion of the mandibular canal wall was not intact.</span></p>
 
 <p><span class="chinese">这将创建一个复合隧道，不仅是开放的内侧。</span><span class="english">This creates a composite tunnel that is open only on the mesial.</span></p>

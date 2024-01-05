@@ -1,5 +1,7 @@
 # prove 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prove.md)
+
 <p><span class="chinese">怎么证明这一切呢?</span><span class="english">How to prove it?</span></p>
 
 <p><span class="chinese">那又能说明什么？</span><span class="english">What does that prove?</span></p>

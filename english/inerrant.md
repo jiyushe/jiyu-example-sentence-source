@@ -1,5 +1,7 @@
 # inerrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inerrant.md)
+
 <p><span class="chinese">两者都是神的启示，准确无误的神的话吗？</span><span class="english">Are both teachings the inspired, inerrant Word of God?</span></p>
 
 <p><span class="chinese">当福音，是科学考察，才能真实地坚持以他们“无误？”</span><span class="english">When the gospels are examined scientifically, can we truthfully uphold them as "inerrant?"</span></p>

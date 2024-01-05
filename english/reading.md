@@ -1,5 +1,7 @@
 # reading 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reading.md)
+
 <p><span class="chinese">阅读我很在行。</span><span class="english">I'm good at reading.</span></p>
 
 <p><span class="chinese">读书和写字呢？</span><span class="english">Reading and writing?</span></p>

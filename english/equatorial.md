@@ -1,5 +1,7 @@
 # equatorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equatorial.md)
+
 <p><span class="chinese">那里是赤道气候。</span><span class="english">There is an equatorial climate.</span></p>
 
 <p><span class="chinese">个别二价体也不排列在赤道板上。</span><span class="english">One or two bivalents were not on the equatorial plate.</span></p>

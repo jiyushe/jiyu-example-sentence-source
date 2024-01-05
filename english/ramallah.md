@@ -1,5 +1,7 @@
 # ramallah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramallah.md)
+
 <p><span class="chinese">年轻人走在拉姆安拉的大街上。</span><span class="english">Young people walk through the streets of Ramallah.</span></p>
 
 <p><span class="chinese">布什去拉姆安拉一事产生了众多乐观的谈论。</span><span class="english">Bush's trip to Ramallah produced plenty of happy talk.</span></p>

@@ -1,5 +1,7 @@
 # 永无止境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongwuzhijing.md)
+
 <p><span class="chinese">他的贪心永无止境。</span><span class="english">His greed knows no limits.</span></p>
 
 <p><span class="chinese">月夜是我永无止境的泪水。</span><span class="english">The moon night is my endless tears.</span></p>

@@ -1,5 +1,7 @@
 # 天府
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianfu.md)
+
 <p><span class="chinese">请问，我怎样才能到天府广场？</span><span class="english">Excuse me, how can I get to Tianfu Square?</span></p>
 
 <p><span class="chinese">天府调酒液为何如此轰动?。</span><span class="english">Why Tianfu Brand Liquor-blending Liquid So Stir in the Market?</span></p>

@@ -1,5 +1,7 @@
 # 海流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hailiu.md)
+
 <p><span class="chinese">黄河入海流。</span><span class="english">The Yellow River seawards flows.</span></p>
 
 <p><span class="chinese">为了你，海流潮起又潮落！</span><span class="english">The oceans ebb and flow for You.</span></p>

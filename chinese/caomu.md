@@ -1,5 +1,7 @@
 # 草木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caomu.md)
+
 <p><span class="chinese">草木枯槁。</span><span class="english">Trees and grass withered up.</span></p>
 
 <p><span class="chinese">雨足郊原草木柔。</span><span class="english">Full of rain the grass soft enough.</span></p>

@@ -1,5 +1,7 @@
 # 铭刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingke.md)
+
 <p><span class="chinese">何处铭刻,立拱之人</span><span class="english">Who reared them up?</span></p>
 
 <p><span class="chinese">回想畴昔，我们哭过，笑过，末端铭刻。</span><span class="english">Look back. Laugh, cry, and remember.</span></p>

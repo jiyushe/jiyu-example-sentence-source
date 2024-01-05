@@ -1,5 +1,7 @@
 # marl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marl.md)
+
 <p><span class="chinese">我要用这些泥灰苫背屋顶。</span><span class="english">I will lay the foundation of the roof with the marl.</span></p>
 
 <p><span class="chinese">鳄鱼在淡水泥沼和泥灰土草地茁壮成长。</span><span class="english">Alligators thrive in freshwater sloughs and marl prairies.</span></p>

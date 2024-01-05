@@ -1,5 +1,7 @@
 # midi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midi.md)
+
 <p><span class="chinese">MIDI音乐可以由定序器生成。</span><span class="english">MIDI music can be created with a sequencer.</span></p>
 
 <p><span class="chinese">这是一条直筒长旗袍裙，两边开衩。</span><span class="english">The midi is long and straight with two side vents.</span></p>

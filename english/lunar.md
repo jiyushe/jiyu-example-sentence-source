@@ -1,5 +1,7 @@
 # lunar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lunar.md)
+
 <p><span class="chinese">新春大礼送给你！</span><span class="english">Lunar New Year gift to you!</span></p>
 
 <p><span class="chinese">幻月，假月月晕上的光斑。</span><span class="english">A luminous spot on a lunar halo.</span></p>

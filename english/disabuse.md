@@ -1,5 +1,7 @@
 # disabuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disabuse.md)
+
 <p><span class="chinese">他最好很快消解疑虑。</span><span class="english">He had better disabuse them soon.</span></p>
 
 <p><span class="chinese">让我纠正你那种愚蠢的想法。</span><span class="english">Let me disabuse you of that foolish idea.</span></p>

@@ -1,5 +1,7 @@
 # unmixed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmixed.md)
+
 <p><span class="chinese">这说不上是纯粹的幸福。</span><span class="english">It is not an unmixed blessing.</span></p>
 
 <p><span class="chinese">那是充满了真挚的快乐和狂欢的一夜。</span><span class="english">That had been a night of unmixed joy and rapture.</span></p>

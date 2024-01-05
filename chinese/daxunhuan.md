@@ -1,5 +1,7 @@
 # 大循环
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxunhuan.md)
+
 <p><span class="chinese">生命就是性，分娩，死亡，腐烂的一个大循环。</span><span class="english">Life is a big circle of sex,birth,death and decay.</span></p>
 
 <p><span class="chinese">在执行for循环之前确定最大循环数，不要每循环一次都计算最大值。</span><span class="english">Set the maxvalue for your for-loops before and not in the loop.</span></p>

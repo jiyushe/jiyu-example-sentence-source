@@ -1,5 +1,7 @@
 # 门楣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menmei.md)
+
 <p><span class="chinese">电影片名好比影片的门楣。</span><span class="english">Film names reflect the contents of films.</span></p>
 
 <p><span class="chinese">他把这句话刻在他所办学校的门楣上。</span><span class="english">He carved this sentence on the gate of his school.</span></p>

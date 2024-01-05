@@ -1,5 +1,7 @@
 # clary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clary.md)
+
 <p><span class="chinese">他是怎么死的，克莱瑞？</span><span class="english">How did he die, Clary?</span></p>
 
 <p><span class="chinese">茶树油、德国洋甘菊、快乐鼠尾草、迷迭香等。</span><span class="english">Tea Oil, Chamomile, Clary Sage, Rosemary and so on.</span></p>

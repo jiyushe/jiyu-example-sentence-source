@@ -1,5 +1,7 @@
 # rochelle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rochelle.md)
+
 <p><span class="chinese">所以我觉得罗谢尔说到点子上了。</span><span class="english">So I think Rochelle is onto something there.</span></p>
 
 <p><span class="chinese">嗨，我的名字是谢伊，我从我的新罗谢尔。</span><span class="english">Hi, my name is Shay, and I'm from New Rochelle.</span></p>

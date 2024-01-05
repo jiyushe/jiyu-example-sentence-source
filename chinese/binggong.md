@@ -1,5 +1,7 @@
 # 秉公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binggong.md)
+
 <p><span class="chinese">作为领导，他必须秉公办事。</span><span class="english">As a leader, he must handle a matter impartially.</span></p>
 
 <p><span class="chinese">审判人员应当依法秉公办案。</span><span class="english">Judges shall hanDle cases impartially and in accordance with the law.</span></p>

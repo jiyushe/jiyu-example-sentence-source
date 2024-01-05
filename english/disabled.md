@@ -1,5 +1,7 @@
 # disabled 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disabled.md)
+
 <p><span class="chinese">它应该是禁用的。</span><span class="english">It should be disabled.</span></p>
 
 <p><span class="chinese">他是一个残废军人。</span><span class="english">He is a disabled soldier.</span></p>

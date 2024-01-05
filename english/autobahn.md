@@ -1,5 +1,7 @@
 # autobahn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autobahn.md)
+
 <p><span class="chinese">这条高速公路没有急转弯。</span><span class="english">The autobahn has no sharp corners.</span></p>
 
 <p><span class="chinese">不仅仅只有高速公路上的气体。</span><span class="english">Gib nicht nur auf der Autobahn Gas.</span></p>

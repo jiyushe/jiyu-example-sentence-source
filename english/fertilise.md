@@ -1,5 +1,7 @@
 # fertilise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fertilise.md)
+
 <p><span class="chinese">成千上万的精子试图是卵细胞受精。</span><span class="english">Numerous sperm trying to to fertilise a human egg.</span></p>
 
 <p><span class="chinese">这张图片近拍了大量精子尝试给一个卵子受精的场景。</span><span class="english">Here'sa close-up of a number of sperm trying to fertilise an egg.</span></p>

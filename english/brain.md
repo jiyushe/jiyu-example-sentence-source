@@ -1,5 +1,7 @@
 # brain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brain.md)
+
 <p><span class="chinese">我的大脑？</span><span class="english">My brain?</span></p>
 
 <p><span class="chinese">用你们的脑袋。</span><span class="english">Use your brain.</span></p>

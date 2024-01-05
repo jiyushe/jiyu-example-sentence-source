@@ -1,5 +1,7 @@
 # bagatelle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bagatelle.md)
+
 <p><span class="chinese">一天，夫妻为了孩子的一件小事吵起来。</span><span class="english">One day, they argued for a bagatelle of their children.</span></p>
 
 <p><span class="chinese">一天，两个小孩子因为一点小事而打起架来。</span><span class="english">One day, two children fighted each other for bagatelle.</span></p>

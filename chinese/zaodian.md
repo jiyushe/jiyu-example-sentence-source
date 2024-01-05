@@ -1,5 +1,7 @@
 # 早点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaodian.md)
+
 <p><span class="chinese">那就早点动手吧。</span><span class="english">Do it early in the day.</span></p>
 
 <p><span class="chinese">我想早点跟她会面。</span><span class="english">Let's meet with her early.</span></p>

@@ -1,5 +1,7 @@
 # 种马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongma.md)
+
 <p><span class="chinese">请问，这里是种马场吗？</span><span class="english">Is this a stud farm?</span></p>
 
 <p><span class="chinese">斯蒂文真是一匹种马。</span><span class="english">Steve is a real stud.</span></p>

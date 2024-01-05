@@ -1,5 +1,7 @@
 # unimpeachable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unimpeachable.md)
+
 <p><span class="chinese">无可指责的品行</span><span class="english">You want people of unimpeachable character.</span></p>
 
 <p><span class="chinese">威洛比·帕忒恩是个无可指责的高尚的人。</span><span class="english">Willoughby Pattern is a man of unimpeachable honour.</span></p>

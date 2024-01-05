@@ -1,5 +1,7 @@
 # 厚积薄发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houjibofa.md)
+
 <p><span class="chinese">开元地产厚积薄发，蓄势而上。</span><span class="english">Kai Yuan Real Estate is full of life.</span></p>
 
 <p><span class="chinese">厚积薄发，描绘帝豪壮阔蓝图！</span><span class="english">Accumulating all skills, depicting imperial magnificent blueprint!</span></p>

@@ -1,5 +1,7 @@
 # presley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presley.md)
+
 <p><span class="chinese">所以猫王的Bacon数为二。</span><span class="english">So, Elvis Presley has a Bacon number of two.</span></p>
 
 <p><span class="chinese">斯巴克和JJ赢了这场挑战赛不！</span><span class="english">Sparky and J. J. Presley win the dog challenge. No!</span></p>

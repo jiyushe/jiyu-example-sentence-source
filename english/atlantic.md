@@ -1,5 +1,7 @@
 # atlantic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atlantic.md)
+
 <p><span class="chinese">他们在大西洋中作之字形前进。</span><span class="english">They zigzagged across the atlantic.</span></p>
 
 <p><span class="chinese">大西洋的任务艰巨而又危险。</span><span class="english">Atlantic duty was hard and dangerous.</span></p>

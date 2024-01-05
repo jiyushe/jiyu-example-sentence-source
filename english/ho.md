@@ -1,5 +1,7 @@
 # ho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ho.md)
+
 <p><span class="chinese">让我们使它成真，嚯！</span><span class="english">Let us make it so, HO !</span></p>
 
 <p><span class="chinese">什么是“工合”教育?。</span><span class="english">What is Gung Ho Education?</span></p>

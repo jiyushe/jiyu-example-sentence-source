@@ -1,5 +1,7 @@
 # 集合论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jihelun.md)
+
 <p><span class="chinese">札德是提出模糊集合论的第一人。</span><span class="english">Zadeh was the first who developed his Fuzzy-set Theory.</span></p>
 
 <p><span class="chinese">这个问题类似早期集合论发生的情况。</span><span class="english">The problem is akin to what happened in early set theory.</span></p>

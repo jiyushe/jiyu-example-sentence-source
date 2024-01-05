@@ -1,5 +1,7 @@
 # glucosamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glucosamine.md)
+
 <p><span class="chinese">以有效的氨基葡萄糖成份测试。</span><span class="english">Results of testing performed on active glucosamine ingredient.</span></p>
 
 <p><span class="chinese">不含有钠，稳定硫酸氨基葡萄糖。</span><span class="english">Contains sodium-free, potassium stabilized glucosamine sulfate.</span></p>

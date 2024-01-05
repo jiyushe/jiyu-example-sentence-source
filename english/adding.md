@@ -1,5 +1,7 @@
 # adding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adding.md)
+
 <p><span class="chinese">通过加一个蛋。</span><span class="english">By adding an egg.</span></p>
 
 <p><span class="chinese">关注于会增值的价值。</span><span class="english">Focused on adding value.</span></p>

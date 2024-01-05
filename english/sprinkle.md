@@ -1,5 +1,7 @@
 # sprinkle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprinkle.md)
+
 <p><span class="chinese">我们每天给草坪洒水。</span><span class="english">We sprinkle the lawn every day.</span></p>
 
 <p><span class="chinese">把沙撒在冰封的路上。</span><span class="english">Sprinkle sand along the icy path.</span></p>

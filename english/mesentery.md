@@ -1,5 +1,7 @@
 # mesentery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesentery.md)
+
 <p><span class="chinese">幼儿得了肠系膜淋巴结怎么医治呢？</span><span class="english">Did cheeper get mesentery lymph node how cure?</span></p>
 
 <p><span class="chinese">目的探讨肠及肠系膜囊性淋巴管瘤的CT表现及鉴别诊断。</span><span class="english">To explore the CT manifestation of cystic lymphangioma of intestine and mesentery.</span></p>

@@ -1,5 +1,7 @@
 # 扫帚星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saozhouxing.md)
+
 <p><span class="chinese">有人说她是扫帚星。</span><span class="english">She's said to be a jinx.</span></p>
 
 <p><span class="chinese">他每一每一喝醉，之后像扫帚星同样吐逆。</span><span class="english">He always gets drunk and then begins to vomit like a comet.</span></p>

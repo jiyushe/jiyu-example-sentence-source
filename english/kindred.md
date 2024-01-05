@@ -1,5 +1,7 @@
 # kindred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kindred.md)
+
 <p><span class="chinese">他声称跟王室有亲戚关系。</span><span class="english">He claims kindred with royalty.</span></p>
 
 <p><span class="chinese">我们才十五岁而且有着年轻的心态。</span><span class="english">We're only fifteen years old and kindred spirits.</span></p>

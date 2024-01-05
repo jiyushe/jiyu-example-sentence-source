@@ -1,5 +1,7 @@
 # 凌驾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingjia.md)
+
 <p><span class="chinese">而没人能凌驾于总统之上。</span><span class="english">but no one's above the President.</span></p>
 
 <p><span class="chinese">他凌驾于其他奔跑者。</span><span class="english">He outdistanced the other runners.</span></p>

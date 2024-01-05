@@ -1,5 +1,7 @@
 # 一脉相承
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimaixiangcheng.md)
+
 <p><span class="chinese">这种精神文脉的传达是和他一贯所秉承的艺术态度是一脉相承的。</span><span class="english">The spirit it conveys is consistent with his long-held artistic attitude.</span></p>
 
 <p><span class="chinese">加强党的先进性建设在党的历史上是一脉相承的。</span><span class="english">Reinforcing the advancement construction of the party is constant in its history.</span></p>

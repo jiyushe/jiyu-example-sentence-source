@@ -1,5 +1,7 @@
 # typification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typification.md)
+
 <p><span class="chinese">最后进行石头意象经典化的讨论。</span><span class="english">Then, it discusses the typification of the image of stone.</span></p>
 
 <p><span class="chinese">一开始，A和B都假定了这种交互作用类型。</span><span class="english">Form the beginning, both A and B assume this reciprocity of typification.</span></p>

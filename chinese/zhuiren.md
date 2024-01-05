@@ -1,5 +1,7 @@
 # 追认
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuiren.md)
+
 <p><span class="chinese">未经追认的行为，由行为人承担民事责任。</span><span class="english">If the act is not so recognized, the performer shall bear civil liability for it.</span></p>
 
 <p><span class="chinese">可通过公司常务会议的决议，对董事已进行完毕的行为予以追认。</span><span class="english">A company general meeting resolution can ratify an act previously done by the directors.</span></p>

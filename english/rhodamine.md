@@ -1,5 +1,7 @@
 # rhodamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhodamine.md)
+
 <p><span class="chinese">激发源为闪光灯泵可调谐若丹明染科雷射器。</span><span class="english">The excitation source was a flashlamp pumped rhodamine tunable dye laser.</span></p>
 
 <p><span class="chinese">以罗丹明B为原料设计合成了一系列的烷基罗丹明B酯衍生物。</span><span class="english">A series of alkyl rhodamine B esters were designed and synthesized from rhodamine B.</span></p>

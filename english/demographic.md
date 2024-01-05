@@ -1,5 +1,7 @@
 # demographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demographic.md)
+
 <p><span class="chinese">它主要针对的是16至24岁的人群。</span><span class="english">It aims for the 16-24 demographic.</span></p>
 
 <p><span class="chinese">所以这是个相当不错的人数统计。</span><span class="english">So it's a really nice demographic.</span></p>

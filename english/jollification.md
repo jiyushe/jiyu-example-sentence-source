@@ -1,5 +1,7 @@
 # jollification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jollification.md)
+
 <p><span class="chinese">我还记得童年时这个节日的热闹气氛。</span><span class="english">I can remember the jollification in my childhood on that day every year.</span></p>
 
 <p><span class="chinese">也许是早膳的味道太热闹太好。</span><span class="english">It is also good to is too probably the savor of breakfast jollification.</span></p>

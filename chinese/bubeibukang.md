@@ -1,5 +1,7 @@
 # 不卑不亢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bubeibukang.md)
+
 <p><span class="chinese">他们不卑不亢地接受了和平提议。</span><span class="english">They accepted the peace proposal with dignity.</span></p>
 
 <p><span class="chinese">她不卑不亢地接受了他们的祝贺。</span><span class="english">She accepted their congratulations with becoming modesty.</span></p>

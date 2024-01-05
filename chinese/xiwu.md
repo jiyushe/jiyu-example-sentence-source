@@ -1,5 +1,7 @@
 # 习武
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiwu.md)
+
 <p><span class="chinese">从那次我们离别后，我去了一所武校习武。</span><span class="english">From the time we left, I went to a school of martial arts.</span></p>
 
 <p><span class="chinese">扶贫济困是习武之人最基本的武德。</span><span class="english">The basic virtue of a swordsman is to help the weak and the poor.</span></p>

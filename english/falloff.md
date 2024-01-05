@@ -1,5 +1,7 @@
 # falloff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falloff.md)
+
 <p><span class="chinese">它有一个大的衰减很多开放了。</span><span class="english">It has a lot of falloff wide-open, too.</span></p>
 
 <p><span class="chinese">过关率的下降在整个州内都广泛存在。</span><span class="english">The falloff in passing rates occurred statewide.</span></p>

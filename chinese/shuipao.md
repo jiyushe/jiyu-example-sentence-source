@@ -1,5 +1,7 @@
 # 水泡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuipao.md)
+
 <p><span class="chinese">水泡一触即破。</span><span class="english">A bubble bursts at a touch.</span></p>
 
 <p><span class="chinese">Tiffany黑玛瑙佛珠水泡项链。</span><span class="english">Toggle necklace. Black onyx beads.</span></p>

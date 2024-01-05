@@ -1,5 +1,7 @@
 # 告警
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojing.md)
+
 <p><span class="chinese">正式名为“蓝色告警”或“蓝色信号”。</span><span class="english">Formerly called a "Blue Alarm" or "Blue Signal.</span></p>
 
 <p><span class="chinese">监视告警和保护脱扣功能。</span><span class="english">Monitoring alarm, and protective tripping functions.</span></p>

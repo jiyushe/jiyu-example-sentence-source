@@ -1,5 +1,7 @@
 # formerly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formerly.md)
+
 <p><span class="chinese">原名为「佳源电机股份有限公司」。</span><span class="english">Formerly known as "good source Electric Co."</span></p>
 
 <p><span class="chinese">正式名为“蓝色告警”或“蓝色信号”。</span><span class="english">Formerly called a "Blue Alarm" or "Blue Signal.</span></p>

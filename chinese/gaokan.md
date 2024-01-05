@@ -1,5 +1,7 @@
 # 高看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaokan.md)
+
 <p><span class="chinese">我们既不想被高看，也不想被看低。</span><span class="english">We neither want to be looked up to nor down upon.</span></p>
 
 <p><span class="chinese">真是个让人高看一眼的家伙啊！</span><span class="english">The men are not shy with him, and Jim is a noticing lad.</span></p>

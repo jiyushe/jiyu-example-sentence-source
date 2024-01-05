@@ -1,5 +1,7 @@
 # 平淡无奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingdanwuqi.md)
+
 <p><span class="chinese">他的风格平淡无奇。</span><span class="english">His style lacks distinction.</span></p>
 
 <p><span class="chinese">哪里适合一个穿着平淡无奇的四个孩子的妈妈住宿呢？</span><span class="english">Where did a no-frills mother of four boys fit?</span></p>

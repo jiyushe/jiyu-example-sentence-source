@@ -1,5 +1,7 @@
 # oceanography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oceanography.md)
+
 <p><span class="chinese">潮夕摩擦理论是海洋动力学的课题。</span><span class="english">The theory of tidal friction is the concern of dynamic oceanography.</span></p>
 
 <p><span class="chinese">尽管困难重重，雷西诺斯还是决心要学习海洋学。</span><span class="english">Despite the constraints, Recinos was determined to study oceanography.</span></p>

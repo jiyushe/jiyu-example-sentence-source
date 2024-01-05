@@ -1,5 +1,7 @@
 # legibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legibly.md)
+
 <p><span class="chinese">请用正楷填写此表。</span><span class="english">Please type or write legibly.</span></p>
 
 <p><span class="chinese">请仔细书写确保字迹清晰。</span><span class="english">Please write clearly and legibly.</span></p>

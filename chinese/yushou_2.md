@@ -1,5 +1,7 @@
 # 预售
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushou_2.md)
+
 <p><span class="chinese">预售票还有剩吗？</span><span class="english">Are there any advance tickets left?</span></p>
 
 <p><span class="chinese">在城里可以买预售票吗？</span><span class="english">Can one buy advance tickets in town?</span></p>

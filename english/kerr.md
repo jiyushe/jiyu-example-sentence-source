@@ -1,5 +1,7 @@
 # kerr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kerr.md)
+
 <p><span class="chinese">米兰达·可儿何许人也?</span><span class="english">Who is Miranda Kerr?</span></p>
 
 <p><span class="chinese">科尔是勇士队的教练。</span><span class="english">Steve Kerr is the coach of the Warriors.</span></p>

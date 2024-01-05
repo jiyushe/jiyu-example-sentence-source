@@ -1,5 +1,7 @@
 # statuesque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statuesque.md)
+
 <p><span class="chinese">她是一个标致的红发美人儿。</span><span class="english">She was a statuesque redheaded eyeful.</span></p>
 
 <p><span class="chinese">一个身材优雅的女性阿凡达走过来，站在他旁边。</span><span class="english">A statuesque female avatar walks up, standing over him.</span></p>

@@ -1,5 +1,7 @@
 # 下蛋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiadan.md)
+
 <p><span class="chinese">肥鸡下蛋稀。</span><span class="english">Fat hens lay few eggs.</span></p>
 
 <p><span class="chinese">不下蛋，别乱叫。</span><span class="english">Never cackle unless you lay.</span></p>

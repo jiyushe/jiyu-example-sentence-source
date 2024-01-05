@@ -1,5 +1,7 @@
 # magnetohydrodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetohydrodynamic.md)
+
 <p><span class="chinese">磁致对流效应对镍-铁合金膜成分没有明显影响。</span><span class="english">However, the composition of electrodeposited Ni-Fe film was not affected by magnetohydrodynamic effect.</span></p>
 
 <p><span class="chinese">研究有抽吸作用的可收缩薄片上的磁流体动力学粘性流动。</span><span class="english">The magnetohydrodynamic viscous flow due to a shrinking sheet in the presence of suction is concerned with.</span></p>

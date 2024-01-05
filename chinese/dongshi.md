@@ -1,5 +1,7 @@
 # 懂事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongshi.md)
+
 <p><span class="chinese">要懂事脾气好。</span><span class="english">A good temper is a must.</span></p>
 
 <p><span class="chinese">你怎么这样不懂事?</span><span class="english">How can you be so thoughtless?</span></p>

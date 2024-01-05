@@ -1,5 +1,7 @@
 # bullpen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullpen.md)
+
 <p><span class="chinese">没有任何一位救援投手在牛棚中练投。</span><span class="english">No reliever threw a pitch in the bullpen.</span></p>
 
 <p><span class="chinese">他不相信有很多人，最重要的是他的休息室。</span><span class="english">He didn't trust many people, most of all his bullpen.</span></p>

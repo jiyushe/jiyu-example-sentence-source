@@ -1,5 +1,7 @@
 # scheduler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scheduler.md)
+
 <p><span class="chinese">新的调度程序调试接口</span><span class="english">The new scheduler debugging interface</span></p>
 
 <p><span class="chinese">令牌桶又是HTPA调度器的“细胞”。</span><span class="english">TBF is also the cell of the HTPA scheduler.</span></p>

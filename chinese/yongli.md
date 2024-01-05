@@ -1,5 +1,7 @@
 # 用力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongli.md)
+
 <p><span class="chinese">你会拉伤或过度用力吗？</span><span class="english">Can you strain or over exert?</span></p>
 
 <p><span class="chinese">他用力向上推那个箱子。</span><span class="english">He pushed hard up on the box.</span></p>

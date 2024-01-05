@@ -1,5 +1,7 @@
 # skateboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skateboard.md)
+
 <p><span class="chinese">他酷爱滑板和游泳。</span><span class="english">He loves to skateboard and swim.</span></p>
 
 <p><span class="chinese">你一般去哪里玩滑板？</span><span class="english">Where do you like to skateboard?</span></p>

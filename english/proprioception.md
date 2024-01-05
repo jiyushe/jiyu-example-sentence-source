@@ -1,5 +1,7 @@
 # proprioception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proprioception.md)
+
 <p><span class="chinese">第三中感觉指本体感觉。</span><span class="english">The third sense is known as proprioception.</span></p>
 
 <p><span class="chinese">本体感受性试验是一种神经学检查。</span><span class="english">Proprioception is a kind of neurological test.</span></p>

@@ -1,5 +1,7 @@
 # 同心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxin.md)
+
 <p><span class="chinese">全体员工同心同力为你服务。</span><span class="english">All of us pull together serving for you.</span></p>
 
 <p><span class="chinese">他同心用心要把对手搞臭。</span><span class="english">He is bent on discrediting his opponent.</span></p>

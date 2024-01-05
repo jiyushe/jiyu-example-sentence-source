@@ -1,5 +1,7 @@
 # dislocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dislocation.md)
+
 <p><span class="chinese">月骨脱位。</span><span class="english">A Lunate dislocation.</span></p>
 
 <p><span class="chinese">医生能使骨折或脱臼复原。</span><span class="english">A doctor can reduce a fracture or dislocation.</span></p>

@@ -1,5 +1,7 @@
 # 倒行逆施
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoxingnishi.md)
+
 <p><span class="chinese">支付奖励的倒行逆施，我们在这个国家需要把他们的头。</span><span class="english">The perverse pay incentives we have in this country need to be turned on their head.</span></p>
 
 <p><span class="chinese">这些人的倒行逆施已经引起了中国民众的强烈愤慨。</span><span class="english">These regressive behaviors have already triggered strong indignation of the Chinese people.</span></p>

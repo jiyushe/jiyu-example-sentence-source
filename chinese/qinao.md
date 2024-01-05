@@ -1,5 +1,7 @@
 # 气恼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinao.md)
+
 <p><span class="chinese">她对这很气恼。</span><span class="english">She was in a peeve over it.</span></p>
 
 <p><span class="chinese">这使他气恼，那个入侵。</span><span class="english">It annoyed him, the invasion.</span></p>

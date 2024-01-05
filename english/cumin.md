@@ -1,5 +1,7 @@
 # cumin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cumin.md)
+
 <p><span class="chinese">烤羊肉串，油油的但挺有趣。</span><span class="english">Cumin lamb kebabs, oily but fun.</span></p>
 
 <p><span class="chinese">粉碎少数孜然或茴香种子和添加。</span><span class="english">Crush a few cumin or fennel seeds and add.</span></p>

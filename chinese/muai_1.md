@@ -1,5 +1,7 @@
 # 母爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muai_1.md)
+
 <p><span class="chinese">这也是母爱的一部分。</span><span class="english">That's part of love too.</span></p>
 
 <p><span class="chinese">我不知我为何而迷惑，但这种迷惑的感情使我顷刻明白了母爱的伟大，还有人类高尚的悲悯情怀。</span><span class="english">I do not know why I am puzzled.</span></p>

@@ -1,5 +1,7 @@
 # 本体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benti.md)
+
 <p><span class="chinese">线夹的本体和楔子为可锻铸铁，热镀锌。</span><span class="english">The body and wedge are malleable iron.</span></p>
 
 <p><span class="chinese">沥青表面的饱和分含量比本体多。</span><span class="english">More saturates exist on surface of asphalt.</span></p>

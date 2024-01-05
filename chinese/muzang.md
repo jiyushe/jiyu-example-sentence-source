@@ -1,5 +1,7 @@
 # 墓葬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muzang.md)
+
 <p><span class="chinese">墓葬东壁还有一条斜坡墓道。</span><span class="english">There is an inclined passage in the east of tomb.</span></p>
 
 <p><span class="chinese">看在耶稣基督的分上，莫要挖掘这里的墓葬。</span><span class="english">Look at Jesus Christ's sake, don't dig tombs here.</span></p>

@@ -1,5 +1,7 @@
 # 清新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxin_2.md)
+
 <p><span class="chinese">阵雨过后，空气清新。</span><span class="english">A shower settled the dust.</span></p>
 
 <p><span class="chinese">好一幅清新水彩画。</span><span class="english">Good a pure and fresh aquarelle.</span></p>

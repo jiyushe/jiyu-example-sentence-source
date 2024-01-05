@@ -1,5 +1,7 @@
 # nic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nic.md)
+
 <p><span class="chinese">感谢神给我在小小天使和新民中心的“训练”！</span><span class="english">I thank God for the "training" I had in LLA and NIC.</span></p>
 
 <p><span class="chinese">分析显示溶液中有几格令的砷。</span><span class="english">The analysis showed a few grains of arse nic in the solution.</span></p>

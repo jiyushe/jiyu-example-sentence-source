@@ -1,5 +1,7 @@
 # rotational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotational.md)
+
 <p><span class="chinese">转动能量很小。</span><span class="english">Rotational energies are small.</span></p>
 
 <p><span class="chinese">下周我们将更多地探讨轮牧。</span><span class="english">We willtalkmore rotational grazing next week.</span></p>

@@ -1,5 +1,7 @@
 # pedlar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedlar.md)
+
 <p><span class="chinese">他们逮捕了这个小贩。</span><span class="english">They arrested the pedlar.</span></p>
 
 <p><span class="chinese">那个小商贩骗了我们的钱。</span><span class="english">The pedlar sponged money off us.</span></p>

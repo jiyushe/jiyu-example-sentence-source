@@ -1,5 +1,7 @@
 # permissible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permissible.md)
+
 <p><span class="chinese">这是不允许的。</span><span class="english">This is not permissible.</span></p>
 
 <p><span class="chinese">然而，这是允许的。</span><span class="english">And yet that is permissible.</span></p>

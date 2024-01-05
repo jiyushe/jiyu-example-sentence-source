@@ -1,5 +1,7 @@
 # 专线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanxian.md)
+
 <p><span class="chinese">孙先生有他的专线。</span><span class="english">Mr. Sun has his own phone.</span></p>
 
 <p><span class="chinese">还有，你们乘专线游览车观光了吗？</span><span class="english">And have you taken a bus tour?</span></p>

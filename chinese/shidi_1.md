@@ -1,5 +1,7 @@
 # 实地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidi_1.md)
+
 <p><span class="chinese">你们今日还能实地到访。</span><span class="english">You can visit it today.</span></p>
 
 <p><span class="chinese">真真实实地永远活在我们当中。</span><span class="english">He truly lives forever now for us.</span></p>

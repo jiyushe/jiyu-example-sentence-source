@@ -1,5 +1,7 @@
 # 渗入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenru_1.md)
+
 <p><span class="chinese">这可能渗入我每天的歌里。</span><span class="english">May filter in my dally songs.</span></p>
 
 <p><span class="chinese">这个倾向会渗入到招聘中。</span><span class="english">This tendency seeps into hiring.</span></p>

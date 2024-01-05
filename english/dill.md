@@ -1,5 +1,7 @@
 # dill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dill.md)
+
 <p><span class="chinese">烤，烘或加香料水煮。</span><span class="english">Broil, bake or poach it with dill</span></p>
 
 <p><span class="chinese">加小茴香的鸡蛋是传统的仲夏节食品。</span><span class="english">Eggs with dill are a traditional Midsummer food.</span></p>

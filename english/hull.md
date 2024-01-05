@@ -1,5 +1,7 @@
 # hull
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hull.md)
+
 <p><span class="chinese">借壳福田已经是个老话题。</span><span class="english">Fukuda had a old lend hull.</span></p>
 
 <p><span class="chinese">蓝色船壳的那条。</span><span class="english">The one with the blue hull.</span></p>

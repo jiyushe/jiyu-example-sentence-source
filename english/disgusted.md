@@ -1,5 +1,7 @@
 # disgusted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disgusted.md)
+
 <p><span class="chinese">你感到一阵恶心。</span><span class="english">You're disgusted.</span></p>
 
 <p><span class="chinese">你真令我恶心！</span><span class="english">I'm disgusted with you!</span></p>

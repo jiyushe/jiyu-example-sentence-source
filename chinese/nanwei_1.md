@@ -1,5 +1,7 @@
 # 难为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanwei_1.md)
+
 <p><span class="chinese">这真是难为了老父。</span><span class="english">It was so hard for my dad.</span></p>
 
 <p><span class="chinese">别难为人了，还是把钱借给我们吧。</span><span class="english">Don't be difficult, just lend us the money.</span></p>

@@ -1,5 +1,7 @@
 # interment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interment.md)
+
 <p><span class="chinese">我喜欢拥抱我的爱一个人和安葬的时刻。</span><span class="english">I enjoy cuddling with my love one and interment moments.</span></p>
 
 <p><span class="chinese">请限制配售不超过百分之三土葬空间。</span><span class="english">Please limit placements to no more than three per interment space.</span></p>

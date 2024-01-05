@@ -1,5 +1,7 @@
 # 欢声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huansheng.md)
+
 <p><span class="chinese">但是光线，欢声，气流随处都是，比例和谐舒服。</span><span class="english">But light, cheer, air, and comfortable proportions are everyplace.</span></p>
 
 <p><span class="chinese">耳畔时时飞进欢声徜徜，悄声呢呢清笑朗朗。</span><span class="english">The ears often fly into laughter was about, whispered. It clear laughter ringing.</span></p>

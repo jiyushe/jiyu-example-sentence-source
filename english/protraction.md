@@ -1,5 +1,7 @@
 # protraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protraction.md)
+
 <p><span class="chinese">我们看到冲突已经造成了利比亚石油短缺的进一步升级。</span><span class="english">We see the conflict leading to a protraction of Libya’s oil shortages.</span></p>
 
 <p><span class="chinese">该方法能有效防止系统的时钟周期因意外的原因伸长或缩短。</span><span class="english">This method effectively prevents protraction of shorten of system clock.</span></p>

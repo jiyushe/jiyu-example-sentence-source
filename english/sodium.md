@@ -1,5 +1,7 @@
 # sodium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sodium.md)
+
 <p><span class="chinese">所以，这是钠离子。</span><span class="english">So, here's sodium.</span></p>
 
 <p><span class="chinese">钠离子是带正电的。</span><span class="english">Sodium is net positive.</span></p>

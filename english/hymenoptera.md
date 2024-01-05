@@ -1,5 +1,7 @@
 # hymenoptera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hymenoptera.md)
+
 <p><span class="chinese">这是第一次演示中的串行社会蜂交配。</span><span class="english">This is the first demonstration of serial mating among social hymenoptera.</span></p>
 
 <p><span class="chinese">这些昆虫属于膜翅目，其中包括黄蜂和蜜蜂。</span><span class="english">These insects belong to the order Hymenoptera , which includes wasps and bees.</span></p>

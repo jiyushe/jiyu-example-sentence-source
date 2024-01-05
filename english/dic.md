@@ -1,5 +1,7 @@
 # dic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dic.md)
+
 <p><span class="chinese">黑石和DIC拒绝置评.</span><span class="english">Blackstone and DIC declined to comment.</span></p>
 
 <p><span class="chinese">迪克总是试图在最后时刻才做工作。</span><span class="english">Dic always trys to do his work at the last opportunity.</span></p>

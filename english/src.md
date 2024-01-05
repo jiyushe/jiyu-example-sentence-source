@@ -1,5 +1,7 @@
 # src
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/src.md)
+
 <p><span class="chinese">所以，目前对桁架式SRC构件的研究很少。</span><span class="english">As a result, the researches on Truss Type SRC members is fewer.</span></p>
 
 <p><span class="chinese">文中还论证了节点箍筋的作用和锚板锚固性能。</span><span class="english">The effect of stirrups and plates on SRC joint has also been discussed.</span></p>

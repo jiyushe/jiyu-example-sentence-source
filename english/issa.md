@@ -1,5 +1,7 @@
 # issa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/issa.md)
+
 <p><span class="chinese">在晚祷期间，以撒的痛苦来到了终结。</span><span class="english">At Vespers, The Agony Of Issa Came To An End.</span></p>
 
 <p><span class="chinese">卢伊萨劝母亲为了这个家要刚强面对。</span><span class="english">Lou issa advised mother to the home be strong face.</span></p>

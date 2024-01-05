@@ -1,5 +1,7 @@
 # extenuate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extenuate.md)
+
 <p><span class="chinese">我们不能减轻你的罪。</span><span class="english">We cannot extenuate your crime.</span></p>
 
 <p><span class="chinese">他的罪责无法减轻。</span><span class="english">Nothing can extenuate his crime.</span></p>

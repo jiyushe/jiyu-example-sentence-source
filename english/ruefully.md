@@ -1,5 +1,7 @@
 # ruefully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruefully.md)
+
 <p><span class="chinese">他说，目前，“他们只想到这里来买假货”。</span><span class="english">At present, "they want the knockoffs , " he said ruefully.</span></p>
 
 <p><span class="chinese">这么快就撞上金牌未免太简单了，他遗憾地告诉自己。</span><span class="english">Hitting gold so fast would have been too easy, he told himself ruefully.</span></p>

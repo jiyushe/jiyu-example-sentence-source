@@ -1,5 +1,7 @@
 # 股权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guquan.md)
+
 <p><span class="chinese">第一,股权偏好</span><span class="english">First, in terms of equity bias.</span></p>
 
 <p><span class="chinese">是股权投资的收益性。</span><span class="english">The yield of equity investment.</span></p>

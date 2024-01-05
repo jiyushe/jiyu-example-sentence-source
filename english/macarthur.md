@@ -1,5 +1,7 @@
 # macarthur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macarthur.md)
+
 <p><span class="chinese">麦克阿瑟将军皱着眉头。</span><span class="english">General Macarthur runzelte die Stirn.</span></p>
 
 <p><span class="chinese">麦克阿瑟将军拍着她的肩膀。</span><span class="english">General Macarthur klopfte ihr auf die Schulter.</span></p>

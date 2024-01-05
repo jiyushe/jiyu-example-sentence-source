@@ -1,5 +1,7 @@
 # redden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redden.md)
+
 <p><span class="chinese">它们染红了群山。</span><span class="english">They redden the hills now.</span></p>
 
 <p><span class="chinese">同您谈话很愉快。</span><span class="english">I saw him redden with pleasure.</span></p>

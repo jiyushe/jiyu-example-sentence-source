@@ -1,5 +1,7 @@
 # blueness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blueness.md)
+
 <p><span class="chinese">但是再过一至两个星期的时间，蓝色会渐渐的出现。</span><span class="english">And after a further one to three weeks the blueness appears.</span></p>
 
 <p><span class="chinese">宝宝的屁股和腰部之间为什么总是青的?。</span><span class="english">Why blueness always is between the buttock of darling and waist?</span></p>

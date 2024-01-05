@@ -1,5 +1,7 @@
 # unbranded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbranded.md)
+
 <p><span class="chinese">这个法令保护公共土地的所有野生马与毛驴免遭捕获。</span><span class="english">The Act protects all unbranded horses and burros on public lands from capture.</span></p>
 
 <p><span class="chinese">但是，这也给那些经营非品牌产品的商家带来竞争优势。</span><span class="english">However, this gives competitive advantage to those who sell unbranded products.</span></p>

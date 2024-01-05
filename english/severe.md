@@ -1,5 +1,7 @@
 # severe 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/severe.md)
+
 <p><span class="chinese">突然出现剧烈的头痛。</span><span class="english">Sudden, severe headaches.</span></p>
 
 <p><span class="chinese">我的肌肉痛得厉害。</span><span class="english">I have severe muscle pain.</span></p>

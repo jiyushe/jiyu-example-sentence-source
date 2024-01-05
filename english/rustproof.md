@@ -1,5 +1,7 @@
 # rustproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rustproof.md)
+
 <p><span class="chinese">汽车有防锈的外层。</span><span class="english">The car has a rustproof coating.</span></p>
 
 <p><span class="chinese">防锈金属花边硬件的寿命和耐用性。</span><span class="english">Rustproof metal lace hardware for longevity and durability.</span></p>

@@ -1,5 +1,7 @@
 # polytheistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polytheistic.md)
+
 <p><span class="chinese">然而道教同时也是一种信仰众多神灵的宗教。</span><span class="english">At the same time, Daoism is a polytheistic religion.</span></p>
 
 <p><span class="chinese">多神教的社会鼓励那种万物有灵的思想。</span><span class="english">Polytheistic societies encourage the worship of deities.</span></p>

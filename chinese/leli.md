@@ -1,5 +1,7 @@
 # 乐理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leli.md)
+
 <p><span class="chinese">从乐理上说八个更合适一些</span><span class="english">Better say eight in music.</span></p>
 
 <p><span class="chinese">今天去考乐理考试了。</span><span class="english">I went for my AMusTCL exam today.</span></p>

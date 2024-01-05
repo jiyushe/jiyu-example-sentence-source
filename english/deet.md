@@ -1,5 +1,7 @@
 # deet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deet.md)
+
 <p><span class="chinese">雄性和雌性蚊子都对喷洒DEET的区域避而远之。</span><span class="english">Both male and female mosquitoes stayed away from the DEET areas.</span></p>
 
 <p><span class="chinese">但是，将DEET涂抹在手腕上，预防叮咬的时间仅为12至18秒。</span><span class="english">However, DEET on a wrist band prevented bites for only 12 to 18 seconds.</span></p>

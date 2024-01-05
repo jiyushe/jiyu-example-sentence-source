@@ -1,5 +1,7 @@
 # 音响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxiang_2.md)
+
 <p><span class="chinese">比如,我有一个立体声音响</span><span class="english">I've got a stereo.</span></p>
 
 <p><span class="chinese">还记得音响的例子吗</span><span class="english">Remember my stereo?</span></p>

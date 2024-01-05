@@ -1,5 +1,7 @@
 # nef
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nef.md)
+
 <p><span class="chinese">娜菲喜欢蓝色。</span><span class="english">Nef likes blue.</span></p>
 
 <p><span class="chinese">新经济基金会发现岛国的人享有更高的快乐指数排名。</span><span class="english">The NEF found that people from island nations enjoy the highest HPI rankings.</span></p>

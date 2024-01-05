@@ -1,5 +1,7 @@
 # predate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predate.md)
+
 <p><span class="chinese">智利和以色列的抗议也是美国的运动提前了。</span><span class="english">The Chilean and Israeli protests also predate the US campaign.</span></p>
 
 <p><span class="chinese">图表中显现的长期总体趋势远早于金融危机。</span><span class="english">The chart shows that the overall trends long predate the financial crisis.</span></p>

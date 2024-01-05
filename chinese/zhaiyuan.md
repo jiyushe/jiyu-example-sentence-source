@@ -1,5 +1,7 @@
 # 宅院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaiyuan.md)
+
 <p><span class="chinese">这些宅院都有自己独特鲜活的生命。</span><span class="english">These houses has its own unique living life.</span></p>
 
 <p><span class="chinese">你看着梨弥蕤界宅院未来的拥有者。</span><span class="english">You are looking at the future owner of Limmeridge House.</span></p>

@@ -1,5 +1,7 @@
 # 血库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueku.md)
+
 <p><span class="chinese">此套票优惠只适用于康盛人生脐带血库客户。</span><span class="english">This offer is applicable for CordLife clients only.</span></p>
 
 <p><span class="chinese">回溯是现在在血库界广泛使用的术语。</span><span class="english">Lookback is a term now widely used in blood banking circles.</span></p>

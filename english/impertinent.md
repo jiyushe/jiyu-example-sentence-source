@@ -1,5 +1,7 @@
 # impertinent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impertinent.md)
+
 <p><span class="chinese">他是个不懂礼貌的家伙。</span><span class="english">He is an impertinent young guy.</span></p>
 
 <p><span class="chinese">那家伙真是个傲慢无礼的笨蛋。</span><span class="english">What an impertinent idiot that man is!</span></p>

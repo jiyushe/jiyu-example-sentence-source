@@ -1,5 +1,7 @@
 # goods 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goods_1.md)
+
 <p><span class="chinese">所有货物都加盖了检验合格封印。</span><span class="english">All goods were sealed.</span></p>
 
 <p><span class="chinese">商品或全部跌停。</span><span class="english">All the goods or limit.</span></p>

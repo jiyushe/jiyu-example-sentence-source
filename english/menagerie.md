@@ -1,5 +1,7 @@
 # menagerie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menagerie.md)
+
 <p><span class="chinese">该办公室乃是自私者与谄媚者汇集之处。</span><span class="english">The office is a menagerie of egotists and sycophants.</span></p>
 
 <p><span class="chinese">打过高尒夫毬之后，穿羊毛衣的狼歇在动物园里的工具登上。</span><span class="english">Having played golf, the wolf in wool rested on the tool stool in the menagerie.</span></p>

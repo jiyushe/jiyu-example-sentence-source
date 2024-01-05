@@ -1,5 +1,7 @@
 # commuter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commuter.md)
+
 <p><span class="chinese">上班族是天下最怪异的人。</span><span class="english">The commuter is the queerest bird of all.</span></p>
 
 <p><span class="chinese">那正是你所期待的通勤车。</span><span class="english">That's exactly what you want to hear about a commuter car.</span></p>

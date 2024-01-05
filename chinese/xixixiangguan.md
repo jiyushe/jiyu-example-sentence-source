@@ -1,5 +1,7 @@
 # 息息相关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixixiangguan.md)
+
 <p><span class="chinese">也都是与金钱息息相关。</span><span class="english">And it's all about money.</span></p>
 
 <p><span class="chinese">他们是你的生活息息相关。</span><span class="english">They are a life-support system.</span></p>

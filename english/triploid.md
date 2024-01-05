@@ -1,5 +1,7 @@
 # triploid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triploid.md)
+
 <p><span class="chinese">人类的三倍体胎儿通常会自然流产。</span><span class="english">Human triploid fetuses are usually spontaneously aborted.</span></p>
 
 <p><span class="chinese">另外还发现三倍体及非整倍体细胞的存在。</span><span class="english">In addition, triploid and aneuploid cells were also observed in some variants.</span></p>

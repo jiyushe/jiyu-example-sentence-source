@@ -1,5 +1,7 @@
 # silo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silo.md)
+
 <p><span class="chinese">检查门在筒仓屋顶。</span><span class="english">Inspection door on silo roof.</span></p>
 
 <p><span class="chinese">SOA会导致“筒仓服务”吗？</span><span class="english">Will SOA lead to "silo services"?</span></p>

@@ -1,5 +1,7 @@
 # presently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presently.md)
+
 <p><span class="chinese">俄顷雨止。</span><span class="english">Presently the rain let up.</span></p>
 
 <p><span class="chinese">俄而日出。</span><span class="english">Presently the sun emerged.</span></p>

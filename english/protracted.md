@@ -1,5 +1,7 @@
 # protracted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protracted.md)
+
 <p><span class="chinese">但设立军事热线是一个漫长而拖沓的进程。</span><span class="english">But setting it up was a long and protracted process.</span></p>
 
 <p><span class="chinese">专家表明任何一方都想拖延冲突。</span><span class="english">Experts suggest neither side wants a protracted conflict.</span></p>

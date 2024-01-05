@@ -1,5 +1,7 @@
 # semester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semester.md)
+
 <p><span class="chinese">我是百变小樱。</span><span class="english">Next semester I change myself.</span></p>
 
 <p><span class="chinese">不过我没赶上这班，所以这学期才上。</span><span class="english">So I’m taking it this semester.</span></p>

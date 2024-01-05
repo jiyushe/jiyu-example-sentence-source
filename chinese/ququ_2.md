@@ -1,5 +1,7 @@
 # 曲曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ququ_2.md)
+
 <p><span class="chinese">一池秋波，碎了曲曲柔肠！</span><span class="english">A pool of Akinami, broken after another Rouchang!</span></p>
 
 <p><span class="chinese">曲曲虽说赌博损失了不少，可还是有感恩之心啊！</span><span class="english">Dance music while gambling losses, but still have a lot of gratitude!</span></p>

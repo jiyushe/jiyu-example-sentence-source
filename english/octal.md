@@ -1,5 +1,7 @@
 # octal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octal.md)
+
 <p><span class="chinese">八进制数？</span><span class="english">Octal Digit?</span></p>
 
 <p><span class="chinese">需要八进制插座。</span><span class="english">Requires octal socket.</span></p>

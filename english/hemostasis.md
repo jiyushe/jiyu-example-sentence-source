@@ -1,5 +1,7 @@
 # hemostasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemostasis.md)
+
 <p><span class="chinese">具有一定的止血作用。</span><span class="english">It has some function of hemostasis.</span></p>
 
 <p><span class="chinese">血小板在止血中起主要作用。</span><span class="english">Platelets have a major role in hemostasis.</span></p>

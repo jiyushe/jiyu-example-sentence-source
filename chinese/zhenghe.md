@@ -1,5 +1,7 @@
 # 整合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenghe.md)
+
 <p><span class="chinese">重唱是整合歌剧主题的纽带。</span><span class="english">He was the pivot of the opera.</span></p>
 
 <p><span class="chinese">它已成为一种整合的象征。</span><span class="english">It has become a symbol of conformity.</span></p>

@@ -1,5 +1,7 @@
 # 药粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaofen.md)
+
 <p><span class="chinese">她吃了点止头痛药粉。</span><span class="english">She took some headache powder.</span></p>
 
 <p><span class="chinese">他把药粉溶解于水中。</span><span class="english">He dissolved the powder in water.</span></p>

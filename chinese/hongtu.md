@@ -1,5 +1,7 @@
 # 红土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongtu.md)
+
 <p><span class="chinese">玄武岩红土壳具帝状结构。</span><span class="english">Lateritic crust of basalts is of zonal texture.</span></p>
 
 <p><span class="chinese">NO2在黄土和红土表面的非均相反应均为一级反应。</span><span class="english">NO2 uptake on loess and laterite is first order.</span></p>

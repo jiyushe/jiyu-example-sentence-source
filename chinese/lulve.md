@@ -1,5 +1,7 @@
 # 掳掠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lulve.md)
+
 <p><span class="chinese">我们的妻子和孩子必被掳掠！</span><span class="english">Our wives and children will be carried off!</span></p>
 
 <p><span class="chinese">敌兵将鸡和羊掳掠一空。</span><span class="english">The enemy soldiers liberated chickens and sheep.</span></p>

@@ -1,5 +1,7 @@
 # earnestly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earnestly.md)
+
 <p><span class="chinese">他一脸虔诚地望着我。</span><span class="english">He looked at me earnestly.</span></p>
 
 <p><span class="chinese">我恳切地请求你原谅。</span><span class="english">I earnestly pray for your pardon.</span></p>

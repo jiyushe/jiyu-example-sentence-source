@@ -1,5 +1,7 @@
 # zunyi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zunyi.md)
+
 <p><span class="chinese">他们正往遵义行进。</span><span class="english">They were headed for Zunyi.</span></p>
 
 <p><span class="chinese">这是遵义的汇川体育馆。</span><span class="english">This is the Zunyi Kymmene Stadium.</span></p>

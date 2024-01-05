@@ -1,5 +1,7 @@
 # 谬误
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miuwu.md)
+
 <p><span class="chinese">人都有纰缪谬误。</span><span class="english">Every man has hellos faults.</span></p>
 
 <p><span class="chinese">正确走向极端即成谬误。</span><span class="english">Extreme right is extreme wrong.</span></p>

@@ -1,5 +1,7 @@
 # quandary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quandary.md)
+
 <p><span class="chinese">但是窘境也出现了。</span><span class="english">But here’s the quandary.</span></p>
 
 <p><span class="chinese">对大多数开发人员来说，该陷阱会引起困惑。</span><span class="english">This pitfall causes a quandary for most developers.</span></p>

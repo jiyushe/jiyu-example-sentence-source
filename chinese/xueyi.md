@@ -1,5 +1,7 @@
 # 学艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueyi.md)
+
 <p><span class="chinese">我来这儿学艺啊。</span><span class="english">I'm learning a trade here.</span></p>
 
 <p><span class="chinese">他的父亲使他向木匠拜师学艺。</span><span class="english">His father apprenticed him to a carpenter.</span></p>

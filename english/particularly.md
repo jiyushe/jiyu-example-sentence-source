@@ -1,5 +1,7 @@
 # particularly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/particularly.md)
+
 <p><span class="chinese">狮子给我的印象尤深。</span><span class="english">Particularly lions.</span></p>
 
 <p><span class="chinese">尤其是阿尔及利亚人？</span><span class="english">Particularly Algerians?</span></p>

@@ -1,5 +1,7 @@
 # generatrix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generatrix.md)
+
 <p><span class="chinese">主接线采用单母线放射式接线方案。</span><span class="english">The main wiring uses the single generatrix emanant wiring plan.</span></p>
 
 <p><span class="chinese">房屋的动线好，家居活动就显得流畅。</span><span class="english">The house generatrix is good, lives at the activity appears smooth.</span></p>

@@ -1,5 +1,7 @@
 # vast 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vast.md)
+
 <p><span class="chinese">领域广大。</span><span class="english">The domain is vast.</span></p>
 
 <p><span class="chinese">十亿元是一笔巨款。</span><span class="english">It is a vast desert.</span></p>

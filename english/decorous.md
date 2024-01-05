@@ -1,5 +1,7 @@
 # decorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decorous.md)
+
 <p><span class="chinese">感到或装作适当的悲伤。</span><span class="english">To feel, or feign, decorous woe.</span></p>
 
 <p><span class="chinese">是一种非常礼貌且高雅的语言。</span><span class="english">It's a very mannered, decorous language.</span></p>

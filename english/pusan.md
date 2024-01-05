@@ -1,5 +1,7 @@
 # pusan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pusan.md)
+
 <p><span class="chinese">刚刚首映釜山的获奖电影！</span><span class="english">A freshly premiered and awarded Pusan film!</span></p>
 
 <p><span class="chinese">港龙航空公司来回香港至釜山机票。</span><span class="english">Roundtrip Economy class air ticket for Hong Kong and Pusan on KA.</span></p>

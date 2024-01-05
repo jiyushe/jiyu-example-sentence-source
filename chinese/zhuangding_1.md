@@ -1,5 +1,7 @@
 # 装订
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangding_1.md)
+
 <p><span class="chinese">书在装订中。</span><span class="english">The books were binding.</span></p>
 
 <p><span class="chinese">选择装订的位置。</span><span class="english">Select the stapling position.</span></p>

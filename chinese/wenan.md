@@ -1,5 +1,7 @@
 # 文案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenan.md)
+
 <p><span class="chinese">负责日常文案的写作、文字校对。</span><span class="english">In charge of paper work and text proofreading.</span></p>
 
 <p><span class="chinese">现在已经不用羊皮纸书写文案了。</span><span class="english">Official documents are no longer written on lambskin.</span></p>

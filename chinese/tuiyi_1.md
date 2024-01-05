@@ -1,5 +1,7 @@
 # 退役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiyi_1.md)
+
 <p><span class="chinese">他已经从部队退役。</span><span class="english">He has retired from the army.</span></p>
 
 <p><span class="chinese">他因伤病而被迫退役了。</span><span class="english">He was invalided out of the army.</span></p>

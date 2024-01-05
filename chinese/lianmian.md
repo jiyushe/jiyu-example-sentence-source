@@ -1,5 +1,7 @@
 # 脸面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianmian.md)
+
 <p><span class="chinese">我倒要看你怎么有脸面对她。</span><span class="english">I'll see if you have the effrontery to face her.</span></p>
 
 <p><span class="chinese">染上艾滋命归天，还要家人没脸面。</span><span class="english">HIV Death life, but also did not face his family.</span></p>

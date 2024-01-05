@@ -1,5 +1,7 @@
 # 目不暇接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mubuxiajie.md)
+
 <p><span class="chinese">这会儿我真是有点目不暇接了。</span><span class="english">At the moment I'm a little overwhelmed.</span></p>
 
 <p><span class="chinese">先不说其它，自己周围的变化便令人目不暇接了。</span><span class="english">Do not say other, their surrounding changes dizzying.</span></p>

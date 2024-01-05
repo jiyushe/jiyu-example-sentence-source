@@ -1,5 +1,7 @@
 # consul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consul.md)
+
 <p><span class="chinese">我们将会感受到与那个执政官相同的恐惧。</span><span class="english">We will have felt the same fear in that consul.</span></p>
 
 <p><span class="chinese">平克顿和领事敲门进来。</span><span class="english">Pinkerton and the Consul knock at the door and enter.</span></p>

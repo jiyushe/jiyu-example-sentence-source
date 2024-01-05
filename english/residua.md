@@ -1,5 +1,7 @@
 # residua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/residua.md)
+
 <p><span class="chinese">制革废水中的污染物源于材料的残余。</span><span class="english">Chemicals residua in this waste water is a pollution source.</span></p>
 
 <p><span class="chinese">采用气相色谱分析铁灭克在柑桔上的残留动态。</span><span class="english">Residua of Temik in orange were detected by gas chromatography.</span></p>

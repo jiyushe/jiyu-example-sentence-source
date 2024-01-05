@@ -1,5 +1,7 @@
 # malt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malt.md)
+
 <p><span class="chinese">文火熬出麦芽糖。</span><span class="english">A soft fire make sweet malt.</span></p>
 
 <p><span class="chinese">那是蟒蛇牌麦芽酒吗？</span><span class="english">Is that Anaconda Malt Liquor ?</span></p>

@@ -1,5 +1,7 @@
 # shimmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shimmer.md)
+
 <p><span class="chinese">透过狂风的呼啸和怒吼。</span><span class="english">Through gale's whistling and shimmer.</span></p>
 
 <p><span class="chinese">丰富的苔藓绿带铜色光芒。</span><span class="english">Rich moss green with a bronze shimmer.</span></p>

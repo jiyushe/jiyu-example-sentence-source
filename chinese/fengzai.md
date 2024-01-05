@@ -1,5 +1,7 @@
 # 风灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengzai.md)
+
 <p><span class="chinese">风灾之中，我失去很多朋友和认识的人。</span><span class="english">I have lost many friends and people I know in Nargis.</span></p>
 
 <p><span class="chinese">防风林不仅可以保护土地和农作物免受风灾。</span><span class="english">Windbreaks not only protect land and crops from the wind.</span></p>

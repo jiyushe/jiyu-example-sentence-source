@@ -1,5 +1,7 @@
 # 干草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gancao.md)
+
 <p><span class="chinese">奶牛以干草为生。</span><span class="english">Cows feed on hay.</span></p>
 
 <p><span class="chinese">他在用大车运干草。</span><span class="english">He is carting hay.</span></p>

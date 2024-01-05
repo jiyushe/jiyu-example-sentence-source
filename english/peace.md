@@ -1,5 +1,7 @@
 # peace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peace.md)
+
 <p><span class="chinese">愿世界享太平！</span><span class="english">Peace on earth!</span></p>
 
 <p><span class="chinese">他们反对和平。</span><span class="english">They oppose peace.</span></p>

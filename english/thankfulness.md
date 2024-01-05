@@ -1,5 +1,7 @@
 # thankfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thankfulness.md)
+
 <p><span class="chinese">感恩和赞美。</span><span class="english">Thankfulness and praise.</span></p>
 
 <p><span class="chinese">这故事讲述的不仅仅是感激之情。</span><span class="english">The story speaks of more than thankfulness.</span></p>

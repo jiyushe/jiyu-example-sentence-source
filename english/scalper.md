@@ -1,5 +1,7 @@
 # scalper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scalper.md)
+
 <p><span class="chinese">新晃黄牛肉一定要带点回来。</span><span class="english">Don't forget to take Xinhuang dry scalper beef home.</span></p>
 
 <p><span class="chinese">一个票贩子卖给我们的票正好靠近球场的边缘。</span><span class="english">A scalper sold us tickets for seats right at near the courtside.</span></p>

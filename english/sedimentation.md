@@ -1,5 +1,7 @@
 # sedimentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sedimentation.md)
+
 <p><span class="chinese">苔藓植物对酸沉降的反应较为敏感。</span><span class="english">Bryophyte is sensitive to acid sedimentation.</span></p>
 
 <p><span class="chinese">保证引起在底部的所有沉积作用。</span><span class="english">Make sure to stir up all the sedimentation on the bottom.</span></p>

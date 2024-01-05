@@ -1,5 +1,7 @@
 # 文火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhuo.md)
+
 <p><span class="chinese">文火熬出麦芽糖。</span><span class="english">A soft fire make sweet malt.</span></p>
 
 <p><span class="chinese">现在这肉需要文火。</span><span class="english">The meat needs soft fire now.</span></p>

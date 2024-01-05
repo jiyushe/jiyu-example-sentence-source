@@ -1,5 +1,7 @@
 # hemispherical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemispherical.md)
+
 <p><span class="chinese">小孔端面成半球状。</span><span class="english">The end of the hole is hemispherical.</span></p>
 
 <p><span class="chinese">半球形的烈士墓在纪念堂后山坡。</span><span class="english">Hemispherical martyr grave is on the back hillside of the memorial.</span></p>

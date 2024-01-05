@@ -1,5 +1,7 @@
 # prosody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosody.md)
+
 <p><span class="chinese">一种由重音-重音-非重音组成的韵律音节单位。</span><span class="english">Stressed or accented. Used of a syllable in accentual prosody.</span></p>
 
 <p><span class="chinese">首先描述了韵律生成的相关模型。</span><span class="english">First, it described three models related to prosody generation.</span></p>

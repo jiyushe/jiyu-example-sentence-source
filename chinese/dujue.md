@@ -1,5 +1,7 @@
 # 杜绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dujue.md)
+
 <p><span class="chinese">如果你这么干，你也许就可以杜绝盗版了。</span><span class="english">If you did that, you’d kill piracy. Probably.</span></p>
 
 <p><span class="chinese">紧凑是一组用于杜绝浪费的原则。</span><span class="english">Lean is a set of principles to eliminate waste.</span></p>

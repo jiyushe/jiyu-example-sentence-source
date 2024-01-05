@@ -1,5 +1,7 @@
 # 老龄化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laolinghua.md)
+
 <p><span class="chinese">衡阳市已进入老龄化社会。</span><span class="english">Hengyang city has gone into an aging society.</span></p>
 
 <p><span class="chinese">到下世纪初韩国人口老龄化进程将进一步加快。</span><span class="english">The aging trend will quicken in the next century.</span></p>

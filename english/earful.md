@@ -1,5 +1,7 @@
 # earful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earful.md)
+
 <p><span class="chinese">如果他再来烦扰你，我将会给他一顿训斥。</span><span class="english">If he bothers you again, I will give him an earful.</span></p>
 
 <p><span class="chinese">他滔滔不绝向我抱怨他的新老板。</span><span class="english">He gave me an earful of complaints about his new boss.</span></p>

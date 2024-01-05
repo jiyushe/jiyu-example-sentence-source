@@ -1,5 +1,7 @@
 # fetal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fetal.md)
+
 <p><span class="chinese">胎儿监护仪？</span><span class="english">A fetal monitor?</span></p>
 
 <p><span class="chinese">这些是胎儿的耳骨。</span><span class="english">These are fetal ear bones.</span></p>

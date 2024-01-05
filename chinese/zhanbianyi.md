@@ -1,5 +1,7 @@
 # 占便宜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanbianyi.md)
+
 <p><span class="chinese">有钱人有没有占便宜？</span><span class="english">Do the wealthy have a head start?</span></p>
 
 <p><span class="chinese">我可不愿白吃白喝别人。我那种爱占便宜的人。</span><span class="english">I wouldn't freeload . I'm not a freeloader.</span></p>

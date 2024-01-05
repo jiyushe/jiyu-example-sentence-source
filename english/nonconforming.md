@@ -1,5 +1,7 @@
 # nonconforming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonconforming.md)
+
 <p><span class="chinese">不合格物项的标记和隔离。</span><span class="english">Identification and quarantine of nonconforming items.</span></p>
 
 <p><span class="chinese">确保所有可疑和不合格产品都得到遏制。</span><span class="english">Assures all suspect and nonconforming product is contained.</span></p>

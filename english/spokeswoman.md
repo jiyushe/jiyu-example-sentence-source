@@ -1,5 +1,7 @@
 # spokeswoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spokeswoman.md)
+
 <p><span class="chinese">FTC的一名发言人拒绝置评。</span><span class="english">A spokeswoman for the FTC declined to comment.</span></p>
 
 <p><span class="chinese">公司女发言人卡罗琳彭纳说。</span><span class="english">PDT, " company spokeswoman Carolyn Penner said.</span></p>

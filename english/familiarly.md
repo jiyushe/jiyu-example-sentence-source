@@ -1,5 +1,7 @@
 # familiarly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/familiarly.md)
+
 <p><span class="chinese">我姑姑全家对我们很热情。</span><span class="english">My aunt's family treated us with familiarly.</span></p>
 
 <p><span class="chinese">一对驯鹿无拘无束地在室内跑来跑去。</span><span class="english">A brace of tame deer ran familiarly about the house.</span></p>

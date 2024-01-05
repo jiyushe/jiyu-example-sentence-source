@@ -1,5 +1,7 @@
 # causality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/causality.md)
+
 <p><span class="chinese">你解决偶然的因素。</span><span class="english">You cannot resolve causality.</span></p>
 
 <p><span class="chinese">天理因果是最高的法律。</span><span class="english">Causality is the ultimate law.</span></p>

@@ -1,5 +1,7 @@
 # 绚丽多彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanliduocai.md)
+
 <p><span class="chinese">傍晚的云霞绚丽多彩。</span><span class="english">In the evening the rosy clouds were gorgeous.</span></p>
 
 <p><span class="chinese">而我也将为能够看到绚丽多彩的落日余辉而祈祷。</span><span class="english">And I should pray for the glory of a colorful sunset.</span></p>

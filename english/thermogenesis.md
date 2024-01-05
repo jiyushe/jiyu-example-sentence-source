@@ -1,5 +1,7 @@
 # thermogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermogenesis.md)
+
 <p><span class="chinese">有趣的是，有些人似乎在生热作用方面比其他人更有效。</span><span class="english">Intriguingly, some people seem to bemore efficient at thermogenesis than others.</span></p>
 
 <p><span class="chinese">饭后运动是利用一种称做“饮食导致热量产生”的过程来消耗热量。</span><span class="english">After-meal exercise takes advantage of a process called diet-induced thermogenesis.</span></p>

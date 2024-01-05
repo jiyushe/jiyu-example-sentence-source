@@ -1,5 +1,7 @@
 # sawdust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sawdust.md)
+
 <p><span class="chinese">刷漆之前先撒些锯末。</span><span class="english">Strew sawdust before painting.</span></p>
 
 <p><span class="chinese">也使用了五彩纸屑和锯木屑。</span><span class="english">Confetti and sawdust have also been used.</span></p>

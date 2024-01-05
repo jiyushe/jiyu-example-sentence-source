@@ -1,5 +1,7 @@
 # 蝉联
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanlian.md)
+
 <p><span class="chinese">但是美国运通不大可能蝉联道琼斯榜首。</span><span class="english">But a second year atop the Dow is unlikely.</span></p>
 
 <p><span class="chinese">在本届女足世界杯上，德国击败巴西，蝉联冠军。</span><span class="english">Germany retained the Women's World Cup title.</span></p>

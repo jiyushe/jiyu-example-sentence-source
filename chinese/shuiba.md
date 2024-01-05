@@ -1,5 +1,7 @@
 # 水坝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiba.md)
+
 <p><span class="chinese">水坝已大功告成。</span><span class="english">The dam is accomplished.</span></p>
 
 <p><span class="chinese">水坝是河狸筑的。</span><span class="english">Dams are built by beavers.</span></p>

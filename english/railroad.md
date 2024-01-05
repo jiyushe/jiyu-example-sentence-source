@@ -1,5 +1,7 @@
 # railroad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/railroad.md)
+
 <p><span class="chinese">铁路于我何有哉？</span><span class="english">What's the railroad to me?</span></p>
 
 <p><span class="chinese">我们在铁路调车场工作。</span><span class="english">I work in the railroad yard.</span></p>

@@ -1,5 +1,7 @@
 # deferential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deferential.md)
+
 <p><span class="chinese">但恭顺外交仅能如此而已。</span><span class="english">But deferential diplomacy can only get you so far.</span></p>
 
 <p><span class="chinese">我一向恭敬、尊重艺术家。</span><span class="english">I am deferential and respectful in the presence of artists.</span></p>

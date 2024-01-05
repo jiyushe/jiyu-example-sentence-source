@@ -1,5 +1,7 @@
 # civilisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/civilisation.md)
+
 <p><span class="chinese">火车是文明的缩影。</span><span class="english">Trains epitomise civilisation.</span></p>
 
 <p><span class="chinese">速度是现代文明的祸害。</span><span class="english">Speed is the curse of modern civilisation.</span></p>

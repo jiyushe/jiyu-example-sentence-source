@@ -1,5 +1,7 @@
 # 沐浴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muyu_2.md)
+
 <p><span class="chinese">但它毕竟和沐浴不同。</span><span class="english">But it is no bath.</span></p>
 
 <p><span class="chinese">于每天沐浴后使用。</span><span class="english">Apply it after bathing.</span></p>

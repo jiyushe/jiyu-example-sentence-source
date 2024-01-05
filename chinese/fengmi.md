@@ -1,5 +1,7 @@
 # 风靡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengmi.md)
+
 <p><span class="chinese">街舞音乐风靡世界各地。</span><span class="english">Hip-hop music is popular around the world.</span></p>
 
 <p><span class="chinese">“租书潮”风靡伯克利</span><span class="english">Rent-a-book concept arrives at UC Berkeley</span></p>

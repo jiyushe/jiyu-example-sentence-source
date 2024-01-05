@@ -1,5 +1,7 @@
 # sulphuric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulphuric.md)
+
 <p><span class="chinese">硫酸H2SO4</span><span class="english">SULPHURIC ACID — H2SO4</span></p>
 
 <p><span class="chinese">食品中蛋白质含量测定需采用浓硫酸消化。</span><span class="english">Protein in foods is determined after digestion with sulphuric acid.</span></p>

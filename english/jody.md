@@ -1,5 +1,7 @@
 # jody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jody.md)
+
 <p><span class="chinese">乔迪12岁的时候，他收到了一封信，信来自他的居住地——纽约。</span><span class="english">One day when Jody was 12, he got a letter.</span></p>
 
 <p><span class="chinese">个位听众好，我是杨陈。欢迎大家到美语咖啡屋。</span><span class="english">Hello and welcome to American Cafe! My name's Jody.</span></p>

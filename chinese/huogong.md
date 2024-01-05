@@ -1,5 +1,7 @@
 # 火攻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huogong.md)
+
 <p><span class="chinese">以毒攻毒，以火攻火。</span><span class="english">Fight fire with fire.</span></p>
 
 <p><span class="chinese">火攻战法是中国古代战争中常用的战术之一。</span><span class="english">Fire attack is a commonly used tactic in ancient Chinese wars.</span></p>

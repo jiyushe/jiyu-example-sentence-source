@@ -1,5 +1,7 @@
 # egypt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egypt.md)
+
 <p><span class="chinese">埃及乱糟糟的。</span><span class="english">Egypt is a mess.</span></p>
 
 <p><span class="chinese">所以，对，埃及非常混乱。</span><span class="english">So, yes, Egypt is messy.</span></p>

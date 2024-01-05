@@ -1,5 +1,7 @@
 # retinaculum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retinaculum.md)
+
 <p><span class="chinese">髌骨半脱位者充分松解髌骨外侧支持带。</span><span class="english">Releasing lateral retinaculum adequately for patellar subluxation.</span></p>
 
 <p><span class="chinese">目的探讨髌周支持带挛缩在膝关节伸直位僵硬的治疗对策。</span><span class="english">Objective To study the peripatellar retinaculum contracture in the treatment of knee extension stiffness.</span></p>

@@ -1,5 +1,7 @@
 # 拖带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuodai.md)
+
 <p><span class="chinese">把拖带系缆桩上拖缆绑牢。</span><span class="english">Fasten towing line on towing bitts.</span></p>
 
 <p><span class="chinese">阿黛尔说周末“我们拖带着孩子去集会。”</span><span class="english">On weekends, Adele says, “we schlepped the kids to rallies.</span></p>

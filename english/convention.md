@@ -1,5 +1,7 @@
 # convention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convention.md)
+
 <p><span class="chinese">这是一个公共约定。</span><span class="english">This is a common convention.</span></p>
 
 <p><span class="chinese">方向应该根据惯例来选取。</span><span class="english">I have to choose a convention.</span></p>

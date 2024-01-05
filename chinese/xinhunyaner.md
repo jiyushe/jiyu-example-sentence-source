@@ -1,5 +1,7 @@
 # 新婚燕尔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhunyaner.md)
+
 <p><span class="chinese">当一对新婚燕尔互相微笑，人们都知道为什么。</span><span class="english">When a newly married couple smiles, everyone knows why.</span></p>
 
 <p><span class="chinese">那就为新婚燕尔的奥多姆顶替他首发铺平了道路。</span><span class="english">That would pave the way for newlywed Odom to start in his place.</span></p>

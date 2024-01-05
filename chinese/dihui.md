@@ -1,5 +1,7 @@
 # 低回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dihui.md)
+
 <p><span class="chinese">价跌持仓量大幅递减，空单有逢低回补动作。</span><span class="english">Sharp decline in prices drop positions, empty every keyed complement actions alone.</span></p>
 
 <p><span class="chinese">倘若思绪也有色彩，我的思绪就刚好与这雨景吻合，浅浅的，淡淡的，安静地低回。</span><span class="english">If the mind has color, my mind just with the rain with shallow, faint, quiet and low.</span></p>

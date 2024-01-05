@@ -1,5 +1,7 @@
 # 炉渣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luzha.md)
+
 <p><span class="chinese">因夹杂炉渣或耐火材料颗粒而造成的不纯净钢。</span><span class="english">Dirty steel due to entrapment of slag or pieces of refractory.</span></p>
 
 <p><span class="chinese">她每天晚上将炉渣从炉子里耙出来。</span><span class="english">She rakes the ashes out of the stove in the evening every day.</span></p>

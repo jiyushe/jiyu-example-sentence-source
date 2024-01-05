@@ -1,5 +1,7 @@
 # 不可同日而语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buketongrieryu.md)
+
 <p><span class="chinese">因为质量不可同日而语。</span><span class="english">Because the quality is not the same.</span></p>
 
 <p><span class="chinese">我知道论两人的战术造诣，那是不可同日而语的。</span><span class="english">I know that their tactics don't compare.</span></p>

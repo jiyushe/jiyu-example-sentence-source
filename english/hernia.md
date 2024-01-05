@@ -1,5 +1,7 @@
 # hernia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hernia.md)
+
 <p><span class="chinese">疝气的病因有哪些？</span><span class="english">WHAT CAUSES A HERNIA?</span></p>
 
 <p><span class="chinese">什麽是腹疝？</span><span class="english">WHAT IS A VENTRAL HERNIA?</span></p>

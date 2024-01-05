@@ -1,5 +1,7 @@
 # 花柱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huazhu.md)
+
 <p><span class="chinese">花柱丝状，与花瓣等长。</span><span class="english">Style filiform , as long as petals.</span></p>
 
 <p><span class="chinese">花柱及柱头已经干掉。</span><span class="english">The style and stigma have dried out.</span></p>

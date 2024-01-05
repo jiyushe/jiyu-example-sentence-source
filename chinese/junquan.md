@@ -1,5 +1,7 @@
 # 军犬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junquan.md)
+
 <p><span class="chinese">以下我们再就这些军犬做进一步介绍。</span><span class="english">Here's some more war-dog fodder to chew on.</span></p>
 
 <p><span class="chinese">在二十世纪，军犬的职责更为多样化。</span><span class="english">In the 20th century, dogs' duties became more diverse.</span></p>

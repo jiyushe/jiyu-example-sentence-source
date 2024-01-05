@@ -1,5 +1,7 @@
 # 自行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixing_2.md)
+
 <p><span class="chinese">无法自行注册文件。</span><span class="english">Unable to self-register a file.</span></p>
 
 <p><span class="chinese">你必须自行决定。</span><span class="english">You must decide it by yourself.</span></p>

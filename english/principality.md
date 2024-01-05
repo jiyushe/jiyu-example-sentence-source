@@ -1,5 +1,7 @@
 # principality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/principality.md)
+
 <p><span class="chinese">这个用户喜欢西兰公国。</span><span class="english">For the Principality of Sealand!</span></p>
 
 <p><span class="chinese">也就是法国的滨海阿尔卑斯山省，范围涵盖摩纳哥公国。</span><span class="english">Is the coastal provinces, the French Alps range in the principality.</span></p>

@@ -1,5 +1,7 @@
 # disfigurement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disfigurement.md)
+
 <p><span class="chinese">他面部的毁容是由于一次爆炸造成的。</span><span class="english">The disfigurement of his face was caused by an explosion.</span></p>
 
 <p><span class="chinese">裂缝是沥青混凝土路面的主要缺陷之一。</span><span class="english">Crack is one of the mainly disfigurement of asphalt concrete pavement.</span></p>

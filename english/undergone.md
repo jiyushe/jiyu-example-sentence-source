@@ -1,5 +1,7 @@
 # undergone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undergone.md)
+
 <p><span class="chinese">这字装帜经受过广泛的试验。</span><span class="english">The device undergone extensive testing.</span></p>
 
 <p><span class="chinese">我知道我身上发生了沧海桑田般的变化。</span><span class="english">I knew that I had undergone a sea change.</span></p>

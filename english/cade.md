@@ -1,5 +1,7 @@
 # cade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cade.md)
+
 <p><span class="chinese">我可以和凯德说话吗？</span><span class="english">May I speak to Cade?</span></p>
 
 <p><span class="chinese">你曾经开枪打伤过凯德的腿哩。</span><span class="english">You did shoot Cade in the leg.</span></p>

@@ -1,5 +1,7 @@
 # premolar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premolar.md)
+
 <p><span class="chinese">在单侧双尖牙加轴向力200?。</span><span class="english">When the premolar was forced by 200?</span></p>
 
 <p><span class="chinese">上颚最后的一只前臼齿，下颚最前的一只臼齿。</span><span class="english">Last premolar of upper jaw, first molar of lower jaw.</span></p>

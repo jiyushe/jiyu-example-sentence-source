@@ -1,5 +1,7 @@
 # treble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treble.md)
+
 <p><span class="chinese">他唱最高声部。</span><span class="english">He sings treble.</span></p>
 
 <p><span class="chinese">你们的三冠王哪里去了？</span><span class="english">Where's your treble gone?</span></p>

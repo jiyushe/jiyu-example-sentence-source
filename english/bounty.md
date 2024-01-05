@@ -1,5 +1,7 @@
 # bounty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bounty.md)
+
 <p><span class="chinese">没有仁爱的美丽毫无用处。</span><span class="english">Beauty without bounty avails nought.</span></p>
 
 <p><span class="chinese">她的父亲曾是一个领赏而抓捕逃犯者。</span><span class="english">Her father had been a bounty hunter.</span></p>

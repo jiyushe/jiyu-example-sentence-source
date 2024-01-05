@@ -1,5 +1,7 @@
 # 琐屑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoxie_1.md)
+
 <p><span class="chinese">你为一些琐屑的事情进行大的选举。</span><span class="english">You make a big election about small things.</span></p>
 
 <p><span class="chinese">回到我的琐屑之中，忙碌着，这是我无以省略的。</span><span class="english">Back to my trivial, busy, this is me to omit.</span></p>

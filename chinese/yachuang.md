@@ -1,5 +1,7 @@
 # 牙床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yachuang.md)
+
 <p><span class="chinese">我牙床出血。</span><span class="english">My gums bleed.</span></p>
 
 <p><span class="chinese">你能弹出一个牙床脓肿？。</span><span class="english">Can You Pop an Abscessed Tooth?</span></p>

@@ -1,5 +1,7 @@
 # blew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blew.md)
+
 <p><span class="chinese">这口油井出油了。</span><span class="english">The well blew in.</span></p>
 
 <p><span class="chinese">保险丝烧断了。</span><span class="english">The fuse blew out.</span></p>

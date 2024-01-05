@@ -1,5 +1,7 @@
 # 市直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhi_2.md)
+
 <p><span class="chinese">也许如果你球队的风格市直传那么其他的训练项目可能效果更好一些。</span><span class="english">Maybe if you play a Direct apporach another schedule would work better.</span></p>
 
 <p><span class="chinese">到目前止，市直党政机关超编人员情况已基本摸清。</span><span class="english">At present, the only, party and government organs directly under supernumerary staff to find out the basic situation.</span></p>

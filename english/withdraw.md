@@ -1,5 +1,7 @@
 # withdraw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/withdraw.md)
+
 <p><span class="chinese">确实我也从未脱开过。</span><span class="english">Do I have never withdraw.</span></p>
 
 <p><span class="chinese">我们期待他们撤军。</span><span class="english">We expect them to withdraw.</span></p>

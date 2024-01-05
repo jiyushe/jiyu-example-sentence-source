@@ -1,5 +1,7 @@
 # 执笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibi.md)
+
 <p><span class="chinese">轻吟一句情话，执笔一副情画。</span><span class="english">Sing a love words, Draw a love picture.</span></p>
 
 <p><span class="chinese">还有约翰福音是由约翰的信徒执笔。</span><span class="english">And that John was written by the disciple of John.</span></p>

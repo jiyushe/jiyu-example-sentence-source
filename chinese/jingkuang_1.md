@@ -1,5 +1,7 @@
 # 景况
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingkuang_1.md)
+
 <p><span class="chinese">而这些仅是白尼罗河一岸的景况。</span><span class="english">And that is just on one side of the White Nile.</span></p>
 
 <p><span class="chinese">她是一位景况十分优裕的妇女。</span><span class="english">She is a lady in very comfortable circumstances.</span></p>

@@ -1,5 +1,7 @@
 # confluent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confluent.md)
+
 <p><span class="chinese">天花打四面八方汇合拢来，布满了他整个脸孔。</span><span class="english">A confluent small-pox had in all directions flowed over his face.</span></p>
 
 <p><span class="chinese">这些小孔在许多鲨鱼中，是与眼窝的裂缝汇合。</span><span class="english">These foramina are confluent with the orbital fissure in many sharks.</span></p>

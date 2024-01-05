@@ -1,5 +1,7 @@
 # regenerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regenerate.md)
+
 <p><span class="chinese">而且不会再生。</span><span class="english">And they do not regenerate.</span></p>
 
 <p><span class="chinese">蝾螈的肢体可以再生。</span><span class="english">Newts can regenerate their limbs.</span></p>

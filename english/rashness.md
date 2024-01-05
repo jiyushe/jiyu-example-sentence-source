@@ -1,5 +1,7 @@
 # rashness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rashness.md)
+
 <p><span class="chinese">不要急着要，一定要戒躁。</span><span class="english">Don't hurry, must rashness.</span></p>
 
 <p><span class="chinese">我们必须防止急躁情绪。</span><span class="english">We must guard against rashness.</span></p>

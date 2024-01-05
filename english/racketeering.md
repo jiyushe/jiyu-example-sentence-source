@@ -1,5 +1,7 @@
 # racketeering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racketeering.md)
+
 <p><span class="chinese">他被指控犯敲诈勒索，但却一直没被判决有罪。</span><span class="english">He was indicted for racketeering but never convicted.</span></p>
 
 <p><span class="chinese">纽约的工会领袖被判有工会诈骗罪。</span><span class="english">The New York union leader was convicted of labor racketeering.</span></p>

@@ -1,5 +1,7 @@
 # 昏头昏脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huntouhunnao.md)
+
 <p><span class="chinese">一片嘈杂声把我弄得昏头昏脑。</span><span class="english">I was confused by all the noise.</span></p>
 
 <p><span class="chinese">一连串的问题弄得他昏头昏脑。</span><span class="english">He is puzzled by a rain of questions.</span></p>

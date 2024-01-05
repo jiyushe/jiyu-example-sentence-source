@@ -1,5 +1,7 @@
 # 赤手空拳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chishoukongquan.md)
+
 <p><span class="chinese">赤手空拳不能做这些事情。</span><span class="english">Bare hands just will not do the job.</span></p>
 
 <p><span class="chinese">难道我们赤手空拳去对付龙王？</span><span class="english">Does our bare hand deal with Long Wang?</span></p>

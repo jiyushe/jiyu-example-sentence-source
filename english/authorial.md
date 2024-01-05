@@ -1,5 +1,7 @@
 # authorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authorial.md)
+
 <p><span class="chinese">你几乎不能捕捉到一丁点儿作者的自我意识。</span><span class="english">You almost never catch a whiff of authorial self-consciousness.</span></p>
 
 <p><span class="chinese">我突然犯了作家的职业病了，所以我想将它留予读者来定义。</span><span class="english">In a fit of authorial pique, I will leave that to readers to define.</span></p>

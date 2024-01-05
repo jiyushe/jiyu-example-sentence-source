@@ -1,5 +1,7 @@
 # adventuresome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adventuresome.md)
+
 <p><span class="chinese">每天都充满刺激和新奇。</span><span class="english">Every day was exciting and adventuresome.</span></p>
 
 <p><span class="chinese">一个饥饿的用餐者很快会变成一个相当探索精神的人。</span><span class="english">A hungry diner can quickly become a more adventuresome one.</span></p>

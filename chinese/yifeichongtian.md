@@ -1,5 +1,7 @@
 # 一飞冲天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifeichongtian.md)
+
 <p><span class="chinese">不管是一飞冲天还是跌入谷底，至少，你尝试过！</span><span class="english">Whether you fail or fly, at least you tried.</span></p>
 
 <p><span class="chinese">超级英雄电影照理来说应该一飞冲天，但是其中的大部分却一瘸一拐。</span><span class="english">Superhero movies are supposed to  soar but most of these  limp.</span></p>

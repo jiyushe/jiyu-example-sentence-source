@@ -1,5 +1,7 @@
 # 单一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danyi.md)
+
 <p><span class="chinese">那是个单一民族的国家。</span><span class="english">It's a single -nation state.</span></p>
 
 <p><span class="chinese">单一片面铝铸造件。</span><span class="english">Single sided aluminum cast piece.</span></p>

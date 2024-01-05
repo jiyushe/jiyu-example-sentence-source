@@ -1,5 +1,7 @@
 # curriculum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curriculum.md)
+
 <p><span class="chinese">课程设置必须事先计划好。</span><span class="english">The curriculum must be preplanned.</span></p>
 
 <p><span class="chinese">你在哪里找到你的课程的？</span><span class="english">Where do you find your curriculum?</span></p>

@@ -1,5 +1,7 @@
 # 高利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoli_1.md)
+
 <p><span class="chinese">是，很有格里高利•克鲁德逊风格。</span><span class="english">Yea, yea, very Gregory Crewdson style.</span></p>
 
 <p><span class="chinese">1972年被教皇册封为圣格里高利骑士指挥官。</span><span class="english">In 1972 he was made a Knight Commander of St.</span></p>

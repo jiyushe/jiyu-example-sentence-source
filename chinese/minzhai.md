@@ -1,5 +1,7 @@
 # 民宅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minzhai.md)
+
 <p><span class="chinese">对擅闯民宅这种事，人们也不能太在意了。</span><span class="english">One really can't be too careful about invasion.</span></p>
 
 <p><span class="chinese">火箭炮袭击了医院和多所民宅。</span><span class="english">Rockets struck the hospital and multiple homes.</span></p>

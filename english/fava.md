@@ -1,5 +1,7 @@
 # fava
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fava.md)
+
 <p><span class="chinese">我就伴着蚕豆把他的肝脏吃了下去，还有美味的红酒呢。</span><span class="english">I ate his liver with some fava and a nice Chianti.</span></p>
 
 <p><span class="chinese">我就着蚕豆和酒，把他的肝脏吃掉了。</span><span class="english">I ate his liver with some fava beans and anice Chianti.</span></p>

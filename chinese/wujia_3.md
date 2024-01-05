@@ -1,5 +1,7 @@
 # 物价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujia_3.md)
+
 <p><span class="chinese">物价猛涨。</span><span class="english">Prices skyrocketed.</span></p>
 
 <p><span class="chinese">通货膨胀使物价节节上涨。</span><span class="english">The prices are going up.</span></p>

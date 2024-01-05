@@ -1,5 +1,7 @@
 # 糊口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hukou_1.md)
+
 <p><span class="chinese">一家六心其乐陶陶的糊口着！</span><span class="english">They six live a happy life!</span></p>
 
 <p><span class="chinese">我们工作，我们努力赚钱养家糊口。</span><span class="english">We work. We strive to earn a living.</span></p>

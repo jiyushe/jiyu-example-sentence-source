@@ -1,5 +1,7 @@
 # sargassum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sargassum.md)
+
 <p><span class="chinese">其中海藻的无机砷含量最高。</span><span class="english">Sargassum has the highest inorganic arsenic contents.</span></p>
 
 <p><span class="chinese">日本海带和果囊马尾藻资源非常丰富。</span><span class="english">Japanese Sargassum seaweed and fruit capsule resources are very rich.</span></p>

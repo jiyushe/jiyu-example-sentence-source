@@ -1,5 +1,7 @@
 # 新装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzhuang.md)
+
 <p><span class="chinese">给你的博客换新装。</span><span class="english">Give your blog a make-over.</span></p>
 
 <p><span class="chinese">她穿了新装更是艳丽动人。</span><span class="english">She sparkled in her new clothes.</span></p>

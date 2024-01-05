@@ -1,5 +1,7 @@
 # 评介
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingjie_1.md)
+
 <p><span class="chinese">他已经从美国的葡萄酒评介人士那里获得了强烈的反响。</span><span class="english">He's already received strong reviews from American critics.</span></p>
 
 <p><span class="chinese">本文评介了导数测量技术在原子光谱分析中的应用研究进展。</span><span class="english">Progress in the studies on new derivative atomic spectrometry was reviewed.</span></p>

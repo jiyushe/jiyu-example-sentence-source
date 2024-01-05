@@ -1,5 +1,7 @@
 # unzip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unzip.md)
+
 <p><span class="chinese">解压这些文件。</span><span class="english">Unzip the files.</span></p>
 
 <p><span class="chinese">然后，打开一个解压缩工具。</span><span class="english">Then, open it with an unzip tool.</span></p>

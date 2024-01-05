@@ -1,5 +1,7 @@
 # 治家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijia_2.md)
+
 <p><span class="chinese">治家有方，办事快速。</span><span class="english">In a good house all is quickly ready.</span></p>
 
 <p><span class="chinese">她治家简直像个暴君。</span><span class="english">She rules her family like a real despot.</span></p>

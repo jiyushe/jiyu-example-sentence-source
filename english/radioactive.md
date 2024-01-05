@@ -1,5 +1,7 @@
 # radioactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radioactive.md)
+
 <p><span class="chinese">还发现了放射性铯。</span><span class="english">Radioactive caesium has also been detected.</span></p>
 
 <p><span class="chinese">那么为什么煤电废物看上去很具放射性呢？</span><span class="english">So why does coal waste appear so radioactive?</span></p>

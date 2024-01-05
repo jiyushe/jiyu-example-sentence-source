@@ -1,5 +1,7 @@
 # plane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plane.md)
+
 <p><span class="chinese">他还没学过开飞机。</span><span class="english">He to fly a plane.</span></p>
 
 <p><span class="chinese">在飞机上工作。</span><span class="english">Work on the plane.</span></p>

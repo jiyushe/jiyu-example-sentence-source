@@ -1,5 +1,7 @@
 # 野猫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yemao.md)
+
 <p><span class="chinese">野猫队！是最棒的！</span><span class="english">Wildcats! Are the best!</span></p>
 
 <p><span class="chinese">他们喜欢狮子、老虎和野猫。</span><span class="english">They like lions, tigers and wildcats.</span></p>

@@ -1,5 +1,7 @@
 # 岂有此理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyoucili.md)
+
 <p><span class="chinese">全部卡都不见了，岂有此理！</span><span class="english">All the cards were lost, gosh!</span></p>
 
 <p><span class="chinese">服装设计，这是纯属岂有此理！</span><span class="english">Design a costume that is purely outrageous!</span></p>

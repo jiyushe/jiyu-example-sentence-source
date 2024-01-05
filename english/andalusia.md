@@ -1,5 +1,7 @@
 # andalusia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andalusia.md)
+
 <p><span class="chinese">这一点我们在宗教法庭时期安达鲁西亚和科尔多瓦的历史上看得很清楚。</span><span class="english">We see it in the history of Andalusia and Cordoba during the Inquisition.</span></p>
 
 <p><span class="chinese">在2008年，安大路西亚市有177个孩子的母亲是14岁或不足14岁的女孩。</span><span class="english">In 2008, 177 children were born to girls aged 14 or under in the province of Andalusia.</span></p>

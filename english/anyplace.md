@@ -1,5 +1,7 @@
 # anyplace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anyplace.md)
+
 <p><span class="chinese">他没有任何地方可以去了。</span><span class="english">He didn't have anyplace to go.</span></p>
 
 <p><span class="chinese">像我说的，他可能在别的什么地方。</span><span class="english">He could be anyplace else  as I say.</span></p>

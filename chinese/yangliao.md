@@ -1,5 +1,7 @@
 # 养料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangliao.md)
+
 <p><span class="chinese">您泥土中的养料。</span><span class="english">The nutriment of your mud.</span></p>
 
 <p><span class="chinese">金钱和鄙薄，才是守财奴的养料。</span><span class="english">Misers thrive on money and contempt.</span></p>

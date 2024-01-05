@@ -1,5 +1,7 @@
 # 卤莽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lumang.md)
+
 <p><span class="chinese">我后悔自己的卤莽。</span><span class="english">I regret that his own reckless.</span></p>
 
 <p><span class="chinese">他的急燥卤莽最终导致了他的毁灭。</span><span class="english">His rashness led ultimately to his ruin.</span></p>

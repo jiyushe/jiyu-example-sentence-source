@@ -1,5 +1,7 @@
 # 中型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxing_1.md)
+
 <p><span class="chinese">你拥有一辆中型车？</span><span class="english">Own a midsize car?</span></p>
 
 <p><span class="chinese">我要一辆中型车。</span><span class="english">I want a medium size car.</span></p>

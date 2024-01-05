@@ -1,5 +1,7 @@
 # 肌体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiti_1.md)
+
 <p><span class="chinese">病菌会侵入肌体。</span><span class="english">Germs invade the organism.</span></p>
 
 <p><span class="chinese">肾阴足，肌体各脏腑组织器官得到滋养。</span><span class="english">Abundant kidney-yin nourishes the organs in the body.</span></p>

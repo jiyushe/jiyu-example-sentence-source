@@ -1,5 +1,7 @@
 # 碳酸钠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tansuanna.md)
+
 <p><span class="chinese">谁批准碳酸钠滴注的?。</span><span class="english">Who approved a sodium bicarb infusion?</span></p>
 
 <p><span class="chinese">以碳酸钠微粒，是从纯碱纸浆厂的黑色液体中回收的。</span><span class="english">Sodium carbonate for example, is recovered from black liquor in soda pulp mills.</span></p>

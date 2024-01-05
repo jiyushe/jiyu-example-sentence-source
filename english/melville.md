@@ -1,5 +1,7 @@
 # melville
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melville.md)
+
 <p><span class="chinese">麦尔维尔写〈白鲸〉用了十六个月。</span><span class="english">Melville wrote MobyDick in sixteen months.</span></p>
 
 <p><span class="chinese">梅尔维尔似乎发现伊希梅尔是个讨厌的人。</span><span class="english">It is as though Melville finds Ishmael a nuisance.</span></p>

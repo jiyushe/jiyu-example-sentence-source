@@ -1,5 +1,7 @@
 # 矍铄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueshuo.md)
+
 <p><span class="chinese">现年77岁的郭佩珍，精神矍铄。</span><span class="english">Kwok Pui Chun, now 77 years old, hale and hearty.</span></p>
 
 <p><span class="chinese">那个硬朗矍铄的人就给归入老人的行列了。</span><span class="english">The hale and hearty man is counted among the old.</span></p>

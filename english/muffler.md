@@ -1,5 +1,7 @@
 # muffler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muffler.md)
+
 <p><span class="chinese">消音器生锈或爆裂。</span><span class="english">Rusted or blown out muffler.</span></p>
 
 <p><span class="chinese">它后面的消音器已有一条裂缝。</span><span class="english">It had a split in the muffler.</span></p>

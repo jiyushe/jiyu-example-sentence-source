@@ -1,5 +1,7 @@
 # messenger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/messenger.md)
+
 <p><span class="chinese">不要攻击批评者，要从善如流。</span><span class="english">Don't attack the messenger.</span></p>
 
 <p><span class="chinese">天女，是神的使者。</span><span class="english">Girl, is the messenger of god.</span></p>

@@ -1,5 +1,7 @@
 # 铁管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieguan.md)
+
 <p><span class="chinese">他把两根铁管焊接在一起。</span><span class="english">He welded two iron pipes together.</span></p>
 
 <p><span class="chinese">这铁管上有鳞状般的铁锈。</span><span class="english">This iron pipe is scaly with rust.</span></p>

@@ -1,5 +1,7 @@
 # 人生在世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshengzaishi.md)
+
 <p><span class="chinese">人生在世，所为何来？</span><span class="english">What are we here for?</span></p>
 
 <p><span class="chinese">人生在世，至紧要系开心！</span><span class="english">It's the best hope in my life.</span></p>

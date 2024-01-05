@@ -1,5 +1,7 @@
 # happenings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/happenings.md)
+
 <p><span class="chinese">你的尴尬瞬间或者发生过的出乎意料的事</span><span class="english">Embarrassing moments or unexpected happenings</span></p>
 
 <p><span class="chinese">他躺在床上，回顾了这一天所发生的事。</span><span class="english">Lying in the bed, he reviewed the day's happenings.</span></p>

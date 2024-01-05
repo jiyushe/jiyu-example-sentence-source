@@ -1,5 +1,7 @@
 # calciner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calciner.md)
+
 <p><span class="chinese">以我厂一号焙烧炉举例说明。</span><span class="english">We give one example of NO. 1 calciner in our plant.</span></p>
 
 <p><span class="chinese">该工厂使用尿素作为还原剂，向分解炉内连续加入。</span><span class="english">The plant added carbamide as reducer into calciner continuously.</span></p>

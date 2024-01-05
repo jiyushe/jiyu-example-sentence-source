@@ -1,5 +1,7 @@
 # relics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relics.md)
+
 <p><span class="chinese">巴黎有许许多多的历史文物。</span><span class="english">Paris abounds in historical relics.</span></p>
 
 <p><span class="chinese">南沟屯村正好建于这个遗址上。</span><span class="english">Nan gou village just build on the relics.</span></p>

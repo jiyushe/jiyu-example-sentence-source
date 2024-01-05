@@ -1,5 +1,7 @@
 # 不倒翁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budaoweng.md)
+
 <p><span class="chinese">不倒翁接力赛。</span><span class="english">The relay race of tumblers.</span></p>
 
 <p><span class="chinese">不倒翁为什么不倒？</span><span class="english">Why could the tumbler not fall down?</span></p>

@@ -1,5 +1,7 @@
 # jaap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jaap.md)
+
 <p><span class="chinese">北约秘书长夏侯雅伯宣布了这一决定。</span><span class="english">NATO Secretary-General Jaap de Hoop Scheffer announced the decision.</span></p>
 
 <p><span class="chinese">雅普。斯塔姆移到了右后卫的位置，塞尔吉尼奥司职左路。</span><span class="english">Jaap Stam moved over to right-back and Serginho was employed on the left.</span></p>

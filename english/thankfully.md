@@ -1,5 +1,7 @@
 # thankfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thankfully.md)
+
 <p><span class="chinese">庆幸的是，本作并没有辜负众望。</span><span class="english">Thankfully it didn’t disappoint.</span></p>
 
 <p><span class="chinese">值得庆幸的阿蒂奇有很深的口袋。</span><span class="english">Thankfully ATIC has very deep pockets.</span></p>

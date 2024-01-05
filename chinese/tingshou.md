@@ -1,5 +1,7 @@
 # 停手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingshou.md)
+
 <p><span class="chinese">一群没出息的家伙，给我停手。</span><span class="english">A bunch of sissies, quit it.</span></p>
 
 <p><span class="chinese">先生，你现在可以考虑停手了。</span><span class="english">You may now, sir, consider yourself stopped.</span></p>

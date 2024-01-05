@@ -1,5 +1,7 @@
 # occipital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occipital.md)
+
 <p><span class="chinese">枕骨隆突明显突出。</span><span class="english">The occipital protuberance was well developed.</span></p>
 
 <p><span class="chinese">枕骨主要为致密的皮质骨。</span><span class="english">Occipital bone comprises compact os integumentale.</span></p>

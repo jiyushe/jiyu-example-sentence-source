@@ -1,5 +1,7 @@
 # 体式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tishi.md)
+
 <p><span class="chinese">这个体式来自你的内在。</span><span class="english">It comes from within.</span></p>
 
 <p><span class="chinese">保持这些体式每一四分钟的时间。</span><span class="english">Hold these poses for four minutes.</span></p>

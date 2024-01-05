@@ -1,5 +1,7 @@
 # oneself
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oneself.md)
+
 <p><span class="chinese">送友人或自用。</span><span class="english">For friends or for oneself.</span></p>
 
 <p><span class="chinese">而自己和秦朝呢。</span><span class="english">But oneself and Qin Dynasty.</span></p>

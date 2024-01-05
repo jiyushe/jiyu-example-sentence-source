@@ -1,5 +1,7 @@
 # reheat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reheat.md)
+
 <p><span class="chinese">让我们把凉白开水再热一下。</span><span class="english">Let us reheat the cold boiled water.</span></p>
 
 <p><span class="chinese">重新加热剩余的禽肉直到冒热蒸汽。</span><span class="english">Reheat leftover poultry until steaming hot.</span></p>

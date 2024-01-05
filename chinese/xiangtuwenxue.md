@@ -1,5 +1,7 @@
 # 乡土文学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangtuwenxue.md)
+
 <p><span class="chinese">我以「后乡土文学」一词定义新一代的小说品种。</span><span class="english">I use the term "post-regional literature" to define those texts.</span></p>
 
 <p><span class="chinese">现代乡土文学事实上有三个流派。</span><span class="english">In fact, the modern native literature can be divided into three sects.</span></p>

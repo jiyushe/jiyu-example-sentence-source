@@ -1,5 +1,7 @@
 # 大智若愚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhiruoyu.md)
+
 <p><span class="chinese">大智若愚。静水流深。</span><span class="english">Still water runs deep.</span></p>
 
 <p><span class="chinese">大智若愚。静流水深。</span><span class="english">still waters run deep.</span></p>

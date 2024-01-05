@@ -1,5 +1,7 @@
 # jonah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jonah.md)
+
 <p><span class="chinese">约拿书感到非常心虚。</span><span class="english">Jonah felt very guilty.</span></p>
 
 <p><span class="chinese">这对约拿有什么影响吗？</span><span class="english">How does this affect Jonah then?</span></p>

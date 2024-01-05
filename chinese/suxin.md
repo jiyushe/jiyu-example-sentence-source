@@ -1,5 +1,7 @@
 # 素心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suxin.md)
+
 <p><span class="chinese">很多年之后，素心成了举步维艰的人。</span><span class="english">Many years later, Susan became a difficult person.</span></p>
 
 <p><span class="chinese">素心向他解释改名原因和嫁人的事。</span><span class="english">Heart explain why it changed its name to him and get married.</span></p>

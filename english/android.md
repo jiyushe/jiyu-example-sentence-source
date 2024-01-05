@@ -1,5 +1,7 @@
 # android
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/android.md)
+
 <p><span class="chinese">我已经看到了机器人。</span><span class="english">Well, I’ve  seen Android.</span></p>
 
 <p><span class="chinese">安卓系统也有类似的功能。</span><span class="english">Android has a similar feature.</span></p>

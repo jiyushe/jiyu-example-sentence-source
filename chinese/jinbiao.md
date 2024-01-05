@@ -1,5 +1,7 @@
 # 锦标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinbiao.md)
+
 <p><span class="chinese">阿森纳曾经夺冠13次，切尔西仅仅4次成功登顶，另外利物浦有18项锦标。</span><span class="english">Arsenal have 13, Chelsea only four and Liverpool 18.</span></p>
 
 <p><span class="chinese">特维斯称，他的目标就是为球队赢得更多的锦标。</span><span class="english">Tevez said his aim was to win more titles with City.</span></p>

@@ -1,5 +1,7 @@
 # 仕途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitu.md)
+
 <p><span class="chinese">仕途步步高升、万事胜意！</span><span class="english">Official risen, everything wins meaning!</span></p>
 
 <p><span class="chinese">要是议员涉足丑闻，他的亨通仕途就此终结了。</span><span class="english">Senator in a scandal he’ll loose his beltway to the fast track.</span></p>

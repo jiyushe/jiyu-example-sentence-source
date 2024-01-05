@@ -1,5 +1,7 @@
 # 放学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangxue.md)
+
 <p><span class="chinese">我经常在放学时读它们。</span><span class="english">I always read them after school.</span></p>
 
 <p><span class="chinese">我下午三点半放学。</span><span class="english">I finish school at three-thirty.</span></p>

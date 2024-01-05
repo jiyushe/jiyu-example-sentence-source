@@ -1,5 +1,7 @@
 # 雨夹雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yujiaxue.md)
+
 <p><span class="chinese">寒冷的十二月带来雨夹雪。</span><span class="english">Chill December brings the sleet.</span></p>
 
 <p><span class="chinese">冬天来到时我们这儿会有雨夹雪和霜冻。</span><span class="english">When winter comes, we get sleet and frost.</span></p>

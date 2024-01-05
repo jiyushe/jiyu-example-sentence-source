@@ -1,5 +1,7 @@
 # 通讯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxun.md)
+
 <p><span class="chinese">通过时事通讯？</span><span class="english">Through newsletters?</span></p>
 
 <p><span class="chinese">关掉即时通讯和聊天。</span><span class="english">Turn of IM and chat.</span></p>

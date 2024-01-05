@@ -1,5 +1,7 @@
 # vomit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vomit.md)
+
 <p><span class="chinese">你呕吐吗？</span><span class="english">Do you vomit?</span></p>
 
 <p><span class="chinese">他开始呕吐。</span><span class="english">He began to vomit.</span></p>

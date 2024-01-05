@@ -1,5 +1,7 @@
 # sardis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sardis.md)
+
 <p><span class="chinese">在公元前480年春，薜西斯从萨迪斯出发。</span><span class="english">In the spring of 480 Xerxes set out from Sardis.</span></p>
 
 <p><span class="chinese">撒狄是古代吕底亚帝国的首都。</span><span class="english">Sardis was the capital of the ancient kingdom of Lydia.</span></p>

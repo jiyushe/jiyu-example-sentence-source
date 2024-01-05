@@ -1,5 +1,7 @@
 # kuroshio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kuroshio.md)
+
 <p><span class="chinese">使用南岛语系的人与黑潮的图。</span><span class="english">The picture of the Austronesian languages human and Kuroshio.</span></p>
 
 <p><span class="chinese">冬季日本九州西侧海域存在一个半封闭的涡旋。</span><span class="english">Kuroshio intrusion engenders an eddy at the west of Kyushu Island of Japan.</span></p>

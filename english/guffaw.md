@@ -1,5 +1,7 @@
 # guffaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guffaw.md)
+
 <p><span class="chinese">爸爸和我都狂笑起来。</span><span class="english">Dad and I guffaw at the same time.</span></p>
 
 <p><span class="chinese">他的话引起大家一阵轰笑。</span><span class="english">What he said aroused a blast of guffaw.</span></p>

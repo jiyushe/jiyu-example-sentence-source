@@ -1,5 +1,7 @@
 # polygynous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polygynous.md)
+
 <p><span class="chinese">为妳，那些三妻四妾我可以不要。</span><span class="english">For you, I can 't those polygynous.</span></p>
 
 <p><span class="chinese">在一夫多妻婚姻里，这个观念并不具有完全的真实性，同时也是对一夫一妻制的一种批判。</span><span class="english">This is not a complete truism in a polygynous marriage, and is a criticism of monogamous marriages as well.</span></p>

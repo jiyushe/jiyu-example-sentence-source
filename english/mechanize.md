@@ -1,5 +1,7 @@
 # mechanize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mechanize.md)
+
 <p><span class="chinese">有此需要机械化操作。</span><span class="english">There exists a need to mechanize this operation.</span></p>
 
 <p><span class="chinese">这并非是显然的成功，因为它不能完全对运算机械化。</span><span class="english">They could mechanize the horse, put it on tracks.</span></p>

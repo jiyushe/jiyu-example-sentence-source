@@ -1,5 +1,7 @@
 # estrogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estrogen.md)
+
 <p><span class="chinese">你知道雌性激素吗？</span><span class="english">Do you know what estrogen is?</span></p>
 
 <p><span class="chinese">这8例患者中5例是雌激素非依赖型。</span><span class="english">Of the 8 cases, 5 were estrogen nondependent.</span></p>

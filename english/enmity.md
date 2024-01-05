@@ -1,5 +1,7 @@
 # enmity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enmity.md)
+
 <p><span class="chinese">能使我敌意终止。</span><span class="english">Could finish enmity.</span></p>
 
 <p><span class="chinese">他对他姐姐怀有敌意。</span><span class="english">He felt enmity towards his sister.</span></p>

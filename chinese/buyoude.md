@@ -1,5 +1,7 @@
 # 不由得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyoude.md)
+
 <p><span class="chinese">我不由得呜呜咽咽地哭起来。</span><span class="english">I broke out crying and sobbing.</span></p>
 
 <p><span class="chinese">当我窥见答案时，不由得气喘吁吁。</span><span class="english">I gasped when I saw the answer.</span></p>

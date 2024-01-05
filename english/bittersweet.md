@@ -1,5 +1,7 @@
 # bittersweet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bittersweet.md)
+
 <p><span class="chinese">曾是又苦又甜。</span><span class="english">Was bittersweet.</span></p>
 
 <p><span class="chinese">这是一个苦乐参半的时刻。</span><span class="english">It was a bittersweet moment.</span></p>

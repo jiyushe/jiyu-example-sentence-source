@@ -1,5 +1,7 @@
 # estrogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estrogenic.md)
+
 <p><span class="chinese">已知大豆异黄酮为雌激素。</span><span class="english">Soy isoflavones are known to be estrogenic.</span></p>
 
 <p><span class="chinese">人们在1926年首次注意到它具有雌激素功效。</span><span class="english">They were first noted in 1926 to have estrogenic activity.</span></p>

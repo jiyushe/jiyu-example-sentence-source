@@ -1,5 +1,7 @@
 # 侵袭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinxi.md)
+
 <p><span class="chinese">对小麦造成侵袭的一种铁锈菌。</span><span class="english">Rust fungus that attacks wheat.</span></p>
 
 <p><span class="chinese">疾病侵袭他的骨胳。</span><span class="english">The disease attacked his bones.</span></p>

@@ -1,5 +1,7 @@
 # 阵亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenwang.md)
+
 <p><span class="chinese">爸爸可能阵亡了！</span><span class="english">Father mightbe dead!</span></p>
 
 <p><span class="chinese">双方都有士兵阵亡。</span><span class="english">Soldiers fell on both sides.</span></p>

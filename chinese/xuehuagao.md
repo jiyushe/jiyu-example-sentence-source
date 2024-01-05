@@ -1,5 +1,7 @@
 # 雪花膏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuehuagao.md)
+
 <p><span class="chinese">新买的雪花膏用着行吗？</span><span class="english">Is the newly bought cream OK with you?</span></p>
 
 <p><span class="chinese">仅使用水基润滑剂，不要用凡士林、雪花膏或者油。</span><span class="english">Use only water-based lubricants, not petroleum jelly, cold cream or oils.</span></p>

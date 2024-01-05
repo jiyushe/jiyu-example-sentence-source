@@ -1,5 +1,7 @@
 # xii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xii.md)
+
 <p><span class="chinese">绿化系统规划。</span><span class="english">XII green system planning.</span></p>
 
 <p><span class="chinese">第十二章为全书的结论部分。</span><span class="english">Chapter XII of the conclusion of the book.</span></p>

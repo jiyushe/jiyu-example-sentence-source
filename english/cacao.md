@@ -1,5 +1,7 @@
 # cacao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cacao.md)
+
 <p><span class="chinese">图为树上的可可果荚。</span><span class="english">Cacao fruit pods on the tree.</span></p>
 
 <p><span class="chinese">巧克力是由来自可可树上种子做成的。</span><span class="english">The seeds from the tree known as Theobroma cacao make up chocolates.</span></p>

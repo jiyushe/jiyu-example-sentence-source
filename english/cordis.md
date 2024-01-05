@@ -1,5 +1,7 @@
 # cordis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cordis.md)
+
 <p><span class="chinese">目的探讨心绞痛与心肌梗塞相关危险因素的差异。</span><span class="english">Objective To investigate the difference of risk factors between angina cordis and myocardial infarct.</span></p>
 
 <p><span class="chinese">结论健康教育能有效地预防和控制高血压心脑血管合并病发生，提高患者生活质量和生命质量。</span><span class="english">Conclusions Healthy education can prevent and control the complication of cordis cerebral vessels , elevate quality of life.</span></p>

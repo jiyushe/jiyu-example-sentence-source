@@ -1,5 +1,7 @@
 # hearted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hearted.md)
+
 <p><span class="chinese">他是个黑心肠的家伙。</span><span class="english">He is a black hearted guy.</span></p>
 
 <p><span class="chinese">心碎的傻瓜和被骗者。</span><span class="english">Broken hearted fools and suckers.</span></p>

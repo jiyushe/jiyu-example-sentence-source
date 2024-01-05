@@ -1,5 +1,7 @@
 # dictator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dictator.md)
+
 <p><span class="chinese">你道方小说陵皇帝会放过我们？</span><span class="english">You way ambition the square novel Ling dictator pass us?</span></p>
 
 <p><span class="chinese">利比亚专制政权迅速倒塌，出乎人们的意料。</span><span class="english">In Libya, the fall of a dictator came faster than anyone expected.</span></p>

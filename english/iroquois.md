@@ -1,5 +1,7 @@
 # iroquois
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iroquois.md)
+
 <p><span class="chinese">易洛魁接受你们的献礼，你刚刚拯救了你的人民。</span><span class="english">The Iroquois accept your tribute. You have saved your people.</span></p>
 
 <p><span class="chinese">美洲土著易洛魁印第安人就发展了有关释梦的类似思想。</span><span class="english">Native American Iroquois Indians developed similar ideas about dreams.</span></p>

@@ -1,5 +1,7 @@
 # cumulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cumulate.md)
+
 <p><span class="chinese">今晚的凯普来特是那么的热闹！</span><span class="english">The Cumulate of tonight is so jollification!</span></p>
 
 <p><span class="chinese">层状堆晶在大型镁铁质侵入体中十分普遍。</span><span class="english">Cumulate layering is very common in large mafic intrusions.</span></p>

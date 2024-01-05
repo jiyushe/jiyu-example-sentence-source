@@ -1,5 +1,7 @@
 # 特质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tezhi_1.md)
+
 <p><span class="chinese">这是他不变的特质</span><span class="english">This was a constant trait.</span></p>
 
 <p><span class="chinese">你多久会展现出这种特质一次？</span><span class="english">How often do you show this trait?</span></p>

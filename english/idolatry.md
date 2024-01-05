@@ -1,5 +1,7 @@
 # idolatry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idolatry.md)
+
 <p><span class="chinese">这就是偶像崇拜。</span><span class="english">And that's what idolatry does.</span></p>
 
 <p><span class="chinese">偶像崇拜同样玷污这片土地。</span><span class="english">Idolatry also defiles the land.</span></p>

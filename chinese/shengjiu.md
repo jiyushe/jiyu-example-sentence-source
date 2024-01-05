@@ -1,5 +1,7 @@
 # 生就
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengjiu.md)
+
 <p><span class="chinese">那个孩子一出生就没有耳朵。</span><span class="english">The baby had been bron without ears.</span></p>
 
 <p><span class="chinese">战争本生就没有所谓的正义和邪恶。</span><span class="english">War is born with not so-called justice and Belial.</span></p>

@@ -1,5 +1,7 @@
 # expose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expose.md)
+
 <p><span class="chinese">揭露你隐藏的错处。</span><span class="english">Expose your hidden faults.</span></p>
 
 <p><span class="chinese">我们欢迎揭露假恶丑。</span><span class="english">We welcome the expose evil.</span></p>

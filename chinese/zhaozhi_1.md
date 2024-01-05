@@ -1,5 +1,7 @@
 # 照直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaozhi_1.md)
+
 <p><span class="chinese">照直走两个街区。</span><span class="english">Go straight ahead for two blocks.</span></p>
 
 <p><span class="chinese">就像撕下创可贴一样，照直做吧。</span><span class="english">Like a Band-Aid, just rip it off.</span></p>

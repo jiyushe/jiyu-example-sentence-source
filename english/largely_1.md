@@ -1,5 +1,7 @@
 # largely 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/largely_1.md)
+
 <p><span class="chinese">他在很大程度上以纯粹的外表取胜。</span><span class="english">He gets by largely on pure spiff.</span></p>
 
 <p><span class="chinese">我认为很大程度上是后者。</span><span class="english">I think it was largely the latter.</span></p>

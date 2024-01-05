@@ -1,5 +1,7 @@
 # disorderliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disorderliness.md)
+
 <p><span class="chinese">通常形容的是一种混乱的状态。</span><span class="english">A state of confusion and disorderliness.</span></p>
 
 <p><span class="chinese">杂乱则一事无成，而又紧张无比。</span><span class="english">Disorderliness will make nothing and nervous.</span></p>

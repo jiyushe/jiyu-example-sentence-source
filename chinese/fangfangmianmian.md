@@ -1,5 +1,7 @@
 # 方方面面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangfangmianmian.md)
+
 <p><span class="chinese">它触动了我们生活的方方面面。</span><span class="english">It touches every aspect of our lives.</span></p>
 
 <p><span class="chinese">但我们为什么讨厌它的方方面面？</span><span class="english">And why we hate so many aspects of it.</span></p>

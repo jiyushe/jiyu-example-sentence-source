@@ -1,5 +1,7 @@
 # neuropsychology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuropsychology.md)
+
 <p><span class="chinese">这是神经心理学中心的网站。</span><span class="english">This is the website of the Neuropsychology Central.</span></p>
 
 <p><span class="chinese">测试结果由神经心理医生进行测评、分析。</span><span class="english">And the data were analyzed by neuropsychology physicians.</span></p>

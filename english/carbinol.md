@@ -1,5 +1,7 @@
 # carbinol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbinol.md)
+
 <p><span class="chinese">本文阐述了二甲基苄基原醇的酯化工艺的选择和较佳的酯化方法。</span><span class="english">This paper describes the selection of esterifying processes of dimethyl benzyl carbinol.</span></p>
 
 <p><span class="chinese">将筛选到的高拷贝进行BMMY摇瓶培养，甲醇诱导表达重组蛋白。</span><span class="english">Among them, one colony was cultured in BMMY flask for the expression induced by carbinol.</span></p>

@@ -1,5 +1,7 @@
 # pet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pet.md)
+
 <p><span class="chinese">爱抚她的头发。</span><span class="english">Pet her hair.</span></p>
 
 <p><span class="chinese">宠物沃卢商店。</span><span class="english">Pet Valu store.</span></p>

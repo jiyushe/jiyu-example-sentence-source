@@ -1,5 +1,7 @@
 # evanescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evanescence.md)
+
 <p><span class="chinese">破灭却从不把幻想放过。</span><span class="english">But evanescence has never let go of fantasy.</span></p>
 
 <p><span class="chinese">知识是短暂的，必须经过不断的修改和更新。</span><span class="english">Because of the evanescence of knowledge, it needs constantly modification and regenerate.</span></p>

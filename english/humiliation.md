@@ -1,5 +1,7 @@
 # humiliation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humiliation.md)
+
 <p><span class="chinese">他的心灵因屈辱而受伤。</span><span class="english">His soul was seared by humiliation.</span></p>
 
 <p><span class="chinese">我把最心酸的委屈汇在那里。</span><span class="english">I collect the sad humiliation there.</span></p>

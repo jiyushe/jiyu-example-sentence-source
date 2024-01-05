@@ -1,5 +1,7 @@
 # 系数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishu_3.md)
+
 <p><span class="chinese">尖峰小时系数?。</span><span class="english">Peak Hour Factor, PHF?</span></p>
 
 <p><span class="chinese">压缩系数。</span><span class="english">Z Compressibility factor, z.</span></p>

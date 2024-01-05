@@ -1,5 +1,7 @@
 # 质点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhidian_2.md)
+
 <p><span class="chinese">那么这个质点的速度是多少</span><span class="english">How fast is this particle moving?</span></p>
 
 <p><span class="chinese">那只是对于一个质点而言的。</span><span class="english">Now, that is only for a point mass.</span></p>

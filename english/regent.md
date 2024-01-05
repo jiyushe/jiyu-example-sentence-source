@@ -1,5 +1,7 @@
 # regent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regent.md)
+
 <p><span class="chinese">丽晶宾馆。</span><span class="english">The Regent Hotel.</span></p>
 
 <p><span class="chinese">摄政王还活着？</span><span class="english">The Regent alive?</span></p>

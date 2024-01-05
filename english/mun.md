@@ -1,5 +1,7 @@
 # mun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mun.md)
+
 <p><span class="chinese">屯门录得三十毫米雨量纪录。</span><span class="english">Tuen Mun recorded 30mm of rainfall.</span></p>
 
 <p><span class="chinese">屯门医院日间医疗中心已经落成。</span><span class="english">Care Centre of Tuen Mun Hospital was completed.</span></p>

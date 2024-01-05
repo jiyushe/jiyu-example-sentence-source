@@ -1,5 +1,7 @@
 # 泪痕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leihen.md)
+
 <p><span class="chinese">和自己早已被风吹干的泪痕！</span><span class="english">And the oneself had blown dry tear!</span></p>
 
 <p><span class="chinese">拭干你腮边伤心的泪痕。</span><span class="english">It wipes the sad tear stains on you cheeks dry.</span></p>

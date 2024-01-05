@@ -1,5 +1,7 @@
 # annunciation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annunciation.md)
+
 <p><span class="chinese">克里姆林宫的圣母领报大教堂。</span><span class="english">Annunciation Cathedral in the Kremlin.</span></p>
 
 <p><span class="chinese">好演员的一个重要标志就是对白！</span><span class="english">Annunciation is the mark of a good actor!</span></p>

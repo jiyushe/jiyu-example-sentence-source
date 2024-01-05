@@ -1,5 +1,7 @@
 # hertfordshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hertfordshire.md)
+
 <p><span class="chinese">哈福德郡根本就没有人喜欢他。</span><span class="english">He is not at all liked in Hertfordshire.</span></p>
 
 <p><span class="chinese">你喜欢赫特福德郡吗？</span><span class="english">How do you like it here in Hertfordshire?</span></p>

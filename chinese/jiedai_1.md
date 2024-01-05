@@ -1,5 +1,7 @@
 # 接待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiedai_1.md)
+
 <p><span class="chinese">是谁接待您的，先生？</span><span class="english">Who served you,sir?</span></p>
 
 <p><span class="chinese">接待花边关闭。</span><span class="english">Front lace-up closure.</span></p>

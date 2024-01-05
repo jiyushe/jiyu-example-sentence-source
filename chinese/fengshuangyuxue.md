@@ -1,5 +1,7 @@
 # 风霜雨雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengshuangyuxue.md)
+
 <p><span class="chinese">风霜雨雪催眠了百花。</span><span class="english">Wind frost rain snow Hypnotized flowers.</span></p>
 
 <p><span class="chinese">这所小屋四面都受到风霜雨雪的侵袭。</span><span class="english">The house was exposed to the elements on al sides.</span></p>

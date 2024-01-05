@@ -1,5 +1,7 @@
 # sayest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sayest.md)
+
 <p><span class="chinese">你是这么说的吗？</span><span class="english">Sayest thou so?</span></p>
 
 <p><span class="chinese">是啊，妇人，你算说对了！</span><span class="english">Yea, woman, thou sayest truly!</span></p>

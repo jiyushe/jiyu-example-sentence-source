@@ -1,5 +1,7 @@
 # minimum 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minimum_1.md)
+
 <p><span class="chinese">方快最小。</span><span class="english">Fast minimum.</span></p>
 
 <p><span class="chinese">怎么得到最小值？</span><span class="english">How do we get the minimum?</span></p>

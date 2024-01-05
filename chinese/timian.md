@@ -1,5 +1,7 @@
 # 体面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/timian.md)
+
 <p><span class="chinese">买一个体面的，适合坐的椅子。</span><span class="english">Get a decent ergonomic chair.</span></p>
 
 <p><span class="chinese">任何人可泊车，如果你能停好是体面的。</span><span class="english">It's nice if you can park well.</span></p>

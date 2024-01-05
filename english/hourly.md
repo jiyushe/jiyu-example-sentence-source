@@ -1,5 +1,7 @@
 # hourly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hourly.md)
+
 <p><span class="chinese">我的律师的佣金是每小时130美元。家政公司价格。</span><span class="english">My lawyer's hourly fee is 130 dollars.</span></p>
 
 <p><span class="chinese">许多人是按钟点计酬。</span><span class="english">Many people are paid on an hourly basis.</span></p>

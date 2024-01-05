@@ -1,5 +1,7 @@
 # diskette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diskette.md)
+
 <p><span class="chinese">通过点击存盘图标，保存编辑器内容。</span><span class="english">Save the editor by clicking the diskette icon.</span></p>
 
 <p><span class="chinese">无法访问指定的磁盘或软盘。</span><span class="english">The specified disk or diskette cannot be accessed.</span></p>

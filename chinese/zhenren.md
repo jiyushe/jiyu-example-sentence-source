@@ -1,5 +1,7 @@
 # 真人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenren.md)
+
 <p><span class="chinese">他们是真人吗？</span><span class="english">Are they human?</span></p>
 
 <p><span class="chinese">杭德一家人真的是真人实事吗？</span><span class="english">Is the Hund family for real?</span></p>

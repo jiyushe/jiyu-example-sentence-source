@@ -1,5 +1,7 @@
 # 声腔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqiang.md)
+
 <p><span class="chinese">分属于不同的声腔体系。</span><span class="english">These two operas belong to different vocal systems.</span></p>
 
 <p><span class="chinese">第二章拉魂腔的形成及其声腔特点。</span><span class="english">Second chapter La Hun opera formation and tune characteristic.</span></p>

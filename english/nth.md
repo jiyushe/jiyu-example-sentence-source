@@ -1,5 +1,7 @@
 # nth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nth.md)
+
 <p><span class="chinese">宝贝，让我找到你的项关系。</span><span class="english">Baby, let me find your nth term.</span></p>
 
 <p><span class="chinese">这是电子部分，对N能量。</span><span class="english">For our electronic part, to the Nth power.</span></p>

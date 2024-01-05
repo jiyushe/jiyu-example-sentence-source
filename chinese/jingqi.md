@@ -1,5 +1,7 @@
 # 景气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingqi.md)
+
 <p><span class="chinese">景气状况周期性地出现。</span><span class="english">Booms run in cycle.</span></p>
 
 <p><span class="chinese">最近房地产生意很景气。</span><span class="english">There is the recent boom in real estate.</span></p>

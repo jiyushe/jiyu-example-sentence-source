@@ -1,5 +1,7 @@
 # 行政处分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzhengchufen.md)
+
 <p><span class="chinese">反贪机构的一名官员也将面临行政处分。</span><span class="english">An official of the anti-graft body will also face administrative sanction.</span></p>
 
 <p><span class="chinese">损坏公物或设备，必须赔偿或给予行政处分。</span><span class="english">Those who damage equipment shall pay for it or be subject to the administrative disciplinary action.</span></p>

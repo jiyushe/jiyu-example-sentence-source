@@ -1,5 +1,7 @@
 # mentally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mentally.md)
+
 <p><span class="chinese">起初，我在脑海中掘开了一个坟墓。</span><span class="english">Mentally I dug a grave.</span></p>
 
 <p><span class="chinese">弥拉在心里猜测了一番。</span><span class="english">Mira made a guess mentally.</span></p>

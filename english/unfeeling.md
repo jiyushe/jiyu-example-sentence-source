@@ -1,5 +1,7 @@
 # unfeeling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfeeling.md)
+
 <p><span class="chinese">他是个冷酷无情的衣冠禽兽。</span><span class="english">He is an unfeeling brute!</span></p>
 
 <p><span class="chinese">时光的流逝又是如此的无情。</span><span class="english">The time is so unfeeling to pass.</span></p>

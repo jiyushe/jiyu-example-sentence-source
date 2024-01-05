@@ -1,5 +1,7 @@
 # luxurious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luxurious.md)
+
 <p><span class="chinese">这是一家豪华旅馆。</span><span class="english">This is a luxurious hotel.</span></p>
 
 <p><span class="chinese">廉价和豪华住宿CDG的。</span><span class="english">CDG, lodging, cheap and luxurious.</span></p>

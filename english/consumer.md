@@ -1,5 +1,7 @@
 # consumer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consumer.md)
+
 <p><span class="chinese">消费者并非低能儿。</span><span class="english">The consumer is not a moron.</span></p>
 
 <p><span class="chinese">这是个消费者播客公司。</span><span class="english">It was a consumer podcasting company.</span></p>

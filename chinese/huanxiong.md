@@ -1,5 +1,7 @@
 # 浣熊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxiong.md)
+
 <p><span class="chinese">浣熊吃小龙虾。</span><span class="english">Raccoons eat crayfish.</span></p>
 
 <p><span class="chinese">小浣熊可以住在城市里。</span><span class="english">Racoons can live in cities.</span></p>

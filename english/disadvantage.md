@@ -1,5 +1,7 @@
 # disadvantage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disadvantage.md)
+
 <p><span class="chinese">贫困与疾病密不可分。</span><span class="english">Disadvantage and disease go together.</span></p>
 
 <p><span class="chinese">但是，它有一个很大的弊端。</span><span class="english">However, it has a major disadvantage.</span></p>

@@ -1,5 +1,7 @@
 # luckless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luckless.md)
+
 <p><span class="chinese">之后会有不幸的夜晚。</span><span class="english">There comes a luckless night.</span></p>
 
 <p><span class="chinese">也许把所有的责任推给一只不幸的猫不公平。</span><span class="english">Perhaps it is unfair to put all the responsibility on one luckless cat.</span></p>

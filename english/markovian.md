@@ -1,5 +1,7 @@
 # markovian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/markovian.md)
+
 <p><span class="chinese">本文提出了马尔可夫模型在投资组合理论及风险管理。</span><span class="english">This paper proposes markovian models in portfolio theory and risk management.</span></p>
 
 <p><span class="chinese">利用马尔可夫理论，构造了两个机采工作面产量的模拟模型。</span><span class="english">Two models for output of mechanized coal face are constructed with Markovian theory.</span></p>

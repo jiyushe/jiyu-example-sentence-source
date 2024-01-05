@@ -1,5 +1,7 @@
 # harassment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harassment.md)
+
 <p><span class="chinese">骚扰和恐吓。</span><span class="english">Harassment and intimidation.</span></p>
 
 <p><span class="chinese">CAA宣布，对家庭教会的骚扰正在增加。</span><span class="english">CAA claims harassment of house churches is rising.</span></p>

@@ -1,5 +1,7 @@
 # councillor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/councillor.md)
+
 <p><span class="chinese">她质疑他作为市议员的诚信度。</span><span class="english">She questioned his integrity as a councillor.</span></p>
 
 <p><span class="chinese">余若薇，香港立法会议议员。</span><span class="english">Audrey EU, Legislative Councillor of Hong Kong.</span></p>

@@ -1,5 +1,7 @@
 # 驴子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvzi.md)
+
 <p><span class="chinese">驴子说“嘿—嚯”。</span><span class="english">Donkeys say heehaw.</span></p>
 
 <p><span class="chinese">我喜欢岩藻糖王驴子我！</span><span class="english">I like F U C King ass!</span></p>

@@ -1,5 +1,7 @@
 # lander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lander.md)
+
 <p><span class="chinese">艾德文·巴兹·奥尔德林是登月舱驾驶员。</span><span class="english">Edwin "Buzz" Aldrin was pilot of the moon lander vehicle.</span></p>
 
 <p><span class="chinese">为了到达火星表面，NASA设想一种空气动力着陆器，用推进器帮助它下降。</span><span class="english">lander that flies down with thrusters to help it descend.</span></p>

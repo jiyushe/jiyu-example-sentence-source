@@ -1,5 +1,7 @@
 # emotionless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emotionless.md)
+
 <p><span class="chinese">我妈妈脸上一丝表情也没有。</span><span class="english">My mom's face was emotionless.</span></p>
 
 <p><span class="chinese">怎样做一个没有情感的人？</span><span class="english">How to do an emotionless person?</span></p>

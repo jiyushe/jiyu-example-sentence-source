@@ -1,5 +1,7 @@
 # incorruptibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incorruptibility.md)
+
 <p><span class="chinese">正直廉洁的人不为金钱所收买。</span><span class="english">A man of integrity and incorruptibility is proof against bribery.</span></p>
 
 <p><span class="chinese">“清正廉洁是中国红十字会工作的准则，”华建敏说。</span><span class="english">"Incorruptibility and cleanness are the lifelines of the Red Cross' work in China," Hua said.</span></p>

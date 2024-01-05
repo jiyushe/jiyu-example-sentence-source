@@ -1,5 +1,7 @@
 # bollard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bollard.md)
+
 <p><span class="chinese">拖到绘图页后，可以添加阻止机动车通行的安全岛护柱。</span><span class="english">Drag onto the page to add a bollard for blocking vehicle access.</span></p>
 
 <p><span class="chinese">现在是时候攻击的安全扶手，柱洞，和舱口。</span><span class="english">It is time to attack the safety rails, bollard holes, and hatches.</span></p>

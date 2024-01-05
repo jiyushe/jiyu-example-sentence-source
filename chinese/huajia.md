@@ -1,5 +1,7 @@
 # 花甲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huajia.md)
+
 <p><span class="chinese">三位作者都已经接近或步入花甲之年。</span><span class="english">All three authors are in or fast approaching their 60s.</span></p>
 
 <p><span class="chinese">这些人中有念过花甲的老翁，有羽翼未丰的少年，处在各自人生不同的阶段上。</span><span class="english">These people do not have to be young or old, they are just in a stage of their lives.</span></p>

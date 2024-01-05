@@ -1,5 +1,7 @@
 # gag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gag.md)
+
 <p><span class="chinese">我再不会被那种招数骗倒了。</span><span class="english">I won't fall for that gag again.</span></p>
 
 <p><span class="chinese">Gag也是HIV-1病毒的成分。</span><span class="english">Gag is also a component of HIV-1.</span></p>

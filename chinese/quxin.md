@@ -1,5 +1,7 @@
 # 取信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quxin.md)
+
 <p><span class="chinese">什么时候取信？</span><span class="english">When are the letters collected?</span></p>
 
 <p><span class="chinese">他是一位非常能取信于人的演讲者。</span><span class="english">He is a very persuasive speaker.</span></p>

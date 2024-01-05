@@ -1,5 +1,7 @@
 # 封斋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengzhai.md)
+
 <p><span class="chinese">假如你不能封斋，你可以给予他人必要的帮助。</span><span class="english">If you cannot fast you can give to others in need.</span></p>
 
 <p><span class="chinese">规定，9岁以下的男孩因为未成年而不用封斋。</span><span class="english">According to Islamic rules, boys under 9 do not need to fast.</span></p>

@@ -1,5 +1,7 @@
 # 鼻梁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biliang_1.md)
+
 <p><span class="chinese">我断过鼻梁，所以受伤了。</span><span class="english">I broke my nose, so I was injured.</span></p>
 
 <p><span class="chinese">她有一双明亮的眼晴和高高的鼻梁。</span><span class="english">She had bright eyes and high naes bridge.</span></p>

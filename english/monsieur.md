@@ -1,5 +1,7 @@
 # monsieur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monsieur.md)
+
 <p><span class="chinese">一千法郎，先生。</span><span class="english">One thousand francs, monsieur.</span></p>
 
 <p><span class="chinese">请问马吕斯先生在吗？</span><span class="english">Monsieur Marius, if you please.</span></p>

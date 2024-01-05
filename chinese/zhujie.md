@@ -1,5 +1,7 @@
 # 注解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujie.md)
+
 <p><span class="chinese">他匆匆记下了那些注解。</span><span class="english">He dotted down those notes.</span></p>
 
 <p><span class="chinese">但是注解方法会更好吗？</span><span class="english">But is the annotation approach better?</span></p>

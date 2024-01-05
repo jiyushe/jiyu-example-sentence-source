@@ -1,5 +1,7 @@
 # 双眸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangmou.md)
+
 <p><span class="chinese">我的双眸开始模糊。</span><span class="english">My eyes start fuzzily.</span></p>
 
 <p><span class="chinese">轻柔地合上你的似水双眸。</span><span class="english">Shut softly your watery eyes.</span></p>

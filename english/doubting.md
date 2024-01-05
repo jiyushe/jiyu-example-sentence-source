@@ -1,5 +1,7 @@
 # doubting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doubting.md)
+
 <p><span class="chinese">怀疑并不必然是罪恶的。</span><span class="english">Doubting is not necessarily sinful.</span></p>
 
 <p><span class="chinese">不要再怀疑你自己的伟大。</span><span class="english">Stop doubting the greatness in YOU.</span></p>

@@ -1,5 +1,7 @@
 # curricular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curricular.md)
+
 <p><span class="chinese">但要注意，学好学校里教的课程才是最重要的。</span><span class="english">But you should first learn your curricular courses well.</span></p>
 
 <p><span class="chinese">我已经听说了你在科研和课外活动方面的优秀成绩。</span><span class="english">I have heard of your excellent record in research and extra curricular activities.</span></p>

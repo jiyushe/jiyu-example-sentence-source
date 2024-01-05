@@ -1,5 +1,7 @@
 # mythic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mythic.md)
+
 <p><span class="chinese">在虚构的故事中,起引导作用的动物是关键角色。</span><span class="english">Guiding animals are crucial in mythic stories.</span></p>
 
 <p><span class="chinese">这个人却是希腊神话里的英雄珀尔修斯。</span><span class="english">It is one of the mythic heroes of Greece, Perseus.</span></p>

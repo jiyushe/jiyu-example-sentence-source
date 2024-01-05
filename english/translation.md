@@ -1,5 +1,7 @@
 # translation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/translation.md)
+
 <p><span class="chinese">因为没有平移不变性。</span><span class="english">There's no translation.</span></p>
 
 <p><span class="chinese">它不需要翻译。</span><span class="english">It needs no translation.</span></p>

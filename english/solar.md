@@ -1,5 +1,7 @@
 # solar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solar.md)
+
 <p><span class="chinese">太阳能集热板如何工作呢？</span><span class="english">How do solar panels work?</span></p>
 
 <p><span class="chinese">我们能预测太阳风暴吗？</span><span class="english">Can we predict solar storms?</span></p>

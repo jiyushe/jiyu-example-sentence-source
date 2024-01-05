@@ -1,5 +1,7 @@
 # 碌碌无为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luluwuwei.md)
+
 <p><span class="chinese">碌碌无为是庸人所为，奋发图强是智者之举。</span><span class="english">As for the wave is mediocre, and hard work is wise move.</span></p>
 
 <p><span class="chinese">若是碌碌无为，那么，青春将会随着时间悄悄地溜走。</span><span class="english">Otherwise, if we do nothing allday , youth will slip away with time.</span></p>

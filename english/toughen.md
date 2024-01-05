@@ -1,5 +1,7 @@
 # toughen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toughen.md)
+
 <p><span class="chinese">现在采取强硬的措施尚未为时过晚。</span><span class="english">It is not too late for him to toughen up.</span></p>
 
 <p><span class="chinese">他的父母把他送到学校经受锻炼。</span><span class="english">His parents sent him away to school to toughen him up.</span></p>

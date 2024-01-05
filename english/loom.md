@@ -1,5 +1,7 @@
 # loom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loom.md)
+
 <p><span class="chinese">这台纺织机已清洗。</span><span class="english">The loom was blown off.</span></p>
 
 <p><span class="chinese">干草垛在英国的一片农田上隐约可见。</span><span class="english">Hay bales loom over a U. K. field.</span></p>

@@ -1,5 +1,7 @@
 # 那达慕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nadamu.md)
+
 <p><span class="chinese">那达慕“在蒙古语中是”娱乐“或”游戏“的意思。</span><span class="english">"Nadam"in Mongolian means "amusement"or "entertainment".</span></p>
 
 <p><span class="chinese">摔跤是那达慕的主要内容，蒙古式摔跤。</span><span class="english">The Mongolian style wrestling is the main event in Nadam.</span></p>

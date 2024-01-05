@@ -1,5 +1,7 @@
 # headstream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headstream.md)
+
 <p><span class="chinese">分层教学的源头在中国。</span><span class="english">Teaching with layers headstream is in China.</span></p>
 
 <p><span class="chinese">夷水河畔、清江源头、龙船古韵、风情种种。</span><span class="english">Lichuan locates along the Yi River, headstream of Qingjiang River.</span></p>

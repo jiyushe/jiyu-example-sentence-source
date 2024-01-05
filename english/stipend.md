@@ -1,5 +1,7 @@
 # stipend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stipend.md)
+
 <p><span class="chinese">他们得到的只是很少的每周津贴和免费的听析课程。</span><span class="english">They get a small weekly stipend and receive free auditing and coursework.</span></p>
 
 <p><span class="chinese">补助房建得很坚固，居民每年还能拿到不多的津贴。</span><span class="english">The subsidized housing is solid, and residents receive a small annual stipend.</span></p>

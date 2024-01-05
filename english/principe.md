@@ -1,5 +1,7 @@
 # principe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/principe.md)
+
 <p><span class="chinese">圣多美和普林西比降低了近一半的比率。</span><span class="english">Sao Tome and Principe by nearly half.</span></p>
 
 <p><span class="chinese">普林西比希望为炼金术讨回名声。</span><span class="english">Dr Principe wants to rehabilitate alchemy.</span></p>

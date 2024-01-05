@@ -1,5 +1,7 @@
 # trapezius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trapezius.md)
+
 <p><span class="chinese">下沉斜方肌的皮肤。</span><span class="english">Drop your trapezius skin.</span></p>
 
 <p><span class="chinese">你的斜方肌必须下沉。</span><span class="english">Your trapezius muscles should be descending.</span></p>

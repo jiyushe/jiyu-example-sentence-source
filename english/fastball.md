@@ -1,5 +1,7 @@
 # fastball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fastball.md)
+
 <p><span class="chinese">杰克极力用短打打出投手投出的快球。</span><span class="english">Jack managed to bunt the fastball.</span></p>
 
 <p><span class="chinese">孩子们给你一个练习快球的理由。</span><span class="english">Kids give you an excuse to work on your fastball.</span></p>

@@ -1,5 +1,7 @@
 # shod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shod.md)
+
 <p><span class="chinese">公用之马，掌子最差。</span><span class="english">The common horse is worst shod.</span></p>
 
 <p><span class="chinese">补鞋匠的妻子没好鞋穿。</span><span class="english">The cobbler's wife is the worst shod.</span></p>

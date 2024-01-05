@@ -1,5 +1,7 @@
 # expendable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expendable.md)
+
 <p><span class="chinese">你觉得你把女人玩弄于股掌之中就是大赢家了?。</span><span class="english">You think you've won because woman are expendable to you?</span></p>
 
 <p><span class="chinese">兰迪·科裘饰演托尔·罗德，敢死队员，爆破专家。</span><span class="english">Randy Couture as Toll Road, an Expendable and demolitions expert.</span></p>

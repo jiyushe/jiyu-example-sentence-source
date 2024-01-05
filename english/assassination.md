@@ -1,5 +1,7 @@
 # assassination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assassination.md)
+
 <p><span class="chinese">那是他父亲被刺的消息。</span><span class="english">It was his father's assassination.</span></p>
 
 <p><span class="chinese">执行塔里克空气刺杀。</span><span class="english">Perform an Air Assassination on Tarik.</span></p>

@@ -1,5 +1,7 @@
 # parody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parody.md)
+
 <p><span class="chinese">难道他们没有看过2007年“MADtv”节目对“iPad”这个名字的恶搞吗？</span><span class="english">Did they not see "MADtv's" iPad parody in 2007?</span></p>
 
 <p><span class="chinese">“这孩子”精练的语言略似对低成本的西部电影的一种戏仿。</span><span class="english">The kid's terseness is a mild parody of B-movie westerns.</span></p>

@@ -1,5 +1,7 @@
 # cetane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cetane.md)
+
 <p><span class="chinese">对生物柴油的十六烷值改进进行了研究。</span><span class="english">Cetane value of bio-diesel was improved by adding the improver.</span></p>
 
 <p><span class="chinese">机车柴油机烧低十六烷值柴油具有很重要的现实意义。</span><span class="english">It is significant for locomotive diesel engine to burn low cetane fuel.</span></p>

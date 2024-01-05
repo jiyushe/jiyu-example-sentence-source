@@ -1,5 +1,7 @@
 # nucleolar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucleolar.md)
+
 <p><span class="chinese">核仁组成区嗜银染色。</span><span class="english">Argyrophilic nucleolar organizer regions stain.</span></p>
 
 <p><span class="chinese">在整个核仁周期中，核仁的FC和DFC结构组分发生变化。</span><span class="english">In all the nucleolar cycle, nucleolar FCs and DFCs structure changed.</span></p>

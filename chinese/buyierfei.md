@@ -1,5 +1,7 @@
 # 不翼而飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyierfei.md)
+
 <p><span class="chinese">前门不翼而飞，屋顶豁开了一个洞。</span><span class="english">The front door was missing. A hole gaped in the roof.</span></p>
 
 <p><span class="chinese">为什么M村经常夜里家鸡会不翼而飞？</span><span class="english">Why M village often night chicken will take wings to itself?</span></p>

@@ -1,5 +1,7 @@
 # humanly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanly.md)
+
 <p><span class="chinese">我会尽量讲得生动一些。</span><span class="english">I'll try to make it as interesting as I humanly can do.</span></p>
 
 <p><span class="chinese">即使生命值得我们为其争斗，人类如何才能用人力为生命而争斗？</span><span class="english">Even if life is worth fighting for, how is it humanly possible?</span></p>

@@ -1,5 +1,7 @@
 # 都会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douhui.md)
+
 <p><span class="chinese">鱼都会游水。</span><span class="english">All fish swim.</span></p>
 
 <p><span class="chinese">所以，所有的分数都会记入在内。</span><span class="english">So, all scores count.</span></p>

@@ -1,5 +1,7 @@
 # squid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squid.md)
+
 <p><span class="chinese">现压鱿鱼丝男人。</span><span class="english">Pressed shredded squid man.</span></p>
 
 <p><span class="chinese">乌贼炖汤味道很好。</span><span class="english">The squid stew tasted good.</span></p>

@@ -1,5 +1,7 @@
 # radicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radicular.md)
+
 <p><span class="chinese">两个患者的背痛及神经根放射痛均得到了快速的缓解。</span><span class="english">Both patients had rapid resolution of back and radicular pain.</span></p>
 
 <p><span class="chinese">结论根尖囊肿大多可由根管治疗术治愈，囊肿大时需结合外科手术治疗。</span><span class="english">Conclusion Most of radicular cysts can be cured with complete root canal therapy.</span></p>

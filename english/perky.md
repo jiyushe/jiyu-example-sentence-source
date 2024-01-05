@@ -1,5 +1,7 @@
 # perky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perky.md)
+
 <p><span class="chinese">消遥自在的小南希，62年前的舞会皇后。</span><span class="english">Perky little Nancy, prom queen sixty two years ago.</span></p>
 
 <p><span class="chinese">一旦音乐开始，这自信帅气的小狗就成为了最佳的音乐演奏者！</span><span class="english">Once the music starts, this perky pooch becomes a music-groovin' machine!</span></p>

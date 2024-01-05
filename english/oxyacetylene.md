@@ -1,5 +1,7 @@
 # oxyacetylene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxyacetylene.md)
+
 <p><span class="chinese">最好采用氧炔焰加热方法。</span><span class="english">The preferred method is by oxyacetylene flame.</span></p>
 
 <p><span class="chinese">管道焊接不得使用氧乙炔焰焊接。</span><span class="english">Oxyacetylene flame can' be used for welding of pipeline.</span></p>

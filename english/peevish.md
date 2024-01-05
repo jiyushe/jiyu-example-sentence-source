@@ -1,5 +1,7 @@
 # peevish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peevish.md)
+
 <p><span class="chinese">我有一个脾气暴躁的弟弟。</span><span class="english">I have a peevish brother.</span></p>
 
 <p><span class="chinese">我陪伴着生病的孩子彻夜未眠。</span><span class="english">The child is never peevish unless sick.</span></p>

@@ -1,5 +1,7 @@
 # folate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folate.md)
+
 <p><span class="chinese">检查铁和叶酸的水平。</span><span class="english">Check iron and folate levels.</span></p>
 
 <p><span class="chinese">白萝卜中富含微生物C和叶酸。</span><span class="english">Daikon is high in vitamin C and folate.</span></p>

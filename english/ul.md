@@ -1,5 +1,7 @@
 # ul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ul.md)
+
 <p><span class="chinese">通过UL测试为15万循环测试。</span><span class="english">Tested by UL for 150k cycle test.</span></p>
 
 <p><span class="chinese">他们出售UL认证袋有没有遮光罩。</span><span class="english">They sell UL bags there with no hood.</span></p>

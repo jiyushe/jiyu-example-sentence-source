@@ -1,5 +1,7 @@
 # 闪闪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshan_2.md)
+
 <p><span class="chinese">闪闪发光。</span><span class="english">It was sparkly.</span></p>
 
 <p><span class="chinese">太阳照得湖面闪闪发光。</span><span class="english">The sun sparkled the lake.</span></p>

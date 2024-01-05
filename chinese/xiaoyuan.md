@@ -1,5 +1,7 @@
 # 小院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyuan.md)
+
 <p><span class="chinese">我们的小院用伏牛花树篱与外面隔开。</span><span class="english">A barberry hedge bounded our small front yard.</span></p>
 
 <p><span class="chinese">这座普通的民宅为前后两个小院。</span><span class="english">The cottage is made up of two small courtyards.</span></p>

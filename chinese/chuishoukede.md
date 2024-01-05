@@ -1,5 +1,7 @@
 # 垂手可得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuishoukede.md)
+
 <p><span class="chinese">它已经垂手可得，却稍纵即逝。</span><span class="english">It is readily available, but fleeting.</span></p>
 
 <p><span class="chinese">看来这个队胜利垂手可得。</span><span class="english">Victory seemed within the team's grasp.</span></p>

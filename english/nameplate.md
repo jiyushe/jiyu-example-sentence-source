@@ -1,5 +1,7 @@
 # nameplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nameplate.md)
+
 <p><span class="chinese">他左胸前佩带着一张名牌。</span><span class="english">He was wearing a nameplate on his left breast.</span></p>
 
 <p><span class="chinese">每个棺材也有刺绣的羊毛铭牌。</span><span class="english">Each coffin also has an embroidered woolen nameplate.</span></p>

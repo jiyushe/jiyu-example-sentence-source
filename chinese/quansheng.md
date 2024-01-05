@@ -1,5 +1,7 @@
 # 全胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quansheng.md)
+
 <p><span class="chinese">我们六场全胜的，对吧？</span><span class="english">Six in our favour, right?</span></p>
 
 <p><span class="chinese">他们的党在选举中几乎获全胜。</span><span class="english">Three candidates are vying in this election.</span></p>

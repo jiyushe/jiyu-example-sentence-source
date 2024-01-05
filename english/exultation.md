@@ -1,5 +1,7 @@
 # exultation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exultation.md)
+
 <p><span class="chinese">天使诗班歌唱，颂声喜乐洋洋。</span><span class="english">Sing, choirs of angels, Sing in exultation.</span></p>
 
 <p><span class="chinese">城建成后，吴王大喜。</span><span class="english">The city is completed, the king exultation.</span></p>

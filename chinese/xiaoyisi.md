@@ -1,5 +1,7 @@
 # 小意思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyisi.md)
+
 <p><span class="chinese">这点小意思，请务必收下。</span><span class="english">Please do accept my little favor.</span></p>
 
 <p><span class="chinese">你会说，好吧，小意思。</span><span class="english">Now, you may say, "Well, big deal.</span></p>

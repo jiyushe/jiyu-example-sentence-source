@@ -1,5 +1,7 @@
 # 残存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cancun.md)
+
 <p><span class="chinese">大火之后，仍有一些树木残存。</span><span class="english">In the big fire, some trees survived.</span></p>
 
 <p><span class="chinese">微量的化学物质还残存在土壤中。</span><span class="english">Traces of those chemicals still remain in the soil.</span></p>

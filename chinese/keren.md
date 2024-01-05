@@ -1,5 +1,7 @@
 # 客人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keren.md)
+
 <p><span class="chinese">我是1708房间的客人。</span><span class="english">I'm in room 1708.</span></p>
 
 <p><span class="chinese">在客人面前别打呵欠。</span><span class="english">Don't yawn in company.</span></p>

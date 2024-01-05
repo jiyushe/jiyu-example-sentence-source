@@ -1,5 +1,7 @@
 # postcolonial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postcolonial.md)
+
 <p><span class="chinese">新加坡是一个出众的后殖民社会。</span><span class="english">Singapore is a postcolonial society par excellence.</span></p>
 
 <p><span class="chinese">因此，作为全球化时代的后殖民作家，阿迪加还需要进一步扬弃他的书写策略。</span><span class="english">Therefore, as a postcolonial writer, Aravind Adiga has to further sublate his writing strategies.</span></p>

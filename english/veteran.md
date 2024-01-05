@@ -1,5 +1,7 @@
 # veteran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veteran.md)
+
 <p><span class="chinese">这位老工人并不见老。</span><span class="english">The veteran worker is wearing well.</span></p>
 
 <p><span class="chinese">埃亨是一个资深的政界人士。</span><span class="english">Bertie Ahern is a veteran politician.</span></p>

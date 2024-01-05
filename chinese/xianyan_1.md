@@ -1,5 +1,7 @@
 # 鲜艳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyan_1.md)
+
 <p><span class="chinese">多么鲜艳芬芳！</span><span class="english">How colorful and fragrant!</span></p>
 
 <p><span class="chinese">嗨，我喜欢那条鲜艳的领带。</span><span class="english">Hey, I like that jazzy tie.</span></p>

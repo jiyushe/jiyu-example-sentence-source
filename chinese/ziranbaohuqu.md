@@ -1,5 +1,7 @@
 # 自然保护区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranbaohuqu.md)
+
 <p><span class="chinese">九寨沟是一个自然保护区吗？</span><span class="english">Is Jiuzhaigou a nature reserve?</span></p>
 
 <p><span class="chinese">一段介绍米埔自然保护区的短片。</span><span class="english">A short video on Mai Po Nature Reserve.</span></p>

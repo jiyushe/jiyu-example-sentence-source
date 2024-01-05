@@ -1,5 +1,7 @@
 # wanderlust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wanderlust.md)
+
 <p><span class="chinese">这种现象，有时叫做流浪癖。</span><span class="english">This phenomenon, sometimes called wanderlust.</span></p>
 
 <p><span class="chinese">这种现象有时也被称作旅行癖。</span><span class="english">This phenomenon, sometimes called wanderlust.</span></p>

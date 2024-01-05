@@ -1,5 +1,7 @@
 # promote 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promote.md)
+
 <p><span class="chinese">甚至有可能会推动改革创新。</span><span class="english">It may even promote it.</span></p>
 
 <p><span class="chinese">安神、促进睡眠。</span><span class="english">Anshen and promote sleep.</span></p>

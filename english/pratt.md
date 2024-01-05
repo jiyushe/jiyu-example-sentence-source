@@ -1,5 +1,7 @@
 # pratt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pratt.md)
+
 <p><span class="chinese">普拉特医生正打电话给警察。</span><span class="english">Dr Pratt is phoning the police.</span></p>
 
 <p><span class="chinese">斯普拉格·德·坎普和弗莱彻.普拉特</span><span class="english">L. Sprague de Camp and Fletcher Pratt</span></p>

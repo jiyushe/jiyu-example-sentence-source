@@ -1,5 +1,7 @@
 # tid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tid.md)
+
 <p><span class="chinese">如果你有些问题，你可以用这些方法告诉TID！</span><span class="english">If you have some problems, you can tell TID by these way.</span></p>
 
 <p><span class="chinese">本署日后可随时就电子帐户的使用条件作出更新和修改。</span><span class="english">The conditions of use for E-Account may be updated and revised by the TID from time to time.</span></p>

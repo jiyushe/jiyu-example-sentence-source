@@ -1,5 +1,7 @@
 # filigree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filigree.md)
+
 <p><span class="chinese">以上四行宝石均镶在胸牌的金框内。</span><span class="english">They were mounted in gold filigree settings.</span></p>
 
 <p><span class="chinese">嵌金银丝艺术挂毯，绚丽雅典。</span><span class="english">The art filigree tapestry is elegant and magnificent.</span></p>

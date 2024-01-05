@@ -1,5 +1,7 @@
 # brothel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brothel.md)
+
 <p><span class="chinese">青楼小说是他创作中的主要类型。</span><span class="english">His brothel creation is a main type of his works.</span></p>
 
 <p><span class="chinese">碧波摇影寻旧梦，青楼游客追新潮。</span><span class="english">Bibo shake shadow dream hunt, chase trendy brothel visitors.</span></p>

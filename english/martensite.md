@@ -1,5 +1,7 @@
 # martensite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/martensite.md)
+
 <p><span class="chinese">没有发现形变诱发马氏体相。</span><span class="english">No deformation martensite phase was discovered.</span></p>
 
 <p><span class="chinese">马氏体型耐热钢的热处理。</span><span class="english">Martensite heat-resistant steel type of heat treatment.</span></p>

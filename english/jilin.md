@@ -1,5 +1,7 @@
 # jilin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jilin.md)
+
 <p><span class="chinese">吉林省方明装饰有限公司。</span><span class="english">Jilin Fangming Decoration Co. , Ltd.</span></p>
 
 <p><span class="chinese">我来自中国吉林省延吉市。</span><span class="english">I from yanji city Jilin province China.</span></p>

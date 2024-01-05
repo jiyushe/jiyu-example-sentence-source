@@ -1,5 +1,7 @@
 # fbi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fbi.md)
+
 <p><span class="chinese">联邦调查局当时也想对这些人发动强攻。</span><span class="english">The FBI wanted to storm them, too.</span></p>
 
 <p><span class="chinese">我可讨厌受到联邦调查局的监视。</span><span class="english">I hate being stood over by the FBI.</span></p>

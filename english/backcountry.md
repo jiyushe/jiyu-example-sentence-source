@@ -1,5 +1,7 @@
 # backcountry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backcountry.md)
+
 <p><span class="chinese">偏僻地区滑雪橇第10山脉赛区小屋。</span><span class="english">Backcountry Ski the 10th Mountain Division Huts.</span></p>
 
 <p><span class="chinese">那些地方没有人类活动的痕迹。</span><span class="english">The backcountry is far away from human activity.</span></p>

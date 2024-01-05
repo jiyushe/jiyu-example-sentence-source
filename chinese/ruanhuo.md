@@ -1,5 +1,7 @@
 # 软和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanhuo.md)
+
 <p><span class="chinese">很好看，它软和吗？</span><span class="english">It looks good. Is it soft?</span></p>
 
 <p><span class="chinese">他是如此温暖、松软和可爱。</span><span class="english">He's so warm and fuzzy and cute.</span></p>

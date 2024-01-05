@@ -1,5 +1,7 @@
 # acanthus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acanthus.md)
+
 <p><span class="chinese">一个穿其他与警卫室和老鼠模式。</span><span class="english">One pierced the other with guardroom and acanthus patterns.</span></p>
 
 <p><span class="chinese">蕨类叶片，野玫瑰的深红背景，威廉，莫里斯。</span><span class="english">Acanthus Leaves, Wild Rose on Crimson Background, William, Morris.</span></p>

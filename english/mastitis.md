@@ -1,5 +1,7 @@
 # mastitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastitis.md)
+
 <p><span class="chinese">小孩得奶疮要紧不?。</span><span class="english">Does the child get mastitis to matter not?</span></p>
 
 <p><span class="chinese">临床上以外吹乳痈最为常见。</span><span class="english">On clinical outside blows the mastitis to be most common.</span></p>

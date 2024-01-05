@@ -1,5 +1,7 @@
 # yep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yep.md)
+
 <p><span class="chinese">哦，是的。</span><span class="english">Oh yep.</span></p>
 
 <p><span class="chinese">歌词！！</span><span class="english">Yep – song lyrics.</span></p>

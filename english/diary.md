@@ -1,5 +1,7 @@
 # diary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diary.md)
+
 <p><span class="chinese">记日记。</span><span class="english">Keep a diary.</span></p>
 
 <p><span class="chinese">来一段录音游记。</span><span class="english">An audio diary.</span></p>

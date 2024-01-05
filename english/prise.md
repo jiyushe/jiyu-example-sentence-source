@@ -1,5 +1,7 @@
 # prise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prise.md)
+
 <p><span class="chinese">我们设法用卸外胎用的撬棍撬开了盖子。</span><span class="english">We managed to prise off the lid with a tyre lever.</span></p>
 
 <p><span class="chinese">我最终从她口中套出了他的新住址。</span><span class="english">I finally managed to prise his new address out of her.</span></p>

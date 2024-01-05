@@ -1,5 +1,7 @@
 # 名宿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingsu.md)
+
 <p><span class="chinese">主持人特里贝克届时将介绍名宿们。</span><span class="english">The legends will be introduced by experienced compere Terry Baker.</span></p>
 
 <p><span class="chinese">利物浦名宿达格利什非常希望杰拉德成为英格兰常任队长。</span><span class="english">Liverpool icon Kenny Dalglish can see Steven Gerrard being made permanent England captain.</span></p>

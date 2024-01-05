@@ -1,5 +1,7 @@
 # 养女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangnv.md)
+
 <p><span class="chinese">养女容易嫁女难。</span><span class="english">Wed one's daughter to sb.</span></p>
 
 <p><span class="chinese">他们育有4个子女，包括一个养女。</span><span class="english">They have four children, including an adopted daughter.</span></p>

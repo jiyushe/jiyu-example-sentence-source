@@ -1,5 +1,7 @@
 # 杂食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zashi_1.md)
+
 <p><span class="chinese">我是一个失败的杂食者。</span><span class="english">I am a failed omnivore.</span></p>
 
 <p><span class="chinese">黑猩猩是杂食动物。</span><span class="english">Chimps are omnivorous10.</span></p>

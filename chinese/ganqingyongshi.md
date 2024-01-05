@@ -1,5 +1,7 @@
 # 感情用事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganqingyongshi.md)
+
 <p><span class="chinese">不要感情用事。</span><span class="english">Don’t react emotionally.</span></p>
 
 <p><span class="chinese">在投资上别感情用事。</span><span class="english">Never invest on sentiment.</span></p>

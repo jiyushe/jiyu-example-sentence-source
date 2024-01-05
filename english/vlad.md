@@ -1,5 +1,7 @@
 # vlad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vlad.md)
+
 <p><span class="chinese">弗拉德的吸血鬼是暗杀。</span><span class="english">Vlad the Impaler is assassinated.</span></p>
 
 <p><span class="chinese">我们可以按照通常的方式安装Vlad</span><span class="english">Vlad can be installed with the usual</span></p>

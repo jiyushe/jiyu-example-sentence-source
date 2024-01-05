@@ -1,5 +1,7 @@
 # anomie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anomie.md)
+
 <p><span class="chinese">第一部分“多样性还是混乱？”</span><span class="english">The first section, "Diversity or Anomie?"</span></p>
 
 <p><span class="chinese">工业阶级矛盾就是一种反常的症象。</span><span class="english">Industrial class conflict was a symptom of anomie.</span></p>

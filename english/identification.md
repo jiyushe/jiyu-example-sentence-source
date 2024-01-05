@@ -1,5 +1,7 @@
 # identification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/identification.md)
+
 <p><span class="chinese">手柄尾部的标记容易识别。</span><span class="english">Tip-Ident for easy identification.</span></p>
 
 <p><span class="chinese">读者把自己代入书中角色时情况会如何？</span><span class="english">What is the status of identification?</span></p>

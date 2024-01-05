@@ -1,5 +1,7 @@
 # betrothal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betrothal.md)
+
 <p><span class="chinese">此命令正确的合作伙伴关系的木色。</span><span class="english">This proceed rightly betrothal the color of wood.</span></p>
 
 <p><span class="chinese">在古希腊也有赠送”订婚戒指”的习俗。</span><span class="english">The ancient Greeks also offered a "betrothal ring".</span></p>

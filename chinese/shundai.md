@@ -1,5 +1,7 @@
 # 顺带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shundai.md)
+
 <p><span class="chinese">顺带一说格雷琴也蹲在班房里哦。</span><span class="english">Did I mention that Gretchen is also in the slammer?</span></p>
 
 <p><span class="chinese">顺带一提，这也是我从小到大最喜欢的连环漫画。</span><span class="english">This is my all-time favorite comic strip, incidentally.</span></p>

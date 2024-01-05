@@ -1,5 +1,7 @@
 # inconceivable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconceivable.md)
+
 <p><span class="chinese">象杀母这样的罪行实属不可思议。</span><span class="english">A crime such as matricide is inconceivable.</span></p>
 
 <p><span class="chinese">主权国拖欠债务也绝非天方夜谭。</span><span class="english">Sovereign default is far from inconceivable.</span></p>

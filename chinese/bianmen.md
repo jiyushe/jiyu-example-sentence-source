@@ -1,5 +1,7 @@
 # 边门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianmen.md)
+
 <p><span class="chinese">让我们用板把边门钉上。</span><span class="english">Let's board the side door up.</span></p>
 
 <p><span class="chinese">一道边门通往教堂墓地。</span><span class="english">A side gate led into the churchyard.</span></p>

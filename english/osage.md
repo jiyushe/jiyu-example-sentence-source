@@ -1,5 +1,7 @@
 # osage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osage.md)
+
 <p><span class="chinese">这些照片来自我上个周末为砍美国橙桑的一次旅行。</span><span class="english">These pictures are from an osage cutting excursion I made last weekend.</span></p>
 
 <p><span class="chinese">在这个时候，我确定我没有把奥色治逐渐变细部分做的足够薄。</span><span class="english">At this point, I came to the realization that I had not tapered the osage thin enough.</span></p>

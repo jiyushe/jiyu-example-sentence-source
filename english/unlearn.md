@@ -1,5 +1,7 @@
 # unlearn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlearn.md)
+
 <p><span class="chinese">我们如何忘却性别？</span><span class="english">How do we unlearn gender?</span></p>
 
 <p><span class="chinese">人们竟敢忘记古训的崇高？</span><span class="english">Of that sublimest lore which man had dared unlearn?</span></p>

@@ -1,5 +1,7 @@
 # 神奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqi_1.md)
+
 <p><span class="chinese">第六,神奇式思考</span><span class="english">Magical thinking.</span></p>
 
 <p><span class="chinese">他是一位神奇的教练。</span><span class="english">He is a fantastic coach.</span></p>

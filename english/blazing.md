@@ -1,5 +1,7 @@
 # blazing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blazing.md)
+
 <p><span class="chinese">火势炽盛。</span><span class="english">The fire is blazing.</span></p>
 
 <p><span class="chinese">当炽燃的太阳下山后。</span><span class="english">When the blazing sun is gone.</span></p>

@@ -1,5 +1,7 @@
 # 须根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xugen.md)
+
 <p><span class="chinese">承担多数的直根暗褐色的须根。</span><span class="english">Taproot bearing numerous dark brown fibrous roots.</span></p>
 
 <p><span class="chinese">须根系是单子叶植物的特征。</span><span class="english">Fibrous root systems are characteristic of monocotyledons.</span></p>

@@ -1,5 +1,7 @@
 # glycerol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycerol.md)
+
 <p><span class="chinese">甘油是所有脂肪和磷脂的组成部分。</span><span class="english">Glycerol is a constituent of all fats and phospholipids.</span></p>
 
 <p><span class="chinese">甘油激酶基本动力学性质研究。</span><span class="english">The kinetic property of glycerol kinase from debaryomyces sp.</span></p>

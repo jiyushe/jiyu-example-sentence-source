@@ -1,5 +1,7 @@
 # 近代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jindai.md)
+
 <p><span class="chinese">第三章都是关于近代的内容。</span><span class="english">The third chapter is pre-modern stuff.</span></p>
 
 <p><span class="chinese">王季烈是近代著名曲家。</span><span class="english">Wang Jilie is an important master in Qu.</span></p>

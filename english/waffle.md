@@ -1,5 +1,7 @@
 # waffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waffle.md)
+
 <p><span class="chinese">不要胡扯。</span><span class="english">Don't waffle.</span></p>
 
 <p><span class="chinese">那个人怎么喋喋不休尽讲些胡话!</span><span class="english">How that man does waffle on !</span></p>

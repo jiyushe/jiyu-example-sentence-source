@@ -1,5 +1,7 @@
 # obstetrics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obstetrics.md)
+
 <p><span class="chinese">今天来访的嘉宾是妇产科专家陈磊医生。</span><span class="english">Chen Lei, en expert in gynaecology and obstetrics.</span></p>
 
 <p><span class="chinese">妇产科学是一门独特的临床学科。</span><span class="english">Gynecology and Obstetrics is a special clinical department.</span></p>

@@ -1,5 +1,7 @@
 # kaput
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaput.md)
+
 <p><span class="chinese">这场战役肯定要失败的。</span><span class="english">This battle must be kaput.</span></p>
 
 <p><span class="chinese">欧元区和欧元都失败了。</span><span class="english">The Eurozone and euro are kaput.</span></p>

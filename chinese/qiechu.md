@@ -1,5 +1,7 @@
 # 切除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiechu.md)
+
 <p><span class="chinese">我不想把扁桃腺切除。</span><span class="english">I don't want my tonsils out.</span></p>
 
 <p><span class="chinese">内壁上的息肉一般是要切除的。</span><span class="english">Polyps are generally removed.</span></p>

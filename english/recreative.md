@@ -1,5 +1,7 @@
 # recreative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recreative.md)
+
 <p><span class="chinese">创新和再创新的艺术演绎只是一小部分人的专利。</span><span class="english">Creative and recreative artistry of this kind is given only to a select few.</span></p>
 
 <p><span class="chinese">机械化农业、精致农业、和休閒农业的发展。</span><span class="english">Introduce the development of mechanical, delicate, and recreative agriculture.</span></p>

@@ -1,5 +1,7 @@
 # 低洼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diwa.md)
+
 <p><span class="chinese">他们利用低洼地区养鱼。</span><span class="english">They utilized the low-lying parts to raise fish.</span></p>
 
 <p><span class="chinese">第二个迹象是低洼地区排水更加缓慢。</span><span class="english">The second sign is that lowlands drain more slowly.</span></p>

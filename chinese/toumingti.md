@@ -1,5 +1,7 @@
 # 透明体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toumingti.md)
+
 <p><span class="chinese">他把一个不透明体放在一盏灯和眼睛间。</span><span class="english">He interposed an opaque body between a light and the eye.</span></p>
 
 <p><span class="chinese">辐射线不能透过的物质叫不透明体。</span><span class="english">Materials through which no radiation is propagated are called opaque.</span></p>

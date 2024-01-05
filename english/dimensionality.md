@@ -1,5 +1,7 @@
 # dimensionality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimensionality.md)
+
 <p><span class="chinese">行只包含有维度的账户</span><span class="english">Row only includes accounts with dimensionality</span></p>
 
 <p><span class="chinese">这就是我说的‘来自高维度的恩赐。</span><span class="english">That’s why it’s called the blessing of dimensionality.</span></p>

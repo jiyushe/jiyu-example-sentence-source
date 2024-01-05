@@ -1,5 +1,7 @@
 # 泰斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taidou.md)
+
 <p><span class="chinese">你知道文坛泰斗亚瑟·科南·道尔和罗伯特·伯恩斯有哪些共同之处吗？</span><span class="english">WHAT do literary greats Sir Arthur Conan Doyle and Robert Burns have in common?</span></p>
 
 <p><span class="chinese">京剧泰斗程长庚发起了一次“整饬装具”运动。</span><span class="english">The Peking Opera Master Cheng Changgeng launched a movement of redressing modernizing the drama costumes.</span></p>

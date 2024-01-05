@@ -1,5 +1,7 @@
 # 刺激
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciji_1.md)
+
 <p><span class="chinese">我需要那种刺激。</span><span class="english">I need the rush.</span></p>
 
 <p><span class="chinese">不要再刺激他。</span><span class="english">Stop goading him on.</span></p>

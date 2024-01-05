@@ -1,5 +1,7 @@
 # 教育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyu.md)
+
 <p><span class="chinese">我正在接受教育。</span><span class="english">I am being educated.</span></p>
 
 <p><span class="chinese">教育强市。</span><span class="english">Education Strong City.</span></p>

@@ -1,5 +1,7 @@
 # surmise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surmise.md)
+
 <p><span class="chinese">爱，我猜度月桂冠的浓荫。</span><span class="english">The bay-crown's shade, Beloved, I surmise.</span></p>
 
 <p><span class="chinese">对她的人格产生了一种令人难堪的猜度。</span><span class="english">A very painful surmise arose concerning her character.</span></p>

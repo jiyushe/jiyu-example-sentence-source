@@ -1,5 +1,7 @@
 # pensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pensive.md)
+
 <p><span class="chinese">你看上去在沉思。</span><span class="english">You look pensive.</span></p>
 
 <p><span class="chinese">茫茫然陷入沉思状态。</span><span class="english">In vacant or in pensive mood.</span></p>

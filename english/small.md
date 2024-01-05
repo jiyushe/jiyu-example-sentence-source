@@ -1,5 +1,7 @@
 # small
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/small.md)
+
 <p><span class="chinese">世界真小。</span><span class="english">Small world.</span></p>
 
 <p><span class="chinese">小的那艘。</span><span class="english">The small one.</span></p>

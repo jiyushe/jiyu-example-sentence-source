@@ -1,5 +1,7 @@
 # benguela
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benguela.md)
+
 <p><span class="chinese">在本格拉和本戈省，疫情高峰期发生在3周之前。</span><span class="english">The peak of the outbreak occurred 3 weeks ago in Benguela and Bengo provinces.</span></p>
 
 <p><span class="chinese">阿喀麦隆球迷手表在本格拉对埃及1月25日的四分之一决赛。</span><span class="english">A Cameroon fan watches the quarterfinal match against Egypt in Benguela January 25.</span></p>

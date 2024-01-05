@@ -1,5 +1,7 @@
 # wholehearted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wholehearted.md)
+
 <p><span class="chinese">缓缓的水儿呀，又怎能承载得了我满腔的幽怨。</span><span class="english">Water slowly infants, how can I load the wholehearted ?</span></p>
 
 <p><span class="chinese">他是全心全意为人民服务的表率。</span><span class="english">He set an example of wholehearted service to the people.</span></p>

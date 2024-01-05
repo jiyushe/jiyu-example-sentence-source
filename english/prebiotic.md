@@ -1,5 +1,7 @@
 # prebiotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prebiotic.md)
+
 <p><span class="chinese">这个结果激起了许多年的关于生命起源以前的化学实验。</span><span class="english">This results initiated many years of prebiotic chemistry experiments.</span></p>
 
 <p><span class="chinese">这种早期前生命历史已经从地球记录里消失。</span><span class="english">This early prebiotic history has been lost from the terrestrial record.</span></p>

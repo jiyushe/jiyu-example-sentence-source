@@ -1,5 +1,7 @@
 # bight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bight.md)
+
 <p><span class="chinese">我们都有湾未来。</span><span class="english">We all have a bight future.</span></p>
 
 <p><span class="chinese">我看着太阳，它非常的明亮刺眼。</span><span class="english">I am seeing the sun, it is very bight.</span></p>

@@ -1,5 +1,7 @@
 # combinative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combinative.md)
+
 <p><span class="chinese">科学解决这些分歧有助于结合犯理论研究的深化。</span><span class="english">To solve the above problem helps complete the theory of combinative offence.</span></p>
 
 <p><span class="chinese">在时空的结合点上，真实的生命体闪烁出永恒的力量。</span><span class="english">On spatiotemporal combinative place, true life style twinkles the power that gives eternity.</span></p>

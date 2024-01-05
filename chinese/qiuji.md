@@ -1,5 +1,7 @@
 # 秋季
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuji.md)
+
 <p><span class="chinese">我喜欢秋季。</span><span class="english">I like autumn.</span></p>
 
 <p><span class="chinese">秋季的天气是泠还是暖呢？</span><span class="english">Is it cold or warm in aturmn?</span></p>

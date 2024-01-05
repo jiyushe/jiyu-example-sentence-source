@@ -1,5 +1,7 @@
 # 出人头地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/churentoudi.md)
+
 <p><span class="chinese">在洛杉矶，出人头地似乎事关重大。</span><span class="english">The big thing in LA seems to be fame.</span></p>
 
 <p><span class="chinese">我将在两年内使你在电影界出人头地。</span><span class="english">I will signalize you in the filmdom in two years.</span></p>

@@ -1,5 +1,7 @@
 # faded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faded.md)
+
 <p><span class="chinese">一朵谢了的花。</span><span class="english">A faded flower.</span></p>
 
 <p><span class="chinese">战争的创伤慢慢地消失了。</span><span class="english">Slowly the war scars faded.</span></p>

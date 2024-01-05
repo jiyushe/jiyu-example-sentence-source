@@ -1,5 +1,7 @@
 # anthroposophy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthroposophy.md)
+
 <p><span class="chinese">如你所知，人智学并非宗教。</span><span class="english">As you know, Anthroposophy is not a religion.</span></p>
 
 <p><span class="chinese">这个存在体是跟人智学中的高层次的”我“连系的。</span><span class="english">This being is linked or connected to the higher "I" from the point of Anthroposophy.</span></p>

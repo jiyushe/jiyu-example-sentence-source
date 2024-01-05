@@ -1,5 +1,7 @@
 # hydrogenation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrogenation.md)
+
 <p><span class="chinese">并对喹啉的加氢机理进行了探索。</span><span class="english">The hydrogenation mechanism of quinoline was discussed.</span></p>
 
 <p><span class="chinese">此外还研究了腈类的加氢反应。</span><span class="english">Also the hydrogenation of nitriles has been investigated.</span></p>

@@ -1,5 +1,7 @@
 # 互通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hutong.md)
+
 <p><span class="chinese">他们住在互通的房间里。</span><span class="english">They live in rooms which intercommunicate.</span></p>
 
 <p><span class="chinese">船只使用无线电互通信息。</span><span class="english">Ships sent messages to each other by radio.</span></p>

@@ -1,5 +1,7 @@
 # utilise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utilise.md)
+
 <p><span class="chinese">这取决于你如何利用你的资源。</span><span class="english">It depends on how you utilise your resource.</span></p>
 
 <p><span class="chinese">和你在会议上结识的人以及利用校友录。</span><span class="english">Contact people you met at conferences and utilise alumni networks.</span></p>

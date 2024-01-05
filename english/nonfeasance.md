@@ -1,5 +1,7 @@
 # nonfeasance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonfeasance.md)
+
 <p><span class="chinese">不法侵害是否包括不作为犯罪。</span><span class="english">The actualizing action including nonfeasance or not.</span></p>
 
 <p><span class="chinese">国家不作为法律上的主体参加诉讼。</span><span class="english">The main body with national jural nonfeasance joins suit.</span></p>

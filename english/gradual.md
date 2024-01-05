@@ -1,5 +1,7 @@
 # gradual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gradual.md)
+
 <p><span class="chinese">宛如冗长渐进的时光穿廊。</span><span class="english">As long ChuanLang gradual time.</span></p>
 
 <p><span class="chinese">的确，这是一次逐渐的复苏。</span><span class="english">Indeed, this is a gradual recovery.</span></p>

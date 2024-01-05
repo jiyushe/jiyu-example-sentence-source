@@ -1,5 +1,7 @@
 # flooding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flooding.md)
+
 <p><span class="chinese">我船水线下正在进水。</span><span class="english">I am flooding below water line.</span></p>
 
 <p><span class="chinese">那旷日的旱热和洪水的漫延。</span><span class="english">Of Droughts and flooding rains.</span></p>

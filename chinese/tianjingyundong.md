@@ -1,5 +1,7 @@
 # 田径运动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianjingyundong.md)
+
 <p><span class="chinese">缪明安，男，江苏田径运动员，在第二十一届聋奥会上获。</span><span class="english">Province won one gold medal at the 21st Deaflympics.</span></p>
 
 <p><span class="chinese">这所大学在田径运动方面历来成绩骄人。</span><span class="english">This college has a long tradition of athletic excellence.</span></p>

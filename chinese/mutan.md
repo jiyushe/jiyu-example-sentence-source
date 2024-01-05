@@ -1,5 +1,7 @@
 # 木炭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mutan.md)
+
 <p><span class="chinese">碱液是从木炭中滤取的。</span><span class="english">Lye is leached from wood ashes.</span></p>
 
 <p><span class="chinese">他们正在窑内将木头烧成木炭。</span><span class="english">They are charring wood in a kiln.</span></p>

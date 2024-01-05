@@ -1,5 +1,7 @@
 # 奇秀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixiu.md)
+
 <p><span class="chinese">晚餐后我想去剧场看「人物传奇秀」。</span><span class="english">I want to see the stage show "Live Legends" after dinner.</span></p>
 
 <p><span class="chinese">这几朵奇秀的山峰，就是八仙峰。</span><span class="english">These extraordinary and beautiful peaks are Eight Immortals Peak.</span></p>

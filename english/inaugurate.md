@@ -1,5 +1,7 @@
 # inaugurate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inaugurate.md)
+
 <p><span class="chinese">当时就职典礼正在举行。</span><span class="english">The inaugurate parade was still going on.</span></p>
 
 <p><span class="chinese">该市举行了一次自行车队游行以示净化空气运动的开始。</span><span class="english">The city inaugurate the clean-air campaign with a bicycle parade.</span></p>

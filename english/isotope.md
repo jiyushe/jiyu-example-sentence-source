@@ -1,5 +1,7 @@
 # isotope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isotope.md)
+
 <p><span class="chinese">氧同位素估算的热水矽质岩古温度在49℃以上。</span><span class="english">Paleotemperature of cherts estimated by 0 isotope is over 49℃.</span></p>
 
 <p><span class="chinese">元素后面的数字表明特定同位素的身份。</span><span class="english">The number after the element name identifies the specific isotope.</span></p>

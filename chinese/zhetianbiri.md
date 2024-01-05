@@ -1,5 +1,7 @@
 # 遮天蔽日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhetianbiri.md)
+
 <p><span class="chinese">我们的箭会遮天蔽日。</span><span class="english">Our arrows will blot out the sun.</span></p>
 
 <p><span class="chinese">骑着斑溪兽的战士在天空盘旋俯冲，遮天蔽日。</span><span class="english">BANSHEE RIDERS circle and swoop, darkening the sky above the grotto.</span></p>

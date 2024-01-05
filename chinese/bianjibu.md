@@ -1,5 +1,7 @@
 # 编辑部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianjibu.md)
+
 <p><span class="chinese">编辑部信息组。</span><span class="english">Information Group of Editorial Office.</span></p>
 
 <p><span class="chinese">也扩充了编辑部的人员。</span><span class="english">Also augment the personnel of editorial office.</span></p>

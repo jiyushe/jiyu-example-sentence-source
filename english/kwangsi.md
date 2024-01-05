@@ -1,5 +1,7 @@
 # kwangsi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kwangsi.md)
+
 <p><span class="chinese">看得出广西得到了实际的利益。</span><span class="english">It appears that Kwangsi gained the real advantage.</span></p>
 
 <p><span class="chinese">广西金花茶的两个新变种。</span><span class="english">Two new varieties of Camellia chrysantha from Kwangsi.</span></p>

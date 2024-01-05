@@ -1,5 +1,7 @@
 # 转化率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanhualv.md)
+
 <p><span class="chinese">人头像照片将转化率翻倍</span><span class="english">Human Photos Double Conversion Rate from Carsonified</span></p>
 
 <p><span class="chinese">这个转化率，也就是雅克比，两种情况下都成立。</span><span class="english">And, this conversion ratio, the Jacobian, works both ways.</span></p>

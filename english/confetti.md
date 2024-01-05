@@ -1,5 +1,7 @@
 # confetti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confetti.md)
+
 <p><span class="chinese">这是一个绝色灯火之城。</span><span class="english">The city is a confetti of lights.</span></p>
 
 <p><span class="chinese">也使用了五彩纸屑和锯木屑。</span><span class="english">Confetti and sawdust have also been used.</span></p>

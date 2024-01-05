@@ -1,5 +1,7 @@
 # beck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beck.md)
+
 <p><span class="chinese">为毕牧师身体的康复代祷。</span><span class="english">For healing of Rev. Beck.</span></p>
 
 <p><span class="chinese">一周以后，贝克又再度邀请了他上节目。</span><span class="english">A week later, Beck had him back on.</span></p>

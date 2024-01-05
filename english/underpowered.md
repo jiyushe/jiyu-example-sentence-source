@@ -1,5 +1,7 @@
 # underpowered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underpowered.md)
+
 <p><span class="chinese">服务器动力不足且不能满足工作负荷要求。</span><span class="english">The server is underpowered and cannot handle the workload.</span></p>
 
 <p><span class="chinese">如今非提升的对方感觉缺乏、无价值或无力。</span><span class="english">Now the non-ascending party feels less than, worthless or underpowered.</span></p>

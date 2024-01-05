@@ -1,5 +1,7 @@
 # cusco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cusco.md)
+
 <p><span class="chinese">他们亦想要鼓励观光客继续参观库斯科。</span><span class="english">They also want to encourage tourists to continue to visit Cusco.</span></p>
 
 <p><span class="chinese">库斯科的意思是肚脐，因为古人们认为这个城市是世界的中心。</span><span class="english">Cusco means navel, for the ancients felt the city was the navel of the world.</span></p>

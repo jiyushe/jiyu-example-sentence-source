@@ -1,5 +1,7 @@
 # 暴利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoli_2.md)
+
 <p><span class="chinese">今年，交易则带来了暴利。</span><span class="english">This year, trading has generated windfalls.</span></p>
 
 <p><span class="chinese">过去那种“暴利”没商量的行情已失去了生存土壤。</span><span class="english">Now the situation has lost its survival soil.</span></p>

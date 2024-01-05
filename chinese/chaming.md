@@ -1,5 +1,7 @@
 # 查明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaming.md)
+
 <p><span class="chinese">要是我们能够查明L。</span><span class="english">If we can find L. L.</span></p>
 
 <p><span class="chinese">沉船的原因暂未查明。</span><span class="english">Causes of the sinking are still unknown.</span></p>

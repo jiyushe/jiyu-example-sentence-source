@@ -1,5 +1,7 @@
 # 中间派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjianpai.md)
+
 <p><span class="chinese">这也是一些中间派希望票数接近的原因。</span><span class="english">That is why some neutrals hoped for a close result.</span></p>
 
 <p><span class="chinese">但其目的还是值得称赞的，这是任何中间派议员都会认可的目的。</span><span class="english">But the goal is worthy, one that any centrist can endorse.</span></p>

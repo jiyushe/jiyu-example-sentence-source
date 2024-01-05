@@ -1,5 +1,7 @@
 # sneeze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sneeze.md)
+
 <p><span class="chinese">我打喷嚏。</span><span class="english">I sneeze.</span></p>
 
 <p><span class="chinese">不要浪费了你的喷嚏。</span><span class="english">Don't waste your sneeze.</span></p>

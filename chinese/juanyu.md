@@ -1,5 +1,7 @@
 # 隽语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanyu.md)
+
 <p><span class="chinese">这本书一开头引用了歌德的隽语。</span><span class="english">The book began with a quotation from Goethe.</span></p>
 
 <p><span class="chinese">隽语一个简明，机智，经常似是而非的陈述。</span><span class="english">A concise, clever, often paradoxical statement.</span></p>

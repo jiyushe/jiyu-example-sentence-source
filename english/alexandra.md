@@ -1,5 +1,7 @@
 # alexandra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alexandra.md)
+
 <p><span class="chinese">雅丽珊达挽起他的肩。</span><span class="english">Alexandra hoisted on his shoulder.</span></p>
 
 <p><span class="chinese">向已失去的雅丽珊达说再见。</span><span class="english">Then say goodbye to Alexandra lost.</span></p>

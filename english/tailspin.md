@@ -1,5 +1,7 @@
 # tailspin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tailspin.md)
+
 <p><span class="chinese">南北关系降至冰点。</span><span class="english">North-South relations seem in a tailspin.</span></p>
 
 <p><span class="chinese">制造厂关闭后，当地经济可能突然陷于困境。</span><span class="english">After the mill closes,the local economy may tailspin.</span></p>

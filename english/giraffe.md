@@ -1,5 +1,7 @@
 # giraffe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giraffe.md)
+
 <p><span class="chinese">这是一只长颈鹿。</span><span class="english">This is the giraffe.</span></p>
 
 <p><span class="chinese">长颈鹿生长在非洲。</span><span class="english">The giraffe ranges in Africa.</span></p>

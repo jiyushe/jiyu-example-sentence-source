@@ -1,5 +1,7 @@
 # lucia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucia.md)
+
 <p><span class="chinese">欢迎来到圣卢西亚！</span><span class="english">Welcome to St Lucia.</span></p>
 
 <p><span class="chinese">这是露西娅阿姨吗？</span><span class="english">Is that aunt lucia there?</span></p>

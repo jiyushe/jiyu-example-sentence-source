@@ -1,5 +1,7 @@
 # 鼻烟壶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyanhu.md)
+
 <p><span class="chinese">爸爸买了一个鼻烟壶。</span><span class="english">She bought her father a snuff bottle.</span></p>
 
 <p><span class="chinese">李三在马大帅家发现了宝藏至关重要的鼻烟壶。</span><span class="english">In Three Li Ma Dashuai home found snuff bottle is treasure.</span></p>

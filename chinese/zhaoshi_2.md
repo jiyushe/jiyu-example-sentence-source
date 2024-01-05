@@ -1,5 +1,7 @@
 # 照实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoshi_2.md)
+
 <p><span class="chinese">我只是照实说而已。</span><span class="english">Just being practical.</span></p>
 
 <p><span class="chinese">这是你说的，我能照实报道吗？</span><span class="english">Can I quote you on that?</span></p>

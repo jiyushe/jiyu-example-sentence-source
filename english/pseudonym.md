@@ -1,5 +1,7 @@
 # pseudonym
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pseudonym.md)
+
 <p><span class="chinese">吉姆是一个假名。</span><span class="english">Jim is a pseudonym.</span></p>
 
 <p><span class="chinese">陈敬容，笔名蓝冰。</span><span class="english">Chen Jingrong, a pseudonym Lanbing.</span></p>

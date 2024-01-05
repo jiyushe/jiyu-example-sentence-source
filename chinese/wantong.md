@@ -1,5 +1,7 @@
 # 顽童
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wantong.md)
+
 <p><span class="chinese">有朝一日要出海！三顽童举杯结兄弟！</span><span class="english">To The Sea Someday! The Pledge of the Three Brats!</span></p>
 
 <p><span class="chinese">各界可爱大顽童，欢迎前来玩物励志。</span><span class="english">Welcome all lovely kidults to come, to play and be inspired.</span></p>

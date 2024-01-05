@@ -1,5 +1,7 @@
 # 兆头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaotou.md)
+
 <p><span class="chinese">可现在的我们听起来阴暗,坏兆头啊</span><span class="english">Now, that sounds dark to us, ominous.</span></p>
 
 <p><span class="chinese">那是个坏兆头傻大胆儿开玩笑吗?。</span><span class="english">It's bad mojo , bro. Are you kidding me?</span></p>

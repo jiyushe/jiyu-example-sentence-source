@@ -1,5 +1,7 @@
 # vagary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vagary.md)
+
 <p><span class="chinese">当前的粮食危机只是又一个市场异常行为吗？</span><span class="english">Is the current food crisis just another market vagary?</span></p>
 
 <p><span class="chinese">对力拓人员的审判让人看到，这个问题是在中国经商的一个重大不确定因素。</span><span class="english">The trial highlighted the issue as a major vagary of doing business in China.</span></p>

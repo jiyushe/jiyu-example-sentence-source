@@ -1,5 +1,7 @@
 # fruit 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fruit.md)
+
 <p><span class="chinese">干果.</span><span class="english">Dried fruit.</span></p>
 
 <p><span class="chinese">水果冰茶。</span><span class="english">Ice fruit tea.</span></p>

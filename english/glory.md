@@ -1,5 +1,7 @@
 # glory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glory.md)
+
 <p><span class="chinese">荣耀归神！</span><span class="english">Glory To God!</span></p>
 
 <p><span class="chinese">这是一项光荣的任务。</span><span class="english">It's a task of glory.</span></p>

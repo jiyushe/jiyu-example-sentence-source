@@ -1,5 +1,7 @@
 # warship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warship.md)
+
 <p><span class="chinese">兵舰是非常大的战船。</span><span class="english">An "Ammiral" is a big warship.</span></p>
 
 <p><span class="chinese">飞机轰炸了敌军舰。</span><span class="english">Aircraft bombarded the enemy warship.</span></p>

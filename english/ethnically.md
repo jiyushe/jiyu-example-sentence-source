@@ -1,5 +1,7 @@
 # ethnically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethnically.md)
+
 <p><span class="chinese">你的口气就像韩裔英国人说的。</span><span class="english">Speaking as an ethnically korean brit.</span></p>
 
 <p><span class="chinese">宝沙是魁北克种族最多样化的直辖市。</span><span class="english">Brossard is the most ethnically diverse municipality in Quebec.</span></p>

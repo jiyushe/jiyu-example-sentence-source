@@ -1,5 +1,7 @@
 # 显示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshi_5.md)
+
 <p><span class="chinese">我们显示结果为奇数，然后我们继续。</span><span class="english">Again, wow.</span></p>
 
 <p><span class="chinese">那么程序会怎么做呢？会显示答案为。</span><span class="english">t prints out 0.</span></p>

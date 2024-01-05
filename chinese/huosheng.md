@@ -1,5 +1,7 @@
 # 火绳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huosheng.md)
+
 <p><span class="chinese">拉火绳一头带钩用于为大炮点火的绳索。</span><span class="english">A cord with a hook at one end used to fire a cannon.</span></p>
 
 <p><span class="chinese">他手里还抓着放炮的火绳杆。</span><span class="english">He had still the linstock of his gun in his own hand.</span></p>

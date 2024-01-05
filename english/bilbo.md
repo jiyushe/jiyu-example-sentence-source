@@ -1,5 +1,7 @@
 # bilbo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bilbo.md)
+
 <p><span class="chinese">一个哈比人，夏尔的比尔伯·巴金斯。</span><span class="english">A hobbit – Bilbo Baggins of the Shire.</span></p>
 
 <p><span class="chinese">那么詹姆斯·麦卡沃伊会接演比尔博·巴金斯这个角色吗？</span><span class="english">Will he take on the role of Bilbo Baggins?</span></p>

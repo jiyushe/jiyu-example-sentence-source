@@ -1,5 +1,7 @@
 # alertness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alertness.md)
+
 <p><span class="chinese">它们也能提高机敏性和精力。</span><span class="english">They also increase alertness and energy.</span></p>
 
 <p><span class="chinese">警觉性消退，心情平伏。</span><span class="english">Your alertness fades, and your mood dips.</span></p>

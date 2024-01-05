@@ -1,5 +1,7 @@
 # bugger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bugger.md)
+
 <p><span class="chinese">乔治是个有趣的老家伙。</span><span class="english">George is a funny old bugger.</span></p>
 
 <p><span class="chinese">乔治是个有趣的老家伙。</span><span class="english">George eis a funny old bugger.</span></p>

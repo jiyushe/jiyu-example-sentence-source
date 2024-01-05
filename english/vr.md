@@ -1,5 +1,7 @@
 # vr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vr.md)
+
 <p><span class="chinese">我尽不会再犯同样的错误了。</span><span class="english">I will nvr vr do it again.</span></p>
 
 <p><span class="chinese">虚拟装配是虚拟现实领域中一个新的研究方向。</span><span class="english">Virtual assembly is the new research field in VR.</span></p>

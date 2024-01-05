@@ -1,5 +1,7 @@
 # interest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interest.md)
+
 <p><span class="chinese">是的，兴趣。</span><span class="english">Yes, interest.</span></p>
 
 <p><span class="chinese">找到一项爱好。</span><span class="english">Find an interest.</span></p>

@@ -1,5 +1,7 @@
 # privilege 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/privilege.md)
+
 <p><span class="chinese">真是一种特权。</span><span class="english">Real privilege.</span></p>
 
 <p><span class="chinese">但是不要滥用特权。</span><span class="english">Don't abuse the privilege.</span></p>

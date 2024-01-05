@@ -1,5 +1,7 @@
 # 怦然心动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengranxindong.md)
+
 <p><span class="chinese">不错哦，即使对靠石油发财的人来说这也是一笔怦然心动的收入。</span><span class="english">Not bad, even for an oil man.</span></p>
 
 <p><span class="chinese">艺术就像爱情，源于怦然心动。</span><span class="english">All art, like all love, is rooted in heartache.</span></p>

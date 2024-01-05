@@ -1,5 +1,7 @@
 # averagely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/averagely.md)
+
 <p><span class="chinese">你是普通的伟大还是伟大的普通？</span><span class="english">Can You Be Averagely Great or Greatly Average?</span></p>
 
 <p><span class="chinese">你平均每月用多少钱在买啤酒方面?。</span><span class="english">How much do you spend averagely per month in buying beer?</span></p>

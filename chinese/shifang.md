@@ -1,5 +1,7 @@
 # 施放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifang.md)
+
 <p><span class="chinese">我不记得曾对你施放过减速术。</span><span class="english">I don"t remember casting slow on you."</span></p>
 
 <p><span class="chinese">另外治疗链的施放也没有治疗之环和野性生长那么容易。</span><span class="english">It isn't as easy to use as CoH and WG.</span></p>

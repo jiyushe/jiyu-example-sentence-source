@@ -1,5 +1,7 @@
 # ethics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethics.md)
+
 <p><span class="chinese">一套道德准则？</span><span class="english">A code of ethics?</span></p>
 
 <p><span class="chinese">一种是自治德道。</span><span class="english">There's an ethics of autonomy.</span></p>

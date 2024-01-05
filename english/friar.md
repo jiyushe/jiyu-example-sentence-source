@@ -1,5 +1,7 @@
 # friar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/friar.md)
+
 <p><span class="chinese">神父赶紧打开了门。</span><span class="english">The friar quickly unlocked the door.</span></p>
 
 <p><span class="chinese">“冷静一点，罗密欧！”神父说道。</span><span class="english">"Pull yourself together, Romeo! " said the friar.</span></p>

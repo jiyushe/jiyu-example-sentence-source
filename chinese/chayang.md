@@ -1,5 +1,7 @@
 # 插秧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chayang.md)
+
 <p><span class="chinese">寒冷的天气使插秧推迟两个星期。</span><span class="english">The cold weather set back the planting by two weeks.</span></p>
 
 <p><span class="chinese">插秧结束日称为关秧门。</span><span class="english">Transplanting end of the day is called seeding the door closed.</span></p>

@@ -1,5 +1,7 @@
 # stomach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stomach.md)
+
 <p><span class="chinese">让他闹肚子”！</span><span class="english">Let his stomach"!"</span></p>
 
 <p><span class="chinese">我胃一阵一阵痛。</span><span class="english">My stomach twinges.</span></p>

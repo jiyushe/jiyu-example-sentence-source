@@ -1,5 +1,7 @@
 # vernacular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vernacular.md)
+
 <p><span class="chinese">什么是本地话、洋泾浜、混合语？</span><span class="english">What is vernacular? Pidgin? Creole?</span></p>
 
 <p><span class="chinese">白话文学，这是什么？</span><span class="english">Vernacular literature, what is this?</span></p>

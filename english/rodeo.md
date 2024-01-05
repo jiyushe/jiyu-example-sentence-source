@@ -1,5 +1,7 @@
 # rodeo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rodeo.md)
+
 <p><span class="chinese">像我才说的，我不想再去牛仔比赛了。</span><span class="english">Like I said, I'm gettin out a rodeo.</span></p>
 
 <p><span class="chinese">迈拉是最小的孩子，骑术女王。</span><span class="english">Myra, the youngest, was a rodeo queen.</span></p>

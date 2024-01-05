@@ -1,5 +1,7 @@
 # sinful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinful.md)
+
 <p><span class="chinese">我知道自己罪孽深重。</span><span class="english">I know I'm sinful.</span></p>
 
 <p><span class="chinese">哇，我是多么罪恶呀！</span><span class="english">Wow, how sinful I am!</span></p>

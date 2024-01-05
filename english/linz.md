@@ -1,5 +1,7 @@
 # linz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linz.md)
+
 <p><span class="chinese">我发现这里亚洲商店所卖的东西比林茨卖的还要便宜得多。</span><span class="english">I found the goods in the Naschmark Asian shop was much more cheaper than the ones in Linz.</span></p>
 
 <p><span class="chinese">1952年在奥地利的林茨和德那维茨两地诞生了一种炼钢方法。</span><span class="english">In 1952 in the austrian towns of Linz and Donawitz, a steelmaking process was established.</span></p>

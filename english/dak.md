@@ -1,5 +1,7 @@
 # dak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dak.md)
+
 <p><span class="chinese">DAK总部在什么地方？</span><span class="english">Where are DAK headquarters?</span></p>
 
 <p><span class="chinese">她甘高层次都唔得！</span><span class="english">She gum high level duo ng dak.</span></p>

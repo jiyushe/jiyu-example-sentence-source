@@ -1,5 +1,7 @@
 # ovoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovoid.md)
+
 <p><span class="chinese">右下叶见不规则的有细毛刺的卵圆形肿块。</span><span class="english">Irregular spiculated ovoid mass is noted in RLL.</span></p>
 
 <p><span class="chinese">穹丘的横断面为圆形或卵圆形。</span><span class="english">The domes are circular or ovoid in cross-section.</span></p>

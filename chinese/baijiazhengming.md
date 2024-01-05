@@ -1,5 +1,7 @@
 # 百家争鸣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baijiazhengming.md)
+
 <p><span class="chinese">百家争鸣。</span><span class="english">A hundred schools of thought contend.</span></p>
 
 <p><span class="chinese">“百花齐放，百家争鸣”是指导中国文学的一条语录。</span><span class="english">Contend is a slogan guiding China's literature.</span></p>

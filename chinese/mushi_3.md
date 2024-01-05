@@ -1,5 +1,7 @@
 # 牧师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mushi_3.md)
+
 <p><span class="chinese">我去见了牧师。</span><span class="english">I went to see the padre.</span></p>
 
 <p><span class="chinese">为毕牧师身体的康复代祷。</span><span class="english">For healing of Rev. Beck.</span></p>

@@ -1,5 +1,7 @@
 # 一波三折
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibosanzhe.md)
+
 <p><span class="chinese">他们的关系一波三折，过了十年就终止了。</span><span class="english">After ten stormy years, the relationship broke up.</span></p>
 
 <p><span class="chinese">寨桥村的选举有过一波三折的历史。</span><span class="english">Zhaiqiao has had a chequered history with elections.</span></p>

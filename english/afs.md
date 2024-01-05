@@ -1,5 +1,7 @@
 # afs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afs.md)
+
 <p><span class="chinese">经与原子吸收光谱法和原子荧光光谱法对照，分析结果一致。</span><span class="english">The results are in agreement with those provided by AAS and AFS.</span></p>
 
 <p><span class="chinese">介绍了微波消解溶样技术的基本原理、点及其在冶金化学分析中的应用。</span><span class="english">Microwave heating of sample digestion was applied to the AFS determination of arsenic and mercury in biological samples.</span></p>

@@ -1,5 +1,7 @@
 # nap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nap.md)
+
 <p><span class="chinese">这是一顶睡帽。</span><span class="english">Here is a nap cap.</span></p>
 
 <p><span class="chinese">你为什么需要小睡？</span><span class="english">Why do we need to nap?</span></p>

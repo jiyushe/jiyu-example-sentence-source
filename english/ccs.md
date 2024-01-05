@@ -1,5 +1,7 @@
 # ccs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ccs.md)
+
 <p><span class="chinese">下图是源自加拿大的一个有关CCS的网站。</span><span class="english">The diagram below is from a Canadian website on CCS.</span></p>
 
 <p><span class="chinese">关键是确保今后的燃煤发电厂使用碳捕获和封存技术。</span><span class="english">The key is to ensure that future coal plants are using CCS.</span></p>

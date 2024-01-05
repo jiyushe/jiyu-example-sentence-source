@@ -1,5 +1,7 @@
 # regular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regular.md)
+
 <p><span class="chinese">规则还是不规则？</span><span class="english">Regular or irregular?</span></p>
 
 <p><span class="chinese">他是一个十足的木头人。</span><span class="english">He is a regular stick.</span></p>

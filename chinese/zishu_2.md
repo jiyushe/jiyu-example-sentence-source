@@ -1,5 +1,7 @@
 # 自述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishu_2.md)
+
 <p><span class="chinese">“自述文件”用户界面对话框。</span><span class="english">Read Me User Interface Dialog Box.</span></p>
 
 <p><span class="chinese">八福勾勒出耶稣的自述。</span><span class="english">The Beatitudes offer us a self-portrait of Jesus.</span></p>

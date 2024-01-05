@@ -1,5 +1,7 @@
 # 心弦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxian.md)
+
 <p><span class="chinese">你能拨动他们的心弦。</span><span class="english">You can touch their hearts.</span></p>
 
 <p><span class="chinese">拨动我心弦，歌唱。</span><span class="english">On my heartstring freedom sings.</span></p>

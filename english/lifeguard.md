@@ -1,5 +1,7 @@
 # lifeguard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifeguard.md)
+
 <p><span class="chinese">没有救生员。</span><span class="english">No lifeguard on duty.</span></p>
 
 <p><span class="chinese">谭雅是位美丽的救生员。</span><span class="english">Tonya is a beautiful lifeguard.</span></p>

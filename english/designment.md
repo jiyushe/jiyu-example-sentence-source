@@ -1,5 +1,7 @@
 # designment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/designment.md)
+
 <p><span class="chinese">分析了谐振腔的设计。</span><span class="english">And analyse the designment of syntonic cavity.</span></p>
 
 <p><span class="chinese">数字视音频远程实时监控系统正是在这种社会需求下应运而生的。</span><span class="english">This paper proposed a designment of a realtime remote digital video-audio surveillance system.</span></p>

@@ -1,5 +1,7 @@
 # dissemination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissemination.md)
+
 <p><span class="chinese">此酒悠悠散发着梅子香气。</span><span class="english">This dissemination of plum wine aroma.</span></p>
 
 <p><span class="chinese">闲暇美育的传播是一个过程。</span><span class="english">The dissemination of leisure aesthetic education is a course.</span></p>

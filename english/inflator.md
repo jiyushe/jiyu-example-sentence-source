@@ -1,5 +1,7 @@
 # inflator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflator.md)
+
 <p><span class="chinese">邻居经常借我家的打气筒。</span><span class="english">The neighbor often borrowed my inflator.</span></p>
 
 <p><span class="chinese">每个安全气囊都有一个折叠到气囊和充气工具里面的安全装置。</span><span class="english">Each air bag has a safing folded air bag and an inflator.</span></p>

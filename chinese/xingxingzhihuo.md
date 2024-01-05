@@ -1,5 +1,7 @@
 # 星星之火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxingzhihuo.md)
+
 <p><span class="chinese">就如同星星之火，顺势燎原。</span><span class="english">Just like fire, burnin' up the way.</span></p>
 
 <p><span class="chinese">星星之火的点燃从来都是不可预知的。</span><span class="english">The spark was, as ever, unanticipated.</span></p>

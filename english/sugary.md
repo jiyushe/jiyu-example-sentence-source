@@ -1,5 +1,7 @@
 # sugary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sugary.md)
+
 <p><span class="chinese">给她喝热糖水。</span><span class="english">We gave her hot, sugary water.</span></p>
 
 <p><span class="chinese">在她脸上堆满了媚人的微笑。</span><span class="english">In her face suffused with a sugary smile.</span></p>

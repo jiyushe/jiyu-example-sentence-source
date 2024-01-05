@@ -1,5 +1,7 @@
 # distinguishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distinguishing.md)
+
 <p><span class="chinese">这块疮疤是她主要的识别记号。</span><span class="english">This scar is her main distinguishing mark.</span></p>
 
 <p><span class="chinese">皮夹子有什么特征?。</span><span class="english">Any distinguishing feature about the billfold?</span></p>

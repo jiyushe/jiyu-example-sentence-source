@@ -1,5 +1,7 @@
 # moonshine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moonshine.md)
+
 <p><span class="chinese">它的辉煌全都是空谈。</span><span class="english">Its glory is all moonshine.</span></p>
 
 <p><span class="chinese">他的故事是瞎编乱造的。</span><span class="english">His story is plain moonshine.</span></p>

@@ -1,5 +1,7 @@
 # 立刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/like_1.md)
+
 <p><span class="chinese">立刻到这儿来!</span><span class="english">Come here at once!</span></p>
 
 <p><span class="chinese">狗立刻有了反应。</span><span class="english">The dog responded.</span></p>

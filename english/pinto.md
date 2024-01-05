@@ -1,5 +1,7 @@
 # pinto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinto.md)
+
 <p><span class="chinese">好的，我想租一辆彬图。</span><span class="english">Okay,I try to rent a Pinto.</span></p>
 
 <p><span class="chinese">我问平托为何选择1997年。</span><span class="english">I asked Mr. Pinto why he chose 1997.</span></p>

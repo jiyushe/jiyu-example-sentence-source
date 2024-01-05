@@ -1,5 +1,7 @@
 # expatiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expatiate.md)
+
 <p><span class="chinese">我的时间实在紧迫，不能详述。</span><span class="english">I'm in such a drive that I can't expatiate.</span></p>
 
 <p><span class="chinese">我不需要进一步阐述这个问题。</span><span class="english">I need not expatiate on the question any further.</span></p>

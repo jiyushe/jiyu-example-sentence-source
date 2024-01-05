@@ -1,5 +1,7 @@
 # endothelium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endothelium.md)
+
 <p><span class="chinese">结论参元丹对血管内皮功能具有一定的保护作用。</span><span class="english">SYD had protection effect on the vascular endothelium function.</span></p>
 
 <p><span class="chinese">此外，珠被内表皮细胞发育为珠被绒毡层。</span><span class="english">In addition, the inner integument cells developed into endothelium.</span></p>

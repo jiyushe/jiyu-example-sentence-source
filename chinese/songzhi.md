@@ -1,5 +1,7 @@
 # 松脂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songzhi.md)
+
 <p><span class="chinese">制造长、中、短油性醇酸树脂、松脂、安尔油和干性油。</span><span class="english">It is mainly used for short, medium and long oil alkyd resins, tall oils.</span></p>
 
 <p><span class="chinese">同时，采用QF-1毛细管柱将松脂中长叶松酸和左旋海松酸加以分离。</span><span class="english">Palutric acid and levopimaric acid were isolated with QF 1 capillary column.</span></p>

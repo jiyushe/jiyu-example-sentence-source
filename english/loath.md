@@ -1,5 +1,7 @@
 # loath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loath.md)
+
 <p><span class="chinese">那对情人难舍难分。</span><span class="english">The lovers were exceedingly loath to separate.</span></p>
 
 <p><span class="chinese">手把花锄出绣闱，忍踏落花来复去。</span><span class="english">Loath to tread on the blossom as she comes and goes.</span></p>

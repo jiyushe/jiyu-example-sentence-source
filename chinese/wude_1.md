@@ -1,5 +1,7 @@
 # 武德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wude_1.md)
+
 <p><span class="chinese">柯林武德是英国著名哲学家、历史学家。</span><span class="english">Collingwood is a famous British philosopher, historians.</span></p>
 
 <p><span class="chinese">扶贫济困是习武之人最基本的武德。</span><span class="english">The basic virtue of a swordsman is to help the weak and the poor.</span></p>

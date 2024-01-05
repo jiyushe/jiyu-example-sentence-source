@@ -1,5 +1,7 @@
 # francophone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/francophone.md)
+
 <p><span class="chinese">不久前，巴特说，法国是唯一在非洲法语国家的主要参与者。</span><span class="english">Not long ago, Diabate says, France was the only major player in Francophone Africa.</span></p>
 
 <p><span class="chinese">尽管被称作北美洲法语人口的发源地，阿卡迪亚人移民到罗亚尔港却先于它。</span><span class="english">Although called the cradle of the Francophone population in North America, the Acadian settlement at Port-Royal antedates it.</span></p>

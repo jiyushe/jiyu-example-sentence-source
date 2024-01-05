@@ -1,5 +1,7 @@
 # 默写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moxie.md)
+
 <p><span class="chinese">出关后要能读说默写出3000个单词。</span><span class="english">After the exit to read 3000 words dictation.</span></p>
 
 <p><span class="chinese">接着，她把内容默写了一遍。</span><span class="english">Then she wrote down the content from memory.</span></p>

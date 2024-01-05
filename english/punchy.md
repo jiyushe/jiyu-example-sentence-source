@@ -1,5 +1,7 @@
 # punchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punchy.md)
+
 <p><span class="chinese">我想让她的房间看起来强大的且异想天开的。</span><span class="english">I wanted it to feel punchy and whimsical.</span></p>
 
 <p><span class="chinese">通过配饰，鞋子，手提包的搭配来增添色彩的冲击，让你看起来更时尚。</span><span class="english">Add punchy color and trendiness with accessories, shoes and handbags.</span></p>

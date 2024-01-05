@@ -1,5 +1,7 @@
 # plover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plover.md)
+
 <p><span class="chinese">西部雪鸻鸟、橡实啄木鸟和游隼。</span><span class="english">Western Snowy Plover , Acorn Woodpecker, and Peregrine Falcon.</span></p>
 
 <p><span class="chinese">北美旷野和的大型类鸻的矶鹬。</span><span class="english">Large plover like sandpiper of North American fields and uplands.</span></p>

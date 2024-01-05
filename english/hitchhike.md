@@ -1,5 +1,7 @@
 # hitchhike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hitchhike.md)
+
 <p><span class="chinese">你是怎么搭便车的？</span><span class="english">How do you hitchhike?</span></p>
 
 <p><span class="chinese">我从天津搭便车去北京。</span><span class="english">I hitchhike from Tianjin to Beijing.</span></p>

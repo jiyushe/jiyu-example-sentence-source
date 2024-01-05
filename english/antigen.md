@@ -1,5 +1,7 @@
 # antigen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antigen.md)
+
 <p><span class="chinese">肿瘤免疫治疗的核心是肿瘤抗原问题。</span><span class="english">And the focus of tumor immunotherapy is tumor antigen.</span></p>
 
 <p><span class="chinese">这个抗体分子就具有强大的抗原结合能力</span><span class="english">This is a very potent molecule for binding to antigen.</span></p>

@@ -1,5 +1,7 @@
 # 曲牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qupai.md)
+
 <p><span class="chinese">龙舟歌是粤剧、粤曲的一种曲牌。</span><span class="english">Longzhou Shuochang is a kind of tune of Cantonese opera.</span></p>
 
 <p><span class="chinese">曲牌，是中国传统音乐的独特乐曲形式。</span><span class="english">Qupai is a distinctive form of Chinese traditional music.</span></p>

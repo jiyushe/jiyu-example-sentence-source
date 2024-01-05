@@ -1,5 +1,7 @@
 # 分拣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenjian.md)
+
 <p><span class="chinese">包装和分拣是物流中的两项活动。</span><span class="english">Packing and sorting are two activities in logistics.</span></p>
 
 <p><span class="chinese">根据辨认号和类别分拣干布草。</span><span class="english">Sorts dried linen according to identification numbers or type.</span></p>

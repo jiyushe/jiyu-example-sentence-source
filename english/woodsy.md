@@ -1,5 +1,7 @@
 # woodsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodsy.md)
+
 <p><span class="chinese">您可以凭借他们的woodsy风味和大叶瓣找出它们。</span><span class="english">You can identify them with their woodsy flavor and large lobes.</span></p>
 
 <p><span class="chinese">骨骸被发现的那个地方树林茂密，并因达菲伐木公司而为众人所熟知。</span><span class="english">The woodsy site where the bones were found is known as Duffy's Cut.</span></p>

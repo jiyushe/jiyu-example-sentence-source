@@ -1,5 +1,7 @@
 # charlene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charlene.md)
+
 <p><span class="chinese">吉恩和查伦完成了一件了不起的工作。</span><span class="english">Gene and Charlene had done a great job.</span></p>
 
 <p><span class="chinese">汪晓宁的老家是加州，橘县。</span><span class="english">Charlene is from Orange County, California.</span></p>

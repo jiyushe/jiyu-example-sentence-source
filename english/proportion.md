@@ -1,5 +1,7 @@
 # proportion 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proportion.md)
+
 <p><span class="chinese">那已经不能比例了。</span><span class="english">It was getting out of proportion.</span></p>
 
 <p><span class="chinese">高迪对比例的感知很好。</span><span class="english">Gaudí also had a sense of proportion.</span></p>

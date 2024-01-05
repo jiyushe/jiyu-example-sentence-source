@@ -1,5 +1,7 @@
 # 验票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanpiao.md)
+
 <p><span class="chinese">公交车现在都是自动验票了。</span><span class="english">Buses check tickets automatically now.</span></p>
 
 <p><span class="chinese">请告诉我我们在哪儿验票好吗？</span><span class="english">Could you please tell me where we show our tickets?</span></p>

@@ -1,5 +1,7 @@
 # 侧卧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cewo.md)
+
 <p><span class="chinese">协助病人取坐位或侧卧位。</span><span class="english">Assist client to sitting or side-lying position.</span></p>
 
 <p><span class="chinese">午睡姿势宜平躺仰卧或侧卧为佳。</span><span class="english">Nap position to be lying in the supine or lateral.</span></p>

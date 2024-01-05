@@ -1,5 +1,7 @@
 # irrevocable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrevocable.md)
+
 <p><span class="chinese">一个真正的决定是不可改变的。</span><span class="english">A real decision is irrevocable.</span></p>
 
 <p><span class="chinese">我的不可挽回的决定可以等待。</span><span class="english">My irrevocable decision could wait.</span></p>

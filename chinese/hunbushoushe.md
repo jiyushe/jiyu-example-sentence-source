@@ -1,5 +1,7 @@
 # 魂不守舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunbushoushe.md)
+
 <p><span class="chinese">何芸质问钟离干什么魂不守舍的？</span><span class="english">He Yun questioned bell from whats spaced out?</span></p>
 
 <p><span class="chinese">他没听到你说的话，他魂不守舍。</span><span class="english">He didn’t hear what you said. He’s spaced out.</span></p>

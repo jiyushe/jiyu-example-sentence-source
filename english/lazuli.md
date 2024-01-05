@@ -1,5 +1,7 @@
 # lazuli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lazuli.md)
+
 <p><span class="chinese">大海呈天青石色。</span><span class="english">The sea was of a lapis lazuli blue.</span></p>
 
 <p><span class="chinese">煤炭、花岗石、天青石等资源性产品。</span><span class="english">Coal, granite, lapis lazuli and other.</span></p>

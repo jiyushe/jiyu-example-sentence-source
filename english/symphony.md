@@ -1,5 +1,7 @@
 # symphony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symphony.md)
+
 <p><span class="chinese">第五交响曲</span><span class="english">Fifth Symphony?</span></p>
 
 <p><span class="chinese">对的,第五交响曲</span><span class="english">Okay. Symphony no. 5.</span></p>

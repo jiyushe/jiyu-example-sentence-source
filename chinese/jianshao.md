@@ -1,5 +1,7 @@
 # 减少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianshao.md)
+
 <p><span class="chinese">老人斑也一一减少。</span><span class="english">Also reduces age spots.</span></p>
 
 <p><span class="chinese">减少投入市场的时间。</span><span class="english">Reduced time-to-market.</span></p>

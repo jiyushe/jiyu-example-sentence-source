@@ -1,5 +1,7 @@
 # ittf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ittf.md)
+
 <p><span class="chinese">他是在1926年实施此法的。</span><span class="english">The ITTF was founded in 1926.</span></p>
 
 <p><span class="chinese">ittf是国际乒乓球联合会的简称。</span><span class="english">ITTF stands for International Table Tennis Federation.</span></p>

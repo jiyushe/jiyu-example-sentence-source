@@ -1,5 +1,7 @@
 # 民权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minquan.md)
+
 <p><span class="chinese">亨瑞.贝拉方特，民权集会，1960年</span><span class="english">Harry Belafonte, Civil Rights Rally, 1960</span></p>
 
 <p><span class="chinese">吉迪恩的上诉和民权运动</span><span class="english">Gideon's Appeal and the Civil Rights Movement</span></p>

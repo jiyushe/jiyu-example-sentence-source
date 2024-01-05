@@ -1,5 +1,7 @@
 # antiknock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiknock.md)
+
 <p><span class="chinese">用数字表明汽油相对抗爆值的一个术语。</span><span class="english">A term numerically indicating the relative antiknock value of a gasoline.</span></p>
 
 <p><span class="chinese">从而证明，轻油基燃料具有较好的抗爆性，燃料品质优良。</span><span class="english">It proves that the light oil based fuel has good antiknock property and good quality.</span></p>

@@ -1,5 +1,7 @@
 # micromanipulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micromanipulation.md)
+
 <p><span class="chinese">显微视觉系统是微操作机器人不可缺少的组成部分。</span><span class="english">The micro-vision system is an important part of a micromanipulation robot.</span></p>
 
 <p><span class="chinese">在微操作中，显微视觉系统获取的图像通常是离焦模糊图像。</span><span class="english">Images acquired by the micro-vision system are usually defocus blurred images in micromanipulation.</span></p>

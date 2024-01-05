@@ -1,5 +1,7 @@
 # 流沙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liusha.md)
+
 <p><span class="chinese">完美就像流沙一样。</span><span class="english">Perfection is quicksand.</span></p>
 
 <p><span class="chinese">流沙磨损岩石。</span><span class="english">Drifting sand abrades rocks.</span></p>

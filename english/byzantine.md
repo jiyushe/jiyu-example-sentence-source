@@ -1,5 +1,7 @@
 # Byzantine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/byzantine.md)
+
 <p><span class="chinese">我想就是你所说的拜占廷式。</span><span class="english">Byzantine I think you would call it.</span></p>
 
 <p><span class="chinese">这些形象属哥特式或者拜占庭式而非古典式。</span><span class="english">The images were Gothic or Byzantine rather than classical.</span></p>

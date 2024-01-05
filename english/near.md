@@ -1,5 +1,7 @@
 # near
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/near.md)
+
 <p><span class="chinese">他住在本家附近。</span><span class="english">He lives near Ben.</span></p>
 
 <p><span class="chinese">这儿离新宿近吗?</span><span class="english">Am I near Shinjuku?</span></p>

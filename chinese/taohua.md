@@ -1,5 +1,7 @@
 # 套话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taohua.md)
+
 <p><span class="chinese">这一套话证实完全是假的。</span><span class="english">The story proved quite false.</span></p>
 
 <p><span class="chinese">他讲了一些老套话作为开场白。</span><span class="english">He preluded with some banal remarks.</span></p>

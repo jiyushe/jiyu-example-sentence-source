@@ -1,5 +1,7 @@
 # procreation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procreation.md)
+
 <p><span class="chinese">它只是为了生殖？</span><span class="english">Is it just for procreation?</span></p>
 
 <p><span class="chinese">它们是人类繁育过程的一部分。</span><span class="english">They are part of the human procreation process.</span></p>

@@ -1,5 +1,7 @@
 # cassandra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cassandra.md)
+
 <p><span class="chinese">哦，耶酥啊，卡珊德拉。</span><span class="english">Oh for chrissake cassandra.</span></p>
 
 <p><span class="chinese">福尔先生和卡桑德拉才刚订婚。</span><span class="english">Mr. Fowle and Cassandra are only recently engaged.</span></p>

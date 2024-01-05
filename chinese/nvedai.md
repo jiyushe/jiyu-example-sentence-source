@@ -1,5 +1,7 @@
 # 虐待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvedai.md)
+
 <p><span class="chinese">还是被虐待狂？</span><span class="english">Or a masochist?</span></p>
 
 <p><span class="chinese">她原谅了她的虐待者。</span><span class="english">She forgave her abuser.</span></p>

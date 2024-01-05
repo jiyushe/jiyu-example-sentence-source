@@ -1,5 +1,7 @@
 # 客套话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ketaohua.md)
+
 <p><span class="chinese">“你好”是社交中的客套话。</span><span class="english">How do you do is a social formula.</span></p>
 
 <p><span class="chinese">你对我说过那些话，难道真的只是客套话，或是说着玩的吗?。</span><span class="english">The words you said was just a joke or formula ?</span></p>

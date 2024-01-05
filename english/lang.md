@@ -1,5 +1,7 @@
 # lang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lang.md)
+
 <p><span class="chinese">为了昔日美好的时光，亲爱的。</span><span class="english">For auld lang syne, my dear.</span></p>
 
 <p><span class="chinese">你可是宣过誓的，兰先生！</span><span class="english">You are under oath, Mr. Lang.</span></p>

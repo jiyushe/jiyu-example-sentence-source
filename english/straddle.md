@@ -1,5 +1,7 @@
 # straddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straddle.md)
+
 <p><span class="chinese">别在所有问题上都持骑墙态度呀。</span><span class="english">Don't straddle on every issue.</span></p>
 
 <p><span class="chinese">中道就坐落于轮回和涅槃之间</span><span class="english">The Middle Path here is to straddle between Samsara and Nirvana</span></p>

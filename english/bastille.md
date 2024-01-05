@@ -1,5 +1,7 @@
 # bastille
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bastille.md)
+
 <p><span class="chinese">国庆节快乐*！</span><span class="english">Happy Bastille Day!</span></p>
 
 <p><span class="chinese">巴士底狱的阴影又一次降临到了他身上。</span><span class="english">The shadow of the Bastille had fallen on him again.</span></p>

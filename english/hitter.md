@@ -1,5 +1,7 @@
 # hitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hitter.md)
+
 <p><span class="chinese">在这个监狱里，他可是个举足轻重的人物。</span><span class="english">In this prison he is a heavy hitter.</span></p>
 
 <p><span class="chinese">投手和击球员站在哪里？</span><span class="english">Where do the pitcher and the hitter stand?</span></p>

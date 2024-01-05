@@ -1,5 +1,7 @@
 # rmc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rmc.md)
+
 <p><span class="chinese">这代表了RMC最简单的使用场景之一。</span><span class="english">This represents one of the simplest RMC usage scenarios.</span></p>
 
 <p><span class="chinese">这张图显示了在RMC中任务是如何表示的一个示例。</span><span class="english">This figure shows an example of how a task is presented in RMC.</span></p>

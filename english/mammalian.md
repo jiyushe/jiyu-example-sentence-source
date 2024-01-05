@@ -1,5 +1,7 @@
 # mammalian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mammalian.md)
+
 <p><span class="chinese">哺乳动物α淀粉酶的活性中心。</span><span class="english">The active center of a mammalian alpha-amylase.</span></p>
 
 <p><span class="chinese">显然哺乳动物的一夫一妻制天性很薄弱。</span><span class="english">Apparently that monogamous mammalian instinct is weak.</span></p>

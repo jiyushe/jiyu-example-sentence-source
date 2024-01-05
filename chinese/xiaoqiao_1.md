@@ -1,5 +1,7 @@
 # 小巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqiao_1.md)
+
 <p><span class="chinese">这是一只多么小巧可爱的手啊！</span><span class="english">What a jolly little hand it was!</span></p>
 
 <p><span class="chinese">兔足，小巧而整洁。</span><span class="english">Feet hare-footed, small and neat.</span></p>

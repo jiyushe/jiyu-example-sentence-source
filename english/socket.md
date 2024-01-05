@@ -1,5 +1,7 @@
 # socket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/socket.md)
+
 <p><span class="chinese">灯泡该换新的了。</span><span class="english">A light-BulB socket.</span></p>
 
 <p><span class="chinese">需要八进制插座。</span><span class="english">Requires octal socket.</span></p>

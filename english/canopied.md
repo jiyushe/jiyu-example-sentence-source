@@ -1,5 +1,7 @@
 # canopied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canopied.md)
+
 <p><span class="chinese">薄雾笼罩着城市。</span><span class="english">Mist canopied the city.</span></p>
 
 <p><span class="chinese">天空乌云密布。</span><span class="english">The sky was canopied with dark clouds.</span></p>

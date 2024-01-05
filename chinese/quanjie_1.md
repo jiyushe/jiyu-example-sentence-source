@@ -1,5 +1,7 @@
 # 劝解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanjie_1.md)
+
 <p><span class="chinese">他的劝解打消了我的疑虑。</span><span class="english">His advice satisfied my doubts.</span></p>
 
 <p><span class="chinese">最后，在好朋友的劝解下。</span><span class="english">Finally, under good friend's consoling.</span></p>

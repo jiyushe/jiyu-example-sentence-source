@@ -1,5 +1,7 @@
 # 尖兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianbing_1.md)
+
 <p><span class="chinese">尖兵坦克也没汽油了。</span><span class="english">The point tank has run out, too.</span></p>
 
 <p><span class="chinese">最后本文得出RFID是IT“尖兵”的结论。</span><span class="english">At last that RFID is IT Pioneer is concluded.</span></p>

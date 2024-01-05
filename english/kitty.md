@@ -1,5 +1,7 @@
 # kitty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kitty.md)
+
 <p><span class="chinese">李太太问基蒂和本。</span><span class="english">Li asks Kitty and Ben.</span></p>
 
 <p><span class="chinese">就像是"奇蒂猫"一样。</span><span class="english">Just like "Hello Kitty."</span></p>

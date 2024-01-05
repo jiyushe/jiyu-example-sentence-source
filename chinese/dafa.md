@@ -1,5 +1,7 @@
 # 大法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dafa.md)
+
 <p><span class="chinese">宪法是国家的根本大法。</span><span class="english">Constitution is basic law of China.</span></p>
 
 <p><span class="chinese">宪法是我国的根本大法。</span><span class="english">Constitution is the fundamental law.</span></p>

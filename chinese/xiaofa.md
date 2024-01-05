@@ -1,5 +1,7 @@
 # 效法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaofa.md)
+
 <p><span class="chinese">雅各劝喻我们，要效法农夫。</span><span class="english">James urges us to imitate the farmer.</span></p>
 
 <p><span class="chinese">要效法耶稣和他的门徒的榜样。</span><span class="english">Follow Jesus example and that ofhis apostles.</span></p>

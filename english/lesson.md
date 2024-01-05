@@ -1,5 +1,7 @@
 # lesson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lesson.md)
+
 <p><span class="chinese">我学到了那个教训。</span><span class="english">I got that lesson.</span></p>
 
 <p><span class="chinese">什么是秋天？</span><span class="english">Lesson 3. What is Fall?</span></p>

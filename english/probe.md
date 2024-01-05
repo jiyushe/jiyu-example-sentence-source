@@ -1,5 +1,7 @@
 # probe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/probe.md)
+
 <p><span class="chinese">这是一种全新的尝试。</span><span class="english">This is a kind of brandnew probe.</span></p>
 
 <p><span class="chinese">探头装置是密封的。</span><span class="english">The probe unit is hermetically sealed.</span></p>

@@ -1,5 +1,7 @@
 # disappoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disappoint.md)
+
 <p><span class="chinese">我很不愿让你失望。</span><span class="english">I hate to disappoint you.</span></p>
 
 <p><span class="chinese">你太让我失望了，废柴！</span><span class="english">You disappoint me students!</span></p>

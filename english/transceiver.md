@@ -1,5 +1,7 @@
 # transceiver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transceiver.md)
+
 <p><span class="chinese">数字选呼收发机连接器故障。</span><span class="english">The DSC transceiver connector is trouble.</span></p>
 
 <p><span class="chinese">船舶是否装备有紧急无线电收发机?。</span><span class="english">Is vessel fitted with an emergency transceiver?</span></p>

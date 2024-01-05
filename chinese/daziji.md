@@ -1,5 +1,7 @@
 # 打字机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daziji.md)
+
 <p><span class="chinese">但是打字机很慢。</span><span class="english">But typewriter is slow.</span></p>
 
 <p><span class="chinese">这架打字机老掉牙了。</span><span class="english">The typewriter is obsolete.</span></p>

@@ -1,5 +1,7 @@
 # 词坛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/citan_1.md)
+
 <p><span class="chinese">后村是南宋后期词坛一大家。</span><span class="english">Houcun was a famous poet of Ci in the late South Song.</span></p>
 
 <p><span class="chinese">辛弃疾，人称词中之龙，是两宋词坛的重要作家。</span><span class="english">As an important writer, Xinqiji was called the Dragon of Poet in Song Dynasty.</span></p>

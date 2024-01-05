@@ -1,5 +1,7 @@
 # workaholism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workaholism.md)
+
 <p><span class="chinese">为什麽工作狂会伤害到公司？</span><span class="english">Q. How can workaholism harm a company?</span></p>
 
 <p><span class="chinese">科技会使工作狂更糟吗？</span><span class="english">Q. Is technology making workaholism worse?</span></p>

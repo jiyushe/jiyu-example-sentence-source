@@ -1,5 +1,7 @@
 # polymeric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymeric.md)
+
 <p><span class="chinese">的影响生物基聚合物材料。</span><span class="english">The impact of bio-based polymeric materials.</span></p>
 
 <p><span class="chinese">微孔塑料是一种新型的高分子材料。</span><span class="english">Microcellular plastic is a new kind of polymeric material.</span></p>

@@ -1,5 +1,7 @@
 # deliver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deliver.md)
+
 <p><span class="chinese">拯救我们脱离邪恶。</span><span class="english">Deliver us from evil.</span></p>
 
 <p><span class="chinese">我们提供专门知识。</span><span class="english">We deliver expertise.</span></p>

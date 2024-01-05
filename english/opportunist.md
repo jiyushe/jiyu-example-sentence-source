@@ -1,5 +1,7 @@
 # opportunist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opportunist.md)
+
 <p><span class="chinese">为了节省粮食，是一个机会主义者。</span><span class="english">To save on food , be an opportunist.</span></p>
 
 <p><span class="chinese">人类对于每件事都是机会主义者。</span><span class="english">Man is an opportunist above anything else.</span></p>

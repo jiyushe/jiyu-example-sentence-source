@@ -1,5 +1,7 @@
 # 撑竿跳高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenggantiaogao.md)
+
 <p><span class="chinese">自由起跳是一种先进的撑竿跳高起跳技术。</span><span class="english">Free taking off is a kind of advanced techniques of pole vault.</span></p>
 
 <p><span class="chinese">撑竿跳高原为体操项目，流行于德国学校。</span><span class="english">Pole Vault Gymnastics plateau for the project, popular German school.</span></p>

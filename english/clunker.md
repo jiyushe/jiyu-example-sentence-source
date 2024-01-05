@@ -1,5 +1,7 @@
 # clunker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clunker.md)
+
 <p><span class="chinese">我不想坐又旧又烂的「铜罐仔」车！</span><span class="english">I don't want to ride in an old beat-up clunker !</span></p>
 
 <p><span class="chinese">我在那老破车上装上跟踪器了。而且，我敢说那房子里料更多。走。</span><span class="english">I put a tracker on that clunker. Plus, I'm betting there's more secrets inside the house. Come on.</span></p>

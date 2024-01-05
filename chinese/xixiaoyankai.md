@@ -1,5 +1,7 @@
 # 喜笑颜开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixiaoyankai.md)
+
 <p><span class="chinese">我不禁喜笑颜开。</span><span class="english">I can not help but.</span></p>
 
 <p><span class="chinese">在那地下铁，她对我喜笑颜开。</span><span class="english">She smiled at me on the subway.</span></p>

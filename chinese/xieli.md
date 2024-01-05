@@ -1,5 +1,7 @@
 # 协力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieli.md)
+
 <p><span class="chinese">两者能协力共处吗？</span><span class="english">Can they be brought together?</span></p>
 
 <p><span class="chinese">协力完成这样的任务十分令人兴奋。</span><span class="english">To pull together such an effort is very exciting.</span></p>

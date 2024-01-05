@@ -1,5 +1,7 @@
 # undulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undulate.md)
+
 <p><span class="chinese">花盘波状的环状的或不规则浅裂。</span><span class="english">Disk undulate annular or irregularly lobed.</span></p>
 
 <p><span class="chinese">花柱基圆锥形，基部边缘扩大，波动。</span><span class="english">Stylopodium conic, base margin dilated, undulate.</span></p>

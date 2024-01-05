@@ -1,5 +1,7 @@
 # 模板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muban_2.md)
+
 <p><span class="chinese">创建实例的模板。</span><span class="english">c p 1 and c p 2.</span></p>
 
 <p><span class="chinese">基于模板的设计。</span><span class="english">Template-based design.</span></p>

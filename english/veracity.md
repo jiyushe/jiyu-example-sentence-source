@@ -1,5 +1,7 @@
 # veracity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veracity.md)
+
 <p><span class="chinese">准确率提高了约20个百分点。</span><span class="english">Veracity increases by about 20 percents.</span></p>
 
 <p><span class="chinese">主席不承认他的报道的真实性。</span><span class="english">The chairman disallowed the veracity of his report.</span></p>

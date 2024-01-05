@@ -1,5 +1,7 @@
 # distractive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distractive.md)
+
 <p><span class="chinese">头顶背后有两大片杂花，十分分散注意力。</span><span class="english">Flowers around the head is also very distractive.</span></p>
 
 <p><span class="chinese">昨天，我就这么做的，但是饿意扰人。</span><span class="english">Yesterday, I did this, but hunger was distractive.</span></p>

@@ -1,5 +1,7 @@
 # 兴高采烈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinggaocailie.md)
+
 <p><span class="chinese">他兴高采烈地叫休息一会儿。</span><span class="english">He jubilantly called for a break.</span></p>
 
 <p><span class="chinese">他们为这一可喜的变化感到兴高采烈。</span><span class="english">They exulted at the happy change.</span></p>

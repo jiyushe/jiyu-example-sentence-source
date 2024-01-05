@@ -1,5 +1,7 @@
 # teletext
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teletext.md)
+
 <p><span class="chinese">介绍基于自动切换播出的正程电视图文信息频道播出系统。</span><span class="english">To introduce a newly automatic system of switch and broadcast the broadcast channel system of teletext.</span></p>
 
 <p><span class="chinese">本文主要介绍了图文电视系统的基本概念及其工作原理。</span><span class="english">In this article we present the elementary conception of the teletext system and it's basic working principle.</span></p>

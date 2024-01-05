@@ -1,5 +1,7 @@
 # inset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inset.md)
+
 <p><span class="chinese">回带插图。</span><span class="english">Inset back belt.</span></p>
 
 <p><span class="chinese">在上背部镶条。</span><span class="english">Smocked inset at upper back.</span></p>

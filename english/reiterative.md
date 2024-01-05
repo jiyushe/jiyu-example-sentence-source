@@ -1,5 +1,7 @@
 # reiterative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reiterative.md)
+
 <p><span class="chinese">健全的背景有5反复荒野的声音。</span><span class="english">Sound background have 5 reiterative wilds sounds.</span></p>
 
 <p><span class="chinese">很多适合时，使图像与反复的档案。</span><span class="english">Much suitable when making the images with reiterative files.</span></p>

@@ -1,5 +1,7 @@
 # aureus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aureus.md)
+
 <p><span class="chinese">疖病常常由金黄色葡萄球菌所引起。</span><span class="english">Furunculosis is usually due to Staphylococcus aureus.</span></p>
 
 <p><span class="chinese">金黄色葡萄球菌的检验在发酵食品检测中具有重要意义。</span><span class="english">It is important to detect Staphylococcus aureus in fermented food.</span></p>

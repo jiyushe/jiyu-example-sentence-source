@@ -1,5 +1,7 @@
 # 眼底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yandi_2.md)
+
 <p><span class="chinese">缡我眼底的悲伤，除了你谁都看得见。</span><span class="english">I fundus of sadness, except for you who can see.</span></p>
 
 <p><span class="chinese">忘了浓重的眼影和眼底粉吧。</span><span class="english">Forget the heavy coats of eye shadow and foundation.</span></p>

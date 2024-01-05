@@ -1,5 +1,7 @@
 # numerical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numerical.md)
+
 <p><span class="chinese">数字键盘的时代已经过去了。</span><span class="english">Never use the numerical keypad?</span></p>
 
 <p><span class="chinese">支持邮编数值范围。</span><span class="english">Supports Zipcode numerical ranges.</span></p>

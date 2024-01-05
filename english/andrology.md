@@ -1,5 +1,7 @@
 # andrology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andrology.md)
+
 <p><span class="chinese">昆明男科医院哪家医院好啊？</span><span class="english">Kunming andrology hospital family hospital Well !</span></p>
 
 <p><span class="chinese">青岛男科。尖锐湿疣。性功能障碍。</span><span class="english">Qingdao andrology. Wet sharp wart. Nature dysfunction.</span></p>

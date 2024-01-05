@@ -1,5 +1,7 @@
 # abject
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abject.md)
+
 <p><span class="chinese">他们两人都于穷困潦倒中死去。</span><span class="english">Both of them died in abject poverty.</span></p>
 
 <p><span class="chinese">他对老板的尊敬几乎是低三下四。</span><span class="english">He is almost abject in his respect for his boss.</span></p>

@@ -1,5 +1,7 @@
 # career
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/career.md)
+
 <p><span class="chinese">她的职业。</span><span class="english">Her career.</span></p>
 
 <p><span class="chinese">她是个职业妇女。</span><span class="english">She's a career woman.</span></p>

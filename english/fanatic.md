@@ -1,5 +1,7 @@
 # fanatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fanatic.md)
+
 <p><span class="chinese">她是个有洁癖的人。</span><span class="english">IT is a fanatic for cleanliness.</span></p>
 
 <p><span class="chinese">九四高龄的花痴。</span><span class="english">A 94-year-old fanatic of flowers.</span></p>

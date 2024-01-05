@@ -1,5 +1,7 @@
 # 原处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanchu_1.md)
+
 <p><span class="chinese">我们兜了个圈子又回到原处。</span><span class="english">We have come full circle.</span></p>
 
 <p><span class="chinese">在这里我们又回到了原处。</span><span class="english">Here's where we come full circle.</span></p>

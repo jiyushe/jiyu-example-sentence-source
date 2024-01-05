@@ -1,5 +1,7 @@
 # 秋色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuse.md)
+
 <p><span class="chinese">它浸染在五彩缤纷的秋色里</span><span class="english">See it in the colors of autumn</span></p>
 
 <p><span class="chinese">秋色连波，波上寒烟翠。</span><span class="english">Autumn even wave, the wave Hanyan Cui.</span></p>

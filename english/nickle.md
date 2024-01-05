@@ -1,5 +1,7 @@
 # nickle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nickle.md)
+
 <p><span class="chinese">嘿，你一定是尼克家的小孩对不对？</span><span class="english">Hey, you must be the Nickle boy, right?</span></p>
 
 <p><span class="chinese">野牛镍币开始设计与1911年。</span><span class="english">The Buffalo Nickle was firstly designed in 1911.</span></p>

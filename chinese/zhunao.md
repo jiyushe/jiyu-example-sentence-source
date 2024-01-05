@@ -1,5 +1,7 @@
 # 主脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunao.md)
+
 <p><span class="chinese">他是这家企业的主脑。</span><span class="english">He was the soul of the enterprise.</span></p>
 
 <p><span class="chinese">当主脑退出连线时，泰斯拉的双膝瞬间软了下来。</span><span class="english">When the brain signed off, Tesla's knees buckled.</span></p>

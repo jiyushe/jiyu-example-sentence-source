@@ -1,5 +1,7 @@
 # birefringence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birefringence.md)
+
 <p><span class="chinese">磁流体磁光特性的研究及其应用。</span><span class="english">Photic birefringence effect of magnetic fluid in magnetic field.</span></p>
 
 <p><span class="chinese">这种微结构塑料光纤的研究结果显示它具有高双折射特性。</span><span class="english">The result of the research for MPOF shows it has a high birefringence.</span></p>

@@ -1,5 +1,7 @@
 # carburization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carburization.md)
+
 <p><span class="chinese">介绍了乙烯裂解炉管的渗碳过程及其危害性。</span><span class="english">Carburization and its harm to ethylene cracking tubes is introduced.</span></p>
 
 <p><span class="chinese">介绍了铬钼钢的高浓度渗碳试验。</span><span class="english">The high carbon concentration carburization for Cr-Mo steel was introduced.</span></p>

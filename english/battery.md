@@ -1,5 +1,7 @@
 # battery 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/battery.md)
+
 <p><span class="chinese">什么是无电池？</span><span class="english">What, no battery?</span></p>
 
 <p><span class="chinese">我的电池要没电了。</span><span class="english">My battery is low.</span></p>

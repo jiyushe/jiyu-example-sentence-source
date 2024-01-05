@@ -1,5 +1,7 @@
 # 投敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toudi.md)
+
 <p><span class="chinese">她叛变投敌了。</span><span class="english">She defected to the enemy.</span></p>
 
 <p><span class="chinese">他投敌了。</span><span class="english">He has gone over to the enemy.</span></p>

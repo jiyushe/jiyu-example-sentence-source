@@ -1,5 +1,7 @@
 # consequential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consequential.md)
+
 <p><span class="chinese">它可能也是我们最重要的适应能力之一。</span><span class="english">It may be one of our most consequential.</span></p>
 
 <p><span class="chinese">第二个限制更为重要。</span><span class="english">A second limitation is more consequential.</span></p>

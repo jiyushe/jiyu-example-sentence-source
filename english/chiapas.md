@@ -1,5 +1,7 @@
 # chiapas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiapas.md)
+
 <p><span class="chinese">南墨西哥恰帕斯中部的马雅印第安人。</span><span class="english">Mayan Indian group of central Chiapas in southern Mexico.</span></p>
 
 <p><span class="chinese">当西班牙人16世纪来到恰帕斯的时候，玛雅人早已废弃了这座城市。</span><span class="english">By the time the Spanish got to Chiapas in the 16th century, the Maya had abandoned the city.</span></p>

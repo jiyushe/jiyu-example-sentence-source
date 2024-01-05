@@ -1,5 +1,7 @@
 # pneumatics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pneumatics.md)
+
 <p><span class="chinese">没问题。你找到了那个小气囊了吗？</span><span class="english">Agreed. Did you get the small pneumatics?</span></p>
 
 <p><span class="chinese">哈尔滨工业大学，气动技术中心。</span><span class="english">Harbin Institute of Technology, SMC-HIT Pneumatics Center.</span></p>

@@ -1,5 +1,7 @@
 # puffy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puffy.md)
+
 <p><span class="chinese">撞色布泡泡袖及有褶饰边裙脚。</span><span class="english">Contrast color puffy sleeves and frilled hem.</span></p>
 
 <p><span class="chinese">玛丽亚的眼睛因为哭泣和疲劳而肿胀。</span><span class="english">Maria's eyes were puffy from crying and fatigue.</span></p>

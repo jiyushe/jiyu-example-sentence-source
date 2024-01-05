@@ -1,5 +1,7 @@
 # beng
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beng.md)
+
 <p><span class="chinese">正当阿笨在酒吧时，他的手机响了。</span><span class="english">Ah Beng in a bar and his cellular phone rings.</span></p>
 
 <p><span class="chinese">“你做什么？”程安雅绷紧了神经。</span><span class="english">"What do you do?"Distance Anne Ya Beng Jin nerve.</span></p>

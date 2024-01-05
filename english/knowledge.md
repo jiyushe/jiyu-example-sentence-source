@@ -1,5 +1,7 @@
 # knowledge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knowledge.md)
+
 <p><span class="chinese">学问再多不压身。</span><span class="english">Knowledge is no stress.</span></p>
 
 <p><span class="chinese">他渴望获取知识。</span><span class="english">He hungered for knowledge.</span></p>

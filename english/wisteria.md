@@ -1,5 +1,7 @@
 # wisteria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wisteria.md)
+
 <p><span class="chinese">紫藤花开了。</span><span class="english">The wisteria blows.</span></p>
 
 <p><span class="chinese">不要修剪那里的紫藤。</span><span class="english">Do not trim those wisteria vines.</span></p>

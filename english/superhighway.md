@@ -1,5 +1,7 @@
 # superhighway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superhighway.md)
+
 <p><span class="chinese">他们沿着高速公路疾驶。</span><span class="english">They buzzed along the superhighway.</span></p>
 
 <p><span class="chinese">禁止在高速公路骑自行车。</span><span class="english">Bicycles are banned from the new superhighway.</span></p>

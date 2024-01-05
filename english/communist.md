@@ -1,5 +1,7 @@
 # communist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communist.md)
+
 <p><span class="chinese">我们是社会主义政权。</span><span class="english">we were under a communist regime.</span></p>
 
 <p><span class="chinese">这个反共产主义战士问道。</span><span class="english">the communist resistance fighter asks.</span></p>

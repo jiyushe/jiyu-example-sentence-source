@@ -1,5 +1,7 @@
 # handhold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handhold.md)
+
 <p><span class="chinese">一个很容易抓住的大手点。</span><span class="english">A big handhold that is easy to hold on to.</span></p>
 
 <p><span class="chinese">爬山人四处摸着搭手之处。</span><span class="english">The climber scrabble about widely for a handhold.</span></p>

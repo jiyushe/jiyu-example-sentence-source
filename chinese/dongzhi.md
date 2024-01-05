@@ -1,5 +1,7 @@
 # 冬至
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongzhi.md)
+
 <p><span class="chinese">今天是冬至。</span><span class="english">Today is Midwinter Day.</span></p>
 
 <p><span class="chinese">象夏日麦杆的燃烧，在冬至时节。</span><span class="english">Like a blaze of summer straw, in winter's nick.</span></p>

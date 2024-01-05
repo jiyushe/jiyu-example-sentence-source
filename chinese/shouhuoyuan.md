@@ -1,5 +1,7 @@
 # 售货员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouhuoyuan.md)
+
 <p><span class="chinese">是的，问售货员。</span><span class="english">Yes, ask the salesperson.</span></p>
 
 <p><span class="chinese">售货员给他一瓶钢笔水。</span><span class="english">The gave him a bottle of ink.</span></p>

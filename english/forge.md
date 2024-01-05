@@ -1,5 +1,7 @@
 # forge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forge.md)
+
 <p><span class="chinese">他试图伪造证据。</span><span class="english">He tried to forge evidence.</span></p>
 
 <p><span class="chinese">马蹄铁是在锻造厂打出来的。</span><span class="english">Horseshoes are made in a forge.</span></p>

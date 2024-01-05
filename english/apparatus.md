@@ -1,5 +1,7 @@
 # apparatus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apparatus.md)
+
 <p><span class="chinese">仪器上一尘不染。</span><span class="english">The apparatus is spotlessly clean.</span></p>
 
 <p><span class="chinese">高尔基体的作用是什么？</span><span class="english">WHAT is a Golgi apparatus used for?</span></p>

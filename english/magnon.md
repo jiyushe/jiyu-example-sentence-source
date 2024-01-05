@@ -1,5 +1,7 @@
 # magnon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnon.md)
+
 <p><span class="chinese">我也告诉过马侬了。</span><span class="english">I told Magnon so.</span></p>
 
 <p><span class="chinese">马侬姑娘是一种作恶的漂亮人物。</span><span class="english">Magnon was a sort of fashionable woman in the sphere of crime.</span></p>

@@ -1,5 +1,7 @@
 # backpedal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backpedal.md)
+
 <p><span class="chinese">哥们你可别变卦你是知道的加油！</span><span class="english">Dude, don't backpedal , you know. Onwards!</span></p>
 
 <p><span class="chinese">他们答应要减税，现在却开始打退堂鼓。</span><span class="english">They promised to cut taxes, but they're beginning to backpedal now.</span></p>

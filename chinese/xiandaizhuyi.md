@@ -1,5 +1,7 @@
 # 现代主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandaizhuyi.md)
+
 <p><span class="chinese">他们谈论现代主义。</span><span class="english">They talked about modernism.</span></p>
 
 <p><span class="chinese">劳伦斯的现代主义视野。</span><span class="english">H. Lawrences modernist perspective.</span></p>

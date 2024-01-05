@@ -1,5 +1,7 @@
 # ore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ore.md)
+
 <p><span class="chinese">这个矿储量丰富。</span><span class="english">This ore prospects well.</span></p>
 
 <p><span class="chinese">这种矿石被验明含金量高。</span><span class="english">This ore assays high in gold.</span></p>

@@ -1,5 +1,7 @@
 # attractive 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attractive.md)
+
 <p><span class="chinese">这很有吸引力啊</span><span class="english">It's very attractive.</span></p>
 
 <p><span class="chinese">她是个妩媚动人的女孩。</span><span class="english">She is an attractive girl.</span></p>

@@ -1,5 +1,7 @@
 # 贡献
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongxian.md)
+
 <p><span class="chinese">它对此做出了贡献。</span><span class="english">It contributes to it.</span></p>
 
 <p><span class="chinese">凯特琳的贡献。</span><span class="english">Caitlin’s Contributions.</span></p>

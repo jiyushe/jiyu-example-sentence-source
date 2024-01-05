@@ -1,5 +1,7 @@
 # slander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slander.md)
+
 <p><span class="chinese">我可以控告你进行诬陷。</span><span class="english">I can sue you for slander.</span></p>
 
 <p><span class="chinese">他们以不实言论抨击他。</span><span class="english">They assailed him with slander.</span></p>

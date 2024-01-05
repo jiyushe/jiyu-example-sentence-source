@@ -1,5 +1,7 @@
 # drivel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drivel.md)
+
 <p><span class="chinese">抱歉胡说了一通。</span><span class="english">Sorry for the drivel.</span></p>
 
 <p><span class="chinese">但是宝贵的东西太少，胡言乱语太多。</span><span class="english">But there is too little gold and too much drivel.</span></p>

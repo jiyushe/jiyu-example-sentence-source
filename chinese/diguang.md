@@ -1,5 +1,7 @@
 # 地光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diguang.md)
+
 <p><span class="chinese">一地光裸的种子。</span><span class="english">Naked cherry stones on the ground.</span></p>
 
 <p><span class="chinese">这个男孩地眼睛里闪耀着俏皮地光。</span><span class="english">The little boy had a wicked twinkle in his eyes.</span></p>

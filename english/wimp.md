@@ -1,5 +1,7 @@
 # wimp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wimp.md)
+
 <p><span class="chinese">我是个窝囊废。</span><span class="english">I was a wimp.</span></p>
 
 <p><span class="chinese">我在说废话吗？</span><span class="english">Am I being a wimp?</span></p>

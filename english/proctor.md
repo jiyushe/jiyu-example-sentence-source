@@ -1,5 +1,7 @@
 # proctor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proctor.md)
+
 <p><span class="chinese">我不知道他是这星期的纠察队。</span><span class="english">I didn't know he was the proctor this week.</span></p>
 
 <p><span class="chinese">监考人员抓住他在数学考试中作弊。</span><span class="english">The proctor caught him cheating in the maths exam.</span></p>

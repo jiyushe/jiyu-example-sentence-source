@@ -1,5 +1,7 @@
 # 混日子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunrizi.md)
+
 <p><span class="chinese">不要再混日子！</span><span class="english">No longer laze away.</span></p>
 
 <p><span class="chinese">不要混日子。</span><span class="english">Don't dawdle away your time.</span></p>

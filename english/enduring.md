@@ -1,5 +1,7 @@
 # enduring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enduring.md)
+
 <p><span class="chinese">这是他的不朽名作。</span><span class="english">It is his enduring masterpiece.</span></p>
 
 <p><span class="chinese">忍受着天寒地冻，也忍受着流感。</span><span class="english">Enduring the cold and also the flu.</span></p>

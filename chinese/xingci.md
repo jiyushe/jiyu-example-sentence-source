@@ -1,5 +1,7 @@
 # 行刺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingci.md)
+
 <p><span class="chinese">也许他们是想行刺我。</span><span class="english">Perhaps they intend to assassinate me.</span></p>
 
 <p><span class="chinese">那个行刺者被认为是个极端主义分子。</span><span class="english">The assassin was adjudged an extremist.</span></p>

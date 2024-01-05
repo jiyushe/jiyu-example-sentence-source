@@ -1,5 +1,7 @@
 # 背包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beibao.md)
+
 <p><span class="chinese">我的背包丢了。</span><span class="english">I lost my backpack.</span></p>
 
 <p><span class="chinese">你的背包里有什么？</span><span class="english">What’s in your backpack?</span></p>

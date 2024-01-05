@@ -1,5 +1,7 @@
 # restore 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restore.md)
+
 <p><span class="chinese">尝试系统还原。</span><span class="english">Try System Restore.</span></p>
 
 <p><span class="chinese">还原数据库。</span><span class="english">Restore the database.</span></p>

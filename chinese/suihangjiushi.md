@@ -1,5 +1,7 @@
 # 随行就市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suihangjiushi.md)
+
 <p><span class="chinese">这是一个理想的状态，市场走向均衡，开发商随行就市，购房者按需置业。</span><span class="english">This is an ideal state, the market towards balance, developers, home buyers demand.</span></p>
 
 <p><span class="chinese">现在农民出售蔬菜，价格都是随行就市。</span><span class="english">Peasants now sell vegetables at moving prices determined by their supply and their customer's demand.</span></p>

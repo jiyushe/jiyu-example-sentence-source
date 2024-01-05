@@ -1,5 +1,7 @@
 # devalue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devalue.md)
+
 <p><span class="chinese">我们不要不公正地贬低她的工作。</span><span class="english">Let's not devalue her work unjustly.</span></p>
 
 <p><span class="chinese">不公正地贬低任何人的工作都是不公平的。</span><span class="english">Its unfair to devalue anyones work unjustly.</span></p>

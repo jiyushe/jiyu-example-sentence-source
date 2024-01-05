@@ -1,5 +1,7 @@
 # generalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generalist.md)
+
 <p><span class="chinese">我喜欢成为通才的这种观念。</span><span class="english">I love the idea of being a generalist.</span></p>
 
 <p><span class="chinese">总统的职位是一个多面手做的。</span><span class="english">The presidency is a job for a generalist.</span></p>

@@ -1,5 +1,7 @@
 # 召回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaohui.md)
+
 <p><span class="chinese">除了召回。</span><span class="english">Beyond recall.</span></p>
 
 <p><span class="chinese">许多人都不赞成召回。</span><span class="english">Many argue against a recall.</span></p>

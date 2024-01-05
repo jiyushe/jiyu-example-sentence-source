@@ -1,5 +1,7 @@
 # possessive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/possessive.md)
+
 <p><span class="chinese">他抱着一种非他莫属的态度。</span><span class="english">He has a possessive manner.</span></p>
 
 <p><span class="chinese">对名词性物主代词进行总结。</span><span class="english">The possessive form of nouns.</span></p>

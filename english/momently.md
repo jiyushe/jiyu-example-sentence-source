@@ -1,5 +1,7 @@
 # momently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/momently.md)
+
 <p><span class="chinese">不知道，那一刻的陈彤是怎么想的？</span><span class="english">Do not know, that momently how does Chen Tong think?</span></p>
 
 <p><span class="chinese">安成功帮忙找到了书，而她似乎也在那一刻坠入爱河。</span><span class="english">How to help successfully found a book, and she also falls in love momently in that it seems that.</span></p>

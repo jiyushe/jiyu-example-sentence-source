@@ -1,5 +1,7 @@
 # 因地制宜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yindizhiyi.md)
+
 <p><span class="chinese">二是明确任务和目标，因地制宜地开展工作。</span><span class="english">Is a clear mandate and objectives, according to its work.</span></p>
 
 <p><span class="chinese">因此，他说，预防自杀的工作应该因地制宜的开展。</span><span class="english">As a result, he says, prevention efforts must fit with local needs.</span></p>

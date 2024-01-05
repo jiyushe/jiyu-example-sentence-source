@@ -1,5 +1,7 @@
 # abut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abut.md)
+
 <p><span class="chinese">与城堡毗邻的是一片天然森林。</span><span class="english">The castles abut a natural forest.</span></p>
 
 <p><span class="chinese">在它的影响中没有中间道路。</span><span class="english">There is no half way work abut its influence.</span></p>

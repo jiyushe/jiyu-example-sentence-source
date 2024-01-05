@@ -1,5 +1,7 @@
 # sledgehammer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sledgehammer.md)
+
 <p><span class="chinese">你找的是螺丝起子或大铁锤？</span><span class="english">Are you looking for a screwdriver or a sledgehammer ?</span></p>
 
 <p><span class="chinese">我们不需要一个生锈的大锤子把观点钉进去。</span><span class="english">We don't need the rusty sledgehammer to drive the point in.</span></p>

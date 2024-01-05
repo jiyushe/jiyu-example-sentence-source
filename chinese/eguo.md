@@ -1,5 +1,7 @@
 # 恶果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eguo.md)
+
 <p><span class="chinese">现在你是自食恶果。</span><span class="english">You are now reaping the consequences.</span></p>
 
 <p><span class="chinese">政府对吸烟的恶果也是视而不见。</span><span class="english">Goverments are blind to evils of smoking too.</span></p>

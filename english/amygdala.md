@@ -1,5 +1,7 @@
 # amygdala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amygdala.md)
+
 <p><span class="chinese">有趣的是，这个开关在杏仁体内也相当活跃。</span><span class="english">Intriguingly, the switch was also active in the amygdala.</span></p>
 
 <p><span class="chinese">还有其他的治疗法则想办法作用在杏仁体本身。</span><span class="english">Other therapies are being designed to act in the amygdala itself.</span></p>

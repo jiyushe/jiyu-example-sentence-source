@@ -1,5 +1,7 @@
 # myopia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myopia.md)
+
 <p><span class="chinese">近视眼的治疗方法？</span><span class="english">The remedial method of myopia?</span></p>
 
 <p><span class="chinese">高度近视适宜做较正吗?。</span><span class="english">Does high myopia do calibration aptly ?</span></p>

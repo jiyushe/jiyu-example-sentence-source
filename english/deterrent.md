@@ -1,5 +1,7 @@
 # deterrent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deterrent.md)
+
 <p><span class="chinese">这只是一个伪造用户的阻吓作用。</span><span class="english">It will just be a deterrent to fake users.</span></p>
 
 <p><span class="chinese">处罚封犯罪有强大的威慑作用。</span><span class="english">Punishment is a strong deterrent to crime.</span></p>

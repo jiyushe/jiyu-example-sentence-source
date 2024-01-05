@@ -1,5 +1,7 @@
 # rightly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rightly.md)
+
 <p><span class="chinese">他正当地拒绝了那个建义。</span><span class="english">He rightly rejected the offer.</span></p>
 
 <p><span class="chinese">谁就恰当地承受上天的恩宠。</span><span class="english">They rightly do inherit heaven's graces.</span></p>

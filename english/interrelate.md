@@ -1,5 +1,7 @@
 # interrelate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interrelate.md)
+
 <p><span class="chinese">它们是怎样得到的,及其相互间联系</span><span class="english">How did they get--how do these numbers interrelate?</span></p>
 
 <p><span class="chinese">而薪酬制度、薪酬体系的设计对完成上述任务息息相关。</span><span class="english">The design of salary system is interrelate with the tasks.</span></p>

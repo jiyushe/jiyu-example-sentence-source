@@ -1,5 +1,7 @@
 # 弦乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyue.md)
+
 <p><span class="chinese">那么,我们先注意弦乐部分</span><span class="english">So let's focus on the strings first.</span></p>
 
 <p><span class="chinese">弦乐四重奏，A小调，作品51号之二。</span><span class="english">String Quartet in Aminor op. 51 No. 2</span></p>

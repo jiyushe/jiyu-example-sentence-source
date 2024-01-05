@@ -1,5 +1,7 @@
 # meditative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meditative.md)
+
 <p><span class="chinese">社会上的罪恶是值得思考的。</span><span class="english">The societys evils are worth meditative.</span></p>
 
 <p><span class="chinese">“水磨坊”的指标是非常花架子和冥想。</span><span class="english">The "Water-mill" is very showy and meditative.</span></p>

@@ -1,5 +1,7 @@
 # 痛悔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghui.md)
+
 <p><span class="chinese">痛悔是什么？</span><span class="english">What is contrition?</span></p>
 
 <p><span class="chinese">什么是上等痛悔？</span><span class="english">What is perfect contrition?</span></p>

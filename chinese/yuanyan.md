@@ -1,5 +1,7 @@
 # 怨言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyan.md)
+
 <p><span class="chinese">一些用户也有怨言。</span><span class="english">Some consumers have gripes as well.</span></p>
 
 <p><span class="chinese">他们手起了泡，可是没有一个人有怨言。</span><span class="english">Their hands blistered . but no one complained.</span></p>

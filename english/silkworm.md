@@ -1,5 +1,7 @@
 # silkworm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silkworm.md)
+
 <p><span class="chinese">蚕做茧。</span><span class="english">The silkworm spins cocoon.</span></p>
 
 <p><span class="chinese">这个是蚕茧啊。</span><span class="english">They are silkworm cocoons.</span></p>

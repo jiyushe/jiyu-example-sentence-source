@@ -1,5 +1,7 @@
 # federally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/federally.md)
+
 <p><span class="chinese">六十七种鸟类已被联邦政府列入濒危鸟类的范围。</span><span class="english">Sixty-seven species are federally listed as endangered or threatened.</span></p>
 
 <p><span class="chinese">安大略甚至获准建立自己的联邦基金经济发展机构。</span><span class="english">It has even been granted its own federally funded economic development agency.</span></p>

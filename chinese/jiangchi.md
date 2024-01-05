@@ -1,5 +1,7 @@
 # 僵持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangchi.md)
+
 <p><span class="chinese">结果是各方僵持不下。</span><span class="english">The result is a global standoff.</span></p>
 
 <p><span class="chinese">并且，双方僵持，各不相让。</span><span class="english">Both sides stalemate, and his lap.</span></p>

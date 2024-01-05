@@ -1,5 +1,7 @@
 # manganous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manganous.md)
+
 <p><span class="chinese">目的研究用氯化锰处理的小鼠精子质量的变化。</span><span class="english">Objective To study the changes of sperm quality in mice treated with manganous chloride.</span></p>
 
 <p><span class="chinese">本文介绍了高效实用的软锰矿浆脱硫的新技术和工艺流程以及硫酸锰副产品的回收。</span><span class="english">By curing process, and used pyrite, pyrolusite and sulfuric acid as material, manganous sulfate was product.</span></p>

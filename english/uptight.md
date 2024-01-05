@@ -1,5 +1,7 @@
 # uptight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uptight.md)
+
 <p><span class="chinese">她干吗那么紧张？</span><span class="english">Why's she so uptight?</span></p>
 
 <p><span class="chinese">你的太太说，“为何这么紧张？</span><span class="english">What are you so uptight about?</span></p>

@@ -1,5 +1,7 @@
 # machining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/machining.md)
+
 <p><span class="chinese">刹车毂加工。</span><span class="english">Machining of brake hub.</span></p>
 
 <p><span class="chinese">使用所有后熔接切削。</span><span class="english">With all post-weld machining.</span></p>

@@ -1,5 +1,7 @@
 # widely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/widely.md)
+
 <p><span class="chinese">变数很大。</span><span class="english">It varies widely.</span></p>
 
 <p><span class="chinese">英语使用得有多广？</span><span class="english">How widely is English used?</span></p>

@@ -1,5 +1,7 @@
 # 积重难返
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhongnanfan.md)
+
 <p><span class="chinese">无论我们现在作何努力，世界经济都很可能积重难返。</span><span class="english">The world economy is probably knackered, whatever we might do now.</span></p>
 
 <p><span class="chinese">这些政治刁难是由文化困境积重难返造成的。</span><span class="english">These political difficulties are piled on top of cultural difficulties.</span></p>

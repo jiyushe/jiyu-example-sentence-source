@@ -1,5 +1,7 @@
 # 编选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianxuan.md)
+
 <p><span class="chinese">以下是编选的采访对话。</span><span class="english">An edited transcript of the interview follows.</span></p>
 
 <p><span class="chinese">这本散文集是埃伦•奈特编选的。</span><span class="english">This collection of essays is edited by Ellen Knight.</span></p>

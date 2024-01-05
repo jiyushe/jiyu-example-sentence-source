@@ -1,5 +1,7 @@
 # colorless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorless.md)
+
 <p><span class="chinese">无色的绿色主意狂暴地睡着。</span><span class="english">The colorless green ideas sleep furiously.</span></p>
 
 <p><span class="chinese">尼古丁是无色有毒生物碱。</span><span class="english">Nicotine is a colorless , poisonous alkaloid.</span></p>

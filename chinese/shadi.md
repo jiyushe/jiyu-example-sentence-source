@@ -1,5 +1,7 @@
 # 沙地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shadi.md)
+
 <p><span class="chinese">白晃晃的沙地反射出太阳的热气。</span><span class="english">The white sand reflected the sun's heat.</span></p>
 
 <p><span class="chinese">他们踮着脚走过了滚烫的沙地。</span><span class="english">They walked on tiptoe across the hot sand.</span></p>

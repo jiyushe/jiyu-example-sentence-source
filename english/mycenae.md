@@ -1,5 +1,7 @@
 # mycenae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mycenae.md)
+
 <p><span class="chinese">的确是,我们在迈锡尼旧址所找到的</span><span class="english">That's, indeed, what we find at Mycenae.</span></p>
 
 <p><span class="chinese">我们很难想象迈锡尼的国王会务农</span><span class="english">You cannot imagine the great kings of Mycenae doing that.</span></p>

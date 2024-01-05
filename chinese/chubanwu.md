@@ -1,5 +1,7 @@
 # 出版物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chubanwu.md)
+
 <p><span class="chinese">出版物…</span><span class="english">Publication Publ.</span></p>
 
 <p><span class="chinese">接受出版物的采访。</span><span class="english">Give interviews to publications.</span></p>

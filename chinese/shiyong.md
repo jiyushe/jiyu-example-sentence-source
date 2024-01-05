@@ -1,5 +1,7 @@
 # 使用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyong.md)
+
 <p><span class="chinese">使用俚语。</span><span class="english">Use slang.</span></p>
 
 <p><span class="chinese">但是不使用广告？</span><span class="english">But no ads?</span></p>

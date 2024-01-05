@@ -1,5 +1,7 @@
 # utopianism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utopianism.md)
+
 <p><span class="chinese">这种乌托邦式的理想主义如今已无处可寻了。</span><span class="english">This utopianism is almost nowhere to be found today.</span></p>
 
 <p><span class="chinese">这些听上去有那么一点点60年代乌托邦的味道。</span><span class="english">This can all sound a little like, well, '60s-style utopianism.</span></p>

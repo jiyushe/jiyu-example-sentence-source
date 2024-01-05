@@ -1,5 +1,7 @@
 # 网眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangyan.md)
+
 <p><span class="chinese">颜色浅的细胞分布于网眼处。</span><span class="english">The pale cells distribute in the mesh.</span></p>
 
 <p><span class="chinese">长期穿着舒适透气网眼衬里。</span><span class="english">Breathable mesh lining for long-wear comfort.</span></p>

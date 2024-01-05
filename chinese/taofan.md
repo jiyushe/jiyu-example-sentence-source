@@ -1,5 +1,7 @@
 # 讨饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taofan.md)
+
 <p><span class="chinese">头一遭借钱，下一遭就讨饭。</span><span class="english">First you borrow, then you beg.</span></p>
 
 <p><span class="chinese">解放前，他们靠讨饭维持生活。</span><span class="english">Before liberation, they subsisted by begging.</span></p>

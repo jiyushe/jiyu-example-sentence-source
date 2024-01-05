@@ -1,5 +1,7 @@
 # proteinase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proteinase.md)
+
 <p><span class="chinese">细胞形态膨胀，细胞内蛋白酶已释放。</span><span class="english">Cell appearance was inflated and intracellular proteinase had been released.</span></p>
 
 <p><span class="chinese">微生物或植物起源的蛋白酶制剂一般用于面团的软化。</span><span class="english">Proteinase preparations of microbial or plant origin are used for dough softening.</span></p>

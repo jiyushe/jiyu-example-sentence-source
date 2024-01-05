@@ -1,5 +1,7 @@
 # 海运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiyun.md)
+
 <p><span class="chinese">纸箱是很适合海运的。</span><span class="english">Carto are quite seaworthy.</span></p>
 
 <p><span class="chinese">纸箱是很适合海运的。</span><span class="english">But carto are quite seaworthy.</span></p>

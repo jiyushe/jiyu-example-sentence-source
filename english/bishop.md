@@ -1,5 +1,7 @@
 # bishop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bishop.md)
+
 <p><span class="chinese">主教转过身来，朝着那人。</span><span class="english">The Bishop turned to the man.</span></p>
 
 <p><span class="chinese">一位主教为他们证婚。</span><span class="english">They were married by a bishop.</span></p>

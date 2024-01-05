@@ -1,5 +1,7 @@
 # malone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malone.md)
+
 <p><span class="chinese">还有马龙这个人真是烂透了。</span><span class="english">Also Malone is a terrible person.</span></p>
 
 <p><span class="chinese">马龙告诉他发生了什么事。</span><span class="english">Malone told him what had happened.</span></p>

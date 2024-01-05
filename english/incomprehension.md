@@ -1,5 +1,7 @@
 # incomprehension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incomprehension.md)
+
 <p><span class="chinese">但他补充说，这都是由相互不理解所造成的。</span><span class="english">But, he adds, many arise from mutual incomprehension.</span></p>
 
 <p><span class="chinese">他转向苏泰。苏泰凝视着他，眼神里满是畏惧和不理解。</span><span class="english">He turns to Tsu’tey, who stares at him with fear and incomprehension.</span></p>

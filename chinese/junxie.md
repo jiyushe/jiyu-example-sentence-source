@@ -1,5 +1,7 @@
 # 军械
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junxie.md)
+
 <p><span class="chinese">军械师，给他看。</span><span class="english">Show him, Armourer.</span></p>
 
 <p><span class="chinese">即加州理工军械合同项目。</span><span class="english">Ordnance Contract to C. I. T.</span></p>

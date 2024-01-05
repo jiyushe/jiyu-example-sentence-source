@@ -1,5 +1,7 @@
 # 憋气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bieqi.md)
+
 <p><span class="chinese">我觉得憋气。</span><span class="english">I feel suffocated.</span></p>
 
 <p><span class="chinese">我觉得胸闷憋气。</span><span class="english">My chest feels rather tight.</span></p>

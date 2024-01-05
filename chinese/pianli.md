@@ -1,5 +1,7 @@
 # 偏离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianli.md)
+
 <p><span class="chinese">她偏离主题去做南瓜饼了”之后，他很快就放下了警惕。</span><span class="english">She deviated to pumpkin bread.</span></p>
 
 <p><span class="chinese">飞机飞行偏离了航线。</span><span class="english">The plane flew off the course.</span></p>

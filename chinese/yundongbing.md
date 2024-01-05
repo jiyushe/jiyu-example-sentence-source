@@ -1,5 +1,7 @@
 # 运动病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yundongbing.md)
+
 <p><span class="chinese">这种名为"太空养心丸"的中药可更好地防治空间运动病。</span><span class="english">It can be used to treat motion sickness during the space flight.</span></p>
 
 <p><span class="chinese">体表胃电图的多个指标与运动病恶心综合症有关。</span><span class="english">Several parameters of EGG were related to nausea in motion sickness.</span></p>

@@ -1,5 +1,7 @@
 # copy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copy_1.md)
+
 <p><span class="chinese">把这一页抄下来。</span><span class="english">Copy this page.</span></p>
 
 <p><span class="chinese">借我抄抄吧。</span><span class="english">Lend me a copy.</span></p>

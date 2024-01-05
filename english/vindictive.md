@@ -1,5 +1,7 @@
 # vindictive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vindictive.md)
+
 <p><span class="chinese">它天性还记仇，并且残忍。</span><span class="english">Vindictive too. Cruel. Her nature.</span></p>
 
 <p><span class="chinese">他显出一副报复和敲诈的样子。</span><span class="english">Bob appears to be both vindictive and extortionate.</span></p>

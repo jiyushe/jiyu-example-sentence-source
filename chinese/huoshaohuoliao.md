@@ -1,5 +1,7 @@
 # 火烧火燎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshaohuoliao.md)
+
 <p><span class="chinese">她的头和背感到火烧火燎的。</span><span class="english">Her head and back felt on fire.</span></p>
 
 <p><span class="chinese">他的舌头被辛辣食品辣得火烧火燎的。</span><span class="english">His tongue was stung by hot food.</span></p>

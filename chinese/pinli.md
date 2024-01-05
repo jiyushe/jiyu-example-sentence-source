@@ -1,5 +1,7 @@
 # 聘礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinli.md)
+
 <p><span class="chinese">最后她认同了雄蛛的求偶仪式，接受了他的聘礼。</span><span class="english">Finally she acknowledges his attentions and accepts his advances.</span></p>
 
 <p><span class="chinese">一年后，三弟回家，帮邻家的女孩退了聘礼，解除了婚约。</span><span class="english">A year later, home, the girl next door back to help the bride price, the lifting of the marriage.</span></p>

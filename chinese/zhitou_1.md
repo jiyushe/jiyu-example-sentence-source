@@ -1,5 +1,7 @@
 # 枝头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhitou_1.md)
+
 <p><span class="chinese">我听见鸟儿在枝头啾啾。</span><span class="english">I heard birds chirping in the tree.</span></p>
 
 <p><span class="chinese">听，小鸟枝头哼小曲！</span><span class="english">Listen, the bird branches hum ditty!</span></p>

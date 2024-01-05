@@ -1,5 +1,7 @@
 # 跳槽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaocao.md)
+
 <p><span class="chinese">布罗斯2009年跳槽到华为。</span><span class="english">Bross jumped to Huawei in 2009.</span></p>
 
 <p><span class="chinese">在年夜城市跳槽是常事。</span><span class="english">Job-hopping is common in big cities.</span></p>

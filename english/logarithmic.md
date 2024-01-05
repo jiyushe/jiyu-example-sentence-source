@@ -1,5 +1,7 @@
 # logarithmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logarithmic.md)
+
 <p><span class="chinese">我们也看过对数算法。</span><span class="english">We also saw a logarithmic algorithm.</span></p>
 
 <p><span class="chinese">幂律就是对数的玻尔兹曼律！</span><span class="english">Power laws are logarithmic boltsmann laws!</span></p>

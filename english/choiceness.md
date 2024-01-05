@@ -1,5 +1,7 @@
 # choiceness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choiceness.md)
+
 <p><span class="chinese">此挂件为青玉，玉质细腻，雕工精巧，造型可爱，有一鸣惊人之意。</span><span class="english">The jade, jade pendant is exquisite, carver choiceness , lovely modelling, have a blockbuster.</span></p>
 
 <p><span class="chinese">本文论述了速冻食品的质量控制、优良特性及发展前景。</span><span class="english">This text discussed the quality control, choiceness speciality and development of deepfreeze foodstuff.</span></p>

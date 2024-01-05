@@ -1,5 +1,7 @@
 # cahoots
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cahoots.md)
+
 <p><span class="chinese">有些新员工相互合谋共事。</span><span class="english">Some of the new employees are in cahoots with each other.</span></p>
 
 <p><span class="chinese">当地的小道消息是，Battulga和俄罗斯人相互勾结。</span><span class="english">The local gossip is that Battulga is in cahoots with the Russians.</span></p>

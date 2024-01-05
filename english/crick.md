@@ -1,5 +1,7 @@
 # crick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crick.md)
+
 <p><span class="chinese">“就像你原来感到特别疼，忽然它就消失了，”我爸说。</span><span class="english">“Like you had a terrible crick and then it went away, ” Dad says.</span></p>
 
 <p><span class="chinese">沃森和克里克对DNA结构的描述,是一项非常伟大的发现</span><span class="english">This was the famous finding of Watson and Crick in describing the structure of DNA.</span></p>

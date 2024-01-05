@@ -1,5 +1,7 @@
 # 不欢而散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buhuanersan.md)
+
 <p><span class="chinese">罗梅到琳琳家道歉，结果还是不欢而散。</span><span class="english">She apologize to Lin Lin, the result is in discord.</span></p>
 
 <p><span class="chinese">但这遭到工会的反对，谈判最终不欢而散。</span><span class="english">But this was against the union, the negotiations finally broke up.</span></p>

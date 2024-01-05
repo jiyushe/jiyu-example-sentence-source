@@ -1,5 +1,7 @@
 # huff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huff.md)
+
 <p><span class="chinese">他怒冲冲地离开了房间。</span><span class="english">He left the room in a huff.</span></p>
 
 <p><span class="chinese">他怒冲冲地坐汽车走了。</span><span class="english">He left in a huff and a car.</span></p>

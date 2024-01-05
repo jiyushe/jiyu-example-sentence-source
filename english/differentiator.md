@@ -1,5 +1,7 @@
 # differentiator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/differentiator.md)
+
 <p><span class="chinese">但是说到底，究竟专家和非专家之间的区别是什么？</span><span class="english">But what exactly is the differentiator between experts and non-experts?</span></p>
 
 <p><span class="chinese">事实上，高质量的内部系统可以是一种业务差异。</span><span class="english">In fact, high-quality internal systems can be a business differentiator.</span></p>

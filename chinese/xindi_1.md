@@ -1,5 +1,7 @@
 # 心底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xindi_1.md)
+
 <p><span class="chinese">他心底善良.</span><span class="english">He's kind-hearted.</span></p>
 
 <p><span class="chinese">但我把你一直地放在心底。</span><span class="english">Gona keep you in my heart.</span></p>

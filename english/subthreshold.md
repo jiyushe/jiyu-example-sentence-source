@@ -1,5 +1,7 @@
 # subthreshold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subthreshold.md)
+
 <p><span class="chinese">阈下抑郁与抑郁症具有同质性。</span><span class="english">Subthreshold depression is homogeneous with depression.</span></p>
 
 <p><span class="chinese">并且在模型中对亚阈区的栅偏依赖现象进行建模，提高了模型描述器件退化的准确度。</span><span class="english">And the gate bias dependency in the subthreshold region is also modeled for improved accuracy.</span></p>

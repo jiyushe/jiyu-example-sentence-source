@@ -1,5 +1,7 @@
 # 名存实亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingcunshiwang.md)
+
 <p><span class="chinese">哈亚说，巴解组织已经名存实亡，是那些创立它的人埋葬了它。</span><span class="english">Hayya said the PLO was dead, sent to the morgue by those who founded it.</span></p>
 
 <p><span class="chinese">到了七十年代，这种规定已经名存实亡了，至少我听说是这样。</span><span class="english">By the 1970s, these rules were rarely enforced and easily violated, or so I was told.</span></p>

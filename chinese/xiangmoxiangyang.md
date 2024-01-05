@@ -1,5 +1,7 @@
 # 像模像样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangmoxiangyang.md)
+
 <p><span class="chinese">洋洋弹钢琴还真像模像样的呢。</span><span class="english">I am so glad that George likes piano.</span></p>
 
 <p><span class="chinese">完了吗？像模像样地跳舞！</span><span class="english">Is it over yet? Dance in smarty pants!</span></p>

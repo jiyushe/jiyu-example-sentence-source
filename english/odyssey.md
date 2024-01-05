@@ -1,5 +1,7 @@
 # odyssey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odyssey.md)
+
 <p><span class="chinese">为什么奥德赛黎明行动不应该止步于班加西</span><span class="english">Why Operation Odyssey Dawn Should Not Stop At Benghazi</span></p>
 
 <p><span class="chinese">亚穆纳高速公路上连宇宙飞船都能降落。</span><span class="english">Anyone can land a spaceship like odyssey onn yamuna express way.</span></p>

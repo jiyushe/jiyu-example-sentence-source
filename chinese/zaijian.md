@@ -1,5 +1,7 @@
 # 再见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaijian.md)
+
 <p><span class="chinese">再见。</span><span class="english">Bye-bye.</span></p>
 
 <p><span class="chinese">再见。</span><span class="english">Good bye.</span></p>

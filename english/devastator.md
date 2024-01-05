@@ -1,5 +1,7 @@
 # devastator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devastator.md)
+
 <p><span class="chinese">在游戏人物等级后期，显然应该用毁灭战舰。</span><span class="english">In the late game obviously Devastator Warships are the way to go.</span></p>
 
 <p><span class="chinese">科技发展以后，消灭者战船对步兵和建造都是致命的。</span><span class="english">After you tech, Devastator Warships are lethal for buildings as well as infantry.</span></p>

@@ -1,5 +1,7 @@
 # wizened
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wizened.md)
+
 <p><span class="chinese">那手看上去粗糙干瘪。</span><span class="english">The hand looked chapped and wizened.</span></p>
 
 <p><span class="chinese">她说她头痛，看上去显得又衰老又干巴。</span><span class="english">She complained of headache, and she looked old and wizened.</span></p>

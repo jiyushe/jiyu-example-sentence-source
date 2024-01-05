@@ -1,5 +1,7 @@
 # 知交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijiao_4.md)
+
 <p><span class="chinese">史密斯将军和我父亲是直呼名字的知交。</span><span class="english">General Smith and my father are on first name basis.</span></p>
 
 <p><span class="chinese">从那以后，它们就成为你的知交、密友。</span><span class="english">From that point they become your intimates and friends.</span></p>

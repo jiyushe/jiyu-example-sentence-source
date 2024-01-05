@@ -1,5 +1,7 @@
 # gawkish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gawkish.md)
+
 <p><span class="chinese">请问老年痴呆的早期症状是什么?有没有预防的方法?。</span><span class="english">What is senile and gawkish inchoate symptom excuse me? Have precautionary method?</span></p>
 
 <p><span class="chinese">日本医生还发现，痴呆症患者睡眠无梦期长，寿命大多数较短。</span><span class="english">Japanese doctor returns discovery, gawkish disease patientMorpheusDo not have dream period to grow, life great majority is shorter.</span></p>

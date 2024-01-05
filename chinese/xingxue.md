@@ -1,5 +1,7 @@
 # 兴学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxue.md)
+
 <p><span class="chinese">北宋三次兴学与书院的关系密切……等十余项，以供学者一笑。</span><span class="english">Academy Teaching Has Three Activity Ways, ect, for scholars to have a laugh.</span></p>
 
 <p><span class="chinese">庚款兴学是推动我国早期科学教育发展的主要因素之一。</span><span class="english">Gengzi fund gave an important impulse to the development of early science education in China.</span></p>

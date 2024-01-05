@@ -1,5 +1,7 @@
 # 淑女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunv.md)
+
 <p><span class="chinese">偶尔装一下淑女。</span><span class="english">I can try to be a lady.</span></p>
 
 <p><span class="chinese">他的妻子是个娴雅的淑女。</span><span class="english">His wife is a real lady.</span></p>

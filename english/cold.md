@@ -1,5 +1,7 @@
 # cold 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cold.md)
+
 <p><span class="chinese">寒凉食物。</span><span class="english">Cold food.</span></p>
 
 <p><span class="chinese">心冷了。</span><span class="english">Cold heart.</span></p>

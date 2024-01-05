@@ -1,5 +1,7 @@
 # 开矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaikuang.md)
+
 <p><span class="chinese">不久，房子的主人们回来了，他们是七个在山里开矿采金子的小矮人。</span><span class="english">When night fell the masters of the little house came home.</span></p>
 
 <p><span class="chinese">刚开始，印第安人杀死了一些开矿者，也把其他开矿者赶走了。</span><span class="english">At first, the Indians killed some of the miners. They chased others away.</span></p>

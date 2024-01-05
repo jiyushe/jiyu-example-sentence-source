@@ -1,5 +1,7 @@
 # arteriole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arteriole.md)
+
 <p><span class="chinese">能够促进毛细血管及新生小动脉形成。</span><span class="english">SM promoted blood capillary, arteriole and venule form.</span></p>
 
 <p><span class="chinese">微循环是指微动脉和微静脉之间的血液循环。</span><span class="english">Microcirculation is the blood circulation between arteriole and veinule.</span></p>

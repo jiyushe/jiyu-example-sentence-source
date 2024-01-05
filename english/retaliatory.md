@@ -1,5 +1,7 @@
 # retaliatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retaliatory.md)
+
 <p><span class="chinese">我的出轨不过是种报复。</span><span class="english">My affair was retaliatory.</span></p>
 
 <p><span class="chinese">那一事件也进步了直圆里回支报复动做的可以或许性。</span><span class="english">It also raises the possibility of retaliatory moves by China.</span></p>

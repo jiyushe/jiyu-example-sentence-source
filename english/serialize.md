@@ -1,5 +1,7 @@
 # serialize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serialize.md)
+
 <p><span class="chinese">序列化已知扩展，忽略其他所有扩展</span><span class="english">Serialize known-extensions and ignore everything else</span></p>
 
 <p><span class="chinese">传入的第一个参数是要序列化的值。</span><span class="english">The first parameter passed in is the value to serialize.</span></p>

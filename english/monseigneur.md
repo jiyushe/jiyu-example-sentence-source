@@ -1,5 +1,7 @@
 # monseigneur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monseigneur.md)
+
 <p><span class="chinese">大人要吃巧克力了。</span><span class="english">Monseigneur was about to take his chocolate.</span></p>
 
 <p><span class="chinese">九年以来，由于他行为圣洁，作风和蔼。</span><span class="english">In the course of nine years Monseigneur Bienvenu had.</span></p>

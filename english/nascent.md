@@ -1,5 +1,7 @@
 # nascent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nascent.md)
+
 <p><span class="chinese">可能她知道真正的“魔法”是她里面所蕴含的稚嫩的力量。</span><span class="english">Perhaps she knew the real "magic" was the nascent power within her.</span></p>
 
 <p><span class="chinese">就像台球开球一样，最初的星系看起来非常容易碰撞。</span><span class="english">Like racked billiard balls, nascent galaxies were more likely to collide.</span></p>

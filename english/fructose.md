@@ -1,5 +1,7 @@
 # fructose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fructose.md)
+
 <p><span class="chinese">根原基形成时，果糖含量急剧下降。</span><span class="english">Fructose rapiddecreased during root primordium forming.</span></p>
 
 <p><span class="chinese">甚至面包也添加了这种玉米中的果糖。</span><span class="english">Even some breads have fructose from the corn syrup additive.</span></p>

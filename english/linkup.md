@@ -1,5 +1,7 @@
 # linkup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linkup.md)
+
 <p><span class="chinese">超级骇客准备连接。</span><span class="english">Super Hacker ready for linkup.</span></p>
 
 <p><span class="chinese">大会实况在大厅闭路电视上重播。</span><span class="english">Broadcast the event on a closed-circuit TV linkup.</span></p>

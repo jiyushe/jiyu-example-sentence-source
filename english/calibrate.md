@@ -1,5 +1,7 @@
 # calibrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calibrate.md)
+
 <p><span class="chinese">安装阀门定位器，校验控制阀。</span><span class="english">Install positioner and calibrate the control valve.</span></p>
 
 <p><span class="chinese">可校准水平尺，并会自动储存。</span><span class="english">Can Calibrate and calibrate data will be saved automatically.</span></p>

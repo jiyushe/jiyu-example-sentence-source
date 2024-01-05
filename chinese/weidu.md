@@ -1,5 +1,7 @@
 # 唯独
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weidu.md)
+
 <p><span class="chinese">但是为什么唯独是健康恐慌呢？</span><span class="english">But why this health scare in particular?</span></p>
 
 <p><span class="chinese">唯独一爱你那朝圣者的心。</span><span class="english">Bue one man loved the pilgrim soul in you.</span></p>

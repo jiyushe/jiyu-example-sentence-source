@@ -1,5 +1,7 @@
 # 全数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanshu_1.md)
+
 <p><span class="chinese">他们全数没有预订的吗？</span><span class="english">Are they all non-reserved seats?</span></p>
 
 <p><span class="chinese">你们全数代价都是本钱加运费安全费代价。</span><span class="english">All your prices are on C. I. F. basis.</span></p>

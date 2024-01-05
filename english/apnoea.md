@@ -1,5 +1,7 @@
 # apnoea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apnoea.md)
+
 <p><span class="chinese">什么是睡眠呼吸暂停？</span><span class="english">What is sleep apnoea?</span></p>
 
 <p><span class="chinese">什么导致了睡眠呼吸暂停？</span><span class="english">What causes sleep apnoea?</span></p>

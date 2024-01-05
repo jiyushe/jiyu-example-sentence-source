@@ -1,5 +1,7 @@
 # aerodrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerodrome.md)
+
 <p><span class="chinese">机场上空盘旋。</span><span class="english">He circled over the aerodrome.</span></p>
 
 <p><span class="chinese">他在小型机场上空盘旋。</span><span class="english">He circled over the aerodrome.</span></p>

@@ -1,5 +1,7 @@
 # revegetation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revegetation.md)
+
 <p><span class="chinese">封育措施是一种主要的草场恢复和重建的措施。</span><span class="english">Exclusion has been applied as a main measure for revegetation.</span></p>
 
 <p><span class="chinese">封育措施是一种主要的草场恢复和重建的措施。</span><span class="english">Exclusion has been applied as a main measure for revegetation all over the world.</span></p>

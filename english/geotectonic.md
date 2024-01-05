@@ -1,5 +1,7 @@
 # geotectonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geotectonic.md)
+
 <p><span class="chinese">有时因属于不同大地构造阶段而相互间差距很大。</span><span class="english">Sometimes, they have long gap as they belong to different geotectonic stage.</span></p>
 
 <p><span class="chinese">俄罗斯远东和中国东北前新生代可划分为8个大地构造单元。</span><span class="english">There are 8 geotectonic elements in Pre-Cenozoic in FE Russian and NEC China.</span></p>

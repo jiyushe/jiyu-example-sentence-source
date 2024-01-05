@@ -1,5 +1,7 @@
 # jitters
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jitters.md)
+
 <p><span class="chinese">没人能避免第一次约会的紧张。</span><span class="english">No one can escape the first date jitters.</span></p>
 
 <p><span class="chinese">伊丽莎白推说是竞选活动引起的紧张不安。</span><span class="english">Elizabeth shrugs it off as campaign jitters.</span></p>

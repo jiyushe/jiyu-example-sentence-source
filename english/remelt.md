@@ -1,5 +1,7 @@
 # remelt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remelt.md)
+
 <p><span class="chinese">一个有趣的事实就是黄金的检测，检测黄金的纯度，重新熔化和加热它。</span><span class="english">One interesting fact is a test for pure gold. Test for purity of gold, remelt and heat it.</span></p>
 
 <p><span class="chinese">实验随后对部分重熔过程中的组织演变进行了研究。</span><span class="english">The microstructural evolution was researched in the subsequent experience of the partially remelt.</span></p>

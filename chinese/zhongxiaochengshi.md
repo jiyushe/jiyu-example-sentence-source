@@ -1,5 +1,7 @@
 # 中小城市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxiaochengshi.md)
+
 <p><span class="chinese">我国将放宽中小城市和小城镇户籍限制。</span><span class="english">China to relax "hukou" restrictions in small cities, towns.</span></p>
 
 <p><span class="chinese">包括我在内的很多人都领教过中小城市生存法则中的“关系网”这个残酷的事实。</span><span class="english">Many have learned the hard truth of small city networks, including myself.</span></p>

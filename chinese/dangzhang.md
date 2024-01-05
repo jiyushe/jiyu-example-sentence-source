@@ -1,5 +1,7 @@
 # 党章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangzhang.md)
+
 <p><span class="chinese">第二，通过了新的党章。</span><span class="english">Second, we have adapted the new Party Constitution.</span></p>
 
 <p><span class="chinese">党的代表大会还通过了新党章。</span><span class="english">The Party Congress also adopted the new Party Constitution.</span></p>

@@ -1,5 +1,7 @@
 # 一手遮天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishouzhetian.md)
+
 <p><span class="chinese">没有哪个决定是总经理一手遮天。</span><span class="english">No decision is made in a vacuum.</span></p>
 
 <p><span class="chinese">有权的人可以一手遮天。</span><span class="english">People who have power, they can cover up the sky.</span></p>

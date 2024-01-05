@@ -1,5 +1,7 @@
 # samsung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samsung.md)
+
 <p><span class="chinese">我可好，刚买了三星电视。</span><span class="english">I bought my Samsung tv just in time.</span></p>
 
 <p><span class="chinese">三星向中国出售其淘汰产品。</span><span class="english">Samsung sells its left- overs to China.</span></p>

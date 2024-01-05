@@ -1,5 +1,7 @@
 # 林木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linmu.md)
+
 <p><span class="chinese">主林木是米。</span><span class="english">The main crop is rice.</span></p>
 
 <p><span class="chinese">这一地区林木繁密。</span><span class="english">This area is densely wooded.</span></p>

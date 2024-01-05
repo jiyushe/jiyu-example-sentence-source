@@ -1,5 +1,7 @@
 # longan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longan.md)
+
 <p><span class="chinese">龙眼是木雕良材。</span><span class="english">Longan is wood timber.</span></p>
 
 <p><span class="chinese">桂圆又名龙眼。</span><span class="english">Longans , also known as longan.</span></p>

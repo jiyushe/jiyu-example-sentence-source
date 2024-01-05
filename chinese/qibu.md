@@ -1,5 +1,7 @@
 # 漆布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qibu.md)
+
 <p><span class="chinese">这张桌子上还盖着一块很美丽的漆布。</span><span class="english">This table had a cover made out of beautiful oilcloth.</span></p>
 
 <p><span class="chinese">哇！它在那里，蹄子踏在食品储藏室门前的漆布上。</span><span class="english">Wow! There it was, hoofing the lino by the larder door.</span></p>

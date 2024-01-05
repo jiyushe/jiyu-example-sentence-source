@@ -1,5 +1,7 @@
 # tiresome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiresome.md)
+
 <p><span class="chinese">真够累的，你对他说了什么？</span><span class="english">How tiresome. What did you say?</span></p>
 
 <p><span class="chinese">他的演讲实在令人厌倦。</span><span class="english">Deliver me from such tiresome people.</span></p>

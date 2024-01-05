@@ -1,5 +1,7 @@
 # geochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geochemistry.md)
+
 <p><span class="chinese">该方法在油气化探应用中比较成熟，但是它存在多解性。</span><span class="english">It is very mature in application of oil and gas geochemistry.</span></p>
 
 <p><span class="chinese">输入资料主要来自于地质、测井、地震和地化。</span><span class="english">Input data are mainly from geology, well logging, seismology and geochemistry.</span></p>

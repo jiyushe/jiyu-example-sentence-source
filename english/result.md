@@ -1,5 +1,7 @@
 # result
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/result.md)
+
 <p><span class="chinese">这就是善果么。</span><span class="english">That is a good result.</span></p>
 
 <p><span class="chinese">能告诉我比赛结果吗？</span><span class="english">Can you tell the result?</span></p>

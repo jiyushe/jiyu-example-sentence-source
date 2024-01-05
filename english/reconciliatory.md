@@ -1,5 +1,7 @@
 # reconciliatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconciliatory.md)
+
 <p><span class="chinese">我相信你那出色的航海技术。</span><span class="english">I have faith in your reconciliatory navigational skills.</span></p>
 
 <p><span class="chinese">这是一个非常需要关注和解决的问题。</span><span class="english">This is attention of a special need and reconciliatory problem.</span></p>

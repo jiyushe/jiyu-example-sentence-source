@@ -1,5 +1,7 @@
 # lepton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lepton.md)
+
 <p><span class="chinese">轻子星也许就是真实的白洞。</span><span class="english">A lepton star is probably a true white hole.</span></p>
 
 <p><span class="chinese">我们把轻子数推广为轻子荷。</span><span class="english">The lepton number is generalized to the lepton charge.</span></p>

@@ -1,5 +1,7 @@
 # 构思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gousi.md)
+
 <p><span class="chinese">构思草图。</span><span class="english">Ideation sketches.</span></p>
 
 <p><span class="chinese">构思新项目。</span><span class="english">Conceive New Project.</span></p>

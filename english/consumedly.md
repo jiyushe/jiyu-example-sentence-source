@@ -1,5 +1,7 @@
 # consumedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consumedly.md)
+
 <p><span class="chinese">谨哥儿凤眼瞪得大大的。</span><span class="english">Sincerely elder brother son Feng the eye stare consumedly.</span></p>
 
 <p><span class="chinese">它的应用范围也大大超出传统的幻灯机。</span><span class="english">Its application also outruns traditional projector consumedly.</span></p>

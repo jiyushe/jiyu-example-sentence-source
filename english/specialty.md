@@ -1,5 +1,7 @@
 # specialty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specialty.md)
+
 <p><span class="chinese">你是专门做哪部分的？</span><span class="english">What's your specialty?</span></p>
 
 <p><span class="chinese">这是她的拿手菜。</span><span class="english">This dish is her specialty.</span></p>

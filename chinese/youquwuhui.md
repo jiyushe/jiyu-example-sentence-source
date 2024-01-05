@@ -1,5 +1,7 @@
 # 有去无回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youquwuhui.md)
+
 <p><span class="chinese">这是一条有去无回的死路。</span><span class="english">This is a one-way ticket to hell.</span></p>
 
 <p><span class="chinese">通向混乱之路是条有去无回的单行道。</span><span class="english">The road to disorder is a one-way street.</span></p>

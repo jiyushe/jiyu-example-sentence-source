@@ -1,5 +1,7 @@
 # 如醉如痴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruzuiruchi.md)
+
 <p><span class="chinese">这些唱片过去往往使她听得如醉如痴。</span><span class="english">These records used to send her.</span></p>
 
 <p><span class="chinese">鼹鼠如醉如痴，入神入迷。</span><span class="english">The Mole was bewitched, entranced, fascinated.</span></p>

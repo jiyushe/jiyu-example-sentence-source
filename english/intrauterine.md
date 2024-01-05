@@ -1,5 +1,7 @@
 # intrauterine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intrauterine.md)
+
 <p><span class="chinese">最后天宫内玉漱香消玉殒小川逃出！</span><span class="english">The last days of intrauterine Yu-Shu Ogawa escaped certain death!</span></p>
 
 <p><span class="chinese">从而对宫环出血的研究有进一步的认识。</span><span class="english">There is a deeper cognition of intrauterine device bleeding in this study.</span></p>

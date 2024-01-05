@@ -1,5 +1,7 @@
 # 语病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yubing.md)
+
 <p><span class="chinese">揉是一种常见的语病。</span><span class="english">Mixed sentence structure is a common grammar mistake.</span></p>
 
 <p><span class="chinese">复杂定语因其结构复杂，往往容易引起语病。</span><span class="english">Its complex construction may easily lead to faulty wordings.</span></p>

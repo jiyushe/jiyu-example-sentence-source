@@ -1,5 +1,7 @@
 # 被里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beili_1.md)
+
 <p><span class="chinese">她那跟怪叫差不多的鼾声一股一股地从被里冒出来。</span><span class="english">The woman emitted queer regular little snores that sounded like yelps.</span></p>
 
 <p><span class="chinese">我们不能注册你的KINDLE，因为目前它已经被里一个亚马逊用户注册了。</span><span class="english">We couldn't register your Kindle because it is currently registered to another Amazon account.</span></p>

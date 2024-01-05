@@ -1,5 +1,7 @@
 # 欢天喜地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huantianxidi.md)
+
 <p><span class="chinese">欢天喜地庆祝大会！</span><span class="english">Celebrate!</span></p>
 
 <p><span class="chinese">我就要放声歌唱，欢天喜地。</span><span class="english">I sing out loud and merrily.</span></p>

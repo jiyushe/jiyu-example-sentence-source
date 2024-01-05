@@ -1,5 +1,7 @@
 # pharos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharos.md)
+
 <p><span class="chinese">港湾内河航标灯照明电源。</span><span class="english">Harbor inland river pharos illumination power source.</span></p>
 
 <p><span class="chinese">本文设计并实现基于DSP光伏发电LED航标灯系统。</span><span class="english">This paper presents the design and implementation of a LED pharos system based on a DSP.</span></p>

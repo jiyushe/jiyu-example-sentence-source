@@ -1,5 +1,7 @@
 # awfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awfully.md)
+
 <p><span class="chinese">我非常热爱京戏。</span><span class="english">I love it awfully.</span></p>
 
 <p><span class="chinese">我的头发长得非常非常快。</span><span class="english">My hair grows awfully fast.</span></p>

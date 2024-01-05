@@ -1,5 +1,7 @@
 # 脱脂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuozhi_1.md)
+
 <p><span class="chinese">欧洲的脱脂需求很旺盛。</span><span class="english">Europe has good demand for SMP.</span></p>
 
 <p><span class="chinese">瑞秋，里面有没有脱脂奶？</span><span class="english">Rach, does this have nonfat milk?</span></p>

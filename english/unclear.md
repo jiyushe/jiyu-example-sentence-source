@@ -1,5 +1,7 @@
 # unclear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unclear.md)
+
 <p><span class="chinese">但是故事情节却不清楚。</span><span class="english">But the story was unclear.</span></p>
 
 <p><span class="chinese">伊朗的意图仍然未明。</span><span class="english">Iran's intentions remain unclear.</span></p>

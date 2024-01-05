@@ -1,5 +1,7 @@
 # 每每
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meimei_2.md)
+
 <p><span class="chinese">他们每每谈到深夜。</span><span class="english">They often talked late into the night.</span></p>
 
 <p><span class="chinese">往昔般般，每每忆起，依然温暖。</span><span class="english">Past as like, often recalled, still warm.</span></p>

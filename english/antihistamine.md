@@ -1,5 +1,7 @@
 # antihistamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antihistamine.md)
+
 <p><span class="chinese">性爱是一种天然感冒药。</span><span class="english">Sex is a natural antihistamine.</span></p>
 
 <p><span class="chinese">抗组胺剂药物可以提供比较有效的治疗。</span><span class="english">Antihistamine drugs may offer an effective treatment.</span></p>

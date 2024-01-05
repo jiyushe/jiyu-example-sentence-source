@@ -1,5 +1,7 @@
 # 一气呵成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqihecheng.md)
+
 <p><span class="chinese">三个工序在同一锅内一气呵成。</span><span class="english">Three processes in the same pot at one go.</span></p>
 
 <p><span class="chinese">做事多有分歧，不能一气呵成。</span><span class="english">Many differences, can't do things in one take.</span></p>

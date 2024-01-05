@@ -1,5 +1,7 @@
 # stolid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stolid.md)
+
 <p><span class="chinese">很多人认为机器是一种非常呆板的东西。</span><span class="english">Too many people, a machine is a rather stolid thing.</span></p>
 
 <p><span class="chinese">他偷偷地瞄了一下两名侦探面无表情的脸孔。</span><span class="english">He glanced furtively at the stolid faces of the two detectives.</span></p>

@@ -1,5 +1,7 @@
 # 冷言冷语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengyanlengyu.md)
+
 <p><span class="chinese">加上艾达的冷言冷语，红果心里很欠好受。</span><span class="english">Plus IDA's coldness, red fruits in the mind is very owe right now.</span></p>
 
 <p><span class="chinese">科拉松在美容店与伊梅尔达相遇，两个人互不买账，冷言冷语。</span><span class="english">Cora loose in beauty parlors and imelda meet, two people tell each, too.</span></p>

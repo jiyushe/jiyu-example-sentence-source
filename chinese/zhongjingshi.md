@@ -1,5 +1,7 @@
 # 重晶石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjingshi.md)
+
 <p><span class="chinese">重晶石矿化具多期性。</span><span class="english">Barite mineralization has many stages.</span></p>
 
 <p><span class="chinese">重晶石粉是加重材料的一种。</span><span class="english">Barite is one of the weighting materials.</span></p>

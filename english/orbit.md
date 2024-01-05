@@ -1,5 +1,7 @@
 # orbit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orbit.md)
+
 <p><span class="chinese">冥王星的轨道是椭圆形的。</span><span class="english">Pluto has an elliptic orbit.</span></p>
 
 <p><span class="chinese">一个以地球为中心的轨道是什么?。</span><span class="english">Q. What is a geocentric orbit?</span></p>

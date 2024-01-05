@@ -1,5 +1,7 @@
 # miscarry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miscarry.md)
+
 <p><span class="chinese">我们的计划失败是因为没有目标。</span><span class="english">Our plans miscarry because they have no aim.</span></p>
 
 <p><span class="chinese">许多曾经小产的女人最终都生下了健康的宝宝。</span><span class="english">Many women who miscarry eventually have healthy babies.</span></p>

@@ -1,5 +1,7 @@
 # 煤炭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meitan.md)
+
 <p><span class="chinese">恰当的处理煤炭。</span><span class="english">Dispose of coals properly.</span></p>
 
 <p><span class="chinese">煤炭，正力挺着中国。</span><span class="english">CHONGQING—Coal powers China.</span></p>

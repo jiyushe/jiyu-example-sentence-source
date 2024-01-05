@@ -1,5 +1,7 @@
 # genetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genetics.md)
+
 <p><span class="chinese">妈妈教我遗传学。</span><span class="english">My mother taught me genetics.</span></p>
 
 <p><span class="chinese">有些人生来比别人有更好的基因构造。</span><span class="english">Some have better genetics than others.</span></p>

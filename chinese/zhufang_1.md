@@ -1,5 +1,7 @@
 # 驻防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhufang_1.md)
+
 <p><span class="chinese">有两个团在城里驻防。</span><span class="english">Two regiments were garrisoned in the town.</span></p>
 
 <p><span class="chinese">派了一百名士兵在城里驻防。</span><span class="english">A hundred soldiers were garrisoned in the town.</span></p>

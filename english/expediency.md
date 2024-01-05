@@ -1,5 +1,7 @@
 # expediency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expediency.md)
+
 <p><span class="chinese">但就是这样，一个权宜之计。</span><span class="english">It is what it is, a matter of expediency.</span></p>
 
 <p><span class="chinese">援助账单是一个权宜之计的经典范本。</span><span class="english">The bailout bill is a classic example of expediency over effectiveness.</span></p>

@@ -1,5 +1,7 @@
 # 手记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouji_3.md)
+
 <p><span class="chinese">一个偏执狂人造人在138个爱因斯坦中挣扎求存的手记。</span><span class="english">A blog of a paranoid android striving to survive among 138 Einsteins.</span></p>
 
 <p><span class="chinese">最早有关斯温存在的记录是出自洛克西斯的医生手记。</span><span class="english">The earliest account of Swain's existence comes from a Noxian infirmary doctor's notes.</span></p>

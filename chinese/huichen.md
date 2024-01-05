@@ -1,5 +1,7 @@
 # 灰尘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huichen.md)
+
 <p><span class="chinese">我是一团灰尘。</span><span class="english">I'm a cloud of dust.</span></p>
 
 <p><span class="chinese">吸沙发下的灰尘？</span><span class="english">Vacuum under the sofa?</span></p>

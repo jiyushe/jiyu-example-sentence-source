@@ -1,5 +1,7 @@
 # 硅钢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guigang.md)
+
 <p><span class="chinese">碱洗是硅钢生产的重要环节。</span><span class="english">Alkaline wash plays an important role in the production of silicon steel.</span></p>
 
 <p><span class="chinese">激光切割排样系统在硅钢板材加工中的应用。</span><span class="english">Application of Laser Cutting Layout System in Silicon Steel Plate Machining.</span></p>

@@ -1,5 +1,7 @@
 # celebrity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celebrity.md)
+
 <p><span class="chinese">她是一个网络红人。</span><span class="english">She is a web celebrity.</span></p>
 
 <p><span class="chinese">有没有来自耶鲁大学的有名人士？</span><span class="english">Is there any celebrity from Yale?</span></p>

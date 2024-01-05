@@ -1,5 +1,7 @@
 # chymotrypsin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chymotrypsin.md)
+
 <p><span class="chinese">并与黄牛糜蛋白酶进行了比较。</span><span class="english">The results were compared with those of bovine chymotrypsin.</span></p>
 
 <p><span class="chinese">结果电泳胶板经胰凝乳蛋白酶处理后，观察到一条清晰的蛋白染色带。</span><span class="english">ResultsA clear inhibitor band on the gel was observed after chymotrypsin treatment.</span></p>

@@ -1,5 +1,7 @@
 # tripod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tripod.md)
+
 <p><span class="chinese">这个鼎是青铜铸就的。</span><span class="english">This tripod is made of bronze.</span></p>
 
 <p><span class="chinese">一定要把三脚架放稳。</span><span class="english">Make sure the tripod is stable.</span></p>

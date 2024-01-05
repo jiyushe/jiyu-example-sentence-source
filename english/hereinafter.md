@@ -1,5 +1,7 @@
 # hereinafter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hereinafter.md)
+
 <p><span class="chinese">外经贸部和国家经贸委，以下统称调查机关。</span><span class="english">The MOFTEC or the SETC is hereinafter uniformly referred to as the investigation organ.</span></p>
 
 <p><span class="chinese">我们很乐意为您提供以下货物，在下列条款和条件下。</span><span class="english">We are pleasured to offer you the following goods on the terms and conditions hereinafter.</span></p>

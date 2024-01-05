@@ -1,5 +1,7 @@
 # 吊扇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaoshan.md)
+
 <p><span class="chinese">幸福就是，一台吊扇。</span><span class="english">Happiness is a ceiling fan.</span></p>
 
 <p><span class="chinese">吊扇悬挂在天花板上。</span><span class="english">The ceiling fan depends from the ceiling.</span></p>

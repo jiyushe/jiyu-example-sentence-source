@@ -1,5 +1,7 @@
 # mannered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mannered.md)
+
 <p><span class="chinese">那些男孩们彬彬有礼，尊敬长辈。</span><span class="english">The boy were well mannered and respectful toward grown-ups.</span></p>
 
 <p><span class="chinese">我们应该教育孩子们讲文明、懂礼貌。</span><span class="english">We should teach the children to be polite and well mannered.</span></p>

@@ -1,5 +1,7 @@
 # mete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mete.md)
+
 <p><span class="chinese">有赏有罚。</span><span class="english">Duly mete out rewards and punishments.</span></p>
 
 <p><span class="chinese">他是根据什么决定奖励的？</span><span class="english">On what basis did he mete out the rewards?</span></p>

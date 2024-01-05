@@ -1,5 +1,7 @@
 # 离职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizhi_3.md)
+
 <p><span class="chinese">乔治·斯迪法诺普洛斯也要离职了。</span><span class="english">George Stephanopoulos was leaving, too.</span></p>
 
 <p><span class="chinese">没有人知道玛莉亚为何离职。</span><span class="english">No one knows the reason why Maria quit.</span></p>

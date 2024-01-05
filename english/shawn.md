@@ -1,5 +1,7 @@
 # shawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shawn.md)
+
 <p><span class="chinese">洛那德和汤姆·肖恩照管着柜台。</span><span class="english">Lonand and Tom Shawn were tending bar.</span></p>
 
 <p><span class="chinese">尚恩和阿丹偷偷溜进了棒球场中。</span><span class="english">Shawn and Dan snuck into the baseball stadium.</span></p>

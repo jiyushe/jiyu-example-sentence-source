@@ -1,5 +1,7 @@
 # 这块
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhekuai.md)
+
 <p><span class="chinese">就像这块蛋糕。</span><span class="english">Like this cake.</span></p>
 
 <p><span class="chinese">这块糕太甜了。</span><span class="english">This is too sweet.</span></p>

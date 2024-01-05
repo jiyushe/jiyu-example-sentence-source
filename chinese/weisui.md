@@ -1,5 +1,7 @@
 # 尾随
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weisui.md)
+
 <p><span class="chinese">她尾随男朋友到各处。</span><span class="english">She tags her boy friend around.</span></p>
 
 <p><span class="chinese">那个人被一个侦探尾随着。</span><span class="english">The man was tailed by a detective.</span></p>

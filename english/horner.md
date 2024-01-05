@@ -1,5 +1,7 @@
 # horner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horner.md)
+
 <p><span class="chinese">但乔治·哥尔罕和他的未婚妻，帕特里·夏霍纳没有却步。</span><span class="english">But George Gorham and his fiance, Patricia Horner weren't deterred.</span></p>
 
 <p><span class="chinese">红牛车队的老板霍纳说他并不急于作出决定。</span><span class="english">RBR team boss Christian Horner said he is not in a rush to make a decision.</span></p>

@@ -1,5 +1,7 @@
 # subclass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subclass.md)
+
 <p><span class="chinese">如何将应用程序窗口子类化</span><span class="english">How to subclass application windows</span></p>
 
 <p><span class="chinese">因此，脂肪酶的酯酶包括一个子类。</span><span class="english">Lipases thus comprises a subclass of the esterases.</span></p>

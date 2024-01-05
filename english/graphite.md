@@ -1,5 +1,7 @@
 # graphite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graphite.md)
+
 <p><span class="chinese">石墨开采自锡兰。</span><span class="english">The graphite is mined in Ceylon.</span></p>
 
 <p><span class="chinese">双锥环以柔性石墨作垫片。</span><span class="english">Soft graphite spacers were used in bi taper rings.</span></p>

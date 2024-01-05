@@ -1,5 +1,7 @@
 # apex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apex.md)
+
 <p><span class="chinese">顶端仪器采样系统。</span><span class="english">Apex Instruments Sampling System.</span></p>
 
 <p><span class="chinese">淡淡的香气，荡漾在心尖之上。</span><span class="english">Faint aroma, rippling over the apex.</span></p>

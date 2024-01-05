@@ -1,5 +1,7 @@
 # obstruct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obstruct.md)
+
 <p><span class="chinese">事实上，它可能会妨碍用户的工作流程。</span><span class="english">In fact, it will likely obstruct the user's workflow.</span></p>
 
 <p><span class="chinese">不要妨碍警方执行公务.</span><span class="english">Don’t obstruct the police in the course of their duty.</span></p>

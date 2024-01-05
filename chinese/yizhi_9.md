@@ -1,5 +1,7 @@
 # 抑止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhi_9.md)
+
 <p><span class="chinese">抑止页面代码的更佳选项</span><span class="english">Better options to suppress page code</span></p>
 
 <p><span class="chinese">伯莎抑止住逗乐的情绪，开始吃饭。</span><span class="english">Bertha repressed her gaiety and began to eat.</span></p>

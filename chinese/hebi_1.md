@@ -1,5 +1,7 @@
 # 合璧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hebi_1.md)
+
 <p><span class="chinese">在这里中西合璧，完美的组合了。</span><span class="english">This is really the perfect ideal of Chinese and Western combine style.</span></p>
 
 <p><span class="chinese">我学今日用中西何合璧帮我睇病嘅嗰个医生。</span><span class="english">I learn from the doctor who have to use chinese and western medical for me.</span></p>

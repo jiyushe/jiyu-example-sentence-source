@@ -1,5 +1,7 @@
 # 造作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaozuo_1.md)
+
 <p><span class="chinese">神在母腹里造作了我们。</span><span class="english">God knits us in our mother's womb.</span></p>
 
 <p><span class="chinese">使我们自此造作的迷惑里缓解。</span><span class="english">Relieve us of this contrived confusion.</span></p>

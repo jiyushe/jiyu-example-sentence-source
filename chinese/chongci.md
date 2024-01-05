@@ -1,5 +1,7 @@
 # 冲刺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongci.md)
+
 <p><span class="chinese">让我们在这游戏中尽情冲刺！</span><span class="english">I'm just drivin' on the game !</span></p>
 
 <p><span class="chinese">我们正处于最后冲刺阶段。</span><span class="english">We are in the homestretch now.</span></p>

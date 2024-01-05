@@ -1,5 +1,7 @@
 # copula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copula.md)
+
 <p><span class="chinese">在方法的选取上，本文主要采用Copula模型。</span><span class="english">In the method of selection, the paper used mainly Copula model.</span></p>
 
 <p><span class="chinese">话题的公式是所谓的高斯相关函数。</span><span class="english">The formula in question is the so-called Gaussian copula function.</span></p>

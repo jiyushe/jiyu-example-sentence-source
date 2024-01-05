@@ -1,5 +1,7 @@
 # 消瘦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshou_1.md)
+
 <p><span class="chinese">渐渐的，她憔悴、消瘦。</span><span class="english">Gradually she pined away.</span></p>
 
 <p><span class="chinese">我却说，我消瘦了！</span><span class="english">But I say, Leanness to me!</span></p>

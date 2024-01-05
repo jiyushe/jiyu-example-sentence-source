@@ -1,5 +1,7 @@
 # misunderstanding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misunderstanding.md)
+
 <p><span class="chinese">这是极大的误解，其实教会崇拜节目中每一个部分都是敬拜的行动。</span><span class="english">This is a big misunderstanding.</span></p>
 
 <p><span class="chinese">不要产生误会。</span><span class="english">Let there be no misunderstanding.</span></p>

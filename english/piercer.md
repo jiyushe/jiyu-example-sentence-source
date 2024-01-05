@@ -1,5 +1,7 @@
 # piercer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piercer.md)
+
 <p><span class="chinese">对H13钢穿孔顶头进行了稀土铝合金化研究。</span><span class="english">The H13 steel piercer point alloyed by Re-Al is studied.</span></p>
 
 <p><span class="chinese">分析了穿孔轧制压力的数学模型。</span><span class="english">Moreover, the mathematic model of the piercer rolling pressure is analyzed by the writer.</span></p>

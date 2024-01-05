@@ -1,5 +1,7 @@
 # 怀恨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaihen.md)
+
 <p><span class="chinese">我知道你对我怀恨在心。</span><span class="english">I know you hate me.</span></p>
 
 <p><span class="chinese">她对他怀恨在心。</span><span class="english">She bears him a grudge.</span></p>

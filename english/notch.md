@@ -1,5 +1,7 @@
 # notch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notch.md)
+
 <p><span class="chinese">他们在自己的地带有个切口。</span><span class="english">They have a notch in their belt.</span></p>
 
 <p><span class="chinese">底板采用坚固槽钢。</span><span class="english">Motherboard adopts hard notch steel.</span></p>

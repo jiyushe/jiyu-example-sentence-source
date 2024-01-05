@@ -1,5 +1,7 @@
 # chard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chard.md)
+
 <p><span class="chinese">最好不过的是唐莴苣，可以很容易地在花盆中种植。</span><span class="english">Best yet, Swiss chard in particular is extremely easy to grow in pots.</span></p>
 
 <p><span class="chinese">像菠菜、甜菜、牛皮菜等蔬菜同样如此。</span><span class="english">The same is true for a few vegetables like spinach, beet greens, and Swiss chard.</span></p>

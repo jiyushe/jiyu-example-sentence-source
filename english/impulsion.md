@@ -1,5 +1,7 @@
 # impulsion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impulsion.md)
+
 <p><span class="chinese">对精神性的追求是艺术发展的原动力和支撑点。</span><span class="english">Seeking after spirit is the impulsion of development of art.</span></p>
 
 <p><span class="chinese">他们确保适当的冲动，并确定狗的步态特征。</span><span class="english">They ensure the proper impulsion and determine the dog's characteristic gait.</span></p>

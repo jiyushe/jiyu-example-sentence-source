@@ -1,5 +1,7 @@
 # 撤回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chehui.md)
+
 <p><span class="chinese">传票被撤回。</span><span class="english">The summons was withdrawn.</span></p>
 
 <p><span class="chinese">把部队撤回来，就现在！</span><span class="english">Bring the troops home NOW !</span></p>

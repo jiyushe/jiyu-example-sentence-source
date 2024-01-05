@@ -1,5 +1,7 @@
 # intersubjective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intersubjective.md)
+
 <p><span class="chinese">我们必须发现“他者”和主体间性的世界。</span><span class="english">We must also discover "others" and the intersubjective world.</span></p>
 
 <p><span class="chinese">具体存在的真正的观念里应包含着主体间性的世界。</span><span class="english">In the very idea of concrete being is contained the idea of an intersubjective world.</span></p>

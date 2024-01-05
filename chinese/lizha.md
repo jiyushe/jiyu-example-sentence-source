@@ -1,5 +1,7 @@
 # 篱栅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizha.md)
+
 <p><span class="chinese">我们走过尖桩篱栅门，四处观望。</span><span class="english">We walked through the gate of the picket fence and proceeded to look around.</span></p>
 
 <p><span class="chinese">他住在康涅狄格州北部一个漆成白色的木制房子里，屋子前面竖着尖桩篱栅。</span><span class="english">He lives in a white-painted frame house behind a picket fence up in Connecticut.</span></p>

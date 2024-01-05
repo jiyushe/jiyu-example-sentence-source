@@ -1,5 +1,7 @@
 # 暖烘烘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuanhonghong.md)
+
 <p><span class="chinese">他们的房间暖烘烘的。</span><span class="english">Their room was good and warm.</span></p>
 
 <p><span class="chinese">太阳把我的屁股晒的暖烘烘的。</span><span class="english">The sun shines warm on my ass.</span></p>

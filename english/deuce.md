@@ -1,5 +1,7 @@
 # deuce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deuce.md)
+
 <p><span class="chinese">“平手”的局面他们维持了多久？</span><span class="english">How long did they stay on deuce?</span></p>
 
 <p><span class="chinese">可是他在跟什么鬼呢？</span><span class="english">But who the deuce is he following?</span></p>

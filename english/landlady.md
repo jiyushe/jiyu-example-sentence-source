@@ -1,5 +1,7 @@
 # landlady
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landlady.md)
+
 <p><span class="chinese">房东太太对我很好。</span><span class="english">The landlady is very kind to me.</span></p>
 
 <p><span class="chinese">这是怀特太太，我的女房东。</span><span class="english">This is Mrs. White, my landlady.</span></p>

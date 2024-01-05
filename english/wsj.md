@@ -1,5 +1,7 @@
 # wsj
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wsj.md)
+
 <p><span class="chinese">日报也测试了自己的站点WSJ.com。</span><span class="english">The Journal also tested its own site, WSJ.com.</span></p>
 
 <p><span class="chinese">很多东西都免费,为什么一定要付钱给WSJ.com</span><span class="english">You can get so much for free, why should I pay for WSJ.com?</span></p>

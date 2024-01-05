@@ -1,5 +1,7 @@
 # convene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convene.md)
+
 <p><span class="chinese">联合国每年都召开大会吗?</span><span class="english">Does the UN convene every year?</span></p>
 
 <p><span class="chinese">俱乐部将于十月开会。</span><span class="english">The club will convene in October.</span></p>

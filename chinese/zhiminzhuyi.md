@@ -1,5 +1,7 @@
 # 殖民主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiminzhuyi.md)
+
 <p><span class="chinese">我们得对殖民主义进行再探索。</span><span class="english">We need to re-explore Colonialism.</span></p>
 
 <p><span class="chinese">他们一直是反对殖民主义的。</span><span class="english">They have always been anti-colonialism.</span></p>

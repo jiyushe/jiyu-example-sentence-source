@@ -1,5 +1,7 @@
 # 隔绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gejue.md)
+
 <p><span class="chinese">厚墙隔绝嘈杂声。</span><span class="english">Thick walls deaden noise.</span></p>
 
 <p><span class="chinese">是一位神祇裁定他们隔绝！</span><span class="english">A god, a god their severance ruled!</span></p>

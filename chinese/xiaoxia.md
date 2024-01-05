@@ -1,5 +1,7 @@
 # 消夏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxia.md)
+
 <p><span class="chinese">他在这一海滨区域拥有一栋消夏别墅。</span><span class="english">I. , the beach community where he had a summer home.</span></p>
 
 <p><span class="chinese">一个年约二十八岁的男子来我们村消夏。</span><span class="english">A man of about twenty-eight spent a summer in our village.</span></p>

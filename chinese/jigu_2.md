@@ -1,5 +1,7 @@
 # 叽咕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jigu_2.md)
+
 <p><span class="chinese">他对我叽咕了几句话，可我没太听清楚。</span><span class="english">He mumbled something to me which I did not quite catch.</span></p>
 
 <p><span class="chinese">他低声叽咕了几句道歉的话，然后就走了。</span><span class="english">He muttered a few words of apology and with that he left.</span></p>

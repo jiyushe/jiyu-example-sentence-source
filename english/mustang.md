@@ -1,5 +1,7 @@
 # mustang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mustang.md)
+
 <p><span class="chinese">她的红色野马脱缰而出。</span><span class="english">Her red mustang drove like a baby.</span></p>
 
 <p><span class="chinese">小野马和卓越为7。</span><span class="english">Little Mustang and Eminent were 7.</span></p>

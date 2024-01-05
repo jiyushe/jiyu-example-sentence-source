@@ -1,5 +1,7 @@
 # kinesiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinesiology.md)
+
 <p><span class="chinese">我们谈论了半天有关运动学和生物力学的事情—真是饶有兴趣！</span><span class="english">We spent hours discussing kinesiology and biomechanics—it was fun!</span></p>
 
 <p><span class="chinese">本书的重点是解剖学和运动机能学与体位法练习和教学的关系。</span><span class="english">This book will focus on both anatomy and kinesiology in relationship to asana practice and teaching.</span></p>

@@ -1,5 +1,7 @@
 # oder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oder.md)
+
 <p><span class="chinese">你的车用柴油还是汽油？</span><span class="english">Fährt dein Auto mit Diesel oder Benzin?</span></p>
 
 <p><span class="chinese">为了生活。我们要来玩这场游戏。</span><span class="english">In oder to live. We have to play the game.</span></p>

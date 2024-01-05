@@ -1,5 +1,7 @@
 # humbug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humbug.md)
+
 <p><span class="chinese">你是个骗子。―你是另一个。</span><span class="english">You're a humbug. ―You're another.</span></p>
 
 <p><span class="chinese">我把约翰爵爷称作说鬼话的骗子。</span><span class="english">I called lord john a lying humbug.</span></p>

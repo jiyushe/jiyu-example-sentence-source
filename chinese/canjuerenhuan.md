@@ -1,5 +1,7 @@
 # 惨绝人寰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canjuerenhuan.md)
+
 <p><span class="chinese">这是历史上最惨绝人寰的事之一。</span><span class="english">It's one of the most terrible stories in history.</span></p>
 
 <p><span class="chinese">但没有什么比更惨绝人寰,包括一战在内</span><span class="english">But there was nothing like this really, including World War I.</span></p>

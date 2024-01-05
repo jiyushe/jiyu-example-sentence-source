@@ -1,5 +1,7 @@
 # 闪烁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshuo.md)
+
 <p><span class="chinese">但它闪烁不定。</span><span class="english">But it flickers.</span></p>
 
 <p><span class="chinese">星海在闪烁。</span><span class="english">Oceans of stars blinking.</span></p>

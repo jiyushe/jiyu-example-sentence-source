@@ -1,5 +1,7 @@
 # needful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/needful.md)
+
 <p><span class="chinese">这是唯一需要的东西。</span><span class="english">This is the one thing needful.</span></p>
 
 <p><span class="chinese">新鲜空气和必要的休息是最好的医生。</span><span class="english">And needful rest are the best of all physicians.</span></p>

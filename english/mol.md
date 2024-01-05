@@ -1,5 +1,7 @@
 # mol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mol.md)
+
 <p><span class="chinese">军官在注塑及细究这个文件将兽医。</span><span class="english">The officer at MOL will vet and scrutinize the documents.</span></p>
 
 <p><span class="chinese">本文证明了MOL归结原理是完备的。</span><span class="english">It is proved that the MOL resolution principle is complete.</span></p>

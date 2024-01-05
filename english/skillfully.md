@@ -1,5 +1,7 @@
 # skillfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skillfully.md)
+
 <p><span class="chinese">他运球娴熟。</span><span class="english">He dribbles skillfully.</span></p>
 
 <p><span class="chinese">我会熟练地打算盘。</span><span class="english">I can use abacus skillfully.</span></p>

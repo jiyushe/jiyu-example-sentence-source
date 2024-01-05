@@ -1,5 +1,7 @@
 # hydroxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroxy.md)
+
 <p><span class="chinese">反应产物的核磁共振谱图验证了聚天冬氨酸分子中羟基的引入。</span><span class="english">The presence of hydroxy in polyasparagusic acid molecules is confirmed by NMR.</span></p>
 
 <p><span class="chinese">如果皮肤是中性到干性的，你要找一找包含AHA果酸的润肤霜。</span><span class="english">If skin is normal to dry, look for moisturizers containing alpha hydroxy acids.</span></p>

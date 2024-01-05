@@ -1,5 +1,7 @@
 # 心思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinsi_1.md)
+
 <p><span class="chinese">我们为取名字而费尽心思。</span><span class="english">We picked out names.</span></p>
 
 <p><span class="chinese">您一定很会摸透别人的心思。</span><span class="english">You must be a mindreader.</span></p>

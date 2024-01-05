@@ -1,5 +1,7 @@
 # chemotactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemotactic.md)
+
 <p><span class="chinese">现在普遍认为白细胞是由于趋化作用的影响而被吸引到损伤的部位。</span><span class="english">It is now accepted that leukocytes are drawn to the site of injury by chemotactic influences.</span></p>
 
 <p><span class="chinese">研究了该融合蛋白在体外的促造血细胞增殖活性和对免疫细胞的趋化活性。</span><span class="english">The hematopoietic and chemotactic activities of the fusion protein were investigated in vitro.</span></p>

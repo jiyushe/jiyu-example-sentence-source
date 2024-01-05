@@ -1,5 +1,7 @@
 # adenoidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adenoidal.md)
+
 <p><span class="chinese">小儿多由于扁桃体肥大及腺样体肥大。</span><span class="english">As the number of children with tonsils and adenoidal hypertrophy.</span></p>
 
 <p><span class="chinese">儿童鼾症发生的主要危险因素有父母打鼾、腺样体肥大、仰卧睡眠、肥胖。</span><span class="english">The high-risk factors of child snoring were snoring of parents, adenoidal hypertrophy, supine sleep and obesity.</span></p>

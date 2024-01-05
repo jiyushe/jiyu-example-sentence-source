@@ -1,5 +1,7 @@
 # gcm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gcm.md)
+
 <p><span class="chinese">最后，本文对ENSO循环的GCM模拟及其预测作了一些介绍。</span><span class="english">Finally, the GCM modelling and the prediction of the ENSO cycles are introduced.</span></p>
 
 <p><span class="chinese">气候变化的预测通常使用的GCM到陆面过程模式。</span><span class="english">Predictions of climate change typically use a GCM linked to a land surface model.</span></p>

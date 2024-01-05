@@ -1,5 +1,7 @@
 # leukopenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leukopenia.md)
+
 <p><span class="chinese">该方案的主要毒副作用是骨髓抑制，白细胞下降。</span><span class="english">The main side-effect was myelosuppression and leukopenia.</span></p>
 
 <p><span class="chinese">不良反应主要为白细胞减少、发和周围静脉炎。</span><span class="english">The toxicity was leukopenia losing hair milieu phlebitis.</span></p>

@@ -1,5 +1,7 @@
 # 侧击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ceji.md)
+
 <p><span class="chinese">我将球侧击，可是没打着。</span><span class="english">I swiped for it, but missed.</span></p>
 
 <p><span class="chinese">每当我正手拍侧击时，总是失误。</span><span class="english">I always miss when I have to use a forehand swipe.</span></p>

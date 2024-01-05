@@ -1,5 +1,7 @@
 # newsstand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newsstand.md)
+
 <p><span class="chinese">你可以在书报摊买到。</span><span class="english">You can buy it at newsstand.</span></p>
 
 <p><span class="chinese">当下不再劝说，向南亭走去。</span><span class="english">At present no persuasion, South newsstand.</span></p>

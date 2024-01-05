@@ -1,5 +1,7 @@
 # monopolization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monopolization.md)
+
 <p><span class="chinese">更大的损失将来自于进一步垄断的铁矿石市场。</span><span class="english">Bigger cost would come from further monopolization of iron ore market.</span></p>
 
 <p><span class="chinese">有线电视网络未来的趋势将是兼并、垄断和重组。</span><span class="english">The trend of CATV network will be annexation, monopolization and recombination.</span></p>

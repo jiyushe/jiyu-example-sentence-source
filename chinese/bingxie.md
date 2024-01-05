@@ -1,5 +1,7 @@
 # 冰鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingxie.md)
+
 <p><span class="chinese">丹尼有一双新冰鞋。</span><span class="english">Danny a of skates.</span></p>
 
 <p><span class="chinese">把冰鞋给我！</span><span class="english">Give the skates to me!</span></p>

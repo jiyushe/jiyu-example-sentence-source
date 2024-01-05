@@ -1,5 +1,7 @@
 # twill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twill.md)
+
 <p><span class="chinese">斜纹织纹帆布鞋面。</span><span class="english">Uppers of twill or textured canvas.</span></p>
 
 <p><span class="chinese">将来你会懂得爱这块土地的。</span><span class="english">Twill come to you, this love of land.</span></p>

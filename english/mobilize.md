@@ -1,5 +1,7 @@
 # mobilize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mobilize.md)
+
 <p><span class="chinese">部队接到动员令。</span><span class="english">The troops received orders to mobilize.</span></p>
 
 <p><span class="chinese">部队接到动了员令。</span><span class="english">The troops received orders to mobilize.</span></p>

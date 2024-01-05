@@ -1,5 +1,7 @@
 # 质询
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixun.md)
+
 <p><span class="chinese">余若薇议员就室内空气质素提出质询。</span><span class="english">Hon Audrey EU raised a question on indoor air quality.</span></p>
 
 <p><span class="chinese">卟菅咋样，这种质询法媞苡啥方式影响到当偂？</span><span class="english">In what ways is such questioning relevant today anyway?</span></p>

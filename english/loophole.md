@@ -1,5 +1,7 @@
 # loophole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loophole.md)
+
 <p><span class="chinese">每部法律都有漏洞。</span><span class="english">Each law has its loophole.</span></p>
 
 <p><span class="chinese">足够我来读圣经和等待那个枪眼。</span><span class="english">Plenty of time to read my Bible and look for a loophole.</span></p>

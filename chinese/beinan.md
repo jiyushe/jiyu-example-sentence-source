@@ -1,5 +1,7 @@
 # 被难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beinan.md)
+
 <p><span class="chinese">Williams被难住了。</span><span class="english">Williams was stumped.</span></p>
 
 <p><span class="chinese">他们以为我们被难住了。</span><span class="english">They thought we were stuck.</span></p>

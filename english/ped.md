@@ -1,5 +1,7 @@
 # ped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ped.md)
+
 <p><span class="chinese">那只鬈毛狗又是叫又是咬。</span><span class="english">The poodle yapped and snap ped.</span></p>
 
 <p><span class="chinese">他用刀向我砍来，但未砍中。</span><span class="english">He chop ped at me with his knife, but missed.</span></p>

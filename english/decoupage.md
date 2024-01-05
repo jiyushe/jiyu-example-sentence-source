@@ -1,5 +1,7 @@
 # decoupage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decoupage.md)
+
 <p><span class="chinese">你也可以使用印字，剪纸或蜡纸在一幅图案上。</span><span class="english">You could apply rub-on transfers, decoupage or stencil on a pattern, too.</span></p>
 
 <p><span class="chinese">学习如何准备和油漆在此免费视频剪辑的剪纸框。</span><span class="english">Learn how to prepare and paint a box for decoupage in this free video clip.</span></p>

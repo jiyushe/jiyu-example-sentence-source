@@ -1,5 +1,7 @@
 # arrogance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrogance.md)
+
 <p><span class="chinese">自负并不性感。</span><span class="english">Arrogance is not sexy.</span></p>
 
 <p><span class="chinese">我选择诚实的自大。</span><span class="english">I chose honest arrogance.</span></p>

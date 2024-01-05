@@ -1,5 +1,7 @@
 # boniface
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boniface.md)
+
 <p><span class="chinese">你，博尼费斯，你怎么站的？</span><span class="english">And you boniface how do you stand?</span></p>
 
 <p><span class="chinese">教宗博尼费斯八世否认玛丽亚的处女性。</span><span class="english">Pope Boniface VIII denied the virginity of Mary.</span></p>

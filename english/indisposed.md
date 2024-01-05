@@ -1,5 +1,7 @@
 # indisposed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indisposed.md)
+
 <p><span class="chinese">他似乎不愿意帮忙。</span><span class="english">He seems indisposed to help.</span></p>
 
 <p><span class="chinese">他感觉到有点不舒服。</span><span class="english">He feels slightly indisposed.</span></p>

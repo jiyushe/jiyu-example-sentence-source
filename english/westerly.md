@@ -1,5 +1,7 @@
 # westerly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/westerly.md)
+
 <p><span class="chinese">血影刀光谈笑间，匹马西风人憔悴。</span><span class="english">Blood knife light shadow talk, horse westerly winds.</span></p>
 
 <p><span class="chinese">纬向感热输送主要是西风输送。</span><span class="english">The zonal sensible heat transfer is mainly by westerly winds.</span></p>

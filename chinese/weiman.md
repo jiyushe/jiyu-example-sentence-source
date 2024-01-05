@@ -1,5 +1,7 @@
 # 帷幔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiman.md)
+
 <p><span class="chinese">部分卧室已用帷幔隔开。</span><span class="english">Part of the bedroom has been curtained off.</span></p>
 
 <p><span class="chinese">带着一点伤感，心情由此拉下了帷幔！</span><span class="english">With a little sad, this mood to pull down the curtain!</span></p>

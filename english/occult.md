@@ -1,5 +1,7 @@
 # occult
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occult.md)
+
 <p><span class="chinese">是否有一个神秘学原因在这背后？</span><span class="english">Is there an occult reason behind this?</span></p>
 
 <p><span class="chinese">神智学是神秘学的一个分支。</span><span class="english">Theosophy is one branch of occult ism.</span></p>

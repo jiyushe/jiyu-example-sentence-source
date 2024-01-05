@@ -1,5 +1,7 @@
 # damask
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damask.md)
+
 <p><span class="chinese">为什么大马士革刀如此独特？</span><span class="english">Why is damask so unique then?</span></p>
 
 <p><span class="chinese">舞台上花团锦簇。</span><span class="english">Various flowers damask the stage.</span></p>

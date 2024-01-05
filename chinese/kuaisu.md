@@ -1,5 +1,7 @@
 # 快速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaisu.md)
+
 <p><span class="chinese">快速弹回来会有帮助！</span><span class="english">Bouncing helps!</span></p>
 
 <p><span class="chinese">既快速又美味可口。</span><span class="english">Fast and delicious.</span></p>

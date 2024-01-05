@@ -1,5 +1,7 @@
 # 献身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshen.md)
+
 <p><span class="chinese">这真是前所未闻的忠忱献身！</span><span class="english">Unheard-of devotion!</span></p>
 
 <p><span class="chinese">但献身精神是必不可少的。</span><span class="english">But dedication is a must.</span></p>

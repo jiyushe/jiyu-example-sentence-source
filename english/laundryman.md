@@ -1,5 +1,7 @@
 # laundryman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laundryman.md)
+
 <p><span class="chinese">洗衣工。请问我可以进来吗？</span><span class="english">Laundryman. May I come in?</span></p>
 
 <p><span class="chinese">我来收取要洗的衣物。</span><span class="english">The laundryman is here to collect it.</span></p>

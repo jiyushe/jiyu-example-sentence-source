@@ -1,5 +1,7 @@
 # 烦嚣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanxiao.md)
+
 <p><span class="chinese">不喜欢烦嚣、闹的生活。</span><span class="english">I enjoy peaceful and happy marriage life.</span></p>
 
 <p><span class="chinese">我学会了和特里他们一样，在伦敦烦嚣的尘世中买醉。</span><span class="english">I learned how to enjoy myself in London from Terry.</span></p>

@@ -1,5 +1,7 @@
 # geomechanics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geomechanics.md)
+
 <p><span class="chinese">本文论述了阶段自然崩落法的几个岩体力学问题。</span><span class="english">This paper discusses some geomechanics problems in block caving.</span></p>
 
 <p><span class="chinese">然而正如他多次指出的那样，地质力学正处于发展的阶段。</span><span class="english">As what he pointed out repeatedly, however, the Geomechanics is just under development.</span></p>

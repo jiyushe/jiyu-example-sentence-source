@@ -1,5 +1,7 @@
 # 动机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongji_1.md)
+
 <p><span class="chinese">主题还是动机</span><span class="english">Theme or motive?</span></p>
 
 <p><span class="chinese">你的动机在那里？</span><span class="english">What’s your motive?</span></p>

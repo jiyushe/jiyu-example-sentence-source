@@ -1,5 +1,7 @@
 # sit 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sit.md)
+
 <p><span class="chinese">现在坐吧。</span><span class="english">Now sit.</span></p>
 
 <p><span class="chinese">蚈我得坐下了。</span><span class="english">I'll sit down.</span></p>

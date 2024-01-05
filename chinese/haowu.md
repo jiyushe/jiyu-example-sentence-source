@@ -1,5 +1,7 @@
 # 好恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haowu.md)
+
 <p><span class="chinese">那些食物好恶心。</span><span class="english">That food is nasty.</span></p>
 
 <p><span class="chinese">讨厌，那鱼闻起来好恶心。</span><span class="english">Yuck, that fish smells disgusting.</span></p>

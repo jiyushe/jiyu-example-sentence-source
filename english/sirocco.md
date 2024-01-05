@@ -1,5 +1,7 @@
 # sirocco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sirocco.md)
+
 <p><span class="chinese">陷阱九化好妆后再用热风吹头发。</span><span class="english">Sirocco of the 9 reoccupy after making up boasts catch hair.</span></p>
 
 <p><span class="chinese">本机分为盘式用热风旋转炉烘烤与隧道炉直接烘烤。</span><span class="english">Use sirocco disc spinning machine into the oven and direct baking oven.</span></p>

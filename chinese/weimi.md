@@ -1,5 +1,7 @@
 # 萎靡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weimi.md)
+
 <p><span class="chinese">萎靡的生命如同死亡本身。</span><span class="english">A life unlived is no different than death.</span></p>
 
 <p><span class="chinese">现在市场萎靡正在向北方扩展。</span><span class="english">Now the market malaise appears to be spreading northward.</span></p>

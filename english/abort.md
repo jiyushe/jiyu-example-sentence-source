@@ -1,5 +1,7 @@
 # abort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abort.md)
+
 <p><span class="chinese">我们决定中止这项程序。</span><span class="english">We decided to abort the program.</span></p>
 
 <p><span class="chinese">有些感冒可不治而愈。</span><span class="english">Some colds abort without treatment.</span></p>

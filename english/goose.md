@@ -1,5 +1,7 @@
 # goose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goose.md)
+
 <p><span class="chinese">非常好，小鹅！</span><span class="english">Very good , Goose !</span></p>
 
 <p><span class="chinese">搭乘着野鹅的翅膀。</span><span class="english">Upon a wild goose wing.</span></p>

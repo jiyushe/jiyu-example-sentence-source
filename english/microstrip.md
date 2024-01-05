@@ -1,5 +1,7 @@
 # microstrip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microstrip.md)
+
 <p><span class="chinese">铬是一种微带天蓝色的银白色金属。</span><span class="english">Chrome is a microstrip sky-blue silvery white metal.</span></p>
 
 <p><span class="chinese">微带天线的主要优点之一是其共形性。</span><span class="english">The excellence of the microstrip antenna is it's conformal.</span></p>

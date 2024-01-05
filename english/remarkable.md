@@ -1,5 +1,7 @@
 # remarkable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remarkable.md)
+
 <p><span class="chinese">她样样工作都干得很出色。</span><span class="english">She has done remarkable jobs.</span></p>
 
 <p><span class="chinese">那是一场令人难忘的旅行。</span><span class="english">That was a remarkable journey.</span></p>

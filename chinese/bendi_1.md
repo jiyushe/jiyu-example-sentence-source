@@ -1,5 +1,7 @@
 # 本底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bendi_1.md)
+
 <p><span class="chinese">这种程度的自然本底射线是很常见的。</span><span class="english">These levels of naturaland background radiation is normal.</span></p>
 
 <p><span class="chinese">而只有较少的本底气体引进于射薄膜中。</span><span class="english">And less background gas is incorporated in the deposited film.</span></p>

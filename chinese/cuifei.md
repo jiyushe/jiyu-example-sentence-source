@@ -1,5 +1,7 @@
 # 催肥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuifei.md)
+
 <p><span class="chinese">他们给谷物催肥。</span><span class="english">They feed out the corn.</span></p>
 
 <p><span class="chinese">这些猪正在被催肥待售。</span><span class="english">The pigs are being fattened up for market.</span></p>

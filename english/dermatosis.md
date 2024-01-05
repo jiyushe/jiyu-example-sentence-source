@@ -1,5 +1,7 @@
 # dermatosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dermatosis.md)
+
 <p><span class="chinese">得了皮肤病怎么办？</span><span class="english">How to get dermatosis to do?</span></p>
 
 <p><span class="chinese">皮肤病吃什么水果？</span><span class="english">What fruit does dermatosis eat?</span></p>

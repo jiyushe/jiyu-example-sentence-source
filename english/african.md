@@ -1,5 +1,7 @@
 # African
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/african.md)
+
 <p><span class="chinese">他是冈比亚人，一个非裔基督徒。</span><span class="english">He’s an African Christian.</span></p>
 
 <p><span class="chinese">蓝军旗帜飘荡在南非的天空。</span><span class="english">Italian Azzurro on African sky.</span></p>

@@ -1,5 +1,7 @@
 # susceptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/susceptive.md)
+
 <p><span class="chinese">在文心兰不同品种中，T系列的病毒病发病率最高。</span><span class="english">T-series were the most susceptive varieties in different Oncidium.</span></p>
 
 <p><span class="chinese">不育系中，880A表现较好，但是易感黑穗病，需要改良。</span><span class="english">Among sterile lines 880A is a better A line, though it is susceptive in smut.</span></p>

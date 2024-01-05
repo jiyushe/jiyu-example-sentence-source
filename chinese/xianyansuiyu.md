@@ -1,5 +1,7 @@
 # 闲言碎语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyansuiyu.md)
+
 <p><span class="chinese">不用担心，闲言碎语很快就会过去的。</span><span class="english">Don't worry, these gossips will pass by.</span></p>
 
 <p><span class="chinese">球场外的闲言碎语并不特殊。</span><span class="english">The off-the-court buzz isn't that special.</span></p>

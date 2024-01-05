@@ -1,5 +1,7 @@
 # admitted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admitted.md)
+
 <p><span class="chinese">最后她被录取了。</span><span class="english">She was admitted.</span></p>
 
 <p><span class="chinese">她认了罪。</span><span class="english">She admitted her guilt.</span></p>

@@ -1,5 +1,7 @@
 # androgynous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/androgynous.md)
+
 <p><span class="chinese">我发现我喜欢上了我不男不女的身体。</span><span class="english">I discovered that I liked my androgynous body.</span></p>
 
 <p><span class="chinese">二十世纪的西方妇女确实是雌雄同体的生灵。</span><span class="english">Twentieth-century Western woman is truly an androgynous creature.</span></p>

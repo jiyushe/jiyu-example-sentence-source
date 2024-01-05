@@ -1,5 +1,7 @@
 # claw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/claw.md)
+
 <p><span class="chinese">但我们可以追回来。</span><span class="english">But we can claw it back.</span></p>
 
 <p><span class="chinese">爪强而有力，善掘洞。</span><span class="english">Claw is strong, good earth.</span></p>

@@ -1,5 +1,7 @@
 # 鸣不平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingbuping.md)
+
 <p><span class="chinese">他们去鸣不平的放弃原主张小山。</span><span class="english">They went grumbling back down the hill.</span></p>
 
 <p><span class="chinese">他在报纸上为自己鸣不平。</span><span class="english">He aired his grievance in the newspaper.</span></p>

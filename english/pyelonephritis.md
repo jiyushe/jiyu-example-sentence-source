@@ -1,5 +1,7 @@
 # pyelonephritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyelonephritis.md)
+
 <p><span class="chinese">你可以发展肾盂肾炎在任何年龄。</span><span class="english">You can develop pyelonephritis at any age.</span></p>
 
 <p><span class="chinese">肾盂肾炎以慢性患者较为多见。</span><span class="english">Pyelonephritis with chronic patient relatively much see.</span></p>

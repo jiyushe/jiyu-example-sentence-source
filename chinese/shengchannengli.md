@@ -1,5 +1,7 @@
 # 生产能力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengchannengli.md)
+
 <p><span class="chinese">高水平的铸钢件生产能力。</span><span class="english">A high level of steel casting production capacity.</span></p>
 
 <p><span class="chinese">本厂年生产能力达30万件。</span><span class="english">Factory annual production capacity of 300000 pieces.</span></p>

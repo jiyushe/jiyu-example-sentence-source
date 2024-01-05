@@ -1,5 +1,7 @@
 # celibacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celibacy.md)
+
 <p><span class="chinese">独身“挑战”</span><span class="english">Celibacy 'challenge'</span></p>
 
 <p><span class="chinese">独身主义综合症是神话吗？</span><span class="english">Is celibacy syndrome a myth?</span></p>

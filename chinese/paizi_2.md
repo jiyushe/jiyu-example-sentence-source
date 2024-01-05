@@ -1,5 +1,7 @@
 # 牌子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paizi_2.md)
+
 <p><span class="chinese">实际上，两个牌子的旅行箱我都有。</span><span class="english">I actually have both.</span></p>
 
 <p><span class="chinese">但我们是英国牌子，</span><span class="english">But we're all British.</span></p>

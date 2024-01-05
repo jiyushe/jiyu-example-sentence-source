@@ -1,5 +1,7 @@
 # descriptively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/descriptively.md)
+
 <p><span class="chinese">这些主题需要论述而不只是简单叙述一下。</span><span class="english">These topics need to be treated not just descriptively.</span></p>
 
 <p><span class="chinese">描写是一个好的作者所必须拥有的其中一个技能。</span><span class="english">To write descriptively is one of the skills a good writer must have.</span></p>

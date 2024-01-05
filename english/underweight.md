@@ -1,5 +1,7 @@
 # underweight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underweight.md)
+
 <p><span class="chinese">过度的超重或体重过轻。</span><span class="english">Being substantially overweight or underweight.</span></p>
 
 <p><span class="chinese">我们减持了厄瓜多尔债券。</span><span class="english">We took an underweight position in Ecuadorian bonds.</span></p>

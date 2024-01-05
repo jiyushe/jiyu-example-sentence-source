@@ -1,5 +1,7 @@
 # 侄子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizi.md)
+
 <p><span class="chinese">他绝对是我的侄子。</span><span class="english">He is absolutely my nephew.</span></p>
 
 <p><span class="chinese">卡梅隆向侄子卢克吼道。</span><span class="english">Cam shouted to his nephew, Luke.</span></p>

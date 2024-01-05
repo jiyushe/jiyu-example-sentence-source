@@ -1,5 +1,7 @@
 # 哄骗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongpian.md)
+
 <p><span class="chinese">哄骗是办不到的。</span><span class="english">To cajole is useless.</span></p>
 
 <p><span class="chinese">我的确可能在哄骗他们。</span><span class="english">I’m sort of tricking them.</span></p>

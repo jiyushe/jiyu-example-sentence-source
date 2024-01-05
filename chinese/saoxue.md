@@ -1,5 +1,7 @@
 # 扫雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saoxue.md)
+
 <p><span class="chinese">我们扫雪前进。</span><span class="english">We ploughed through the snow.</span></p>
 
 <p><span class="chinese">在扫雪时，人类也会死于心脏病突发。</span><span class="english">Men die of heart attacks while shoveling snow.</span></p>

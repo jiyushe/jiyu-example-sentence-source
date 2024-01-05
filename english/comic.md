@@ -1,5 +1,7 @@
 # comic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comic.md)
+
 <p><span class="chinese">你是喜剧笑匠？</span><span class="english">You are a comic.</span></p>
 
 <p><span class="chinese">他是个漫画迷。</span><span class="english">He loves comic books.</span></p>

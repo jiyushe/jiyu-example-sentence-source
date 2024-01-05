@@ -1,5 +1,7 @@
 # pack 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pack_1.md)
+
 <p><span class="chinese">真是鬼话连篇!</span><span class="english">What a pack of lies!</span></p>
 
 <p><span class="chinese">狼群是什么？</span><span class="english">What is a wolf pack?</span></p>

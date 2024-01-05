@@ -1,5 +1,7 @@
 # sneezes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sneezes.md)
+
 <p><span class="chinese">喷嚏精一直在打着喷嚏。</span><span class="english">Sneezy sneezes all the time.</span></p>
 
 <p><span class="chinese">魏斯理整天打喷嚏和咳嗽。</span><span class="english">Wesley sneezes and coughs all day.</span></p>

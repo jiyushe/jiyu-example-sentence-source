@@ -1,5 +1,7 @@
 # uprising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uprising.md)
+
 <p><span class="chinese">那次武装起义最后给镇压下去了。</span><span class="english">The armed uprising was finally put down.</span></p>
 
 <p><span class="chinese">武昌起义打响第一枪在这里。</span><span class="english">In 1911, the Wuchang Uprising fired here.</span></p>

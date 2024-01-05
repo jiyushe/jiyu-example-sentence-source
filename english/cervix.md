@@ -1,5 +1,7 @@
 # cervix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cervix.md)
+
 <p><span class="chinese">手术堕胎很少会破坏子宫颈或者子宫。</span><span class="english">Rarely, a surgical abortion can damage the cervix or uterus.</span></p>
 
 <p><span class="chinese">宫颈锥切术的主要并发症为出血。</span><span class="english">The major complication of conization of cervix was haemorrhagia.</span></p>

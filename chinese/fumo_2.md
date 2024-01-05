@@ -1,5 +1,7 @@
 # 腹膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fumo_2.md)
+
 <p><span class="chinese">而腹膜则会吸收这些液体。</span><span class="english">The peritoneum then reabsorbs the fluid.</span></p>
 
 <p><span class="chinese">有内脏与腔壁的腹膜。</span><span class="english">There are visceral and parietal peritoneal.</span></p>

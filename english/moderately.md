@@ -1,5 +1,7 @@
 # moderately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moderately.md)
+
 <p><span class="chinese">所以吃些粗茶淡饭、适量饮食。</span><span class="english">So eat simply and moderately.</span></p>
 
 <p><span class="chinese">保持简单和适度的价格。</span><span class="english">Keep it simple and moderately priced.</span></p>

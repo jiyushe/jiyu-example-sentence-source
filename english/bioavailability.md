@@ -1,5 +1,7 @@
 # bioavailability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioavailability.md)
+
 <p><span class="chinese">目的观察氟化牛奶中氟的生物利用率。</span><span class="english">Objective To assess the bioavailability of fluoride added into milk.</span></p>
 
 <p><span class="chinese">目的研究克林沙星在大鼠体内的药动学和生物利用度。</span><span class="english">AIM To study the pharmacokinetics and bioavailability of clinafloxacin in rats.</span></p>

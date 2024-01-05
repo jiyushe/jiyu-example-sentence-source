@@ -1,5 +1,7 @@
 # downlink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downlink.md)
+
 <p><span class="chinese">美国航空航天局电视视频流和下行信息，请访问</span><span class="english">For NASA TV streaming video and downlink information, visit</span></p>
 
 <p><span class="chinese">此参数的缺省值是“不连续发送的下行线失效”。</span><span class="english">The default value of this parameter is "Downlink DTX disabled".</span></p>

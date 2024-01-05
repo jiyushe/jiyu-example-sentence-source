@@ -1,5 +1,7 @@
 # dauphin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dauphin.md)
+
 <p><span class="chinese">冒牌公爵和假皇太子与汤姆有何不同？</span><span class="english">In What Ways are the Duke and the Dauphin Different from Tom?</span></p>
 
 <p><span class="chinese">致力于法国王太子，它达到了惊人的成功。</span><span class="english">Dedicated to the Dauphin of France, it attained a stunning success.</span></p>

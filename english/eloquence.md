@@ -1,5 +1,7 @@
 # eloquence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eloquence.md)
+
 <p><span class="chinese">他的辩才使得我们哑口无言。</span><span class="english">His eloquence struck us dumb.</span></p>
 
 <p><span class="chinese">他的雄辩之才能开岩裂石。</span><span class="english">His eloquence could split rocks.</span></p>

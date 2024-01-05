@@ -1,5 +1,7 @@
 # channel 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/channel_1.md)
+
 <p><span class="chinese">集群发送器通道。</span><span class="english">Cluster sender channel.</span></p>
 
 <p><span class="chinese">如何引导？</span><span class="english">How do they channel it?</span></p>

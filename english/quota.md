@@ -1,5 +1,7 @@
 # quota
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quota.md)
+
 <p><span class="chinese">为什么我的每日工作限额那么小？</span><span class="english">Whys my Daily Result Quota so small?</span></p>
 
 <p><span class="chinese">完成生产指标不成问题。</span><span class="english">We will fulfil the quota without fail.</span></p>

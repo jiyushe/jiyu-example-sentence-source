@@ -1,5 +1,7 @@
 # 指指点点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhidiandian.md)
+
 <p><span class="chinese">既非写实，也不客观，亦非新闻报道，有的只是指指点点。</span><span class="english">Not journalism. Not objective.</span></p>
 
 <p><span class="chinese">我们一定不要指指点点，横加指责。</span><span class="english">We must not point fingers and cast blame.</span></p>

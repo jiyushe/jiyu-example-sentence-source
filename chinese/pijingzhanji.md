@@ -1,5 +1,7 @@
 # 披荆斩棘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pijingzhanji.md)
+
 <p><span class="chinese">你要知道一颗善良的心不会一直庇佑为你披荆斩棘。</span><span class="english">You know a heart of gold won't take you all the way.</span></p>
 
 <p><span class="chinese">你拥有披荆斩棘的勇气。</span><span class="english">But you possess the inner courage to see you through.</span></p>

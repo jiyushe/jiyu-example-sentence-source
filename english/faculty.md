@@ -1,5 +1,7 @@
 # faculty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faculty.md)
+
 <p><span class="chinese">该校拥有一支高水平的师资队伍。</span><span class="english">It boasts a high-level faculty.</span></p>
 
 <p><span class="chinese">那教职工方面呢？</span><span class="english">What about from the faculty side?</span></p>

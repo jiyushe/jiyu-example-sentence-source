@@ -1,5 +1,7 @@
 # taibei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taibei.md)
+
 <p><span class="chinese">我以前住在台北。</span><span class="english">I used to live in Taibei.</span></p>
 
 <p><span class="chinese">我在台北预订过的。</span><span class="english">I made a reservation in Taibei.</span></p>

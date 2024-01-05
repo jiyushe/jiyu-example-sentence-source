@@ -1,5 +1,7 @@
 # 比丘尼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biqiuni.md)
+
 <p><span class="chinese">中国佛教以印度佛教为母国，中国比丘尼制度也源于印度。</span><span class="english">China Buddhism and Bhkuni Sangha both originated from India.</span></p>
 
 <p><span class="chinese">在三个月的安居期间，比丘和比丘尼习惯于日中一餐。</span><span class="english">In a three-month retreat, monks and nun used to have a formal meal every day.</span></p>

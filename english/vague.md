@@ -1,5 +1,7 @@
 # vague
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vague.md)
+
 <p><span class="chinese">因为它说的太模糊了。</span><span class="english">It's just so vague.</span></p>
 
 <p><span class="chinese">所以他们的结果也是模糊的。</span><span class="english">So their results were vague.</span></p>

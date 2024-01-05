@@ -1,5 +1,7 @@
 # 放任自流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangrenziliu.md)
+
 <p><span class="chinese">然而如果我们把自我世界放任自流，那也会成为一个非常糟糕的地方。</span><span class="english">Although that can be a pretty awful place too. When we let it be.</span></p>
 
 <p><span class="chinese">不要尽信传言，倾你之所有，任时间在睡眠中放任自流。</span><span class="english">Don't believe all you hear, spend all you have, or sleep all you want.</span></p>

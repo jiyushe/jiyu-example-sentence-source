@@ -1,5 +1,7 @@
 # winnipeg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winnipeg.md)
+
 <p><span class="chinese">本次航班到达温尼伯的飞行时间是45分钟。</span><span class="english">Our flying time to Winnipeg is 45 minutes.</span></p>
 
 <p><span class="chinese">在温尼泊春季缓缓地向我们走来。</span><span class="english">Spring is slowly coming to us here in Winnipeg.</span></p>

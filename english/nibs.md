@@ -1,5 +1,7 @@
 # nibs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nibs.md)
+
 <p><span class="chinese">我们小心翼翼不敢冒犯这位要人。</span><span class="english">We were careful not to offend his nibs.</span></p>
 
 <p><span class="chinese">他们小心翼翼，不敢冒犯这位大人。</span><span class="english">They were careful not to offend his nibs.</span></p>

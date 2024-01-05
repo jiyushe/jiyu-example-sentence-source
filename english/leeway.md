@@ -1,5 +1,7 @@
 # leeway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leeway.md)
+
 <p><span class="chinese">你就不留余地地忘掉我。</span><span class="english">You did not keep the leeway to forget me.</span></p>
 
 <p><span class="chinese">哪有这些丫鬟们张狂的余地。</span><span class="english">Which have these waiter girls rude leeway.</span></p>

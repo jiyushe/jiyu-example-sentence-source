@@ -1,5 +1,7 @@
 # aftertaste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aftertaste.md)
+
 <p><span class="chinese">这软饮料有种让人难忍受的余味。</span><span class="english">This soft drink has a nasty aftertaste.</span></p>
 
 <p><span class="chinese">静静的一个人，默默地去回味。</span><span class="english">A quiet man, silently go to the aftertaste.</span></p>

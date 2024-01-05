@@ -1,5 +1,7 @@
 # parturient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parturient.md)
+
 <p><span class="chinese">对照组按传统的局部热敷按摩后行人工挤奶。</span><span class="english">Parturient in test group were accepted Pringle apparatus combined massage.</span></p>
 
 <p><span class="chinese">临盆时，田立新却被警察带走，罪名是盗窃。</span><span class="english">Parturient when, tian Lixin is taken away by the police however, accusation is theft.</span></p>

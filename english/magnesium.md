@@ -1,5 +1,7 @@
 # magnesium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnesium.md)
+
 <p><span class="chinese">氧化镁。</span><span class="english">Magnesium oxide works.</span></p>
 
 <p><span class="chinese">这也可能是镁。</span><span class="english">This could be magnesium.</span></p>

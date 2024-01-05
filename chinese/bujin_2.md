@@ -1,5 +1,7 @@
 # 不禁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujin_2.md)
+
 <p><span class="chinese">我不禁喜笑颜开。</span><span class="english">I can not help but.</span></p>
 
 <p><span class="chinese">他不禁尖叫一声。</span><span class="english">A scream escaped his lips.</span></p>

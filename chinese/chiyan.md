@@ -1,5 +1,7 @@
 # 迟延
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiyan.md)
+
 <p><span class="chinese">法律总是痛恨迟延。</span><span class="english">The law always abhors delay.</span></p>
 
 <p><span class="chinese">上帝的迟延不等于上帝的拒绝</span><span class="english">A delay is not a denial from God</span></p>

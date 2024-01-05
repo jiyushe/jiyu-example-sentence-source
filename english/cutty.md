@@ -1,5 +1,7 @@
 # cutty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutty.md)
+
 <p><span class="chinese">因为这个原因，卡蒂萨克号失去了领先的地位。</span><span class="english">Because of this, the Cutty Sark lost her lead.</span></p>
 
 <p><span class="chinese">“卡蒂萨克”号是帆船制造史上建造的最快的一艘帆船。</span><span class="english">The Cutty Sark was one the fastest sailing ships that has ever been built.</span></p>

@@ -1,5 +1,7 @@
 # 熠熠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyi_6.md)
+
 <p><span class="chinese">她那金色的头发像阳光般熠熠发亮。</span><span class="english">Her golden hair flared like the sun.</span></p>
 
 <p><span class="chinese">真正的淡褐色眼睛，而且熠熠发光！</span><span class="english">The true hazel eye-and so brilliant!</span></p>

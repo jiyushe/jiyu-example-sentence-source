@@ -1,5 +1,7 @@
 # 以往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwang.md)
+
 <p><span class="chinese">我回到了以往的生活。</span><span class="english">I when back to my ori life.</span></p>
 
 <p><span class="chinese">他们以往一向是被人瞧不起的。</span><span class="english">They used to be looked down on.</span></p>

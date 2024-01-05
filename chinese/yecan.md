@@ -1,5 +1,7 @@
 # 夜餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yecan.md)
+
 <p><span class="chinese">天气如果好的话，我们想去夜餐。</span><span class="english">It being a fine day, we'd like to go for a picnic.</span></p>
 
 <p><span class="chinese">中国人凡是聚在一同吃年夜餐。</span><span class="english">Chinese people usually get together for a big dinner.</span></p>

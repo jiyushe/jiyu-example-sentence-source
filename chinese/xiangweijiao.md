@@ -1,5 +1,7 @@
 # 相位角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangweijiao.md)
+
 <p><span class="chinese">这个相位角，是什么呢？</span><span class="english">What is this business of this phase angle?</span></p>
 
 <p><span class="chinese">在计算相位角时,用不到多少物理知识。</span><span class="english">There's not much physics in the phase angle.</span></p>

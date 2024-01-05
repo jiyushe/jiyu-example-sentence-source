@@ -1,5 +1,7 @@
 # allotment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allotment.md)
+
 <p><span class="chinese">息票，赠品券，附单，配给券。</span><span class="english">The allotment of ration coupons.</span></p>
 
 <p><span class="chinese">或者有提醒配股缴款的服务。</span><span class="english">Or have to remind the allotment payment services.</span></p>

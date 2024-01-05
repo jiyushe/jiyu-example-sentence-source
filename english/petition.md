@@ -1,5 +1,7 @@
 # petition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petition.md)
+
 <p><span class="chinese">请愿书很快就送去吗？</span><span class="english">Will the petition go soon?</span></p>
 
 <p><span class="chinese">请愿警告了那判罪先生。</span><span class="english">The petition warned that convicting Mr.</span></p>

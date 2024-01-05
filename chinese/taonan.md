@@ -1,5 +1,7 @@
 # 逃难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taonan.md)
+
 <p><span class="chinese">土坯房也被浸泡在水中，数百万人逃难。</span><span class="english">Mud houses are submerged, millions have fled.</span></p>
 
 <p><span class="chinese">成千上万人乘座小船逃难到佛罗里达.</span><span class="english">Tens of thousands flee for Florida in small boats.</span></p>

@@ -1,5 +1,7 @@
 # 缺点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quedian.md)
+
 <p><span class="chinese">品质零缺点、交期零延误！</span><span class="english">Quality zero defect, zero delay!</span></p>
 
 <p><span class="chinese">我先从缺点说起吧。</span><span class="english">I guess I'll start with the cons.</span></p>

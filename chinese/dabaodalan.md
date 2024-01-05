@@ -1,5 +1,7 @@
 # 大包大揽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabaodalan.md)
+
 <p><span class="chinese">以前，政府总想大包大揽。</span><span class="english">Before, the government wanted to do everything itself.</span></p>
 
 <p><span class="chinese">美国政府对其大包大揽的补助掩盖了其真正的开销。</span><span class="english">The U.S. government subsidizes most of it, which hides the true costs.</span></p>

@@ -1,5 +1,7 @@
 # speciality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speciality.md)
+
 <p><span class="chinese">这是贝洛的特殊性。</span><span class="english">This is Bello's speciality.</span></p>
 
 <p><span class="chinese">请尝尝这个本地名菜。</span><span class="english">Please try this local speciality.</span></p>

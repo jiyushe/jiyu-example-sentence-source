@@ -1,5 +1,7 @@
 # 纷繁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfan.md)
+
 <p><span class="chinese">你是否快被纷繁的工作所淹没了？</span><span class="english">Are you drowning in work?</span></p>
 
 <p><span class="chinese">记者纷繁飞到墨西哥往了。</span><span class="english">Newsmen went flying off to Mexico.</span></p>

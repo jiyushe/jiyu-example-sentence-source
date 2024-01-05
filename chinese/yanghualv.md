@@ -1,5 +1,7 @@
 # 氧化铝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghualv.md)
+
 <p><span class="chinese">氧化铝，铝加上氧。</span><span class="english">Aluminum oxide, aluminum plus oxygen.</span></p>
 
 <p><span class="chinese">酸性最低的氧化铝触媒只产生环己烯。</span><span class="english">The least acidic aluminas give only cyclohexene.</span></p>

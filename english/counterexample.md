@@ -1,5 +1,7 @@
 # counterexample
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterexample.md)
+
 <p><span class="chinese">软件行业会是一个反例吗？</span><span class="english">Is software a counterexample?</span></p>
 
 <p><span class="chinese">把反例放到最后写。</span><span class="english">Write your counterexample last.</span></p>

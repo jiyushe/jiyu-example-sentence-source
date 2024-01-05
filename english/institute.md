@@ -1,5 +1,7 @@
 # institute 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/institute.md)
+
 <p><span class="chinese">美国乳粉学会“，”</span><span class="english">American Dry Milk Institute.</span></p>
 
 <p><span class="chinese">世界华文圣经学院。</span><span class="english">Global Chinese Bible Institute.</span></p>

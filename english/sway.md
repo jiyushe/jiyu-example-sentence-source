@@ -1,5 +1,7 @@
 # sway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sway.md)
+
 <p><span class="chinese">我开始摇晃起来。</span><span class="english">I started to sway.</span></p>
 
 <p><span class="chinese">树枝在风中微微摇荡。</span><span class="english">Branches sway gently in the wind.</span></p>

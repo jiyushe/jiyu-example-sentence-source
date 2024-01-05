@@ -1,5 +1,7 @@
 # 身形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenxing_2.md)
+
 <p><span class="chinese">轻度身形，干，水果，柔和的水果结束。</span><span class="english">Light Body, Dry, Fruity, Sofy Fruity finish.</span></p>
 
 <p><span class="chinese">他庞然璀璨的身形吞噬着黑幽幽的山丘。</span><span class="english">His huge, light shape devoured the black ill.</span></p>

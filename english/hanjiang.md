@@ -1,5 +1,7 @@
 # hanjiang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hanjiang.md)
+
 <p><span class="chinese">韩江像一条褐色的带子。</span><span class="english">Hanjiang like a brown scallops.</span></p>
 
 <p><span class="chinese">项目位于江苏省扬州市邗江区沙头镇。</span><span class="english">The proposed project locates in Shatou Town, Hanjiang District.</span></p>

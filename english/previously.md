@@ -1,5 +1,7 @@
 # previously 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/previously.md)
+
 <p><span class="chinese">我过去远射都是打飞机的。</span><span class="english">I was skying them over previously.</span></p>
 
 <p><span class="chinese">您的以往的主修科目是甚麽?。</span><span class="english">What is your major study previously?</span></p>

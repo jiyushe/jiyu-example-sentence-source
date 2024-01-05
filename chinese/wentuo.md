@@ -1,5 +1,7 @@
 # 稳妥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wentuo.md)
+
 <p><span class="chinese">“稳妥”之船从未能从岸边走远。</span><span class="english">"and" boat never gets far from shore.</span></p>
 
 <p><span class="chinese">稳妥和可靠，意思是重复的。</span><span class="english">"Safe" and "reliable" are tautological.</span></p>

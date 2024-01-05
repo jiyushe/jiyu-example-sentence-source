@@ -1,5 +1,7 @@
 # refugee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refugee.md)
+
 <p><span class="chinese">他是个阿富汗难民，叫阿维。</span><span class="english">He was an Afghan refugee named Awal.</span></p>
 
 <p><span class="chinese">今年45岁的毛顺玉现在住在一顶帐篷里，靠政府救济过活。</span><span class="english">Now a refugee living on handouts in a tent, Ms.</span></p>

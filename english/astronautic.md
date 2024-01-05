@@ -1,5 +1,7 @@
 # astronautic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astronautic.md)
+
 <p><span class="chinese">杨利伟先生被称作是航天英雄。</span><span class="english">Mr. Yang Liwei is known as an astronautic hero.</span></p>
 
 <p><span class="chinese">此外，温家宝总理还将参观法国和欧洲的航空、航天企业。</span><span class="english">In addition, Premier Wen will also visit astronautic and aeronautic companies in France and Europe.</span></p>

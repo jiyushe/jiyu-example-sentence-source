@@ -1,5 +1,7 @@
 # funicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/funicular.md)
+
 <p><span class="chinese">然后，我们乘坐了索道缆车。</span><span class="english">Then, we had taking the funicular.</span></p>
 
 <p><span class="chinese">坐上肖蒙缆索游客们可以观赏到全景。</span><span class="english">A ride on the Chaumont funicular affords panoramic views.</span></p>

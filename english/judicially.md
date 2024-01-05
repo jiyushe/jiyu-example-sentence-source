@@ -1,5 +1,7 @@
 # judicially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judicially.md)
+
 <p><span class="chinese">我想从审判上来看这对我方有利。</span><span class="english">And I think judicially we'll find favor.</span></p>
 
 <p><span class="chinese">杰弗里走进那栏马，用审视的目的目光一匹接一匹地望去。</span><span class="english">Geoffrey approached the line of horses and glanced judicially down the row.</span></p>

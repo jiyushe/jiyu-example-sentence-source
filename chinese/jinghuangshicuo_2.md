@@ -1,5 +1,7 @@
 # 惊惶失措
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinghuangshicuo_2.md)
+
 <p><span class="chinese">惊惶失措下，我抬头看向爱德华。</span><span class="english">I looked up at Edward, panic-stricken.</span></p>
 
 <p><span class="chinese">伯莎这时已恐慌得惊惶失措。</span><span class="english">By this time Bertha was frightened out of her wits.</span></p>

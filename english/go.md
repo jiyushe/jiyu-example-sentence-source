@@ -1,5 +1,7 @@
 # go 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/go.md)
+
 <p><span class="chinese">滚回家吧！</span><span class="english">Go home!</span></p>
 
 <p><span class="chinese">慢慢来。</span><span class="english">Go slowly.</span></p>

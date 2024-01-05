@@ -1,5 +1,7 @@
 # miscellaneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miscellaneous.md)
+
 <p><span class="chinese">XIP移植的杂项更新。</span><span class="english">Miscellaneous updates on XIP porting.</span></p>
 
 <p><span class="chinese">杂项规则和评论奥格登。</span><span class="english">Miscellaneous Rules and Comments by Ogden.</span></p>

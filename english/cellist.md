@@ -1,5 +1,7 @@
 # cellist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cellist.md)
+
 <p><span class="chinese">他是一位大提琴演奏家，同时也是吉他演奏家。</span><span class="english">Villa- Lobos was a cellist and guitarist, too.</span></p>
 
 <p><span class="chinese">我们还经常和另一个大提琴手在一起。</span><span class="english">We most often meet with another friend, a cellist.</span></p>

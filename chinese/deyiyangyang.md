@@ -1,5 +1,7 @@
 # 得意洋洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deyiyangyang.md)
+
 <p><span class="chinese">我得意洋洋地大叫。</span><span class="english">I proudly called out.</span></p>
 
 <p><span class="chinese">他得意洋洋地挺起了胸脯。</span><span class="english">He swelled out his chest with pride.</span></p>

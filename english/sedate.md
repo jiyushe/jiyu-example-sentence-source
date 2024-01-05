@@ -1,5 +1,7 @@
 # sedate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sedate.md)
+
 <p><span class="chinese">就是现在，未来正安静地向我们走来。</span><span class="english">Right now the future buzzes along at a sedate pace.</span></p>
 
 <p><span class="chinese">二姐和三姐则比较为稳重。</span><span class="english">Second sister and three elder sister is more for sedate.</span></p>

@@ -1,5 +1,7 @@
 # firedamp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firedamp.md)
+
 <p><span class="chinese">农村沼气建设迎来了前所未有的发展机遇。</span><span class="english">Rural firedamp construction welcomed unprecedented development opportunity.</span></p>
 
 <p><span class="chinese">正中梁上挂着一盏如同电灯般亮的沼气灯。</span><span class="english">In the middle of there is on bridge as the bright firedamp light like electric lamp.</span></p>

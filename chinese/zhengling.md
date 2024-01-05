@@ -1,5 +1,7 @@
 # 政令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengling.md)
+
 <p><span class="chinese">各金融市场素有抵消经济政令影响的习惯。</span><span class="english">Markets have a way of undoing economic decrees.</span></p>
 
 <p><span class="chinese">同时他在国内发布自由主义的政令。</span><span class="english">He also issued liberal ukases on the home front.</span></p>

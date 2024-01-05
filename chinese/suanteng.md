@@ -1,5 +1,7 @@
 # 酸疼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanteng.md)
+
 <p><span class="chinese">背部酸疼、脖子僵硬、手腕疼痛？</span><span class="english">Sore back, stiff neck, aching wrists?</span></p>
 
 <p><span class="chinese">身体上的肌肉酸疼是为什么？</span><span class="english">Is the muscle acid on the body aches why?</span></p>

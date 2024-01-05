@@ -1,5 +1,7 @@
 # 赏灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangdeng_1.md)
+
 <p><span class="chinese">元宵节赏灯活动中的猜谜游戏，充满了智慧和趣味。</span><span class="english">The riddles games are full of wisdom and fun.</span></p>
 
 <p><span class="chinese">元宵节赏灯活动中的猜谜谜游戏，充满了智慧和趣味。</span><span class="english">Thee riddles games are full of wisdom and fun.</span></p>

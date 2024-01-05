@@ -1,5 +1,7 @@
 # engaging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engaging.md)
+
 <p><span class="chinese">钝齿轮不能啮合。</span><span class="english">The cogwheels are not engaging.</span></p>
 
 <p><span class="chinese">多一些微笑并且做到行为优雅和风度迷人。</span><span class="english">Smile a lot and be personable and engaging.</span></p>

@@ -1,5 +1,7 @@
 # podded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/podded.md)
+
 <p><span class="chinese">计算了吊舱推进器的非定常水动力性能。</span><span class="english">The unsteady performance of podded propeller was calculated.</span></p>
 
 <p><span class="chinese">直升飞机上二台发动机荚舱在驾驶员座舱的后面。</span><span class="english">Two engines are podded to the helicopter just to the rear of the cockpit.</span></p>

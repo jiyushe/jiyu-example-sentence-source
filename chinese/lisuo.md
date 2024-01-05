@@ -1,5 +1,7 @@
 # 利索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lisuo.md)
+
 <p><span class="chinese">他利索地敬了一个礼。</span><span class="english">He gave a smart salute.</span></p>
 
 <p><span class="chinese">你要抓紧时间，干得干脆利索。</span><span class="english">Take your time and do it well.</span></p>

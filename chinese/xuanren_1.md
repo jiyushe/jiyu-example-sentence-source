@@ -1,5 +1,7 @@
 # 选任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanren_1.md)
+
 <p><span class="chinese">此次大选中，没有一名女性候选人被选任。</span><span class="english">Not a single female candidate was elected.</span></p>
 
 <p><span class="chinese">明天，佛罗里达州桑福德将开始选任乔治·齐默尔曼案的陪审员。</span><span class="english">Jury selection begins tomorrow in Sanford, Florida in the George Zimmerman trial.</span></p>

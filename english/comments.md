@@ -1,5 +1,7 @@
 # comments
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comments.md)
+
 <p><span class="chinese">博客之外的评论。</span><span class="english">Off-blog comments.</span></p>
 
 <p><span class="chinese">他的话有触犯到你吗？</span><span class="english">Did his comments offend you?</span></p>

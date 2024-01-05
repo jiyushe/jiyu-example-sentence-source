@@ -1,5 +1,7 @@
 # compulsion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compulsion.md)
+
 <p><span class="chinese">喝酒是她克制不住的欲望。</span><span class="english">Drinking is a compulsion with her.</span></p>
 
 <p><span class="chinese">喝酒是她克制不住的欲望。</span><span class="english">Drinking is a compulsion with him.</span></p>

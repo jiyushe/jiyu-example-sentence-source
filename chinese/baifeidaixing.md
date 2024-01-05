@@ -1,5 +1,7 @@
 # 百废待兴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baifeidaixing.md)
+
 <p><span class="chinese">我们百废待兴，这是一个新的时代。</span><span class="english">This is a new era and we all start from scratch.</span></p>
 
 <p><span class="chinese">1981年处于改革开放初期，百废待兴，百业待举。</span><span class="english">In 1981, reform and opening up, torn, and every trade has to be done.</span></p>

@@ -1,5 +1,7 @@
 # poppy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poppy.md)
+
 <p><span class="chinese">美丽的罂粟花！</span><span class="english">Beautiful poppy flowers!</span></p>
 
 <p><span class="chinese">由多个小孔开裂的蒴果，如罂粟。</span><span class="english">A capsule opening by pores, as in a poppy.</span></p>

@@ -1,5 +1,7 @@
 # coachman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coachman.md)
+
 <p><span class="chinese">哪个车夫？</span><span class="english">What coachman?</span></p>
 
 <p><span class="chinese">车夫转回头向那些坐在里面的客人说</span><span class="english">The coachman turned to the inside travellers.</span></p>

@@ -1,5 +1,7 @@
 # 急症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizheng.md)
+
 <p><span class="chinese">眼球破裂属于眼科急症。</span><span class="english">Globe rupture is an ophthalmologic emergency.</span></p>
 
 <p><span class="chinese">这是一极为罕见致死性氰化物中毒的急症。</span><span class="english">This is a very rare case of acute and lethal cyanide intoxication.</span></p>

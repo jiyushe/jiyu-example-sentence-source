@@ -1,5 +1,7 @@
 # dada
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dada.md)
+
 <p><span class="chinese">被这首歌弄湿了。嗒嗒。</span><span class="english">Were wet with song. Dada.</span></p>
 
 <p><span class="chinese">和一网打尽的声音非常清楚。</span><span class="english">And the sound DADA was very clear.</span></p>

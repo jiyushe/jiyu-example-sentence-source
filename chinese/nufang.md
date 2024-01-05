@@ -1,5 +1,7 @@
 # 怒放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nufang.md)
+
 <p><span class="chinese">玫瑰鲜花怒放。</span><span class="english">The rose burst into blossom.</span></p>
 
 <p><span class="chinese">依然执着保持着花团怒放。</span><span class="english">Still thou retain'st unchanging bloom.</span></p>

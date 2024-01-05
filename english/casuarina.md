@@ -1,5 +1,7 @@
 # casuarina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casuarina.md)
+
 <p><span class="chinese">林分密度影响木麻黄他感物质的分泌。</span><span class="english">The density of Casuarina stand affected the producing of self-allelopathy.</span></p>
 
 <p><span class="chinese">木麻黄是热带旱生类型植物，但能适应轻盐渍土。</span><span class="english">Casuarina equisetifolia is a tropical xerophyte species and can adapt in ighlt salinized soil.</span></p>

@@ -1,5 +1,7 @@
 # camptothecin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camptothecin.md)
+
 <p><span class="chinese">同样的协同作用也见于KINK-1和喜树碱的联合治疗。</span><span class="english">Similarly synergistic effects were seen with KINK-1 and camptothecin.</span></p>
 
 <p><span class="chinese">第二部分是关于喜树碱结构修饰的研究。</span><span class="english">The second part of the treatise is study on modification of camptothecin.</span></p>

@@ -1,5 +1,7 @@
 # unrealistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrealistic.md)
+
 <p><span class="chinese">不要书生气十足。</span><span class="english">Don't be so bookish and unrealistic.</span></p>
 
 <p><span class="chinese">但这是不切实际的期望。</span><span class="english">But this is an unrealistic expectation.</span></p>

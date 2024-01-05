@@ -1,5 +1,7 @@
 # larcenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/larcenous.md)
+
 <p><span class="chinese">秘密取得是盗窃行为的本质特征。</span><span class="english">Obtain the essential feature that is larcenous behavior secretly.</span></p>
 
 <p><span class="chinese">不少SNS网站开始了“盗窃式”垃圾邮件和留言的传播。</span><span class="english">Many SNS websites began " larcenous type " rubbish mail and the transmission that leave a message.</span></p>

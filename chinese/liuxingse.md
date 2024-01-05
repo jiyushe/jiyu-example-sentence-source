@@ -1,5 +1,7 @@
 # 流行色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuxingse.md)
+
 <p><span class="chinese">绿色是新的流行色。</span><span class="english">Green is the new black.</span></p>
 
 <p><span class="chinese">这一季的流行色是什么?</span><span class="english">What is the color of the season?</span></p>

@@ -1,5 +1,7 @@
 # 原故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuangu.md)
+
 <p><span class="chinese">因为你的原故，我们才迟到。</span><span class="english">We're late, thanks to you.</span></p>
 
 <p><span class="chinese">你知道我迟到的原故吗？</span><span class="english">Do you know the reason why I came late?</span></p>

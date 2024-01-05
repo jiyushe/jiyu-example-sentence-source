@@ -1,5 +1,7 @@
 # trickery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trickery.md)
+
 <p><span class="chinese">他的建议似有诈。</span><span class="english">His suggestion smells of trickery.</span></p>
 
 <p><span class="chinese">他有弄虚作假的嫌疑。</span><span class="english">He is suspected of employing trickery.</span></p>

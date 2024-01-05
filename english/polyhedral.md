@@ -1,5 +1,7 @@
 # polyhedral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyhedral.md)
+
 <p><span class="chinese">纽结不变量是研究多面体链环的主要工具。</span><span class="english">Knot invariant is an important means to study polyhedral links.</span></p>
 
 <p><span class="chinese">提出一种可靠的多面体布尔集合运算方案。</span><span class="english">This paper proposes a new approach to robust polyhedral Boolean set operations.</span></p>

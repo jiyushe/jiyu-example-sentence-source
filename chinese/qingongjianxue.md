@@ -1,5 +1,7 @@
 # 勤工俭学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingongjianxue.md)
+
 <p><span class="chinese">现在你知道什么叫勤工俭学了吧？</span><span class="english">Now you know what workstudy means?</span></p>
 
 <p><span class="chinese">他打算靠勤工俭学读完大学。</span><span class="english">He planned to work his way through college.</span></p>

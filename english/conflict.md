@@ -1,5 +1,7 @@
 # conflict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conflict.md)
+
 <p><span class="chinese">这里没有矛盾。</span><span class="english">No conflict there.</span></p>
 
 <p><span class="chinese">和苹果冲突？</span><span class="english">Conflict with Apple?</span></p>

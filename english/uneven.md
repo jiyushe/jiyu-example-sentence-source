@@ -1,5 +1,7 @@
 # uneven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uneven.md)
+
 <p><span class="chinese">没有，但她赢得高低杠金牌。</span><span class="english">No. But she won uneven bars.</span></p>
 
 <p><span class="chinese">大卵石路不平的路面。</span><span class="english">The uneven surface of a cobblestone road.</span></p>

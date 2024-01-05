@@ -1,5 +1,7 @@
 # purse 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purse.md)
+
 <p><span class="chinese">啊，一个香奈儿钱包。</span><span class="english">Ah a Chanel purse.</span></p>
 
 <p><span class="chinese">她的钱包是空的。</span><span class="english">Her purse is empty.</span></p>

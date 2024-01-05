@@ -1,5 +1,7 @@
 # infinitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infinitude.md)
+
 <p><span class="chinese">无限接近，永不可及。</span><span class="english">Infinitude approach but never reach.</span></p>
 
 <p><span class="chinese">这就是虚无的无限了。</span><span class="english">There it was, the infinitude of emptiness.</span></p>

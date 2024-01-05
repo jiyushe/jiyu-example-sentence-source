@@ -1,5 +1,7 @@
 # 急救包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijiubao.md)
+
 <p><span class="chinese">我需要一个急救包！</span><span class="english">I need a med pack!</span></p>
 
 <p><span class="chinese">把你的急救包分成两部分。</span><span class="english">Separate your first aid kit into two sections.</span></p>

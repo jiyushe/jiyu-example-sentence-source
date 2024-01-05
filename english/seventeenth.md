@@ -1,5 +1,7 @@
 # seventeenth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seventeenth.md)
+
 <p><span class="chinese">今天六月十七号。</span><span class="english">It's June the seventeenth.</span></p>
 
 <p><span class="chinese">这是十七世纪的景象</span><span class="english">This is the seventeenth century.</span></p>

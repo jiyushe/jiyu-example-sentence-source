@@ -1,5 +1,7 @@
 # teether
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teether.md)
+
 <p><span class="chinese">每次使用前后检查咬牙。</span><span class="english">Inspect teether before and after each use.</span></p>
 
 <p><span class="chinese">第一次使用前必须清洗和消毒咬牙。</span><span class="english">Always wash and sterilize teether before first use.</span></p>

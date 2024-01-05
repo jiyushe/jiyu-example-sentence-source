@@ -1,5 +1,7 @@
 # speckled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speckled.md)
+
 <p><span class="chinese">带著斑点的丝巾！</span><span class="english">The speckled band!</span></p>
 
 <p><span class="chinese">鹌鹑在矮树丛里沙沙作响。</span><span class="english">Speckled quails rustled in the underbrush.</span></p>

@@ -1,5 +1,7 @@
 # guaiacol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guaiacol.md)
+
 <p><span class="chinese">木质素的结构单元是愈创木基。</span><span class="english">The structure unit of lignin is guaiacol.</span></p>
 
 <p><span class="chinese">愈创木酚对于皱纹盘鲍贝壳沉积过程的影响。</span><span class="english">The effect of dietary guaiacol on the shell biomineralization of abalone.</span></p>

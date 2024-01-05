@@ -1,5 +1,7 @@
 # nudge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nudge.md)
+
 <p><span class="chinese">别拍他了,叫醒他就行</span><span class="english">We won't put him on camera just nudge him.</span></p>
 
 <p><span class="chinese">连接超时，请重新发送闪屏！</span><span class="english">It's timeout , please click the nudge again!</span></p>

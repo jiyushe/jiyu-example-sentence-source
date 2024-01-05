@@ -1,5 +1,7 @@
 # 运算器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunsuanqi.md)
+
 <p><span class="chinese">利用MFC编写一个简单的四则运算器。</span><span class="english">Using MFC to write a simple arithmetic device.</span></p>
 
 <p><span class="chinese">比较这一逻辑运算是运算器主要的运算活动之一。</span><span class="english">Comparison is one of the main activities of the ALU.</span></p>

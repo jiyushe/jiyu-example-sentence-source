@@ -1,5 +1,7 @@
 # 算是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanshi.md)
+
 <p><span class="chinese">这还算是爱？</span><span class="english">This is love?</span></p>
 
 <p><span class="chinese">这算是罪孽吗？</span><span class="english">Are these sins?</span></p>

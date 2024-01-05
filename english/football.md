@@ -1,5 +1,7 @@
 # football
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/football.md)
+
 <p><span class="chinese">这就是足球。</span><span class="english">That’s football.</span></p>
 
 <p><span class="chinese">足球还是水球？</span><span class="english">Football or polo?</span></p>

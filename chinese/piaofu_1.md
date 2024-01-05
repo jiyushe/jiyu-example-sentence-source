@@ -1,5 +1,7 @@
 # 飘拂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaofu_1.md)
+
 <p><span class="chinese">他那苍白而布有皱纹的面孔和浓密而飘拂的头发。</span><span class="english">His pale lined face and luxuriant flowing hair.</span></p>
 
 <p><span class="chinese">我凌空飞升，我飘拂在你那爱的疆域，啊，男人。</span><span class="english">I ascend, I float in the regions of your love O man.</span></p>

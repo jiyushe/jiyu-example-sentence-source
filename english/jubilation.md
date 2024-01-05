@@ -1,5 +1,7 @@
 # jubilation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jubilation.md)
+
 <p><span class="chinese">现在举国欢腾。</span><span class="english">Now the whole nation is in jubilation.</span></p>
 
 <p><span class="chinese">全市一片欢腾。</span><span class="english">The whole city was a scene of jubilation.</span></p>

@@ -1,5 +1,7 @@
 # 零钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingqian.md)
+
 <p><span class="chinese">不妨从零钱开始。</span><span class="english">Start with loose change.</span></p>
 
 <p><span class="chinese">可以跟你换零钱吗？</span><span class="english">Could you give me change?</span></p>

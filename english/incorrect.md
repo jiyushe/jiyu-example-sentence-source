@@ -1,5 +1,7 @@
 # incorrect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incorrect.md)
+
 <p><span class="chinese">好的,错</span><span class="english">Okay. Incorrect.</span></p>
 
 <p><span class="chinese">但是这种说法是错误的。</span><span class="english">But that’s incorrect.</span></p>

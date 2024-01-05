@@ -1,5 +1,7 @@
 # 祸事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshi_2.md)
+
 <p><span class="chinese">他一直有祸事临头的预感。</span><span class="english">He had a presentiment of trouble coming.</span></p>
 
 <p><span class="chinese">不能总是指望祸事中隐藏着好事。</span><span class="english">Blessings cannot simply be expected to come along in disguise.</span></p>

@@ -1,5 +1,7 @@
 # 鱼场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuchang_1.md)
+
 <p><span class="chinese">它溜进鱼场，静悄悄地闯过水中的树枝。</span><span class="english">It slips into fish farms and quietly works through the stock.</span></p>
 
 <p><span class="chinese">他计划用这些钱建立一个冰鱼场并偿还部分债务。</span><span class="english">He plans to build a new ice fishing house and pay off some debts.</span></p>

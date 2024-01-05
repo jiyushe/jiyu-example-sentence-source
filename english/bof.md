@@ -1,5 +1,7 @@
 # bof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bof.md)
+
 <p><span class="chinese">酪氨酸的表面畏盖度及吸附量的定量化处理。</span><span class="english">Quantificationally estimate on the and the bof the L-tyrosine.</span></p>
 
 <p><span class="chinese">施用BOF使土壤防病能力和健康水平提高。</span><span class="english">Application BOF would strengthen soil health and disease suppression.</span></p>

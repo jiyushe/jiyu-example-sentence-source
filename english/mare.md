@@ -1,5 +1,7 @@
 # mare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mare.md)
+
 <p><span class="chinese">钉脚掌，小母马。</span><span class="english">Shoe a little mare.</span></p>
 
 <p><span class="chinese">雄马与雌马交配。</span><span class="english">A horse covers a mare.</span></p>

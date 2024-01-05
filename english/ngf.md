@@ -1,5 +1,7 @@
 # ngf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ngf.md)
+
 <p><span class="chinese">有的人认为神经生长因子可减少神经变异。</span><span class="english">Some believe NGF can reduce neural degeneration.</span></p>
 
 <p><span class="chinese">因此，封闭NGF可以缓解慢性疼痛。</span><span class="english">As a consequence, blocking NGF reduces chronic pain.</span></p>

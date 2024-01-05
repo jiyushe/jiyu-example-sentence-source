@@ -1,5 +1,7 @@
 # 肉丁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rouding.md)
+
 <p><span class="chinese">我想这个是嫩肉丁。</span><span class="english">I guess it's diced rare meat.</span></p>
 
 <p><span class="chinese">我猜这些小肉丁就是蚂蚁。</span><span class="english">I guess those little bits of pork are the ants.</span></p>

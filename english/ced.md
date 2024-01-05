@@ -1,5 +1,7 @@
 # ced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ced.md)
+
 <p><span class="chinese">他们央求有更多的时间来了偿存款。</span><span class="english">They ced for more time to repay the loper.</span></p>
 
 <p><span class="chinese">讨论了影响电泳漆性能的诸种因素。</span><span class="english">Factors influencing the properties of the CED paint were discussed.</span></p>

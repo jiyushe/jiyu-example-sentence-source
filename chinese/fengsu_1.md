@@ -1,5 +1,7 @@
 # 风速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengsu_1.md)
+
 <p><span class="chinese">像蝙蝠一样的声纳追踪风速变化</span><span class="english">Bat-Like Sonar Tracks Wind Speeds</span></p>
 
 <p><span class="chinese">风速模块，包括风量，紊流度。</span><span class="english">Velocity module, incl. volume flow, degree of.</span></p>

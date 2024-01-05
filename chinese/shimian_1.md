@@ -1,5 +1,7 @@
 # 市面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shimian_1.md)
+
 <p><span class="chinese">市面上最便宜的沙爹之一！</span><span class="english">One of the Cheapest Satay in Town.</span></p>
 
 <p><span class="chinese">是否可以使用市面上的超纤布擦拭?。</span><span class="english">Are Micro-Fiber products safe to use?</span></p>

@@ -1,5 +1,7 @@
 # haploid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haploid.md)
+
 <p><span class="chinese">单倍体圆形精子细胞增多。</span><span class="english">The number of round haploid spermatids was increased.</span></p>
 
 <p><span class="chinese">每种配对都产生出所有可能单倍体子代。</span><span class="english">Each mating has generated all possible types of haploid progeny.</span></p>

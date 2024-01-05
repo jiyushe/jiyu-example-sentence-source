@@ -1,5 +1,7 @@
 # 书面语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shumianyu.md)
+
 <p><span class="chinese">书面语体的虚假言语行为研究。</span><span class="english">The writing false speech act should be study.</span></p>
 
 <p><span class="chinese">口语与书面语关系论——文字仅仅是记录口语的符号吗?。</span><span class="english">Are Words Simply the Symbols for Recording Spoken Language?</span></p>

@@ -1,5 +1,7 @@
 # sensitization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensitization.md)
+
 <p><span class="chinese">吸入可能致敏。</span><span class="english">May cause sensitization by inhalation.</span></p>
 
 <p><span class="chinese">与皮肤接触可能致敏。</span><span class="english">May cause sensitization by skin contact.</span></p>

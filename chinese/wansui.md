@@ -1,5 +1,7 @@
 # 万岁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wansui.md)
+
 <p><span class="chinese">西班牙万岁！</span><span class="english">Espana viva!</span></p>
 
 <p><span class="chinese">火鸡万岁！</span><span class="english">Viva la turkey!</span></p>

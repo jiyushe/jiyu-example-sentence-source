@@ -1,5 +1,7 @@
 # voiceover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voiceover.md)
+
 <p><span class="chinese">这就像是给卡通配音的声优。</span><span class="english">This is like a voiceover for a cartoon character.</span></p>
 
 <p><span class="chinese">她晚上去听配音课，对配音事业情有独钟。</span><span class="english">Bernstein took voiceover classes at night and loved it.</span></p>

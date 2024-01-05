@@ -1,5 +1,7 @@
 # 人口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renkou.md)
+
 <p><span class="chinese">人口718，100。</span><span class="english">Population, 718,100.</span></p>
 
 <p><span class="chinese">你知道“人口日”吗？</span><span class="english">Do you know "Men's Day"?</span></p>

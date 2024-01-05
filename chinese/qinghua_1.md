@@ -1,5 +1,7 @@
 # 清华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinghua_1.md)
+
 <p><span class="chinese">要不，咱申请清华？</span><span class="english">Or should we aim for Tsinghua?!</span></p>
 
 <p><span class="chinese">在清华吃午饭时，咱们吃了哈蜜瓜。</span><span class="english">We get melon to lunch at educate.</span></p>

@@ -1,5 +1,7 @@
 # kaiser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaiser.md)
+
 <p><span class="chinese">斯金纳在和龙甘曼说话。</span><span class="english">Kaiser are you speaking with me?</span></p>
 
 <p><span class="chinese">我想应该是郭怡广吧。</span><span class="english">I guess that would be Kaiser Kuo.</span></p>

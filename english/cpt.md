@@ -1,5 +1,7 @@
 # cpt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cpt.md)
+
 <p><span class="chinese">CPT术语和CFR术语有很多相似之处。</span><span class="english">CPT has much in common with the term CFR.</span></p>
 
 <p><span class="chinese">结果10例CPT患者的淋巴细胞培养均获得可分析标本。</span><span class="english">Results All 10 CPT patients specimen after cell culture were analyzable.</span></p>

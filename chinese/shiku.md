@@ -1,5 +1,7 @@
 # 石窟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiku.md)
+
 <p><span class="chinese">有十字架的石窟。</span><span class="english">The grotto with the cross.</span></p>
 
 <p><span class="chinese">这石钟山有一片石窟群。</span><span class="english">There is a group of caves here.</span></p>

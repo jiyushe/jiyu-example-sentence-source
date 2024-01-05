@@ -1,5 +1,7 @@
 # monumentally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monumentally.md)
+
 <p><span class="chinese">现今很多教育都是效果很差的。</span><span class="english">Much education today is monumentally ineffective.</span></p>
 
 <p><span class="chinese">Monumentally研究，详细和丰富全面的说明。</span><span class="english">Monumentally researched, comprehensively detailed and profusely illustrated.</span></p>

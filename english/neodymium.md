@@ -1,5 +1,7 @@
 # neodymium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neodymium.md)
+
 <p><span class="chinese">到那时，镝与钕的需求也会得到满足吗？</span><span class="english">Could demand for dysprosium and neodymium then be met?</span></p>
 
 <p><span class="chinese">采用时间顶级钕系希土类磁铁，具有强力保持力。</span><span class="english">Uses top class neodymium rare-earth magnets for strong retaining force.</span></p>

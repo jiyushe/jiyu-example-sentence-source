@@ -1,5 +1,7 @@
 # 争权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengquan.md)
+
 <p><span class="chinese">但在这场争权夺势力的过程中，似乎双方都违背了自己的承诺。</span><span class="english">In fighting over power and control, it seemed that both sides breached their promises.</span></p>
 
 <p><span class="chinese">我生平征战无数，有旳为夺地，有旳为争权，有旳为荣耀。</span><span class="english">I've fought many wars in my time. Some were fought for land, some for power, some for glory.</span></p>

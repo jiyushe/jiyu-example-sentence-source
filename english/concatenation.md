@@ -1,5 +1,7 @@
 # concatenation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concatenation.md)
+
 <p><span class="chinese">最简单的示例是字符串串联。</span><span class="english">The simplest example is the concatenation of strings.</span></p>
 
 <p><span class="chinese">一般LED灯是分成很多串接支路。</span><span class="english">LED lamp is generally slip into a lot of concatenation.</span></p>

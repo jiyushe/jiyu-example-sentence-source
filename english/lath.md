@@ -1,5 +1,7 @@
 # lath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lath.md)
+
 <p><span class="chinese">我必须得到板条，甚至一小一为这样的东西。</span><span class="english">I must get a lath even a small one for stuff like this.</span></p>
 
 <p><span class="chinese">这船体真的要做到在一个板条，但你知道，我是。</span><span class="english">Balsa . This hull should really be done on a lath but you know me.</span></p>

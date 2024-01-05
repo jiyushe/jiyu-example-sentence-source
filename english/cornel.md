@@ -1,5 +1,7 @@
 # cornel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornel.md)
+
 <p><span class="chinese">让我们欢迎韦斯特博士。</span><span class="english">So welcome Doctor Cornel West.</span></p>
 
 <p><span class="chinese">茱萸入药，可制酒养身祛病。</span><span class="english">Cornel medicine, liquor health illnesses.</span></p>

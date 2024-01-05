@@ -1,5 +1,7 @@
 # gloria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gloria.md)
+
 <p><span class="chinese">除了格洛里亚还有谁愿意干这种事?。</span><span class="english">Who but Gloria would do such a thing?</span></p>
 
 <p><span class="chinese">格洛里亚·马卡托是其中的一个幸运者。</span><span class="english">Gloria Marcato is one of the lucky ones.</span></p>

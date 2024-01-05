@@ -1,5 +1,7 @@
 # 纸版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiban_3.md)
+
 <p><span class="chinese">客户意思是用圆筒配纸版呢还是纸版种类？</span><span class="english">Diameter of the tube and what kind of Cardboard ?</span></p>
 
 <p><span class="chinese">纸版的儿童图书与电子书相比有很大的优势。</span><span class="english">Paper books for children have an enormous advantage over e-books.</span></p>

@@ -1,5 +1,7 @@
 # potentiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potentiality.md)
+
 <p><span class="chinese">最具有活力潜力的城市。</span><span class="english">A place of vitality and potentiality.</span></p>
 
 <p><span class="chinese">但是，我觉得你潜力很大。</span><span class="english">But still, I find much potentiality in you.</span></p>

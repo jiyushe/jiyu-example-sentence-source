@@ -1,5 +1,7 @@
 # 仲秋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongqiu_1.md)
+
 <p><span class="chinese">在周朝，人们开始庆祝仲秋并拜月。</span><span class="english">In the Zhou Dynasty, the people celebrated the Mid-Autumn Festival to worship the moon.</span></p>
 
 <p><span class="chinese">在14世纪，仲秋节吃月饼被赋予了另外一个意义。</span><span class="english">In the 14th century, the eating of mooncakes at "Zhong Qiu Jie" was given a new significance.</span></p>

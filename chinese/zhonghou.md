@@ -1,5 +1,7 @@
 # 忠厚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonghou.md)
+
 <p><span class="chinese">雪是忠厚的。</span><span class="english">The snow is honest.</span></p>
 
 <p><span class="chinese">他是一个忠厚的伴侣。</span><span class="english">He is a true friend.</span></p>

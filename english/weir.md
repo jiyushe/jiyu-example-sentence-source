@@ -1,5 +1,7 @@
 # weir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weir.md)
+
 <p><span class="chinese">鄞江镇的它山堰。</span><span class="english">The Tuoshan Weir in Yinjiang Town.</span></p>
 
 <p><span class="chinese">这个跨河的堰碉截并控制了上游的河流。</span><span class="english">The weir across the river stops or controls the flow of the river above it.</span></p>

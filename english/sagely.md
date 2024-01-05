@@ -1,5 +1,7 @@
 # sagely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sagely.md)
+
 <p><span class="chinese">即使对方知道这一点，也会一本正经地点头同意。</span><span class="english">Even the ones who understand may nod sagely.</span></p>
 
 <p><span class="chinese">教授狡诘地笑着接了一句。</span><span class="english">The professor smiles sagely at the underling.</span></p>

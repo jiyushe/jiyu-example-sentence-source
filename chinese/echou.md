@@ -1,5 +1,7 @@
 # 恶臭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/echou.md)
+
 <p><span class="chinese">很快她就开始散发恶臭。</span><span class="english">Soon she stinks.</span></p>
 
 <p><span class="chinese">我们从恶臭中而来！</span><span class="english">You got us in stenches!</span></p>

@@ -1,5 +1,7 @@
 # buckwheat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buckwheat.md)
+
 <p><span class="chinese">不吃荞麦面怎么办？</span><span class="english">Not into buckwheat?</span></p>
 
 <p><span class="chinese">用大米或麦子也行。</span><span class="english">Rice or buckwheat would also work.</span></p>

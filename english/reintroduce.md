@@ -1,5 +1,7 @@
 # reintroduce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reintroduce.md)
+
 <p><span class="chinese">加曼斯博士说，把这些蜜蜂重新引入英国很重要。</span><span class="english">Dr Gammans said it was important to reintroduce the bees to England.</span></p>
 
 <p><span class="chinese">直到最近我才把花瓶里重新放上了鲜花。</span><span class="english">It is only recently that I have been able to reintroduce vases of flowers.</span></p>

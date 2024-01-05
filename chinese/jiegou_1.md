@@ -1,5 +1,7 @@
 # 结构
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiegou_1.md)
+
 <p><span class="chinese">轴距结构。</span><span class="english">Wheelbase structure.</span></p>
 
 <p><span class="chinese">结构是什么样的？</span><span class="english">What is the structure?</span></p>

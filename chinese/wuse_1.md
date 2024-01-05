@@ -1,5 +1,7 @@
 # 物色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuse_1.md)
+
 <p><span class="chinese">他被选中去物色人才。</span><span class="english">He was selected to  scout.</span></p>
 
 <p><span class="chinese">因此我开始物色一个丈夫。</span><span class="english">So I began to look for a husband.</span></p>

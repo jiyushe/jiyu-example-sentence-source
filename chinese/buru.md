@@ -1,5 +1,7 @@
 # 不如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buru.md)
+
 <p><span class="chinese">实是禽兽不如！</span><span class="english">Are not in animals!</span></p>
 
 <p><span class="chinese">或者是泰德，不如叫泰德好？</span><span class="english">Or Ted. Why not Ted?</span></p>

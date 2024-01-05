@@ -1,5 +1,7 @@
 # 光阴似箭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangyinsijian.md)
+
 <p><span class="chinese">光阴似箭，日月如梭。</span><span class="english">How time flies.</span></p>
 
 <p><span class="chinese">光阴似箭，岁月如梭。</span><span class="english">Time flies like an arrow.</span></p>

@@ -1,5 +1,7 @@
 # ideology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ideology.md)
+
 <p><span class="chinese">政府的意识形态是Salafi。</span><span class="english">The state"s ideology is Salafi.</span></p>
 
 <p><span class="chinese">为什么选择这些思想？</span><span class="english">Why does Mopa use this ideology?</span></p>

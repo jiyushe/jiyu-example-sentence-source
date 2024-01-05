@@ -1,5 +1,7 @@
 # impetus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impetus.md)
+
 <p><span class="chinese">需要点动力？</span><span class="english">Need further impetus?</span></p>
 
 <p><span class="chinese">儿童学习需要动力。</span><span class="english">Children need an impetus to study.</span></p>

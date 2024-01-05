@@ -1,5 +1,7 @@
 # 公道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongdao.md)
+
 <p><span class="chinese">把它寄给主持公道。</span><span class="english">Send it for justice.</span></p>
 
 <p><span class="chinese">此话怎讲?这是个公道的市场价格啊。</span><span class="english">Why? This is a fair market price.</span></p>

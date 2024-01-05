@@ -1,5 +1,7 @@
 # parakeet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parakeet.md)
+
 <p><span class="chinese">看到我的长尾鹦鹉了吗？</span><span class="english">Have you seen my parakeet?</span></p>
 
 <p><span class="chinese">活泼的长尾小鹦鹉视频直播。</span><span class="english">Streaming video of Sparky the parakeet.</span></p>

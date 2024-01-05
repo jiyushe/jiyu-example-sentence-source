@@ -1,5 +1,7 @@
 # industrious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/industrious.md)
+
 <p><span class="chinese">中国人是勤劳勇敢的。</span><span class="english">The Chinese are industrious and brave.</span></p>
 
 <p><span class="chinese">中国人民是非常勤劳勇敢的人民。</span><span class="english">The Chinese are very brave and industrious.</span></p>

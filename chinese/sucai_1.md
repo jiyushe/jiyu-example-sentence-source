@@ -1,5 +1,7 @@
 # 素菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sucai_1.md)
+
 <p><span class="chinese">叉烧，牛肉，鸡肉，鲜虾或素菜。</span><span class="english">Pork, Beef, Chicken, Shrimp or Vegetable.</span></p>
 
 <p><span class="chinese">选用杂菜取代豆腐亦是一道色香味全的素菜。</span><span class="english">Mixed Vegetable can be use instead of tofu.</span></p>

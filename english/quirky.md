@@ -1,5 +1,7 @@
 # quirky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quirky.md)
+
 <p><span class="chinese">就像我说的，古怪。</span><span class="english">Like I said, quirky.</span></p>
 
 <p><span class="chinese">一部关于单恋的离奇影片。</span><span class="english">A quirky film about unrequited love.</span></p>

@@ -1,5 +1,7 @@
 # cradle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cradle.md)
+
 <p><span class="chinese">像摇篮般晃动。</span><span class="english">Rockin' like a cradle.</span></p>
 
 <p><span class="chinese">吉兰丹马来文化的摇篮。</span><span class="english">Cradle of Malay Culture!</span></p>

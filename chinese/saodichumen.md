@@ -1,5 +1,7 @@
 # 扫地出门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saodichumen.md)
+
 <p><span class="chinese">旧的记忆或许会被新的脑细胞扫地出门。</span><span class="english">Old memories may get the boot from new brain cells.</span></p>
 
 <p><span class="chinese">如果你在一家公司犯了很多错误，那么你肯定会被扫地出门。</span><span class="english">If you make one too many mistakes, you’re out on the street.</span></p>

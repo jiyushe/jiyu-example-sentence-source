@@ -1,5 +1,7 @@
 # 跳台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaotai.md)
+
 <p><span class="chinese">澳大利亚因斯布鲁克的一个滑雪跳台。</span><span class="english">A ski jump in Innsbruck, Austria.</span></p>
 
 <p><span class="chinese">你尝试过跳台跳水吗？</span><span class="english">Did you ever try platform diving?</span></p>

@@ -1,5 +1,7 @@
 # dependency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dependency.md)
+
 <p><span class="chinese">萨克岛是根西岛的属地。</span><span class="english">Sark is a dependency of Guernscy.</span></p>
 
 <p><span class="chinese">这是一个很好的依赖机制。</span><span class="english">This is a nice dependency mechanism.</span></p>

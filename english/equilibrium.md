@@ -1,5 +1,7 @@
 # equilibrium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equilibrium.md)
+
 <p><span class="chinese">或是在平衡态？</span><span class="english">Or is it at equilibrium?</span></p>
 
 <p><span class="chinese">对于平衡常数。</span><span class="english">For the equilibrium constant.</span></p>

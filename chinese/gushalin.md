@@ -1,5 +1,7 @@
 # 固沙林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushalin.md)
+
 <p><span class="chinese">这些结果为发展低覆盖度行带式配置的固沙林提供重要的科学依据。</span><span class="english">This study provided scientific basis for developing low cover and belt scheme shrub plantations for sand-fixation.</span></p>
 
 <p><span class="chinese">防风固沙林体系的建设应突出天然植被的封育管护。</span><span class="english">Priority should be given to the natural vegetation restoration through enclosure when establishing windbreak system here.</span></p>

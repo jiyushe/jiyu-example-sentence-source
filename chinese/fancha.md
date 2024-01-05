@@ -1,5 +1,7 @@
 # 反差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fancha.md)
+
 <p><span class="chinese">明暗反差大是照片的大敌。</span><span class="english">Contrast is your enemy.</span></p>
 
 <p><span class="chinese">南非是一个充满反差的国家。</span><span class="english">South Africa is a land of contrasts.</span></p>

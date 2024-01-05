@@ -1,5 +1,7 @@
 # menses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menses.md)
+
 <p><span class="chinese">月经期要注意那些事项！</span><span class="english">Menses should notice those item!</span></p>
 
 <p><span class="chinese">月经量少，不正常。</span><span class="english">Menses amounts are few , abnormal.</span></p>

@@ -1,5 +1,7 @@
 # peddling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peddling.md)
+
 <p><span class="chinese">她藉着叫卖零嘴赚了许多钱。</span><span class="english">She earned a lot of money by peddling snacks.</span></p>
 
 <p><span class="chinese">他是个非法贩卖药品的人。</span><span class="english">He's the one who's peddling the drugs unlawfully.</span></p>

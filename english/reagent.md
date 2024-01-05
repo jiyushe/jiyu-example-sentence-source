@@ -1,5 +1,7 @@
 # reagent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reagent.md)
+
 <p><span class="chinese">镁是极限反应物。</span><span class="english">Mag is the limiting reagent.</span></p>
 
 <p><span class="chinese">有机试剂及其应用???????。</span><span class="english">Organic Reagent and Its Application???????</span></p>

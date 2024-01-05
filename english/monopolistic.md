@@ -1,5 +1,7 @@
 # monopolistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monopolistic.md)
+
 <p><span class="chinese">没有到垄断市场的地步。</span><span class="english">Not to monopolistic market situation.</span></p>
 
 <p><span class="chinese">如果情况属实，这种做法将会被判作是垄断行为。</span><span class="english">If true, such a move could be judged monopolistic.</span></p>

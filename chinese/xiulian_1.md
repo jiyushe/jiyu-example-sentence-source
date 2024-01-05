@@ -1,5 +1,7 @@
 # 修练
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiulian_1.md)
+
 <p><span class="chinese">不过，首先要修练它。</span><span class="english">But work on it first.</span></p>
 
 <p><span class="chinese">我仅专注自己的心智修练和疗愈自己。</span><span class="english">I do my own mental work and heal myself.</span></p>

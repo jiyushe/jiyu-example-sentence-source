@@ -1,5 +1,7 @@
 # purgative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purgative.md)
+
 <p><span class="chinese">残渣通便效果稳定。</span><span class="english">The purgative effect of residues was steady.</span></p>
 
 <p><span class="chinese">他在手术前用了通便药。</span><span class="english">He was given a purgative before the operation.</span></p>

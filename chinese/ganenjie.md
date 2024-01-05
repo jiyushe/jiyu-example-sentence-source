@@ -1,5 +1,7 @@
 # 感恩节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganenjie.md)
+
 <p><span class="chinese">感恩节祭品。</span><span class="english">You have the thanksgiving offering.</span></p>
 
 <p><span class="chinese">开展感恩节糕饼义卖慈善活动。</span><span class="english">Hold a Thanksgiving charity bake sale.</span></p>

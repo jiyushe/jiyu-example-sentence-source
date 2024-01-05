@@ -1,5 +1,7 @@
 # pygmy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pygmy.md)
+
 <p><span class="chinese">剩下两只矮脚小黑羊。</span><span class="english">Two black baby pygmy goats were left.</span></p>
 
 <p><span class="chinese">俾格米人一傢，刚果民主共和国，2000。</span><span class="english">Pygmy Family, Republic of the Congo, 2000</span></p>

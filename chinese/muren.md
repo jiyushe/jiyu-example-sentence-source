@@ -1,5 +1,7 @@
 # 牧人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muren.md)
+
 <p><span class="chinese">蚂蟥牧人欢欣鼓舞。</span><span class="english">Leech wranglers are exultant.</span></p>
 
 <p><span class="chinese">你放养的牧人，因为它是。</span><span class="english">You herd the herder, as it were.</span></p>

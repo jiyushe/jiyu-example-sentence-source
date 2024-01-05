@@ -1,5 +1,7 @@
 # 概率论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gailvlun.md)
+
 <p><span class="chinese">这是概率论中最基本的概念</span><span class="english">So that's the basic idea.</span></p>
 
 <p><span class="chinese">但概率论是个新知识</span><span class="english">The probability theory is new.</span></p>

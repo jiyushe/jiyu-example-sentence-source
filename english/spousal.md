@@ -1,5 +1,7 @@
 # spousal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spousal.md)
+
 <p><span class="chinese">对的，然后她改换了和自己结婚的品牌。</span><span class="english">Bingo, he or she changes spousal brands.</span></p>
 
 <p><span class="chinese">另外，她也要求从帕克那里获得离婚赡养费。</span><span class="english">She is also seeking spousal support from Parker.</span></p>

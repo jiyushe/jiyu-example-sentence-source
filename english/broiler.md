@@ -1,5 +1,7 @@
 # broiler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broiler.md)
+
 <p><span class="chinese">将煎饼放在上面加热约1分钟。</span><span class="english">Place frittata in broiler until top is set, about 1 minute.</span></p>
 
 <p><span class="chinese">在政府的支持下养鸡户生产成本较低。</span><span class="english">Broiler farmers have lower input costs via government support.</span></p>

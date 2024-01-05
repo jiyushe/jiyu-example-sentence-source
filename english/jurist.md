@@ -1,5 +1,7 @@
 # jurist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jurist.md)
+
 <p><span class="chinese">19世纪，德国法学家萨维尼提出了“法律关系本座说”。</span><span class="english">In the 19th century, the German jurist Savigny created the.</span></p>
 
 <p><span class="chinese">帕特里克·德夫林是一位杰出的法官和出色的法律专家。</span><span class="english">Patrick Devlin was an outstanding judge and brilliant jurist.</span></p>

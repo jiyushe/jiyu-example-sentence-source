@@ -1,5 +1,7 @@
 # 大猩猩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxingxing.md)
+
 <p><span class="chinese">世界上有多少只大猩猩?。</span><span class="english">How mang gorillas are there?</span></p>
 
 <p><span class="chinese">一个女孩在大猩猩旁边安顿下来</span><span class="english">One-girl Camp Set Up Near Chimps</span></p>

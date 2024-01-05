@@ -1,5 +1,7 @@
 # prize 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prize.md)
+
 <p><span class="chinese">我们俩共获一个奖品。</span><span class="english">We both won a prize.</span></p>
 
 <p><span class="chinese">小小说，“给这女孩子发奖。</span><span class="english">Give the girl a prize.</span></p>

@@ -1,5 +1,7 @@
 # proletariat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proletariat.md)
+
 <p><span class="chinese">我们应该站在无产阶级立场上。</span><span class="english">Our stand should be one of the proletariat.</span></p>
 
 <p><span class="chinese">强调坚持无产阶级立场。</span><span class="english">Emphasized persevering in the way of proletariat.</span></p>

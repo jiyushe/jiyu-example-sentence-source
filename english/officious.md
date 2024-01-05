@@ -1,5 +1,7 @@
 # officious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/officious.md)
+
 <p><span class="chinese">他是个爱发号施令的领导。</span><span class="english">He is an officious leader.</span></p>
 
 <p><span class="chinese">作者也不总是那么殷勤。</span><span class="english">Vogel is not always officious.</span></p>

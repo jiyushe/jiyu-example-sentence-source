@@ -1,5 +1,7 @@
 # solidago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solidago.md)
+
 <p><span class="chinese">结果表明，具化感作用潜力的加拿大一枝黄花明显影响了土壤中根部微生物群落多样性。</span><span class="english">The results indicated that allelopathic weed Solidago canadensis L. had a significant influence on the microbial flora.</span></p>
 
 <p><span class="chinese">结论性状、薄层色谱和紫外光谱鉴别方法简便、可靠，为保证一枝黄花的质量提供了有效的鉴别方法。</span><span class="english">They are resemble in visible spectrum. CONCLUSIONS The methods are simple and reliable for identifying Solidago decurrens.</span></p>

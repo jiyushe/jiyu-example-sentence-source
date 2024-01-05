@@ -1,5 +1,7 @@
 # 营房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingfang.md)
+
 <p><span class="chinese">这是1945年在奥斯维辛营房的女人。</span><span class="english">Women in the barracks at Auschwitz in January 1945.</span></p>
 
 <p><span class="chinese">排长们在营房广场整理队伍。</span><span class="english">The battalion formed up by companies on the barrack square.</span></p>

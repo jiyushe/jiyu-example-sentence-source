@@ -1,5 +1,7 @@
 # cribriform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cribriform.md)
+
 <p><span class="chinese">前列腺腺体的小叶簇伴有筛状结构。</span><span class="english">Lobular clusters of glands with cribriform architecture.</span></p>
 
 <p><span class="chinese">应注意放疗中筛板区域脑组织的放疗剂量可能偏低。</span><span class="english">The dose to the cribriform region should be given more attention.</span></p>

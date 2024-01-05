@@ -1,5 +1,7 @@
 # 辩才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biancai.md)
+
 <p><span class="chinese">他的辩才使得我们哑口无言。</span><span class="english">His eloquence struck us dumb.</span></p>
 
 <p><span class="chinese">诗人天生，辩才练成。</span><span class="english">Poet is born, but orator is made.</span></p>

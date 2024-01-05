@@ -1,5 +1,7 @@
 # abortive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abortive.md)
+
 <p><span class="chinese">单核期是小孢子败育的主要时期。</span><span class="english">Mononucleus phase is mainly the abortive one of pollen.</span></p>
 
 <p><span class="chinese">虽然徒劳无获，但他们不愿中止行动、放弃搜查，因为他们知道任何失败都将导致我女儿的死亡。</span><span class="english">They knew that any abortive action would surely result in my daughter's death.</span></p>

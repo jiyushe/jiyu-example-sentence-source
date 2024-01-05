@@ -1,5 +1,7 @@
 # optometrist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optometrist.md)
+
 <p><span class="chinese">我知道这附近就有一家配眼镜的店。</span><span class="english">I know of a big optometrist store nearby.</span></p>
 
 <p><span class="chinese">他在一家大医院担任验光师。</span><span class="english">He served as an optometrist in a big hospital.</span></p>

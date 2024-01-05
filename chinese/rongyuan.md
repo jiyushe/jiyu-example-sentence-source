@@ -1,5 +1,7 @@
 # 冗员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongyuan.md)
+
 <p><span class="chinese">裁减政府部门中的冗员。</span><span class="english">Comb out a government department.</span></p>
 
 <p><span class="chinese">如果有人意见和你完全相同，这只表示你俩其中一人是多馀的冗员。</span><span class="english">If you have a yes-man working for you, one of you is redundant.</span></p>

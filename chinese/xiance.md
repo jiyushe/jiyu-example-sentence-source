@@ -1,5 +1,7 @@
 # 献策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiance.md)
+
 <p><span class="chinese">她在出谏言献策方面从不落于人后。</span><span class="english">She was never behind in offering advice.</span></p>
 
 <p><span class="chinese">下午的大部分时间我们都在开献策攻关会。</span><span class="english">We brainstormed for most of the afternoon.</span></p>

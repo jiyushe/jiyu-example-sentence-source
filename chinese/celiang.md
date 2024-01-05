@@ -1,5 +1,7 @@
 # 测量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/celiang.md)
+
 <p><span class="chinese">罩杯测量。</span><span class="english">Cup measurement.</span></p>
 
 <p><span class="chinese">不会漆测量竿的。</span><span class="english">Not the measuring stick.</span></p>

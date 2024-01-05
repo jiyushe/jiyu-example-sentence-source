@@ -1,5 +1,7 @@
 # goop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goop.md)
+
 <p><span class="chinese">你脸上粘的是什么。</span><span class="english">What is that goop on your face ?</span></p>
 
 <p><span class="chinese">黏稠的东西和机油一起流出来。</span><span class="english">Goop and gunk drains out with motor oil.</span></p>

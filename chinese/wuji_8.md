@@ -1,5 +1,7 @@
 # 污迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuji_8.md)
+
 <p><span class="chinese">玛丽轻拭裙子上的污迹。</span><span class="english">Mary dabbed at the stain on her skirt.</span></p>
 
 <p><span class="chinese">你裙子上的污迹弄掉了吗？</span><span class="english">Did you get the stain out of your skirt?</span></p>

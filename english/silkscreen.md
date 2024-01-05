@@ -1,5 +1,7 @@
 # silkscreen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silkscreen.md)
+
 <p><span class="chinese">一台大型的丝网印刷机床就坐落在这个工作室的另外一个区域。</span><span class="english">A large silkscreen table sits in another area of the room.</span></p>
 
 <p><span class="chinese">他还把丝网印刷工艺教授给其他很多艺术家。</span><span class="english">He has taught the silkscreen method to many other artists.</span></p>

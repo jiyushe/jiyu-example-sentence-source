@@ -1,5 +1,7 @@
 # 昂首挺胸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/angshoutingxiong.md)
+
 <p><span class="chinese">英国可以昂首挺胸了。</span><span class="english">The nation can hold its head up high.</span></p>
 
 <p><span class="chinese">“当然，我买到了！”我昂首挺胸的走着。</span><span class="english">"Sure, I did! " and I walked head up.</span></p>

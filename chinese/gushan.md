@@ -1,5 +1,7 @@
 # 孤山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushan.md)
+
 <p><span class="chinese">月出孤山寒。</span><span class="english">Moonrise Gushan cold.</span></p>
 
 <p><span class="chinese">到得孤山翻作恶，海棠闹月不曾来。</span><span class="english">Gushan to have turned evil, never to month Begonia trouble.</span></p>

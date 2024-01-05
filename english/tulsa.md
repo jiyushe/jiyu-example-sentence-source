@@ -1,5 +1,7 @@
 # tulsa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tulsa.md)
+
 <p><span class="chinese">你知道通向塔尔萨的公路吗？去机场的路和它交会。</span><span class="english">Do you know the highway to Tulsa? The airport road joins it.</span></p>
 
 <p><span class="chinese">自首次注意到图尔萨后院里的一只蜘蛛以来，我已经被它们深深地迷住了。</span><span class="english">Since I first noticed one in my Tulsa backyard, I've been smitten.</span></p>

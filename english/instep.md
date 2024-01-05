@@ -1,5 +1,7 @@
 # instep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instep.md)
+
 <p><span class="chinese">我的脚弓不仅还残留着痛伤</span><span class="english">My instep arch not only keeps the ache</span></p>
 
 <p><span class="chinese">我拱起的脚背仍疼痛著。</span><span class="english">My instep arch not only keeps the ache.</span></p>

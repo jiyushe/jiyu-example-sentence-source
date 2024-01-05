@@ -1,5 +1,7 @@
 # unsymmetrical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsymmetrical.md)
+
 <p><span class="chinese">这在非对称的网络组织中体现较为明显。</span><span class="english">This is reflected in unsymmetrical network organization relatively apparent.</span></p>
 
 <p><span class="chinese">所述平行六边形拼板优选为非对称燕尾形。</span><span class="english">Preferably the figure of the parallel hexagon piece looks like unsymmetrical swallowtail.</span></p>

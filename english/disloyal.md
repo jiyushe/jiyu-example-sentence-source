@@ -1,5 +1,7 @@
 # disloyal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disloyal.md)
+
 <p><span class="chinese">别对品牌死忠。</span><span class="english">Be brand disloyal.</span></p>
 
 <p><span class="chinese">她对我不忠。</span><span class="english">She's disloyal to me.</span></p>

@@ -1,5 +1,7 @@
 # neogene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neogene.md)
+
 <p><span class="chinese">晚第三纪以来油气藏调整为主阶段。</span><span class="english">The modification of pools dominated since Neogene.</span></p>
 
 <p><span class="chinese">但新近纪的豪猪化石在亚洲发现得很少。</span><span class="english">However, Neogene of the hedgehog fossils found in Asia, very little.</span></p>

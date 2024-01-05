@@ -1,5 +1,7 @@
 # canonical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canonical.md)
+
 <p><span class="chinese">称为正则配分函数。</span><span class="english">It's called the canonical partition function.</span></p>
 
 <p><span class="chinese">这是组合论中的典型问题。</span><span class="english">This is a combinatorial problem in canonical form.</span></p>

@@ -1,5 +1,7 @@
 # dowry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dowry.md)
+
 <p><span class="chinese">她自己就是一注无价的嫁奁。</span><span class="english">She is herself a dowry.</span></p>
 
 <p><span class="chinese">是母亲的陪嫁物吗？</span><span class="english">Was it a dowry of mother's?</span></p>

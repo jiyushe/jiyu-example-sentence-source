@@ -1,5 +1,7 @@
 # 分子力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzili.md)
+
 <p><span class="chinese">实验表明，分子力为吸引力和排斥力的矢量和。</span><span class="english">Experiments show that the molecular force of attraction and repulsion of the vector.</span></p>
 
 <p><span class="chinese">选择适于有机高分子的DREIDING分子力场，根据模型的原子类型，参照文献数据修改其力场参数。</span><span class="english">DREIDING was chosed as force field and its parameters is modified according to the published data.</span></p>

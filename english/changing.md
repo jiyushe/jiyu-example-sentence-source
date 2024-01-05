@@ -1,5 +1,7 @@
 # changing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changing.md)
+
 <p><span class="chinese">然而，这一切正在改变。</span><span class="english">But all that’s changing.</span></p>
 
 <p><span class="chinese">水质在发生变化吗？</span><span class="english">Is water quality changing?</span></p>

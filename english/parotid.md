@@ -1,5 +1,7 @@
 # parotid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parotid.md)
+
 <p><span class="chinese">腮腺巨细胞病毒感染。</span><span class="english">CMV infection of parotid gland.</span></p>
 
 <p><span class="chinese">第三组将左侧腮腺导管内置管固定于皮肤。</span><span class="english">The parotid duct was cannulated in the third group.</span></p>

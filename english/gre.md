@@ -1,5 +1,7 @@
 # gre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gre.md)
+
 <p><span class="chinese">算了，不要想了，我现在脑袋都被GRE作文的逻辑给糊住了，哈哈！</span><span class="english">I'm now full of arguments of GRE writing logic. lol!</span></p>
 
 <p><span class="chinese">所有申请者必须提供GRE普通考试的成绩。</span><span class="english">All applicants must meet scores on the GRE general test.</span></p>

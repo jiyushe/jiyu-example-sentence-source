@@ -1,5 +1,7 @@
 # generational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generational.md)
+
 <p><span class="chinese">它是与代俱存的东西。</span><span class="english">It's a generational thing.</span></p>
 
 <p><span class="chinese">新一代垃圾收集器能否和1.9.2有缘呢？</span><span class="english">Is a generational GC possible for 1.9.2?</span></p>

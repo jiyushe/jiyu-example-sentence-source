@@ -1,5 +1,7 @@
 # coy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coy.md)
+
 <p><span class="chinese">蒂姆不过是在欲盖弥彰。</span><span class="english">Tim is just being coy.</span></p>
 
 <p><span class="chinese">“凑合活着呗，”麦科伊说。</span><span class="english">Just keeping alive, M' Coy said.</span></p>

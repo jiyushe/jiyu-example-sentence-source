@@ -1,5 +1,7 @@
 # antiperspirant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiperspirant.md)
+
 <p><span class="chinese">然后擦干和运用您所选择的止汗。</span><span class="english">Then dry off and apply the antiperspirant of your choice.</span></p>
 
 <p><span class="chinese">阐明了止汗剂的种类及其作用机理。</span><span class="english">The type and mechanism of antiperspirant action were given.</span></p>

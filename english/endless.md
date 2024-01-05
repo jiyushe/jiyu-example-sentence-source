@@ -1,5 +1,7 @@
 # endless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endless.md)
+
 <p><span class="chinese">唠叨少了，耳根清净了。</span><span class="english">No endless nagging.</span></p>
 
 <p><span class="chinese">湖看起来无止尽。</span><span class="english">The lake seems endless.</span></p>

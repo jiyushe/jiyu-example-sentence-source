@@ -1,5 +1,7 @@
 # conclave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conclave.md)
+
 <p><span class="chinese">随意自由的进入他们的秘密会议。</span><span class="english">Free to enter their conclave at will.</span></p>
 
 <p><span class="chinese">你听到了选举会议上的反应。</span><span class="english">You heard the reaction in the conclave.</span></p>

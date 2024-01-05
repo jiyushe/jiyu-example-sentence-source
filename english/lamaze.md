@@ -1,5 +1,7 @@
 # lamaze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamaze.md)
+
 <p><span class="chinese">他们得去上心理助产课。</span><span class="english">They had a Lamaze class.</span></p>
 
 <p><span class="chinese">个月还是开始上无痛分娩课的月份。</span><span class="english">Month seven is also the month when the Lamaze classes begin.</span></p>

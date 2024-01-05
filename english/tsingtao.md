@@ -1,5 +1,7 @@
 # tsingtao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tsingtao.md)
+
 <p><span class="chinese">青岛啤酒今天发布了半年报。</span><span class="english">Tsingtao Brewery semi-annual report released today.</span></p>
 
 <p><span class="chinese">老规矩，来一瓶冰镇青岛啤酒。</span><span class="english">I stick to my usual, one bottle of well-chilled Tsingtao beer.</span></p>

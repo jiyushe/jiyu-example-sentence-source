@@ -1,5 +1,7 @@
 # 初犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chufan.md)
+
 <p><span class="chinese">他们是初犯，应当缓刑处理。</span><span class="english">They should be probated for first offenses.</span></p>
 
 <p><span class="chinese">因是初犯，警察不会逮捕他。</span><span class="english">The police won't arrest him for a first offence.</span></p>

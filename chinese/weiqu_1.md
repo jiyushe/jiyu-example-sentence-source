@@ -1,5 +1,7 @@
 # 委屈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiqu_1.md)
+
 <p><span class="chinese">不要让自己受委屈。</span><span class="english">Do not let yourself wronged.</span></p>
 
 <p><span class="chinese">她断断续续地道出了她的委屈。</span><span class="english">She hiccupped out her grievances.</span></p>

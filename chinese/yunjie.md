@@ -1,5 +1,7 @@
 # 蕴藉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunjie.md)
+
 <p><span class="chinese">那心灵安详而含蓄蕴藉。</span><span class="english">A mind at peace with all below.</span></p>
 
 <p><span class="chinese">他仿佛蕴藉的否认了那个事实。</span><span class="english">He seemed by implication to acknowledge that fact.</span></p>

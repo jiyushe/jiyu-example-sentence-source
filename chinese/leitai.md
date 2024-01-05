@@ -1,5 +1,7 @@
 # 擂台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leitai.md)
+
 <p><span class="chinese">谁会成为新的擂台之王？</span><span class="english">Be the new king of the ring!</span></p>
 
 <p><span class="chinese">我看见成群的人，在擂台上一圈一圈地闲逛。</span><span class="english">I see crowds of people, walking round in a ring.</span></p>

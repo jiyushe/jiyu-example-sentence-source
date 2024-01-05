@@ -1,5 +1,7 @@
 # 截止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezhi_2.md)
+
 <p><span class="chinese">为什么截止日期会是这样呢？</span><span class="english">Why the cutoff date?</span></p>
 
 <p><span class="chinese">你喜欢截止日期么？</span><span class="english">Do you love deadlines?</span></p>

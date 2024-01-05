@@ -1,5 +1,7 @@
 # 家务事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiawushi.md)
+
 <p><span class="chinese">在这些国家里，继承问题都是家务事。</span><span class="english">All in the Family.</span></p>
 
 <p><span class="chinese">你的家务事拾掇好没？</span><span class="english">Have you done your chores?</span></p>

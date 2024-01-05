@@ -1,5 +1,7 @@
 # 众院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyuan_1.md)
+
 <p><span class="chinese">众院能有投票权的众议员有多少位？</span><span class="english">The House of Representatives has how many voting members?</span></p>
 
 <p><span class="chinese">参院版的法案和众院版的法案，有百分之九十以上是一样的。</span><span class="english">The Senate bill, the House bill, the overlap is 90-plus percent.</span></p>

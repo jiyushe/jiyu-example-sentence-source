@@ -1,5 +1,7 @@
 # mobility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mobility.md)
+
 <p><span class="chinese">它将改善机动性。</span><span class="english">It will improve mobility.</span></p>
 
 <p><span class="chinese">移动社交是门大生意。</span><span class="english">Social mobility is big business.</span></p>

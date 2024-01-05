@@ -1,5 +1,7 @@
 # phobos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phobos.md)
+
 <p><span class="chinese">火星快车号的火卫一动画。</span><span class="english">Phobos from Mars Express Spacecraft.</span></p>
 
 <p><span class="chinese">福波斯卫星表面最大的陨石坑称为“斯蒂克尼”。</span><span class="english">The biggest crater on Phobos is called Stickney.</span></p>

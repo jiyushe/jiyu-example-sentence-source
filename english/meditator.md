@@ -1,5 +1,7 @@
 # meditator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meditator.md)
+
 <p><span class="chinese">但是静心者最后会到达心。</span><span class="english">But the meditator finally reaches to the heart.</span></p>
 
 <p><span class="chinese">图中的冥想者坐得太低。</span><span class="english">The meditator in the photograph is sitting too low.</span></p>

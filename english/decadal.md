@@ -1,5 +1,7 @@
 # decadal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decadal.md)
+
 <p><span class="chinese">冬季北太平洋风暴轴存在明显的年际、年代际差异。</span><span class="english">In winter, the north pacific storm track experience significant annual and decadal variability.</span></p>
 
 <p><span class="chinese">在年代际时间尺度下，热带太平洋、印度洋海气系统的变异含有两个基本模态。</span><span class="english">On decadal time scale, there are two basic modes of air-sea system over the tropical Pacific and Indian Ocean.</span></p>

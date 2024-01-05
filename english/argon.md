@@ -1,5 +1,7 @@
 # argon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argon.md)
+
 <p><span class="chinese">我们可以用氩离子。</span><span class="english">We could use argon ion.</span></p>
 
 <p><span class="chinese">氩是单原子气体。</span><span class="english">Argon is a monatomic gas.</span></p>

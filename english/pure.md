@@ -1,5 +1,7 @@
 # pure 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pure.md)
+
 <p><span class="chinese">它是纯洁的吗？</span><span class="english">Is it pure?</span></p>
 
 <p><span class="chinese">是全毛的吗？</span><span class="english">Is it pure wool?</span></p>

@@ -1,5 +1,7 @@
 # 公海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonghai.md)
+
 <p><span class="chinese">移至公海――离开海岸。</span><span class="english">Move to high seas-keep off coast.</span></p>
 
 <p><span class="chinese">那艘护卫舰开向公海。</span><span class="english">The frigate made for the open sea.</span></p>

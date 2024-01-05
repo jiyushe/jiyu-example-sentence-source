@@ -1,5 +1,7 @@
 # dealership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dealership.md)
+
 <p><span class="chinese">那所大学就在一家摩托车代理行的对面。</span><span class="english">The Institute is on the opposite side of a motorcycle dealership.</span></p>
 
 <p><span class="chinese">令人感到心烦的还有，特斯拉竟然在宝马的家门口慕尼黑开了一家代理店。</span><span class="english">Annoyingly, Tesla opened a dealership in Munich on BMW’s doorstep.</span></p>

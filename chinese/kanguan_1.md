@@ -1,5 +1,7 @@
 # 看管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanguan_1.md)
+
 <p><span class="chinese">况且要看管的太多。</span><span class="english">Also too much to watch.</span></p>
 
 <p><span class="chinese">他必须看管好自己的书包。</span><span class="english">He must look after his bag.</span></p>

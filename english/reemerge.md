@@ -1,5 +1,7 @@
 # reemerge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reemerge.md)
+
 <p><span class="chinese">总有一天，缅甸将会再次成为主要的出口国家。</span><span class="english">One day Myanmar will reemerge as a major exporter.</span></p>
 
 <p><span class="chinese">这场危机终将过去，一个更强大的金融体系将伴随美国再度崛起。</span><span class="english">This crisis will pass and America will reemerge with a far sounder financial system.</span></p>

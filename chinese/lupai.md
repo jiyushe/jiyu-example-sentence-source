@@ -1,5 +1,7 @@
 # 路牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lupai.md)
+
 <p><span class="chinese">站员以脚踏车递送路牌予司机员以争取时间。</span><span class="english">A clerk has just delivered the token by a bicycle.</span></p>
 
 <p><span class="chinese">走在路上，我看到一个“不准停车”的路牌。</span><span class="english">Walking along the street, I saw a “no standing” sign.</span></p>

@@ -1,5 +1,7 @@
 # bauxite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bauxite.md)
+
 <p><span class="chinese">铝是从铝土岩提炼出来的。</span><span class="english">Aluminum is made from bauxite.</span></p>
 
 <p><span class="chinese">矾土中含有什么金属？</span><span class="english">Which metal is obtained from bauxite?</span></p>

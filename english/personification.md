@@ -1,5 +1,7 @@
 # personification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/personification.md)
+
 <p><span class="chinese">科学是国家的最高的人格化。</span><span class="english">Science is the highest personification of a country.</span></p>
 
 <p><span class="chinese">拟人和禁忌表两个策略被给出。</span><span class="english">Personification strategy and tabu list strategy are presented.</span></p>

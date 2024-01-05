@@ -1,5 +1,7 @@
 # chinchilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chinchilla.md)
+
 <p><span class="chinese">黑天鹅绒是圣标准青紫。</span><span class="english">Black Velvet is a TOV standard chinchilla.</span></p>
 
 <p><span class="chinese">美丽的龙猫一个米色显性基因。</span><span class="english">A beautiful chinchilla with one beige dominant gene.</span></p>

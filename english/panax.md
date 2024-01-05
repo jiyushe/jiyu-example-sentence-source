@@ -1,5 +1,7 @@
 # panax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panax.md)
+
 <p><span class="chinese">化合物1-4均为首次从人参属植物中分离得到。</span><span class="english">Compounds 1-4 are obtained from Panax genus for the first time.</span></p>
 
 <p><span class="chinese">标题人参属植物的化学分类和资源利用。</span><span class="english">Chemotaxonomy of Panax and its application of medical resources.</span></p>

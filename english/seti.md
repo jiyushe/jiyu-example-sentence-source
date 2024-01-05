@@ -1,5 +1,7 @@
 # seti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seti.md)
+
 <p><span class="chinese">因缘际会下，一部古老的电脑引领塔特进入SETI。</span><span class="english">By chance, an ancient computer led Tarter to SETI.</span></p>
 
 <p><span class="chinese">但他相信SETI计划能改变人类的生活。</span><span class="english">But Tarter believes that SETI can change life here on Earth.</span></p>

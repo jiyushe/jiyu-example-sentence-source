@@ -1,5 +1,7 @@
 # cession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cession.md)
+
 <p><span class="chinese">保险、索款及再保险割让功能。</span><span class="english">Issuance, claims and reinsurance cession functionalities.</span></p>
 
 <p><span class="chinese">他们战争失败了，割地赔偿不可避免。种竹成林。</span><span class="english">The cession of the territory could not be avoided because they lost the war.</span></p>

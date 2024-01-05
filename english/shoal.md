@@ -1,5 +1,7 @@
 # shoal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoal.md)
+
 <p><span class="chinese">大江之中长着茂盛芳草的是鹦鹉洲。</span><span class="english">The grass on Parrot Shoal had grown abundant.</span></p>
 
 <p><span class="chinese">他就是个笨蛋，将会失去黄岩岛。</span><span class="english">He is an idiot, he will lose scarborough shoal.</span></p>

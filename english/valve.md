@@ -1,5 +1,7 @@
 # valve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valve.md)
+
 <p><span class="chinese">阀门轮藻属。</span><span class="english">Valve Chara.</span></p>
 
 <p><span class="chinese">雾笛阀门。</span><span class="english">Whistle Valve.</span></p>

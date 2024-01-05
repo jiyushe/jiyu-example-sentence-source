@@ -1,5 +1,7 @@
 # 逢年过节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengnianguojie.md)
+
 <p><span class="chinese">要参加公司逢年过节举办的餐会。</span><span class="english">Go to the company holiday party.</span></p>
 
 <p><span class="chinese">逢年过节他总是回来看我们。</span><span class="english">During festivals he always comes to see us.</span></p>

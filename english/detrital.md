@@ -1,5 +1,7 @@
 # detrital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detrital.md)
+
 <p><span class="chinese">沉积岩为碎屑质，大部分属于杂质砂岩相。</span><span class="english">The sediments are detrital and largely of greywacke facies.</span></p>
 
 <p><span class="chinese">塔东地区储层类型包括碎屑岩和碳酸盐岩两大类。</span><span class="english">Two reservoir types are detrital reservoir rock and carbonate reservoir rock.</span></p>

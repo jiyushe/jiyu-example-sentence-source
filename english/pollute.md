@@ -1,5 +1,7 @@
 # pollute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollute.md)
+
 <p><span class="chinese">它会污染水源。</span><span class="english">It can pollute the water resouce.</span></p>
 
 <p><span class="chinese">我们热爱大海，然而我们却污染了它。</span><span class="english">We love the sea, yet we pollute it.</span></p>

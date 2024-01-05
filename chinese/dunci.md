@@ -1,5 +1,7 @@
 # 遁词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dunci.md)
+
 <p><span class="chinese">我会编一个滴水不漏的遁词。</span><span class="english">I'll hoke up a good alibi.</span></p>
 
 <p><span class="chinese">她提出此点，纯属遁词。</span><span class="english">She's only introducing this as a quibble.</span></p>

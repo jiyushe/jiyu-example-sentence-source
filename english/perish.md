@@ -1,5 +1,7 @@
 # perish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perish.md)
+
 <p><span class="chinese">霜降时花即枯萎。</span><span class="english">Flowers perish when frost comes.</span></p>
 
 <p><span class="chinese">森罗万象终归坏，唯有真空才不灭。</span><span class="english">Only true emptiness will not perish.</span></p>

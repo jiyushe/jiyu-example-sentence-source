@@ -1,5 +1,7 @@
 # 贫窭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinju.md)
+
 <p><span class="chinese">林肯总统出身贫窭。</span><span class="english">President Lincoln was born poor.</span></p>
 
 <p><span class="chinese">有些人觉得哀告援手很贫窭。</span><span class="english">Some people find it difficult to other people.</span></p>

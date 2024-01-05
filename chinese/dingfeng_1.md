@@ -1,5 +1,7 @@
 # 顶风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingfeng_1.md)
+
 <p><span class="chinese">我是在顶风作战。</span><span class="english">I was against wind.</span></p>
 
 <p><span class="chinese">我们的船顶风逆浪航行。</span><span class="english">Our ship thrashed to windward.</span></p>

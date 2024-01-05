@@ -1,5 +1,7 @@
 # 耳廓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erkuo.md)
+
 <p><span class="chinese">耳廓随之变成皱缩。</span><span class="english">With time the pinna becomes shrivelled.</span></p>
 
 <p><span class="chinese">可选用的弓形件夹设在耳廓的周围。</span><span class="english">An optional bow member clips about the pinna.</span></p>

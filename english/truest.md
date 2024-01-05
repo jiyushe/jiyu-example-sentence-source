@@ -1,5 +1,7 @@
 # truest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truest.md)
+
 <p><span class="chinese">真挚的友谊，使人生溢满热情。</span><span class="english">Truest friendship fulfills life with enthusiam.</span></p>
 
 <p><span class="chinese">书籍是我最为长久、真诚的朋友。</span><span class="english">Books, I realise, have been one of my longest, truest friends.</span></p>

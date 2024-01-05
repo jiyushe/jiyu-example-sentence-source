@@ -1,5 +1,7 @@
 # 手下留情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxialiuqing.md)
+
 <p><span class="chinese">我没有手下留情。</span><span class="english">I didn't pull my punches.</span></p>
 
 <p><span class="chinese">别指望我会对你手下留情！</span><span class="english">Harridan! You'll see no mercy from me.</span></p>

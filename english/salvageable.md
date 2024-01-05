@@ -1,5 +1,7 @@
 # salvageable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salvageable.md)
+
 <p><span class="chinese">你的身体还有救。</span><span class="english">Your body appears salvageable.</span></p>
 
 <p><span class="chinese">地图上自带的坦克残骸将不能被轴心国工兵回收。</span><span class="english">Tank wrecks found on maps are no longer salvageable.</span></p>

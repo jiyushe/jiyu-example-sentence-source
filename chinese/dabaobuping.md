@@ -1,5 +1,7 @@
 # 打抱不平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabaobuping.md)
+
 <p><span class="chinese">你会大声说出来为他打抱不平，还是沉默不语？</span><span class="english">Do you speak up – or remain silent.</span></p>
 
 <p><span class="chinese">他总是替弱者打抱不平。</span><span class="english">He always sticks up for the underdog.</span></p>

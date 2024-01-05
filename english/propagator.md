@@ -1,5 +1,7 @@
 # propagator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propagator.md)
+
 <p><span class="chinese">杨毓麟是辛亥革命时期杰出的资产阶级民主革命家、宣传家。</span><span class="english">Yang Yu lin was a famous bourgeois democratic revolutionist and propagator.</span></p>
 
 <p><span class="chinese">安全描述符传播程序已经被通知要等待传播事件。</span><span class="english">The Security Descriptor Propagator has been notified of waiting propagation events.</span></p>

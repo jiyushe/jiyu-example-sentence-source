@@ -1,5 +1,7 @@
 # 降解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangjie.md)
+
 <p><span class="chinese">而有些细胞可以降解胶原蛋白</span><span class="english">Some cells digest collagen.</span></p>
 
 <p><span class="chinese">方法过氧化氢氧化降解法。</span><span class="english">MethodsDegradation by hydrogen peroxide oxidation.</span></p>

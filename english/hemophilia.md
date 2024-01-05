@@ -1,5 +1,7 @@
 # hemophilia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemophilia.md)
+
 <p><span class="chinese">血友病是他家的遗传。</span><span class="english">Hemophilia runs in his family.</span></p>
 
 <p><span class="chinese">血友病是如何影响患者生活的？</span><span class="english">How does hemophilia affect the lives of those involved?</span></p>

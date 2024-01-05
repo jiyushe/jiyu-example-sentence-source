@@ -1,5 +1,7 @@
 # 掩饰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshi_3.md)
+
 <p><span class="chinese">那是他的一种掩饰。</span><span class="english">It was his mask.</span></p>
 
 <p><span class="chinese">我分明嗅到了掩饰的味道！</span><span class="english">I smell a cover-up!</span></p>

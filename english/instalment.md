@@ -1,5 +1,7 @@
 # instalment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instalment.md)
+
 <p><span class="chinese">我们可以用分期付款的方式买吗？</span><span class="english">Can we buy it on instalment?</span></p>
 
 <p><span class="chinese">我用分期付款购买房子。</span><span class="english">I bought the house by instalment.</span></p>

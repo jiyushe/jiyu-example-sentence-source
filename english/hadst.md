@@ -1,5 +1,7 @@
 # hadst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hadst.md)
+
 <p><span class="chinese">我宁愿你辱杀我，也不想我们成为敌仇。</span><span class="english">All mine was thine, before thou hadst this more.</span></p>
 
 <p><span class="chinese">月亮听闻了你的名字，你却没有理睬我。</span><span class="english">The moon heard thy name, yet hadst thou no heed of me.</span></p>

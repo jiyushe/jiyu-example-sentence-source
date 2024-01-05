@@ -1,5 +1,7 @@
 # 绮丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qili_3.md)
+
 <p><span class="chinese">而天空中的绮丽色彩努力让我们快乐起来。</span><span class="english">And the colours in the sky try to entertain us.</span></p>
 
 <p><span class="chinese">由于巴厘岛万种风情，景物甚为绮丽。</span><span class="english">Since the Bali 10,000 kinds of customs, scenery is lai.</span></p>

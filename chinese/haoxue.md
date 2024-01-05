@@ -1,5 +1,7 @@
 # 好学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoxue.md)
+
 <p><span class="chinese">我是一个勤奋好学的女孩。</span><span class="english">I am a studious girl.</span></p>
 
 <p><span class="chinese">勤奋努力，刻苦好学，结果导向。</span><span class="english">Hard worker, quick learner, result-oriented.</span></p>

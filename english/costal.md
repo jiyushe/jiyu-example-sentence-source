@@ -1,5 +1,7 @@
 # costal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/costal.md)
+
 <p><span class="chinese">肝在右肋缘下可触知。</span><span class="english">The liver was costal margin.</span></p>
 
 <p><span class="chinese">在海岸生长的红木树一般来说都有100米高。</span><span class="english">Costal redwoods commonly grow over 100 m tall.</span></p>

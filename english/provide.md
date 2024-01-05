@@ -1,5 +1,7 @@
 # provide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provide.md)
+
 <p><span class="chinese">测试提供职系。</span><span class="english">Tests provide grades.</span></p>
 
 <p><span class="chinese">提供交叉引用。</span><span class="english">Provide cross-references.</span></p>

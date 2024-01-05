@@ -1,5 +1,7 @@
 # booker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/booker.md)
+
 <p><span class="chinese">——布克•T•华盛顿</span><span class="english">Booker T. Washington 1881—1915</span></p>
 
 <p><span class="chinese">特穿上了他那件肮脏油污的上衣。</span><span class="english">Booker T. put on his grimed and grease coat.</span></p>

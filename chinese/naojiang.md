@@ -1,5 +1,7 @@
 # 脑浆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naojiang.md)
+
 <p><span class="chinese">脑浆被挖出并放在盘子里的电影后，也有同样的反应。</span><span class="english">served on plates got the same reaction.</span></p>
 
 <p><span class="chinese">三磅脑浆、一个宇宙。那是你、并非我、头脑中的世界。</span><span class="english">It is your world you have in mind, not mine.</span></p>

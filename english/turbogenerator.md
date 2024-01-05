@@ -1,5 +1,7 @@
 # turbogenerator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turbogenerator.md)
+
 <p><span class="chinese">护环是汽轮发电机的重要部件。</span><span class="english">The retaining ring is an important component of turbogenerator.</span></p>
 
 <p><span class="chinese">燃气轮发电机组的故障诊断，实质上是一个模式分类问题。</span><span class="english">Gas turbogenerator fault diagnosis can be treated as a pattern classification task.</span></p>

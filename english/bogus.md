@@ -1,5 +1,7 @@
 # bogus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bogus.md)
+
 <p><span class="chinese">安德森说道，“那其实是一种假象。</span><span class="english">That's really bogus.</span></p>
 
 <p><span class="chinese">所以对我来说，这篇文章内容都是假的。</span><span class="english">So for me this article is bogus.</span></p>

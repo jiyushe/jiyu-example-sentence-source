@@ -1,5 +1,7 @@
 # shabbily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shabbily.md)
+
 <p><span class="chinese">你不该亏待他。</span><span class="english">You shouldn't have treated him shabbily.</span></p>
 
 <p><span class="chinese">这是一间简陋的、家具破破烂烂的房间，里面有一张床。</span><span class="english">It was a mean, shabbily furnished room, with a bed in it.</span></p>

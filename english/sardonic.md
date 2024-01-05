@@ -1,5 +1,7 @@
 # sardonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sardonic.md)
+
 <p><span class="chinese">普京是缺少幽默感的。</span><span class="english">Putin himself is sardonic but humorless.</span></p>
 
 <p><span class="chinese">我欣赏若贝尔的聪明和善于挖苦人的机智。</span><span class="english">I admired Jobert's intelligence and sardonic wit.</span></p>

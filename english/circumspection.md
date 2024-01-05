@@ -1,5 +1,7 @@
 # circumspection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumspection.md)
+
 <p><span class="chinese">选择您的船民与照顾和谨慎。</span><span class="english">Select your boat with care and circumspection.</span></p>
 
 <p><span class="chinese">他们表现得相当理智而且谨慎。</span><span class="english">They behaved with considerable sense and circumspection.</span></p>

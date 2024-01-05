@@ -1,5 +1,7 @@
 # 污染源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuranyuan.md)
+
 <p><span class="chinese">现在汽车燃料成了城市污染的主要污染源。</span><span class="english">The fuel now is superordinated for the city's pollution.</span></p>
 
 <p><span class="chinese">但是，那些已经建成的污染源又该怎么办？</span><span class="english">But what about pollution sources that have already been built?</span></p>

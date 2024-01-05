@@ -1,5 +1,7 @@
 # 拉力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lali.md)
+
 <p><span class="chinese">这辆卡车拉力大。</span><span class="english">The truck pulls well.</span></p>
 
 <p><span class="chinese">如果拉力很大</span><span class="english">Well, if it was greater.</span></p>

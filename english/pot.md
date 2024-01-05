@@ -1,5 +1,7 @@
 # pot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pot.md)
+
 <p><span class="chinese">我们可以吃火锅。</span><span class="english">We can eat hot pot.</span></p>
 
 <p><span class="chinese">波尔布特？是你吗？</span><span class="english">Pol Pot? Is that you?</span></p>

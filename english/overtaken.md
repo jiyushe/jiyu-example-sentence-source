@@ -1,5 +1,7 @@
 # overtaken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overtaken.md)
+
 <p><span class="chinese">事态发展迅速为她所始料不及。</span><span class="english">She was overtaken by the speed of events.</span></p>
 
 <p><span class="chinese">您的车票超乘，请补交车费。</span><span class="english">Your ticket is overtaken. Please pay the exact fare.</span></p>

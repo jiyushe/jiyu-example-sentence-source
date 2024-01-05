@@ -1,5 +1,7 @@
 # 入伍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruwu.md)
+
 <p><span class="chinese">参军入伍？</span><span class="english">Join the army?</span></p>
 
 <p><span class="chinese">你是想征召我入伍吗？</span><span class="english">Are you recruiting me?</span></p>

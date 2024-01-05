@@ -1,5 +1,7 @@
 # recede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recede.md)
+
 <p><span class="chinese">冷色比比暖色更有距离感。</span><span class="english">Cool colors “push backward” or recede more than warm colors.</span></p>
 
 <p><span class="chinese">当你乘火车经过时，房屋和树木似乎向后掠去。</span><span class="english">Houses and trees seem to recede as you ride past in a train.</span></p>

@@ -1,5 +1,7 @@
 # calais
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calais.md)
+
 <p><span class="chinese">这条船来往于多佛与加来之间。</span><span class="english">This ship runs between Dover and Calais.</span></p>
 
 <p><span class="chinese">我们经多佛和加来而到巴黎。</span><span class="english">We travelled to Paris by Dover and Calais.</span></p>

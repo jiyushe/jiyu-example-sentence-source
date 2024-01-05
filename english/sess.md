@@ -1,5 +1,7 @@
 # sess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sess.md)
+
 <p><span class="chinese">勇敢的尝试是乐成的一半。</span><span class="english">A bold attempt is half sess.</span></p>
 
 <p><span class="chinese">另外，忍耐也会带给咱们成功。</span><span class="english">In addition, patience will also bring us sess.</span></p>

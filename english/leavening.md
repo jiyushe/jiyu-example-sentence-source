@@ -1,5 +1,7 @@
 # leavening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leavening.md)
+
 <p><span class="chinese">你是坐火车还是坐飞机去北京？</span><span class="english">Are you leavening for Beijing by train or by plane?</span></p>
 
 <p><span class="chinese">烟叶发酵是一复杂的生化过程。</span><span class="english">Tobacco leaf leavening is a complex biochemistry process.</span></p>

@@ -1,5 +1,7 @@
 # creel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creel.md)
+
 <p><span class="chinese">细纱机粗纱架上的粗纱太细。</span><span class="english">Jammed roving bobbins at ring frame creel.</span></p>
 
 <p><span class="chinese">她依然相信有圣诞老人，要使她这一幻想破灭还真于心不忍。</span><span class="english">She still believes in Santa Claus and it would be creel to disillusion her.</span></p>

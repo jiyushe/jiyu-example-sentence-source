@@ -1,5 +1,7 @@
 # gliosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gliosis.md)
+
 <p><span class="chinese">肿瘤与下丘脑间有胶质增生层。</span><span class="english">A gliosis layer between the wall of tumor and the hypothalamus was seen.</span></p>
 
 <p><span class="chinese">这些图片仅仅是反应性神经胶质增生，没有肿瘤或特别的异常之处。</span><span class="english">These photos show only reactive gliosis and no neoplasm or specific abnormalities.</span></p>

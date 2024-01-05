@@ -1,5 +1,7 @@
 # 西部片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xibupian.md)
+
 <p><span class="chinese">我想播的是一部西部片。</span><span class="english">I think there's a Western on.</span></p>
 
 <p><span class="chinese">只有演西部片的时候我才看。</span><span class="english">I only watch when there's western on.</span></p>

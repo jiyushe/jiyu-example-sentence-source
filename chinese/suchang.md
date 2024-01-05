@@ -1,5 +1,7 @@
 # 素常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suchang.md)
+
 <p><span class="chinese">我素常向你这样行过吗？</span><span class="english">Have I been in the habit of doing this to you?</span></p>
 
 <p><span class="chinese">素常他到十二点钟才睡觉。</span><span class="english">Ordinarily he doesn't go to bed until twelve o'clock.</span></p>

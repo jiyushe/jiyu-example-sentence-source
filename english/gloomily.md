@@ -1,5 +1,7 @@
 # gloomily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gloomily.md)
+
 <p><span class="chinese">目前这个新时代阴沉沉地来临了。</span><span class="english">The present day gloomily dawned.</span></p>
 
 <p><span class="chinese">1976年阴郁地过去。</span><span class="english">The year 1976 went out gloomily.</span></p>

@@ -1,5 +1,7 @@
 # 树叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuye_2.md)
+
 <p><span class="chinese">我触摸树叶。</span><span class="english">I touch leaves.</span></p>
 
 <p><span class="chinese">树叶纷飞。</span><span class="english">The leaves fly.</span></p>

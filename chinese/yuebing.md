@@ -1,5 +1,7 @@
 # 月饼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuebing.md)
+
 <p><span class="chinese">你喜欢月饼吗？</span><span class="english">Do you like moon cakes?</span></p>
 
 <p><span class="chinese">他指着一大堆礼物说“我从来不买月饼的”。</span><span class="english">I'd never pay for mooncakes!</span></p>

@@ -1,5 +1,7 @@
 # sone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sone.md)
+
 <p><span class="chinese">现在你可以吃些蛋糕和苹果。</span><span class="english">Now you can have sone and.</span></p>
 
 <p><span class="chinese">成功得流汗、得流泪。</span><span class="english">It may take sone sweat and tears.</span></p>

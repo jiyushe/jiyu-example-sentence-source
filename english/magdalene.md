@@ -1,5 +1,7 @@
 # magdalene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magdalene.md)
+
 <p><span class="chinese">故态复萌是抹大拉从良所生活的一部分。</span><span class="english">Relapse is a part of life at Magdalene.</span></p>
 
 <p><span class="chinese">抹大拉从良所意味着工作，没有奇迹，没有童话故事。</span><span class="english">Magdalene is about work — not miracles, not fairy tales.</span></p>

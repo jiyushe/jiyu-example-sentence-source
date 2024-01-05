@@ -1,5 +1,7 @@
 # hurst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurst.md)
+
 <p><span class="chinese">现在我该回家了，赫思特太太。</span><span class="english">I'd better go home now, Mrs Hurst.</span></p>
 
 <p><span class="chinese">赫斯脱先生惊奇地朝她望了一下。</span><span class="english">Hurst looked at her with astonishment.</span></p>

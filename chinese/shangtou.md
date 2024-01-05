@@ -1,5 +1,7 @@
 # 上头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangtou.md)
+
 <p><span class="chinese">这上头，半轮火红的太阳！</span><span class="english">Upside is half fired red sun!</span></p>
 
 <p><span class="chinese">这是直接由上头交卸的。</span><span class="english">This ones straight from the top.</span></p>

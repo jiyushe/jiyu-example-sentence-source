@@ -1,5 +1,7 @@
 # 牙牙学语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yayaxueyu.md)
+
 <p><span class="chinese">例如，双唇辅音的话首先是儿童在牙牙学语的阶段。</span><span class="english">For example, bilabial consonants are uttered first by children at the babbling stage.</span></p>
 
 <p><span class="chinese">如今，她含糊不清地给过往的陌生人讲故事，像个牙牙学语的婴儿一般。</span><span class="english">Now, she tells strangers stories, babbling like an infant who has just discovered speech.</span></p>

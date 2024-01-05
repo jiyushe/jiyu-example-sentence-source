@@ -1,5 +1,7 @@
 # 表象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoxiang_1.md)
+
 <p><span class="chinese">有的，勾出了表象。</span><span class="english">Some draw appearance.</span></p>
 
 <p><span class="chinese">但是表象就是一切。</span><span class="english">But appearances are all.</span></p>

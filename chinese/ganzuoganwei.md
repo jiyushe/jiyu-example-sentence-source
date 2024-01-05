@@ -1,5 +1,7 @@
 # 敢作敢为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzuoganwei.md)
+
 <p><span class="chinese">你妹妹真是一个绝对地敢作敢为的老姑娘。</span><span class="english">Your sister is an extremely enterprising old girl.</span></p>
 
 <p><span class="chinese">她因头脑冷静、敢作敢为而与众不同。</span><span class="english">She distinguished herself by her coolness and bravery.</span></p>

@@ -1,5 +1,7 @@
 # 钾肥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiafei.md)
+
 <p><span class="chinese">在钾肥鸣造纸有限公司。</span><span class="english">I worked in Chenming Paper Company Ltd.</span></p>
 
 <p><span class="chinese">磷钾肥对小麦产量的效应也表现出相同的趋势。</span><span class="english">P fertilizer and K fertilizer were the same.</span></p>

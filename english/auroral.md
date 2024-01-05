@@ -1,5 +1,7 @@
 # auroral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auroral.md)
+
 <p><span class="chinese">一般有白色、浅绿色、玫瑰色等。</span><span class="english">Have commonly white, reseda, auroral etc.</span></p>
 
 <p><span class="chinese">极光吸收与太阳的活动性密切相关。</span><span class="english">The auroral absorptions are related to the solar activity.</span></p>

@@ -1,5 +1,7 @@
 # medalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medalist.md)
+
 <p><span class="chinese">她是2008年奥运会跳马金牌得主。</span><span class="english">She is the 2008 Olympic vault gold medalist.</span></p>
 
 <p><span class="chinese">她是2012年伦敦奥运会的四枚金牌得主。</span><span class="english">She is a four-time gold medalist at the 2012 Olympics.</span></p>

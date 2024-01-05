@@ -1,5 +1,7 @@
 # risc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/risc.md)
+
 <p><span class="chinese">这就是简单指令系统的优点。</span><span class="english">This was one inspiration for the RISC philosophy.</span></p>
 
 <p><span class="chinese">英文是“减少指令组的电脑处理”的字首字。</span><span class="english">RISC is the acronym for "reduced instruction set computing".</span></p>

@@ -1,5 +1,7 @@
 # phloroglucinol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phloroglucinol.md)
+
 <p><span class="chinese">目的观察间苯三酚在产程进展中作用。</span><span class="english">Objective To observe the phloroglucinol role in the birth process.</span></p>
 
 <p><span class="chinese">采用间苯三酚显色法测定血清D-木糖的含量。</span><span class="english">Serum D -xylose was determined by phloroglucinol color-developing method.</span></p>

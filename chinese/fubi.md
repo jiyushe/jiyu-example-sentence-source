@@ -1,5 +1,7 @@
 # 伏笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fubi.md)
+
 <p><span class="chinese">我预留的伏笔，一败涂地。</span><span class="english">I reserved foreshadowing, suffer a big.</span></p>
 
 <p><span class="chinese">那就是合同下的伏笔。</span><span class="english">That's what's written underneath it on the contract.</span></p>

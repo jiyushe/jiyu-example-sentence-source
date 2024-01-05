@@ -1,5 +1,7 @@
 # mesothelial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesothelial.md)
+
 <p><span class="chinese">间皮细胞的吞噬作用。</span><span class="english">The tracers were phagocytized by the mesothelial cells.</span></p>
 
 <p><span class="chinese">几乎所有的间皮瘤或间皮细胞是阴性的。</span><span class="english">Almost all mesotheliomas or mesothelial cells are negative.</span></p>

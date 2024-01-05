@@ -1,5 +1,7 @@
 # eccentricity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eccentricity.md)
+
 <p><span class="chinese">这是人性固有的怪癖。</span><span class="english">This is an innatte eccentricity of human nature.</span></p>
 
 <p><span class="chinese">这又怎样取决于轨道偏心率？</span><span class="english">How does this depend on the orbital eccentricity?</span></p>

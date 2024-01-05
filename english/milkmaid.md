@@ -1,5 +1,7 @@
 # milkmaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milkmaid.md)
+
 <p><span class="chinese">一个挤牛奶的姑娘将要去市场。</span><span class="english">A milkmaid was going to the market.</span></p>
 
 <p><span class="chinese">一位挤牛奶的姑娘正要前往市场。</span><span class="english">A milkmaid was going to the market.</span></p>

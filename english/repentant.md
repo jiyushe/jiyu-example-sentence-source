@@ -1,5 +1,7 @@
 # repentant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repentant.md)
+
 <p><span class="chinese">他们是悔改的罪人。</span><span class="english">They are repentant sinners.</span></p>
 
 <p><span class="chinese">求您保守我们常存受教和悔改的心。</span><span class="english">Please keep out hearts receptive and repentant.</span></p>

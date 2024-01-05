@@ -1,5 +1,7 @@
 # prix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prix.md)
+
 <p><span class="chinese">这将删除您当前存盘的大奖赛文件，确认么？</span><span class="english">This will delete your current saved grand prix. Are you sure?</span></p>
 
 <p><span class="chinese">你的神经传输信息的速度比参加国际大奖赛的汽车还快。</span><span class="english">Your nerves can send messages faster than a Grand Prix car travels.</span></p>

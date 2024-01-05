@@ -1,5 +1,7 @@
 # 伶俐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingli.md)
+
 <p><span class="chinese">甜蜜夏日，香汗伶俐。</span><span class="english">Sweet summer sweat.</span></p>
 
 <p><span class="chinese">伶俐的口齿是一种锐利的武器。</span><span class="english">A good tongue is a good weapon.</span></p>

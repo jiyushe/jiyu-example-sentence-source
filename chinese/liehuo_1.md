@@ -1,5 +1,7 @@
 # 猎获
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liehuo_1.md)
+
 <p><span class="chinese">我们猎获了一只兔子。</span><span class="english">We bagged a rabbit.</span></p>
 
 <p><span class="chinese">我们今天猎获颇丰。</span><span class="english">We got a good bag today.</span></p>

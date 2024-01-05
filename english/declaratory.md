@@ -1,5 +1,7 @@
 # declaratory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/declaratory.md)
+
 <p><span class="chinese">我立刻申请了“宣告式判决”。</span><span class="english">I immediately filed for a declaratory judgment.</span></p>
 
 <p><span class="chinese">你还需要寻求一个判决声明吗？</span><span class="english">Will you still have to seek a declaratory judgement as well?</span></p>

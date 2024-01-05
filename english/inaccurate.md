@@ -1,5 +1,7 @@
 # inaccurate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inaccurate.md)
+
 <p><span class="chinese">通用电气说，这些指控是错误的。</span><span class="english">GE said the charges are inaccurate.</span></p>
 
 <p><span class="chinese">关于我们这些腐女子的报道，大都不准确且带有偏见。</span><span class="english">Most reports on us slashers are inaccurate and biased.</span></p>

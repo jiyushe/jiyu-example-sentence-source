@@ -1,5 +1,7 @@
 # unwed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwed.md)
+
 <p><span class="chinese">她的父母是一个士兵和一个未婚少女的母亲。</span><span class="english">Her parents were a soldier and an unwed teenage mother.</span></p>
 
 <p><span class="chinese">在这一时期内未婚母亲被投掷石块致死。</span><span class="english">In that time period unwed mothers were stoned to death.</span></p>

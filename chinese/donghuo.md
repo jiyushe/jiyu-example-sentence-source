@@ -1,5 +1,7 @@
 # 动火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donghuo.md)
+
 <p><span class="chinese">办理作业许可证才能进行动火作业。</span><span class="english">Get a work Permit before you can start the hot work.</span></p>
 
 <p><span class="chinese">用不着为了这么一点小事动火。</span><span class="english">There is no need to get up in arms over such a trifle.</span></p>

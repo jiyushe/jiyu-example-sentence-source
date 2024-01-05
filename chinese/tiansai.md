@@ -1,5 +1,7 @@
 # 田赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiansai.md)
+
 <p><span class="chinese">我对径赛项目，田赛项目，球类比赛以及游泳感兴趣。</span><span class="english">I'm interested in track event, field event, ball games and swimming.</span></p>
 
 <p><span class="chinese">申办活动应当像田赛和径赛本身一样公平。</span><span class="english">The bidding should be as fair as the track and field events themselves.</span></p>

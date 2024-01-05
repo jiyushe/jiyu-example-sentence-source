@@ -1,5 +1,7 @@
 # 中场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongchang.md)
+
 <p><span class="chinese">在中场休息时，堪萨斯松鹰领先了17分。</span><span class="english">The Jayhawks led by 17 at the break.</span></p>
 
 <p><span class="chinese">攻击型中场，18岁，河床</span><span class="english">Attacking midfielder, 18, River Plate</span></p>

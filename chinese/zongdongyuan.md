@@ -1,5 +1,7 @@
 # 总动员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongdongyuan.md)
+
 <p><span class="chinese">这是玩具总动员的巴斯光年了肉。</span><span class="english">It was Toy Story's Buzz Lightyear made flesh.</span></p>
 
 <p><span class="chinese">然后他把海底总动员和许多鱼类的一个大罐。</span><span class="english">Then he put Nemo and many fish to a big tank.</span></p>

@@ -1,5 +1,7 @@
 # delia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delia.md)
+
 <p><span class="chinese">我一声尖叫，”迪丽娅写到。</span><span class="english">I cry out,” Delia wrote.</span></p>
 
 <p><span class="chinese">我一声尖叫，”迪丽娅写到。</span><span class="english">I cry out, ” Delia wrote.</span></p>

@@ -1,5 +1,7 @@
 # 热情洋溢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reqingyangyi.md)
+
 <p><span class="chinese">他热情洋溢。</span><span class="english">He is brimful of enthusiasm.</span></p>
 
 <p><span class="chinese">她内心总是热情洋溢。</span><span class="english">Her heart always glows with enthusiasm.</span></p>

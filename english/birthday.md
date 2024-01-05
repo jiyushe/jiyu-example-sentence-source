@@ -1,5 +1,7 @@
 # birthday 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birthday.md)
+
 <p><span class="chinese">安，生日快乐。</span><span class="english">Happy birthday. Ann.</span></p>
 
 <p><span class="chinese">啦啦啦，今天是我的生日！</span><span class="english">Happy birthday to me !</span></p>

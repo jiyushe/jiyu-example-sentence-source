@@ -1,5 +1,7 @@
 # proven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proven.md)
+
 <p><span class="chinese">临床证明温和。</span><span class="english">Clinically proven mildness.</span></p>
 
 <p><span class="chinese">但是，事实证明这是错的。</span><span class="english">But it has proven to be wrong.</span></p>

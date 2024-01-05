@@ -1,5 +1,7 @@
 # exhort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhort.md)
+
 <p><span class="chinese">劝诫她招认真情吧！</span><span class="english">Exhort her to confess the truth!</span></p>
 
 <p><span class="chinese">或者劝告某人做或不做一些事情。</span><span class="english">or to exhort somebody to do something or not to do something.</span></p>

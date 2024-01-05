@@ -1,5 +1,7 @@
 # screaming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screaming.md)
+
 <p><span class="chinese">一个女人在尖叫。</span><span class="english">One woman was screaming.</span></p>
 
 <p><span class="chinese">尖啸河滩化石场。</span><span class="english">Screaming Reaches Fossil Field.</span></p>

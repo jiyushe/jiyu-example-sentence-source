@@ -1,5 +1,7 @@
 # 跺脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duojiao.md)
+
 <p><span class="chinese">长臂龙喜欢跺脚。</span><span class="english">Brachiosaurus liked to stomp.</span></p>
 
 <p><span class="chinese">踩踩大地跺跺脚。</span><span class="english">Stand your feet upon the ground.</span></p>

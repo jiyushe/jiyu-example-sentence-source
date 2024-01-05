@@ -1,5 +1,7 @@
 # pipelining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pipelining.md)
+
 <p><span class="chinese">这种技术称为流水线。</span><span class="english">This is known as pipelining.</span></p>
 
 <p><span class="chinese">它还可以改进缓存和指令流水线。</span><span class="english">It also improves caching and instruction pipelining.</span></p>

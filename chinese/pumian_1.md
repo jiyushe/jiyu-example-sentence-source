@@ -1,5 +1,7 @@
 # 铺面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pumian_1.md)
+
 <p><span class="chinese">冯广聚把到手的天街铺面给退了。</span><span class="english">Feng Poly Street to get the day retreat to the pavement.</span></p>
 
 <p><span class="chinese">至少有一条碎石铺面的道路出现又长又宽的裂缝。</span><span class="english">In at least one case, there was a long and wide crack on a metalled road.</span></p>

@@ -1,5 +1,7 @@
 # atopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atopy.md)
+
 <p><span class="chinese">听起来象是过敏性皮炎。</span><span class="english">It sound like atopy dermatitis.</span></p>
 
 <p><span class="chinese">遗传性过敏症能够解释临床上出现的所有症状。</span><span class="english">Clinically all the symptoms could be explained by atopy.</span></p>

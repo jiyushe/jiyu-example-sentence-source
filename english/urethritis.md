@@ -1,5 +1,7 @@
 # urethritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urethritis.md)
+
 <p><span class="chinese">为什么日本男人易患尿道炎？</span><span class="english">Why do the Japanese men at risk urethritis?</span></p>
 
 <p><span class="chinese">尿道炎初起时服药疗效就不错。</span><span class="english">Urethritis rises drug efficacy is pretty good.</span></p>

@@ -1,5 +1,7 @@
 # 大吃大喝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachidahe.md)
+
 <p><span class="chinese">今天是个大吃大喝的日子！</span><span class="english">Today is one pig-out day!</span></p>
 
 <p><span class="chinese">她把她的钱财都大吃大喝光了。</span><span class="english">She guzzled away all her money.</span></p>

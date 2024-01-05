@@ -1,5 +1,7 @@
 # 定心丸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingxinwan.md)
+
 <p><span class="chinese">这第2球让我们吃下了定心丸。</span><span class="english">That calmed us down, that second goal.</span></p>
 
 <p><span class="chinese">它将是广大人民的定心丸。</span><span class="english">It's to bring certainty for our people.</span></p>

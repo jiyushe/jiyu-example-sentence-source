@@ -1,5 +1,7 @@
 # 汗牛充栋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanniuchongdong.md)
+
 <p><span class="chinese">天文地理无所不看，博览群书，汗牛充栋。</span><span class="english">Astronomy and geography anything, Expo Group, a voluminous.</span></p>
 
 <p><span class="chinese">他从没想到人类知识的积蓄竟会如此汗牛充栋。</span><span class="english">He had never dreamed that the fund of human knowledge bulked so big.</span></p>

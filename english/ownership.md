@@ -1,5 +1,7 @@
 # ownership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ownership.md)
+
 <p><span class="chinese">个人所有制。</span><span class="english">Individual ownership.</span></p>
 
 <p><span class="chinese">晶圆厂的所有权是关键。</span><span class="english">Ownership of the fab is the key.</span></p>

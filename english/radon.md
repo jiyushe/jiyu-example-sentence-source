@@ -1,5 +1,7 @@
 # radon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radon.md)
+
 <p><span class="chinese">氡是什么？</span><span class="english">What is radon?</span></p>
 
 <p><span class="chinese">氡和石棉。</span><span class="english">Radon and asbestos.</span></p>

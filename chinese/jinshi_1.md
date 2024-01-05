@@ -1,5 +1,7 @@
 # 禁食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshi_1.md)
+
 <p><span class="chinese">你将从现在开始禁食。</span><span class="english">You will be NPO from now on.</span></p>
 
 <p><span class="chinese">感冒时应进食，发烧时应禁食。</span><span class="english">Feed a cold and starve a fever.</span></p>

@@ -1,5 +1,7 @@
 # mgd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mgd.md)
+
 <p><span class="chinese">随着腺体厚度的增加平均腺体吸收剂量逐步增加，而图像信噪比则与平均腺体吸收剂量成反比。</span><span class="english">The SNR was decreased with the increase of phantom thickness, and the MGD was getting higher with thicker phantom.</span></p>
 
 <p><span class="chinese">MGD与其他生物信息学团体合作以精选有关实验室小鼠的一套确定的信息。</span><span class="english">MGD collaborates with other bioinformatics groups to curate a definitive set of information about the laboratory mouse.</span></p>

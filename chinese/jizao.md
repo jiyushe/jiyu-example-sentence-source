@@ -1,5 +1,7 @@
 # 及早
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizao.md)
+
 <p><span class="chinese">及早干预是关键。</span><span class="english">Early intervention is key.</span></p>
 
 <p><span class="chinese">男孩左家非常及早。</span><span class="english">The boy left home very early.</span></p>

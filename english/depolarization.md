@@ -1,5 +1,7 @@
 # depolarization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depolarization.md)
+
 <p><span class="chinese">去极化刺激仅可诱发出一外向电流。</span><span class="english">Membrane depolarization could revoke an outward current.</span></p>
 
 <p><span class="chinese">进一步去极化，振幅反而下降。</span><span class="english">Further depolarization resulted in a decrease of amplitude.</span></p>

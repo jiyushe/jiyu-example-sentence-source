@@ -1,5 +1,7 @@
 # 两院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangyuan.md)
+
 <p><span class="chinese">两院能否达成妥协尚是未知数。</span><span class="english">It's unclear if the two chambers will reach a compromise.</span></p>
 
 <p><span class="chinese">观音堂坐北朝南，庙分两院。</span><span class="english">Kuan Yin Tong sit south, at Temple House of Representatives.</span></p>

@@ -1,5 +1,7 @@
 # moult
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moult.md)
+
 <p><span class="chinese">就在这里蜕不很好么？</span><span class="english">Wouldn't it be all tight to moult tight here?</span></p>
 
 <p><span class="chinese">我可没有从鹰派蜕变成鸽派。</span><span class="english">"I did not moult from a hawk into a dove, " says Mr Gates.</span></p>

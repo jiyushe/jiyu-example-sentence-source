@@ -1,5 +1,7 @@
 # 水灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizai.md)
+
 <p><span class="chinese">今年夏天该城遭受水灾。</span><span class="english">Flood struck the town this summer.</span></p>
 
 <p><span class="chinese">盖堤防就可防水灾吗？</span><span class="english">Does building levees prevent floods?</span></p>

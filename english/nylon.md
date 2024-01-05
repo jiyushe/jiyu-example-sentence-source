@@ -1,5 +1,7 @@
 # nylon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nylon.md)
+
 <p><span class="chinese">尼龙网袜衬。</span><span class="english">Nylon Mesh sock lining.</span></p>
 
 <p><span class="chinese">尼龙是一种人造纤维。</span><span class="english">Nylon is a man-made fibre.</span></p>

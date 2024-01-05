@@ -1,5 +1,7 @@
 # 幸运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingyun.md)
+
 <p><span class="chinese">我幸运透了！</span><span class="english">I lucked out!</span></p>
 
 <p><span class="chinese">我们是幸运的。</span><span class="english">We were lucky.</span></p>

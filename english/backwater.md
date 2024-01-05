@@ -1,5 +1,7 @@
 # backwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backwater.md)
+
 <p><span class="chinese">回水是反复循环。</span><span class="english">The backwater recirculates.</span></p>
 
 <p><span class="chinese">都离我而去，像秋潭死水一样宁静。</span><span class="english">Away from me, like autumn as quiet backwater.</span></p>

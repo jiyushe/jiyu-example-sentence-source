@@ -1,5 +1,7 @@
 # projective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/projective.md)
+
 <p><span class="chinese">目的描述一种投影式数字焦度计。</span><span class="english">Aim A projective digital lensometer is presented.</span></p>
 
 <p><span class="chinese">它们的时线皆为直线。</span><span class="english">Their projective lines for denoting time are straight.</span></p>

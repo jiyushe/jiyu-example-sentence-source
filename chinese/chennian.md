@@ -1,5 +1,7 @@
 # 陈年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chennian.md)
+
 <p><span class="chinese">所谓新鲜乳酪，就是在食用前有别于陈年品种的乳酪。</span><span class="english">Fresh cheese is not aged before eating.</span></p>
 
 <p><span class="chinese">红宝石颜色，陈年后变成石榴红。</span><span class="english">Ruby red tending to garnet with ageing.</span></p>

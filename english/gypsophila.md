@@ -1,5 +1,7 @@
 # gypsophila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gypsophila.md)
+
 <p><span class="chinese">每天都像满天星一样快乐。</span><span class="english">Every day as happy as Gypsophila paniculata.</span></p>
 
 <p><span class="chinese">这里传统名花有康乃馨、玫瑰、满天星等。</span><span class="english">Here are the traditional flowers of carnations, roses, Gypsophila paniculata, and so on.</span></p>

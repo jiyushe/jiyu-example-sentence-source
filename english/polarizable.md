@@ -1,5 +1,7 @@
 # polarizable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polarizable.md)
+
 <p><span class="chinese">显然，氦的可极化电子云最小。</span><span class="english">Clearly, helium has the least polarizable electron cloud.</span></p>
 
 <p><span class="chinese">农民工工作搜寻的信心具有两极分化的趋势。</span><span class="english">The confidence of migrant workers with job searching is polarizable.</span></p>

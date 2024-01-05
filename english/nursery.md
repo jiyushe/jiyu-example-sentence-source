@@ -1,5 +1,7 @@
 # nursery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nursery.md)
+
 <p><span class="chinese">托儿所就在这儿附近。</span><span class="english">The nursery is somewhere hereabout.</span></p>
 
 <p><span class="chinese">这是一支大家都很熟悉的童谣。</span><span class="english">This is a well-known nursery rhyme.</span></p>

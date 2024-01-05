@@ -1,5 +1,7 @@
 # girder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/girder.md)
+
 <p><span class="chinese">单梁起重机是桥式起重机的一种。</span><span class="english">Single girder crane is a crane.</span></p>
 
 <p><span class="chinese">梁间燕子太无情。</span><span class="english">The swallows of girder too ruthless.</span></p>

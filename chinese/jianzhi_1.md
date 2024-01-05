@@ -1,5 +1,7 @@
 # 兼职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzhi_1.md)
+
 <p><span class="chinese">你干兼职工作吗？</span><span class="english">Do you have a part-time job?</span></p>
 
 <p><span class="chinese">你做过兼职吗？</span><span class="english">Did you do any part-time jobs?</span></p>

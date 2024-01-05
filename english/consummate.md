@@ -1,5 +1,7 @@
 # consummate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consummate.md)
+
 <p><span class="chinese">他希望一切都能完美而终。</span><span class="english">He wants everythings consummate finished.</span></p>
 
 <p><span class="chinese">艺术家、表演者，或者具有完美技能的选手。</span><span class="english">An artist, performer, or player of consummate skill</span></p>

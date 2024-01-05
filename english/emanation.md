@@ -1,5 +1,7 @@
 # emanation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emanation.md)
+
 <p><span class="chinese">其依据是析出的创作。</span><span class="english">Its basis is the emanation of the creation.</span></p>
 
 <p><span class="chinese">人们认为梅里雪山代表佛智散发的光辉。</span><span class="english">Kawa Karpo is believed to represent the mind emanation of Buddha.</span></p>

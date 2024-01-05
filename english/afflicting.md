@@ -1,5 +1,7 @@
 # afflicting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afflicting.md)
+
 <p><span class="chinese">暴力犯罪仅危害现代社会的弊病之一。</span><span class="english">Violent crime is only one of the maladies afflicting modern society.</span></p>
 
 <p><span class="chinese">并不尽然。但耶路撒冷的暴乱给人造成的困扰，如出一辙。</span><span class="english">Not quite. But the riots afflicting Jerusalem are worrying, all the same.</span></p>

@@ -1,5 +1,7 @@
 # trashy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trashy.md)
+
 <p><span class="chinese">我没用过雅虎地图。</span><span class="english">I am trashy Guo Yahu map.</span></p>
 
 <p><span class="chinese">对用户没用，搜索引擎也不喜欢。</span><span class="english">Trashy to the user, search engine to also do not like.</span></p>

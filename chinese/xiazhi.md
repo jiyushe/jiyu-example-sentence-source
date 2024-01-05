@@ -1,5 +1,7 @@
 # 下肢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazhi.md)
+
 <p><span class="chinese">其中四肢麻痹者12例，下肢麻痹者31例。</span><span class="english">There are 12 quadriplegics and 31 paraplegics.</span></p>
 
 <p><span class="chinese">两下肢轻度凹陷性水肿。</span><span class="english">There was slight pitting edema over both legs.</span></p>

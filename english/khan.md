@@ -1,5 +1,7 @@
 # khan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/khan.md)
+
 <p><span class="chinese">谁写的忽必烈汗？</span><span class="english">Who wrote Kubla Khan?</span></p>
 
 <p><span class="chinese">谢利是一只虎。</span><span class="english">Shere Khan is a tiger.</span></p>

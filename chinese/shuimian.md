@@ -1,5 +1,7 @@
 # 水面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimian.md)
+
 <p><span class="chinese">一条船浮在水面。</span><span class="english">A boat is on the water.</span></p>
 
 <p><span class="chinese">蹦跳的鱼跃出水面。</span><span class="english">The jumping fish broke.</span></p>

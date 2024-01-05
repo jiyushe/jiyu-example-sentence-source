@@ -1,5 +1,7 @@
 # 镇纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhi_4.md)
+
 <p><span class="chinese">他的眼光落到了玻璃镇纸的碎片上。</span><span class="english">His eye fell on the fragments of the glass paperweight.</span></p>
 
 <p><span class="chinese">但是王侠军和一个小小玻璃镇纸改写了历史。</span><span class="english">But Heinrich Wang and a small glass paperweight changed all that.</span></p>

@@ -1,5 +1,7 @@
 # waistband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waistband.md)
+
 <p><span class="chinese">带环腰带。</span><span class="english">Belt loop waistband.</span></p>
 
 <p><span class="chinese">内政部抽绳腰带。</span><span class="english">Interior drawstring waistband.</span></p>

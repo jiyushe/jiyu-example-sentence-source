@@ -1,5 +1,7 @@
 # shredder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shredder.md)
+
 <p><span class="chinese">我喜欢使用碎纸机。</span><span class="english">I love using the shredder.</span></p>
 
 <p><span class="chinese">农夫的老旧铰碎机需换新刀片。</span><span class="english">Nung-fu needs a new blade for the old shredder.</span></p>

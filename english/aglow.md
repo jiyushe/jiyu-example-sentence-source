@@ -1,5 +1,7 @@
 # aglow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aglow.md)
+
 <p><span class="chinese">我的魂间音乐常满。</span><span class="english">Music in my soul all aglow.</span></p>
 
 <p><span class="chinese">我的白眼球发红，怎么办？</span><span class="english">My white eyeball is aglow , how to do?</span></p>

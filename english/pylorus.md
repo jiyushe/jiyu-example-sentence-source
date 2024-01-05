@@ -1,5 +1,7 @@
 # pylorus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pylorus.md)
+
 <p><span class="chinese">可触诊出幽门是增厚的肌肉环。</span><span class="english">The pylorus may be palpated as a thick ring of muscle.</span></p>
 
 <p><span class="chinese">可扪诊幽门如增厚的肌肉环。</span><span class="english">The pylorus may be palpated as a thick ring of muscle.</span></p>

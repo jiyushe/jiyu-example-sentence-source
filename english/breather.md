@@ -1,5 +1,7 @@
 # breather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breather.md)
+
 <p><span class="chinese">现在，我终于有时间喘一口粗气了。</span><span class="english">I now have time to take a breather.</span></p>
 
 <p><span class="chinese">要是能有个喘息时间就好了。</span><span class="english">It would be nice to get a breather.</span></p>

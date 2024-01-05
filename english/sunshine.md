@@ -1,5 +1,7 @@
 # sunshine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunshine.md)
+
 <p><span class="chinese">我是一个阳光男孩。</span><span class="english">I am a sunshine boy.</span></p>
 
 <p><span class="chinese">太酷了！我的阳光的男孩！</span><span class="english">Cool! My sunshine boy!</span></p>

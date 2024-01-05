@@ -1,5 +1,7 @@
 # timeliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timeliness.md)
+
 <p><span class="chinese">数据及时性必须交流。</span><span class="english">Timeliness of data must be communicated.</span></p>
 
 <p><span class="chinese">时效性就涉及到了运输政策。</span><span class="english">Timeliness extends to shipping policies, too.</span></p>

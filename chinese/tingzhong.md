@@ -1,5 +1,7 @@
 # 听众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhong.md)
+
 <p><span class="chinese">考虑你的听众。</span><span class="english">Consider your audience.</span></p>
 
 <p><span class="chinese">我是你的忠实听众。</span><span class="english">I'm your honest listener.</span></p>

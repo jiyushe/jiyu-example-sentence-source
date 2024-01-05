@@ -1,5 +1,7 @@
 # 零落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingluo_1.md)
+
 <p><span class="chinese">执着。终于还是零落的溃不成军。</span><span class="english">Persistent. Finally the scattered be utterly routed.</span></p>
 
 <p><span class="chinese">建筑师、土地购买者和销售人员被零落。</span><span class="english">Architects, landbuyers and sales staff were shunted aside.</span></p>

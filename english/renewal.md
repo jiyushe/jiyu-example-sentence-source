@@ -1,5 +1,7 @@
 # renewal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renewal.md)
+
 <p><span class="chinese">续期土地出让金。</span><span class="english">Land Transfer Renewal Fee.</span></p>
 
 <p><span class="chinese">春天是万象更新的季节。</span><span class="english">Spring is a time of renewal.</span></p>

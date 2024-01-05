@@ -1,5 +1,7 @@
 # noaa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noaa.md)
+
 <p><span class="chinese">诺阿说，海啸不能阻止。</span><span class="english">NOAA says a tsunami cannot be prevented.</span></p>
 
 <p><span class="chinese">感谢海洋与大气管理局亚太服务中心对本期节目的支持。</span><span class="english">Our thanks to NOAA Pacific Services Center.</span></p>

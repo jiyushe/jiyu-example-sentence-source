@@ -1,5 +1,7 @@
 # 贪玩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanwan.md)
+
 <p><span class="chinese">约翰很贪玩。</span><span class="english">John is very playful.</span></p>
 
 <p><span class="chinese">你这个调皮的猴子，别贪玩了。</span><span class="english">You naught monkey! Don't play any more.</span></p>

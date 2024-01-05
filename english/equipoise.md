@@ -1,5 +1,7 @@
 # equipoise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equipoise.md)
+
 <p><span class="chinese">当前城中村改造的难点在于如何均衡改造参与主体各方利益。</span><span class="english">It's a nodus how to equipoise all players' benefit in course of VIC's regeneration.</span></p>
 
 <p><span class="chinese">只有这样，才能促使基础教育均衡发展走上健康轨道。</span><span class="english">Only in this way, could equipoise basic education development get onto the healthy track.</span></p>

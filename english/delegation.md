@@ -1,5 +1,7 @@
 # delegation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delegation.md)
+
 <p><span class="chinese">代表团将于下周返国。</span><span class="english">The delegation will be home next week.</span></p>
 
 <p><span class="chinese">代表团乘车前往宾馆。</span><span class="english">The delegation drove to the guesthouse.</span></p>

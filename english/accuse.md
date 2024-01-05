@@ -1,5 +1,7 @@
 # accuse 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accuse.md)
+
 <p><span class="chinese">你为什么控告那人?。</span><span class="english">Why did you accuse that man?</span></p>
 
 <p><span class="chinese">当然，没有人会为此指责你虚伪。</span><span class="english">No one will accuse you of hypocrisy.</span></p>

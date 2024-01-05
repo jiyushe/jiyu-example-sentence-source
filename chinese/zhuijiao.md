@@ -1,5 +1,7 @@
 # 追缴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuijiao.md)
+
 <p><span class="chinese">1991年进行了抢救性发掘，并追缴回大量文物。</span><span class="english">In 1991, the rescue excavation took place after the tomb was robbed twice.</span></p>
 
 <p><span class="chinese">逃避追缴欠税款主动悔罪被从轻。</span><span class="english">Offenders who confess to escaping being demanded tax arrears will get off.</span></p>

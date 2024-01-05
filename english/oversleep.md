@@ -1,5 +1,7 @@
 # oversleep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oversleep.md)
+
 <p><span class="chinese">如果我没有睡过头的话。</span><span class="english">If I don't oversleep.</span></p>
 
 <p><span class="chinese">千万不要再睡过头啦！</span><span class="english">Never oversleep again!</span></p>

@@ -1,5 +1,7 @@
 # fedora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fedora.md)
+
 <p><span class="chinese">小劳勃道尼回来了，显然还戴了一顶时髦的软呢帽。</span><span class="english">Robert Downey, Jr. is back, with a stylish fedora apparently.</span></p>
 
 <p><span class="chinese">如今，浅顶软呢帽已是潮男们必不可少的休闲着装之一。</span><span class="english">Today, the fedora is part of the trendy man's casual uniform.</span></p>

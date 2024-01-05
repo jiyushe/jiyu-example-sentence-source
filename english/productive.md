@@ -1,5 +1,7 @@
 # productive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/productive.md)
+
 <p><span class="chinese">他是位多产作家。</span><span class="english">He is a productive writer.</span></p>
 
 <p><span class="chinese">制定生产任务单。</span><span class="english">Make productive task form.</span></p>

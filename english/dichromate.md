@@ -1,5 +1,7 @@
 # dichromate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dichromate.md)
+
 <p><span class="chinese">将这张校样重新涂以重铬酸盐乳剂。</span><span class="english">The proof is recoated with dichromate emulsion.</span></p>
 
 <p><span class="chinese">将这张校样重新涂以重铬酸盐乳剂。</span><span class="english">The proof is recoated with dichromate emulsion.</span></p>

@@ -1,5 +1,7 @@
 # yore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yore.md)
+
 <p><span class="chinese">纱幕落了！—这一切我早就见过。</span><span class="english">Some veil did fall, —I knew it all of yore.</span></p>
 
 <p><span class="chinese">罗敷昔时秦氏女，千载无人空处所。</span><span class="english">Qin Luo Fu yore female, golden no empty premises.</span></p>

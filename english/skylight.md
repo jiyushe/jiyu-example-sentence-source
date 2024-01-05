@@ -1,5 +1,7 @@
 # skylight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skylight.md)
+
 <p><span class="chinese">天窗的液压开关发现漏油。</span><span class="english">The hydraulic switch of skylight found leaking.</span></p>
 
 <p><span class="chinese">他从天窗爬到下面的房子里。</span><span class="english">He crawled down through the skylight to the house underneath.</span></p>

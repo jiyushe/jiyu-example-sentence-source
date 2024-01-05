@@ -1,5 +1,7 @@
 # 任人唯贤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renrenweixian.md)
+
 <p><span class="chinese">国际性职位应该任人唯贤。</span><span class="english">International posts should be filled according to merit.</span></p>
 
 <p><span class="chinese">只有任人唯贤，印度才能取得发展。</span><span class="english">India can develop only if jobs are provided on merit and not caste.</span></p>

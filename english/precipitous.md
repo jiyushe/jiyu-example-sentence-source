@@ -1,5 +1,7 @@
 # precipitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precipitous.md)
+
 <p><span class="chinese">在那热狂的陡峭边缘。</span><span class="english">On the precipitous edge of fever.</span></p>
 
 <p><span class="chinese">古老的泰山越发显得崔嵬了。</span><span class="english">Mount Tai looked more precipitous.</span></p>

@@ -1,5 +1,7 @@
 # peekaboo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peekaboo.md)
+
 <p><span class="chinese">躲猫猫新娘？</span><span class="english">Peekaboo bride?</span></p>
 
 <p><span class="chinese">在书包里。</span><span class="english">In the schoolbag. Peekaboo.</span></p>

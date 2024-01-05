@@ -1,5 +1,7 @@
 # 结队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiedui.md)
+
 <p><span class="chinese">他们结队在埃及坐大篷车旅行。</span><span class="english">They caravaned through Egypt.</span></p>
 
 <p><span class="chinese">全体工作人同结队走过张灯结彩的院子。</span><span class="english">The staff trooped through the gaily decorated court.</span></p>

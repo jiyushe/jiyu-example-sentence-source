@@ -1,5 +1,7 @@
 # integrality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/integrality.md)
+
 <p><span class="chinese">DBCC检查数据库数据完整性。</span><span class="english">DBCC checks database data integrality.</span></p>
 
 <p><span class="chinese">从包装箱里拿出时要检查产品的完整性。</span><span class="english">Check integrality of the products when unpack the packing.</span></p>

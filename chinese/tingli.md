@@ -1,5 +1,7 @@
 # 听力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingli.md)
+
 <p><span class="chinese">听力，没的说。</span><span class="english">Hearing, not to say that.</span></p>
 
 <p><span class="chinese">韩国服装购物网听说蛇不听力。</span><span class="english">It says snakes cgreby visiting't hear.</span></p>

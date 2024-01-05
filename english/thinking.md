@@ -1,5 +1,7 @@
 # thinking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thinking.md)
+
 <p><span class="chinese">会思考的肉块！</span><span class="english">Thinking meat!</span></p>
 
 <p><span class="chinese">第六,神奇式思考</span><span class="english">Magical thinking.</span></p>

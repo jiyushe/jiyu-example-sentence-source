@@ -1,5 +1,7 @@
 # disgust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disgust.md)
+
 <p><span class="chinese">他的脸上流露出厌恶的神色。</span><span class="english">He looked his disgust.</span></p>
 
 <p><span class="chinese">她厌恶地扭过脸去。</span><span class="english">She turned away in disgust.</span></p>

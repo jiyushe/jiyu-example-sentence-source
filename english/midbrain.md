@@ -1,5 +1,7 @@
 # midbrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midbrain.md)
+
 <p><span class="chinese">中脑动脉在表面形成的吻合，平均每例为3.6支。</span><span class="english">There are 3.6 anastomose branches in each midbrain.</span></p>
 
 <p><span class="chinese">所有研究对象均取双侧颞叶及中脑数据。</span><span class="english">Data of both temporal lobes and midbrain were collected for analysis.</span></p>

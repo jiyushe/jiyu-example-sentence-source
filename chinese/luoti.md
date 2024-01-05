@@ -1,5 +1,7 @@
 # 裸体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoti.md)
+
 <p><span class="chinese">在公众场合裸体的呢？</span><span class="english">Naked in public?</span></p>
 
 <p><span class="chinese">除非他是裸体。</span><span class="english">Unless he was naked.</span></p>

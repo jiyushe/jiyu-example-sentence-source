@@ -1,5 +1,7 @@
 # reestablish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reestablish.md)
+
 <p><span class="chinese">怎样才能重建我生活的方向呢？</span><span class="english">How do I reestablish my direction?</span></p>
 
 <p><span class="chinese">你首先需要做的就是重新建立与她的联系。</span><span class="english">What you need to do first is reestablish your relationship with her.</span></p>

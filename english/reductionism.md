@@ -1,5 +1,7 @@
 # reductionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reductionism.md)
+
 <p><span class="chinese">但是我们仍需要采用简化论方法来达到目的。</span><span class="english">But reductionism is still needed to get there.</span></p>
 
 <p><span class="chinese">受简约论思想支配的决定论和还原论越来越显示出自身的先天不足。</span><span class="english">Determinism controlled by reductionism is becoming self-deficient more and more visibly.</span></p>

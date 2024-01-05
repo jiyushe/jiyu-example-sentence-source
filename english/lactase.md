@@ -1,5 +1,7 @@
 # lactase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lactase.md)
+
 <p><span class="chinese">随着人们年龄，他们所生产的低乳糖。</span><span class="english">As people age, they produce less lactase.</span></p>
 
 <p><span class="chinese">矿质元素钠、铁和钙能促进乳糖酶的酶活力。</span><span class="english">Na, Fe and Ca helped to promote the enzyme activity of lactase.</span></p>

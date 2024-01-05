@@ -1,5 +1,7 @@
 # 面试
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianshi_2.md)
+
 <p><span class="chinese">预面试。</span><span class="english">Pre-interview.</span></p>
 
 <p><span class="chinese">我是来面试的。</span><span class="english">I have an interview.</span></p>

@@ -1,5 +1,7 @@
 # 天意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianyi.md)
+
 <p><span class="chinese">这就是天意！</span><span class="english">I was just leering.</span></p>
 
 <p><span class="chinese">但凭天意，真教大行其道，和平。</span><span class="english">Inshallah, true religion prevails . Peace.</span></p>

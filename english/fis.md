@@ -1,5 +1,7 @@
 # fis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fis.md)
+
 <p><span class="chinese">他们修复牙齿。</span><span class="english">They fis teeth.</span></p>
 
 <p><span class="chinese">亾生命虽短，爱却绵长。</span><span class="english">Brief fis life, but love is long.</span></p>

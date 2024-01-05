@@ -1,5 +1,7 @@
 # lung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lung.md)
+
 <p><span class="chinese">肺病。</span><span class="english">Lung disease.</span></p>
 
 <p><span class="chinese">非独肺也-。</span><span class="english">Non-alone lung also -.</span></p>

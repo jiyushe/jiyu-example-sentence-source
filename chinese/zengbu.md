@@ -1,5 +1,7 @@
 # 增补
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengbu.md)
+
 <p><span class="chinese">宝石学能给货物拼增补镶嵌槽么？</span><span class="english">Can Jewelcrafters add sockets to items?</span></p>
 
 <p><span class="chinese">象形文字开始作为符号的增补。</span><span class="english">Word-signs began to supplement signals.</span></p>

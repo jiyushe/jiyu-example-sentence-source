@@ -1,5 +1,7 @@
 # 主动权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhudongquan.md)
+
 <p><span class="chinese">主动权已转到我方。</span><span class="english">The initiative has passed to us.</span></p>
 
 <p><span class="chinese">我希望你们掌握主动权。</span><span class="english">I want you to take ownership of it.</span></p>

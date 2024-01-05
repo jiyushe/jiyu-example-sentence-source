@@ -1,5 +1,7 @@
 # 引人瞩目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinrenzhumu_1.md)
+
 <p><span class="chinese">这些趋势的持续存在引人瞩目。</span><span class="english">The persistence of these trends is striking.</span></p>
 
 <p><span class="chinese">小提琴手在这场演出中引人瞩目。</span><span class="english">The violin player walked away with the show.</span></p>

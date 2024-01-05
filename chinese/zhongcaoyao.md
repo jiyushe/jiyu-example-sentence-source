@@ -1,5 +1,7 @@
 # 中草药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongcaoyao.md)
+
 <p><span class="chinese">这是你所需要的中草药。</span><span class="english">This is your herbal medicine.</span></p>
 
 <p><span class="chinese">你得服用一些中草药。</span><span class="english">You nee to take some Chinese herbs.</span></p>

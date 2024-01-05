@@ -1,5 +1,7 @@
 # 顺心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunxin.md)
+
 <p><span class="chinese">今天真是什么都不顺心。</span><span class="english">Today just isn't my day.</span></p>
 
 <p><span class="chinese">我们大家都有过事事不顺心的日子。</span><span class="english">We all have had bad days.</span></p>

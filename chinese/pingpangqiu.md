@@ -1,5 +1,7 @@
 # 乒乓球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingpangqiu.md)
+
 <p><span class="chinese">打一场乒乓球怎样？</span><span class="english">How about a pin-bang game?</span></p>
 
 <p><span class="chinese">我星期一打乒乓球。</span><span class="english">I play ping-pong on Monday.</span></p>

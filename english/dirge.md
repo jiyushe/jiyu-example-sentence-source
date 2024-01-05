@@ -1,5 +1,7 @@
 # dirge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dirge.md)
+
 <p><span class="chinese">挽歌将会终止。</span><span class="english">The Dirge will stop.</span></p>
 
 <p><span class="chinese">轻快的歌曲竟似挽歌使我压抑。</span><span class="english">A light song overcomes me like a dirge.</span></p>

@@ -1,5 +1,7 @@
 # 开端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiduan.md)
+
 <p><span class="chinese">你从什么时侯开端有这种痛的?。</span><span class="english">What kind of pain is it?</span></p>
 
 <p><span class="chinese">这将是开端。</span><span class="english">This will be the begining.</span></p>

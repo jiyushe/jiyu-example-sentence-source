@@ -1,5 +1,7 @@
 # jove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jove.md)
+
 <p><span class="chinese">“天哪，这可是茶。”海恩斯说。</span><span class="english">By jove , it is tea, Haines said.</span></p>
 
 <p><span class="chinese">我冥想了半个小时，天哪，我感觉好多了。</span><span class="english">I meditate for half an hour, by Jove I feel better.</span></p>

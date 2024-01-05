@@ -1,5 +1,7 @@
 # undid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undid.md)
+
 <p><span class="chinese">但那震惊的一刻使他失去了机会。</span><span class="english">But that moment of shock undid him.</span></p>
 
 <p><span class="chinese">他勾引了邻居的年轻女儿。</span><span class="english">He undid his neighbour's young daughter.</span></p>

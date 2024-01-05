@@ -1,5 +1,7 @@
 # forested
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forested.md)
+
 <p><span class="chinese">省中部的尽大局部是被森林笼罩的高下讫伏的高本。</span><span class="english">Most of the central province is forested undulating plateau.</span></p>
 
 <p><span class="chinese">森林区的种群密度与农业区同样的高。</span><span class="english">Forested areas sustain almost as high a population as the agricultural sites.</span></p>

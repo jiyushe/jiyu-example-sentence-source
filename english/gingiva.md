@@ -1,5 +1,7 @@
 # gingiva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gingiva.md)
+
 <p><span class="chinese">选取牙龈组织和牙龈成纤维细胞作为对照。</span><span class="english">Gingiva tissue and cells were used as negative control.</span></p>
 
 <p><span class="chinese">柔软的辊轮可有效地清洁牙齿、按摩牙龈。</span><span class="english">The soft rollers can effectively clean teeth and massage gingiva.</span></p>

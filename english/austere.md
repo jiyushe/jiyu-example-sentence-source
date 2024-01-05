@@ -1,5 +1,7 @@
 # austere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/austere.md)
+
 <p><span class="chinese">他们过着极端清苦的生活。</span><span class="english">They lived an austere life.</span></p>
 
 <p><span class="chinese">我父亲是一个沉没、严峻的人。</span><span class="english">My father is a silent, austere man.</span></p>

@@ -1,5 +1,7 @@
 # seaward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seaward.md)
+
 <p><span class="chinese">这个房间面向大海。</span><span class="english">This room faces seaward.</span></p>
 
 <p><span class="chinese">向海的地方或方向。</span><span class="english">A seaward place or direction.</span></p>

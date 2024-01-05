@@ -1,5 +1,7 @@
 # 神志不清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenzhibuqing.md)
+
 <p><span class="chinese">但是你毫无准备，而且母亲已神志不清。</span><span class="english">But you're not prepared.</span></p>
 
 <p><span class="chinese">神志不清的马吕斯甚至全不曾察觉到他。</span><span class="english">Marius had not even seen him.</span></p>

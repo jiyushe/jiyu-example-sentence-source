@@ -1,5 +1,7 @@
 # liquid 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liquid.md)
+
 <p><span class="chinese">液体和气体。</span><span class="english">Liquid and gas.</span></p>
 
 <p><span class="chinese">液体和气体。</span><span class="english">Liquid. And gas.</span></p>

@@ -1,5 +1,7 @@
 # exalted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exalted.md)
+
 <p><span class="chinese">愿救我的神被人尊崇。</span><span class="english">Exalted be God my Savior!</span></p>
 
 <p><span class="chinese">他被捧上天了。</span><span class="english">He was exalted to the skies.</span></p>

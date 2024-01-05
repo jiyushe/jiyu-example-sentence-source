@@ -1,5 +1,7 @@
 # havana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/havana.md)
+
 <p><span class="chinese">这艘船将驶往哈瓦那。</span><span class="english">This ship will bear up to Havana.</span></p>
 
 <p><span class="chinese">在哈瓦那就没有纯粹的处女。</span><span class="english">There are no pretty virgins in Havana.</span></p>

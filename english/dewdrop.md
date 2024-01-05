@@ -1,5 +1,7 @@
 # dewdrop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dewdrop.md)
+
 <p><span class="chinese">到露珠旅馆一定要进来一坐。</span><span class="english">Do drop in at the Dewdrop Inn.</span></p>
 
 <p><span class="chinese">或许，露珠依然晶莹。</span><span class="english">Perhaps, glittering and translucent dewdrop still.</span></p>

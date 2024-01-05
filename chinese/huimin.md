@@ -1,5 +1,7 @@
 # 回民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huimin.md)
+
 <p><span class="chinese">我们回民中间也有汉人的血统。</span><span class="english">We moslems also have chinese blood in us.</span></p>
 
 <p><span class="chinese">他们甚至帮助回民在地里干活。</span><span class="english">They even helped the Hui people in their field work.</span></p>

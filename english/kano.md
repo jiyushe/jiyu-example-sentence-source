@@ -1,5 +1,7 @@
 # kano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kano.md)
+
 <p><span class="chinese">最初在卡诺州向农场主付款。</span><span class="english">Payment has been made to farmers, initially in the state of Kano.</span></p>
 
 <p><span class="chinese">就在18个月之前，卡诺曾是1型脊髓灰质炎的全球焦点。</span><span class="english">Even 18 months ago, Kano was the global epicentre of type 1 polio.</span></p>

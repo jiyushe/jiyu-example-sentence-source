@@ -1,5 +1,7 @@
 # 小卖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaomai.md)
+
 <p><span class="chinese">多少你的小卖店距离未雨绸缪？</span><span class="english">How much should you tuck away for a rainy day?</span></p>
 
 <p><span class="chinese">我在住宅区附近的小卖铺买了一包绿茶。</span><span class="english">I bought a pack of green tea in the corner shop.</span></p>

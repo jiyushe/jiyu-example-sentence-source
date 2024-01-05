@@ -1,5 +1,7 @@
 # 男儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naner.md)
+
 <p><span class="chinese">他是一个热血男儿。</span><span class="english">He is a man of heart.</span></p>
 
 <p><span class="chinese">女流比男儿更会玩弄花样！</span><span class="english">More in women than in men remain.</span></p>

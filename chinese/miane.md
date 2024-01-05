@@ -1,5 +1,7 @@
 # 面额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miane.md)
+
 <p><span class="chinese">你有没有面额小一点的钞票？</span><span class="english">Do you have any smaller bills?</span></p>
 
 <p><span class="chinese">你有什么面额的？</span><span class="english">What denomination do you have?</span></p>

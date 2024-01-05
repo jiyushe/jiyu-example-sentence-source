@@ -1,5 +1,7 @@
 # polyhedra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyhedra.md)
+
 <p><span class="chinese">具有七个顶点的多面体是稀少的。</span><span class="english">Polyhedra with seven vertices are rare.</span></p>
 
 <p><span class="chinese">每一个理想的多面体是依次由三角形组成。</span><span class="english">Each of these perfect polyhedra would be in turn composed of triangles.</span></p>

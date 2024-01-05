@@ -1,5 +1,7 @@
 # odense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odense.md)
+
 <p><span class="chinese">这船是丹麦的欧登赛钢铁船厂建造的。</span><span class="english">The ship was launched at Odense Steel Shipyard Ltd in May 2007.</span></p>
 
 <p><span class="chinese">安徒生于1805年4月2日在丹麦欧登塞的一座一室房子内出生。</span><span class="english">Andersen was born in a one-room house in Odense , Denmark on April 2, 1805.</span></p>

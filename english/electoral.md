@@ -1,5 +1,7 @@
 # electoral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electoral.md)
+
 <p><span class="chinese">第五章，监察院选举制度。</span><span class="english">Chapter V, the Supervise electoral system.</span></p>
 
 <p><span class="chinese">提拔名单上有203817个唱票人。</span><span class="english">There are 203817 voters on the electoral rolls.</span></p>

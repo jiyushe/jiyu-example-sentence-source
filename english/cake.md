@@ -1,5 +1,7 @@
 # cake 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cake.md)
+
 <p><span class="chinese">就像这块蛋糕。</span><span class="english">Like this cake.</span></p>
 
 <p><span class="chinese">我在拌和配料做蛋糕。</span><span class="english">I'm mixing a cake.</span></p>

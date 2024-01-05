@@ -1,5 +1,7 @@
 # 谋反
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moufan.md)
+
 <p><span class="chinese">这些谋反者立约保守秘密。</span><span class="english">The conspirators were bound to secrecy.</span></p>
 
 <p><span class="chinese">当贵族谋反时，国王便出兵打他们。</span><span class="english">When the nobles rebelled , the king battled them.</span></p>

@@ -1,5 +1,7 @@
 # affable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affable.md)
+
 <p><span class="chinese">他为人和蔼而忧郁。</span><span class="english">He was affable and sad.</span></p>
 
 <p><span class="chinese">她对每一个人都和蔼可亲。</span><span class="english">She is affable to everyone.</span></p>

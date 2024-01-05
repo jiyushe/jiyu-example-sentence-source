@@ -1,5 +1,7 @@
 # kazak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kazak.md)
+
 <p><span class="chinese">这就是哈萨克族的鹰猎。</span><span class="english">This is a Kazak falcon.</span></p>
 
 <p><span class="chinese">哈萨克族婚礼简直就是一场歌会。</span><span class="english">Kazak weddings are like a concert.</span></p>

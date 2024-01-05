@@ -1,5 +1,7 @@
 # libera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libera.md)
+
 <p><span class="chinese">原因自由行为具有六个特征。</span><span class="english">Actio Libera in Causa has six characteristics.</span></p>
 
 <p><span class="chinese">第六，原因自由行为的立法。</span><span class="english">Sixth, the legislation of actio libera in cause.</span></p>

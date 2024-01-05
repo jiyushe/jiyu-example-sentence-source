@@ -1,5 +1,7 @@
 # identifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/identifier.md)
+
 <p><span class="chinese">卖主标识符?。</span><span class="english">VID? Vender IDentifier?</span></p>
 
 <p><span class="chinese">连接标识符。</span><span class="english">The connection identifier.</span></p>

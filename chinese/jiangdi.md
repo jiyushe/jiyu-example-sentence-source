@@ -1,5 +1,7 @@
 # 降低
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangdi.md)
+
 <p><span class="chinese">我决不降低要求。</span><span class="english">I settle for no less.</span></p>
 
 <p><span class="chinese">可能也停了降低羞耻心的那种？</span><span class="english">Also the shame reducer?</span></p>

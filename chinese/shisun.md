@@ -1,5 +1,7 @@
 # 石笋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shisun.md)
+
 <p><span class="chinese">石笋，这个洞穴里随处可见。</span><span class="english">A stalagmite. The cave is full of them.</span></p>
 
 <p><span class="chinese">斑点鹰魟成群结队在石笋周围漫游。</span><span class="english">Groups of spotted eagle rays cruise around the pinnacles.</span></p>

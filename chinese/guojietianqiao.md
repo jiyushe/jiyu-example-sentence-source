@@ -1,5 +1,7 @@
 # 过街天桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guojietianqiao.md)
+
 <p><span class="chinese">下过街天桥就是。</span><span class="english">Just down under the overline bridge.</span></p>
 
 <p><span class="chinese">你可以走过街天桥过马路。</span><span class="english">You may cross the street by the footbridge.</span></p>

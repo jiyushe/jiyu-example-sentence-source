@@ -1,5 +1,7 @@
 # 差劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chajin.md)
+
 <p><span class="chinese">这张咖啡台太差劲了。</span><span class="english">This coffee table sucks.</span></p>
 
 <p><span class="chinese">你有一个差劲的老板吗？</span><span class="english">Do you have a bad manager?</span></p>

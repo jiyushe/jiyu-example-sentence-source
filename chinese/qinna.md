@@ -1,5 +1,7 @@
 # 擒拿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinna.md)
+
 <p><span class="chinese">从擒拿中解脱出来就是为了进攻。</span><span class="english">Breaking a hold is the beginning of the attack.</span></p>
 
 <p><span class="chinese">猎鹰、翠鸟和许多海鸟利用俯冲出击来擒拿猎物。</span><span class="english">Falcons, kingfishers and many seabirds use dives to attack prey.</span></p>

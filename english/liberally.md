@@ -1,5 +1,7 @@
 # liberally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberally.md)
+
 <p><span class="chinese">将丰富的肥皂溶液涂到饰条胶合剂背面。</span><span class="english">Apply soap solution liberally to adhesive backing of stripe.</span></p>
 
 <p><span class="chinese">戴尔出生在一个开放的犹太教家庭。</span><span class="english">Dell was born into a family which liberally practiced Judaism.</span></p>

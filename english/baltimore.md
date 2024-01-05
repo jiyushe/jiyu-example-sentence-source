@@ -1,5 +1,7 @@
 # baltimore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baltimore.md)
+
 <p><span class="chinese">我从巴尔的摩来。</span><span class="english">C. I'm from Baltimore.</span></p>
 
 <p><span class="chinese">从这里去巴尔特摩有多少英里呢？</span><span class="english">How many miles is Baltimore here?</span></p>

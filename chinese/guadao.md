@@ -1,5 +1,7 @@
 # 刮刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guadao.md)
+
 <p><span class="chinese">刮刀，以防止泥土建立车轮。</span><span class="english">Scraper to prevent mud build up on wheel.</span></p>
 
 <p><span class="chinese">加入椰丝和榛子粉，用橡胶刮刀捞拌均匀。</span><span class="english">Add in coconut shreds and hazelnut powder.</span></p>

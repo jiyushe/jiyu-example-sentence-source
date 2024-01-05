@@ -1,5 +1,7 @@
 # 非分之想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feifenzhixiang.md)
+
 <p><span class="chinese">不作非分之想又能尽其本分的人是快乐的。</span><span class="english">Happy is he who only desires what he may and does what he ought.</span></p>
 
 <p><span class="chinese">问题三、面对上司的非分之想，你会怎么办？</span><span class="english">Problem 3, of the assuming that faces boss want, how can you do?</span></p>

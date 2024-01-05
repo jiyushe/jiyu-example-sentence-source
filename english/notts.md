@@ -1,5 +1,7 @@
 # notts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notts.md)
+
 <p><span class="chinese">前利物浦队长保罗因斯被任命作诺茨郡主教练。</span><span class="english">Former Liverpool captain Paul Ince has been appointed manager of Notts County.</span></p>
 
 <p><span class="chinese">汤姆因斯在这个赛季早些时间到了诺茨郡，回来的时候他就是更好的一名球员了。</span><span class="english">Tom Ince went to Notts County earlier this season and came back a better player.</span></p>

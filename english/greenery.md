@@ -1,5 +1,7 @@
 # greenery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenery.md)
+
 <p><span class="chinese">如今，环保理念才是王道。</span><span class="english">Now, greenery is in vogue.</span></p>
 
 <p><span class="chinese">多数情况下这种医疗保健的绿化方式亦可以省钱。</span><span class="english">Much of this greenery could also save money.</span></p>

@@ -1,5 +1,7 @@
 # 神异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyi_3.md)
+
 <p><span class="chinese">人类曾经用药物来庆祝神异的成功。</span><span class="english">Man has used drugs to celebrate heroic successes.</span></p>
 
 <p><span class="chinese">龙是中华民族自上古以来一直崇尚的神异动物。</span><span class="english">Dragon is a deified animal worshipped by the Chinese people from the time immemorial.</span></p>

@@ -1,5 +1,7 @@
 # 而已
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eryi.md)
+
 <p><span class="chinese">我说亲而已！</span><span class="english">I said kiss it!</span></p>
 
 <p><span class="chinese">我只是说说而已。</span><span class="english">I’m just sayin’.</span></p>

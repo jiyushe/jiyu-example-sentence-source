@@ -1,5 +1,7 @@
 # disorderly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disorderly.md)
+
 <p><span class="chinese">脑袋里面乱成麻。</span><span class="english">Head inside disorderly become hemp.</span></p>
 
 <p><span class="chinese">因为我想我早已把它建的七倒八歪。</span><span class="english">Because I think I had built it disorderly.</span></p>

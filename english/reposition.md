@@ -1,5 +1,7 @@
 # reposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reposition.md)
+
 <p><span class="chinese">可以在关系图中对说明进行重新定位。</span><span class="english">You can reposition the note within the diagram.</span></p>
 
 <p><span class="chinese">用于锁骨骨折的固定。</span><span class="english">Suitable for reposition and fixation of collarbone injury.</span></p>

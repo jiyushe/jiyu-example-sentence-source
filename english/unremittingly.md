@@ -1,5 +1,7 @@
 # unremittingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unremittingly.md)
+
 <p><span class="chinese">这项工作要一抓到底，坚持不懈。</span><span class="english">This job should catch after all, unremittingly.</span></p>
 
 <p><span class="chinese">一个人只要强烈地坚持不懈地追求，他就能达到目的。——司汤达。</span><span class="english">A man who pursues his dream unremittingly will make it.</span></p>

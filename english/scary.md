@@ -1,5 +1,7 @@
 # scary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scary.md)
+
 <p><span class="chinese">提心吊胆的世界。</span><span class="english">The scary world.</span></p>
 
 <p><span class="chinese">他可以变得很可怕</span><span class="english">He could be scary.</span></p>

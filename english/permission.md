@@ -1,5 +1,7 @@
 # permission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permission.md)
+
 <p><span class="chinese">准许为人。</span><span class="english">Permission to be human.</span></p>
 
 <p><span class="chinese">本文经许可转载。</span><span class="english">Reprinted by permission.</span></p>

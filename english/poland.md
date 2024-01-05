@@ -1,5 +1,7 @@
 # poland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poland.md)
+
 <p><span class="chinese">来自波兰的黑金属。</span><span class="english">Black Metal from Poland.</span></p>
 
 <p><span class="chinese">我来自波兰的塔尔努夫。</span><span class="english">I'm from Tarnow, Poland.</span></p>

@@ -1,5 +1,7 @@
 # kirsten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kirsten.md)
+
 <p><span class="chinese">克斯汀·邓斯特就有一张圆圆的脸。</span><span class="english">Kirsten Dunst has a noteworthy round face.</span></p>
 
 <p><span class="chinese">纽约州众议员柯尔斯顿·吉利布兰德被选中填补希拉里·克林顿的职位。</span><span class="english">New York representative Kirsten Gillibrand was tapped to fill Hilary Clinton's post.</span></p>

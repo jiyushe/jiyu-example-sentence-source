@@ -1,5 +1,7 @@
 # socialize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/socialize.md)
+
 <p><span class="chinese">参加社交活动，好好玩！</span><span class="english">Socialize and Have Fun!</span></p>
 
 <p><span class="chinese">你和谁交往？</span><span class="english">Who do you socialize with?</span></p>

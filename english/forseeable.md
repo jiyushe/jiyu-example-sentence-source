@@ -1,5 +1,7 @@
 # forseeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forseeable.md)
+
 <p><span class="chinese">在可预见的将来，这些问题同样并无好转可能。</span><span class="english">These are problems that cannot be resolved in the forseeable future.</span></p>
 
 <p><span class="chinese">由此，在可以预见的将来，我认为不会发生战争，但紧张局势会保持下去。</span><span class="english">Given this I do not see war but tensions will remain high for the forseeable future.</span></p>

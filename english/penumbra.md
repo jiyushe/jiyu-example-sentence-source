@@ -1,5 +1,7 @@
 # penumbra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penumbra.md)
+
 <p><span class="chinese">黑子半影具有旋涡结构。</span><span class="english">There is the spiral structure in the sunspot penumbra.</span></p>
 
 <p><span class="chinese">另外，提出了亮度步长的方法来检测阴影中的半影。</span><span class="english">In additional, the luminance step is applied to detect the penumbra.</span></p>

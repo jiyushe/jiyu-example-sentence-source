@@ -1,5 +1,7 @@
 # 促膝谈心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuxitanxin.md)
+
 <p><span class="chinese">我和他促膝谈心。</span><span class="english">I got knee to knee with him.</span></p>
 
 <p><span class="chinese">这图书馆是我们促膝谈心的地方。</span><span class="english">This was the place for our tete-a-tete.</span></p>

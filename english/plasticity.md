@@ -1,5 +1,7 @@
 # plasticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasticity.md)
+
 <p><span class="chinese">然而可塑性确实存在极限。</span><span class="english">Plasticity does have limits, however.</span></p>
 
 <p><span class="chinese">没有个QTL检测的量程下限可塑性。</span><span class="english">No QTLs were detected for plasticity of LRL.</span></p>

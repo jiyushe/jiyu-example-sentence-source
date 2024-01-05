@@ -1,5 +1,7 @@
 # 牛脾气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niupiqi.md)
+
 <p><span class="chinese">看看你的牛脾气。</span><span class="english">Look at your bad-temper.</span></p>
 
 <p><span class="chinese">他只不过是在耍牛脾气。</span><span class="english">He was just being obstinate.</span></p>

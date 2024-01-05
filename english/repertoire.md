@@ -1,5 +1,7 @@
 # repertoire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repertoire.md)
+
 <p><span class="chinese">武术套路、少林拳术之一。</span><span class="english">One of martial arts repertoire and Shaolin boxing.</span></p>
 
 <p><span class="chinese">算法采用MCS-51指令系统实现。</span><span class="english">The algorithm adopt MCS-51 instruction repertoire.</span></p>

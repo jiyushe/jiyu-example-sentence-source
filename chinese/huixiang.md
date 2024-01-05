@@ -1,5 +1,7 @@
 # 茴香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huixiang.md)
+
 <p><span class="chinese">茴香家酿伏特加。</span><span class="english">Anise home-distilled vodka.</span></p>
 
 <p><span class="chinese">还有茴香猪肉丸。</span><span class="english">and pork meatballs with fennel seeds.</span></p>

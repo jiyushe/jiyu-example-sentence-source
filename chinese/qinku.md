@@ -1,5 +1,7 @@
 # 勤苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinku.md)
+
 <p><span class="chinese">我勤苦工作，结果却是失败。</span><span class="english">I worked hard, only to fail at last.</span></p>
 
 <p><span class="chinese">◎若要求知识，须从勤苦得。</span><span class="english">If you want knowledge,you must toil for it.</span></p>

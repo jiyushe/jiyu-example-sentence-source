@@ -1,5 +1,7 @@
 # bestrode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bestrode.md)
+
 <p><span class="chinese">他骑马。</span><span class="english">He bestrode his house.</span></p>
 
 <p><span class="chinese">它们曾宛若巨人控制着整个地球。</span><span class="english">They bestrode the earth like giants.</span></p>

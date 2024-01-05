@@ -1,5 +1,7 @@
 # 徇情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunqing.md)
+
 <p><span class="chinese">法官不应当徇情偏袒。</span><span class="english">Judges ought not to consider anything on the person.</span></p>
 
 <p><span class="chinese">你们若暗中徇情，他必要责备你们。</span><span class="english">He will surely reprove you, if ye do secretly accept persons.</span></p>

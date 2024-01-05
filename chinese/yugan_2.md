@@ -1,5 +1,7 @@
 # 鱼竿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yugan_2.md)
+
 <p><span class="chinese">突然鱼竿动了动。</span><span class="english">Suddenly the fishing rod moves.</span></p>
 
 <p><span class="chinese">一个女人去沃尔玛超市买鱼竿和鱼线轴。</span><span class="english">A woman goes into Wal-Mart to buy a rod and reel.</span></p>

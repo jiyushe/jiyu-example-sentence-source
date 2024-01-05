@@ -1,5 +1,7 @@
 # 重负
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongfu_1.md)
+
 <p><span class="chinese">她们将白人的重负卸去</span><span class="english">Brought the white man’s burden down</span></p>
 
 <p><span class="chinese">刻在你脆弱的心间也许千斤重负在肩。</span><span class="english">Your weak mind may bear hundreds of burden.</span></p>

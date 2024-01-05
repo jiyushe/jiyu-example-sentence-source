@@ -1,5 +1,7 @@
 # amphiphilic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amphiphilic.md)
+
 <p><span class="chinese">这类两亲性含钛沸石能分布于水、油两相界面处。</span><span class="english">These amphiphilic zeolites were oriented at the water-organic boundary.</span></p>
 
 <p><span class="chinese">嵌段型超分散剂PSE是一种新型、高效分散剂。</span><span class="english">Hyperdispersant PSE is a novel kind of highly efficient amphiphilic diblock copolymers.</span></p>

@@ -1,5 +1,7 @@
 # gladly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gladly.md)
+
 <p><span class="chinese">国王欣然同意。</span><span class="english">The king consents gladly.</span></p>
 
 <p><span class="chinese">对此他很高兴地同意了。</span><span class="english">To this he gladly assented.</span></p>

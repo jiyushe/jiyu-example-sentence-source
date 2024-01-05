@@ -1,5 +1,7 @@
 # pettish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pettish.md)
+
 <p><span class="chinese">亲爱的，我再也不对你撒娇了。</span><span class="english">I won't act in pettish to you anymore.</span></p>
 
 <p><span class="chinese">宝宝和十四俩一撒娇你就同意了？</span><span class="english">Baby and 14 a pairs one act in pettish you to engage?</span></p>

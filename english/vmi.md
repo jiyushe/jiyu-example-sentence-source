@@ -1,5 +1,7 @@
 # vmi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vmi.md)
+
 <p><span class="chinese">图像模块接口?。</span><span class="english">VMI? Video Module Interface?</span></p>
 
 <p><span class="chinese">供应商管理库存材料的支付为支付条款30天。</span><span class="english">Payment of invoices for VMI material will be made under NET 30 terms of payment.</span></p>

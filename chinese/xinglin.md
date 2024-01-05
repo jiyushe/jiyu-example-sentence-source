@@ -1,5 +1,7 @@
 # 杏林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinglin.md)
+
 <p><span class="chinese">蝶飞蜂乱入杏林。</span><span class="english">Butterflies hover to apricots with bees.</span></p>
 
 <p><span class="chinese">杏林北部新城区的交通十分便利。</span><span class="english">The traffic network of the new zone is developed.</span></p>

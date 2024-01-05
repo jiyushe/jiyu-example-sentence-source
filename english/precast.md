@@ -1,5 +1,7 @@
 # precast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precast.md)
+
 <p><span class="chinese">是水泥预制厂的理想设备。</span><span class="english">Precast concrete factory is the ideal equipment.</span></p>
 
 <p><span class="chinese">长椅是由建筑混凝土预制构件。</span><span class="english">The bench is made of precast elements in architectural concrete.</span></p>

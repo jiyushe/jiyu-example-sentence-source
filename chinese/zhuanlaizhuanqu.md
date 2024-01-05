@@ -1,5 +1,7 @@
 # 转来转去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanlaizhuanqu.md)
+
 <p><span class="chinese">头转来转去，甚至看着窗外</span><span class="english">Turns around and looks out the window.</span></p>
 
 <p><span class="chinese">转来转去不停止，于是石兽反而逆流而上了。</span><span class="english">Don't stop, so the beast's upstream instead.</span></p>

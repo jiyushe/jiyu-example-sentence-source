@@ -1,5 +1,7 @@
 # 秋高气爽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiugaoqishuang.md)
+
 <p><span class="chinese">金色九月，秋高气爽。</span><span class="english">Gold in September, autumn.</span></p>
 
 <p><span class="chinese">秋天天气晴朗，秋高气爽。</span><span class="english">It's clear and cool in autumn.</span></p>

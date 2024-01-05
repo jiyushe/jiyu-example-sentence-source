@@ -1,5 +1,7 @@
 # 自然规律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranguilv.md)
+
 <p><span class="chinese">这是一种不可违背的自然规律。</span><span class="english">This is an infrangible law of nature.</span></p>
 
 <p><span class="chinese">对于一只蝴蝶来说没有自由是违背自然规律的。</span><span class="english">It is unnatural for a butterfly not to be free.</span></p>

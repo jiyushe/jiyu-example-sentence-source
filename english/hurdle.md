@@ -1,5 +1,7 @@
 # hurdle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurdle.md)
+
 <p><span class="chinese">贫穷是另一个障碍。</span><span class="english">Poverty is another hurdle.</span></p>
 
 <p><span class="chinese">版权是一个重大障碍。</span><span class="english">Copyright is the big hurdle.</span></p>

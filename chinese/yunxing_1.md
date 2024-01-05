@@ -1,5 +1,7 @@
 # 陨星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunxing_1.md)
+
 <p><span class="chinese">意想不到的是，一个小陨星帮助了他。</span><span class="english">Unexpectedly , one of the little meteorites came to his help.</span></p>
 
 <p><span class="chinese">有关火星存在生命体的争论主要集中在这块陨星中所发现的磁性晶体上。</span><span class="english">The debate centres on magnetite crystals found in the meteorite.</span></p>

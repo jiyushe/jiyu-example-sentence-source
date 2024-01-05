@@ -1,5 +1,7 @@
 # selfless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selfless.md)
+
 <p><span class="chinese">无私奉献。</span><span class="english">Selfless devotion.</span></p>
 
 <p><span class="chinese">她是个没私心的姑娘。</span><span class="english">She is a selfless girl.</span></p>

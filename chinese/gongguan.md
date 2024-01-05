@@ -1,5 +1,7 @@
 # 公关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongguan.md)
+
 <p><span class="chinese">判罚核心的公关下降到3！</span><span class="english">Sizzled Core's PR dropped to 3!</span></p>
 
 <p><span class="chinese">他身边没有公关人员替他出谋划策。</span><span class="english">He has no PR people advising him.</span></p>

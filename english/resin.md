@@ -1,5 +1,7 @@
 # resin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resin.md)
+
 <p><span class="chinese">这也是一个苯丙醇胺树脂。</span><span class="english">It is also a PPA resin.</span></p>
 
 <p><span class="chinese">哈罗小块树脂板。</span><span class="english">Haro Small Block Resin pedals.</span></p>

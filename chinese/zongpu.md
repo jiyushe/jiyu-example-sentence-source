@@ -1,5 +1,7 @@
 # 总谱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongpu.md)
+
 <p><span class="chinese">这个康塔塔有个难度很大的声乐总谱。</span><span class="english">The cantata has a difficult vocal score.</span></p>
 
 <p><span class="chinese">这个观点同样可以运用到总谱上。</span><span class="english">This idea also applies to what we see on the score.</span></p>

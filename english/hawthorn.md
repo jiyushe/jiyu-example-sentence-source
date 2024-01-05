@@ -1,5 +1,7 @@
 # hawthorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hawthorn.md)
+
 <p><span class="chinese">五是山楂荷叶茶。</span><span class="english">Fifth, hawthorn tea lotus leaf.</span></p>
 
 <p><span class="chinese">在茂密的山楂树下。</span><span class="english">Under the hawthorn in the dense.</span></p>

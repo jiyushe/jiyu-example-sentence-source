@@ -1,5 +1,7 @@
 # 首先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxian_1.md)
+
 <p><span class="chinese">首先就去做。</span><span class="english">Do it first.</span></p>
 
 <p><span class="chinese">首先，见效快。</span><span class="english">First, it's quick.</span></p>

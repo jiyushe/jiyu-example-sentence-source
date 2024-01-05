@@ -1,5 +1,7 @@
 # intercessory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercessory.md)
+
 <p><span class="chinese">代祷是我们生命中真正的工作。</span><span class="english">Intercessory prayer is life's real work.</span></p>
 
 <p><span class="chinese">而第九章则是一种认罪的代求和恒切的祷告。</span><span class="english">There are intercessory as well as persistent prayers in chapter 9.</span></p>

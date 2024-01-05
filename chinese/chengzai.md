@@ -1,5 +1,7 @@
 # 承载
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengzai.md)
+
 <p><span class="chinese">承载更多运输量的列车即将出现。</span><span class="english">A trainload more may soon be on the way.</span></p>
 
 <p><span class="chinese">我们的机器承载量只有500公斤。</span><span class="english">Our machine weighs only but 500 kilograms.</span></p>

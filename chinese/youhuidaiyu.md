@@ -1,5 +1,7 @@
 # 优惠待遇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youhuidaiyu.md)
+
 <p><span class="chinese">你能告诉我有什么优惠待遇吗?。</span><span class="english">Can you tell me what preferential treatment is provided?</span></p>
 
 <p><span class="chinese">公司享受有关减税、免税的优惠待遇。</span><span class="english">The company has a privilege of tax-cutting and tax-free.</span></p>

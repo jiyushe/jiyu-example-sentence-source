@@ -1,5 +1,7 @@
 # crucial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crucial.md)
+
 <p><span class="chinese">至关重要的炮弹总是哑弹。</span><span class="english">The crucial round is a dud.</span></p>
 
 <p><span class="chinese">至关重要的炮弹总是哑弹。</span><span class="english">The crucial circular is a dud.</span></p>

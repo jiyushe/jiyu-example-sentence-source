@@ -1,5 +1,7 @@
 # flightless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flightless.md)
+
 <p><span class="chinese">折翼之鸟，羡慕，哭泣。</span><span class="english">Flightless bird, jealous, weeping.</span></p>
 
 <p><span class="chinese">小企鹅是不能飞的鸟。</span><span class="english">Little penguins are flightless birds.</span></p>

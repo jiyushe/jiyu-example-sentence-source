@@ -1,5 +1,7 @@
 # lacunar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacunar.md)
+
 <p><span class="chinese">腔隙性梗死患者的发病与血浆纤维蛋白原水平密切相关。</span><span class="english">The level of plasma fibrinogen is associated with lacunar infarction.</span></p>
 
 <p><span class="chinese">梗死后抑郁症的发生率与腔隙梗死灶的数量及非腔隙梗死的面积有关。</span><span class="english">The incidence of PCID was related to the infarct areas and lacunar numbers.</span></p>

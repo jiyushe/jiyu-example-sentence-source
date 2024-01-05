@@ -1,5 +1,7 @@
 # perishable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perishable.md)
+
 <p><span class="chinese">我所看到的都是可朽之物。</span><span class="english">I see only the perishable.</span></p>
 
 <p><span class="chinese">水果在运送途中容易腐烂。</span><span class="english">Fruits are perishable in transit.</span></p>

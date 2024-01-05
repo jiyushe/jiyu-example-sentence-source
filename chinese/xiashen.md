@@ -1,5 +1,7 @@
 # 下身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiashen.md)
+
 <p><span class="chinese">我只要俯下身去，就折不断。</span><span class="english">I bend and I break not.</span></p>
 
 <p><span class="chinese">他对她俯下身去。</span><span class="english">He bent over towards her.</span></p>

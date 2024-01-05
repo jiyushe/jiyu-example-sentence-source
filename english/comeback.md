@@ -1,5 +1,7 @@
 # comeback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comeback.md)
+
 <p><span class="chinese">电影制片厂使玛丽提早重返银幕。</span><span class="english">The studios hotted up Mary's comeback.</span></p>
 
 <p><span class="chinese">在阿拉斯加，大比目鱼已经恢复。</span><span class="english">Halibut have made a comeback in Alaska.</span></p>

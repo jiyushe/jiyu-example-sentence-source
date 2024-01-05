@@ -1,5 +1,7 @@
 # 有求必应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youqiubiying.md)
+
 <p><span class="chinese">他母亲是一个有求必应的人。</span><span class="english">His mother is a soft touch.</span></p>
 
 <p><span class="chinese">他对小孩有求必应。</span><span class="english">He denies his child nothing.</span></p>

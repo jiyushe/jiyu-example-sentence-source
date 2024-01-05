@@ -1,5 +1,7 @@
 # 中路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonglu.md)
+
 <p><span class="chinese">请送我去香港中路。</span><span class="english">Take me to the airport, please.</span></p>
 
 <p><span class="chinese">门将也可能守在中路</span><span class="english">The goalie might stay in the middle.</span></p>

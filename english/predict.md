@@ -1,5 +1,7 @@
 # predict 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predict.md)
+
 <p><span class="chinese">现在还不清楚，很难预料。</span><span class="english">It's hard to predict.</span></p>
 
 <p><span class="chinese">我们能预测太阳风暴吗？</span><span class="english">Can we predict solar storms?</span></p>

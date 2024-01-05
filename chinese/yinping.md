@@ -1,5 +1,7 @@
 # 银屏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinping.md)
+
 <p><span class="chinese">就我个人而言，我认为他太老了，不适合在银屏上舞来舞去。</span><span class="english">Personally, I think he is too old to dance on TV.</span></p>
 
 <p><span class="chinese">单独面对着银屏，我就谁的话也不用听了。</span><span class="english">Alone with the small screen, I am answerable to no one.</span></p>

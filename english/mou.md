@@ -1,5 +1,7 @@
 # mou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mou.md)
+
 <p><span class="chinese">巴西国家计量局必须批准合作备忘录。</span><span class="english">Inmetro must approve the MOU.</span></p>
 
 <p><span class="chinese">可惜他都没回答我啊。让我哭吧。</span><span class="english">Hor sie kuih mou wey da or ah. Let me cry.</span></p>

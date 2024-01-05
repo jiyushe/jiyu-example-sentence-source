@@ -1,5 +1,7 @@
 # 若隐若现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruoyinruoxian.md)
+
 <p><span class="chinese">远处若隐若现的车流喧嚣。</span><span class="english">Distant traffic noises.</span></p>
 
 <p><span class="chinese">若隐若现的姑娘然后,叫了安古斯的名字。</span><span class="english">The glimmering girl then calls Aengus by name.</span></p>

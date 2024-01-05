@@ -1,5 +1,7 @@
 # truffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truffle.md)
+
 <p><span class="chinese">那么黑松露的味道如何呢？</span><span class="english">So what does a truffle taste like?</span></p>
 
 <p><span class="chinese">奶油栗子汤，波特酒，黑菌。</span><span class="english">Chestnut cream soup, port wine, truffle.</span></p>

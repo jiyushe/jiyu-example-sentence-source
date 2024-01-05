@@ -1,5 +1,7 @@
 # disjunctive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disjunctive.md)
+
 <p><span class="chinese">隔断是为了分隔空间而产生的。</span><span class="english">Partition is for disjunctive space and of generation.</span></p>
 
 <p><span class="chinese">此外也可制作博古架来分隔空间。</span><span class="english">Also can make gain in addition ancient frame come disjunctive space.</span></p>

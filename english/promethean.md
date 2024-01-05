@@ -1,5 +1,7 @@
 # promethean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promethean.md)
+
 <p><span class="chinese">我们的工作叫做“普罗密修斯事业”。</span><span class="english">And our work shall be called the Promethean.</span></p>
 
 <p><span class="chinese">这是造成活尸与人类疏远的主要原因。</span><span class="english">It is the chief cause of a Promethean 's estrangement from mortals.</span></p>

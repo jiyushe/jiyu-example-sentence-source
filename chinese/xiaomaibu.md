@@ -1,5 +1,7 @@
 # 小卖部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaomaibu.md)
+
 <p><span class="chinese">这是家食品小卖部。</span><span class="english">This is a dry canteen.</span></p>
 
 <p><span class="chinese">小卖部的电话卡都卖完了··</span><span class="english">Commissary of the phone cards are sold out</span></p>

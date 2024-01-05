@@ -1,5 +1,7 @@
 # 一世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishi.md)
+
 <p><span class="chinese">一沙一世界，一花一天堂。</span><span class="english">Puts all Heaven in a Rage.</span></p>
 
 <p><span class="chinese">曾梦想在另一世界寻找爱。</span><span class="english">Ever dream out of in the world.</span></p>

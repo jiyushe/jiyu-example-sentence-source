@@ -1,5 +1,7 @@
 # centroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centroid.md)
+
 <p><span class="chinese">对于形心分析和算例，方便大家学习和使用。</span><span class="english">For example centroid analysis and to facilitate them to learn and use.</span></p>
 
 <p><span class="chinese">测量仪器所采用的形心不变原理，介绍了测量电路的设计方法。</span><span class="english">The principle of unchanged centroid is used for the measuring parallel.</span></p>

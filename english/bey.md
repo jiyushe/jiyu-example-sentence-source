@@ -1,5 +1,7 @@
 # bey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bey.md)
+
 <p><span class="chinese">你写的关于莎乐美的故事很精彩。</span><span class="english">Profit, Your story on Salome Bey is fantastic.</span></p>
 
 <p><span class="chinese">以太贝清真寺,歌剧院与钟塔。</span><span class="english">Ethem Bey Mosque, clock tower with Opera House.</span></p>

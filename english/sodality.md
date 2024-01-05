@@ -1,5 +1,7 @@
 # sodality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sodality.md)
+
 <p><span class="chinese">俱乐部每年都推出会员联谊活动，邀请会员免费参加。</span><span class="english">The club will hold sodality every year and invite members for free.</span></p>
 
 <p><span class="chinese">欢迎加入“中土联谊会”，不限国家、区域与宗教。</span><span class="english">Welcome to join "China &Turkey Sodality ", it does not restrict any countries, area and religions.</span></p>

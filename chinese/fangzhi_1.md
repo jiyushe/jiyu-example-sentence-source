@@ -1,5 +1,7 @@
 # 纺织
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangzhi_1.md)
+
 <p><span class="chinese">她在纺织系统找到一份工作。</span><span class="english">She has got a job in textiles.</span></p>
 
 <p><span class="chinese">1934年纺织工人罢工</span><span class="english">Textile Workers Strike of 1934</span></p>

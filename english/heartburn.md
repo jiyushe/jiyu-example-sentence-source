@@ -1,5 +1,7 @@
 # heartburn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartburn.md)
+
 <p><span class="chinese">我心痛。</span><span class="english">I have heartburn.</span></p>
 
 <p><span class="chinese">胃灼热还是哮喘？</span><span class="english">Heartburn or asthma?</span></p>

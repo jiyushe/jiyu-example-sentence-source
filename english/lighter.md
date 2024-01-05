@@ -1,5 +1,7 @@
 # lighter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lighter.md)
+
 <p><span class="chinese">想要更轻吗？</span><span class="english">Want it lighter?</span></p>
 
 <p><span class="chinese">哪个轻一些呢？</span><span class="english">Which one feels lighter?</span></p>

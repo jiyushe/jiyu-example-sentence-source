@@ -1,5 +1,7 @@
 # supercenter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supercenter.md)
+
 <p><span class="chinese">易初莲花购物中心已经被上海人普遍认可。</span><span class="english">Lotus Supercenter has been widely recognized by Shanghai people.</span></p>
 
 <p><span class="chinese">你认为沃尔玛的跨国经营和超市化等扩张化经营方式如何？</span><span class="english">What do you think of Wal-Mart's international and supercenter expansion?</span></p>

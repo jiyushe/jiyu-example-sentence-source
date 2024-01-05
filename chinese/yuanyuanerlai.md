@@ -1,5 +1,7 @@
 # 源源而来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyuanerlai.md)
+
 <p><span class="chinese">更多供应正源源而来。</span><span class="english">More supply is on the way.</span></p>
 
 <p><span class="chinese">钱现在源源而来。</span><span class="english">Money now began to pour in.</span></p>

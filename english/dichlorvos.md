@@ -1,5 +1,7 @@
 # dichlorvos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dichlorvos.md)
+
 <p><span class="chinese">结果表明，臭氧氧化法是处理敌敌畏的高效方法。</span><span class="english">The results show that ozonation is an efficient way for treating dichlorvos.</span></p>
 
 <p><span class="chinese">地表水中也均未检出敌百虫、敌敌畏、毒死蜱农药残留。</span><span class="english">Trichlorphon, dichlorvos and chlorpyrifos were not founded in the surface water.</span></p>

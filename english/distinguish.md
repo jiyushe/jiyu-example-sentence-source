@@ -1,5 +1,7 @@
 # distinguish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distinguish.md)
+
 <p><span class="chinese">区别于反建议。</span><span class="english">Distinguish from a counter offer.</span></p>
 
 <p><span class="chinese">北山羊与石山羊有较远的亲缘关系。</span><span class="english">Can you distinguish goat from sheep?</span></p>

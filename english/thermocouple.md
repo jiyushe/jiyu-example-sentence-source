@@ -1,5 +1,7 @@
 # thermocouple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermocouple.md)
+
 <p><span class="chinese">如果你有个热电偶，它也可以是电阻率。</span><span class="english">It could be resistivity, if you have a thermocouple.</span></p>
 
 <p><span class="chinese">热电偶或热电偶配线短路。</span><span class="english">Thermocouple or thermocouple wiring becomes short circuited.</span></p>

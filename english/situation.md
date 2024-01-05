@@ -1,5 +1,7 @@
 # situation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/situation.md)
+
 <p><span class="chinese">只是情境不同。</span><span class="english">Different situation.</span></p>
 
 <p><span class="chinese">重新组织自己面临的状况。</span><span class="english">Reframe the situation.</span></p>

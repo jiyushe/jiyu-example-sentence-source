@@ -1,5 +1,7 @@
 # stocky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stocky.md)
+
 <p><span class="chinese">他被描述为“敦实“短发。</span><span class="english">He is described as "stocky" with short hair.</span></p>
 
 <p><span class="chinese">他或她应该是一个小小的狗与一个相当敦实建设。</span><span class="english">He or she should be a tiny dog with a fairly stocky build.</span></p>

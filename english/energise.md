@@ -1,5 +1,7 @@
 # energise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/energise.md)
+
 <p><span class="chinese">不过，这一品牌足以激励公司早期的员工。</span><span class="english">Still, the brand was enough to energise its early hires.</span></p>
 
 <p><span class="chinese">有的颜色能帮助你放松心情，而另一些颜色能赋予你活力，使你变得兴奋。</span><span class="english">There are colors to help you relax and others to energise and excite.</span></p>

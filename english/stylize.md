@@ -1,5 +1,7 @@
 # stylize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stylize.md)
+
 <p><span class="chinese">风格化的完美电子邮件。</span><span class="english">Stylize the perfect email.</span></p>
 
 <p><span class="chinese">现在我们知道这一点，让我们的风格化的照片。</span><span class="english">Now that we know this, let's stylize our photo.</span></p>

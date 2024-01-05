@@ -1,5 +1,7 @@
 # knobbly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knobbly.md)
+
 <p><span class="chinese">她伸出了年迈粗糙的手。</span><span class="english">Her knobbly old hand was outstretched.</span></p>
 
 <p><span class="chinese">他腿很细，膝盖呈圆球状突出。</span><span class="english">He has very thin legs and knobbly knees.</span></p>

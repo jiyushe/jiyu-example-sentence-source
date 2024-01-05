@@ -1,5 +1,7 @@
 # fuller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fuller.md)
+
 <p><span class="chinese">因此，布基富勒决定住。</span><span class="english">So Bucky Fuller decided to live.</span></p>
 
 <p><span class="chinese">海曼知道富勒老想杀死他。</span><span class="english">Haman knew that Fuller was out to dust him.</span></p>

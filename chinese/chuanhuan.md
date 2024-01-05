@@ -1,5 +1,7 @@
 # 传唤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanhuan.md)
+
 <p><span class="chinese">他被传唤出庭作证。</span><span class="english">He was summoned as a witness.</span></p>
 
 <p><span class="chinese">他被传唤到庭。</span><span class="english">He's subpoenaed to go to the court.</span></p>

@@ -1,5 +1,7 @@
 # 坐井观天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuojingguantian.md)
+
 <p><span class="chinese">后来，人们就用“坐井观天”来比喻一个人的思想狭隘。</span><span class="english">Later, people use it to describe the ones who have a very narrow view.</span></p>
 
 <p><span class="chinese">提醒我还需要不断学习和提高，不能坐井观天。</span><span class="english">In order to improve her English , she wants to make friends with a high school student in your country.</span></p>

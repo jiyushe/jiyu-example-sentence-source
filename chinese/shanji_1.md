@@ -1,5 +1,7 @@
 # 山鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanji_1.md)
+
 <p><span class="chinese">成为一只活脱脱的大山鸡！</span><span class="english">To be a real big pheasant !</span></p>
 
 <p><span class="chinese">将率各通侯．材官职山鸡。</span><span class="english">Will lead the pass Hou. Wood office pheasant.</span></p>

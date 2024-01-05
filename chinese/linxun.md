@@ -1,5 +1,7 @@
 # 嶙峋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linxun.md)
+
 <p><span class="chinese">嶙峋的岬角突入海中…</span><span class="english">A rocky headland jutted into the sea.</span></p>
 
 <p><span class="chinese">一股清澈的山涧平稳的流过嶙峋的峡谷。</span><span class="english">A clear mountain stream flows steadily through a rocky defile.</span></p>

@@ -1,5 +1,7 @@
 # 说梦话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuomenghua.md)
+
 <p><span class="chinese">他睡觉时常说梦话。</span><span class="english">He talks in his sleep.</span></p>
 
 <p><span class="chinese">你是在说梦话吧！</span><span class="english">You are talking in your sleep!</span></p>

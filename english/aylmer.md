@@ -1,5 +1,7 @@
 # aylmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aylmer.md)
+
 <p><span class="chinese">这位科学家叫艾尔默。</span><span class="english">The scientist's name was Aylmer.</span></p>
 
 <p><span class="chinese">一想起这个梦，艾尔默便觉得很愧疚。</span><span class="english">Aylmer felt guilty remembering the dream.</span></p>

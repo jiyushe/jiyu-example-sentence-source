@@ -1,5 +1,7 @@
 # 闲话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhua_2.md)
+
 <p><span class="chinese">这只是些闲话</span><span class="english">These are gossip.</span></p>
 
 <p><span class="chinese">闲话少说，开打吧！</span><span class="english">Enough talk! Let's fight!</span></p>

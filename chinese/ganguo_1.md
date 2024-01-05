@@ -1,5 +1,7 @@
 # 坩埚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganguo_1.md)
+
 <p><span class="chinese">这是新的和改进的坩埚。</span><span class="english">Here is the new and improved crucible.</span></p>
 
 <p><span class="chinese">然后把坩埚放在天平上称一下。</span><span class="english">Then put the crucible on the balance and weigh it.</span></p>

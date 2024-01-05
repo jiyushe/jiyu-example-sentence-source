@@ -1,5 +1,7 @@
 # vtr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vtr.md)
+
 <p><span class="chinese">首先，介绍录象机重放的基本原理。</span><span class="english">At first, the basic principles of VTR playback are described.</span></p>
 
 <p><span class="chinese">时间线录像工具可以将选定的时间线录制到磁带。</span><span class="english">Timeline VTR tool allows selective timeline playback to tape.</span></p>

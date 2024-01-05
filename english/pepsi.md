@@ -1,5 +1,7 @@
 # pepsi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pepsi.md)
+
 <p><span class="chinese">她还喝了太多无糖百事可乐。</span><span class="english">She drank too much Diet Pepsi.</span></p>
 
 <p><span class="chinese">而该影响力是否也影响了百事可乐的品牌？</span><span class="english">Didit impact the brand of Pepsi?</span></p>

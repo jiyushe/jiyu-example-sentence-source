@@ -1,5 +1,7 @@
 # unendurable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unendurable.md)
+
 <p><span class="chinese">最受不了自己哪个缺点?。</span><span class="english">What's your most unendurable drawback?</span></p>
 
 <p><span class="chinese">她浑身发抖，好像这是她无法容忍的话题。</span><span class="english">She shivered as though the topic was unendurable.</span></p>

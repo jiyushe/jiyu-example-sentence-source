@@ -1,5 +1,7 @@
 # 近年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinnian.md)
+
 <p><span class="chinese">LUNX为近年新发现的人类肺组织特异性基因。</span><span class="english">LUNX is a lung-specific gene found recently.</span></p>
 
 <p><span class="chinese">近年在四川采集的报春花。</span><span class="english">Primulas collected from Szechuan in recent expeditions.</span></p>

@@ -1,5 +1,7 @@
 # tallow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tallow.md)
+
 <p><span class="chinese">下行。兽皮和蜂蜜，麦芽酒和牛油。</span><span class="english">Down. Hides and honey, ale and tallow.</span></p>
 
 <p><span class="chinese">一种以灯芯草茎为灯芯的动物脂肪作成的蜡烛。</span><span class="english">A tallow candle with a rush stem as the wick.</span></p>

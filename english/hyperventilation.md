@@ -1,5 +1,7 @@
 # hyperventilation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperventilation.md)
+
 <p><span class="chinese">几位著名的研究人员正在研究通气过度的后果。</span><span class="english">Several notable researchers are studying the effects of hyperventilation.</span></p>
 
 <p><span class="chinese">目的回答中国是否有高通气综合征患者。</span><span class="english">Objective To evidence the occurrence of hyperventilation syndrome in Chinese patients.</span></p>

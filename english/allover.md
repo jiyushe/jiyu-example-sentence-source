@@ -1,5 +1,7 @@
 # allover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allover.md)
+
 <p><span class="chinese">头部转动的全面协调印花。</span><span class="english">Head-turning allover floral print.</span></p>
 
 <p><span class="chinese">印花布嵌花编织猎豹打印。</span><span class="english">Allover intarsia knit cheetah print.</span></p>

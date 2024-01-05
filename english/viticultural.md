@@ -1,5 +1,7 @@
 # viticultural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viticultural.md)
+
 <p><span class="chinese">在酿酒师的成就很大程度上归功于他的葡萄种植的知识和专长。</span><span class="english">The winemaker's art owes much to his viticultural knowledge and expertise.</span></p>
 
 <p><span class="chinese">哥伦比亚谷产区崛起于1984年，是华盛顿州最大的葡萄种植区。</span><span class="english">Columbia Valley Was Established 1984, it's Washington's largest viticultural region.</span></p>

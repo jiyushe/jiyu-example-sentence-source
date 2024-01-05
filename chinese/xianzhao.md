@@ -1,5 +1,7 @@
 # 先兆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhao.md)
+
 <p><span class="chinese">这是暴风雪欲来的先兆。</span><span class="english">This is a sign the storm is coming.</span></p>
 
 <p><span class="chinese">那被认为是一种不幸的先兆。</span><span class="english">It is said to be an omen of misfortune.</span></p>

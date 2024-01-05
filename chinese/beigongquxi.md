@@ -1,5 +1,7 @@
 # 卑躬屈膝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beigongquxi.md)
+
 <p><span class="chinese">他对警察卑躬屈膝。</span><span class="english">He cringed before a policeman.</span></p>
 
 <p><span class="chinese">他们在女王面前卑躬屈膝。</span><span class="english">They cringed before the queen.</span></p>

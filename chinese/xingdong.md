@@ -1,5 +1,7 @@
 # 行动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingdong.md)
+
 <p><span class="chinese">制定行动计划。</span><span class="english">Plan for action.</span></p>
 
 <p><span class="chinese">要行动，不要空言。</span><span class="english">Deeds, not words.</span></p>

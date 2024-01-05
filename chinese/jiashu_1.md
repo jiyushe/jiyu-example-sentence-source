@@ -1,5 +1,7 @@
 # 家书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashu_1.md)
+
 <p><span class="chinese">好极了，象接到家书一样。</span><span class="english">Like a letter from home.</span></p>
 
 <p><span class="chinese">收到家书使他感到安慰。</span><span class="english">The letter from home comforted him.</span></p>

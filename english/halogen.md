@@ -1,5 +1,7 @@
 # halogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halogen.md)
+
 <p><span class="chinese">这些灯是射灯吗？</span><span class="english">Are those halogen lamps?</span></p>
 
 <p><span class="chinese">卤素灯消耗较多的能量。</span><span class="english">Halogen lights consume relatively more energy.</span></p>

@@ -1,5 +1,7 @@
 # 都督
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dudu.md)
+
 <p><span class="chinese">东晋国家严格控制征讨都督的设置权力。</span><span class="english">The setting power was strictly controlled by the country.</span></p>
 
 <p><span class="chinese">当时国家设置的征讨都督是以大都督为称号的。</span><span class="english">Expeditionary Dudu set up by the country at that time was titled Dadudu.</span></p>

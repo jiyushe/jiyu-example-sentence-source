@@ -1,5 +1,7 @@
 # 水柜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuigui.md)
+
 <p><span class="chinese">把水柜里的水放出来。</span><span class="english">Let the water from the tank.</span></p>
 
 <p><span class="chinese">重力水柜在哪里？</span><span class="english">Where is the gravitation tank?</span></p>

@@ -1,5 +1,7 @@
 # fraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fraction.md)
+
 <p><span class="chinese">其实是58°多一点</span><span class="english">It's 58 and a fraction.</span></p>
 
 <p><span class="chinese">是某个分数段的。</span><span class="english">Is a fraction of the paragraph.</span></p>

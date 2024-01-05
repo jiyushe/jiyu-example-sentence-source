@@ -1,5 +1,7 @@
 # 风吹雨打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengchuiyuda.md)
+
 <p><span class="chinese">一路上，风吹雨打。</span><span class="english">The wind blows, the rain drops.</span></p>
 
 <p><span class="chinese">他遭受了风吹雨打。</span><span class="english">He was exposed to wind and rain.</span></p>

@@ -1,5 +1,7 @@
 # cesspool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cesspool.md)
+
 <p><span class="chinese">网路是一个大粪坑?。</span><span class="english">Internet is a Cesspool?</span></p>
 
 <p><span class="chinese">我们都生活在谎言当中。</span><span class="english">We live in a moral cesspool of lies.</span></p>

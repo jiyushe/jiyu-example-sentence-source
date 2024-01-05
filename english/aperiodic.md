@@ -1,5 +1,7 @@
 # aperiodic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aperiodic.md)
+
 <p><span class="chinese">但是目前关于这方面定量分析的论文很少。</span><span class="english">But article on Aperiodic ticket in quantitative analysis is few.</span></p>
 
 <p><span class="chinese">随后，讨论了网络化控制系统非周期性任务的调度策略。</span><span class="english">Thirdly, the schedule strategy of the aperiodic task of NCS is studied.</span></p>

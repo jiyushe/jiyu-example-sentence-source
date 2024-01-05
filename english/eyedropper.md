@@ -1,5 +1,7 @@
 # eyedropper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyedropper.md)
+
 <p><span class="chinese">但是现在我成了一个滴管了。</span><span class="english">But I became an eyedropper.</span></p>
 
 <p><span class="chinese">空出一个吸管和填补与过氧化氢。</span><span class="english">Empty out an eyedropper and fill up it with hydrogen peroxide.</span></p>

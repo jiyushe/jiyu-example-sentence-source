@@ -1,5 +1,7 @@
 # oximeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oximeter.md)
+
 <p><span class="chinese">打开电源，接通血氧计。</span><span class="english">Turn on oximeter by activating power.</span></p>
 
 <p><span class="chinese">对比血氧计脉率与病人桡动脉搏动。</span><span class="english">Compare oximeter pulse rate with client's radial pulse.</span></p>

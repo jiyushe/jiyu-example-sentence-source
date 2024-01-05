@@ -1,5 +1,7 @@
 # 精干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinggan.md)
+
 <p><span class="chinese">这些侦察员很精干。</span><span class="english">These scouts are very shrewed and capable.</span></p>
 
 <p><span class="chinese">建立了一支专业而精干的品检队伍。</span><span class="english">It has built an inspector team with special field but capable.</span></p>

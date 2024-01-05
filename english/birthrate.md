@@ -1,5 +1,7 @@
 # birthrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birthrate.md)
+
 <p><span class="chinese">新出生率与去年相比有所下降。</span><span class="english">The new birthrate has decreased from last year's.</span></p>
 
 <p><span class="chinese">随着中国的老龄化，低出生率现象将难以逆转</span><span class="english">As China Ages, Birthrate Policy May Prove Difficult to Reverse</span></p>

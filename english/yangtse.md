@@ -1,5 +1,7 @@
 # yangtse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yangtse.md)
+
 <p><span class="chinese">你去过长江三峡吗？</span><span class="english">Have you been to the Yangtse Gorges?</span></p>
 
 <p><span class="chinese">长江怒吼势锋芒。</span><span class="english">The Yangtse River howls power cutting edge.</span></p>

@@ -1,5 +1,7 @@
 # graham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graham.md)
+
 <p><span class="chinese">电话是谁发明的？格雷汉姆·贝尔。</span><span class="english">It was invented by Graham Bell.</span></p>
 
 <p><span class="chinese">这就像一个全麦饼干沉着应战。</span><span class="english">It buckled like a graham cracker.</span></p>

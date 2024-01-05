@@ -1,5 +1,7 @@
 # basically 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basically.md)
+
 <p><span class="chinese">我基本上已经毫无感觉了。</span><span class="english">I basically had nada left.</span></p>
 
 <p><span class="chinese">基本上讲你就是个刺头。</span><span class="english">You are basically a prick.</span></p>

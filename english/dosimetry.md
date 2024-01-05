@@ -1,5 +1,7 @@
 # dosimetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dosimetry.md)
+
 <p><span class="chinese">本文还对两种ESR剂量测定方法进行了讨论。</span><span class="english">Two methods of ESR dosimetry were also discussed.</span></p>
 
 <p><span class="chinese">激光剂量学归于光辐射测量学科。</span><span class="english">Laser dosimetry belongs with the realm of optical radiometry.</span></p>

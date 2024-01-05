@@ -1,5 +1,7 @@
 # 势均力敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijunlidi.md)
+
 <p><span class="chinese">这些队伍势均力敌。</span><span class="english">The teams were well matched.</span></p>
 
 <p><span class="chinese">双方势均力敌。</span><span class="english">The two sides are well-matched.</span></p>

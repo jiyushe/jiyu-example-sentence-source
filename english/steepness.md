@@ -1,5 +1,7 @@
 # steepness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steepness.md)
+
 <p><span class="chinese">街道的陡度并非刻意为之。</span><span class="english">The street's steepness was unintentional.</span></p>
 
 <p><span class="chinese">你不会介意路途的不平或艰险</span><span class="english">But you will not mind the roughness nor the steepness of the way</span></p>

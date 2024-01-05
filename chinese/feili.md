@@ -1,5 +1,7 @@
 # 非礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feili.md)
+
 <p><span class="chinese">他们对你非礼了吗？</span><span class="english">Are they right your incivility ?</span></p>
 
 <p><span class="chinese">'一听到非礼马上反应出这是犯罪'的人。</span><span class="english">How indecorum is defined as a crime.</span></p>

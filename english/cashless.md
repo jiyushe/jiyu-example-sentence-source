@@ -1,5 +1,7 @@
 # cashless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cashless.md)
+
 <p><span class="chinese">我们的构想是一个不用现金的非洲。</span><span class="english">Our vision is a cashless Africa.</span></p>
 
 <p><span class="chinese">一个没钱的人很快穿过留洋探索。</span><span class="english">A cashless man goes fast over the market.</span></p>

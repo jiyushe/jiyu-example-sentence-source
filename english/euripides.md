@@ -1,5 +1,7 @@
 # euripides
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euripides.md)
+
 <p><span class="chinese">高尚者的美德是高尚者的纪念碑。</span><span class="english">The monuments of noble men are their virtues. Euripides P. 27</span></p>
 
 <p><span class="chinese">同样，历史如同阿里斯托芬或是欧里庇得斯所论述的那样愚蠢。</span><span class="english">And yes, it is as stupid as set forth in Aristophanes or Euripides.</span></p>

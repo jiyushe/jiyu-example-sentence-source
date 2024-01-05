@@ -1,5 +1,7 @@
 # frond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frond.md)
+
 <p><span class="chinese">一只狮鬃水母正在棕藻叶上休憩。</span><span class="english">A lion's mane jellyfish nestled in a kelp frond.</span></p>
 
 <p><span class="chinese">那条路在车子的前面和后面伸展着。</span><span class="english">The road stretches in frond of and behind the car.</span></p>

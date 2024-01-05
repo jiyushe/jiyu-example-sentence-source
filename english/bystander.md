@@ -1,5 +1,7 @@
 # bystander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bystander.md)
+
 <p><span class="chinese">一旦出现什么危险，小人总是能够自外。</span><span class="english">I am always a bystander when danger comes.</span></p>
 
 <p><span class="chinese">这个夏天不要再站在操场边，当一个旁观者了。</span><span class="english">Don’t be a bystander at the playground this Summer.</span></p>

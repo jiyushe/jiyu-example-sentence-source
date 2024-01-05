@@ -1,5 +1,7 @@
 # 主粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuliang.md)
+
 <p><span class="chinese">这种燃料要用来烘干当地的主粮玉米。</span><span class="english">The combined fuel is used to dry corn before storing it.</span></p>
 
 <p><span class="chinese">少数国家主导了主粮的国际贸易。</span><span class="english">A handful of countries dominate the global trade in staple foods.</span></p>

@@ -1,5 +1,7 @@
 # ambassador
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambassador.md)
+
 <p><span class="chinese">地铁形象大使！</span><span class="english">The ambassador for metro!</span></p>
 
 <p><span class="chinese">欢迎光临国宾大饭店。</span><span class="english">Welcome to the Ambassador Hotel.</span></p>

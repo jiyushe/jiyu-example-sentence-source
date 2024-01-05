@@ -1,5 +1,7 @@
 # gloved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gloved.md)
+
 <p><span class="chinese">他戴着手套的手笨拙地翻过了这一页。</span><span class="english">His gloved hand made a botch of turning over the page.</span></p>
 
 <p><span class="chinese">她把带着手套的小小的手放在她露在坎肩外的大腿上。</span><span class="english">One small gloved hand lay on her lap outside the shawl.</span></p>

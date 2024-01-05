@@ -1,5 +1,7 @@
 # verity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verity.md)
+
 <p><span class="chinese">但绘画的真实不同于现实的真实。</span><span class="english">But this kind of verity is different from the verity in reality.</span></p>
 
 <p><span class="chinese">广义的真理包括感性真理、理性真理和统性真理。</span><span class="english">General truth includes perceptual verity, rational verity and pure verity.</span></p>

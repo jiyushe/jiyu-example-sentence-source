@@ -1,5 +1,7 @@
 # suspensory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suspensory.md)
+
 <p><span class="chinese">不过，大多数古人类学家相信，沼猿主要是以悬吊的身子在树枝间活动。</span><span class="english">Most paleoanthropologists, however, believe that it was instead a highly suspensory animal.</span></p>
 
 <p><span class="chinese">产生激发女性荷尔蒙以及胸部的再发育，强化提韧带机能、防止下垂、萎缩。</span><span class="english">Strengthen the suspensory ligament function, prevents breast turning down or getting smaller.</span></p>

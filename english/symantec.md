@@ -1,5 +1,7 @@
 # symantec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symantec.md)
+
 <p><span class="chinese">我打电话给赛门铁克公司和他们重新激活它。</span><span class="english">I called Symantec and they re-activated it.</span></p>
 
 <p><span class="chinese">赛门铁克反病毒公司测试过。</span><span class="english">Symantec Anti-Virus corporate was tested too.</span></p>

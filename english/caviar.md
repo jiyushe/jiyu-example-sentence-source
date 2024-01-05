@@ -1,5 +1,7 @@
 # caviar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caviar.md)
+
 <p><span class="chinese">知道了，那我去找找看家里有没有鱼子酱为他准备。</span><span class="english">OK, I'll see if I can find him some caviar.</span></p>
 
 <p><span class="chinese">“这种小土豆就如同土豆中的鱼子酱，”雷哲毕说。</span><span class="english">“It’s like the caviar of potatoes,” he said.</span></p>

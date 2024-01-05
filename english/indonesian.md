@@ -1,5 +1,7 @@
 # indonesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indonesian.md)
+
 <p><span class="chinese">但现在，印尼的银行开始大发其财了。</span><span class="english">Now Indonesian banks are coining it.</span></p>
 
 <p><span class="chinese">我的母语是印尼语。</span><span class="english">My first language is Indonesian Language.</span></p>

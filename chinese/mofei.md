@@ -1,5 +1,7 @@
 # 莫非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mofei.md)
+
 <p><span class="chinese">姐你莫非倒是一位文君。</span><span class="english">She may be a lute-lover.</span></p>
 
 <p><span class="chinese">喇嘛教？莫非又是藏器。</span><span class="english">Lamaism ?Is it Tibetan ware?</span></p>

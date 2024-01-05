@@ -1,5 +1,7 @@
 # 轩昂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanang.md)
+
 <p><span class="chinese">器宇轩昂。</span><span class="english">One's deportment is dignified.</span></p>
 
 <p><span class="chinese">我看见刚刚气宇轩昂在台上陈辞的他，正把一个女孩子摁在墙上接吻。</span><span class="english">I saw just have an imposing appearance on stage in Chen Ci he, is a girl along the wall.</span></p>

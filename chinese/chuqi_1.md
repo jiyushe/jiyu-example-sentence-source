@@ -1,5 +1,7 @@
 # 出气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuqi_1.md)
+
 <p><span class="chinese">抱歉，我拿你来出气。</span><span class="english">Sorry,I took it out on you.</span></p>
 
 <p><span class="chinese">告诉阿爹，阿爹替你出气！</span><span class="english">Tell dad, the dad give vent to anger for you!</span></p>

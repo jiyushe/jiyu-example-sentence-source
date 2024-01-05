@@ -1,5 +1,7 @@
 # toenail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toenail.md)
+
 <p><span class="chinese">你应该剪一剪你的脚趾甲了。</span><span class="english">You should cut your toenail.</span></p>
 
 <p><span class="chinese">为什么大象把脚指甲染成红色？</span><span class="english">Why do elephants paint their toenail red?</span></p>

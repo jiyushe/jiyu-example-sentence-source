@@ -1,5 +1,7 @@
 # cashmere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cashmere.md)
+
 <p><span class="chinese">穿上开士米和丝绸。</span><span class="english">Wear cashmere and silk.</span></p>
 
 <p><span class="chinese">我们专营羊绒衫。</span><span class="english">We specialize in cashmere sweaters.</span></p>

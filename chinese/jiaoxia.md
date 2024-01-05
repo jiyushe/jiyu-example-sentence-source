@@ -1,5 +1,7 @@
 # 狡黠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxia.md)
+
 <p><span class="chinese">然后他墨黑的眼睛变得狡黠。</span><span class="english">Then his coal-black eyes became sly.</span></p>
 
 <p><span class="chinese">他想到许·巴吞那张严肃、狡黠的脸。</span><span class="english">He thought of Hugh Barton's grave foxy face.</span></p>

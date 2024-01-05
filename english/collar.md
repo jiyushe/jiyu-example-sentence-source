@@ -1,5 +1,7 @@
 # collar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collar.md)
+
 <p><span class="chinese">立领。</span><span class="english">Stand collar.</span></p>
 
 <p><span class="chinese">罗纹立领。</span><span class="english">Ribbed stand collar.</span></p>

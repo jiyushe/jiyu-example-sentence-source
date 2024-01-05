@@ -1,5 +1,7 @@
 # daydream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daydream.md)
+
 <p><span class="chinese">坐起来，白日做梦。</span><span class="english">Sit up and daydream.</span></p>
 
 <p><span class="chinese">我梦魂萦绕的母亲河。</span><span class="english">Daydream about my mother river.</span></p>

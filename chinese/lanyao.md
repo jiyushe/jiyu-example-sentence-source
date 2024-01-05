@@ -1,5 +1,7 @@
 # 拦腰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanyao.md)
+
 <p><span class="chinese">他们听到树木被拦腰折断。</span><span class="english">There They were hearing trees snap.</span></p>
 
 <p><span class="chinese">大坝把河水拦腰截断。</span><span class="english">The dam cuts the river in the middle.</span></p>

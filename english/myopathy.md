@@ -1,5 +1,7 @@
 # myopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myopathy.md)
+
 <p><span class="chinese">肌病最严重的形式被称作横纹肌溶解。</span><span class="english">The most serious form of myopathy is called rhabdomyolysis.</span></p>
 
 <p><span class="chinese">类固醇肌病大鼠模型的建立及其骨骼肌病变的形态学研究。</span><span class="english">Foundation of rat steroid myopathy model and its myopathological study.</span></p>

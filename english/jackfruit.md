@@ -1,5 +1,7 @@
 # jackfruit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jackfruit.md)
+
 <p><span class="chinese">树上有一粒波罗密成熟。</span><span class="english">There's a ripe jackfruit in the tree.</span></p>
 
 <p><span class="chinese">旅行的时候，我们第一次吃到了木波罗。</span><span class="english">When traveling in the southern region, I ate jackfruit for the first time.</span></p>

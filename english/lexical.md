@@ -1,5 +1,7 @@
 # lexical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lexical.md)
+
 <p><span class="chinese">扫描，也称词法分析。</span><span class="english">Scanning, or lexical analysis.</span></p>
 
 <p><span class="chinese">这是一个词汇分析器生成器</span><span class="english">Flex, a lexical analyzer generator</span></p>

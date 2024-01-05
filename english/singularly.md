@@ -1,5 +1,7 @@
 # singularly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singularly.md)
+
 <p><span class="chinese">现今的形势格外的严峻，但是这种情况不会持久。</span><span class="english">Today's situation is singularly dire, but it won't last.</span></p>
 
 <p><span class="chinese">今天的情况非常可怕，但是不会持续。</span><span class="english">Today’s situation is singularly dire, but it won’t last.</span></p>

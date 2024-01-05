@@ -1,5 +1,7 @@
 # bernard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bernard.md)
+
 <p><span class="chinese">科莱弗的圣.伯纳德。</span><span class="english">St. Bernard of Clairvaux.</span></p>
 
 <p><span class="chinese">伯纳真是个爱音乐人。</span><span class="english">Bernard is a real music lover.</span></p>

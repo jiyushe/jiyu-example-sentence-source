@@ -1,5 +1,7 @@
 # 太婆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taipo.md)
+
 <p><span class="chinese">又过三月余，钱太婆不行了。</span><span class="english">After March, not money woman.</span></p>
 
 <p><span class="chinese">我可以让太婆看我表演体操。</span><span class="english">I can show Nanny my gymnastics.</span></p>

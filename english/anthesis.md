@@ -1,5 +1,7 @@
 # anthesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthesis.md)
+
 <p><span class="chinese">盛花期约有访花昆虫15种。</span><span class="english">At anthesis 15 species of visiting insects were observed.</span></p>
 
 <p><span class="chinese">花后籽粒含水量则不断下降。</span><span class="english">Grain water content declined continuously after anthesis.</span></p>

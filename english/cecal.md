@@ -1,5 +1,7 @@
 # cecal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cecal.md)
+
 <p><span class="chinese">此图所示的为盲肠扭转。</span><span class="english">This is an example of cecal volvulus.</span></p>
 
 <p><span class="chinese">盲肠扭转，肠扭转是肠的扭曲缠绕。</span><span class="english">This is an example of cecal volvulus. Volvulus is a twisting of the bowel.</span></p>

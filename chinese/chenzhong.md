@@ -1,5 +1,7 @@
 # 沉重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenzhong.md)
+
 <p><span class="chinese">沉重的脚步声。</span><span class="english">A heavy footfall.</span></p>
 
 <p><span class="chinese">砖块是沉重的。</span><span class="english">The brick is heavy.</span></p>

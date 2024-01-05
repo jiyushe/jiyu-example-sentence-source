@@ -1,5 +1,7 @@
 # 喷头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pentou.md)
+
 <p><span class="chinese">自动墨盏式喷头保护装置。</span><span class="english">Automatic ink cup printhead protection device.</span></p>
 
 <p><span class="chinese">却看到了身后的淋浴喷头</span><span class="english">Instead, I see the shower reflected behind me.</span></p>

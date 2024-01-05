@@ -1,5 +1,7 @@
 # 吏治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizhi.md)
+
 <p><span class="chinese">范仲淹的吏治思想非常丰富。</span><span class="english">Fan Zhongyan s thoughts of official management are rich.</span></p>
 
 <p><span class="chinese">从表面来看，塞舌尔很富有，吏治清明。</span><span class="english">To the casual eye, Seychelles seems both fortunate and well-governed.</span></p>

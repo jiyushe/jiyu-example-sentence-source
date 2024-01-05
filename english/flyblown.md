@@ -1,5 +1,7 @@
 # flyblown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flyblown.md)
+
 <p><span class="chinese">二是在裱画的时候，一定要特别的小心，必须先戴好白色的手套，以免弄脏。</span><span class="english">The mounting paintings, must be careful, you must wear a white gloves, lest flyblown.</span></p>
 
 <p><span class="chinese">因为墙面轻易弄脏，有小孩的家庭更会为涂鸦而伤透脑筋。</span><span class="english">Because metope is easy flyblown , the family that has a child can be doodle more and the injury shows head.</span></p>

@@ -1,5 +1,7 @@
 # homecoming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homecoming.md)
+
 <p><span class="chinese">你有同学会吗？</span><span class="english">Do you have any homecoming?</span></p>
 
 <p><span class="chinese">这即是归返和回到家乡。</span><span class="english">This is a return and a homecoming.</span></p>

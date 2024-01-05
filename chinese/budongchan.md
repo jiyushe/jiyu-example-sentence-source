@@ -1,5 +1,7 @@
 # 不动产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budongchan.md)
+
 <p><span class="chinese">土地被称为不动产。</span><span class="english">Land is referred to as realty.</span></p>
 
 <p><span class="chinese">第三章是对不动产有偿转让税的研究。</span><span class="english">Chapter 3 studies estate transfer tax.</span></p>

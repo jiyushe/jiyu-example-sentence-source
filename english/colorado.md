@@ -1,5 +1,7 @@
 # colorado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorado.md)
+
 <p><span class="chinese">是的，我曾去科罗拉多河上漂流过。</span><span class="english">Yes. I've kayaked on the Colorado River.</span></p>
 
 <p><span class="chinese">马宏与他在科罗拉多州的前妻通了电话。</span><span class="english">Mahone calls his ex-wife Pam in Colorado.</span></p>

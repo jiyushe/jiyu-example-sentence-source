@@ -1,5 +1,7 @@
 # miscellany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miscellany.md)
+
 <p><span class="chinese">歌曲又有舞蹈的混合表演。</span><span class="english">The show was a miscellany of song and dance.</span></p>
 
 <p><span class="chinese">那是有歌曲和舞蹈的混合表演。</span><span class="english">The show was a miscellany of song and dance.</span></p>

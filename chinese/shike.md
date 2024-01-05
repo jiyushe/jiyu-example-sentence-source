@@ -1,5 +1,7 @@
 # 石刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shike.md)
+
 <p><span class="chinese">楠木雕成的，简直像是石刻一样。</span><span class="english">From Nanmu , it looks like stone.</span></p>
 
 <p><span class="chinese">就你，还懂研究石刻？</span><span class="english">You also understand stone carvings?</span></p>

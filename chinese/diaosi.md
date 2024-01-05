@@ -1,5 +1,7 @@
 # 吊死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaosi.md)
+
 <p><span class="chinese">真该把他吊死。</span><span class="english">He should be strung up!</span></p>
 
 <p><span class="chinese">汤姆‧杜利必须被吊死。</span><span class="english">Tom Dooley must be hanged.</span></p>

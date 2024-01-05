@@ -1,5 +1,7 @@
 # 祝愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyuan_1.md)
+
 <p><span class="chinese">顺致最好的祝愿。</span><span class="english">With our best wishes.</span></p>
 
 <p><span class="chinese">祝愿你们一路顺风…</span><span class="english">May you have a fine trip.</span></p>

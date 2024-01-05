@@ -1,5 +1,7 @@
 # challenged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/challenged.md)
+
 <p><span class="chinese">他给我挑战。</span><span class="english">He challenged me.</span></p>
 
 <p><span class="chinese">你不能，“她说道。</span><span class="english">You don't," she challenged.</span></p>

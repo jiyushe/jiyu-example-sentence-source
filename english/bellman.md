@@ -1,5 +1,7 @@
 # bellman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bellman.md)
+
 <p><span class="chinese">我会让服务员去帮您。</span><span class="english">I'll send a bellman to help.</span></p>
 
 <p><span class="chinese">姐姐的后夫只是一个传达员。</span><span class="english">Her second husband was a bellman.</span></p>

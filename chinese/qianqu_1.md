@@ -1,5 +1,7 @@
 # 前驱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianqu_1.md)
+
 <p><span class="chinese">李大钊是中国革命的前驱。</span><span class="english">Li Dazhao was a pioneer of the Chinese revolution.</span></p>
 
 <p><span class="chinese">目的调查与分析精神分裂症患者的前驱症状。</span><span class="english">Objective To probe the prodromal symptoms in schizophrenia.</span></p>

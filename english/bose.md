@@ -1,5 +1,7 @@
 # bose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bose.md)
+
 <p><span class="chinese">贝尔曼嚷道，谁说我不愿意来着？</span><span class="english">Yelled Behrman. Who said I vill not bose?</span></p>
 
 <p><span class="chinese">百色哪里有洞箫学习?。</span><span class="english">Where does Bose have vertical bamboo flute to study?</span></p>

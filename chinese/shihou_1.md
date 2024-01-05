@@ -1,5 +1,7 @@
 # 侍候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihou_1.md)
+
 <p><span class="chinese">我乐意侍候你，杰克。</span><span class="english">I love to serve you, Jack.</span></p>
 
 <p><span class="chinese">他殷勤地侍候她。</span><span class="english">He danced attendance on her.</span></p>

@@ -1,5 +1,7 @@
 # beholder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beholder.md)
+
 <p><span class="chinese">美存在于欣赏者的眼中。</span><span class="english">Beauty is in the eyes of the beholder.</span></p>
 
 <p><span class="chinese">你知道，这种东西逃不过目光专注的人。</span><span class="english">You know it's always in the eye of the beholder.</span></p>

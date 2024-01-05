@@ -1,5 +1,7 @@
 # mon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mon.md)
+
 <p><span class="chinese">我的上帝！我听到了她的声音！</span><span class="english">Mon Dieu , I hear her!</span></p>
 
 <p><span class="chinese">他下周一要和我见面。</span><span class="english">He will meet me next Mon.</span></p>

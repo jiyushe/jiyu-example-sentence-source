@@ -1,5 +1,7 @@
 # tuesdays
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuesdays.md)
+
 <p><span class="chinese">我有艺术在每星期二。</span><span class="english">I have art on Tuesdays.</span></p>
 
 <p><span class="chinese">她每星期二见客。</span><span class="english">She receives on Tuesdays.</span></p>

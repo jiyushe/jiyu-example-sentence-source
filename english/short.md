@@ -1,5 +1,7 @@
 # short
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/short.md)
+
 <p><span class="chinese">保持其简短。</span><span class="english">Keep them short.</span></p>
 
 <p><span class="chinese">这个盒子很矮。</span><span class="english">This box is short.</span></p>

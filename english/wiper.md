@@ -1,5 +1,7 @@
 # wiper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wiper.md)
+
 <p><span class="chinese">我需要黑板擦。</span><span class="english">I need my wiper.</span></p>
 
 <p><span class="chinese">她们仅仅是想要雨刷。</span><span class="english">They just wanted the wiper.</span></p>

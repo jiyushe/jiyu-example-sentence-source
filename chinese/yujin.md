@@ -1,5 +1,7 @@
 # 于今
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yujin.md)
+
 <p><span class="chinese">多谢黄志强牧师于今主日在本会证道。</span><span class="english">We thank Rev. Tim Wong's preaching at our church today.</span></p>
 
 <p><span class="chinese">吉尔伽美什是乌鲁克的国王，这个王国位于今伊拉克境内。</span><span class="english">Gilgamesh was a king of Uruk, which now lies within the borders of Iraq.</span></p>

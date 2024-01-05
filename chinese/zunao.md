@@ -1,5 +1,7 @@
 # 阻挠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunao.md)
+
 <p><span class="chinese">这是一个自我阻挠的系统。</span><span class="english">It is a self- thwarting system.</span></p>
 
 <p><span class="chinese">他以冗长的演说阻挠了那项动议的通过。</span><span class="english">He stonewalled against the motion.</span></p>

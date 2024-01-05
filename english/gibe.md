@@ -1,5 +1,7 @@
 # gibe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gibe.md)
+
 <p><span class="chinese">人家的嘲笑令他脑子针扎似地作痛。</span><span class="english">The gibe smarted in his brain.</span></p>
 
 <p><span class="chinese">“请不要嘲笑我，”利迪娅说。</span><span class="english">“Please don’t gibe me,” Lydia said.</span></p>

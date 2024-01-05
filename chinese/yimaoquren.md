@@ -1,5 +1,7 @@
 # 以貌取人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimaoquren.md)
+
 <p><span class="chinese">不要以貌取人。</span><span class="english">Don't judge people by their looks.</span></p>
 
 <p><span class="chinese">人们会以貌取人。</span><span class="english">People judge you based on your appearance,</span></p>

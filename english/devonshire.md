@@ -1,5 +1,7 @@
 # devonshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devonshire.md)
+
 <p><span class="chinese">他本人也是一名法官，主要在德文夏工作。</span><span class="english">He was a judge himself, working mostly in Devonshire.</span></p>
 
 <p><span class="chinese">那就是他在学校关闭之后搬到德文郡的原因所在。</span><span class="english">That is why he moved to Devonshire when the school closed.</span></p>

@@ -1,5 +1,7 @@
 # 规格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guige.md)
+
 <p><span class="chinese">你能够冲印出很不错的8x10规格的相片。</span><span class="english">You can print a nice 8x10.</span></p>
 
 <p><span class="chinese">特殊规格另行设计承造。</span><span class="english">Special design upon request.</span></p>

@@ -1,5 +1,7 @@
 # mora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mora.md)
+
 <p><span class="chinese">一堆人想要决定一些事，猜拳吗?。</span><span class="english">A bunch of people want to decide something, mora it?</span></p>
 
 <p><span class="chinese">莫拉和萨拉饥饿地看着疣猪逃跑了。</span><span class="english">Mora and Zara watch hungrily as the warthog makes its getaway.</span></p>

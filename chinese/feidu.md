@@ -1,5 +1,7 @@
 # 非独
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feidu.md)
+
 <p><span class="chinese">非独肺也-。</span><span class="english">Non-alone lung also -.</span></p>
 
 <p><span class="chinese">这个许可证既是非独家、又是不可转让的。</span><span class="english">The license is both nonexclusive and nontransferable.</span></p>

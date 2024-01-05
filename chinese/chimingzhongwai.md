@@ -1,5 +1,7 @@
 # 驰名中外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chimingzhongwai.md)
+
 <p><span class="chinese">深州蜜桃驰名中外，有1900多年的历史。</span><span class="english">Ahernaria famous, there are 1900 years of history.</span></p>
 
 <p><span class="chinese">石岛红矿山驰名中外被誉为“中国石材第一矿”。</span><span class="english">" Shidao red mine famous and known as "the first mine of stone.</span></p>

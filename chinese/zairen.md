@@ -1,5 +1,7 @@
 # 在任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zairen.md)
+
 <p><span class="chinese">能量的总和在任何时保持不变。</span><span class="english">The sum of energy during any keeps unchangeably.</span></p>
 
 <p><span class="chinese">小亚当总统在任时期，美国没发作什么严重事情。</span><span class="english">Very little happened while J. Q. Adams was President.</span></p>

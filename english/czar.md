@@ -1,5 +1,7 @@
 # czar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/czar.md)
+
 <p><span class="chinese">没有人诅咒沙皇。</span><span class="english">None curse the Czar.</span></p>
 
 <p><span class="chinese">沙皇是很辛苦的</span><span class="english">Being a czar was a busy job.</span></p>

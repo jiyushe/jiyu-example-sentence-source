@@ -1,5 +1,7 @@
 # 养老院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanglaoyuan.md)
+
 <p><span class="chinese">那座红顶房子属于一家养老院。</span><span class="english">The red-roof houses belong to an old people's home.</span></p>
 
 <p><span class="chinese">几年前，汉纳把她母亲送到了养老院。</span><span class="english">Hannah had to place her mother in a nursing home years ago.</span></p>

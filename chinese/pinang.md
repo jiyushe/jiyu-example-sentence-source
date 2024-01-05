@@ -1,5 +1,7 @@
 # 皮囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinang.md)
+
 <p><span class="chinese">这肉体只是一具皮囊！</span><span class="english">This flesh is only flesh!</span></p>
 
 <p><span class="chinese">我在我自己皮囊里感到怎样舒服？</span><span class="english">How comfortable am I in my own skin?</span></p>

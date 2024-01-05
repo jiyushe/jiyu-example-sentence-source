@@ -1,5 +1,7 @@
 # 战报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanbao.md)
+
 <p><span class="chinese">这名士兵在战报中受到提名表扬。</span><span class="english">The soldier was mentioned in dispatches.</span></p>
 
 <p><span class="chinese">这名士兵在战报中受到提名表扬。</span><span class="english">Who will get the nomination for president?</span></p>

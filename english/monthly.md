@@ -1,5 +1,7 @@
 # monthly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monthly.md)
+
 <p><span class="chinese">月产量多少？</span><span class="english">What's the monthly output?</span></p>
 
 <p><span class="chinese">您可以买月票。</span><span class="english">You can buy a monthly pass.</span></p>

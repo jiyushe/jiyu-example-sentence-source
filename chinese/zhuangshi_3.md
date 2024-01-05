@@ -1,5 +1,7 @@
 # 壮士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangshi_3.md)
+
 <p><span class="chinese">烈火试真金，困难炼壮士。</span><span class="english">Fire is the test of gold.</span></p>
 
 <p><span class="chinese">必先摆捆住那壮士，才可以抢夺他的家。</span><span class="english">Then he can rob his house.</span></p>

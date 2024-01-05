@@ -1,5 +1,7 @@
 # mux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mux.md)
+
 <p><span class="chinese">多工器，充分照顾到所有的辛勤工作。</span><span class="english">Mux takes care of all of the hard work.</span></p>
 
 <p><span class="chinese">最好的理由使用多工器是轻松转换过程。</span><span class="english">The best reason for using Mux is the easy to convert process.</span></p>

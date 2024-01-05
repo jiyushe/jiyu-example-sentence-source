@@ -1,5 +1,7 @@
 # 上演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangyan.md)
+
 <p><span class="chinese">这剧本上演的效果好。</span><span class="english">The play acts well.</span></p>
 
 <p><span class="chinese">这剧团在上演“马克白”。</span><span class="english">The group is doing "Macbeth".</span></p>

@@ -1,5 +1,7 @@
 # adequately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adequately.md)
+
 <p><span class="chinese">巴比特付了款，有分寸地说。</span><span class="english">Babbitt paid his bill, said adequately.</span></p>
 
 <p><span class="chinese">马克的心脏病属于特发性扩大型心肌炎，已经无法为身体其他器官输送足够的血液。</span><span class="english">Mark's enlarged heart was failing to pump blood adequately.</span></p>

@@ -1,5 +1,7 @@
 # 远望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanwang.md)
+
 <p><span class="chinese">你好！我系熊远望。</span><span class="english">Hello! I'm Yervant Hsung.</span></p>
 
 <p><span class="chinese">放眼远望，海天一色。</span><span class="english">Far-sighted, sea and sky merged.</span></p>

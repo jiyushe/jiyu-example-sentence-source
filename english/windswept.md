@@ -1,5 +1,7 @@
 # windswept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windswept.md)
+
 <p><span class="chinese">这周围的乡村风多石头多。</span><span class="english">The surrounding countryside is windswept and rocky.</span></p>
 
 <p><span class="chinese">微风吹拂沙丘和挥舞草边境大西洋。</span><span class="english">Windswept dunes and waving grasses border the Atlantic Ocean.</span></p>

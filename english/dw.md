@@ -1,5 +1,7 @@
 # dw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dw.md)
+
 <p><span class="chinese">在流泪，孙答应他会干重等。</span><span class="english">In tears, Sun promised he would dw so.</span></p>
 
 <p><span class="chinese">现在得到了dw和du，dv关系。</span><span class="english">And now we have a relation between dw and du and dv.</span></p>

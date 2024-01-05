@@ -1,5 +1,7 @@
 # herculean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herculean.md)
+
 <p><span class="chinese">力大无比的二丫起了主要效果。</span><span class="english">Herculean ya up two main effect.</span></p>
 
 <p><span class="chinese">须在极困难情况下工作的消防队员。</span><span class="english">They have taken on a Herculean task.</span></p>

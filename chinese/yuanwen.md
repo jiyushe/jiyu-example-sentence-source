@@ -1,5 +1,7 @@
 # 原文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanwen.md)
+
 <p><span class="chinese">原文如次。</span><span class="english">The text is as follows.</span></p>
 
 <p><span class="chinese">所以片名原文才取作，“第三人。</span><span class="english">So here comes The Third Man.</span></p>

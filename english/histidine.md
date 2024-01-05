@@ -1,5 +1,7 @@
 # histidine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histidine.md)
+
 <p><span class="chinese">组氨酸和脯氨酸是人体和动物必需的氨基酸。</span><span class="english">Histidine and proline are necessary amino acids for man and animal.</span></p>
 
 <p><span class="chinese">DECR1基因基因型BB对组氨酸与赖氨酸有一定的负面影响。</span><span class="english">Genotype BB of DECR1 is negatived correlation with histidine and lysine.</span></p>

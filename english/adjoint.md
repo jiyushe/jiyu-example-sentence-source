@@ -1,5 +1,7 @@
 # adjoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjoint.md)
+
 <p><span class="chinese">反向积分伴随方程的时间可以缩短。</span><span class="english">The time to integrate adjoint equations can be shortened.</span></p>
 
 <p><span class="chinese">执行特种任务的警察可以携带武器。</span><span class="english">Adjoint orbit of spacecraft can perform various specific missions.</span></p>

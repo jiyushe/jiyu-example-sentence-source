@@ -1,5 +1,7 @@
 # 僵冷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangleng.md)
+
 <p><span class="chinese">躺着她僵冷的手掌。</span><span class="english">Lays her dyiny hand.</span></p>
 
 <p><span class="chinese">一举越过了你僵冷的反映。</span><span class="english">You've reached beyond your cold reflections.</span></p>

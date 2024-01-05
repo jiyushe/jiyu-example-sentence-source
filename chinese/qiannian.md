@@ -1,5 +1,7 @@
 # 前年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiannian.md)
+
 <p><span class="chinese">我是前年夏天的时候读的。</span><span class="english">I read it the summer before last.</span></p>
 
 <p><span class="chinese">李教授十前年退休的。</span><span class="english">Perfessor Lee retired ten years ago.</span></p>

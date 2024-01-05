@@ -1,5 +1,7 @@
 # cerebrospinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cerebrospinal.md)
+
 <p><span class="chinese">目的探讨脑脊液鼻漏的治疗方法。</span><span class="english">A research to treatment of cerebrospinal rhinorrhea.</span></p>
 
 <p><span class="chinese">他父母患有严重的脑脊髓疾病。</span><span class="english">His parents are suffering from severe cerebrospinal diseases.</span></p>

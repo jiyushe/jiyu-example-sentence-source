@@ -1,5 +1,7 @@
 # 刷刷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuashua.md)
+
 <p><span class="chinese">树叶在微风中刷刷作响。</span><span class="english">Leaves rustled in the breeze.</span></p>
 
 <p><span class="chinese">这双鞋需要用鞋刷刷一下。</span><span class="english">These shoes need a shoe brush.</span></p>

@@ -1,5 +1,7 @@
 # unprivileged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unprivileged.md)
+
 <p><span class="chinese">优先权作为一项古老的特权，是为了保护弱者利益而生的。</span><span class="english">Priority is an ancient privilege born to protect the unprivileged.</span></p>
 
 <p><span class="chinese">预设情况下，在运行时将选择一个可用的无特权埠。</span><span class="english">By default an available unprivileged port will be chosen at runtime.</span></p>

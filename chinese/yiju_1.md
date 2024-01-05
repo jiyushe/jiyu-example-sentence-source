@@ -1,5 +1,7 @@
 # 义举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiju_1.md)
+
 <p><span class="chinese">这项义举在当时成了中国新闻头条。</span><span class="english">The act made headlines in China at the time.</span></p>
 
 <p><span class="chinese">而这一阶段连续刺杀日本人的义举，就是她所为。</span><span class="english">This stage of continuous Japanese assassination act, is what she is.</span></p>

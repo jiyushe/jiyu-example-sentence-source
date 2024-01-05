@@ -1,5 +1,7 @@
 # lunge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lunge.md)
+
 <p><span class="chinese">这孩子的弓箭步真标准！</span><span class="english">The forward lunge of this child is very standard.</span></p>
 
 <p><span class="chinese">转换到这个体式，像是单腿后迈的体式一样。</span><span class="english">Transition to a lunge like pose on the step back.</span></p>

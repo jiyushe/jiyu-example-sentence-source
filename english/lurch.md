@@ -1,5 +1,7 @@
 # lurch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lurch.md)
+
 <p><span class="chinese">可怜的西而维亚在危难中被人遗弃了。</span><span class="english">Poor Sylvia got left in the lurch.</span></p>
 
 <p><span class="chinese">船的右舷突然倾侧。</span><span class="english">The boat gave a lurch to starboard.</span></p>

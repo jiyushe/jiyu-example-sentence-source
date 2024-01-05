@@ -1,5 +1,7 @@
 # corpora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corpora.md)
+
 <p><span class="chinese">图示成年人卵巢，可见两个黄体。</span><span class="english">This is an adult ovary with two corpora lutea.</span></p>
 
 <p><span class="chinese">语料库在词典编纂中具有强大的优势。</span><span class="english">It turns out that Corpora have great advantages in lexicography.</span></p>

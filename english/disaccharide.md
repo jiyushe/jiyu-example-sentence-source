@@ -1,5 +1,7 @@
 # disaccharide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disaccharide.md)
+
 <p><span class="chinese">每一种双糖都是由两个单糖组成。</span><span class="english">Each disaccharide is composed of two monosaccharides.</span></p>
 
 <p><span class="chinese">结果RV肠炎大便中的双糖明显增加。</span><span class="english">Results The disaccharide in the RV enteritis is obviously increase.</span></p>

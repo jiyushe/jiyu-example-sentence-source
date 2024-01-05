@@ -1,5 +1,7 @@
 # 省事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshi_4.md)
+
 <p><span class="chinese">我也一直试着不去惹是生非，所以他们也省事了。</span><span class="english">I’ve always tried to stay out of trouble so they never have to.</span></p>
 
 <p><span class="chinese">微波炉晚餐和实时餐点使得在家烧饭省事又快速。</span><span class="english">Microwave dinners and instant foods make cooking at home a snap.</span></p>

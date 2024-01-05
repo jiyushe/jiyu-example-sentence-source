@@ -1,5 +1,7 @@
 # 会试
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huishi.md)
+
 <p><span class="chinese">我的话会试着跟唱低音部。</span><span class="english">What I do is try to sing the bass.</span></p>
 
 <p><span class="chinese">他会试着吸引你的注意力。</span><span class="english">He'll try to attract your attention.</span></p>

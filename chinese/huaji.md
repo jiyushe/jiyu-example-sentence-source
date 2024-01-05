@@ -1,5 +1,7 @@
 # 滑稽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaji.md)
+
 <p><span class="chinese">你认为这很滑稽么？</span><span class="english">You think this is funny?</span></p>
 
 <p><span class="chinese">那曲新戏剧极为滑稽可笑。</span><span class="english">The new play was a scream.</span></p>

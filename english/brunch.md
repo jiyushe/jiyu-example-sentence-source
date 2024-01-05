@@ -1,5 +1,7 @@
 # brunch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brunch.md)
+
 <p><span class="chinese">第二天去河边吃早午餐？</span><span class="english">Brunch by the river the next day?</span></p>
 
 <p><span class="chinese">还有，也许要避开星期天的早午餐。</span><span class="english">And perhaps avoid that Sunday brunch.</span></p>

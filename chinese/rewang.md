@@ -1,5 +1,7 @@
 # 热望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rewang.md)
+
 <p><span class="chinese">不要可怜我，虽然你不再看我一眼，热望已退。</span><span class="english">And you no longer look with love on me.</span></p>
 
 <p><span class="chinese">热望的泪是深深的雨幕。</span><span class="english">The yearning tears are the deep rain and curtain.</span></p>

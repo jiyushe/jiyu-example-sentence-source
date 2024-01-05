@@ -1,5 +1,7 @@
 # 天府之国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianfuzhiguo.md)
+
 <p><span class="chinese">四川被称为“天府之国”。</span><span class="english">Sichuan is noted as the “Land of Abundance”.</span></p>
 
 <p><span class="chinese">四川还有一个别称，天府之国。</span><span class="english">Sichuanalso has a nickname, Land of Abundance.</span></p>

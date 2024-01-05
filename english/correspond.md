@@ -1,5 +1,7 @@
 # correspond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correspond.md)
+
 <p><span class="chinese">你的说法和她的说法一致。</span><span class="english">Your accout and hers correspond.</span></p>
 
 <p><span class="chinese">这些数字与目前的美洲勒芒网格计算。</span><span class="english">These figures correspond to the present GT3.</span></p>

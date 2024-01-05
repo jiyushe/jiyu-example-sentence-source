@@ -1,5 +1,7 @@
 # tennessee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tennessee.md)
+
 <p><span class="chinese">我画了三幅田纳西的肖像。</span><span class="english">I did three big portraits of Tennessee.</span></p>
 
 <p><span class="chinese">我记得那一夜和那首田纳西华尔滋。</span><span class="english">I remember the night and the Tennessee Waltz.</span></p>

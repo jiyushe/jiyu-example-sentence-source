@@ -1,5 +1,7 @@
 # dbh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dbh.md)
+
 <p><span class="chinese">随距阔叶树基干距离的增加，新竹平均胸径迅速增加。</span><span class="english">The average DBH of new bamboo increased with the increasing distance from the tree.</span></p>
 
 <p><span class="chinese">反之，胸径分化严重，且劣势木所占比重大，此时感病指数大。</span><span class="english">On the other hand, infectious index was larger in stands with big DBH differentiation.</span></p>

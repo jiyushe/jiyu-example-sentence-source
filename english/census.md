@@ -1,5 +1,7 @@
 # census
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/census.md)
+
 <p><span class="chinese">阿进行普查每十年一次。</span><span class="english">A census is carried out once a decade.</span></p>
 
 <p><span class="chinese">我认为你说的是人口普查。</span><span class="english">No Brian, I think you mean for the census.</span></p>

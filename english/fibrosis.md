@@ -1,5 +1,7 @@
 # fibrosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibrosis.md)
+
 <p><span class="chinese">另一例是囊胞性纤维症</span><span class="english">Another example is cystic fibrosis.</span></p>
 
 <p><span class="chinese">结果提示施普瑞对实验性肝纤维化有防治作用。</span><span class="english">Spirin can prevent the formation of liver fibrosis.</span></p>

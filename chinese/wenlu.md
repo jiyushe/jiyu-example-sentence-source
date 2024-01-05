@@ -1,5 +1,7 @@
 # 纹路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenlu.md)
+
 <p><span class="chinese">唱针正循着唱片纹路移动。</span><span class="english">The stylus is traveling in a groove.</span></p>
 
 <p><span class="chinese">他那褐色的脸因忧愁而有一条一条纹路。</span><span class="english">His brown face was seamed with sorrow.</span></p>

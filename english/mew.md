@@ -1,5 +1,7 @@
 # mew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mew.md)
+
 <p><span class="chinese">其中一只猫叫得声音更大。</span><span class="english">One cat has a greater mew.</span></p>
 
 <p><span class="chinese">这家新商店将在下个月开张。</span><span class="english">The mew store opens up next month.</span></p>

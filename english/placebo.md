@@ -1,5 +1,7 @@
 # placebo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placebo.md)
+
 <p><span class="chinese">安慰剂组服法同治疗组。</span><span class="english">The placebo group is the same.</span></p>
 
 <p><span class="chinese">第三群人吃的则是安慰剂。</span><span class="english">And a third group received a placebo.</span></p>

@@ -1,5 +1,7 @@
 # abscond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abscond.md)
+
 <p><span class="chinese">他并没有潜逃国外。</span><span class="english">He did not abscond abroad.</span></p>
 
 <p><span class="chinese">他不太可能会潜逃。</span><span class="english">He is unlikely to abscond.</span></p>

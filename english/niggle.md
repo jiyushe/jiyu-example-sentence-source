@@ -1,5 +1,7 @@
 # niggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niggle.md)
+
 <p><span class="chinese">他就喜欢在小事儿上操心。</span><span class="english">It's difficult for him not to niggle.</span></p>
 
 <p><span class="chinese">他的右肩有时感到轻微的疼痛。</span><span class="english">He gets the occasional niggle in his right shoulder.</span></p>

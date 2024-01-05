@@ -1,5 +1,7 @@
 # 捉对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuodui.md)
+
 <p><span class="chinese">军人们会面对面捉对厮杀。</span><span class="english">Soldiers would come face to face with one another to fight.</span></p>
 
 <p><span class="chinese">一星期结束，所有舰队将摆开阵型，捉对交战。</span><span class="english">The fleets then squared off against one another in the course of a weekend.</span></p>

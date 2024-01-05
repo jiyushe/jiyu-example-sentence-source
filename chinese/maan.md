@@ -1,5 +1,7 @@
 # 马鞍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maan.md)
+
 <p><span class="chinese">它看起来像一个马鞍。</span><span class="english">It looks like a saddle.</span></p>
 
 <p><span class="chinese">在或者像在横座马鞍上。</span><span class="english">On or as if on a sidesaddle.</span></p>

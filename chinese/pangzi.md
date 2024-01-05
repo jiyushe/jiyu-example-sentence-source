@@ -1,5 +1,7 @@
 # 胖子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangzi.md)
+
 <p><span class="chinese">她是个大胖子。</span><span class="english">She is a fatso.</span></p>
 
 <p><span class="chinese">你好吗胖子？</span><span class="english">How you doing, fatso?</span></p>

@@ -1,5 +1,7 @@
 # ouster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ouster.md)
+
 <p><span class="chinese">卡扎菲暴躁蔑视的图像，面对罢黜在不断地闪烁着。</span><span class="english">Images of Gadhafi's fiery defiance flashed in the face of ouster.</span></p>
 
 <p><span class="chinese">首先是对驱逐萨莫斯校长迎来新校长的担忧。</span><span class="english">First is concern over the implications of Summers' ouster for an incoming president.</span></p>

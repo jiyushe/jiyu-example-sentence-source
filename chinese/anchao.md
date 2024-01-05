@@ -1,5 +1,7 @@
 # 暗潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anchao.md)
+
 <p><span class="chinese">而谁又能平复暗潮，告诉它何去何从？</span><span class="english">But who could tame the tide away and tell it where to go?</span></p>
 
 <p><span class="chinese">在貌似平静的职工持股会外表下面，其实是暗潮涌动。</span><span class="english">In the seemingly calm facade ESOP Association is actually surging undercurrent.</span></p>

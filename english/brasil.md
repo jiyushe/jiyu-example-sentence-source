@@ -1,5 +1,7 @@
 # brasil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brasil.md)
+
 <p><span class="chinese">没有理由去改变巴西站的结果。</span><span class="english">There were no reasons to change the result in Brasil.</span></p>
 
 <p><span class="chinese">提供巴西进口矿石散杂船服务！</span><span class="english">Offer the Break Bulk service frm Brasil to China about Iron Ore.</span></p>

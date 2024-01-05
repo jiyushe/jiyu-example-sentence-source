@@ -1,5 +1,7 @@
 # 入眠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rumian.md)
+
 <p><span class="chinese">暗夜里，不能拥你入眠。</span><span class="english">And in the night, I could be helpless.</span></p>
 
 <p><span class="chinese">孩子在我的臂弯里安静入眠</span><span class="english">Having my kids fall asleep in my arms.</span></p>

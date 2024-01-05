@@ -1,5 +1,7 @@
 # carrying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carrying.md)
+
 <p><span class="chinese">他们运出去的是什么？</span><span class="english">What are they carrying?</span></p>
 
 <p><span class="chinese">我家的母牛又怀胎了。</span><span class="english">Our cow is carrying again.</span></p>

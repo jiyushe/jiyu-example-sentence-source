@@ -1,5 +1,7 @@
 # coprocessor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coprocessor.md)
+
 <p><span class="chinese">FPGA作为协处理器完成图像的采集和预处理。</span><span class="english">The FPGA was used as a coprocessor for image acquisition and pre-processing.</span></p>
 
 <p><span class="chinese">文章介绍了一种新的嵌入式SIMD协处理器地址产生器。</span><span class="english">A new address generator of the embeded SIMD coprocessor is introduced in this paper.</span></p>

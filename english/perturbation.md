@@ -1,5 +1,7 @@
 # perturbation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perturbation.md)
+
 <p><span class="chinese">妙手随意摄奇迹。</span><span class="english">Painters to random perturbation miracle.</span></p>
 
 <p><span class="chinese">动摇了NGN业务模型的基础。</span><span class="english">It perturbation the basic of NGN business model.</span></p>

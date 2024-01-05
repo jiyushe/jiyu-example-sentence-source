@@ -1,5 +1,7 @@
 # backhanded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backhanded.md)
+
 <p><span class="chinese">那倒是一则讥讽的恭维话。</span><span class="english">That's rather a backhanded compliment.</span></p>
 
 <p><span class="chinese">那倒是一则挖苦的恭维话。</span><span class="english">A backhanded shot into the opponent's court.</span></p>

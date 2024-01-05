@@ -1,5 +1,7 @@
 # sadder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sadder.md)
+
 <p><span class="chinese">离婚让他吃一堑，长一智。</span><span class="english">The divorce left him a sadder but a wiser man.</span></p>
 
 <p><span class="chinese">每次接到爱子的来信都更加令人悲伤。</span><span class="english">Sadder were the times when letters came from Aiko.</span></p>

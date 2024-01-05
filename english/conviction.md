@@ -1,5 +1,7 @@
 # conviction 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conviction.md)
+
 <p><span class="chinese">这一点我确信不疑。</span><span class="english">I say this with conviction.</span></p>
 
 <p><span class="chinese">不过，定罪来自上帝。</span><span class="english">But conviction comes from God.</span></p>

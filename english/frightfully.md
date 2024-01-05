@@ -1,5 +1,7 @@
 # frightfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frightfully.md)
+
 <p><span class="chinese">恐怕我是来得太迟了。</span><span class="english">Anne is so frightfully spoilt.</span></p>
 
 <p><span class="chinese">达林先生心里好不羞愧，可是他偏不肯让步。</span><span class="english">Mr. Darling was frightfully ashamed of himself, but he would not give in.</span></p>

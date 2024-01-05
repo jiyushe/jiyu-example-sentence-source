@@ -1,5 +1,7 @@
 # edta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edta.md)
+
 <p><span class="chinese">乙二胺四乙酸铁钠为面包中适宜的铁强化剂。</span><span class="english">The sodium ferric EDTA was a good iron source in bread.</span></p>
 
 <p><span class="chinese">采用EDTA减量滴定法测定固体饮料中的微量铜。</span><span class="english">Trace copper in powdered drinks is determined by the EDTA titrimetry.</span></p>

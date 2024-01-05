@@ -1,5 +1,7 @@
 # lightwave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lightwave.md)
+
 <p><span class="chinese">光波与微波的结合，推进了新原理、新器件的研究。</span><span class="english">Merging of lightwave with microwave gives an impetus to the re-search on new principles and new devices.</span></p>
 
 <p><span class="chinese">托德格兰姆斯在显示一些公平的工作民政事务局位在光波和覆盖的动画工作流程做了了不起的工作。</span><span class="english">Tod Grimes does a great job at showing some fair work habbits in Lightwave and covering the animation workflow.</span></p>

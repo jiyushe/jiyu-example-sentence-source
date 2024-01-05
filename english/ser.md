@@ -1,5 +1,7 @@
 # ser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ser.md)
+
 <p><span class="chinese">我们不能做朋友吗？</span><span class="english">No podemos ser amigos?</span></p>
 
 <p><span class="chinese">我不信任你，爵士。</span><span class="english">I do not trust you, ser.</span></p>

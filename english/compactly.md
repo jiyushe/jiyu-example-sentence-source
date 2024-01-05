@@ -1,5 +1,7 @@
 # compactly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compactly.md)
+
 <p><span class="chinese">他简洁地概述了各种观点。</span><span class="english">He summarized the arguments compactly.</span></p>
 
 <p><span class="chinese">这一部分的布局相当细密。</span><span class="english">This part is fairly compactly laid out.</span></p>

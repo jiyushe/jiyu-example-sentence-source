@@ -1,5 +1,7 @@
 # 鹿皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lupi.md)
+
 <p><span class="chinese">鹿皮是十分优良的皮革。</span><span class="english">Deerskin is very good leather.</span></p>
 
 <p><span class="chinese">鹿皮在这里被广泛使用。</span><span class="english">Deer’s fells are widely used here.</span></p>

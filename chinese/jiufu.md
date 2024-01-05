@@ -1,5 +1,7 @@
 # 舅父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiufu.md)
+
 <p><span class="chinese">今天我的舅父来了。</span><span class="english">My uncle arrived today.</span></p>
 
 <p><span class="chinese">你接到舅父的信了吗？</span><span class="english">Have you heard from my uncle?</span></p>

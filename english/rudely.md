@@ -1,5 +1,7 @@
 # rudely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rudely.md)
+
 <p><span class="chinese">他怎么敢说话如此无礼?。</span><span class="english">How dare he speak so rudely ?</span></p>
 
 <p><span class="chinese">爱丽斯无礼地把我轰出了门。</span><span class="english">Alice rudely showed me the door.</span></p>

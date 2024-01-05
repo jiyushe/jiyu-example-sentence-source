@@ -1,5 +1,7 @@
 # tlc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tlc.md)
+
 <p><span class="chinese">选出每味药的薄层层析各项条件。</span><span class="english">The TLC conditions of each drug were chosen.</span></p>
 
 <p><span class="chinese">结果薄层图谱斑点清晰，分离度好。</span><span class="english">Results The spots on TLC could be well separated.</span></p>

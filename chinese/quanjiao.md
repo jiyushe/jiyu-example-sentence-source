@@ -1,5 +1,7 @@
 # 拳脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanjiao.md)
+
 <p><span class="chinese">在他们的棍棒和拳脚下，我就是一个奴隶。</span><span class="english">I was a slave under club and fist.</span></p>
 
 <p><span class="chinese">吵闹的会议最终以拳脚相向而结束。</span><span class="english">The turbulent meeting ended in a fist fight.</span></p>

@@ -1,5 +1,7 @@
 # adjudicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjudicate.md)
+
 <p><span class="chinese">他被宣判或宣布破产。</span><span class="english">He is adjudicate or declared bankrupt.</span></p>
 
 <p><span class="chinese">部长不能在这样一个问题上作出裁定。</span><span class="english">The minister could not adjudicate in such an issue.</span></p>

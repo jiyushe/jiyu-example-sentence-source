@@ -1,5 +1,7 @@
 # 不免
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bumian.md)
+
 <p><span class="chinese">这不免让人担心</span><span class="english">That's worrying.</span></p>
 
 <p><span class="chinese">事事不免有缺点。</span><span class="english">Everything has its drawback.</span></p>

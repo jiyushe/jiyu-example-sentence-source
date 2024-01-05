@@ -1,5 +1,7 @@
 # 置身事外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishenshiwai.md)
+
 <p><span class="chinese">如果是那样的话，你应该置身事外。</span><span class="english">And in that case you should butt out.</span></p>
 
 <p><span class="chinese">然而这个小男孩并没有轻易地置身事外。</span><span class="english">Yet the boy won’t be sidelined so easily.</span></p>

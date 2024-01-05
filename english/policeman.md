@@ -1,5 +1,7 @@
 # policeman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/policeman.md)
+
 <p><span class="chinese">他是一个好警察。</span><span class="english">He is a good policeman.</span></p>
 
 <p><span class="chinese">是警察所造成的吗?。</span><span class="english">Did the policeman cause it?</span></p>

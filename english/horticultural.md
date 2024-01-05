@@ -1,5 +1,7 @@
 # horticultural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horticultural.md)
+
 <p><span class="chinese">但是现在只缺一道绿化通知。</span><span class="english">But expect a horticultural announcement any time now.</span></p>
 
 <p><span class="chinese">此类别包括所有的农场经理，园艺除外。</span><span class="english">Category includes all farm managers except horticultural.</span></p>

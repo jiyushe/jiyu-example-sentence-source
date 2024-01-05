@@ -1,5 +1,7 @@
 # sagacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sagacious.md)
+
 <p><span class="chinese">欢迎睿智的意见。</span><span class="english">Welcoming of sagacious advice.</span></p>
 
 <p><span class="chinese">精明的商人在生意上很少失败。</span><span class="english">A sagacious businessman seldom fails in his business.</span></p>

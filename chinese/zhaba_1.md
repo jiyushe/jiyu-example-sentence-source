@@ -1,5 +1,7 @@
 # 眨巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaba_1.md)
+
 <p><span class="chinese">她就是那么眨巴眼的。</span><span class="english">And that was her way to wink.</span></p>
 
 <p><span class="chinese">她眨巴眨巴眼，然后转过头来面对我。</span><span class="english">She blinks, then turns her face toward me.</span></p>

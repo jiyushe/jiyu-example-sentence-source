@@ -1,5 +1,7 @@
 # landfall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landfall.md)
+
 <p><span class="chinese">我们下一靠岸处应是牙买加。</span><span class="english">Our next landfall should be jamaica.</span></p>
 
 <p><span class="chinese">预料莎莉嘉将北行直至登陆。</span><span class="english">A generally northward track is likely until landfall.</span></p>

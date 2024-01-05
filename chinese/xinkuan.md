@@ -1,5 +1,7 @@
 # 新款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinkuan.md)
+
 <p><span class="chinese">年轻人喜欢新款玩意。</span><span class="english">Teenagers like new-fashioned gadgets.</span></p>
 
 <p><span class="chinese">这些东西都在新款塔利班的播放列表里。</span><span class="english">The New Taliban™ is all about playlists.</span></p>

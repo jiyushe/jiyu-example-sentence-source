@@ -1,5 +1,7 @@
 # 传记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanji_3.md)
+
 <p><span class="chinese">也可以是一本传记。</span><span class="english">It could be biography.</span></p>
 
 <p><span class="chinese">我喜欢读传记。</span><span class="english">I like to read biographies.</span></p>

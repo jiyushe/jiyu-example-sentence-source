@@ -1,5 +1,7 @@
 # foolishly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foolishly.md)
+
 <p><span class="chinese">就傻傻地活在爱当中。</span><span class="english">Be foolishly in love.</span></p>
 
 <p><span class="chinese">他傻头傻脑地向屋里张望。</span><span class="english">He peeped into the room foolishly.</span></p>

@@ -1,5 +1,7 @@
 # 再审
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaishen.md)
+
 <p><span class="chinese">庭审持续三小时，并延期至10月1日再审。</span><span class="english">After a three-hour hearing, the trial was adjourned to Oct 1.</span></p>
 
 <p><span class="chinese">其中我国的再审制度与之冲突更为明显。</span><span class="english">Especially its conflict with the re-trial system becomes more obvious.</span></p>

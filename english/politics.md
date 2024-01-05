@@ -1,5 +1,7 @@
 # politics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/politics.md)
+
 <p><span class="chinese">但这就是政治。</span><span class="english">But that is politics.</span></p>
 
 <p><span class="chinese">我是政治迷。</span><span class="english">I'm a politics junky.</span></p>

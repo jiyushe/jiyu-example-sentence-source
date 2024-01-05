@@ -1,5 +1,7 @@
 # 土崩瓦解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tubengwajie.md)
+
 <p><span class="chinese">军队土崩瓦解了。</span><span class="english">The army fell apart.</span></p>
 
 <p><span class="chinese">这一地区性集团已土崩瓦解。</span><span class="english">This regional bloc has fallen apart.</span></p>

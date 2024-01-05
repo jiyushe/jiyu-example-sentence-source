@@ -1,5 +1,7 @@
 # 拿手好戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nashouhaoxi.md)
+
 <p><span class="chinese">好的。烹任可是我的拿手好戏。</span><span class="english">OK. I'm good at cooking.</span></p>
 
 <p><span class="chinese">弹吉他是我的拿手好戏。</span><span class="english">Playing the guitar is my thing.</span></p>

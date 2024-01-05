@@ -1,5 +1,7 @@
 # teem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teem.md)
+
 <p><span class="chinese">这条河中鱼很多。</span><span class="english">Fish teem in the river.</span></p>
 
 <p><span class="chinese">这条河里鱼多。</span><span class="english">Fish teem in this river.</span></p>

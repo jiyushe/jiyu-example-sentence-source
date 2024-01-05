@@ -1,5 +1,7 @@
 # cystitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cystitis.md)
+
 <p><span class="chinese">临床上往往伴发急性膀胱炎。</span><span class="english">Clinically often comorbid acute cystitis.</span></p>
 
 <p><span class="chinese">膀胱炎主要致病菌是大肠杆菌。</span><span class="english">Cystitis is main pathogenic bacteria is coliform organisms.</span></p>

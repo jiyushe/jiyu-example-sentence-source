@@ -1,5 +1,7 @@
 # irrationalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrationalism.md)
+
 <p><span class="chinese">库恩，理性主义者还是非理性主义者?。</span><span class="english">Irrationalism is opposite to traditional rationalism.</span></p>
 
 <p><span class="chinese">在表现方法上，后现代主义设计呈现出非理性主义特征。</span><span class="english">In terms of expression method, post-modernistic design rejects irrationalism.</span></p>

@@ -1,5 +1,7 @@
 # macromolecule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macromolecule.md)
+
 <p><span class="chinese">聚酰亚胺是一种高分子聚合物材料。</span><span class="english">Polyimide is a macromolecule polymer material.</span></p>
 
 <p><span class="chinese">木村资生的中性学说反映了生物大分子的部分规律。</span><span class="english">The neutral mutation is only a part of the macromolecule.</span></p>

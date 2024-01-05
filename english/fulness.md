@@ -1,5 +1,7 @@
 # fulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fulness.md)
+
 <p><span class="chinese">你甘让你那音乐飘落在我门前。</span><span class="english">In folds of golden fulness within my door?</span></p>
 
 <p><span class="chinese">满足了你渴求的眼，甚至满溢腻烦</span><span class="english">Thy hungry eyes even till they wink with fulness</span></p>

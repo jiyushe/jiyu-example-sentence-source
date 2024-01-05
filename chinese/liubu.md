@@ -1,5 +1,7 @@
 # 留步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liubu.md)
+
 <p><span class="chinese">请留步，别出来了。</span><span class="english">Don't trouble to come out, please.</span></p>
 
 <p><span class="chinese">那儿是交通停止，行人留步，军队开始的地方。</span><span class="english">There the rabble ended and the army began.</span></p>

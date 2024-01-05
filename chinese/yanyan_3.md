@@ -1,5 +1,7 @@
 # 筵宴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyan_3.md)
+
 <p><span class="chinese">他带我入筵宴所，以爱为旗在我以上。</span><span class="english">He brought me to the banqueting house, and his banner over me was love.</span></p>
 
 <p><span class="chinese">他带我进入筵宴所，以爱为旗在我以上。</span><span class="english">He brought me into the banqueting house, And his banner over me was love.</span></p>

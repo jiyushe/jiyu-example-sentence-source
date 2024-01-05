@@ -1,5 +1,7 @@
 # changeability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changeability.md)
+
 <p><span class="chinese">不要低估了这里天气的易变性。</span><span class="english">Don't underestimate the changeability of the weather here.</span></p>
 
 <p><span class="chinese">在我们的世界上不仅有可变性还有不可预见性。</span><span class="english">There is not only changeability but also unpredictability in our world.</span></p>

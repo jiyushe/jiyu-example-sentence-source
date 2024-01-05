@@ -1,5 +1,7 @@
 # bezel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bezel.md)
+
 <p><span class="chinese">降低开关装置设定，以从玻璃框移去开关。</span><span class="english">Depress switch mounting tabs to remove switch from bezel.</span></p>
 
 <p><span class="chinese">从马达输出轴上拆卸玻璃框和橡皮垫圈。</span><span class="english">Remove the bezel and rubber gasket from the motor output shaft.</span></p>

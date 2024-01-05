@@ -1,5 +1,7 @@
 # toothy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toothy.md)
+
 <p><span class="chinese">这是鳄鱼啦啦，他有大大的，露出牙齿的微笑。</span><span class="english">This is Lala Crocodile. He has a big , toothy smile.</span></p>
 
 <p><span class="chinese">我甚至能想象到，那些血盆大口是多么的恶心！</span><span class="english">I can even imagine, toothy maw is how those disgusted!</span></p>

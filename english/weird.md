@@ -1,5 +1,7 @@
 # weird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weird.md)
+
 <p><span class="chinese">你真怪。</span><span class="english">You are so weird.</span></p>
 
 <p><span class="chinese">我穿着怪异的衣服。</span><span class="english">I wear weird clothes.</span></p>

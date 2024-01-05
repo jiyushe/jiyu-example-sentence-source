@@ -1,5 +1,7 @@
 # eosin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eosin.md)
+
 <p><span class="chinese">人脑冠部经过苏木精和曙红染色。</span><span class="english">A coronal section of a human brain is stained with hematoxylin and eosin.</span></p>
 
 <p><span class="chinese">此外，肝活检可视化苏木精伊红染色。</span><span class="english">Furthermore, liver biopsies were visualized by hematoxylin and eosin staining.</span></p>

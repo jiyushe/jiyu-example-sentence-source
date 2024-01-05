@@ -1,5 +1,7 @@
 # denseness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denseness.md)
+
 <p><span class="chinese">印度是人口高度密集的国家之一。</span><span class="english">India is one of the countries that has great denseness in population.</span></p>
 
 <p><span class="chinese">印度是人口高度密集的国家之一。</span><span class="english">India is one of the countries that have great denseness in population.</span></p>

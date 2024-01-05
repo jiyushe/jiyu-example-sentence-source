@@ -1,5 +1,7 @@
 # lodestone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lodestone.md)
+
 <p><span class="chinese">爱情是生活的磁石。</span><span class="english">Love is the lodestone of life.</span></p>
 
 <p><span class="chinese">爱是你生命的舞蹈。</span><span class="english">Love is the lodestone of life.</span></p>

@@ -1,5 +1,7 @@
 # pursuance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pursuance.md)
+
 <p><span class="chinese">您的满意是我们永恒的追求！</span><span class="english">Your satisfaction is our pursuance for ever.</span></p>
 
 <p><span class="chinese">我遵照您的指示给她写了信。</span><span class="english">I wrote to her in pursuance of your instruction.</span></p>

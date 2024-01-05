@@ -1,5 +1,7 @@
 # moonless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moonless.md)
+
 <p><span class="chinese">无月之夜最好。</span><span class="english">A moonless night is best.</span></p>
 
 <p><span class="chinese">这是一个黑暗无月的夜雾。</span><span class="english">It's a and moonless night.</span></p>

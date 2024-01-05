@@ -1,5 +1,7 @@
 # resourceful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resourceful.md)
+
 <p><span class="chinese">我发现我变的足智多谋了。</span><span class="english">I find that I am resourceful.</span></p>
 
 <p><span class="chinese">他聪明、机敏而且讨人喜欢。</span><span class="english">He is bright, personable and resourceful.</span></p>

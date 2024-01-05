@@ -1,5 +1,7 @@
 # thalidomide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thalidomide.md)
+
 <p><span class="chinese">请回想一下,我们为什么要禁止使用沙利度胺。</span><span class="english">I mean you have to ask yourself why did we ban thalidomide.</span></p>
 
 <p><span class="chinese">后来的几个月里，继续传来有关萨立多胺的消息。</span><span class="english">In the months that followed, more news about Thalidomide continue to flow in.</span></p>

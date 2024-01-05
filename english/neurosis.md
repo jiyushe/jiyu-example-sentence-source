@@ -1,5 +1,7 @@
 # neurosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurosis.md)
+
 <p><span class="chinese">他完全没有神经。</span><span class="english">He’s totally without neurosis.</span></p>
 
 <p><span class="chinese">如果我们感到焦虑。</span><span class="english">That's when we experience neurosis.</span></p>

@@ -1,5 +1,7 @@
 # 恶习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/exi.md)
+
 <p><span class="chinese">限制恶习。</span><span class="english">Limit vices.</span></p>
 
 <p><span class="chinese">恶习易染。</span><span class="english">Ill weeds grow apace.</span></p>

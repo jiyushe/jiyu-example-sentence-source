@@ -1,5 +1,7 @@
 # 盘问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panwen.md)
+
 <p><span class="chinese">经过几个小时的盘问以后，他开始吐露了真情。</span><span class="english">After hours of grilling he opened up.</span></p>
 
 <p><span class="chinese">然后你仔细盘问了我一个小时。</span><span class="english">And you cross-examined me for an hour.</span></p>

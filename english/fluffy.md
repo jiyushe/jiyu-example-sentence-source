@@ -1,5 +1,7 @@
 # fluffy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluffy.md)
+
 <p><span class="chinese">它软乎乎的，毛茸茸的。</span><span class="english">It is soft and fluffy.</span></p>
 
 <p><span class="chinese">我一定要把蓬蓬回家。</span><span class="english">I have to get Fluffy home.</span></p>

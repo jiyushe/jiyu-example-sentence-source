@@ -1,5 +1,7 @@
 # 五行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxing_1.md)
+
 <p><span class="chinese">请看第八页第五行。</span><span class="english">Please look at page 8, line 5.</span></p>
 
 <p><span class="chinese">五行蔬果汁又是什麽呀?。</span><span class="english">What are "five elements" veg&fruit juices?</span></p>

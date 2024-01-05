@@ -1,5 +1,7 @@
 # enchanter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enchanter.md)
+
 <p><span class="chinese">魔法师非常神秘。</span><span class="english">The enchanter is very mysterious.</span></p>
 
 <p><span class="chinese">犹如巫师吓得鬼魅纷纷溃离。</span><span class="english">Are driven, like ghosts from an enchanter fleeing.</span></p>

@@ -1,5 +1,7 @@
 # 手掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhang.md)
+
 <p><span class="chinese">我吻了他的手掌。</span><span class="english">I kissed his palm.</span></p>
 
 <p><span class="chinese">他用手掌打她的头部。</span><span class="english">He clouted her head.</span></p>

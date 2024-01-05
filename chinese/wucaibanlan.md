@@ -1,5 +1,7 @@
 # 五彩斑斓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wucaibanlan.md)
+
 <p><span class="chinese">我依然可以享受这个五彩斑斓的世界。</span><span class="english">I can still enjoy this colorful world.</span></p>
 
 <p><span class="chinese">我们眼中的荔园就是这样一个五彩斑斓的世界。</span><span class="english">We Liyuan the eyes of such a colorful world.</span></p>

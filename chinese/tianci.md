@@ -1,5 +1,7 @@
 # 填词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianci.md)
+
 <p><span class="chinese">填词万纳现在我们是由。</span><span class="english">Lyrics for Where We Are Now By Vanna.</span></p>
 
 <p><span class="chinese">一首仅能由我们自己谱曲，填词的歌？</span><span class="english">Only by one of our own music, lyrics of the song?</span></p>

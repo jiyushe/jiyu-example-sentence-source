@@ -1,5 +1,7 @@
 # agglomeration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agglomeration.md)
+
 <p><span class="chinese">而声致凝聚是声波消雾的主要因素之一。</span><span class="english">Acoustic agglomeration is one of the main causes for the fog dissipation.</span></p>
 
 <p><span class="chinese">同时，城市内部通勤成本确实会降低经济活动的集聚程度。</span><span class="english">Also, intra-urban commuting costs would lower the level of agglomeration.</span></p>

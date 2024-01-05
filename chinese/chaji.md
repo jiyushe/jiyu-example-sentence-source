@@ -1,5 +1,7 @@
 # 茶几
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaji.md)
+
 <p><span class="chinese">六个桌灯，三个茶几，一架钢琴。</span><span class="english">Six table lamps. Three end tables. One piano.</span></p>
 
 <p><span class="chinese">花几比茶几出现得晚。</span><span class="english">Guinea-Bissau to spend coffee table appeared late.</span></p>

@@ -1,5 +1,7 @@
 # 不省人事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxingrenshi.md)
+
 <p><span class="chinese">安德烈将杰克痛扁直至其不省人事。</span><span class="english">Andre beats Jack senseless.</span></p>
 
 <p><span class="chinese">我这样不省人事有多久了？</span><span class="english">How long had I been unconscious?</span></p>

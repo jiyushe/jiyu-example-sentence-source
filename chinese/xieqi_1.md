@@ -1,5 +1,7 @@
 # 邪气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieqi_1.md)
+
 <p><span class="chinese">据说戴香布囊可以驱除邪气呢。</span><span class="english">They are said to be able to ward off evil.</span></p>
 
 <p><span class="chinese">潜藏千年邪气高傲高傲的鬼魅。</span><span class="english">Underlying millennium pullbacks haughty ghosts haughty.</span></p>

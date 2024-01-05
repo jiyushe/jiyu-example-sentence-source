@@ -1,5 +1,7 @@
 # 有条不紊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youtiaobuwen.md)
+
 <p><span class="chinese">她的手突然走到了一起，她左右手分别有条不紊的弹奏着，就是这么简单。</span><span class="english">Her hands suddenly came together?</span></p>
 
 <p><span class="chinese">进一步的工程研究正有条不紊地进行。</span><span class="english">Further engineering research was inorder.</span></p>

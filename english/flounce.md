@@ -1,5 +1,7 @@
 # flounce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flounce.md)
+
 <p><span class="chinese">由于寂寞，我选择了挣脱。</span><span class="english">Because lonesome, my choice flounce.</span></p>
 
 <p><span class="chinese">T0130又是一款新的荷叶边衬衫唷！！</span><span class="english">T0130 is a new flounce shirt of THURS!</span></p>

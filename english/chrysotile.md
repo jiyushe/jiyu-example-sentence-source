@@ -1,5 +1,7 @@
 # chrysotile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chrysotile.md)
+
 <p><span class="chinese">蛇纹岩具纤状结构、块状构造。</span><span class="english">Serpentinite is nematoblastic texture, massive structure, made of chrysotile.</span></p>
 
 <p><span class="chinese">经柠檬酸铝处理后，温石棉的上述作用明显减弱。</span><span class="english">Chrysotile fibers treated with aluminium citrated showed a weaker effect than the untreated.</span></p>

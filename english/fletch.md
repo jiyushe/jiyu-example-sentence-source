@@ -1,5 +1,7 @@
 # fletch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fletch.md)
+
 <p><span class="chinese">你可以看到柴帝进球的意义。</span><span class="english">You can see how much it meant to Fletch to score.</span></p>
 
 <p><span class="chinese">皮克和弗莱彻总拿大家的衣服开玩笑。</span><span class="english">Pique and Fletch are always at the centre of pranks with player's clothes.</span></p>

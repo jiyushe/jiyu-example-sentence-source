@@ -1,5 +1,7 @@
 # alarming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alarming.md)
+
 <p><span class="chinese">其报警点。</span><span class="english">Its the alarming point.</span></p>
 
 <p><span class="chinese">这座城市的犯罪率真让人担忧。</span><span class="english">The crime rate in this city is really alarming.</span></p>

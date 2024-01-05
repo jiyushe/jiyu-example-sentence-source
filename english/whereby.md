@@ -1,5 +1,7 @@
 # whereby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whereby.md)
+
 <p><span class="chinese">财产所有权已被转让的契据。</span><span class="english">A deed whereby ownership of the property is transferred.</span></p>
 
 <p><span class="chinese">现在这就是麦子怎样和糠秕分开的方法。</span><span class="english">Now this is the method whereby the wheat is separated from thechaff.</span></p>

@@ -1,5 +1,7 @@
 # 独断专行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duduanzhuanxing.md)
+
 <p><span class="chinese">向南独断专行，气走西光。</span><span class="english">South autocratic, gas go west light.</span></p>
 
 <p><span class="chinese">在外交政策上，放单飞/独断专行，风险很大。</span><span class="english">In foreign policy, flying solo can be risky business.</span></p>

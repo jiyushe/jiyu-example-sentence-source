@@ -1,5 +1,7 @@
 # forthcoming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forthcoming.md)
+
 <p><span class="chinese">村民没有一个是很鸡婆的。</span><span class="english">None of the villagers was very forthcoming.</span></p>
 
 <p><span class="chinese">预算报告甚至不想透露太多消息。</span><span class="english">The budget report was even less forthcoming.</span></p>

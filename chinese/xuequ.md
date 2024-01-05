@@ -1,5 +1,7 @@
 # 学区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuequ.md)
+
 <p><span class="chinese">果树，庭院面积大，是属于核桃学区。</span><span class="english">Fruit trees, large patio area, Walnut school dist.</span></p>
 
 <p><span class="chinese">很多学区已经开始尝试分权。</span><span class="english">School districts have made several attempts at decentralizing.</span></p>

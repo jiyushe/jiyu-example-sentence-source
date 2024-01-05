@@ -1,5 +1,7 @@
 # 崇洋媚外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongyangmeiwai.md)
+
 <p><span class="chinese">学习外国与崇洋媚外完全是两回事。</span><span class="english">To learn from foreign countries is entirely different from worshipping everything foreign.</span></p>
 
 <p><span class="chinese">不要忘记那些崇洋媚外，将自己人视为二等公民的人们。</span><span class="english">Do not forget those who worship the foreigner and treat their own people as second-class citizens.</span></p>

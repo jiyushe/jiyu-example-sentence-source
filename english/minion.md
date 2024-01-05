@@ -1,5 +1,7 @@
 # minion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minion.md)
+
 <p><span class="chinese">欢迎小黄人黄！</span><span class="english">All hail Minion Yellow.</span></p>
 
 <p><span class="chinese">所有的人都情愿为这个命运的宠儿作出牺牲。</span><span class="english">All offered up sacrifices to the minion of fortune.</span></p>

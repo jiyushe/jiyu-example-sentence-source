@@ -1,5 +1,7 @@
 # 新茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xincha.md)
+
 <p><span class="chinese">请给我沏一壶新茶。</span><span class="english">Please make me a fresh pot of tea.</span></p>
 
 <p><span class="chinese">输入您的邮件地址以便退订新茶锋潮简报。</span><span class="english">Enter your email address to unsubscribe from the NeochaEDGE newsletter.</span></p>

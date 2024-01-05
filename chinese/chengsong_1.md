@@ -1,5 +1,7 @@
 # 称颂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengsong_1.md)
+
 <p><span class="chinese">神是应当称颂的。</span><span class="english">Praise be to God!</span></p>
 
 <p><span class="chinese">耶和华是应当称颂的，直到永远。</span><span class="english">Praise be to the Lord forever!</span></p>

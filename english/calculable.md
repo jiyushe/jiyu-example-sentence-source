@@ -1,5 +1,7 @@
 # calculable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calculable.md)
+
 <p><span class="chinese">或者假设它能用波尔模型来计算。</span><span class="english">Let's say calculable by Bohr model.</span></p>
 
 <p><span class="chinese">这些东西或许可以从弦论算出来。</span><span class="english">Its inputs might be calculable in string theory.</span></p>

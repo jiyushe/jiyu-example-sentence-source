@@ -1,5 +1,7 @@
 # plunger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plunger.md)
+
 <p><span class="chinese">转储也是可选的柱塞阀。</span><span class="english">Also optional Plunger Dump Valve.</span></p>
 
 <p><span class="chinese">铍铜压射冲头的使用寿命是球铁压射冲头的2。</span><span class="english">The life of the BeCu plunger is 2.</span></p>

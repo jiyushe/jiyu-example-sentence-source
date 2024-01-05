@@ -1,5 +1,7 @@
 # 邮资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzi_4.md)
+
 <p><span class="chinese">我用了一个邮资已付的信封。</span><span class="english">I use a prepaid envelope.</span></p>
 
 <p><span class="chinese">第三，那时候邮费很高，邮递员要收邮资很困难。</span><span class="english">Third, the postage was high at that time.</span></p>

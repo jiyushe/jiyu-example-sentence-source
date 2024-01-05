@@ -1,5 +1,7 @@
 # ddr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ddr.md)
+
 <p><span class="chinese">读眼图，写眼图，模板，示波器。</span><span class="english">DDR, read eye diagram, write eye diagram, DDR mask, Oscilloscope.</span></p>
 
 <p><span class="chinese">DDR体系结构模式由显示层、定义层与实现层组成。</span><span class="english">DDR architecture pattern composes of display layer, definition layer and realization layer.</span></p>

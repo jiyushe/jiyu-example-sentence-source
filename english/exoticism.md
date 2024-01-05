@@ -1,5 +1,7 @@
 # exoticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exoticism.md)
+
 <p><span class="chinese">上帝因此而得以流动，喜悦弥漫。</span><span class="english">Thus God flows back and forth and we delight in His exoticism.</span></p>
 
 <p><span class="chinese">强烈的异国情调是这个项目的设计特色。</span><span class="english">Strong tastes exoticism is the main focus of the design project.</span></p>

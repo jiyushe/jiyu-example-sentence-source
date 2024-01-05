@@ -1,5 +1,7 @@
 # dividend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dividend.md)
+
 <p><span class="chinese">怎样求被除数？</span><span class="english">How do you work out the dividend?</span></p>
 
 <p><span class="chinese">他们说,股利政策是无关的</span><span class="english">They said, dividend policy is irrelevant.</span></p>

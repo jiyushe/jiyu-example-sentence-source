@@ -1,5 +1,7 @@
 # 唢呐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suona.md)
+
 <p><span class="chinese">大明正在吹唢呐，但是电话响了。</span><span class="english">Daming is playing the suona, but the phone rings.</span></p>
 
 <p><span class="chinese">他正在吹唢呐，但是电话响了。</span><span class="english">He is playing the suona, but the telephone rings.</span></p>

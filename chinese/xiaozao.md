@@ -1,5 +1,7 @@
 # 小灶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozao.md)
+
 <p><span class="chinese">SPF级大鼠依然存在比较轻微的小灶性感染和非正常组织形态改变。</span><span class="english">There were small focus infection and abnormal tissue changes in SPF rats.</span></p>
 
 <p><span class="chinese">增强扫描显示病灶内多发性小灶状相对低密度区或呈环状强化。</span><span class="english">Multifocal small areas of low density or thin enhancing rim on enhanced scans.</span></p>

@@ -1,5 +1,7 @@
 # 干道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gandao.md)
+
 <p><span class="chinese">恩图曼干道上的大清真寺。</span><span class="english">Big Mosque on the main road of Omdurman.</span></p>
 
 <p><span class="chinese">那房子离干道有一段距离。</span><span class="english">The house stands back from the main rood.</span></p>

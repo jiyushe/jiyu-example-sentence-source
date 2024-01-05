@@ -1,5 +1,7 @@
 # sarracenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarracenia.md)
+
 <p><span class="chinese">但是瓶子草是很强健的植物，它们很快就会适应过来的！</span><span class="english">Sarracenia are very tough plants and they should recover quickly.</span></p>
 
 <p><span class="chinese">基本上，只要你有耐心，瓶子草会是很容易栽培的。</span><span class="english">Sarracenia are fairly easy to grow from seed if you have patience.</span></p>

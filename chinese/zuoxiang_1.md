@@ -1,5 +1,7 @@
 # 坐享
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoxiang_1.md)
+
 <p><span class="chinese">她仗著她那些有钱的亲戚而不必工作，得以坐享清福。</span><span class="english">She avoided having to work by battening on her rich relatives.</span></p>
 
 <p><span class="chinese">它们可以让您坐享各式各样的现成功能。</span><span class="english">They allow you to mix in a wide variety of preexisting functionality.</span></p>

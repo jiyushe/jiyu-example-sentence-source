@@ -1,5 +1,7 @@
 # 赤红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chihong.md)
+
 <p><span class="chinese">打开，里面是一颗赤红的药丸。</span><span class="english">Open, the inside is a red and red pill.</span></p>
 
 <p><span class="chinese">打开，里面是一颗赤红的药丸。</span><span class="english">Open, the inside is a ruddy and ruddy pill.</span></p>

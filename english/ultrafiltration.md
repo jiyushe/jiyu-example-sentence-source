@@ -1,5 +1,7 @@
 # ultrafiltration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrafiltration.md)
+
 <p><span class="chinese">对影响超滤的因素进行了论述。</span><span class="english">The factors affecting ultrafiltration were also summarized.</span></p>
 
 <p><span class="chinese">超滤是用于水处理的一种新型膜技术。</span><span class="english">Ultrafiltration is a new membrane process used in water treatment.</span></p>

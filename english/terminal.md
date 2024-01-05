@@ -1,5 +1,7 @@
 # terminal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terminal.md)
+
 <p><span class="chinese">视频矩阵终端?。</span><span class="english">VMT? Video Matrix Terminal?</span></p>
 
 <p><span class="chinese">虚拟终端代理商?。</span><span class="english">VTA? Virtual Terminal Agent?</span></p>

@@ -1,5 +1,7 @@
 # assembly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assembly.md)
+
 <p><span class="chinese">重新签署组件。</span><span class="english">Re-sign the assembly.</span></p>
 
 <p><span class="chinese">SCA装配模型V1.0</span><span class="english">SCA Assembly Model V1.0</span></p>

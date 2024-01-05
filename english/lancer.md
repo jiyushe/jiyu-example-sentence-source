@@ -1,5 +1,7 @@
 # lancer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lancer.md)
+
 <p><span class="chinese">我们曾提到过一个长矛兵。</span><span class="english">We have mentioned a lancer.</span></p>
 
 <p><span class="chinese">说完这话，他把那长矛兵完全丢在脑后了。</span><span class="english">That said, he totally forgot the lancer.</span></p>

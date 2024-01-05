@@ -1,5 +1,7 @@
 # conquer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conquer.md)
+
 <p><span class="chinese">人定胜天。</span><span class="english">Man will conquer nature.</span></p>
 
 <p><span class="chinese">那就各个击破。</span><span class="english">Let's divide and conquer.</span></p>

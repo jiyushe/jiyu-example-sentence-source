@@ -1,5 +1,7 @@
 # 半自动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banzidong.md)
+
 <p><span class="chinese">半自动。</span><span class="english">Semi-automatic.</span></p>
 
 <p><span class="chinese">半自动胶囊灌装机。</span><span class="english">Semi-auto capsule filling machine.</span></p>

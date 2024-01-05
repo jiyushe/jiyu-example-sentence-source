@@ -1,5 +1,7 @@
 # sandwich 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandwich.md)
+
 <p><span class="chinese">吃一个三明治早餐。</span><span class="english">Have a breakfast sandwich.</span></p>
 
 <p><span class="chinese">来一块鱼肉三明治怎么样？</span><span class="english">How about a fish sandwich?</span></p>

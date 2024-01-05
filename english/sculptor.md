@@ -1,5 +1,7 @@
 # sculptor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sculptor.md)
+
 <p><span class="chinese">他能成为一名优秀的雕刻家。</span><span class="english">He can make a good sculptor.</span></p>
 
 <p><span class="chinese">雕塑家用粘土塑造了这个女孩子的形象。</span><span class="english">The sculptor figured the girl in clay.</span></p>

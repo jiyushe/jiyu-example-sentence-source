@@ -1,5 +1,7 @@
 # california
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/california.md)
+
 <p><span class="chinese">他们住在这儿吗?</span><span class="english">They live in California.</span></p>
 
 <p><span class="chinese">1968年，美国加州王蛇。</span><span class="english">California Kingsnake, 1968</span></p>

@@ -1,5 +1,7 @@
 # orangutan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orangutan.md)
+
 <p><span class="chinese">见著一头成年的雄性红毛猩猩，总教人印象深刻。</span><span class="english">An adult male orangutan is an impressive sight.</span></p>
 
 <p><span class="chinese">苏门答腊猩猩的名字寓意“森林中的人”。</span><span class="english">The name of the Sumatran orangutan means "person of the forest."</span></p>

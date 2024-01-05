@@ -1,5 +1,7 @@
 # contain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contain.md)
+
 <p><span class="chinese">所以它究竟包含了什么呢？</span><span class="english">So what does it contain?</span></p>
 
 <p><span class="chinese">柳丁含有维生素C。</span><span class="english">Oranges contain vitamin C.</span></p>

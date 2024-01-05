@@ -1,5 +1,7 @@
 # 下坡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiapo.md)
+
 <p><span class="chinese">还要避免快速下坡跑步。</span><span class="english">Also shun fast downhill running.</span></p>
 
 <p><span class="chinese">“肯定是下坡跑惹的祸，”他说。</span><span class="english">"The downhills definitely took a toll, " he says.</span></p>

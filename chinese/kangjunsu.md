@@ -1,5 +1,7 @@
 # 抗菌素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangjunsu.md)
+
 <p><span class="chinese">抗菌素和其它药物如何？</span><span class="english">What about antibiotics and other drugs?</span></p>
 
 <p><span class="chinese">抗菌素引起菌丛的选择性变化。</span><span class="english">Antibiotics produce a selective change in flora.</span></p>

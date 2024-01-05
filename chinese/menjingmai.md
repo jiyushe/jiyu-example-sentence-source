@@ -1,5 +1,7 @@
 # 门静脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menjingmai.md)
+
 <p><span class="chinese">门静脉分支结扎的肝叶逐渐萎缩。</span><span class="english">The ligated liver lobes underwent an atrophy gradually.</span></p>
 
 <p><span class="chinese">门静脉压力与血浆ET、肝组织ET呈正相关。</span><span class="english">The FPP was positively correlated with serum and hepatic ET.</span></p>

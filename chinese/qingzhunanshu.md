@@ -1,5 +1,7 @@
 # 罄竹难书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzhunanshu.md)
+
 <p><span class="chinese">这个歹徒罪行累累，罄竹难书。</span><span class="english">The scoundrel's crimes were too numerous to record.</span></p>
 
 <p><span class="chinese">汽车对城市犯下的罪真是罄竹难书啊！</span><span class="english">The urban sins of the automobile are numerous indeed.</span></p>

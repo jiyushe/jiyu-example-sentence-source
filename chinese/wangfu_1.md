@@ -1,5 +1,7 @@
 # 王府
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangfu_1.md)
+
 <p><span class="chinese">欢迎来到王府饭店！</span><span class="english">Welcome to Xiyuan Hotel.</span></p>
 
 <p><span class="chinese">吃琏王府的东西？</span><span class="english">Eat the Lian Wang Fu's thing?</span></p>

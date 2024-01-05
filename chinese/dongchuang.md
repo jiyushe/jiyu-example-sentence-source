@@ -1,5 +1,7 @@
 # 冻疮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongchuang.md)
+
 <p><span class="chinese">他的脚底生了冻疮很疼痛。</span><span class="english">The soles of his feet were raw with chilblain.</span></p>
 
 <p><span class="chinese">有什么方法把手上严重的冻疮治好？</span><span class="english">The serious chilblain on what method handle cures?</span></p>

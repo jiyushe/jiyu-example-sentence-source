@@ -1,5 +1,7 @@
 # byword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/byword.md)
+
 <p><span class="chinese">他成了村中的话柄。</span><span class="english">She became the byword of the village.</span></p>
 
 <p><span class="chinese">不过要注意，“新兴”并不只是“增长”的代名词。</span><span class="english">Beware though, 'emerging' isn't just a byword for growth.</span></p>

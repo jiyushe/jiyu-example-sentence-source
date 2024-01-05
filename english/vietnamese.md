@@ -1,5 +1,7 @@
 # vietnamese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vietnamese.md)
+
 <p><span class="chinese">你敢骂越南人？</span><span class="english">You dare curse Vietnamese?</span></p>
 
 <p><span class="chinese">越南米粉皮的春卷。</span><span class="english">Classic Vietnamese Spring Rolls.</span></p>

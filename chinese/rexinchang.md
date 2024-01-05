@@ -1,5 +1,7 @@
 # 热心肠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rexinchang.md)
+
 <p><span class="chinese">他们是热心肠的正常人。</span><span class="english">They are warm, normal people.</span></p>
 
 <p><span class="chinese">他家的人都是热心肠。</span><span class="english">His family are all kindhearted.</span></p>

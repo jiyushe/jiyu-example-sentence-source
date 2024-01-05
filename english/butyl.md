@@ -1,5 +1,7 @@
 # butyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butyl.md)
+
 <p><span class="chinese">还在取笑丁克族吗？</span><span class="english">Also in making fun of butyl man?</span></p>
 
 <p><span class="chinese">由丁基橡胶在己烷溶液中氯化制得。</span><span class="english">Obtained by chlorination of butyl rubber in hexane solution.</span></p>

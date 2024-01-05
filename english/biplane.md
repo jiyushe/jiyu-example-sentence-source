@@ -1,5 +1,7 @@
 # biplane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biplane.md)
+
 <p><span class="chinese">他驾驶双翼飞机到达，在一棵树上紧急降落。</span><span class="english">He arrives in his biplane and crash lands it in a tree.</span></p>
 
 <p><span class="chinese">以自己双翼飞翔的鸟儿永远可以飞得更高。</span><span class="english">Forever may fly by oneself biplane wing soaring bird high.</span></p>

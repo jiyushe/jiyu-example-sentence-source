@@ -1,5 +1,7 @@
 # 活命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoming.md)
+
 <p><span class="chinese">他靠卖文活命。</span><span class="english">He found a living in literature.</span></p>
 
 <p><span class="chinese">我可以如此靠饮动物的血活命吗？</span><span class="english">I know, it gets cold so quickly.</span></p>

@@ -1,5 +1,7 @@
 # thief
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thief.md)
+
 <p><span class="chinese">或者一个贼。</span><span class="english">Or a thief.</span></p>
 
 <p><span class="chinese">他一个字儿都没听见。</span><span class="english">He's a thief.</span></p>

@@ -1,5 +1,7 @@
 # 横行霸道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengxingbadao.md)
+
 <p><span class="chinese">去年那些暴徒在街上横行霸道，无恶不作。</span><span class="english">The street was overrun by the bullies last year.</span></p>
 
 <p><span class="chinese">法西斯曾在世界很大范围内横行霸道。</span><span class="english">The Fascists once tyrannized a large part of the world.</span></p>

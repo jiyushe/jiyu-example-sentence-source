@@ -1,5 +1,7 @@
 # crocodilian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crocodilian.md)
+
 <p><span class="chinese">它是一种巨大的鳄鱼。</span><span class="english">It was a colossal crocodilian.</span></p>
 
 <p><span class="chinese">抬起一条罗圈腿，看到一张鳄鱼嘴。</span><span class="english">Raise a bowlegged, see a piece of crocodilian mouth.</span></p>

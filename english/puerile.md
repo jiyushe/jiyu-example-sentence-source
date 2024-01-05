@@ -1,5 +1,7 @@
 # puerile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puerile.md)
+
 <p><span class="chinese">在他们最纯真的，游戏是一辆华丽的马车。</span><span class="english">At their most puerile , games are a grand hack.</span></p>
 
 <p><span class="chinese">她回答这些幼稚的问题觉得不胜其烦。</span><span class="english">She was tired of answering these puerile questions.</span></p>

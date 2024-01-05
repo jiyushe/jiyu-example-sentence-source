@@ -1,5 +1,7 @@
 # iowa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iowa.md)
+
 <p><span class="chinese">我从爱荷华州来的。</span><span class="english">I'm from Iowa.</span></p>
 
 <p><span class="chinese">我衷心感谢艾奥瓦的公民们。</span><span class="english">Thank you, Iowa.</span></p>

@@ -1,5 +1,7 @@
 # 如数家珍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushujiazhen.md)
+
 <p><span class="chinese">我可以如数家珍地说出这些问题，然后坐下来，并不提供解决方案。</span><span class="english">I could recite these problems, and then I could sit down and offer no solutions.</span></p>
 
 <p><span class="chinese">会如数家珍地记得他们的好，会想像已经滑落在流年只外的他们是什么样子。</span><span class="english">Will fondly remember their good, imagine has slipped in time only and what are they like.</span></p>

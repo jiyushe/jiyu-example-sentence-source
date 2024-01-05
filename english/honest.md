@@ -1,5 +1,7 @@
 # honest 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honest.md)
+
 <p><span class="chinese">雪是忠厚的。</span><span class="english">The snow is honest.</span></p>
 
 <p><span class="chinese">多么老实的孩子呀！</span><span class="english">What an honest boy!</span></p>

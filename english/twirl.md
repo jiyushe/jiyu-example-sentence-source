@@ -1,5 +1,7 @@
 # twirl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twirl.md)
+
 <p><span class="chinese">他使他杯中的冰块旋转。</span><span class="english">He made the ice twirl in his glass.</span></p>
 
 <p><span class="chinese">蜻蜓在飞行中是如何旋转和俯冲的?。</span><span class="english">How does a dragonfly twirl and dive in flight?</span></p>

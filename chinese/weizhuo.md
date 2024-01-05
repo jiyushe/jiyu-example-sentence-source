@@ -1,5 +1,7 @@
 # 围桌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizhuo.md)
+
 <p><span class="chinese">他们围桌而坐。</span><span class="english">They sat round the table.</span></p>
 
 <p><span class="chinese">一些人打牌，一些人围桌坐着喝酒。</span><span class="english">Some played cards, some sat about a table and drank.</span></p>

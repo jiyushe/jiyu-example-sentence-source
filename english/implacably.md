@@ -1,5 +1,7 @@
 # implacably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implacably.md)
+
 <p><span class="chinese">双方似乎极力反对消除他们之间的分歧。</span><span class="english">Both parties seem implacably opposed to bridging their differences.</span></p>
 
 <p><span class="chinese">他的工会坚决反对公司私有化。</span><span class="english">His union was implacably opposed to the privatization of the company.</span></p>

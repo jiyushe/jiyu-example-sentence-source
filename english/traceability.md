@@ -1,5 +1,7 @@
 # traceability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traceability.md)
+
 <p><span class="chinese">为什么我们想要追溯？</span><span class="english">Why do we want traceability?</span></p>
 
 <p><span class="chinese">可跟踪性和可审核性是关键。</span><span class="english">Traceability and Auditability is key.</span></p>

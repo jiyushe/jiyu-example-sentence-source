@@ -1,5 +1,7 @@
 # 锐不可当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruibukedang.md)
+
 <p><span class="chinese">他是一架锐不可当的战斗机器。</span><span class="english">He's a lean, mean, fighting machine.</span></p>
 
 <p><span class="chinese">我眼前的这支军队锐不可当。</span><span class="english">The army in front of me looks invincible.</span></p>

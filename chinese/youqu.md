@@ -1,5 +1,7 @@
 # 有趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youqu.md)
+
 <p><span class="chinese">犯规很有趣。</span><span class="english">It's fun to foul.</span></p>
 
 <p><span class="chinese">是本儿很有趣的书。</span><span class="english">It's a funny book.</span></p>

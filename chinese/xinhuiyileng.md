@@ -1,5 +1,7 @@
 # 心灰意冷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhuiyileng.md)
+
 <p><span class="chinese">离开克瑞斯和巴克斯，维纳斯便心灰意冷。</span><span class="english">Without Ceres and Bacchus, Venus grows cold.</span></p>
 
 <p><span class="chinese">老篮制造商心灰意冷地往家走。</span><span class="english">The old-basket maker went home, disheartened.</span></p>

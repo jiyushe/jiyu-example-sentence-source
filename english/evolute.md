@@ -1,5 +1,7 @@
 # evolute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evolute.md)
+
 <p><span class="chinese">建构肾脏线及其渐屈线。</span><span class="english">Construct the nephroid and its evolute.</span></p>
 
 <p><span class="chinese">然后他讨论了平面曲线的渐屈线。</span><span class="english">He then treated the evolute of a plane curve.</span></p>

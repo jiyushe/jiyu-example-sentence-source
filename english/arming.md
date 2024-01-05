@@ -1,5 +1,7 @@
 # arming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arming.md)
+
 <p><span class="chinese">夸伦卫兵开始武装他们的俘虏。</span><span class="english">The Quarren guards begin arming their prisoners.</span></p>
 
 <p><span class="chinese">日本也在用迂回的方法武装自己。</span><span class="english">Japan, too, has been arming itself in a roundabout way.</span></p>

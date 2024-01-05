@@ -1,5 +1,7 @@
 # 山脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanmai.md)
+
 <p><span class="chinese">它高悬在喜艾拉山脉。</span><span class="english">Up in the High Sierras.</span></p>
 
 <p><span class="chinese">但我还可以看到山脉。</span><span class="english">But I can still see mountains.</span></p>

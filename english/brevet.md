@@ -1,5 +1,7 @@
 # brevet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brevet.md)
+
 <p><span class="chinese">名誉晋升是美军曾用的一种军衔。</span><span class="english">Brevet is a form of military commission formerly used in US armies.</span></p>
 
 <p><span class="chinese">这一切都取决于你相信，电影评论家说，布拉德布雷维特。</span><span class="english">It all depends on what you believe, said film reviewer Brad Brevet.</span></p>

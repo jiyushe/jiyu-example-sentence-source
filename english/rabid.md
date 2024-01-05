@@ -1,5 +1,7 @@
 # rabid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rabid.md)
+
 <p><span class="chinese">那只狗染上狂犬病，口吐白沫。</span><span class="english">The rabid dog foamed at the mouth.</span></p>
 
 <p><span class="chinese">这就是所谓的狂热粉丝。</span><span class="english">Now, that is what we call a rabid fangirl.</span></p>

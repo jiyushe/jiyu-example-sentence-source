@@ -1,5 +1,7 @@
 # 泥沙俱下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nishajuxia.md)
+
 <p><span class="chinese">墨尔本是座落在一条奔腾倾泻、泥沙俱下的河流两岸的一座可爱的南方华贵古城？</span><span class="english">Melbourne--dear old dowager of the south sitting on the banks of a river which flows upside-down?</span></p>
 
 <p><span class="chinese">长期以来，高校网络信息管理难度较大，而其中最棘手的莫过于BBS网站的管理。因为BBS上信息庞杂，交互性强，难免泥沙俱下。</span><span class="english">For a long time, the BBS management has been a knotty problem in the university internet information management.</span></p>

@@ -1,5 +1,7 @@
 # 桑果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangguo.md)
+
 <p><span class="chinese">那就是成熟了的桑果。</span><span class="english">That is, mature fruit of the mulberry.</span></p>
 
 <p><span class="chinese">桑果让我眼花缭乱，我都不知道从哪里开始摘了。</span><span class="english">Mulberry dazzled me, I do not know where to start from the pick.</span></p>

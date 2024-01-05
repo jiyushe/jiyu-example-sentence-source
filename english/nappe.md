@@ -1,5 +1,7 @@
 # nappe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nappe.md)
+
 <p><span class="chinese">对新集二矿推覆体下煤层构造规律进行了初步研究。</span><span class="english">Preliminary research on structural law of coal bed beneath nappe in No.</span></p>
 
 <p><span class="chinese">本文讨论四川盆地西部彭县、灌县地区的推覆构造。</span><span class="english">The nappe structure in Peng-Guan area, western Sichuan Basin is discussed.</span></p>

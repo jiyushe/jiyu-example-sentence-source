@@ -1,5 +1,7 @@
 # orbicularis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orbicularis.md)
+
 <p><span class="chinese">结果显示正常组眼轮匝肌阈值低，面瘫组眼轮匝肌除神经外程度重。</span><span class="english">The threshold of S-D of ocular orbicularis is low in the normal group.</span></p>
 
 <p><span class="chinese">颧小肌和和口轮匝肌则辅助维持外侧壁稳定。</span><span class="english">The zygomaticus minor and orbicularis oris secondarily provide lateral wall stability.</span></p>

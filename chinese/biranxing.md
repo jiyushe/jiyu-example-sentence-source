@@ -1,5 +1,7 @@
 # 必然性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biranxing.md)
+
 <p><span class="chinese">核恐怖袭击的必然性。</span><span class="english">A nuclear terrorist attack is a near inevitability.</span></p>
 
 <p><span class="chinese">由于石油是一种有限的资源，因此这种理论具有其必然性。</span><span class="english">Because oil is a finite resource, it is an inevitability.</span></p>

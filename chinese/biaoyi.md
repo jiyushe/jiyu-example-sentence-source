@@ -1,5 +1,7 @@
 # 表意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoyi.md)
+
 <p><span class="chinese">“意象”即“表意之象”。</span><span class="english">Imagery is a meaning-oriented image.</span></p>
 
 <p><span class="chinese">他用连结体诗句来表意。</span><span class="english">He permits enjambment to become the verbal medium.</span></p>

@@ -1,5 +1,7 @@
 # chlamys
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chlamys.md)
+
 <p><span class="chinese">夹街小楼，栉比鳞次，风格各异。</span><span class="english">Folder Street small building, Chlamys than scales, and different styles.</span></p>
 
 <p><span class="chinese">扇贝多肽由中国水产科学院黄海水产研究所提供。</span><span class="english">The chlamys farreri was provided by the Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences.</span></p>

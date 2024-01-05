@@ -1,5 +1,7 @@
 # confer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confer.md)
+
 <p><span class="chinese">我将和他商议这件事。</span><span class="english">I'll confer with him on the subject.</span></p>
 
 <p><span class="chinese">为什么吖？权力并不会带来善行。</span><span class="english">Why? Power doesn't confer beneficence.</span></p>

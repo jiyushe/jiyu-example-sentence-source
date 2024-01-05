@@ -1,5 +1,7 @@
 # sixtieth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sixtieth.md)
+
 <p><span class="chinese">一分钟是一小时的六十分之一。</span><span class="english">A minute is the sixtieth part of hour.</span></p>
 
 <p><span class="chinese">这将是奶奶的六十大寿。</span><span class="english">It will be Grandma's sixtieth birthday.</span></p>

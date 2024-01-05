@@ -1,5 +1,7 @@
 # unwell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwell.md)
+
 <p><span class="chinese">才会不适。</span><span class="english">That's when we are unwell.</span></p>
 
 <p><span class="chinese">或许你是不太舒服，大脖子病是吗?。</span><span class="english">Perhaps you have been unwell. Goiters is it?</span></p>

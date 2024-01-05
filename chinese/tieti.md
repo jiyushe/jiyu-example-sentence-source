@@ -1,5 +1,7 @@
 # 铁蹄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieti.md)
+
 <p><span class="chinese">听铁蹄震撼大地！</span><span class="english">Hark to our stomps on the ground!</span></p>
 
 <p><span class="chinese">在侵略者的铁蹄下，他们受尽了奴役。</span><span class="english">They suffered a lot under the invader's heel.</span></p>

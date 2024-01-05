@@ -1,5 +1,7 @@
 # toronto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toronto.md)
+
 <p><span class="chinese">他从多伦多来。</span><span class="english">He’s from Toronto.</span></p>
 
 <p><span class="chinese">那位是年夜卫。他从多伦多去。</span><span class="english">And this is David. He's from Toronto.</span></p>

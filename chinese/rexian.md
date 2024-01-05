@@ -1,5 +1,7 @@
 # 热线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rexian.md)
+
 <p><span class="chinese">这里没有求助服务热线。</span><span class="english">There's no helpline.</span></p>
 
 <p><span class="chinese">那没有互联网，没有同性新闻，没有同性热线，没有征友广告，没有骄傲的出柜名人。</span><span class="english">There is no internet.  No Gay News.</span></p>

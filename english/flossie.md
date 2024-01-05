@@ -1,5 +1,7 @@
 # flossie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flossie.md)
+
 <p><span class="chinese">“只在马戏团里看过，”弗洛西说。</span><span class="english">"Only in a circus, " said Flossie.</span></p>
 
 <p><span class="chinese">噢，你看你，这可是你最好的外套了。</span><span class="english">"Oh, look what you did! "cried Flossie.</span></p>

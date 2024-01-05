@@ -1,5 +1,7 @@
 # lbj
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lbj.md)
+
 <p><span class="chinese">勒布朗必须得证明他转会南海岸是一个明智的抉择。</span><span class="english">LBJ has to show a South Beach relocation was smart.</span></p>
 
 <p><span class="chinese">林登•贝恩斯•约翰逊上的是德州西南师范学院。</span><span class="english">LBJ attended Southwest Texas State Teachers College.</span></p>

@@ -1,5 +1,7 @@
 # loner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loner.md)
+
 <p><span class="chinese">她摇了摇头，“可以成为一个很优秀隐士的一个孤独者。”</span><span class="english">She shook her head. “A loner.</span></p>
 
 <p><span class="chinese">新兵阿申是一个有点孤独的人。</span><span class="english">Ah Seng, a recruit, was a bit of a loner.</span></p>

@@ -1,5 +1,7 @@
 # psychopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychopathy.md)
+
 <p><span class="chinese">精神病是由于自然或培养？</span><span class="english">Is psychopathy due to nature or nurture?</span></p>
 
 <p><span class="chinese">介绍了精神病和反社会行为的科学事实。</span><span class="english">Presents the scientific facts of psychopathy and antisocial behavior.</span></p>

@@ -1,5 +1,7 @@
 # 校阅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyue.md)
+
 <p><span class="chinese">我可以请你帮我校阅一下我的报告吗?。</span><span class="english">Could I get you to proofread my report?</span></p>
 
 <p><span class="chinese">我已校阅并稍加修订。</span><span class="english">I had reviewed and slightly revised it.</span></p>

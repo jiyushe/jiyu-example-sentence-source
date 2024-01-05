@@ -1,5 +1,7 @@
 # transversal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transversal.md)
+
 <p><span class="chinese">通过横向研究，各个少数民族的创造性财富展现在我们眼前。</span><span class="english">The creative wealth of each minority unfolds through transversal studies.</span></p>
 
 <p><span class="chinese">四川绵阳飞云大桥的主桥系三跨系杆拱桥，横向设两根拱肋，构成“双弓体系”。</span><span class="english">Two arch ribs are installed in transversal direction to form a"double bow system".</span></p>

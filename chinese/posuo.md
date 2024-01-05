@@ -1,5 +1,7 @@
 # 婆娑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/posuo.md)
+
 <p><span class="chinese">杨柳婆娑。</span><span class="english">The willows dance in the breeze.</span></p>
 
 <p><span class="chinese">风恣婆娑浴寒冬。</span><span class="english">The wind knowingly biddings bath winter.</span></p>

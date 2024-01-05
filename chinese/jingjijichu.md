@@ -1,5 +1,7 @@
 # 经济基础
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjijichu.md)
+
 <p><span class="chinese">经济基础如何决定上层建筑？</span><span class="english">How does the economic base determine superstructure?</span></p>
 
 <p><span class="chinese">没有经济基础的沙哈拉威是不可能住到小镇阿雍来的。</span><span class="english">Sahrawis out at elbows could never manage to live in Town Ayongs.</span></p>

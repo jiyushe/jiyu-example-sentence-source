@@ -1,5 +1,7 @@
 # inescapable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inescapable.md)
+
 <p><span class="chinese">几个结论看来不可避免。</span><span class="english">Several conclusions seemed inescapable.</span></p>
 
 <p><span class="chinese">那才是这个问题不可避免的底线。</span><span class="english">That’s the inescapable bottom line of it.</span></p>

@@ -1,5 +1,7 @@
 # maladjustment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maladjustment.md)
+
 <p><span class="chinese">激光器腔的失调与光束质量。</span><span class="english">The maladjustment of laser cavity and light beam quality.</span></p>
 
 <p><span class="chinese">总之，不适应会让新生们更想家，也会让他们觉得更不舒服。</span><span class="english">All in all, the maladjustment makes them homesick and more uncomfortable.</span></p>

@@ -1,5 +1,7 @@
 # msa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/msa.md)
+
 <p><span class="chinese">我是一名操作工，我在MSA工作。</span><span class="english">I am an operator, I work in the MSA.</span></p>
 
 <p><span class="chinese">利用“MSA”来帮你记住应该做什么。</span><span class="english">Use "MSA" to help you remember what to do.</span></p>

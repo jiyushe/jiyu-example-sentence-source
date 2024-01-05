@@ -1,5 +1,7 @@
 # noncommittal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noncommittal.md)
+
 <p><span class="chinese">他态度非常友好，但是态度暧昧。</span><span class="english">He was friendly but noncommittal.</span></p>
 
 <p><span class="chinese">他收到她的一封态度不明的信。</span><span class="english">He received a noncommittal letter from her.</span></p>

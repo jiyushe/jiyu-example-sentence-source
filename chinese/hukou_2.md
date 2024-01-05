@@ -1,5 +1,7 @@
 # 虎口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hukou_2.md)
+
 <p><span class="chinese">他们从虎口中夺得自由，一个人在他一次演讲中誓言要把利比亚煤渣跑道。</span><span class="english">There was a JuCo with a cinder track not too far from the house.</span></p>
 
 <p><span class="chinese">这胸牌要四方的，叠为两层，长一虎口，宽一虎口。</span><span class="english">It is to be square-a span long and a span wide-and folded double.</span></p>

@@ -1,5 +1,7 @@
 # shortage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortage.md)
+
 <p><span class="chinese">当时粮食奇缺。</span><span class="english">There was a critical shortage of food.</span></p>
 
 <p><span class="chinese">一些公司也面临着专门人才的短缺。</span><span class="english">Some also face a shortage of expertise.</span></p>

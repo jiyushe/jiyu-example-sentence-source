@@ -1,5 +1,7 @@
 # diddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diddle.md)
+
 <p><span class="chinese">白白浪费了一整天。</span><span class="english">Diddle a whole day.</span></p>
 
 <p><span class="chinese">不要虚度你的时光。</span><span class="english">Don't diddle away your time.</span></p>

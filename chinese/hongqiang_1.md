@@ -1,5 +1,7 @@
 # 红墙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongqiang_1.md)
+
 <p><span class="chinese">黄瓦红墙，气势雄伟。</span><span class="english">Diaolianghuadong hall, Huangwa red walls, magnificent momentum.</span></p>
 
 <p><span class="chinese">我又回到北京了。红墙灰瓦，大城北京。</span><span class="english">I am back to Beijing again, red wall, gray tile, Beijing gravity.</span></p>

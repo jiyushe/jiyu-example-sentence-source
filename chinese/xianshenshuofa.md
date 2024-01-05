@@ -1,5 +1,7 @@
 # 现身说法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshenshuofa.md)
+
 <p><span class="chinese">好让你自己生动地现身说法。</span><span class="english">That you your self being extant well might show.</span></p>
 
 <p><span class="chinese">也许，我们最后将会知道，如何让它们现身说法。</span><span class="english">We are going to be able, perhaps, to finally know how to make them speak.</span></p>

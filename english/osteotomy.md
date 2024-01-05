@@ -1,5 +1,7 @@
 # osteotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteotomy.md)
+
 <p><span class="chinese">近节趾骨截骨是手术成功的关键。</span><span class="english">The osteotomy of the first phalanx is key for successful operation.</span></p>
 
 <p><span class="chinese">矫正切骨术-肱骨，尺骨，桡骨，股骨，胫骨或腓骨。</span><span class="english">Corrective osteotomy of humerus, ulna, radius, femur, tibia or fibula.</span></p>

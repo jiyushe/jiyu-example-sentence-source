@@ -1,5 +1,7 @@
 # shareable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shareable.md)
+
 <p><span class="chinese">共享文件。</span><span class="english">Shareable files.</span></p>
 
 <p><span class="chinese">这些记忆将能够搜索、复原及分享。</span><span class="english">This memory would be searchable, retrievable, and shareable.</span></p>

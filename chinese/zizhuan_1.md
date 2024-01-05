@@ -1,5 +1,7 @@
 # 自转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhuan_1.md)
+
 <p><span class="chinese">地球绕轴自转。</span><span class="english">The earth whirls on its axis.</span></p>
 
 <p><span class="chinese">但是它绕着自转轴运转一周需要24小时。</span><span class="english">But it turns once on its axis in 24 hours.</span></p>

@@ -1,5 +1,7 @@
 # 跳出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaochu.md)
+
 <p><span class="chinese">我吓得心都要跳出采了。</span><span class="english">I'm about to jump out of my skin.</span></p>
 
 <p><span class="chinese">我们能跳出那个象牙塔吗？</span><span class="english">Can we get out of the glass tower?</span></p>

@@ -1,5 +1,7 @@
 # 警棍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinggun.md)
+
 <p><span class="chinese">防暴警察用警棍打聚众闹事者。</span><span class="english">The riot police batoned the mob.</span></p>
 
 <p><span class="chinese">我不知道你喜欢那种拿警棍的女人。</span><span class="english">I didn't know you were a baton twirler.</span></p>

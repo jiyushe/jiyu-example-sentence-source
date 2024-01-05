@@ -1,5 +1,7 @@
 # 中子星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzixing.md)
+
 <p><span class="chinese">这是供体星,在供体星和中子星。</span><span class="english">This is called the accretor and this is called the donor.</span></p>
 
 <p><span class="chinese">是强有力的x射线源,中子星绕中心旋转。</span><span class="english">So these binary systems are very potent sources of x-rays.</span></p>

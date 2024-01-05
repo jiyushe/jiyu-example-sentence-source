@@ -1,5 +1,7 @@
 # 鱼虾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxia_2.md)
+
 <p><span class="chinese">他会将河口里所有的鱼虾一网打尽。</span><span class="english">And he'll catch all the fish in the bayou.</span></p>
 
 <p><span class="chinese">洞庭湖盛产鱼虾。</span><span class="english">Dongting Lake teems with fish and shrimps.</span></p>

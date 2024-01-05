@@ -1,5 +1,7 @@
 # 主轴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhou.md)
+
 <p><span class="chinese">大口径的MT4主轴。</span><span class="english">Large MT4 spindle bore.</span></p>
 
 <p><span class="chinese">取下主轴螺帽和垫圈。</span><span class="english">Remove a shaft nut and washer.</span></p>

@@ -1,5 +1,7 @@
 # disseminator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disseminator.md)
+
 <p><span class="chinese">韩贞是泰州学派崇尚自然思想的重要继承者和传播者。</span><span class="english">Han Zhen is an important successor and disseminator of nature view of Taizhou school.</span></p>
 
 <p><span class="chinese">他是不容忽略的巴尔扎克传播者。</span><span class="english">Therefore, Gao Ming-kai cannot be neglected as a disseminator of Balzac's works in China.</span></p>

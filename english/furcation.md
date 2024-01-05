@@ -1,5 +1,7 @@
 # furcation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furcation.md)
+
 <p><span class="chinese">同时，我们描述血管分叉和间隔组织的特征。</span><span class="english">We documented the features of furcation and the interseptum as well.</span></p>
 
 <p><span class="chinese">头发分叉是因为毛干的表层已经损坏。</span><span class="english">Hair furcation because the surface layer of hair stem has been already damaged.</span></p>

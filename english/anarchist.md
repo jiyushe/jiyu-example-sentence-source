@@ -1,5 +1,7 @@
 # anarchist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anarchist.md)
+
 <p><span class="chinese">有一位席埃拉是名无政府主义者。</span><span class="english">One was an anarchist.</span></p>
 
 <p><span class="chinese">图书馆的无政府主义者〉2002。</span><span class="english">Vaidhyanathan, Siva. "The Anarchist in the Library. " 2002.</span></p>

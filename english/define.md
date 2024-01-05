@@ -1,5 +1,7 @@
 # define 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/define.md)
+
 <p><span class="chinese">定义和目标。</span><span class="english">Define and Target.</span></p>
 
 <p><span class="chinese">定义接触点。</span><span class="english">Define a touchpoint.</span></p>

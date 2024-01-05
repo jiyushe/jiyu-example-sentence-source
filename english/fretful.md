@@ -1,5 +1,7 @@
 # fretful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fretful.md)
+
 <p><span class="chinese">看起来让人烦躁不安。</span><span class="english">They seem fretful.</span></p>
 
 <p><span class="chinese">一个月过去，雪默尔达老太太开始烦躁不安起来。</span><span class="english">A month went by, andoldMrs. Simerdabegan to get fretful.</span></p>

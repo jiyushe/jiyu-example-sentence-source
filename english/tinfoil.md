@@ -1,5 +1,7 @@
 # tinfoil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinfoil.md)
+
 <p><span class="chinese">你可以用锡箔纸裹住它。</span><span class="english">You can wrap it up in tinfoil.</span></p>
 
 <p><span class="chinese">把全身都用锡纸包裹起来。</span><span class="english">Pack up the whole body with tinfoil.</span></p>

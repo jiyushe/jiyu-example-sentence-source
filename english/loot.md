@@ -1,5 +1,7 @@
 # loot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loot.md)
+
 <p><span class="chinese">战利品表续。</span><span class="english">Loot Tables cont.</span></p>
 
 <p><span class="chinese">第十二节杀光，烧光，抢光！</span><span class="english">Kill All, Burn All, Loot All!</span></p>

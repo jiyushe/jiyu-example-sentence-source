@@ -1,5 +1,7 @@
 # 版本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banben.md)
+
 <p><span class="chinese">新的测试版本。</span><span class="english">New beta Ver.</span></p>
 
 <p><span class="chinese">什么是版本？</span><span class="english">What are versions?</span></p>

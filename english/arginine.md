@@ -1,5 +1,7 @@
 # arginine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arginine.md)
+
 <p><span class="chinese">精氨酸只在刚分化的芽中存在。</span><span class="english">Arginine was present in the bud only.</span></p>
 
 <p><span class="chinese">海参中含有大且精氨酸。</span><span class="english">In the trepang includes and greatly arginine.</span></p>

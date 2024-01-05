@@ -1,5 +1,7 @@
 # 璀璨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuican_1.md)
+
 <p><span class="chinese">如阳光那般璀璨。</span><span class="english">Lies bright as the sun.</span></p>
 
 <p><span class="chinese">比拥有王冠的明星更加璀璨。</span><span class="english">Than the stars of diadems.</span></p>

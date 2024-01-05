@@ -1,5 +1,7 @@
 # sanctimonious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanctimonious.md)
+
 <p><span class="chinese">人们所不能容忍的就是那副假正经的样子。</span><span class="english">It's that sanctimonious air that people can't stand.</span></p>
 
 <p><span class="chinese">假仁假义的微笑、言词、人、抗议信。</span><span class="english">A sanctimonious smile, remark, person, letter of protest.</span></p>

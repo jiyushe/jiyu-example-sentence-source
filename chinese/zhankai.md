@@ -1,5 +1,7 @@
 # 展开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhankai.md)
+
 <p><span class="chinese">还会有更多的华彩乐章将在你面前展开。</span><span class="english">There'll be more.</span></p>
 
 <p><span class="chinese">为圣经展开的争战。</span><span class="english">The Battle for the Bible.</span></p>

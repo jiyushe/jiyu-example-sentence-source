@@ -1,5 +1,7 @@
 # jacket 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jacket.md)
+
 <p><span class="chinese">这是她的茄克衫。</span><span class="english">This is her jacket.</span></p>
 
 <p><span class="chinese">他拉开夹克衫的拉链。</span><span class="english">He unzipped his jacket.</span></p>

@@ -1,5 +1,7 @@
 # grief
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grief.md)
+
 <p><span class="chinese">悲伤即是如此。</span><span class="english">So is grief.</span></p>
 
 <p><span class="chinese">却又暗涌悲伤。</span><span class="english">Grief in the dark.</span></p>

@@ -1,5 +1,7 @@
 # 风雷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenglei.md)
+
 <p><span class="chinese">方风雷是一位技艺高超的交易撮合者，对政治也很内行。</span><span class="english">Mr. Fang is a consummate deal maker and political insider.</span></p>
 
 <p><span class="chinese">四海翻腾云水路，五洲震荡风雷激。</span><span class="english">The seas are rising cloud water, Wuzhou Fenglei induced shock.</span></p>

@@ -1,5 +1,7 @@
 # myanmar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myanmar.md)
+
 <p><span class="chinese">那边就是缅甸了。您瞧。</span><span class="english">That side is Myanmar. Look.</span></p>
 
 <p><span class="chinese">缅甸至今未得到过奥运奖牌。</span><span class="english">Myanmar has yet to win an Olympic medal.</span></p>

@@ -1,5 +1,7 @@
 # 拳术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanshu_2.md)
+
 <p><span class="chinese">一种模拟猴类动作举止的拳术。</span><span class="english">An analog behavior of boxing action monkeys.</span></p>
 
 <p><span class="chinese">中国拳术，剑术，各种器械。</span><span class="english">Chinese boxing, Fencing, A variety of instruments.</span></p>

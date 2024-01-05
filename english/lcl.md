@@ -1,5 +1,7 @@
 # lcl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lcl.md)
+
 <p><span class="chinese">老太太和她的家人安享安详的生活。</span><span class="english">The old lcl posty enjoys a quick life with her folks.</span></p>
 
 <p><span class="chinese">云云是个喜欢古典音乐的女孩，那时候我们都很年老。</span><span class="english">Yunyun is a lcl posty who likes clbumic music. We were young once well time.</span></p>

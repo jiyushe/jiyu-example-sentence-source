@@ -1,5 +1,7 @@
 # 哆嗦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duosuo.md)
+
 <p><span class="chinese">我又哆嗦了一下。</span><span class="english">I shivered again.</span></p>
 
 <p><span class="chinese">浪游者在山间小路哆嗦战栗…</span><span class="english">You are there by my side.</span></p>

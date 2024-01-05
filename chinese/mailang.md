@@ -1,5 +1,7 @@
 # 麦浪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mailang.md)
+
 <p><span class="chinese">我是照耀在金色麦浪上的缕缕阳光。</span><span class="english">I am the sun on ripened grain.</span></p>
 
 <p><span class="chinese">麦田在微风中麦浪滚滚。</span><span class="english">The field of wheat was undulating in the breeze.</span></p>

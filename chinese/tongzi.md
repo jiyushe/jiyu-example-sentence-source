@@ -1,5 +1,7 @@
 # 桐子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzi.md)
+
 <p><span class="chinese">下个月就是桐子开花的季节了。</span><span class="english">The paulownia will blossom next month.</span></p>
 
 <p><span class="chinese">我们把桐子榨油来点灯。</span><span class="english">We used oil squeezed from seeds of tung trees to light our lamps.</span></p>

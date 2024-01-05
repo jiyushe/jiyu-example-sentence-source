@@ -1,5 +1,7 @@
 # 依依不舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyibushe.md)
+
 <p><span class="chinese">我对我的家依依不舍。</span><span class="english">I am attached to my family.</span></p>
 
 <p><span class="chinese">两人就这样依依不舍地道了别。</span><span class="english">They thus coming tunnel don ¡ x't.</span></p>

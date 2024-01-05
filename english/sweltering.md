@@ -1,5 +1,7 @@
 # sweltering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweltering.md)
+
 <p><span class="chinese">这里太闷热了！</span><span class="english">It's sweltering here!</span></p>
 
 <p><span class="chinese">在闷热蒸腾的夏天正午</span><span class="english">In the sweltering haze of summer-noon</span></p>

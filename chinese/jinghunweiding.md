@@ -1,5 +1,7 @@
 # 惊魂未定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinghunweiding.md)
+
 <p><span class="chinese">在事发后大约三个月的时间里，我一直惊魂未定。</span><span class="english">For about three months after it happened, I felt frightened.</span></p>
 
 <p><span class="chinese">约翰救出了惊魂未定的艾伦，并告诉了她现在情况。</span><span class="english">John rescued the Allan of not yet recover from a fright, told her now circumstance.</span></p>

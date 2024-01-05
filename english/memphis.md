@@ -1,5 +1,7 @@
 # memphis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memphis.md)
+
 <p><span class="chinese">我也喜欢孟菲斯市。</span><span class="english">I love the city of Memphis too.</span></p>
 
 <p><span class="chinese">我伯父是孟菲斯市市长。</span><span class="english">My uncle was the mayor of Memphis.</span></p>

@@ -1,5 +1,7 @@
 # 中将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjiang.md)
+
 <p><span class="chinese">杀死我灵魄中将死之物吧，我的爱。</span><span class="english">Kill the dying in my soul, my love.</span></p>
 
 <p><span class="chinese">在小汤锅中将黄油融化。</span><span class="english">Melt the butter in a small saucepan.</span></p>

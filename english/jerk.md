@@ -1,5 +1,7 @@
 # jerk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jerk.md)
+
 <p><span class="chinese">我太不像话了“</span><span class="english">I'm such a jerk.</span></p>
 
 <p><span class="chinese">有些时候，我甚至是个傻蛋。</span><span class="english">I’m a jerk sometimes.</span></p>

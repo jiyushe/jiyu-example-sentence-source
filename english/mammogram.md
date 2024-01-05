@@ -1,5 +1,7 @@
 # mammogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mammogram.md)
+
 <p><span class="chinese">下一步要做的是照x光.</span><span class="english">The next step is a mammogram.</span></p>
 
 <p><span class="chinese">我会安排你下午就去照x光.</span><span class="english">Let's schedule a mammogram for this afternoon.</span></p>

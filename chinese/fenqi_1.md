@@ -1,5 +1,7 @@
 # 分歧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenqi_1.md)
+
 <p><span class="chinese">我们之间确实存在分歧。</span><span class="english">We do have our differences.</span></p>
 
 <p><span class="chinese">让我们忘掉我们的分歧吧。</span><span class="english">Let's forget our differences.</span></p>

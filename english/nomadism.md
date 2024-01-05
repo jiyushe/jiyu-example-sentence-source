@@ -1,5 +1,7 @@
 # nomadism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nomadism.md)
+
 <p><span class="chinese">游牧文化该怎样继续下去？</span><span class="english">How dose nomadism culture continue?</span></p>
 
 <p><span class="chinese">刀柄的铜钉具有显著的游牧风格。</span><span class="english">The copper nail on grip has nomadism style.</span></p>

@@ -1,5 +1,7 @@
 # 棉蚜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianya.md)
+
 <p><span class="chinese">硫丹是防治抗性棉蚜值得重视的一种杀虫剂。</span><span class="english">Endosulfan is recommended to control the resistant A. Gossypii.</span></p>
 
 <p><span class="chinese">病毒WMV-2对棉蚜种群结构也有影响。</span><span class="english">Further, WMV-2 also changed the population structure of aphids.</span></p>

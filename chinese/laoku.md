@@ -1,5 +1,7 @@
 # 劳苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoku.md)
+
 <p><span class="chinese">你也能忍耐，曾为我的名劳苦，并不乏倦。</span><span class="english">I will also give him the morning star.</span></p>
 
 <p><span class="chinese">追梦人日夜劳苦奔波。</span><span class="english">Dream toil day and night to run around.</span></p>

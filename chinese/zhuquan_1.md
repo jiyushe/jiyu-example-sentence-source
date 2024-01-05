@@ -1,5 +1,7 @@
 # 主权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuquan_1.md)
+
 <p><span class="chinese">权力属于拥有主权者。</span><span class="english">Power inheres in the sovereign.</span></p>
 
 <p><span class="chinese">于955年收回全部主权。</span><span class="english">Full sovereignty was restored in 955.</span></p>

@@ -1,5 +1,7 @@
 # 提拔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiba.md)
+
 <p><span class="chinese">女王陛下提拔他为卫队长。</span><span class="english">The queen made him officer of the guard.</span></p>
 
 <p><span class="chinese">最高主教狄格拜被当场提拔为大天使。</span><span class="english">Digby had been spot-promoted to Archangel.</span></p>

@@ -1,5 +1,7 @@
 # righty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/righty.md)
+
 <p><span class="chinese">小右是有意识的。</span><span class="english">Righty is aware.</span></p>
 
 <p><span class="chinese">有创造力的。</span><span class="english">Righty is creative.</span></p>

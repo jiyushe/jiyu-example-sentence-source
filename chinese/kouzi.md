@@ -1,5 +1,7 @@
 # 扣子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouzi.md)
+
 <p><span class="chinese">扣上衬衫扣子。</span><span class="english">Button up your shirts.</span></p>
 
 <p><span class="chinese">他为安全扣好扣子。</span><span class="english">He buckled up for safety.</span></p>

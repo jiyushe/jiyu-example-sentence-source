@@ -1,5 +1,7 @@
 # 成文法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengwenfa.md)
+
 <p><span class="chinese">它们有些源起于普通法，其他则是属于成文法。</span><span class="english">Some arise from common law. Others are statutory.</span></p>
 
 <p><span class="chinese">今年，印第安纳州和田纳西州已经采取了成文法的保护措施。</span><span class="english">Already this year, Indiana and Tennessee have adopted statutory protections.</span></p>

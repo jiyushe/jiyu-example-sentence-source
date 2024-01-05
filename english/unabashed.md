@@ -1,5 +1,7 @@
 # unabashed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unabashed.md)
+
 <p><span class="chinese">这意味着你要厚着脸皮的自我推销。</span><span class="english">This means being an unabashed self promoter.</span></p>
 
 <p><span class="chinese">我想看看褪去羞涩后的她欢欣雀跃时的一面。</span><span class="english">I wanted to see her unabashed expression of joy.</span></p>

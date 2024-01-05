@@ -1,5 +1,7 @@
 # potassium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potassium.md)
+
 <p><span class="chinese">硝酸钾KNO3</span><span class="english">POTASSIUM NITRATE — KNO3</span></p>
 
 <p><span class="chinese">缺钾是怎么引起的？</span><span class="english">How is be short of potassium caused?</span></p>

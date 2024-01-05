@@ -1,5 +1,7 @@
 # 勤俭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinjian.md)
+
 <p><span class="chinese">她母亲是一个勤俭的主妇。</span><span class="english">Her mother is a thrifty housewife.</span></p>
 
 <p><span class="chinese">财富由勤俭而来。</span><span class="english">Wealth flows from industry and economy.</span></p>

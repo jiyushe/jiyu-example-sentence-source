@@ -1,5 +1,7 @@
 # curricula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curricula.md)
+
 <p><span class="chinese">它也是排课信息模块的一个重要支撑模块。</span><span class="english">It is one of the key platforms to curricula module.</span></p>
 
 <p><span class="chinese">我们必须在这个学期学完所有这些课程。</span><span class="english">We must finish all these curricula in this semester.</span></p>

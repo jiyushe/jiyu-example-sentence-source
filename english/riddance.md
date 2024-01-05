@@ -1,5 +1,7 @@
 # riddance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riddance.md)
+
 <p><span class="chinese">他真是不在的好。</span><span class="english">He was indeed a good riddance.</span></p>
 
 <p><span class="chinese">我们终于摆脱了腐败懦弱的国大党！</span><span class="english">Good riddance to coward, corrupt, congress!</span></p>

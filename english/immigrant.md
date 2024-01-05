@@ -1,5 +1,7 @@
 # immigrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immigrant.md)
+
 <p><span class="chinese">奈保尔是一位具有多重身份的移民作家。</span><span class="english">V. S. Naipaul is an immigrant writer.</span></p>
 
 <p><span class="chinese">义乌已成为一个新兴的移民城市。</span><span class="english">Yiwu has become a new immigrant city.</span></p>

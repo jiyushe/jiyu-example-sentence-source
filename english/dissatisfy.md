@@ -1,5 +1,7 @@
 # dissatisfy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissatisfy.md)
+
 <p><span class="chinese">嫉妒可使我们对自己的命运不满。</span><span class="english">Envy may dissatisfy us with our lot.</span></p>
 
 <p><span class="chinese">嫉妒可使我们对自己的命运不满足。</span><span class="english">Envy may dissatisfy us with our lot.</span></p>

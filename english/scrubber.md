@@ -1,5 +1,7 @@
 # scrubber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrubber.md)
+
 <p><span class="chinese">气体先在洗涤器内湿润。</span><span class="english">The gas is first humidified in a scrubber.</span></p>
 
 <p><span class="chinese">气体先在洗涤器内湿润。</span><span class="english">The gas is first humidified in a scrubber.</span></p>

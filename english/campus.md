@@ -1,5 +1,7 @@
 # campus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/campus.md)
+
 <p><span class="chinese">我之前住在校内。</span><span class="english">I used to live on campus.</span></p>
 
 <p><span class="chinese">这是个非常城市化的校园。</span><span class="english">It's a very urban campus.</span></p>

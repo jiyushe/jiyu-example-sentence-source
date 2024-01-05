@@ -1,5 +1,7 @@
 # 茅台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maotai.md)
+
 <p><span class="chinese">茅台是酒中上品。</span><span class="english">Mao-tai is a good clear wine.</span></p>
 
 <p><span class="chinese">茅台是酒中上品。</span><span class="english">Maotai is a top-grade spirit.</span></p>

@@ -1,5 +1,7 @@
 # 高深莫测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoshenmoce.md)
+
 <p><span class="chinese">你是我认识的人中最高深莫测的人。</span><span class="english">You’re the most enigmatic person I know.</span></p>
 
 <p><span class="chinese">但女性的自觉更多的是她的生理本能，而非高深莫测。</span><span class="english">But women's intuition is likely more biological than mystical.</span></p>

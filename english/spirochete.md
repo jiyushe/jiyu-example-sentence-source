@@ -1,5 +1,7 @@
 # spirochete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spirochete.md)
+
 <p><span class="chinese">结果在结节病肉芽肿病变内未发现螺旋体。</span><span class="english">Results No spirochete was found in the lesions of sarcoidosis.</span></p>
 
 <p><span class="chinese">本文报道从四川省南川县1例面神经麻痹病人血液中分离出1株莱姆病螺旋体。</span><span class="english">We recovered a spirochete from the blood of one patient with facial paralysis in Sichuan province.</span></p>

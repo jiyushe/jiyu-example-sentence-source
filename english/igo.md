@@ -1,5 +1,7 @@
 # igo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/igo.md)
+
 <p><span class="chinese">我得去参加一个会议。</span><span class="english">Igo to a meeting.</span></p>
 
 <p><span class="chinese">有时，我睡觉很早。</span><span class="english">Sometimes Igo to bed early.</span></p>

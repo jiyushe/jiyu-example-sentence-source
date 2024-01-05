@@ -1,5 +1,7 @@
 # unanswered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unanswered.md)
+
 <p><span class="chinese">有些恳切的祈祷，有否回音？</span><span class="english">Is there some earnest prayer unanswered yet</span></p>
 
 <p><span class="chinese">这封信放著有一个月没回了。</span><span class="english">This letter has lain unanswered for a month.</span></p>

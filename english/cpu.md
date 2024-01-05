@@ -1,5 +1,7 @@
 # CPU
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cpu.md)
+
 <p><span class="chinese">提出了四核处理器缓存系统的设计方案。</span><span class="english">Have ideas on four-core CPU cache.</span></p>
 
 <p><span class="chinese">微型计算机ALU部件包括在CPU中。</span><span class="english">Microcomputer ALU components include the CPU.</span></p>

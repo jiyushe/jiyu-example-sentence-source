@@ -1,5 +1,7 @@
 # 重听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongting_1.md)
+
 <p><span class="chinese">这位老人有点重听。</span><span class="english">The old man is hard of hearing.</span></p>
 
 <p><span class="chinese">你得大声一点说话才行，艾文斯太太有重听的毛病。</span><span class="english">You'll have to speak a little louder. Mrs. Evans is hard of hearing.</span></p>

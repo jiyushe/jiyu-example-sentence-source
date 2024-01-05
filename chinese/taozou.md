@@ -1,5 +1,7 @@
 # 逃走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taozou.md)
+
 <p><span class="chinese">他希图逃走。</span><span class="english">He essayed escape.</span></p>
 
 <p><span class="chinese">但他独自逃走了。</span><span class="english">But he escaped alone.</span></p>

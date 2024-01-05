@@ -1,5 +1,7 @@
 # 眉毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meimao.md)
+
 <p><span class="chinese">看看我的眉毛？</span><span class="english">Look at my eyebrows?</span></p>
 
 <p><span class="chinese">我的眉毛很浓。</span><span class="english">My eyebrows are dark.</span></p>

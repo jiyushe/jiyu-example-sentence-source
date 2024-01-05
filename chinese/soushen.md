@@ -1,5 +1,7 @@
 # 搜身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/soushen.md)
+
 <p><span class="chinese">只是他们的父母被搜身了。</span><span class="english">The parents get frisked.</span></p>
 
 <p><span class="chinese">回头要好好提高搜身术咯。</span><span class="english">I gotta get better at frisking.</span></p>

@@ -1,5 +1,7 @@
 # apologetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apologetic.md)
+
 <p><span class="chinese">紫金矿业的道歉声明很不寻常。</span><span class="english">Zijin's apologetic statements were unusual.</span></p>
 
 <p><span class="chinese">我们将一路环岛而行。</span><span class="english">He smiled in an awkward almost apologetic way.</span></p>

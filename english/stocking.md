@@ -1,5 +1,7 @@
 # stocking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stocking.md)
+
 <p><span class="chinese">她穿上长统袜。</span><span class="english">She rolled her stocking on.</span></p>
 
 <p><span class="chinese">袜子的线在散开来。</span><span class="english">The stocking is raveling out.</span></p>

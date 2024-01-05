@@ -1,5 +1,7 @@
 # 产房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanfang.md)
+
 <p><span class="chinese">这些甲虫顺着地道建造香肠形状的产房。</span><span class="english">These beetles make sausage-shaped brood chambers along the tunnels.</span></p>
 
 <p><span class="chinese">它也是牙医和产房使用的一种常见麻醉剂。</span><span class="english">It is also a common anaesthetic, used by dentists and in maternity wards.</span></p>

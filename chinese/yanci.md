@@ -1,5 +1,7 @@
 # 严词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanci.md)
+
 <p><span class="chinese">他们的要求将遭到严词拒绝。</span><span class="english">Their claims will be fervently denied.</span></p>
 
 <p><span class="chinese">政府高级官员严词否认了利沃夫的上述两个说法。</span><span class="english">Top officials have strongly rejected both claims.</span></p>

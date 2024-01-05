@@ -1,5 +1,7 @@
 # deficit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deficit.md)
+
 <p><span class="chinese">第二点，贸易赤字。</span><span class="english">Next, the trade deficit.</span></p>
 
 <p><span class="chinese">首先是美国的贸易赤字。</span><span class="english">First is the US trade deficit.</span></p>

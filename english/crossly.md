@@ -1,5 +1,7 @@
 # crossly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossly.md)
+
 <p><span class="chinese">她生气地看着自己的丈夫。</span><span class="english">She looked at her husband crossly.</span></p>
 
 <p><span class="chinese">“你胡说，”他生气地说。</span><span class="english">"You do talk rot. " he said crossly.</span></p>

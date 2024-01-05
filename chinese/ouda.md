@@ -1,5 +1,7 @@
 # 殴打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ouda.md)
+
 <p><span class="chinese">他的脚底板被殴打，还得了哮喘。</span><span class="english">The soles of his feet were beaten.</span></p>
 
 <p><span class="chinese">而就在那个时候开始殴打。</span><span class="english">And that's when the beatings began.</span></p>

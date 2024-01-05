@@ -1,5 +1,7 @@
 # fixedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fixedly.md)
+
 <p><span class="chinese">他直勾勾地盯着远处看。</span><span class="english">He stared fixedly at me.</span></p>
 
 <p><span class="chinese">她仍然一动不动地望着他。</span><span class="english">And she continued to look at him fixedly all the time.</span></p>

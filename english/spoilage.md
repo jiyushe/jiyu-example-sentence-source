@@ -1,5 +1,7 @@
 # spoilage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spoilage.md)
+
 <p><span class="chinese">被糟蹋掉的谷物数量极大。</span><span class="english">The spoilage of corn was considerable.</span></p>
 
 <p><span class="chinese">微生物引起的食品腐败</span><span class="english">Spoilage of Food Caused by Microorganisms</span></p>

@@ -1,5 +1,7 @@
 # 教唆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaosuo.md)
+
 <p><span class="chinese">如此教唆残杀，直到气喘咻咻。</span><span class="english">And thus for wider carnage taught to pant.</span></p>
 
 <p><span class="chinese">这是远离协助及教唆他人侵犯版权。</span><span class="english">That is far from aiding and abetting copyright infringement.</span></p>

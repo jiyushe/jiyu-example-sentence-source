@@ -1,5 +1,7 @@
 # cartwright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cartwright.md)
+
 <p><span class="chinese">卡特赖特博士说，梦连接我们的过去与现在。</span><span class="english">Doctor Cartwright says dreaming unites our past and present.</span></p>
 
 <p><span class="chinese">Cartwright博士说，“那个时候才最有可能记得一个梦。”</span><span class="english">"That's when you are most likely to catch a dream," says Dr. Cartwright.</span></p>

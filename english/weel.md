@@ -1,5 +1,7 @@
 # weel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weel.md)
+
 <p><span class="chinese">大家在聚会上玩得都很开心。</span><span class="english">Everyone had a weel time in party.</span></p>
 
 <p><span class="chinese">胚轴或幼茎的嫁接亲合力是个人满意的。</span><span class="english">The grafting affinity of plumular axis or caulicle is weel.</span></p>

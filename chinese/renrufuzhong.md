@@ -1,5 +1,7 @@
 # 忍辱负重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renrufuzhong.md)
+
 <p><span class="chinese">中国人是最能忍辱负重的人民。</span><span class="english">What we Chinese do best, is to endure.</span></p>
 
 <p><span class="chinese">为什么人一定要忍辱负重地活着？</span><span class="english">Why do we have to live like this when we don't want to?</span></p>

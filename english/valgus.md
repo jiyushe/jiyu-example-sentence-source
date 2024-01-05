@@ -1,5 +1,7 @@
 # valgus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valgus.md)
+
 <p><span class="chinese">上述措施可防止出现肘内翻或外翻畸形。</span><span class="english">These measures would prevent the cubitus varus or valgus deformity.</span></p>
 
 <p><span class="chinese">比较研究正常足和外翻足横弓的形态，探讨横弓在外翻发生发展中的作用。</span><span class="english">To study the role of the transverse arch in the pathogensis of hallux valgus.</span></p>

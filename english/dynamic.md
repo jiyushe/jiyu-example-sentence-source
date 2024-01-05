@@ -1,5 +1,7 @@
 # dynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dynamic.md)
+
 <p><span class="chinese">动态性对我们意味着什么？</span><span class="english">What Do We Mean By Dynamic?</span></p>
 
 <p><span class="chinese">什么是动态语言？</span><span class="english">What are dynamic languages?</span></p>

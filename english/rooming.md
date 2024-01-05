@@ -1,5 +1,7 @@
 # rooming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rooming.md)
+
 <p><span class="chinese">你和谁住在一起?</span><span class="english">Who are you rooming with?</span></p>
 
 <p><span class="chinese">轻松处理团队客人分房。</span><span class="english">Easy handle rooming list of group.</span></p>

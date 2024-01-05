@@ -1,5 +1,7 @@
 # 押送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yasong.md)
+
 <p><span class="chinese">于是他们将他捆绑起来，押送到Ea跟前。</span><span class="english">They bound him, holding him before Ea.</span></p>
 
 <p><span class="chinese">押送他的警察不让他跟我说话。</span><span class="english">His police escort forbade him to speak to me.</span></p>

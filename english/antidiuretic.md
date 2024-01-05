@@ -1,5 +1,7 @@
 # antidiuretic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antidiuretic.md)
+
 <p><span class="chinese">此外，它改善了渴，刺激抗利尿激素分泌的。</span><span class="english">Furthermore, it enhances thirst and stimulates the secretion of the antidiuretic hormone.</span></p>
 
 <p><span class="chinese">如果这是唯一的问题，抗利尿的处方可以减少夜间排尿。</span><span class="english">A prescription antidiuretic can cut down on nighttime urination if this is the only problem.</span></p>

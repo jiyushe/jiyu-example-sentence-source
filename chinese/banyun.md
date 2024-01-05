@@ -1,5 +1,7 @@
 # 拌匀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banyun.md)
+
 <p><span class="chinese">加椰蓉，拌匀。</span><span class="english">Add coconut. Mix.</span></p>
 
 <p><span class="chinese">加入泡打粉，拌匀。</span><span class="english">Add cake powder Mix.</span></p>

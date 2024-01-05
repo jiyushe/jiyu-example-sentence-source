@@ -1,5 +1,7 @@
 # 结晶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejing_4.md)
+
 <p><span class="chinese">蜜存放日久即行结晶。</span><span class="english">Honey crystallizes if kept too long.</span></p>
 
 <p><span class="chinese">结晶格子及结晶系统。</span><span class="english">Crystal lattices and crystal systems.</span></p>

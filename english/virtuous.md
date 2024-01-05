@@ -1,5 +1,7 @@
 # virtuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virtuous.md)
+
 <p><span class="chinese">“这是一个良性循环”。</span><span class="english">It’s a virtuous circle.</span></p>
 
 <p><span class="chinese">我的妻子非常贤惠。</span><span class="english">My wife is very virtuous.</span></p>

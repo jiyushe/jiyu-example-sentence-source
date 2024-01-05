@@ -1,5 +1,7 @@
 # 骨骼肌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gugeji.md)
+
 <p><span class="chinese">它又称为随意肌或骨骼肌。</span><span class="english">It also called involuntary muscle or skeletal muscle.</span></p>
 
 <p><span class="chinese">运送眼睛及各500克的肝脏和骨骼肌。</span><span class="english">Ship the eyes and 500g each of liver and skeletal muscle.</span></p>

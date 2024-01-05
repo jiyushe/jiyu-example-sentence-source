@@ -1,5 +1,7 @@
 # ingrowth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingrowth.md)
+
 <p><span class="chinese">植骨区域内均可见到大量的破骨细胞，并有血管纤维组织长入。</span><span class="english">Ingrowth of blood vessel tissue and osteoblast could be seen in both sides.</span></p>
 
 <p><span class="chinese">股骨柄及髋臼骨-假体界面的评估均为骨性稳定。</span><span class="english">All bone-prosthesis interface of acetabulum and femoral stem achieved bone ingrowth stable.</span></p>

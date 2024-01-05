@@ -1,5 +1,7 @@
 # schemer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schemer.md)
+
 <p><span class="chinese">他承认自己是个阴谋家。</span><span class="english">He himself admits he is a schemer.</span></p>
 
 <p><span class="chinese">可那太傅却是一位狡诈邪恶的阴谋家</span><span class="english">who was a cunning and wicked schemer.</span></p>

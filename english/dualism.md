@@ -1,5 +1,7 @@
 # dualism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dualism.md)
+
 <p><span class="chinese">第二种是空间的二元论。</span><span class="english">There's also a spatial dualism.</span></p>
 
 <p><span class="chinese">这就是空间的二元论。</span><span class="english">So that's another dualism of space.</span></p>

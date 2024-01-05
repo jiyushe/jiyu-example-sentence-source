@@ -1,5 +1,7 @@
 # 荠菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jicai.md)
+
 <p><span class="chinese">春季防流脑，荠菜煮粥好。</span><span class="english">Spring anti-ECM, a good shepherd's purse porridge.</span></p>
 
 <p><span class="chinese">不知道现在的孩子是否还能认识荠菜？</span><span class="english">Do not know if children can understand shepherd's purse?</span></p>

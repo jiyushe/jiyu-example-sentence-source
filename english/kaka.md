@@ -1,5 +1,7 @@
 # kaka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaka.md)
+
 <p><span class="chinese">卡卡属于上帝。</span><span class="english">Kaka belongs to Jesus.</span></p>
 
 <p><span class="chinese">卡卡不应该回来吗？</span><span class="english">Kaka should not come ?</span></p>

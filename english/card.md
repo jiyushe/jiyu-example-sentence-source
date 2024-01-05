@@ -1,5 +1,7 @@
 # card 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/card.md)
+
 <p><span class="chinese">卡片机？</span><span class="english">Card machine?</span></p>
 
 <p><span class="chinese">折叠这张卡片。</span><span class="english">Fold the card.</span></p>

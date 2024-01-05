@@ -1,5 +1,7 @@
 # vacillate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacillate.md)
+
 <p><span class="chinese">奥巴马一样会动摇。</span><span class="english">Like Mr Obama, he will vacillate.</span></p>
 
 <p><span class="chinese">有时你一定会犹豫…</span><span class="english">You are bound to vacillate at times.</span></p>

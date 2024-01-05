@@ -1,5 +1,7 @@
 # emissary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emissary.md)
+
 <p><span class="chinese">他，是绿色的使者。</span><span class="english">He, it is green emissary.</span></p>
 
 <p><span class="chinese">我是这个世界统治者的使者。</span><span class="english">I am the emissary to the ruler of all the world.</span></p>

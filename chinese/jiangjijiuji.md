@@ -1,5 +1,7 @@
 # 将计就计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangjijiuji.md)
+
 <p><span class="chinese">我很难换过来，因此我就将计就计了。</span><span class="english">It was hard for me to change so I just went ahead.</span></p>
 
 <p><span class="chinese">我们已经知道敌人的阴谋，为何不将计就计呢？</span><span class="english">Why not turn to advantage the enemy's plot, since we have known it?</span></p>

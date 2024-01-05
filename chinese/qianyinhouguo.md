@@ -1,5 +1,7 @@
 # 前因后果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianyinhouguo.md)
+
 <p><span class="chinese">我们应该根据这一事件的前因后果寻求解决办法。</span><span class="english">We should seek settlement in the context of that incident.</span></p>
 
 <p><span class="chinese">的前因后果，或者利用FVF软件进行条件监控。</span><span class="english">Cause and effect, or use FVF software for condition monitoring.</span></p>

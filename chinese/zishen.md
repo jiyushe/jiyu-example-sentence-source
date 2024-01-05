@@ -1,5 +1,7 @@
 # 自身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishen.md)
+
 <p><span class="chinese">其中一个是肌肉自身因素。</span><span class="english">One is the muscle itself.</span></p>
 
 <p><span class="chinese">美德的报偿即其自身。善有善报。</span><span class="english">Virtue is its own reward.</span></p>

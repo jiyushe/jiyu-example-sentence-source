@@ -1,5 +1,7 @@
 # spent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spent.md)
+
 <p><span class="chinese">他们花时间在掷骰子赌博上。</span><span class="english">They spent time dicing.</span></p>
 
 <p><span class="chinese">我们共度了一个星期。</span><span class="english">We spent a week together.</span></p>

@@ -1,5 +1,7 @@
 # 棉农
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miannong.md)
+
 <p><span class="chinese">棉农通过游说使这一议案得以通过。</span><span class="english">The cotton farmers lobbied this bill through.</span></p>
 
 <p><span class="chinese">现在，美国也补助巴西的棉农。</span><span class="english">Now the U.S. paying Brazilian cotton farmers, too.</span></p>

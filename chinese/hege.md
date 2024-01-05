@@ -1,5 +1,7 @@
 # 合格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hege.md)
+
 <p><span class="chinese">所有货物都加盖了检验合格封印。</span><span class="english">All goods were sealed.</span></p>
 
 <p><span class="chinese">他驾驶测验不合格。</span><span class="english">He failed his driving-test.</span></p>

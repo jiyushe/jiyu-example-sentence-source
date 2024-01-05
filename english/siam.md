@@ -1,5 +1,7 @@
 # siam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siam.md)
+
 <p><span class="chinese">暹罗的侍妾。</span><span class="english">The concubines of Siam.</span></p>
 
 <p><span class="chinese">这与暹罗人信仰佛教有紧密的联系。</span><span class="english">It relates to the Buddhist belief in Siam.</span></p>

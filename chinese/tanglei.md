@@ -1,5 +1,7 @@
 # 糖类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanglei.md)
+
 <p><span class="chinese">大多数人的饮食含有大量的糖类。</span><span class="english">Most people\'s diets have plenty of sweets.</span></p>
 
 <p><span class="chinese">最大的挑战就是拒绝吃糖类。</span><span class="english">The biggest challenge is cutting out sugar.</span></p>

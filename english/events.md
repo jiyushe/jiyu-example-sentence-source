@@ -1,5 +1,7 @@
 # events
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/events.md)
+
 <p><span class="chinese">将事件作为控制流？</span><span class="english">Events as control flow?</span></p>
 
 <p><span class="chinese">标准事件的挂钩。</span><span class="english">Hooks for standard events.</span></p>

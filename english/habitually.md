@@ -1,5 +1,7 @@
 # habitually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habitually.md)
+
 <p><span class="chinese">你肯定会想要习惯性的望餐盘里加餐。</span><span class="english">You’ll probably habitually want to fill the plate.</span></p>
 
 <p><span class="chinese">巴西的现金账户仍然经常为负。</span><span class="english">Brazil still habitually runs a current-account deficit.</span></p>

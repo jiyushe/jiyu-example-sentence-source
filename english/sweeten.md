@@ -1,5 +1,7 @@
 # sweeten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweeten.md)
+
 <p><span class="chinese">你的咖啡加糖吗?</span><span class="english">Do you like to sweeten your coffee?</span></p>
 
 <p><span class="chinese">他能把极平常之事说得十分动听。</span><span class="english">He can sweeten the ordinary things.</span></p>

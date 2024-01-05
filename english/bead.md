@@ -1,5 +1,7 @@
 # bead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bead.md)
+
 <p><span class="chinese">如果你是一枚珠贝。</span><span class="english">If you are a bead shell.</span></p>
 
 <p><span class="chinese">是晨曦遗漏的珠子么？</span><span class="english">Is bead which the dawn omits?</span></p>

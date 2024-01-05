@@ -1,5 +1,7 @@
 # perigee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perigee.md)
+
 <p><span class="chinese">相反，当它运行到最近的位置时，那就叫近地点。</span><span class="english">At its closest, the moon is said to be at perigee.</span></p>
 
 <p><span class="chinese">这一现象被称为”月球近地点”或”超级月亮”。</span><span class="english">This phenomenon is called "lunar perigee", or "SuperMoon".</span></p>

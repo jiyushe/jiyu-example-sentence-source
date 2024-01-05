@@ -1,5 +1,7 @@
 # 失误
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwu_3.md)
+
 <p><span class="chinese">他们失误了吗？</span><span class="english">Are they lapsing?</span></p>
 
 <p><span class="chinese">技术抑或人为失误？</span><span class="english">Tech or human fail?</span></p>

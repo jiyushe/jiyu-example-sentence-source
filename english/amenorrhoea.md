@@ -1,5 +1,7 @@
 # amenorrhoea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amenorrhoea.md)
+
 <p><span class="chinese">女性病人常有闭经。</span><span class="english">FemaleThe patient often has amenorrhoea.</span></p>
 
 <p><span class="chinese">朋友突然性闭经怎么办？</span><span class="english">How does abrupt sex amenorrhoea do the friend?</span></p>

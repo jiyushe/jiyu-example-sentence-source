@@ -1,5 +1,7 @@
 # garland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garland.md)
+
 <p><span class="chinese">朱迪?加兰我唱不好。</span><span class="english">I did a mean Judy Garland.</span></p>
 
 <p><span class="chinese">我的名字是Kassidy花环。</span><span class="english">My name is Kassidy Garland.</span></p>

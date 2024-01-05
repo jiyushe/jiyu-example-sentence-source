@@ -1,5 +1,7 @@
 # disseminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disseminate.md)
+
 <p><span class="chinese">那你们学了以后，可以把中国武术的精神传播得更广。</span><span class="english">It also can disseminate the knowledge, the culture and so on.</span></p>
 
 <p><span class="chinese">收集和传播手工钻石开采的信息。</span><span class="english">To gather and disseminate information on artisanal diamond mining.</span></p>

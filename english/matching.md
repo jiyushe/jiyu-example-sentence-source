@@ -1,5 +1,7 @@
 # matching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matching.md)
+
 <p><span class="chinese">配套雨罩。</span><span class="english">Matching rain hood.</span></p>
 
 <p><span class="chinese">找相匹配的袜子。</span><span class="english">Look for matching sock.</span></p>

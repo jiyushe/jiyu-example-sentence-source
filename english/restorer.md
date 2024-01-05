@@ -1,5 +1,7 @@
 # restorer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restorer.md)
+
 <p><span class="chinese">它可由核中的恢复子基因所改变。</span><span class="english">It can be modified by nuclear restorer genes.</span></p>
 
 <p><span class="chinese">山坡已经秃头了，请灌入生发剂。</span><span class="english">Mountain already bald, please infuse into hair restorer.</span></p>

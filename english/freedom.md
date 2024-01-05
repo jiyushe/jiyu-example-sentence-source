@@ -1,5 +1,7 @@
 # freedom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freedom.md)
+
 <p><span class="chinese">让自由之钟响起！</span><span class="english">Let freedom ring.</span></p>
 
 <p><span class="chinese">自由和空间。</span><span class="english">Freedom and space.</span></p>

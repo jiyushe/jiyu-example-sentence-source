@@ -1,5 +1,7 @@
 # 姑且
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guqie.md)
+
 <p><span class="chinese">姑且令之随风逝！</span><span class="english">Let it Go With Wind!</span></p>
 
 <p><span class="chinese">但姑且先听一听。</span><span class="english">But it purports to be true.</span></p>

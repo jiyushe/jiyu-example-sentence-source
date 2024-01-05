@@ -1,5 +1,7 @@
 # attention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attention.md)
+
 <p><span class="chinese">现在我吸引力他的注意力。</span><span class="english">Now I have his attention.</span></p>
 
 <p><span class="chinese">此计划等待着处理。</span><span class="english">The plan awaits attention.</span></p>

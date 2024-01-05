@@ -1,5 +1,7 @@
 # 术语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuyu_1.md)
+
 <p><span class="chinese">我们得用术语来说</span><span class="english">Let's use our jargon.</span></p>
 
 <p><span class="chinese">这是一个英国的术语。</span><span class="english">This is a British term.</span></p>

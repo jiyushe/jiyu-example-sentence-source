@@ -1,5 +1,7 @@
 # 先祖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzu.md)
+
 <p><span class="chinese">并将其改良，授予严咏春先祖。</span><span class="english">Its improvement, given Yanyong Chun ancestors.</span></p>
 
 <p><span class="chinese">也别忘记，俄备得成为了耶稣的先祖。</span><span class="english">Remember too that Obed became an ancestor of Jesus.</span></p>

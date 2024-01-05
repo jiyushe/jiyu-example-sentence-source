@@ -1,5 +1,7 @@
 # 鸡头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jitou_1.md)
+
 <p><span class="chinese">朵朵都像大公鸡头上红红的鸡冠子。</span><span class="english">Blossoming is like a big cock head sub-red crest.</span></p>
 
 <p><span class="chinese">最大的鸡头是主管部门、搞媒体的和搞展会的。</span><span class="english">Chicken head is the largest department, engage the media and engage in the show.</span></p>

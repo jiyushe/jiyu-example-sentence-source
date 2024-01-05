@@ -1,5 +1,7 @@
 # 开会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaihui.md)
+
 <p><span class="chinese">他们正在开会。</span><span class="english">They're at a meeting.</span></p>
 
 <p><span class="chinese">他约好了开会时间不来。</span><span class="english">He blew off the meeting.</span></p>

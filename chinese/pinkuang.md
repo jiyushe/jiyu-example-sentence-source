@@ -1,5 +1,7 @@
 # 贫矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinkuang.md)
+
 <p><span class="chinese">溶浸采矿是从贫矿、残矿、废石堆、尾矿中提取金的一种行之有效的方法。</span><span class="english">Solution mining is a available method to extract gold from lean ore, relic, waste dumps and tailings.</span></p>
 
 <p><span class="chinese">介绍了金川矿区镍贫矿资源开发利用及矿山生产的基本情况，并着重对金川矿区贫矿资源开发利用的意义做了详细论述。</span><span class="english">Description is made of the development and utilization of Ni lean ore resource and mine production in Jinchuan Mine.</span></p>

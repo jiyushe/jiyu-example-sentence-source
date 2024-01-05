@@ -1,5 +1,7 @@
 # 乐业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leye.md)
+
 <p><span class="chinese">长期以来，季先生对书画艺术的研究孜孜不倦，乐此不疲，可谓乐业。</span><span class="english">A long time, Mr. quarter study diligently the art of calligraphy and painting, this way, can enjoy.</span></p>
 
 <p><span class="chinese">他们把员工当成了机器人，员工当然会缺少敬业乐业的精神。</span><span class="english">They take employee as robot, the employee certainly will be in need of respect-work joy industry of spirit.</span></p>

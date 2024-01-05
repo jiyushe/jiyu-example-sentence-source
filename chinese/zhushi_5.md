@@ -1,5 +1,7 @@
 # 诸事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushi_5.md)
+
 <p><span class="chinese">于是建造城邑，诸事亨通。</span><span class="english">So they built and prospered.</span></p>
 
 <p><span class="chinese">神作诸事向来有始有终。</span><span class="english">And God will finish what He has begun.</span></p>

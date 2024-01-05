@@ -1,5 +1,7 @@
 # 门脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menlian.md)
+
 <p><span class="chinese">那雄共汽车失走控制，撞到了一家商店的门脸。</span><span class="english">The bus go out of control and run into a shop front.</span></p>
 
 <p><span class="chinese">离那儿只有几个门脸儿，居然有一家饭馆儿以“毛”命名。</span><span class="english">And a few doors down, there's a restaurant named after Mao.</span></p>

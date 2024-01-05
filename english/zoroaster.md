@@ -1,5 +1,7 @@
 # zoroaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoroaster.md)
+
 <p><span class="chinese">因为琐罗亚斯德是一神论者，阿胡玛兹达是唯一的神。</span><span class="english">For Zoroaster was a monotheist, for whom Ahuramazda was the One god.</span></p>
 
 <p><span class="chinese">在一刹那，我毫无疑问地确信美赫巴巴就是琐罗亚斯德。</span><span class="english">In a split second, I was convinced beyond doubt that Meher Baba is Zoroaster.</span></p>

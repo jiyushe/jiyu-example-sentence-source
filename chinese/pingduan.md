@@ -1,5 +1,7 @@
 # 评断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingduan.md)
+
 <p><span class="chinese">我特此保留我的评断。</span><span class="english">I hereby reserve my judgment.</span></p>
 
 <p><span class="chinese">我们时常通过一点点信息来评断一个人。</span><span class="english">Too often we judge people on too little information.</span></p>

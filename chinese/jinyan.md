@@ -1,5 +1,7 @@
 # 谨严
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyan.md)
+
 <p><span class="chinese">文章结构谨严。</span><span class="english">The article is compact and carefully constructed.</span></p>
 
 <p><span class="chinese">职业专家倡议，宁可功于谨严也不要大意。</span><span class="english">Career experts suggest erring on the side of caution.</span></p>

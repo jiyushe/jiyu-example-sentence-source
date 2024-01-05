@@ -1,5 +1,7 @@
 # tunica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tunica.md)
+
 <p><span class="chinese">在白膜这种鸡蛋是很容易剥离。</span><span class="english">Such eggs within the tunica albuginea is very easy to strip.</span></p>
 
 <p><span class="chinese">然而，他注册丘尼卡罗伯特斯宾塞在印度河学校。</span><span class="english">However, he was registered at the Indian Creek School in Tunica as Robert Spencer.</span></p>

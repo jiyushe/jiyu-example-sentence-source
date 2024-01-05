@@ -1,5 +1,7 @@
 # 风力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengli_1.md)
+
 <p><span class="chinese">风力增强了。</span><span class="english">The wind is freshening up.</span></p>
 
 <p><span class="chinese">寒风刺骨，风力很大。</span><span class="english">It was bitter coldand very windy.</span></p>

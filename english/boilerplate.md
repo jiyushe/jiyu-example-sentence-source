@@ -1,5 +1,7 @@
 # boilerplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boilerplate.md)
+
 <p><span class="chinese">样板文件还是内联内容？</span><span class="english">Boilerplate or in-line content?</span></p>
 
 <p><span class="chinese">它使用绑定极大地减少了样板文件代码。</span><span class="english">It uses binding to significantly reduce boilerplate code.</span></p>

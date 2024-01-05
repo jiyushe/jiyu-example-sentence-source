@@ -1,5 +1,7 @@
 # sandbar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandbar.md)
+
 <p><span class="chinese">那艘船在沙洲搁浅了。</span><span class="english">The ship was hung up on a sandbar.</span></p>
 
 <p><span class="chinese">顺着流水前进，遇到沙洲就要停。</span><span class="english">Down the stream forward, met sandbar must stop.</span></p>

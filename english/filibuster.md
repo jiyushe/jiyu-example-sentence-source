@@ -1,5 +1,7 @@
 # filibuster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filibuster.md)
+
 <p><span class="chinese">作为一种政府的手段，阻挠议事的行动非常难以理解。</span><span class="english">The filibuster is an incomprehensible device of government.</span></p>
 
 <p><span class="chinese">他们仅威胁说要发动抗争直到参议院休会。</span><span class="english">They simply threatened to filibuster until the Senate adjourns.</span></p>

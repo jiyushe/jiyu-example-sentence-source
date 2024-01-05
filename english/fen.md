@@ -1,5 +1,7 @@
 # fen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fen.md)
+
 <p><span class="chinese">李芬快抹球。</span><span class="english">Fen dinks the ball quickly.</span></p>
 
 <p><span class="chinese">角和元分行记下。</span><span class="english">Ninety yuan, six jiao and five fen.</span></p>

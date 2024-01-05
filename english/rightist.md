@@ -1,5 +1,7 @@
 # rightist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rightist.md)
+
 <p><span class="chinese">我卖给左翼和右翼。</span><span class="english">I sell to leftist and rightist.</span></p>
 
 <p><span class="chinese">席尔瓦是葡萄牙右翼党派民众党成员。</span><span class="english">Silva is a member of the rightist People's Party.</span></p>

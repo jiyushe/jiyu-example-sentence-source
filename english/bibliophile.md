@@ -1,5 +1,7 @@
 # bibliophile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bibliophile.md)
+
 <p><span class="chinese">是的，我是一个藏书者。</span><span class="english">Yes, I am a bibliophile.</span></p>
 
 <p><span class="chinese">我的父亲是一位藏书家。</span><span class="english">My father is a bibliophile.</span></p>

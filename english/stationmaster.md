@@ -1,5 +1,7 @@
 # stationmaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stationmaster.md)
+
 <p><span class="chinese">我们只是个人站长。</span><span class="english">We are individual stationmaster only.</span></p>
 
 <p><span class="chinese">站长内容联盟是做什么的？</span><span class="english">What does stationmaster content alliance make?</span></p>

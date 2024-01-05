@@ -1,5 +1,7 @@
 # cip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cip.md)
+
 <p><span class="chinese">在加拿大适用的职业“督察”。</span><span class="english">"Security and Protective Services". in Canada. "CIP.</span></p>
 
 <p><span class="chinese">中国是世界上使用国际马铃薯中心的种质的最大用户。</span><span class="english">China is one of the largest users of CIP germplasm worldwide.</span></p>

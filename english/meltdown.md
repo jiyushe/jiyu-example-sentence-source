@@ -1,5 +1,7 @@
 # meltdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meltdown.md)
+
 <p><span class="chinese">那在核心熔毁之前有多少时间？</span><span class="english">How much time is there before a meltdown?</span></p>
 
 <p><span class="chinese">是老大哥过于敏感了？</span><span class="english">Is a Big Brother overprotective meltdown?</span></p>

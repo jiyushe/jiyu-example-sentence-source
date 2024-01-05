@@ -1,5 +1,7 @@
 # 丧偶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangou.md)
+
 <p><span class="chinese">对于守寡表现虚伪的丧偶妇女。</span><span class="english">Bereaved women who exhibit their widowhood insincerely.</span></p>
 
 <p><span class="chinese">我不以为他能克服丧偶之痛。</span><span class="english">I do not think he will ever get over the loss of his wife.</span></p>

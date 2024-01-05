@@ -1,5 +1,7 @@
 # 盐巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanba.md)
+
 <p><span class="chinese">请传盐巴给我。</span><span class="english">Please pass me the salt.</span></p>
 
 <p><span class="chinese">他加了一些盐巴在面里面。</span><span class="english">He add some salt in the noodle.</span></p>

@@ -1,5 +1,7 @@
 # 好好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haohao.md)
+
 <p><span class="chinese">好好学习！</span><span class="english">Study!</span></p>
 
 <p><span class="chinese">好好休息，早日康复。</span><span class="english">Rest well.</span></p>

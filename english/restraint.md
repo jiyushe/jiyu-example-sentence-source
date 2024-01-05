@@ -1,5 +1,7 @@
 # restraint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restraint.md)
+
 <p><span class="chinese">事实上，应该尽量节制，B-with，restraint。，应该尽量节制。</span><span class="english">And frankly, A-with restraint.</span></p>
 
 <p><span class="chinese">我们需要学会约束。</span><span class="english">We need to exercise restraint.</span></p>

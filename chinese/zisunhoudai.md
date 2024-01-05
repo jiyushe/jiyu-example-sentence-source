@@ -1,5 +1,7 @@
 # 子孙后代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zisunhoudai.md)
+
 <p><span class="chinese">但是子孙后代们现在无法投票。</span><span class="english">But posterity has no vote.</span></p>
 
 <p><span class="chinese">如果传下去，他无法向子孙后代交代。</span><span class="english">If pass down, he can not conscientious to descendants.</span></p>

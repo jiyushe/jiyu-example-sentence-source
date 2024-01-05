@@ -1,5 +1,7 @@
 # acclimation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acclimation.md)
+
 <p><span class="chinese">NCAA将热适应加入到足球训练的计划中</span><span class="english">The NCAA has incorporated heat acclimation into football training schedules.</span></p>
 
 <p><span class="chinese">但是热适应训练依然是保护运动员的最主要手段。</span><span class="english">But heat acclimation is still a primary method to prepare athletes for the heat.</span></p>

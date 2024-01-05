@@ -1,5 +1,7 @@
 # 门庭若市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mentingruoshi.md)
+
 <p><span class="chinese">今天是婚礼，家门庭若市，来往宾客络绎不绝。</span><span class="english">Today is his wedding. Many people are streaming to his house.</span></p>
 
 <p><span class="chinese">哦，这里真是门庭若市啊！见到大家真是太高兴了！</span><span class="english">Oh, it's kind of a full house here. I'm so glad to see you guys here!</span></p>

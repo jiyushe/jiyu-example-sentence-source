@@ -1,5 +1,7 @@
 # kama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kama.md)
+
 <p><span class="chinese">卡马也是印度教女神的爱的名称。</span><span class="english">Kama is also the name of the Hindu Goddess of love.</span></p>
 
 <p><span class="chinese">卡马经文对不同的人有着不同的意味。</span><span class="english">The Kama Sutra means different things to different people.</span></p>

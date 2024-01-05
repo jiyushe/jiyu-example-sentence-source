@@ -1,5 +1,7 @@
 # sprightly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprightly.md)
+
 <p><span class="chinese">朱迪思是个机灵的姑娘。</span><span class="english">Judith is a sprightly youg woman.</span></p>
 
 <p><span class="chinese">船儿轻快地向前行进。</span><span class="english">The boat moves forward sprightly.</span></p>

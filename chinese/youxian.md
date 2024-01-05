@@ -1,5 +1,7 @@
 # 优先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxian.md)
+
 <p><span class="chinese">女士优先。</span><span class="english">Ladies first.</span></p>
 
 <p><span class="chinese">女士优先。</span><span class="english">“Lady first”.</span></p>

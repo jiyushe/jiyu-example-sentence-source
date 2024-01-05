@@ -1,5 +1,7 @@
 # 言说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshuo_1.md)
+
 <p><span class="chinese">我们欠你的远胜于我们能言说的。</span><span class="english">We owe you more than we can say.</span></p>
 
 <p><span class="chinese">大便是言说的大他者。</span><span class="english">Lacan Shit is the languaged Other.</span></p>

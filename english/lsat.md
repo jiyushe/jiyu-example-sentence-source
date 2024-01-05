@@ -1,5 +1,7 @@
 # lsat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lsat.md)
+
 <p><span class="chinese">如果你的LSAT成绩很高，</span><span class="english">If you have a high LSAT score</span></p>
 
 <p><span class="chinese">以前的LSAT考卷都是公开的。</span><span class="english">Past exams from the LSAT are all released.</span></p>

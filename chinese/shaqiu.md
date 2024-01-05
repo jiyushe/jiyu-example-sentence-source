@@ -1,5 +1,7 @@
 # 沙丘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaqiu.md)
+
 <p><span class="chinese">带状沙丘困住了雨水。</span><span class="english">Ribbons of dunes trap the rains.</span></p>
 
 <p><span class="chinese">沙丘的傲慢自负。</span><span class="english">The Assumption of the Sand-dune.</span></p>

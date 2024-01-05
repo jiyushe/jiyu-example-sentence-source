@@ -1,5 +1,7 @@
 # 开演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiyan.md)
+
 <p><span class="chinese">电影准时开演。</span><span class="english">The film began on time.</span></p>
 
 <p><span class="chinese">戏今晚七点开演。</span><span class="english">The play begins at 7 p.m. this evening.</span></p>

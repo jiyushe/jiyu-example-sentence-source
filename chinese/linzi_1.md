@@ -1,5 +1,7 @@
 # 林子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linzi_1.md)
+
 <p><span class="chinese">鸟大了什么林子都有！</span><span class="english">What has bird big woods are!</span></p>
 
 <p><span class="chinese">林子祥是他的最爱。</span><span class="english">George Lam was his favourite.</span></p>

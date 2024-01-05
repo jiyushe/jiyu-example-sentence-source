@@ -1,5 +1,7 @@
 # 忧闷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmen_1.md)
+
 <p><span class="chinese">我的心哪，你为何忧闷？</span><span class="english">Why are you in despair, O my soul?</span></p>
 
 <p><span class="chinese">她对于自己的失败，依然忧闷在心。</span><span class="english">She was still bitter about her failure.</span></p>

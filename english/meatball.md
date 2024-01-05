@@ -1,5 +1,7 @@
 # meatball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meatball.md)
+
 <p><span class="chinese">是肉丸潜水艇吗？</span><span class="english">Is it a meatball sub?</span></p>
 
 <p><span class="chinese">做肉丸子时，你一定要把肉切碎。</span><span class="english">When you make meatball you must hash up meat.</span></p>

@@ -1,5 +1,7 @@
 # 起点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qidian.md)
+
 <p><span class="chinese">但这里只是海洋的起点。</span><span class="english">But not out of sea.</span></p>
 
 <p><span class="chinese">你的起点应该是零。</span><span class="english">Zero in on what you are about.</span></p>

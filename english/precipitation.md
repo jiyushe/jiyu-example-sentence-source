@@ -1,5 +1,7 @@
 # precipitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precipitation.md)
+
 <p><span class="chinese">唯你，才能得以舒展，只可沉淀。</span><span class="english">Only you can to stretch, only precipitation.</span></p>
 
 <p><span class="chinese">冷球蛋白用冷沉淀法检测。</span><span class="english">Cryoglobulin was detected by cold precipitation.</span></p>

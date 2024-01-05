@@ -1,5 +1,7 @@
 # dishonourable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishonourable.md)
+
 <p><span class="chinese">一企业不端行为。</span><span class="english">One enterprise dishonourable behavior.</span></p>
 
 <p><span class="chinese">“他不会干任何不正当的事。”拉尔夫说。</span><span class="english">He'll do nothing dishonourable said ralph.</span></p>

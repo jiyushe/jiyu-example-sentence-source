@@ -1,5 +1,7 @@
 # 能动性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nengdongxing.md)
+
 <p><span class="chinese">大麻会降低精子能动性和增加不正常精子的数目。</span><span class="english">Marijuana can decrease sperm motility and increase the number of abnormal sperm.</span></p>
 
 <p><span class="chinese">感性活动原则的最重要特征是受动性与能动性。</span><span class="english">The most important properties of sensuous activity are passiveness and activeness.</span></p>

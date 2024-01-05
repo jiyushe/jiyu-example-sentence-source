@@ -1,5 +1,7 @@
 # herbert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herbert.md)
+
 <p><span class="chinese">赫伯特能不能完成使命？</span><span class="english">Was Herbert able to fulfill the task?</span></p>
 
 <p><span class="chinese">你跟赫伯特的第一堂课上得如何？</span><span class="english">How was your first class with Herbert?</span></p>

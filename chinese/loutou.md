@@ -1,5 +1,7 @@
 # 露头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/loutou.md)
+
 <p><span class="chinese">我成了一个暂露头角的组织者。</span><span class="english">I was a budding organization man.</span></p>
 
 <p><span class="chinese">很快我就开始在才艺比赛中暂露头角。</span><span class="english">Soon I was competing in talent shows.</span></p>

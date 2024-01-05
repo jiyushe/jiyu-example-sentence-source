@@ -1,5 +1,7 @@
 # coherent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coherent.md)
+
 <p><span class="chinese">也许一个连贯性的方案可能会帮助我们实现这一目标。</span><span class="english">A coherent plan could.</span></p>
 
 <p><span class="chinese">他甚至没问过我几个条理清楚的问题。</span><span class="english">He didn't even ask me coherent questions.</span></p>

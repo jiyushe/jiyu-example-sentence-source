@@ -1,5 +1,7 @@
 # mentor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mentor.md)
+
 <p><span class="chinese">您的导师是谁？</span><span class="english">Who is Your Mentor?</span></p>
 
 <p><span class="chinese">指导一个孩子或学生。</span><span class="english">Mentor a child or student.</span></p>

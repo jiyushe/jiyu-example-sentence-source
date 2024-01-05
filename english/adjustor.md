@@ -1,5 +1,7 @@
 # adjustor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjustor.md)
+
 <p><span class="chinese">转速调节器的设计。</span><span class="english">The design of rotor-speed adjustor.</span></p>
 
 <p><span class="chinese">他成了一名生产线上的调试员。</span><span class="english">He became an adjustor on the production line.</span></p>

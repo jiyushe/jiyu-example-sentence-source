@@ -1,5 +1,7 @@
 # royalties
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/royalties.md)
+
 <p><span class="chinese">我们并没有从中获得专利费。</span><span class="english">We don't get royalties from it.</span></p>
 
 <p><span class="chinese">支付专利使用费和管理费。</span><span class="english">Payment of royalties and management fees.</span></p>

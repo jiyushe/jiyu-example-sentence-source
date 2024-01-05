@@ -1,5 +1,7 @@
 # 龙城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longcheng.md)
+
 <p><span class="chinese">北京龙城妇科专家如是说。</span><span class="english">Beijing Dragon City Gynecology department experts said.</span></p>
 
 <p><span class="chinese">同一天，金正日还视察了平壤市龙城食品厂。</span><span class="english">The same day, Kim Jong Il also visited Pyongyang Dragon Food Factory.</span></p>

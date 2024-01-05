@@ -1,5 +1,7 @@
 # revile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revile.md)
+
 <p><span class="chinese">仇敌亵渎你的名，要到永远吗？</span><span class="english">Will the foe revile your name forever?</span></p>
 
 <p><span class="chinese">他这样咒骂的女人，可是你的妻子，你竟然受得了！</span><span class="english">You suffer him to revile her who is your wife!</span></p>

@@ -1,5 +1,7 @@
 # stearic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stearic.md)
+
 <p><span class="chinese">硬脂酸可能是素食主义者或没有。</span><span class="english">Stearic Acid May be vegetarian or not.</span></p>
 
 <p><span class="chinese">利用硬脂酸、硅烷偶联剂对重晶石粉进行表面改性。</span><span class="english">Barite powder was modified with stearic acid and silicane.</span></p>

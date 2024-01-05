@@ -1,5 +1,7 @@
 # drooping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drooping.md)
+
 <p><span class="chinese">疲倦的眼脸保持圆睁大张。</span><span class="english">And keep my drooping eyelids open wide.</span></p>
 
 <p><span class="chinese">这些花因缺水而凋萎。</span><span class="english">The flowers were drooping for want of water.</span></p>

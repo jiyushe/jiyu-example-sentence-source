@@ -1,5 +1,7 @@
 # bats
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bats.md)
+
 <p><span class="chinese">但到现在蝙蝠还没有出现。</span><span class="english">But so far no bats.</span></p>
 
 <p><span class="chinese">他有两个乒乓球拍。</span><span class="english">He has two ping-pong bats.</span></p>

@@ -1,5 +1,7 @@
 # reptile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reptile.md)
+
 <p><span class="chinese">谁会怕一只爬虫类阿?。</span><span class="english">Who's afraid of a reptile?</span></p>
 
 <p><span class="chinese">外科医生救了这条重达60磅的爬虫。</span><span class="english">Surgery saved the 60-pound reptile.</span></p>

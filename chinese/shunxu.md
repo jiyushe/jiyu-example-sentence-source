@@ -1,5 +1,7 @@
 # 顺序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunxu.md)
+
 <p><span class="chinese">不按图片顺序。</span><span class="english">Non-numerical sequence.</span></p>
 
 <p><span class="chinese">依字母顺序的。</span><span class="english">It's in alphabetical order.</span></p>

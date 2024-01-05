@@ -1,5 +1,7 @@
 # 老小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoxiao.md)
+
 <p><span class="chinese">首先应该是老大与老小。</span><span class="english">The first one is first and last borns.</span></p>
 
 <p><span class="chinese">一家老小沉浸在喜悦中，亲情浓郁！</span><span class="english">A first immersed in the joy, the family rich!</span></p>

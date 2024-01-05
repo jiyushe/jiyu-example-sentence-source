@@ -1,5 +1,7 @@
 # 误解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujie_1.md)
+
 <p><span class="chinese">不要误解我的意思。</span><span class="english">Do not misunderstand me.</span></p>
 
 <p><span class="chinese">这是一个误解。</span><span class="english">This is a misconception.</span></p>

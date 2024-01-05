@@ -1,5 +1,7 @@
 # synergist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synergist.md)
+
 <p><span class="chinese">胺类增效剂用于UV油墨、涂料及油漆等领域。</span><span class="english">The Amine Synergist for UV ink, coating and painting.</span></p>
 
 <p><span class="chinese">为改善烧结矿品质，炼铁新厂在烧结生产中试用了SYP烧结增效剂。</span><span class="english">SYP synergist was on trail to improve the grade of sinter.</span></p>

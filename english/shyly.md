@@ -1,5 +1,7 @@
 # shyly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shyly.md)
+
 <p><span class="chinese">灰姑娘害羞的问。</span><span class="english">Cinderella shyly.</span></p>
 
 <p><span class="chinese">克莱尔害羞的笑了。</span><span class="english">Clare smiles, shyly.</span></p>

@@ -1,5 +1,7 @@
 # sided
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sided.md)
+
 <p><span class="chinese">单一片面铝铸造件。</span><span class="english">Single sided aluminum cast piece.</span></p>
 
 <p><span class="chinese">弗兰克在辩论中支持戴维。</span><span class="english">Frand sided with David in the argument.</span></p>

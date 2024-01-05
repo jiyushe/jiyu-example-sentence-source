@@ -1,5 +1,7 @@
 # 精矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingkuang_2.md)
+
 <p><span class="chinese">锡矿砂及其精矿。</span><span class="english">Tin ores and concentrates.</span></p>
 
 <p><span class="chinese">铅矿砂及其精矿。</span><span class="english">Lead ores and concentrates.</span></p>

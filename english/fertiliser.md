@@ -1,5 +1,7 @@
 # fertiliser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fertiliser.md)
+
 <p><span class="chinese">修剪后施玫瑰花肥，培土。</span><span class="english">After pruning, apply a rose fertiliser and mulch.</span></p>
 
 <p><span class="chinese">修剪完成后施用月季花肥。</span><span class="english">After pruning, feed plants with a rose fertiliser.</span></p>

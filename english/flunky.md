@@ -1,5 +1,7 @@
 # flunky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flunky.md)
+
 <p><span class="chinese">我想起孔子说的小人。</span><span class="english">I recall " flunky" named by Confucius.</span></p>
 
 <p><span class="chinese">这是一种奴才心理。</span><span class="english">This is psychology of a kind of flunky.</span></p>

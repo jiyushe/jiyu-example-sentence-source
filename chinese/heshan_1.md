@@ -1,5 +1,7 @@
 # 河山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshan_1.md)
+
 <p><span class="chinese">祖国河山美丽如画。</span><span class="english">Our native land is as pretty as a picture.</span></p>
 
 <p><span class="chinese">他极目远眺美丽的河山。</span><span class="english">He looked afar to the beautiful hills and rivers.</span></p>

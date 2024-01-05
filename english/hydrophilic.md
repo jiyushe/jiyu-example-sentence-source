@@ -1,5 +1,7 @@
 # hydrophilic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrophilic.md)
+
 <p><span class="chinese">亲油不亲水。</span><span class="english">Pro-oil is not hydrophilic.</span></p>
 
 <p><span class="chinese">它并增强非印纹部份的亲水性。</span><span class="english">It also increases the hydrophilic property of the non-image areas.</span></p>

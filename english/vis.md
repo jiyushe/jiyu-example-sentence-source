@@ -1,5 +1,7 @@
 # vis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vis.md)
+
 <p><span class="chinese">直观仪表化子系统?。</span><span class="english">VIS? Visual Instrumentation Subsystem?</span></p>
 
 <p><span class="chinese">你可以在LLB管理器中双击VI来打开它。</span><span class="english">You can open VIs from the LLB Manager by double-clicking them.</span></p>

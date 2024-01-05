@@ -1,5 +1,7 @@
 # 审判官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenpanguan.md)
+
 <p><span class="chinese">名审判官但以理驾到！</span><span class="english">Daniel come to judgment!</span></p>
 
 <p><span class="chinese">名审判官但以理驾到！</span><span class="english">A Daniel come to judgment!</span></p>

@@ -1,5 +1,7 @@
 # plasma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasma.md)
+
 <p><span class="chinese">为什么一个42英寸等离子电视?。</span><span class="english">Why a 42-inch Plasma Television?</span></p>
 
 <p><span class="chinese">胎儿DNA潜藏于母亲的血浆中。</span><span class="english">Foetal DNA floats in mother's plasma</span></p>

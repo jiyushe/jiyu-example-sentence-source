@@ -1,5 +1,7 @@
 # liver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liver.md)
+
 <p><span class="chinese">甚至连肺叶都要笑。</span><span class="english">Even smile in liver.</span></p>
 
 <p><span class="chinese">迷惑肝区肿大？</span><span class="english">Confuse liver area swelling?</span></p>

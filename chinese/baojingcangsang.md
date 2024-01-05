@@ -1,5 +1,7 @@
 # 饱经沧桑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baojingcangsang.md)
+
 <p><span class="chinese">如果确实是那样，那他倒可真算是饱经沧桑的了。</span><span class="english">If that was so, he had really been around.</span></p>
 
 <p><span class="chinese">她一生饱经沧桑。</span><span class="english">She has experienced the vicissitudes of life.</span></p>

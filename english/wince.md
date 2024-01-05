@@ -1,5 +1,7 @@
 # wince
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wince.md)
+
 <p><span class="chinese">他的微笑很快愣住。</span><span class="english">His smile soon modified to a wince.</span></p>
 
 <p><span class="chinese">他们微笑和皱眉，畏缩与嘶嘘。</span><span class="english">Who smile and frown, wince and hiss.</span></p>

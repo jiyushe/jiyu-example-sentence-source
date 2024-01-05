@@ -1,5 +1,7 @@
 # 恣肆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zisi.md)
+
 <p><span class="chinese">因此他的山水、人物画形态恣肆，不拘绳墨。</span><span class="english">Therefore, his landscape painting patterns Zisi, shengmo.</span></p>
 
 <p><span class="chinese">因此他的山水、人物画形态恣肆，不拘绳墨。</span><span class="english">Therefore, hes landscape, figure painting patterns Zisi, informal Shengmo.</span></p>

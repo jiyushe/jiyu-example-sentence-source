@@ -1,5 +1,7 @@
 # 红骨髓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/honggusui.md)
+
 <p><span class="chinese">红骨髓具有造血功能。</span><span class="english">The red marrow has hemopoiesis function.</span></p>
 
 <p><span class="chinese">红骨髓制造红血球和白血球。</span><span class="english">Red bone marrows produce red blood cells and white blood cells.</span></p>

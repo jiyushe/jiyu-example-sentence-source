@@ -1,5 +1,7 @@
 # handwriting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handwriting.md)
+
 <p><span class="chinese">我的字迹？</span><span class="english">My handwriting?</span></p>
 
 <p><span class="chinese">他的字迹很难辨认</span><span class="english">His handwriting was awful.</span></p>

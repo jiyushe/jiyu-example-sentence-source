@@ -1,5 +1,7 @@
 # 柴火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaihuo.md)
+
 <p><span class="chinese">你是一捆柴火？</span><span class="english">Are you a faggot?</span></p>
 
 <p><span class="chinese">我去收集柴火。</span><span class="english">I'll go gather firewood.</span></p>

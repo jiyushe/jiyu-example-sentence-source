@@ -1,5 +1,7 @@
 # print
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/print.md)
+
 <p><span class="chinese">复印店。</span><span class="english">Print shop.</span></p>
 
 <p><span class="chinese">我把它打印了。</span><span class="english">I do print this.</span></p>

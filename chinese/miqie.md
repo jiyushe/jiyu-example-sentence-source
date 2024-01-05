@@ -1,5 +1,7 @@
 # 密切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miqie.md)
+
 <p><span class="chinese">我和她关系密切。</span><span class="english">I'm close with her.</span></p>
 
 <p><span class="chinese">他和一群坏蛋交往密切。</span><span class="english">He took up with a bad crowd.</span></p>

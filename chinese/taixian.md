@@ -1,5 +1,7 @@
 # 苔藓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taixian.md)
+
 <p><span class="chinese">常春藤和苔藓。</span><span class="english">Ivy and moss.</span></p>
 
 <p><span class="chinese">和苔藓的曲径。</span><span class="english">And winding mossy ways.</span></p>

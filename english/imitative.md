@@ -1,5 +1,7 @@
 # imitative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imitative.md)
+
 <p><span class="chinese">表演是一种模仿性艺术。</span><span class="english">Acting is an imitative art.</span></p>
 
 <p><span class="chinese">多项式模型可提高拟合效果。</span><span class="english">Multinomial model can raise to the imitative effect.</span></p>

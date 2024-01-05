@@ -1,5 +1,7 @@
 # ephedra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ephedra.md)
+
 <p><span class="chinese">如何生存黄色夹克的园林。</span><span class="english">Buy online yellow jackets with ephedra.</span></p>
 
 <p><span class="chinese">文献报道中麻黄汤治疗疾病达45种之多，其中以肺系疾病为多。</span><span class="english">The Chinese ephedra decoction treats the disease and is up to more than 45 kinds in the document report.</span></p>

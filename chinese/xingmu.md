@@ -1,5 +1,7 @@
 # 醒目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingmu.md)
+
 <p><span class="chinese">你可以把颜色调得醒目些吗？</span><span class="english">Can you punch up the colors?</span></p>
 
 <p><span class="chinese">你们有没有特别醒目的红颜色的裙子？</span><span class="english">Do you have any sharp-looking red skirts?</span></p>

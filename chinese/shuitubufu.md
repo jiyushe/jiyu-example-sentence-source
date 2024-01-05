@@ -1,5 +1,7 @@
 # 水土不服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuitubufu.md)
+
 <p><span class="chinese">我在这水土不服。</span><span class="english">I haven't acclimatized here.</span></p>
 
 <p><span class="chinese">水土不服的中国公司在美国法庭上遭遇困境</span><span class="english">Chinese Companies Court Disaster</span></p>

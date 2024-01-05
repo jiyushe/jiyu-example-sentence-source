@@ -1,5 +1,7 @@
 # dr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dr.md)
+
 <p><span class="chinese">“你是谁”博士？</span><span class="english">Dr. Who?</span></p>
 
 <p><span class="chinese">刘教授说。</span><span class="english">Said Dr. Liu.</span></p>

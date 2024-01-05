@@ -1,5 +1,7 @@
 # 涟漪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianyi.md)
+
 <p><span class="chinese">湖面泛起涟漪。</span><span class="english">The lake rippled gently.</span></p>
 
 <p><span class="chinese">小小的心湖里起涟漪。</span><span class="english">Ripples stir in my heart.</span></p>

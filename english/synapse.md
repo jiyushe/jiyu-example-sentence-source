@@ -1,5 +1,7 @@
 # synapse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synapse.md)
+
 <p><span class="chinese">结果发现，燕雀RA的轴-体突触较多见。</span><span class="english">The results showed that axo-somatic synapse in RA is dominant.</span></p>
 
 <p><span class="chinese">一根GABA-IR阳性的神经纤维，在外毛细胞区可形成6～7个终末。</span><span class="english">One GABA-IR positive nerve fiber could form synapse with 6-7 OHCs.</span></p>

@@ -1,5 +1,7 @@
 # sprue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprue.md)
+
 <p><span class="chinese">有二种基本的主流道拉料机构设计方法。</span><span class="english">There are two basic designs of sprue puller.</span></p>
 
 <p><span class="chinese">藉由我的测定设备，我检查溶碴和转轮。</span><span class="english">With my measuring equipment, I checked the sprue and runner.</span></p>

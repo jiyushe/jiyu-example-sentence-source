@@ -1,5 +1,7 @@
 # 端端正正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanduanzhengzheng.md)
+
 <p><span class="chinese">她把帽子戴得端端正正。</span><span class="english">Her hat was set squarely on her head.</span></p>
 
 <p><span class="chinese">不管怎样，我认为她们是端端正正的女性。</span><span class="english">At any rate, I think they're a neat bunch of women.</span></p>

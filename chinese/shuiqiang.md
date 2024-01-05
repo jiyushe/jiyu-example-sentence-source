@@ -1,5 +1,7 @@
 # 水枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiqiang.md)
+
 <p><span class="chinese">拿着水枪玩耍，喷得到处都是水，让妈妈非常生气。</span><span class="english">and the mother was very, very disturbed.</span></p>
 
 <p><span class="chinese">大雨哗啦啦下着，喷水枪似的。</span><span class="english">The rain is pouring in lance-like showers.</span></p>

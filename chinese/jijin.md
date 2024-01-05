@@ -1,5 +1,7 @@
 # 急进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijin.md)
+
 <p><span class="chinese">工商总局的急进，引发了更大的争议。</span><span class="english">Industrial and commercial of total bureau rabid , caused bigger dispute.</span></p>
 
 <p><span class="chinese">如果你要接近你的投资人过于急进，可能会有吓跑他们的风险。</span><span class="english">If you approach your investors aggressively, you may risk turning people off.</span></p>

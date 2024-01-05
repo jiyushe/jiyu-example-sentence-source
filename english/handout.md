@@ -1,5 +1,7 @@
 # handout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handout.md)
+
 <p><span class="chinese">我已经把这个放在讲义里了。</span><span class="english">I've put this on the handout.</span></p>
 
 <p><span class="chinese">他也在你们手上的资料里。</span><span class="english">He's on your handout list,too.</span></p>

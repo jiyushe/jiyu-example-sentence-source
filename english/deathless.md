@@ -1,5 +1,7 @@
 # deathless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deathless.md)
+
 <p><span class="chinese">莎拉，我对你的爱永无止尽。</span><span class="english">Sarah, my love for you is deathless.</span></p>
 
 <p><span class="chinese">莎拉，我对你的爱永无止尽。</span><span class="english">Sarah, my loves for you is deathless.</span></p>

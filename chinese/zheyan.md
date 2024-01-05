@@ -1,5 +1,7 @@
 # 遮掩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheyan.md)
+
 <p><span class="chinese">那些树把房子遮掩起来。</span><span class="english">The trees screen the house.</span></p>
 
 <p><span class="chinese">一定是在遮掩什么！</span><span class="english">They must be hiding something.</span></p>

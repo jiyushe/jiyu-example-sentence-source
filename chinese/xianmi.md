@@ -1,5 +1,7 @@
 # 籼米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianmi.md)
+
 <p><span class="chinese">以早籼米淀粉为原料，探讨了复合酶法制备多孔淀粉的工艺条件。</span><span class="english">In this research, indica rice was used as raw material to produce alcohol.</span></p>
 
 <p><span class="chinese">但由于我国籼米产业发展存在着诸多问题，如品质问题、供给问题、出口问题等。</span><span class="english">Indica rice economy in China has a lot of problems, such as quality, supply, export.</span></p>

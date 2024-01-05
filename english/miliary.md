@@ -1,5 +1,7 @@
 # miliary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miliary.md)
+
 <p><span class="chinese">近距离见分布于全肺的粟粒性肉芽肿。</span><span class="english">At closer range, the miliary pattern is seen throughout the lung.</span></p>
 
 <p><span class="chinese">高分辨率显示许多粟粒结节的传播和随机分布在肺部。</span><span class="english">HRCT shows numerous miliary nodules in diffuse and random distribution in both lungs.</span></p>

@@ -1,5 +1,7 @@
 # typhoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typhoid.md)
+
 <p><span class="chinese">他因伤寒而病倒。</span><span class="english">He took down with typhoid fever.</span></p>
 
 <p><span class="chinese">我的父亲刚从伤寒病中复原。</span><span class="english">My father was just recovering from typhoid.</span></p>

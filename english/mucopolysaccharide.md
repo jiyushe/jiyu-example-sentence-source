@@ -1,5 +1,7 @@
 # mucopolysaccharide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mucopolysaccharide.md)
+
 <p><span class="chinese">研究发现在圆锥角膜的各期中，角膜各层酸性粘多糖均减少。</span><span class="english">Acid mucopolysaccharide is found to decrease in every layer of cornea.</span></p>
 
 <p><span class="chinese">胶原蛋白与黏多糖体供给肌肤保湿成分与紧肤效果。</span><span class="english">Collagen and mucopolysaccharide give the skin moisturizer and firming effect.</span></p>

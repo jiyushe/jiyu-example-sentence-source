@@ -1,5 +1,7 @@
 # 无所不在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuobuzai.md)
+
 <p><span class="chinese">神是无所不在的。</span><span class="english">God is omnipresent.</span></p>
 
 <p><span class="chinese">意思是，神无所不在，祂就是我们的家。</span><span class="english">Meaning God is everywhere. He is our home.</span></p>

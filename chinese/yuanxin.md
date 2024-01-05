@@ -1,5 +1,7 @@
 # 圆心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanxin.md)
+
 <p><span class="chinese">向心，即指向圆心。</span><span class="english">Centripetal, pointing towards the center.</span></p>
 
 <p><span class="chinese">这里也是指向圆心的。</span><span class="english">And here, also pointing towards the center.</span></p>

@@ -1,5 +1,7 @@
 # 妖娆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaorao.md)
+
 <p><span class="chinese">强调你自己妖娆女人的身段。</span><span class="english">Accentuate your curves and womanly body.</span></p>
 
 <p><span class="chinese">分外妖娆，冬的味道。</span><span class="english">The taste of winter grow more enchanting.</span></p>

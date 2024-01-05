@@ -1,5 +1,7 @@
 # protected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protected.md)
+
 <p><span class="chinese">猞猁是国家二级保护动物。</span><span class="english">Lynx is a nationally protected animal.</span></p>
 
 <p><span class="chinese">他有案发时不在现场的充分证据。</span><span class="english">The scene of crime had been protected.</span></p>

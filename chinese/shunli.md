@@ -1,5 +1,7 @@
 # 顺利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunli.md)
+
 <p><span class="chinese">恭喜艾薇儿顺利完成巡演！</span><span class="english">Congrats, Avril!</span></p>
 
 <p><span class="chinese">金属也运作得非常顺利。</span><span class="english">Metal also works well.</span></p>

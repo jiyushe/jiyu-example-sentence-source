@@ -1,5 +1,7 @@
 # spring 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spring.md)
+
 <p><span class="chinese">是春季大甩卖的货。</span><span class="english">Spring sale.</span></p>
 
 <p><span class="chinese">今年春季。</span><span class="english">This Spring.</span></p>

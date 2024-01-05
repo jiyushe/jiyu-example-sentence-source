@@ -1,5 +1,7 @@
 # preheating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preheating.md)
+
 <p><span class="chinese">其次还应考虑利用预热问题。</span><span class="english">Second, we should consider the use of preheating.</span></p>
 
 <p><span class="chinese">阿尔泰迈尔建议“避免预热并利用余热”。</span><span class="english">"Avoid preheating and utilize residual heat, " Altmaier advises.</span></p>

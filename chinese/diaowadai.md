@@ -1,5 +1,7 @@
 # 吊袜带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaowadai.md)
+
 <p><span class="chinese">吊袜带变得不时髦了。</span><span class="english">Garters have become out of fashion.</span></p>
 
 <p><span class="chinese">你的吊袜带里仍旧还有那把勾刀吗？</span><span class="english">Still got that knife in your garter?</span></p>

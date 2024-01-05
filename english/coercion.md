@@ -1,5 +1,7 @@
 # coercion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coercion.md)
+
 <p><span class="chinese">我能够做那个强制转换。</span><span class="english">I could have done that just doing the coercion.</span></p>
 
 <p><span class="chinese">以胁迫的手段签订的房屋买卖合同。</span><span class="english">To the Housing sales contracts signed by means of coercion.</span></p>

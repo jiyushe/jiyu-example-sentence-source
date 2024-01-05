@@ -1,5 +1,7 @@
 # 铁牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieniu.md)
+
 <p><span class="chinese">人们管他叫“铁牛”。</span><span class="english">People call him Iron Ox.</span></p>
 
 <p><span class="chinese">我们都称他“铁牛”。</span><span class="english">We all call him Iron Ox.</span></p>

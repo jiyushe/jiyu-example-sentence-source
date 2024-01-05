@@ -1,5 +1,7 @@
 # 眉来眼去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meilaiyanqu.md)
+
 <p><span class="chinese">她与戴维眉来眼去。</span><span class="english">She flirted with David.</span></p>
 
 <p><span class="chinese">我老板对我眉来眼去。</span><span class="english">My boss is giving me the eye.</span></p>

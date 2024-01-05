@@ -1,5 +1,7 @@
 # papua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/papua.md)
+
 <p><span class="chinese">巴布亚岛砍伐森林清整土地</span><span class="english">Logging for Land Clearing in Papua</span></p>
 
 <p><span class="chinese">巴布亚纽几内亚的人明白这个观念。</span><span class="english">The people of Papua New Guinea understand this idea.</span></p>

@@ -1,5 +1,7 @@
 # undertake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undertake.md)
+
 <p><span class="chinese">将货物进行利润分配。</span><span class="english">The goods to undertake profit allocation.</span></p>
 
 <p><span class="chinese">负责水文管理工作。</span><span class="english">to undertake works on hydrologic management.</span></p>

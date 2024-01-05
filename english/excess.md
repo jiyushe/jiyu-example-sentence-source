@@ -1,5 +1,7 @@
 # excess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excess.md)
+
 <p><span class="chinese">我痛恨铺张浪费。</span><span class="english">I hate waste and excess.</span></p>
 
 <p><span class="chinese">不需要付超重费。</span><span class="english">There is no excess to pay.</span></p>

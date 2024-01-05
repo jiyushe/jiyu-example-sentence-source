@@ -1,5 +1,7 @@
 # 教学相长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxuexiangzhang.md)
+
 <p><span class="chinese">教人者，己亦学。教学相长。</span><span class="english">He who teaches, learns.</span></p>
 
 <p><span class="chinese">奥运会，正如他们所说，是个教学相长的时刻。</span><span class="english">This, as they say, is a teaching moment.</span></p>

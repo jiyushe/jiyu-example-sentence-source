@@ -1,5 +1,7 @@
 # pastime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pastime.md)
+
 <p><span class="chinese">我最喜欢的消遣是以及朋友谈天。</span><span class="english">My favorite pastime is chatting with friends.</span></p>
 
 <p><span class="chinese">逛街是很多女孩最喜欢的消磨时间的方式。</span><span class="english">Window-shopping is many girls' favorite pastime.</span></p>

@@ -1,5 +1,7 @@
 # 宽宏大量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanhongdaliang.md)
+
 <p><span class="chinese">梁先生是位宽宏大量的人。</span><span class="english">Mr. Liang is a generous man.</span></p>
 
 <p><span class="chinese">贝佐斯对乔布斯十分宽宏大量。</span><span class="english">Bezos is magnanimous toward Jobs.</span></p>

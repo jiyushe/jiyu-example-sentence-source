@@ -1,5 +1,7 @@
 # 送死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songsi.md)
+
 <p><span class="chinese">我不希望阿岱也来送死。</span><span class="english">I don't want Adai to die,too.</span></p>
 
 <p><span class="chinese">好吧，她值得我们去送死吗?。</span><span class="english">Well, is she worth dying for?</span></p>

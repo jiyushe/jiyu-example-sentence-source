@@ -1,5 +1,7 @@
 # eighth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eighth.md)
+
 <p><span class="chinese">八拜收入高。</span><span class="english">Eighth for high-income.</span></p>
 
 <p><span class="chinese">现在是八楼。</span><span class="english">It's the eighth floor now.</span></p>

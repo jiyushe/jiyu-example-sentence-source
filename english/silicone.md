@@ -1,5 +1,7 @@
 # silicone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silicone.md)
+
 <p><span class="chinese">你的大胸部是硅胶的吗?。</span><span class="english">Are your tatas silicone?</span></p>
 
 <p><span class="chinese">使用的介质为硅油。</span><span class="english">Medium used is silicone oil.</span></p>

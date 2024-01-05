@@ -1,5 +1,7 @@
 # chou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chou.md)
+
 <p><span class="chinese">周杰伦是一位有名的流行歌手。</span><span class="english">Jay Chou is known as a pop singer.</span></p>
 
 <p><span class="chinese">周进跟进去作揖。</span><span class="english">Chou Chin followed him in and bowed.</span></p>

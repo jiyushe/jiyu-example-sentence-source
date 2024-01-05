@@ -1,5 +1,7 @@
 # 查实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chashi.md)
+
 <p><span class="chinese">要查实材料的正确起源很困难。</span><span class="english">It has been difficult to ascertain the correct source of origin.</span></p>
 
 <p><span class="chinese">您要的电传号码有错，请查实。</span><span class="english">The telex number you required is incorrect, please check and confirm.</span></p>

@@ -1,5 +1,7 @@
 # 策略
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/celve.md)
+
 <p><span class="chinese">这个策略是好的。</span><span class="english">The strategy is good.</span></p>
 
 <p><span class="chinese">策略2严格优势于策略1</span><span class="english">strictly dominates 1.</span></p>

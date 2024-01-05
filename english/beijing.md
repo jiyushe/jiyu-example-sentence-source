@@ -1,5 +1,7 @@
 # beijing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beijing.md)
+
 <p><span class="chinese">要为北京欢呼吗？</span><span class="english">Hurray for Beijing?</span></p>
 
 <p><span class="chinese">你是北京人吗？</span><span class="english">Are you from Beijing?</span></p>

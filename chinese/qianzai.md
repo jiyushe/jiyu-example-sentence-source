@@ -1,5 +1,7 @@
 # 千载
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzai.md)
+
 <p><span class="chinese">千载一时，一时千载。</span><span class="english">A thousand years can be within a moment.</span></p>
 
 <p><span class="chinese">罗敷昔时秦氏女，千载无人空处所。</span><span class="english">Qin Luo Fu yore female, golden no empty premises.</span></p>

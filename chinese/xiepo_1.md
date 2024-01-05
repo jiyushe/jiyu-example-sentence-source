@@ -1,5 +1,7 @@
 # 胁迫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiepo_1.md)
+
 <p><span class="chinese">没有人能够胁迫我们。</span><span class="english">No one can intimidate us.</span></p>
 
 <p><span class="chinese">他胁迫她放弃做此事。</span><span class="english">He bullied her out of doing it.</span></p>

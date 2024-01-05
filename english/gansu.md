@@ -1,5 +1,7 @@
 # gansu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gansu.md)
+
 <p><span class="chinese">用甘肃黑猪。</span><span class="english">Gansu Black Swine was used.</span></p>
 
 <p><span class="chinese">为了学生，甘为骆驼。</span><span class="english">For the student, Gansu is a camel.</span></p>

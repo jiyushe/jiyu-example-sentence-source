@@ -1,5 +1,7 @@
 # 盖头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaitou.md)
+
 <p><span class="chinese">一首掀起你的盖头来，曾打动了多少美好的心灵。</span><span class="english">A lift your veil, once touched many hearts.</span></p>
 
 <p><span class="chinese">彩色的糖珠，用作糖果和蛋糕的盖头。</span><span class="english">A sweet, creamy sugar paste used in candies and icings.</span></p>

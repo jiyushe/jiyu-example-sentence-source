@@ -1,5 +1,7 @@
 # 破镜重圆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pojingchongyuan.md)
+
 <p><span class="chinese">你想过和母亲破镜重圆吗？</span><span class="english">Do you and Mom ever think about getting back together?</span></p>
 
 <p><span class="chinese">三个月后，夫妻二人破镜重圆。</span><span class="english">Three months later husband and wife were back together.</span></p>

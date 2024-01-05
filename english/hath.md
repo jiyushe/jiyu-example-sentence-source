@@ -1,5 +1,7 @@
 # hath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hath.md)
+
 <p><span class="chinese">她有感情吗？</span><span class="english">Hath she affections?</span></p>
 
 <p><span class="chinese">每粒蚕豆都长黑嘴。</span><span class="english">Every bean hath its black.</span></p>

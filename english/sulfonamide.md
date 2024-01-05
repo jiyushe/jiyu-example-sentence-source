@@ -1,5 +1,7 @@
 # sulfonamide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfonamide.md)
+
 <p><span class="chinese">用来治疗眼睛传染疾病的磺胺药物。</span><span class="english">A topical sulfonamide used to treat eye infections.</span></p>
 
 <p><span class="chinese">本发明的磺胺二甲基嘧啶抗原可以用于磺胺药物的残留检测。</span><span class="english">The sulfamethazine antigen can be used for detecting the residue of sulfonamide.</span></p>

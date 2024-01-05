@@ -1,5 +1,7 @@
 # 朝拜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaobai.md)
+
 <p><span class="chinese">在伦敦，人们可以去朝拜女皇。</span><span class="english">In London pilgert man zur Queen.</span></p>
 
 <p><span class="chinese">我迫不及待想朝拜上帝。</span><span class="english">I can’t wait to worship the Lord!</span></p>

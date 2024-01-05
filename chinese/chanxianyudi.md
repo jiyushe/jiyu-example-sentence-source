@@ -1,5 +1,7 @@
 # 馋涎欲滴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanxianyudi.md)
+
 <p><span class="chinese">那条狗馋涎欲滴地等着吃。</span><span class="english">The dog licked its chops.</span></p>
 
 <p><span class="chinese">这条狗对狗食馋涎欲滴。</span><span class="english">The dog drooled over his meat.</span></p>

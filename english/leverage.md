@@ -1,5 +1,7 @@
 # leverage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leverage.md)
+
 <p><span class="chinese">所以杠杆性引发风险</span><span class="english">So, leverage brings risk.</span></p>
 
 <p><span class="chinese">双方还可以充分利用经贸混委会机制，同时也应该加强两国企业的直接联系和沟通，开辟合作的新渠道。</span><span class="english">The two sides may also fully leverage</span></p>

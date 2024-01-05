@@ -1,5 +1,7 @@
 # servings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/servings.md)
+
 <p><span class="chinese">尝试每一天保持有两份的摄入。</span><span class="english">Try to keep two servings per day.</span></p>
 
 <p><span class="chinese">这个汤是四人份的。</span><span class="english">There are four servings of this soup.</span></p>

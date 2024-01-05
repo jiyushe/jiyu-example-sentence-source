@@ -1,5 +1,7 @@
 # 老母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laomu.md)
+
 <p><span class="chinese">吃掉自己的猪崽子的老母猪！</span><span class="english">The old sow that eats her farrow!</span></p>
 
 <p><span class="chinese">爱尔兰是一只吃自己猪崽的老母猪。</span><span class="english">Ireland is the old sow that eats her farrow.</span></p>

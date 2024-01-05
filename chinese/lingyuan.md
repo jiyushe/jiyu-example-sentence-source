@@ -1,5 +1,7 @@
 # 陵园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingyuan.md)
+
 <p><span class="chinese">经过了慈湖陵园，我们情不自禁地走了进去。</span><span class="english">After Chihu cemetery , we can not help but go inside.</span></p>
 
 <p><span class="chinese">在阴霾天空下，陵园里分外妖娆娇艳的月季。</span><span class="english">The delicate and charming China rose in the tomb garden.</span></p>

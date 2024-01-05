@@ -1,5 +1,7 @@
 # 印刷体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshuati.md)
+
 <p><span class="chinese">请用印刷体写清你的地址。</span><span class="english">Please print your address clearly.</span></p>
 
 <p><span class="chinese">姓名和地址请用印刷体书写。</span><span class="english">Please write your name and address in print.</span></p>

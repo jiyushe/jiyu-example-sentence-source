@@ -1,5 +1,7 @@
 # polyploid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyploid.md)
+
 <p><span class="chinese">冰草属的多倍体并非严格的同源多倍体。</span><span class="english">The type of polyploid in Agropyron was not strictly autoploid.</span></p>
 
 <p><span class="chinese">对于这一点，最主要的例外是杂种和多倍体物种。</span><span class="english">The main exceptions to this are hybrid and polyploid speciation.</span></p>

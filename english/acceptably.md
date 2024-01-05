@@ -1,5 +1,7 @@
 # acceptably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acceptably.md)
+
 <p><span class="chinese">他们想要神告诉他们怎样以神喜悦的方式服侍他。</span><span class="english">They want God to tell them how to serve Him acceptably.</span></p>
 
 <p><span class="chinese">下一个任务是确保系统在一个可接受的水平上运行。</span><span class="english">The next task was to ensure that the system performed acceptably.</span></p>

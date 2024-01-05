@@ -1,5 +1,7 @@
 # ebb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ebb.md)
+
 <p><span class="chinese">潮有涨夕阳，人有隆替时。</span><span class="english">Every flow has its ebb.</span></p>
 
 <p><span class="chinese">潮起必有潮落。</span><span class="english">Every tide has its ebb.</span></p>

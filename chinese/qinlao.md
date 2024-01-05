@@ -1,5 +1,7 @@
 # 勤劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinlao.md)
+
 <p><span class="chinese">他的勤劳使我感到惭傀。</span><span class="english">His industry rebukes me.</span></p>
 
 <p><span class="chinese">汤姆是个勤劳的孩子。</span><span class="english">Tom is a hard-working boy.</span></p>

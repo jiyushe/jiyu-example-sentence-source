@@ -1,5 +1,7 @@
 # 皮棉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pimian.md)
+
 <p><span class="chinese">我的肚脐将永远是皮棉免费的。</span><span class="english">My belly button will always be lint free.</span></p>
 
 <p><span class="chinese">另外，它还控制'棉花飞'和残留空中皮棉。</span><span class="english">It also controls 'cotton fly' and residual airborne lint.</span></p>

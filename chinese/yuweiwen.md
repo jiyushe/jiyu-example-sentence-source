@@ -1,5 +1,7 @@
 # 鱼尾纹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuweiwen.md)
+
 <p><span class="chinese">先说说鱼尾纹的形成吧。</span><span class="english">The formation that says piscine end grain first.</span></p>
 
 <p><span class="chinese">怎样才能去除黑眼圈、眼袋和鱼尾纹呢！</span><span class="english">How ability purify black rim of the eye, pouch and piscine end grain!</span></p>

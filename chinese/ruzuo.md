@@ -1,5 +1,7 @@
 # 入座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruzuo.md)
+
 <p><span class="chinese">二十他钟后才能安排您入座。</span><span class="english">We can seat you in twenty minutes.</span></p>
 
 <p><span class="chinese">尚未入座者请等待下一场。</span><span class="english">All those unseated will await the next show.</span></p>

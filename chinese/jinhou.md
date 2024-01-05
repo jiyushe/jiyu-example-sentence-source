@@ -1,5 +1,7 @@
 # 今后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinhou.md)
+
 <p><span class="chinese">他今后会失望的。</span><span class="english">He’ll be disappointed.</span></p>
 
 <p><span class="chinese">我听了今后松一口吻。</span><span class="english">I am much relieved to hear that.</span></p>

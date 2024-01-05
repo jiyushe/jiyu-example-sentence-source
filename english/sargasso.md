@@ -1,5 +1,7 @@
 # sargasso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sargasso.md)
+
 <p><span class="chinese">位于大西洋的马尾藻海上就漂浮着大量的海草。</span><span class="english">The Sargasso sea , a free-floating mass of sea weed mostly S.</span></p>
 
 <p><span class="chinese">就在大海平静下来前不久，我们看见有尾藻类海草在海面上漂过。</span><span class="english">Shortly before this flatness we saw sargasso weed floating by.</span></p>

@@ -1,5 +1,7 @@
 # 式微
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwei_1.md)
+
 <p><span class="chinese">但很久以前，抵制的说法还是逐渐式微了。</span><span class="english">But long ago, loose talk of an Olympic boycott had fizzled.</span></p>
 
 <p><span class="chinese">但其他的行省开始在帝国式微之下谋取各自的利益。</span><span class="english">The provinces start to take advantage of the Empire's weakened state.</span></p>

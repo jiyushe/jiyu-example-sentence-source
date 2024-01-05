@@ -1,5 +1,7 @@
 # 鲜红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhong.md)
+
 <p><span class="chinese">如血般的鲜红喧染了年少的心。</span><span class="english">Bloody red noise with the young heart.</span></p>
 
 <p><span class="chinese">她扎头发用的鲜红，鲜红的丝带。</span><span class="english">Scarlet, Scarlet Ribbons for her hair.</span></p>

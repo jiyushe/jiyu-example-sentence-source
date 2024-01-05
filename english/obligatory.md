@@ -1,5 +1,7 @@
 # obligatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obligatory.md)
+
 <p><span class="chinese">她穿着那件经常穿的毛衣，戴着那串惯常戴的珍珠项链。</span><span class="english">She was wearing the obligatory sweater and pearl necklace.</span></p>
 
 <p><span class="chinese">在这里，漂流是必需参与的活动。</span><span class="english">The obligatory activity here is inner-tubing down the river.</span></p>

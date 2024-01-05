@@ -1,5 +1,7 @@
 # mazda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mazda.md)
+
 <p><span class="chinese">马自达拆掉了“玻璃墙”</span><span class="english">‘Glass walls’ come down at Mazda</span></p>
 
 <p><span class="chinese">它是基于马自达五车，其中主要是在日本售出。</span><span class="english">It was based on the Mazda Capella which was mainly sold in Japan.</span></p>

@@ -1,5 +1,7 @@
 # achilles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/achilles.md)
+
 <p><span class="chinese">如果幕后主使真的是阿基里斯的话。</span><span class="english">If it was Achilles.</span></p>
 
 <p><span class="chinese">唱出阿基利斯的愤怒吧，女神</span><span class="english">Sing Goddess the wrath of Achilles.</span></p>

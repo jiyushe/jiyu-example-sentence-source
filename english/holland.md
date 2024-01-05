@@ -1,5 +1,7 @@
 # holland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holland.md)
+
 <p><span class="chinese">他们是荷兰人，从荷兰来。</span><span class="english">They’re Dutch, from Holland.</span></p>
 
 <p><span class="chinese">这是著名的荷兰小人国。</span><span class="english">This is Madurodam in Holland.</span></p>

@@ -1,5 +1,7 @@
 # 魔力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moli_1.md)
+
 <p><span class="chinese">苹果的魔力轨迹板。</span><span class="english">Apple’s Magic Trackpad.</span></p>
 
 <p><span class="chinese">是的，它被称为魔力鼠。</span><span class="english">It’s called Magic Mouse.</span></p>

@@ -1,5 +1,7 @@
 # 州府
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoufu.md)
+
 <p><span class="chinese">CNN记者凯西现在在州府麦迪逊。</span><span class="english">CNN's Casey Wian is actually in Madison right now.</span></p>
 
 <p><span class="chinese">朱诺为其州府，安克雷奇是最大城市。</span><span class="english">Juneau is the capital and Anchorage the largest city.</span></p>

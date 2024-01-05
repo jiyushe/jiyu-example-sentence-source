@@ -1,5 +1,7 @@
 # pretence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretence.md)
+
 <p><span class="chinese">他信教纯属假充样子。</span><span class="english">His religion was a mere pretence.</span></p>
 
 <p><span class="chinese">仙鹤组成一道花环，佯装着起飞。</span><span class="english">The cranes form a garland in the pretence of flight.</span></p>

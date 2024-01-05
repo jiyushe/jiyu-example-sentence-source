@@ -1,5 +1,7 @@
 # pentacle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentacle.md)
+
 <p><span class="chinese">我查阅了有关五角星对犹太人象征意义的一些资料。</span><span class="english">I checked some materials about symbol of the pentacle to Jew.</span></p>
 
 <p><span class="chinese">找一块平展的草地，挖一个五角星的洞进去，用尿灌满它。</span><span class="english">On a flat lawn, dig a pentacle hole, then fill it with urine.</span></p>

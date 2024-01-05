@@ -1,5 +1,7 @@
 # 后患无穷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houhuanwuqiong.md)
+
 <p><span class="chinese">他的计划后患无穷。</span><span class="english">His plans are a recipe for disaster.</span></p>
 
 <p><span class="chinese">邪恶的种子，如果不及时除掉，任其生长，那将后患无穷。</span><span class="english">Destroy the seed of evil, or it will grow up to your ruin.</span></p>

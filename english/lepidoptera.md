@@ -1,5 +1,7 @@
 # lepidoptera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lepidoptera.md)
+
 <p><span class="chinese">成、幼虫以多种鳞翅目幼虫为食。</span><span class="english">Adults and larva preyed on many kinds of Lepidoptera larvae.</span></p>
 
 <p><span class="chinese">这是国际鳞翅目昆虫调查的网站。</span><span class="english">This is the website for The International Lepidoptera Survey.</span></p>

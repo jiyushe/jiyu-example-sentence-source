@@ -1,5 +1,7 @@
 # 刨根问底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paogenwendi.md)
+
 <p><span class="chinese">如果一个聪明人要刨根问底，那他肯定找到非常多的答案。</span><span class="english">Very much if the wit of man could find it out.</span></p>
 
 <p><span class="chinese">他对于人类的存在刨根问底。</span><span class="english">He asked fundamental questions of human existence.</span></p>

@@ -1,5 +1,7 @@
 # dismally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dismally.md)
+
 <p><span class="chinese">随着小男孩的琴声，家里养的狗也开始高一声低一声的叫起来。</span><span class="english">The family dog began to howlalong dismally.</span></p>
 
 <p><span class="chinese">久旱使农民忧郁沮丧。</span><span class="english">The peasants were dismally disheartened by the long drought.</span></p>

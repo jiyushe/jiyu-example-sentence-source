@@ -1,5 +1,7 @@
 # diagnostic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diagnostic.md)
+
 <p><span class="chinese">中医诊法是什麽？</span><span class="english">What are TCM Diagnostic Methods?</span></p>
 
 <p><span class="chinese">振动诊断程序?。</span><span class="english">VDP? Vibration Diagnostic Program?</span></p>

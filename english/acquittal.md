@@ -1,5 +1,7 @@
 # acquittal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquittal.md)
+
 <p><span class="chinese">陪审团宣告无罪。</span><span class="english">The jury brought in an acquittal.</span></p>
 
 <p><span class="chinese">因证据不足而宣判他们无罪.</span><span class="english">Lack of evidence resulted in their acquittal.</span></p>

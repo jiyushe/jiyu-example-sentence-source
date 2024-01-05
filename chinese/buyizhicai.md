@@ -1,5 +1,7 @@
 # 不义之财
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyizhicai.md)
+
 <p><span class="chinese">贪爱不义之财的祸害自己的家。</span><span class="english">He that is greedy of gain troubleth his own house.</span></p>
 
 <p><span class="chinese">他带着不义之财逃往南美。</span><span class="english">He escaped to South America with his ill-gotten gains.</span></p>

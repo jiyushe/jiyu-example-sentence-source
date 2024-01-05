@@ -1,5 +1,7 @@
 # 不甘示弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buganshiruo.md)
+
 <p><span class="chinese">沙特阿拉伯的保守派也不甘示弱。</span><span class="english">Saudi Arabia’s conservatives are not so cowed.</span></p>
 
 <p><span class="chinese">不甘示弱的徐某说出自家的地址。</span><span class="english">Not to be outdone, the Xu family to say the address.</span></p>

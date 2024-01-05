@@ -1,5 +1,7 @@
 # 由来已久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youlaiyijiu.md)
+
 <p><span class="chinese">稚拙美艺术由来已久、源远流长。</span><span class="english">Natural beauty art has a long history.</span></p>
 
 <p><span class="chinese">事实上，蛆疗法由来已久。</span><span class="english">Maggot medicine, in fact, has a long history.</span></p>

@@ -1,5 +1,7 @@
 # 平昔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingxi.md)
+
 <p><span class="chinese">事实平昔不怕考查。</span><span class="english">Truth never fears investigine.</span></p>
 
 <p><span class="chinese">我平昔没有从大学中毕业。</span><span class="english">I never grlistinguingestedd from college.</span></p>

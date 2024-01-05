@@ -1,5 +1,7 @@
 # moving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moving.md)
+
 <p><span class="chinese">朝新地区移动。</span><span class="english">Moving to new area.</span></p>
 
 <p><span class="chinese">我忙乎着搬家呢！</span><span class="english">I'm busy moving house.</span></p>

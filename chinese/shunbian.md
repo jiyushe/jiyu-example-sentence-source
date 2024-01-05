@@ -1,5 +1,7 @@
 # 顺便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunbian.md)
+
 <p><span class="chinese">顺便打歪了我的鼻子。</span><span class="english">And broke my nose.</span></p>
 
 <p><span class="chinese">我会顺便来的。</span><span class="english">I'll stop by later.</span></p>

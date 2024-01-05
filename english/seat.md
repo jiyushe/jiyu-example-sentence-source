@@ -1,5 +1,7 @@
 # seat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seat.md)
+
 <p><span class="chinese">请问要卧铺还是硬座?。</span><span class="english">Berth or hard seat?</span></p>
 
 <p><span class="chinese">我要一个硬座。</span><span class="english">II take a hard seat.</span></p>

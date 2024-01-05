@@ -1,5 +1,7 @@
 # autoantibody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autoantibody.md)
+
 <p><span class="chinese">氧化低密度脂蛋白及自身抗体与动脉粥样硬化的研究。</span><span class="english">Study of oxidative low density lipoprotein its autoantibody and atherosclerosis.</span></p>
 
 <p><span class="chinese">第二预测因素是第一次检测时胰岛素抗体水平。</span><span class="english">The second predictive factor is the level of insulin autoantibody at first detection.</span></p>

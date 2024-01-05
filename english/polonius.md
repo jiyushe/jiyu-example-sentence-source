@@ -1,5 +1,7 @@
 # polonius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polonius.md)
+
 <p><span class="chinese">普罗尼尔斯他的猜测是的。</span><span class="english">Polonius thought his guess was right.</span></p>
 
 <p><span class="chinese">普罗尼尔斯认为他的猜测是正确的。</span><span class="english">Polonius thought his guess was right.</span></p>

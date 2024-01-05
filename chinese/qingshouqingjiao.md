@@ -1,5 +1,7 @@
 # 轻手轻脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshouqingjiao.md)
+
 <p><span class="chinese">她轻手轻脚地走，以免吵醒睡梦中的婴儿。</span><span class="english">She trod lightly in order not to wake the sleeping baby.</span></p>
 
 <p><span class="chinese">他轻手轻脚地走开了，走向通往自己家的小路。</span><span class="english">He walked softly away into the lane towards his own house.</span></p>

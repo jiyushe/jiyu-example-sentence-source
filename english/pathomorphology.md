@@ -1,5 +1,7 @@
 # pathomorphology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathomorphology.md)
+
 <p><span class="chinese">本文报告了10例猪弓形体病的病理形态学特征。</span><span class="english">This article reports pathomorphology of 10 swine died of toxoplasmosis.</span></p>
 
 <p><span class="chinese">目的探讨月华胶囊对结核小鼠肺脏病理形态学的影响。</span><span class="english">Objective To study the effect of Yuehua capsule on lung pathomorphology in rats with tuberculosis.</span></p>

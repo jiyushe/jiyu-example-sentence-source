@@ -1,5 +1,7 @@
 # deaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deaf.md)
+
 <p><span class="chinese">他稍微有点耳背。</span><span class="english">He is slightly deaf.</span></p>
 
 <p><span class="chinese">不过他像是聋了一样。</span><span class="english">But he seems to be deaf.</span></p>

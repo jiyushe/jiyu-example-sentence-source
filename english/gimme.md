@@ -1,5 +1,7 @@
 # gimme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gimme.md)
+
 <p><span class="chinese">让我再享受一会儿。</span><span class="english">Gimme a minute.</span></p>
 
 <p><span class="chinese">她叫做贪心。</span><span class="english">She is called gimme.</span></p>

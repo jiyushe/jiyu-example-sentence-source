@@ -1,5 +1,7 @@
 # conscious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conscious.md)
+
 <p><span class="chinese">有意识的肉块！</span><span class="english">Conscious meat!</span></p>
 
 <p><span class="chinese">有知觉的。</span><span class="english">Righty is conscious.</span></p>

@@ -1,5 +1,7 @@
 # laugher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laugher.md)
+
 <p><span class="chinese">嘛钱不钱的乐呵乐呵得了。</span><span class="english">Why money is not money laugher won.</span></p>
 
 <p><span class="chinese">它包含在老人爽朗的笑声里，它隐匿在孩子们天真的嬉戏中。</span><span class="english">Behold it in the laugher Of the young and the old.</span></p>

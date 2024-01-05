@@ -1,5 +1,7 @@
 # 忧国忧民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youguoyoumin.md)
+
 <p><span class="chinese">似乎我在预测美国的没落，我希望没人向我这样忧国忧民。</span><span class="english">I hope no one takes my concerns as though I am predicting the demise of America.</span></p>
 
 <p><span class="chinese">容闳回国后，看到了清政府的腐朽落后和国家的贫弱。面对现实，他忧国忧民。</span><span class="english">But he returned only to find a poverty-striken country with a corrupted government.</span></p>

@@ -1,5 +1,7 @@
 # 渊源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyuan.md)
+
 <p><span class="chinese">我是快乐的渊源。</span><span class="english">I'm Happy Yuanyuan.</span></p>
 
 <p><span class="chinese">哎，渊源，我们到了。</span><span class="english">Oh, Yuanyuan, here we are.</span></p>

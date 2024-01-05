@@ -1,5 +1,7 @@
 # 违例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weili_3.md)
+
 <p><span class="chinese">这就是白色，它是一个违例。</span><span class="english">There's the white, it's a violation.</span></p>
 
 <p><span class="chinese">在板球中，投球违例要失一分。</span><span class="english">In cricket, a no ball reckons as one run.</span></p>

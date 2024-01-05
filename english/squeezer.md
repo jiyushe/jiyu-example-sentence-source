@@ -1,5 +1,7 @@
 # squeezer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squeezer.md)
+
 <p><span class="chinese">我们当然会再购买柠檬挤压。</span><span class="english">We'll buy another lemon squeezer of course.</span></p>
 
 <p><span class="chinese">用了他，不会再有机会浪费牙膏了。全被榨干了。</span><span class="english">Say goodbye to wasted toothpaste with this convenient squeezer.</span></p>

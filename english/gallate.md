@@ -1,5 +1,7 @@
 # gallate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallate.md)
+
 <p><span class="chinese">目的用高效液相色谱法测定热淋清糖浆中没食子酸的含量。</span><span class="english">Objective To determine the gallate level in Reling Qing Syrup with HPLC.</span></p>
 
 <p><span class="chinese">对常见的没食子酸丙酯提出一种尚未见报道的制备方法，可以大幅度地降低生产成本。</span><span class="english">A new processing method of propyl gallate was advanced in order to decrease the cost of production.</span></p>

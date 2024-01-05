@@ -1,5 +1,7 @@
 # thereto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thereto.md)
+
 <p><span class="chinese">他给我一本书，此外又给我一只自来水笔。</span><span class="english">He gave me a book and added thereto a fountain pen.</span></p>
 
 <p><span class="chinese">本发明还公开了与其相关的树脂组合物。</span><span class="english">Also disclosed are resinous compositions related thereto.</span></p>

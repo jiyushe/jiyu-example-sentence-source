@@ -1,5 +1,7 @@
 # 飞龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feilong.md)
+
 <p><span class="chinese">飞龙在天。</span><span class="english">A flying dragon.</span></p>
 
 <p><span class="chinese">黑影西渐，飞龙肆虐。</span><span class="english">Westering, the shadow, ravaging, the dragons.</span></p>

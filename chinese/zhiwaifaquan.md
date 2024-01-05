@@ -1,5 +1,7 @@
 # 治外法权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwaifaquan.md)
+
 <p><span class="chinese">那时，外国侵略者享有不受中国法律官辖的“治外法权”。</span><span class="english">The foreign aggressors enjoyed "extraterritoriality" in those days.</span></p>
 
 <p><span class="chinese">他们享有治外法权，并且不受中国法律管辖。</span><span class="english">They enjoyed extraterritoriality, and were not governed by China's laws.</span></p>

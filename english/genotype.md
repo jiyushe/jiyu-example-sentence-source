@@ -1,5 +1,7 @@
 # genotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genotype.md)
+
 <p><span class="chinese">重组丙型肝炎病毒NS5?基因型1?。</span><span class="english">Recombinant Hepatitis C Virus NS5?Genotype 1?</span></p>
 
 <p><span class="chinese">重组丙型肝炎病毒NS5?基因型?2?。</span><span class="english">Recombinant Hepatitis C Virus NS5?Genotype?2?</span></p>

@@ -1,5 +1,7 @@
 # furthermore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furthermore.md)
+
 <p><span class="chinese">再者，我不知道它绝对性的含意。</span><span class="english">Furthermore I do not know its absolute meaning.</span></p>
 
 <p><span class="chinese">进一步指定最大和最小比特率。</span><span class="english">Furthermore you can specify a max and min bitrate.</span></p>

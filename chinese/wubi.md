@@ -1,5 +1,7 @@
 # 无比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wubi.md)
+
 <p><span class="chinese">回想起甜蜜无比。</span><span class="english">And sweet to remember.</span></p>
 
 <p><span class="chinese">湖泊奇妙无比。</span><span class="english">This lake was wonderful.</span></p>

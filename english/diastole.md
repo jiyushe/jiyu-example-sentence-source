@@ -1,5 +1,7 @@
 # diastole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diastole.md)
+
 <p><span class="chinese">在舒张期其可视长度比收缩期长。</span><span class="english">The length in the diastole was bigger than that in the systole.</span></p>
 
 <p><span class="chinese">在舒张期其可视长度比收缩期长。</span><span class="english">The length in the diastole was bigger than that in the systole.</span></p>

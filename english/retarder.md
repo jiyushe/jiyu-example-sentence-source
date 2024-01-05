@@ -1,5 +1,7 @@
 # retarder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retarder.md)
+
 <p><span class="chinese">加入适量阻聚剂可以延长其保存期。</span><span class="english">The storage time could be prolonged by adding retarder.</span></p>
 
 <p><span class="chinese">为甲基丙烯酸找到了一种新型非金属盐高效阻聚剂。</span><span class="english">As a result, a new typical non-metallic salt retarder with high effect is found.</span></p>

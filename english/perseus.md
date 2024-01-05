@@ -1,5 +1,7 @@
 # perseus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perseus.md)
+
 <p><span class="chinese">这个人却是希腊神话里的英雄珀尔修斯。</span><span class="english">It is one of the mythic heroes of Greece, Perseus.</span></p>
 
 <p><span class="chinese">但是，各位绅士，我劝这位珀尔修斯先生三思而行。</span><span class="english">Sir, I hope that Perseus should think better of it.</span></p>

@@ -1,5 +1,7 @@
 # 上体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangti.md)
+
 <p><span class="chinese">上体后倒成半仰卧。</span><span class="english">After his fall into half supine.</span></p>
 
 <p><span class="chinese">上体辉紫蓝色，腰部更辉亮。</span><span class="english">Purple-blue upper body, waist-more-hui.</span></p>

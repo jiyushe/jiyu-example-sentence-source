@@ -1,5 +1,7 @@
 # splatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splatter.md)
+
 <p><span class="chinese">开始添加飞溅创造性。</span><span class="english">Start adding the splatter creatively.</span></p>
 
 <p><span class="chinese">高温，飞溅物，火花都可能会导致火灾和烧伤。</span><span class="english">Heat, splatter and sparks cause fire and burns.</span></p>

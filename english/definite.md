@@ -1,5 +1,7 @@
 # definite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/definite.md)
+
 <p><span class="chinese">阿明确必须购买。</span><span class="english">A definite must-buy.</span></p>
 
 <p><span class="chinese">没有定冠词。</span><span class="english">No definite article.</span></p>

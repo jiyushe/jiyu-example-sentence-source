@@ -1,5 +1,7 @@
 # 轻工业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinggongye.md)
+
 <p><span class="chinese">轻工业和农业密切相关。</span><span class="english">Light industry is closely related to agriculture.</span></p>
 
 <p><span class="chinese">没有农业，就没有轻工业。</span><span class="english">Without agriculture there can be no light industry.</span></p>

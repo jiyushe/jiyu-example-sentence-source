@@ -1,5 +1,7 @@
 # 知人论世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhirenlunshi.md)
+
 <p><span class="chinese">“知人论世”的理论为包括钱大昕在内的许多后世儒者所继承。</span><span class="english">The theory was inherited by many Confucians including Qian Daxin.</span></p>
 
 <p><span class="chinese">随着词创作的兴盛，“知人论世”出现在词学批评中。</span><span class="english">It appeared in the Ci criticism with the flourishing of Ci poetry.</span></p>

@@ -1,5 +1,7 @@
 # 吸尘器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xichenqi.md)
+
 <p><span class="chinese">她用吸尘器清扫地毯。</span><span class="english">She vacuumed the carpet.</span></p>
 
 <p><span class="chinese">我得用吸尘器吸吸我房间了。</span><span class="english">I have to vacuum my room.</span></p>

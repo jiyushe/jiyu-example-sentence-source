@@ -1,5 +1,7 @@
 # carelessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carelessly.md)
+
 <p><span class="chinese">我不小心把地上的花瓶碰掉了。</span><span class="english">Carelessly I knocked down a vase.</span></p>
 
 <p><span class="chinese">不要浪费时间或出言不慎。</span><span class="english">Don't use time or words carelessly.</span></p>

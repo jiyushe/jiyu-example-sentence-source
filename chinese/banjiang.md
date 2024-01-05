@@ -1,5 +1,7 @@
 # 颁奖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banjiang.md)
+
 <p><span class="chinese">你看过这个颁奖礼吗？</span><span class="english">Did you watch the show?</span></p>
 
 <p><span class="chinese">欢迎参加我们学校的颁奖活动。</span><span class="english">Welcome to our school prize-giving.</span></p>

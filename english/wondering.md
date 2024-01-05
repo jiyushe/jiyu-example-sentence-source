@@ -1,5 +1,7 @@
 # wondering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wondering.md)
+
 <p><span class="chinese">我一直在想这件事呢。</span><span class="english">I'd been wondering.</span></p>
 
 <p><span class="chinese">那使我觉得惊奇。</span><span class="english">That set me wondering.</span></p>

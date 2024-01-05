@@ -1,5 +1,7 @@
 # 新手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshou_2.md)
+
 <p><span class="chinese">我的宝贝，宝贝，宝贝新手。</span><span class="english">My baby, baby, baby noo.</span></p>
 
 <p><span class="chinese">我不完全是一个新手。</span><span class="english">I am not a complete newbie.</span></p>

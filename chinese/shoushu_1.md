@@ -1,5 +1,7 @@
 # 手书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoushu_1.md)
+
 <p><span class="chinese">由于内人喜欢此诗作，所以她请我手书它。</span><span class="english">My wife likes this poem, so she asked me to write it.</span></p>
 
 <p><span class="chinese">三个手书档案全附呈。</span><span class="english">Three files containing the calligraphies are attached.</span></p>

@@ -1,5 +1,7 @@
 # 透顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touding_1.md)
+
 <p><span class="chinese">那是个愚蠢透顶的讨论。</span><span class="english">It is an asinine discussion.</span></p>
 
 <p><span class="chinese">这个制度腐败透顶。</span><span class="english">The system is rotten to the core.</span></p>

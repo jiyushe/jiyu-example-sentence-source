@@ -1,5 +1,7 @@
 # 称王称霸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengwangchengba.md)
+
 <p><span class="chinese">他在家里称王称霸。</span><span class="english">He tyrannizes his family.</span></p>
 
 <p><span class="chinese">他总是对人称王称霸。</span><span class="english">They always lorded it over others.</span></p>

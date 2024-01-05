@@ -1,5 +1,7 @@
 # murine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murine.md)
+
 <p><span class="chinese">许多小鼠的尖叫声非常高亢，难以感觉它是否口吃。</span><span class="english">Many murine squeakings are too high-pitched to be perceptible.</span></p>
 
 <p><span class="chinese">目的建立放射性口腔黏膜炎动物模型。</span><span class="english">ObjectiveTo establish a murine model of radiation-induced oral mucositis.</span></p>

@@ -1,5 +1,7 @@
 # multitudinous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multitudinous.md)
+
 <p><span class="chinese">他的国内问题复杂而又繁多。</span><span class="english">His internal problems were complex and multitudinous.</span></p>
 
 <p><span class="chinese">沵是涐一首歌，所有寂寞都随你降落。</span><span class="english">E multitudinous is a song, as you all are lonely land.</span></p>

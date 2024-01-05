@@ -1,5 +1,7 @@
 # shaken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaken.md)
+
 <p><span class="chinese">要看风吹动的芦苇吗。</span><span class="english">A reed shaken with the wind?</span></p>
 
 <p><span class="chinese">你刚才说的话令我十分震惊!</span><span class="english">What you said has shaken me up!</span></p>

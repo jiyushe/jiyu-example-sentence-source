@@ -1,5 +1,7 @@
 # downfall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downfall.md)
+
 <p><span class="chinese">他的骄傲使他垮台了。</span><span class="english">His pride procured his downfall.</span></p>
 
 <p><span class="chinese">愿他们因自己的计谋跌倒。</span><span class="english">Let their intrigues be their downfall.</span></p>

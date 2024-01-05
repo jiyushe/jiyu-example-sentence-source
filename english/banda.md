@@ -1,5 +1,7 @@
 # banda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banda.md)
+
 <p><span class="chinese">小悼念一个伟大的乐队。</span><span class="english">Uma pequena homenagem a uma grande banda.</span></p>
 
 <p><span class="chinese">一些被转移的海啸幸存者在班达亚齐的一条河中洗去这些天来的灰尘和疲惫。</span><span class="english">Displaced survivors bathe in a spring-fed river in Banda Aceh.</span></p>

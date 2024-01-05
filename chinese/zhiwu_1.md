@@ -1,5 +1,7 @@
 # 植物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwu_1.md)
+
 <p><span class="chinese">玫瑰是多刺的植物。</span><span class="english">Rose is a briar.</span></p>
 
 <p><span class="chinese">植物开始生长。</span><span class="english">Plants start growing.</span></p>

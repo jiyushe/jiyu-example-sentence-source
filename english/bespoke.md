@@ -1,5 +1,7 @@
 # bespoke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bespoke.md)
+
 <p><span class="chinese">从裁剪上来讲，定做的西装是最好的。</span><span class="english">For tailoring options, the bespoke suit is the finest.</span></p>
 
 <p><span class="chinese">脚本编写人员可以通过该清单执行预定信号。</span><span class="english">These can be used by the script author to do bespoke signals.</span></p>

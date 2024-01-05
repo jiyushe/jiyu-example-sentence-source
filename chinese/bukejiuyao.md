@@ -1,5 +1,7 @@
 # 不可救药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukejiuyao.md)
+
 <p><span class="chinese">情况好像不可救药了。</span><span class="english">The situation seemed hopeless.</span></p>
 
 <p><span class="chinese">我相信，他真的认为我是个不可救药的庸人。</span><span class="english">I believe he seriously thinks me an Philistine.</span></p>

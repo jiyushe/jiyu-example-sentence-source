@@ -1,5 +1,7 @@
 # 骄奢淫逸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaosheyinyi.md)
+
 <p><span class="chinese">贵族阶层过着骄奢淫逸的生活。</span><span class="english">The nobility led voluptuous lives.</span></p>
 
 <p><span class="chinese">骄奢淫逸时，我想起过去的饥寒。</span><span class="english">If I overindulge I will think of past hungers.</span></p>

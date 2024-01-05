@@ -1,5 +1,7 @@
 # clock 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clock.md)
+
 <p><span class="chinese">金铜时钟。</span><span class="english">Chiming Clock.</span></p>
 
 <p><span class="chinese">根本不需要时钟。</span><span class="english">It needs no clock.</span></p>

@@ -1,5 +1,7 @@
 # 田鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianji_4.md)
+
 <p><span class="chinese">蝾螈之眼田鸡趾。</span><span class="english">Eye of newt, and toe of frog.</span></p>
 
 <p><span class="chinese">在德国，你是永远不会吃田鸡的。</span><span class="english">In Germany you would never eat a frog.</span></p>

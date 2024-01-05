@@ -1,5 +1,7 @@
 # homicide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homicide.md)
+
 <p><span class="chinese">梨泰院杀人事件。</span><span class="english">The Case of Itaewon Homicide. 2009.</span></p>
 
 <p><span class="chinese">美国的杀人案率是每10万人口中，有6.3人被谋杀。</span><span class="english">It's homicide rate is 6.3 per 100, 000.</span></p>

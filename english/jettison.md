@@ -1,5 +1,7 @@
 # jettison
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jettison.md)
+
 <p><span class="chinese">我们正准备投弃货物。</span><span class="english">We're going to jettison the cargo.</span></p>
 
 <p><span class="chinese">你船能抛弃后面的货物使船浮起吗？</span><span class="english">Can you jettison cargo aft to refloat?</span></p>

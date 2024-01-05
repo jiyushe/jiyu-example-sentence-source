@@ -1,5 +1,7 @@
 # helpful 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helpful.md)
+
 <p><span class="chinese">征兆是有益的。</span><span class="english">Signs are helpful.</span></p>
 
 <p><span class="chinese">你在家里是个小帮手吗？</span><span class="english">Are you helpful at home?</span></p>

@@ -1,5 +1,7 @@
 # collie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collie.md)
+
 <p><span class="chinese">纯种的边境牧羊犬。</span><span class="english">Pure-bred Border Collie.</span></p>
 
 <p><span class="chinese">她甚至咬家里的牧羊犬。</span><span class="english">Even the family's collie was bitten.</span></p>

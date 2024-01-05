@@ -1,5 +1,7 @@
 # chair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chair.md)
+
 <p><span class="chinese">没有椅子。</span><span class="english">No chair.</span></p>
 
 <p><span class="chinese">草坪椅？</span><span class="english">Lawn chair?</span></p>

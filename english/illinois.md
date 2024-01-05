@@ -1,5 +1,7 @@
 # illinois
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illinois.md)
+
 <p><span class="chinese">你出生在伊利诺斯州吗？</span><span class="english">Were you born in Illinois?</span></p>
 
 <p><span class="chinese">我搭车来到我的家乡,那是伊利诺斯州的迪克森。</span><span class="english">I thumbed home to Dixon, Illinois.</span></p>

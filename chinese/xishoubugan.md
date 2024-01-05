@@ -1,5 +1,7 @@
 # 洗手不干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishoubugan.md)
+
 <p><span class="chinese">我已经洗手不干了。</span><span class="english">I'm all washed up.</span></p>
 
 <p><span class="chinese">我想洗手不干。</span><span class="english">I feel like quitting.</span></p>

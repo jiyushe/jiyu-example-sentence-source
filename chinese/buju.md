@@ -1,5 +1,7 @@
 # 不拘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buju.md)
+
 <p><span class="chinese">是一种随便不拘礼节的词吗？</span><span class="english">Is"guy" an informal sort of word?</span></p>
 
 <p><span class="chinese">在这里吃饭可以不拘礼节。</span><span class="english">There was no ceremony about dining.</span></p>

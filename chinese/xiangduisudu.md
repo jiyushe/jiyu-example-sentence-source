@@ -1,5 +1,7 @@
 # 相对速度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangduisudu.md)
+
 <p><span class="chinese">该方法较好地利用了相对速度的信息。</span><span class="english">This method makes good use of the relative velocity of AUV.</span></p>
 
 <p><span class="chinese">我们所能够完全肯定的一点只是这两列火车之间的相对速度变了。</span><span class="english">All we can be certain of is that the relative speed between the two trains changed.</span></p>

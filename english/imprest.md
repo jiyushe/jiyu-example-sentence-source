@@ -1,5 +1,7 @@
 # imprest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imprest.md)
+
 <p><span class="chinese">工资银行帐户是否是贷款性质的帐号？</span><span class="english">Is the payroll bank account on an imprest basis?</span></p>
 
 <p><span class="chinese">每个月余下的500元，可以作为日常生活的备用金，以备不时之需。</span><span class="english">The remaining 500 yuan per month, can be used as the daily life of imprest , for emergency use.</span></p>

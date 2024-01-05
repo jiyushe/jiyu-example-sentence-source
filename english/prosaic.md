@@ -1,5 +1,7 @@
 # prosaic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosaic.md)
+
 <p><span class="chinese">说来也十分平淡无味，是我们的旅馆老板。</span><span class="english">The very prosaic one of our landlord.</span></p>
 
 <p><span class="chinese">事实远没有传说的那样神乎其神。</span><span class="english">The facts are more prosaic than the legend.</span></p>

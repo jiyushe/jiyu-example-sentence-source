@@ -1,5 +1,7 @@
 # skirmish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skirmish.md)
+
 <p><span class="chinese">经过约20分钟对打，这场小冲突就酱结束了。</span><span class="english">After about 20 minutes, the skirmish was over.</span></p>
 
 <p><span class="chinese">到底是什麽，让遭遇战变得如此特别？</span><span class="english">What makes the new skirmish game mode so unique?</span></p>

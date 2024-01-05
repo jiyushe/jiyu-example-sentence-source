@@ -1,5 +1,7 @@
 # icon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icon.md)
+
 <p><span class="chinese">单击这个图标。</span><span class="english">Click on this icon.</span></p>
 
 <p><span class="chinese">下载免费图标库！</span><span class="english">Free Icon Gallery !</span></p>

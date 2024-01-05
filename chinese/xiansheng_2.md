@@ -1,5 +1,7 @@
 # 先生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiansheng_2.md)
+
 <p><span class="chinese">没有，先生。</span><span class="english">No sir.</span></p>
 
 <p><span class="chinese">请回答,先生</span><span class="english">Yes sir.</span></p>

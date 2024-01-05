@@ -1,5 +1,7 @@
 # 筹建
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choujian_1.md)
+
 <p><span class="chinese">他筹建了一个网球俱乐部。</span><span class="english">He set up a tennis club.</span></p>
 
 <p><span class="chinese">吉林靖宇核电厂于1986年开始筹建。</span><span class="english">Jingyu, Jilin nuclear power plant, started in 1986.</span></p>

@@ -1,5 +1,7 @@
 # arboreal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arboreal.md)
+
 <p><span class="chinese">松鼠是栖于树上的动物。</span><span class="english">Squirrels are arboreal creatures.</span></p>
 
 <p><span class="chinese">猴子生活在树上的栖息地。</span><span class="english">Monkeys live in an arboreal habitat.</span></p>

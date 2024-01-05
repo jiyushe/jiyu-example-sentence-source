@@ -1,5 +1,7 @@
 # bristol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bristol.md)
+
 <p><span class="chinese">第七章去布里斯托尔途中。</span><span class="english">VII I Go to Bristol.</span></p>
 
 <p><span class="chinese">她出生于布里斯特尔。</span><span class="english">She was born in Bristol.</span></p>

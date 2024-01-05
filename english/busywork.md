@@ -1,5 +1,7 @@
 # busywork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busywork.md)
+
 <p><span class="chinese">无用功会给你安心、轻松的工作。</span><span class="english">Busywork can give you a reassuring, small-bore task.</span></p>
 
 <p><span class="chinese">你可以继续忙碌，你也可以选择做更多很棒的工作。</span><span class="english">You can keep doing the busywork. Or you can do more Great Work.</span></p>

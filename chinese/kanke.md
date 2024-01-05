@@ -1,5 +1,7 @@
 # 坎坷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanke.md)
+
 <p><span class="chinese">他有着坎坷的一生。</span><span class="english">He has a bumpy life.</span></p>
 
 <p><span class="chinese">一路坎坷，赴都柏林。</span><span class="english">The rocky road to Dublin.</span></p>

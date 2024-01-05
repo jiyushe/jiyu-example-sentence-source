@@ -1,5 +1,7 @@
 # 考虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaolv.md)
+
 <p><span class="chinese">我想重新考虑。</span><span class="english">I've reconsidered.</span></p>
 
 <p><span class="chinese">考虑银行劫案。</span><span class="english">Consider bank-robbing.</span></p>

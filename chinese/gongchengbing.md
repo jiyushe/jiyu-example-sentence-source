@@ -1,5 +1,7 @@
 # 工程兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchengbing.md)
+
 <p><span class="chinese">工程兵开始行动，长官。</span><span class="english">SCV, good to go, sir.</span></p>
 
 <p><span class="chinese">我们有经过良好的专门训练的工程兵来对付它。</span><span class="english">We have special sappers well trained for that.</span></p>

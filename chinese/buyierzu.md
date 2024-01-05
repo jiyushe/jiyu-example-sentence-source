@@ -1,5 +1,7 @@
 # 不一而足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyierzu.md)
+
 <p><span class="chinese">凡此种种，不一而足。</span><span class="english">Similar cases are numerous.</span></p>
 
 <p><span class="chinese">收到的答案从严肃到诙谐，不一而足。</span><span class="english">The responses varied from serious to the light hearted.</span></p>

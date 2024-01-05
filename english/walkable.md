@@ -1,5 +1,7 @@
 # walkable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walkable.md)
+
 <p><span class="chinese">但是，只有其中一些是步行游览。</span><span class="english">But only some of them are walkable.</span></p>
 
 <p><span class="chinese">旧金山获评美国最适合步行的城市</span><span class="english">San Francisco most walkable U.S. city, website says</span></p>

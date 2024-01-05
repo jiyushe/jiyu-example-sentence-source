@@ -1,5 +1,7 @@
 # 量词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangci.md)
+
 <p><span class="chinese">那应该用什么量词啊？</span><span class="english">What kind of measure word should I use instead?</span></p>
 
 <p><span class="chinese">说花的量词真话她们中很多人我都见过。</span><span class="english">To tell you the truth, I have seen lots of them.</span></p>

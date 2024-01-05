@@ -1,5 +1,7 @@
 # 真知灼见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhizhuojian.md)
+
 <p><span class="chinese">但是，另有一些人更有真知灼见。</span><span class="english">But there are others who know better.</span></p>
 
 <p><span class="chinese">到了早晨，你或许会更有真知灼见。</span><span class="english">You'll probably have more perspective in the morning.</span></p>

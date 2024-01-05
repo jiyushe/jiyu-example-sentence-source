@@ -1,5 +1,7 @@
 # eroticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eroticism.md)
+
 <p><span class="chinese">但是性爱主义倾向的主张却让她迷惑。</span><span class="english">But claims of eroticism puzzled her.</span></p>
 
 <p><span class="chinese">他的基督教信仰开始渗透出情欲。</span><span class="english">His Christian belief began to bleed into eroticism.</span></p>

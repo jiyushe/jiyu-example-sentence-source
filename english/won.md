@@ -1,5 +1,7 @@
 # won
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/won.md)
+
 <p><span class="chinese">我的心赢了。</span><span class="english">My heart won.</span></p>
 
 <p><span class="chinese">在抢七中，她以7-4获胜。</span><span class="english">Henin won it 7-4.</span></p>

@@ -1,5 +1,7 @@
 # monovalent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monovalent.md)
+
 <p><span class="chinese">我们有经改进的单价疫苗用于有针对性的免疫。</span><span class="english">We have improved monovalent vaccines for targeted immunization.</span></p>
 
 <p><span class="chinese">现可充分利用单价脊髓灰质炎疫苗的力量和优势。</span><span class="english">The power and advantages of monovalent polio vaccines can now be fully used.</span></p>

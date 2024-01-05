@@ -1,5 +1,7 @@
 # spin 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spin.md)
+
 <p><span class="chinese">踢弧线球</span><span class="english">Spin.</span></p>
 
 <p><span class="chinese">降速的年龄。</span><span class="english">Spin down the ages.</span></p>

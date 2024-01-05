@@ -1,5 +1,7 @@
 # gelatinous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gelatinous.md)
+
 <p><span class="chinese">“冻胶”，是个很确切的字眼。</span><span class="english">Gelatinous was the right word.</span></p>
 
 <p><span class="chinese">肿瘤内含胶冻样物质。</span><span class="english">This tumor has gelatinous material within it.</span></p>

@@ -1,5 +1,7 @@
 # infallibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infallibly.md)
+
 <p><span class="chinese">他必须善加利用机会，否则他必定毁灭。</span><span class="english">He must make the proper use of his opportunities or he will infallibly perish.</span></p>
 
 <p><span class="chinese">退化器官可以确定无误地表示出久以失去的构造的性质。</span><span class="english">Rudimentary organs will speak infallibly with respect to the nature of long-lost structures.</span></p>

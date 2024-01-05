@@ -1,5 +1,7 @@
 # 增订
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengding.md)
+
 <p><span class="chinese">现在，我将增订关于他的。</span><span class="english">And now, I will update about him.</span></p>
 
 <p><span class="chinese">最新版增订的十条名人名言</span><span class="english">Ten Quotes new to the latest edition</span></p>

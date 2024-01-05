@@ -1,5 +1,7 @@
 # detachable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detachable.md)
+
 <p><span class="chinese">可拆卸的自我腰绦。</span><span class="english">Detachable self waist sash.</span></p>
 
 <p><span class="chinese">但是，执行功能具有可分离性。</span><span class="english">However, executive function is detachable.</span></p>

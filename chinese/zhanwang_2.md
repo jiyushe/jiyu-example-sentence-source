@@ -1,5 +1,7 @@
 # 谵妄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanwang_2.md)
+
 <p><span class="chinese">谵妄，痴呆，失忆，及其他认知障碍。</span><span class="english">Delirium, Dementia, Amnestic and Other Cognitive Disorders.</span></p>
 
 <p><span class="chinese">第十章．谵妄，痴呆，遗忘和其它认知疾病。</span><span class="english">Delirium, Dementia, and Amnestic and Other Cognitive Disorders.</span></p>

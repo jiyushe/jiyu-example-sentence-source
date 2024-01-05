@@ -1,5 +1,7 @@
 # proclaim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proclaim.md)
+
 <p><span class="chinese">醒醒，哦鸣钟，快报时。</span><span class="english">Awake, O bell! proclaim the hour.</span></p>
 
 <p><span class="chinese">从他的举止可以看出他是一名学者。</span><span class="english">His manners proclaim him a scholar.</span></p>

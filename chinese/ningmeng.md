@@ -1,5 +1,7 @@
 # 柠檬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningmeng.md)
+
 <p><span class="chinese">皒看见那些柠檬树。</span><span class="english">I see the lemon trees.</span></p>
 
 <p><span class="chinese">可爱的柠檬搽剂。</span><span class="english">Lovely lemon liniment.</span></p>

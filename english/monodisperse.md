@@ -1,5 +1,7 @@
 # monodisperse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monodisperse.md)
+
 <p><span class="chinese">粒径单分散高聚物微球在许多领域里有着广阔的应用前景。</span><span class="english">Micronsized monodisperse polymer microspheres have been used in many fields in resent years.</span></p>
 
 <p><span class="chinese">紫外可见光吸收光谱表明所制备的金溶胶为单分散体系。</span><span class="english">The UV Vis absorbance spectrum indicated that the gold colloid was a monodisperse suspension.</span></p>

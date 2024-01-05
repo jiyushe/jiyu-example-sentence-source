@@ -1,5 +1,7 @@
 # ramadan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramadan.md)
+
 <p><span class="chinese">什么是斋月？</span><span class="english">What is Ramadan?</span></p>
 
 <p><span class="chinese">斋月期间你们都不吃不喝的吗？</span><span class="english">So you don't eat or drink during Ramadan?</span></p>

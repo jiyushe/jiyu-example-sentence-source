@@ -1,5 +1,7 @@
 # inelegant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inelegant.md)
+
 <p><span class="chinese">然而，一些士兵抱怨说，这套装甲衣和头盔的样式实在难看。</span><span class="english">But some troops have complained that the armour and headgear is inelegant.</span></p>
 
 <p><span class="chinese">这是一种不完善的解决方案，经常会导致糟糕的用户体验。</span><span class="english">It's an inelegant solution that frequently leads to a poor user experience.</span></p>

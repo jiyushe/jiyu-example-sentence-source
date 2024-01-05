@@ -1,5 +1,7 @@
 # thurston
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thurston.md)
+
 <p><span class="chinese">我请塞斯顿先生谈谈他成功的秘诀，他说出片段过去的历史。</span><span class="english">I asked Mr. Thurston to tell me the secret of his success.</span></p>
 
 <p><span class="chinese">我可以相信，瑟斯顿被抛出在街上。</span><span class="english">I just can believe that Thurston was thrown out in the street.</span></p>

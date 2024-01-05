@@ -1,5 +1,7 @@
 # summarization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summarization.md)
+
 <p><span class="chinese">长春燃气新的薪酬体系的评价和总结。</span><span class="english">Evaluation and summarization of new reward system.</span></p>
 
 <p><span class="chinese">最后是对系统开发的总结和对USB技术的展望。</span><span class="english">Finally it is summarization and prospect of USB system.</span></p>

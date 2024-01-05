@@ -1,5 +1,7 @@
 # 防不胜防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangbushengfang.md)
+
 <p><span class="chinese">上海突现路面塌陷“坑”来横祸防不胜防。</span><span class="english">Road section collapses into 5-meter long hole.</span></p>
 
 <p><span class="chinese">各种各样的忽悠手段是防不胜防的。</span><span class="english">Various deceptive means are hardly preventable.</span></p>

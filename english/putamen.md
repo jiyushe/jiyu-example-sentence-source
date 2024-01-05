@@ -1,5 +1,7 @@
 # putamen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/putamen.md)
+
 <p><span class="chinese">手术中在硬膜外或硬膜内都有可能损伤神经根。</span><span class="english">Be in the operation outside putamen or nerve root is injured likely inside putamen.</span></p>
 
 <p><span class="chinese">对蛛网膜粘连者可切开硬膜减压并分离粘连。</span><span class="english">To arachnoid adhesion person can dissection putamen decompression is detached adhesion.</span></p>

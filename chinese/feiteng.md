@@ -1,5 +1,7 @@
 # 飞腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiteng.md)
+
 <p><span class="chinese">烟雾飞腾，火着起来了。</span><span class="english">The smoke soared and the fire burnt.</span></p>
 
 <p><span class="chinese">食物缺少促使物价飞腾。</span><span class="english">The scarcity of food forced prices up.</span></p>

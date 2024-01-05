@@ -1,5 +1,7 @@
 # bowman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowman.md)
+
 <p><span class="chinese">约翰•伯曼感谢肖雅瑜的会见。</span><span class="english">Johnny Bowman extended his gratitude to Xiao Yayu for his meeting.</span></p>
 
 <p><span class="chinese">在另一场景，她被认为是越来越接近合演约书亚猎户。</span><span class="english">In another scene she is seen getting close to co-star Joshua Bowman.</span></p>

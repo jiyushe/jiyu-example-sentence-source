@@ -1,5 +1,7 @@
 # draper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/draper.md)
+
 <p><span class="chinese">德雷珀家。</span><span class="english">The Draper home.</span></p>
 
 <p><span class="chinese">男人的名字叫德雷珀。</span><span class="english">His name was Draper.</span></p>

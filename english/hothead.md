@@ -1,5 +1,7 @@
 # hothead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hothead.md)
+
 <p><span class="chinese">那天天气很热，赤日炎炎。</span><span class="english">That weather is very hot, Chiri hothead.</span></p>
 
 <p><span class="chinese">别让他开车，他是一个鲁莽性急的人…</span><span class="english">Don't let him drive the car. He is a hothead.</span></p>

@@ -1,5 +1,7 @@
 # rhinorrhea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhinorrhea.md)
+
 <p><span class="chinese">目的探讨脑脊液鼻漏的治疗方法。</span><span class="english">A research to treatment of cerebrospinal rhinorrhea.</span></p>
 
 <p><span class="chinese">评价鼻内窥镜应用于鼻渊辨证施治中的价值。</span><span class="english">To evaluate the usability of endoscopy for the diagnosis of rhinorrhea.</span></p>

@@ -1,5 +1,7 @@
 # 义勇军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyongjun.md)
+
 <p><span class="chinese">图为义勇军的训练场景。</span><span class="english">The picture shows the volunteers in training.</span></p>
 
 <p><span class="chinese">这不禁让人对所谓的“债券义勇军”的踪迹产生了疑问。</span><span class="english">This raises the question of the whereabouts of the so-called bond vigilantes.</span></p>

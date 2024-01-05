@@ -1,5 +1,7 @@
 # 颓然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiran.md)
+
 <p><span class="chinese">我伸出手，却颓然跌落。</span><span class="english">I am reaching, but I fall.</span></p>
 
 <p><span class="chinese">头部被猛击一下后，他颓然倒下。</span><span class="english">He went to grass after being hit in the head.</span></p>

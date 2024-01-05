@@ -1,5 +1,7 @@
 # 香橙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangcheng_2.md)
+
 <p><span class="chinese">我是，我是一个“香橙”。</span><span class="english">I am. I am an orange.</span></p>
 
 <p><span class="chinese">他粉丝的名字叫“香橙”。</span><span class="english">His fans' name is orange.</span></p>

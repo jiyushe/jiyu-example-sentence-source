@@ -1,5 +1,7 @@
 # 佐料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoliao.md)
+
 <p><span class="chinese">橄榄油是海鲜饭的基本佐料。</span><span class="english">Olive oil is basic to paella.</span></p>
 
 <p><span class="chinese">烧鱼用什么佐料最好？</span><span class="english">What sauces go best with fish?</span></p>

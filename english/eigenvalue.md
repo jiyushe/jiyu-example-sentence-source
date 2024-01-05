@@ -1,5 +1,7 @@
 # eigenvalue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eigenvalue.md)
+
 <p><span class="chinese">迭代方法可用来确定特征值。</span><span class="english">An iteration procedure can be used to determine the eigenvalue.</span></p>
 
 <p><span class="chinese">偏斜度是一个能表征图像是否对称分布的特征量。</span><span class="english">Skewness is an eigenvalue of symmetric distribution of the image.</span></p>

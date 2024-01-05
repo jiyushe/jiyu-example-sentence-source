@@ -1,5 +1,7 @@
 # capture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capture.md)
+
 <p><span class="chinese">视频实时捕捉。</span><span class="english">Real-time video capture.</span></p>
 
 <p><span class="chinese">他一定要逮住这匹马。</span><span class="english">He must capture the horse.</span></p>

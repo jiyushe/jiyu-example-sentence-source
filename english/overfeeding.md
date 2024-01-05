@@ -1,5 +1,7 @@
 # overfeeding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overfeeding.md)
+
 <p><span class="chinese">许多宠物因喂食过量而遭殃。</span><span class="english">Many pets are victims of overfeeding.</span></p>
 
 <p><span class="chinese">但是她一直过量地喂着她的猫，以防万一。</span><span class="english">But she kept overfeeding her cat just in case.</span></p>

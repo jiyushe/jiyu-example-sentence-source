@@ -1,5 +1,7 @@
 # 改建
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaijian.md)
+
 <p><span class="chinese">我们去年改建的。</span><span class="english">We remodelled it last year.</span></p>
 
 <p><span class="chinese">他们住在谷仓改建成的房屋。</span><span class="english">The live in a converted barn.</span></p>

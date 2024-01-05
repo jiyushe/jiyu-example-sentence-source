@@ -1,5 +1,7 @@
 # sidecar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sidecar.md)
+
 <p><span class="chinese">即使边车有挡风玻璃不弄乱你的头发？</span><span class="english">Even if the sidecar had a windscreen to protect your hair?</span></p>
 
 <p><span class="chinese">三轮铲雪自行车，有边车，有铲雪犁。</span><span class="english">Custom 3-wheel bicycle with sidecar and snow plow accessory.</span></p>

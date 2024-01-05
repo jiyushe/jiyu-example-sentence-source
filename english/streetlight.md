@@ -1,5 +1,7 @@
 # streetlight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streetlight.md)
+
 <p><span class="chinese">发愿作一盏路灯，照破黑暗，指引光明。</span><span class="english">Vow to be a streetlight showing the way.</span></p>
 
 <p><span class="chinese">接著，约翰他步履蹒跚地走著，走近了路灯。</span><span class="english">Then John he staggered off into the streetlight.</span></p>

@@ -1,5 +1,7 @@
 # 领空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingkong_1.md)
+
 <p><span class="chinese">古巴声称飞机是在古巴领空被击落的。</span><span class="english">Cuba claimed the planes were shot in its airspace.</span></p>
 
 <p><span class="chinese">黄刀是西北领空的首府。</span><span class="english">Yellowknife is the capital of the Northwest Territories.</span></p>

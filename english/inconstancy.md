@@ -1,5 +1,7 @@
 # inconstancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconstancy.md)
+
 <p><span class="chinese">不要去谈那反复无常。</span><span class="english">Then talk not of inconstancy.</span></p>
 
 <p><span class="chinese">这就是无常与苦。</span><span class="english">This is inconstancy and stress.</span></p>

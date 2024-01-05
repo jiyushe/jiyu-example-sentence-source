@@ -1,5 +1,7 @@
 # 稀奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiqi_3.md)
+
 <p><span class="chinese">在某种意义上，这并不稀奇。</span><span class="english">In a sense, this is nothing new.</span></p>
 
 <p><span class="chinese">您的孙子，寄上一张稀奇的卡片。</span><span class="english">A special card from your gra fantasticdson.</span></p>

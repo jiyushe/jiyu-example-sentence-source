@@ -1,5 +1,7 @@
 # 筵席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxi_4.md)
+
 <p><span class="chinese">他们在筵席上狂饮。</span><span class="english">They liquored up at the feast.</span></p>
 
 <p><span class="chinese">他们为筵席搞到一头猪。</span><span class="english">They foraged a pig for the feast.</span></p>

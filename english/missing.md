@@ -1,5 +1,7 @@
 # missing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/missing.md)
+
 <p><span class="chinese">少了一本书。</span><span class="english">One book is missing.</span></p>
 
 <p><span class="chinese">安全灯丢失。</span><span class="english">Safety lamps missing.</span></p>

@@ -1,5 +1,7 @@
 # sketchily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sketchily.md)
+
 <p><span class="chinese">该书关于这一问题写得太简略。</span><span class="english">The book treats the problem too sketchily.</span></p>
 
 <p><span class="chinese">几年前的丑闻就如此草率的被敷衍过去，让人难以理解。</span><span class="english">It is puzzling too that some scandals of past years are treated so sketchily.</span></p>

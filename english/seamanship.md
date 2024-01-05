@@ -1,5 +1,7 @@
 # seamanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seamanship.md)
+
 <p><span class="chinese">他缺乏船艺知识。</span><span class="english">He lacks of seamanship.</span></p>
 
 <p><span class="chinese">他们广泛的渔业贸易是航海技术的一个良好的养成所。</span><span class="english">Their extensive fishing trade was an excellent nursery for seamanship.</span></p>

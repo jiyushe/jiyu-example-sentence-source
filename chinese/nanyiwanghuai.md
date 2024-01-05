@@ -1,5 +1,7 @@
 # 难以忘怀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanyiwanghuai.md)
+
 <p><span class="chinese">黄山确实让人难以忘怀！</span><span class="english">Yellow Mountain is truly awesome!</span></p>
 
 <p><span class="chinese">乐队表演的纯熟定会令你难以忘怀。</span><span class="english">The band will make you unforgettable.</span></p>

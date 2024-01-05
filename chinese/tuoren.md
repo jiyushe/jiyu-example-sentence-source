@@ -1,5 +1,7 @@
 # 托人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoren.md)
+
 <p><span class="chinese">你要么自己来，要么托人办理此事。</span><span class="english">Either you come in person, or you entrust someone with the matter.</span></p>
 
 <p><span class="chinese">找教练的话你可托人四处问问，也可打电话到跑步中心咨询，还可上网招聘。</span><span class="english">You can find a coach by asking around, calling running stores, and checking the Internet.</span></p>

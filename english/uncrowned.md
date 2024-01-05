@@ -1,5 +1,7 @@
 # uncrowned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncrowned.md)
+
 <p><span class="chinese">也不完全由那些无冕旅途所致。</span><span class="english">Not entirely due to those uncrowned journey.</span></p>
 
 <p><span class="chinese">他是德国车赛的无冕之王。</span><span class="english">He was the uncrowned king of Germany car racing.</span></p>

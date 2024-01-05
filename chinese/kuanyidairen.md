@@ -1,5 +1,7 @@
 # 宽以待人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanyidairen.md)
+
 <p><span class="chinese">严于律己，更要宽以待人。</span><span class="english">Be strict to oneself , be more tolerant to others.</span></p>
 
 <p><span class="chinese">严以律己，宽以待人。</span><span class="english">Be strict with yourself and lenient toward others.</span></p>

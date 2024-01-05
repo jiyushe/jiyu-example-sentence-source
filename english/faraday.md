@@ -1,5 +1,7 @@
 # faraday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faraday.md)
+
 <p><span class="chinese">法拉第做了银的电解实验。</span><span class="english">Faraday conducted electrolysis of silver.</span></p>
 
 <p><span class="chinese">法拉第完全没有用数学方法来证明他的定律。</span><span class="english">Faraday used no mathematics at all to prove his rule.</span></p>

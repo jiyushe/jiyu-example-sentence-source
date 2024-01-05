@@ -1,5 +1,7 @@
 # lobular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lobular.md)
+
 <p><span class="chinese">部分肿块呈结节状或分叶状融合。</span><span class="english">Some masses appeared to be nodular or lobular.</span></p>
 
 <p><span class="chinese">那么，是什么亚型的浸润性小叶癌呢？</span><span class="english">Now, what type of invasive lobular carcinoma is it?</span></p>

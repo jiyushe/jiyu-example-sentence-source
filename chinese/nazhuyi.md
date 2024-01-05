@@ -1,5 +1,7 @@
 # 拿主意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nazhuyi.md)
+
 <p><span class="chinese">这件事要看你的了，你必须拿主意。</span><span class="english">The issue lies with you. You must decide.</span></p>
 
 <p><span class="chinese">要独立完成这项任务，我必须得自己拿主意怎么做。</span><span class="english">To perform this task on my own, I must decide how to do it.</span></p>

@@ -1,5 +1,7 @@
 # tangibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangibly.md)
+
 <p><span class="chinese">突然，前途的问题明确地出现在我眼前。</span><span class="english">Suddenly the problem of future loomed tangibly for me.</span></p>
 
 <p><span class="chinese">芳香在他心中唤出了她的容貌，栩栩如生，几乎伸手可及。</span><span class="english">The odour brought her vividly, almost tangibly before him.</span></p>

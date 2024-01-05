@@ -1,5 +1,7 @@
 # 讪笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanxiao.md)
+
 <p><span class="chinese">一旦一个欺负讪笑我。</span><span class="english">Once a bully teased me.</span></p>
 
 <p><span class="chinese">哪些人不值一提，哪怕是一句讪笑。</span><span class="english">Who is not worth the notice of a sneer.</span></p>

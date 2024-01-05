@@ -1,5 +1,7 @@
 # narration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narration.md)
+
 <p><span class="chinese">我需要一些叙述时用的好镜头。</span><span class="english">I need some good pictures for narration.</span></p>
 
 <p><span class="chinese">他录制了这部作品的解说词。</span><span class="english">He has recorded the narration for the production.</span></p>

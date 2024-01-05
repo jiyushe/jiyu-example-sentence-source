@@ -1,5 +1,7 @@
 # 善良
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanliang.md)
+
 <p><span class="chinese">你是那么的善良。</span><span class="english">You are so kind.</span></p>
 
 <p><span class="chinese">他心底善良.</span><span class="english">He's kind-hearted.</span></p>

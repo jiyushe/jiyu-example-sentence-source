@@ -1,5 +1,7 @@
 # aaron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aaron.md)
+
 <p><span class="chinese">第二名是亚伦·博梅斯特。</span><span class="english">In second, Aaron Burmeister.</span></p>
 
 <p><span class="chinese">艾伦-贝克和安德鲁-巴特森</span><span class="english">By AARON BACK and ANDREW BATSON</span></p>

@@ -1,5 +1,7 @@
 # 崎岖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqu_1.md)
+
 <p><span class="chinese">那是一段漫长而崎岖的情路。</span><span class="english">It's been a long, bumpy road.</span></p>
 
 <p><span class="chinese">这辆汽车长驱穿越了崎岖地带。</span><span class="english">The car blitzed through rough terrain.</span></p>

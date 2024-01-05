@@ -1,5 +1,7 @@
 # skinner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skinner.md)
+
 <p><span class="chinese">对于这种方法，斯金纳举了很多的例子。</span><span class="english">Skinner had many examples of this.</span></p>
 
 <p><span class="chinese">斯金纳并未给出更进一步的解释。</span><span class="english">Skinner isn't saying anything more.</span></p>

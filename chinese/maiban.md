@@ -1,5 +1,7 @@
 # 买办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maiban.md)
+
 <p><span class="chinese">买办，汉奸，走狗？</span><span class="english">Comprador, traitor, running dog?</span></p>
 
 <p><span class="chinese">现在的买办恶势力就是汉奸。</span><span class="english">Today's evil comprador forces are traitors.</span></p>

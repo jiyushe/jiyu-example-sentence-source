@@ -1,5 +1,7 @@
 # gonococcus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gonococcus.md)
+
 <p><span class="chinese">葡萄球菌，淋菌沿此途径扩散。</span><span class="english">Staphylococcus, gonococcus along this way proliferation.</span></p>
 
 <p><span class="chinese">关节腔液检查有淋菌存在。</span><span class="english">Examination of articulatory antrum fluid has gonococcus to exist.</span></p>

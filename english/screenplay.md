@@ -1,5 +1,7 @@
 # screenplay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screenplay.md)
+
 <p><span class="chinese">取得自己剧本的反馈。</span><span class="english">Get feedback on your screenplay.</span></p>
 
 <p><span class="chinese">可能他们写了剧本，我不知道。</span><span class="english">Maybe they wrote the screenplay. I don't know.</span></p>

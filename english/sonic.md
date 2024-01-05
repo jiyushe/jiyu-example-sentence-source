@@ -1,5 +1,7 @@
 # sonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sonic.md)
+
 <p><span class="chinese">音爆可以震破窗户。</span><span class="english">Sonic booms can break windows.</span></p>
 
 <p><span class="chinese">音速小子在路上堵车了。</span><span class="english">The Sonic Youth's stuck in traffic.</span></p>

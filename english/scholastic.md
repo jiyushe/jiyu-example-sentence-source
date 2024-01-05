@@ -1,5 +1,7 @@
 # scholastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scholastic.md)
+
 <p><span class="chinese">思念学校的小吃。</span><span class="english">Missing the scholastic nosh.</span></p>
 
 <p><span class="chinese">你们会墨守陈规，还是勇于创新?。</span><span class="english">Are you a scholastic one or a creative one?</span></p>

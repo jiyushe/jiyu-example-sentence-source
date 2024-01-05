@@ -1,5 +1,7 @@
 # cataclastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cataclastic.md)
+
 <p><span class="chinese">砂岩的韧性碎屑流动导致了孔隙的破裂。</span><span class="english">Ductile cataclastic flow of sandstone leads to the collapse of pores.</span></p>
 
 <p><span class="chinese">金矿床属中低温热液构造蚀变岩型金矿。</span><span class="english">The deposit is a medium-low temperature altered cataclastic rock type Au deposit.</span></p>

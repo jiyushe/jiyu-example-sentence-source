@@ -1,5 +1,7 @@
 # 卷曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanqu.md)
+
 <p><span class="chinese">这些是卷曲线。</span><span class="english">These are curly lines.</span></p>
 
 <p><span class="chinese">她的头发是天然卷曲的。</span><span class="english">Her hair curls naturally.</span></p>

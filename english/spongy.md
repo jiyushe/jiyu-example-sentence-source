@@ -1,5 +1,7 @@
 # spongy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spongy.md)
+
 <p><span class="chinese">这萝卜糠了。</span><span class="english">This radish has gone spongy.</span></p>
 
 <p><span class="chinese">这西瓜瓤儿太肉了。</span><span class="english">The pulp of this watermelon is too spongy.</span></p>

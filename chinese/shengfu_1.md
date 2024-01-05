@@ -1,5 +1,7 @@
 # 生父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengfu_1.md)
+
 <p><span class="chinese">父无可考或生父未认领，母为外国人者。</span><span class="english">Father is not known and mother is foreigner.</span></p>
 
 <p><span class="chinese">你生父与你母亲是什么时候分手的？</span><span class="english">When did your father and your mother devoice?</span></p>

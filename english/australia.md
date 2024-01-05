@@ -1,5 +1,7 @@
 # Australia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/australia.md)
+
 <p><span class="chinese">我来自澳大利亚。</span><span class="english">I’m from Australia.</span></p>
 
 <p><span class="chinese">澳大利亚的更格卢鼠。</span><span class="english">Australia is a big place.</span></p>

@@ -1,5 +1,7 @@
 # ethically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethically.md)
+
 <p><span class="chinese">裁员是否道德"而是"公司怎样做使得裁员更为人道？</span><span class="english">" but "How can companies downsize ethically?</span></p>
 
 <p><span class="chinese">道德上而言，他们是否有义务做的更进一步？</span><span class="english">Are they ethically obligated to do something further?</span></p>

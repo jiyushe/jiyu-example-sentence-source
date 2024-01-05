@@ -1,5 +1,7 @@
 # disulphide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disulphide.md)
+
 <p><span class="chinese">该毒素分子内含33个氨基酸残基，有三对二硫键。</span><span class="english">This toxin consists of 33 amino acid residues with three disulphide bonds.</span></p>
 
 <p><span class="chinese">成熟的毒素分子是由二硫键连接的重链与轻链组成。</span><span class="english">Mature toxin is composed of the light chain and heavy chain linked by a disulphide bond.</span></p>

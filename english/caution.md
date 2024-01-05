@@ -1,5 +1,7 @@
 # caution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caution.md)
+
 <p><span class="chinese">他嘱咐要谨慎行事。</span><span class="english">He enjoined caution.</span></p>
 
 <p><span class="chinese">警戒森严。</span><span class="english">The caution is stern.</span></p>

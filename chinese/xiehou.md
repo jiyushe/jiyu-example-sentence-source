@@ -1,5 +1,7 @@
 # 邂逅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiehou.md)
+
 <p><span class="chinese">这是一次邂逅相遇。</span><span class="english">It was a chancy meeting.</span></p>
 
 <p><span class="chinese">她和我在国外邂逅。</span><span class="english">She and I forgathered abroad.</span></p>

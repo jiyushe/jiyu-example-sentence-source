@@ -1,5 +1,7 @@
 # vote 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vote.md)
+
 <p><span class="chinese">我没有举手表决。</span><span class="english">I didn't vote.</span></p>
 
 <p><span class="chinese">我赞成65岁退休。</span><span class="english">I vote for 65.</span></p>

@@ -1,5 +1,7 @@
 # 减产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianchan.md)
+
 <p><span class="chinese">内斗意味著减产。</span><span class="english">Internal battles mean less production.</span></p>
 
 <p><span class="chinese">随后，减产问题就会出现。</span><span class="english">Subsequently, the problem of underproduction will arise.</span></p>

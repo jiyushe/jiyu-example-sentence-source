@@ -1,5 +1,7 @@
 # rappel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rappel.md)
+
 <p><span class="chinese">他们学会了绕绳从绝壁上滑下。</span><span class="english">They learned to rappel down a cliff.</span></p>
 
 <p><span class="chinese">好现在，如果他是在我下面十米，我可以下降下去。</span><span class="english">So now if he is 10 meters , I can rappel down to him.</span></p>

@@ -1,5 +1,7 @@
 # zilpah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zilpah.md)
+
 <p><span class="chinese">利亚的使女悉帕给雅各生了一个儿子。</span><span class="english">Leah's servant Zilpah bore Jacob a son.</span></p>
 
 <p><span class="chinese">利亚的使女悉帕给雅各生了一个儿子。</span><span class="english">And Zilpah Leah's maid bare Jacob a son.</span></p>

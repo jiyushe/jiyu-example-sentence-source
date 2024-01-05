@@ -1,5 +1,7 @@
 # lasting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lasting.md)
+
 <p><span class="chinese">这痛是持久的。</span><span class="english">The pain is lasting.</span></p>
 
 <p><span class="chinese">点一盏长明的灯。</span><span class="english">Light a lasting lamp.</span></p>

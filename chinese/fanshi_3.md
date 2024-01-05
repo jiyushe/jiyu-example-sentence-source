@@ -1,5 +1,7 @@
 # 凡世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanshi_3.md)
+
 <p><span class="chinese">我并没有隐匿于凡世间。</span><span class="english">I did not hide away from the world.</span></p>
 
 <p><span class="chinese">一千年以后的凡世，换了人间。</span><span class="english">World of millenarian the following every, changed the world.</span></p>

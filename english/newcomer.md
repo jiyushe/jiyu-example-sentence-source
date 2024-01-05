@@ -1,5 +1,7 @@
 # newcomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newcomer.md)
+
 <p><span class="chinese">不过闰秒是个新事物。</span><span class="english">But the leap second is a newcomer.</span></p>
 
 <p><span class="chinese">蒙克斯的眼神移向新来者。</span><span class="english">Mengsk's eyes traveled to the newcomer.</span></p>

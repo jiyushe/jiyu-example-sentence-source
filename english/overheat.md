@@ -1,5 +1,7 @@
 # overheat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overheat.md)
+
 <p><span class="chinese">烧菜时不要把油烧得太热。</span><span class="english">Don't overheat the oil when cooking.</span></p>
 
 <p><span class="chinese">过热指示信号出现在P5和P7板上。</span><span class="english">Overheat indication occurs on the P5 and P7 panels.</span></p>

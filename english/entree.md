@@ -1,5 +1,7 @@
 # entree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entree.md)
+
 <p><span class="chinese">你的主菜好了，先生。</span><span class="english">Here is your entree , sir.</span></p>
 
 <p><span class="chinese">你想要点什么主菜呢？</span><span class="english">What would you like for your entree ?</span></p>

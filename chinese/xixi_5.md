@@ -1,5 +1,7 @@
 # 洗洗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixi_5.md)
+
 <p><span class="chinese">去洗洗你的脸！</span><span class="english">Go and wash your face!</span></p>
 
 <p><span class="chinese">我必须洗洗衣服。</span><span class="english">I have to do some washing.</span></p>

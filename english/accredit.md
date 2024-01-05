@@ -1,5 +1,7 @@
 # accredit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accredit.md)
+
 <p><span class="chinese">那要看你想给他授权什么。</span><span class="english">That should see you think his accredit what.</span></p>
 
 <p><span class="chinese">我不认可任何战争，不支持任何国家。</span><span class="english">I never accredit any war nor support any nation.</span></p>

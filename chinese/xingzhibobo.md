@@ -1,5 +1,7 @@
 # 兴致勃勃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzhibobo.md)
+
 <p><span class="chinese">乔兴致勃勃地接待了他。</span><span class="english">Joe greeted him exuberantly.</span></p>
 
 <p><span class="chinese">我正兴致勃勃的看足球。</span><span class="english">I am happy watching football.</span></p>

@@ -1,5 +1,7 @@
 # gemstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gemstone.md)
+
 <p><span class="chinese">是的。在中国，玉是非常宝贵的。</span><span class="english">Yes. It's a very precious gemstone in China.</span></p>
 
 <p><span class="chinese">绿玉的一种，用作宝石。</span><span class="english">A purple variety of corundum used as a gemstone.</span></p>

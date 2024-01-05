@@ -1,5 +1,7 @@
 # mississippi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mississippi.md)
+
 <p><span class="chinese">密西西比州被称为“木兰之州”。</span><span class="english">Mississippi is the Magnolia State.</span></p>
 
 <p><span class="chinese">就是因为他来自于密西西比</span><span class="english">It's because he's from Mississippi.</span></p>

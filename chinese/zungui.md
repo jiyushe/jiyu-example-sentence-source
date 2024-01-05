@@ -1,5 +1,7 @@
 # 尊贵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zungui.md)
+
 <p><span class="chinese">这阳光是这样尊贵知礼。</span><span class="english">The sunshine is so gentle.</span></p>
 
 <p><span class="chinese">看哪！冠冕已给羔羊！荣耀、尊贵已归祂！</span><span class="english">Behold the Lamb with glory crowned!</span></p>

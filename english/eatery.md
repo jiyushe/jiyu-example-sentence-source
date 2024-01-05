@@ -1,5 +1,7 @@
 # eatery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eatery.md)
+
 <p><span class="chinese">我走进了一个饮食店。</span><span class="english">I went into an eatery.</span></p>
 
 <p><span class="chinese">顺义哪里有咖啡厅和不错的餐馆？</span><span class="english">Shun Yi, where has the cafe and the good eatery ?</span></p>

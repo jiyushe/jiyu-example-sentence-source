@@ -1,5 +1,7 @@
 # gland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gland.md)
+
 <p><span class="chinese">腮腺巨细胞病毒感染。</span><span class="english">CMV infection of parotid gland.</span></p>
 
 <p><span class="chinese">压盖填料压得太紧。</span><span class="english">Gland packing pressed too tightly.</span></p>

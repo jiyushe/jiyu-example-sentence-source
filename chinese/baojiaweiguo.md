@@ -1,5 +1,7 @@
 # 保家卫国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baojiaweiguo.md)
+
 <p><span class="chinese">他们在保家卫国上做出许诺。</span><span class="english">They made a promise to our country to be its defenders.</span></p>
 
 <p><span class="chinese">至少银行就不能打着保家卫国的旗号，发国难财了。</span><span class="english">At least the banks would not be holding the whole country hostage.</span></p>

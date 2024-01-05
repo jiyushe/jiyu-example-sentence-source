@@ -1,5 +1,7 @@
 # 操守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoshou.md)
+
 <p><span class="chinese">但社会媒体给遵循职业操守的新闻工作者提出了新的挑战。</span><span class="english">But social media pose new challenges for the ethical journalist.</span></p>
 
 <p><span class="chinese">职业新闻工作者协会的职业道德守则阐明，它是一项自愿的道德操守指南。</span><span class="english">By its own terms, the SPJ code is a voluntary guide to ethical behavior.</span></p>

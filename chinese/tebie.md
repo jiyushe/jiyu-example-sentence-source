@@ -1,5 +1,7 @@
 # 特别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tebie.md)
+
 <p><span class="chinese">他特别喜欢。</span><span class="english">He loves it!</span></p>
 
 <p><span class="chinese">这道牛肉排骨真是太特别了。</span><span class="english">It’s special.</span></p>

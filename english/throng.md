@@ -1,5 +1,7 @@
 # throng
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throng.md)
+
 <p><span class="chinese">人们蜂拥着前去一睹国王的雄姿。</span><span class="english">To move or go as a throng.</span></p>
 
 <p><span class="chinese">人群中发出了一阵窃笑。</span><span class="english">Some of the throng sniggered.</span></p>

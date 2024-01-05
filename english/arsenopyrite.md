@@ -1,5 +1,7 @@
 # arsenopyrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arsenopyrite.md)
+
 <p><span class="chinese">且金与黄铁矿及毒砂关系密切。</span><span class="english">And the gold was close with pyrite and arsenopyrite.</span></p>
 
 <p><span class="chinese">砷以毒砂形式存在，是最主要有害元素。</span><span class="english">Arsenic, the most damaging element, occurs in arsenopyrite.</span></p>

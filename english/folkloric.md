@@ -1,5 +1,7 @@
 # folkloric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folkloric.md)
+
 <p><span class="chinese">在技术层面和黑客社区风尚。</span><span class="english">on both the technical and folkloric levels.</span></p>
 
 <p><span class="chinese">旅游业离不开民俗文化的开发。</span><span class="english">The tourism fails to go without the growth of folkloric culture.</span></p>

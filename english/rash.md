@@ -1,5 +1,7 @@
 # rash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rash.md)
+
 <p><span class="chinese">红色斑疹。</span><span class="english">A red blotchy rash.</span></p>
 
 <p><span class="chinese">他全身出了一片红疹。</span><span class="english">He breaks out in a rash.</span></p>

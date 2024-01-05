@@ -1,5 +1,7 @@
 # 营盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingpan.md)
+
 <p><span class="chinese">黄昏的时候，他们起来往亚兰人的营盘去。</span><span class="english">At dusk they got up and went to the camp of the Arameans.</span></p>
 
 <p><span class="chinese">众人就出去，掳掠亚兰人的营盘。</span><span class="english">Then the people went out and plundered the camp of the Arameans.</span></p>

@@ -1,5 +1,7 @@
 # rifle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rifle.md)
+
 <p><span class="chinese">他用步枪射倒撂六只老虎。</span><span class="english">Six fell to his rifle.</span></p>
 
 <p><span class="chinese">这支老式步枪坐得厉害。</span><span class="english">The old rifle kicks badly.</span></p>

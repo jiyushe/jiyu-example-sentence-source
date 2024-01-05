@@ -1,5 +1,7 @@
 # 迎候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinghou.md)
+
 <p><span class="chinese">我厌恶被人卑屈地迎候</span><span class="english">I hate the touch of servile hands</span></p>
 
 <p><span class="chinese">你预备好迎候马上来到的足球赛了吗?。</span><span class="english">Did you get yourself ready for the coming football match?</span></p>

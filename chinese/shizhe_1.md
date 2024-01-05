@@ -1,5 +1,7 @@
 # 侍者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhe_1.md)
+
 <p><span class="chinese">你给那侍者小费没有?</span><span class="english">Did you tip the waiter?</span></p>
 
 <p><span class="chinese">只有人工作作为侍者。</span><span class="english">Only men work as waiters.</span></p>

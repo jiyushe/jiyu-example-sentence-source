@@ -1,5 +1,7 @@
 # sandal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandal.md)
+
 <p><span class="chinese">我凉鞋坏了，你能给修修吗？</span><span class="english">Can you fix my broken sandal?</span></p>
 
 <p><span class="chinese">使每一天的科迪亚克凉鞋的冒险。</span><span class="english">Make every day an adventure with the Kodiak sandal.</span></p>

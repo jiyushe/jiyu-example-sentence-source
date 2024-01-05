@@ -1,5 +1,7 @@
 # hitachi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hitachi.md)
+
 <p><span class="chinese">在日立港口被烧毁的汽车残骸。</span><span class="english">Burned-out cars sit gutted Hitachi Harbour.</span></p>
 
 <p><span class="chinese">作为实践者，我在日立工作时开始写博客。</span><span class="english">I started my blog as a practitioner at Hitachi.</span></p>

@@ -1,5 +1,7 @@
 # pawnshop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pawnshop.md)
+
 <p><span class="chinese">他开了一家当铺。</span><span class="english">His family made their fortune running a pawnshop.</span></p>
 
 <p><span class="chinese">他得以从当铺赎回他的表。</span><span class="english">He was able to redeem his watch from the pawnshop.</span></p>

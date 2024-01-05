@@ -1,5 +1,7 @@
 # 凄楚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qichu.md)
+
 <p><span class="chinese">离别是甜蜜的凄楚。</span><span class="english">Parting is such sweet sorrow.</span></p>
 
 <p><span class="chinese">她凄楚地笑了笑，垂下眼睛看着自己胸前。</span><span class="english">She smiled drearily, looking down upon her bosom.</span></p>

@@ -1,5 +1,7 @@
 # valor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valor.md)
+
 <p><span class="chinese">我是勇猛。</span><span class="english">I am valor.</span></p>
 
 <p><span class="chinese">看那北方天空天空熊熊的怒火，是勇气在燃烧，恨意长！</span><span class="english">Is it valor or hate the blaze in the northen sky?</span></p>

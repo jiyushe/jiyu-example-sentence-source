@@ -1,5 +1,7 @@
 # 原子团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzituan.md)
+
 <p><span class="chinese">DFA的正则表达式引擎可以处理原子团？</span><span class="english">Can DFA regex engines handle atomic groups?</span></p>
 
 <p><span class="chinese">研究建立了激光与原子团簇相互作用的实验系统。</span><span class="english">Experimental system of laser interaction with atomic clusters was founded.</span></p>

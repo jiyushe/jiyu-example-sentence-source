@@ -1,5 +1,7 @@
 # agility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agility.md)
+
 <p><span class="chinese">我并不反对敏捷。</span><span class="english">I am not against Agility.</span></p>
 
 <p><span class="chinese">让我们对敏捷这么做吧。</span><span class="english">Let's do this with Agility.</span></p>

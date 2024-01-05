@@ -1,5 +1,7 @@
 # antithetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antithetical.md)
+
 <p><span class="chinese">如果这俩对立，那就是有意义的。</span><span class="english">And if the two are antithetical then it makes sense.</span></p>
 
 <p><span class="chinese">这和有效的防治计划背道而驰。</span><span class="english">That's antithetical to effective prevention programs.</span></p>

@@ -1,5 +1,7 @@
 # cataclysmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cataclysmic.md)
+
 <p><span class="chinese">结果是灾难性的。</span><span class="english">The results were cataclysmic.</span></p>
 
 <p><span class="chinese">事实证明，这些力量聚合在一起产生的后果是灾难性的。</span><span class="english">Together, these forces proved cataclysmic.</span></p>

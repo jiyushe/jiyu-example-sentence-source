@@ -1,5 +1,7 @@
 # substitutive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substitutive.md)
+
 <p><span class="chinese">按规则行事还是相机抉择是中央银行的两个替代性选择。</span><span class="english">Doing by rule and discretion is substitutive choice that the Central Bank faces.</span></p>
 
 <p><span class="chinese">陶瓷修复材料是最自然逼真的牙体组织人工替代材料。</span><span class="english">Ceramic restorative material is the best living substitutive material for natural tooth.</span></p>

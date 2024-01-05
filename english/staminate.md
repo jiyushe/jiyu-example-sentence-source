@@ -1,5 +1,7 @@
 # staminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staminate.md)
+
 <p><span class="chinese">本工作观察了白兰瓜雄花和两性花的发生和发育过程。</span><span class="english">The genesis and development of staminate flowers and the bisexual flowers of"Lanzhou melon"have been observed.</span></p>
 
 <p><span class="chinese">采用高效液相色谱法测定杜仲雄花茶在加工过程中总黄酮的含量变化。</span><span class="english">HPLC method was proposed to analyze the variation of total flavonoids content during processing of Eucommia staminate flower tea.</span></p>

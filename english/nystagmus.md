@@ -1,5 +1,7 @@
 # nystagmus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nystagmus.md)
+
 <p><span class="chinese">眼球震颤也可以通过药物来改善症状。</span><span class="english">The effects of Nystagmus can also be reduced by drugs.</span></p>
 
 <p><span class="chinese">卧地不起的动物表现角弓反张，头倾斜，斜视，眼球震颤。</span><span class="english">Recumbent animals exhibit opisthotonus, head tilt, strabismus and nystagmus.</span></p>

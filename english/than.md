@@ -1,5 +1,7 @@
 # than 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/than.md)
+
 <p><span class="chinese">比-1大吧</span><span class="english">is bigger than -1.</span></p>
 
 <p><span class="chinese">我跑的比他还快。</span><span class="english">I run fast than he.</span></p>

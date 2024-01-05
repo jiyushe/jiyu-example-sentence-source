@@ -1,5 +1,7 @@
 # profound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profound.md)
+
 <p><span class="chinese">那是一本深奥的书.</span><span class="english">It's a profound book.</span></p>
 
 <p><span class="chinese">真的很深奥。</span><span class="english">That was very profound.</span></p>

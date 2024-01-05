@@ -1,5 +1,7 @@
 # childe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/childe.md)
+
 <p><span class="chinese">你听清楚没有，君公子。</span><span class="english">You listen to explicit to have no, gentleman childe.</span></p>
 
 <p><span class="chinese">公子随队抵达，特出城迎接。</span><span class="english">The childe arrives with the brigade, the outstanding city greets.</span></p>

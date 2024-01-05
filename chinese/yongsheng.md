@@ -1,5 +1,7 @@
 # 永生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongsheng.md)
+
 <p><span class="chinese">你们的神是永生的神。</span><span class="english">Your God is alive, v. 10.</span></p>
 
 <p><span class="chinese">因为它使我们丧失了永生。</span><span class="english">It robs us of immortality.</span></p>

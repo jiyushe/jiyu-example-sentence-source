@@ -1,5 +1,7 @@
 # conic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conic.md)
+
 <p><span class="chinese">二次曲线的准线。</span><span class="english">The directrix line of a conic.</span></p>
 
 <p><span class="chinese">一年生草本根圆锥形或具刺。</span><span class="english">Herbs annual. Roots conic or spinose.</span></p>

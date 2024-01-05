@@ -1,5 +1,7 @@
 # 审讯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenxun.md)
+
 <p><span class="chinese">他甚至可能接受军事法庭审讯。</span><span class="english">He may even be court-martialed.</span></p>
 
 <p><span class="chinese">一场审讯为双方而举行。</span><span class="english">A trial was held for both sider.</span></p>

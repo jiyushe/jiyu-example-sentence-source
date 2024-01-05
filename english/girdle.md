@@ -1,5 +1,7 @@
 # girdle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/girdle.md)
+
 <p><span class="chinese">将给我束上钢铁的腰带。</span><span class="english">Shall girdle me with steel.</span></p>
 
 <p><span class="chinese">如同一卷明丽的腰带伸展。</span><span class="english">Lay like the folds of a bright girdle furled.</span></p>

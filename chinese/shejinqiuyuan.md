@@ -1,5 +1,7 @@
 # 舍近求远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shejinqiuyuan.md)
+
 <p><span class="chinese">正当利用时间！不要舍近求远。——歌德。</span><span class="english">Proper use of our time! Don't further.</span></p>
 
 <p><span class="chinese">正当利用时间！你要理解什么，不要舍近求远。——歌德。</span><span class="english">Proper use of our time! What do you want to understand, not to further.</span></p>

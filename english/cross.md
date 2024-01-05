@@ -1,5 +1,7 @@
 # cross 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cross.md)
+
 <p><span class="chinese">穿过一条小马路。</span><span class="english">Cross a small road.</span></p>
 
 <p><span class="chinese">抹掉这个短语。</span><span class="english">Cross out this phrase.</span></p>

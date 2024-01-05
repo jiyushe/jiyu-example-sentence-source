@@ -1,5 +1,7 @@
 # humeral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humeral.md)
+
 <p><span class="chinese">结论LCP是治疗肱骨近端粉碎性骨折较理想的方法。</span><span class="english">Conclusions LCP is effective for comminuted proximal humeral fracture.</span></p>
 
 <p><span class="chinese">BLIN的最佳适应证为复杂型肱骨骨折。</span><span class="english">The best indication in which BLIN can be used is complex humeral fracture.</span></p>

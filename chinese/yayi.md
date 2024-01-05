@@ -1,5 +1,7 @@
 # 牙医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yayi.md)
+
 <p><span class="chinese">我的牙医就是这么干的。</span><span class="english">That's what my dentist did.</span></p>
 
 <p><span class="chinese">牙医填补龋齿。</span><span class="english">A dentist fills decayed teeth.</span></p>

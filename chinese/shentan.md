@@ -1,5 +1,7 @@
 # 深潭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shentan.md)
+
 <p><span class="chinese">在瀑布下的深潭里赤裸游泳。</span><span class="english">To swim naked under waterfalls.</span></p>
 
 <p><span class="chinese">悲伤的灵魂在无底的深潭里哭泣。</span><span class="english">Woeful souls are wailing in an abysmal pond.</span></p>

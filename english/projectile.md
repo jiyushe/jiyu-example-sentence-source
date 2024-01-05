@@ -1,5 +1,7 @@
 # projectile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/projectile.md)
+
 <p><span class="chinese">抛体运动</span><span class="english">Projectile motion.</span></p>
 
 <p><span class="chinese">抛体运动是什么？。</span><span class="english">What Is Projectile Motion?</span></p>

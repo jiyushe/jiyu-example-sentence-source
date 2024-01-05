@@ -1,5 +1,7 @@
 # false 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/false.md)
+
 <p><span class="chinese">那是假的。</span><span class="english">That is false.</span></p>
 
 <p><span class="chinese">都是成见。</span><span class="english">False stereotypes.</span></p>

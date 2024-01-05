@@ -1,5 +1,7 @@
 # methemoglobin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methemoglobin.md)
+
 <p><span class="chinese">在NF3暴露停止后，高铁血红蛋白转化回血红素。</span><span class="english">At the cessation of NF3exposure, methemoglobin reverts back to hemoglobin.</span></p>
 
 <p><span class="chinese">过量吸入NF3会导致血色素转化成高铁血红蛋白。</span><span class="english">Over-exposure to NF3via inhalation induces the conversion of hemoglobin to methemoglobin.</span></p>

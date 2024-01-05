@@ -1,5 +1,7 @@
 # discontinuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discontinuation.md)
+
 <p><span class="chinese">两种剂量的艾托烤昔服用者都有较多的患者因为高血压而中断治疗。</span><span class="english">Both doses of etoricoxib had higher rates of discontinuation due to high blood pressure.</span></p>
 
 <p><span class="chinese">目的评估炎性肠病患者使用硫唑嘌呤后因不良反应引起停药的比例及原因。</span><span class="english">Objective To assess the rate of side effects leading to discontinuation of azathioprine.</span></p>

@@ -1,5 +1,7 @@
 # canton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canton.md)
+
 <p><span class="chinese">苏黎士在哪一个州?。</span><span class="english">Which canton is Zurich in?</span></p>
 
 <p><span class="chinese">你可以去广州塔看看。</span><span class="english">You can see the Canton Tower.</span></p>

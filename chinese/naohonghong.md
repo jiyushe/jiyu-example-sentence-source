@@ -1,5 +1,7 @@
 # 闹哄哄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naohonghong.md)
+
 <p><span class="chinese">这次会议开得闹哄哄的。</span><span class="english">The meeting was a noisy affair.</span></p>
 
 <p><span class="chinese">孩子们闹哄哄地挤上了公共汽车。</span><span class="english">The children piled noisily into the bus.</span></p>

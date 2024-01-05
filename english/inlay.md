@@ -1,5 +1,7 @@
 # inlay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inlay.md)
+
 <p><span class="chinese">嵌有乌木装饰图案的青龙木书桌。</span><span class="english">A writing desk of rosewood with ebony inlay.</span></p>
 
 <p><span class="chinese">这完全是高抛光的蓝色碳纤维嵌体。</span><span class="english">It is all high polish with blue carbon fiber inlay.</span></p>

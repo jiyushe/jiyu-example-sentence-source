@@ -1,5 +1,7 @@
 # crone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crone.md)
+
 <p><span class="chinese">如果需要，占领一个王位，哪里没人会叫你老妇人。</span><span class="english">If need be, occupy a throne, Where nobody can call you crone.</span></p>
 
 <p><span class="chinese">他即使是二十岁的青年，行动起来也象个干瘪的老太婆。</span><span class="english">Even if he is a youth of twenty he moves like an ancient crone.</span></p>

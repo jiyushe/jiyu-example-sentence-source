@@ -1,5 +1,7 @@
 # puff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puff.md)
+
 <p><span class="chinese">那是我的粉扑。</span><span class="english">That's my powder puff.</span></p>
 
 <p><span class="chinese">你爱打击我，和我爱粉扑。</span><span class="english">You love blow and I, I love puff.</span></p>

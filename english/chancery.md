@@ -1,5 +1,7 @@
 # chancery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chancery.md)
+
 <p><span class="chinese">一个被留下还剩四个。</span><span class="english">One got in chancery , and the there were four.</span></p>
 
 <p><span class="chinese">一个被留下还剩下四个。</span><span class="english">One got in chancery , and then there were four.</span></p>

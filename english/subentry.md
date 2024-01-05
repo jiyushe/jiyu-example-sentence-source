@@ -1,5 +1,7 @@
 # subentry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subentry.md)
+
 <p><span class="chinese">子项是紧跟它的父条目。</span><span class="english">Subentry is immidiately followed by its parent entry.</span></p>
 
 <p><span class="chinese">二是将徐变系数表达成各分项系数之和的形式。</span><span class="english">Another is expressed by addition of different subentry coefficient.</span></p>

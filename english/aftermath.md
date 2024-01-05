@@ -1,5 +1,7 @@
 # aftermath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aftermath.md)
+
 <p><span class="chinese">我跟你们说过战斗及追歼残敌的过程</span><span class="english">I talked to you about the pursuit, the aftermath.</span></p>
 
 <p><span class="chinese">战祸之后，生活艰苦多了。</span><span class="english">Life was much harder in the aftermath of the war.</span></p>

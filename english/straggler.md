@@ -1,5 +1,7 @@
 # straggler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straggler.md)
+
 <p><span class="chinese">他是同僚中的落伍者。</span><span class="english">He is a fellow straggler in.</span></p>
 
 <p><span class="chinese">有的时候，生活是迷途，而我是一个流浪者。</span><span class="english">Sometimes, life is a struggle, and I am a straggler.</span></p>

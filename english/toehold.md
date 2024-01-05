@@ -1,5 +1,7 @@
 # toehold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toehold.md)
+
 <p><span class="chinese">家庭关系使她在政治上获得了初步的立脚点。</span><span class="english">Family connections gave her a toehold in politics.</span></p>
 
 <p><span class="chinese">在中国获得钢铁生产的立足之地困难重重。</span><span class="english">Getting a production toehold in China has been frustrating.</span></p>

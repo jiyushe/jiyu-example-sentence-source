@@ -1,5 +1,7 @@
 # econometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/econometric.md)
+
 <p><span class="chinese">经济计量模型也是如此。</span><span class="english">So too with econometric models.</span></p>
 
 <p><span class="chinese">换言之，用计量经济学的术语来说，它是一个单位根过程。</span><span class="english">That is, in econometric terms, there is a unit root.</span></p>

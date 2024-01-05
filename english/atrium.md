@@ -1,5 +1,7 @@
 # atrium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atrium.md)
+
 <p><span class="chinese">预定一米阳光，装进心房。</span><span class="english">Reserve one meter sunshine and put them in atrium.</span></p>
 
 <p><span class="chinese">入口是一个穿过四层楼高，直通屋顶的中庭。</span><span class="english">Entry is through a soaring four-storey-high atrium.</span></p>

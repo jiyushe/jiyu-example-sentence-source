@@ -1,5 +1,7 @@
 # pensioner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pensioner.md)
+
 <p><span class="chinese">一位老人在野餐时被野蜂叮了后就去世了。</span><span class="english">A pensioner has died after he was stung by a bee during a picnic.</span></p>
 
 <p><span class="chinese">这个“墓地幽灵”的落网归功于一个很有活力的退休老人。</span><span class="english">The cemetery phantom had been caught thanks to a lively elderly pensioner.</span></p>

@@ -1,5 +1,7 @@
 # biz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biz.md)
+
 <p><span class="chinese">做环境生意是很难正确把握的。</span><span class="english">The environment biz is fickle.</span></p>
 
 <p><span class="chinese">所以我去和艾夫与比孜一起工作。</span><span class="english">So, I went to work with Ev and Biz.</span></p>

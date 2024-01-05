@@ -1,5 +1,7 @@
 # 什物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwu_1.md)
+
 <p><span class="chinese">你能协助我将这些什物放好么？</span><span class="english">Would you help me put away these things?</span></p>
 
 <p><span class="chinese">海滩宽阔，到处是有趣的被冲上岸的零碎什物。</span><span class="english">The beaches are wide and filled with interesting flotsam and jetsam.</span></p>

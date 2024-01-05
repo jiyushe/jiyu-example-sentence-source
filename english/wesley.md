@@ -1,5 +1,7 @@
 # wesley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wesley.md)
+
 <p><span class="chinese">韦斯利·斯内德——荷兰</span><span class="english">Wesley Sneijder – The Netherlands</span></p>
 
 <p><span class="chinese">魏斯理整天打喷嚏和咳嗽。</span><span class="english">Wesley sneezes and coughs all day.</span></p>

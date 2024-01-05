@@ -1,5 +1,7 @@
 # pliant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pliant.md)
+
 <p><span class="chinese">难道我们理应屈膝跪在这片土地上。</span><span class="english">Bend to the earth our pliant knees.</span></p>
 
 <p><span class="chinese">新上任的首相也更加顺从。</span><span class="english">A new, more pliant prime minister took over.</span></p>

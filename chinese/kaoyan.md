@@ -1,5 +1,7 @@
 # 考验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaoyan.md)
+
 <p><span class="chinese">他们的信仰接受考验。</span><span class="english">Their faith was tested.</span></p>
 
 <p><span class="chinese">这是考验意志的行为。</span><span class="english">This is an act of will.</span></p>

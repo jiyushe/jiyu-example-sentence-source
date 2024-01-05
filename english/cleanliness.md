@@ -1,5 +1,7 @@
 # cleanliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleanliness.md)
+
 <p><span class="chinese">清洁是疾病的敌人，清洁可以祛病。</span><span class="english">Cleanliness is a foe to disease.</span></p>
 
 <p><span class="chinese">她是个有洁癖的人。</span><span class="english">IT is a fanatic for cleanliness.</span></p>

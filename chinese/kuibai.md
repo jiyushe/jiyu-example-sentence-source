@@ -1,5 +1,7 @@
 # 溃败
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuibai.md)
+
 <p><span class="chinese">泽克西斯眼睁睁的看着他的战士溃败…</span><span class="english">Xerxes watched as his warriors were defeated.</span></p>
 
 <p><span class="chinese">溃败的部队在山脚下重新聚集在一起。</span><span class="english">The defeated troops regrouped at the foot of the hill.</span></p>

@@ -1,5 +1,7 @@
 # sync
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sync.md)
+
 <p><span class="chinese">三电平同步正好满足了这个要求。</span><span class="english">Tri-level sync met the requirements.</span></p>
 
 <p><span class="chinese">从这个节点启动检查和同步。</span><span class="english">Initiate verify and sync from this node.</span></p>

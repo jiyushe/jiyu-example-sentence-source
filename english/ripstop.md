@@ -1,5 +1,7 @@
 # ripstop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ripstop.md)
+
 <p><span class="chinese">我甚至能够精确地数清防刮尼龙伞上的补丁。</span><span class="english">I could literally count the patches on the ripstop nylon.</span></p>
 
 <p><span class="chinese">鞋面采用透气性好，轻量化、抗撕裂的耐磨网布。</span><span class="english">Mesh is breathable, lightweight, ripstop and wear-resistant.</span></p>

@@ -1,5 +1,7 @@
 # moly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moly.md)
+
 <p><span class="chinese">穿兰色衣服的孩子是汤姆。</span><span class="english">The holy moly in grey is Tom.</span></p>
 
 <p><span class="chinese">那儿的男孩必要一支钢笔。</span><span class="english">The holy moly there needs a pen.</span></p>

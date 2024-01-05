@@ -1,5 +1,7 @@
 # tensor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tensor.md)
+
 <p><span class="chinese">张量代数则离不开坐标系。</span><span class="english">Tensor algebra is tied to coordinates.</span></p>
 
 <p><span class="chinese">推导出损伤应变能释放率张量。</span><span class="english">A release rate tensor of damage strain energy is derived.</span></p>

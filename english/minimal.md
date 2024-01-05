@@ -1,5 +1,7 @@
 # minimal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minimal.md)
+
 <p><span class="chinese">它的表面渗出物很少。</span><span class="english">Surface exudation is minimal.</span></p>
 
 <p><span class="chinese">双边地的最小膝流出物。</span><span class="english">Minimal knee effusion bilaterally.</span></p>

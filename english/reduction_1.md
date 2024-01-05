@@ -1,5 +1,7 @@
 # reduction 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reduction_1.md)
+
 <p><span class="chinese">减少食品中的丙烯酰胺</span><span class="english">Reduction of acrylamide in food</span></p>
 
 <p><span class="chinese">及早的价值创造和风险减少。</span><span class="english">Early value creation and risk reduction.</span></p>

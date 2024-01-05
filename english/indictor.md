@@ -1,5 +1,7 @@
 # indictor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indictor.md)
+
 <p><span class="chinese">对市场基准的选择做相应的比较分析和可行性分析。</span><span class="english">And the comparative and feasible analysis on the various indictor is made too.</span></p>
 
 <p><span class="chinese">第四章详细介绍了土地利用效益评价指标体系的内容和得来的过程。</span><span class="english">Chapter 4 introduces the indictor system of land use efficiency evaluation in detail.</span></p>

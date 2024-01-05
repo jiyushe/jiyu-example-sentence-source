@@ -1,5 +1,7 @@
 # sartorius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sartorius.md)
+
 <p><span class="chinese">我是用的缝纫机油，别用鞋油就行。^_^。</span><span class="english">I use sartorius oil. Don't use shoeshine.</span></p>
 
 <p><span class="chinese">他10岁时拆卸了一台缝纫机。</span><span class="english">He took apart a sartorius at the age of 10.</span></p>

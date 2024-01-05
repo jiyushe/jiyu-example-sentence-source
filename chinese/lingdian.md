@@ -1,5 +1,7 @@
 # 零点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingdian.md)
+
 <p><span class="chinese">有无形的障碍，零点吗？</span><span class="english">Is there a glass ceiling-- the zero?</span></p>
 
 <p><span class="chinese">我们可以把能量零点选在任意一个地方。</span><span class="english">We can put the zero of energy anywhere.</span></p>

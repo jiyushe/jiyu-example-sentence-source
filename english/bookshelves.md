@@ -1,5 +1,7 @@
 # bookshelves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookshelves.md)
+
 <p><span class="chinese">他还在为我做书架呢。</span><span class="english">He’s working on my bookshelves.</span></p>
 
 <p><span class="chinese">那儿有一张工作桌和很多书架。</span><span class="english">There is a desk and many bookshelves.</span></p>

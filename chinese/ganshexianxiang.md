@@ -1,5 +1,7 @@
 # 干涉现象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshexianxiang.md)
+
 <p><span class="chinese">当我们将两个波叠加起来，就会有干涉现象。</span><span class="english">What it does change is how the electrons might interfere with other electrons.</span></p>
 
 <p><span class="chinese">人道主义干涉现象是客观存在于国际社会中的社会事实。</span><span class="english">Humanitarian intervention phenomena are social facts in the international society.</span></p>

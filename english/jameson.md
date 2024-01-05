@@ -1,5 +1,7 @@
 # jameson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jameson.md)
+
 <p><span class="chinese">詹姆逊自己也提醒我们这其中的危险。</span><span class="english">Jameson himself reminds us of the dangers.</span></p>
 
 <p><span class="chinese">一位温文尔雅名叫约翰•詹姆森的老绅士。</span><span class="english">A courtly old gentleman named john jameson.</span></p>

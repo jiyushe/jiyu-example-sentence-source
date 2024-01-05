@@ -1,5 +1,7 @@
 # minsk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minsk.md)
+
 <p><span class="chinese">目前有18000人在明斯克拖拉机厂工作。</span><span class="english">There are 18,000 people currently working at Minsk Tractor Works.</span></p>
 
 <p><span class="chinese">从我明斯克房子的窗户向外望去，我就可以这样的告诉他。</span><span class="english">I could tell him that just by looking out from my window in Minsk.</span></p>

@@ -1,5 +1,7 @@
 # kern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kern.md)
+
 <p><span class="chinese">他现在似乎也在跟另一个人——达芙妮-克恩约会吧？</span><span class="english">He seems now also to be seeing this other person—Daphne Kern?</span></p>
 
 <p><span class="chinese">这场大火是科恩县7月27日遭遇的两场大火之一。</span><span class="english">The Bull Fire was one of two large fires burning in Kern County on July 27.</span></p>

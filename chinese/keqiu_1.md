@@ -1,5 +1,7 @@
 # 苛求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keqiu_1.md)
+
 <p><span class="chinese">对人对事少一点苛求吧。</span><span class="english">And a little less demanding.</span></p>
 
 <p><span class="chinese">神苛求白天操劳，光明却不给？</span><span class="english">Doth God exact day-labor, light denied?</span></p>

@@ -1,5 +1,7 @@
 # 商务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangwu_1.md)
+
 <p><span class="chinese">商务仓。非吸烟区。</span><span class="english">Busine cla . Non smoking.</span></p>
 
 <p><span class="chinese">商务仍然是个很棒的选择。</span><span class="english">business is always great.</span></p>

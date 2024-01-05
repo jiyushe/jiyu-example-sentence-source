@@ -1,5 +1,7 @@
 # acidophilus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acidophilus.md)
+
 <p><span class="chinese">嗜酸乳是使用嗜酸乳杆菌而制得的。</span><span class="english">Acidophilus milk is produced by using Lactobacitlus acidophilus.</span></p>
 
 <p><span class="chinese">嗜酸链霉菌是葡萄糖异构酶的产生菌之一，具有良好生产潜力。</span><span class="english">Streptomyces acidophilus is one of the glucose isomerase producing strains.</span></p>

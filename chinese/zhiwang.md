@@ -1,5 +1,7 @@
 # 指望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwang.md)
+
 <p><span class="chinese">那你又能指望怎么样呢？</span><span class="english">Well, what do you expect?</span></p>
 
 <p><span class="chinese">看来我是没指望了。</span><span class="english">I think I am hopeless here.</span></p>

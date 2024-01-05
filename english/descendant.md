@@ -1,5 +1,7 @@
 # descendant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/descendant.md)
+
 <p><span class="chinese">他是直系子孙。</span><span class="english">He is the lineal descendant.</span></p>
 
 <p><span class="chinese">他的一家都是从戎的爱国者。</span><span class="english">He was a descendant of patriots.</span></p>

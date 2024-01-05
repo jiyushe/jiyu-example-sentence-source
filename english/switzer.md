@@ -1,5 +1,7 @@
 # switzer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/switzer.md)
+
 <p><span class="chinese">最好的表是瑞士表。</span><span class="english">The best watch is Switzer watch.</span></p>
 
 <p><span class="chinese">去年夏天我在瑞士度过了一个月。</span><span class="english">Last summer I spent a month in Switzer.</span></p>

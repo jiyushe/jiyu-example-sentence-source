@@ -1,5 +1,7 @@
 # vitellogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitellogenesis.md)
+
 <p><span class="chinese">卵黄形成开始。</span><span class="english">Vitellogenesis begin at this stage.</span></p>
 
 <p><span class="chinese">卵黄原蛋白是昆虫卵黄发生的关键物质。</span><span class="english">Vitellogenin is the key factor in vitellogenesis in insects.</span></p>

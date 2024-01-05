@@ -1,5 +1,7 @@
 # ivory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ivory.md)
+
 <p><span class="chinese">象牙塔资产。</span><span class="english">Ivory tower assets.</span></p>
 
 <p><span class="chinese">它是用象牙雕成的。</span><span class="english">It is carved from ivory.</span></p>

@@ -1,5 +1,7 @@
 # lloyd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lloyd.md)
+
 <p><span class="chinese">种植出这一西瓜的人名叫罗伊德.布莱特。</span><span class="english">The man who grew it is Lloyd Bright, 67.</span></p>
 
 <p><span class="chinese">罗依德从今天早晨一直在打网球吗?。</span><span class="english">Has Lloyd been playing tennis since this morning?</span></p>

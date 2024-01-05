@@ -1,5 +1,7 @@
 # upscale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upscale.md)
+
 <p><span class="chinese">追求高质量，攀登高档次。</span><span class="english">Pursue high quality, climb an upscale time.</span></p>
 
 <p><span class="chinese">高档酒店用品水晶杯系列，。</span><span class="english">Upscale hotel supplies crystal cup series,.</span></p>

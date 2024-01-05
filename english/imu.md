@@ -1,5 +1,7 @@
 # imu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imu.md)
+
 <p><span class="chinese">此外该系统还能够补偿IMU的偏移误差。</span><span class="english">The drift error of IMU was also compensated.</span></p>
 
 <p><span class="chinese">这次IMU与BWE共同完成的工作可以说是“全球首创之举”。</span><span class="english">The joint work completed by IMU and BWE is certainly a 'Global First'.</span></p>

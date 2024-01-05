@@ -1,5 +1,7 @@
 # damning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damning.md)
+
 <p><span class="chinese">该死的伊云飞，你害死我了！</span><span class="english">Yi cloud of damning flies, you harmed to die me!</span></p>
 
 <p><span class="chinese">我们找到一些牵连他们两人罪证确凿的证据。</span><span class="english">We found some damning evidence that implicated both of them.</span></p>

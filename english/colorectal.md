@@ -1,5 +1,7 @@
 # colorectal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorectal.md)
+
 <p><span class="chinese">大肠癌是最常见的恶性肿瘤之一。</span><span class="english">Colorectal cancer was one of the most common malignant tumors.</span></p>
 
 <p><span class="chinese">大肠息肉不论大小、性质应尽可能予以切除。</span><span class="english">Colorectal polyps is to be extirpated regardless of size and type.</span></p>

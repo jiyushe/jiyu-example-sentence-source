@@ -1,5 +1,7 @@
 # 家禽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaqin.md)
+
 <p><span class="chinese">那些家禽是关在笼子里养的。</span><span class="english">The poultry are kept in a cage.</span></p>
 
 <p><span class="chinese">我们知道如何隔离家禽。</span><span class="english">We know how to isolate poultry.</span></p>

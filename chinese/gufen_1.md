@@ -1,5 +1,7 @@
 # 骨粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufen_1.md)
+
 <p><span class="chinese">骨粉是很好的肥料。</span><span class="english">Bone meal is great fertilizer.</span></p>
 
 <p><span class="chinese">骨粉是最佳肥料之一。</span><span class="english">Crushed bones make one of the best fertilizers.</span></p>

@@ -1,5 +1,7 @@
 # 拍卖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paimai.md)
+
 <p><span class="chinese">今天我拍卖的是维尼熊。</span><span class="english">Its name is Winny Bear.</span></p>
 
 <p><span class="chinese">谢谢——我在拍卖时买的。</span><span class="english">Thanks—I got it on sale.</span></p>

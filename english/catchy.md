@@ -1,5 +1,7 @@
 # catchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catchy.md)
+
 <p><span class="chinese">这病会传染吗?。</span><span class="english">Is this disease catchy?</span></p>
 
 <p><span class="chinese">你的标题十分吸引人。</span><span class="english">Your headline is very catchy.</span></p>

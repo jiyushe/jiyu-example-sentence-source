@@ -1,5 +1,7 @@
 # 一线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixian.md)
+
 <p><span class="chinese">有一线希望。</span><span class="english">There is a ray of hope.</span></p>
 
 <p><span class="chinese">但是还是有一线希望的。</span><span class="english">There is a ray of hope.</span></p>

@@ -1,5 +1,7 @@
 # 自得其乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zideqile.md)
+
 <p><span class="chinese">没关系，我也自得其乐。</span><span class="english">Well, I enjoyed it too.</span></p>
 
 <p><span class="chinese">我此刻很是自得其乐。</span><span class="english">I am really enjoying myself at the moment.</span></p>

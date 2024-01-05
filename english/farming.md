@@ -1,5 +1,7 @@
 # farming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farming.md)
+
 <p><span class="chinese">种田苦。</span><span class="english">Farming is hard.</span></p>
 
 <p><span class="chinese">他靠务农过活。</span><span class="english">He lives by farming.</span></p>

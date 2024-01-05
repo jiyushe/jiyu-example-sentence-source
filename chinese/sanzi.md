@@ -1,5 +1,7 @@
 # 三自
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanzi.md)
+
 <p><span class="chinese">提出了一种三自由度模型姿态调整机构。</span><span class="english">A three degree-of-freedom attitude adjustment mechanism is proposed.</span></p>
 
 <p><span class="chinese">介绍了一种新型三自由度移动可约并联机构。</span><span class="english">A novel 3-DOF reducible translational parallel mechanism is presented.</span></p>

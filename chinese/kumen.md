@@ -1,5 +1,7 @@
 # 苦闷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kumen.md)
+
 <p><span class="chinese">哀伤与苦闷充满我的心。</span><span class="english">Grief and despair fill my heart.</span></p>
 
 <p><span class="chinese">心并苦闷乐，或是当我想说什么呢？</span><span class="english">Heart not happy, or something when I want to say?</span></p>

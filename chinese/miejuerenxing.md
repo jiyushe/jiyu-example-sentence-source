@@ -1,5 +1,7 @@
 # 灭绝人性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miejuerenxing.md)
+
 <p><span class="chinese">帝国主义灭绝人性地屠杀是有罪的。</span><span class="english">Imperialism is guilty of mass murder.</span></p>
 
 <p><span class="chinese">贪婪可以灭绝人性和良知。</span><span class="english">Greed suffocates  humanity and intuitive knowledge.</span></p>

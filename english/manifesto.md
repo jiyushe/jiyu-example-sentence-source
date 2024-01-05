@@ -1,5 +1,7 @@
 # manifesto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manifesto.md)
+
 <p><span class="chinese">里克列文，规则培训宣言</span><span class="english">Rick Levine, The Cluetrain Manifesto</span></p>
 
 <p><span class="chinese">我是一名黑客，以上是我的宣言。</span><span class="english">I am a raver, and this is my manifesto.</span></p>

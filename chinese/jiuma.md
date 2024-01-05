@@ -1,5 +1,7 @@
 # 舅妈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuma.md)
+
 <p><span class="chinese">舅妈帕特丽夏是他的妻子。</span><span class="english">Aunt Patricia is his wife.</span></p>
 
 <p><span class="chinese">我找不到舅妈。</span><span class="english">I had no way to find my aunt.</span></p>

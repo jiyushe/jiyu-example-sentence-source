@@ -1,5 +1,7 @@
 # 隐士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshi_3.md)
+
 <p><span class="chinese">你是孤独的、孤独的，你是一个隐士，你变得不可理喻。</span><span class="english">It is lonely.</span></p>
 
 <p><span class="chinese">隐士举手合十在他的额顶。</span><span class="english">The Hermit crossed his brow.</span></p>

@@ -1,5 +1,7 @@
 # spiny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiny.md)
+
 <p><span class="chinese">西印度群岛的一种带刺小乔木。</span><span class="english">Small spiny west indian tree.</span></p>
 
 <p><span class="chinese">然后，你知道的，它有个尖尖的刺刺。</span><span class="english">Then, You know, It had something spiny h.</span></p>

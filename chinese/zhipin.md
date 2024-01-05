@@ -1,5 +1,7 @@
 # 制品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhipin.md)
+
 <p><span class="chinese">使用玻璃制品。</span><span class="english">Go with glass.</span></p>
 
 <p><span class="chinese">还是化学制品呢</span><span class="english">Is it a chemical?</span></p>

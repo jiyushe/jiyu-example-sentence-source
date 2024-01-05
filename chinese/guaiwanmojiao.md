@@ -1,5 +1,7 @@
 # 拐弯抹角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guaiwanmojiao.md)
+
 <p><span class="chinese">人们在拐弯抹角地讨论这件事。</span><span class="english">People talked about it obliquely.</span></p>
 
 <p><span class="chinese">有话直说。我讨厌拐弯抹角。</span><span class="english">Talk truly. I hate to beat around the bush.</span></p>

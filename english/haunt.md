@@ -1,5 +1,7 @@
 # haunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haunt.md)
+
 <p><span class="chinese">不然，我将时常萦绕你身旁。</span><span class="english">Do this or I will haunt you.</span></p>
 
 <p><span class="chinese">是谁在故地迎亲？</span><span class="english">Who greets at the old haunt?</span></p>

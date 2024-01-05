@@ -1,5 +1,7 @@
 # adzuki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adzuki.md)
+
 <p><span class="chinese">红小豆是我国传统的栽培豆类之一。</span><span class="english">Adzuki bean is one of traditional grain legumes in China.</span></p>
 
 <p><span class="chinese">绿豆象是小豆的主要仓贮害虫。</span><span class="english">One of the main stored grain insects of adzuki bean is Callosobruchus chinensis.</span></p>

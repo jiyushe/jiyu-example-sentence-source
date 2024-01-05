@@ -1,5 +1,7 @@
 # civility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/civility.md)
+
 <p><span class="chinese">礼貌不须什麽代价。</span><span class="english">Civility costs nothing.</span></p>
 
 <p><span class="chinese">这是一首文明礼貌歌。</span><span class="english">This is a song civility.</span></p>

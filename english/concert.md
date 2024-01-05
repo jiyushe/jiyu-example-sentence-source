@@ -1,5 +1,7 @@
 # concert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concert.md)
+
 <p><span class="chinese">我在一个音乐堂里。</span><span class="english">I am in a concert hall.</span></p>
 
 <p><span class="chinese">希望你会喜欢这场音乐会。</span><span class="english">I hope you enjoy the concert.</span></p>

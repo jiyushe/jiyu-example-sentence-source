@@ -1,5 +1,7 @@
 # 史记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiji_2.md)
+
 <p><span class="chinese">史记出生于北特拉维夫。</span><span class="english">Sagi was born in North Tel Aviv.</span></p>
 
 <p><span class="chinese">史记还拥有两家网上外汇交易网站。</span><span class="english">Sagi also owns two websites for online foreign currency transactions.</span></p>

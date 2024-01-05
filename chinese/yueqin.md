@@ -1,5 +1,7 @@
 # 月琴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueqin.md)
+
 <p><span class="chinese">这个奇妙的乐器就是月琴。</span><span class="english">This wonderful instrument is the yu-kin.</span></p>
 
 <p><span class="chinese">月琴岛上的绝世美人大路寺智子竟然是“蜂王”？</span><span class="english">Yueqin island supernatural beauty daidouji naokou is incredibly "queen"?</span></p>

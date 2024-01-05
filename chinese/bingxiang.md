@@ -1,5 +1,7 @@
 # 冰箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingxiang.md)
+
 <p><span class="chinese">清理你的冰箱。</span><span class="english">Clean your freezer.</span></p>
 
 <p><span class="chinese">我打开冰箱。</span><span class="english">I open the freezer.</span></p>

@@ -1,5 +1,7 @@
 # 运筹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunchou.md)
+
 <p><span class="chinese">积极运筹与主要大国关系。</span><span class="english">Actively promoting relations with the major countries.</span></p>
 
 <p><span class="chinese">他年轻有为，巧于运筹。</span><span class="english">He's a clever young man and knows how to play his cards well.</span></p>

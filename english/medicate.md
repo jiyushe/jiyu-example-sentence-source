@@ -1,5 +1,7 @@
 # medicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medicate.md)
+
 <p><span class="chinese">用酒精、电视、体育和性来自我医疗</span><span class="english">Uses alcohol, TV, sports, and sex to self medicate</span></p>
 
 <p><span class="chinese">接着他们开始谈论了很多药物治疗和医疗保健方案。</span><span class="english">They started out with a lot of talk about Medicate and Medicare.</span></p>

@@ -1,5 +1,7 @@
 # 深恶痛绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenwutongjue.md)
+
 <p><span class="chinese">我们深恶痛绝那个无赖。</span><span class="english">We abominated the rascal.</span></p>
 
 <p><span class="chinese">我对战争感到厌倦并深恶痛绝。</span><span class="english">I am tired and sick of war.</span></p>

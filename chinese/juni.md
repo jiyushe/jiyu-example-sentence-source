@@ -1,5 +1,7 @@
 # 拘泥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juni.md)
+
 <p><span class="chinese">咱们不要搞得太拘泥形式了。</span><span class="english">You are too nice about form.</span></p>
 
 <p><span class="chinese">我决非拘泥于权威的人。</span><span class="english">I am no stickler for authority.</span></p>

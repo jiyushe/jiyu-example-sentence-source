@@ -1,5 +1,7 @@
 # 板正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banzheng.md)
+
 <p><span class="chinese">点杖在两支雪板正好放平的时候！</span><span class="english">Plant the pole "exactly" where skis are flatten!</span></p>
 
 <p><span class="chinese">唯一我们能够写的就是一板正经的情书。</span><span class="english">The only thing one can write that is a bit serious—a love letter.</span></p>

@@ -1,5 +1,7 @@
 # 日程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/richeng.md)
+
 <p><span class="chinese">制定一个清晰的日程安排表。</span><span class="english">Have a clear schedule.</span></p>
 
 <p><span class="chinese">让他们安排进日程？</span><span class="english">How do we fit those in?</span></p>

@@ -1,5 +1,7 @@
 # valkyrie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valkyrie.md)
+
 <p><span class="chinese">我的女战士。</span><span class="english">My warrior woman. My valkyrie.</span></p>
 
 <p><span class="chinese">好象有人做过吧。不过没放出如何添加元件变形。</span><span class="english">Valkyrie That's great! I'll be looking forward to it.</span></p>

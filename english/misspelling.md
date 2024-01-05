@@ -1,5 +1,7 @@
 # misspelling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misspelling.md)
+
 <p><span class="chinese">不要因为拼写错误而破坏了你的成就。</span><span class="english">Don't  undermine your achievements by misspelling them.</span></p>
 
 <p><span class="chinese">这样可以防止误拼方法名之类的常见错误。</span><span class="english">This would prevent a common mistake like misspelling the method name.</span></p>

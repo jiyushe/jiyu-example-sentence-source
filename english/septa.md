@@ -1,5 +1,7 @@
 # septa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/septa.md)
+
 <p><span class="chinese">很多真菌具有不完全隔膜。</span><span class="english">Many fungi have incomplete septa.</span></p>
 
 <p><span class="chinese">莫勒修女在太后右边上前一步。</span><span class="english">Septa Moelle moved up on the queen's right.</span></p>

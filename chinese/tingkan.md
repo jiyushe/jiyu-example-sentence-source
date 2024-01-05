@@ -1,5 +1,7 @@
 # 停刊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingkan.md)
+
 <p><span class="chinese">这份杂志将于下周停刊。</span><span class="english">This magazine will discontinue next week.</span></p>
 
 <p><span class="chinese">这是我事业的重要组成部分，但是当我听说停刊的消息的时候还是挺开心。</span><span class="english">It was a great part of my career, but I was joyful when I heard the news.</span></p>

@@ -1,5 +1,7 @@
 # intercourse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercourse.md)
+
 <p><span class="chinese">这是造爱，亲爱的。</span><span class="english">It is called sexual intercourse darling.</span></p>
 
 <p><span class="chinese">第二部分为韦庄蜀中交游考。</span><span class="english">The second part is Wei Zhuang's social intercourse.</span></p>

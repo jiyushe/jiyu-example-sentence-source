@@ -1,5 +1,7 @@
 # 座无虚席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuowuxuxi.md)
+
 <p><span class="chinese">不久，贝尔克剧场就座无虚席。</span><span class="english">Soon the Belk Theater was packed.</span></p>
 
 <p><span class="chinese">33000座位的体育场座无虚席。</span><span class="english">The 33, 000-seat stadium was nearly full.</span></p>

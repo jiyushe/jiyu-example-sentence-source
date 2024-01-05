@@ -1,5 +1,7 @@
 # 宽裕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanyu.md)
+
 <p><span class="chinese">昨天还家境宽裕，下一天便一无所有。</span><span class="english">You were well offf yesterday, the next day you had nothing.</span></p>
 
 <p><span class="chinese">我的父母增加我的零用钱，我的现金就会很宽裕了。</span><span class="english">My parents jack up my allowance, and I ll be maxing on cash.</span></p>

@@ -1,5 +1,7 @@
 # bon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bon.md)
+
 <p><span class="chinese">我喜欢邦·乔维的歌。</span><span class="english">I love Bon Jovi's songs.</span></p>
 
 <p><span class="chinese">我朱莉娅儿童。胃口好。</span><span class="english">I'm Julia Child. Bon appetit.</span></p>

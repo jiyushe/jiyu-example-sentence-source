@@ -1,5 +1,7 @@
 # heraldic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heraldic.md)
+
 <p><span class="chinese">纹章甲不正确的着色被修正。</span><span class="english">Incorrect coloring of heraldic mails is fixed.</span></p>
 
 <p><span class="chinese">修正纹章甲上的旗帜显示问题。</span><span class="english">Fixed banner display problems on heraldic armors.</span></p>

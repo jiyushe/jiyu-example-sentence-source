@@ -1,5 +1,7 @@
 # angler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angler.md)
+
 <p><span class="chinese">抱歉，没有安康鱼。</span><span class="english">Sorry, no angler fish.</span></p>
 
 <p><span class="chinese">那人捉住一条琵琶鱼。</span><span class="english">The man caught an angler.</span></p>

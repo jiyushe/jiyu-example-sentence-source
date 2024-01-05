@@ -1,5 +1,7 @@
 # 判断力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panduanli.md)
+
 <p><span class="chinese">你在衡量他们的判断力。</span><span class="english">That you value their judgment.</span></p>
 
 <p><span class="chinese">梵天被剥夺了判断力。</span><span class="english">That Brahma is bereft of sense.</span></p>

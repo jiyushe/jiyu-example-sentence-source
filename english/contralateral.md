@@ -1,5 +1,7 @@
 # contralateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contralateral.md)
+
 <p><span class="chinese">血管平滑肌脂肪瘤也发现对侧肾。</span><span class="english">Angiomyolipoma was also found in the contralateral kidney.</span></p>
 
 <p><span class="chinese">对侧和术侧的变化趋势相同。</span><span class="english">The change of contralateral was same as that in ipsilateral.</span></p>

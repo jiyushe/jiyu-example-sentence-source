@@ -1,5 +1,7 @@
 # exit 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exit.md)
+
 <p><span class="chinese">保存并退出。</span><span class="english">Save and exit.</span></p>
 
 <p><span class="chinese">退出恢复模式。</span><span class="english">Exit recovery mode.</span></p>

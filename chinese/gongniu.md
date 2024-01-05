@@ -1,5 +1,7 @@
 # 公牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongniu.md)
+
 <p><span class="chinese">公牛，公牛，壮壮的，棕色的。</span><span class="english">Ox ox. Big and brown.</span></p>
 
 <p><span class="chinese">那头公牛向我冲过来。</span><span class="english">The bull rushed at me.</span></p>

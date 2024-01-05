@@ -1,5 +1,7 @@
 # freak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freak.md)
+
 <p><span class="chinese">事实上，我有一点洁癖。</span><span class="english">Actually, I'm a bit of a neat freak.</span></p>
 
 <p><span class="chinese">你像我一样是个收件箱洁癖症患者吗？</span><span class="english">Are you an inbox zero freak like me?</span></p>

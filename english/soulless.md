@@ -1,5 +1,7 @@
 # soulless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soulless.md)
+
 <p><span class="chinese">但我不喜欢没有灵魂的音乐。</span><span class="english">But I dislike soulless music.</span></p>
 
 <p><span class="chinese">我发觉这里毫无生气。</span><span class="english">I find it a bit soulless here.</span></p>

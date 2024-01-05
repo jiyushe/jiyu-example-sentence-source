@@ -1,5 +1,7 @@
 # graciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graciously.md)
+
 <p><span class="chinese">莫丝有风度地接受了胜利。</span><span class="english">Moth accepted the victory graciously.</span></p>
 
 <p><span class="chinese">他婉言谢绝了一切来访。</span><span class="english">He graciously declined all the visits.</span></p>

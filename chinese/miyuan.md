@@ -1,5 +1,7 @@
 # 蜜源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miyuan.md)
+
 <p><span class="chinese">蜜源植物资源是人类的宝贵财富。</span><span class="english">The nectar plants are precious wealth to mankind.</span></p>
 
 <p><span class="chinese">蜂蜜的气味和色泽随蜜源的不同而不同。</span><span class="english">Smell and color of honey vary with source of honey.</span></p>

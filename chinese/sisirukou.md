@@ -1,5 +1,7 @@
 # 丝丝入扣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sisirukou.md)
+
 <p><span class="chinese">我能丝丝入扣地在自我当中感受角色之所在。</span><span class="english">I feel intimately inside myself where the role belongs.</span></p>
 
 <p><span class="chinese">魔术精彩纷呈，古筝丝丝入扣，精彩的表演让孩子们看得如醉如痴。</span><span class="english">The wonderful magic and Gu Zheng performance fascinated the children.</span></p>

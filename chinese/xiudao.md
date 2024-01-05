@@ -1,5 +1,7 @@
 # 修道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiudao.md)
+
 <p><span class="chinese">你在想我是坎特伯雷市的修道院长。</span><span class="english">This is the chamber of the abbot.</span></p>
 
 <p><span class="chinese">修女们住在一个幽静的修道院里。</span><span class="english">The nuns live in a cloister of calm.</span></p>

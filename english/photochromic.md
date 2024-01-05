@@ -1,5 +1,7 @@
 # photochromic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photochromic.md)
+
 <p><span class="chinese">液晶高弹体是通过对液晶高分子交联而形成的一种软物质。</span><span class="english">Photochromic liquid crystal elastomer is a kind of new smart material.</span></p>
 
 <p><span class="chinese">第一章综述了有机光致变色化合物的进展。</span><span class="english">In Chapter 1, the progress of organic photochromic materials was reviewed.</span></p>

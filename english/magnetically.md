@@ -1,5 +1,7 @@
 # magnetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetically.md)
+
 <p><span class="chinese">磁悬浮风力收藏家？</span><span class="english">Magnetically levitated wind collectors?</span></p>
 
 <p><span class="chinese">她总是深为这种颜色所吸引。</span><span class="english">She was always magnetically drawn to this colour.</span></p>

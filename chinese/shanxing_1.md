@@ -1,5 +1,7 @@
 # 山杏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanxing_1.md)
+
 <p><span class="chinese">山杏、杜梨则高抗。</span><span class="english">Mountain apricot, Duli pear were high resistant.</span></p>
 
 <p><span class="chinese">聚类分析表明，37种山杏类型可分为5个大类。</span><span class="english">The 37 mutation types can be classified into 5 groups.</span></p>

@@ -1,5 +1,7 @@
 # duisburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duisburg.md)
+
 <p><span class="chinese">杜伊斯堡很难给希斯菲尔德的球队造成挑战。</span><span class="english">Duisburg almost certainly represents the stiffest challenge for Hitzfeld and his team.</span></p>
 
 <p><span class="chinese">在杜伊斯堡举行的“爱的大巡游”上，狂欢者在经过一个隧道时发生了大规模的恐慌而发生踩踏事故。</span><span class="english">Revellers were crushed as mass panic broke out in a tunnel at Love Parade in Duisburg.</span></p>

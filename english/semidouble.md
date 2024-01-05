@@ -1,5 +1,7 @@
 # semidouble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semidouble.md)
+
 <p><span class="chinese">半重瓣深蓝紫色花。</span><span class="english">Semidouble dark blue-purple.</span></p>
 
 <p><span class="chinese">半重瓣深蓝色到紫色花。</span><span class="english">Semidouble dark blue-purple.</span></p>

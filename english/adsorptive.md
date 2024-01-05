@@ -1,5 +1,7 @@
 # adsorptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adsorptive.md)
+
 <p><span class="chinese">实验证明它们是不可逆的吸附波。</span><span class="english">Experiments showed that they are irreversible adsorptive wave.</span></p>
 
 <p><span class="chinese">柠檬酸铝具有拮抗石英吸附膜蛋白的作用。</span><span class="english">The aluminium citrate could strongly inhibit the adsorptive activity of quartz.</span></p>

@@ -1,5 +1,7 @@
 # 丝线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixian_1.md)
+
 <p><span class="chinese">没有，不过，我们有了红带子、蓝丝线。</span><span class="english">No, but we have a red ribbon, blue thread.</span></p>
 
 <p><span class="chinese">工人把丝线织成漂亮的衬衫。</span><span class="english">Workers weave silk thread into beautiful shirts.</span></p>

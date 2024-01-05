@@ -1,5 +1,7 @@
 # radiographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiographic.md)
+
 <p><span class="chinese">热释光剂量仪测试皮肤入射剂量。</span><span class="english">The radiographic dose on skin was measured with TSD.</span></p>
 
 <p><span class="chinese">研究设计。前瞩性的关于影像的队列研究。</span><span class="english">Study Design. A prospectie, radiographic cohort study.</span></p>

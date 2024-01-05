@@ -1,5 +1,7 @@
 # expressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressive.md)
+
 <p><span class="chinese">表达性艺术治疗，</span><span class="english">In Expressive Arts Therapy,</span></p>
 
 <p><span class="chinese">模式富有表达力。</span><span class="english">Patterns can be expressive.</span></p>

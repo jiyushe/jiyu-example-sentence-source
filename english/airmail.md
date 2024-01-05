@@ -1,5 +1,7 @@
 # airmail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airmail.md)
+
 <p><span class="chinese">我将此信由航空寄出。</span><span class="english">I sent the letter airmail.</span></p>
 
 <p><span class="chinese">您想按水陆路邮寄还是按航空邮寄?。</span><span class="english">By surface mail or by airmail?</span></p>

@@ -1,5 +1,7 @@
 # 认命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renming_2.md)
+
 <p><span class="chinese">我认命所有的一切，改变不了的就是现实。</span><span class="english">I named all, change is the reality.</span></p>
 
 <p><span class="chinese">是迈克尔杀死了自己，认命吧！</span><span class="english">Michael killed himself. Get over it.</span></p>

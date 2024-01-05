@@ -1,5 +1,7 @@
 # natrium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/natrium.md)
+
 <p><span class="chinese">腐植酸钠如何化验?。</span><span class="english">Humic acerbity natrium how assay?</span></p>
 
 <p><span class="chinese">对低钠血症患者同时测定尿钠、中心静脉压。</span><span class="english">Serum and urine natrium in hyponatremia patients were measured.</span></p>

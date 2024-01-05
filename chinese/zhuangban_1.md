@@ -1,5 +1,7 @@
 # 装扮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangban_1.md)
+
 <p><span class="chinese">在聚会上，他装扮成一名歌手。</span><span class="english">At the party he a singer.</span></p>
 
 <p><span class="chinese">她装扮成男人。</span><span class="english">She was attired as a man.</span></p>

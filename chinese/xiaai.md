@@ -1,5 +1,7 @@
 # 狭隘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaai.md)
+
 <p><span class="chinese">也许他太狭隘了。</span><span class="english">Maybe he was too narrow- minded.</span></p>
 
 <p><span class="chinese">头脑多么顽固，心胸多么狭隘的蠢家伙！</span><span class="english">What a pigheaded narrow-minded jerk!</span></p>

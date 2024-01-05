@@ -1,5 +1,7 @@
 # Anglican
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anglican.md)
+
 <p><span class="chinese">一本书和一位圣公会人士。</span><span class="english">A book and an Anglican.</span></p>
 
 <p><span class="chinese">加入英国国教工会。</span><span class="english">You enter the Anglican priesthood.</span></p>

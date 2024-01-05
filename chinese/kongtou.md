@@ -1,5 +1,7 @@
 # 空头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongtou.md)
+
 <p><span class="chinese">今晚这个将空头下去。</span><span class="english">It will be air-dropped tonight.</span></p>
 
 <p><span class="chinese">做一个空头并不容易。</span><span class="english">IT IS difficult being a short-seller.</span></p>

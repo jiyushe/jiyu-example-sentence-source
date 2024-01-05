@@ -1,5 +1,7 @@
 # endothermic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endothermic.md)
+
 <p><span class="chinese">地狱是放热还是吸热？</span><span class="english">Is Hell exothermic or endothermic?</span></p>
 
 <p><span class="chinese">反应是放热的还是吸热的。</span><span class="english">Whether the reaction is exothermic or endothermic.</span></p>

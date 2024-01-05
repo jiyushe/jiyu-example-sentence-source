@@ -1,5 +1,7 @@
 # 毛皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maopi_1.md)
+
 <p><span class="chinese">一种由毛皮做成的衣服。</span><span class="english">A garment made of oilskin.</span></p>
 
 <p><span class="chinese">水貂的毛皮，价格昂贵。</span><span class="english">The expensive fur of a mink.</span></p>

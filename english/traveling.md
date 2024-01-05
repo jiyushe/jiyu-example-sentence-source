@@ -1,5 +1,7 @@
 # traveling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traveling.md)
+
 <p><span class="chinese">我真系钟意旅行。</span><span class="english">I really like traveling.</span></p>
 
 <p><span class="chinese">我愿意骑自行车旅行。</span><span class="english">I tike traveling by bike.</span></p>

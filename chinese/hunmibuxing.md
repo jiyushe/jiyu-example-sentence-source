@@ -1,5 +1,7 @@
 # 昏迷不醒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunmibuxing.md)
+
 <p><span class="chinese">你们知道我怎么会昏迷不醒吗？</span><span class="english">You know how I'm in a coma?</span></p>
 
 <p><span class="chinese">我以为是我害你昏迷不醒。</span><span class="english">I thought I put you in a coma.</span></p>

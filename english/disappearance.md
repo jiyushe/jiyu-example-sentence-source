@@ -1,5 +1,7 @@
 # disappearance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disappearance.md)
+
 <p><span class="chinese">很可能是一桩失踪案。</span><span class="english">And perhaps a disappearance.</span></p>
 
 <p><span class="chinese">没人注意到他失踪了。</span><span class="english">No one noticed his disappearance.</span></p>

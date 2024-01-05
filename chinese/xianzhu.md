@@ -1,5 +1,7 @@
 # 显著
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhu.md)
+
 <p><span class="chinese">他的成就是非常显著的。</span><span class="english">His achievement is very notable.</span></p>
 
 <p><span class="chinese">有时相当显著。</span><span class="english">Epidote may be quite conspicuous.</span></p>

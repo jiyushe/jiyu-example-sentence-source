@@ -1,5 +1,7 @@
 # 戏码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xima.md)
+
 <p><span class="chinese">不会有老师马学生的戏码上演。</span><span class="english">Scolding from teacher will never happen.</span></p>
 
 <p><span class="chinese">刚退场的恐龙戏码，就比我们精彩有趣得多了。</span><span class="english">The former scene by dinosaur was more wonderful than human's.</span></p>

@@ -1,5 +1,7 @@
 # 添油加醋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianyoujiacu.md)
+
 <p><span class="chinese">她喜欢添油加醋。</span><span class="english">She likes spicing things up.</span></p>
 
 <p><span class="chinese">我没有添油加醋，我说的都是事实。</span><span class="english">I didn’t spice up. All I said is true.</span></p>

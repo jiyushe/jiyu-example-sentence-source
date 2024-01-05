@@ -1,5 +1,7 @@
 # 罢免
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bamian.md)
+
 <p><span class="chinese">他信两年前在一次政变中被罢免。</span><span class="english">He was ousted in a coup two years ago.</span></p>
 
 <p><span class="chinese">委员会罢免了他的职务。</span><span class="english">The committee deposed him from his office.</span></p>

@@ -1,5 +1,7 @@
 # 见老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianlao.md)
+
 <p><span class="chinese">他最近很见老。</span><span class="english">He's aged a lot recently.</span></p>
 
 <p><span class="chinese">经受了那次打击，她明显地见老了。</span><span class="english">The blow had aged her visibly.</span></p>

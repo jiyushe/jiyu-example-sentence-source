@@ -1,5 +1,7 @@
 # vertigo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vertigo.md)
+
 <p><span class="chinese">对于病情的预判要视形成眩晕的原因而定。</span><span class="english">The prognosis depends on the source of the vertigo.</span></p>
 
 <p><span class="chinese">现在，什么样的头晕目眩使我们无法呼吸？</span><span class="english">At Present, what kind of vertigo occupies our breathes?</span></p>

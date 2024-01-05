@@ -1,5 +1,7 @@
 # 苦行僧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuxingseng.md)
+
 <p><span class="chinese">活动包括狂喜地跳舞和旋转的苦行僧。</span><span class="english">A dervish whose actions include ecstatic dancing and whirling.</span></p>
 
 <p><span class="chinese">你像忏悔中的苦行僧一般日日夜夜伫立着</span><span class="english">You stand still day and night, like an ascetic at his penances</span></p>

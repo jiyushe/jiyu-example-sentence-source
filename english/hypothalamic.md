@@ -1,5 +1,7 @@
 # hypothalamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothalamic.md)
+
 <p><span class="chinese">建立了大鼠下丘脑脑片培养实验模型。</span><span class="english">The model of hypothalamic slices of rat in vitro was established.</span></p>
 
 <p><span class="chinese">本病应与颅咽管瘤、下丘脑胶质瘤、生殖细胞瘤鉴别。</span><span class="english">It should be differentiated from craniopharyngioma, hypothalamic glioma or germinoma.</span></p>

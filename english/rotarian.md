@@ -1,5 +1,7 @@
 # rotarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotarian.md)
+
 <p><span class="chinese">您为何是一位扶轮社友？</span><span class="english">Why are you a Rotarian?</span></p>
 
 <p><span class="chinese">我为何会成为一位扶轮社友。</span><span class="english">The club made me an honorary Rotarian.</span></p>

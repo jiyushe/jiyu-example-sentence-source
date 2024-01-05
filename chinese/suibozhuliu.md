@@ -1,5 +1,7 @@
 # 随波逐流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suibozhuliu.md)
+
 <p><span class="chinese">只有死鱼才随波逐流。</span><span class="english">Only dead fish follow the flow.</span></p>
 
 <p><span class="chinese">所以比利也只是随波逐流。</span><span class="english">So Billy just went along with them.</span></p>

@@ -1,5 +1,7 @@
 # conflate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conflate.md)
+
 <p><span class="chinese">在她的信中过去和现在融为一体。</span><span class="english">Her letters conflate past and present.</span></p>
 
 <p><span class="chinese">我们会忽略大的事情，忘记细节，也会将事情弄混。</span><span class="english">We overlook big things, forget details, conflate events.</span></p>

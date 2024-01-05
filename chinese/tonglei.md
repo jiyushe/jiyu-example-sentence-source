@@ -1,5 +1,7 @@
 # 同类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonglei.md)
+
 <p><span class="chinese">等等同类问题。</span><span class="english">Things of that nature.</span></p>
 
 <p><span class="chinese">我有凝结了同类一个骑兵。</span><span class="english">I'd clotted like a trooper.</span></p>

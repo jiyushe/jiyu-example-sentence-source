@@ -1,5 +1,7 @@
 # farmhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farmhouse.md)
+
 <p><span class="chinese">一座谷仓靠着农舍。</span><span class="english">A barn adjoins the farmhouse.</span></p>
 
 <p><span class="chinese">我们在一间农舍投宿了一夜。</span><span class="english">We put up for the night at a farmhouse.</span></p>

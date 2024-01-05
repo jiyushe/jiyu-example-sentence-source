@@ -1,5 +1,7 @@
 # factually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/factually.md)
+
 <p><span class="chinese">而与你相反的言论则恰恰证明其在实际上是错误的。</span><span class="english">Your statement to the contrary is just factually wrong.</span></p>
 
 <p><span class="chinese">我们会尽我们所能，忠实地如实回答你们的问题。</span><span class="english">We will do our best to answer your questions faithfully and factually.</span></p>

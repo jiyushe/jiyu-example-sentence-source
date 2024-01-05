@@ -1,5 +1,7 @@
 # problematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/problematic.md)
+
 <p><span class="chinese">这就有问题了。</span><span class="english">Very problematic.</span></p>
 
 <p><span class="chinese">这极是问题。</span><span class="english">It's extremely problematic.</span></p>

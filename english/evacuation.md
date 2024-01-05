@@ -1,5 +1,7 @@
 # evacuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evacuation.md)
+
 <p><span class="chinese">他们只知道逃遁。</span><span class="english">They know only evacuation.</span></p>
 
 <p><span class="chinese">疏散通道，普埃布拉州，墨西哥，1997。</span><span class="english">Evacuation Route, Puebla State, Mexico, 1997</span></p>

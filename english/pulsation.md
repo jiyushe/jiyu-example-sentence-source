@@ -1,5 +1,7 @@
 # pulsation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulsation.md)
+
 <p><span class="chinese">心脏跳动，心脏博动跳动或博动，如心脏。</span><span class="english">Irregular, rapid beating or pulsation of the heart.</span></p>
 
 <p><span class="chinese">不停的反复,节奏,鼓点,强烈的脉动</span><span class="english">Okay? So repetitious, rhythm, beats, strong pulsation to it.</span></p>

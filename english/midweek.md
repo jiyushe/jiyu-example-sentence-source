@@ -1,5 +1,7 @@
 # midweek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midweek.md)
+
 <p><span class="chinese">这三人都参加了周中的预备队比赛。</span><span class="english">All three came through a Reserve team run-out in midweek.</span></p>
 
 <p><span class="chinese">周中我们赢了德布勒森，我们知道我们需要继续赢下去。</span><span class="english">We won in Debrecen in midweek and we knew that we needed to keep winning.</span></p>

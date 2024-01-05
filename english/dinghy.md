@@ -1,5 +1,7 @@
 # dinghy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dinghy.md)
+
 <p><span class="chinese">他们决不会向一只小艇投降。</span><span class="english">They will not surrender to a dinghy.</span></p>
 
 <p><span class="chinese">他用脚踏泵给橡皮救生艇充气。</span><span class="english">He inflated the rubber dinghy with a foot pump.</span></p>

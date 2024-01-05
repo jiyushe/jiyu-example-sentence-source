@@ -1,5 +1,7 @@
 # bangui
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bangui.md)
+
 <p><span class="chinese">他说，让他的卡车从港口开到班吉是需要勇气的。</span><span class="english">He said it takes courage to get his trucks from the port to Bangui.</span></p>
 
 <p><span class="chinese">首都班吉的居民吉米•恩泽克说，人们盼望法国能派更多军队。</span><span class="english">A resident of the capital Bangui says people there want more French troops.</span></p>

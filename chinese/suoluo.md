@@ -1,5 +1,7 @@
 # 桫椤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoluo.md)
+
 <p><span class="chinese">赤水桫椤自然保护区蕨类植物。</span><span class="english">Pteridophytes in the Chishui Alsophila Natural Reserve.</span></p>
 
 <p><span class="chinese">黑桫椤在灌木层中占优势地位。</span><span class="english">G. podophylla was the dominant species in the shrub layer.</span></p>

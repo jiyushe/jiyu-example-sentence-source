@@ -1,5 +1,7 @@
 # eh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eh.md)
+
 <p><span class="chinese">不算太坏，是吧？</span><span class="english">Not bad, eh?</span></p>
 
 <p><span class="chinese">你也不知道吗？</span><span class="english">You too, eh?</span></p>

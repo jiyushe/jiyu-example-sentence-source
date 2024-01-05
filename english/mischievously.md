@@ -1,5 +1,7 @@
 # mischievously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mischievously.md)
+
 <p><span class="chinese">他咧开嘴淘气地笑着，用一只手托起我的脸,吻了我一下。</span><span class="english">He grinned mischievously as he cupped my face with his hand and kissed me.</span></p>
 
 <p><span class="chinese">在她接受我们采访的时候，她的妹妹正在旁边玩耍，调皮的眨眼睛。</span><span class="english">While she talks, her little sister, eye sparkling mischievously plays around us.</span></p>

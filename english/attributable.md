@@ -1,5 +1,7 @@
 # attributable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attributable.md)
+
 <p><span class="chinese">损害系由贵公司疏忽所致。</span><span class="english">Damage attributable to your negligence.</span></p>
 
 <p><span class="chinese">无处不携弦管，直应占断春光。</span><span class="english">Ubiquitous portable chord, straight off attributable spring.</span></p>

@@ -1,5 +1,7 @@
 # fabricant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fabricant.md)
+
 <p><span class="chinese">内容制作者经常忽略这个问题。</span><span class="english">Content fabricant often oversight this problem.</span></p>
 
 <p><span class="chinese">队列研究通常涉及大量的变量，指出法氏囊。</span><span class="english">Cohort studies typically involve a large number of variables, noted Fabricant.</span></p>

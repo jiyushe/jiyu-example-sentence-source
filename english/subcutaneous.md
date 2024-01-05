@@ -1,5 +1,7 @@
 # subcutaneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subcutaneous.md)
+
 <p><span class="chinese">幼虫在那里吃皮下脂肪。</span><span class="english">They're eating the subcutaneous fat.</span></p>
 
 <p><span class="chinese">术后皮下气肿2例。</span><span class="english">Subcutaneous emphysema occurred in 2 cases.</span></p>

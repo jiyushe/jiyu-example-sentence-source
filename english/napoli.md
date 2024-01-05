@@ -1,5 +1,7 @@
 # napoli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/napoli.md)
+
 <p><span class="chinese">那不勒斯的音乐。</span><span class="english">Napolitana, the music of Napoli.</span></p>
 
 <p><span class="chinese">我再次重申我希望能够留在那不勒斯。</span><span class="english">I reiterate that my wish is to remain at Napoli.</span></p>

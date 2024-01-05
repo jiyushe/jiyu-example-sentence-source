@@ -1,5 +1,7 @@
 # sterling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sterling.md)
+
 <p><span class="chinese">另一个是斯黛安。</span><span class="english">other is Diana Sterling.</span></p>
 
 <p><span class="chinese">这就像是第一次世界大战后英镑一样。</span><span class="english">It is like sterling after World War One.</span></p>

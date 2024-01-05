@@ -1,5 +1,7 @@
 # sprain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprain.md)
+
 <p><span class="chinese">扭伤是什么意思？</span><span class="english">What’s a sprain?</span></p>
 
 <p><span class="chinese">脚扭伤了怎样处理?。</span><span class="english">How to handle crural sprain ?</span></p>

@@ -1,5 +1,7 @@
 # misspent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misspent.md)
+
 <p><span class="chinese">一间干净的房子是一个浪费的人生的标志。</span><span class="english">A clean house is a sign of a misspent life.</span></p>
 
 <p><span class="chinese">但是我觉得，霍兰先生认为自己生命的很大一部分虚度了。</span><span class="english">And yet I get the feeling that he considers a great part of his own life misspent.</span></p>

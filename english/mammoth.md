@@ -1,5 +1,7 @@
 # mammoth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mammoth.md)
+
 <p><span class="chinese">因为我是只长毛象。</span><span class="english">Because I'm a mammoth.</span></p>
 
 <p><span class="chinese">两个猛犸象博物馆中的一个。</span><span class="english">One of the two mammoth museums.</span></p>

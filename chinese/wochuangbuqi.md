@@ -1,5 +1,7 @@
 # 卧床不起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wochuangbuqi.md)
+
 <p><span class="chinese">他卧床不起，身体很虚弱。</span><span class="english">He was bed-ridden and was very weak.</span></p>
 
 <p><span class="chinese">没工作了，或者整天卧床不起？</span><span class="english">Lost your job, or bedridden for days?</span></p>

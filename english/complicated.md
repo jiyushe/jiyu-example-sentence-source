@@ -1,5 +1,7 @@
 # complicated 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complicated.md)
+
 <p><span class="chinese">比较复杂</span><span class="english">It's complicated.</span></p>
 
 <p><span class="chinese">爱是个复杂的题目。</span><span class="english">Love is complicated topic.</span></p>

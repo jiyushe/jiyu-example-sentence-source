@@ -1,5 +1,7 @@
 # morrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morrow.md)
+
 <p><span class="chinese">他是怎样在平静中等候无光的</span><span class="english">He bides in calmness the silent morrow</span></p>
 
 <p><span class="chinese">谢谢阅读。亲们，明天见。</span><span class="english">The thanks reads. Is near, see you morrow.</span></p>

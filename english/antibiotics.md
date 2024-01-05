@@ -1,5 +1,7 @@
 # antibiotics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antibiotics.md)
+
 <p><span class="chinese">于是我给她开了抗生素。</span><span class="english">So I gave her antibiotics.</span></p>
 
 <p><span class="chinese">你需要一些抗生素。</span><span class="english">You need some antibiotics.</span></p>

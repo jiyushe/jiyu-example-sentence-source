@@ -1,5 +1,7 @@
 # formalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formalist.md)
+
 <p><span class="chinese">你认为你是一个形式主义者嘛？</span><span class="english">Do you consider yourself to be a formalist?</span></p>
 
 <p><span class="chinese">这其实才是俄国形式主义者们隐含的观点。</span><span class="english">That really is implicit  in the Russian formalist viewpoint.</span></p>

@@ -1,5 +1,7 @@
 # knelt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knelt.md)
+
 <p><span class="chinese">我们在御座前跪下。</span><span class="english">We knelt before the throne.</span></p>
 
 <p><span class="chinese">我双膝跪下，他还对我说话。</span><span class="english">I knelt down and he spoke to me.</span></p>

@@ -1,5 +1,7 @@
 # 斑斓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banlan.md)
+
 <p><span class="chinese">北部天空的斑斓色彩。</span><span class="english">The colors of the north sky.</span></p>
 
 <p><span class="chinese">我爱新校园的斑斓。</span><span class="english">I love the new campus of beauty.</span></p>

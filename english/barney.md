@@ -1,5 +1,7 @@
 # barney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barney.md)
+
 <p><span class="chinese">布什家有巴尼。</span><span class="english">The Bushes had Barney.</span></p>
 
 <p><span class="chinese">哦，显然是巴尼，弗兰克。</span><span class="english">Oh , Barney Frank easily.</span></p>

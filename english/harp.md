@@ -1,5 +1,7 @@
 # harp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harp.md)
+
 <p><span class="chinese">你确实戒酒了吗，哈普？</span><span class="english">Are you sure you quit, Harp?</span></p>
 
 <p><span class="chinese">啊竖琴与祭坛，为雷霆融合</span><span class="english">O harp and altar, of the fury fused</span></p>

@@ -1,5 +1,7 @@
 # clifton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clifton.md)
+
 <p><span class="chinese">到目前为止，克利夫顿市今年总共发放了3756张养犬许可证。</span><span class="english">Clifton has issued 3,756 dog licenses this year.</span></p>
 
 <p><span class="chinese">到目前为止，克利夫顿市今年总共发放了3756张养犬许可证。</span><span class="english">Clifton has issued 3, 756 dog licenses this year.</span></p>

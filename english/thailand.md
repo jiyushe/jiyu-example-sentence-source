@@ -1,5 +1,7 @@
 # thailand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thailand.md)
+
 <p><span class="chinese">在泰国吗？</span><span class="english">In Thailand?</span></p>
 
 <p><span class="chinese">在泰国呢?。</span><span class="english">Whatabout in Thailand?</span></p>

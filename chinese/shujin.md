@@ -1,5 +1,7 @@
 # 赎金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujin.md)
+
 <p><span class="chinese">你可以为他们要求赎金</span><span class="english">You could demand ransom for them.</span></p>
 
 <p><span class="chinese">接下去就是赎金本身。</span><span class="english">And then there is the ransom itself.</span></p>

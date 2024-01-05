@@ -1,5 +1,7 @@
 # 倚赖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilai_3.md)
+
 <p><span class="chinese">因为他们在阵上呼求神，倚赖神，神就应允他们。</span><span class="english">He answered their prayers, because they trusted in him.</span></p>
 
 <p><span class="chinese">投靠耶和华，强似倚赖人。</span><span class="english">It is better to take refuge in the Lord than to trust in man.</span></p>

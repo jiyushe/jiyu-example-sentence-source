@@ -1,5 +1,7 @@
 # 水涨船高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizhangchuangao.md)
+
 <p><span class="chinese">水涨船高吗？，-嗯。</span><span class="english">Arising water raises all boats? -Yeah.</span></p>
 
 <p><span class="chinese">而价格也随这种预期心理水涨船高。</span><span class="english">The prices are now rising because of this mentality.</span></p>

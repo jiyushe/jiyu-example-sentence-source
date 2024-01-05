@@ -1,5 +1,7 @@
 # 鬼子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guizi.md)
+
 <p><span class="chinese">或者鬼子的刺刀?。</span><span class="english">Or a jap bayonet?</span></p>
 
 <p><span class="chinese">它们是日本鬼子。</span><span class="english">They are Japanese.</span></p>

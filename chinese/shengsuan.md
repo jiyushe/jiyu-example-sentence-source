@@ -1,5 +1,7 @@
 # 胜算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengsuan.md)
+
 <p><span class="chinese">我们正处在一个毫无胜算的情形。</span><span class="english">We're in a no-win situation.</span></p>
 
 <p><span class="chinese">那么，约翰逊在JCPenney有多少胜算？</span><span class="english">So what are Johnson's odds at JCPenney?</span></p>

@@ -1,5 +1,7 @@
 # corneal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corneal.md)
+
 <p><span class="chinese">用植块法培养角膜基质成纤维细胞。</span><span class="english">Fibroblasts were grown from corneal stroma explants.</span></p>
 
 <p><span class="chinese">在深层溃疡区域，行板层角膜移植。</span><span class="english">In the eyes with deep corneal ulcer, LKP was performed.</span></p>

@@ -1,5 +1,7 @@
 # pied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pied.md)
+
 <p><span class="chinese">或是风笛手的助理？</span><span class="english">The Pied Piper's assistant?</span></p>
 
 <p><span class="chinese">你会觉得自己的花衣服派！</span><span class="english">You'll feel like the Pied Piper!</span></p>

@@ -1,5 +1,7 @@
 # 浓眉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongmei.md)
+
 <p><span class="chinese">去找到那个浓眉的女侍者。</span><span class="english">To find the dark-browed waitress.</span></p>
 
 <p><span class="chinese">我感到震惊的有，浓眉才22岁，保罗乔治25岁。</span><span class="english">For me, AD is only 22 and Paul George is 25.</span></p>

@@ -1,5 +1,7 @@
 # ptarmigan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ptarmigan.md)
+
 <p><span class="chinese">母鸡大吵大叫地朝他扑打过来。</span><span class="english">The mother ptarmigan beat about him with great outcry.</span></p>
 
 <p><span class="chinese">一只黑狐狸朝他走来，嘴里叼着一只松鸡。</span><span class="english">A black fox came toward him, carrying a ptarmigan in his mouth.</span></p>

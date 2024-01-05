@@ -1,5 +1,7 @@
 # retinitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retinitis.md)
+
 <p><span class="chinese">巨细胞病毒性视网膜炎在发展中国家很常见。</span><span class="english">CMV retinitis is common in developing countries.</span></p>
 
 <p><span class="chinese">其中的两个患有视网膜炎色斑疾病，第三个患有类似的疾病。</span><span class="english">Two of them suffered from retinitis pigmentosa, while the third had a similar disease.</span></p>

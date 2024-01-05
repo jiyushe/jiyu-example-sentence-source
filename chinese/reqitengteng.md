@@ -1,5 +1,7 @@
 # 热气腾腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reqitengteng.md)
+
 <p><span class="chinese">两个瓷罐子装着热气腾腾的肉卤。</span><span class="english">Two china jugs held steaming gravy.</span></p>
 
 <p><span class="chinese">她总想让她的肉菜闷饭热气腾腾。</span><span class="english">Gabrielle liked her paella piping hot.</span></p>

@@ -1,5 +1,7 @@
 # gum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gum.md)
+
 <p><span class="chinese">嚼口香糖。</span><span class="english">Chewing gum.</span></p>
 
 <p><span class="chinese">我的齿龈很痛。</span><span class="english">My gum is very sore.</span></p>

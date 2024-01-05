@@ -1,5 +1,7 @@
 # 养父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangfu.md)
+
 <p><span class="chinese">她和她养父生活在一起。</span><span class="english">She lived with her adoptive father.</span></p>
 
 <p><span class="chinese">他们为这些孤儿找到了养父养母。</span><span class="english">They placed the orphans with foster-parents.</span></p>

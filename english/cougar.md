@@ -1,5 +1,7 @@
 # cougar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cougar.md)
+
 <p><span class="chinese">一些来自酷哥的照片。</span><span class="english">Some awesome photos of cougar.</span></p>
 
 <p><span class="chinese">我看到了一头美洲狮朝向猎物潜步而行。</span><span class="english">I saw a cougar slinking toward its prey.</span></p>

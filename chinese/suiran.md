@@ -1,5 +1,7 @@
 # 虽然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suiran.md)
+
 <p><span class="chinese">虽然你是暴牙！</span><span class="english">Although you are tusk!</span></p>
 
 <p><span class="chinese">是的。虽然你能跑的快。</span><span class="english">Yes. You can run fast.</span></p>

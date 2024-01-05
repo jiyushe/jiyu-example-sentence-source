@@ -1,5 +1,7 @@
 # objectively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/objectively.md)
+
 <p><span class="chinese">就事论事地看待这次经验。</span><span class="english">Try to look at the experience objectively.</span></p>
 
 <p><span class="chinese">试着尽可能客观地审视自己。</span><span class="english">Try to view yourself as objectively as possible.</span></p>

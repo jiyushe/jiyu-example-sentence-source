@@ -1,5 +1,7 @@
 # 怀古
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaigu.md)
+
 <p><span class="chinese">这处景观叫南门怀古。</span><span class="english">This building is called the Old South Gate.</span></p>
 
 <p><span class="chinese">怀古是中国文学的传统题材。</span><span class="english">Meditating on the past is a traditional topic in Chinese literature.</span></p>

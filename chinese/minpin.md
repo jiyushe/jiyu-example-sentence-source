@@ -1,5 +1,7 @@
 # 民品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minpin.md)
+
 <p><span class="chinese">军工品质，民品价格！！！</span><span class="english">Military quality, civilian price!</span></p>
 
 <p><span class="chinese">所以，近年来开发一些民品的项目。</span><span class="english">Therefore, in recent years developed a number of civilian projects.</span></p>

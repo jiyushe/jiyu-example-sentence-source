@@ -1,5 +1,7 @@
 # gumption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gumption.md)
+
 <p><span class="chinese">一位老师看她很有进取心，给她进行辅导。</span><span class="english">A teacher saw her gumption and mentored her.</span></p>
 
 <p><span class="chinese">但一旦股价下跌，他们就泄气了。</span><span class="english">But as soon as prices sink, so does their gumption.</span></p>

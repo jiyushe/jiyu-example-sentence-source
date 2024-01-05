@@ -1,5 +1,7 @@
 # unaccountable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaccountable.md)
+
 <p><span class="chinese">最终，他们自说自话对外部世界没有什么贡献。</span><span class="english">Ultimately, they are "unaccountable to the external world."</span></p>
 
 <p><span class="chinese">罗珊娜回到家里，那份心情奇怪极了。</span><span class="english">Rosanna had returned to the house in a very unaccountable state of mind.</span></p>

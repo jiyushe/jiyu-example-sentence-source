@@ -1,5 +1,7 @@
 # certifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/certifier.md)
+
 <p><span class="chinese">他是这件事的证明人。</span><span class="english">He is the certifier of this incident.</span></p>
 
 <p><span class="chinese">这些都可以得到注册的认证机构的认可吗？</span><span class="english">Do these allow evaluation by the registered certifier?</span></p>

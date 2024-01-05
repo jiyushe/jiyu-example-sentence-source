@@ -1,5 +1,7 @@
 # 封爵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengjue.md)
+
 <p><span class="chinese">你准备好被封爵？</span><span class="english">Are you ready to be Knighted?</span></p>
 
 <p><span class="chinese">有7人被封爵，其中一个更是一位王子。</span><span class="english">Seven have been knighted, and one was even a prince.</span></p>

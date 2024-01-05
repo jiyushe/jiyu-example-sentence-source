@@ -1,5 +1,7 @@
 # 佛手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/foshou.md)
+
 <p><span class="chinese">芦荟凝胶，茶树油，佛手柑，薄荷。</span><span class="english">Aloe gel, tea tree oil, bergamot, peppermint.</span></p>
 
 <p><span class="chinese">佛手柑油还常常应用于芳香疗法中。</span><span class="english">Bergamot oil is also commonly used in aromatherapy.</span></p>

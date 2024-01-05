@@ -1,5 +1,7 @@
 # westwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/westwood.md)
+
 <p><span class="chinese">韦斯特伍德的设计作品</span><span class="english">The Design of Vivienne Westwood</span></p>
 
 <p><span class="chinese">我是从西木区打来的电话，并且是这里的律师。</span><span class="english">I'm calling from Westwood and Westwood Attorneys.</span></p>

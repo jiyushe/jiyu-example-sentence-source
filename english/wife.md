@@ -1,5 +1,7 @@
 # wife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wife.md)
+
 <p><span class="chinese">他太太嚎叫起来。</span><span class="english">His wife howled.</span></p>
 
 <p><span class="chinese">向您的夫人致意。</span><span class="english">Mys to your wife.</span></p>

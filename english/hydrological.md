@@ -1,5 +1,7 @@
 # hydrological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrological.md)
+
 <p><span class="chinese">水文过程是一个高度复杂、非线性的过程。</span><span class="english">Hydrological process is a highly complex and non-linear process.</span></p>
 
 <p><span class="chinese">人工毛竹林具有优良的森林水文功能。</span><span class="english">The Moso bamboo plantation has an excellent forest hydrological function.</span></p>

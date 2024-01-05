@@ -1,5 +1,7 @@
 # raiser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raiser.md)
+
 <p><span class="chinese">请孙佳同学介绍升旗手事迹。</span><span class="english">Now Sun Jia will introduce flag raiser to us.</span></p>
 
 <p><span class="chinese">本周升旗手是同学，现在请他出场。</span><span class="english">This week's flag raiser is . Let's welcome come him to the stage.</span></p>

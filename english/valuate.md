@@ -1,5 +1,7 @@
 # valuate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valuate.md)
+
 <p><span class="chinese">这样你也不用让朋友和家人对你的创业做出评估。</span><span class="english">This lets you avoid having to ask your friends and family to valuate your venture.</span></p>
 
 <p><span class="chinese">最后，本文将实物期权理论应用到企业投资决策中。</span><span class="english">Lastly, the article applies real option theory to valuate enterprise investment decision.</span></p>

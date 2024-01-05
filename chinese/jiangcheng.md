@@ -1,5 +1,7 @@
 # 奖惩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangcheng.md)
+
 <p><span class="chinese">然而，这正是我们对管理者进行奖惩的方式。</span><span class="english">And yet it's exactly how we reward and punish managers.</span></p>
 
 <p><span class="chinese">他们制定了一个奖惩表，用加分或冰激凌奖励他。</span><span class="english">They set up a chart to reward him with points or ice cream.</span></p>

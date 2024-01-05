@@ -1,5 +1,7 @@
 # 烘炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/honglu.md)
+
 <p><span class="chinese">有没有香烟？烘炉？</span><span class="english">Any cigarettes? Baker?</span></p>
 
 <p><span class="chinese">首先将烘炉加热到375度。</span><span class="english">Preheat oven to 375 degrees.</span></p>

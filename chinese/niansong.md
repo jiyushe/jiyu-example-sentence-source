@@ -1,5 +1,7 @@
 # 念诵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niansong.md)
+
 <p><span class="chinese">这个念诵者的内在是谁？</span><span class="english">And who is this chanter inside?</span></p>
 
 <p><span class="chinese">还当着杨坚的面念诵一首诗词。</span><span class="english">Also in the presence of YangJian face recite a poem.</span></p>

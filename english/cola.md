@@ -1,5 +1,7 @@
 # cola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cola.md)
+
 <p><span class="chinese">或可乐加醋？</span><span class="english">Cola and vinegar?</span></p>
 
 <p><span class="chinese">我也要一个可乐。</span><span class="english">A cola for me, too.</span></p>

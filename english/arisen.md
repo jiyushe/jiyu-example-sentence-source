@@ -1,5 +1,7 @@
 # arisen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arisen.md)
+
 <p><span class="chinese">出现了新问题。</span><span class="english">A new problem has arisen.</span></p>
 
 <p><span class="chinese">伟大变革的契机正在兴起。</span><span class="english">A great opportunity for change has arisen.</span></p>

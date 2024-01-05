@@ -1,5 +1,7 @@
 # 扑克
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puke.md)
+
 <p><span class="chinese">真高赌注的扑克。</span><span class="english">Really high stakes poker.</span></p>
 
 <p><span class="chinese">什么是在扑克满堂彩？。</span><span class="english">What is a Full House in Poker?</span></p>

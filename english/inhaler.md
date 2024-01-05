@@ -1,5 +1,7 @@
 # inhaler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhaler.md)
+
 <p><span class="chinese">我想那就是一个吸入器。</span><span class="english">I think it is a kind of inhaler.</span></p>
 
 <p><span class="chinese">我将先使用支气管扩张药物喷雾剂，在使用类固醇喷雾剂。</span><span class="english">I will use the bronchodilator before I use the steroid inhaler.</span></p>

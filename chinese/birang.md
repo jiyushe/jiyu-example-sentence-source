@@ -1,5 +1,7 @@
 # 避让
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/birang.md)
+
 <p><span class="chinese">我们在避让那辆车。</span><span class="english">We are bearing off the car.</span></p>
 
 <p><span class="chinese">起飞时须观察、避让空中飞行者。</span><span class="english">Observe in order to avoid other flying persons.</span></p>

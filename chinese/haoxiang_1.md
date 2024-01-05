@@ -1,5 +1,7 @@
 # 好象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoxiang_1.md)
+
 <p><span class="chinese">好乖哦。可是好象很怕羞呢。</span><span class="english">It is ok to be special.</span></p>
 
 <p><span class="chinese">快乐好象小鳝鱼。</span><span class="english">And squirms like an eel.</span></p>

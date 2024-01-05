@@ -1,5 +1,7 @@
 # anthurium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthurium.md)
+
 <p><span class="chinese">红掌，蟹钳，太阳菊，跳舞兰，王孔雀，春雨。</span><span class="english">Basket of Red Anthurium , Heliconia, Gerbera, Dancing-Lady Orchid, Aster, Philodendron.</span></p>
 
 <p><span class="chinese">洞房花烛夜的早晨，新郎一觉醒来，发现新娘泪流满面。</span><span class="english">Anthurium bridal chamber night morning, the groom wake up one day and found the bride tears.</span></p>

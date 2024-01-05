@@ -1,5 +1,7 @@
 # sins
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sins.md)
+
 <p><span class="chinese">这算是罪孽吗？</span><span class="english">Are these sins?</span></p>
 
 <p><span class="chinese">他宽恕罪恶。</span><span class="english">He forgives sins.</span></p>

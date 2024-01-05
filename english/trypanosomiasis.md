@@ -1,5 +1,7 @@
 # trypanosomiasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trypanosomiasis.md)
+
 <p><span class="chinese">非洲人类锥虫病的类型</span><span class="english">Forms of human African trypanosomiasis</span></p>
 
 <p><span class="chinese">对照小鼠、家兔全部发病死亡。</span><span class="english">All the control mice and rabbits died of the trypanosomiasis.</span></p>

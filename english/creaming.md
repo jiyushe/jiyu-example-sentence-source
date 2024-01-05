@@ -1,5 +1,7 @@
 # creaming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creaming.md)
+
 <p><span class="chinese">啤酒在玻璃杯中冒泡。</span><span class="english">The beer is creaming in the glass.</span></p>
 
 <p><span class="chinese">看见了么？从状态上来讲，我们占绝对优势。你只需要正确对待它就是了。</span><span class="english">See? In form terms, we're creaming them. You just have to look at it the right way.</span></p>

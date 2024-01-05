@@ -1,5 +1,7 @@
 # 肤浅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuqian_1.md)
+
 <p><span class="chinese">我才没那么肤浅呢。</span><span class="english">I’m not that shallow.</span></p>
 
 <p><span class="chinese">这是一本立论肤浅的书。</span><span class="english">It's a superficial book.</span></p>

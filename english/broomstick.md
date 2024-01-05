@@ -1,5 +1,7 @@
 # broomstick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broomstick.md)
+
 <p><span class="chinese">他从二十英尺高的扫帚柄上掉下来。</span><span class="english">He falls twenty feet from a broomstick.</span></p>
 
 <p><span class="chinese">她根本用不着老女巫的笤帚就能飞行！</span><span class="english">She needs no old woman's broomstick to fly withal!</span></p>

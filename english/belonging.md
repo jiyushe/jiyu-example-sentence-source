@@ -1,5 +1,7 @@
 # belonging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belonging.md)
+
 <p><span class="chinese">那种归属于你的梦的感觉</span><span class="english">the feeling of belonging to your dreams.</span></p>
 
 <p><span class="chinese">大范甘迪属于老派风格的主教练。</span><span class="english">Van belonging to the large old-style coach.</span></p>

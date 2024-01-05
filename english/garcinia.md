@@ -1,5 +1,7 @@
 # garcinia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garcinia.md)
+
 <p><span class="chinese">生藤黄只能作外用。</span><span class="english">Health Garcinia for external use only.</span></p>
 
 <p><span class="chinese">什么是藤黄果和HCA？为什么称其为“神奇的植物？</span><span class="english">What Is Garcinia Cambogia and HCA? Why is it called a 'Miraculous Plant'?</span></p>

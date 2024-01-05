@@ -1,5 +1,7 @@
 # 指导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhidao.md)
+
 <p><span class="chinese">四要大力开展科技指导服务。</span><span class="english">technology services.</span></p>
 
 <p><span class="chinese">欢迎光临指导。</span><span class="english">Welcome to the guide.</span></p>

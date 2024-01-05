@@ -1,5 +1,7 @@
 # 事例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shili.md)
+
 <p><span class="chinese">这种事例，我也曾经遇到数例。</span><span class="english">I have met several such cases.</span></p>
 
 <p><span class="chinese">擦，抹，揩擦的行为或事例。</span><span class="english">The act or an instance of wiping.</span></p>

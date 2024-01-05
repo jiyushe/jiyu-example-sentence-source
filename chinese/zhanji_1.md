@@ -1,5 +1,7 @@
 # 战绩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanji_1.md)
+
 <p><span class="chinese">中国男队战绩如何？</span><span class="english">How about Chinese men's team.</span></p>
 
 <p><span class="chinese">费德勒对安德烈夫的历史战绩为2-0。</span><span class="english">Federer holds a 2-0 record over Andreev.</span></p>

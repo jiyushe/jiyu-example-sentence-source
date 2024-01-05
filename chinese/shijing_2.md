@@ -1,5 +1,7 @@
 # 市井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijing_2.md)
+
 <p><span class="chinese">他要凭势力走进城市里，但不能做市井之徒。</span><span class="english">He walked in the city by forces, but cannot make elegant.</span></p>
 
 <p><span class="chinese">居于市井，他会一举成名，成为一名声名远播的哲人。</span><span class="english">If he lives in town, he will become a famous philosopher.</span></p>

@@ -1,5 +1,7 @@
 # gideon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gideon.md)
+
 <p><span class="chinese">吉迪恩是白人。</span><span class="english">Gideon was a white man.</span></p>
 
 <p><span class="chinese">陪审团认定吉迪恩无罪。</span><span class="english">The jury found Gideon not guilty.</span></p>

@@ -1,5 +1,7 @@
 # solicitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solicitude.md)
+
 <p><span class="chinese">你对我的关怀给了我莫大的安慰。</span><span class="english">Your solicitude was a great consolation to me.</span></p>
 
 <p><span class="chinese">要是为这种民族的前途担忧，那是大可不必的了。</span><span class="english">Solicitude for the future of a race like this is not in order.</span></p>

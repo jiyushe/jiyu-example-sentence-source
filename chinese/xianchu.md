@@ -1,5 +1,7 @@
 # 显出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianchu.md)
+
 <p><span class="chinese">他脸上显出得意的神气。</span><span class="english">He had an air of complacency.</span></p>
 
 <p><span class="chinese">他脸上显出很高兴的样子。</span><span class="english">His face expressed great joy.</span></p>

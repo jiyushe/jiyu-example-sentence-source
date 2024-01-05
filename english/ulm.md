@@ -1,5 +1,7 @@
 # ulm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ulm.md)
+
 <p><span class="chinese">1929年他在乌尔姆了个指挥职务。</span><span class="english">He got his first conducting post in 1929 at Ulm.</span></p>
 
 <p><span class="chinese">1929年他在乌尔姆得到了第一个指挥职务。</span><span class="english">He got his first conducting post in 1929 at Ulm.</span></p>

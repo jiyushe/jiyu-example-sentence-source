@@ -1,5 +1,7 @@
 # 幸事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshi_3.md)
+
 <p><span class="chinese">空难结束了，这真是幸事！</span><span class="english">The disaster is over,what a blessing!</span></p>
 
 <p><span class="chinese">能与您了解乃是敝人之幸事。</span><span class="english">I am pleased to make your acquaintance.</span></p>

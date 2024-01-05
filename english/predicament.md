@@ -1,5 +1,7 @@
 # predicament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predicament.md)
+
 <p><span class="chinese">这是制钟者必须面临的窘境之一。</span><span class="english">That is one predicament the clock makers face.</span></p>
 
 <p><span class="chinese">我和你处于同样的窘境之中。</span><span class="english">I am in the identical predicament with yourself.</span></p>

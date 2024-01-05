@@ -1,5 +1,7 @@
 # 行会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanghui.md)
+
 <p><span class="chinese">善行会有幸福酬报。</span><span class="english">Good deeds are rewarded by happiness.</span></p>
 
 <p><span class="chinese">这就是他们对行会战争和星战的反击？</span><span class="english">This is their answer to SWTOR and Guild Wars 2?</span></p>

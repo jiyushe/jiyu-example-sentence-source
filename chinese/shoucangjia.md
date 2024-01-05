@@ -1,5 +1,7 @@
 # 收藏家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoucangjia.md)
+
 <p><span class="chinese">它被收藏家们所垂涎。</span><span class="english">It is coveted by collectors.</span></p>
 
 <p><span class="chinese">他爷爷是个钱币收藏家。</span><span class="english">His grandfather is a numismatist.</span></p>

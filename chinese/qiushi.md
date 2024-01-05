@@ -1,5 +1,7 @@
 # 求实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiushi.md)
+
 <p><span class="chinese">他们需要的是求实精神。</span><span class="english">What they need is a down-to-earth spirit.</span></p>
 
 <p><span class="chinese">这些都是求实精神的表。</span><span class="english">These are the truth-seeking spirit of the table.</span></p>

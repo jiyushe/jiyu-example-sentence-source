@@ -1,5 +1,7 @@
 # punjabi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punjabi.md)
+
 <p><span class="chinese">旁遮普做什么让你作出有关“上帝消灭异教徒”之说法？</span><span class="english">What is a Punjabi doing making statements about "the Lord wiping out goyim"?</span></p>
 
 <p><span class="chinese">他说，在旁遮普省的激进集团，例如虔诚军、基地组织和巴基斯坦塔利班运动之类，一丘之貉。</span><span class="english">He also noted that Punjabi militant groups, such as Lashkar-e-Jhangvi, and others, such.</span></p>

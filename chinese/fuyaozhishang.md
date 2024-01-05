@@ -1,5 +1,7 @@
 # 扶摇直上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyaozhishang.md)
+
 <p><span class="chinese">你还看到漫天飞舞的火灰在扶摇直上。</span><span class="english">You are seeing cinders dancing in the updraft.</span></p>
 
 <p><span class="chinese">股票市场风闻可能有盘进出价，因而股份价格扶摇直上。</span><span class="english">Panic on the stock market set off a wave of selling.</span></p>

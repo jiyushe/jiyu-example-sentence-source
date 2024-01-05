@@ -1,5 +1,7 @@
 # 助产士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuchanshi.md)
+
 <p><span class="chinese">她们一离开，我就电话叫来了助产士。</span><span class="english">Once they left, I called my midwife.</span></p>
 
 <p><span class="chinese">所以说，地下室里的工匠是历史的助产士。</span><span class="english">Thetinkerer in his cellar becomes history's midwife.</span></p>

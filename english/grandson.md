@@ -1,5 +1,7 @@
 # grandson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandson.md)
+
 <p><span class="chinese">我孙子在这里。</span><span class="english">My grandson is here!</span></p>
 
 <p><span class="chinese">那是他的外孙。</span><span class="english">This was his grandson.</span></p>

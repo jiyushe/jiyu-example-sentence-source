@@ -1,5 +1,7 @@
 # 近在咫尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzaizhichi.md)
+
 <p><span class="chinese">它可能近在咫尺，看上去却远在天边。</span><span class="english">It may be near when it seems afar.</span></p>
 
 <p><span class="chinese">那闻起来像是夏天近在咫尺了。</span><span class="english">It smells like summer is right around the corner.</span></p>

@@ -1,5 +1,7 @@
 # honeydew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honeydew.md)
+
 <p><span class="chinese">采蜜蚁采集蜜露。</span><span class="english">Honey ants collect honeydew.</span></p>
 
 <p><span class="chinese">甜甜的分泌物就是我们所说的“蜜汁”。</span><span class="english">The sweet secretion is known as honeydew.</span></p>

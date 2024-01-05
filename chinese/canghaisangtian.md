@@ -1,5 +1,7 @@
 # 沧海桑田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canghaisangtian.md)
+
 <p><span class="chinese">一夕之间，己是沧海桑田。</span><span class="english">Overnight, the F is a sea change.</span></p>
 
 <p><span class="chinese">我知道我身上发生了沧海桑田般的变化。</span><span class="english">I knew that I had undergone a sea change.</span></p>

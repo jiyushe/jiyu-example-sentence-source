@@ -1,5 +1,7 @@
 # gurgle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gurgle.md)
+
 <p><span class="chinese">她“咯咯”笑着作为回应。</span><span class="english">She'd gurgle in response.</span></p>
 
 <p><span class="chinese">他发出一阵很低的咯咯的笑声。</span><span class="english">He gave a low gurgle of laughter.</span></p>

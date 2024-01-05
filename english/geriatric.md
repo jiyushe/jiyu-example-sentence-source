@@ -1,5 +1,7 @@
 # geriatric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geriatric.md)
+
 <p><span class="chinese">有能处人创伤的救护。</span><span class="english">Demonstrate ability to direct geriatric trauma resuscitations.</span></p>
 
 <p><span class="chinese">从而为康复老年病提供有利的条件。</span><span class="english">Geriatric rehabilitation so as to provide favorable conditions.</span></p>

@@ -1,5 +1,7 @@
 # fritz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fritz.md)
+
 <p><span class="chinese">阿米拉·弗里茨是一位德国摄影师。</span><span class="english">Amira Fritz is a German photographer.</span></p>
 
 <p><span class="chinese">结果我们可以从中学到很多冷冻弗里茨。</span><span class="english">Turns out we can learn a lot from Frozen Fritz.</span></p>

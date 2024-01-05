@@ -1,5 +1,7 @@
 # holdfast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holdfast.md)
+
 <p><span class="chinese">我可以当城堡的领主吗?。</span><span class="english">Can I be Lord of a Holdfast?</span></p>
 
 <p><span class="chinese">这种吸附器并不能提供任何养料。</span><span class="english">No nourishment is provided through the holdfast.</span></p>

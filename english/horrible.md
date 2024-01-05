@@ -1,5 +1,7 @@
 # horrible 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horrible.md)
+
 <p><span class="chinese">我现在很痛。</span><span class="english">I'm in horrible pain.</span></p>
 
 <p><span class="chinese">场面非常可怖。</span><span class="english">It's a horrible scene.</span></p>

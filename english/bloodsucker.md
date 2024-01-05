@@ -1,5 +1,7 @@
 # bloodsucker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodsucker.md)
+
 <p><span class="chinese">汽车尾气像吸血鬼残害我们生命。</span><span class="english">Life's "bloodsucker" to the truth.</span></p>
 
 <p><span class="chinese">这又是一部关于吸血鬼的电影。</span><span class="english">This is another movie about bloodsucker.</span></p>

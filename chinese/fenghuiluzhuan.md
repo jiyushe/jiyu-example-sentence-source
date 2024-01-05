@@ -1,5 +1,7 @@
 # 峰回路转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenghuiluzhuan.md)
+
 <p><span class="chinese">很快生活就会峰回路转。</span><span class="english">Sooner than it seems, life turns around.</span></p>
 
 <p><span class="chinese">生活中总是峰回路转。</span><span class="english">There are always twists and turns in life.</span></p>

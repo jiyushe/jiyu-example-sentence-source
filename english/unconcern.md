@@ -1,5 +1,7 @@
 # unconcern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconcern.md)
+
 <p><span class="chinese">他的声音漠不关心。</span><span class="english">Unconcern in his voice.</span></p>
 
 <p><span class="chinese">她接到这消息时显然无动于衷。</span><span class="english">She received the news with apparent unconcern.</span></p>

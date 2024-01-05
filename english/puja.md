@@ -1,5 +1,7 @@
 # puja
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puja.md)
+
 <p><span class="chinese">我们以雨天式进行火供。</span><span class="english">We did fire puja the rainy day style.</span></p>
 
 <p><span class="chinese">火供从头至尾很轻松的进行得很顺利。</span><span class="english">The fire puja went well effortlessly from beginning to the end.</span></p>

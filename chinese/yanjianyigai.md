@@ -1,5 +1,7 @@
 # 言简意赅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjianyigai.md)
+
 <p><span class="chinese">如果需要，最好保持静默或言简意赅。</span><span class="english">If need be, be mostly silent or speak sparingly.</span></p>
 
 <p><span class="chinese">废话少说，妈妈得学会言简意赅了。</span><span class="english">None of that jello crap. Mama needs to get her buzz on.</span></p>

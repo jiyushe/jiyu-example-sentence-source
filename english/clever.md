@@ -1,5 +1,7 @@
 # clever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clever.md)
+
 <p><span class="chinese">你真聪明!</span><span class="english">Clever you are!</span></p>
 
 <p><span class="chinese">我很聪明哦。</span><span class="english">I'm very clever.</span></p>

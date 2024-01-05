@@ -1,5 +1,7 @@
 # deport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deport.md)
+
 <p><span class="chinese">不要浪费纳税人金钱，马上遣返高山！</span><span class="english">Don't waste taxpayer's money, deport Gaoshan now!</span></p>
 
 <p><span class="chinese">她称赞南非政府不驱逐这些移民的决定。</span><span class="english">She praised the government's decision not to deport the migrants.</span></p>

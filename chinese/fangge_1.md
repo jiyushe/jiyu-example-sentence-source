@@ -1,5 +1,7 @@
 # 方格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangge_1.md)
+
 <p><span class="chinese">这里有两排方格</span><span class="english">But there's two rows of checkers.</span></p>
 
 <p><span class="chinese">我把这个小方格画大一点</span><span class="english">I'm just going to blow up that box.</span></p>

@@ -1,5 +1,7 @@
 # zooming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zooming.md)
+
 <p><span class="chinese">尼克开着新车轰地一声飞驰而过。</span><span class="english">Nick went zooming past in his new car.</span></p>
 
 <p><span class="chinese">此版本的缩放表现的也不错。</span><span class="english">Zooming also works well in this release.</span></p>

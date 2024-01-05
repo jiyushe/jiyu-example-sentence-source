@@ -1,5 +1,7 @@
 # 民气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minqi.md)
+
 <p><span class="chinese">新任总统深得民气。</span><span class="english">The new president achieved great popularity.</span></p>
 
 <p><span class="chinese">我要读鼓励民气的故事来鼓舞我赓续前行。</span><span class="english">I will read inspiring stories to encourage me to go on.</span></p>

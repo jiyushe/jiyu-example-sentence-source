@@ -1,5 +1,7 @@
 # 大雅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daya_1.md)
+
 <p><span class="chinese">其次是巴录的儿子毗大雅修造。</span><span class="english">After him Pedaiah the son of Parosh.</span></p>
 
 <p><span class="chinese">这种行为有伤大雅。</span><span class="english">Such behaviour offends against good taste.</span></p>

@@ -1,5 +1,7 @@
 # 茶座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chazuo_1.md)
+
 <p><span class="chinese">沿小巷设置的露天茶座。</span><span class="english">Installation of terrasses in a side-alley.</span></p>
 
 <p><span class="chinese">当他们这样做，他们站在一张桌子外的露天茶座。</span><span class="english">And when they do, they have to stand at a table outside the cafeterias.</span></p>

@@ -1,5 +1,7 @@
 # 海誓山盟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haishishanmeng.md)
+
 <p><span class="chinese">为相爱和海誓山盟而干杯。</span><span class="english">Drink toasts of love and commitment.</span></p>
 
 <p><span class="chinese">不需要海誓山盟，因为那些都很假。</span><span class="english">I love you and would never leave you.</span></p>

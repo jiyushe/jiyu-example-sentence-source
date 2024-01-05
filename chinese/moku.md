@@ -1,5 +1,7 @@
 # 魔窟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moku.md)
+
 <p><span class="chinese">奶奶，能让我们去魔窟吗？</span><span class="english">Grandma, can we go to Devil's Hole?</span></p>
 
 <p><span class="chinese">谁又能相信，比尔太太的面前是一个又一个罪恶的魔窟。</span><span class="english">Who can believe, Mrs. Bill in front of a sinful den.</span></p>

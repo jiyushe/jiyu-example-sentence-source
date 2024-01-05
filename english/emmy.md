@@ -1,5 +1,7 @@
 # emmy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emmy.md)
+
 <p><span class="chinese">一支艾美奖获奖团队。</span><span class="english">An Emmy award-winning team.</span></p>
 
 <p><span class="chinese">这部戏剧赢得艾美奖的最佳节目奖。</span><span class="english">The drama won an Emmy for Best Show.</span></p>

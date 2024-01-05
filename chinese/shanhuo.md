@@ -1,5 +1,7 @@
 # 山火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanhuo.md)
+
 <p><span class="chinese">山火烧了大量的树木。</span><span class="english">Hill fires burn a lot of trees.</span></p>
 
 <p><span class="chinese">当局说山火还需多日才能控制。</span><span class="english">Authorities said the bushfires could take many days to control.</span></p>

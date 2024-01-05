@@ -1,5 +1,7 @@
 # craving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craving.md)
+
 <p><span class="chinese">满足你的渴望。</span><span class="english">Satisfy your craving.</span></p>
 
 <p><span class="chinese">你渴望巧克力吗？</span><span class="english">Are you craving chocolate?</span></p>

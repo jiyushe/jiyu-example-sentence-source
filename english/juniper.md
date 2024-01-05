@@ -1,5 +1,7 @@
 # juniper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juniper.md)
+
 <p><span class="chinese">杜松子在伏特加里浸过夜。</span><span class="english">Infuse juniper in the vodka overnight.</span></p>
 
 <p><span class="chinese">刺柏树枝烧起来的味道真不错！</span><span class="english">Juniper twigs for that nice smoky smell!</span></p>

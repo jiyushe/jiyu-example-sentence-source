@@ -1,5 +1,7 @@
 # premix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premix.md)
+
 <p><span class="chinese">预混料企业真的需要转型吗?。</span><span class="english">Premix enterprises need to be change really?</span></p>
 
 <p><span class="chinese">早期预混配方中包括剑麻纤维。</span><span class="english">The early premix formulations contained sisal fibers.</span></p>

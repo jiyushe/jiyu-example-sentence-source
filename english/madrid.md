@@ -1,5 +1,7 @@
 # madrid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madrid.md)
+
 <p><span class="chinese">我飞去马德里的。</span><span class="english">I flew to Madrid.</span></p>
 
 <p><span class="chinese">玛丽亚来自马德里。</span><span class="english">Maria è di Madrid.</span></p>

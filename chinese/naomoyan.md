@@ -1,5 +1,7 @@
 # 脑膜炎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naomoyan.md)
+
 <p><span class="chinese">WNV的表现很像圣路易脑膜炎。</span><span class="english">WNV behaves a lot like St . Louis encephalitis.</span></p>
 
 <p><span class="chinese">哦，等等，是亚急性硬化脑膜炎！</span><span class="english">No wait, it's subacute sclerosis panencephalitis!</span></p>

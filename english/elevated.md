@@ -1,5 +1,7 @@
 # elevated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elevated.md)
+
 <p><span class="chinese">高尚的风格。</span><span class="english">An elevated prose style.</span></p>
 
 <p><span class="chinese">他被晋封为贵族。</span><span class="english">He's been elevated to the peerage.</span></p>

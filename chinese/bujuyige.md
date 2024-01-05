@@ -1,5 +1,7 @@
 # 不拘一格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujuyige.md)
+
 <p><span class="chinese">看到有人穿着不拘一格固然是好事。</span><span class="english">It is nice to see someone dressing differently.</span></p>
 
 <p><span class="chinese">此外，戈尔巴乔夫的兴趣可谓不拘一格。</span><span class="english">Gorbachev has pursued some more eclectic interests as well.</span></p>

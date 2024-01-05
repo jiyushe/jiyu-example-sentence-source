@@ -1,5 +1,7 @@
 # emanuel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emanuel.md)
+
 <p><span class="chinese">那时候，我每天打电话给她，打了足足一年。</span><span class="english">“I called her every day for a year, ” Emanuel said.</span></p>
 
 <p><span class="chinese">美国总统奥巴马向伊曼纽尔表示了祝贺。</span><span class="english">President Barack Obama sent his good wishes to Emanuel.</span></p>

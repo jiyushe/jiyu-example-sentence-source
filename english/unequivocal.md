@@ -1,5 +1,7 @@
 # unequivocal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unequivocal.md)
+
 <p><span class="chinese">打破禁忌的反应是明确的。</span><span class="english">The taboo-breaking response was unequivocal.</span></p>
 
 <p><span class="chinese">按我的意见，答案毫不含糊，是肯定的。</span><span class="english">In my opinion the answer is an unequivocal “yes”.</span></p>

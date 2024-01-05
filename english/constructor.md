@@ -1,5 +1,7 @@
 # constructor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constructor.md)
+
 <p><span class="chinese">执行构造函数的剩余部分。</span><span class="english">Executes the rest of the constructor.</span></p>
 
 <p><span class="chinese">调用基类的构造方法。</span><span class="english">The base-class constructor is called.</span></p>

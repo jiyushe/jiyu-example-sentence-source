@@ -1,5 +1,7 @@
 # 不可抗力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukekangli.md)
+
 <p><span class="chinese">你也许会将其称为一种不可抗力。</span><span class="english">You might call it an act of God.</span></p>
 
 <p><span class="chinese">第九章商检、索赔、不可抗力和仲。</span><span class="english">Chapter Nine Inspection, Claim, Force Majeure and Arbitration.</span></p>

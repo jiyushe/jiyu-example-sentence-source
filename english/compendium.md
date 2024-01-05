@@ -1,5 +1,7 @@
 # compendium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compendium.md)
+
 <p><span class="chinese">于是，在1954年，他出版了一本记载事实和各种纪录的大全。</span><span class="english">So in 1954 he published a compendium of facts and records.</span></p>
 
 <p><span class="chinese">在许多人看来，词典是一种有用但乏味的工具书。</span><span class="english">To many people a dictionary is a useful but a bleak compendium.</span></p>

@@ -1,5 +1,7 @@
 # venison
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venison.md)
+
 <p><span class="chinese">鹿肉是一种瘦肉。</span><span class="english">Venison is a very lean form of meat.</span></p>
 
 <p><span class="chinese">鹿肉是哪一种动物身上的肉？</span><span class="english">Venison is the meat from what animal?</span></p>

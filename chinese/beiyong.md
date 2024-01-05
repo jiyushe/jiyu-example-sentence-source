@@ -1,5 +1,7 @@
 # 备用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiyong.md)
+
 <p><span class="chinese">创建一笔备用基金。</span><span class="english">Create a slush fund.</span></p>
 
 <p><span class="chinese">我没有备用轮胎。</span><span class="english">I have no spare tire.</span></p>

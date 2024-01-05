@@ -1,5 +1,7 @@
 # opposition 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opposition.md)
+
 <p><span class="chinese">反对党获得62个席位。</span><span class="english">The Opposition won 62 seats.</span></p>
 
 <p><span class="chinese">他们让反对派说话。</span><span class="english">They let the opposition speak.</span></p>

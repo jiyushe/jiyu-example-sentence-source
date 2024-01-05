@@ -1,5 +1,7 @@
 # decorator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decorator.md)
+
 <p><span class="chinese">定义修饰符与定义其他方法无异</span><span class="english">You define a decorator just like any other method</span></p>
 
 <p><span class="chinese">我已经提前把新书的稿费付装修费了。</span><span class="english">I'm using my new book advance to pay fancy decorator.</span></p>

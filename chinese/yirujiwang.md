@@ -1,5 +1,7 @@
 # 一如既往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yirujiwang.md)
+
 <p><span class="chinese">他一如既往地支持着他们。</span><span class="english">He's always there for them.</span></p>
 
 <p><span class="chinese">那里一如既往的疯狂。</span><span class="english">It was a madhouse as usual.</span></p>

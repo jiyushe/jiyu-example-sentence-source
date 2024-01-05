@@ -1,5 +1,7 @@
 # 特有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teyou.md)
+
 <p><span class="chinese">特有女人缘的男人。</span><span class="english">He is really a ladies man!</span></p>
 
 <p><span class="chinese">但纽曼有他特有的优势。</span><span class="english">But Newman had unique advantages.</span></p>

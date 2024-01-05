@@ -1,5 +1,7 @@
 # 投递
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toudi_1.md)
+
 <p><span class="chinese">确认为无法投递的邮件。</span><span class="english">E-Mail was recognized as undeliverable.</span></p>
 
 <p><span class="chinese">那个邮递员负责这条投递线路。</span><span class="english">That postman is in charge of this route.</span></p>

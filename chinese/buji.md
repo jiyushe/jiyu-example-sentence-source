@@ -1,5 +1,7 @@
 # 不及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buji.md)
+
 <p><span class="chinese">我等不及了！</span><span class="english">I can’t wait!</span></p>
 
 <p><span class="chinese">B是的，我都等不及了。</span><span class="english">BYes, I can’t wait.</span></p>

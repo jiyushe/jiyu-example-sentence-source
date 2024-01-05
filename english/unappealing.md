@@ -1,5 +1,7 @@
 # unappealing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unappealing.md)
+
 <p><span class="chinese">什么是你最讨厌的习惯？</span><span class="english">What is your most unappealing habit?</span></p>
 
 <p><span class="chinese">有些阶段对你来说并不具有吸引力？</span><span class="english">Did some of the phases sound unappealing to you?</span></p>

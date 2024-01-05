@@ -1,5 +1,7 @@
 # 自封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zifeng.md)
+
 <p><span class="chinese">她自封为专家。</span><span class="english">She proclaimed herself an expert.</span></p>
 
 <p><span class="chinese">我自封为王，当我们正在走向一个，新的世界秩序。</span><span class="english">Make me king, as we move toward a, new world order.</span></p>

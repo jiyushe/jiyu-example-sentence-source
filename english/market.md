@@ -1,5 +1,7 @@
 # market 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/market.md)
+
 <p><span class="chinese">市场街。</span><span class="english">Great market street.</span></p>
 
 <p><span class="chinese">另一个在市场里。</span><span class="english">One with the market.</span></p>

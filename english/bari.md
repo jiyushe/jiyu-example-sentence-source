@@ -1,5 +1,7 @@
 # bari
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bari.md)
+
 <p><span class="chinese">布林迪西意大利南部一城市，位于巴里东南的亚得里亚海岸。</span><span class="english">A city of southern Italy Adriatic Sea southeast of Bari.</span></p>
 
 <p><span class="chinese">巴勒莫和南部城市巴里也不甘落后地表示了申办意愿。</span><span class="english">Palermo and rumblings of a proposal from southern city Bari followed.</span></p>

@@ -1,5 +1,7 @@
 # 浅薄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianbo.md)
+
 <p><span class="chinese">浅薄无聊和朴素知足的真正价值。</span><span class="english">of simplicity and contentment.</span></p>
 
 <p><span class="chinese">但是他的分析太浅薄了。</span><span class="english">But his analysis is too shallow.</span></p>

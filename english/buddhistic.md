@@ -1,5 +1,7 @@
 # buddhistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buddhistic.md)
+
 <p><span class="chinese">中国山水诗歌的产生和发展与佛教哲理有着不解之缘。</span><span class="english">There is close contact between Chinese landscape poems and the Buddhistic philosophic theory.</span></p>
 
 <p><span class="chinese">作为世界性的宗教，佛教已由原始佛教的素朴一味，流变为如今的宗派林立，教义繁杂，佛学典籍三藏十二部更是浩如烟海。</span><span class="english">As a world religion, Buddhism has been more and more complex, difficult to understand, Buddhistic classical works are so many.</span></p>

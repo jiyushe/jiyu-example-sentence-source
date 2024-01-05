@@ -1,5 +1,7 @@
 # blotch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blotch.md)
+
 <p><span class="chinese">他脸上有许多难看的红色大斑点。</span><span class="english">His face was covered in ugly red blotch es.</span></p>
 
 <p><span class="chinese">此斑可能变得更大的物种微弱。</span><span class="english">This blotch may become faint in larger species.</span></p>

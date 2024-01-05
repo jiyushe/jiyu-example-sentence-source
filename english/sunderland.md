@@ -1,5 +1,7 @@
 # sunderland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunderland.md)
+
 <p><span class="chinese">比主场声势，有斯托克城或桑德兰。</span><span class="english">Stoke City or Sunderland on home ground noise.</span></p>
 
 <p><span class="chinese">这是桑德兰第350场英超联赛。</span><span class="english">Sunderland play their 350th Premier League match.</span></p>

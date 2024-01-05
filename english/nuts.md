@@ -1,5 +1,7 @@
 # nuts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuts.md)
+
 <p><span class="chinese">坚果和种子。</span><span class="english">Nuts and seeds.</span></p>
 
 <p><span class="chinese">我认为你们脑袋都锈逗了。</span><span class="english">I think you're nuts.</span></p>

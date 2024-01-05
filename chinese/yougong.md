@@ -1,5 +1,7 @@
 # 有功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yougong.md)
+
 <p><span class="chinese">不但无过，而且还是有功的。</span><span class="english">Not only never, but also meritorious.</span></p>
 
 <p><span class="chinese">你对好的工人应有功必赏。</span><span class="english">You should give a good worker his due.</span></p>

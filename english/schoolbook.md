@@ -1,5 +1,7 @@
 # schoolbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolbook.md)
+
 <p><span class="chinese">警方赶到达拉斯教科书存放处。</span><span class="english">Police raced to the Dallas Schoolbook Depository.</span></p>
 
 <p><span class="chinese">传统的教科书说通货膨胀将导致货币贬值。</span><span class="english">Traditional schoolbook says inflation will cause devaluation.</span></p>

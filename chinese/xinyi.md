@@ -1,5 +1,7 @@
 # 信义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyi.md)
+
 <p><span class="chinese">讲信义是我们民族的传统。</span><span class="english">Acting in good faith is a chinese tradition.</span></p>
 
 <p><span class="chinese">他又一次对他们不守信义。</span><span class="english">Once again he has broken his faith with them.</span></p>

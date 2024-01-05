@@ -1,5 +1,7 @@
 # propylene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propylene.md)
+
 <p><span class="chinese">丙烯是一种高需求、高价值产品。</span><span class="english">Propylene is a high-demand, high value product.</span></p>
 
 <p><span class="chinese">氨甲环酸丙二醇，甘油，乳酸等。</span><span class="english">Propylene glycol , Glycerine , Lactic acid and other.</span></p>

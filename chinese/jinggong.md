@@ -1,5 +1,7 @@
 # 精工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinggong.md)
+
 <p><span class="chinese">精工5号是机械表。</span><span class="english">Seiko 5 is a mechanical watch.</span></p>
 
 <p><span class="chinese">可以。我在精工电气公司工作。</span><span class="english">B. Yes. I work at Precision Electronics.</span></p>

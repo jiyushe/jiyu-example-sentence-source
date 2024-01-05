@@ -1,5 +1,7 @@
 # 续约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuyue.md)
+
 <p><span class="chinese">对于续约一事，你是否一直都成竹在胸？</span><span class="english">Were you always confident a deal would be done?</span></p>
 
 <p><span class="chinese">我的续约谈判很快就要开始了。</span><span class="english">I have a contract re-negotiation coming up, " he revealed."</span></p>

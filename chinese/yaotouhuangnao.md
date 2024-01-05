@@ -1,5 +1,7 @@
 # 摇头晃脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaotouhuangnao.md)
+
 <p><span class="chinese">而摇头晃脑的轨迹像是一个躺着的8。</span><span class="english">It is tracked like a sleeping 8.</span></p>
 
 <p><span class="chinese">他们随着音乐节拍摇头晃脑。</span><span class="english">Their head wagged in time to the music.</span></p>

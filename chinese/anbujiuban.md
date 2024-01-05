@@ -1,5 +1,7 @@
 # 按部就班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anbujiuban.md)
+
 <p><span class="chinese">你必须按部就班的去做以下这些事情吗？</span><span class="english">Do you have to follow these things step-by-step?</span></p>
 
 <p><span class="chinese">你按部就班地干，做到老也是穷死。</span><span class="english">If you work conscientiously you 'll only die a pauper.</span></p>

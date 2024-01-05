@@ -1,5 +1,7 @@
 # tellurium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tellurium.md)
+
 <p><span class="chinese">他是Tellurium自动化测试框架项目的创建者。</span><span class="english">He is the creator of the Tellurium Automated Testing Framework.</span></p>
 
 <p><span class="chinese">Tellurium会继续开发这个新引擎直至完备。</span><span class="english">Tellurium will continue to develop the new Engine to its maturity.</span></p>

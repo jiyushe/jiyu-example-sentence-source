@@ -1,5 +1,7 @@
 # insomniac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insomniac.md)
+
 <p><span class="chinese">失眠症患者的颤抖发烧。</span><span class="english">And the thrilling fever of the insomniac.</span></p>
 
 <p><span class="chinese">我有失眠症，刚刚睡着没多久，晕乎乎的。</span><span class="english">I'm an insomniac and I had just fallen asleep.</span></p>

@@ -1,5 +1,7 @@
 # portico
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portico.md)
+
 <p><span class="chinese">这是一个建有巨大的大理石柱廊的宫殿。</span><span class="english">It's a palace with a huge marble portico.</span></p>
 
 <p><span class="chinese">他将两根柱子立在殿廊前头，右边立一根，起名叫雅斤。</span><span class="english">He erected the pillars at the portico of the temple.</span></p>

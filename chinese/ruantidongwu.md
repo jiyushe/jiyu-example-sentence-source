@@ -1,5 +1,7 @@
 # 软体动物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruantidongwu.md)
+
 <p><span class="chinese">而且，porcelaine曾经就是这种软体动物的名称。</span><span class="english">The name of the mollusk was porcelaine.</span></p>
 
 <p><span class="chinese">它们吃其他的鱼类、甲壳类、软体动物和章鱼。</span><span class="english">They eat other fish, crustaceans, mollusks, and octopus.</span></p>

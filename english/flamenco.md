@@ -1,5 +1,7 @@
 # flamenco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flamenco.md)
+
 <p><span class="chinese">她是一名非常优秀的弗拉明科舞舞者。</span><span class="english">She's a very good flamenco dancer.</span></p>
 
 <p><span class="chinese">在西班牙你可以见到许多弗拉曼柯舞者。</span><span class="english">You can find many flamenco dancers in Spain.</span></p>

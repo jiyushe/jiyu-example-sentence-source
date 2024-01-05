@@ -1,5 +1,7 @@
 # thermostatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermostatic.md)
+
 <p><span class="chinese">在散热器上安装温控阀</span><span class="english">Install thermostatic valves on your radiators</span></p>
 
 <p><span class="chinese">因陋就简地为旋光仪加装恒温水套，避免了温度对实验的影响。</span><span class="english">It is explained that I append a thermostatic water-jacket to the polarimeter.</span></p>

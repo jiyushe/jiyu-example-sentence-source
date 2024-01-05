@@ -1,5 +1,7 @@
 # tramway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tramway.md)
+
 <p><span class="chinese">贾斯珀缆车是加拿大最长的缆车。</span><span class="english">Jasper Tramway is Canada's longest cable car.</span></p>
 
 <p><span class="chinese">用来建成山顶缆车车轨的地皮当时值多少钱？</span><span class="english">How much did the land for the tramway cost at that time?</span></p>

@@ -1,5 +1,7 @@
 # 拖轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuolun.md)
+
 <p><span class="chinese">使用拖轮的缆绳。</span><span class="english">Use the tug's lines.</span></p>
 
 <p><span class="chinese">请挂上一面“我需要一艘拖轮”的信号旗。</span><span class="english">Please hoist up a flag "I require a tug".</span></p>

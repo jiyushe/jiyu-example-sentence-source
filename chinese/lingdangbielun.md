@@ -1,5 +1,7 @@
 # 另当别论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingdangbielun.md)
+
 <p><span class="chinese">但爸爸们就另当别论了。</span><span class="english">But then, there`s dad.</span></p>
 
 <p><span class="chinese">但是，家庭却另当别论。</span><span class="english">But families are another matter.</span></p>

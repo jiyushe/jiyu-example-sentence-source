@@ -1,5 +1,7 @@
 # 字符串
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zifuchuan.md)
+
 <p><span class="chinese">输入任何字符串。</span><span class="english">Type any string in.</span></p>
 
 <p><span class="chinese">而我放了两个字符串进去。</span><span class="english">But I gave two strings.</span></p>

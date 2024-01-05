@@ -1,5 +1,7 @@
 # innervation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innervation.md)
+
 <p><span class="chinese">静脉回流丰富，神经支配可靠。</span><span class="english">Refluence of vein is plentiful and innervation is credible.</span></p>
 
 <p><span class="chinese">阴股沟区静脉回流丰富，神经支配可靠。</span><span class="english">Refluence of it is of plenty and innervation of it is reliable.</span></p>

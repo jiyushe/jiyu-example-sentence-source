@@ -1,5 +1,7 @@
 # exhaust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhaust.md)
+
 <p><span class="chinese">你使用排气扇吗？</span><span class="english">Exhaust fan do you use?</span></p>
 
 <p><span class="chinese">注意那个大的排气孔。</span><span class="english">Note the large exhaust vent.</span></p>

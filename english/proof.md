@@ -1,5 +1,7 @@
 # proof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proof.md)
+
 <p><span class="chinese">我就是活生生的证明！</span><span class="english">I'm living proof of it!</span></p>
 
 <p><span class="chinese">我审阅了这书的样稿。</span><span class="english">I read the book in proof.</span></p>

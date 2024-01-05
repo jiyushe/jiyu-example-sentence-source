@@ -1,5 +1,7 @@
 # lst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lst.md)
+
 <p><span class="chinese">在巴西，喜克溃可以随意购买持续的时间并不长。</span><span class="english">The open vilbility of Cytotec didn't lst long.</span></p>
 
 <p><span class="chinese">他们在二月一日到达上海站。</span><span class="english">They reached the Shanghai station on February lst.</span></p>

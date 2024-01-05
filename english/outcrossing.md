@@ -1,5 +1,7 @@
 # outcrossing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outcrossing.md)
+
 <p><span class="chinese">套袋试验结果显示芒自交高度不育，二者鉴定结果一致。</span><span class="english">The result showed that Miscanthus sinensis was a kind of outcrossing plants.</span></p>
 
 <p><span class="chinese">因此，该性状可用于大豆异交结实性改良。</span><span class="english">The PSA trait might be useful in the improvement of outcrossing ability of soybean.</span></p>

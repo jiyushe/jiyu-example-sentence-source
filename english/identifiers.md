@@ -1,5 +1,7 @@
 # identifiers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/identifiers.md)
+
 <p><span class="chinese">标识符的长度没有限制。</span><span class="english">Identifiers can be of any length.</span></p>
 
 <p><span class="chinese">所有长标识符都受支持</span><span class="english">All long identifiers are supported</span></p>

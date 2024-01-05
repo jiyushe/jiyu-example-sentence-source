@@ -1,5 +1,7 @@
 # 异文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwen.md)
+
 <p><span class="chinese">汉字中有大量的异文存在。</span><span class="english">There exist plenty of variants in the Chinese language.</span></p>
 
 <p><span class="chinese">在安德鲁斯的第一种异文里，新郎变成了癞蛤蟆。</span><span class="english">In Andrews's first variant, the bridegroom turns into a toad.</span></p>

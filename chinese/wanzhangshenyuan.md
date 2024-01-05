@@ -1,5 +1,7 @@
 # 万丈深渊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanzhangshenyuan.md)
+
 <p><span class="chinese">她没有跌入万丈深渊。</span><span class="english">She had not fallen into the abyss.</span></p>
 
 <p><span class="chinese">可是万一脚下面是万丈深渊呢？！</span><span class="english">But how do you there is not a abyss under you feet?</span></p>

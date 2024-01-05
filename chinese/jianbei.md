@@ -1,5 +1,7 @@
 # 兼备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianbei.md)
+
 <p><span class="chinese">这间博物馆信息性与娱乐性兼备。</span><span class="english">This museum offers both information and amusement.</span></p>
 
 <p><span class="chinese">是一个攻防兼备的综合性选手。</span><span class="english">Is a comprehensive offensive and defensive players.</span></p>

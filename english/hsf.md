@@ -1,5 +1,7 @@
 # hsf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hsf.md)
+
 <p><span class="chinese">HSF希望能通过个人与公司的捐款来继续这个以奥巴马命名的奖学金项目。</span><span class="english">Through individual and corporate donations, HSF wants to continue the scholarship program under Obama’s name.</span></p>
 
 <p><span class="chinese">组织应根据监督与量测要求，识别HSF产品状态。</span><span class="english">The organization shall identify the HSF product status with respect to monitoring and measurement requirements.</span></p>

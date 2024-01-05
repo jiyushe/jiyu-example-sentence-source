@@ -1,5 +1,7 @@
 # 祖父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zufu.md)
+
 <p><span class="chinese">他的祖父？</span><span class="english">His grandfather?</span></p>
 
 <p><span class="chinese">你的祖父。</span><span class="english">Your grandfather.</span></p>

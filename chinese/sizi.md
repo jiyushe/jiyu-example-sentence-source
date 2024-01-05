@@ -1,5 +1,7 @@
 # 私自
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sizi.md)
+
 <p><span class="chinese">昨天这艘船的五名军官私自出走。</span><span class="english">Five of the ship's officers went adrift yesterday.</span></p>
 
 <p><span class="chinese">他气的是这么大的事刘三竟敢私自作主。</span><span class="english">He is such a big thing three dare to liu in charge.</span></p>

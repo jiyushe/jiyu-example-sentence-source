@@ -1,5 +1,7 @@
 # disarmament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disarmament.md)
+
 <p><span class="chinese">裁军谈判在维也纳开始。</span><span class="english">Disarmament Talks Begin in Viena.</span></p>
 
 <p><span class="chinese">代表们在辩论裁军问题。</span><span class="english">The representatives are debating about disarmament.</span></p>

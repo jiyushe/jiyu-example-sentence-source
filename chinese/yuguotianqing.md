@@ -1,5 +1,7 @@
 # 雨过天晴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuguotianqing.md)
+
 <p><span class="chinese">曾经下雨，如今雨过天晴。</span><span class="english">It rained and now the rain is over.</span></p>
 
 <p><span class="chinese">雨过天晴。</span><span class="english">The rain stopped and the sky cleared up.</span></p>

@@ -1,5 +1,7 @@
 # 雨势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushi_4.md)
+
 <p><span class="chinese">是啊，雨势实在很大。</span><span class="english">Yeah, it rains a lot.</span></p>
 
 <p><span class="chinese">雨势已减弱。</span><span class="english">The rain has eased off.</span></p>

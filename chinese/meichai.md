@@ -1,5 +1,7 @@
 # 美差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meichai.md)
+
 <p><span class="chinese">思科先生是怎样得到这份美差的呢？</span><span class="english">How did Mr. Silk get the job?</span></p>
 
 <p><span class="chinese">这是互联网上一个巧妙的方法，亦是一件不错的美差。</span><span class="english">It’s a neat form of networking and a good thing to do.</span></p>

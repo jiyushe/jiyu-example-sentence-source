@@ -1,5 +1,7 @@
 # 主人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuren.md)
+
 <p><span class="chinese">没有，我的主人。</span><span class="english">No, my lord.</span></p>
 
 <p><span class="chinese">是的，我的主人。</span><span class="english">Yes, my lord.</span></p>

@@ -1,5 +1,7 @@
 # magellan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magellan.md)
+
 <p><span class="chinese">费迪南·麦哲伦是谁？</span><span class="english">Who Was Ferdinand Magellan?</span></p>
 
 <p><span class="chinese">麦哲伦是第一个环球航行的人。</span><span class="english">Magellan was the first person to circumnavigate the globe.</span></p>

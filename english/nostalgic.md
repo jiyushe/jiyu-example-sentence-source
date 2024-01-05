@@ -1,5 +1,7 @@
 # nostalgic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nostalgic.md)
+
 <p><span class="chinese">比起怀旧更像是哀歌。</span><span class="english">It is elegiac rather than nostalgic.</span></p>
 
 <p><span class="chinese">但是，能对一种犯罪行为念念不忘吗？</span><span class="english">But is it OK to be nostalgic for a crime?</span></p>

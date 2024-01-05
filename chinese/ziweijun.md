@@ -1,5 +1,7 @@
 # 自卫军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziweijun.md)
+
 <p><span class="chinese">在那个时代国民自卫军打起仗来就象轻步兵一样。</span><span class="english">This was the epoch when a National Guardsman fought like a Zouave.</span></p>
 
 <p><span class="chinese">郊区的国民自卫军匆匆忙忙乱哄哄地赶来了。</span><span class="english">The National Guards of the suburbs rushed up in haste and disorder.</span></p>

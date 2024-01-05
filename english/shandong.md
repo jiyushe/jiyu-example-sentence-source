@@ -1,5 +1,7 @@
 # shandong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shandong.md)
+
 <p><span class="chinese">是，我是山东人。</span><span class="english">Yes, I am from Shandong.</span></p>
 
 <p><span class="chinese">俺都是山东人。</span><span class="english">We all are from Shandong.</span></p>

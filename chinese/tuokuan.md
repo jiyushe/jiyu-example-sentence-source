@@ -1,5 +1,7 @@
 # 拓宽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuokuan.md)
+
 <p><span class="chinese">世行拓宽信息获取渠道</span><span class="english">Bank Widens Access to Information</span></p>
 
 <p><span class="chinese">他们已经拓宽了公园里的道路。</span><span class="english">They have broadened out the avenue in the park.</span></p>

@@ -1,5 +1,7 @@
 # lain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lain.md)
+
 <p><span class="chinese">雨花飘落在它怀里。</span><span class="english">Upon whose bosom rain has lain.</span></p>
 
 <p><span class="chinese">向能提供帮助的人抱怨才有用。</span><span class="english">Comp lain to one who can help you.</span></p>

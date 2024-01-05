@@ -1,5 +1,7 @@
 # 心中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzhong.md)
+
 <p><span class="chinese">它每天都在我心中播放。</span><span class="english">I play it everyday.</span></p>
 
 <p><span class="chinese">吻亮心中的日月星辰。</span><span class="english">Kiss to light our hearts.</span></p>

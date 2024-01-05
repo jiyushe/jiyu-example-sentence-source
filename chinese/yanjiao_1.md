@@ -1,5 +1,7 @@
 # 言教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjiao_1.md)
+
 <p><span class="chinese">因为您的身教言教，颁给您最佳教师奖。</span><span class="english">The best teachers award goes to you.</span></p>
 
 <p><span class="chinese">你以身作则，身教重于言教，对此我非常感激。</span><span class="english">You taught by example and for that I am grateful.</span></p>

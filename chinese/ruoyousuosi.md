@@ -1,5 +1,7 @@
 # 若有所思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruoyousuosi.md)
+
 <p><span class="chinese">丹若有所思地摩挲着下巴。</span><span class="english">Dan rubbed his chin thoughtfully.</span></p>
 
 <p><span class="chinese">他若有所思地盯着那幅油画。</span><span class="english">Pensively he stared at the painting.</span></p>

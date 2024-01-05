@@ -1,5 +1,7 @@
 # 执意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyi_1.md)
+
 <p><span class="chinese">她执意要去游泳。</span><span class="english">She insists on going to swim.</span></p>
 
 <p><span class="chinese">但夏真执意不搬走。</span><span class="english">But the summer is determined not to move.</span></p>

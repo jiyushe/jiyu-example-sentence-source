@@ -1,5 +1,7 @@
 # 同音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyin.md)
+
 <p><span class="chinese">同义词，反义词，同形同音异义词专业词典。</span><span class="english">Scholastic Dictionary of Synonyms, Antonyms, and Homonyms.</span></p>
 
 <p><span class="chinese">在中国，数字的同音含有深刻的含义。</span><span class="english">In Chinese society, the homonyms of numbers hold deep meaning.</span></p>

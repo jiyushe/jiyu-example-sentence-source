@@ -1,5 +1,7 @@
 # 赏罚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangfa.md)
+
 <p><span class="chinese">他们受到了公平的赏罚。</span><span class="english">Justice was meted out to them.</span></p>
 
 <p><span class="chinese">无论谁犯了法都将受到赏罚。</span><span class="english">Anyone who breaks the law shall be punished.</span></p>

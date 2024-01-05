@@ -1,5 +1,7 @@
 # 如实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushi_5.md)
+
 <p><span class="chinese">无论发生什么事，都要如实地认识它。</span><span class="english">Wahtever occurs, recognize it as right.</span></p>
 
 <p><span class="chinese">而路加如实传播了保罗的福音。</span><span class="english">And Luke correctly passed on Paul's gospel.</span></p>

@@ -1,5 +1,7 @@
 # 挂羊头卖狗肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guayangtoumaigourou.md)
+
 <p><span class="chinese">的是的，你可以在这里做一些挂羊头卖狗肉与。</span><span class="english">Yes, you could do some trickery here with.</span></p>
 
 <p><span class="chinese">挂羊头卖狗肉是他们的惯技。</span><span class="english">To sell horse meat as beefsteak is their usual practice.</span></p>

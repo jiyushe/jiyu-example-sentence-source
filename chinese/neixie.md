@@ -1,5 +1,7 @@
 # 哪些
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neixie.md)
+
 <p><span class="chinese">哪些孩子？</span><span class="english">Which children?</span></p>
 
 <p><span class="chinese">首先，先来说说哪些绝对不能说的话。</span><span class="english">First, the Nevers.</span></p>

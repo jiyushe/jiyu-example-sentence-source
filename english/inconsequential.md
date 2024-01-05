@@ -1,5 +1,7 @@
 # inconsequential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconsequential.md)
+
 <p><span class="chinese">这些技术细节似乎是无足轻重的。</span><span class="english">The technicalities might seem inconsequential.</span></p>
 
 <p><span class="chinese">它们完全无关紧要,现在我们表示出了数字。</span><span class="english">They're completely inconsequential 7 and so we now have the number 7.</span></p>

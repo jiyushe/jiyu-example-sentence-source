@@ -1,5 +1,7 @@
 # 冬天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongtian.md)
+
 <p><span class="chinese">那时是冬天。</span><span class="english">It's wintertime.</span></p>
 
 <p><span class="chinese">冬天是白色的。</span><span class="english">Winter is white.</span></p>

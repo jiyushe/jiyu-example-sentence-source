@@ -1,5 +1,7 @@
 # 散文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanwen.md)
+
 <p><span class="chinese">紫色的散文。</span><span class="english">Purple prose.</span></p>
 
 <p><span class="chinese">散文，他简单地说。</span><span class="english">Prose, he said simply.</span></p>

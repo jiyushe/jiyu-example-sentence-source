@@ -1,5 +1,7 @@
 # propriety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propriety.md)
+
 <p><span class="chinese">中华民族是个讲究仪礼的国家。</span><span class="english">China is a country of courtesy and propriety.</span></p>
 
 <p><span class="chinese">这才有了一开始的非礼那一幕。</span><span class="english">This is the beginning of the scene of propriety.</span></p>

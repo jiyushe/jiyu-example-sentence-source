@@ -1,5 +1,7 @@
 # 表妹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaomei.md)
+
 <p><span class="chinese">彤彤是我的表妹。</span><span class="english">Tung Tung is my cousin.</span></p>
 
 <p><span class="chinese">这是我表妹第一次适应新的工作。</span><span class="english">Are you adapted for the new job?</span></p>

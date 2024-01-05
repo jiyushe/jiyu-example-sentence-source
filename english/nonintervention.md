@@ -1,5 +1,7 @@
 # nonintervention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonintervention.md)
+
 <p><span class="chinese">中国的难题在于不干涉政策。</span><span class="english">The challenge for China is its policy of nonintervention.</span></p>
 
 <p><span class="chinese">我中心不介入有关民事权益的裁定。</span><span class="english">My center nonintervention concerns the ruling of civil rights and interests.</span></p>

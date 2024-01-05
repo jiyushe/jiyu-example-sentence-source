@@ -1,5 +1,7 @@
 # 皮袋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pidai_2.md)
+
 <p><span class="chinese">没有人把新酒装在旧皮袋里。</span><span class="english">Neither is new wine put into old wineskins.</span></p>
 
 <p><span class="chinese">神将祂孩子们的眼泪装在皮袋里。</span><span class="english">God puts the tears of His children in a bottle.</span></p>

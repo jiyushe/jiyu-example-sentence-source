@@ -1,5 +1,7 @@
 # multitasking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multitasking.md)
+
 <p><span class="chinese">噢，我太爱一心多用了。</span><span class="english">Oh, how I love multitasking.</span></p>
 
 <p><span class="chinese">我经常告诉高管们停止多任务。</span><span class="english">I often tell executives to stop multitasking.</span></p>

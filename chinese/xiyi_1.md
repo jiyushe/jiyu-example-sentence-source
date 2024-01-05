@@ -1,5 +1,7 @@
 # 西医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyi_1.md)
+
 <p><span class="chinese">西医的“七情”致病很有道理。</span><span class="english">Western medicine's "Seven Emotions" disease is well founded.</span></p>
 
 <p><span class="chinese">西医目前尚不能根治，且西药毒副作用大，易复发，易反弹。</span><span class="english">Up to now, RA can not be rooted out with the Western Medicine.</span></p>

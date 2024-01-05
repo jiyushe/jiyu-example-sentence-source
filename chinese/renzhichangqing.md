@@ -1,5 +1,7 @@
 # 人之常情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzhichangqing.md)
+
 <p><span class="chinese">有过失是人之常情。</span><span class="english">To err is human. To forgive, divine.</span></p>
 
 <p><span class="chinese">犯错乃人之常情，宽恕则超凡入圣也。</span><span class="english">To err is human, to forgive is divine.</span></p>

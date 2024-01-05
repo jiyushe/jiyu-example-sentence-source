@@ -1,5 +1,7 @@
 # better
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/better.md)
+
 <p><span class="chinese">谁舞蹈比力好?。</span><span class="english">Who dances better?</span></p>
 
 <p><span class="chinese">因为你知道自己能做的很好。</span><span class="english">For youknow better.</span></p>

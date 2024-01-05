@@ -1,5 +1,7 @@
 # 祖上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zushang.md)
+
 <p><span class="chinese">我对拓荒者的描述不带有任何幻想成分，我祖上八代都是美国拓荒者。</span><span class="english">I have no illusions about the pioneers.</span></p>
 
 <p><span class="chinese">这一计人家祖上叫作分而置之。</span><span class="english">Called third of the people of sub-and at home.</span></p>

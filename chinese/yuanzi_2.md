@@ -1,5 +1,7 @@
 # 院子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzi_2.md)
+
 <p><span class="chinese">树木环绕着那个院子。</span><span class="english">Trees environ the yard.</span></p>
 
 <p><span class="chinese">在院子里玩溜溜球。</span><span class="english">Playing ayo-yo in the yard.</span></p>

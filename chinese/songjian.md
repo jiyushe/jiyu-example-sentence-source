@@ -1,5 +1,7 @@
 # 耸肩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songjian.md)
+
 <p><span class="chinese">我耸耸肩。</span><span class="english">I shrug.</span></p>
 
 <p><span class="chinese">他耸耸肩。</span><span class="english">He shrugs.</span></p>

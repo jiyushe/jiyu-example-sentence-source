@@ -1,5 +1,7 @@
 # polished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polished.md)
+
 <p><span class="chinese">我总是涂脚趾甲。</span><span class="english">My toes were always polished.</span></p>
 
 <p><span class="chinese">以千百道波浪磨亮。</span><span class="english">Polished by a thousand waves.</span></p>

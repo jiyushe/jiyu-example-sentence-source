@@ -1,5 +1,7 @@
 # megaton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megaton.md)
+
 <p><span class="chinese">百万吨级是一个用于描述一百万吨TNT炸药的术语。</span><span class="english">A megaton is a term used to describe one million tons of TNT.</span></p>
 
 <p><span class="chinese">一个典型飓风产生的能量相当于8000个百万吨吸炸弹。</span><span class="english">A typical hurricane produces the energy equivalent of 8, 000 one megaton bombs</span></p>

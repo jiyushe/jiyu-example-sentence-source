@@ -1,5 +1,7 @@
 # 辩证逻辑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzhengluoji.md)
+
 <p><span class="chinese">本文初步探讨了辩证逻辑有关的一些问题。</span><span class="english">This article presents the ABC on some of the dialectical logic problems.</span></p>
 
 <p><span class="chinese">马克思批判了黑格尔的辩证逻辑的体系，创立了唯物辩证法。</span><span class="english">Marx criticized the system of Hegel's dialectical logic and founded materialist dialectics.</span></p>

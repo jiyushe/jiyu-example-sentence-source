@@ -1,5 +1,7 @@
 # hag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hag.md)
+
 <p><span class="chinese">她是个地道的巫婆。</span><span class="english">She is a sure-enough hag.</span></p>
 
 <p><span class="chinese">她逐渐变成一个丑老太婆。</span><span class="english">She gradually turns into an old hag.</span></p>

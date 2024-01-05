@@ -1,5 +1,7 @@
 # 专心一意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanxinyiyi.md)
+
 <p><span class="chinese">一个战士的心灵一定要专心一意！</span><span class="english">A warrior's mind must be unblurred!</span></p>
 
 <p><span class="chinese">让我们专心一意奉献给主。</span><span class="english">Let us be single-minded in our devotion to Jesus.</span></p>

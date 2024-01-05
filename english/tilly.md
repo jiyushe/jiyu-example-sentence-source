@@ -1,5 +1,7 @@
 # tilly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tilly.md)
+
 <p><span class="chinese">蒂莉拿来睡衣，他给她穿上。</span><span class="english">Tilly brought it, and he put it on her.</span></p>
 
 <p><span class="chinese">我只是想和你玩，“但是特里太害羞了。”</span><span class="english">I just want to play. But Tilly was too shy.</span></p>

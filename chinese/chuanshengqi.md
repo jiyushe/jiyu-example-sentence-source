@@ -1,5 +1,7 @@
 # 传声器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanshengqi.md)
+
 <p><span class="chinese">研究虚拟传声器的有源噪声控制问题。</span><span class="english">The active noise control using virtual sensors is studied.</span></p>
 
 <p><span class="chinese">你看，传声器作用与电话的送话器很相像。</span><span class="english">The microphone, you see, acts much like a telephone transmitter.</span></p>

@@ -1,5 +1,7 @@
 # oomph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oomph.md)
+
 <p><span class="chinese">马利已经失去了爬上山顶所需的精力了。</span><span class="english">Marley just did not have the oomph needed to make it to the top.</span></p>
 
 <p><span class="chinese">让我们看看它是否已经准备好给我们的双超的所需的魅力。</span><span class="english">Let's see if it's ready to give our twin Ultra's the required oomph.</span></p>

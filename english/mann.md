@@ -1,5 +1,7 @@
 # mann
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mann.md)
+
 <p><span class="chinese">所有人员进入休眠状态。</span><span class="english">Alle Mann am Boot in die ruhe Position.</span></p>
 
 <p><span class="chinese">曼恩法案就是一部彻头彻尾的种族主义法案。</span><span class="english">The Mann Act is an inherently racist law.</span></p>

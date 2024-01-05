@@ -1,5 +1,7 @@
 # 贪赃枉法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanzangwangfa.md)
+
 <p><span class="chinese">我们应该尽力消除政府中的贪赃枉法。</span><span class="english">We should try to clear graft, waste and inefficiency out of government.</span></p>
 
 <p><span class="chinese">他们认为严厉打击犯罪和贪赃枉法的活动将使日常生活进一步得到保障。</span><span class="english">Residents believe a crackdown on crime and graft will make daily life more viable.</span></p>

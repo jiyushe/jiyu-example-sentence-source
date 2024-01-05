@@ -1,5 +1,7 @@
 # 打动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadong.md)
+
 <p><span class="chinese">她的歌声打动了我。</span><span class="english">Her singing gets me.</span></p>
 
 <p><span class="chinese">你的故事深深地打动了我。</span><span class="english">Your story slays me.</span></p>

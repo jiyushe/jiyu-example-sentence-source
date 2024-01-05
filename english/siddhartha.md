@@ -1,5 +1,7 @@
 # siddhartha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siddhartha.md)
+
 <p><span class="chinese">然后，他开始寻找他的宠物悉达多。</span><span class="english">Then he went looking for Siddhartha.</span></p>
 
 <p><span class="chinese">那是悉达多以前洗澡的地方。</span><span class="english">It is where Siddhartha used to bathe.</span></p>

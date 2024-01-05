@@ -1,5 +1,7 @@
 # massless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/massless.md)
+
 <p><span class="chinese">我们叫它无质量绳。</span><span class="english">We call that a massless string.</span></p>
 
 <p><span class="chinese">我们叫它无质量弹簧。</span><span class="english">Let's call it a massless spring.</span></p>

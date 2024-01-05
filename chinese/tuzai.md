@@ -1,5 +1,7 @@
 # 屠宰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuzai.md)
+
 <p><span class="chinese">他们把鹿屠宰开膛收拾干净。</span><span class="english">They dressed out the deer.</span></p>
 
 <p><span class="chinese">基督屠宰者的口味。</span><span class="english">the taste of Christian butchers.</span></p>

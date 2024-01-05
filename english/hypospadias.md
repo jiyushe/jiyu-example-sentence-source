@@ -1,5 +1,7 @@
 # hypospadias
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypospadias.md)
+
 <p><span class="chinese">不同类型尿道下裂动物模型之间包皮血管立体构像存在差别。</span><span class="english">The 3DR image of blood vessel in three types hypospadias is different.</span></p>
 
 <p><span class="chinese">目的探索一种新的尿道下裂手术方法。</span><span class="english">ObjectiveTo investigate new methods of treatment for penile hypospadias.</span></p>

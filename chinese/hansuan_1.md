@@ -1,5 +1,7 @@
 # 寒酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hansuan_1.md)
+
 <p><span class="chinese">她似乎宁肯坐那辆简陋寒酸的马车。</span><span class="english">She would have preferred the humble cart.</span></p>
 
 <p><span class="chinese">她同母亲一样，对贫困寒酸的日子深恶痛绝。</span><span class="english">She hated dinginess as much as her mother had hated it.</span></p>

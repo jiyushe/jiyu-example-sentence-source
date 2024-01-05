@@ -1,5 +1,7 @@
 # dispute 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispute.md)
+
 <p><span class="chinese">他对这点没有异议。</span><span class="english">He doesn't dispute that.</span></p>
 
 <p><span class="chinese">这可能会惹来一些争论。</span><span class="english">Some would dispute that.</span></p>

@@ -1,5 +1,7 @@
 # 满目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manmu.md)
+
 <p><span class="chinese">洪水席卷了这一地区，满目一片疮痍。</span><span class="english">The flood cut a wide swath in this area.</span></p>
 
 <p><span class="chinese">满目青山夕照明。</span><span class="english">On all sides, verdant sunset-bathed hills greet the eye.</span></p>

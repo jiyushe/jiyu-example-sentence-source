@@ -1,5 +1,7 @@
 # 丢掉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diudiao.md)
+
 <p><span class="chinese">我丢掉了一支笔。</span><span class="english">I've lost my pen.</span></p>
 
 <p><span class="chinese">我们丢掉了锐气。</span><span class="english">We lost our edge.</span></p>

@@ -1,5 +1,7 @@
 # disassemble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disassemble.md)
+
 <p><span class="chinese">不要随意拆卸电器元件。</span><span class="english">Do not disassemble electrical components.</span></p>
 
 <p><span class="chinese">然后拆下阀盖及平衡器。</span><span class="english">Secondly, disassemble bonnet and balancer.</span></p>

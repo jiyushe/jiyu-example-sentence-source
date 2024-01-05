@@ -1,5 +1,7 @@
 # hydrothorax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrothorax.md)
+
 <p><span class="chinese">肝性胸水是真的吗？</span><span class="english">Was it really hepatic hydrothorax?</span></p>
 
 <p><span class="chinese">目的观察胸水ADA对胸腔积液鉴别诊断的价值。</span><span class="english">Objective To observe the value of ADA in differential diagnosis of hydrothorax.</span></p>

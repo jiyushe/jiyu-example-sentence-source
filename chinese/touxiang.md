@@ -1,5 +1,7 @@
 # 头像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touxiang.md)
+
 <p><span class="chinese">表情和头像的支持。</span><span class="english">Smileys and avatars support.</span></p>
 
 <p><span class="chinese">我喜欢你的新头像图片。</span><span class="english">I love your new avatar picture.</span></p>

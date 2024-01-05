@@ -1,5 +1,7 @@
 # 命名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingming_1.md)
+
 <p><span class="chinese">我命名了她的皇后.</span><span class="english">I named her Queen.</span></p>
 
 <p><span class="chinese">我把它命名为巴迪。</span><span class="english">I named him Buddy.</span></p>

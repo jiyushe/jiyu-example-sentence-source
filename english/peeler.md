@@ -1,5 +1,7 @@
 # peeler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peeler.md)
+
 <p><span class="chinese">谁发明了苹果皮勒？。</span><span class="english">Who Invented the Apple Peeler?</span></p>
 
 <p><span class="chinese">什么是苹果削皮机及取样器？。</span><span class="english">What is an Apple Peeler & Corer?</span></p>

@@ -1,5 +1,7 @@
 # lengthwise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lengthwise.md)
+
 <p><span class="chinese">将橙子切半。</span><span class="english">Cut the orange in half lengthwise.</span></p>
 
 <p><span class="chinese">还有鼻子上长长的纵向伤痕。</span><span class="english">also a cut lengthwise on the nose.</span></p>

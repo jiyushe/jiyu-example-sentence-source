@@ -1,5 +1,7 @@
 # empiricism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empiricism.md)
+
 <p><span class="chinese">好，这是一种经验主义。</span><span class="english">OK, so that's one kind of empiricism.</span></p>
 
 <p><span class="chinese">经验论的对立面是唯理论。</span><span class="english">Theopposite of empiricism is rationalism.</span></p>

@@ -1,5 +1,7 @@
 # aba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aba.md)
+
 <p><span class="chinese">外源脱落酸则对这三种糖均有促进效果。</span><span class="english">Exogenous ABA has advance in these three sugars.</span></p>
 
 <p><span class="chinese">与此同时，我必须了解如何实施ABA项目。</span><span class="english">Meanwhile, I had to learn how to run an ABA programme.</span></p>

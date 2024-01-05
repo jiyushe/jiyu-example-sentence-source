@@ -1,5 +1,7 @@
 # doozy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doozy.md)
+
 <p><span class="chinese">老兄，这英文考题太难了，我想我挂了。</span><span class="english">Man, that English test was a doozy . I think I failed.</span></p>
 
 <p><span class="chinese">为了让老公去看医生，她自己就编造了一个谎言。</span><span class="english">She concocted a doozy to get her husband to see the doctor.</span></p>

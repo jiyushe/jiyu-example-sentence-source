@@ -1,5 +1,7 @@
 # collation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collation.md)
+
 <p><span class="chinese">这本书你校勘完毕没有？</span><span class="english">Have you completed the collation of this book?</span></p>
 
 <p><span class="chinese">排序是任何排序算法的核心。</span><span class="english">A collation is the heart of any sorting algorithm.</span></p>

@@ -1,5 +1,7 @@
 # inadvertent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inadvertent.md)
+
 <p><span class="chinese">谷歌曾说，数据的收集是随意的。</span><span class="english">Google has said the data collection was inadvertent.</span></p>
 
 <p><span class="chinese">此公司已宣称数据采集并非故意。</span><span class="english">The company has said the data collection was inadvertent.</span></p>

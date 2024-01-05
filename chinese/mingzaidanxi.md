@@ -1,5 +1,7 @@
 # 命在旦夕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzaidanxi.md)
+
 <p><span class="chinese">他的朋友，也命在旦夕。</span><span class="english">His friend, too, was dying.</span></p>
 
 <p><span class="chinese">医生告诉我那位老人命在旦夕了。</span><span class="english">The doctor told me that the old man might go off any time.</span></p>

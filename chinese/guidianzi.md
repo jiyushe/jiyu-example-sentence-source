@@ -1,5 +1,7 @@
 # 鬼点子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guidianzi.md)
+
 <p><span class="chinese">他的鬼点子真多。</span><span class="english">He's full of bad ideas.</span></p>
 
 <p><span class="chinese">他鬼点子多。</span><span class="english">He's full of wicked ideas.</span></p>

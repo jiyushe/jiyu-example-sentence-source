@@ -1,5 +1,7 @@
 # 办公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangong.md)
+
 <p><span class="chinese">我的办公时间是什么时候？</span><span class="english">When are my office hours?</span></p>
 
 <p><span class="chinese">办公时间很棒，</span><span class="english">he has great office hours,</span></p>

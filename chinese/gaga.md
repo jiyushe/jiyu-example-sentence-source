@@ -1,5 +1,7 @@
 # 嘎嘎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaga.md)
+
 <p><span class="chinese">鸭子嘎嘎地叫。</span><span class="english">A duck quacks.</span></p>
 
 <p><span class="chinese">这条旧船嘎嘎地往前行驶。</span><span class="english">The old ship chugged along.</span></p>

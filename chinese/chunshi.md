@@ -1,5 +1,7 @@
 # 蠢事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunshi.md)
+
 <p><span class="chinese">她窃笑他干的蠢事。</span><span class="english">She snickered at his folly.</span></p>
 
 <p><span class="chinese">谁干的这种蠢事</span><span class="english">Who perpetrated this farce?</span></p>

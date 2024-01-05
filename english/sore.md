@@ -1,5 +1,7 @@
 # sore 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sore.md)
+
 <p><span class="chinese">喉咙痛。</span><span class="english">A sore throat.</span></p>
 
 <p><span class="chinese">我嗓子疼。</span><span class="english">My throat's sore.</span></p>

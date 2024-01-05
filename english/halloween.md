@@ -1,5 +1,7 @@
 # halloween
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halloween.md)
+
 <p><span class="chinese">万圣节快乐！</span><span class="english">Happy Halloween Debby.</span></p>
 
 <p><span class="chinese">我吃光了你的万圣节糖果。</span><span class="english">I ate all your Halloween candy.</span></p>

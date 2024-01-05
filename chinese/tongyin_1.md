@@ -1,5 +1,7 @@
 # 痛饮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyin_1.md)
+
 <p><span class="chinese">他痛饮了一杯酒。</span><span class="english">He swills a cup of wine.</span></p>
 
 <p><span class="chinese">那晚我们痛饮到天亮。</span><span class="english">That night we partied until dawn.</span></p>

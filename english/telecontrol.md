@@ -1,5 +1,7 @@
 # telecontrol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telecontrol.md)
+
 <p><span class="chinese">介绍了一款新型的数字家庭空间定位电视遥控器。</span><span class="english">A new telecontrol of digital family spare location Television is introduced.</span></p>
 
 <p><span class="chinese">电力远动系统是电力系统自动化的重要组成部分。</span><span class="english">The power telecontrol system is an important part of power system automatization.</span></p>

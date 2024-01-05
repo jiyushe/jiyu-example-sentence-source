@@ -1,5 +1,7 @@
 # bandung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bandung.md)
+
 <p><span class="chinese">万隆会议给我们留下了极为宝贵的历史遗产。</span><span class="english">The Bandung Conference left us a most valuable legacy.</span></p>
 
 <p><span class="chinese">万隆精神是不朽的，值得我们倍加珍惜，发扬光大！</span><span class="english">We must hold dear and carry forward the ever-lasting Bandung spirit.</span></p>

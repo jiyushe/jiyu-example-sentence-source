@@ -1,5 +1,7 @@
 # koa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/koa.md)
+
 <p><span class="chinese">日本民间也纷纷建立各种团体，宣传自己的＂兴亚＂主张。</span><span class="english">Various voluntary bodies were set up to promote the "koa" propositions of their own.</span></p>
 
 <p><span class="chinese">因此寻找治疗KOA方便、有效、副作用小的方法是一项迫切而必要的任务。</span><span class="english">It is quite essential to find a convenient, effective and few side effects therapy for KOA.</span></p>

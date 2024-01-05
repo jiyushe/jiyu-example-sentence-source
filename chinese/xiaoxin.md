@@ -1,5 +1,7 @@
 # 孝心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxin.md)
+
 <p><span class="chinese">我相信卡尔的孝心和实力。</span><span class="english">I believe his filial piety and ability.</span></p>
 
 <p><span class="chinese">孝心少年的故事让我们动容落泪。</span><span class="english">The filial piety youth story made us cry.</span></p>

@@ -1,5 +1,7 @@
 # repudiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repudiation.md)
+
 <p><span class="chinese">实际上，这个预算方案抛弃了他竞选时期树立的所有目标。</span><span class="english">It is, in fact, a repudiation of the very goals he has established.</span></p>
 
 <p><span class="chinese">忽视和排斥习惯法的作用对民事审判工作会造成不利的影响。</span><span class="english">The neglect and repudiation of CL. may have adverse effects on civil trial.</span></p>

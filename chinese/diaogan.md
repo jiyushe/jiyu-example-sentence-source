@@ -1,5 +1,7 @@
 # 钓竿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaogan.md)
+
 <p><span class="chinese">好，现在把钓竿柄插到钓竿座里去。</span><span class="english">Now get the butt into your butt rest.</span></p>
 
 <p><span class="chinese">苏打使女神在钓竿旁打盹英语口语人机对话。</span><span class="english">The soda made the goddess nod by the fishing rod.</span></p>

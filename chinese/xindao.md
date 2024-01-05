@@ -1,5 +1,7 @@
 # 信道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xindao.md)
+
 <p><span class="chinese">视频信道，电视频道?。</span><span class="english">VFC? Video Frequency Channel?</span></p>
 
 <p><span class="chinese">音频信道?。</span><span class="english">VFC? Voice Frequency Channel?</span></p>

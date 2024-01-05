@@ -1,5 +1,7 @@
 # unselfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unselfish.md)
+
 <p><span class="chinese">你必须无私。</span><span class="english">You have to be unselfish.</span></p>
 
 <p><span class="chinese">他体贴温柔，大公无私。</span><span class="english">He’s very thoughtful and unselfish.</span></p>

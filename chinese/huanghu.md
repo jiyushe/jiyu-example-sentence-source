@@ -1,5 +1,7 @@
 # 恍惚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanghu.md)
+
 <p><span class="chinese">他看上去有点神思恍惚。</span><span class="english">He seemed to be in a trance.</span></p>
 
 <p><span class="chinese">我恍惚感觉自己像是在电影中。</span><span class="english">I feel as though I'm in a film.</span></p>

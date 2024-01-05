@@ -1,5 +1,7 @@
 # 审理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenli.md)
+
 <p><span class="chinese">诽谤案仍在继续审理。</span><span class="english">The case continued.</span></p>
 
 <p><span class="chinese">这个案子现在已交庭审理。</span><span class="english">The case is now before the court.</span></p>

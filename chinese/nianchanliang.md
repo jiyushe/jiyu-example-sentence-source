@@ -1,5 +1,7 @@
 # 年产量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianchanliang.md)
+
 <p><span class="chinese">年产量约计五十万吨。</span><span class="english">The yearly output approximates to 500,000 tons.</span></p>
 
 <p><span class="chinese">年产量约计六十万吨。</span><span class="english">The yearly output approximates to 600,000 tons.</span></p>

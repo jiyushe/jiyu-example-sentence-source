@@ -1,5 +1,7 @@
 # 鼻头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bitou_1.md)
+
 <p><span class="chinese">我喜欢把他气得鼻头出火。</span><span class="english">I enjoy getting a rise out of him.</span></p>
 
 <p><span class="chinese">对于鼻头脱皮有什么办法么？</span><span class="english">What idea to have to nose desquamate?</span></p>

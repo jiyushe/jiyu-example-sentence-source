@@ -1,5 +1,7 @@
 # 哄堂大笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongtangdaxiao.md)
+
 <p><span class="chinese">观众哄堂大笑，欢声雷动！</span><span class="english">Laughter and cheers!</span></p>
 
 <p><span class="chinese">闹剧使观众哄堂大笑。</span><span class="english">The audience roared at the farce.</span></p>

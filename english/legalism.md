@@ -1,5 +1,7 @@
 # legalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legalism.md)
+
 <p><span class="chinese">教条主义毁灭我们与上帝之间的爱。</span><span class="english">Legalism destroys our loving relationship with God.</span></p>
 
 <p><span class="chinese">第二部分是我国税法中的税收法定主义评析。</span><span class="english">The second part is about tax legalism of china tax law.</span></p>

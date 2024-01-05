@@ -1,5 +1,7 @@
 # revenge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revenge.md)
+
 <p><span class="chinese">所以我就报复了。</span><span class="english">So I took a revenge.</span></p>
 
 <p><span class="chinese">他渴望复仇。</span><span class="english">He lusted for revenge.</span></p>

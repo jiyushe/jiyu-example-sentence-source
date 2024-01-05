@@ -1,5 +1,7 @@
 # 堂会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanghui.md)
+
 <p><span class="chinese">本堂会所有的行动必须在祂的管和权柄下执行。</span><span class="english">All actions of this congregation are to be carried out under his rule and authority.</span></p>
 
 <p><span class="chinese">本堂会可采行细则。但任何细则不得与本章程有冲突。</span><span class="english">C15.01 This congregation may adopt bylaws. No bylaw may conflict with this constitution.</span></p>

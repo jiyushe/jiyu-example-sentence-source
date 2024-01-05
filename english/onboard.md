@@ -1,5 +1,7 @@
 # onboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onboard.md)
+
 <p><span class="chinese">它甚至还随身携带氧气瓶。</span><span class="english">It even has an onboard oxygen canister.</span></p>
 
 <p><span class="chinese">LRO有一个测量表面高度的车载激光器。</span><span class="english">LRO has a laser onboard that measures surface elevation.</span></p>

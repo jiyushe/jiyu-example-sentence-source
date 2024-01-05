@@ -1,5 +1,7 @@
 # 可有可无
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keyoukewu.md)
+
 <p><span class="chinese">公司，如果你认为你是可有可无的。</span><span class="english">Company if you think you are dispensable.</span></p>
 
 <p><span class="chinese">对于玛丽巴赫来说，2分钱并非可有可无的零钱。</span><span class="english">For Mary Bach, 2 cents isn't chump change.</span></p>

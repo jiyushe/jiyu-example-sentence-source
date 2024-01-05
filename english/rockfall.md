@@ -1,5 +1,7 @@
 # rockfall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rockfall.md)
+
 <p><span class="chinese">提出边坡滚石灾害综合防治的思路。</span><span class="english">A comprehensive controlling idea of rockfall hazards was presented.</span></p>
 
 <p><span class="chinese">崩坍落石灾害是常见的山区地质灾害之一。</span><span class="english">Collapse and rockfall is familiar geohazard in the mountainous area.</span></p>

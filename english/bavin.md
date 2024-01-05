@@ -1,5 +1,7 @@
 # bavin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bavin.md)
+
 <p><span class="chinese">就像指挥潍柴动力。</span><span class="english">Resemble commanding Wei bavin motive force.</span></p>
 
 <p><span class="chinese">我一定要自己干，不让别人帮忙拾柴吗？</span><span class="english">I myself must work, do not let others help pick up bavin ?</span></p>

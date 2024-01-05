@@ -1,5 +1,7 @@
 # immortal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immortal.md)
+
 <p><span class="chinese">灵魂是否是不朽的</span><span class="english">Is it immortal?"</span></p>
 
 <p><span class="chinese">你是不朽的。</span><span class="english">You are immortal.</span></p>

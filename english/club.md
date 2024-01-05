@@ -1,5 +1,7 @@
 # club
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/club.md)
+
 <p><span class="chinese">我参加一个读书会。</span><span class="english">I join a book club.</span></p>
 
 <p><span class="chinese">我参加了一个读书会。</span><span class="english">I join a book club.</span></p>

@@ -1,5 +1,7 @@
 # 芸芸众生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunyunzhongsheng.md)
+
 <p><span class="chinese">大千世界，芸芸众生，没人与我相同。</span><span class="english">In the entire world there's nobody like me.</span></p>
 
 <p><span class="chinese">这正是华尔街精英和芸芸众生的另一大区别。</span><span class="english">Yet another difference between planet Wall Street and planet Earth.</span></p>

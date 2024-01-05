@@ -1,5 +1,7 @@
 # floorboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floorboard.md)
+
 <p><span class="chinese">他小心翼翼地走过那腐烂的地板。</span><span class="english">He walked gingerly over the rotten floorboard.</span></p>
 
 <p><span class="chinese">介绍了一种新型的复合地板胶。</span><span class="english">A new compound floorboard adhesive was introduced.</span></p>

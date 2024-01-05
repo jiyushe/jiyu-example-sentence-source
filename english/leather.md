@@ -1,5 +1,7 @@
 # leather 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leather.md)
+
 <p><span class="chinese">皮装？</span><span class="english">Leather?</span></p>
 
 <p><span class="chinese">皮底。</span><span class="english">Leather sole.</span></p>

@@ -1,5 +1,7 @@
 # grappa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grappa.md)
+
 <p><span class="chinese">但是我想我可以来点格拉巴酒。</span><span class="english">But I think I could handle a little grappa.</span></p>
 
 <p><span class="chinese">被压榨后留下的葡萄果浆，葡萄籽和皮。用来酿造格拉巴酒。</span><span class="english">The grape pulp, seeds, and skin that remains after pressing. It is used to make grappa.</span></p>

@@ -1,5 +1,7 @@
 # lathering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lathering.md)
+
 <p><span class="chinese">使用香波擦头发的时间应持续28秒，包括20下按摩。</span><span class="english">Lathering should last 28 seconds and involve 20 rubs.</span></p>
 
 <p><span class="chinese">他用热水泼着脸，又往脸上抹肥皂，好让他的刮胡刀更好使。</span><span class="english">Sloshing his face with hot water, lathering up soap and hoping his.</span></p>

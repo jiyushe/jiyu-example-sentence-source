@@ -1,5 +1,7 @@
 # madman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madman.md)
+
 <p><span class="chinese">这个疯子毁损了艺术品。</span><span class="english">The madman mutilates art work.</span></p>
 
 <p><span class="chinese">唯一的目击者，却是女人的爱犬罗莉。</span><span class="english">Is this the project of a madman?</span></p>

@@ -1,5 +1,7 @@
 # seen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seen.md)
+
 <p><span class="chinese">你看见啦？</span><span class="english">You seen that?</span></p>
 
 <p><span class="chinese">你有看到库巴吗？</span><span class="english">Have you seen Cuba?</span></p>

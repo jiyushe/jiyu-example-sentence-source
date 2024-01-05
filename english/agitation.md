@@ -1,5 +1,7 @@
 # agitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agitation.md)
+
 <p><span class="chinese">她激动得声音发抖。</span><span class="english">Her voice quivered with agitation.</span></p>
 
 <p><span class="chinese">这些犁片有助于铅膏的混合搅拌。</span><span class="english">These plows aid in paste mix agitation.</span></p>

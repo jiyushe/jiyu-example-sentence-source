@@ -1,5 +1,7 @@
 # philomela
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philomela.md)
+
 <p><span class="chinese">在普鲁丝妮面前，他撒谎说菲勒美拉已经死了。</span><span class="english">To Procne he lied, saying that Philomela was dead.</span></p>
 
 <p><span class="chinese">他撒谎说菲勒美拉已经死了。</span><span class="english">To Procne he lied , saying that Philomela was dead.</span></p>

@@ -1,5 +1,7 @@
 # therapist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/therapist.md)
+
 <p><span class="chinese">玛丽·迪桑是一位疗养医生。</span><span class="english">Mary Dessein is a therapist.</span></p>
 
 <p><span class="chinese">它甚至不需要一个治疗师。</span><span class="english">It does not even need a therapist.</span></p>

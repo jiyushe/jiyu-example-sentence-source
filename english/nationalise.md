@@ -1,5 +1,7 @@
 # nationalise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nationalise.md)
+
 <p><span class="chinese">老师们在身上标明「让我们的服务国有化」，要求成为政府雇员。</span><span class="english">The teachers are demanding to be made government employees. The signs read, "Nationalise our service".</span></p>
 
 <p><span class="chinese">而他的总理，弗朗索瓦·费容已发出威胁，如果银行不向更多公司放贷，就将其收归国有。</span><span class="english">His prime minister, François Fillon, has threatened to nationalise banks unless they lend more to companies.</span></p>

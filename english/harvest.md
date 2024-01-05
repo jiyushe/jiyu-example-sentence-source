@@ -1,5 +1,7 @@
 # harvest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harvest.md)
+
 <p><span class="chinese">我们都帮忙收割。</span><span class="english">We all helped the harvest.</span></p>
 
 <p><span class="chinese">稻花香里说丰年。</span><span class="english">Harvest year in rice flower.</span></p>

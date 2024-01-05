@@ -1,5 +1,7 @@
 # antipsychotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antipsychotic.md)
+
 <p><span class="chinese">结论洛沙平是一种起效快而安全的抗精神病药物。</span><span class="english">Conclusion Loxapin is an safe and effective antipsychotic agent.</span></p>
 
 <p><span class="chinese">哌罗匹隆是一种安全有效的非典型抗精神病药。</span><span class="english">Perospirone is an effective and safe atypical antipsychotic drug.</span></p>

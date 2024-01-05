@@ -1,5 +1,7 @@
 # 取景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qujing.md)
+
 <p><span class="chinese">许多电影在这里取景拍摄。</span><span class="english">Many movies have been shot here.</span></p>
 
 <p><span class="chinese">你是你相机最好的取景器.</span><span class="english">You are your cameras best viewfinder!</span></p>

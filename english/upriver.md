@@ -1,5 +1,7 @@
 # upriver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upriver.md)
+
 <p><span class="chinese">中国的制造业打算逆水而上走多远？</span><span class="english">How far upriver might Chinese manufacturing travel?</span></p>
 
 <p><span class="chinese">旅游者被卡车从城市拉到河的上游。</span><span class="english">Tourists crowd onto trucks that drive them to a spot upriver from the city.</span></p>

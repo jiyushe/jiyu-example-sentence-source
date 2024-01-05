@@ -1,5 +1,7 @@
 # 满足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manzu.md)
+
 <p><span class="chinese">人心是不满足的。</span><span class="english">No man is content.</span></p>
 
 <p><span class="chinese">不，他们不满足。</span><span class="english">No, not satisfied.</span></p>

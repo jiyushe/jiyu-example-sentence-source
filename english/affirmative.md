@@ -1,5 +1,7 @@
 # affirmative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affirmative.md)
+
 <p><span class="chinese">这是一种肯定的句式。</span><span class="english">It's an affirmative.</span></p>
 
 <p><span class="chinese">她的回答是肯定的。</span><span class="english">Her answer is in the affirmative.</span></p>

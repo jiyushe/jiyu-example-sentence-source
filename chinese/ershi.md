@@ -1,5 +1,7 @@
 # 儿时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ershi.md)
+
 <p><span class="chinese">他就是我儿时的蝌蚪。</span><span class="english">He is my tadpole.</span></p>
 
 <p><span class="chinese">^-^这些是你婴儿时穿白勺衣服。</span><span class="english">These are your baby pants.</span></p>

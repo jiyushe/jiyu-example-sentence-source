@@ -1,5 +1,7 @@
 # orpheus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orpheus.md)
+
 <p><span class="chinese">俄耳甫斯径直就僵在了那里，但他并没有回转身。</span><span class="english">Orpheus froze in place, but he didn't turn around.</span></p>
 
 <p><span class="chinese">其中最广为流传的便是奥菲斯与尤丽黛丝的故事。</span><span class="english">One of the most popular is a story about Orpheus and Eurydice.</span></p>

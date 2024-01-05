@@ -1,5 +1,7 @@
 # sceptre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sceptre.md)
+
 <p><span class="chinese">这国王的权杖有一头是装了一把雨伞的。</span><span class="english">It is a sceptre ending in an umbrella.</span></p>
 
 <p><span class="chinese">我们的旗帜就是王笏，谁碰到都得服从。</span><span class="english">Our flag the sceptre all who meet obey.</span></p>

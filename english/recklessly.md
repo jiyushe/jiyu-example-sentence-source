@@ -1,5 +1,7 @@
 # recklessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recklessly.md)
+
 <p><span class="chinese">你会不顾一切地花费更多。</span><span class="english">You’ll spend more recklessly.</span></p>
 
 <p><span class="chinese">这三个是亲弟兄。</span><span class="english">Fifth brother is called Recklessly Rash.</span></p>

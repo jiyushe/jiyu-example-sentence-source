@@ -1,5 +1,7 @@
 # irreparably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irreparably.md)
+
 <p><span class="chinese">球员和球团的关系，是有可能有著无可捥回的伤害的。</span><span class="english">Relations between player and club can be irreparably damaged.</span></p>
 
 <p><span class="chinese">但在一八四六年华盛顿诞辰被敲响时，它裂到无法修补了。</span><span class="english">But it cracked irreparably when rung for Washington's birthday in 1846.</span></p>

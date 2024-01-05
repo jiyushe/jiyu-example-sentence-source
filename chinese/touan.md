@@ -1,5 +1,7 @@
 # 投案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touan.md)
+
 <p><span class="chinese">他向警察投案了。</span><span class="english">He gave himself up to the police.</span></p>
 
 <p><span class="chinese">那逃犯投案了。</span><span class="english">The escaped prisoner gave himself up.</span></p>

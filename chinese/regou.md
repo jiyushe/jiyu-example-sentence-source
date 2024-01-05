@@ -1,5 +1,7 @@
 # 热狗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/regou.md)
+
 <p><span class="chinese">这就是热狗吗？</span><span class="english">Is this a hotdog?</span></p>
 
 <p><span class="chinese">吃热狗好吗？</span><span class="english">Hot dog?- Hot dog.</span></p>

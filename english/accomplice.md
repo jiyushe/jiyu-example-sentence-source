@@ -1,5 +1,7 @@
 # accomplice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accomplice.md)
+
 <p><span class="chinese">他会是同谋吗？</span><span class="english">Was he an accomplice?</span></p>
 
 <p><span class="chinese">在这件事上，我们找到了一个同谋。</span><span class="english">In this we found an accomplice.</span></p>

@@ -1,5 +1,7 @@
 # formless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formless.md)
+
 <p><span class="chinese">他是一个无形之神的崇拜者。</span><span class="english">He was a worshipper of the formless God.</span></p>
 
 <p><span class="chinese">光的身体是我的无形态去形成的。</span><span class="english">Body of Light was my formless form formed.</span></p>

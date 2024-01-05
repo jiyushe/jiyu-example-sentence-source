@@ -1,5 +1,7 @@
 # lignification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lignification.md)
+
 <p><span class="chinese">同时纎维化和木质也被抑制。</span><span class="english">Fiber formation and lignification were also decreased.</span></p>
 
 <p><span class="chinese">木质化足以使细胞变硬和增强。</span><span class="english">This lignification serves to stiffen and strengthen the cells.</span></p>

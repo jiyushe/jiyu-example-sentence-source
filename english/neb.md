@@ -1,5 +1,7 @@
 # neb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neb.md)
+
 <p><span class="chinese">限制苺资料库取自新英格兰生物实验室公司。</span><span class="english">The Restriction Enzyme Database from NEB.</span></p>
 
 <p><span class="chinese">杰普衷心喜爱纳布，纳布对它也是一样。</span><span class="english">Jup had besides a real affection for Neb, and Neb returned it.</span></p>

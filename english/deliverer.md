@@ -1,5 +1,7 @@
 # deliverer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deliverer.md)
+
 <p><span class="chinese">你很急切的想看看这个世界的救世主？</span><span class="english">You are eager to behold the world's deliverer?</span></p>
 
 <p><span class="chinese">并非将其作为传递者,而是作为被人们排斥的人。</span><span class="english">Not so much Moses as just deliverer but Moses as someone rejected by the people.</span></p>

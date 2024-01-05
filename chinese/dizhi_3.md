@@ -1,5 +1,7 @@
 # 地质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhi_3.md)
+
 <p><span class="chinese">但从地质年代上来说，它还是一个婴儿。</span><span class="english">That's a baby in geological terms.</span></p>
 
 <p><span class="chinese">而澳洲地质院则是标在了7。5级。</span><span class="english">Geoscience Australia put it at 7.5.</span></p>

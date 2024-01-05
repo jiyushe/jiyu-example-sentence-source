@@ -1,5 +1,7 @@
 # inelastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inelastic.md)
+
 <p><span class="chinese">在坚硬无弹性的平台上进行。</span><span class="english">Carries on in the hard inelastic platform.</span></p>
 
 <p><span class="chinese">它们粘在一起,这是完全非弹性碰撞。</span><span class="english">They get stuck together because it's a completely inelastic collision.</span></p>

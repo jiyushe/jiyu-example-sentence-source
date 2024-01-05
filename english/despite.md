@@ -1,5 +1,7 @@
 # despite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despite.md)
+
 <p><span class="chinese">尽管修通了隧道。</span><span class="english">Despite the new tunnel.</span></p>
 
 <p><span class="chinese">不顾那正在飘落的雪。</span><span class="english">Despite the falling snow.</span></p>

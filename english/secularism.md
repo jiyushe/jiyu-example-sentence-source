@@ -1,5 +1,7 @@
 # secularism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secularism.md)
+
 <p><span class="chinese">倘若如此，势必成为反击法国世俗主义的一记重拳。</span><span class="english">If this happens, it will represent a counterpunch to French secularism.</span></p>
 
 <p><span class="chinese">但他有力地驳斥了某些后启蒙时代世俗主义的拙劣版本。</span><span class="english">But he picks apart some crude versions of post-Enlightenment secularism.</span></p>

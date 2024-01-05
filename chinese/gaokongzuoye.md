@@ -1,5 +1,7 @@
 # 高空作业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaokongzuoye.md)
+
 <p><span class="chinese">高空作业车是一种小型起重机械。</span><span class="english">Aerial vehicle is a small lifting appliances.</span></p>
 
 <p><span class="chinese">它使高空作业效率更高，更安全。</span><span class="english">It makes the operation more efficient, more safety.</span></p>

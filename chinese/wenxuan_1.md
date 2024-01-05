@@ -1,5 +1,7 @@
 # 文选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxuan_1.md)
+
 <p><span class="chinese">我把那本作文选揉皱了，揩黑了。</span><span class="english">I made the book crinkle and black with a mess.</span></p>
 
 <p><span class="chinese">该卷包含了他的早期作品文选。</span><span class="english">This volume contains selections from his early works.</span></p>

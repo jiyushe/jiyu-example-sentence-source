@@ -1,5 +1,7 @@
 # upheaval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upheaval.md)
+
 <p><span class="chinese">动荡轴心有很多的成员国。</span><span class="english">The axis of upheaval has many members.</span></p>
 
 <p><span class="chinese">在道德沦亡的时代，我们该何去何从？</span><span class="english">What do we do in times of moral upheaval?</span></p>

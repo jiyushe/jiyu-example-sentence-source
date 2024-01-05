@@ -1,5 +1,7 @@
 # 雷神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leishen.md)
+
 <p><span class="chinese">他们是欧丁神，雷神，司爱女神。</span><span class="english">The gods were Odin, Thor and Freya.</span></p>
 
 <p><span class="chinese">由于我必须用雷神之锤去杀一个神！</span><span class="english">And I need the hammer to kill a god !</span></p>

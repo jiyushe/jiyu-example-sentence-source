@@ -1,5 +1,7 @@
 # goon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goon.md)
+
 <p><span class="chinese">你做你的作业，我在这等一会儿。</span><span class="english">Just goon with your home work.</span></p>
 
 <p><span class="chinese">被称为“不走运的天才打手”。</span><span class="english">Talent goon who is not in luck by named.</span></p>

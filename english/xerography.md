@@ -1,5 +1,7 @@
 # xerography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xerography.md)
+
 <p><span class="chinese">边缘增强是静电复印术的固有特点。</span><span class="english">Edge enhancement is intrinsic in xerography.</span></p>
 
 <p><span class="chinese">用复印术，几小时内就能把一本书复印出来。</span><span class="english">By xerography a book can be reproduced in a few hours.</span></p>

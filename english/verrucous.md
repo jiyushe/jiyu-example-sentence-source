@@ -1,5 +1,7 @@
 # verrucous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verrucous.md)
+
 <p><span class="chinese">尖锐湿疣感染很快！</span><span class="english">Acerb wet verrucous infection is very fast!</span></p>
 
 <p><span class="chinese">对于生殖器疣，有关、无关、负相关各1项。</span><span class="english">Verrucous to genital, about, have nothing to do, negative closes each 1.</span></p>

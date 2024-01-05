@@ -1,5 +1,7 @@
 # 须发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xufa.md)
+
 <p><span class="chinese">传统中药何首乌具有乌须发的作用。</span><span class="english">Traditional Chinese medicine Polygonum multiflorum has the function of hair blacking.</span></p>
 
 <p><span class="chinese">火炬的光芒让罗奈特·康宁顿长长的火红须发似乎燃烧起来。</span><span class="english">The light of the torches made a fiery blaze of Ronnet Connington's long red hair and beard.</span></p>

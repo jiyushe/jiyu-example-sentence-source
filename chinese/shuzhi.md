@@ -1,5 +1,7 @@
 # 数值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzhi.md)
+
 <p><span class="chinese">数值地形模型?。</span><span class="english">Digital terrain model?</span></p>
 
 <p><span class="chinese">这些数值是概率</span><span class="english">These are probabilities.</span></p>

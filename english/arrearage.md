@@ -1,5 +1,7 @@
 # arrearage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrearage.md)
+
 <p><span class="chinese">欠费问题一直是电信面临的一个严重问题。</span><span class="english">Arrearage in telecom has long been a frustrating problem.</span></p>
 
 <p><span class="chinese">与财务部门帐目核对及应收欠款的控制。</span><span class="english">Check account with the financial department and control the arrearage.</span></p>

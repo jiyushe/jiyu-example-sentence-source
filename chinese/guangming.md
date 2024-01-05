@@ -1,5 +1,7 @@
 # 光明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangming.md)
+
 <p><span class="chinese">太阳给我们带来光明。</span><span class="english">The sun gives us light.</span></p>
 
 <p><span class="chinese">就业前景光明。</span><span class="english">Job prospects are bright.</span></p>

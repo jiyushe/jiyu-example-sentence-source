@@ -1,5 +1,7 @@
 # farfetched
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farfetched.md)
+
 <p><span class="chinese">一个牵强的预测吗？</span><span class="english">A farfetched prediction?</span></p>
 
 <p><span class="chinese">这个比方有点驴唇不对马嘴。</span><span class="english">The analogy is rather farfetched.</span></p>

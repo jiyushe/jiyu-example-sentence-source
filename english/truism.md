@@ -1,5 +1,7 @@
 # truism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truism.md)
+
 <p><span class="chinese">只有一些失败国家是美国安全的威胁。</span><span class="english">Only some of them.It has been a truism of U.</span></p>
 
 <p><span class="chinese">众所周知，简洁和可读性都好。</span><span class="english">It is a truism that both brevity and readability are good.</span></p>

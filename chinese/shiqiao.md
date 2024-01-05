@@ -1,5 +1,7 @@
 # 石桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqiao.md)
+
 <p><span class="chinese">那儿有一座石桥。</span><span class="english">There is a stone bridge.</span></p>
 
 <p><span class="chinese">公元1176年，第一座石桥建起来了。</span><span class="english">In 1176 the first stone bridge was constructed.</span></p>

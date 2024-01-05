@@ -1,5 +1,7 @@
 # 二极管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erjiguan.md)
+
 <p><span class="chinese">视频检波二极管?。</span><span class="english">VDD? Video Detector Diode?</span></p>
 
 <p><span class="chinese">齐纳二极管是太不稳定了！</span><span class="english">Zeners are much too unstable!</span></p>

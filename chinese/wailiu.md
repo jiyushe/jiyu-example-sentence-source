@@ -1,5 +1,7 @@
 # 外流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wailiu.md)
+
 <p><span class="chinese">他们的财富外流了。</span><span class="english">Their fortune drained away.</span></p>
 
 <p><span class="chinese">新税也放慢了资金外流的速度.</span><span class="english">The tax has also slowed some cash outflows.</span></p>

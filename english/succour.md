@@ -1,5 +1,7 @@
 # succour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succour.md)
+
 <p><span class="chinese">第五章救助措施与法律责任</span><span class="english">Chapter V Succour Measures and Legal Liability</span></p>
 
 <p><span class="chinese">盖茨只好求助于他心爱的软件来排忧解难，他决定全面掌管软件的开发工作。</span><span class="english">Gates turned for succour to his frist love overseeing software development.</span></p>

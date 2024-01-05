@@ -1,5 +1,7 @@
 # entirely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entirely.md)
+
 <p><span class="chinese">对，但不完全。</span><span class="english">Well, not entirely.</span></p>
 
 <p><span class="chinese">鼻镜为纯黑色。</span><span class="english">Nose entirely black.</span></p>

@@ -1,5 +1,7 @@
 # devaluation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devaluation.md)
+
 <p><span class="chinese">如此看来，这最后一招就剩下让日元贬值了。</span><span class="english">And so, it appear, the only thing left is devaluation.</span></p>
 
 <p><span class="chinese">壹友贬值的消息，菏票价格就暴跌了。</span><span class="english">Share plummet or plunge on the news of the devaluation.</span></p>

@@ -1,5 +1,7 @@
 # amicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amicable.md)
+
 <p><span class="chinese">整个早晨充满和霭可亲的气氛。</span><span class="english">The atmosphere of the entire morning was in an amicable.</span></p>
 
 <p><span class="chinese">两国以友好调解解决争端。</span><span class="english">The two countries made settlement by amicable arrangement.</span></p>

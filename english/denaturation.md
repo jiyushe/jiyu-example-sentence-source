@@ -1,5 +1,7 @@
 # denaturation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denaturation.md)
+
 <p><span class="chinese">视网膜色素变性怎样治疗？</span><span class="english">How is retinal pigment denaturation treated?</span></p>
 
 <p><span class="chinese">谁知道视网膜素色素变性病例！</span><span class="english">Who knows case of denaturation of retinal element pigment!</span></p>

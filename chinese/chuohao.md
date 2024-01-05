@@ -1,5 +1,7 @@
 # 绰号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuohao.md)
+
 <p><span class="chinese">王琳很喜欢这个绰号。</span><span class="english">Wang likes this nickname.</span></p>
 
 <p><span class="chinese">他的绰号是“唠叨的人。</span><span class="english">His nickname is "chatterbox."</span></p>

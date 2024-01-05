@@ -1,5 +1,7 @@
 # symbolical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbolical.md)
+
 <p><span class="chinese">主说明了启示录中第一个象徵的语言。</span><span class="english">The Lord introduces the first symbolical language in Revelation.</span></p>
 
 <p><span class="chinese">李金发是中国现代诗坛上独树一帜的象征派诗歌的创始者。</span><span class="english">Li Jinfa has been a pioneer in modern symbolical poetry in China.</span></p>

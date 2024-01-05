@@ -1,5 +1,7 @@
 # 起脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijiao_1.md)
+
 <p><span class="chinese">他踮起脚走到门口。</span><span class="english">He tipped to the door.</span></p>
 
 <p><span class="chinese">他踮起脚转向我。</span><span class="english">She pivoted on her toe and faced me.</span></p>

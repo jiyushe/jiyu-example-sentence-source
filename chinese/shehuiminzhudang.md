@@ -1,5 +1,7 @@
 # 社会民主党
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shehuiminzhudang.md)
+
 <p><span class="chinese">有些工党下议院议员脱党后加入社会民主党。</span><span class="english">Several Labour MPs broke away to join the Social Democrats.</span></p>
 
 <p><span class="chinese">有些工党下议院议员脱党后加入社会民主党。</span><span class="english">Several labour mps break away to join the social democrats.</span></p>

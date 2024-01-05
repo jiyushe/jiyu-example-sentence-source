@@ -1,5 +1,7 @@
 # 瑟缩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sesuo.md)
+
 <p><span class="chinese">鸟儿们在雪裡瑟缩栖息著。</span><span class="english">And birds sit brooding in the snow.</span></p>
 
 <p><span class="chinese">他在那里显得瑟缩不安。</span><span class="english">He appeared numbed and uneasy there.</span></p>

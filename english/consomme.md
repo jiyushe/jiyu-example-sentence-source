@@ -1,5 +1,7 @@
 # consomme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consomme.md)
+
 <p><span class="chinese">清汤还是浓汤呢？</span><span class="english">Consomme or potage ?</span></p>
 
 <p><span class="chinese">我们这里有清汤和浓汤。</span><span class="english">We have both consomme and cream soups.</span></p>

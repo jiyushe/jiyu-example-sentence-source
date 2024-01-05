@@ -1,5 +1,7 @@
 # 排挤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiji_1.md)
+
 <p><span class="chinese">他说我的坏话，还排挤我以表现自己。</span><span class="english">He badmouthed me and stole the show.</span></p>
 
 <p><span class="chinese">那些政客们正在相互排挤以争夺权力。</span><span class="english">Those politicians are jockeying for power.</span></p>

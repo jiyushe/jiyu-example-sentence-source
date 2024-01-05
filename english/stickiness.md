@@ -1,5 +1,7 @@
 # stickiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stickiness.md)
+
 <p><span class="chinese">它们有更纯粹的口感和极好的粘性。</span><span class="english">They have a pure taste and the quintessential stickiness.</span></p>
 
 <p><span class="chinese">粘性项和媒介的,粘稠度有关。</span><span class="english">The viscous term has to do with the stickiness of the medium.</span></p>

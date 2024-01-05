@@ -1,5 +1,7 @@
 # pyroclastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyroclastic.md)
+
 <p><span class="chinese">火山岩储层岩石类型主要包括熔岩类、火山碎屑岩类。</span><span class="english">Rock types of volcanic reservoirs include mainly lava and pyroclastic rock.</span></p>
 
 <p><span class="chinese">火山碎屑流是由火山喷发而引起的最可怕自然灾害。</span><span class="english">Pyroclastic flows are some of the most fearsome hazards posed by erupting volcanoes.</span></p>

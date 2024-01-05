@@ -1,5 +1,7 @@
 # scotia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scotia.md)
+
 <p><span class="chinese">我是来自新斯科舍的假小子。</span><span class="english">I'm a tomboy from Nova Scotia.</span></p>
 
 <p><span class="chinese">之后，英军转移到新斯科舍。</span><span class="english">The British troops then moved to Nova Scotia.</span></p>

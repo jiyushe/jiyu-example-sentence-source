@@ -1,5 +1,7 @@
 # jag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jag.md)
+
 <p><span class="chinese">我有一个猕猴桃和一个甜瓜。</span><span class="english">Jag har en kiwi och en melon.</span></p>
 
 <p><span class="chinese">取而代之的，是一块砖头砸到了他的“美洲豹”侧门。</span><span class="english">Instead, a brick smashed into the Jag 's side door!</span></p>

@@ -1,5 +1,7 @@
 # illegally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illegally.md)
+
 <p><span class="chinese">他以非法手段弄钱。</span><span class="english">He got the money illegally.</span></p>
 
 <p><span class="chinese">是的，这些信息是通过非法手段获取的。</span><span class="english">Yes, the messages were obtained illegally.</span></p>

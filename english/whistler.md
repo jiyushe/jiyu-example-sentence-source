@@ -1,5 +1,7 @@
 # whistler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whistler.md)
+
 <p><span class="chinese">你找到韦斯勒了?。</span><span class="english">You find Whistler?</span></p>
 
 <p><span class="chinese">赛尔夫一直在与威斯勒合作。</span><span class="english">Self had been working with Whistler.</span></p>

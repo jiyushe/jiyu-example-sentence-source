@@ -1,5 +1,7 @@
 # gdss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gdss.md)
+
 <p><span class="chinese">欧洲市场比美国市场更复杂，所以GDS尤为重要。</span><span class="english">Europe is a more complex market than America so the GDSs are even more important there.</span></p>
 
 <p><span class="chinese">在全球三大GDS当中，这家总部在新泽西的科技巨头是有望在2010年IPO上市的第一家。</span><span class="english">The New Jersey-based tech giant is the first of the big three GDSs expected to IPO in 2010.</span></p>

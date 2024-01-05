@@ -1,5 +1,7 @@
 # 速战速决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suzhansujue.md)
+
 <p><span class="chinese">女人和男人一样喜欢速战速决。</span><span class="english">Women love quickies as much as men do.</span></p>
 
 <p><span class="chinese">你认为中国人都或多或少采用了速战速决的生活方式吗？</span><span class="english">Do you think people in China have more or less adopted the quick-fix lifestyle?</span></p>

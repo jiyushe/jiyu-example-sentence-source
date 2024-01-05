@@ -1,5 +1,7 @@
 # quadruplicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadruplicate.md)
+
 <p><span class="chinese">请把这个表格填四份。</span><span class="english">Please fill out this form in quadruplicate.</span></p>
 
 <p><span class="chinese">请交申请表一式四份。</span><span class="english">Please submit your application form in quadruplicate.</span></p>

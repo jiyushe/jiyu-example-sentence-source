@@ -1,5 +1,7 @@
 # 楚楚可怜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchukelian.md)
+
 <p><span class="chinese">女人实在无需楚楚可怜。</span><span class="english">Women don't need to really chu chu poor.</span></p>
 
 <p><span class="chinese">而且她们正如在以弗所年代一样使妇女的形像看起来又弱又楚楚可怜。</span><span class="english">And they're making women as weak and miserable as in the days of Ephesus.</span></p>

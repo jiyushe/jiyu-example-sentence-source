@@ -1,5 +1,7 @@
 # 下级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaji.md)
+
 <p><span class="chinese">他执政30个军团的下级。</span><span class="english">He governs 30 Legions of Inferiors.</span></p>
 
 <p><span class="chinese">你对你的下级要亲切。</span><span class="english">You should be kind to your inferiors.</span></p>

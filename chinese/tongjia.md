@@ -1,5 +1,7 @@
 # 通假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongjia.md)
+
 <p><span class="chinese">俺从不写错字，但俺写通假字。</span><span class="english">I never write wrong character, but I write loan characters.</span></p>
 
 <p><span class="chinese">20世纪以来，关于两汉的通假字现象，人们曾经做过不少研究。</span><span class="english">Lots of research has been made on characters and diction of that period since 20th century.</span></p>

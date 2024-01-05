@@ -1,5 +1,7 @@
 # poodle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poodle.md)
+
 <p><span class="chinese">一只小狮子狗。</span><span class="english">A tiny, tiny little poodle.</span></p>
 
 <p><span class="chinese">那只鬈毛狗又是叫又是咬。</span><span class="english">The poodle yapped and snap ped.</span></p>

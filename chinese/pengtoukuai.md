@@ -1,5 +1,7 @@
 # 碰头会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengtoukuai.md)
+
 <p><span class="chinese">你每天都想开一次碰头会。</span><span class="english">You want to have a status meeting every day?</span></p>
 
 <p><span class="chinese">协议规定，双方每月要开两次碰头会。</span><span class="english">The agreement provides that the two sides shall meet twice a month.</span></p>

@@ -1,5 +1,7 @@
 # sweatshirt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweatshirt.md)
+
 <p><span class="chinese">一件蓝绒衣和一条白短裤。</span><span class="english">A blue sweatshirt and white shorts.</span></p>
 
 <p><span class="chinese">她穿着牛仔裤和运动衫，非常得体。</span><span class="english">She's respectably dressed in jeans and sweatshirt.</span></p>

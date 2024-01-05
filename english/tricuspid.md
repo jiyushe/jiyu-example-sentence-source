@@ -1,5 +1,7 @@
 # tricuspid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tricuspid.md)
+
 <p><span class="chinese">如何诊断三尖瓣闭锁?。</span><span class="english">How is tricuspid atresia diagnosed?</span></p>
 
 <p><span class="chinese">为什么关注三尖瓣闭锁?。</span><span class="english">Why is tricuspid atresia a concern?</span></p>

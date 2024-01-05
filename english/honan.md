@@ -1,5 +1,7 @@
 # honan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honan.md)
+
 <p><span class="chinese">秦将军带领的这支患难与共的队伍从河南府往南移动。</span><span class="english">General Ching's resolute group moved south from Honan Province.</span></p>
 
 <p><span class="chinese">万里豫剧院演员在台上演出。</span><span class="english">Actors of Wanli Honan Opera Theater are performing in the stage.</span></p>

@@ -1,5 +1,7 @@
 # rotor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotor.md)
+
 <p><span class="chinese">可配一种水平转子。</span><span class="english">A swing-out rotor is available.</span></p>
 
 <p><span class="chinese">像它所做的那样，转子取得了能量。</span><span class="english">As it does, the rotor gains energy.</span></p>

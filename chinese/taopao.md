@@ -1,5 +1,7 @@
 # 逃跑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taopao.md)
+
 <p><span class="chinese">雨天有利于他的逃跑。</span><span class="english">Rain favoured his escape.</span></p>
 
 <p><span class="chinese">他一听到这个消息就逃跑了。</span><span class="english">He bunged off at the news.</span></p>

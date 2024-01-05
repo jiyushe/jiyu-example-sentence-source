@@ -1,5 +1,7 @@
 # jetliner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jetliner.md)
+
 <p><span class="chinese">现代宽体喷气式客机是很大的。</span><span class="english">The modern wide-bodied jetliner is very large.</span></p>
 
 <p><span class="chinese">喷气客机在接近跑道时改为平飞。</span><span class="english">The jetliner leveled off in its approach to the runway.</span></p>

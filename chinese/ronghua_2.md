@@ -1,5 +1,7 @@
 # 融化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ronghua_2.md)
+
 <p><span class="chinese">片片原野融化了我的心脏。</span><span class="english">Fields melt my heart.</span></p>
 
 <p><span class="chinese">冰已全融化了。</span><span class="english">The ice had all melted.</span></p>

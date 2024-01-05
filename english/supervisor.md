@@ -1,5 +1,7 @@
 # supervisor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supervisor.md)
+
 <p><span class="chinese">我得请示我的主管。</span><span class="english">I’ll check my supervisor.</span></p>
 
 <p><span class="chinese">基蒂也是一名监督员。</span><span class="english">Kitty was a supervisor too.</span></p>

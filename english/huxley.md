@@ -1,5 +1,7 @@
 # huxley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huxley.md)
+
 <p><span class="chinese">赫胥黎是达尔文进化论的鼓吹者。</span><span class="english">Huxley was an exponent of Darwin's theory of evolution.</span></p>
 
 <p><span class="chinese">在审视了鸵鸟和其他现代鸟类以后，赫胥黎认为它们就是小型恐龙的后代。</span><span class="english">When Huxley looked at ostriches and other modern birds, he saw smallish dinosaurs.</span></p>

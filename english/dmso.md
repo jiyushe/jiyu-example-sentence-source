@@ -1,5 +1,7 @@
 # dmso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dmso.md)
+
 <p><span class="chinese">方法以亚甲砜为原料经过三步反应合成莱菔子素。</span><span class="english">METHODS The target compound was synthesized from DMSO by three steps.</span></p>
 
 <p><span class="chinese">最后将OMAS与国外同类软件进行比较。</span><span class="english">Finally we compare OMAS with a similar software which is popular in DMSO.</span></p>

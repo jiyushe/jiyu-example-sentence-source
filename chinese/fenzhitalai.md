@@ -1,5 +1,7 @@
 # 纷至沓来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzhitalai.md)
+
 <p><span class="chinese">报价单纷至沓来。</span><span class="english">We were deluged with offers.</span></p>
 
 <p><span class="chinese">寄给我们的信件纷至沓来。</span><span class="english">We've been deluged with letters.</span></p>

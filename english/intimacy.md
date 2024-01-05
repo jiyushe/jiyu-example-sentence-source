@@ -1,5 +1,7 @@
 # intimacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intimacy.md)
+
 <p><span class="chinese">但亲密接触也有代价。</span><span class="english">But intimacy has its costs.</span></p>
 
 <p><span class="chinese">我喜欢籍籍无名和亲密感。</span><span class="english">I loved the anonymity and the intimacy.</span></p>

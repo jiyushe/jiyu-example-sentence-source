@@ -1,5 +1,7 @@
 # bay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bay.md)
+
 <p><span class="chinese">响沙湾？</span><span class="english">Sounding Sand Bay?</span></p>
 
 <p><span class="chinese">去户外母鹿海湾事务部。</span><span class="english">Ooh go doe bay mwa.</span></p>

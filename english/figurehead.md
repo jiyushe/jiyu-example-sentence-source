@@ -1,5 +1,7 @@
 # figurehead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/figurehead.md)
+
 <p><span class="chinese">特里大笑着说，“你只不过是这个考察队的一个有名无实的小头目。”</span><span class="english">You’re just the figurehead for this expedition.</span></p>
 
 <p><span class="chinese">尽管一些资深官员说他只是个有名无实的人物。</span><span class="english">Even some senior officials now say he is a mere figurehead.</span></p>

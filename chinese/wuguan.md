@@ -1,5 +1,7 @@
 # 五官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuguan.md)
+
 <p><span class="chinese">以此类推，认识五官。</span><span class="english">By analogy, know facial features.</span></p>
 
 <p><span class="chinese">她是一个五官端正的姑娘。</span><span class="english">She is a girl of regular feature.</span></p>

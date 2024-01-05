@@ -1,5 +1,7 @@
 # rhapsody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhapsody.md)
+
 <p><span class="chinese">探讨狂想曲的风格与“随想”术语之关连性。</span><span class="english">Discusses Rhapsody the style and "a capriccio" correlation of the terminology.</span></p>
 
 <p><span class="chinese">胜利与正义，这两名战士在利用他那忠诚的剑创造狂诗！</span><span class="english">Victory and justice. The Iberian rhapsody of a warrior's loyalty to his sword.</span></p>

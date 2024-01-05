@@ -1,5 +1,7 @@
 # feminity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feminity.md)
+
 <p><span class="chinese">难道你忘了，你是女人。</span><span class="english">Do you forget your feminity.</span></p>
 
 <p><span class="chinese">职业女性形象设计②。</span><span class="english">Image design of professional feminity II.</span></p>

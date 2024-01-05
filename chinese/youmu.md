@@ -1,5 +1,7 @@
 # 游牧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmu.md)
+
 <p><span class="chinese">游牧区多为游动式。</span><span class="english">For more nomadic area of swimming.</span></p>
 
 <p><span class="chinese">游牧文化该怎样继续下去？</span><span class="english">How dose nomadism culture continue?</span></p>

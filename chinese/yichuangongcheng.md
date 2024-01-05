@@ -1,5 +1,7 @@
 # 遗传工程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichuangongcheng.md)
+
 <p><span class="chinese">没有遗传工程，什么也没有。</span><span class="english">No genetic engineering, nothing.</span></p>
 
 <p><span class="chinese">马莎在哥伦比亚学习遗传工程。</span><span class="english">Martha studies genetic engineering at Columbia.</span></p>

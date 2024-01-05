@@ -1,5 +1,7 @@
 # 全篇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanpian.md)
+
 <p><span class="chinese">这可是全篇最荒谬的谎言。</span><span class="english">This is directly related to the lie above.</span></p>
 
 <p><span class="chinese">我们全篇发现了许多错误。</span><span class="english">We've found numerous errors down the line.</span></p>

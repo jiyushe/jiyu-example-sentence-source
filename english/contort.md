@@ -1,5 +1,7 @@
 # contort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contort.md)
+
 <p><span class="chinese">有些人嘴巴张开，另一些人面部扭曲。</span><span class="english">Some peoples mouths open. Others faces contort.</span></p>
 
 <p><span class="chinese">我毫不顾及自己的身体和原则被怎样扭曲。</span><span class="english">I didn't care how much I had to contort my body and my principles.</span></p>

@@ -1,5 +1,7 @@
 # 为政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizheng.md)
+
 <p><span class="chinese">不知道如何掩饰的人不能为政。</span><span class="english">He who knows not how to dissimulate, can not reign.</span></p>
 
 <p><span class="chinese">因此，儒家始终劝勉统治者为政施仁。</span><span class="english">Thus, Confucianism is always exhorted the ruler who governs Ren Shi.</span></p>

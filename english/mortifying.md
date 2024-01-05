@@ -1,5 +1,7 @@
 # mortifying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortifying.md)
+
 <p><span class="chinese">那会严重伤害她的自尊心。</span><span class="english">It would be mortifying her severely.</span></p>
 
 <p><span class="chinese">这是一次讨厌丢人的经历。</span><span class="english">It was a truly mortifying and disgusting experience.</span></p>

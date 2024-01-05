@@ -1,5 +1,7 @@
 # bleb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleb.md)
+
 <p><span class="chinese">病毒性疱疹的治疗?。</span><span class="english">The cure of virus sex bleb ?</span></p>
 
 <p><span class="chinese">手掌上为什么会长一些小小的水泡?。</span><span class="english">On the palm why chairman a few small bleb?</span></p>

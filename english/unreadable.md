@@ -1,5 +1,7 @@
 # unreadable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreadable.md)
+
 <p><span class="chinese">新的电视节目预告简直没法看。</span><span class="english">The new TV program guide is unreadable.</span></p>
 
 <p><span class="chinese">不，我不用Perl——我认为它是一种只适合写不适合读的语言。</span><span class="english">No, I don't use perl--I consider it an unreadable write-only language.</span></p>

@@ -1,5 +1,7 @@
 # 骑虎难下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihunanxia.md)
+
 <p><span class="chinese">你现在是骑虎难下。</span><span class="english">You're in for it now.</span></p>
 
 <p><span class="chinese">你现在骑虎难下了。</span><span class="english">You're riding a tiger now.</span></p>

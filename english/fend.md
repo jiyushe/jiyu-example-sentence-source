@@ -1,5 +1,7 @@
 # fend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fend.md)
+
 <p><span class="chinese">我们必须努力奋斗。</span><span class="english">We must strive and fend.</span></p>
 
 <p><span class="chinese">我们必须抵御贫穷。</span><span class="english">We must fend against poverty.</span></p>

@@ -1,5 +1,7 @@
 # 抓紧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuajin.md)
+
 <p><span class="chinese">请抓紧时间。</span><span class="english">Please hurry up.</span></p>
 
 <p><span class="chinese">抓紧时间。</span><span class="english">Before your time.</span></p>

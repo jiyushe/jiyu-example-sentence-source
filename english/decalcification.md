@@ -1,5 +1,7 @@
 # decalcification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decalcification.md)
+
 <p><span class="chinese">脱钙可通过使用酸或其它试剂来进行。</span><span class="english">Decalcification can be performed by using acid or other agents.</span></p>
 
 <p><span class="chinese">中上鼻道息肉可以引起邻近骨质吸收脱钙。</span><span class="english">Poly ps in superior and middle meatus may cause bone absorption and decalcification.</span></p>

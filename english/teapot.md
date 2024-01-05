@@ -1,5 +1,7 @@
 # teapot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teapot.md)
+
 <p><span class="chinese">别把壶里的茶滗干了。</span><span class="english">Don't drain the teapot dry.</span></p>
 
 <p><span class="chinese">这把荼壶倒起来不太方便。</span><span class="english">This teapot doesn't pour very well.</span></p>

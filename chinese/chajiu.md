@@ -1,5 +1,7 @@
 # 查究
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chajiu.md)
+
 <p><span class="chinese">他们曾查究此事。</span><span class="english">They inquired into the matter.</span></p>
 
 <p><span class="chinese">她对这个秘密查究线索。</span><span class="english">She searched about for clues to the mystery.</span></p>

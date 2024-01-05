@@ -1,5 +1,7 @@
 # 铸石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushi_6.md)
+
 <p><span class="chinese">铸石是一种新型工业材料。</span><span class="english">The cast stone is a new type of manufacturing material.</span></p>
 
 <p><span class="chinese">镁矿，盐矿，溴矿，压电水晶，铸石用玄武岩。</span><span class="english">Magnesium mine, salt mine, Bromine mine, Piezoelectric Crystal.</span></p>

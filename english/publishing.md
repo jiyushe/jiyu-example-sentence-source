@@ -1,5 +1,7 @@
 # publishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/publishing.md)
+
 <p><span class="chinese">我们是一家出版公司。</span><span class="english">We are a publishing company.</span></p>
 
 <p><span class="chinese">今天，我们每个人都在出版。</span><span class="english">Publishing today iswhat we all do.</span></p>

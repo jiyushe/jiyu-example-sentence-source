@@ -1,5 +1,7 @@
 # 诞辰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danchen.md)
+
 <p><span class="chinese">木曜日是我的诞辰。</span><span class="english">Thursday will be my birthday.</span></p>
 
 <p><span class="chinese">狮子座。，是你的诞辰，合击。</span><span class="english">Go Leo its your bisexualrtday.</span></p>

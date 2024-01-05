@@ -1,5 +1,7 @@
 # 牛栏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niulan.md)
+
 <p><span class="chinese">小母牛在牛栏里吼叫。</span><span class="english">A heifer bellowed in her stall.</span></p>
 
 <p><span class="chinese">后来，有了牛栏山酒厂。</span><span class="english">Later, had kraal mountain brewery.</span></p>

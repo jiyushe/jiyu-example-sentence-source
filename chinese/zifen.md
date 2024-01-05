@@ -1,5 +1,7 @@
 # 自焚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zifen.md)
+
 <p><span class="chinese">玩火者必自焚。</span><span class="english">He who plays with fire gets burned.</span></p>
 
 <p><span class="chinese">玩火者必自焚。</span><span class="english">Whoever plays with fire gets burnt.</span></p>

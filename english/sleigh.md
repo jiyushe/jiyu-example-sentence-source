@@ -1,5 +1,7 @@
 # sleigh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleigh.md)
+
 <p><span class="chinese">“只马无蓬”的雪橇。</span><span class="english">In a one-horse open sleigh.</span></p>
 
 <p><span class="chinese">他有雪橇还有驯鹿。</span><span class="english">He has a sleigh and reindeers.</span></p>

@@ -1,5 +1,7 @@
 # alight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alight.md)
+
 <p><span class="chinese">鸟飞下来停在─条细树枝上。</span><span class="english">The bird alight on a twig.</span></p>
 
 <p><span class="chinese">屋子里点着蜡烛，亮堂堂的。</span><span class="english">The house was alight with candles.</span></p>

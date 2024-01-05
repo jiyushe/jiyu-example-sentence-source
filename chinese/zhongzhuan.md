@@ -1,5 +1,7 @@
 # 中专
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhuan.md)
+
 <p><span class="chinese">英语培训，中专非学历教育。</span><span class="english">English training school non-academic education.</span></p>
 
 <p><span class="chinese">七是加强中专学生情商的自我训练。</span><span class="english">Finally, they should strengthen self-training of EQ.</span></p>

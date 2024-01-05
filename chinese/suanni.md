@@ -1,5 +1,7 @@
 # 蒜泥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanni.md)
+
 <p><span class="chinese">因此蒜泥蛋黄酱的种类将是无穷无尽的。</span><span class="english">So the number of types of aioli is infinite.</span></p>
 
 <p><span class="chinese">将白切肉片蘸蒜泥汁食用。</span><span class="english">Serve cold sliced pork with garlic soya sauce as a dip.</span></p>

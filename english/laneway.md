@@ -1,5 +1,7 @@
 # laneway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laneway.md)
+
 <p><span class="chinese">他小心的开到那条长长的小路上去。</span><span class="english">He drove up the long laneway with care.</span></p>
 
 <p><span class="chinese">而矿井巷道就是受限空间的一个典型代表。</span><span class="english">And the coal mine laneway is a typical representation of the confined space.</span></p>

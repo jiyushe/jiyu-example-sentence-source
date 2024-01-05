@@ -1,5 +1,7 @@
 # gangland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gangland.md)
+
 <p><span class="chinese">她创作了十部以伦敦黑社会为背景的畅销小说。</span><span class="english">She is the bestselling author of ten novels set in London's gangland.</span></p>
 
 <p><span class="chinese">黑社会性质犯罪是有组织犯罪的一种表现形式。</span><span class="english">The crime of gangland owns its organization, which was caused by many reasons.</span></p>

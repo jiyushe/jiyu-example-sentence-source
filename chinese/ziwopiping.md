@@ -1,5 +1,7 @@
 # 自我批评
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwopiping.md)
+
 <p><span class="chinese">没有能像我们一样自我批评的俱乐部。</span><span class="english">No other club is self-critical like us.</span></p>
 
 <p><span class="chinese">我们应该实行批评与自我批评。</span><span class="english">We should practice criticism and selfcriticism.</span></p>

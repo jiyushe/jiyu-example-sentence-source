@@ -1,5 +1,7 @@
 # 喳喳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhazha.md)
+
 <p><span class="chinese">小鸟吱吱喳喳地叫着。</span><span class="english">The birds are chirping.</span></p>
 
 <p><span class="chinese">女孩喳喳地叫起来，“有一个间谍来买我的土豆了。</span><span class="english">I've a spy buying my tomatoes!</span></p>

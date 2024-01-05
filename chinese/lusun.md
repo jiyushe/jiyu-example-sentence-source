@@ -1,5 +1,7 @@
 # 芦笋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lusun.md)
+
 <p><span class="chinese">我不乐爱吃芦笋。</span><span class="english">I don't like asparagus.</span></p>
 
 <p><span class="chinese">用烟肉把芦笋捲起。</span><span class="english">Use bacon to roll asparagus.</span></p>

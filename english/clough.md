@@ -1,5 +1,7 @@
 # clough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clough.md)
+
 <p><span class="chinese">但是不管怎样，我非常喜欢这个球员。</span><span class="english">But I liked Nigel Clough as a player.</span></p>
 
 <p><span class="chinese">阿纳协会因成为“校长克劳夫的哈巴狗”而受到指责。</span><span class="english">ANAK was accused of being "the lapdog of President Clough".</span></p>

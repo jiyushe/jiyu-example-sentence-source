@@ -1,5 +1,7 @@
 # heresy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heresy.md)
+
 <p><span class="chinese">或至少是屈从于某种异端学说？</span><span class="english">Or at least some heresy?</span></p>
 
 <p><span class="chinese">所有的这些都是异端邪说。</span><span class="english">All this is grand heresy.</span></p>

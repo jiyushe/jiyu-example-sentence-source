@@ -1,5 +1,7 @@
 # 锦上添花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshangtianhua.md)
+
 <p><span class="chinese">恶魔崇拜的思想狂潮只不过让其销量锦上添花而已。</span><span class="english">A moral panic about devil-worship only drove sales higher.</span></p>
 
 <p><span class="chinese">加了工资还有工资照发的假期，真是锦上添花。</span><span class="english">A free vacation on top of a pay raise is icing on the cake.</span></p>

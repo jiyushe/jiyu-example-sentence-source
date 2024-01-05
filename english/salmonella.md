@@ -1,5 +1,7 @@
 # salmonella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salmonella.md)
+
 <p><span class="chinese">沙门氏菌是如何污染食物的？</span><span class="english">How does Salmonella get into foods?</span></p>
 
 <p><span class="chinese">你能在食物中闻见或看见沙门氏菌。</span><span class="english">You can't smell or see Salmonella in or on food.</span></p>

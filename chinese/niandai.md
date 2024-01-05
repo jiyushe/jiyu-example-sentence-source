@@ -1,5 +1,7 @@
 # 年代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niandai.md)
+
 <p><span class="chinese">在30年代的事。</span><span class="english">This was in the 30s.</span></p>
 
 <p><span class="chinese">这是一个个性张扬的年代。</span><span class="english">This is a personalism age.</span></p>

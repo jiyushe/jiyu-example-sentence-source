@@ -1,5 +1,7 @@
 # columbarium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/columbarium.md)
+
 <p><span class="chinese">请问你有没有到过骨灰龛场的经验?。</span><span class="english">Have you ever been to columbarium?</span></p>
 
 <p><span class="chinese">请问你对香港的骨灰龛场供应有何意见?。</span><span class="english">Supply of columbarium in Hong Kong, what do you think?</span></p>

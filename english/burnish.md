@@ -1,5 +1,7 @@
 # burnish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burnish.md)
+
 <p><span class="chinese">人造大理石透明度不好，而且没有光泽。</span><span class="english">Scagliola diaphaneity is bad, and without burnish.</span></p>
 
 <p><span class="chinese">大部分人是希望在这里能赚取足够的钱，并且给自己的履历表添光加彩。</span><span class="english">Most expect to make good money and burnish their curricula vitae.</span></p>

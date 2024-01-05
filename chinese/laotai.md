@@ -1,5 +1,7 @@
 # 老太
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laotai.md)
+
 <p><span class="chinese">入地铁后，见到的一位老太。</span><span class="english">The old woman in the subway.</span></p>
 
 <p><span class="chinese">什么字母对于耳背的老太尤其珍贵？</span><span class="english">What letter is most precious for a deaf old lady?</span></p>

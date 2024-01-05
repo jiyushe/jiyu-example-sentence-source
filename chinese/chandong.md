@@ -1,5 +1,7 @@
 # 颤动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chandong.md)
+
 <p><span class="chinese">柳树转白，山杨颤动著。</span><span class="english">Willows whiten, aspens quiver.</span></p>
 
 <p><span class="chinese">她忍俊不禁地颤动着嘴唇。</span><span class="english">Her lips twitched with amusement.</span></p>

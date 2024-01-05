@@ -1,5 +1,7 @@
 # 血案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuean_1.md)
+
 <p><span class="chinese">一般称这个血案为“一二一惨案”。</span><span class="english">This became known as the Tsinan Massacre.</span></p>
 
 <p><span class="chinese">惊天血案震惊了全国。</span><span class="english">The startled day murder case has shocked the nation.</span></p>

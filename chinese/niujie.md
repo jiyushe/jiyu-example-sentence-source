@@ -1,5 +1,7 @@
 # 扭结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niujie.md)
+
 <p><span class="chinese">且皆为“党籍”之家后裔，这是其深层感情相扭结的真谛所在。</span><span class="english">All this is the true meaning of their deep twisting feelings.</span></p>
 
 <p><span class="chinese">同时DNA发生构象变化、螺旋扭结。</span><span class="english">Moreover, the conformation of DNA changes and the helices are kinked.</span></p>

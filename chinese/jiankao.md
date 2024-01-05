@@ -1,5 +1,7 @@
 # 监考
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiankao.md)
+
 <p><span class="chinese">我今天监考了两科。</span><span class="english">I invigilate two subjects today.</span></p>
 
 <p><span class="chinese">今年，我不用监考。</span><span class="english">I shouldn't invigilate this year.</span></p>

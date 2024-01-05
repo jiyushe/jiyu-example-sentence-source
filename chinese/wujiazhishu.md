@@ -1,5 +1,7 @@
 # 物价指数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujiazhishu.md)
+
 <p><span class="chinese">他们的养老金随物价指数浮动。</span><span class="english">Their pensions are index-linked.</span></p>
 
 <p><span class="chinese">从去年开始物价指数就一直在迅速上升。</span><span class="english">The price index has been kiting since last year.</span></p>

@@ -1,5 +1,7 @@
 # trigger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trigger.md)
+
 <p><span class="chinese">是什么引发的闪回？</span><span class="english">What is the trigger?</span></p>
 
 <p><span class="chinese">他扣动扳机。</span><span class="english">He pulled the trigger.</span></p>

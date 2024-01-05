@@ -1,5 +1,7 @@
 # recertification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recertification.md)
+
 <p><span class="chinese">有关详细信息，请进入思科关于重新认证页面。</span><span class="english">For more information, access the Cisco About Recertification page.</span></p>
 
 <p><span class="chinese">认证要求的修订是由每一个IBM认证主办者指定的。</span><span class="english">Recertification requirements are specified by each IBM sponsor of the certification.</span></p>

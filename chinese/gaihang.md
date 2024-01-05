@@ -1,5 +1,7 @@
 # 改行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaihang.md)
+
 <p><span class="chinese">改行当消防员和快餐厨师？</span><span class="english">To just become firemen and short-order cooks?</span></p>
 
 <p><span class="chinese">所有人都催促我改行，所以我改行了。</span><span class="english">Everybody urged me to change professions so I did.</span></p>

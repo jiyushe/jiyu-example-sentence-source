@@ -1,5 +1,7 @@
 # shelving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shelving.md)
+
 <p><span class="chinese">我给他讲图书架的杜威十字分类法。</span><span class="english">I told him about the Dewey Decimal System for shelving books.</span></p>
 
 <p><span class="chinese">他从Sucre那里接过绳子，绑在附近的一组架子上。</span><span class="english">He takes the rope from Sucre and they tie it to a nearby shelving unit.</span></p>

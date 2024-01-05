@@ -1,5 +1,7 @@
 # transgression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transgression.md)
+
 <p><span class="chinese">这里的海蚀现象很严重。</span><span class="english">The transgression is very serious here.</span></p>
 
 <p><span class="chinese">求你叫我知道我的过犯与罪愆。</span><span class="english">make me to know my transgression and my sin.</span></p>

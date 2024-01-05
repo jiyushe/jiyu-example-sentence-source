@@ -1,5 +1,7 @@
 # unequaled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unequaled.md)
+
 <p><span class="chinese">他以无比的勇气面对他的敌人。</span><span class="english">He faced his enemy with unequaled courage.</span></p>
 
 <p><span class="chinese">无可匹敌的选择新的和二手设备。</span><span class="english">Unequaled selection of both new and used equipment.</span></p>

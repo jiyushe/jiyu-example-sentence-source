@@ -1,5 +1,7 @@
 # susan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/susan.md)
+
 <p><span class="chinese">苏珊与南锡在一起。</span><span class="english">Susan was with Nancy.</span></p>
 
 <p><span class="chinese">落款是“苏珊”。</span><span class="english">It was signed "Susan."</span></p>

@@ -1,5 +1,7 @@
 # 缩回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suohui_1.md)
+
 <p><span class="chinese">敌人缩回去了。</span><span class="english">The enemy has drawn back.</span></p>
 
 <p><span class="chinese">她把手缩回去，笑了笑。</span><span class="english">She pulls back and smiles.</span></p>

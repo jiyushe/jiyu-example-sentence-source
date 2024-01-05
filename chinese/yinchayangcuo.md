@@ -1,5 +1,7 @@
 # 阴差阳错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinchayangcuo.md)
+
 <p><span class="chinese">傅柔阴差阳错下进入皇宫，成为司织女官。</span><span class="english">Soft yee fu enter the palace, become a female officer.</span></p>
 
 <p><span class="chinese">然而，罪犯取出了错误的器官，阴差阳错地吃掉了他狱友的肺。</span><span class="english">However, the man removed the wrong organ, and ate his lung by mistake.</span></p>

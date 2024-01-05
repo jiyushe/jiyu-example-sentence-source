@@ -1,5 +1,7 @@
 # screenwriter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screenwriter.md)
+
 <p><span class="chinese">墨菲于2007年与英国编剧西蒙·曼杰克结婚。</span><span class="english">Murphy married British screenwriter Simon Monjack in 2007.</span></p>
 
 <p><span class="chinese">由作者马克。鲍顿和电影剧本改编肯。诺兰的评论。</span><span class="english">Commentary by author Mark Bowden and screenwriter Ken Nolan.</span></p>

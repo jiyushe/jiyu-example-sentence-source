@@ -1,5 +1,7 @@
 # 太医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyi_1.md)
+
 <p><span class="chinese">太医当场把事情经过告诉给了重病在身的皇后。</span><span class="english">Cure too much on the spot to get things through to the ill queen.</span></p>
 
 <p><span class="chinese">宋代太医局医学教育经过长期发展，制度已经相对完善。</span><span class="english">Over a long period of development, the system has relatively improved.</span></p>

@@ -1,5 +1,7 @@
 # hangar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hangar.md)
+
 <p><span class="chinese">机场的飞机库是新油漆过的。</span><span class="english">The airport hangar was freshly painted.</span></p>
 
 <p><span class="chinese">俱乐部把直升机储藏在飞机库里。</span><span class="english">The club stores helicopters in this hangar.</span></p>

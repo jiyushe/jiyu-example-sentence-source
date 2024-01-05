@@ -1,5 +1,7 @@
 # 泄气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieqi.md)
+
 <p><span class="chinese">约翰·阿德勒有些泄气。</span><span class="english">John Adler was frustrated.</span></p>
 
 <p><span class="chinese">当时我再泄气不过了。</span><span class="english">I have never been more deflated.</span></p>

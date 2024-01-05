@@ -1,5 +1,7 @@
 # strapped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strapped.md)
+
 <p><span class="chinese">你的手提箱捆好了吗?</span><span class="english">Are your suitcases strapped up?</span></p>
 
 <p><span class="chinese">他用一根布带捆扎手臂。</span><span class="english">He strapped his arm with a cloth strap.</span></p>

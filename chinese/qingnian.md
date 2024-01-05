@@ -1,5 +1,7 @@
 # 青年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingnian.md)
+
 <p><span class="chinese">回到青年旅舍。</span><span class="english">Return to youth hostel.</span></p>
 
 <p><span class="chinese">有前途的青年钢琴家。</span><span class="english">He desisted of the future.</span></p>

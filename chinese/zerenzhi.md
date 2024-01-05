@@ -1,5 +1,7 @@
 # 责任制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zerenzhi.md)
+
 <p><span class="chinese">坎波斯是员工责任制的强烈支持者。</span><span class="english">Campos is a strong proponent of employee accountability.</span></p>
 
 <p><span class="chinese">这就是管理工作和责任制的意义。</span><span class="english">This is what is meant by stewardship and accountability.</span></p>

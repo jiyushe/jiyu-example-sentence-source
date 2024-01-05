@@ -1,5 +1,7 @@
 # roscoe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roscoe.md)
+
 <p><span class="chinese">罗斯科李布朗叙述。</span><span class="english">Narrated by Roscoe Lee Browne.</span></p>
 
 <p><span class="chinese">一位是参议员罗斯科·康克林。</span><span class="english">One was Senator Roscoe Conkling.</span></p>

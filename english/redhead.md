@@ -1,5 +1,7 @@
 # redhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redhead.md)
+
 <p><span class="chinese">他与一个漂亮的红发女郎结婚了。</span><span class="english">He married a beautiful redhead.</span></p>
 
 <p><span class="chinese">那个红发女郎像汤姆的前妻一样招人。</span><span class="english">That redhead is as hot as Tom's ex-wife.</span></p>

@@ -1,5 +1,7 @@
 # 校花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohua.md)
+
 <p><span class="chinese">苗条的校花。</span><span class="english">Slender school flower.</span></p>
 
 <p><span class="chinese">来出席校花校草总决赛！</span><span class="english">Come witness the Hey Gorgeous Grand Final!</span></p>

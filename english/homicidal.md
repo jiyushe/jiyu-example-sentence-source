@@ -1,5 +1,7 @@
 # homicidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homicidal.md)
+
 <p><span class="chinese">她的手，是杀人的。</span><span class="english">Her hand is homicidal.</span></p>
 
 <p><span class="chinese">有自杀或者行凶的冲动。</span><span class="english">Suicidal or homicidal urges.</span></p>

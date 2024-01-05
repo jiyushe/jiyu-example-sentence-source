@@ -1,5 +1,7 @@
 # 鹅蛋脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/edanlian.md)
+
 <p><span class="chinese">他有张鹅蛋脸。</span><span class="english">He has an oval face.</span></p>
 
 <p><span class="chinese">但是有些鹅蛋脸从一边看上去越看越长。</span><span class="english">However, some oval faces tend to be on thelong side.</span></p>

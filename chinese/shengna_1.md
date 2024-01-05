@@ -1,5 +1,7 @@
 # 声纳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengna_1.md)
+
 <p><span class="chinese">像蝙蝠一样的声纳追踪风速变化</span><span class="english">Bat-Like Sonar Tracks Wind Speeds</span></p>
 
 <p><span class="chinese">有人研究过纳米声纳没？</span><span class="english">Has anyone looked into nano-sonar?</span></p>

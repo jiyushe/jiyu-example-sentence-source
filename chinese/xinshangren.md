@@ -1,5 +1,7 @@
 # 心上人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshangren.md)
+
 <p><span class="chinese">我真渴望见到心上人。</span><span class="english">I'm dying to see my sweetheart.</span></p>
 
 <p><span class="chinese">我的心上人，情人节快乐!</span><span class="english">Happy Valentine's Day! Sweetheart.</span></p>

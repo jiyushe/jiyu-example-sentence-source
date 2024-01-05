@@ -1,5 +1,7 @@
 # haida
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haida.md)
+
 <p><span class="chinese">我们希望海达成为客户的合作伙伴和第一选择。</span><span class="english">We hope that the Haida can become partners and customers first choice.</span></p>
 
 <p><span class="chinese">我们希望，海达电子成为技术领域内的先锋，也成为市场服务的先锋。</span><span class="english">We hope that the Haida Electronics is the pioneer in the field of technology, market services have become the vanguard.</span></p>

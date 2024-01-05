@@ -1,5 +1,7 @@
 # monday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monday.md)
+
 <p><span class="chinese">下星期一。</span><span class="english">Next Monday.</span></p>
 
 <p><span class="chinese">星期一怎么样？</span><span class="english">How about Monday?</span></p>

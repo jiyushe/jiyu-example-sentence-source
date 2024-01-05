@@ -1,5 +1,7 @@
 # mayest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mayest.md)
+
 <p><span class="chinese">自己有马后，才可向别人借马。</span><span class="english">Have a horse of thine own and thou mayest borrow another.</span></p>
 
 <p><span class="chinese">自己有马后，才可向他人借马。</span><span class="english">Have a horse of thine own and thou mayest receive another.</span></p>

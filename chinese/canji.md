@@ -1,5 +1,7 @@
 # 残疾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canji.md)
+
 <p><span class="chinese">对嫉恨舞者的残疾呢？</span><span class="english">What of the cripple who hates dancers?</span></p>
 
 <p><span class="chinese">王涣生是身有残疾的年老人。描写。</span><span class="english">Wang Huansheng is a person with helpicap.</span></p>

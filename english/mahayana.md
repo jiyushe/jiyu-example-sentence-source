@@ -1,5 +1,7 @@
 # mahayana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mahayana.md)
+
 <p><span class="chinese">大乘涅磐佛经发现了涅磐。</span><span class="english">Mahayana Nirvana sutra find out about Nirvana.</span></p>
 
 <p><span class="chinese">对涅槃的理解写在大乘经典上。</span><span class="english">Writing on this Mahayana understanding of Nirvana.</span></p>

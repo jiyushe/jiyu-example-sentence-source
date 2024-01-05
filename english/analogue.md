@@ -1,5 +1,7 @@
 # analogue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analogue.md)
+
 <p><span class="chinese">虚拟相似体切换点?。</span><span class="english">VASP? Virtual Analogue Switching Point?</span></p>
 
 <p><span class="chinese">现存的最接近的类似物或许是海绵。</span><span class="english">The closest living analogue might be a sponge.</span></p>

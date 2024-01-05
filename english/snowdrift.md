@@ -1,5 +1,7 @@
 # snowdrift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowdrift.md)
+
 <p><span class="chinese">我的车陷在雪堆里了。</span><span class="english">My car's stuck in a snowdrift.</span></p>
 
 <p><span class="chinese">该死的汽车陷在雪堆里了。</span><span class="english">The dad-blamed car got stuck in a snowdrift.</span></p>

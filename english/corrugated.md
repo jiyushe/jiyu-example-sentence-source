@@ -1,5 +1,7 @@
 # corrugated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corrugated.md)
+
 <p><span class="chinese">是瓦楞形硬纸箱.</span><span class="english">Yes, corrugated cardboard boxes.</span></p>
 
 <p><span class="chinese">低劣的生锈金属波纹纹理。</span><span class="english">Grungy Rusted Corrugated Metal Texture.</span></p>

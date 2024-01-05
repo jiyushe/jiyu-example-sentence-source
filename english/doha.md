@@ -1,5 +1,7 @@
 # doha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doha.md)
+
 <p><span class="chinese">所以，为什么不重启多哈？</span><span class="english">So, why not revive Doha?</span></p>
 
 <p><span class="chinese">恪守多哈的时间表。</span><span class="english">Keep to the Doha timetable.</span></p>

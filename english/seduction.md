@@ -1,5 +1,7 @@
 # seduction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seduction.md)
+
 <p><span class="chinese">一种诱奸还是一个战争宣告的仪式？</span><span class="english">A ritual of seduction or a war declaration?</span></p>
 
 <p><span class="chinese">我太累了，光是睡觉这个词都变地那么诱人。</span><span class="english">I am so tired.Even the word sleep is a lure, a seduction.</span></p>

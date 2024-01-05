@@ -1,5 +1,7 @@
 # 绵羊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianyang.md)
+
 <p><span class="chinese">别再数绵羊啦！</span><span class="english">No more sheep!</span></p>
 
 <p><span class="chinese">狼群撕咬绵羊。</span><span class="english">Wolves worry the sheep.</span></p>

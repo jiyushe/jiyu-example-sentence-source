@@ -1,5 +1,7 @@
 # 糊里糊涂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hulihutu.md)
+
 <p><span class="chinese">他总是糊里糊涂的。</span><span class="english">He always goofs off.</span></p>
 
 <p><span class="chinese">我的脑子糊里糊涂的。</span><span class="english">My brain's in a fuddle.</span></p>

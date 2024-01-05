@@ -1,5 +1,7 @@
 # hydrotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrotherapy.md)
+
 <p><span class="chinese">水疗法可以确实缓解部分疼痛。</span><span class="english">Hydrotherapy can definitely ease the pain somewhat.</span></p>
 
 <p><span class="chinese">水疗法是一种方法治疗疾病，通过水的使用。</span><span class="english">Hydrotherapy is one method of treating a disease through the use of water.</span></p>

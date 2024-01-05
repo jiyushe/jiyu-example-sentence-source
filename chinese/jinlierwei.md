@@ -1,5 +1,7 @@
 # 尽力而为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinlierwei.md)
+
 <p><span class="chinese">他总是尽力而为.</span><span class="english">He always does his best.</span></p>
 
 <p><span class="chinese">尽力而为，然后随缘。</span><span class="english">Do your best and then let go.</span></p>

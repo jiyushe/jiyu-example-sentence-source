@@ -1,5 +1,7 @@
 # midas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midas.md)
+
 <p><span class="chinese">他的名字是迈达斯。</span><span class="english">His name was Midas.</span></p>
 
 <p><span class="chinese">他拥有迈达斯的点金术。</span><span class="english">He has the Midas touch.</span></p>

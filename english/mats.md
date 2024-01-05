@@ -1,5 +1,7 @@
 # mats
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mats.md)
+
 <p><span class="chinese">体操垫。</span><span class="english">Gymnastics mats.</span></p>
 
 <p><span class="chinese">日本人席地而坐。</span><span class="english">The Japanese sit on mats.</span></p>

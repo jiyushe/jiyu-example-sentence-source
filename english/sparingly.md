@@ -1,5 +1,7 @@
 # sparingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparingly.md)
+
 <p><span class="chinese">有节制的使用脂油。</span><span class="english">Use fats sparingly.</span></p>
 
 <p><span class="chinese">谨慎地使用副词。</span><span class="english">Use adverbs sparingly.</span></p>

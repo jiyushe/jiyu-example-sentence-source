@@ -1,5 +1,7 @@
 # identified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/identified.md)
+
 <p><span class="chinese">我们来听辨一下旋律。</span><span class="english">We've identified the melody.</span></p>
 
 <p><span class="chinese">她支持我们的计划。</span><span class="english">She is identified with our plans.</span></p>

@@ -1,5 +1,7 @@
 # profitability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profitability.md)
+
 <p><span class="chinese">关注单位利润率。</span><span class="english">Think in terms of per-unit profitability.</span></p>
 
 <p><span class="chinese">他们不明白盈利能力为什么很重要。</span><span class="english">They do not see why profitability matters.</span></p>

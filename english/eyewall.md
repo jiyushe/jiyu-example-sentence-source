@@ -1,5 +1,7 @@
 # eyewall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyewall.md)
+
 <p><span class="chinese">眼强周围的云层是在地球上飓风的特色之一。</span><span class="english">Eyewall clouds are a distinguishing feature of hurricanes on Earth.</span></p>
 
 <p><span class="chinese">最强最快的风在飓风的眼壁处。</span><span class="english">The strongest, fastest winds of a hurricane are found in the eyewall.</span></p>

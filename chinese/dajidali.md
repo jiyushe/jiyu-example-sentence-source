@@ -1,5 +1,7 @@
 # 大吉大利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajidali.md)
+
 <p><span class="chinese">祝您全家大吉大利。</span><span class="english">Good luck to you and your family.</span></p>
 
 <p><span class="chinese">祝你新年大吉大利！</span><span class="english">Wish you good luck in the New Year!</span></p>

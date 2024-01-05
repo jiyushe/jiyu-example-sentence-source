@@ -1,5 +1,7 @@
 # money 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/money.md)
+
 <p><span class="chinese">换钱吗？</span><span class="english">Change money?</span></p>
 
 <p><span class="chinese">钱能生钱。</span><span class="english">Money begets.</span></p>

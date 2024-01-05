@@ -1,5 +1,7 @@
 # 弹性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanxing.md)
+
 <p><span class="chinese">滞弹性变形。</span><span class="english">Anelastic deformation.</span></p>
 
 <p><span class="chinese">橡皮管有弹性。</span><span class="english">The rubber tubes resile.</span></p>

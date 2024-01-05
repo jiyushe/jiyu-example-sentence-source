@@ -1,5 +1,7 @@
 # prelude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prelude.md)
+
 <p><span class="chinese">这是一个战争前奏？</span><span class="english">Is this a prelude to War ?</span></p>
 
 <p><span class="chinese">但所有的这些不过是前奏。</span><span class="english">Yet it was all simply prelude.</span></p>

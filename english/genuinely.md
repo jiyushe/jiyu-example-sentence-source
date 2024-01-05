@@ -1,5 +1,7 @@
 # genuinely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genuinely.md)
+
 <p><span class="chinese">他十分的好奇。</span><span class="english">He’s genuinely curious.</span></p>
 
 <p><span class="chinese">但“纳米细菌”是否真正存在呢？</span><span class="english">But are 'nanobacteria' genuinely alive?</span></p>

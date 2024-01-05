@@ -1,5 +1,7 @@
 # redeploy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redeploy.md)
+
 <p><span class="chinese">现在我想略微进行一些更改，然后重新部署应用程序。</span><span class="english">Now I'd like to make a slight change and redeploy the application.</span></p>
 
 <p><span class="chinese">将以每个月一到两个旅的速度重新部署美国军队。</span><span class="english">Would redeploy U.S. troops at a pace of one to two brigades a month.</span></p>

@@ -1,5 +1,7 @@
 # visit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visit.md)
+
 <p><span class="chinese">让我们去拜访他们吧。</span><span class="english">Let’s go visit them.</span></p>
 
 <p><span class="chinese">我常常去拜访他。</span><span class="english">I visit him regularly.</span></p>

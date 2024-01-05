@@ -1,5 +1,7 @@
 # immunogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunogenic.md)
+
 <p><span class="chinese">小鼠黑色素瘤B16-F1细胞株是弱免疫原性癌细胞株。</span><span class="english">Mouse melanoma B16-F1 cell line is low immunogenic.</span></p>
 
 <p><span class="chinese">中和试验结果表明，LP株是一免疫原性强的CDV株。</span><span class="english">LP strain was proved by SN test to be a high immunogenic CDV strain.</span></p>

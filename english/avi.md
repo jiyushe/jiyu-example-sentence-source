@@ -1,5 +1,7 @@
 # avi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avi.md)
+
 <p><span class="chinese">ZEE阿维次两件乐器，吉他和夏威夷四弦琴。</span><span class="english">Zee Avi plays two instruments, the guitar and the ukulele.</span></p>
 
 <p><span class="chinese">阿维曾经到过训练场一个星期，他是一个好人。</span><span class="english">Avi had been over for a week at the training ground and is a lovely man.</span></p>

@@ -1,5 +1,7 @@
 # 尚且
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangqie.md)
+
 <p><span class="chinese">高保真立体声系统，设计时尚且有创意。</span><span class="english">Hi-fi stereo sound in a fashionable and innovative design.</span></p>
 
 <p><span class="chinese">小小的蝉儿尚且如此，人又启能无所事事虚度年华？</span><span class="english">Small Chaner like this, people are able to idle idle away Kai?</span></p>

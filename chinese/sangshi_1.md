@@ -1,5 +1,7 @@
 # 丧失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangshi_1.md)
+
 <p><span class="chinese">难道一切都毫无疑问地丧失殆尽了吗？</span><span class="english">Surely all is lost?</span></p>
 
 <p><span class="chinese">丧失工作能力者。</span><span class="english">Loosing ability to work.</span></p>

@@ -1,5 +1,7 @@
 # martin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/martin.md)
+
 <p><span class="chinese">马丁路德去世。</span><span class="english">Martin Luther died.</span></p>
 
 <p><span class="chinese">豌豆是马丁的大爱！</span><span class="english">Martin loves his peas!</span></p>

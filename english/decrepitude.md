@@ -1,5 +1,7 @@
 # decrepitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decrepitude.md)
+
 <p><span class="chinese">经常运动锻炼，可延缓衰老。</span><span class="english">Frequent exercising can defer the decrepitude.</span></p>
 
 <p><span class="chinese">芬利相对就预示着逐渐衰老的马刺。</span><span class="english">Finley's relative decrepitude bodes ill for the Spurs.</span></p>

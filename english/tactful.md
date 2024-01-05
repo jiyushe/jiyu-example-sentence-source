@@ -1,5 +1,7 @@
 # tactful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tactful.md)
+
 <p><span class="chinese">你委婉的作别，乘船离去。</span><span class="english">Your tactful to leave by boat.</span></p>
 
 <p><span class="chinese">我用得体的语言向他提出了批评。</span><span class="english">I couched criticism on him in tactful language.</span></p>

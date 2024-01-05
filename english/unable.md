@@ -1,5 +1,7 @@
 # unable 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unable.md)
+
 <p><span class="chinese">这位患者已到了帕金森病晚期，都已经无法行走了。</span><span class="english">He is unable to walk.</span></p>
 
 <p><span class="chinese">无法创建球体装置。</span><span class="english">Unable to create d3d device.</span></p>

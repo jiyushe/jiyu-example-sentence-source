@@ -1,5 +1,7 @@
 # 纬线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixian_1.md)
+
 <p><span class="chinese">一个纬纱是一根单纬线，故有此名。</span><span class="english">A pick is a single weft thread, hence the term.</span></p>
 
 <p><span class="chinese">这张地图甚至包含了经线和纬线。</span><span class="english">The map even includes lines of latitude and longitude.</span></p>

@@ -1,5 +1,7 @@
 # mask
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mask.md)
+
 <p><span class="chinese">那是他的一种掩饰。</span><span class="english">It was his mask.</span></p>
 
 <p><span class="chinese">什么样的面具？</span><span class="english">What kind of mask?</span></p>

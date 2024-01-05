@@ -1,5 +1,7 @@
 # spherule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spherule.md)
+
 <p><span class="chinese">小球体包含内生孢子。</span><span class="english">The spherule contains endospores.</span></p>
 
 <p><span class="chinese">另外，在鞋子上镶上一团毛茸茸的小球也是很时髦的妆扮哟…</span><span class="english">Additional, set on shoe on the spherule of posse shagginess also is very modern dress up oh.</span></p>

@@ -1,5 +1,7 @@
 # waxing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waxing.md)
+
 <p><span class="chinese">地板上蜡需要准备什么？</span><span class="english">How to prepare flooring for waxing?</span></p>
 
 <p><span class="chinese">我们什么时候给冲浪板上蜡？</span><span class="english">What time do we start waxing our boards?</span></p>

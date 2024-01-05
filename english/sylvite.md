@@ -1,5 +1,7 @@
 # sylvite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sylvite.md)
+
 <p><span class="chinese">探讨了硝酸钾盐的形成演化机理。</span><span class="english">Discussion is also made for the formation and evolution mechanism of sylvite nitrate.</span></p>
 
 <p><span class="chinese">罗布泊钾盐矿区地处气候极端干旱的塔里木盆地东部，区域范围内水资源极为贫乏。</span><span class="english">Lop Nur sylvite area lies in the east of Talim Basin that is very dry and poor in water resource.</span></p>

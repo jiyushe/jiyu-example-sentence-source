@@ -1,5 +1,7 @@
 # terror
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terror.md)
+
 <p><span class="chinese">龙翼小径化石场。</span><span class="english">Terror Wing Fossil Field.</span></p>
 
 <p><span class="chinese">一周后，更多的恐怖。</span><span class="english">A week later, more terror.</span></p>

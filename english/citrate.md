@@ -1,5 +1,7 @@
 # citrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citrate.md)
+
 <p><span class="chinese">从这个意义上讲，它类似于柠檬酸钠。</span><span class="english">In this sense, it is similar to sodium citrate.</span></p>
 
 <p><span class="chinese">枸橼酸芬太尼采用同样的方法海洛因。</span><span class="english">Fentanyl citrate is used in the same manner as heroin.</span></p>

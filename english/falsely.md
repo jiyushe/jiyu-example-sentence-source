@@ -1,5 +1,7 @@
 # falsely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falsely.md)
+
 <p><span class="chinese">有人冒领了那只手表。</span><span class="english">Somebody has falsely claimed the watch.</span></p>
 
 <p><span class="chinese">她为错误地咒骂他而道歉。</span><span class="english">She apologized for accusing him falsely.</span></p>

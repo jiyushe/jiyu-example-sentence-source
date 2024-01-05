@@ -1,5 +1,7 @@
 # competency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/competency.md)
+
 <p><span class="chinese">如何提高技能和领导能力？</span><span class="english">How can skill and leadership competency be developed?</span></p>
 
 <p><span class="chinese">我们有完成任务的技术和能力。</span><span class="english">We have the skill and competency to meet the challenge.</span></p>

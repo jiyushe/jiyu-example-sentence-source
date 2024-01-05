@@ -1,5 +1,7 @@
 # 微微
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwei_1.md)
+
 <p><span class="chinese">杰克微微一笑。</span><span class="english">Jake suppresses a smile.</span></p>
 
 <p><span class="chinese">双膝微微弯曲。</span><span class="english">Bend your knees slightly.</span></p>

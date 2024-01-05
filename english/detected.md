@@ -1,5 +1,7 @@
 # detected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detected.md)
+
 <p><span class="chinese">未检测到散热器。</span><span class="english">Heatsink was not detected.</span></p>
 
 <p><span class="chinese">警方侦查出一名间谍。</span><span class="english">The police detected a spy.</span></p>

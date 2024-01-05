@@ -1,5 +1,7 @@
 # 海派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haipai.md)
+
 <p><span class="chinese">新建的北安桥，是具有海派风格的桥梁。</span><span class="english">The new Bei An bridge is a western style bridge.</span></p>
 
 <p><span class="chinese">新海派生活，始于上海，超越上海。</span><span class="english">New shanghai life style, Started shanghai, beyond shanghai.</span></p>

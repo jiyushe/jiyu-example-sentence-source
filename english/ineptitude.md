@@ -1,5 +1,7 @@
 # ineptitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ineptitude.md)
+
 <p><span class="chinese">他曾经是埃里克松不称职的受害者，但他能为新教练带来很多。</span><span class="english">There are also several you can't, notably ineptitude and bad luck.</span></p>
 
 <p><span class="chinese">并非所有笑话都瞄着性和领导人的愚蠢。</span><span class="english">But not all jokes are about sex or the ineptitude of the leadership.</span></p>

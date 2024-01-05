@@ -1,5 +1,7 @@
 # 慢腾腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mantengteng.md)
+
 <p><span class="chinese">韩佳，我这怎么叫慢腾腾。</span><span class="english">No, I'm not being slow.</span></p>
 
 <p><span class="chinese">真是慢腾腾的一条河！</span><span class="english">What a sluggish stream!</span></p>

@@ -1,5 +1,7 @@
 # surname
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surname.md)
+
 <p><span class="chinese">我的全名是姜国强。</span><span class="english">My surname is Jiang.</span></p>
 
 <p><span class="chinese">你姓什么?</span><span class="english">What is your surname?</span></p>

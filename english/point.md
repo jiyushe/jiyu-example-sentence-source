@@ -1,5 +1,7 @@
 # point
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/point.md)
+
 <p><span class="chinese">比赛场点。</span><span class="english">Game point XX all.</span></p>
 
 <p><span class="chinese">但是我有一个点。</span><span class="english">But I have a point.</span></p>

@@ -1,5 +1,7 @@
 # yunnan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yunnan.md)
+
 <p><span class="chinese">云南白药等许许多多。</span><span class="english">Yunnan Baiyao, and so many.</span></p>
 
 <p><span class="chinese">昆明华洲大酒店欢迎您！</span><span class="english">Welcome to Huazhou Hotel Yunnan.</span></p>

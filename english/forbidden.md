@@ -1,5 +1,7 @@
 # forbidden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forbidden.md)
+
 <p><span class="chinese">禁果味甜。</span><span class="english">Forbidden fruit is sweet.</span></p>
 
 <p><span class="chinese">禁果最甜。</span><span class="english">Forbidden fruit is sweetest.</span></p>

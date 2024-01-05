@@ -1,5 +1,7 @@
 # 硝酸钾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaosuanjia.md)
+
 <p><span class="chinese">硝酸钾KNO3</span><span class="english">POTASSIUM NITRATE — KNO3</span></p>
 
 <p><span class="chinese">有可能出现盲目发展农用硝酸钾的现象。</span><span class="english">The Potassium nitrate for agriculture use is under restructuring.</span></p>

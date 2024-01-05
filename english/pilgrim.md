@@ -1,5 +1,7 @@
 # pilgrim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pilgrim.md)
+
 <p><span class="chinese">朝圣者们乘专机去麦加。</span><span class="english">He went to Mecca as a pilgrim.</span></p>
 
 <p><span class="chinese">其中一个问题是，咳咳，斯科特。</span><span class="english">One problem is, well, Scott Pilgrim.</span></p>

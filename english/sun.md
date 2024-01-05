@@ -1,5 +1,7 @@
 # sun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sun.md)
+
 <p><span class="chinese">太阳是什么？</span><span class="english">What is sun?</span></p>
 
 <p><span class="chinese">他是一个阳光男孩。</span><span class="english">He's a sun boy.</span></p>

@@ -1,5 +1,7 @@
 # crook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crook.md)
+
 <p><span class="chinese">他是个骗子。</span><span class="english">He is a crook.</span></p>
 
 <p><span class="chinese">测试武器补充，谢帕兹骗子。</span><span class="english">Test weapon added, shepards crook.</span></p>

@@ -1,5 +1,7 @@
 # retinol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retinol.md)
+
 <p><span class="chinese">为了抵抗肌肤老化和收缩毛孔，可以在晚上开始使用松香油。</span><span class="english">Start using retinol at night to fight aging and minimize pores.</span></p>
 
 <p><span class="chinese">结果全国平均每标准人日视黄醇当量摄入量为469。</span><span class="english">Results The average retinol equivalent intake in per day was 469.</span></p>

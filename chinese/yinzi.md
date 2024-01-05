@@ -1,5 +1,7 @@
 # 印子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzi.md)
+
 <p><span class="chinese">热杯子在桌上烫出了印子。</span><span class="english">The hot cups have marked the table.</span></p>
 
 <p><span class="chinese">是从笔尖划过的一条印子吗？</span><span class="english">It is a print of from a tip of stock across?</span></p>

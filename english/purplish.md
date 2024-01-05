@@ -1,5 +1,7 @@
 # purplish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purplish.md)
+
 <p><span class="chinese">颊部有紫蓝色斑点。</span><span class="english">Buccal have purplish blue stain.</span></p>
 
 <p><span class="chinese">花开到老时它们就变成棕紫色。</span><span class="english">As they age they turn purplish brown.</span></p>

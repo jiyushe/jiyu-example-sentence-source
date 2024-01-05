@@ -1,5 +1,7 @@
 # 油烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyan.md)
+
 <p><span class="chinese">锅底的油烟弄脏了我的裤子。</span><span class="english">The pot crocked my trousers.</span></p>
 
 <p><span class="chinese">最新的烹调油烟的优势？</span><span class="english">What's the advantage of COF ?</span></p>

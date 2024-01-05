@@ -1,5 +1,7 @@
 # 会话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huihua.md)
+
 <p><span class="chinese">一段会话。</span><span class="english">It is a conversation.</span></p>
 
 <p><span class="chinese">让我们在会话中创造一座城。</span><span class="english">Let us create a city in speech.</span></p>

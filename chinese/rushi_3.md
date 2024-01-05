@@ -1,5 +1,7 @@
 # 入室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushi_3.md)
+
 <p><span class="chinese">我使劲把那箱子拖入室内。</span><span class="english">I lugged the box into the room.</span></p>
 
 <p><span class="chinese">月光透过窗户泻入室内。</span><span class="english">The moonlight poured in through the windows.</span></p>

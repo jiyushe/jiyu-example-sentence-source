@@ -1,5 +1,7 @@
 # 奇趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqu.md)
+
 <p><span class="chinese">我们大多数人是不会享受到这种奇趣的。</span><span class="english">Most of us will never experence that exotic pleasure.</span></p>
 
 <p><span class="chinese">让我们向您展示由费德里科·奥特罗设计的奇趣茧状挂炉吧。</span><span class="english">Let us show you interesting Cocoon Fireplace by Federico Otero.</span></p>

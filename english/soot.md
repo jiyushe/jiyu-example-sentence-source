@@ -1,5 +1,7 @@
 # soot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soot.md)
+
 <p><span class="chinese">烟屑污染空气。</span><span class="english">Soot fouls the air.</span></p>
 
 <p><span class="chinese">排气管咳嗽烟尘。</span><span class="english">Tailpipes cough soot.</span></p>

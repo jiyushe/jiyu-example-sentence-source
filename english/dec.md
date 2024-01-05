@@ -1,5 +1,7 @@
 # dec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dec.md)
+
 <p><span class="chinese">这次火灾发生于1991年十二月二十三日的早晨。</span><span class="english">The fire broke out on the morning of Dec. 23, 1991.</span></p>
 
 <p><span class="chinese">哦，我在12月14号要去火奴鲁鲁参加马拉松。</span><span class="english">Oh, and I’m doing a marathon in Honolulu on Dec. 14!</span></p>

@@ -1,5 +1,7 @@
 # octahedron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octahedron.md)
+
 <p><span class="chinese">有八个正三角形面的八面体。</span><span class="english">An octahedron with eight equilateral triangles as faces.</span></p>
 
 <p><span class="chinese">八面体在浆池上方间歇性旋转。</span><span class="english">Octahedron slurry pond in the upper intermittent rotation.</span></p>

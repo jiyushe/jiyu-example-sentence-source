@@ -1,5 +1,7 @@
 # 在野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiye_1.md)
+
 <p><span class="chinese">我曾在野风呼啸的山地观看日落和晨曦。</span><span class="english">I have seen dawn and sunset on moors and windy hills.</span></p>
 
 <p><span class="chinese">在野性的狼嚎中，她认出了库泰格的声音。</span><span class="english">She recognizedKwuteg's voice above the wild wolf sounds.</span></p>

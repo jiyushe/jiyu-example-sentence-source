@@ -1,5 +1,7 @@
 # transcript
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcript.md)
+
 <p><span class="chinese">以下是他们的谈话记录。</span><span class="english">A transcript of their discussion follows.</span></p>
 
 <p><span class="chinese">誊本的讨论，很可怕。</span><span class="english">The transcript of the discussion is terrible.</span></p>

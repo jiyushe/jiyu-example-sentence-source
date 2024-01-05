@@ -1,5 +1,7 @@
 # 告状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaozhuang.md)
+
 <p><span class="chinese">让我们进一步观察滥告状的行为。</span><span class="english">Let's take a closer look at tattling.</span></p>
 
 <p><span class="chinese">为何不给「滥告状」一个新的称呼？</span><span class="english">Why not just give tattling a new name.</span></p>

@@ -1,5 +1,7 @@
 # bosh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bosh.md)
+
 <p><span class="chinese">迈阿密阵容中的三当家---波什。</span><span class="english">The third King in the Miami lineup, Chris Bosh.</span></p>
 
 <p><span class="chinese">“我不清楚詹姆斯是否会继续留在骑士，”波什说。</span><span class="english">"I wasn't sure if LeBron was coming back," Bosh said.</span></p>

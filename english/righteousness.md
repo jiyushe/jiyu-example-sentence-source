@@ -1,5 +1,7 @@
 # righteousness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/righteousness.md)
+
 <p><span class="chinese">正义使国家兴盛。</span><span class="english">Righteousness exalteth a nation.</span></p>
 
 <p><span class="chinese">舞剑表示正义。</span><span class="english">Swordplay to express righteousness.</span></p>

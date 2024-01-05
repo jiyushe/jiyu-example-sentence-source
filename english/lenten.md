@@ -1,5 +1,7 @@
 # lenten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lenten.md)
+
 <p><span class="chinese">四旬斋玫瑰，，或称东方嚏根草。</span><span class="english">The Lenten Rose, or Helleborus orientalis.</span></p>
 
 <p><span class="chinese">因此，我们要好好理解四旬斋的宗教含义。</span><span class="english">Read about the religious meanings of the Lenten Season.</span></p>

@@ -1,5 +1,7 @@
 # ionization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ionization.md)
+
 <p><span class="chinese">电离真空计。</span><span class="english">Ionization Vacuum Gauge.</span></p>
 
 <p><span class="chinese">第三项是离子化。</span><span class="english">And number three is ionization.</span></p>

@@ -1,5 +1,7 @@
 # 冻裂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donglie.md)
+
 <p><span class="chinese">寒冷的天气冻裂了他的双手。</span><span class="english">Cold weather chapped his hands.</span></p>
 
 <p><span class="chinese">他的手冻裂了。</span><span class="english">His hands are chapped by the cold.</span></p>

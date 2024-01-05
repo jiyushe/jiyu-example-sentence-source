@@ -1,5 +1,7 @@
 # archibald
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archibald.md)
+
 <p><span class="chinese">下面是Archibald，MacLeish的话。</span><span class="english">Here is Archibald MacLeish.</span></p>
 
 <p><span class="chinese">布朗大学的阿基保尔。</span><span class="english">Archibald of Brown University.</span></p>

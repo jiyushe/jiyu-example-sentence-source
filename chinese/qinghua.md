@@ -1,5 +1,7 @@
 # 情话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinghua.md)
+
 <p><span class="chinese">织在心里的情话你听见了吗？</span><span class="english">Woven in the heart words you hear?</span></p>
 
 <p><span class="chinese">轻吟一句情话，执笔一副情画。</span><span class="english">Sing a love words, Draw a love picture.</span></p>

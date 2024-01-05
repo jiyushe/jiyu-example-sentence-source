@@ -1,5 +1,7 @@
 # 有教无类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjiaowulei.md)
+
 <p><span class="chinese">像是我理应像孔子一样，有教无类，来者就教。</span><span class="english">I am not like Confucius who would teach any level regardless. I am sorry.</span></p>
 
 <p><span class="chinese">我们坚信有教无类，以配合学生个体需要和群体差异。</span><span class="english">We accommodate differences of students, adapt our work to meet individual needs and group differences.</span></p>

@@ -1,5 +1,7 @@
 # 替换
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tihuan.md)
+
 <p><span class="chinese">性别角色替换？</span><span class="english">Shifting gender roles?</span></p>
 
 <p><span class="chinese">文中真名均已替换。</span><span class="english">Names have been changed.</span></p>

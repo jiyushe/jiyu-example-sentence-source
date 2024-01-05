@@ -1,5 +1,7 @@
 # selflessness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selflessness.md)
+
 <p><span class="chinese">无私故能无畏。</span><span class="english">Fearlessness stems from selflessness.</span></p>
 
 <p><span class="chinese">他表现出忘我精神。</span><span class="english">He showed the spirit of selflessness.</span></p>

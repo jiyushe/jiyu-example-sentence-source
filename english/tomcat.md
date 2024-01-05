@@ -1,5 +1,7 @@
 # tomcat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tomcat.md)
+
 <p><span class="chinese">养一只公猫一只母狗。</span><span class="english">Breed a tomcat and a female dog.</span></p>
 
 <p><span class="chinese">那就把我心爱的雄猫变成英俊男士吧！</span><span class="english">That turns my beloved tomcat into handsome man!</span></p>

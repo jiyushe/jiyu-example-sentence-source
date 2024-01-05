@@ -1,5 +1,7 @@
 # calcific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcific.md)
+
 <p><span class="chinese">线摄片呈特征性的钙化阴影。</span><span class="english">X ray shows characteristic calcific shadow.</span></p>
 
 <p><span class="chinese">对后期治疗没有帮助，即耳道的慢性改变，如瘢痕组织或钙化。</span><span class="english">It will not help the later, chronic changes in the ear carschfick such as scar tissue or calcific.</span></p>

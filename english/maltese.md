@@ -1,5 +1,7 @@
 # maltese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maltese.md)
+
 <p><span class="chinese">有个人，养了一只玛耳太狗和一头驴子。</span><span class="english">A man owned a Maltese dog and a donkey.</span></p>
 
 <p><span class="chinese">许多马耳他人热衷于英式足球比赛。</span><span class="english">Many Maltese avidly follow English football matches.</span></p>

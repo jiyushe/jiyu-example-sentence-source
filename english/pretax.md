@@ -1,5 +1,7 @@
 # pretax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretax.md)
+
 <p><span class="chinese">很多人想知道，我到底是以税前消费额还是税后来作为计算消费的基础。</span><span class="english">Many wanted to know if you calculate the tip on the pretax or the post-tax bill.</span></p>
 
 <p><span class="chinese">以下是20个利润率最高的行业排名和他们的平均利润率</span><span class="english">Here is a list of the 20 most-profitable industries and their average pretax margins</span></p>

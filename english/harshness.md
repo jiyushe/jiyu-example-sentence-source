@@ -1,5 +1,7 @@
 # harshness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harshness.md)
+
 <p><span class="chinese">既没有急躁的表现，也从不粗声大气，而总是那副宁静温和的面貌。</span><span class="english">No ill-temper, no harshness. His face was always serene and kind.</span></p>
 
 <p><span class="chinese">最近的严酷现实使他醒悟，不再游手好闲了。</span><span class="english">The harshness of recent reality disentranced him from his idleness.</span></p>

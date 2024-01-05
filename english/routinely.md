@@ -1,5 +1,7 @@
 # routinely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/routinely.md)
+
 <p><span class="chinese">人们习惯性地把他与克伦威尔作比。</span><span class="english">He was routinely likened to Cromwell.</span></p>
 
 <p><span class="chinese">你可能惯常地跳过一个步骤。</span><span class="english">You may be routinely skipping a step.</span></p>

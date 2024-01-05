@@ -1,5 +1,7 @@
 # wit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wit.md)
+
 <p><span class="chinese">才智比才财富好！</span><span class="english">Better wit than wealth!</span></p>
 
 <p><span class="chinese">提防她的刻毒的妙语。</span><span class="english">Beware her waspish wit.</span></p>

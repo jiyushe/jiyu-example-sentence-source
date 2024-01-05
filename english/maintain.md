@@ -1,5 +1,7 @@
 # maintain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maintain.md)
+
 <p><span class="chinese">保养你的轮胎。</span><span class="english">Maintain your tires.</span></p>
 
 <p><span class="chinese">保持战斗队形！</span><span class="english">Maintain attack formation!</span></p>

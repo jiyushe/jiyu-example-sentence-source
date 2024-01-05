@@ -1,5 +1,7 @@
 # oncology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oncology.md)
+
 <p><span class="chinese">他是个肿瘤科医生。</span><span class="english">He is a specialist in oncology.</span></p>
 
 <p><span class="chinese">留言者是位肿瘤科护士</span><span class="english">The writer is an oncology nurse practitioner.</span></p>

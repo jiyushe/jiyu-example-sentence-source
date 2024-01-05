@@ -1,5 +1,7 @@
 # 驼峰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuofeng.md)
+
 <p><span class="chinese">我有两个驼峰。</span><span class="english">I have two humps.</span></p>
 
 <p><span class="chinese">在驼峰段刹车。</span><span class="english">Brakes on a gravity hump.</span></p>

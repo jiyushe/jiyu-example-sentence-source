@@ -1,5 +1,7 @@
 # rete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rete.md)
+
 <p><span class="chinese">支持RETE算法的高性能运行时引擎</span><span class="english">High performance runtime engine that supports rete algorithm</span></p>
 
 <p><span class="chinese">萎缩的上皮在大多数病例中有钉突丧失。</span><span class="english">The atrophic epithelium has in most cases lost its rete pegs.</span></p>

@@ -1,5 +1,7 @@
 # scanty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scanty.md)
+
 <p><span class="chinese">这东西非常薄是肉色的。</span><span class="english">They're very scanty and flesh colored.</span></p>
 
 <p><span class="chinese">哪些是碱性疏菜、水果？</span><span class="english">What is alkalescent scanty dish, fruit?</span></p>

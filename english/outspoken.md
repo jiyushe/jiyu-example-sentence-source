@@ -1,5 +1,7 @@
 # outspoken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outspoken.md)
+
 <p><span class="chinese">他是一位??爽直的政客。</span><span class="english">He is an outspoken politician.</span></p>
 
 <p><span class="chinese">博士索尔福德是相当直率的他的工作。</span><span class="english">Salford is quite outspoken about his work.</span></p>

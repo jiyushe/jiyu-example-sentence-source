@@ -1,5 +1,7 @@
 # 太守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taishou.md)
+
 <p><span class="chinese">太守谓谁？</span><span class="english">Who is the prefecture chief.</span></p>
 
 <p><span class="chinese">你那套光绪年的办法太守旧了。</span><span class="english">Your Qing dynasty methods are way out of date.</span></p>

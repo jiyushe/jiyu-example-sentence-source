@@ -1,5 +1,7 @@
 # 无能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuneng.md)
+
 <p><span class="chinese">墨水&无能。</span><span class="english">Ink & Incapability.</span></p>
 
 <p><span class="chinese">他是个无能之辈。</span><span class="english">He is an incapable person.</span></p>

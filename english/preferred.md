@@ -1,5 +1,7 @@
 # preferred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preferred.md)
+
 <p><span class="chinese">锡浴比无浴法好。</span><span class="english">Sn bath is preferred.</span></p>
 
 <p><span class="chinese">法律专业者优先。</span><span class="english">Major law is preferred.</span></p>

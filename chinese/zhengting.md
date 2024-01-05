@@ -1,5 +1,7 @@
 # 正厅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengting.md)
+
 <p><span class="chinese">正厅前排有票吗？</span><span class="english">Be there anything in the front stall?</span></p>
 
 <p><span class="chinese">正厅前排有票吗？</span><span class="english">Is there anything in the front stall?</span></p>

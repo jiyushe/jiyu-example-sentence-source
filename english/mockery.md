@@ -1,5 +1,7 @@
 # mockery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mockery.md)
+
 <p><span class="chinese">查尔斯王子也难逃人们小小的嘲弄。</span><span class="english">Prince Charles does not escape mild mockery.</span></p>
 
 <p><span class="chinese">这个问题是对模仿骗子行为的一种嘲弄。</span><span class="english">The question is a mockery of a travesty of a sham.</span></p>

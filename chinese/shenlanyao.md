@@ -1,5 +1,7 @@
 # 伸懒腰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenlanyao.md)
+
 <p><span class="chinese">我伸懒腰。</span><span class="english">I stretch out.</span></p>
 
 <p><span class="chinese">先伸伸懒腰。</span><span class="english">First, stretch yourself.</span></p>

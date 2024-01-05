@@ -1,5 +1,7 @@
 # 笑逐颜开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozhuyankai.md)
+
 <p><span class="chinese">我使她笑逐颜开。</span><span class="english">I made her laugh.</span></p>
 
 <p><span class="chinese">一张笑逐颜开的快乐的脸。</span><span class="english">A happy face with a big, big smile.</span></p>

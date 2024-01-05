@@ -1,5 +1,7 @@
 # 时事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_11.md)
+
 <p><span class="chinese">放弃追踪新闻时事。</span><span class="english">Give up on news.</span></p>
 
 <p><span class="chinese">通过时事通讯？</span><span class="english">Through newsletters?</span></p>

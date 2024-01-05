@@ -1,5 +1,7 @@
 # 右面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmian.md)
+
 <p><span class="chinese">换到右面车道上。</span><span class="english">Move to the right lane.</span></p>
 
 <p><span class="chinese">你在航迹的右面。</span><span class="english">You are right of track.</span></p>

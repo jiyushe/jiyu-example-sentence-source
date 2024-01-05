@@ -1,5 +1,7 @@
 # commissar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commissar.md)
+
 <p><span class="chinese">政委坚持将此书列为禁书。</span><span class="english">The commissar insisted on indexing the book.</span></p>
 
 <p><span class="chinese">为男低音，合唱队和钢琴而作的“政委誓言”。</span><span class="english">"The Oath to the People's Commissar", for bass, chorus and piano.</span></p>

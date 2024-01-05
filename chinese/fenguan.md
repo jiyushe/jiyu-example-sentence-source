@@ -1,5 +1,7 @@
 # 分管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenguan.md)
+
 <p><span class="chinese">协助王金玉副市长分管经济工作。</span><span class="english">Assist the vice mayor Wang Jinyu in economic works.</span></p>
 
 <p><span class="chinese">协助分管市发展和改革委员会。</span><span class="english">Assist in charge of Development and Reform Commission.</span></p>

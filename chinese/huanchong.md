@@ -1,5 +1,7 @@
 # 缓冲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanchong.md)
+
 <p><span class="chinese">它可能是缓冲液。</span><span class="english">It could be a buffer.</span></p>
 
 <p><span class="chinese">唾液是一种缓冲溶液。</span><span class="english">Saliva is a buffered solution.</span></p>

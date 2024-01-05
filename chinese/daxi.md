@@ -1,5 +1,7 @@
 # 大喜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxi.md)
+
 <p><span class="chinese">大喜的日子是哪一天？</span><span class="english">When’s the big day?</span></p>
 
 <p><span class="chinese">你的大喜之日是什么时候？</span><span class="english">When is the big day?</span></p>

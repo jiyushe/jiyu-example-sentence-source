@@ -1,5 +1,7 @@
 # 租用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuyong.md)
+
 <p><span class="chinese">购买还是租用？</span><span class="english">Buy or rent?</span></p>
 
 <p><span class="chinese">租用一只猴子一个星期。</span><span class="english">Rent a monkey for a week.</span></p>

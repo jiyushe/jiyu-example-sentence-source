@@ -1,5 +1,7 @@
 # smear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smear.md)
+
 <p><span class="chinese">直接涂片检查。</span><span class="english">Direct smear examination.</span></p>
 
 <p><span class="chinese">我们这儿没见过涂油的。</span><span class="english">None smear oil on pin here.</span></p>

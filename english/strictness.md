@@ -1,5 +1,7 @@
 # strictness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strictness.md)
+
 <p><span class="chinese">在这一场合，从严治党，是必须进行的。</span><span class="english">On this occasion, strictness is a must.</span></p>
 
 <p><span class="chinese">这是对她家里正统犹太教的清规戒律的明显反抗。</span><span class="english">It was an obvi reaction to the Orthodox strictness of her home.</span></p>

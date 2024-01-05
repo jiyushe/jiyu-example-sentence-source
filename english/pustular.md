@@ -1,5 +1,7 @@
 # pustular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pustular.md)
+
 <p><span class="chinese">脚指头边缘长脓疱怎样解决?。</span><span class="english">Is toe brim long pustular how to solve?</span></p>
 
 <p><span class="chinese">与点滴状，红皮，或脓疱性银屑病患者被排除在外。</span><span class="english">Patients with guttate, erythrodermic, or pustular psoriasis were excluded.</span></p>

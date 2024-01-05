@@ -1,5 +1,7 @@
 # 军民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junmin.md)
+
 <p><span class="chinese">军民一条心。</span><span class="english">Our fighters and people are of one mind.</span></p>
 
 <p><span class="chinese">国防工业实行军民结合、平战结合。</span><span class="english">To connect or combine precisely or harmoniously.</span></p>

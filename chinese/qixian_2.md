@@ -1,5 +1,7 @@
 # 期限
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixian_2.md)
+
 <p><span class="chinese">咱们能否赶得及期限？</span><span class="english">Can we make the deadline?</span></p>
 
 <p><span class="chinese">我要求国会延长这一权力的有效期限。</span><span class="english">I ask Congress to renew it.</span></p>

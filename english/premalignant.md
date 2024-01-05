@@ -1,5 +1,7 @@
 # premalignant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premalignant.md)
+
 <p><span class="chinese">口腔粘膜白斑病是一种严峻的口腔粘膜癌变前疾病。</span><span class="english">Oral leukoplakia is an important premalignant lesion of the oral mucosa.</span></p>
 
 <p><span class="chinese">单纯型子宫内膜增生可导致出血，但不至于成为癌前病变。</span><span class="english">Simple endometrial hyperplasias can cause bleeding, but are not thought to be premalignant.</span></p>

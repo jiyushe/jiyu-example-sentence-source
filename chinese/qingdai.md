@@ -1,5 +1,7 @@
 # 请代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdai.md)
+
 <p><span class="chinese">请代向史密斯先生问好。</span><span class="english">Say hello to Mr. Smith.</span></p>
 
 <p><span class="chinese">请代我向他问好。</span><span class="english">Please say hello to him.</span></p>

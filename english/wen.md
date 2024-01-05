@@ -1,5 +1,7 @@
 # wen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wen.md)
+
 <p><span class="chinese">宝和喆是猪。</span><span class="english">Wen and Zhe are pigs.</span></p>
 
 <p><span class="chinese">文文要如何往下写。</span><span class="english">Wen Wen How to write down.</span></p>

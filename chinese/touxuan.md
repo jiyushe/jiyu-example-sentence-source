@@ -1,5 +1,7 @@
 # 头癣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touxuan.md)
+
 <p><span class="chinese">头癣是一种较为常见的原因脱发的儿童。</span><span class="english">Capitis is one of the more common reasons for hair loss in children.</span></p>
 
 <p><span class="chinese">头癣是一种较为常见的原因脱发的儿童。</span><span class="english">Tinea Capitis is one of the more common reasons for hair loss in children.</span></p>

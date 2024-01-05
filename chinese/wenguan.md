@@ -1,5 +1,7 @@
 # 文官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenguan.md)
+
 <p><span class="chinese">你站在被告的抢劫，他说，听到文官。</span><span class="english">You stand accused of robbery, he heard the bailiff say.</span></p>
 
 <p><span class="chinese">文官对军方的统治也必须得到加强。</span><span class="english">Civilian rule over the military also must be strengthened.</span></p>

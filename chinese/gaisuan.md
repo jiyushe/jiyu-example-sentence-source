@@ -1,5 +1,7 @@
 # 概算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaisuan.md)
+
 <p><span class="chinese">他因算错公司的盈利概算而被开除了。</span><span class="english">He was fired for miscalculating the company's earnings estimate.</span></p>
 
 <p><span class="chinese">在初步设计阶段要做工程概算，在施工图阶段要做预算。</span><span class="english">Budget making must be made in construction documents design phase.</span></p>

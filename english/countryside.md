@@ -1,5 +1,7 @@
 # countryside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countryside.md)
+
 <p><span class="chinese">我真的爱上爱岛的农村。</span><span class="english">I do love countryside in PEI.</span></p>
 
 <p><span class="chinese">我喜欢生活在农村。</span><span class="english">I like living in the countryside.</span></p>

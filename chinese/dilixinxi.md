@@ -1,5 +1,7 @@
 # 地理信息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dilixinxi.md)
+
 <p><span class="chinese">地理信息只是微格式的一种。</span><span class="english">Location is just one type of microformat.</span></p>
 
 <p><span class="chinese">地理信息数据可能以任何形式保存。</span><span class="english">Geographic data can be stored in any form.</span></p>

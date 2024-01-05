@@ -1,5 +1,7 @@
 # glyph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glyph.md)
+
 <p><span class="chinese">那麽雕文有价值麽?。</span><span class="english">So Is the Glyph Worth It?</span></p>
 
 <p><span class="chinese">在字形缓冲区中的字形数量。</span><span class="english">Count of glyphs in the glyph buffer.</span></p>

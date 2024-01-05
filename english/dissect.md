@@ -1,5 +1,7 @@
 # dissect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissect.md)
+
 <p><span class="chinese">你的任务是仔细评论这首诗。</span><span class="english">Your assignment is to dissect the poem.</span></p>
 
 <p><span class="chinese">上生物课时我们得解剖青蛙。</span><span class="english">In biology class we had to dissect a frog.</span></p>

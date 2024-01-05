@@ -1,5 +1,7 @@
 # eternity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eternity.md)
+
 <p><span class="chinese">这是永恒。</span><span class="english">This is eternity here.</span></p>
 
 <p><span class="chinese">永恒宁非是刹那时光。</span><span class="english">And eternity in an hour.</span></p>

@@ -1,5 +1,7 @@
 # 行乞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingqi_4.md)
+
 <p><span class="chinese">常常在街上行乞。</span><span class="english">Derelicts often beg on the streets.</span></p>
 
 <p><span class="chinese">想想那个因为行乞失去了一只手的小孩吧！</span><span class="english">Lost one hand to beg on the streets.</span></p>

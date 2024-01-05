@@ -1,5 +1,7 @@
 # squawk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squawk.md)
+
 <p><span class="chinese">鸟发出嘎嘎的惊叫声。</span><span class="english">The bird gave a startled squawk.</span></p>
 
 <p><span class="chinese">发出尖声地高地像母鸡一样的叫声。</span><span class="english">The hen gave a squawk when it saw the cat.</span></p>

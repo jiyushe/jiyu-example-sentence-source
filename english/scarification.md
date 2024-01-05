@@ -1,5 +1,7 @@
 # scarification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scarification.md)
+
 <p><span class="chinese">夏末的雏菊、划破的哀伤。</span><span class="english">Last daisy of summer , the scarification sorrow.</span></p>
 
 <p><span class="chinese">卡罗男人和女人是众所周知的，他们祭祀划痕。</span><span class="english">Karo men and women are known for their ritual scarification.</span></p>

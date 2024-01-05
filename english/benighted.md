@@ -1,5 +1,7 @@
 # benighted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benighted.md)
+
 <p><span class="chinese">去年，缅甸愚昧的人民在全民选票中被迫赞同通过规定军队具有双重职能的宪法。</span><span class="english">Last year Myanmar’s benighted people were forced to endorse a dwifungsi constitution in a referendum.</span></p>
 
 <p><span class="chinese">愚昧无知的人往往选择让过去做错的往事可以不要再错。</span><span class="english">The benighted person often chooses the past events which lets make the mistake to be possible not to be again wrong.</span></p>

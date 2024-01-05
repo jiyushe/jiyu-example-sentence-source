@@ -1,5 +1,7 @@
 # kicker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kicker.md)
+
 <p><span class="chinese">踢球员将在第四次进攻机会时弃踢。</span><span class="english">The kicker will punt at fourth down.</span></p>
 
 <p><span class="chinese">她第一次学骑马就遇上了匹爱踢的马。</span><span class="english">She had a kicker for her first riding lesson.</span></p>

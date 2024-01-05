@@ -1,5 +1,7 @@
 # 家道中落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiadaozhongluo.md)
+
 <p><span class="chinese">他是个富人家的儿子，看上去已经家道中落了。</span><span class="english">He was the son of a wealthy man, but the family looks declining.</span></p>
 
 <p><span class="chinese">他是个富人的儿子，不过看上去已经家道中落了。</span><span class="english">He is the son of a richman, but his family seems not doing well recently.</span></p>

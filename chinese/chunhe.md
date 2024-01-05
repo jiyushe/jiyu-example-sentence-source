@@ -1,5 +1,7 @@
 # 醇和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunhe.md)
+
 <p><span class="chinese">茶香凝聚于枕周尺余，清馨醇和，久而不散。</span><span class="english">Will the pillow week, feet long and travel. like,.</span></p>
 
 <p><span class="chinese">“皮质醇和肾上腺素升高和降低，”他说。</span><span class="english">“ Cortisol and adrenaline go up and down, ” he said.</span></p>

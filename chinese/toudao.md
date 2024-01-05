@@ -1,5 +1,7 @@
 # 偷盗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toudao.md)
+
 <p><span class="chinese">是的，我们认同那是偷盗。</span><span class="english">Yeah, we agree at stealing.</span></p>
 
 <p><span class="chinese">那是在向未来偷盗。</span><span class="english">You’re stealing from the future.</span></p>

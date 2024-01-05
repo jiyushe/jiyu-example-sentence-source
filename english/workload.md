@@ -1,5 +1,7 @@
 # workload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workload.md)
+
 <p><span class="chinese">您的工作负载会有所不同。</span><span class="english">Your workload may differ.</span></p>
 
 <p><span class="chinese">面向业务的工作负载管理</span><span class="english">Business-oriented workload management</span></p>

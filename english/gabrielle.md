@@ -1,5 +1,7 @@
 # gabrielle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gabrielle.md)
+
 <p><span class="chinese">她总想让她的肉菜闷饭热气腾腾。</span><span class="english">Gabrielle liked her paella piping hot.</span></p>
 
 <p><span class="chinese">加百列·提尔曼，医生的姐姐。</span><span class="english">Gabrielle Tillman, the doctor's sister.</span></p>

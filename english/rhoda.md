@@ -1,5 +1,7 @@
 # rhoda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhoda.md)
+
 <p><span class="chinese">罗达是农场里的工人。</span><span class="english">Rhoda is a farm worker.</span></p>
 
 <p><span class="chinese">罗达的抱怨是习惯性的，她老是不满。</span><span class="english">Rhoda is a chronic complainer . She is always dissatisfied.</span></p>

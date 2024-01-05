@@ -1,5 +1,7 @@
 # overpaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overpaid.md)
+
 <p><span class="chinese">是金融从业者的工资是否过高了哪？</span><span class="english">Are financial workers overpaid?</span></p>
 
 <p><span class="chinese">对他的服务，我多付了他一些酬金。</span><span class="english">I overpaid him for his service.</span></p>

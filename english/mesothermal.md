@@ -1,5 +1,7 @@
 # mesothermal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesothermal.md)
+
 <p><span class="chinese">哈图金矿局岩浆期后中温热液矿床。</span><span class="english">Ha-Tu Gold Deposit is a postmagmatic mesothermal deposit.</span></p>
 
 <p><span class="chinese">它属于中温岩浆热液型矿床。</span><span class="english">The deposit belongs to the mesothermal magmatic-hydrothermal type.</span></p>

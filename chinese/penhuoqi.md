@@ -1,5 +1,7 @@
 # 喷火器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penhuoqi.md)
+
 <p><span class="chinese">喷火器喷出火焰。</span><span class="english">The flamethrower jetted out flames.</span></p>
 
 <p><span class="chinese">如果你是CEO，你经常会收到类似喷火器那样的东西。</span><span class="english">A. If you are C.E.O., you get flame-thrower stuff constantly.</span></p>

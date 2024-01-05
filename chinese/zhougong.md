@@ -1,5 +1,7 @@
 # 周公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhougong.md)
+
 <p><span class="chinese">与其想他，还不如去找周公。</span><span class="english">And to him, as well as to find Zhou Gong.</span></p>
 
 <p><span class="chinese">当你的身体觉醒时，你会拖着不行周公之礼吗？</span><span class="english">Do you procrastinate on sex when you’re physically aroused?</span></p>

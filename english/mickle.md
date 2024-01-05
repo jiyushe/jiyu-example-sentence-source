@@ -1,5 +1,7 @@
 # mickle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mickle.md)
+
 <p><span class="chinese">贪小便宜吃大亏。</span><span class="english">Every little helps a mickle.</span></p>
 
 <p><span class="chinese">积少成多，聚沙成塔。</span><span class="english">Every little helps a mickle.</span></p>

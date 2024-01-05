@@ -1,5 +1,7 @@
 # 鼎鼎大名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingdingdaming.md)
+
 <p><span class="chinese">声名狼藉常被误认为鼎鼎大名。</span><span class="english">Notoriety is often mistaken for fame.</span></p>
 
 <p><span class="chinese">这一长串鼎鼎大名真吓人啊！</span><span class="english">And a long-drawn procession of formidable names it was!</span></p>

@@ -1,5 +1,7 @@
 # 疆土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangtu.md)
+
 <p><span class="chinese">新的属灵疆土和打开的新门！</span><span class="english">New spiritual territory and the opening of new doors!</span></p>
 
 <p><span class="chinese">开发新的疆土正是减少这种风险的一种途径。</span><span class="english">Pushing into new territories is one way to reduce this risk.</span></p>

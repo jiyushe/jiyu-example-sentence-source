@@ -1,5 +1,7 @@
 # hertz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hertz.md)
+
 <p><span class="chinese">此前的记录为0.797赫兹。</span><span class="english">The previous record was 0.797 hertz.</span></p>
 
 <p><span class="chinese">这是0。,这是1。6赫兹。</span><span class="english">This is 0.628, and this is 1.6 hertz.</span></p>

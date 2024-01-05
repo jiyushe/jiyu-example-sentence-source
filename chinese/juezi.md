@@ -1,5 +1,7 @@
 # 橛子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juezi.md)
+
 <p><span class="chinese">你去拿块木板来，做小木橛子用！</span><span class="english">Go and bring a board to make the pegs!</span></p>
 
 <p><span class="chinese">你去拿块木板来，做小木橛子用！</span><span class="english">A board fitted with pegs for hanging clothing.</span></p>

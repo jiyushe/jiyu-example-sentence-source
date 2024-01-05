@@ -1,5 +1,7 @@
 # mailer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mailer.md)
+
 <p><span class="chinese">第一条出自作家。</span><span class="english">Norman Mailer The first is from Norman Mailer.</span></p>
 
 <p><span class="chinese">不管是福克纳还是梅勒，他依然是他们膜拜的对象。</span><span class="english">He is still the writer before whom everyone from Faulkner to Mailer has knelt.</span></p>

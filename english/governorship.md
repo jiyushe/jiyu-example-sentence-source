@@ -1,5 +1,7 @@
 # governorship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/governorship.md)
+
 <p><span class="chinese">他一定稳赢州长的职位。</span><span class="english">He is a shoo-in for the governorship.</span></p>
 
 <p><span class="chinese">到了1980年的时候，我的州长职责和我的生活都让我感觉良好。</span><span class="english">As 1980 dawned, I felt good about the governorship and my life.</span></p>

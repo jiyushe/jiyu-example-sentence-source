@@ -1,5 +1,7 @@
 # approachable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approachable.md)
+
 <p><span class="chinese">他们和我讲话，我显得平易近人。</span><span class="english">They speak to me. I come across as approachable.</span></p>
 
 <p><span class="chinese">从远处看，这条海豚似乎很容易接近。</span><span class="english">From a distance, the dolphin seemed approachable enough.</span></p>

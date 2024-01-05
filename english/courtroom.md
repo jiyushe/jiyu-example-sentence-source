@@ -1,5 +1,7 @@
 # courtroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courtroom.md)
+
 <p><span class="chinese">这位法官昂然走进法庭。</span><span class="english">The judge swept in the courtroom.</span></p>
 
 <p><span class="chinese">正义是否在我们主审的法庭上得到伸张？</span><span class="english">Was justice done in our courtroom?</span></p>

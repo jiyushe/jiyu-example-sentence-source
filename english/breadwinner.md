@@ -1,5 +1,7 @@
 # breadwinner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breadwinner.md)
+
 <p><span class="chinese">“He”是指Kat的老爸，一个在硅谷工作的IT人，是Kat家的“breadwinner”，即是赚钱养家的人。</span><span class="english">He was breadwinner of the family.</span></p>
 
 <p><span class="chinese">他是他们家的顶梁柱。</span><span class="english">He was the breadwinner of his family.</span></p>

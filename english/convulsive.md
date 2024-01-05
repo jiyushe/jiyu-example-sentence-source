@@ -1,5 +1,7 @@
 # convulsive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convulsive.md)
+
 <p><span class="chinese">她突然抽泣起来。</span><span class="english">She burst into a convulsive sobs.</span></p>
 
 <p><span class="chinese">抽搐的动作、发作等。</span><span class="english">A convulsive movement, spasm, etc.</span></p>

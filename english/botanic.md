@@ -1,5 +1,7 @@
 # botanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/botanic.md)
+
 <p><span class="chinese">植物园中的温室。</span><span class="english">Hothouse in Botanic gardens.</span></p>
 
 <p><span class="chinese">这个户外空间也是植物园的一部分。</span><span class="english">This open-air space is also part of the Botanic Garden.</span></p>

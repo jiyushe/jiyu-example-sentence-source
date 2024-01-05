@@ -1,5 +1,7 @@
 # ductile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ductile.md)
+
 <p><span class="chinese">湖北青峰断裂为一韧性剪切带。</span><span class="english">The Qingfeng fault is a ductile shear zone.</span></p>
 
 <p><span class="chinese">呈铁灰色，柔软性和延展性与锡相近。</span><span class="english">It is iron-gray and fairly soft and ductile.</span></p>

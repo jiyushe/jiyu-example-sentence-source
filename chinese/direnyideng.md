@@ -1,5 +1,7 @@
 # 低人一等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/direnyideng.md)
+
 <p><span class="chinese">因为她们被认为是不一样的，低人一等的。</span><span class="english">Because they are thought of as different and inferior.</span></p>
 
 <p><span class="chinese">一个不结婚的女人会被视为不正常或低人一等。</span><span class="english">A woman,who is unmarried,will be viewed unformal or inferior.</span></p>

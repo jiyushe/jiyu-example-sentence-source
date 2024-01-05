@@ -1,5 +1,7 @@
 # 憨态可掬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hantaikeju.md)
+
 <p><span class="chinese">一尾憨态可掬的金鱼，能带给我们纯粹的欢愉。</span><span class="english">One cute fish can bring us pure happiness.</span></p>
 
 <p><span class="chinese">这真的喜欢玩游戏和看憨态可掬。</span><span class="english">It really likes playing games and looks charmingly naïve.</span></p>

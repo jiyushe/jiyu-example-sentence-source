@@ -1,5 +1,7 @@
 # telluride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telluride.md)
+
 <p><span class="chinese">是什么促使你在特柳赖徳买房子？</span><span class="english">What made you buy in Telluride?</span></p>
 
 <p><span class="chinese">用碲化镉制作薄膜太阳能电池比硅更便宜。</span><span class="english">It’s cheaper to make “thin-film solar cells” with cadmium telluride than with silicon.</span></p>

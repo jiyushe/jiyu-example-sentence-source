@@ -1,5 +1,7 @@
 # pitcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitcher.md)
+
 <p><span class="chinese">把你的水瓶灌满了吧。</span><span class="english">Fill your pitcher.</span></p>
 
 <p><span class="chinese">该投手表现失常。</span><span class="english">The pitcher blew up.</span></p>

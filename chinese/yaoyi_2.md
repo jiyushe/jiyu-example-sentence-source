@@ -1,5 +1,7 @@
 # 要义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyi_2.md)
+
 <p><span class="chinese">孝悌“和”爱众“是它的第一要义。</span><span class="english">"Filial and piety" and "love others" are its first essence.</span></p>
 
 <p><span class="chinese">我出版了13部著作,全部的要义就可浓缩成这句，我病了。</span><span class="english">I published thirteen books the whole purport of which was  I am sick.</span></p>

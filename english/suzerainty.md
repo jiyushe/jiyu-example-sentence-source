@@ -1,5 +1,7 @@
 # suzerainty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suzerainty.md)
+
 <p><span class="chinese">自明朝以后，中国对琉球一直拥有宗主权。</span><span class="english">China had the suzerainty over Ryukyu since Ming Dynasty.</span></p>
 
 <p><span class="chinese">在巴特农神庙的墙上有描绘她的出生，以及她和波塞顿争夺雅典宗主权的故事。</span><span class="english">Her birth and contest with Poseidon for suzerainty of Athens were depicted on the Parthenon.</span></p>

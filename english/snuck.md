@@ -1,5 +1,7 @@
 # snuck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snuck.md)
+
 <p><span class="chinese">比利从罐里偷拿了些饼乾。</span><span class="english">Billy snuck a few cookies from the jar.</span></p>
 
 <p><span class="chinese">于是“狐狸溜进了皮克斯的鸡舍”</span><span class="english">Then a fox snuck into Pixar’s henhouse.</span></p>

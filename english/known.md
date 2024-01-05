@@ -1,5 +1,7 @@
 # known
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/known.md)
+
 <p><span class="chinese">这是一个已知的缺陷。</span><span class="english">This is a known bug.</span></p>
 
 <p><span class="chinese">是英国最常见的一种茶。</span><span class="english">It's a well known tea.</span></p>

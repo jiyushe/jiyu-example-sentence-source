@@ -1,5 +1,7 @@
 # paranoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paranoid.md)
+
 <p><span class="chinese">你是偏执狂吗？</span><span class="english">Are you paranoid?</span></p>
 
 <p><span class="chinese">哇啊哇，中国是妄想狂吗？</span><span class="english">Wow. Paranoid much China?</span></p>

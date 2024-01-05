@@ -1,5 +1,7 @@
 # hypothermic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothermic.md)
+
 <p><span class="chinese">他很清醒，略有体温过低的状况，好像还有些冻伤。</span><span class="english">He was conscious, slightly hypothermic and appeared to have some frostbite.</span></p>
 
 <p><span class="chinese">目的低温热塑板材于鼻部整形术后的辅助疗效观察。</span><span class="english">Aim Observation of clinic effects of hypothermic plastic material after rhinoplasty.</span></p>

@@ -1,5 +1,7 @@
 # atheist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atheist.md)
+
 <p><span class="chinese">但后来，我成了无神论者。</span><span class="english">Then I became an atheist.</span></p>
 
 <p><span class="chinese">那个时候我是一个无神论者。</span><span class="english">I was an atheist at the time.</span></p>

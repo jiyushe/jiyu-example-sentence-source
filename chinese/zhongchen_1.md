@@ -1,5 +1,7 @@
 # 重臣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongchen_1.md)
+
 <p><span class="chinese">阮元是清代重臣，也是一位著名的图书编撰家。</span><span class="english">Ruan Yuan was an important minister and a famous author of Jin Dynasty.</span></p>
 
 <p><span class="chinese">全公主乃吴主孙权的长公主，重臣全琮之妻。</span><span class="english">Princess Quan was the eldest girl of Emperor Sun Quan of Wu Kingdom and the wife of Quan Cong.</span></p>

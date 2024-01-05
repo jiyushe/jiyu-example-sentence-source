@@ -1,5 +1,7 @@
 # between
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/between.md)
+
 <p><span class="chinese">或是46至67之间的数</span><span class="english">Or between 46 and 67?</span></p>
 
 <p><span class="chinese">我们两人把它平分吧。</span><span class="english">Divvy it up between us.</span></p>

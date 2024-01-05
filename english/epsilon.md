@@ -1,5 +1,7 @@
 # epsilon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epsilon.md)
+
 <p><span class="chinese">并把ε0能态画到上面。</span><span class="english">And put the epsilon zero states up here.</span></p>
 
 <p><span class="chinese">那么这是kT，比ε0小的多。</span><span class="english">So here's kT much less than epsilon zero.</span></p>

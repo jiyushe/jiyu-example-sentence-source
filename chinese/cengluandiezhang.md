@@ -1,5 +1,7 @@
 # 层峦叠嶂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cengluandiezhang.md)
+
 <p><span class="chinese">摆在金正恩前面的，是层峦叠嶂的困难需要他去克服。</span><span class="english">Kim Jong Un will have many obstacles to overcome.</span></p>
 
 <p><span class="chinese">车程虽长，但一路的高山层峦叠嶂，风景甚是怡人。</span><span class="english">It's a long but scenic bus ride over a high mountain range.</span></p>

@@ -1,5 +1,7 @@
 # adhesion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adhesion.md)
+
 <p><span class="chinese">你去做通液吧，如果没有粘连就最好了。</span><span class="english">You do it, if there is no adhesion on the best.</span></p>
 
 <p><span class="chinese">有什么方法可以解决粘连的问题？</span><span class="english">Are there any ways to solve the adhesion problem?</span></p>

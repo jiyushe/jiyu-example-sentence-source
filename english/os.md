@@ -1,5 +1,7 @@
 # os
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/os.md)
+
 <p><span class="chinese">好片，谢谢分享，正是及时！</span><span class="english">It os very good!</span></p>
 
 <p><span class="chinese">谁说苹果机是完美的？</span><span class="english">Who says Mac OS is flawless?</span></p>

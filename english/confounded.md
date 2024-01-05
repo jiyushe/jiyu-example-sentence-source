@@ -1,5 +1,7 @@
 # confounded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confounded.md)
+
 <p><span class="chinese">他的行为使她莫名其妙。</span><span class="english">His behaviour confounded her.</span></p>
 
 <p><span class="chinese">你真是个该死的小饭桶！</span><span class="english">What a confounded little fool you have been !</span></p>

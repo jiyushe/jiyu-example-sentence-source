@@ -1,5 +1,7 @@
 # meniscus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meniscus.md)
+
 <p><span class="chinese">但它是半月板。</span><span class="english">But it was the meniscus.</span></p>
 
 <p><span class="chinese">半月板手术后应注意什么？</span><span class="english">What should notice after meniscus operation?</span></p>

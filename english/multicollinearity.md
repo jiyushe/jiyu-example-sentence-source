@@ -1,5 +1,7 @@
 # multicollinearity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multicollinearity.md)
+
 <p><span class="chinese">该法可以有效消除经济数据的异方差性和多重共线性。</span><span class="english">It is an efficient way to eliminate the heterogeneity and the multicollinearity of the data.</span></p>
 
 <p><span class="chinese">当平差模型中存在复共线关系时，未知参数的最小二乘估计很不可靠。</span><span class="english">The least Square estimates are not reliable when there exists multicollinearity in adjustment model.</span></p>

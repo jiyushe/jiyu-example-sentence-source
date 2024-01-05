@@ -1,5 +1,7 @@
 # riotous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riotous.md)
+
 <p><span class="chinese">我不再要放浪形骸的游乐了。</span><span class="english">I wanted no more riotous excursions.</span></p>
 
 <p><span class="chinese">圣诞节我们度过了一个狂欢之夜。</span><span class="english">We spent a riotous night at Christmas.</span></p>

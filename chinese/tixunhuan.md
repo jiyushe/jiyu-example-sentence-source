@@ -1,5 +1,7 @@
 # 体循环
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tixunhuan.md)
+
 <p><span class="chinese">VWF对人体循环至关重要。</span><span class="english">VWF is vital to the body's circulation.</span></p>
 
 <p><span class="chinese">血压是指体循环的？</span><span class="english">Does blood pressure point to systematic circulation?</span></p>

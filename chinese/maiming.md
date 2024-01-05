@@ -1,5 +1,7 @@
 # 卖命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maiming.md)
+
 <p><span class="chinese">我确信帕克工作非常卖命。</span><span class="english">And Im sure Parker works her socks off.</span></p>
 
 <p><span class="chinese">无论是生病还是身体健康，他都会卖命地工作。</span><span class="english">Be he sick or well, he works entirely hard.</span></p>

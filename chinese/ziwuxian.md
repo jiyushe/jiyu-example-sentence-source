@@ -1,5 +1,7 @@
 # 子午线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwuxian.md)
+
 <p><span class="chinese">介绍SUV型无内胎子午线轮胎的设计。</span><span class="english">A design of SUV tubeless radial tire is introduced.</span></p>
 
 <p><span class="chinese">旋转这个环直到时间子午线偏移刻度。</span><span class="english">Turn the ring until the time meridian offset scale.</span></p>

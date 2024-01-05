@@ -1,5 +1,7 @@
 # 斗嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douzui.md)
+
 <p><span class="chinese">在他与姨妈斗嘴的那一幕里。</span><span class="english">At this scene, he was bickering with his aunt.</span></p>
 
 <p><span class="chinese">新年的钟声在跟雪花斗嘴。</span><span class="english">The New-year bells are wrangling with the snow.</span></p>

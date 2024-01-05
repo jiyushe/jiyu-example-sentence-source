@@ -1,5 +1,7 @@
 # name 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/name.md)
+
 <p><span class="chinese">它的名字？</span><span class="english">Its name?</span></p>
 
 <p><span class="chinese">程序名。</span><span class="english">Program name.</span></p>

@@ -1,5 +1,7 @@
 # 听便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingbian.md)
+
 <p><span class="chinese">去留听便。</span><span class="english">You may go or stay as you please.</span></p>
 
 <p><span class="chinese">人群一听便大喊大叫，表示赞成。</span><span class="english">At this the crowd roared approval.</span></p>

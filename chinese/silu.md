@@ -1,5 +1,7 @@
 # 司炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/silu.md)
+
 <p><span class="chinese">“先客后主，司炉最末”。</span><span class="english">Houzhu first off, the last fireman.</span></p>
 
 <p><span class="chinese">司炉增加了蒸汽的压力。</span><span class="english">The piston moves by steam pressure.</span></p>

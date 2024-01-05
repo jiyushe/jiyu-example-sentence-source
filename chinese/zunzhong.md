@@ -1,5 +1,7 @@
 # 尊重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunzhong.md)
+
 <p><span class="chinese">它能赢得尊重。</span><span class="english">It earns respect.</span></p>
 
 <p><span class="chinese">尊重她的意愿。</span><span class="english">Respect her wishes.</span></p>

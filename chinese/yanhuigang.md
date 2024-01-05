@@ -1,5 +1,7 @@
 # 烟灰缸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhuigang.md)
+
 <p><span class="chinese">请给我一个烟灰缸好吗？</span><span class="english">Can I have an ashtray ,please?</span></p>
 
 <p><span class="chinese">到处都有烟灰缸。</span><span class="english">There were ashtrays everywhere.</span></p>

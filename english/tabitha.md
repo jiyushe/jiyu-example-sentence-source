@@ -1,5 +1,7 @@
 # tabitha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabitha.md)
+
 <p><span class="chinese">泰必沙太太在房间里上上下下地找，“喵喵”地叫着汤姆·基登的名字。</span><span class="english">Mrs. Tabitha went up and down all over the house, mewing for Tom Kitten.</span></p>
 
 <p><span class="chinese">科学作家，经常撰写有关遗传、科技政策、考古及大脑方面的文章。</span><span class="english">Tabitha M. Powledge writes frequently about genetics, science policy, archaeology and the brain.</span></p>

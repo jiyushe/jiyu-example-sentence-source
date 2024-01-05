@@ -1,5 +1,7 @@
 # 拖垮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuokua.md)
+
 <p><span class="chinese">我们必须在一个月之内把敌人拖垮。</span><span class="english">We must wear the enemy out in a month.</span></p>
 
 <p><span class="chinese">江源知道这是林正华早就计划好的，是要断了他们的后退，用价格战拖垮同源。</span><span class="english">Know zheng-hua Lin this is already planned, is to cut off their retreat, with price down.</span></p>

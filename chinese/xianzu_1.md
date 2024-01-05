@@ -1,5 +1,7 @@
 # 险阻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzu_1.md)
+
 <p><span class="chinese">驮金的驴子无险阻。</span><span class="english">An ass lade with gold overtake every thing.</span></p>
 
 <p><span class="chinese">然而，考虑到未来路途险阻，这正是美国应作的抉择。</span><span class="english">Yet it is one America should take, given the steep road ahead.</span></p>

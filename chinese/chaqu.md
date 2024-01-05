@@ -1,5 +1,7 @@
 # 插曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaqu.md)
+
 <p><span class="chinese">许多剧中的插曲变成流行歌。</span><span class="english">Many of the songs became popular.</span></p>
 
 <p><span class="chinese">我问这段插曲给了他什么教训。</span><span class="english">I ask what the episode taught him.</span></p>

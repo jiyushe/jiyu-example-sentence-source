@@ -1,5 +1,7 @@
 # besotted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/besotted.md)
+
 <p><span class="chinese">他被一位姑娘迷住了。</span><span class="english">He is besotted with a girl.</span></p>
 
 <p><span class="chinese">他沉溺于饮酒。</span><span class="english">He was besotted with drink.</span></p>

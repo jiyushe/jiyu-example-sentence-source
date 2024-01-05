@@ -1,5 +1,7 @@
 # 脱销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoxiao.md)
+
 <p><span class="chinese">奔驰牌的床已经脱销了。</span><span class="english">The Benz beds are out of stock.</span></p>
 
 <p><span class="chinese">奔驰牌的车已经脱销了。</span><span class="english">The Benz cars are out of stock.</span></p>

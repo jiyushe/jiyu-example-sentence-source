@@ -1,5 +1,7 @@
 # 千斤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianjin_1.md)
+
 <p><span class="chinese">刻在你脆弱的心间也许千斤重负在肩。</span><span class="english">Your weak mind may bear hundreds of burden.</span></p>
 
 <p><span class="chinese">衣服吸了水，沉甸甸的，鞋子也好像有千斤重。</span><span class="english">My clothes were heavy, my shoes weighed a tonne.</span></p>

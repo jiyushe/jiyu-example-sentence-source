@@ -1,5 +1,7 @@
 # element
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/element.md)
+
 <p><span class="chinese">该部分就是一个元素。</span><span class="english">The part is an element.</span></p>
 
 <p><span class="chinese">因此并没有第一个元素。</span><span class="english">There is no 0th element.</span></p>

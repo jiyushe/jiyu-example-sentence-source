@@ -1,5 +1,7 @@
 # abstracted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abstracted.md)
+
 <p><span class="chinese">什么样的东西能够被抽象？</span><span class="english">What sorts of things can be abstracted?</span></p>
 
 <p><span class="chinese">那人从我口袋里偷去了一支笔。</span><span class="english">The man abstracted a pen from my pocket.</span></p>

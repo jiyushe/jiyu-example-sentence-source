@@ -1,5 +1,7 @@
 # 游伴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youban.md)
+
 <p><span class="chinese">你是一个很棒的游伴。</span><span class="english">You're a great partner.</span></p>
 
 <p><span class="chinese">你有你的游戏，有你的游伴。</span><span class="english">You have your play and your playmates.</span></p>

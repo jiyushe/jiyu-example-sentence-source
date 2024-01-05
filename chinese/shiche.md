@@ -1,5 +1,7 @@
 # 试车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiche.md)
+
 <p><span class="chinese">还发呆，赶快去试车啦。</span><span class="english">Go to test-drive quickly.</span></p>
 
 <p><span class="chinese">同时也是捷豹车队的试车手。</span><span class="english">Also has one-off test with Jaguar.</span></p>

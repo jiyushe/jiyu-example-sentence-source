@@ -1,5 +1,7 @@
 # 正经八百
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengjingbabai.md)
+
 <p><span class="chinese">而是正经八百的再说这庄子事儿。</span><span class="english">But serious if the say thing that Chuang Tzu.</span></p>
 
 <p><span class="chinese">如果您觉得这个节日太正经八百，别担心。</span><span class="english">If this holiday sounds too serious, don't worry.</span></p>

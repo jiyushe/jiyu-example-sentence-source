@@ -1,5 +1,7 @@
 # 修造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuzao.md)
+
 <p><span class="chinese">我们怎么修造我们的内在人？</span><span class="english">How do we build our inner man ?</span></p>
 
 <p><span class="chinese">其次是巴录的儿子毗大雅修造。</span><span class="english">After him Pedaiah the son of Parosh.</span></p>

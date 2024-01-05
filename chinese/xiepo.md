@@ -1,5 +1,7 @@
 # 斜坡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiepo.md)
+
 <p><span class="chinese">就像是一个斜坡</span><span class="english">It's an incline.</span></p>
 
 <p><span class="chinese">走下斜坡。</span><span class="english">Go down the slope.</span></p>

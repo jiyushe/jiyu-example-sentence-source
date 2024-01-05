@@ -1,5 +1,7 @@
 # benefactor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benefactor.md)
+
 <p><span class="chinese">不过，他终于找到了那个匿名的恩人，那就是葛拉齐亚。</span><span class="english">He did, however, discover his anonymous benefactor.</span></p>
 
 <p><span class="chinese">1639年以捐赠者约翰?哈佛的名字重新命名。</span><span class="english">In 1639, it was renamed after its major benefactor?</span></p>

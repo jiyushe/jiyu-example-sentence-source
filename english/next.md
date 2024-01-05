@@ -1,5 +1,7 @@
 # next 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/next.md)
+
 <p><span class="chinese">下间房。</span><span class="english">Next room.</span></p>
 
 <p><span class="chinese">下一步？</span><span class="english">Next step?</span></p>

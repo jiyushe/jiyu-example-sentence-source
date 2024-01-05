@@ -1,5 +1,7 @@
 # ow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ow.md)
+
 <p><span class="chinese">我怎么一直都没见。到你？。</span><span class="english">H. ow come I never see y. ou?.</span></p>
 
 <p><span class="chinese">哎哟！我好像把脚给扭了。</span><span class="english">Ow ! I think I sprained my ankle.</span></p>

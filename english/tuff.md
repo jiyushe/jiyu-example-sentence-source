@@ -1,5 +1,7 @@
 # tuff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuff.md)
+
 <p><span class="chinese">粗面凝灰岩一种用来生产硬。</span><span class="english">A light-colored tuff used in hydraulic cement.</span></p>
 
 <p><span class="chinese">在湖的右岸有一排凝灰岩建造的房子，这是一家饭馆。</span><span class="english">On the right from the lake there is a restaurant built of tuff.</span></p>

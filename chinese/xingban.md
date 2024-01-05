@@ -1,5 +1,7 @@
 # 兴办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingban.md)
+
 <p><span class="chinese">政府兴办集体福利事业。</span><span class="english">The government initiates collective welfare work.</span></p>
 
 <p><span class="chinese">第17届世界杯是在两个亚洲国家兴办的。</span><span class="english">The 17th World Cup was held in two Asian countries.</span></p>

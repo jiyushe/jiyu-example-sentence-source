@@ -1,5 +1,7 @@
 # abraham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abraham.md)
+
 <p><span class="chinese">我爱亚伯拉罕这个名字。</span><span class="english">I love the name of Abraham.</span></p>
 
 <p><span class="chinese">我与亚伯拉罕有何关系？</span><span class="english">How am I related to Abraham?</span></p>

@@ -1,5 +1,7 @@
 # 通晓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxiao_1.md)
+
 <p><span class="chinese">他通晓世界史。</span><span class="english">He is conversant in world history.</span></p>
 
 <p><span class="chinese">迈克尔通晓计算机。</span><span class="english">Michael is all genned up computers.</span></p>

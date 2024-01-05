@@ -1,5 +1,7 @@
 # aura
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aura.md)
+
 <p><span class="chinese">原本的氛围已无迹可寻。</span><span class="english">All form of aura is absent.</span></p>
 
 <p><span class="chinese">我努力想让照片显得更“灵韵”一些。</span><span class="english">I try to make my photos look more "aura".</span></p>

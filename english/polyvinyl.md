@@ -1,5 +1,7 @@
 # polyvinyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyvinyl.md)
+
 <p><span class="chinese">聚氯乙烯共聚物、聚乙烯醇缩丁醛、触变性树脂。</span><span class="english">Vinyl Chloride Co-polymers, Polyvinyl Butyrals, Thixotropy Resin.</span></p>
 
 <p><span class="chinese">探讨了聚乙烯醇缩醛的粘接强度的影响。</span><span class="english">The effect of polyvinyl acetals on its adhesive strength was investigated.</span></p>

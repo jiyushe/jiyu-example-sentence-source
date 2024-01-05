@@ -1,5 +1,7 @@
 # 苯环
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benhuan.md)
+
 <p><span class="chinese">苯环在其他化合物中也可以看见。</span><span class="english">The benzene ring is also seen in other compounds.</span></p>
 
 <p><span class="chinese">这些基团有取代的苯环。</span><span class="english">These groups may be substituted in the phenyl ring.</span></p>

@@ -1,5 +1,7 @@
 # 出出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchu.md)
+
 <p><span class="chinese">他喜欢看牌时议论一下，出出主意。</span><span class="english">He liked to kibitz a card game.</span></p>
 
 <p><span class="chinese">谁能帮我出出主意该怎么才好呢？</span><span class="english">Anybody got any idea what to do?</span></p>

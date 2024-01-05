@@ -1,5 +1,7 @@
 # console
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/console.md)
+
 <p><span class="chinese">去慰问他们？</span><span class="english">To console them?</span></p>
 
 <p><span class="chinese">登录控制台。</span><span class="english">Log in to the console.</span></p>

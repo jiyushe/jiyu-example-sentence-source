@@ -1,5 +1,7 @@
 # 食宿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shisu_1.md)
+
 <p><span class="chinese">谁将负责他的食宿?</span><span class="english">Who will look to his board and lodging?</span></p>
 
 <p><span class="chinese">在周日我食宿在特纳家。</span><span class="english">I board with the Turners during the week.</span></p>

@@ -1,5 +1,7 @@
 # 矮凳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aideng.md)
+
 <p><span class="chinese">我回到丁我的矮凳上。</span><span class="english">I returned to my stool.</span></p>
 
 <p><span class="chinese">我终于听出来，他要说的是他们的学校缺少长椅和矮凳的问题。</span><span class="english">I gathered that their school was short of benches and stools.</span></p>

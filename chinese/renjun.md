@@ -1,5 +1,7 @@
 # 人均
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renjun.md)
+
 <p><span class="chinese">一是“总量”和“人均”。</span><span class="english">"Aggregates" and "per capita".</span></p>
 
 <p><span class="chinese">中国肉类的人均年消费量从仅4千克达到了54千克。</span><span class="english">In China it has risen from 4kg to 54.</span></p>

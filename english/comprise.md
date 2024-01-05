@@ -1,5 +1,7 @@
 # comprise 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comprise.md)
+
 <p><span class="chinese">十章构成第一卷。</span><span class="english">Ten chapters comprise Book One.</span></p>
 
 <p><span class="chinese">第一卷有二十章。</span><span class="english">Twenty chapters comprise Book One.</span></p>

@@ -1,5 +1,7 @@
 # 飞行员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feixingyuan.md)
+
 <p><span class="chinese">你是一位高空飞行员吗？</span><span class="english">Are you a high flier?</span></p>
 
 <p><span class="chinese">飞行员发动飞机。</span><span class="english">The pilot goosed his craft.</span></p>

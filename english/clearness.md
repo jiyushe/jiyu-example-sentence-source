@@ -1,5 +1,7 @@
 # clearness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clearness.md)
+
 <p><span class="chinese">措辞谨慎可使意义清楚。</span><span class="english">Careful wording aids clearness.</span></p>
 
 <p><span class="chinese">他说的明白确切。</span><span class="english">He spoke with clearness and certainty.</span></p>

@@ -1,5 +1,7 @@
 # kefir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kefir.md)
+
 <p><span class="chinese">开菲尔酸奶屋，基于此诞生。</span><span class="english">Kefir yogurt housing, based on the birth.</span></p>
 
 <p><span class="chinese">用这种方法制备的开菲尔核桃乳饮料口感细腻，风味独特。</span><span class="english">By this way, Kefir beverage was tasted fine and had no peculiar odor.</span></p>

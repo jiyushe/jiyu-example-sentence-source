@@ -1,5 +1,7 @@
 # discern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discern.md)
+
 <p><span class="chinese">你说说看。</span><span class="english">You said to discern.</span></p>
 
 <p><span class="chinese">他能分清是非。</span><span class="english">He can discern between right and wrong.</span></p>

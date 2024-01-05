@@ -1,5 +1,7 @@
 # artistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artistic.md)
+
 <p><span class="chinese">吉玛则更热衷于艺术。</span><span class="english">Gemma is more artistic.</span></p>
 
 <p><span class="chinese">他活跃于美术界。</span><span class="english">He moves in artistic circles.</span></p>

@@ -1,5 +1,7 @@
 # 郁闷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yumen_1.md)
+
 <p><span class="chinese">那唐璜忧愁郁闷吗？</span><span class="english">Is Don Juan melancholy?</span></p>
 
 <p><span class="chinese">你想要挥散郁闷吗？</span><span class="english">Want to shake the blues?</span></p>

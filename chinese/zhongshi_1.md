@@ -1,5 +1,7 @@
 # 中师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshi_1.md)
+
 <p><span class="chinese">譬如教书，没进过中师初师，谁相信你会教？</span><span class="english">For example, teach, not into the first division, who believe that you can teach?</span></p>
 
 <p><span class="chinese">中师化学教学中如何培养学生的创新素质？</span><span class="english">How to foster students' innovative spirit in teaching chemistry at a normal school?</span></p>

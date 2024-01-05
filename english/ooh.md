@@ -1,5 +1,7 @@
 # ooh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ooh.md)
+
 <p><span class="chinese">哦，啊，哇！</span><span class="english">Ooh. Aah.</span></p>
 
 <p><span class="chinese">哦，不小的打击。</span><span class="english">Ooh low  blow.</span></p>

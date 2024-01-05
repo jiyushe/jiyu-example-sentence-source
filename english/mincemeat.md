@@ -1,5 +1,7 @@
 # mincemeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mincemeat.md)
+
 <p><span class="chinese">将大蒜磨碎，加到肉末里。</span><span class="english">Grate garlic and add it into the mincemeat.</span></p>
 
 <p><span class="chinese">我真要把你砸成薄饼，你转回头去！</span><span class="english">I'll thrash you into mincemeat ! turn back!</span></p>

@@ -1,5 +1,7 @@
 # martinique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/martinique.md)
+
 <p><span class="chinese">从圣马提尼克岛神秘的女人。</span><span class="english">Of the mysterious lady from St Martinique.</span></p>
 
 <p><span class="chinese">可能下一次你在马提尼克岛，就是单身了。</span><span class="english">Maybe next time ou're in martinique you'll be single.</span></p>

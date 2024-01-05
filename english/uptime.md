@@ -1,5 +1,7 @@
 # uptime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uptime.md)
+
 <p><span class="chinese">唯一的反对观点是正常运行时间。</span><span class="english">The only argument against it is uptime.</span></p>
 
 <p><span class="chinese">经过验证的产品部件保证了机器最大的开机率。</span><span class="english">A high uptime is achieved through the use of proven components.</span></p>

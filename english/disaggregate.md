@@ -1,5 +1,7 @@
 # disaggregate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disaggregate.md)
+
 <p><span class="chinese">个体需求模式?。</span><span class="english">Disaggregate Demand Model?</span></p>
 
 <p><span class="chinese">它还可以对一对多关系中的消息进行聚合和反聚合。</span><span class="english">It may also aggregate and disaggregate messages in a one-to-many relationship.</span></p>

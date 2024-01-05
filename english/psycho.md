@@ -1,5 +1,7 @@
 # psycho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psycho.md)
+
 <p><span class="chinese">你是神经病。</span><span class="english">You are psycho.</span></p>
 
 <p><span class="chinese">我哪有时间玩什么玄虚?。</span><span class="english">When would I have time to play psycho?</span></p>

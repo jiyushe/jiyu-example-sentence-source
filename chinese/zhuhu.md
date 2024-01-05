@@ -1,5 +1,7 @@
 # 住户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuhu.md)
+
 <p><span class="chinese">你是这里的外国住户？</span><span class="english">Are you a foreign tenement here?</span></p>
 
 <p><span class="chinese">这儿有姓马的住户吗?</span><span class="english">Is there anyone named Ma living here?</span></p>

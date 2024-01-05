@@ -1,5 +1,7 @@
 # 成天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengtian.md)
+
 <p><span class="chinese">她成天唠唠叨叨地找他岔子。</span><span class="english">She nagged at him all day long.</span></p>
 
 <p><span class="chinese">她成天弹琴唱歌。</span><span class="english">She plays and sings all day long.</span></p>

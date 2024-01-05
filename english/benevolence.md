@@ -1,5 +1,7 @@
 # benevolence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benevolence.md)
+
 <p><span class="chinese">樊迟问什么是仁。</span><span class="english">Fan Chi asked what is benevolence.</span></p>
 
 <p><span class="chinese">而“仁”又是什么呢？</span><span class="english">" And "benevolence" then what is it?</span></p>

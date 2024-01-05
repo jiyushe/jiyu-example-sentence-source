@@ -1,5 +1,7 @@
 # 同情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongqing_1.md)
+
 <p><span class="chinese">我很同情费雷迪。</span><span class="english">I pity Freddie.</span></p>
 
 <p><span class="chinese">我对您深表同情!</span><span class="english">I sympathize with you.</span></p>

@@ -1,5 +1,7 @@
 # tracheitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tracheitis.md)
+
 <p><span class="chinese">他是个“气管炎”。</span><span class="english">He suffers from tracheitis.</span></p>
 
 <p><span class="chinese">我的慢性气管炎也好了。</span><span class="english">My chronic tracheitis is healed.</span></p>

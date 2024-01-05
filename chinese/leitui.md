@@ -1,5 +1,7 @@
 # 类推
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leitui.md)
+
 <p><span class="chinese">我想做一个类推。</span><span class="english">I want to give you an analogy.</span></p>
 
 <p><span class="chinese">让我们回头想想地图的类推。</span><span class="english">Think back to our map analogy.</span></p>

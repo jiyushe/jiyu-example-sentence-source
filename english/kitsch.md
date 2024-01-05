@@ -1,5 +1,7 @@
 # kitsch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kitsch.md)
+
 <p><span class="chinese">这是恶俗与摩登令人捧腹的组合。</span><span class="english">It's a hilarious mix of kitsch and modern wonder.</span></p>
 
 <p><span class="chinese">否则，即使采用了前卫的形式，也仅是媚俗的伪艺术。</span><span class="english">Otherwise, although in avantgarde form, it is but Kitsch.</span></p>

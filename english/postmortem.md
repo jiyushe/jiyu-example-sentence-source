@@ -1,5 +1,7 @@
 # postmortem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postmortem.md)
+
 <p><span class="chinese">我在无锡，可以到什么地方去验呢？</span><span class="english">I am in Wuxi, you can go to postmortem?</span></p>
 
 <p><span class="chinese">一种牌戏死前还是死后有的?其后，没有血。</span><span class="english">Piquerism. Pre or postmortem ?Post, no blood.</span></p>

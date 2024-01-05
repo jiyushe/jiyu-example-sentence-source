@@ -1,5 +1,7 @@
 # pasty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pasty.md)
+
 <p><span class="chinese">我要你确保那个病秧子裁缝。站在我们这边。</span><span class="english">I want you to make sure that pasty seamstress stays on our side.</span></p>
 
 <p><span class="chinese">真是天上掉下了馅饼，还是一个个美丽的陷阱？</span><span class="english">It is the sky dropped really pasty , be still each beautiful trap?</span></p>

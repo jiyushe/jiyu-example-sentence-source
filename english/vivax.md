@@ -1,5 +1,7 @@
 # vivax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vivax.md)
+
 <p><span class="chinese">我们正在为另外6株间日疟原虫进行测序。</span><span class="english">We are sequencing six more strains of P. vivax.</span></p>
 
 <p><span class="chinese">间日疟原虫和恶性疟原虫是最常见的类型。</span><span class="english">P. vivax and P. falciparum are the most common forms.</span></p>

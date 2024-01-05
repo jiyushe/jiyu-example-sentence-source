@@ -1,5 +1,7 @@
 # midseason
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midseason.md)
+
 <p><span class="chinese">我在赛季中把自己扔进了训练营。</span><span class="english">I put myself through my own midseason training camp.</span></p>
 
 <p><span class="chinese">在孟菲斯南海文假日酒店，鲁迪盖和勒布朗詹姆斯都已经为接下来的比赛做好了准备。</span><span class="english">SOUTHAVEN, Miss. -- Rudy Gay and LeBron James are already in midseason form.</span></p>

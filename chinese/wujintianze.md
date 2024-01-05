@@ -1,5 +1,7 @@
 # 物竞天择
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujintianze.md)
+
 <p><span class="chinese">适者生存是物竞天择过程中的一部分吗？</span><span class="english">Is it part of the natural selection process?</span></p>
 
 <p><span class="chinese">物竞天择是否能解释人的性格？</span><span class="english">Can natural selection explain human personality?</span></p>

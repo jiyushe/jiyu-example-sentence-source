@@ -1,5 +1,7 @@
 # spanned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spanned.md)
+
 <p><span class="chinese">一座桥横跨小河。</span><span class="english">A bridge spanned the rill.</span></p>
 
 <p><span class="chinese">这部小说跨越三个世纪。</span><span class="english">The civil-war spanned almost a century.</span></p>

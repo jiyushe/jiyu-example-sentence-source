@@ -1,5 +1,7 @@
 # affluent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affluent.md)
+
 <p><span class="chinese">我们令社会更丰盛。</span><span class="english">We make our society affluent.</span></p>
 
 <p><span class="chinese">澳门是富裕的城市，但贫富悬殊严重。</span><span class="english">Macau is affluent but not for all people.</span></p>

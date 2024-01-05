@@ -1,5 +1,7 @@
 # 全美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanmei.md)
+
 <p><span class="chinese">成为全美明星队成员感觉怎么样？</span><span class="english">How does it feel to be all-Amercian?</span></p>
 
 <p><span class="chinese">戈尔丁是1982年全美冠军。</span><span class="english">Golding was the 1982 all-America champion.</span></p>

@@ -1,5 +1,7 @@
 # regs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regs.md)
+
 <p><span class="chinese">好手对你的赢利是非常大的损害。</span><span class="english">Regs are super costly to your profit.</span></p>
 
 <p><span class="chinese">小块的破旧衣服或者布料也能被加入。</span><span class="english">Small pieces of regs rags or cloth can be added.</span></p>

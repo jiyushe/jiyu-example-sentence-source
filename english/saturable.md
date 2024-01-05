@@ -1,5 +1,7 @@
 # saturable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saturable.md)
+
 <p><span class="chinese">讨论了慢恢复饱和吸收体的被动调Q过程。</span><span class="english">The behavior of passive Q-switching with a slow saturable absorber is analyzed.</span></p>
 
 <p><span class="chinese">观测到反饱和吸收过程，即实现了光限制效应。</span><span class="english">The reverse saturable absorption process, corresponding to optical limiting performance was observed.</span></p>

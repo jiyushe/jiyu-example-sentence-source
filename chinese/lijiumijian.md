@@ -1,5 +1,7 @@
 # 历久弥坚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijiumijian.md)
+
 <p><span class="chinese">25年已经畴昔，我俩的爱情历久弥坚。</span><span class="english">After 25 years, our love is even stronger than before.</span></p>
 
 <p><span class="chinese">40年已经过去，我俩的爱情历久弥坚。</span><span class="english">After 40 years, our love is even stronger than before.</span></p>

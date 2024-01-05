@@ -1,5 +1,7 @@
 # 衣物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwu_3.md)
+
 <p><span class="chinese">你有送洗的衣物吗？</span><span class="english">Do you have any laundry?</span></p>
 
 <p><span class="chinese">在衣物烘干机中找到钱。</span><span class="english">Finding cash in the dryer.</span></p>

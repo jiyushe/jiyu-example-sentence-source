@@ -1,5 +1,7 @@
 # ab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ab.md)
+
 <p><span class="chinese">线段AB是一条平分线。</span><span class="english">The line AB is a bisector.</span></p>
 
 <p><span class="chinese">这必须由ab公司解决。</span><span class="english">This must be managed by AB.</span></p>

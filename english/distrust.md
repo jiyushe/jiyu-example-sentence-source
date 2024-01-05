@@ -1,5 +1,7 @@
 # distrust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distrust.md)
+
 <p><span class="chinese">但是愤怒和不信任迅速蔓延。</span><span class="english">But anger and distrust run high.</span></p>
 
 <p><span class="chinese">在一个充满猜度的世界里。</span><span class="english">And in a world filled with distrust.</span></p>

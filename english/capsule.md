@@ -1,5 +1,7 @@
 # capsule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capsule.md)
+
 <p><span class="chinese">蒴果卵形。</span><span class="english">Capsule egg form.</span></p>
 
 <p><span class="chinese">什么？胶囊公寓？</span><span class="english">What? Capsule Apartment?</span></p>

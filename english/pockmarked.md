@@ -1,5 +1,7 @@
 # pockmarked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pockmarked.md)
+
 <p><span class="chinese">那是你的脸？长的跟芝麻饼似的，满脸麻子。</span><span class="english">Is that your face? Long with the sesame cake, pockmarked.</span></p>
 
 <p><span class="chinese">他将它举在满是麻子的面前，吸入里面芳香的槟榔膏。</span><span class="english">Holding it to his pockmarked face he inhales the aromatic betel nut paste inside.</span></p>

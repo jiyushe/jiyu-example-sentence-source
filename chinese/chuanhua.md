@@ -1,5 +1,7 @@
 # 传话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanhua.md)
+
 <p><span class="chinese">我可以给你传话。</span><span class="english">You can leave a message now.</span></p>
 
 <p><span class="chinese">速食速食传话或威胁?。</span><span class="english">Instant Menaces or Instant Messengers?</span></p>

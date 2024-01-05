@@ -1,5 +1,7 @@
 # unpalatable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpalatable.md)
+
 <p><span class="chinese">对于中国人来说，这个信息是令人不快的。</span><span class="english">That’s unpalatable to the Chinese audience.</span></p>
 
 <p><span class="chinese">他对死刑存废的见解许多人都不以为然。</span><span class="english">His views on capital are unpalatable to many.</span></p>

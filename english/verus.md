@@ -1,5 +1,7 @@
 # verus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verus.md)
+
 <p><span class="chinese">我带着卷轴返回维洛司处。</span><span class="english">I have returned to Verus with the scroll.</span></p>
 
 <p><span class="chinese">银会员多人联机能玩咩？</span><span class="english">Can Silver profiles play verus multiplayer matches?</span></p>

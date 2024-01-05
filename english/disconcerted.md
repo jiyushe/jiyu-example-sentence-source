@@ -1,5 +1,7 @@
 # disconcerted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disconcerted.md)
+
 <p><span class="chinese">他那含糊的回答弄得我们很为难。</span><span class="english">His vague reply disconcerted us completely.</span></p>
 
 <p><span class="chinese">我改变了主意，打乱了她的计划。</span><span class="english">I changed my mind and disconcerted her plan.</span></p>

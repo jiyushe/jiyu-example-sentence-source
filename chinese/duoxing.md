@@ -1,5 +1,7 @@
 # 惰性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoxing.md)
+
 <p><span class="chinese">如何克服这种惰性呢？</span><span class="english">How can you overcome this inertia?</span></p>
 
 <p><span class="chinese">非暴力并非惰性，也非被动。</span><span class="english">Non-violence is neither inert nor passive.</span></p>

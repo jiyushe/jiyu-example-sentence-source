@@ -1,5 +1,7 @@
 # spatiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spatiality.md)
+
 <p><span class="chinese">空间是现代知识组织的中心问题。</span><span class="english">Spatiality is the kernel issue of modern knowledge organizing.</span></p>
 
 <p><span class="chinese">这样的空间关系可能反应了他们对安全感的需求。</span><span class="english">Such a spatiality probably reflects their demand on the sense of security.</span></p>

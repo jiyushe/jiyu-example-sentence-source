@@ -1,5 +1,7 @@
 # variously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variously.md)
+
 <p><span class="chinese">手锻工具包括各种形状的锻锤。</span><span class="english">Hand forging tools comprise variously shaped hammers.</span></p>
 
 <p><span class="chinese">他做过各种工作，如杂役，木工，侍者等。</span><span class="english">He worked variously as a handyman , carpenter, and waiter.</span></p>

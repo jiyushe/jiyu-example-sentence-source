@@ -1,5 +1,7 @@
 # trisomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trisomy.md)
+
 <p><span class="chinese">作者报告一例具有多种先天性异常的三染色体22症的活产女婴。</span><span class="english">A case of trisomy 22 liveborn female baby with multiple congenital anomalies is described.</span></p>
 
 <p><span class="chinese">推导公式确定比例的父亲是21三体。</span><span class="english">Derivation of a formula for determination of proportion of paternal trisomy 21 is presented.</span></p>

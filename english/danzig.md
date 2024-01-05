@@ -1,5 +1,7 @@
 # danzig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/danzig.md)
+
 <p><span class="chinese">甚至是英国的领导人都认为但泽应该被归还。</span><span class="english">Even British leaders thought Danzig should be returned.</span></p>
 
 <p><span class="chinese">这是在但泽南部的唯一个工程项目。</span><span class="english">This is the only available engineering detail south of Danzig.</span></p>

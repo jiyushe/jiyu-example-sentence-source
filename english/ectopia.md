@@ -1,5 +1,7 @@
 # ectopia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ectopia.md)
+
 <p><span class="chinese">结论子宫内膜异位种植是本症的主要发病机制。</span><span class="english">Conclusion The major pathogenesis is endometrium ectopia and implantation.</span></p>
 
 <p><span class="chinese">目的研究我国单纯性晶状体异位家系的致病基因，并确定基因突变。</span><span class="english">Objective To identify the mutation gene of a Chinese family with ectopia lentis.</span></p>

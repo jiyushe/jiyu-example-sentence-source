@@ -1,5 +1,7 @@
 # 资本主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zibenzhuyi.md)
+
 <p><span class="chinese">但是资本主义呢？</span><span class="english">But what about capitalism?</span></p>
 
 <p><span class="chinese">中国是国家资本主义。</span><span class="english">China is state-capitalist.</span></p>

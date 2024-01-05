@@ -1,5 +1,7 @@
 # ego
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ego.md)
+
 <p><span class="chinese">自负就像一匹马。</span><span class="english">Ego is like a horse.</span></p>
 
 <p><span class="chinese">自我太小成不了大气候。</span><span class="english">A little ego goes nowhere!</span></p>

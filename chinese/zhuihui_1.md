@@ -1,5 +1,7 @@
 # 追悔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuihui_1.md)
+
 <p><span class="chinese">后悔莫及加上追悔无用！</span><span class="english">Duihui with regret and useless!</span></p>
 
 <p><span class="chinese">等到失去后才追悔没及。</span><span class="english">And not to come until after the loss.</span></p>

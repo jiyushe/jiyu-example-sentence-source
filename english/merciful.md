@@ -1,5 +1,7 @@
 # merciful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merciful.md)
+
 <p><span class="chinese">他被人看做是一位仁者。</span><span class="english">He was accounted a merciful man.</span></p>
 
 <p><span class="chinese">有些人则说他所做的事很仁慈。</span><span class="english">Others say what he is doing is merciful.</span></p>

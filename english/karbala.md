@@ -1,5 +1,7 @@
 # karbala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karbala.md)
+
 <p><span class="chinese">许多什叶派教徒赶往卡尔巴拉参加此活动。</span><span class="english">Many Shia pilgrims are making their way to Karbala for the occasion.</span></p>
 
 <p><span class="chinese">伊拉克官员已加强了什叶派城市卡尔巴拉的戒备。</span><span class="english">Officials in Iraq have increased security in the Shiite city of Karbala.</span></p>

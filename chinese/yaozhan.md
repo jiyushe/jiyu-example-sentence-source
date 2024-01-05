@@ -1,5 +1,7 @@
 # 腰斩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaozhan.md)
+
 <p><span class="chinese">恋爱游戏并不会因为天黑就可以腰斩的。</span><span class="english">The love game is never called off on account of darkness.</span></p>
 
 <p><span class="chinese">她是史上第一位接受腰斩手术而存活的人。</span><span class="english">She has become the first person to survive being cut in half.</span></p>

@@ -1,5 +1,7 @@
 # karma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karma.md)
+
 <p><span class="chinese">恩典或业报？</span><span class="english">Grace or Karma?</span></p>
 
 <p><span class="chinese">也许这就是因果报应。</span><span class="english">Maybe it was karma.</span></p>

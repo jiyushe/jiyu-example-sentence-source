@@ -1,5 +1,7 @@
 # centralize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centralize.md)
+
 <p><span class="chinese">将业务流程跨业务单位集中。</span><span class="english">Centralize business processes across business units.</span></p>
 
 <p><span class="chinese">两者都是集中用户信息的有效方法。</span><span class="english">Both are effective ways to centralize user information.</span></p>

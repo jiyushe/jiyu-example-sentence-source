@@ -1,5 +1,7 @@
 # 单单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dandan.md)
+
 <p><span class="chinese">别人都去了，单单她没去。</span><span class="english">Everybody has gone except her.</span></p>
 
 <p><span class="chinese">单单将它们摆放在一起，就是一个不小的任务。</span><span class="english">Simply put, it's no small task.</span></p>

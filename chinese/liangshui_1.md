@@ -1,5 +1,7 @@
 # 凉水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangshui_1.md)
+
 <p><span class="chinese">我可以喝点凉水吗？</span><span class="english">Can I have some water?</span></p>
 
 <p><span class="chinese">喝大量的凉水。</span><span class="english">Drink lots of cool water.</span></p>

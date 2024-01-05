@@ -1,5 +1,7 @@
 # 甩开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaikai.md)
+
 <p><span class="chinese">她却甩开了他的手。</span><span class="english">She shook it off.</span></p>
 
 <p><span class="chinese">甩开这孩子！</span><span class="english">Cast off this child!</span></p>

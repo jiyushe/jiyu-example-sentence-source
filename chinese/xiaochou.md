@@ -1,5 +1,7 @@
 # 消愁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaochou.md)
+
 <p><span class="chinese">我要消愁解闷。</span><span class="english">I"ll drown my sorrows."</span></p>
 
 <p><span class="chinese">你可用唱歌解忧消愁！</span><span class="english">You can sing your cares away!</span></p>

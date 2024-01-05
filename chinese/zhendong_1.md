@@ -1,5 +1,7 @@
 # 震动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhendong_1.md)
+
 <p><span class="chinese">山都在震动。</span><span class="english">The mountains shook.</span></p>
 
 <p><span class="chinese">春雷震动山谷。</span><span class="english">Spring thunder shook the valley.</span></p>

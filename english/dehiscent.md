@@ -1,5 +1,7 @@
 # dehiscent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dehiscent.md)
+
 <p><span class="chinese">由两个或多个心皮形成的开裂干果。</span><span class="english">A dry, dehiscent fruit composed of more than one carpel.</span></p>
 
 <p><span class="chinese">任何开裂的干果，尤指荚果或蓇葖果。</span><span class="english">Any dry, dehiscent fruit, especially a legume or follicle.</span></p>

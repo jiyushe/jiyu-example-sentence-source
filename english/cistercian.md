@@ -1,5 +1,7 @@
 # cistercian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cistercian.md)
+
 <p><span class="chinese">这些措施最终通过了其他修道院寺庙。</span><span class="english">Eventually these measures were adopted by other Cistercian monasteries.</span></p>
 
 <p><span class="chinese">他既不会为自已的成就沾沾自喜，也不会成为牧师或西多会的修士。</span><span class="english">But he could no more have rested on his laurels than he could have become a clergyman or a Cistercian monk.</span></p>

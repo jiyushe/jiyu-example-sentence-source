@@ -1,5 +1,7 @@
 # sexy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sexy.md)
+
 <p><span class="chinese">性感，性感，非常的性感。</span><span class="english">Sexy. Sexier.</span></p>
 
 <p><span class="chinese">那是性感的。</span><span class="english">That is sexy.</span></p>

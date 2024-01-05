@@ -1,5 +1,7 @@
 # countersign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countersign.md)
+
 <p><span class="chinese">现在请确认后签名。</span><span class="english">Now, please countersign it.</span></p>
 
 <p><span class="chinese">又是朋友间的口号。</span><span class="english">And is the countersign of friendship.</span></p>

@@ -1,5 +1,7 @@
 # rotten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotten.md)
+
 <p><span class="chinese">该诅咒的坏运气。</span><span class="english">Blame the rotten luck.</span></p>
 
 <p><span class="chinese">熟的快烂的也快…</span><span class="english">Soon ripe, soon rotten.</span></p>

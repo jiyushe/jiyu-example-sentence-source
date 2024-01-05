@@ -1,5 +1,7 @@
 # 站立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanli_2.md)
+
 <p><span class="chinese">山式站立。</span><span class="english">Stand in Mountain pose.</span></p>
 
 <p><span class="chinese">站立或行走时要直。</span><span class="english">Stand and walk straight.</span></p>

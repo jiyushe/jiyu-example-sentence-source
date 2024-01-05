@@ -1,5 +1,7 @@
 # wheatgrass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheatgrass.md)
+
 <p><span class="chinese">她还想知道我们喜不喜欢麦草汁。</span><span class="english">And she wants to know if we like wheatgrass.</span></p>
 
 <p><span class="chinese">麦草能给身体和大脑提供活力。</span><span class="english">Wheatgrass is an energiser for body and mind.</span></p>

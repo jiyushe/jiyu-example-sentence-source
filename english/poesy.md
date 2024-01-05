@@ -1,5 +1,7 @@
 # poesy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poesy.md)
+
 <p><span class="chinese">诗的光环消失了。</span><span class="english">The glamour of poesy is gone.</span></p>
 
 <p><span class="chinese">我要展开诗歌的无形羽翼</span><span class="english">But on the viewless wings of Poesy</span></p>

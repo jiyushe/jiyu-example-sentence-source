@@ -1,5 +1,7 @@
 # 斗篷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/doupeng.md)
+
 <p><span class="chinese">她有一件漂亮的斗篷。</span><span class="english">She has a beautiful mantle.</span></p>
 
 <p><span class="chinese">她披着红丝斗篷。</span><span class="english">She was cloaked in red silk.</span></p>

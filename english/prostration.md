@@ -1,5 +1,7 @@
 # prostration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prostration.md)
+
 <p><span class="chinese">有两名赛跑选手因虚脱而倒下了。</span><span class="english">Two of the runners collapsed in a state of prostration.</span></p>
 
 <p><span class="chinese">长期的焦虑导致她的神经衰弱。</span><span class="english">A long period of worrying led to her nervous prostration.</span></p>

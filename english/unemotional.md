@@ -1,5 +1,7 @@
 # unemotional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unemotional.md)
+
 <p><span class="chinese">这是一次横眉冷对，毫无感情的见面。</span><span class="english">IT WAS a hard-eyed, unemotional get-together.</span></p>
 
 <p><span class="chinese">我完全感受不到别人的痛苦。</span><span class="english">I can become totally devoid of feelings of others, unemotional.</span></p>

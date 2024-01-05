@@ -1,5 +1,7 @@
 # mace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mace.md)
+
 <p><span class="chinese">肉豆蔻、肉豆蔻衣及豆蔻。</span><span class="english">Nutmeg, mace and cardamoms.</span></p>
 
 <p><span class="chinese">但梅斯稍后便知其决定是错的。</span><span class="english">Mace Windu would later lament the poor decision.</span></p>

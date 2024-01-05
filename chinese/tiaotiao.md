@@ -1,5 +1,7 @@
 # 条条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaotiao.md)
+
 <p><span class="chinese">条条大路通罗马！殊途同归！</span><span class="english">All roads lead to Rome!</span></p>
 
 <p><span class="chinese">条条道路通臩罗马。</span><span class="english">All roads lead to Rome.</span></p>

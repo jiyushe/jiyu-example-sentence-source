@@ -1,5 +1,7 @@
 # 古谚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyan.md)
+
 <p><span class="chinese">现在他们仍然记得那句古谚语。</span><span class="english">They still remember that old saying these days.</span></p>
 
 <p><span class="chinese">正如古谚所说，软弱的心无法赢得美人。</span><span class="english">As the old saw has it, faint heart never won fair lady.</span></p>

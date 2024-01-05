@@ -1,5 +1,7 @@
 # shaggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaggy.md)
+
 <p><span class="chinese">一件蓬松的红狐皮大衣。</span><span class="english">A shaggy red fox coat.</span></p>
 
 <p><span class="chinese">她的宠物是一只毛粗而蓬松的狗。</span><span class="english">Her PET is a shaggy dog.</span></p>

@@ -1,5 +1,7 @@
 # subzone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subzone.md)
+
 <p><span class="chinese">合理开发区是生态旅游开发的首选地段。</span><span class="english">The first subzone was first choice to ? ecotourism development.</span></p>
 
 <p><span class="chinese">金林金矿位于冕西韧性剪切带的东带。</span><span class="english">Jinlin gold deposit lies in the eastern subzone of the west Mianning shear zone.</span></p>

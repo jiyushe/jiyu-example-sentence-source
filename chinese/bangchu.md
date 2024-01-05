@@ -1,5 +1,7 @@
 # 帮厨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangchu.md)
+
 <p><span class="chinese">我想看见你真的帮厨。</span><span class="english">I wanna see you help cook.</span></p>
 
 <p><span class="chinese">妈妈需要额外的人手帮厨。</span><span class="english">Mother needs extra help in the kitchen.</span></p>

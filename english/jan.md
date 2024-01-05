@@ -1,5 +1,7 @@
 # jan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jan.md)
+
 <p><span class="chinese">我是媄。你叫什麽名字？</span><span class="english">My name is Jan.</span></p>
 
 <p><span class="chinese">弗丽达和简披露出这一新闻。</span><span class="english">Frieda and Jan break the news.</span></p>

@@ -1,5 +1,7 @@
 # isoenzyme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isoenzyme.md)
+
 <p><span class="chinese">酯酶同功酶显示5条酶带。</span><span class="english">Esterase isoenzyme of the egg consists of 5 bands.</span></p>
 
 <p><span class="chinese">说明同工酶不但是细胞代谢的调节者，亦能作为细胞衰老的一种指标。</span><span class="english">It seems that changes of isoenzyme pattern may be used as an index of cell aging.</span></p>

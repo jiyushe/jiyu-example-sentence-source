@@ -1,5 +1,7 @@
 # 震荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhendang_1.md)
+
 <p><span class="chinese">它在震荡。</span><span class="english">It's oscillating.</span></p>
 
 <p><span class="chinese">目前聚酯切片价格震荡上调。</span><span class="english">Current pet chip price shock rise.</span></p>

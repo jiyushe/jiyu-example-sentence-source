@@ -1,5 +1,7 @@
 # 忿忿不平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfenbuping.md)
+
 <p><span class="chinese">失去工作后他一直忿忿不平。</span><span class="english">He was full of bitterness after he lost his job.</span></p>
 
 <p><span class="chinese">狮子座因被摩羯座抢占了餐桌的主位而忿忿不平。</span><span class="english">Leo sulks that Capricorn is at the head of the table.</span></p>

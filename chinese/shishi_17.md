@@ -1,5 +1,7 @@
 # 逝世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_17.md)
+
 <p><span class="chinese">爱跟逝世，哪个更凉？</span><span class="english">Love and death, which colder?</span></p>
 
 <p><span class="chinese">特科于星期五逝世，享年96岁。</span><span class="english">Terkel died Friday. He was 96.</span></p>

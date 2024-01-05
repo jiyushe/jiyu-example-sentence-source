@@ -1,5 +1,7 @@
 # unzipped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unzipped.md)
+
 <p><span class="chinese">他拉开夹克衫的拉链。</span><span class="english">He unzipped his jacket.</span></p>
 
 <p><span class="chinese">他拉开包的拉链取出一个麦克风。</span><span class="english">He unzipped the pouch and removed a microphone.</span></p>

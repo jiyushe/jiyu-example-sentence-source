@@ -1,5 +1,7 @@
 # 寻花问柳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunhuawenliu.md)
+
 <p><span class="chinese">我并不因为他寻花问柳而责怪他。</span><span class="english">I didn't fault a man for chasing tail.</span></p>
 
 <p><span class="chinese">他成家前寻花问柳。</span><span class="english">He tomcatted around before settling down.</span></p>

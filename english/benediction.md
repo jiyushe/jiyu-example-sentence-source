@@ -1,5 +1,7 @@
 # benediction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benediction.md)
+
 <p><span class="chinese">请接受我的祝福。</span><span class="english">Please accept my benediction.</span></p>
 
 <p><span class="chinese">祝福之后就是战争。</span><span class="english">After benediction comes battle.</span></p>

@@ -1,5 +1,7 @@
 # crawfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crawfish.md)
+
 <p><span class="chinese">什锦菜，河虾派，秋葵加肉片。</span><span class="english">Jambalaya , crawfish pie, fillet gumbo.</span></p>
 
 <p><span class="chinese">然后加入切碎的梭鲈和小龙虾。</span><span class="english">Here we add cut zanders and crawfish meet.</span></p>

@@ -1,5 +1,7 @@
 # archimedean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archimedean.md)
+
 <p><span class="chinese">采用的方法是运用阿基米德浮力基本定律与磁致伸缩位移技术相结合。</span><span class="english">The method combined the Archimedean principle of buoyancy with flex displacement technology caused by magnetism is adopted.</span></p>
 
 <p><span class="chinese">论述其原理与计算过程，并给出阿基米德蜗杆传动的具体算例。</span><span class="english">The principal and the computing process are analyzed, and gave the concrete computing example of the Archimedean worm gear is presented.</span></p>

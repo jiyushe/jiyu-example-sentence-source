@@ -1,5 +1,7 @@
 # 送别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songbie.md)
+
 <p><span class="chinese">你不送给玛利亚一份送别礼物吗？</span><span class="english">Maria a good-bye present?</span></p>
 
 <p><span class="chinese">车站送别，依依惜别。</span><span class="english">Station  to bid farewell.</span></p>

@@ -1,5 +1,7 @@
 # whin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whin.md)
+
 <p><span class="chinese">我们如今如何办?。</span><span class="english">So whin do we do now?</span></p>
 
 <p><span class="chinese">重要的是你如何生活。</span><span class="english">Whin minters is how you live.</span></p>

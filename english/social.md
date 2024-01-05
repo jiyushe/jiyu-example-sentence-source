@@ -1,5 +1,7 @@
 # social
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/social.md)
+
 <p><span class="chinese">社会议程。</span><span class="english">Social Agenda.</span></p>
 
 <p><span class="chinese">使之社交化。</span><span class="english">Make it social.</span></p>

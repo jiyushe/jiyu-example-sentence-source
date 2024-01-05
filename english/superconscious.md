@@ -1,5 +1,7 @@
 # superconscious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superconscious.md)
+
 <p><span class="chinese">启示来自超意识层面。</span><span class="english">Revelations come from the above or superconscious level.</span></p>
 
 <p><span class="chinese">潜意识和超意识中的思想的渗透也很明显。</span><span class="english">Bleeding in of subconscious and superconscious thoughts is also evident.</span></p>

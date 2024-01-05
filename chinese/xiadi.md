@@ -1,5 +1,7 @@
 # 下地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiadi.md)
+
 <p><span class="chinese">今天下地干活要用铁耙了。</span><span class="english">A rake made of iron.</span></p>
 
 <p><span class="chinese">匆忙中，玛拉的包掉下地。</span><span class="english">In a hurry, Myra drops her bag.</span></p>

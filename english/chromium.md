@@ -1,5 +1,7 @@
 # chromium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromium.md)
+
 <p><span class="chinese">铬矿砂及其精矿。</span><span class="english">Chromium ores and concentrates.</span></p>
 
 <p><span class="chinese">铬的氧化物及氢氧化物。</span><span class="english">Chromium oxides and hydroxides.</span></p>

@@ -1,5 +1,7 @@
 # irritate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irritate.md)
+
 <p><span class="chinese">她可真会刺激他。</span><span class="english">She really knew how to irritate him.</span></p>
 
 <p><span class="chinese">实际上，差不多所有的药都刺激我。</span><span class="english">In fact, almost all drugs irritate me.</span></p>

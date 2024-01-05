@@ -1,5 +1,7 @@
 # bawdy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bawdy.md)
+
 <p><span class="chinese">我们曾经因为在公墓唱下流歌曲而被拘留过一次。</span><span class="english">We got arrested once, for singing bawdy songs in a cemetery.</span></p>
 
 <p><span class="chinese">所有参加宴会的人都厌恶他那淫秽的笑话。</span><span class="english">All the people in the party were disgusted with his bawdy jokes.</span></p>

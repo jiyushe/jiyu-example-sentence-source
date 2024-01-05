@@ -1,5 +1,7 @@
 # 百褶裙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baizhequn.md)
+
 <p><span class="chinese">落在我蓝色百褶裙上。</span><span class="english">Falls on my blue color pleated skirt.</span></p>
 
 <p><span class="chinese">跳集体舞的时候我们都穿了百褶裙。</span><span class="english">We all wore pleated skirts for that dance.</span></p>

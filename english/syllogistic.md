@@ -1,5 +1,7 @@
 # syllogistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syllogistic.md)
+
 <p><span class="chinese">这一历史过程表现为一个三段式的运动。</span><span class="english">This historical course assumes a syllogistic movement.</span></p>
 
 <p><span class="chinese">这种推论的形式，是一切事物的普遍形式。</span><span class="english">The syllogistic form is a universal form of all things.</span></p>

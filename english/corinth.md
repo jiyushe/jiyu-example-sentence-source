@@ -1,5 +1,7 @@
 # corinth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corinth.md)
+
 <p><span class="chinese">另一名是威廉·艾里奥特，24岁，科林斯人。</span><span class="english">Gray, 57, of Milo, and William Elliott, 24, of Corinth.</span></p>
 
 <p><span class="chinese">他们到科林斯请求救援</span><span class="english">They go to Corinth asking the Corinthians to please help us.</span></p>

@@ -1,5 +1,7 @@
 # monocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monocyte.md)
+
 <p><span class="chinese">U937是一种前单核细胞，其主要是以悬浮生长为主，细胞形态成圆球状，表面光滑，没有突起。</span><span class="english">U937 is a kind of pro monocyte. It grows mainly in the state of suspension.</span></p>
 
 <p><span class="chinese">淋巴细胞多，单核细胞多，中性细胞比率低，是什么问题？</span><span class="english">Lymphocyte is much, monocyte is much, neuter cell rate is low, what problem be?</span></p>

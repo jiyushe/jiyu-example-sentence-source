@@ -1,5 +1,7 @@
 # organochlorine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organochlorine.md)
+
 <p><span class="chinese">太湖湿地生态系统有机氯污染的夜鹭生物指示。</span><span class="english">Boindication of organochlorine pesticides by night heron in taihu wetland ecosystem.</span></p>
 
 <p><span class="chinese">水稻—蔬菜轮作的方式可减少有机氯农药污染的风险。</span><span class="english">The rotation of vegetable and rice could decrease the risk of organochlorine pollution.</span></p>

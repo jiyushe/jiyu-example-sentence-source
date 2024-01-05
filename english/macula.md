@@ -1,5 +1,7 @@
 # macula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macula.md)
+
 <p><span class="chinese">皮肤上的黑点可以去吗？</span><span class="english">Can the macula on the skin go?</span></p>
 
 <p><span class="chinese">目的探讨男性黄褐斑发病的可能机理。</span><span class="english">Objective To research on the possible mechanism of male macula retinae.</span></p>

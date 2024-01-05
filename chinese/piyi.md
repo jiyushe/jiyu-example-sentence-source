@@ -1,5 +1,7 @@
 # 皮衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piyi.md)
+
 <p><span class="chinese">她穿着一件昂贵的皮衣。</span><span class="english">She is wearing an expensive fur.</span></p>
 
 <p><span class="chinese">抢劫犯突然对这个身着皮衣的妇女进行袭击。</span><span class="english">The muggers jumped the woman in the fur coat.</span></p>

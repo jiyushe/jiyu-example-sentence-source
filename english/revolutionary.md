@@ -1,5 +1,7 @@
 # revolutionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revolutionary.md)
+
 <p><span class="chinese">弥尔顿是个革命者。</span><span class="english">Milton was a revolutionary.</span></p>
 
 <p><span class="chinese">它是一革命的行动。</span><span class="english">It is a revolutionary action.</span></p>

@@ -1,5 +1,7 @@
 # urchin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urchin.md)
+
 <p><span class="chinese">诺玛餐厅的虾和海胆粉</span><span class="english">Noma's Shrimp and Sea Urchin Powder</span></p>
 
 <p><span class="chinese">一个以前常在那里看见他的顽童，停下来观望着。</span><span class="english">An urchin who had frequently seen him before, stopped to gaze.</span></p>

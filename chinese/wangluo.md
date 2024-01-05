@@ -1,5 +1,7 @@
 # 网罗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangluo.md)
+
 <p><span class="chinese">你想网罗的是怎样的风暴？</span><span class="english">What storms would you trap in your net</span></p>
 
 <p><span class="chinese">它颤抖着，如桦树枝在网罗空气。</span><span class="english">It trembles as birch limbs webbing the air.</span></p>

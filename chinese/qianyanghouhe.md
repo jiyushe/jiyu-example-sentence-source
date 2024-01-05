@@ -1,5 +1,7 @@
 # 前仰后合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianyanghouhe.md)
+
 <p><span class="chinese">他们笑得前仰后合。</span><span class="english">They were rolling with laughter.</span></p>
 
 <p><span class="chinese">他的笑话逗得我们前仰后合地大笑起来。</span><span class="english">His joke had us convulsed with laughter.</span></p>

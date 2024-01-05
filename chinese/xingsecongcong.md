@@ -1,5 +1,7 @@
 # 行色匆匆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingsecongcong.md)
+
 <p><span class="chinese">我们无处可去，却行色匆匆。</span><span class="english">We are going nowhere, but fast.</span></p>
 
 <p><span class="chinese">叶子们不希望我们行色匆匆</span><span class="english">Their leaves do not wish us to hurry</span></p>

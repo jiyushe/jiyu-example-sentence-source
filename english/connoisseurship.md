@@ -1,5 +1,7 @@
 # connoisseurship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connoisseurship.md)
+
 <p><span class="chinese">几个世纪以来，侦探必须主要依赖其鉴赏力。</span><span class="english">For centuries art detectives had to rely mainly on connoisseurship.</span></p>
 
 <p><span class="chinese">从这个意义上讲，比罗的鉴定方法远没有传统的鉴定方法民主。</span><span class="english">In that sense, Biro’s authentications were far less democratic than traditional connoisseurship.</span></p>

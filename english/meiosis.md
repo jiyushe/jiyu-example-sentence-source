@@ -1,5 +1,7 @@
 # meiosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meiosis.md)
+
 <p><span class="chinese">减数分裂同步率较高。</span><span class="english">The meiosis is highly synchronous.</span></p>
 
 <p><span class="chinese">减数分裂过程的特殊结构及其变化。</span><span class="english">Specific ultra-structure changes during meiosis.</span></p>

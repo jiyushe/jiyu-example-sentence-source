@@ -1,5 +1,7 @@
 # waster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waster.md)
+
 <p><span class="chinese">太浪费时间啦。</span><span class="english">HUGE time waster.</span></p>
 
 <p><span class="chinese">但是我认为它是一个有害之物和一个次铸损。</span><span class="english">But I think it is a pest and a time waster.</span></p>

@@ -1,5 +1,7 @@
 # devastation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devastation.md)
+
 <p><span class="chinese">我目睹了大量的蹂躏和恐惧。</span><span class="english">I witnessed a lot of devastation and horror.</span></p>
 
 <p><span class="chinese">可是，大破坏后的恢复工作却需要花上数年。</span><span class="english">But it can take years to recover from the devastation.</span></p>

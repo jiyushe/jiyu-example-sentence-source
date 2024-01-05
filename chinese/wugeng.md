@@ -1,5 +1,7 @@
 # 五更
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugeng.md)
+
 <p><span class="chinese">七比五更多。</span><span class="english">Seven is more than five.</span></p>
 
 <p><span class="chinese">仰头相向鸣，夜夜达五更。行人驻足听，寡妇起彷徨。</span><span class="english">Pedestrians stop to listen, a widow from a loss.</span></p>

@@ -1,5 +1,7 @@
 # 紫檀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zitan.md)
+
 <p><span class="chinese">紫檀鬃眼细密，木质坚重。</span><span class="english">Rosewood fine bristles eyes, strong heavy wood.</span></p>
 
 <p><span class="chinese">参见“魔杖”页面，了解以紫檀制成的魔杖的细节。</span><span class="english">See wands page for details of wands made of rosewood.</span></p>

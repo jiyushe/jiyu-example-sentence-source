@@ -1,5 +1,7 @@
 # 人祸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renhuo.md)
+
 <p><span class="chinese">旧病复发，新病增加，是天灾还是人祸？</span><span class="english">Relapse, a new disease to increase is natural or man-made?</span></p>
 
 <p><span class="chinese">或者你会梦到像原子弹或化学战之类的人祸。</span><span class="english">Or you dream about manmade disasters like atomic bombs or chemical warfare.</span></p>

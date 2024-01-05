@@ -1,5 +1,7 @@
 # 宇航员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhangyuan.md)
+
 <p><span class="chinese">他是一个宇航员。</span><span class="english">He is a spaceman.</span></p>
 
 <p><span class="chinese">我将成为宇航员。</span><span class="english">I will be an astronaut.</span></p>

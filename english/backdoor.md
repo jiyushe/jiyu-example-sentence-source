@@ -1,5 +1,7 @@
 # backdoor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backdoor.md)
+
 <p><span class="chinese">这给了一个新的方法去开后门。</span><span class="english">It gives a new method of putting backdoor.</span></p>
 
 <p><span class="chinese">我们担心，这可能也是一个后门互联网的审查。</span><span class="english">We fear it could also be a backdoor to censorship of the internet.</span></p>

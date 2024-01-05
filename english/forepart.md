@@ -1,5 +1,7 @@
 # forepart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forepart.md)
+
 <p><span class="chinese">积累效应主要发生于暴露早期。</span><span class="english">The accumulation mainly occurred in forepart exposure.</span></p>
 
 <p><span class="chinese">梳理过程中纤维的断裂主要发生在梳毛机的预梳部位。</span><span class="english">The fibre breakage generally occurs in the forepart of the card during carding.</span></p>

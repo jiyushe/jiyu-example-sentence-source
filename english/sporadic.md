@@ -1,5 +1,7 @@
 # sporadic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sporadic.md)
+
 <p><span class="chinese">米凯尔的进步是零星的。</span><span class="english">Mikael's progress is sporadic.</span></p>
 
 <p><span class="chinese">欺诈是很零星的而且具有公司特性。</span><span class="english">Frauds are sporadic and company-specific.</span></p>

@@ -1,5 +1,7 @@
 # spironolactone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spironolactone.md)
+
 <p><span class="chinese">安体舒通与口服避孕药联用是最常用的治疗方法。</span><span class="english">The most commonly used treatment is spironolactone in combination with OCP.</span></p>
 
 <p><span class="chinese">安体舒的问世，奠定了我国抗肿瘤药物在国际上的领先地位。</span><span class="english">The advent of spironolactone laid the anticancer drug in China's leading position in the international arena.</span></p>

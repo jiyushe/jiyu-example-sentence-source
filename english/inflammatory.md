@@ -1,5 +1,7 @@
 # inflammatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflammatory.md)
+
 <p><span class="chinese">即使有炎症浸润也很少。</span><span class="english">Inflammatory infiltrates are scant if any.</span></p>
 
 <p><span class="chinese">我们的煽动性的细胞因子升高和降低。</span><span class="english">Our inflammatory cytokines go up and down.</span></p>

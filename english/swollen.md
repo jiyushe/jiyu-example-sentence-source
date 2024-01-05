@@ -1,5 +1,7 @@
 # swollen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swollen.md)
+
 <p><span class="chinese">我的手肿起来。</span><span class="english">My hand was swollen.</span></p>
 
 <p><span class="chinese">你的脚肿了吗？</span><span class="english">Is your foot swollen?</span></p>

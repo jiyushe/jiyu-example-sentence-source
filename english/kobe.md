@@ -1,5 +1,7 @@
 # kobe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kobe.md)
+
 <p><span class="chinese">到科比展现终结者本色的时候了。</span><span class="english">Time for Kobe to go Kyra.</span></p>
 
 <p><span class="chinese">我们需要卖底来抵消扣比。</span><span class="english">We need Tmac to offset Kobe.</span></p>

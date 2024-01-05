@@ -1,5 +1,7 @@
 # assumption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assumption.md)
+
 <p><span class="chinese">这是一种危险的假设。</span><span class="english">That's a dangerous assumption.</span></p>
 
 <p><span class="chinese">沙丘的傲慢自负。</span><span class="english">The Assumption of the Sand-dune.</span></p>

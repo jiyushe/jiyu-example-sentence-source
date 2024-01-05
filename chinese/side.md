@@ -1,5 +1,7 @@
 # 私德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/side.md)
+
 <p><span class="chinese">公德与私德均在衰落之中。</span><span class="english">Private and public virtues were at the lowest ebb.</span></p>
 
 <p><span class="chinese">这第三种国民公德涵盖一切私德与公德的所有的方方面面。</span><span class="english">The last kind covers all aspects of private and public morality.</span></p>

@@ -1,5 +1,7 @@
 # 橘子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzi_2.md)
+
 <p><span class="chinese">吃点橘子吧！</span><span class="english">Have some tangerines.</span></p>
 
 <p><span class="chinese">他们需要多弄一点橘子酱。</span><span class="english">They need more marmalade.</span></p>

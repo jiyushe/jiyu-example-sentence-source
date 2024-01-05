@@ -1,5 +1,7 @@
 # 邮差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youchai.md)
+
 <p><span class="chinese">我叔叔是个邮差。</span><span class="english">My uncle is a mailman.</span></p>
 
 <p><span class="chinese">那个邮差摇了摇头。</span><span class="english">The postman shook his head.</span></p>

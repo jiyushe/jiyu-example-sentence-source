@@ -1,5 +1,7 @@
 # oblate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oblate.md)
+
 <p><span class="chinese">地球是个扁圆球体。</span><span class="english">The earth is an oblate sphere.</span></p>
 
 <p><span class="chinese">地球是一扁圆球体。</span><span class="english">The earth is an oblate sphere.</span></p>

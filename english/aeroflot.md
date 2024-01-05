@@ -1,5 +1,7 @@
 # aeroflot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeroflot.md)
+
 <p><span class="chinese">根据路透社和美联社的消息，俄航确认斯诺登并不在那架飞机上。</span><span class="english">Aeroflot confirms Snowden was not on that plane, according to both Reuters and AP.</span></p>
 
 <p><span class="chinese">据称，斯诺登在俄航150航班上订了一个座位，经济舱17A。</span><span class="english">Mr. Snowden was said to have reserved a ticket on the flight, Aeroflot Flight 150, in coach seat 17A.</span></p>

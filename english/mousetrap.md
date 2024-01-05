@@ -1,5 +1,7 @@
 # mousetrap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mousetrap.md)
+
 <p><span class="chinese">妳能拼出三个字母的捕鼠器吗？</span><span class="english">Can you spell mousetrap with three letters ?</span></p>
 
 <p><span class="chinese">我们一直在努力经营出自己的“一招鲜”。</span><span class="english">We just keep trying to create a better mousetrap.</span></p>

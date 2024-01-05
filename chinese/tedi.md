@@ -1,5 +1,7 @@
 # 特地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tedi.md)
+
 <p><span class="chinese">他今天特地来接您。</span><span class="english">He has come to meet you.</span></p>
 
 <p><span class="chinese">我是特地来接您的。</span><span class="english">I'm here specially to meet you.</span></p>

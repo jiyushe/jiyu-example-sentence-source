@@ -1,5 +1,7 @@
 # nowaday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nowaday.md)
+
 <p><span class="chinese">现在，我不知道自己身在何处。</span><span class="english">Nowaday I don't know where am I.</span></p>
 
 <p><span class="chinese">现今中国己经是真正地世界领头羊了。</span><span class="english">Nowaday China is the real head of the world.</span></p>

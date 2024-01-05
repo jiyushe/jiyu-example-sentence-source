@@ -1,5 +1,7 @@
 # acidification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acidification.md)
+
 <p><span class="chinese">使衣物可以均匀接受酸化作用。</span><span class="english">So that clothing can even accept the acidification.</span></p>
 
 <p><span class="chinese">但是单独分离出酸化的作用将是非常困难的。</span><span class="english">But singling out the role of acidification will be hard.</span></p>

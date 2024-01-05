@@ -1,5 +1,7 @@
 # bigoted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bigoted.md)
+
 <p><span class="chinese">即使你很固执，我也认为您养育孩子是相当容易的。</span><span class="english">I imagine it's pretty easy to raise your kid if you're bigoted.</span></p>
 
 <p><span class="chinese">切莫对任何习俗执迷不悟以致于以真理的代价来崇拜它。</span><span class="english">Be not so bigoted to any custom as to worship it at the expense of truth.</span></p>

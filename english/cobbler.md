@@ -1,5 +1,7 @@
 # cobbler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cobbler.md)
+
 <p><span class="chinese">出售10个所有混合水果派。</span><span class="english">Sell 10 cobbler is pies.</span></p>
 
 <p><span class="chinese">这个补鞋匠真是笨手笨脚。</span><span class="english">This cobbler is rather clumsy.</span></p>

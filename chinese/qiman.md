@@ -1,5 +1,7 @@
 # 欺瞒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiman.md)
+
 <p><span class="chinese">不要试图欺瞒面试官或者和面试官斗智斗勇</span><span class="english">Don't try to outwit or outguess the interviewer.</span></p>
 
 <p><span class="chinese">决不撒谎，欺瞒或偷盗，坚守公平交易。</span><span class="english">Never lie,cheat or steal,always strike a fair deal.</span></p>

@@ -1,5 +1,7 @@
 # tatami
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tatami.md)
+
 <p><span class="chinese">在广州到那里可以买到塌塌米？</span><span class="english">In Guangzhou, where to buy tatami ?</span></p>
 
 <p><span class="chinese">您要榻榻米的房间还是坐餐桌？</span><span class="english">Would you like to sit in a "tatami" room or at a table?</span></p>

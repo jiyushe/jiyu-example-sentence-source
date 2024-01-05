@@ -1,5 +1,7 @@
 # 土地证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tudizheng.md)
+
 <p><span class="chinese">我现在获得了土地证，我也成为了一名自豪的公民。</span><span class="english">I have this and now I'm a proud citizen.</span></p>
 
 <p><span class="chinese">土地证使我获得了与男人同等的地位。</span><span class="english">This certificate made me equal with the men.</span></p>

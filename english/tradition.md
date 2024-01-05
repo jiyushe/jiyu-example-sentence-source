@@ -1,5 +1,7 @@
 # tradition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tradition.md)
+
 <p><span class="chinese">莱罗是一种传统。</span><span class="english">Lelo is a tradition.</span></p>
 
 <p><span class="chinese">这将成为我们的传统。</span><span class="english">This is becoming our tradition.</span></p>

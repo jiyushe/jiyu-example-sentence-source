@@ -1,5 +1,7 @@
 # 病体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingti.md)
+
 <p><span class="chinese">他拖着病体坚持给我们上课。</span><span class="english">Though ill, he insisted to give us class.</span></p>
 
 <p><span class="chinese">香喷喷、甜滋滋，两老吃了食欲大增，病体也好了。</span><span class="english">Tasty, fruity, two old eat increase appetite, body good.</span></p>

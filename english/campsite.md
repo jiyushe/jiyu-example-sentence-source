@@ -1,5 +1,7 @@
 # campsite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/campsite.md)
+
 <p><span class="chinese">这里是很好的露营地。</span><span class="english">This is a good campsite.</span></p>
 
 <p><span class="chinese">野营地只提供最基本的设备。</span><span class="english">The campsite provided only basic facilities.</span></p>

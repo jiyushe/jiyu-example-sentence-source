@@ -1,5 +1,7 @@
 # 适度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidu_1.md)
+
 <p><span class="chinese">让你的空间大小适度。</span><span class="english">Right-size your space.</span></p>
 
 <p><span class="chinese">因此，适度调整是关键。</span><span class="english">So moderation is the key.</span></p>

@@ -1,5 +1,7 @@
 # fifths
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fifths.md)
+
 <p><span class="chinese">在我们班的学生是女同学。</span><span class="english">Three fifths of students in our class are girls.</span></p>
 
 <p><span class="chinese">五分之四的水都被孩子们喝了。</span><span class="english">Four fifths of the water is drunk by the children.</span></p>

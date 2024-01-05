@@ -1,5 +1,7 @@
 # mercenary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercenary.md)
+
 <p><span class="chinese">佣兵的梦幻组合。</span><span class="english">The mercenary dream team.</span></p>
 
 <p><span class="chinese">这女人可惟利是图了。</span><span class="english">This chick's a mercenary.</span></p>

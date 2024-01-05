@@ -1,5 +1,7 @@
 # 台资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taizi_1.md)
+
 <p><span class="chinese">本公司是一家台资的贸易公司。</span><span class="english">The company is a Taiwan-funded enterprises.</span></p>
 
 <p><span class="chinese">公司成立于2001年，属台资企业。</span><span class="english">Founded in 2001, is a Taiwan-funded enterprises.</span></p>

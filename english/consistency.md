@@ -1,5 +1,7 @@
 # consistency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consistency.md)
+
 <p><span class="chinese">弱一致性。</span><span class="english">Weak consistency.</span></p>
 
 <p><span class="chinese">强一致性。</span><span class="english">Strong consistency.</span></p>

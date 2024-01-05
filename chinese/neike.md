@@ -1,5 +1,7 @@
 # 内科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neike.md)
+
 <p><span class="chinese">您需要看内科。</span><span class="english">You need to see an internist.</span></p>
 
 <p><span class="chinese">慧嘉的叔叔正学习成为一位内科医生。</span><span class="english">Huijia's uncle is studying to be a physician.</span></p>

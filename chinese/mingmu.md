@@ -1,5 +1,7 @@
 # 瞑目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingmu.md)
+
 <p><span class="chinese">玛丽准备走了，但先要目睹她那本书出版后才瞑目。</span><span class="english">Mary was ready to go, but first she wanted her book to be in print.</span></p>
 
 <p><span class="chinese">你不能做那样的事，它会使你爷爷在九泉之下都难以瞑目的。</span><span class="english">You can't do anything like that. It's enough to make your grandfather turn in his grave.</span></p>

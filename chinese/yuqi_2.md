@@ -1,5 +1,7 @@
 # 语气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuqi_2.md)
+
 <p><span class="chinese">语气是要命。</span><span class="english">Tone was awsome.</span></p>
 
 <p><span class="chinese">他们讲话的语气谨慎平静。</span><span class="english">The mood is discreetly calm.</span></p>

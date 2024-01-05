@@ -1,5 +1,7 @@
 # forswear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forswear.md)
+
 <p><span class="chinese">有些祭司必须宣誓放弃婚姻。</span><span class="english">Some priests have to forswear marriage.</span></p>
 
 <p><span class="chinese">我已宣誓服从法律，我不能作伪证。</span><span class="english">I have sworn to obey the laws, and I cannot forswear myself.</span></p>

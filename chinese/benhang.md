@@ -1,5 +1,7 @@
 # 本行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benhang.md)
+
 <p><span class="chinese">指做本行本业的事，成绩特别显著。</span><span class="english">Means to do the Bank in this industry?</span></p>
 
 <p><span class="chinese">本行有权修订费用及收费。</span><span class="english">We have the right to change ees and charges.</span></p>

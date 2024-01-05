@@ -1,5 +1,7 @@
 # hungered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hungered.md)
+
 <p><span class="chinese">他渴望她的爱。</span><span class="english">He hungered for her love.</span></p>
 
 <p><span class="chinese">他渴望获取知识。</span><span class="english">He hungered for knowledge.</span></p>

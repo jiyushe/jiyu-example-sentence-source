@@ -1,5 +1,7 @@
 # distract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distract.md)
+
 <p><span class="chinese">你是想为我解忧吗？</span><span class="english">Be you trying to distract me?</span></p>
 
 <p><span class="chinese">你是想为我解忧吗?。</span><span class="english">Are you trying to distract me?</span></p>

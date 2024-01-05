@@ -1,5 +1,7 @@
 # 忠言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyan.md)
+
 <p><span class="chinese">忠言是价值千金。</span><span class="english">Good hints is more price.</span></p>
 
 <p><span class="chinese">他听不进你的忠言。</span><span class="english">He is deaf to your earnest advice.</span></p>

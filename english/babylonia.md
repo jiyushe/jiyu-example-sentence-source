@@ -1,5 +1,7 @@
 # babylonia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babylonia.md)
+
 <p><span class="chinese">让我们将这个复杂的过程消除。</span><span class="english">The form of Akkadian used in Babylonia.</span></p>
 
 <p><span class="chinese">巴比伦尼亚有广泛的羊毛产业。</span><span class="english">Babylonia had an extensive wool industry.</span></p>

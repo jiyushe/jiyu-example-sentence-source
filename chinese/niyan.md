@@ -1,5 +1,7 @@
 # 泥岩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niyan.md)
+
 <p><span class="chinese">此泥岩提供了有效的封闭。</span><span class="english">The mudstone provide on effective seal.</span></p>
 
 <p><span class="chinese">此泥岩提供了有效的封闭。</span><span class="english">The mudstones provide an effective seal.</span></p>

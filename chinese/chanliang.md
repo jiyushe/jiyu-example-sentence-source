@@ -1,5 +1,7 @@
 # 产量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanliang.md)
+
 <p><span class="chinese">粮食产量激增。</span><span class="english">Grain output shot up.</span></p>
 
 <p><span class="chinese">但我们在增加产量。</span><span class="english">But we are increasing.</span></p>

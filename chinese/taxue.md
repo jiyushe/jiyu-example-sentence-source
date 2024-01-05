@@ -1,5 +1,7 @@
 # 踏雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taxue.md)
+
 <p><span class="chinese">咱们去踏雪散散步。</span><span class="english">Lets take a walk in the snow.</span></p>
 
 <p><span class="chinese">咱们去踏雪散散步。</span><span class="english">Lett's take a walk in the snow.</span></p>

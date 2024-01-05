@@ -1,5 +1,7 @@
 # 假山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashan.md)
+
 <p><span class="chinese">做假山也是一样的。</span><span class="english">Do rockery is the same.</span></p>
 
 <p><span class="chinese">它的前面是假山。</span><span class="english">In front of it are rockeries.</span></p>

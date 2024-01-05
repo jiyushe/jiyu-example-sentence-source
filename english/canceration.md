@@ -1,5 +1,7 @@
 # canceration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canceration.md)
+
 <p><span class="chinese">据报道腭、牙龈的黑斑可能癌变。</span><span class="english">The shading that occupies reportorial palate, gum is likely canceration.</span></p>
 
 <p><span class="chinese">吸烟能引起口腔粘膜白斑，甚至癌变。</span><span class="english">SuckSmokeCan cause blaze of oral cavity mucous membrane, even canceration.</span></p>

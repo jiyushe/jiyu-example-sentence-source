@@ -1,5 +1,7 @@
 # papillary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/papillary.md)
+
 <p><span class="chinese">瞳孔转动和膝盖弯屈正常吗？</span><span class="english">Are papillary and knee reflexes normal?</span></p>
 
 <p><span class="chinese">晶体是引起瞳孔阻滞的主要因素。</span><span class="english">The lens is the main factor causing papillary block.</span></p>

@@ -1,5 +1,7 @@
 # dependance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dependance.md)
+
 <p><span class="chinese">凋亡与照射剂量、时间呈依赖关系。</span><span class="english">Apoptosis had a dependance relationship with time course and doses.</span></p>
 
 <p><span class="chinese">在这打口井，但现在要摆脱对美国的依赖，我们能做的真的很少啊。</span><span class="english">Drill here and now will do very, very, little to end America's dependance?.</span></p>

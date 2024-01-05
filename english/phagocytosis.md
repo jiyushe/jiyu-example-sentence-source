@@ -1,5 +1,7 @@
 # phagocytosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phagocytosis.md)
+
 <p><span class="chinese">大颗粒细胞无吞噬功能。</span><span class="english">Large granular cells have no function of phagocytosis.</span></p>
 
 <p><span class="chinese">某些物质能在吞噬作用过程中进入细胞。</span><span class="english">Some substances can enter cells by the process of phagocytosis.</span></p>

@@ -1,5 +1,7 @@
 # overhear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overhear.md)
+
 <p><span class="chinese">注意，有人在偷听咱们的谈话!</span><span class="english">Pay attention to overhear our talk!</span></p>
 
 <p><span class="chinese">我碰巧听到了他所说的话。</span><span class="english">I happened to overhear what he said.</span></p>

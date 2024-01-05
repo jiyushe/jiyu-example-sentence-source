@@ -1,5 +1,7 @@
 # windblown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windblown.md)
+
 <p><span class="chinese">你要惊动被风吹的叶子吗？要追赶枯干的碎秸吗？</span><span class="english">Will you torment a windblown leaf? Will you chase after dry chaff?</span></p>
 
 <p><span class="chinese">天开始下起雪来，一阵被风吹乱的白絮撒满了这座城市。</span><span class="english">It had begun to snow a windblown powder that lightly dusted this city.</span></p>

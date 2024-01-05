@@ -1,5 +1,7 @@
 # curtilage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curtilage.md)
+
 <p><span class="chinese">可以种植于庭园或路旁。</span><span class="english">Can cultivate at curtilage or wayside.</span></p>
 
 <p><span class="chinese">究竟算是偷金库还是偷民宅?。</span><span class="english">Be all steal exchequer or steal civilian curtilage?</span></p>

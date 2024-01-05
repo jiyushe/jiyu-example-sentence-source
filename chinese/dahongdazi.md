@@ -1,5 +1,7 @@
 # 大红大紫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahongdazi.md)
+
 <p><span class="chinese">这或许可以解释为什么伦勃朗标新立异的基督像从未大红大紫。</span><span class="english">Maybe that’s why Rembrandt’s new Jesus never caught on.</span></p>
 
 <p><span class="chinese">若干年后果然大红大紫。</span><span class="english">Several years later, she gets very popular as expected.</span></p>

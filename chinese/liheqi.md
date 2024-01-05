@@ -1,5 +1,7 @@
 # 离合器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liheqi.md)
+
 <p><span class="chinese">传动轴带保护离合器。</span><span class="english">Cardan shaft with clutch.</span></p>
 
 <p><span class="chinese">逐步地放开离合器。</span><span class="english">Eottom out on the clutch.</span></p>

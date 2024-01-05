@@ -1,5 +1,7 @@
 # roundly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roundly.md)
+
 <p><span class="chinese">他把两颊“鼓”得圆圆的。</span><span class="english">He bulged his cheeks roundly.</span></p>
 
 <p><span class="chinese">撒旦和叛乱天使们被彻底击败了。</span><span class="english">Satan and the rebel angels have been roundly defeated.</span></p>

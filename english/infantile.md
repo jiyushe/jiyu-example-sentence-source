@@ -1,5 +1,7 @@
 # infantile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infantile.md)
+
 <p><span class="chinese">我厌倦了她那幼稚的行为。</span><span class="english">I'm tired of her infantile behavior.</span></p>
 
 <p><span class="chinese">让我一个人幼稚的待会儿。</span><span class="english">Permit me to be infantile by myself.</span></p>

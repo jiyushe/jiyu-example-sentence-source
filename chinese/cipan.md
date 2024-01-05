@@ -1,5 +1,7 @@
 # 磁盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cipan.md)
+
 <p><span class="chinese">什么是磁盘？</span><span class="english">What are disks?</span></p>
 
 <p><span class="chinese">增加一个新的硬式磁盘。</span><span class="english">Add a new hard disk.</span></p>

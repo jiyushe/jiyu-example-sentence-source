@@ -1,5 +1,7 @@
 # flatware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flatware.md)
+
 <p><span class="chinese">清洁并保持餐具的清洁以备使用。</span><span class="english">Cleaning and maintain flatware for service.</span></p>
 
 <p><span class="chinese">事实上，保罗·里维尔是一个餐具工匠。</span><span class="english">Paul Revere, in fact, was a flatware craftsman.</span></p>

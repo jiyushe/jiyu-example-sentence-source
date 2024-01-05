@@ -1,5 +1,7 @@
 # superstratum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superstratum.md)
+
 <p><span class="chinese">中层放显示器，上层可以放置音箱。</span><span class="english">Middle-level puts monitor, superstratum can place sound box.</span></p>
 
 <p><span class="chinese">但上层有问题，美国经济也有问题。</span><span class="english">But superstratum has a problem, american economy also has a problem.</span></p>

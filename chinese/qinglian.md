@@ -1,5 +1,7 @@
 # 清廉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinglian.md)
+
 <p><span class="chinese">这是财政清廉的一个罕见的胜利。</span><span class="english">IT WAS a rare victory for fiscal rectitude.</span></p>
 
 <p><span class="chinese">我们的政府官员似乎很清廉。</span><span class="english">Our government officials seem free of corruption.</span></p>

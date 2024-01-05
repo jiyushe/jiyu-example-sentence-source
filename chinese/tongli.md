@@ -1,5 +1,7 @@
 # 通例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongli.md)
+
 <p><span class="chinese">这类裁决在司法实践中已成为“通例”，学界也无异议。</span><span class="english">It has become such a ruling "practice" that even academia has no objection.</span></p>
 
 <p><span class="chinese">但是，似乎是世界通例，这些评论人士认识都没弄清楚问题的根源所在。</span><span class="english">But almost universally, these commentators obscure the source of the problem.</span></p>

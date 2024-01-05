@@ -1,5 +1,7 @@
 # thither
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thither.md)
+
 <p><span class="chinese">他们去了。</span><span class="english">They went thither.</span></p>
 
 <p><span class="chinese">带着我的酒醉的灵魂向那里飞腾！</span><span class="english">To rise thither with my inebriate Soul!</span></p>

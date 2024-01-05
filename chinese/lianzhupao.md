@@ -1,5 +1,7 @@
 # 连珠炮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianzhupao.md)
+
 <p><span class="chinese">他的回答是连珠炮式的“漫骂”。</span><span class="english">His answer was a torrent of abuses.</span></p>
 
 <p><span class="chinese">他的话连珠炮似地说了出来。</span><span class="english">His words came out in quick succession.</span></p>

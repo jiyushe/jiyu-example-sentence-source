@@ -1,5 +1,7 @@
 # glomus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glomus.md)
+
 <p><span class="chinese">血管球瘤肩胛区。</span><span class="english">Glomus tumor of the scapular region.</span></p>
 
 <p><span class="chinese">诊断为播散性多发性血管球瘤。</span><span class="english">The diagnosis is disseminated multiple glomus tumors.</span></p>

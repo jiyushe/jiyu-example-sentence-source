@@ -1,5 +1,7 @@
 # spender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spender.md)
+
 <p><span class="chinese">挥金如土的人会说，‘我要削减开支。’</span><span class="english">The spender will say, 'I'll cut back.'</span></p>
 
 <p><span class="chinese">一个人是花钱狂而另一个人存钱吗？</span><span class="english">Is one person a spender while the other saves?</span></p>

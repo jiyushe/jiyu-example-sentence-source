@@ -1,5 +1,7 @@
 # boaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boaster.md)
+
 <p><span class="chinese">吹牛与说谎话本是同宗。</span><span class="english">A boaster and a liar are cousin.</span></p>
 
 <p><span class="chinese">爱吹牛的人和骗子都是一丘之貉。</span><span class="english">A boaster and a liar are all one.</span></p>

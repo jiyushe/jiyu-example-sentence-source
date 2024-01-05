@@ -1,5 +1,7 @@
 # 平米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingmi.md)
+
 <p><span class="chinese">给信仰留个几平米，那是必须滴。</span><span class="english">Some room must be left for faith.</span></p>
 
 <p><span class="chinese">特色商务吧面积500余平米，布局新颖，明亮。</span><span class="english">The covered area of business bar is 500 square meters.</span></p>

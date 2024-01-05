@@ -1,5 +1,7 @@
 # onomatopoeic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onomatopoeic.md)
+
 <p><span class="chinese">说道这个象声词。我们的外教发的那个音。</span><span class="english">Words that imitate sounds are called onomatopoeic words.</span></p>
 
 <p><span class="chinese">此规律也适用于由四个不同的音节所构成的象声词。</span><span class="english">This regularity is also to be found in four-syllabled onomatopoeic words.</span></p>

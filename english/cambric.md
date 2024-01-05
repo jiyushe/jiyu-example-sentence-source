@@ -1,5 +1,7 @@
 # cambric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cambric.md)
+
 <p><span class="chinese">她穿着一条细棉布的裙子。</span><span class="english">She wears a skirt of cambric.</span></p>
 
 <p><span class="chinese">叫他替我做件麻布衣衫。</span><span class="english">Tell her 2 make me a cambric shirt.</span></p>

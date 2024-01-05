@@ -1,5 +1,7 @@
 # 绯红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feihong.md)
+
 <p><span class="chinese">田野穿上绯红色的衣袍。</span><span class="english">The field a scarlet gown.</span></p>
 
 <p><span class="chinese">一个鲜明的选择，在第一绯红。</span><span class="english">A stark choice, at first blush.</span></p>

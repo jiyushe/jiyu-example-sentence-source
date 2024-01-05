@@ -1,5 +1,7 @@
 # 马靴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maxue.md)
+
 <p><span class="chinese">你的马靴很时尚。</span><span class="english">Your boot is latest fashion.</span></p>
 
 <p><span class="chinese">短马靴中部的弯曲以及天鹅绒马甲贴身舒适。</span><span class="english">Jodhpurs curved to the waist and velvet vests were snug.</span></p>

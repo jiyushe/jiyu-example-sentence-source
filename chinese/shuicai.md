@@ -1,5 +1,7 @@
 # 水彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuicai.md)
+
 <p><span class="chinese">重新捡起那些水彩…</span><span class="english">Pick up those water-colors.</span></p>
 
 <p><span class="chinese">已经绝种的熊猫牌水彩。</span><span class="english">The extinct Panda Water Colour.</span></p>

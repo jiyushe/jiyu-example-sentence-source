@@ -1,5 +1,7 @@
 # czechoslovakia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/czechoslovakia.md)
+
 <p><span class="chinese">捷克斯洛伐克摩拉维亚DolneVestonice一间棚屋的横截面。</span><span class="english">Cross-section of a hut found at Dolne Vestonice, Moravia, Czechoslovakia.</span></p>
 
 <p><span class="chinese">认为我从捷克斯洛伐克来将是不正确的。”Gramer说。</span><span class="english">To refer to me as from Czechoslovakia would be incorrect, " Gramer said."</span></p>

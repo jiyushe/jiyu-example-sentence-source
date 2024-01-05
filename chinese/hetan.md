@@ -1,5 +1,7 @@
 # 河滩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hetan.md)
+
 <p><span class="chinese">不知水深浅，切勿涉河滩。</span><span class="english">Wade not in unknown water.</span></p>
 
 <p><span class="chinese">尖啸河滩化石场。</span><span class="english">Screaming Reaches Fossil Field.</span></p>

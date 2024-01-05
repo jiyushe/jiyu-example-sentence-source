@@ -1,5 +1,7 @@
 # dormitory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dormitory.md)
+
 <p><span class="chinese">那是男生宿舍。</span><span class="english">That's the men's dormitory.</span></p>
 
 <p><span class="chinese">这是工人的宿舍。</span><span class="english">This is workers' dormitory.</span></p>

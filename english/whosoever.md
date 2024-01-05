@@ -1,5 +1,7 @@
 # whosoever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whosoever.md)
+
 <p><span class="chinese">无论谁进入这家的将会受到启发。</span><span class="english">Whosoever enters here must become illumined.</span></p>
 
 <p><span class="chinese">有人要强迫你走一里路，就陪他走两里。</span><span class="english">And whosoever shall compel thee to go a mile, go with him twain.</span></p>

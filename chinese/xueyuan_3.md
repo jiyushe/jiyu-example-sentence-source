@@ -1,5 +1,7 @@
 # 雪原
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueyuan_3.md)
+
 <p><span class="chinese">他在雪原上挖了个洞以过夜。</span><span class="english">He hollowed out a cave in the snowfield for night.</span></p>
 
 <p><span class="chinese">他在雪原上挖了个洞以过夜。</span><span class="english">He hollowed out  a cave in the snowfield for night.</span></p>

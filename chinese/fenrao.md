@@ -1,5 +1,7 @@
 # 纷扰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenrao.md)
+
 <p><span class="chinese">人们纷纷去度假，忘记了所有的纷扰。</span><span class="english">People go away on holiday and forget all about it.</span></p>
 
 <p><span class="chinese">因此在这个霜雪满天、俗物纷扰的世界。</span><span class="english">So in a world of snow, of things that come and go.</span></p>

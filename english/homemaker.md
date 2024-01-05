@@ -1,5 +1,7 @@
 # homemaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homemaker.md)
+
 <p><span class="chinese">家母是家庭主妇。</span><span class="english">My mother is a homemaker.</span></p>
 
 <p><span class="chinese">埃玛是个节省的家庭主妇。</span><span class="english">Emma is a price-conscious homemaker.</span></p>

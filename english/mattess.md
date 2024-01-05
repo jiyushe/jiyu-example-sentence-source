@@ -1,5 +1,7 @@
 # mattess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mattess.md)
+
 <p><span class="chinese">切勿让床垫暴晒过久，以免使床面褪色。</span><span class="english">Do not let mattess had insolated long, lest make, bed face fades.</span></p>
 
 <p><span class="chinese">枕头和床垫都需要保持清洁和干燥，需要定期晒太阳，尤其是桑拿天。</span><span class="english">Pillow and mattess need to maintain cleanness and dry, need basks regularly, especially sauna day.</span></p>

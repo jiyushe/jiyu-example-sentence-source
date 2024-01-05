@@ -1,5 +1,7 @@
 # 瞄准
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaozhun.md)
+
 <p><span class="chinese">还有，瞄准那个半身人。</span><span class="english">And aim for the halfling.</span></p>
 
 <p><span class="chinese">我正在瞄准他们的膝盖骨！</span><span class="english">I'm aiming for the kneecaps!</span></p>

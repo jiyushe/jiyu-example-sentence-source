@@ -1,5 +1,7 @@
 # granddad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granddad.md)
+
 <p><span class="chinese">他对我像爷爷一样。</span><span class="english">He's like a granddad to me.</span></p>
 
 <p><span class="chinese">有的，先生。那是我爷爷。</span><span class="english">Yes, sir. He was my granddad.</span></p>

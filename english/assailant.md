@@ -1,5 +1,7 @@
 # assailant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assailant.md)
+
 <p><span class="chinese">杰克向射击者还击。</span><span class="english">Jack fires back at the assailant.</span></p>
 
 <p><span class="chinese">凶犯趁机逃进了附近的一个楼梯间。</span><span class="english">The assailant fled down a nearby stairwell.</span></p>

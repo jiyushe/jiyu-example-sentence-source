@@ -1,5 +1,7 @@
 # 器物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiwu.md)
+
 <p><span class="chinese">他们还用猛犸獠牙制成工具器物。</span><span class="english">They also made tools and objects from the tusks.</span></p>
 
 <p><span class="chinese">圣灯和一切金属器物都是青铜制品。</span><span class="english">The sanctuary lamp and the metal furniture were bronze.</span></p>

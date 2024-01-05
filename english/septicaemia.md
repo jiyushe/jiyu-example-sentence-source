@@ -1,5 +1,7 @@
 # septicaemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/septicaemia.md)
+
 <p><span class="chinese">甚者可发生脓毒败血症。</span><span class="english">May have the pus poisonous septicaemia really.</span></p>
 
 <p><span class="chinese">严重的急性盆腔炎可引起败血症危及生命。</span><span class="english">The serious acute pelvic inflammatory disease may cause the septicaemia to endanger life.</span></p>

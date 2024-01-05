@@ -1,5 +1,7 @@
 # schoolwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolwork.md)
+
 <p><span class="chinese">你会有很多的时间来做功课。</span><span class="english">You’ll have more time for schoolwork.</span></p>
 
 <p><span class="chinese">但学校作业不成问题。</span><span class="english">But schoolwork has not been the issue.</span></p>

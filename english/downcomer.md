@@ -1,5 +1,7 @@
 # downcomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downcomer.md)
+
 <p><span class="chinese">在下降管中产生大型气泡时，标准偏差会有急剧增加的现象。</span><span class="english">The standard deviation increased sharp in the formation of large gas bubbles in the downcomer.</span></p>
 
 <p><span class="chinese">针对目前板式塔降液管研究的进展情形，提出了一些关于降液管研究方向的见解。</span><span class="english">Based on the advancement of the downcomer, some opinions of the downcomer research were presented.</span></p>

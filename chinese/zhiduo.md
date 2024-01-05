@@ -1,5 +1,7 @@
 # 至多
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiduo.md)
+
 <p><span class="chinese">她至多是个称职的打字员。</span><span class="english">At best she is an adequate typist.</span></p>
 
 <p><span class="chinese">至多每年还有一次潜水鸟要来。</span><span class="english">At most, it tolerates one annual loon.</span></p>

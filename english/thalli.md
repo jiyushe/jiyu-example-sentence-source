@@ -1,5 +1,7 @@
 # thalli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thalli.md)
+
 <p><span class="chinese">除注射组外，其余六组均采用口服给药。</span><span class="english">All thalli proteins were given orally except injecting group.</span></p>
 
 <p><span class="chinese">菌体浓度是微生物生长过程中关键的质量指标。</span><span class="english">Thalli concentration is a key quality index in microbial growth process.</span></p>

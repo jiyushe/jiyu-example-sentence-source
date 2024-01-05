@@ -1,5 +1,7 @@
 # prism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prism.md)
+
 <p><span class="chinese">那个是棱柱体吗?。</span><span class="english">Is that a prism?</span></p>
 
 <p><span class="chinese">例如使用这些华丽的棱镜眼镜。</span><span class="english">Take these Deluxe Prism Glasses for example.</span></p>

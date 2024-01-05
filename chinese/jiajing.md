@@ -1,5 +1,7 @@
 # 家境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiajing.md)
+
 <p><span class="chinese">她家境贫寒。</span><span class="english">Her family was poor.</span></p>
 
 <p><span class="chinese">他家境极其贫困。</span><span class="english">His family was extremely poor.</span></p>

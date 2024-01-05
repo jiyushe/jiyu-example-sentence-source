@@ -1,5 +1,7 @@
 # 赞叹不已
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zantanbuyi.md)
+
 <p><span class="chinese">她的风趣令观众赞叹不已。</span><span class="english">Her wit stunned the audience.</span></p>
 
 <p><span class="chinese">金碧辉煌的宫殿使她赞叹不已。</span><span class="english">The glorious palace dazzled her.</span></p>

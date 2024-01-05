@@ -1,5 +1,7 @@
 # 求饶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiurao.md)
+
 <p><span class="chinese">三十分钟后，罗杰开始求饶了。</span><span class="english">Thirty minutes later, Roger is begging for mercy.</span></p>
 
 <p><span class="chinese">人若对人怀怒，怎能向上主求饶？</span><span class="english">Man to man reserveth anger, and doth he seek remedy of God?</span></p>

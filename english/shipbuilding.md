@@ -1,5 +1,7 @@
 # shipbuilding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipbuilding.md)
+
 <p><span class="chinese">造船用门式起重机是起重机的一种。</span><span class="english">Shipbuilding gantry crane is a crane.</span></p>
 
 <p><span class="chinese">他在那里学了造船</span><span class="english">He learned shipbuilding there as well.</span></p>

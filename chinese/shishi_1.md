@@ -1,5 +1,7 @@
 # 事事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_1.md)
+
 <p><span class="chinese">我们大家都有过事事不顺心的日子。</span><span class="english">We all have had bad days.</span></p>
 
 <p><span class="chinese">我们事事都要周密计划。</span><span class="english">Have you planned your trip?</span></p>

@@ -1,5 +1,7 @@
 # mortgage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortgage.md)
+
 <p><span class="chinese">选择固定利率旳抵押贷款。</span><span class="english">Choose fixed-interest mortgage repayments.</span></p>
 
 <p><span class="chinese">这也是真正的抵押证券。</span><span class="english">This was also true of mortgage securities.</span></p>

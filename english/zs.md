@@ -1,5 +1,7 @@
 # zs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zs.md)
+
 <p><span class="chinese">我现在需要打个盹儿。</span><span class="english">I need to catch some Zs right now.</span></p>
 
 <p><span class="chinese">你看起来很累。你咋不打个盹呢?。</span><span class="english">You look tired, Dave. Why don't you catch some Zs?</span></p>

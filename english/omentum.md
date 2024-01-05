@@ -1,5 +1,7 @@
 # omentum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omentum.md)
+
 <p><span class="chinese">肠管或网膜可能沿引流物疝出。</span><span class="english">Bowel or omentum may herniate alongside the drain.</span></p>
 
 <p><span class="chinese">肠管或网膜可能沿引流物疝出。</span><span class="english">Bowel or omentum may herniate alongside the drain.</span></p>

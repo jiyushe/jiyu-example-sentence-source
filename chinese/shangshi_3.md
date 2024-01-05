@@ -1,5 +1,7 @@
 # 赏识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshi_3.md)
+
 <p><span class="chinese">男人、女人都喜欢得到青睐和赏识。</span><span class="english">Men and women love to be appreciated.</span></p>
 
 <p><span class="chinese">赏识您所完秤弈。</span><span class="english">Appreciate what you have accomplished.</span></p>

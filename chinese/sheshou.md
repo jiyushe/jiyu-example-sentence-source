@@ -1,5 +1,7 @@
 # 射手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheshou.md)
+
 <p><span class="chinese">有些射手射技很差。</span><span class="english">Some-men shoot badly.</span></p>
 
 <p><span class="chinese">有些射手射技很差。</span><span class="english">Some marksmen shoot badly.</span></p>

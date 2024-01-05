@@ -1,5 +1,7 @@
 # smoggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smoggy.md)
+
 <p><span class="chinese">炼焦炉能摆脱烟雾腾腾的形象吗?。</span><span class="english">Are Coke Ovens Shedding Their Smoggy Image?</span></p>
 
 <p><span class="chinese">但是上海已经像一个污烟瘅气的牢笼一样越变越糟。</span><span class="english">But Shanghai is already gridlocked and smoggy and getting worse by the day.</span></p>

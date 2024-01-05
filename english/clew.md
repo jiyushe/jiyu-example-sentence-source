@@ -1,5 +1,7 @@
 # clew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clew.md)
+
 <p><span class="chinese">船长要水手扯下帆桁。</span><span class="english">The captain asked the sailors to clew dowm.</span></p>
 
 <p><span class="chinese">把三个小帆张起来，我们要加快航速。</span><span class="english">Clew the three sails up, we need to go faster.</span></p>

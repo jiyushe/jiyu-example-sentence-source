@@ -1,5 +1,7 @@
 # 挨打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aida.md)
+
 <p><span class="chinese">如果你挨打的时候并不闪躲。</span><span class="english">If you're hit, you don't flinch.</span></p>
 
 <p><span class="chinese">闪躲是对挨打所做的准备。</span><span class="english">Flinching is preparation for being hit.</span></p>

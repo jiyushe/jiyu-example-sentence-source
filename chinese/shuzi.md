@@ -1,5 +1,7 @@
 # 梳子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzi.md)
+
 <p><span class="chinese">梳子是用来梳头发的。</span><span class="english">What's comb for?</span></p>
 
 <p><span class="chinese">现在我也需要梳子了。</span><span class="english">Now I need the comb.</span></p>

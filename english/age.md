@@ -1,5 +1,7 @@
 # age 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/age.md)
+
 <p><span class="chinese">你的年龄。</span><span class="english">Your age.</span></p>
 
 <p><span class="chinese">她的年龄多大了？</span><span class="english">What’s her age?</span></p>

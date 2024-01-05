@@ -1,5 +1,7 @@
 # interpret 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpret.md)
+
 <p><span class="chinese">分析和解释数据。</span><span class="english">Analyze and interpret data.</span></p>
 
 <p><span class="chinese">解释你的飞翔梦境。</span><span class="english">Interpret your flying dreams.</span></p>

@@ -1,5 +1,7 @@
 # mandrel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mandrel.md)
+
 <p><span class="chinese">液压滚心轴夹紧。</span><span class="english">Hydraulic hob mandrel clamping.</span></p>
 
 <p><span class="chinese">这些中心点必须排列成一行，并且保证心轴上没有毛刺的现象出现。</span><span class="english">The centers must be aligned and the mandrel must be free of burrs.</span></p>

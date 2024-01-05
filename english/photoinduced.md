@@ -1,5 +1,7 @@
 # photoinduced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoinduced.md)
+
 <p><span class="chinese">利用这种激光诱导永久偏振态进行了防伪方面的应用研究。</span><span class="english">Security application was studied based on the photoinduced permanent polarization.</span></p>
 
 <p><span class="chinese">本文描述一种光生等离子体菲涅尔波带板天线的设计方法。</span><span class="english">The design method of a photoinduced plasma Fresnel zone plate antenna is described.</span></p>

@@ -1,5 +1,7 @@
 # 斜眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieyan.md)
+
 <p><span class="chinese">皮尔西斜眼看了看她。</span><span class="english">Piercey glanced sideways at her.</span></p>
 
 <p><span class="chinese">他色迷迷的斜眼看着梳辫子的姑娘。</span><span class="english">He leered at the girl in pigtails.</span></p>

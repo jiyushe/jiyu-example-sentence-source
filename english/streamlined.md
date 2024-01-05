@@ -1,5 +1,7 @@
 # streamlined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streamlined.md)
+
 <p><span class="chinese">计划设计还是流线型的。</span><span class="english">Schema design is also streamlined.</span></p>
 
 <p><span class="chinese">这种流线型设计在风大的屋顶仍然适用。</span><span class="english">The streamlined form also fares well on windy rooftops.</span></p>

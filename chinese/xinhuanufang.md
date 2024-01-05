@@ -1,5 +1,7 @@
 # 心花怒放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhuanufang.md)
+
 <p><span class="chinese">心花怒放！</span><span class="english">Heart Flower Angry Open!</span></p>
 
 <p><span class="chinese">我高兴的心花怒放。</span><span class="english">My heart expanded in delight.</span></p>

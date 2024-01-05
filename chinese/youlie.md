@@ -1,5 +1,7 @@
 # 优劣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youlie.md)
+
 <p><span class="chinese">判断树优劣，看果不看叶。</span><span class="english">Judge a tree by its fruit, not by its leaves.</span></p>
 
 <p><span class="chinese">房地产作为一种高消费商品，购买者往往需要从多方面了解相关信息，而房地产网站成为了一个重要的渠道，房地产网站的优劣几乎可以决定房产交易的成败。</span><span class="english">Real estate is a valuable and often expensive purchase.</span></p>

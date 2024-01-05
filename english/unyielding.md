@@ -1,5 +1,7 @@
 # unyielding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unyielding.md)
+
 <p><span class="chinese">显示出生命的顽强不屈。</span><span class="english">Shown unyielding tenacity of life.</span></p>
 
 <p><span class="chinese">谨记要避开无情火和利叉阵！</span><span class="english">Avoid the unyielding fire and the chasing forks!</span></p>

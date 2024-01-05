@@ -1,5 +1,7 @@
 # 混饭吃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunfanchi.md)
+
 <p><span class="chinese">不偷包，人家小偷怎么混饭吃啊？</span><span class="english">The thief does not steal the bag.</span></p>
 
 <p><span class="chinese">我是个文坛上混饭吃的罢了――他就老爱跟人这么说。</span><span class="english">I'm just a literary con man, he will say.</span></p>

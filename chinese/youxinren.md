@@ -1,5 +1,7 @@
 # 有心人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxinren.md)
+
 <p><span class="chinese">我是一个有心人。</span><span class="english">I am a man of heart.</span></p>
 
 <p><span class="chinese">总之，好男人是一位有心人。</span><span class="english">A good man has a heart.</span></p>

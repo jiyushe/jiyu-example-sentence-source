@@ -1,5 +1,7 @@
 # melanesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melanesia.md)
+
 <p><span class="chinese">美拉尼西亚种族称他们的神为「玛拿」。</span><span class="english">People of Melanesia refer to their god as " Mana ".</span></p>
 
 <p><span class="chinese">在太平洋的美拉尼西亚群岛，是美与速度的象徵。</span><span class="english">A symbol of beauty and speed on the Pacific islands of Melanesia.</span></p>

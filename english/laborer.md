@@ -1,5 +1,7 @@
 # laborer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laborer.md)
+
 <p><span class="chinese">被分配指派到工段养路班的劳工。</span><span class="english">a laborer assigned to a section gang.</span></p>
 
 <p><span class="chinese">我曾经是一位酒仓库的小工。</span><span class="english">I used to be a laborer in a liquor warehouse.</span></p>

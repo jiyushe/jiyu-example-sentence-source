@@ -1,5 +1,7 @@
 # thiocyanate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thiocyanate.md)
+
 <p><span class="chinese">比如，让我们来看一下硫氰酸根离子，我们有碳，硫和氮。</span><span class="english">So, for example, let's look at thiocyanate ion, we have c s and n.</span></p>
 
 <p><span class="chinese">目的建立白芥子不同炮制品中芥子碱硫氰酸盐含量测定方法。</span><span class="english">Measuring sinapine thiocyanate in fresh juice of Raphanus Sativus L.</span></p>

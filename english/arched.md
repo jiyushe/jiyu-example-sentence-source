@@ -1,5 +1,7 @@
 # arched
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arched.md)
+
 <p><span class="chinese">马弯其颈。</span><span class="english">The horse arched its neck.</span></p>
 
 <p><span class="chinese">脚垫结实，足爪圆拱。</span><span class="english">Pads strong and feet arched.</span></p>

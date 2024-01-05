@@ -1,5 +1,7 @@
 # absorbable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorbable.md)
+
 <p><span class="chinese">如何吸收辅酶Q10软胶囊是一种形式？</span><span class="english">How absorbable is a softgel form of CoQ10?</span></p>
 
 <p><span class="chinese">矿泉水有许多的矿物质，这些矿物质是可吸收的。</span><span class="english">Mineral water has many natural minerals that are absorbable correctives.</span></p>

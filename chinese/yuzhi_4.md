@@ -1,5 +1,7 @@
 # 郁滞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhi_4.md)
+
 <p><span class="chinese">气机郁滞是诱发疾病的关键。</span><span class="english">Stagnation of qi is crucial for recovery of disease.</span></p>
 
 <p><span class="chinese">使用这种袜子已成为预防静脉郁滞的常规措施。</span><span class="english">They are used as a routine preventative treatmet of venous stasis.</span></p>

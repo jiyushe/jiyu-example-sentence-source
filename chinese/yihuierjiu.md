@@ -1,5 +1,7 @@
 # 一挥而就
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yihuierjiu.md)
+
 <p><span class="chinese">在激动时一挥而就。</span><span class="english">Do it when you’re excited.</span></p>
 
 <p><span class="chinese">以前关于郭尔王的那一套，他是一挥而就的。</span><span class="english">All that King Goll crap that he had on, he's tossing it off.</span></p>

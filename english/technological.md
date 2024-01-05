@@ -1,5 +1,7 @@
 # technological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technological.md)
+
 <p><span class="chinese">飞思科技产品研发中心。</span><span class="english">FECIT Technological Product Research Center.</span></p>
 
 <p><span class="chinese">技术合作是关键的因素之一。</span><span class="english">Technological cooperation is one of the keys.</span></p>

@@ -1,5 +1,7 @@
 # 组建
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zujian_1.md)
+
 <p><span class="chinese">印度在组建一支强大的海军。</span><span class="english">India is building a great navy.</span></p>
 
 <p><span class="chinese">我说，“也许组建一个乐队太麻烦了！”</span><span class="english">Maybe a band is too much trouble.</span></p>

@@ -1,5 +1,7 @@
 # 籽粒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zili_1.md)
+
 <p><span class="chinese">籽粒中只有GS1同工酶的表达。</span><span class="english">Only GS1 isozyme expresses in the grain.</span></p>
 
 <p><span class="chinese">灌浆速度快，后期熟期好，籽粒饱满。</span><span class="english">Grouting speed, later period, ripe grain full.</span></p>

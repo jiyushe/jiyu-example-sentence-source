@@ -1,5 +1,7 @@
 # 高人一等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaorenyideng.md)
+
 <p><span class="chinese">布朗先生总是以高人一等的态度对待他所有的邻居。</span><span class="english">Mr Brown condescends to all his neighbours.</span></p>
 
 <p><span class="chinese">但是开发商也失去了高人一等的作风。</span><span class="english">But the developers also fell prey to one-upmanship.</span></p>

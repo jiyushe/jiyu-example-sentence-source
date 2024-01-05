@@ -1,5 +1,7 @@
 # coruscate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coruscate.md)
+
 <p><span class="chinese">肌肤焕发新生，由内而外闪耀清透、明亮光采。</span><span class="english">Skin coruscate newborn, from inside to outside is clear, bright and shine.</span></p>
 
 <p><span class="chinese">清雅的色彩与结构，在纷繁的世界里，焕发出独特的表现力和持久的生命力。</span><span class="english">The clean and elegant color and structure coruscate the unique expressive force and permanent life.</span></p>

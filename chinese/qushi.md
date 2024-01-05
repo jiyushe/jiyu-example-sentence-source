@@ -1,5 +1,7 @@
 # 去世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qushi.md)
+
 <p><span class="chinese">菲尔比于1988年去世。</span><span class="english">He died in 1988.</span></p>
 
 <p><span class="chinese">阿里斯于1999年去世。</span><span class="english">Aris died in 1999.</span></p>

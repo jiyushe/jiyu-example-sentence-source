@@ -1,5 +1,7 @@
 # 领地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingdi.md)
+
 <p><span class="chinese">农场就是他的领地。</span><span class="english">The farm was his domain.</span></p>
 
 <p><span class="chinese">试举美国一个领地。</span><span class="english">Name one U. S. territory.</span></p>

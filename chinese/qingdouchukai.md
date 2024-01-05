@@ -1,5 +1,7 @@
 # 情窦初开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdouchukai.md)
+
 <p><span class="chinese">我是个情窦初开的女孩！</span><span class="english">I'm a big big girl !</span></p>
 
 <p><span class="chinese">我们就是不明白，母亲为什么还认为我们是情窦初开的少女呢？</span><span class="english">We just don't understand why still think we are mother puppy love girl?</span></p>

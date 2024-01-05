@@ -1,5 +1,7 @@
 # zion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zion.md)
+
 <p><span class="chinese">这就是锡安！而我们无所畏惧！</span><span class="english">This is Zion and we are no fearful!</span></p>
 
 <p><span class="chinese">荣耀的王会统治锡安。</span><span class="english">The king of glory will reign in Zion.</span></p>

@@ -1,5 +1,7 @@
 # 多元
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoyuan.md)
+
 <p><span class="chinese">德勤从未为多元印刷签署任何报告。</span><span class="english">DTT never signed a report on DYP.</span></p>
 
 <p><span class="chinese">人类文明的产生是多元的。</span><span class="english">Human civilization has multi-sources.</span></p>

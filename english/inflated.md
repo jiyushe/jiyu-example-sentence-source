@@ -1,5 +1,7 @@
 # inflated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflated.md)
+
 <p><span class="chinese">弗瑞德将足球打足了气。</span><span class="english">Fred inflated the football with air.</span></p>
 
 <p><span class="chinese">用充气的猪膀胱，不相信吧？</span><span class="english">Inflated pig bladders would you believe!</span></p>

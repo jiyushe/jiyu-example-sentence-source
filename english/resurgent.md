@@ -1,5 +1,7 @@
 # resurgent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resurgent.md)
+
 <p><span class="chinese">或者出于对中国军事力量复苏的恐慌？</span><span class="english">Or fears of a resurgent Chinese military?</span></p>
 
 <p><span class="chinese">重新抬头的民族主义战胜了团结。</span><span class="english">Solidarity has been lost to resurgent nationalisms.</span></p>

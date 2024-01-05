@@ -1,5 +1,7 @@
 # endear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endear.md)
+
 <p><span class="chinese">我的这身装束总让店主对我爱理不理。</span><span class="english">This outfit does not endear me to shopkeepers.</span></p>
 
 <p><span class="chinese">制定时间表也有助于让教授们喜欢上课程改革。</span><span class="english">Timetabling has also helped endear professors to the changes.</span></p>

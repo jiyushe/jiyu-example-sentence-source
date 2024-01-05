@@ -1,5 +1,7 @@
 # parenchyma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parenchyma.md)
+
 <p><span class="chinese">骨外表现为软组织钙化。</span><span class="english">The expression outside bone is parenchyma calcify.</span></p>
 
 <p><span class="chinese">肺气肿——是小气道、还是肺实质的疾病呢？</span><span class="english">Emphysema — A Disease of Small Airways or Lung Parenchyma?</span></p>

@@ -1,5 +1,7 @@
 # serous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serous.md)
+
 <p><span class="chinese">图示浆液性囊腺瘤。</span><span class="english">Pictured here is a serous cystadenoma.</span></p>
 
 <p><span class="chinese">细胞凋亡主要发生在浆液腺。</span><span class="english">Apoptosis mainly occurred in serous gland.</span></p>

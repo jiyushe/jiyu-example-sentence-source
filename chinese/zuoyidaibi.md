@@ -1,5 +1,7 @@
 # 坐以待毙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoyidaibi.md)
+
 <p><span class="chinese">汤姆不愿意坐以待毙。</span><span class="english">Tom would not await his doom.</span></p>
 
 <p><span class="chinese">所以说，坐以待毙是极其危险的，即使你得病的几率不高也不例外。</span><span class="english">So doing nothing is risky, even if the odds are low.</span></p>

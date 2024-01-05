@@ -1,5 +1,7 @@
 # toshiba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toshiba.md)
+
 <p><span class="chinese">但是东芝认定AACS的安全性已足够。</span><span class="english">But Toshiba decided that AACS was enough security.</span></p>
 
 <p><span class="chinese">东芝公司是此类影碟机的主要供应商。</span><span class="english">The Toshiba company is the main supplier of the players.</span></p>

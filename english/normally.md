@@ -1,5 +1,7 @@
 # normally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/normally.md)
+
 <p><span class="chinese">关于什么,典型的问题</span><span class="english">In what? Normally.</span></p>
 
 <p><span class="chinese">他通常都熬夜。</span><span class="english">He normally stays up late.</span></p>

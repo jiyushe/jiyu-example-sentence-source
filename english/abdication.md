@@ -1,5 +1,7 @@
 # abdication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abdication.md)
+
 <p><span class="chinese">国王签署了逊位的文告。</span><span class="english">The king signed the instrument of abdication.</span></p>
 
 <p><span class="chinese">事实上，她与退位事件一点儿关系没有。</span><span class="english">In fact, she played no part in the Abdication.</span></p>

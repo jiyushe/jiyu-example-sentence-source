@@ -1,5 +1,7 @@
 # 雄心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongxin.md)
+
 <p><span class="chinese">壮志雄心地投入到食品营养的研发上。</span><span class="english">For its ambitious nutrition R&D.</span></p>
 
 <p><span class="chinese">但这样的安排合乎他的雄心。</span><span class="english">But it was true to his ambitions.</span></p>

@@ -1,5 +1,7 @@
 # 野餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yecan_1.md)
+
 <p><span class="chinese">我带了一套野餐玩具。</span><span class="english">I got the picnic toy sets.</span></p>
 
 <p><span class="chinese">这是在古桑园，我们去野餐…</span><span class="english">We were in Gusangyuan Park.</span></p>

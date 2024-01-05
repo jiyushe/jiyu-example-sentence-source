@@ -1,5 +1,7 @@
 # 春秋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunqiu.md)
+
 <p><span class="chinese">这是女丑“春秋。</span><span class="english">It was the Comediennes' Spring.</span></p>
 
 <p><span class="chinese">适宜在春秋露地及保护地栽培。</span><span class="english">In autumn production and site cultivation.</span></p>

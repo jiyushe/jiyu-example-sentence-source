@@ -1,5 +1,7 @@
 # 看轻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanqing.md)
+
 <p><span class="chinese">你看轻你自己。</span><span class="english">You underestimate yourself.</span></p>
 
 <p><span class="chinese">如果你掏的小费少，人们就会看轻你。</span><span class="english">If you tip badly, people think less of you.</span></p>

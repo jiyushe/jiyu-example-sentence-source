@@ -1,5 +1,7 @@
 # teak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teak.md)
+
 <p><span class="chinese">这是由柚木做的还是紫檀木做的？</span><span class="english">Is it made of teak or padauk?</span></p>
 
 <p><span class="chinese">这张柚木桌子的桌腿有凹槽纹饰。</span><span class="english">The teak table has fluted legs.</span></p>

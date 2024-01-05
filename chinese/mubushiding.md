@@ -1,5 +1,7 @@
 # 目不识丁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mubushiding.md)
+
 <p><span class="chinese">“我直到十一岁都目不识丁，”她告诉我。</span><span class="english">“I was illiterate until I was eleven, ” she told me.</span></p>
 
 <p><span class="chinese">那些目不识丁的毛拉也会在中国的工厂里像奴隶一样工作。</span><span class="english">The illiterate mullahs will work as slaves in chinese factories.</span></p>

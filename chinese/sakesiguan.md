@@ -1,5 +1,7 @@
 # 萨克斯管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sakesiguan.md)
+
 <p><span class="chinese">那钢琴演奏者兼作萨克斯管吹奏员。</span><span class="english">The pianist doubles on saxophone.</span></p>
 
 <p><span class="chinese">他邀请我吹奏萨克斯管，和乐队合作。</span><span class="english">He invited me to play it with the band.</span></p>

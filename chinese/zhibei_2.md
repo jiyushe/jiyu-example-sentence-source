@@ -1,5 +1,7 @@
 # 置备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibei_2.md)
+
 <p><span class="chinese">那么人们为什么置备软件呢？</span><span class="english">So why do people buy software?</span></p>
 
 <p><span class="chinese">约翰感到难以为一家大小置备衣着。</span><span class="english">John felt it hard to rig out his family.</span></p>

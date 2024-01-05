@@ -1,5 +1,7 @@
 # goeth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goeth.md)
+
 <p><span class="chinese">高斯可能会买下这辆车。</span><span class="english">Goeth would have bought this car.</span></p>
 
 <p><span class="chinese">骄傲走在前，羞耻跟在后。</span><span class="english">Pride goeth before,and shame cometh after.</span></p>

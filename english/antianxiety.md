@@ -1,5 +1,7 @@
 # antianxiety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antianxiety.md)
+
 <p><span class="chinese">像doxepin这类抗抑郁药物以及像Xanax这类抗焦虑药物也会使你的情况更糟。</span><span class="english">Antidepressants like doxepin and antianxiety drugs like Xanax also boost your odds.</span></p>
 
 <p><span class="chinese">比如，如果你有失眠症的话，你的医生会建议开给你抗焦虑的药物。</span><span class="english">For instance, your doctor may suggest an antianxiety medicine if you have insomnia.</span></p>

@@ -1,5 +1,7 @@
 # 战书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanshu.md)
+
 <p><span class="chinese">下战书好，夫人。能为您效劳吗？</span><span class="english">Good afternoon, madam. May I help you ?</span></p>
 
 <p><span class="chinese">他于一个炎天的下战书前往了美国。</span><span class="english">He went back to America on a summer afternoon.</span></p>

@@ -1,5 +1,7 @@
 # 风箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengxiang_3.md)
+
 <p><span class="chinese">他的肚子是音乐的风箱。</span><span class="english">Music bellows from his insides.</span></p>
 
 <p><span class="chinese">来自他的肚子的音乐风箱。</span><span class="english">Music bellows from his insides.</span></p>

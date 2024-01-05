@@ -1,5 +1,7 @@
 # 河豚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hetun.md)
+
 <p><span class="chinese">河豚万岁！</span><span class="english">Banzai Blowfish!</span></p>
 
 <p><span class="chinese">快呀，朋友！给我河豚呀！</span><span class="english">Come on, pal! Fugu me!</span></p>

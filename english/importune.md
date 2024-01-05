@@ -1,5 +1,7 @@
 # importune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/importune.md)
+
 <p><span class="chinese">她不断请求她丈夫多给她些钱。</span><span class="english">She importune her husband for more money.</span></p>
 
 <p><span class="chinese">尽管你追求他们而我讨你厌。</span><span class="english">Whom thine eyes woo as mine importune thee.</span></p>

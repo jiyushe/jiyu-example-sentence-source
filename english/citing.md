@@ -1,5 +1,7 @@
 # citing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citing.md)
+
 <p><span class="chinese">好聚好散，以后，还是朋友。</span><span class="english">Citing the future, or friends.</span></p>
 
 <p><span class="chinese">善于用典是其特点之一。</span><span class="english">Citing allusion is one of its characteristics.</span></p>

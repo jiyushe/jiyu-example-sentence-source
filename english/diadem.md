@@ -1,5 +1,7 @@
 # diadem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diadem.md)
+
 <p><span class="chinese">不会给缪斯的冠冕增添一分光彩。</span><span class="english">No adjunct to the Muses' diadem.</span></p>
 
 <p><span class="chinese">王冠就是王权的象征。</span><span class="english">The diadem is the symbol of royalty.</span></p>

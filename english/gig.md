@@ -1,5 +1,7 @@
 # gig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gig.md)
+
 <p><span class="chinese">惠特曼这次可是要真刀真枪地再大干一场。</span><span class="english">This is Whitman's for-real next big gig.</span></p>
 
 <p><span class="chinese">G就是10的9次方。</span><span class="english">This thing does 2 gig worth of operations.</span></p>

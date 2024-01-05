@@ -1,5 +1,7 @@
 # horatio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horatio.md)
+
 <p><span class="chinese">这是Algers，Horatio的故事。</span><span class="english">That's the Algers Horatio story.</span></p>
 
 <p><span class="chinese">我们都知道Horatio，Alger的故事吧？</span><span class="english">So, we all know the Horatio Alger story right?</span></p>

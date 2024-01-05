@@ -1,5 +1,7 @@
 # intergovernmental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intergovernmental.md)
+
 <p><span class="chinese">其他主要政府间机构面临着其各自的局限性。</span><span class="english">Other key intergovernmental organisations face theirown limits.</span></p>
 
 <p><span class="chinese">财政联邦主义一直是府际间关系变化最为主要的核心议题。</span><span class="english">Fiscal federalism has always been the focal point of intergovernmental relations.</span></p>

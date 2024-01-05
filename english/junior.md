@@ -1,5 +1,7 @@
 # junior 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/junior.md)
+
 <p><span class="chinese">他是一个初中生吗？</span><span class="english">He is a junior it?</span></p>
 
 <p><span class="chinese">我是办公室里资历最浅的。</span><span class="english">I am junior in the office.</span></p>

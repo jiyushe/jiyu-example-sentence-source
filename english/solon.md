@@ -1,5 +1,7 @@
 # solon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solon.md)
+
 <p><span class="chinese">可梭仑回答说,雅典的特勒斯</span><span class="english">Solon answered, Tellus of Athens.</span></p>
 
 <p><span class="chinese">古代雅典由梭伦创建的由400人组成的元老院。</span><span class="english">The senate of 400 founded by Solon in ancient athens.</span></p>

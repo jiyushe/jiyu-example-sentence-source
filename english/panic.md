@@ -1,5 +1,7 @@
 # panic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panic.md)
+
 <p><span class="chinese">但是别紧张。</span><span class="english">But don’t panic.</span></p>
 
 <p><span class="chinese">惊恐完全慑服了我，使我几乎麻痹。</span><span class="english">Panic paralyzed me.</span></p>

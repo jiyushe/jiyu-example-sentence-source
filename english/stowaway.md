@@ -1,5 +1,7 @@
 # stowaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stowaway.md)
+
 <p><span class="chinese">你们发现偷渡者了吗？</span><span class="english">Have you found any stowaway?</span></p>
 
 <p><span class="chinese">贾巴命令两个勾心斗角的心腹去捉拿逃跑的偷渡者。</span><span class="english">Jabba tasked his two competing henchmen to capture the elusive stowaway.</span></p>

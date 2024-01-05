@@ -1,5 +1,7 @@
 # 犹太人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youtairen.md)
+
 <p><span class="chinese">我是一名犹太人。</span><span class="english">I am a Jew.</span></p>
 
 <p><span class="chinese">泰特斯又是一个犹太人。</span><span class="english">Titus is a Jew.</span></p>

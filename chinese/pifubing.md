@@ -1,5 +1,7 @@
 # 皮肤病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pifubing.md)
+
 <p><span class="chinese">你的狗有皮肤病。</span><span class="english">Your dog has ringworm.</span></p>
 
 <p><span class="chinese">得了皮肤病怎么办？</span><span class="english">How to get dermatosis to do?</span></p>

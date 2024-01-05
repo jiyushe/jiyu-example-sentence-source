@@ -1,5 +1,7 @@
 # gluttonous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gluttonous.md)
+
 <p><span class="chinese">他是个好吃懒做之徒。</span><span class="english">He is a gluttonous and lazy guy.</span></p>
 
 <p><span class="chinese">我从来没遇到过河他一样贪吃的人。</span><span class="english">I've never met a man as gluttonous as him.</span></p>

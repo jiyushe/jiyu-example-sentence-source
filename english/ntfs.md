@@ -1,5 +1,7 @@
 # ntfs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ntfs.md)
+
 <p><span class="chinese">我们格式为NTFS文件系统。</span><span class="english">We format it for NTFS file system.</span></p>
 
 <p><span class="chinese">为什么红帽子不在其内核中直扌妾支持NTFS?。</span><span class="english">Why didnt Red Hat enable NTFS support in their kernels?</span></p>

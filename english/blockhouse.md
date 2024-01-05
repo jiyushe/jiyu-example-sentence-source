@@ -1,5 +1,7 @@
 # blockhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blockhouse.md)
+
 <p><span class="chinese">敌军被我们围困在碉堡中。</span><span class="english">The enemy besieged in the blockhouse.</span></p>
 
 <p><span class="chinese">她的左面有一个钢筋水泥的碉堡。</span><span class="english">To her left was a concrete blockhouse.</span></p>

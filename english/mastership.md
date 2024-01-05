@@ -1,5 +1,7 @@
 # mastership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastership.md)
+
 <p><span class="chinese">他喜欢宇宙的主人身份。</span><span class="english">He likes the mastership of the universe.</span></p>
 
 <p><span class="chinese">如果我们能够掌握它，是有利于提高棋艺的。</span><span class="english">If we are able to learn, it we'll just increase the level of our mastership.</span></p>

@@ -1,5 +1,7 @@
 # 催眠药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuimianyao.md)
+
 <p><span class="chinese">这一类药物也属于催眠药。</span><span class="english">This class of drugs also falls under hypnotics.</span></p>
 
 <p><span class="chinese">水合氯醛为一种作用迅速的催眠药。</span><span class="english">Chloral hydrate is a rapidly effective hypnotic.</span></p>

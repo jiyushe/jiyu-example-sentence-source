@@ -1,5 +1,7 @@
 # luxemburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luxemburg.md)
+
 <p><span class="chinese">这趟车什么时候抵达卢森堡？</span><span class="english">What time does the train reach Luxemburg ?</span></p>
 
 <p><span class="chinese">卢森堡位于比利时、德国和法国之间。</span><span class="english">Luxemburg lies between Belgium, Germany and France.</span></p>

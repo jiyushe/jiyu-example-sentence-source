@@ -1,5 +1,7 @@
 # hungary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hungary.md)
+
 <p><span class="chinese">在匈牙利喝酒不要碰杯。</span><span class="english">Don't clink and drink in Hungary.</span></p>
 
 <p><span class="chinese">罗马尼亚和匈牙利正在接受国际货币基金组织的救助。</span><span class="english">Romania and Hungary are operating under I.M.F.</span></p>

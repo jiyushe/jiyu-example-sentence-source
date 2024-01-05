@@ -1,5 +1,7 @@
 # 老泪纵横
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoleizongheng.md)
+
 <p><span class="chinese">爸爸真的站起来了，他抱着女儿老泪纵横。</span><span class="english">Dad really stood up, holding his daughter career.</span></p>
 
 <p><span class="chinese">回忆起中尉用他的臂膀抱着他时，他又开始老泪纵横。</span><span class="english">Remembering the lieutenant's arms around him, he wept again.</span></p>

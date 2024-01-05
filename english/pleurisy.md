@@ -1,5 +1,7 @@
 # pleurisy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleurisy.md)
+
 <p><span class="chinese">他患肋膜炎于十一月份死去。</span><span class="english">He conked out in November with pleurisy.</span></p>
 
 <p><span class="chinese">性胸膜炎也可以是其中一个迹象某些癌症。</span><span class="english">Pleurisy can also be one of the signs of some cancers.</span></p>

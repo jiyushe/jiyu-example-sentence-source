@@ -1,5 +1,7 @@
 # retinue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retinue.md)
+
 <p><span class="chinese">他发现两个相同的，所以他要求随行人员。</span><span class="english">He discover two same, so he ask retinue.</span></p>
 
 <p><span class="chinese">他与他的随员们大步走了过去。</span><span class="english">He strode past with his retinue of aides.</span></p>

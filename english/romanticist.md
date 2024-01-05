@@ -1,5 +1,7 @@
 # romanticist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romanticist.md)
+
 <p><span class="chinese">我是个浪漫主义者。</span><span class="english">I'm a romanticist.</span></p>
 
 <p><span class="chinese">赫斯渥按其本性实在是一个浪漫派人物。</span><span class="english">Hurstwood was something of a romanticist after his kind.</span></p>

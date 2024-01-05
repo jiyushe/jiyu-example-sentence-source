@@ -1,5 +1,7 @@
 # chubby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chubby.md)
+
 <p><span class="chinese">她长得丰腴但并不肥胖。</span><span class="english">She is chubby but not fat.</span></p>
 
 <p><span class="chinese">那婴儿的脸蛋儿圆圆胖胖。</span><span class="english">The baby has a chubby face.</span></p>

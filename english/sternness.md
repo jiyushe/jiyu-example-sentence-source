@@ -1,5 +1,7 @@
 # sternness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sternness.md)
+
 <p><span class="chinese">她严厉的声音把他们吓得鸦雀无声了。</span><span class="english">They were awed into silence by the sternness of her voice.</span></p>
 
 <p><span class="chinese">工作人员的态度完全变了，严厉的神情消失了。</span><span class="english">Her demeanor changed completely and her sternness melted away.</span></p>

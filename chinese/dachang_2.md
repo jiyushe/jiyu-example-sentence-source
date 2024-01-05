@@ -1,5 +1,7 @@
 # 打场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachang_2.md)
+
 <p><span class="chinese">想打场网球吗？</span><span class="english">Feel like a game of tennis?</span></p>
 
 <p><span class="chinese">现在，让我们去打场棒球吧。</span><span class="english">Now let's go play some baseball.</span></p>

@@ -1,5 +1,7 @@
 # rei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rei.md)
+
 <p><span class="chinese">明日香，丽是我妹妹。</span><span class="english">Asuka, Rei is my sister.</span></p>
 
 <p><span class="chinese">丽说了谢谢，两个人开始了午餐。</span><span class="english">Rei thanked him, and the meal began.</span></p>

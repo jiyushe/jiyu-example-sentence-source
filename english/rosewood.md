@@ -1,5 +1,7 @@
 # rosewood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosewood.md)
+
 <p><span class="chinese">将一个图案嵌入红木盒子上。</span><span class="english">Mosaic a design on a rosewood box.</span></p>
 
 <p><span class="chinese">嵌有乌木装饰图案的青龙木书桌。</span><span class="english">A writing desk of rosewood with ebony inlay.</span></p>

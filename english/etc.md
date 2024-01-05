@@ -1,5 +1,7 @@
 # etc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etc.md)
+
 <p><span class="chinese">等等，等等。</span><span class="english">Etc., etc.</span></p>
 
 <p><span class="chinese">等等，等等，等等。</span><span class="english">etc., etc.</span></p>

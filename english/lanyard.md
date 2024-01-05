@@ -1,5 +1,7 @@
 # lanyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lanyard.md)
+
 <p><span class="chinese">荷兰橙色挂绳。</span><span class="english">Netherlands Orange Lanyard.</span></p>
 
 <p><span class="chinese">这个挂绳很漂亮，送给你！</span><span class="english">The lanyard is very beautiful, you gave!</span></p>

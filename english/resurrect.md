@@ -1,5 +1,7 @@
 # resurrect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resurrect.md)
+
 <p><span class="chinese">那么上帝将复活死者。</span><span class="english">So God will resurrect the dead.</span></p>
 
 <p><span class="chinese">你计划要重启那些囚室的使用？</span><span class="english">You plan to resurrect the cell’s use?</span></p>

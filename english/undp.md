@@ -1,5 +1,7 @@
 # undp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undp.md)
+
 <p><span class="chinese">拿破仑纳瓦罗是中国国家开发署副主任。</span><span class="english">Napoleon Navarro is the deputy country director of the UNDP in China.</span></p>
 
 <p><span class="chinese">联合国开发计划署和SUM公司在1997年2月共同启动了“微启动”计划。</span><span class="english">Together with SUM, UNDP launched the MicroStart programme in February 1997.</span></p>

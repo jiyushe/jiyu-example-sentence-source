@@ -1,5 +1,7 @@
 # natural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/natural.md)
+
 <p><span class="chinese">veda的一切都是自然的。</span><span class="english">Aveda is all natural.</span></p>
 
 <p><span class="chinese">他们是自然法则。</span><span class="english">They are natural laws.</span></p>

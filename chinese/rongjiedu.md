@@ -1,5 +1,7 @@
 # 溶解度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongjiedu.md)
+
 <p><span class="chinese">它们在溶解度和化学反应活性上有差别。</span><span class="english">They differ in solubility and chemical reactivity.</span></p>
 
 <p><span class="chinese">举例来说，氮气在水中的溶解度小于二氧化碳。</span><span class="english">Nitrogen, for example, is less soluble in water than CO2.</span></p>

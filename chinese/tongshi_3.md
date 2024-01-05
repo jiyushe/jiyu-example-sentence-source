@@ -1,5 +1,7 @@
 # 通式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshi_3.md)
+
 <p><span class="chinese">直通式电缆是相同的两端。</span><span class="english">A straight-through cable is the same at both ends.</span></p>
 
 <p><span class="chinese">本发明涉及通式I的哌嗪类。</span><span class="english">The present invention relates to piperazines of formula I.</span></p>

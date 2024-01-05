@@ -1,5 +1,7 @@
 # platform 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platform.md)
+
 <p><span class="chinese">采用什么平台呢？</span><span class="english">What about the platform?</span></p>
 
 <p><span class="chinese">买一张站台票。</span><span class="english">One platform ticket, please.</span></p>

@@ -1,5 +1,7 @@
 # kabul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kabul.md)
+
 <p><span class="chinese">莫里斯从喀布尔发回报道称。</span><span class="english">Chirst Morris reports from Kabul.</span></p>
 
 <p><span class="chinese">昆廷·萨默维尔在喀布尔报道。</span><span class="english">Quentin Sommerville reports from Kabul.</span></p>

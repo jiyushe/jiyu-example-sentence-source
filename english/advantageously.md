@@ -1,5 +1,7 @@
 # advantageously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advantageously.md)
+
 <p><span class="chinese">上海是中国最大的贸易中心。</span><span class="english">Located most advantageously in the business centre.</span></p>
 
 <p><span class="chinese">纽约市濒临哈德逊河两岸，地势优越。</span><span class="english">New York city is advantageously situated on the bank of the Husdon River.</span></p>

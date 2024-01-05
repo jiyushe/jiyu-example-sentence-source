@@ -1,5 +1,7 @@
 # duckling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duckling.md)
+
 <p><span class="chinese">就这样这只小鸭离开了。</span><span class="english">So away went the duckling.</span></p>
 
 <p><span class="chinese">我的妹妹以前是个丑小鸭。</span><span class="english">My sister was an ugly duckling.</span></p>

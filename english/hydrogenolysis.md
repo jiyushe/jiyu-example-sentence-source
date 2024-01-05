@@ -1,5 +1,7 @@
 # hydrogenolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrogenolysis.md)
+
 <p><span class="chinese">简要介绍了苄基型醇催化氢解的方法、催化剂和催化反应的机理。</span><span class="english">The methods, catalysts and reaction mechanism of the hydrogenolysis of benzyl-type alcohols are reviewed.</span></p>
 
 <p><span class="chinese">肼解还原法是三种方法中产率最高，选择性最好的方法。</span><span class="english">Hydrozinolysis and hydrogenolysis reduction with high yield and excellent selectivity was the best process among the three.</span></p>

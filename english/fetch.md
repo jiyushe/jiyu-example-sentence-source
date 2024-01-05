@@ -1,5 +1,7 @@
 # fetch 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fetch.md)
+
 <p><span class="chinese">请去把我的帽子取来。</span><span class="english">Please fetch my cap.</span></p>
 
 <p><span class="chinese">去把她接回来。</span><span class="english">Go and fetch her home.</span></p>

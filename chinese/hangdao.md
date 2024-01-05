@@ -1,5 +1,7 @@
 # 巷道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangdao.md)
+
 <p><span class="chinese">两个男人穿过远处巷道的一处缺口出现了。</span><span class="english">Two men stepped through a gap in the far wall.</span></p>
 
 <p><span class="chinese">出现的最大危险就是巷道崩坍。</span><span class="english">The largest risk in coal mining is the collapse of the mine.</span></p>

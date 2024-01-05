@@ -1,5 +1,7 @@
 # 水利工程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiligongcheng.md)
+
 <p><span class="chinese">这些数据又是防汛防旱及水利工程建设和管理的决策依据。</span><span class="english">These data is still the gist of preventing the flood and drought.</span></p>
 
 <p><span class="chinese">“七门三堰”是安徽舒城境内古老的水利工程。</span><span class="english">"Qimen Sanyan" barrage is an ancient water project in Shucheng, Anhui.</span></p>

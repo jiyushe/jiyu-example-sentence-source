@@ -1,5 +1,7 @@
 # 停战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhan.md)
+
 <p><span class="chinese">他拒绝停战</span><span class="english">He refused a furlough to stay and fight.</span></p>
 
 <p><span class="chinese">白旗是停战的普遍象征。</span><span class="english">A white flag is the universal symbol for truce.</span></p>

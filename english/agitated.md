@@ -1,5 +1,7 @@
 # agitated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agitated.md)
+
 <p><span class="chinese">她坐立不安，甚至心乱如麻。</span><span class="english">She was restless and even agitated.</span></p>
 
 <p><span class="chinese">人群被他的演说激动起来。</span><span class="english">The crowd was agitated by his speech.</span></p>

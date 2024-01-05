@@ -1,5 +1,7 @@
 # 大处着眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachuzhuoyan.md)
+
 <p><span class="chinese">我们应该从大处着眼。</span><span class="english">We must take a wider view.</span></p>
 
 <p><span class="chinese">大处着眼，小处着手。</span><span class="english">Start small, but think big.</span></p>

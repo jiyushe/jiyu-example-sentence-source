@@ -1,5 +1,7 @@
 # indicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indicate.md)
+
 <p><span class="chinese">我们怎么表示这些呢</span><span class="english">How do we indicate these?</span></p>
 
 <p><span class="chinese">具有墨尽提示功能。</span><span class="english">It can indicate ink finish.</span></p>

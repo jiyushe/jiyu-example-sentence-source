@@ -1,5 +1,7 @@
 # since 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/since.md)
+
 <p><span class="chinese">什么多长时间了？</span><span class="english">How long since what?</span></p>
 
 <p><span class="chinese">钢是由铁炼成的。</span><span class="english">Steel is do since iron.</span></p>

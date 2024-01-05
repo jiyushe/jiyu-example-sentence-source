@@ -1,5 +1,7 @@
 # jervis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jervis.md)
+
 <p><span class="chinese">又一次，杰维斯默默地顺从了。</span><span class="english">Again, Jervis silently obeyed.</span></p>
 
 <p><span class="chinese">杰维斯湾号很快就被击沉，船上的190名船员也与其共同葬身海底。</span><span class="english">The Jervis Bay was quickly sunk with the loss of 190 of her crew.</span></p>

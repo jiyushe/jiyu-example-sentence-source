@@ -1,5 +1,7 @@
 # 雅士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yashi.md)
+
 <p><span class="chinese">我要一辆福特雅士。</span><span class="english">I want a Ford Escort.</span></p>
 
 <p><span class="chinese">曾有一群雅士在此世外桃源享受最后的升平。</span><span class="english">Here in this pretty world Gallantry too its last bow.</span></p>

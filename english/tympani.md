@@ -1,5 +1,7 @@
 # tympani
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tympani.md)
+
 <p><span class="chinese">宫殿门前，士兵们正在列队行进，号角声，锣鼓声，震耳欲聋。</span><span class="english">Soldiers were marching outside the gate, blowing trumpets and beating tympani and drums.</span></p>
 
 <p><span class="chinese">宫殿门前，士兵们正在列队行进，号角声，锣鼓声，震耳欲聋。</span><span class="english">Soldiers were marching outside the gate, blowing trumpets and beating tympani and drums.</span></p>

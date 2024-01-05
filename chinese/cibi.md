@@ -1,5 +1,7 @@
 # 刺鼻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cibi.md)
+
 <p><span class="chinese">他们闻到一种刺鼻的气味。</span><span class="english">A pungent odour met their nostrils.</span></p>
 
 <p><span class="chinese">樟脑丸的味道刺鼻。</span><span class="english">The smell of mothballs is very pungent.</span></p>

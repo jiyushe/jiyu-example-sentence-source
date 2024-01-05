@@ -1,5 +1,7 @@
 # madder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madder.md)
+
 <p><span class="chinese">同时感谢丽紫·麦德录制磁带！</span><span class="english">Thanks also to Lizzie Madder for the tape!</span></p>
 
 <p><span class="chinese">她一直与大富翁为伴，过着花天酒地的生活。</span><span class="english">The world is racketing around at an ever madder pace.</span></p>

@@ -1,5 +1,7 @@
 # 简缩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiansuo_1.md)
+
 <p><span class="chinese">把这篇文章简缩到只有几个句子。</span><span class="english">Boil down the article to a few sentences.</span></p>
 
 <p><span class="chinese">历史叙述把大屠杀简缩成了冷冰冰的数字。</span><span class="english">History reduces the carnage to impersonal numbers.</span></p>

@@ -1,5 +1,7 @@
 # voltmeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voltmeter.md)
+
 <p><span class="chinese">选择伏特计的最低量程。</span><span class="english">Select the lowest range of the voltmeter.</span></p>
 
 <p><span class="chinese">电压表的引线则按已知的距离放置。</span><span class="english">The voltmeter leads are placed a known distance apart.</span></p>

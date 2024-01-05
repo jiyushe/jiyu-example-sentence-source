@@ -1,5 +1,7 @@
 # 哈巴狗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/habagou.md)
+
 <p><span class="chinese">看看那个哈巴狗！</span><span class="english">Look at that slime dog!</span></p>
 
 <p><span class="chinese">这浴缸是给哈巴狗的。</span><span class="english">The tub is for the pug.</span></p>

@@ -1,5 +1,7 @@
 # expenses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expenses.md)
+
 <p><span class="chinese">注意小开支。</span><span class="english">Beware small expenses.</span></p>
 
 <p><span class="chinese">他挣得的钱刚够开支。</span><span class="english">He just cleared the expenses.</span></p>

@@ -1,5 +1,7 @@
 # leading 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leading.md)
+
 <p><span class="chinese">我领导？</span><span class="english">Me leading?</span></p>
 
 <p><span class="chinese">锚链向后。</span><span class="english">Cable leading astern.</span></p>

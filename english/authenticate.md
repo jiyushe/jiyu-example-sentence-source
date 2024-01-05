@@ -1,5 +1,7 @@
 # authenticate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authenticate.md)
+
 <p><span class="chinese">引物S412可以有效鉴别铁皮石斛的8个野生居群。</span><span class="english">Primer S412 could be used to authenticate 8 wild populations completely.</span></p>
 
 <p><span class="chinese">用户友好的XML与XSL在谷歌地图和验证，宗炳，雅虎它。</span><span class="english">User-friendly XML sitemap with XSL and authenticate it in Google, Bing & Yahoo.</span></p>

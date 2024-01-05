@@ -1,5 +1,7 @@
 # interreligious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interreligious.md)
+
 <p><span class="chinese">分享你的城市的宗教问题。</span><span class="english">Share your city's interreligious concerns.</span></p>
 
 <p><span class="chinese">管理人员认为，这是第一所这种类型的跨宗教大学。</span><span class="english">Administrators think this is the first "interreligious university" of its kind.</span></p>

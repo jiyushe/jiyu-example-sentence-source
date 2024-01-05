@@ -1,5 +1,7 @@
 # audit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audit.md)
+
 <p><span class="chinese">避免审核账单。</span><span class="english">Avoid the line-item audit.</span></p>
 
 <p><span class="chinese">可能的审计类型列表。</span><span class="english">List of possible audit types.</span></p>

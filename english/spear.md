@@ -1,5 +1,7 @@
 # spear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spear.md)
+
 <p><span class="chinese">失去了长矛的时候</span><span class="english">When they had no spear.</span></p>
 
 <p><span class="chinese">一种具有三个刺的矛。</span><span class="english">A spear with three prongs.</span></p>

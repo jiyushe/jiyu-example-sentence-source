@@ -1,5 +1,7 @@
 # 热饮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reyin.md)
+
 <p><span class="chinese">喝点热饮。</span><span class="english">And drink something hot.</span></p>
 
 <p><span class="chinese">热饮能让我们冷下来？</span><span class="english">Do hot drinks cool you down?</span></p>

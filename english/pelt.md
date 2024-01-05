@@ -1,5 +1,7 @@
 # pelt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pelt.md)
+
 <p><span class="chinese">可能是为了我们准备的好毛皮。</span><span class="english">Might be a nice pelt in it for us.</span></p>
 
 <p><span class="chinese">佩尔特转过身去摸找他的烟斗。</span><span class="english">Pelt turned away, fumbling for his pipe.</span></p>

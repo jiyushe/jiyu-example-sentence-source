@@ -1,5 +1,7 @@
 # 早已
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoyi.md)
+
 <p><span class="chinese">或许我早已遗忘。</span><span class="english">And haply may forget.</span></p>
 
 <p><span class="chinese">我早已归心似箭！</span><span class="english">My heart like a arrow!</span></p>

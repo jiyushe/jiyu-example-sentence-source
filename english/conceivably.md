@@ -1,5 +1,7 @@
 # conceivably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conceivably.md)
+
 <p><span class="chinese">他们能设想自己做到马云所做的。</span><span class="english">They can conceivably see themselves doing what he has done.</span></p>
 
 <p><span class="chinese">大猩猩的粪便说不定或许正是地球的大救星。</span><span class="english">Gorilla dung could conceivably be the salvation of the planet.</span></p>

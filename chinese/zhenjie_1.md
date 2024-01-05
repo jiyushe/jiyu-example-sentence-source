@@ -1,5 +1,7 @@
 # 贞节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjie_1.md)
+
 <p><span class="chinese">我确信他是贞节的人，就像月亮一样贞洁。</span><span class="english">I am sure he is chaste as the moon is.</span></p>
 
 <p><span class="chinese">她真不愧是一位贞节烈女呀！</span><span class="english">Only a great woman will die to defend her chastity.</span></p>

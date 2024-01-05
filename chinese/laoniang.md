@@ -1,5 +1,7 @@
 # 老娘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoniang.md)
+
 <p><span class="chinese">老娘我不干了，回家了。</span><span class="english">I'm going home.</span></p>
 
 <p><span class="chinese">老娘法眼一开就知道你是个妖孽了。</span><span class="english">I escaped a knew you were a monster.</span></p>

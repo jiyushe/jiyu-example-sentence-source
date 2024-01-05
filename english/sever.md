@@ -1,5 +1,7 @@
 # sever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sever.md)
+
 <p><span class="chinese">于是真爱也会分离。</span><span class="english">And thus true love may sever.</span></p>
 
 <p><span class="chinese">你可以投票选你喜欢的任一方。</span><span class="english">You may vote who sever side you like.</span></p>

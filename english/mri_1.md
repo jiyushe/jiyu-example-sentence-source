@@ -1,5 +1,7 @@
 # MRI
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mri_1.md)
+
 <p><span class="chinese">可移动式的核磁共振脑扫描成像</span><span class="english">Brain Scanning In A Mobile MRI</span></p>
 
 <p><span class="chinese">本病最好的诊断方法是行腰骶椎MRI检查。</span><span class="english">MRI is the best way for the diagnosis.</span></p>

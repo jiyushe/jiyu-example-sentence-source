@@ -1,5 +1,7 @@
 # acronym
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acronym.md)
+
 <p><span class="chinese">因为他是首字递归的。</span><span class="english">Because it's a recursive acronym.</span></p>
 
 <p><span class="chinese">缩略词数据存储为字符串。</span><span class="english">The acronym data is stored as a string.</span></p>

@@ -1,5 +1,7 @@
 # 死角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sijiao_2.md)
+
 <p><span class="chinese">死角，是那宫殿的名字。</span><span class="english">Corner, name of my seraglio.</span></p>
 
 <p><span class="chinese">清道夫的清污效果，吸力大，不留死角。</span><span class="english">Clean-up effects, great suction, leaving no.</span></p>

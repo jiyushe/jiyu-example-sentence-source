@@ -1,5 +1,7 @@
 # scholasticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scholasticism.md)
+
 <p><span class="chinese">任期士林，然后开始用在一个带有贬义色彩的意识。</span><span class="english">The term scholasticism then began to be used in a derogatory sense.</span></p>
 
 <p><span class="chinese">士林是一个长远的用于指定既是一种方法和制度。</span><span class="english">Scholasticism is a term used to designate both a method and a system.</span></p>

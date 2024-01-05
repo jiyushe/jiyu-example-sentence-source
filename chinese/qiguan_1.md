@@ -1,5 +1,7 @@
 # 奇观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiguan_1.md)
+
 <p><span class="chinese">古埃及大金字塔是世界七大奇观之一。</span><span class="english">To assume the shape of a pyramid.</span></p>
 
 <p><span class="chinese">这是一个世界的永无休止的奇观。</span><span class="english">It is a world of never-ending wonders.</span></p>

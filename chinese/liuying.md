@@ -1,5 +1,7 @@
 # 柳莺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuying.md)
+
 <p><span class="chinese">我对这只柳莺很有兴趣。</span><span class="english">I am interested with this warbler!</span></p>
 
 <p><span class="chinese">看起来像是只羽毛磨损且正换羽中的极北柳莺。</span><span class="english">Looks like a worn and moulting Arctic Warbler.</span></p>

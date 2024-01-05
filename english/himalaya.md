@@ -1,5 +1,7 @@
 # himalaya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/himalaya.md)
+
 <p><span class="chinese">“喜马拉雅”在藏语中是“冰雪之乡”的意思。</span><span class="english">"Himalaya" means "abode of snow" in Tibetan.</span></p>
 
 <p><span class="chinese">烟雾笼罩的低地紧靠着喜马拉雅的南缘。</span><span class="english">Smoke-shrouded lowlands hug the southern margin of the Himalaya.</span></p>

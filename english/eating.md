@@ -1,5 +1,7 @@
 # eating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eating.md)
+
 <p><span class="chinese">马正在吃。</span><span class="english">Horses are eating.</span></p>
 
 <p><span class="chinese">我们确实喜欢吃。</span><span class="english">We do love eating.</span></p>

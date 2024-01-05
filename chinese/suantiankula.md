@@ -1,5 +1,7 @@
 # 酸甜苦辣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suantiankula.md)
+
 <p><span class="chinese">他的心情非常复杂，酸甜苦辣都有。</span><span class="english">He has had his ups and downs in life.</span></p>
 
 <p><span class="chinese">我已经历了人生的酸甜苦辣。</span><span class="english">To me , life is full of ups and downs.</span></p>

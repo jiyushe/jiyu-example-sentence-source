@@ -1,5 +1,7 @@
 # 奸淫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianyin.md)
+
 <p><span class="chinese">不可奸淫。</span><span class="english">You shall not commit adultery.</span></p>
 
 <p><span class="chinese">北欧海盗沿着海岸大肆奸淫劫掠。</span><span class="english">The Vikings raped and pillaged all along the coast.</span></p>

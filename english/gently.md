@@ -1,5 +1,7 @@
 # gently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gently.md)
+
 <p><span class="chinese">轻轻地把他们撬开，取下。</span><span class="english">Gently pry then off.</span></p>
 
 <p><span class="chinese">水流平缓。</span><span class="english">The water flows gently.</span></p>

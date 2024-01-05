@@ -1,5 +1,7 @@
 # readmission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/readmission.md)
+
 <p><span class="chinese">我们发现频繁的再入院同样与LM相关。</span><span class="english">Frequent readmission was also found to be associated with LM.</span></p>
 
 <p><span class="chinese">巴基斯坦还得对拒绝重新接纳这些人提供理由。</span><span class="english">Pakistan also will have to justify any refusal for readmission.</span></p>

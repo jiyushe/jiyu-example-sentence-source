@@ -1,5 +1,7 @@
 # bolt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolt.md)
+
 <p><span class="chinese">这儿是枪栓。</span><span class="english">Here's the bolt.</span></p>
 
 <p><span class="chinese">他把螺栓扭紧。</span><span class="english">He fastened the bolt.</span></p>

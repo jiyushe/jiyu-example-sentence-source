@@ -1,5 +1,7 @@
 # indefatigably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indefatigably.md)
+
 <p><span class="chinese">她看上很温和，却不屈不饶地对抗生存问题。</span><span class="english">She seemed gentle, yet indefatigably determined to survive.</span></p>
 
 <p><span class="chinese">不管追求什么目标，都迎坚持不懈。</span><span class="english">Pursue your object be it what it will steadily and indefatigably.</span></p>

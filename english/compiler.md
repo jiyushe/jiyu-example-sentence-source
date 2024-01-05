@@ -1,5 +1,7 @@
 # compiler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compiler.md)
+
 <p><span class="chinese">我们需要一个编译器。</span><span class="english">Okay, so a compiler.</span></p>
 
 <p><span class="chinese">编译器截断多余位。</span><span class="english">The compiler truncates the extra bits.</span></p>

@@ -1,5 +1,7 @@
 # 杀伤力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shashangli.md)
+
 <p><span class="chinese">体现了很强的杀伤力。</span><span class="english">Has manifested the very strong lethality.</span></p>
 
 <p><span class="chinese">让我们再来看看这个阵型的杀伤力</span><span class="english">Let me talk about the offensive aspect of it.</span></p>

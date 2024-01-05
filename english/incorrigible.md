@@ -1,5 +1,7 @@
 # incorrigible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incorrigible.md)
+
 <p><span class="chinese">她的丈夫是个积习难改的调情老手。</span><span class="english">Her husband is an incorrigible flirt.</span></p>
 
 <p><span class="chinese">人总是要犯错误的，但不可救药的却很少。</span><span class="english">Everyone makes mistakes, but few are incorrigible.</span></p>

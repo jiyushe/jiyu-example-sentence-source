@@ -1,5 +1,7 @@
 # 培训
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peixun.md)
+
 <p><span class="chinese">我没那份情感。培训。</span><span class="english">I'm not in the mood.</span></p>
 
 <p><span class="chinese">但我们需要培训的。</span><span class="english">But we need the training.</span></p>

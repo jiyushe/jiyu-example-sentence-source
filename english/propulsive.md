@@ -1,5 +1,7 @@
 # propulsive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propulsive.md)
+
 <p><span class="chinese">它们有一条推进用的尾巴，咽及鳃裂。</span><span class="english">IV. They present a propulsive tail, pharynx and branchial openings.</span></p>
 
 <p><span class="chinese">航空部对喷气推进的兴趣正在增加。</span><span class="english">Interest in jet propulsive force was now growing at the Air Ministry.</span></p>

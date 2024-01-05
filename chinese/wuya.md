@@ -1,5 +1,7 @@
 # 乌鸦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuya.md)
+
 <p><span class="chinese">我看见了乌鸦！</span><span class="english">I look crow druck!</span></p>
 
 <p><span class="chinese">“我们呱呱，”六只小乌鸦说。</span><span class="english">"We caw, "said the six.</span></p>

@@ -1,5 +1,7 @@
 # 探头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tantou.md)
+
 <p><span class="chinese">探头装置是密封的。</span><span class="english">The probe unit is hermetically sealed.</span></p>
 
 <p><span class="chinese">智能手机和探头总共重量约为13盎司左右。</span><span class="english">Together, the phone and probe weigh about 13 ounces.</span></p>

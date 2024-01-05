@@ -1,5 +1,7 @@
 # cistern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cistern.md)
+
 <p><span class="chinese">那是一个古代的蓄水池。</span><span class="english">It is an old cistern.</span></p>
 
 <p><span class="chinese">止住水箱溢水。</span><span class="english">Stop the overflow from the cistern.</span></p>

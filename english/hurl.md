@@ -1,5 +1,7 @@
 # hurl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurl.md)
+
 <p><span class="chinese">警察的路上微风猛掷，告诉给一台电话。</span><span class="english">Police road breeze the hurl tell a telephone.</span></p>
 
 <p><span class="chinese">把隐士、王冠和刀剑扔进深坑。</span><span class="english">Hurl helmets, crowns, and swords into the pit.</span></p>

@@ -1,5 +1,7 @@
 # brazenly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brazenly.md)
+
 <p><span class="chinese">她恬不知耻地承认了让他回到屋里的事。</span><span class="english">She had brazenly admitted allowing him back into the house.</span></p>
 
 <p><span class="chinese">我看见带着头巾的年轻人们沿着我家门口的路跑向商店。</span><span class="english">I watched hooded youths brazenly running up my road towards the store.</span></p>

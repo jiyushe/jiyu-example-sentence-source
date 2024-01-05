@@ -1,5 +1,7 @@
 # semiautonomous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiautonomous.md)
+
 <p><span class="chinese">半自动以及全自动无人机和地面系统。</span><span class="english">Semiautonomous and autonomous unmanned air and ground systems.</span></p>
 
 <p><span class="chinese">阿布扎比是阿联酋七个半自治酋长国之一。</span><span class="english">Abu Dhabi is one of seven semiautonomous emirates that make up the UAE.</span></p>

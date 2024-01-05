@@ -1,5 +1,7 @@
 # townsfolk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/townsfolk.md)
+
 <p><span class="chinese">我们很少在家过这些普通市民的居家日子。</span><span class="english">We are too seldom at home to lead lives of ordinary townsfolk.</span></p>
 
 <p><span class="chinese">我也没想到普通的小市民，杀戮起来可以如此性感。</span><span class="english">I never thought homely, townsfolk killing Brits could be so hot.</span></p>

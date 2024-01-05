@@ -1,5 +1,7 @@
 # augury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/augury.md)
+
 <p><span class="chinese">这是一个好兆头。</span><span class="english">It was a good augury.</span></p>
 
 <p><span class="chinese">谶，包括谶言和谶兆。</span><span class="english">Augury includes augury word and augury event.</span></p>

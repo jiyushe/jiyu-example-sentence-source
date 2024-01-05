@@ -1,5 +1,7 @@
 # 查验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chayan.md)
+
 <p><span class="chinese">视察员查验工作的质量。</span><span class="english">An inspector checked the standard of work.</span></p>
 
 <p><span class="chinese">我们会查验信息来源，确保它是事实。</span><span class="english">We check our information and make sure it's true.</span></p>

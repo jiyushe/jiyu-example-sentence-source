@@ -1,5 +1,7 @@
 # dustbin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dustbin.md)
+
 <p><span class="chinese">她把垃圾倒进垃圾箱。</span><span class="english">She tipped the rubbish into a dustbin.</span></p>
 
 <p><span class="chinese">垃圾应堆放在垃圾箱里。</span><span class="english">Rubbish should be put into the dustbin.</span></p>

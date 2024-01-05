@@ -1,5 +1,7 @@
 # ministerial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ministerial.md)
+
 <p><span class="chinese">而且有部级的访问。</span><span class="english">And there's been ministerial visits.</span></p>
 
 <p><span class="chinese">预祝本届部长级会议圆满成功！</span><span class="english">I wish this ministerial conference full success.</span></p>

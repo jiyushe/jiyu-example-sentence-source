@@ -1,5 +1,7 @@
 # abigail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abigail.md)
+
 <p><span class="chinese">他们的姐妹是洗鲁雅和亚比该。</span><span class="english">Their sisters were Zeruiah and Abigail.</span></p>
 
 <p><span class="chinese">他们的姊妹是洗鲁雅和亚比该。</span><span class="english">Whose sisters were Zeruiah, and Abigail.</span></p>

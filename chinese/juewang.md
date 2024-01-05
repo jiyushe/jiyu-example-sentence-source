@@ -1,5 +1,7 @@
 # 绝望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juewang.md)
+
 <p><span class="chinese">绝望的。</span><span class="english">Desperate.</span></p>
 
 <p><span class="chinese">因战败而绝望。</span><span class="english">Despair in Defeat.</span></p>

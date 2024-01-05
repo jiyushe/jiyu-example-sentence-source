@@ -1,5 +1,7 @@
 # whoosh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whoosh.md)
+
 <p><span class="chinese">她抽出了一根，哧！</span><span class="english">She drew one out --- whoosh !</span></p>
 
 <p><span class="chinese">我听见嗖地一声，接下来就全身着火了。</span><span class="english">I heard a whoosh and I was covered in flames.</span></p>

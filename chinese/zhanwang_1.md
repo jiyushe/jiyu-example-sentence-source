@@ -1,5 +1,7 @@
 # 瞻望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanwang_1.md)
+
 <p><span class="chinese">足够的热情向前瞻望。</span><span class="english">Enough enthusiasm to look forward.</span></p>
 
 <p><span class="chinese">我站着瞻望预测湖面。</span><span class="english">I stand semid-footing over the lake.</span></p>

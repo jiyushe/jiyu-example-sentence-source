@@ -1,5 +1,7 @@
 # gcse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gcse.md)
+
 <p><span class="chinese">目前，苏茜正在重修英国普通中等英语，打算上大学。</span><span class="english">Suzi is now re-taking GCSE English and plans to go to college.</span></p>
 
 <p><span class="chinese">某些学校提供一年的gcse课程或进阶级基础课程。</span><span class="english">Some schools offer either a one year GCSE course or an A-level Foundation course.</span></p>

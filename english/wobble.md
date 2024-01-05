@@ -1,5 +1,7 @@
 # wobble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wobble.md)
+
 <p><span class="chinese">你玩过摇摆争论吗？</span><span class="english">Have you ever played Wobble Squabble?</span></p>
 
 <p><span class="chinese">我写字时你不要摇动桌子。</span><span class="english">Don’t wobble the desk when I’m writing.</span></p>

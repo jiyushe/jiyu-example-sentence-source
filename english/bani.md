@@ -1,5 +1,7 @@
 # bani
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bani.md)
+
 <p><span class="chinese">贝妮是你永远的朋友！</span><span class="english">Bani Rabbit is your friend forever!</span></p>
 
 <p><span class="chinese">琐巴人拿单的儿子以甲，迦得人巴尼</span><span class="english">Igal the son of Nathan of Zobah, Bani the Gadite</span></p>

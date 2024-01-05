@@ -1,5 +1,7 @@
 # sgi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sgi.md)
+
 <p><span class="chinese">SGI计划把系统放在适当的位置，并于9月15日开始运行。</span><span class="english">SGI plans to have the systems in place and running by Sept. 15.</span></p>
 
 <p><span class="chinese">如果您忘记了您的用户名或密码，请联系SGI的办公室。</span><span class="english">If you have forgotten your user name or password, please contact the SGI office.</span></p>

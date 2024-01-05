@@ -1,5 +1,7 @@
 # summed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summed.md)
+
 <p><span class="chinese">他完美地概括了这一切。</span><span class="english">He summed it up perfectly.</span></p>
 
 <p><span class="chinese">他们合计了投票数。</span><span class="english">They summed up the voting.</span></p>

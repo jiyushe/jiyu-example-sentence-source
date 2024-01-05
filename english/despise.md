@@ -1,5 +1,7 @@
 # despise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despise.md)
+
 <p><span class="chinese">我瞧不起他。</span><span class="english">I  despise him.</span></p>
 
 <p><span class="chinese">没有人看不起你。</span><span class="english">No one will despise you.</span></p>

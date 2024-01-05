@@ -1,5 +1,7 @@
 # backspace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backspace.md)
+
 <p><span class="chinese">我多希望嘴上有个退格键。</span><span class="english">I wish my mouth had a backspace key.</span></p>
 
 <p><span class="chinese">比赛一退格如果在字符匹配模式。</span><span class="english">Match a backspace if in character matching mode.</span></p>

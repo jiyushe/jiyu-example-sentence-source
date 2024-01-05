@@ -1,5 +1,7 @@
 # 脸上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianshang.md)
+
 <p><span class="chinese">正好打在他的脸上！</span><span class="english">Right in his face!</span></p>
 
 <p><span class="chinese">他的脸上有皱纹。</span><span class="english">His face is wrinkled.</span></p>

@@ -1,5 +1,7 @@
 # 前襟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianjin.md)
+
 <p><span class="chinese">“掀开你衬衫的前襟，”顾客说。</span><span class="english">"Open your shirt, " the customer said.</span></p>
 
 <p><span class="chinese">卡尔顿一只手仍然插在前襟里。</span><span class="english">Carton still had his hand in his breast.</span></p>

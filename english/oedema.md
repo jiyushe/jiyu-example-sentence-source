@@ -1,5 +1,7 @@
 # oedema
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oedema.md)
+
 <p><span class="chinese">皮下水肿则使皮肤显得苍白。</span><span class="english">Hypodermic oedema makes the skin appears cadaverous.</span></p>
 
 <p><span class="chinese">资料显示孕妇肺水肿并伴随液体超负荷与安胎。</span><span class="english">Maternal pulmonary oedema has been reported with tocolysis and fluid overload.</span></p>

@@ -1,5 +1,7 @@
 # 分科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenke.md)
+
 <p><span class="chinese">数学是科学的一个分科。</span><span class="english">Math is a branch of science.</span></p>
 
 <p><span class="chinese">光学是物理学的一个分科。</span><span class="english">Optics is a branch of physics.</span></p>

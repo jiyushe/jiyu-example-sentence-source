@@ -1,5 +1,7 @@
 # 增援
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengyuan.md)
+
 <p><span class="chinese">更多的增援部队正在来到。</span><span class="english">More reinforcements were on the way.</span></p>
 
 <p><span class="chinese">正规部队需要增援。</span><span class="english">The regular troops need to be reinforced.</span></p>

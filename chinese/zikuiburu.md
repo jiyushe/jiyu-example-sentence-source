@@ -1,5 +1,7 @@
 # 自愧不如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zikuiburu.md)
+
 <p><span class="chinese">他是那么聪明，使我自愧不如。</span><span class="english">He's so clever, he makes me feel inferior.</span></p>
 
 <p><span class="chinese">她的细致工作使得其余所有的人都自愧不如。</span><span class="english">Her careful work put all the rest to shame.</span></p>

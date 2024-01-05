@@ -1,5 +1,7 @@
 # granulite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granulite.md)
+
 <p><span class="chinese">变粒岩地块的构造走向是弧形。</span><span class="english">The tectonic trends in the granulite massif are arcuate.</span></p>
 
 <p><span class="chinese">麻粒岩体呈无根的透镜状。</span><span class="english">The granulite bodies have no roots and occur mainly as lenses.</span></p>

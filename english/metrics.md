@@ -1,5 +1,7 @@
 # metrics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metrics.md)
+
 <p><span class="chinese">图5阐明啦这两个怀抱办法。</span><span class="english">Fig. 5 illustrates these two metrics.</span></p>
 
 <p><span class="chinese">接下来，你需要分析这个矩阵。</span><span class="english">Next, you need to analyse the metrics.</span></p>

@@ -1,5 +1,7 @@
 # countertop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countertop.md)
+
 <p><span class="chinese">干净的垫圈，鸟和神奇先生的工作台。</span><span class="english">Clean gaskets and bird with Mr. Magic Countertop.</span></p>
 
 <p><span class="chinese">我在厨房台面上找了个空地儿切萝卜。</span><span class="english">I found a space on the countertop to cut the carrots.</span></p>

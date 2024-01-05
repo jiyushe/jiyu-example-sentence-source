@@ -1,5 +1,7 @@
 # 乐池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuechi.md)
+
 <p><span class="chinese">钢琴被推到乐池里。</span><span class="english">The piano was pushed into the orchestra pit.</span></p>
 
 <p><span class="chinese">比尔把钢琴推到乐池里。</span><span class="english">Bill pushed the piano into the orchestra pit.</span></p>

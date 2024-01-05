@@ -1,5 +1,7 @@
 # ecosoc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecosoc.md)
+
 <p><span class="chinese">我们支持加强经社理事会在发展领域的协调作用。</span><span class="english">We support the coordinating role of ECOSOC in development-related areas.</span></p>
 
 <p><span class="chinese">今年经社理事会就改善全球卫生领域的性别不平等现象进行了深入讨论。</span><span class="english">This year, ECOSOC conducted in-depth discussions on gender inequality in the area of health.</span></p>

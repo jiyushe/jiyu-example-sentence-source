@@ -1,5 +1,7 @@
 # hetero
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hetero.md)
+
 <p><span class="chinese">我是一名幸福地已婚异性恋者，有一个四岁的女儿。</span><span class="english">I am a happily married hetero with a four-year-old daughter.</span></p>
 
 <p><span class="chinese">杂原子烯反应是该反应的重要组成部分。</span><span class="english">The hetero ene reaction is an important part of ene reaction.</span></p>

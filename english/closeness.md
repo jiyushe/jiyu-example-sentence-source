@@ -1,5 +1,7 @@
 # closeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/closeness.md)
+
 <p><span class="chinese">我们为设计的严密而惊叹。</span><span class="english">We marveled at the closeness of the design.</span></p>
 
 <p><span class="chinese">我再也无法忍受阁楼的窒闷了。</span><span class="english">I can't stand the closeness of the attic anymore.</span></p>

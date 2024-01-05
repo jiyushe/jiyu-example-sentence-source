@@ -1,5 +1,7 @@
 # transplantation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transplantation.md)
+
 <p><span class="chinese">周围血干细胞移植术。</span><span class="english">Peripheral blood stem cell transplantation.</span></p>
 
 <p><span class="chinese">左边显示的是细胞移植。</span><span class="english">One that is shown on the left is cell transplantation.</span></p>

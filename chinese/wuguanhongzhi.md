@@ -1,5 +1,7 @@
 # 无关宏旨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuguanhongzhi.md)
+
 <p><span class="chinese">这是，因为它发生的，无关宏旨。</span><span class="english">This is, as it happens, irrelevant.</span></p>
 
 <p><span class="chinese">无论她在不在场、监不监督或者付不付钱，都无关宏旨。</span><span class="english">Whether she is there or checking up on them or paying them does not matter.</span></p>

@@ -1,5 +1,7 @@
 # threadlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threadlike.md)
+
 <p><span class="chinese">一件衬衫从晾衣绳上滑落。</span><span class="english">A shirt is taken off a threadlike clothes-line.</span></p>
 
 <p><span class="chinese">纤维一种细长的线状物体或组织。</span><span class="english">A slender, elongated, threadlike object or structure.</span></p>

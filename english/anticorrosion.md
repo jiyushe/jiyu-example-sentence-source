@@ -1,5 +1,7 @@
 # anticorrosion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticorrosion.md)
+
 <p><span class="chinese">具有漆膜坚硬、高效耐腐蚀等特点。</span><span class="english">It features tough film, high performance anticorrosion.</span></p>
 
 <p><span class="chinese">制备了钼酸钠复合缓蚀剂。</span><span class="english">The compound sodium molybdate anticorrosion was prepared.</span></p>

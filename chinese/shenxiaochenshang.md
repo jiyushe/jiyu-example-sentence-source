@@ -1,5 +1,7 @@
 # 甚嚣尘上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenxiaochenshang.md)
+
 <p><span class="chinese">最近几周以来这个争论甚嚣尘上了。</span><span class="english">The debate has only intensified in recent weeks.</span></p>
 
 <p><span class="chinese">而南朝鲜的“解放北方”的叫嚣，也是甚嚣尘上。</span><span class="english">In the South, there is open talk of “liberating” the North.</span></p>

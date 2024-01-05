@@ -1,5 +1,7 @@
 # 乡镇企业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzhenqiye.md)
+
 <p><span class="chinese">乡镇企业以冶炼业为主。</span><span class="english">Township enterprises mainly in smelting industry.</span></p>
 
 <p><span class="chinese">乡镇企业真的呈现出另一种产权形式吗？</span><span class="english">Do TVEs really represent an alternative property rights form?</span></p>

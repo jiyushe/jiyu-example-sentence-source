@@ -1,5 +1,7 @@
 # 长短
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changduan.md)
+
 <p><span class="chinese">心胸狭小的人道人长短。</span><span class="english">Small minds discuss people.</span></p>
 
 <p><span class="chinese">每天去游泳长短常有趣白勺。</span><span class="english">Going swimming every day is fun.</span></p>

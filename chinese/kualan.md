@@ -1,5 +1,7 @@
 # 跨栏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kualan.md)
+
 <p><span class="chinese">他在400米跨栏赛中获胜。</span><span class="english">He won the 400 metres hurdles.</span></p>
 
 <p><span class="chinese">我“漂”过了跨栏。</span><span class="english">Once, I had sailed over the hurdles.</span></p>

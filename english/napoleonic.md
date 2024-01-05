@@ -1,5 +1,7 @@
 # napoleonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/napoleonic.md)
+
 <p><span class="chinese">这是美国与拿破仑战争的联系。</span><span class="english">It was the U.S. connection to the Napoleonic Wars.</span></p>
 
 <p><span class="chinese">从1801年开始，在拿破仑一世战争时期，葡萄牙被占领。</span><span class="english">From 1801, the country was occupied during the Napoleonic Wars.</span></p>

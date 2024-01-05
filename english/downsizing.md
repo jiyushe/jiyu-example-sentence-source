@@ -1,5 +1,7 @@
 # downsizing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downsizing.md)
+
 <p><span class="chinese">我们正在精简人员。</span><span class="english">We are downsizing our work force.</span></p>
 
 <p><span class="chinese">公司在精简人员。</span><span class="english">Our company is downsizing the work force.</span></p>

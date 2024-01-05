@@ -1,5 +1,7 @@
 # 王储
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangchu.md)
+
 <p><span class="chinese">为了与白色外套相搭配，王储戴了顶白帽子。</span><span class="english">The prince wore a white hat to match his suit.</span></p>
 
 <p><span class="chinese">哇集拉隆功王储则别想有这种权威。</span><span class="english">Prince Vajiralongkorn can expect no such leeway.</span></p>

@@ -1,5 +1,7 @@
 # peroneal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peroneal.md)
+
 <p><span class="chinese">用HRP逆行记大鼠腓总神经的胞体。</span><span class="english">HRP was used to retrogradedly label the somas of rat peroneal nerve.</span></p>
 
 <p><span class="chinese">腓动脉至腓骨远段的分支为弓形动脉。</span><span class="english">Peroneal artery to posterior surface of distal segment fibula was arcuate.</span></p>

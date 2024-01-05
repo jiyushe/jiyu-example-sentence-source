@@ -1,5 +1,7 @@
 # informative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/informative.md)
+
 <p><span class="chinese">我希望它既有趣又丰富。</span><span class="english">I hope it is both fun and informative.</span></p>
 
 <p><span class="chinese">那些书和日记信息量很足。</span><span class="english">The books and journal were informative.</span></p>

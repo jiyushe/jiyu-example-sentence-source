@@ -1,5 +1,7 @@
 # malaise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malaise.md)
+
 <p><span class="chinese">我咳嗽有浓痰，而且觉得很虚弱。</span><span class="english">I coughed with sputum and feeling of malaise.</span></p>
 
 <p><span class="chinese">钙剂缺乏是引起这种疾病的主要原因。</span><span class="english">Calcium deficiency is the main cause of this malaise.</span></p>

@@ -1,5 +1,7 @@
 # 一院制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyuanzhi.md)
+
 <p><span class="chinese">澳大利亚是一院制的国家。</span><span class="english">Australia is an unicameral country.</span></p>
 
 <p><span class="chinese">议会为一院制，由225名议员组成。</span><span class="english">The Parliament is a unicameral 225-member legislature.</span></p>

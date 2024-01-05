@@ -1,5 +1,7 @@
 # parable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parable.md)
+
 <p><span class="chinese">这是关于才能的寓言。</span><span class="english">So this is the parable of the talents.</span></p>
 
 <p><span class="chinese">这样怎能明白一切的比喻呢？</span><span class="english">How then will you understand any parable?</span></p>

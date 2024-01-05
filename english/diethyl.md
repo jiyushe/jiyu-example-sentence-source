@@ -1,5 +1,7 @@
 # diethyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diethyl.md)
+
 <p><span class="chinese">蒎酮酸经过酰氯化后再和二乙胺反应，合成了可能有生物活性的N，N-二乙基蒎酮酸酰胺。</span><span class="english">Pinonic acyl chloride was reacted with diethyl amine to synthesize N, N-diethyl-pinonic amide.</span></p>
 
 <p><span class="chinese">用相转移催化合成了柠檬醛二乙缩醛，提高了产率。</span><span class="english">Phase transfer catalyst was used for synthesis of citral diethyl acetal, the yield has increased.</span></p>

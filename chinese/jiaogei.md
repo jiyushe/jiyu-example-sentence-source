@@ -1,5 +1,7 @@
 # 交给
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaogei.md)
+
 <p><span class="chinese">现在交给你了。</span><span class="english">Now over to you.</span></p>
 
 <p><span class="chinese">将清单交给他们。</span><span class="english">Give them the list.</span></p>

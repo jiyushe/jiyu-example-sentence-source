@@ -1,5 +1,7 @@
 # mastercard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastercard.md)
+
 <p><span class="chinese">我怎样才能申办万事达卡白金卡呢？</span><span class="english">How can I apply for a premium MasterCard card?</span></p>
 
 <p><span class="chinese">美国银行和万事达拒绝在BBC上就此事发表意见。</span><span class="english">Bank of America and Mastercard have refused to comment to the BBC.</span></p>

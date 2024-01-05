@@ -1,5 +1,7 @@
 # latrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latrine.md)
+
 <p><span class="chinese">随处可见。</span><span class="english">You can always find the latrine.</span></p>
 
 <p><span class="chinese">现在走到茅坑那里把你的脸放在里面。</span><span class="english">Now go close to the latrine and put your face there.</span></p>

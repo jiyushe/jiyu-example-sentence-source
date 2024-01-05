@@ -1,5 +1,7 @@
 # contortion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contortion.md)
+
 <p><span class="chinese">而且瑜珈和柔术是很相似的。</span><span class="english">Also yoga is very similar to contortion.</span></p>
 
 <p><span class="chinese">孩子们对小丑夸张扭曲的身体惊叹不已。</span><span class="english">The children were awed by the exaggerated contortion of the clown's body.</span></p>

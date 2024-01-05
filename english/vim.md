@@ -1,5 +1,7 @@
 # vim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vim.md)
+
 <p><span class="chinese">这也许会助其得到一点点其梦寐以求的企业家精神。</span><span class="english">That might help it find a little more of the entrepreneurial vim it craves.</span></p>
 
 <p><span class="chinese">茁壮成长的青少年将在教师的指导与生龙活虎。</span><span class="english">The teenagers will thrive on teachers' guidance with full of vim and vigor.</span></p>

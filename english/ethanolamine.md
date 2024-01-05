@@ -1,5 +1,7 @@
 # ethanolamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethanolamine.md)
+
 <p><span class="chinese">利用本文的研究成果，可以为乙醇胺生产装置提供完整的工艺包。</span><span class="english">Complete process pack for ethanolamine unit was obtained by this study.</span></p>
 
 <p><span class="chinese">乙醇胺竞争性地抑制胆碱摄取，且存在剂量依赖关系。</span><span class="english">The uptake of choline was also competitively inhibited by ethanolamine.</span></p>

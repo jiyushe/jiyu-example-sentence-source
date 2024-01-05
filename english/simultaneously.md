@@ -1,5 +1,7 @@
 # simultaneously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simultaneously.md)
+
 <p><span class="chinese">情况允许的话，也可以两者一起进行。</span><span class="english">or ideally, simultaneously both.</span></p>
 
 <p><span class="chinese">同时又提出另一种选择。</span><span class="english">And simultaneously suggest an alternative.</span></p>

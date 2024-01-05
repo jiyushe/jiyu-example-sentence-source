@@ -1,5 +1,7 @@
 # 幼儿园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youeryuan.md)
+
 <p><span class="chinese">在幼儿园我可以做什么?。</span><span class="english">I can pee-pee.</span></p>
 
 <p><span class="chinese">去我的幼儿园。</span><span class="english">To my kindergarten.</span></p>

@@ -1,5 +1,7 @@
 # 埋葬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maizang.md)
+
 <p><span class="chinese">我们将会埋葬你。</span><span class="english">We will bury you.</span></p>
 
 <p><span class="chinese">他昨天被埋葬。</span><span class="english">He was buried yesterday.</span></p>

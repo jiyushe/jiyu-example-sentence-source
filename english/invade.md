@@ -1,5 +1,7 @@
 # invade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invade.md)
+
 <p><span class="chinese">病菌会侵入机体。</span><span class="english">Germs invade the organism.</span></p>
 
 <p><span class="chinese">病菌会侵入肌体。</span><span class="english">Germs invade the organism.</span></p>

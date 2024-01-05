@@ -1,5 +1,7 @@
 # 目标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mubiao.md)
+
 <p><span class="chinese">击中目标！</span><span class="english">Hit target!</span></p>
 
 <p><span class="chinese">了解你的目标。</span><span class="english">Know your target.</span></p>

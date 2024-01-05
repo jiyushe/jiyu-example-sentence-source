@@ -1,5 +1,7 @@
 # 刷白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuabai.md)
+
 <p><span class="chinese">他将把房子刷白。</span><span class="english">He will have his house white-washed.</span></p>
 
 <p><span class="chinese">月亮把大地照得刷白。</span><span class="english">The earth turned white under the moon.</span></p>

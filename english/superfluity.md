@@ -1,5 +1,7 @@
 # superfluity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superfluity.md)
+
 <p><span class="chinese">当然也存在额外的停止信号。</span><span class="english">There is also a superfluity of stop signals.</span></p>
 
 <p><span class="chinese">“业余爱好”也是多余的。</span><span class="english">“Leisure and hobbies” is another superfluity.</span></p>

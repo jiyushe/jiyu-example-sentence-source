@@ -1,5 +1,7 @@
 # recognition 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recognition.md)
+
 <p><span class="chinese">这就是“模式识别”。</span><span class="english">It's pattern recognition.</span></p>
 
 <p><span class="chinese">语音识别模块?。</span><span class="english">VRM? Voice Recognition Module?</span></p>

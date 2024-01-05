@@ -1,5 +1,7 @@
 # palaearctic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palaearctic.md)
+
 <p><span class="chinese">旧北区生物地理区，由欧洲、亚洲北部与北非所组成。</span><span class="english">Palaearctic The biogeographic realm comprising Europe, northern Asia and North Africa.</span></p>
 
 <p><span class="chinese">结论山西省庞泉沟自然保护区有瓣蝇类的区系特征是以古北界区系成分为主。</span><span class="english">Conclusion The Calyptratae fauna in Pangquangou Nature Reserve of Shanxi province was mostly palaearctic.</span></p>

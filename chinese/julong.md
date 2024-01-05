@@ -1,5 +1,7 @@
 # 聚拢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/julong.md)
+
 <p><span class="chinese">另外嘴唇当然要向内聚拢。</span><span class="english">And the lips, of course, come in.</span></p>
 
 <p><span class="chinese">整个部族的人都聚拢过来，把他们俩围成一圈。</span><span class="english">The entire clan crowds around them in a circle.</span></p>

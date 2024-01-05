@@ -1,5 +1,7 @@
 # 遮羞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhexiu.md)
+
 <p><span class="chinese">内衣还与遮羞礼仪有着紧密的联系。</span><span class="english">Also underwear closely relates to shame-covering etiquette.</span></p>
 
 <p><span class="chinese">然而神已赐下遮羞的方法，祂为我们预备了衣物来遮盖我们赤祼的身体。</span><span class="english">But God has an answer to our shame. He has garments that cover our nakedness.</span></p>

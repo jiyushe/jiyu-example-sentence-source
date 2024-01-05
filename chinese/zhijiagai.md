@@ -1,5 +1,7 @@
 # 指甲盖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijiagai.md)
+
 <p><span class="chinese">他甚至可以和自己的脚指甲盖打起来。</span><span class="english">He'd pick a fight with his own toenails!</span></p>
 
 <p><span class="chinese">大部分都是指甲盖大小的。</span><span class="english">Most are minute, roughly the size of that first find.</span></p>

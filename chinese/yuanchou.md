@@ -1,5 +1,7 @@
 # 冤仇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanchou.md)
+
 <p><span class="chinese">冤仇和清高可以逆转无知和贪心?。</span><span class="english">Can hate and arrogance reverse ignorance and greed?</span></p>
 
 <p><span class="chinese">阿拉伯民气中充满著冤仇、愤怒、绝看跟悲哀。</span><span class="english">Hatred, anger, despair and agony will be flourishing in the heart of Arabs.</span></p>

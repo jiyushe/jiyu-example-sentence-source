@@ -1,5 +1,7 @@
 # 盛衰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshuai.md)
+
 <p><span class="chinese">这就是商业盛衰的循环。</span><span class="english">That's the business cycle.</span></p>
 
 <p><span class="chinese">教育事业的成败关乎国脉的盛衰。</span><span class="english">Education is the lifeblood of the country.</span></p>

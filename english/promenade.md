@@ -1,5 +1,7 @@
 # promenade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promenade.md)
+
 <p><span class="chinese">他们走路如同散步一样。</span><span class="english">They walk like they're on a promenade.</span></p>
 
 <p><span class="chinese">那对夫妇沿着步行大道悠闲漫步。</span><span class="english">The couple ambled slowly along the promenade.</span></p>

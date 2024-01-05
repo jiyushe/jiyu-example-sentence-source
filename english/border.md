@@ -1,5 +1,7 @@
 # border
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/border.md)
+
 <p><span class="chinese">刚好在边界上面</span><span class="english">Exactly on the border.</span></p>
 
 <p><span class="chinese">纯种的边境牧羊犬。</span><span class="english">Pure-bred Border Collie.</span></p>

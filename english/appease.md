@@ -1,5 +1,7 @@
 # appease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appease.md)
+
 <p><span class="chinese">霍奇森希望这笔签约能安抚托雷斯</span><span class="english">Hodgson hopes capture will also appease Torres</span></p>
 
 <p><span class="chinese">或者说此举只是为了平息对它的批评？</span><span class="english">Or is it simply a move to appease its critics?</span></p>

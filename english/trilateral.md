@@ -1,5 +1,7 @@
 # trilateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trilateral.md)
+
 <p><span class="chinese">第二次中日韩领导人会议2009年在北京举行。</span><span class="english">The 2nd trilateral meeting was held in Beijing in 2009.</span></p>
 
 <p><span class="chinese">该欧盟官员说，截至目前，三方对话还是非正式的。</span><span class="english">For now, the trilateral dialogue is informal, the EU official said.</span></p>

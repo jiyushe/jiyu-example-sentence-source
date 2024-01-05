@@ -1,5 +1,7 @@
 # worksheet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worksheet.md)
+
 <p><span class="chinese">编制工作底稿并解释其用途。</span><span class="english">Prepare a worksheet and explain its usefulness.</span></p>
 
 <p><span class="chinese">我能用工作表做简单的运算。</span><span class="english">I can make a simple calculation with a worksheet.</span></p>

@@ -1,5 +1,7 @@
 # pentameter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentameter.md)
+
 <p><span class="chinese">无韵诗是不押韵的抑扬格五步格诗。</span><span class="english">Blank verse is unrhymed iambic pentameter.</span></p>
 
 <p><span class="chinese">你们有多少人知道抑扬格的五音步格诗？</span><span class="english">How many of you know what iambic pentameter is?</span></p>

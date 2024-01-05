@@ -1,5 +1,7 @@
 # 钻机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuanji.md)
+
 <p><span class="chinese">你方的钻机能否早点交货。</span><span class="english">Could you deliver the drillers sooner?</span></p>
 
 <p><span class="chinese">这台人抬钻机只能达15米深的井。</span><span class="english">This portable rig can only drill 15m deep holes.</span></p>

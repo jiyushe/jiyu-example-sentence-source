@@ -1,5 +1,7 @@
 # vestibule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vestibule.md)
+
 <p><span class="chinese">天啊，没想到我和洁儿同时被困在提款机室！</span><span class="english">I am trapped in an ATM vestibule with Jill Goodacre!</span></p>
 
 <p><span class="chinese">玄关在日本和韩国的家庭都有的。</span><span class="english">Vestibule of the family in Japan and South Korea have.</span></p>

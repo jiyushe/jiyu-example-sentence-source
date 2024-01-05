@@ -1,5 +1,7 @@
 # excitability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excitability.md)
+
 <p><span class="chinese">DRG神经元的兴奋性影响着感觉信息的上传。</span><span class="english">Excitability of DRG neurons influences the sensor messages upward transduction.</span></p>
 
 <p><span class="chinese">能降低心肌的兴奋性，对心房纤维震颤有治疗作用。</span><span class="english">Can reduce the excitability of myocardium and treatment of atrial fibers tremor.</span></p>

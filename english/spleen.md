@@ -1,5 +1,7 @@
 # spleen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spleen.md)
+
 <p><span class="chinese">我再也不沮丧和忧郁了。</span><span class="english">Adieu to disappointment and spleen.</span></p>
 
 <p><span class="chinese">脾毒素太多，健脾。</span><span class="english">Too many toxins spleen, the spleen.</span></p>

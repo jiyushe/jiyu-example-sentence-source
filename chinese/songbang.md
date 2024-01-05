@@ -1,5 +1,7 @@
 # 松绑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songbang.md)
+
 <p><span class="chinese">当你需要松绑神经时，可以通过吃东西来放松。</span><span class="english">You can eat to relax when you need to unwind.</span></p>
 
 <p><span class="chinese">这时他们才给奥德修斯松绑，取出他们耳朵中的蜡。</span><span class="english">Then his friends freed him and took the wax out of their ears.</span></p>

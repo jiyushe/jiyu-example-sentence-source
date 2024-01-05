@@ -1,5 +1,7 @@
 # chatelaine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chatelaine.md)
+
 <p><span class="chinese">女人用眼品，因而艳慕。</span><span class="english">The chatelaine eye article, as a result gorgeous.</span></p>
 
 <p><span class="chinese">梦幻一个凝神80腰带多少钱！</span><span class="english">Dream a with fixed attention 80 chatelaine how many money!</span></p>

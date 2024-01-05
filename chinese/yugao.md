@@ -1,5 +1,7 @@
 # 预告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yugao.md)
+
 <p><span class="chinese">你有节目预告吗？</span><span class="english">Have you got a TV guide?</span></p>
 
 <p><span class="chinese">我先预告一下。</span><span class="english">I'll just say that for now.</span></p>

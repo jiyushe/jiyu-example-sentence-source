@@ -1,5 +1,7 @@
 # unsuitability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsuitability.md)
+
 <p><span class="chinese">单纯的模仿要付出昂贵的成本，还可能因为不适合而失败。</span><span class="english">Pure imitation has to pay high costs and may fail due to unsuitability.</span></p>
 
 <p><span class="chinese">有黑色素瘤病史者不适合作为器官供者?。</span><span class="english">Unsuitability of organ donation from a patient with a history of melanoma ?</span></p>

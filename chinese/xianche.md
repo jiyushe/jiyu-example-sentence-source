@@ -1,5 +1,7 @@
 # 闲扯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianche.md)
+
 <p><span class="chinese">他在闲扯一些过去的事。</span><span class="english">He is rabbiting on about the past.</span></p>
 
 <p><span class="chinese">他们在闲扯往事。</span><span class="english">They are chatting away about old times.</span></p>

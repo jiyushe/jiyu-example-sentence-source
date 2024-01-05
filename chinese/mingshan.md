@@ -1,5 +1,7 @@
 # 名山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingshan.md)
+
 <p><span class="chinese">那些名山是各有各的特点。</span><span class="english">And each has its own features.</span></p>
 
 <p><span class="chinese">引导学生说出中国的五岳名山。</span><span class="english">The Huangshan Mountain is very famous in China.</span></p>

@@ -1,5 +1,7 @@
 # poon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poon.md)
+
 <p><span class="chinese">潘说当地的医疗设施正在逐步改善。</span><span class="english">Poon said the medical infrastructure was gradually improving.</span></p>
 
 <p><span class="chinese">他坐在胡桐树下的座椅上，显得那么孤单。</span><span class="english">Poon , he sat under a tree on the seat, it appears to be alone.</span></p>

@@ -1,5 +1,7 @@
 # 关系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanxi.md)
+
 <p><span class="chinese">姓不姓蒙太古又有什么关系呢？</span><span class="english">What's Montague?</span></p>
 
 <p><span class="chinese">我和她关系密切。</span><span class="english">I'm close with her.</span></p>

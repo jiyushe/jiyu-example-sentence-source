@@ -1,5 +1,7 @@
 # globe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/globe.md)
+
 <p><span class="chinese">他作环球航行。</span><span class="english">He sailed round the globe.</span></p>
 
 <p><span class="chinese">不过这将消耗一个水球。</span><span class="english">This expends one water globe.</span></p>

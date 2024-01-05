@@ -1,5 +1,7 @@
 # 万金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanjin.md)
+
 <p><span class="chinese">家藏万金化为零。</span><span class="english">Home Tibetan million payment to zero.</span></p>
 
 <p><span class="chinese">我仍瞧不起腰缠万金的人。</span><span class="english">I still go on underrating men of gold.</span></p>

@@ -1,5 +1,7 @@
 # 邻居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linju.md)
+
 <p><span class="chinese">你的邻居。</span><span class="english">Your neighbor.</span></p>
 
 <p><span class="chinese">小心你的邻居。</span><span class="english">Watch your neighbors.</span></p>

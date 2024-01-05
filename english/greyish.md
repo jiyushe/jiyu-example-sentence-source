@@ -1,5 +1,7 @@
 # greyish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greyish.md)
+
 <p><span class="chinese">四周尽是灰蒙蒙的雾。</span><span class="english">A thick greyish mist was all round.</span></p>
 
 <p><span class="chinese">液体稀薄，呈灰棕色。</span><span class="english">The liquid was thin and greyish brown.</span></p>

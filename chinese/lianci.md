@@ -1,5 +1,7 @@
 # 连词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianci.md)
+
 <p><span class="chinese">是一个连接连词。</span><span class="english">"And" is a copulative conjunction.</span></p>
 
 <p><span class="chinese">名词性连词，“第一次，一…就”</span><span class="english">It is the first time that I have been late.</span></p>

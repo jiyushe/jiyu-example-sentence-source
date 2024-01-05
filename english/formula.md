@@ -1,5 +1,7 @@
 # formula 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formula.md)
+
 <p><span class="chinese">这就是公式了。</span><span class="english">That is the formula.</span></p>
 
 <p><span class="chinese">今年也适合这一公式。</span><span class="english">This year fits this formula.</span></p>

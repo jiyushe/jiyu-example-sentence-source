@@ -1,5 +1,7 @@
 # obey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obey.md)
+
 <p><span class="chinese">他从不爽约。</span><span class="english">He did not obey.</span></p>
 
 <p><span class="chinese">我们必须服从命令。</span><span class="english">We must obey orders.</span></p>

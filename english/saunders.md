@@ -1,5 +1,7 @@
 # saunders
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saunders.md)
+
 <p><span class="chinese">桑德斯是红杉俱乐部财务委员会的举足轻重的主任委员。</span><span class="english">Saunders was the influential chairman of the Sequoia Clubs Fiance Committee.</span></p>
 
 <p><span class="chinese">马克-雅可布、约翰森-桑德斯和菲利林这些名牌的裙长都毅然决然地超过了膝盖。</span><span class="english">Hemlines at Marc Jacobs, Jonathan Saunders and Phillip Lim were all resolutely below the knee.</span></p>

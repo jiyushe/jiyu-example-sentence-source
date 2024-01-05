@@ -1,5 +1,7 @@
 # hic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hic.md)
+
 <p><span class="chinese">且管体和焊接热影响区对HIC十分敏感。</span><span class="english">Its body and welding heat effecting area are very sensitive to HIC.</span></p>
 
 <p><span class="chinese">产品有手动和自动两种工作模式供用户选择。</span><span class="english">HIC has two modes for the driver to choose. Modes include Manual and Automatic.</span></p>

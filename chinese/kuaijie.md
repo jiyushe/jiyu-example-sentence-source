@@ -1,5 +1,7 @@
 # 快捷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaijie.md)
+
 <p><span class="chinese">你知道更多的快捷方式？</span><span class="english">Do you know more shortcuts?</span></p>
 
 <p><span class="chinese">在IE工具栏中加入快捷图标。</span><span class="english">Add short cut icon on IEs toolbar.</span></p>

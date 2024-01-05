@@ -1,5 +1,7 @@
 # abatement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abatement.md)
+
 <p><span class="chinese">由于公司政策，不能执行减噪程序。</span><span class="english">Unable noise abatement due company policy.</span></p>
 
 <p><span class="chinese">为了降低噪音，请左转45度。</span><span class="english">TWA 2341, for noise abatement turn right 45 degrees.</span></p>

@@ -1,5 +1,7 @@
 # 皮肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pirou.md)
+
 <p><span class="chinese">就是皮肉伤而已。</span><span class="english">It's just a flesh wound.</span></p>
 
 <p><span class="chinese">一股寒气透过他的皮肉直刺骨髓。</span><span class="english">There is a cold nip in the air.</span></p>

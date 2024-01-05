@@ -1,5 +1,7 @@
 # 连番
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianfan.md)
+
 <p><span class="chinese">大卫经历了连番伤痛，最后才重掌王位。</span><span class="english">For David everything got worse before he was restored to the throne.</span></p>
 
 <p><span class="chinese">在商店连番行窃之后，她惶恐终日，害怕给人发现。</span><span class="english">After her shoplifting spree she lived in mortal dread of being found out.</span></p>

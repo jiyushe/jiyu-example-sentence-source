@@ -1,5 +1,7 @@
 # 密电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/midian.md)
+
 <p><span class="chinese">从美国政府的密电就可看出这种趋势。</span><span class="english">Such the tendency is seen in the US' secret massages.</span></p>
 
 <p><span class="chinese">密电显示，其中一次游说涉及到双方最高领袖。</span><span class="english">One pitch came from the highest levels, the cables show.</span></p>

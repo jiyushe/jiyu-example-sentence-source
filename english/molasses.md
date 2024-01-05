@@ -1,5 +1,7 @@
 # molasses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molasses.md)
+
 <p><span class="chinese">加入糖蜜和蛋黄搅拌。</span><span class="english">Stir in molasses and egg yolk.</span></p>
 
 <p><span class="chinese">朗姆酒又译作兰姆酒，是糖蜜蒸馏酒。</span><span class="english">Rum and translation lamb wine, is molasses distillation wine.</span></p>

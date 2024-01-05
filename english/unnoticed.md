@@ -1,5 +1,7 @@
 # unnoticed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unnoticed.md)
+
 <p><span class="chinese">没被注意到的损坏可能造成火灾。</span><span class="english">Unnoticed damage could lead to a fire.</span></p>
 
 <p><span class="chinese">真正的上师很可能继续不为人知。</span><span class="english">The True Guru is likely to remain unnoticed.</span></p>

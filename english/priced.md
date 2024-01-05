@@ -1,5 +1,7 @@
 # priced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/priced.md)
+
 <p><span class="chinese">WMF很是好用，价格也不错。</span><span class="english">WMF is effortless and well priced.</span></p>
 
 <p><span class="chinese">保持简单和适度的价格。</span><span class="english">Keep it simple and moderately priced.</span></p>

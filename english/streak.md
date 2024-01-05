@@ -1,5 +1,7 @@
 # streak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streak.md)
+
 <p><span class="chinese">我前一阵子运气超好。</span><span class="english">I had a streak of good luck.</span></p>
 
 <p><span class="chinese">他身上有条黄条纹。</span><span class="english">He had a yellow streak in him.</span></p>

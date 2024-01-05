@@ -1,5 +1,7 @@
 # 野花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yehua.md)
+
 <p><span class="chinese">那些野花野草是那么可怜。</span><span class="english">Those grasses are so pathetic.</span></p>
 
 <p><span class="chinese">草地上长满了野花。</span><span class="english">Wild flowers overgrow the grass.</span></p>

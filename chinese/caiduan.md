@@ -1,5 +1,7 @@
 # 裁断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caiduan.md)
+
 <p><span class="chinese">特殊材质的裁断头，经久耐用而且裁断效果最佳。</span><span class="english">Special materials, durable and cutting head cutting best effect.</span></p>
 
 <p><span class="chinese">由于资材纹路粗细不一致，需要配双并对号裁断。</span><span class="english">Workers need to match pairs and size No. due to the different grains.</span></p>

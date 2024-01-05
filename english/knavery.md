@@ -1,5 +1,7 @@
 # knavery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knavery.md)
+
 <p><span class="chinese">这是十足的无赖作风。</span><span class="english">This is flat knavery.</span></p>
 
 <p><span class="chinese">欺诈可能有用，老实却是上策。</span><span class="english">Knavery may serve but honesty is best.</span></p>

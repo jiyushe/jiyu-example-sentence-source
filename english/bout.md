@@ -1,5 +1,7 @@
 # bout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bout.md)
+
 <p><span class="chinese">那我呢？岂非我就一点不重要吗？</span><span class="english">What bout me? I'm not?</span></p>
 
 <p><span class="chinese">周边环境怎么样啊？</span><span class="english">How bout the surroundings?</span></p>

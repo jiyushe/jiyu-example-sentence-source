@@ -1,5 +1,7 @@
 # rorschach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rorschach.md)
+
 <p><span class="chinese">这部影片是一个墨渍心理测验，可以看出人们的立场。</span><span class="english">The film is a Rorschach test of where people stand.</span></p>
 
 <p><span class="chinese">在本周华盛顿的罗夏测试中，国会将其看作蔬菜。</span><span class="english">In this week's Washington Rorschach test, Congress sees a vegetable.</span></p>

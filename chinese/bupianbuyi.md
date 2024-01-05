@@ -1,5 +1,7 @@
 # 不偏不倚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bupianbuyi.md)
+
 <p><span class="chinese">球不偏不倚正好落在他的脚上。</span><span class="english">The ball landed smack-dab at his feet.</span></p>
 
 <p><span class="chinese">他一向是个公正的、不偏不倚的税额审查员。</span><span class="english">He had been a fair and even-handed assessor.</span></p>

@@ -1,5 +1,7 @@
 # aster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aster.md)
+
 <p><span class="chinese">白边紫菀的一种变体。</span><span class="english">A variety of white-topped aster.</span></p>
 
 <p><span class="chinese">欧洲盐碱湿地生长的紫菀。</span><span class="english">A common european salt-marsh aster.</span></p>

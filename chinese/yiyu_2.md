@@ -1,5 +1,7 @@
 # 异域
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyu_2.md)
+
 <p><span class="chinese">我异域的野玫瑰。</span><span class="english">My rose of foreign genre.</span></p>
 
 <p><span class="chinese">虽然你行走于异域的城市。</span><span class="english">Although you walk in allopatric city.</span></p>

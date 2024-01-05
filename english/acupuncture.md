@@ -1,5 +1,7 @@
 # acupuncture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acupuncture.md)
+
 <p><span class="chinese">让我来给你扎几针。</span><span class="english">Let me treat you with acupuncture.</span></p>
 
 <p><span class="chinese">针刺证明有效吗？</span><span class="english">What's the evidence for acupuncture?</span></p>

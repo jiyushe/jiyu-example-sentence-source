@@ -1,5 +1,7 @@
 # rosin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosin.md)
+
 <p><span class="chinese">松香甘油酯的制备及结果讨论。</span><span class="english">The discussion of rosin glyceride's preparation.</span></p>
 
 <p><span class="chinese">各松香厂都是当地嘀经济支柱。</span><span class="english">Every gum rosin factory is local economic pillar.</span></p>

@@ -1,5 +1,7 @@
 # 水窖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijiao.md)
+
 <p><span class="chinese">我想多下雨，和家里有一个更大的水窖。</span><span class="english">I want more rain.</span></p>
 
 <p><span class="chinese">初步分析认为新型水窖具有很好的适用性。</span><span class="english">Preliminary think spot assembled water tank has a good applicability.</span></p>

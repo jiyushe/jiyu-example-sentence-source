@@ -1,5 +1,7 @@
 # 党派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangpai.md)
+
 <p><span class="chinese">但我非常支持像谢里夫派这样的其它党派。</span><span class="english">I do want someone else like PML-N.</span></p>
 
 <p><span class="chinese">他们参加了其他的党派。</span><span class="english">They flopped over to the other party.</span></p>

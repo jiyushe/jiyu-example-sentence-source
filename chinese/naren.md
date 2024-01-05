@@ -1,5 +1,7 @@
 # 拿人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naren.md)
+
 <p><span class="chinese">那时立拿人也背叛了。</span><span class="english">Libnah revolted at the same time.</span></p>
 
 <p><span class="chinese">实际上，我是在拿人和人作对比。</span><span class="english">Actually I am comparing humans with humans.</span></p>

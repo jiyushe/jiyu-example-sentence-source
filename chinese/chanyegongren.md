@@ -1,5 +1,7 @@
 # 产业工人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanyegongren.md)
+
 <p><span class="chinese">更多的产业工人加入到失业大军中。</span><span class="english">More industrial workers joined the ranks of the unemployed.</span></p>
 
 <p><span class="chinese">此前的研究发现在接触双酚A的产业工人身上甚至具有更高的浓度。</span><span class="english">Previous studies in factory workers exposed to BPA found even higher levels.</span></p>

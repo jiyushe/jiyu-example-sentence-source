@@ -1,5 +1,7 @@
 # meiji
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meiji.md)
+
 <p><span class="chinese">图为希拉里周二参观东京的明治神宫。</span><span class="english">She visited the Meiji shrine in Tokyo on Tuesday.</span></p>
 
 <p><span class="chinese">1951年，日本京都，明治寺的庭院。</span><span class="english">JAPAN. Tokyo. Courtyard of the Meiji temple. 1951.</span></p>

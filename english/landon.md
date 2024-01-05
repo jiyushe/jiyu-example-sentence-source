@@ -1,5 +1,7 @@
 # landon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landon.md)
+
 <p><span class="chinese">兰德勒·多诺万，你在听吗？</span><span class="english">Landon Donovan, are you listening?</span></p>
 
 <p><span class="chinese">这位是我的同事，阿诺德·兰登先生。</span><span class="english">This is my colleague , Mr Arnold Landon.</span></p>

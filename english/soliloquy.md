@@ -1,5 +1,7 @@
 # soliloquy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soliloquy.md)
+
 <p><span class="chinese">第一个是哈姆雷特独白。</span><span class="english">The first one is a Hamlet soliloquy.</span></p>
 
 <p><span class="chinese">如果仅仅在自言自语，与我有什么相关？</span><span class="english">If it's only soliloquy , what's the relation with me?</span></p>

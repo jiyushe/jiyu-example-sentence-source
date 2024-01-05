@@ -1,5 +1,7 @@
 # 混成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huncheng.md)
+
 <p><span class="chinese">这是一种上佳的混成咖啡。</span><span class="english">This is a good blend of coffee.</span></p>
 
 <p><span class="chinese">问题是他想去哪儿，想混成什么样。</span><span class="english">At question is where he wants to be, which is the NBA.</span></p>

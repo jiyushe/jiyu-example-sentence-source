@@ -1,5 +1,7 @@
 # real
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/real.md)
+
 <p><span class="chinese">简直就是个猪圈。</span><span class="english">A real sty.</span></p>
 
 <p><span class="chinese">它是真实的。</span><span class="english">It was real.</span></p>

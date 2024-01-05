@@ -1,5 +1,7 @@
 # 载力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaili_1.md)
+
 <p><span class="chinese">岩质隧道的施工过程是典型的卸载力学进程。</span><span class="english">Construction process of rock tunnels is a typical unloading mechanical process.</span></p>
 
 <p><span class="chinese">提供最大压载力，抵抗侧倾覆的可能性，并保证侧倾覆后能及时回位</span><span class="english">Provides the most ballast to resist capsizing and ensure recovery from a capsize</span></p>

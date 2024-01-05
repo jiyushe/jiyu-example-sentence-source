@@ -1,5 +1,7 @@
 # 次等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cideng.md)
+
 <p><span class="chinese">你可买了一辆次等货色了。</span><span class="english">You’re really bought a lemon.</span></p>
 
 <p><span class="chinese">没人想要次等的东西。</span><span class="english">Nobody wants an inferior thing.</span></p>

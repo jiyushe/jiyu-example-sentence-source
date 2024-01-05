@@ -1,5 +1,7 @@
 # wesleyan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wesleyan.md)
+
 <p><span class="chinese">我能很快被卫斯理教派大学录取。</span><span class="english">I got into Wesleyan.</span></p>
 
 <p><span class="chinese">我在卫斯里的音乐妇女研究中获得了农学位。</span><span class="english">I got a BA in Music and Women's Studies at Wesleyan.</span></p>

@@ -1,5 +1,7 @@
 # microkernel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microkernel.md)
+
 <p><span class="chinese">Mach所使用的微内核的方法，并没有获得很大的成功。</span><span class="english">The microkernel approach, taken by Mach, was not a great success.</span></p>
 
 <p><span class="chinese">使用面向资源微核有几个主要的优点。</span><span class="english">The use of a resource-oriented microkernel has several key benefits.</span></p>

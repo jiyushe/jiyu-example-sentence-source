@@ -1,5 +1,7 @@
 # sheldon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheldon.md)
+
 <p><span class="chinese">然后你就读了西德尼·谢尔顿的小说，是吧？</span><span class="english">And then you read a Sidney Sheldon novel, right?</span></p>
 
 <p><span class="chinese">谢尔顿告诉我你只有个硕士学位。</span><span class="english">Sheldon tells me you only have a master's degree.</span></p>

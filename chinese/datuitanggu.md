@@ -1,5 +1,7 @@
 # 打退堂鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/datuitanggu.md)
+
 <p><span class="chinese">你可不能打退堂鼓啊。</span><span class="english">You can't quit now.</span></p>
 
 <p><span class="chinese">现在打退堂鼓已经太晚了。</span><span class="english">It's too late to back down now.</span></p>

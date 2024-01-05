@@ -1,5 +1,7 @@
 # perpendicularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perpendicularity.md)
+
 <p><span class="chinese">文章分析数控机床垂直度误差。</span><span class="english">This paper analysis NC machine tool perpendicularity error.</span></p>
 
 <p><span class="chinese">各分量之间必须严格地保持互相垂直。</span><span class="english">Exact perpendicularity between the components must be maintained.</span></p>

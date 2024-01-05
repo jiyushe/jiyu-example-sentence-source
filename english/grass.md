@@ -1,5 +1,7 @@
 # grass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grass.md)
+
 <p><span class="chinese">它是绿茵场地，</span><span class="english">It's grass court,</span></p>
 
 <p><span class="chinese">我着紧草。</span><span class="english">I'm wearing grass.</span></p>

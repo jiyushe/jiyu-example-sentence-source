@@ -1,5 +1,7 @@
 # upsides
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upsides.md)
+
 <p><span class="chinese">但是他们也看到其他的方面。</span><span class="english">But they saw many upsides too.</span></p>
 
 <p><span class="chinese">有朝一日，我总要和他把账算得相欠。</span><span class="english">I ll get upsides with him some day.</span></p>

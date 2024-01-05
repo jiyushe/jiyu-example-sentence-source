@@ -1,5 +1,7 @@
 # interoffice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interoffice.md)
+
 <p><span class="chinese">这部新的传真机将会加强办公室间的联系。</span><span class="english">This new fax machine will enhance interoffice communications.</span></p>
 
 <p><span class="chinese">该项业务建立在共路局间信令可用性的基础上。</span><span class="english">It is based on the availability of channel interoffice signaling.</span></p>

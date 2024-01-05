@@ -1,5 +1,7 @@
 # 天道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiandao.md)
+
 <p><span class="chinese">天道无亲，常与善人。</span><span class="english">It sides only with the good man.</span></p>
 
 <p><span class="chinese">约翰要跟我们天道去吃午饭吗？</span><span class="english">Is John coming with us for lunch ?</span></p>

@@ -1,5 +1,7 @@
 # erase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erase.md)
+
 <p><span class="chinese">我要把这些擦掉了。</span><span class="english">I'm going to erase this.</span></p>
 
 <p><span class="chinese">要我把黑板擦净吗？</span><span class="english">Shall I erase the board.</span></p>

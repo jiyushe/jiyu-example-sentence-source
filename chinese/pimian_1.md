@@ -1,5 +1,7 @@
 # 皮面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pimian_1.md)
+
 <p><span class="chinese">他用皮面装订这本书。</span><span class="english">He binds this book with leather.</span></p>
 
 <p><span class="chinese">这家出版社决定用皮面装帧新书。</span><span class="english">The publishing house decided to bind the new book in leather.</span></p>

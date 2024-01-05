@@ -1,5 +1,7 @@
 # 汾酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenjiu.md)
+
 <p><span class="chinese">第四章，案例——汾酒股份的知识转移。</span><span class="english">Chapter 4, case-knowledge transfer in Fen Wine.</span></p>
 
 <p><span class="chinese">您喜欢哪种酒，茅台、凤还是汾酒？</span><span class="english">What wine do you prefer, Maotai, Xuefent or Fenjiu?</span></p>

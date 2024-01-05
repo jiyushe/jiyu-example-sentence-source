@@ -1,5 +1,7 @@
 # ani
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ani.md)
+
 <p><span class="chinese">我不知道人们会记得阿尼什么。</span><span class="english">I wonder how people would remember Ani.</span></p>
 
 <p><span class="chinese">这种提肛运动益肾很简单。</span><span class="english">The levator ani Sports kidney is very simple.</span></p>

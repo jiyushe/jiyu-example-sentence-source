@@ -1,5 +1,7 @@
 # revivalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revivalism.md)
+
 <p><span class="chinese">有些人试图使复兴一个纯粹的美国，甚至一个主要前沿的现象。</span><span class="english">Some have sought to make revivalism a purely American and even a predominantly frontier phenomenon.</span></p>
 
 <p><span class="chinese">尽管宗教复兴主义者是普遍反智识的，基督徒却了解训练年轻一代的必要性。</span><span class="english">Despite the general anti-intellectual flavor of revivalism , Christians understood the need for training their youth.</span></p>

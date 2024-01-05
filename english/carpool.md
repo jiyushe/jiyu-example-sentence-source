@@ -1,5 +1,7 @@
 # carpool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carpool.md)
+
 <p><span class="chinese">拼车。</span><span class="english">Carpool.</span></p>
 
 <p><span class="chinese">一周拼一次车。</span><span class="english">Carpool once a week.</span></p>

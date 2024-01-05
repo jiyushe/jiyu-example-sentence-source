@@ -1,5 +1,7 @@
 # fiduciary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiduciary.md)
+
 <p><span class="chinese">受托人对受益人负有信托义务。</span><span class="english">To the beneficiary the trustee owes a fiduciary duty.</span></p>
 
 <p><span class="chinese">插图显示从低到高的信托可见性。</span><span class="english">Illustration shows range if fiduciary visibility from low to high.</span></p>

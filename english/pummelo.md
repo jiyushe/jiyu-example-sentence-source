@@ -1,5 +1,7 @@
 # pummelo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pummelo.md)
+
 <p><span class="chinese">从SSR位点角度分析了柚类资源及近缘种的遗传变异。</span><span class="english">The genetic variance of pummelo germplasms and theirs relatives was analyzed by SSR marker.</span></p>
 
 <p><span class="chinese">各样品中基本以香豆素和异欧前胡素这两种香豆素含量为主。</span><span class="english">It indicated that coumarin and isoimperatorin were main coumarins in Tomentose Pummelo Peel.</span></p>

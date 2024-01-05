@@ -1,5 +1,7 @@
 # bedspread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedspread.md)
+
 <p><span class="chinese">你的床单，随便你怎么叫。</span><span class="english">Your bedspread. Whatever you want to call it.</span></p>
 
 <p><span class="chinese">我亲爱的婶婶给我织了一个漂亮的床罩。</span><span class="english">My great aunt crocheted a beautiful bedspread for me.</span></p>

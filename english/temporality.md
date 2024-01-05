@@ -1,5 +1,7 @@
 # temporality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temporality.md)
+
 <p><span class="chinese">他一直因为自己暂时还是一个诗人而玩耍。</span><span class="english">He's already been playing around with the temporality of the poem.</span></p>
 
 <p><span class="chinese">体育舞蹈中身体的暂时性体现了主观与客观时间的对话。</span><span class="english">The temporality of the body is the embodiment of the subjectivity and the impersonality.</span></p>

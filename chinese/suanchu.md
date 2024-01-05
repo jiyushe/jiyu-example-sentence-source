@@ -1,5 +1,7 @@
 # 酸楚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanchu.md)
+
 <p><span class="chinese">这份酸楚是无法言表的。</span><span class="english">The sorrow and grief is unspeakable.</span></p>
 
 <p><span class="chinese">在醋和柠檬汁一样酸楚的生活中。</span><span class="english">In the vinegar and lemon juice of life.</span></p>

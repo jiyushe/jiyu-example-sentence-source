@@ -1,5 +1,7 @@
 # nell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nell.md)
+
 <p><span class="chinese">我一直很喜欢她。</span><span class="english">I always liked Nell.</span></p>
 
 <p><span class="chinese">我无法断定内尔是否喜欢他。</span><span class="english">I can't make out if Nell likes him or not.</span></p>

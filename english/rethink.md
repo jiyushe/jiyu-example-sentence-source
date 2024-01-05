@@ -1,5 +1,7 @@
 # rethink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rethink.md)
+
 <p><span class="chinese">珍妮·古道尔50年如一日的工作让我们重新审视大猩猩……</span><span class="english">Her 50 years of work have made us rethink chimps.</span></p>
 
 <p><span class="chinese">真棒！也许我该再考虑一下我梦想的房子。</span><span class="english">Great! Maybe I should rethink about my dream house.</span></p>

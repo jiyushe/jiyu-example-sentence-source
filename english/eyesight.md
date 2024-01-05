@@ -1,5 +1,7 @@
 # eyesight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyesight.md)
+
 <p><span class="chinese">您的视力怎么样？</span><span class="english">How is your eyesight?</span></p>
 
 <p><span class="chinese">我的目力很好。</span><span class="english">I have good eyesight.</span></p>

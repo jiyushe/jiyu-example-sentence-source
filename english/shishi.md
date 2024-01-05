@@ -1,5 +1,7 @@
 # shishi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shishi.md)
+
 <p><span class="chinese">欢迎你来石狮开心英语培训基地！</span><span class="english">You are welcome to Shishi Happy English Training Base !</span></p>
 
 <p><span class="chinese">广州另一个非洲人聚集地，是石室天主教堂。</span><span class="english">Guangzhou's other African gathering spot is Shishi Catholic Church.</span></p>

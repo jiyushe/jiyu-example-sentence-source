@@ -1,5 +1,7 @@
 # edt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edt.md)
+
 <p><span class="chinese">绝对的数字集成电路设计经典书！</span><span class="english">Digital Integrated Circuits by Rabaey 2nd edt.</span></p>
 
 <p><span class="chinese">节目将从六月五日的2012，美国东部时间下午6时。</span><span class="english">Broadcasts will start on June 5 2012, 6 PM EDT.</span></p>

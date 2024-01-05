@@ -1,5 +1,7 @@
 # harmony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmony.md)
+
 <p><span class="chinese">色彩调和。</span><span class="english">Colors are in harmony.</span></p>
 
 <p><span class="chinese">我爱新校园的和谐。</span><span class="english">I love the new campus harmony.</span></p>

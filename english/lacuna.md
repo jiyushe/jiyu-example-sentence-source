@@ -1,5 +1,7 @@
 # lacuna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacuna.md)
+
 <p><span class="chinese">且骨陷窝空虚率随用药时间的延长而增加。</span><span class="english">The rate of the empty lacuna increased with the time of experiment.</span></p>
 
 <p><span class="chinese">目的分析腔隙性脑梗塞在临床中的表现。</span><span class="english">Objective We analysis the clinical significance of lacuna encephalon infarction.</span></p>

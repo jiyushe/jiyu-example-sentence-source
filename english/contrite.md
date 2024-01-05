@@ -1,5 +1,7 @@
 # contrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrite.md)
+
 <p><span class="chinese">悔怨的心有一种伤感。</span><span class="english">The sorrow of a contrite heart.</span></p>
 
 <p><span class="chinese">那是苏写的一封表示悔恨的短信。</span><span class="english">It was a contrite little note from Sue.</span></p>

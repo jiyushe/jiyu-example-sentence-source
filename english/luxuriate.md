@@ -1,5 +1,7 @@
 # luxuriate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luxuriate.md)
+
 <p><span class="chinese">我们可以换个方式奢侈一下。</span><span class="english">We can luxuriate for a change.</span></p>
 
 <p><span class="chinese">孩子们尽情享受奏的温暖阳光。</span><span class="english">Children luxuriate in the warm spring sunshine.</span></p>

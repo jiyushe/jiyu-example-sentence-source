@@ -1,5 +1,7 @@
 # 取样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quyang.md)
+
 <p><span class="chinese">什么是苹果削皮机及取样器？。</span><span class="english">What is an Apple Peeler & Corer?</span></p>
 
 <p><span class="chinese">取样技术也很简单。</span><span class="english">The technique of sampling is easy.</span></p>

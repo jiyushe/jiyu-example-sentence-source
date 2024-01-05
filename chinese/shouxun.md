@@ -1,5 +1,7 @@
 # 受训
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxun.md)
+
 <p><span class="chinese">志愿人员在受训。</span><span class="english">The volunteers are in training.</span></p>
 
 <p><span class="chinese">黎先生受训于香港葡萄酒学院。</span><span class="english">Lai is an alumni of Hong Kong Wine Academy.</span></p>

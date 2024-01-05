@@ -1,5 +1,7 @@
 # killer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/killer.md)
+
 <p><span class="chinese">焦虑是个杀手。</span><span class="english">Anxiety is a killer.</span></p>
 
 <p><span class="chinese">它是梦想的杀手。</span><span class="english">It is a dream killer.</span></p>

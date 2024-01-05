@@ -1,5 +1,7 @@
 # 疲劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pilao.md)
+
 <p><span class="chinese">我觉得很疲劳。</span><span class="english">I feel weary.</span></p>
 
 <p><span class="chinese">我确实感觉非常疲劳。</span><span class="english">I do feel very tired.</span></p>

@@ -1,5 +1,7 @@
 # 健步如飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianburufei.md)
+
 <p><span class="chinese">因为梦想，所以飞翔。我不能飞，但我可以健步如飞！</span><span class="english">I could not fly, but I can stride vigorously.</span></p>
 
 <p><span class="chinese">瞄准感动，思绪在我脑中健步如飞。</span><span class="english">Target moved Jianbu thoughts in my mind swiftly.</span></p>

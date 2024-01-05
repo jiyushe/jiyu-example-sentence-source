@@ -1,5 +1,7 @@
 # chary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chary.md)
+
 <p><span class="chinese">她对借出金钱很小心谨慎。</span><span class="english">She is chary of lending money.</span></p>
 
 <p><span class="chinese">那女孩对陌生人小心谨慎的。</span><span class="english">The girl is chary of strangers.</span></p>

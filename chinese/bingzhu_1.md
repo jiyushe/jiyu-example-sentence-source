@@ -1,5 +1,7 @@
 # 病株
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingzhu_1.md)
+
 <p><span class="chinese">他们通常都把病株拔起来烧掉。</span><span class="english">They generally puffed up the infected plants and burn them.</span></p>
 
 <p><span class="chinese">由此确定，L615小鼠白血病是一株T细胞型白血病病株。</span><span class="english">It is concluded that mouse leukemia L615 was a T-cell type leukemia.</span></p>

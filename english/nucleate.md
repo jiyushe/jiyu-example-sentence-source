@@ -1,5 +1,7 @@
 # nucleate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucleate.md)
+
 <p><span class="chinese">银原子在玻璃中成核并生长成纳米颗粒。</span><span class="english">The Ag atoms nucleate and grow into nanoparticles.</span></p>
 
 <p><span class="chinese">贝氏体铁素体在贫碳的奥氏体中形核。</span><span class="english">Bainitic ferrites nucleate in carbon-poor austenite.</span></p>

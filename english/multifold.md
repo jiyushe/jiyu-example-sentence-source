@@ -1,5 +1,7 @@
 # multifold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multifold.md)
+
 <p><span class="chinese">就像你即将看到的一样，贷出模式的优势有很多。</span><span class="english">As you would see, the advantages are multifold.</span></p>
 
 <p><span class="chinese">酗酒对迷惘一代的意义是多重的。</span><span class="english">The significance of alcoholism for the lost generation is multifold.</span></p>

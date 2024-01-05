@@ -1,5 +1,7 @@
 # snowball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowball.md)
+
 <p><span class="chinese">他滚了一个雪球。</span><span class="english">He rolled a snowball.</span></p>
 
 <p><span class="chinese">我喜欢债务滚雪球。</span><span class="english">I love the debt snowball.</span></p>

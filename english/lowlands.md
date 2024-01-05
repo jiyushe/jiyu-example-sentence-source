@@ -1,5 +1,7 @@
 # lowlands
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowlands.md)
+
 <p><span class="chinese">大雨淹没了低地。</span><span class="english">Heavey rain flooded the lowlands.</span></p>
 
 <p><span class="chinese">大雨淹没了低凹地。</span><span class="english">Heavy rainfalls flooded the lowlands.</span></p>

@@ -1,5 +1,7 @@
 # titling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titling.md)
+
 <p><span class="chinese">当然，把我的工作命名为SlowSOA听起来不那么好。</span><span class="english">Of course, titling my work SlowSOA didn't sound as good.</span></p>
 
 <p><span class="chinese">如果您标示为接受，它将消除所有权，使之活跃。</span><span class="english">If you mark it as accepted, it will remove the titling and make it active.</span></p>

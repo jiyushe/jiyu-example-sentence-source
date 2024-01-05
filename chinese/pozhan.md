@@ -1,5 +1,7 @@
 # 破绽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pozhan.md)
+
 <p><span class="chinese">而且手上没有任何破绽。</span><span class="english">And the hand without any flaw.</span></p>
 
 <p><span class="chinese">不要让你的防守出现破绽，戴莫斯！</span><span class="english">Don't let your guard down, Deimos!</span></p>

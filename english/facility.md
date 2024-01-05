@@ -1,5 +1,7 @@
 # facility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facility.md)
+
 <p><span class="chinese">多回路测试功能。</span><span class="english">Multi-loop test facility.</span></p>
 
 <p><span class="chinese">生产设备。</span><span class="english">The manufacturing facility.</span></p>

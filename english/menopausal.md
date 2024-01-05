@@ -1,5 +1,7 @@
 # menopausal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menopausal.md)
+
 <p><span class="chinese">抑郁影响绝经期症状吗？</span><span class="english">Does Depression Affect Menopausal Symptoms?</span></p>
 
 <p><span class="chinese">这包括持续的更年期症状。</span><span class="english">These include persistent menopausal symptoms.</span></p>

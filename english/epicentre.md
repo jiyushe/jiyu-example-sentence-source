@@ -1,5 +1,7 @@
 # epicentre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epicentre.md)
+
 <p><span class="chinese">他们也足步匆匆地赶往震中。</span><span class="english">They were hurrying towards the epicentre.</span></p>
 
 <p><span class="chinese">北极处于气候变化的震中。</span><span class="english">The Arctic is at the epicentre of climate change.</span></p>

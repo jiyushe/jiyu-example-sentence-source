@@ -1,5 +1,7 @@
 # unvarying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unvarying.md)
+
 <p><span class="chinese">这就是我一成不变的感情。</span><span class="english">That is the unvarying standard of my feelings.</span></p>
 
 <p><span class="chinese">①那种典型的没有变化的霍吉已经不存在了。</span><span class="english">The typical and unvarying Hodge ceased to exist.</span></p>

@@ -1,5 +1,7 @@
 # 因而
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiner.md)
+
 <p><span class="chinese">因而能够上浮。</span><span class="english">So, it's obviously buoyant.</span></p>
 
 <p><span class="chinese">那件讼案因而尚未解决。</span><span class="english">The lawsuit was then pending.</span></p>

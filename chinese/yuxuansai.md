@@ -1,5 +1,7 @@
 # 预选赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxuansai.md)
+
 <p><span class="chinese">你知道吗，最近中国队在世界杯预选赛中输给了伊拉克。</span><span class="english">I didn't know China had lost. Who made it through the quals?</span></p>
 
 <p><span class="chinese">在上周的世界杯预选赛中，威尔士队1比5负于罗马尼亚队。</span><span class="english">Last week Wales lost 5-1 to Romania in a World Cup qualifier.</span></p>

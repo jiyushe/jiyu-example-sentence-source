@@ -1,5 +1,7 @@
 # idealism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idealism.md)
+
 <p><span class="chinese">充满理想主义。</span><span class="english">There was a lot of idealism.</span></p>
 
 <p><span class="chinese">理想主义有着现实的意义。</span><span class="english">There is real value in idealism.</span></p>

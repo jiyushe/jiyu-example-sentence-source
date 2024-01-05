@@ -1,5 +1,7 @@
 # relieve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relieve.md)
+
 <p><span class="chinese">那位医生经常救济贫民。</span><span class="english">The doctor often relieve the poor.</span></p>
 
 <p><span class="chinese">你知道解除沈闷的任何方法吗？</span><span class="english">Do you know any way to relieve boredom?</span></p>

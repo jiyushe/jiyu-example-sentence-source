@@ -1,5 +1,7 @@
 # outnumber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outnumber.md)
+
 <p><span class="chinese">被捕食者是捕食者数量的十倍。</span><span class="english">Preys outnumber predators ten to one.</span></p>
 
 <p><span class="chinese">支票支付明显多于现金交易。</span><span class="english">Payments by check easily outnumber cash transaction.</span></p>

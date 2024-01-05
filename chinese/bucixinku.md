@@ -1,5 +1,7 @@
 # 不辞辛苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bucixinku.md)
+
 <p><span class="chinese">他们只是更不辞辛苦？</span><span class="english">Are they just more hardworking?</span></p>
 
 <p><span class="chinese">他不辞辛苦养育那小孩。</span><span class="english">He spared no pains to bring up the child.</span></p>

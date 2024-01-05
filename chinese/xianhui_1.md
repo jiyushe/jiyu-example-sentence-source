@@ -1,5 +1,7 @@
 # 贤惠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhui_1.md)
+
 <p><span class="chinese">我的妻子非常贤惠。</span><span class="english">My wife is very virtuous.</span></p>
 
 <p><span class="chinese">在我心中，最贤惠的女孩是你。</span><span class="english">You are the virtuousest girl in my heart.</span></p>

@@ -1,5 +1,7 @@
 # halfhearted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halfhearted.md)
+
 <p><span class="chinese">并不热心的试图写一部小说。</span><span class="english">A halfhearted attempt at writing a novel.</span></p>
 
 <p><span class="chinese">但改革经常是三心二意的。</span><span class="english">However, reforms have often been halfhearted.</span></p>

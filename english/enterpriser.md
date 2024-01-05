@@ -1,5 +1,7 @@
 # enterpriser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enterpriser.md)
+
 <p><span class="chinese">一个企业家应具有开阔的视野。</span><span class="english">An enterpriser should have the wide vision.</span></p>
 
 <p><span class="chinese">他是位眼光广阔，事业有成的企业家。</span><span class="english">He is a successful enterpriser with a breadth of vision.</span></p>

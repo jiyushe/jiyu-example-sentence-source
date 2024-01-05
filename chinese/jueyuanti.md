@@ -1,5 +1,7 @@
 # 绝缘体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueyuanti.md)
+
 <p><span class="chinese">它必须是电子的绝缘体。</span><span class="english">It is going to be electrical insulators.</span></p>
 
 <p><span class="chinese">他教学生们做绝缘体。</span><span class="english">He taught the students to make the insulator.</span></p>

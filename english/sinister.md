@@ -1,5 +1,7 @@
 # sinister
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinister.md)
+
 <p><span class="chinese">他们策划了一个毒辣的阴谋。</span><span class="english">They concocted a sinister plot.</span></p>
 
 <p><span class="chinese">但事实真相却要阴险险恶得多。</span><span class="english">But the truth is much more sinister.</span></p>

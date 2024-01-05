@@ -1,5 +1,7 @@
 # multiplicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiplicate.md)
+
 <p><span class="chinese">第五章从审美的角度切人，确认了林语堂中庸式的审美原则即多元和互补。</span><span class="english">I affirms that Lin Yutang"s aesthetic principle of mean is multiplicate factors and supplement."</span></p>
 
 <p><span class="chinese">数码技术充实着书籍装帧艺术设计并使其更加多元化与个性化。</span><span class="english">The digital technology enriches the extension of artistic book design and also makes it more multiplicate and individual.</span></p>

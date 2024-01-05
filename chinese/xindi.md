@@ -1,5 +1,7 @@
 # 心地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xindi.md)
+
 <p><span class="chinese">善良的心地是花园。</span><span class="english">Kind hearts are the grands.</span></p>
 
 <p><span class="chinese">大家开开心心地度过了愉快的一天。</span><span class="english">We happily spent a happy day.</span></p>

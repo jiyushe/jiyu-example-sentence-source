@@ -1,5 +1,7 @@
 # 降火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianghuo.md)
+
 <p><span class="chinese">清肺止咳，降火生津。</span><span class="english">Maeing against lung fire conditions.</span></p>
 
 <p><span class="chinese">那降火显应的神，就是神。</span><span class="english">The god who answers by fire-he is God.</span></p>

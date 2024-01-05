@@ -1,5 +1,7 @@
 # 身价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjia.md)
+
 <p><span class="chinese">通过“找工作”决定你的身价</span><span class="english">Determine your value by job browsing.</span></p>
 
 <p><span class="chinese">骗子队丢了身价打球龌龊。</span><span class="english">Fakers lose their class and play dirty.</span></p>

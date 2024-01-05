@@ -1,5 +1,7 @@
 # precursor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precursor.md)
+
 <p><span class="chinese">成浆细胞浆细胞的前体细胞或''。'干细胞'。''。</span><span class="english">The precursor or stem cell of a plasma cell.</span></p>
 
 <p><span class="chinese">错误常常是正确的先导。</span><span class="english">Error is often the precursor of what is correct.</span></p>

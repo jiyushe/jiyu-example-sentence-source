@@ -1,5 +1,7 @@
 # 奉命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengming.md)
+
 <p><span class="chinese">我奉命回国。</span><span class="english">I was ordered home.</span></p>
 
 <p><span class="chinese">我仅仅是奉命行事。</span><span class="english">I was just following the orders.</span></p>

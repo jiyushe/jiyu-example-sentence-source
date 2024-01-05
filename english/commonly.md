@@ -1,5 +1,7 @@
 # commonly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commonly.md)
+
 <p><span class="chinese">它常常在一阵雨中飞去。</span><span class="english">He commonly went off in a rain.</span></p>
 
 <p><span class="chinese">这也是普遍做法</span><span class="english">That's a commonly done one too.</span></p>

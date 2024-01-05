@@ -1,5 +1,7 @@
 # oceanographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oceanographic.md)
+
 <p><span class="chinese">然而这并非中国唯一的海洋学勘测计划。</span><span class="english">Nor is this China’s only oceanographic enterprise.</span></p>
 
 <p><span class="chinese">接下来是第二课，我还要用大海打比方。</span><span class="english">Another lesson to be learned, to continue using my oceanographic metaphor.</span></p>

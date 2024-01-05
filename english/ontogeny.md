@@ -1,5 +1,7 @@
 # ontogeny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ontogeny.md)
+
 <p><span class="chinese">叫做"胚胎重演律"</span><span class="english">It's "Ontogeny recapitulates phylogeny."</span></p>
 
 <p><span class="chinese">本研究对水韭属植物个体发育具有借鉴意义。</span><span class="english">This study means significant to the ontogeny of Isoetes.</span></p>

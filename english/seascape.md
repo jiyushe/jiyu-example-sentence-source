@@ -1,5 +1,7 @@
 # seascape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seascape.md)
+
 <p><span class="chinese">我被美丽的海景迷住了。</span><span class="english">I was struck by the beauty of the seascape.</span></p>
 
 <p><span class="chinese">海上扬波，又是一幅波涛汹涌的海景。</span><span class="english">The rolling sea is another seascape of surging waves.</span></p>

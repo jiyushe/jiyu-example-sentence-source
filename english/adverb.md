@@ -1,5 +1,7 @@
 # adverb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adverb.md)
+
 <p><span class="chinese">“正”就是一个副词。</span><span class="english">"Zheng" is an adverb.</span></p>
 
 <p><span class="chinese">“不定”是个副词。</span><span class="english">"Buding" is an adverb.</span></p>

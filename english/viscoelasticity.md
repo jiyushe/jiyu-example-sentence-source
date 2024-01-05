@@ -1,5 +1,7 @@
 # viscoelasticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viscoelasticity.md)
+
 <p><span class="chinese">结论半月板为粘弹性体。</span><span class="english">Conclusion The semilunar plates is viscoelasticity body.</span></p>
 
 <p><span class="chinese">含蜡原油粘弹性起因于其内部形成的蜡晶结构。</span><span class="english">Viscoelasticity of waxy crude oil originated from the structure of waxy crystal.</span></p>

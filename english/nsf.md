@@ -1,5 +1,7 @@
 # nsf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nsf.md)
+
 <p><span class="chinese">本防水型数字温度计经NSF认证，且可自动关机。</span><span class="english">This waterproof digital is NSF certified and has automatic shut-off.</span></p>
 
 <p><span class="chinese">国家科学基金会最近又在费尔班克斯北部建立了波克尔台地研究靶场。</span><span class="english">The NSF recently built the Poker Flat Research Range north of Fairbanks.</span></p>

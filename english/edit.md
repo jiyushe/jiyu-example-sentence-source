@@ -1,5 +1,7 @@
 # edit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edit.md)
+
 <p><span class="chinese">期刊是我编辑的。</span><span class="english">I edit the newsletter.</span></p>
 
 <p><span class="chinese">每个亮点都是一次编辑的记录。</span><span class="english">Every flash is an edit.</span></p>

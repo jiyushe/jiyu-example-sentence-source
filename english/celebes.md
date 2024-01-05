@@ -1,5 +1,7 @@
 # celebes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celebes.md)
+
 <p><span class="chinese">照片中的水母是在菲律宾附近的西?伯斯海发现的。</span><span class="english">The jellyfish in the picture was found in the Celebes Sea near the Philippines.</span></p>
 
 <p><span class="chinese">西?伯斯海域，也称珊瑚三角区，是一个还未完全被人类探测的水域。</span><span class="english">The area of the Celebes Sea, called the Coral Triangle, hasn't been explored fully before.</span></p>

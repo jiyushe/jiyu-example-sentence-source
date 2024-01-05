@@ -1,5 +1,7 @@
 # dormancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dormancy.md)
+
 <p><span class="chinese">其种子无休眠期。</span><span class="english">Its seeds have not dormancy.</span></p>
 
 <p><span class="chinese">这里是一组休眠的火山群。</span><span class="english">The here is a volcanos of dormancy.</span></p>

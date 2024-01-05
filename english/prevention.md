@@ -1,5 +1,7 @@
 # prevention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prevention.md)
+
 <p><span class="chinese">预防犯罪。</span><span class="english">Crime prevention.</span></p>
 
 <p><span class="chinese">什么是预防？</span><span class="english">What is prevention?</span></p>

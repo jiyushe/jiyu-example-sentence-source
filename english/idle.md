@@ -1,5 +1,7 @@
 # idle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idle.md)
+
 <p><span class="chinese">闲太麻烦？</span><span class="english">Idle too much trouble?</span></p>
 
 <p><span class="chinese">少时闲混，到老穷困。</span><span class="english">Idle young, needy old.</span></p>

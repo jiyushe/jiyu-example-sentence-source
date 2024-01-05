@@ -1,5 +1,7 @@
 # shears
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shears.md)
+
 <p><span class="chinese">这会损坏他们的发剪。</span><span class="english">It would damage their shears.</span></p>
 
 <p><span class="chinese">他用园艺大剪刀修剪树篱。</span><span class="english">He cut the hedge with garden shears.</span></p>

@@ -1,5 +1,7 @@
 # 烧炭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaotan.md)
+
 <p><span class="chinese">那是烧炭的。</span><span class="english">That was a charcoal burner.</span></p>
 
 <p><span class="chinese">通过这次旅行，我知道如何烧炭了。</span><span class="english">Through this trip, I know how to make charcoal.</span></p>

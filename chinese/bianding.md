@@ -1,5 +1,7 @@
 # 编订
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianding.md)
+
 <p><span class="chinese">必须编订有效的清洁时间表。</span><span class="english">Facility has an effective cleaning schedule.</span></p>
 
 <p><span class="chinese">它的一种最初的急务就是编订一本确定的圣典。</span><span class="english">One of its first tasks was to outline a fixed canon.</span></p>

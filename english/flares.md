@@ -1,5 +1,7 @@
 # flares
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flares.md)
+
 <p><span class="chinese">她因一点小事而发火。</span><span class="english">She flares up at the least thing.</span></p>
 
 <p><span class="chinese">使外部热消和照明弹。</span><span class="english">Makes external heat dissipaters and flares.</span></p>

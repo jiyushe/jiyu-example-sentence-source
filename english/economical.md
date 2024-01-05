@@ -1,5 +1,7 @@
 # economical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/economical.md)
+
 <p><span class="chinese">这是一种经济煤炉。</span><span class="english">This is an economical stove.</span></p>
 
 <p><span class="chinese">我要最经济的包装。</span><span class="english">I want most economical packing.</span></p>

@@ -1,5 +1,7 @@
 # discal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discal.md)
+
 <p><span class="chinese">论述了圆盘式车床夹具的设计过程。</span><span class="english">Design process of fixtures for discal lathe was discussed.</span></p>
 
 <p><span class="chinese">在某些简化假设条件下，对盘型件局部辗压成形的载荷及其影响因素进行了理论分析。</span><span class="english">By using some simplification assumptions, a theoretical analysis of the local rolling forming load for the discal parts is presented.</span></p>

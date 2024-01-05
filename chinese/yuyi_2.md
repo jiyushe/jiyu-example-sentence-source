@@ -1,5 +1,7 @@
 # 御医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyi_2.md)
+
 <p><span class="chinese">我已经叫御医来了。</span><span class="english">I have called for a healer.</span></p>
 
 <p><span class="chinese">叫我连御医也带来了，我们去给他看病吧。</span><span class="english">He asked us to bring the doctor here, to check his sickness.</span></p>

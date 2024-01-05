@@ -1,5 +1,7 @@
 # 赔本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiben.md)
+
 <p><span class="chinese">跟你说过呀，我这可是赔本儿做买卖。</span><span class="english">I told you, I'm losing money as it is.</span></p>
 
 <p><span class="chinese">这部旧汽车卖什么价都要赔本。</span><span class="english">The old car is a bad bargain at any price.</span></p>

@@ -1,5 +1,7 @@
 # complaisant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complaisant.md)
+
 <p><span class="chinese">在朝臣服从国王的命令，在殷勤的方式进行。</span><span class="english">The courtier obeyed the king's orders in a complaisant manner.</span></p>
 
 <p><span class="chinese">我觉得最理想的头发应该像丝绸一样的柔顺闪亮。</span><span class="english">I feel optimal hair should resemble silk cloth same complaisant and ablaze.</span></p>

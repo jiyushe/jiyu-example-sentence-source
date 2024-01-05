@@ -1,5 +1,7 @@
 # 自动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zidong.md)
+
 <p><span class="chinese">它们从不自动放弃。</span><span class="english">They never waiver.</span></p>
 
 <p><span class="chinese">自动擦鞋机“，”</span><span class="english">Auto Shoe Polisher.</span></p>

@@ -1,5 +1,7 @@
 # 弥补
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mibu_1.md)
+
 <p><span class="chinese">成绩弥补？</span><span class="english">To recover the grade?</span></p>
 
 <p><span class="chinese">弥补我对伱嘚伤害！</span><span class="english">Make up me have to hurt to you!</span></p>

@@ -1,5 +1,7 @@
 # translator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/translator.md)
+
 <p><span class="chinese">万能翻译器？</span><span class="english">The Universal Translator?</span></p>
 
 <p><span class="chinese">我使用的是翻訳。</span><span class="english">I use a translator in chinese.</span></p>

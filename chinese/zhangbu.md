@@ -1,5 +1,7 @@
 # 账簿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangbu.md)
+
 <p><span class="chinese">ITW应审查和检查卖方的账簿和记录。</span><span class="english">ITW may audit and inspect Seller's books and records.</span></p>
 
 <p><span class="chinese">但从来没有一个在账簿上有如此巨大债务的银行能够做到。</span><span class="english">But no bank could go public with this much bad debt on its books.</span></p>

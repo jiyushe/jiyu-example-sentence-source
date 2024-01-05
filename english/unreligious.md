@@ -1,5 +1,7 @@
 # unreligious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreligious.md)
+
 <p><span class="chinese">从反映现实生活而言，敦煌艺术和世俗艺术一样是一面历史的镜子。</span><span class="english">The Art of Dunhuang and unreligious art are both mirrors to history.</span></p>
 
 <p><span class="chinese">有的僧尼还与世俗家庭保持着密切联系，甚至死后以俗法安葬。</span><span class="english">Some monastic kept away with family, and buried in forms of unreligious.</span></p>

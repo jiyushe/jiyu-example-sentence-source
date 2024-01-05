@@ -1,5 +1,7 @@
 # 风声鹤唳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengshengheli.md)
+
 <p><span class="chinese">犯了罪的人对每一个声音都感到风声鹤唳。</span><span class="english">A guilty man apprehends danger in every sound.</span></p>
 
 <p><span class="chinese">但现在银行如此风声鹤唳，没有银行搭理我们。</span><span class="english">But banks are so gun-shy now that no one would touch us.</span></p>

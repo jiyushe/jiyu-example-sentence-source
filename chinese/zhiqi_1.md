@@ -1,5 +1,7 @@
 # 稚气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqi_1.md)
+
 <p><span class="chinese">那会儿我还是个孩子，她也未脱稚气。</span><span class="english">I was a child and she was a child.</span></p>
 
 <p><span class="chinese">那男孩已长大，不再有稚气。</span><span class="english">The boy has outgrown babyish habits.</span></p>

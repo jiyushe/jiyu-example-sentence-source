@@ -1,5 +1,7 @@
 # costing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/costing.md)
+
 <p><span class="chinese">电视花费你的钱财。</span><span class="english">It is costing you money.</span></p>
 
 <p><span class="chinese">他跌了一跤，结果失去了领先的优势。</span><span class="english">He fell down, costing him his lead.</span></p>

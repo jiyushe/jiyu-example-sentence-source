@@ -1,5 +1,7 @@
 # spite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spite.md)
+
 <p><span class="chinese">他们不顾天下雨也去了。</span><span class="english">They went in spite of the rain.</span></p>
 
 <p><span class="chinese">尽管雨神肆虐，我还是到了此地！</span><span class="english">Here I am in spite of St. Swithin!</span></p>

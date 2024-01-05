@@ -1,5 +1,7 @@
 # pipeline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pipeline.md)
+
 <p><span class="chinese">控制处理管道。</span><span class="english">Control the processing pipeline.</span></p>
 
 <p><span class="chinese">SSA的管道论很有趣。</span><span class="english">The SSA's pipeline graphic is interesting.</span></p>

@@ -1,5 +1,7 @@
 # discovered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discovered.md)
+
 <p><span class="chinese">我怎么才能被发现？</span><span class="english">How do I get discovered?</span></p>
 
 <p><span class="chinese">他于1492年发现了美洲。</span><span class="english">He discovered America in 1492.</span></p>

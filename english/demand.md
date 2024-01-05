@@ -1,5 +1,7 @@
 # demand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demand.md)
+
 <p><span class="chinese">求的就是“高”字。</span><span class="english">Demand is "high".</span></p>
 
 <p><span class="chinese">他们要求尊严。</span><span class="english">They demand dignity.</span></p>

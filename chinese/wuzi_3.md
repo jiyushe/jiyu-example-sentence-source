@@ -1,5 +1,7 @@
 # 物资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzi_3.md)
+
 <p><span class="chinese">在物资分配模型方面。</span><span class="english">The model of Alot Material.</span></p>
 
 <p><span class="chinese">另有123吨物资通过海路运达。</span><span class="english">Another 123 tons arrived by sea.</span></p>

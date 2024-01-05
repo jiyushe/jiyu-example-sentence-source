@@ -1,5 +1,7 @@
 # antipodes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antipodes.md)
+
 <p><span class="chinese">地球的极点称作北极和南极。</span><span class="english">The South Pole and the North Pole are antipodes.</span></p>
 
 <p><span class="chinese">这种兔子在澳大利亚及新西兰没有天敌。</span><span class="english">This rabbit had no natural enemies in the Antipodes.</span></p>

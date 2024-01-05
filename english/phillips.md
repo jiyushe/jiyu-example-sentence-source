@@ -1,5 +1,7 @@
 # phillips
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phillips.md)
+
 <p><span class="chinese">拆卸十字槽螺丝帽。</span><span class="english">Remove Phillips head screw.</span></p>
 
 <p><span class="chinese">菲利浦先生是个生性快活的人。</span><span class="english">Mr. Phillips was a cheery man.</span></p>

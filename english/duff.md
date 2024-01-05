@@ -1,5 +1,7 @@
 # duff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duff.md)
+
 <p><span class="chinese">可是练习场上，达夫早早地跛着退出了。</span><span class="english">But in training Duff limps out early.</span></p>
 
 <p><span class="chinese">达芙将于10月5日开始她的“绯闻”之旅。</span><span class="english">Duff begins her "Gossip" arc on Oct. 5.</span></p>

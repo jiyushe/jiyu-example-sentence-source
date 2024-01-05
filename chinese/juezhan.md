@@ -1,5 +1,7 @@
 # 决战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juezhan.md)
+
 <p><span class="chinese">终于到了最后的决战时刻了。</span><span class="english">The final moment came at last.</span></p>
 
 <p><span class="chinese">敌人在决战中损失惨重。</span><span class="english">The enemy lost heavily in the decisive battle.</span></p>

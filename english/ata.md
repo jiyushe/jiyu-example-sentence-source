@@ -1,5 +1,7 @@
 # ata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ata.md)
+
 <p><span class="chinese">他听到一匹马正在疾步驰近。</span><span class="english">He heard a horse approaching ata spanking trot.</span></p>
 
 <p><span class="chinese">1991年，在发布会上推广NeXT的ata计算机。</span><span class="english">Pitching NeXT’s machines ata computer conference in 1991.</span></p>

@@ -1,5 +1,7 @@
 # 望穿秋水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangchuanqiushui.md)
+
 <p><span class="chinese">望穿秋水！</span><span class="english">Look through autumn water!</span></p>
 
 <p><span class="chinese">看破红尘，望穿秋水，又能怎样？</span><span class="english">See through Red Dust, for ages, but also what?</span></p>

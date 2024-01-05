@@ -1,5 +1,7 @@
 # express
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/express.md)
+
 <p><span class="chinese">第一，表达谢意。</span><span class="english">One, express gratitude.</span></p>
 
 <p><span class="chinese">他们坐上了直达快车。</span><span class="english">Ride the express train.</span></p>

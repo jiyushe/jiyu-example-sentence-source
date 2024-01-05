@@ -1,5 +1,7 @@
 # changeover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changeover.md)
+
 <p><span class="chinese">在改变上层管理时产生的隐患。</span><span class="english">The sangs incidental to a changeover in upper management.</span></p>
 
 <p><span class="chinese">“你最好穿暖和些，”伊格尔建议说，“雨很快就变了。”</span><span class="english">"You better dress warmly," Igel advised. "This rain will changeover soon."</span></p>

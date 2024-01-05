@@ -1,5 +1,7 @@
 # lacklustre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacklustre.md)
+
 <p><span class="chinese">一些酒吧和餐厅也表示生意一般。</span><span class="english">Some bars and restaurants say business is lacklustre too.</span></p>
 
 <p><span class="chinese">我没有见到肚子鼓起，两眼无神的孩子。</span><span class="english">I hadn't seen children with distended bellies and lacklustre eyes.</span></p>

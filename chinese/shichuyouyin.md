@@ -1,5 +1,7 @@
 # 事出有因
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichuyouyin.md)
+
 <p><span class="chinese">做某事出有因是我们的职责。</span><span class="english">It's one's duty to do sth.</span></p>
 
 <p><span class="chinese">但是美元贬值事出有因。</span><span class="english">But the dollar is cheap for a reason.</span></p>

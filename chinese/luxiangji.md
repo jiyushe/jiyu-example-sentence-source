@@ -1,5 +1,7 @@
 # 录像机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luxiangji.md)
+
 <p><span class="chinese">录像机定时与控制?。</span><span class="english">VTAC? Video Timing And Control?</span></p>
 
 <p><span class="chinese">真的？但你没有录像机。</span><span class="english">Really.But you don't have a VCR.</span></p>

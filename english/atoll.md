@@ -1,5 +1,7 @@
 # atoll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atoll.md)
+
 <p><span class="chinese">这就是比基尼环礁。</span><span class="english">This is the Bikini Atoll.</span></p>
 
 <p><span class="chinese">这就是比基尼环礁。</span><span class="english">bikiniThis is the Bikini Atoll.</span></p>

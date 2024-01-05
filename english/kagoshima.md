@@ -1,5 +1,7 @@
 # kagoshima
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kagoshima.md)
+
 <p><span class="chinese">我一次又一次地告诉我的父亲，我想留在鹿儿岛。</span><span class="english">I told my father again and again that I wanted to stay in Kagoshima.</span></p>
 
 <p><span class="chinese">日本九州岛南部一城市，位于鹿儿岛湾濒临中国东海的一个海湾。</span><span class="english">A city of southern Kyushu, Japan, on Kagoshima Bay, an inlet of the East China Sea.</span></p>

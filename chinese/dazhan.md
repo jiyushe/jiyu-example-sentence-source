@@ -1,5 +1,7 @@
 # 打战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhan.md)
+
 <p><span class="chinese">我用17级法师打战歌。</span><span class="english">Doing WSG with a 17 mage.</span></p>
 
 <p><span class="chinese">很多美国人仍然认为越南还在打战。</span><span class="english">Many Americans still think of Vietnam as a war.</span></p>

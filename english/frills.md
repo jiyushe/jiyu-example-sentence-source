@@ -1,5 +1,7 @@
 # frills
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frills.md)
+
 <p><span class="chinese">无虚饰者。</span><span class="english">No Frills.</span></p>
 
 <p><span class="chinese">我是一个没有低价种半乳糖。</span><span class="english">I'm a no frills kind of gal.</span></p>

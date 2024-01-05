@@ -1,5 +1,7 @@
 # 区区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ququ.md)
+
 <p><span class="chinese">一心抱区区，惧君不识察。</span><span class="english">Hold a heart, fear not Jun cha.</span></p>
 
 <p><span class="chinese">一个人，一辆车，区区一个司机罢了！</span><span class="english">He's a chauffeur, for chrissakes.</span></p>

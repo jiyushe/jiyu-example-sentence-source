@@ -1,5 +1,7 @@
 # ozone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ozone.md)
+
 <p><span class="chinese">吸入过多的臭氧会导致肺损伤。</span><span class="english">Breathing in too much ozone can cause lung damage.</span></p>
 
 <p><span class="chinese">臭氧氧化对人体全身的细胞。</span><span class="english">Ozone oxidizes the cells of the body systemically.</span></p>

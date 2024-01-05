@@ -1,5 +1,7 @@
 # icing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icing.md)
+
 <p><span class="chinese">把糖衣挤开。</span><span class="english">You squeeze the icing on.</span></p>
 
 <p><span class="chinese">结婚蛋糕上盖有白色糖衣。</span><span class="english">A wedding cake has white icing.</span></p>

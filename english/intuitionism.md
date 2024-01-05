@@ -1,5 +1,7 @@
 # intuitionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intuitionism.md)
+
 <p><span class="chinese">直觉主义逻辑是达米特语义反实在论的基础。</span><span class="english">Intuitionism logic is the basis of Dummett's semantic anti-realism.</span></p>
 
 <p><span class="chinese">有人说软现实主义是用直觉主义反对“真正的现实主义”，也有一定道理的。</span><span class="english">Some people say that soft realism is intuitionism against the "true realism", but also a grain of truth.</span></p>

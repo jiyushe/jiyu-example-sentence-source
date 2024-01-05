@@ -1,5 +1,7 @@
 # 纷纭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenyun.md)
+
 <p><span class="chinese">关于这点是众家所说纷纭。</span><span class="english">Was the numerous families says diversely about this.</span></p>
 
 <p><span class="chinese">正如猎狐之在英国，意见纷纭，且不可调和。</span><span class="english">As with foxhunting in Britain, views seem irreconcilable.</span></p>

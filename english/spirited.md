@@ -1,5 +1,7 @@
 # spirited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spirited.md)
+
 <p><span class="chinese">你看起来情绪低落。</span><span class="english">You look low spirited spirit.</span></p>
 
 <p><span class="chinese">他被鼓动得与他的老板作对。</span><span class="english">He was spirited up against his boss.</span></p>

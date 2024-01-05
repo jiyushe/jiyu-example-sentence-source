@@ -1,5 +1,7 @@
 # 观点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guandian.md)
+
 <p><span class="chinese">我必须同意这个观点。</span><span class="english">I have to agree.</span></p>
 
 <p><span class="chinese">我同意秦晖教授的观点。</span><span class="english">I agree with Prof.</span></p>

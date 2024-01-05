@@ -1,5 +1,7 @@
 # 风洞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengdong_2.md)
+
 <p><span class="chinese">一只珍珠斑鸠正在风洞中飞行。</span><span class="english">A diamond dove in a wind tunnel.</span></p>
 
 <p><span class="chinese">经过风洞测试，以实现最佳的空气动力学性能。</span><span class="english">Tested in the wind-tunnel for best aerodynamics.</span></p>

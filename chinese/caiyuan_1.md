@@ -1,5 +1,7 @@
 # 财源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caiyuan_1.md)
+
 <p><span class="chinese">在此祝贺啦啦生意兴隆！财源滚滚！</span><span class="english">Good luck in your new business!</span></p>
 
 <p><span class="chinese">另祝您身体健康财源滚滚！</span><span class="english">Wish you a good health fortune!</span></p>

@@ -1,5 +1,7 @@
 # 同时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshi_1.md)
+
 <p><span class="chinese">同时也在拖延时间。</span><span class="english">It also buys time.</span></p>
 
 <p><span class="chinese">停止同时多任务的方式。</span><span class="english">Stop multi-tasking.</span></p>

@@ -1,5 +1,7 @@
 # 谐和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiehe_1.md)
+
 <p><span class="chinese">我们也用谐和。</span><span class="english">We use harmonics.</span></p>
 
 <p><span class="chinese">谐和贵得很。</span><span class="english">Harmonics are expensive.</span></p>

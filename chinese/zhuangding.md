@@ -1,5 +1,7 @@
 # 壮丁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangding.md)
+
 <p><span class="chinese">国家征召所有壮丁参战。</span><span class="english">The nation levied all able-bodied man for the war.</span></p>
 
 <p><span class="chinese">皇上亲下诏书，每个家庭要选出一名壮丁，加入军队！</span><span class="english">By order of the Emperor, one man from every family must serve in the Imperial Army.</span></p>

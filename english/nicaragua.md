@@ -1,5 +1,7 @@
 # nicaragua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nicaragua.md)
+
 <p><span class="chinese">配偶的延续执政也在尼加拉瓜形成威胁。</span><span class="english">Conjugal succession is also a threat in Nicaragua.</span></p>
 
 <p><span class="chinese">他一直在尼加拉瓜寻求并已得到庇护。</span><span class="english">He has sought and been granted asylum in Nicaragua.</span></p>

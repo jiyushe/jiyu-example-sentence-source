@@ -1,5 +1,7 @@
 # knuckle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knuckle.md)
+
 <p><span class="chinese">我找到数组中的第i个元素。</span><span class="english">Oh fudge knuckle. OK.</span></p>
 
 <p><span class="chinese">胡说八道了对不对？</span><span class="english">Double fudge knuckle. All right?</span></p>

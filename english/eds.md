@@ -1,5 +1,7 @@
 # eds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eds.md)
+
 <p><span class="chinese">SEM和EDS分别用于分析和观察抗茵粉体的晶相结构、形貌及其元素成分。</span><span class="english">XRD, SEM and EDS are also used to analyze the ceramic powder.</span></p>
 
 <p><span class="chinese">通过XRD、SEM、EDS和EPMA等检测手段对涂层的微观组织进行研究。</span><span class="english">The microstructure of the coating was studied by XRD, SEM, EDS and EPMA.</span></p>

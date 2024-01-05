@@ -1,5 +1,7 @@
 # nagging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nagging.md)
+
 <p><span class="chinese">唠叨少了，耳根清净了。</span><span class="english">No endless nagging.</span></p>
 
 <p><span class="chinese">这样的唠叨太多了，我都觉得发腻了！</span><span class="english">I am fed up with so much nagging.</span></p>

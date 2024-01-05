@@ -1,5 +1,7 @@
 # hatha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hatha.md)
+
 <p><span class="chinese">这就是瑜伽和哈他瑜伽的区别。</span><span class="english">This is the difference between yoga and hatha yoga.</span></p>
 
 <p><span class="chinese">有很多不同种类的瑜伽，包括</span><span class="english">There are many different types of hatha yoga, including</span></p>

@@ -1,5 +1,7 @@
 # 南半球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanbanqiu.md)
+
 <p><span class="chinese">皓月。当空。南半球。</span><span class="english">Full moon at southern hemisphere.</span></p>
 
 <p><span class="chinese">比莉住在南半球。</span><span class="english">Billie lives in the southern hemisphere.</span></p>

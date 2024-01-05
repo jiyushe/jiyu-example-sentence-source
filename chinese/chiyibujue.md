@@ -1,5 +1,7 @@
 # 迟疑不决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiyibujue.md)
+
 <p><span class="chinese">因此，他迟疑不决，不知怎么去做才好。</span><span class="english">So he hesitated, wondering what to do.</span></p>
 
 <p><span class="chinese">这一迟疑不决的态度已招致严重警告。</span><span class="english">The hesitation has brought stern warnings.</span></p>

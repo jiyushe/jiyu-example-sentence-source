@@ -1,5 +1,7 @@
 # 娘胎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niangtai.md)
+
 <p><span class="chinese">打从她出娘胎我就认识她了。</span><span class="english">I've known her ever since she was a baby.</span></p>
 
 <p><span class="chinese">一项最新研究认为，男性的性取向可能在娘胎里就已经决定了。</span><span class="english">A man's sexual orientation appears to be determined in the womb, a new study suggests.</span></p>

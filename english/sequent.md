@@ -1,5 +1,7 @@
 # sequent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequent.md)
+
 <p><span class="chinese">财务风险带来的后果有时是致命的。</span><span class="english">Sometimes, the sequent brought by financial risk is fatal.</span></p>
 
 <p><span class="chinese">严重干扰后续比色测定。</span><span class="english">This disturbs the sequent colorimetric determination seriously.</span></p>

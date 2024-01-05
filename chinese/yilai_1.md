@@ -1,5 +1,7 @@
 # 以来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilai_1.md)
+
 <p><span class="chinese">自那以来他一直病着。</span><span class="english">He's been ill since then.</span></p>
 
 <p><span class="chinese">他自从一九八七年以来就住在这里。</span><span class="english">He has lived here since 1987.</span></p>

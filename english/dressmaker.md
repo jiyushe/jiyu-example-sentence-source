@@ -1,5 +1,7 @@
 # dressmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dressmaker.md)
+
 <p><span class="chinese">这位裁缝使用他的针。</span><span class="english">The dressmaker plies her needle.</span></p>
 
 <p><span class="chinese">我祖母是熟练的裁缝。</span><span class="english">My grandmother was an expert dressmaker.</span></p>

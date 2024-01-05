@@ -1,5 +1,7 @@
 # incoherence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incoherence.md)
+
 <p><span class="chinese">然而德国也犯有前后不一致的毛病。</span><span class="english">Yet Germany too is guilty of incoherence.</span></p>
 
 <p><span class="chinese">经历的危机次数一多，民众的反应就会混乱不相一致。</span><span class="english">In times of crisis, you get a public reaction that is incoherence on stilts.</span></p>

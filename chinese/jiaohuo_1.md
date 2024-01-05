@@ -1,5 +1,7 @@
 # 搅和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohuo_1.md)
+
 <p><span class="chinese">你要是帮不上忙，就不要瞎搅和。</span><span class="english">If you're not going to help, don't help.</span></p>
 
 <p><span class="chinese">你要是帮不上忙，就不要瞎搅和。</span><span class="english">If you are not going to help, don't help.</span></p>

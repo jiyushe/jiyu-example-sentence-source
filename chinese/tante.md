@@ -1,5 +1,7 @@
 # 忐忑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tante.md)
+
 <p><span class="chinese">你得花一整天跟他们神曲忐忑版接电话一起组装宜家傢俱。</span><span class="english">You will end the day a embling furniture from IKEA.</span></p>
 
 <p><span class="chinese">我们都在心情忐忑的等待着。</span><span class="english">We were all waiting for and dreading our notifications.</span></p>

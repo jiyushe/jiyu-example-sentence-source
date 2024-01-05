@@ -1,5 +1,7 @@
 # indiscretion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indiscretion.md)
+
 <p><span class="chinese">如此轻率是不可原谅的。</span><span class="english">Such indiscretion cannot be pardoned.</span></p>
 
 <p><span class="chinese">言行失检怎么能持续两个月？</span><span class="english">How can an indiscretion last two months?</span></p>

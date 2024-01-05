@@ -1,5 +1,7 @@
 # beauteous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beauteous.md)
+
 <p><span class="chinese">这是个美丽的避暑胜地。</span><span class="english">It's a beauteous summer resort.</span></p>
 
 <p><span class="chinese">就饺子吃更是美不胜收。</span><span class="english">It is beauteous to eat dumplings.</span></p>

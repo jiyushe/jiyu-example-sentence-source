@@ -1,5 +1,7 @@
 # wiretapping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wiretapping.md)
+
 <p><span class="chinese">这种窃听方式为“基于混杂模式的嗅探”。</span><span class="english">Such as wiretapping mode called "sniffer base on intermix mode".</span></p>
 
 <p><span class="chinese">他最终确定了FBI对他的监视，他说自己成为了非法窃听的目标。</span><span class="english">He eventually sued the FBI, claiming he had been the target of illegal wiretapping.</span></p>

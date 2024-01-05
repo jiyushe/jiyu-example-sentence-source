@@ -1,5 +1,7 @@
 # 约法三章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuefasanzhang.md)
+
 <p><span class="chinese">我跟她约法三章，尽量清晰合理。</span><span class="english">I set some ground rules, trying to be clear and reasonable.</span></p>
 
 <p><span class="chinese">莉莉，特德是我们最好的朋友，我们先约法三章。</span><span class="english">Lily, Ted is our best friend, let's get something straight.</span></p>

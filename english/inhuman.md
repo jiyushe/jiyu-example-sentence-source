@@ -1,5 +1,7 @@
 # inhuman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhuman.md)
+
 <p><span class="chinese">你变得不通人情。</span><span class="english">You became inhuman.</span></p>
 
 <p><span class="chinese">但这样不人道，而且残忍。</span><span class="english">But that's inhuman and cruel.</span></p>

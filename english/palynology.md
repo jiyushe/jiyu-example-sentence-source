@@ -1,5 +1,7 @@
 # palynology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palynology.md)
+
 <p><span class="chinese">并为蕨类植物孢粉学和系统学研究提供基础资料。</span><span class="english">They can also provide basic information about the palynology and phylogeny of ferns.</span></p>
 
 <p><span class="chinese">为蕨类植物系统学和孢粉学研究积累资料。</span><span class="english">The results will provide basic information for the palynology and phylogeny of ferns.</span></p>

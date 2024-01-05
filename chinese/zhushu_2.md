@@ -1,5 +1,7 @@
 # 著述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushu_2.md)
+
 <p><span class="chinese">使徒著述才是他们的考虑标准。</span><span class="english">Apostolic authorship was one thing they talk about.</span></p>
 
 <p><span class="chinese">简述刘子翠的生平与著述。</span><span class="english">A brief account of Liu Zihui's life story and writings.</span></p>

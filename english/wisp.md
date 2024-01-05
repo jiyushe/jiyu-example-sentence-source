@@ -1,5 +1,7 @@
 # wisp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wisp.md)
+
 <p><span class="chinese">一束头发散落在她的耳朵上。</span><span class="english">A wisp of hair straggled across her ear.</span></p>
 
 <p><span class="chinese">一缕秋风一缕伤，一阵秋雨一阵凉。</span><span class="english">A wisp wind a wound, a cool autumn rain.</span></p>

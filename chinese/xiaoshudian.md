@@ -1,5 +1,7 @@
 # 小数点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshudian.md)
+
 <p><span class="chinese">你漏看了一个小数点。</span><span class="english">You missed a decimal point read.</span></p>
 
 <p><span class="chinese">小数点显然放错位置了。</span><span class="english">Obviously a misplaced decimal point.</span></p>

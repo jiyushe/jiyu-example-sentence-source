@@ -1,5 +1,7 @@
 # 判案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panan.md)
+
 <p><span class="chinese">上诉法院以书面审理下级法院的判案陈述方法驳回上诉。</span><span class="english">The appeal court dismissed the appeal by way of case stated.</span></p>
 
 <p><span class="chinese">上诉法院以书面审理下级法院的判案陈述方法驳回上诉。</span><span class="english">The appeal court dismissed the appeal by wasy of case stated.</span></p>

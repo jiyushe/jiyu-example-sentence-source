@@ -1,5 +1,7 @@
 # implosion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implosion.md)
+
 <p><span class="chinese">美国最负盛名的几家投资银行破产。</span><span class="english">The implosion of America's most storied investment banks.</span></p>
 
 <p><span class="chinese">所用的参数是您所期望的内爆效果量。</span><span class="english">The argument is the amount of implosion effect you desire.</span></p>

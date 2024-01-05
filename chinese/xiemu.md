@@ -1,5 +1,7 @@
 # 谢幕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiemu.md)
+
 <p><span class="chinese">然后我们一起谢幕。</span><span class="english">Thank you , then take a bow.</span></p>
 
 <p><span class="chinese">就这样，这次真的是最后的谢幕了。</span><span class="english">This is the final curtain call.</span></p>

@@ -1,5 +1,7 @@
 # tinned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinned.md)
+
 <p><span class="chinese">罐头食品则是浪费最少的。</span><span class="english">Tinned food is the least wasted.</span></p>
 
 <p><span class="chinese">罐头牛奶可长期保鲜存放。</span><span class="english">The tinned milk could store well.</span></p>

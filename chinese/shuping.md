@@ -1,5 +1,7 @@
 # 书评
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuping.md)
+
 <p><span class="chinese">他正在为一篇书评撰写故事梗概。</span><span class="english">He is abstracting a story for a book review.</span></p>
 
 <p><span class="chinese">玛丽为这篇书评写故事梗概。</span><span class="english">Mary abstracted a story for the book review.</span></p>

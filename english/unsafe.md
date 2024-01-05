@@ -1,5 +1,7 @@
 # unsafe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsafe.md)
+
 <p><span class="chinese">危桥，请勿使用。</span><span class="english">Unsafe bridge. Do not use.</span></p>
 
 <p><span class="chinese">不安全水将导致流行病。</span><span class="english">Unsafe water will lead to epidemics.</span></p>

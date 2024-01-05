@@ -1,5 +1,7 @@
 # imperturbable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperturbable.md)
+
 <p><span class="chinese">没有人能够泰然的接受不可避免的事。</span><span class="english">Nobody can imperturbable acceptance of the inevitable.</span></p>
 
 <p><span class="chinese">“行了，”不动声色的主人说，“关上吧！”</span><span class="english">"Good, " said the imperturbable master. "Close them again. "</span></p>

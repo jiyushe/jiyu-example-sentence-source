@@ -1,5 +1,7 @@
 # fingerprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fingerprint.md)
+
 <p><span class="chinese">使用指纹识别器进行解锁。</span><span class="english">Use the fingerprint reader to unlock.</span></p>
 
 <p><span class="chinese">是的，我们可以使指纹无效。</span><span class="english">Yes, we can invalidate that fingerprint.</span></p>

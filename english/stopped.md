@@ -1,5 +1,7 @@
 # stopped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stopped.md)
+
 <p><span class="chinese">霏欧纳阻止了她。</span><span class="english">Fiona stopped her.</span></p>
 
 <p><span class="chinese">眼泪停止了。</span><span class="english">The tears stopped.</span></p>

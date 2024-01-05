@@ -1,5 +1,7 @@
 # booster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/booster.md)
+
 <p><span class="chinese">拆下制动助力器盖。</span><span class="english">Remove cover for brake booster.</span></p>
 
 <p><span class="chinese">泵站调压器的必要性？</span><span class="english">Necessity of booster pumping stations?</span></p>

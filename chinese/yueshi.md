@@ -1,5 +1,7 @@
 # 乐师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueshi.md)
+
 <p><span class="chinese">阿波！有强盗！正在接近乐师的村子。</span><span class="english">Po, Aproaching from the musicant in the village.</span></p>
 
 <p><span class="chinese">交响乐乐师未必就能视奏。</span><span class="english">Symphony musicians cannot necessarily sight-read.</span></p>

@@ -1,5 +1,7 @@
 # 议事日程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishiricheng.md)
+
 <p><span class="chinese">把这项工作提到议事日程上来。</span><span class="english">Put this item on our daily work schedule.</span></p>
 
 <p><span class="chinese">大型的医疗改革已经箭在弦上，正式提上议事日程。</span><span class="english">The big health care push is officially on.</span></p>

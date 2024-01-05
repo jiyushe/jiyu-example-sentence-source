@@ -1,5 +1,7 @@
 # humble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humble.md)
+
 <p><span class="chinese">欢迎来到寒舍。</span><span class="english">Welcome to my humble home.</span></p>
 
 <p><span class="chinese">欢迎来到我的陋室。</span><span class="english">Welcome to my humble abode.</span></p>

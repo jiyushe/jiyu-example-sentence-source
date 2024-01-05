@@ -1,5 +1,7 @@
 # abolishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abolishment.md)
+
 <p><span class="chinese">“网络礼节禁止这个项目”！</span><span class="english">The "Netiquette abolishment project" !</span></p>
 
 <p><span class="chinese">废除农业税每人直接受益100元。</span><span class="english">The direct benefit of tax abolishment is 100 yuan per-person.</span></p>

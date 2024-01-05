@@ -1,5 +1,7 @@
 # zelda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zelda.md)
+
 <p><span class="chinese">戈隆面具是塞尔达系列的传统特色</span><span class="english">The Goron mask is a recurring feature in Zelda</span></p>
 
 <p><span class="chinese">林克和塞尔达有一个在展台隆重的存在。</span><span class="english">Lynk and Zelda had an grand presence at the booth.</span></p>

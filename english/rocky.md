@@ -1,5 +1,7 @@
 # rocky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rocky.md)
+
 <p><span class="chinese">高高洒落在崖岸上。</span><span class="english">High on the rocky shore.</span></p>
 
 <p><span class="chinese">一路坎坷，赴都柏林。</span><span class="english">The rocky road to Dublin.</span></p>

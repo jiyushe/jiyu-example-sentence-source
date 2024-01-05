@@ -1,5 +1,7 @@
 # 造型艺术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoxingyishu.md)
+
 <p><span class="chinese">素描，是任何造型艺术的基础。</span><span class="english">Sketch is the basic of any plastic arts.</span></p>
 
 <p><span class="chinese">素描是一切造型艺术的基础。</span><span class="english">The sketch is all plastic arts foundation.</span></p>

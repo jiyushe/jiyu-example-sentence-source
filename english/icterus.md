@@ -1,5 +1,7 @@
 # icterus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icterus.md)
+
 <p><span class="chinese">溶血性黄疸发生于马和猪的初生幼畜。</span><span class="english">Hemolytic icterus occurs in the neonate of the horse and swine.</span></p>
 
 <p><span class="chinese">肝炎病毒带原、肝脓疡、肝脾肿大、黄疸。</span><span class="english">Hepatitis virus carrier, hepatic abscess, hepatosplenomegaly or icterus.</span></p>

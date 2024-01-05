@@ -1,5 +1,7 @@
 # 神威
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenwei_1.md)
+
 <p><span class="chinese">敝今得之更有龙虎神威！</span><span class="english">This was the more spacious dragon divinity!</span></p>
 
 <p><span class="chinese">且看热血男儿，扬我中华神威。</span><span class="english">And see warm-blooded son, Yang I the great power.</span></p>

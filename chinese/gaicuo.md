@@ -1,5 +1,7 @@
 # 改错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaicuo.md)
+
 <p><span class="chinese">我可以通过改错改善学习。</span><span class="english">I can learn from my mistakes.</span></p>
 
 <p><span class="chinese">你知道怎么改错吗？</span><span class="english">Do you know how to correct the mistakes?</span></p>

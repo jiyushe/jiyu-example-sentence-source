@@ -1,5 +1,7 @@
 # acidify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acidify.md)
+
 <p><span class="chinese">污染物质能使地表水酸化。</span><span class="english">Pollutants can acidify surface water.</span></p>
 
 <p><span class="chinese">加醋会使溶液变酸。</span><span class="english">Adding vinegar will acidify the solution.</span></p>

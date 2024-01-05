@@ -1,5 +1,7 @@
 # developable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/developable.md)
+
 <p><span class="chinese">该系统可发展的。</span><span class="english">The system was developable.</span></p>
 
 <p><span class="chinese">动态可展曲面是采用哈密尔顿原理的一类新型动态模型。</span><span class="english">Dynamic developable mesh is a new dynamic model which utilizes Hamilton principle.</span></p>

@@ -1,5 +1,7 @@
 # aws
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aws.md)
+
 <p><span class="chinese">胸部的绣花和印图很好的体现了优点。</span><span class="english">AWS embroidery and print motif on the chest.</span></p>
 
 <p><span class="chinese">Krishnan提了几个增强AWS安全性的建议</span><span class="english">Krishnan also made a couple of suggestions on improving the AWS security</span></p>

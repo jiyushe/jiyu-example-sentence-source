@@ -1,5 +1,7 @@
 # 优生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yousheng.md)
+
 <p><span class="chinese">基因优生问题。</span><span class="english">Eugenic question of gene.</span></p>
 
 <p><span class="chinese">全优生更有可能得到奖学金。</span><span class="english">The chance for scholarships is much better for straight-A students.</span></p>

@@ -1,5 +1,7 @@
 # 死于非命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siyufeiming.md)
+
 <p><span class="chinese">那个不法之徒最后死于非命。</span><span class="english">The bad man died in his boots at last.</span></p>
 
 <p><span class="chinese">命运之神在朝他微笑，总算没有谁死于非命。</span><span class="english">The Gull of Fortune smiled upon him this once, and no one was killed.</span></p>

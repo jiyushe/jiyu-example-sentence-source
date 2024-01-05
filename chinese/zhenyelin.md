@@ -1,5 +1,7 @@
 # 针叶林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenyelin.md)
+
 <p><span class="chinese">这是在针叶林中蜿蜒的小路。</span><span class="english">This one is just a meandering in the woods path.</span></p>
 
 <p><span class="chinese">大约一半的人在针叶林山上放牧驯鹿。</span><span class="english">About half a are reindeer herders up in the Taiga mountains.</span></p>

@@ -1,5 +1,7 @@
 # jar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jar.md)
+
 <p><span class="chinese">它绕着罐子游来游去。</span><span class="english">He swims around his jar.</span></p>
 
 <p><span class="chinese">那口酱缸又会有什么反应？</span><span class="english">How will the jar respond?</span></p>

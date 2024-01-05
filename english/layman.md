@@ -1,5 +1,7 @@
 # layman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/layman.md)
+
 <p><span class="chinese">是什么外行做的这份报告?。</span><span class="english">Whatis the layman to make of this?</span></p>
 
 <p><span class="chinese">要假设合同的读者是一个受过教育的外行。</span><span class="english">A ume the reader is a knowledgeable layman.</span></p>

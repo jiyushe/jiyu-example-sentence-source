@@ -1,5 +1,7 @@
 # 快马加鞭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaimajiabian.md)
+
 <p><span class="chinese">我们需要快马加鞭。</span><span class="english">We need to move forward very fast.</span></p>
 
 <p><span class="chinese">他快马加鞭向城里跑去。</span><span class="english">He whipped up the horse to the town.</span></p>

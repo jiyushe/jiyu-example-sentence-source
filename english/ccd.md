@@ -1,5 +1,7 @@
 # ccd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ccd.md)
+
 <p><span class="chinese">而CCD就是数码相机的电子眼。</span><span class="english">The CCD is the digital camera's electronic eye.</span></p>
 
 <p><span class="chinese">柯达为徕卡量身定做了这款CCD。</span><span class="english">The CCD is made to Leica’s specifications by Kodak.</span></p>

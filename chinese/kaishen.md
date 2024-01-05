@@ -1,5 +1,7 @@
 # 开审
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaishen.md)
+
 <p><span class="chinese">这件民事案明天将开审。</span><span class="english">The civil case will come on for trial tomorrow.</span></p>
 
 <p><span class="chinese">友志和友慧的监护权案子开审。</span><span class="english">Youzhi and Youhui's custody case goes to trial.</span></p>

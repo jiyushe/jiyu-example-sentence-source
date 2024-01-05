@@ -1,5 +1,7 @@
 # 武艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyi_9.md)
+
 <p><span class="chinese">每个人也都有十八般武艺！</span><span class="english">Everyone also has eighteen skills!</span></p>
 
 <p><span class="chinese">每个人也都有十八般武艺！哦耶！</span><span class="english">Everyone also has eighteen skills! Oh yeah!</span></p>

@@ -1,5 +1,7 @@
 # drawbar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drawbar.md)
+
 <p><span class="chinese">特里艾伦烧制螺栓在拉杆上中心铸造。</span><span class="english">Terry Allen burning off bolts on drawbar center casting.</span></p>
 
 <p><span class="chinese">箱体设置有可调拉杆和滚轮。</span><span class="english">The suitcase body is provided with an adjustable drawbar and roller wheels.</span></p>

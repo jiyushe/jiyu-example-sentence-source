@@ -1,5 +1,7 @@
 # ungodly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ungodly.md)
+
 <p><span class="chinese">你怎么在这么不合适的时间打来?。</span><span class="english">Why are you calling at this ungodly hour?</span></p>
 
 <p><span class="chinese">你为什么要在这么邪恶的时间来电话？</span><span class="english">Why are you calling at this ungodly hour?</span></p>

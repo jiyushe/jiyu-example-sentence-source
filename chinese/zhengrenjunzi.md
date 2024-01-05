@@ -1,5 +1,7 @@
 # 正人君子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengrenjunzi.md)
+
 <p><span class="chinese">他是一个正人君子。</span><span class="english">He is a true gentleman.</span></p>
 
 <p><span class="chinese">他表面看上去是个正人君子。</span><span class="english">He looks as if a gentleman.</span></p>

@@ -1,5 +1,7 @@
 # suitable 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suitable.md)
+
 <p><span class="chinese">戴适当手套。</span><span class="english">S37 Wear suitable gloves.</span></p>
 
 <p><span class="chinese">但要穿适当的保护。</span><span class="english">But wear suitable protection.</span></p>

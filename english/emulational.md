@@ -1,5 +1,7 @@
 # emulational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emulational.md)
+
 <p><span class="chinese">报道了采用优质獭兔裘皮为原料，通过现代设计和手工技术制作熊猫仿真产品过程。</span><span class="english">It has been reported the excellent rabbit fur can produce panda emulational products.</span></p>
 
 <p><span class="chinese">本次论文的题目是“改进仿真机器昆虫的趋光特性”。</span><span class="english">The title of my dissertation is " To improve the emulational machine hexapod's photokinesis ".</span></p>

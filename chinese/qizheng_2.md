@@ -1,5 +1,7 @@
 # 齐整
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizheng_2.md)
+
 <p><span class="chinese">你的眉毛是否修过或齐整？</span><span class="english">Are your eyebrows trim and neat?</span></p>
 
 <p><span class="chinese">等拾掇齐整了，还不耽误下地干活。</span><span class="english">And clean neat, do not delay to work.</span></p>

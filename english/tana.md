@@ -1,5 +1,7 @@
 # tana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tana.md)
+
 <p><span class="chinese">塔纳湖上，青尼罗河的入口。</span><span class="english">The estuary of blue Nile on lake Tana.</span></p>
 
 <p><span class="chinese">看看谢丽尔·科尔和塔纳·拉姆齐吧。</span><span class="english">Just look at Cheryl Cole and Tana Ramsay.</span></p>

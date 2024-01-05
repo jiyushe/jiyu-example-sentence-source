@@ -1,5 +1,7 @@
 # 物极必反
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujibifan.md)
+
 <p><span class="chinese">但是它也可能物极必反。</span><span class="english">But it can go too far.</span></p>
 
 <p><span class="chinese">你实在太过分了。记住，物极必反。</span><span class="english">You are way out of line. Remember extremes are dangerous.</span></p>

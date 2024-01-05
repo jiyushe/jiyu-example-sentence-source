@@ -1,5 +1,7 @@
 # 睫毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiemao.md)
+
 <p><span class="chinese">何谓“葱郁的睫毛”？</span><span class="english">What are “lush eyelashes”?</span></p>
 
 <p><span class="chinese">何谓“浓密的睫毛”？</span><span class="english">What are “dense eyelashes”?</span></p>

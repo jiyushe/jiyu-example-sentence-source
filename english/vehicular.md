@@ -1,5 +1,7 @@
 # vehicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vehicular.md)
+
 <p><span class="chinese">交通流畅的陆桥。</span><span class="english">Vehicular overpasses help move traffic.</span></p>
 
 <p><span class="chinese">此路不准车辆通行。</span><span class="english">This road is closed to vehicular traffic.</span></p>

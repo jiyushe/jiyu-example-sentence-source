@@ -1,5 +1,7 @@
 # ungoverned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ungoverned.md)
+
 <p><span class="chinese">在纽约，曾经也有三不管地带。</span><span class="english">New York once had its own ungoverned zones.</span></p>
 
 <p><span class="chinese">巴基斯坦部落广阔分散，常常不能管治。</span><span class="english">The tribal regions are vast, rugged, and often ungoverned.</span></p>

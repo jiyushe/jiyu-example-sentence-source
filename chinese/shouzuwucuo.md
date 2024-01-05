@@ -1,5 +1,7 @@
 # 手足无措
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzuwucuo.md)
+
 <p><span class="chinese">杰克张口结舌，手足无措。</span><span class="english">Jack's tongue stands still.</span></p>
 
 <p><span class="chinese">难道，你没看到他手足无措的样子？</span><span class="english">Don't you see that he has losen his head?</span></p>

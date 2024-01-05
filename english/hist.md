@@ -1,5 +1,7 @@
 # hist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hist.md)
+
 <p><span class="chinese">这给了我们一个教训。</span><span class="english">T hist aught us a lesson.</span></p>
 
 <p><span class="chinese">希斯特正在厨房里搬动家具。</span><span class="english">Hist was stirring the furniture at the kitchen.</span></p>

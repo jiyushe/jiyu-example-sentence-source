@@ -1,5 +1,7 @@
 # fright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fright.md)
+
 <p><span class="chinese">他看起来奇丑无比。</span><span class="english">He looked a perfect fright.</span></p>
 
 <p><span class="chinese">刘备、纪灵都吓了一跳。</span><span class="english">Both Liu and Ji got a fright.</span></p>

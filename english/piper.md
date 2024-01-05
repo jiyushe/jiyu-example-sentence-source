@@ -1,5 +1,7 @@
 # piper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piper.md)
+
 <p><span class="chinese">他谁负担用度调用词调。</span><span class="english">he who pays the piper calls the tune.</span></p>
 
 <p><span class="chinese">“我可以卖给你呀，”风笛手说道。</span><span class="english">"I'll sell them to you, " said the piper.</span></p>

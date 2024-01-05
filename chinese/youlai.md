@@ -1,5 +1,7 @@
 # 由来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youlai.md)
+
 <p><span class="chinese">这种喇叭的历史由来富有争议。</span><span class="english">The history of the horn is disputed.</span></p>
 
 <p><span class="chinese">你知道“给力”一词的由来吗？</span><span class="english">Do you know the origin of gelievable?</span></p>

@@ -1,5 +1,7 @@
 # yardage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yardage.md)
+
 <p><span class="chinese">高尔夫球场选址仪式。</span><span class="english">What is the yardage of this golf course?</span></p>
 
 <p><span class="chinese">呢处又系有两个果岭，要码数清楚最好问球僮。</span><span class="english">Two greens again, ask your caddy for yardage.</span></p>

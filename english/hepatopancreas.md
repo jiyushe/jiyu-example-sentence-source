@@ -1,5 +1,7 @@
 # hepatopancreas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hepatopancreas.md)
+
 <p><span class="chinese">尼罗罗非鱼的胰脏与肝脏混合存在，属于肝胰脏。</span><span class="english">The pancreas in Tilapia Nilotica which combine with liver, belongs to hepatopancreas.</span></p>
 
 <p><span class="chinese">肝胰脏是重要储藏重金属及其解毒之器官。</span><span class="english">Hepatopancreas played an important role in storage and detoxification of heavy metals.</span></p>

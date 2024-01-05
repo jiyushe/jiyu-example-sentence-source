@@ -1,5 +1,7 @@
 # satyr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satyr.md)
+
 <p><span class="chinese">他既非阉人，亦非色鬼。</span><span class="english">He is neither an eunuch nor a satyr.</span></p>
 
 <p><span class="chinese">这是一个关于一个男人和萨梯的寓言。</span><span class="english">This is a fable about a man anda satyr.</span></p>

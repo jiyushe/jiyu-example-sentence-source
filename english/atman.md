@@ -1,5 +1,7 @@
 # atman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atman.md)
+
 <p><span class="chinese">有灵魂存在，但那只是理论而已。</span><span class="english">The Atman and so on, they are just theories.</span></p>
 
 <p><span class="chinese">阿特曼的纯粹意识是不会改变的。</span><span class="english">The pure consciousness of the Atman is unchangeable.</span></p>

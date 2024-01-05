@@ -1,5 +1,7 @@
 # 胚芽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiya.md)
+
 <p><span class="chinese">小麦的胚芽对增进健康很有好处。</span><span class="english">Wheat germ is very health-giving.</span></p>
 
 <p><span class="chinese">完整的小麦胚芽含有卵磷脂。</span><span class="english">The whole wheat germs contain lecithin.</span></p>

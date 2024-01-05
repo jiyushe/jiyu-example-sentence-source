@@ -1,5 +1,7 @@
 # fixture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fixture.md)
+
 <p><span class="chinese">其它的小家具来自宜家。</span><span class="english">The light fixture is from Ikea.</span></p>
 
 <p><span class="chinese">现在，这首曲子已经成为西方舞会和婚礼的一个必备曲目了。</span><span class="english">This is a fixture at proms and weddings.</span></p>

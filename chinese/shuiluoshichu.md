@@ -1,5 +1,7 @@
 # 水落石出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiluoshichu.md)
+
 <p><span class="chinese">我们必须把事情弄个水落石出。</span><span class="english">We have to ravel the matter out.</span></p>
 
 <p><span class="chinese">我无法肯定全部的真相最终能否水落石出。</span><span class="english">I’m not sure the whole truth ever came out.</span></p>

@@ -1,5 +1,7 @@
 # hydrocortisone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrocortisone.md)
+
 <p><span class="chinese">生理行动与那是相似于氢化可体松。</span><span class="english">The physiological action is similar to that of hydrocortisone.</span></p>
 
 <p><span class="chinese">参与者随机分组接受单剂量氢化可的松或安慰剂注射。</span><span class="english">Participants were randomly assigned to receive a single shot of hydrocortisone or a placebo.</span></p>

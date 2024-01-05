@@ -1,5 +1,7 @@
 # lighten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lighten.md)
+
 <p><span class="chinese">帮自己一个忙，点亮你的人生！</span><span class="english">Do yourself a favor and lighten up.</span></p>
 
 <p><span class="chinese">全文检索后高亮显示搜索单词。</span><span class="english">High lighten the full-text search word.</span></p>

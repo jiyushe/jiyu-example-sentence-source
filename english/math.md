@@ -1,5 +1,7 @@
 # math
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/math.md)
+
 <p><span class="chinese">我数学没及格。</span><span class="english">I flunked math.</span></p>
 
 <p><span class="chinese">数学和科学。</span><span class="english">Math and Science.</span></p>

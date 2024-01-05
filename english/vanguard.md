@@ -1,5 +1,7 @@
 # vanguard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vanguard.md)
+
 <p><span class="chinese">什么叫做先锋队的作用？</span><span class="english">What is a vanguard role?</span></p>
 
 <p><span class="chinese">我还知道伊朗妇女站在运动的前列。</span><span class="english">Iran’s women stand in the vanguard.</span></p>

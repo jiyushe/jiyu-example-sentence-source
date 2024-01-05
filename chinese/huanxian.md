@@ -1,5 +1,7 @@
 # 环线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxian.md)
+
 <p><span class="chinese">这是去环线地铁的换乘站吗？</span><span class="english">Is this the transfer station for the loop line?</span></p>
 
 <p><span class="chinese">伦敦的铁路有内环线，还有外环线。</span><span class="english">The London railway has an inner circle and an outside circle.</span></p>

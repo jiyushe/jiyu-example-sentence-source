@@ -1,5 +1,7 @@
 # airway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airway.md)
+
 <p><span class="chinese">插入口咽导气管。</span><span class="english">B. Insert oropharyngeal airway.</span></p>
 
 <p><span class="chinese">CPAP是指持续气道正压。</span><span class="english">CPAP is continuous positive airway pressure.</span></p>

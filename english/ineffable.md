@@ -1,5 +1,7 @@
 # ineffable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ineffable.md)
+
 <p><span class="chinese">或许还有更多无法解释的现象存在。</span><span class="english">Or perhaps there is something more ineffable at work.</span></p>
 
 <p><span class="chinese">销售行业与我，有着不可言喻的神秘魅力。</span><span class="english">Marketing industry and I have a mysterious ineffable charm.</span></p>

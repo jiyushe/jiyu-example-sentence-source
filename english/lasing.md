@@ -1,5 +1,7 @@
 # lasing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lasing.md)
+
 <p><span class="chinese">我们不能达到激射在热平衡的行动。</span><span class="english">We cannot achieve lasing action at thermal equilibrium.</span></p>
 
 <p><span class="chinese">妨碍矽产生雷射光的另一个因素，是称为「奥格重合」的过程。</span><span class="english">An esoteric process known as Auger recombination also impedes silicon lasing.</span></p>

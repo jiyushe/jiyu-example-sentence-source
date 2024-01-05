@@ -1,5 +1,7 @@
 # 真实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenshi_1.md)
+
 <p><span class="chinese">它是真实的。</span><span class="english">It was real.</span></p>
 
 <p><span class="chinese">我们是真实的。</span><span class="english">We are real.</span></p>

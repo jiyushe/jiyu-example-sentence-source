@@ -1,5 +1,7 @@
 # isolationist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isolationist.md)
+
 <p><span class="chinese">凡里是一个与世隔绝的国家。</span><span class="english">Vori is an isolationist nation.</span></p>
 
 <p><span class="chinese">他们可能会比清更孤立或不太孤立，更好战，或不那么好战。</span><span class="english">They could be more or less isolationist than Qing, more or less militant.</span></p>

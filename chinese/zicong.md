@@ -1,5 +1,7 @@
 # 自从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zicong.md)
+
 <p><span class="chinese">自从我中大奖以后。</span><span class="english">Ever since I hit the jackpot.</span></p>
 
 <p><span class="chinese">自从上学期以来他就不曾补考过。</span><span class="english">He has not resat since last term.</span></p>

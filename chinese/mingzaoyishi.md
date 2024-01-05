@@ -1,5 +1,7 @@
 # 名噪一时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzaoyishi.md)
+
 <p><span class="chinese">那位作家在1930年左右名噪一时。</span><span class="english">The writer flourished around 1930.</span></p>
 
 <p><span class="chinese">他曾经名噪一时，但现在不过是一个让人怜悯的对象。</span><span class="english">Once famous, he is now a mere object of pity.</span></p>

@@ -1,5 +1,7 @@
 # 反倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fandao.md)
+
 <p><span class="chinese">这意味着我反倒可以喝茶了。</span><span class="english">It means I can have tea, instead.</span></p>
 
 <p><span class="chinese">现在行为怪异反倒让人有种莫名其妙的自豪感。</span><span class="english">Now it's a point of pride in a weird way.</span></p>

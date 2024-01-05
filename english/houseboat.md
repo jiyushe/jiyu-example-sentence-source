@@ -1,5 +1,7 @@
 # houseboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/houseboat.md)
+
 <p><span class="chinese">我们整夜都在河上的传统游艇上呆着。</span><span class="english">We stay overnight on a traditional houseboat on the river.</span></p>
 
 <p><span class="chinese">看来这场游艇竞赛还将无休止地延续。</span><span class="english">Look this houseboat contest still continues will unendingly.</span></p>

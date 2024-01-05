@@ -1,5 +1,7 @@
 # blessedness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blessedness.md)
+
 <p><span class="chinese">你说你将会轮流我幸福。</span><span class="english">You say you will take me blessedness.</span></p>
 
 <p><span class="chinese">我最大的愿望是她能幸福。</span><span class="english">My best wish is to give her blessedness.</span></p>

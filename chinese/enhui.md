@@ -1,5 +1,7 @@
 # 恩惠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enhui.md)
+
 <p><span class="chinese">施小恩惠。</span><span class="english">Do small favours.</span></p>
 
 <p><span class="chinese">愿恩惠常与你们同在！</span><span class="english">Grace be with you.</span></p>

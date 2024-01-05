@@ -1,5 +1,7 @@
 # prayerful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prayerful.md)
+
 <p><span class="chinese">请随时暑所有通过你的生命。</span><span class="english">Please always be prayerful all through your life.</span></p>
 
 <p><span class="chinese">找时间冥想，虔诚地沉思。</span><span class="english">Thoughtful time to meditate, prayerful reflections</span></p>

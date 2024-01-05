@@ -1,5 +1,7 @@
 # 相声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangsheng_2.md)
+
 <p><span class="chinese">在中国，典型的喜剧形式是相声表演。</span><span class="english">Typical for China is the crosstalk show.</span></p>
 
 <p><span class="chinese">观众被相声逗乐了。</span><span class="english">The audience was amused by the cross-talk.</span></p>

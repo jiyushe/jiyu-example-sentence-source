@@ -1,5 +1,7 @@
 # undersigned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undersigned.md)
+
 <p><span class="chinese">已签名的买主同意支付5，000英镑的订金。</span><span class="english">The undersigned buyers agree to pay a 5,000 pound deposit.</span></p>
 
 <p><span class="chinese">代表公司，下面签名的人员声明如下。</span><span class="english">On behalf of the Company, the undersigned declares as follows.</span></p>

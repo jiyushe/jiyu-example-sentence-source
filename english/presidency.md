@@ -1,5 +1,7 @@
 # presidency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presidency.md)
+
 <p><span class="chinese">他一定稳赢总统宝座。</span><span class="english">He is a shoo-in for the presidency.</span></p>
 
 <p><span class="chinese">马丁斯是总统一职的必然当选人。</span><span class="english">Martins is a shoo-in for the presidency.</span></p>

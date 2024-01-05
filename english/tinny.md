@@ -1,5 +1,7 @@
 # tinny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinny.md)
+
 <p><span class="chinese">他们可有的很小，有的却很大！</span><span class="english">They can be very tinny or huge!</span></p>
 
 <p><span class="chinese">我发现我的自行车内胎有个小洞。</span><span class="english">I found a tinny hole in the inner tube of my bike.</span></p>

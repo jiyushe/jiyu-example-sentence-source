@@ -1,5 +1,7 @@
 # provisional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provisional.md)
+
 <p><span class="chinese">关贸总协定是临时的。</span><span class="english">GATT was ad hoc and provisional.</span></p>
 
 <p><span class="chinese">临时等级分不公布。</span><span class="english">Provisional rating are not published.</span></p>

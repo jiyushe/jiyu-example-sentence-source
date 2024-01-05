@@ -1,5 +1,7 @@
 # 啄食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoshi_1.md)
+
 <p><span class="chinese">那只母鸡啄食玉米。</span><span class="english">The hen pecked the corn.</span></p>
 
 <p><span class="chinese">母鸡啄食谷粒。</span><span class="english">The hen pecked at the corn.</span></p>

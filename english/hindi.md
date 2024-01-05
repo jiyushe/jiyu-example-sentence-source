@@ -1,5 +1,7 @@
 # hindi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hindi.md)
+
 <p><span class="chinese">你必须能够说一口道地的印地文。</span><span class="english">You must be able to speak perfect Hindi.</span></p>
 
 <p><span class="chinese">这是索尼公司投拍的第一部印度语电影。</span><span class="english">This is the first Sony Toupai Hindi movies.</span></p>

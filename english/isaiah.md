@@ -1,5 +1,7 @@
 # isaiah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isaiah.md)
+
 <p><span class="chinese">让我们转到我们熟悉的一章吧，以赛亚书第53章。</span><span class="english">Let's go to a familiar chapter, Isaiah 53.</span></p>
 
 <p><span class="chinese">但以赛亚却接受了神所差派的工作。</span><span class="english">Yet Isaiah undertook the task God gave him.</span></p>

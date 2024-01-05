@@ -1,5 +1,7 @@
 # prudent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prudent.md)
+
 <p><span class="chinese">汤母是个细心谨慎的人。</span><span class="english">Tom is a prudent man.</span></p>
 
 <p><span class="chinese">他是个精明的商人。</span><span class="english">He is a prudent businessman.</span></p>

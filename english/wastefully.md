@@ -1,5 +1,7 @@
 # wastefully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wastefully.md)
+
 <p><span class="chinese">你这么浪费从加拿大打电话过来做什么？</span><span class="english">What do you want ringing wastefully from Canada?</span></p>
 
 <p><span class="chinese">而人们越富有，饮食就越浪费。</span><span class="english">And the richer they are, the more wastefully people eat.</span></p>

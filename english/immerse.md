@@ -1,5 +1,7 @@
 # immerse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immerse.md)
+
 <p><span class="chinese">沉浸一分钟。</span><span class="english">Immerse for one minute.</span></p>
 
 <p><span class="chinese">沈浸在其文化当中。</span><span class="english">Immerse yourself in the culture.</span></p>

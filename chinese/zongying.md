@@ -1,5 +1,7 @@
 # 踪影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongying.md)
+
 <p><span class="chinese">水牛和母牛都不见了踪影。</span><span class="english">Buffalos and cows are gone.</span></p>
 
 <p><span class="chinese">许多个夏季之前就已踪影全无</span><span class="english">That vanished many a summer ago</span></p>

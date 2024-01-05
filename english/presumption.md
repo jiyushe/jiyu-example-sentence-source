@@ -1,5 +1,7 @@
 # presumption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presumption.md)
+
 <p><span class="chinese">这样的假设完全是被误导的。</span><span class="english">Any such presumption is totally misguided.</span></p>
 
 <p><span class="chinese">中国未能成功反驳该假定。</span><span class="english">China did not succeed in rebutting that presumption.</span></p>

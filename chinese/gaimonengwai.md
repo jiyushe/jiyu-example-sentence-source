@@ -1,5 +1,7 @@
 # 概莫能外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaimonengwai.md)
+
 <p><span class="chinese">这可能囊括了所有人，从救援工作者到音乐节观众概莫能外。</span><span class="english">That might include anyone from aid workers to music-festival-goers.</span></p>
 
 <p><span class="chinese">它们在各大洲都有分布，从冰冻的南极洲到灼热的澳洲，概莫能外。</span><span class="english">They inhabit all the continents from frosty Antarctica to burning Australia.</span></p>

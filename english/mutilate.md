@@ -1,5 +1,7 @@
 # mutilate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutilate.md)
+
 <p><span class="chinese">为残肢增加的新双重攻击动画。</span><span class="english">Added a new double-attack animation for Mutilate.</span></p>
 
 <p><span class="chinese">这类梦想层经常用于破坏能量场和剥夺记录。</span><span class="english">Such dreamtime was often used to mutilate fields and strip records.</span></p>

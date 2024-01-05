@@ -1,5 +1,7 @@
 # 指针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhen.md)
+
 <p><span class="chinese">它有指针数据了。</span><span class="english">It has a pointee.</span></p>
 
 <p><span class="chinese">学习指针？</span><span class="english">Learn about pointers?</span></p>

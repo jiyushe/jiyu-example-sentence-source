@@ -1,5 +1,7 @@
 # 行频
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingpin.md)
+
 <p><span class="chinese">它沿水平方向逐步扩展，通常是由低于行频的频率畸变造成的。</span><span class="english">Typically caused by distortions to the frequency components below the horizontal line frequency.</span></p>
 
 <p><span class="chinese">系统具有调光和行频调节功能，用以满足在不同能量状态和不同飞行高度下的成像质量。</span><span class="english">To improve imaging quality, the system has the function of luminous energy and line frequency adjusting.</span></p>

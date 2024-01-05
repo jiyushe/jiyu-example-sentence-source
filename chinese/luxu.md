@@ -1,5 +1,7 @@
 # 陆续
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luxu.md)
+
 <p><span class="chinese">从那时起，他陆续把十二个密封舱送入了太空。</span><span class="english">He has since sent a dozen capsules into space.</span></p>
 
 <p><span class="chinese">外界的帮助缓慢地陆续到达。</span><span class="english">Outside help is slowly and sparingly arriving.</span></p>

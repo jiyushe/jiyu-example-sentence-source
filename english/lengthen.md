@@ -1,5 +1,7 @@
 # lengthen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lengthen.md)
+
 <p><span class="chinese">我们可以把裤腿放长。</span><span class="english">We can lengthen the leg.</span></p>
 
 <p><span class="chinese">我们可以把裤腿放长。</span><span class="english">We can lengthen the legs.</span></p>

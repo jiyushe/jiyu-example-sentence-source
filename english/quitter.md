@@ -1,5 +1,7 @@
 # quitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quitter.md)
+
 <p><span class="chinese">你们可以离开公司。</span><span class="english">Vous pouvez quitter. You can quit.</span></p>
 
 <p><span class="chinese">做一个个“终结者”，让你的生活越来越好。</span><span class="english">Improve your life by being a "quitter" now.</span></p>

@@ -1,5 +1,7 @@
 # optionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optionally.md)
+
 <p><span class="chinese">也会随机的添加阴影。</span><span class="english">Also optionally add drop-shadows.</span></p>
 
 <p><span class="chinese">您可以随意地用不同的名称存储它。</span><span class="english">You can optionally save it with a different name.</span></p>

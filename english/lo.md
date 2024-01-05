@@ -1,5 +1,7 @@
 # lo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lo.md)
+
 <p><span class="chinese">我绝不会就此罢休。</span><span class="english">Y yo no me lo callo.</span></p>
 
 <p><span class="chinese">这可说不准，劳拉。</span><span class="english">Eso no lo creo, Laura.</span></p>

@@ -1,5 +1,7 @@
 # connexion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connexion.md)
+
 <p><span class="chinese">这种连接并不只是衍生性的。</span><span class="english">The connexion is not a simple derivation.</span></p>
 
 <p><span class="chinese">她从各方面表示不赞成这门亲事。</span><span class="english">She deprecated the connexion in every light.</span></p>

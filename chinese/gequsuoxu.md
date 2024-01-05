@@ -1,5 +1,7 @@
 # 各取所需
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gequsuoxu.md)
+
 <p><span class="chinese">不管怎样，这个策略一直让参与人各取所需，直至最近危机爆发。</span><span class="english">The strategy worked brilliantly for all participants—until recently, anyway.</span></p>
 
 <p><span class="chinese">孔子只是一个符号，不同的人给他赋予不同的含义，然后各取所需。</span><span class="english">Different people give Confucius different meanings in the United States of America.</span></p>

@@ -1,5 +1,7 @@
 # metallurgic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metallurgic.md)
+
 <p><span class="chinese">本项目属冶金矿产领域。</span><span class="english">The project belongs to metallurgic mineral field.</span></p>
 
 <p><span class="chinese">强化层与基体的结合为冶金结合。</span><span class="english">The inosculation between strengthened layer and matrix is metallurgic combination.</span></p>

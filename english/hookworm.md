@@ -1,5 +1,7 @@
 # hookworm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hookworm.md)
+
 <p><span class="chinese">目的探索人体钩虫易感因素。</span><span class="english">Objective To determine the infection factors of hookworm.</span></p>
 
 <p><span class="chinese">未见钩虫生殖细胞超微结构明显变化。</span><span class="english">No apparent alterations were observed in genital cells of hookworm.</span></p>

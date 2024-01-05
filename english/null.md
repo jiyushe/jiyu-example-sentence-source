@@ -1,5 +1,7 @@
 # null
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/null.md)
+
 <p><span class="chinese">因此，它是空的。</span><span class="english">Therefore, it is null.</span></p>
 
 <p><span class="chinese">以空质粒转染组为对照。</span><span class="english">Null vector transfection as the control.</span></p>

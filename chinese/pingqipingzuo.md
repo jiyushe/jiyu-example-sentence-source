@@ -1,5 +1,7 @@
 # 平起平坐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingqipingzuo.md)
+
 <p><span class="chinese">我感到我现在可以和他平起平坐了”。</span><span class="english">I feel as if I am his equal now.</span></p>
 
 <p><span class="chinese">那些孩子要与大人们平起平坐。</span><span class="english">Those children want to be level with adults.</span></p>

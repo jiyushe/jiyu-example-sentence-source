@@ -1,5 +1,7 @@
 # nucleation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucleation.md)
+
 <p><span class="chinese">溶剂的性质也将改变成核速率的大小。</span><span class="english">And the property of dissolvent will change the nucleation rate.</span></p>
 
 <p><span class="chinese">分析和讨论了凹坑降低金刚石核形成能的原因。</span><span class="english">The reason of the pit reduced the nucleation energy is analyzed.</span></p>

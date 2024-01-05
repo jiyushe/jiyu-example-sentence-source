@@ -1,5 +1,7 @@
 # nephritic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephritic.md)
+
 <p><span class="chinese">没有严重的肝、肾功能损害。</span><span class="english">No severe hepatic or nephritic damage was observed.</span></p>
 
 <p><span class="chinese">肾脏病人应该在饮食方面注意什么？</span><span class="english">What should nephritic patient notice in dietary respect?</span></p>

@@ -1,5 +1,7 @@
 # 汽水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishui.md)
+
 <p><span class="chinese">忌饮汽水。</span><span class="english">Avoid soda.</span></p>
 
 <p><span class="chinese">就要一杯七喜汽水。</span><span class="english">Just a Seven-up.</span></p>

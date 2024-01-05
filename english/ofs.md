@@ -1,5 +1,7 @@
 # ofs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ofs.md)
+
 <p><span class="chinese">你能通知我它表示什么吗？</span><span class="english">Could you tell me what it meany kind ofs?</span></p>
 
 <p><span class="chinese">网上数量宏壮的代码例程。</span><span class="english">Zillions of code exgrefor i amount ofs on the web.</span></p>

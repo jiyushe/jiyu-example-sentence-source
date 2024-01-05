@@ -1,5 +1,7 @@
 # chlamydia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chlamydia.md)
+
 <p><span class="chinese">我有过衣原体感染。</span><span class="english">I had had chlamydia.</span></p>
 
 <p><span class="chinese">男性感染衣原体几乎没什么症状。</span><span class="english">Chlamydia in the male may be almost symptom-free.</span></p>

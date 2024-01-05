@@ -1,5 +1,7 @@
 # 快嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaizui.md)
+
 <p><span class="chinese">你这张快嘴！</span><span class="english">You while big mouth!</span></p>
 
 <p><span class="chinese">你这张快嘴！</span><span class="english">You and your big mouth!</span></p>

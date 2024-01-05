@@ -1,5 +1,7 @@
 # intent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intent.md)
+
 <p><span class="chinese">他怀着诈取钱财的目的而来。</span><span class="english">He came with intent to defraud.</span></p>
 
 <p><span class="chinese">普洛明说，他的想法则较为简单。</span><span class="english">Plomin says his intent is more modest.</span></p>

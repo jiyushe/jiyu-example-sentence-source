@@ -1,5 +1,7 @@
 # salesman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salesman.md)
+
 <p><span class="chinese">你是推销员吗？</span><span class="english">Are you a salesman?</span></p>
 
 <p><span class="chinese">他是一个油嘴滑舌的推销员。</span><span class="english">He is a glib salesman.</span></p>

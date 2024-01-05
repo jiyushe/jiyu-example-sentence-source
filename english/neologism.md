@@ -1,5 +1,7 @@
 # neologism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neologism.md)
+
 <p><span class="chinese">研究新词要有动态眼光。</span><span class="english">A dynamic attitude toward neologism is desirable.</span></p>
 
 <p><span class="chinese">她急忙采用了报刊上流行的一种新词语。</span><span class="english">He caught up a popular neologism from the newspapers.</span></p>

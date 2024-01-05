@@ -1,5 +1,7 @@
 # silicification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silicification.md)
+
 <p><span class="chinese">黄金为微细颗粒，与强硅化作用伴生。</span><span class="english">Gold is fine grained, associated with strong silicification.</span></p>
 
 <p><span class="chinese">锑的富集则与硅化关系密切。</span><span class="english">The enrichment of antinomy is closely related to silicification.</span></p>

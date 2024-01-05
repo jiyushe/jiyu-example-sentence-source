@@ -1,5 +1,7 @@
 # aeronautical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeronautical.md)
+
 <p><span class="chinese">我在索尔福德大学修完了航空工程学。</span><span class="english">I finished aeronautical engineering in the Salford University.</span></p>
 
 <p><span class="chinese">这些飞行员中很多人将会在航空界声名显赫。</span><span class="english">Many of the pilots were to achieve eminence in the aeronautical world.</span></p>

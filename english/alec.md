@@ -1,5 +1,7 @@
 # alec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alec.md)
+
 <p><span class="chinese">她想那也许就是亚力克了。</span><span class="english">She thought that might be Alec.</span></p>
 
 <p><span class="chinese">“你还不能走。”艾里克说。</span><span class="english">"You can't leave yet, " Alec said.</span></p>

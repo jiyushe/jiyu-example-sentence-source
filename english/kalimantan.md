@@ -1,5 +1,7 @@
 # kalimantan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kalimantan.md)
+
 <p><span class="chinese">加里曼丹岛中毒死亡的鱼</span><span class="english">Poisoned Fish in West Kalimantan</span></p>
 
 <p><span class="chinese">文莱达鲁萨兰国位于加里曼丹岛北部。</span><span class="english">Brunei Darussalam located in the northern part of Kalimantan Island.</span></p>

@@ -1,5 +1,7 @@
 # Syria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syria.md)
+
 <p><span class="chinese">谁为叙利亚提供资金？</span><span class="english">Who funded this for Syria?</span></p>
 
 <p><span class="chinese">我们是否将与叙利亚开战呢？</span><span class="english">Are we going to war with Syria?</span></p>

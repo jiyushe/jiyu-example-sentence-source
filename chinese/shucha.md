@@ -1,5 +1,7 @@
 # 树杈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shucha.md)
+
 <p><span class="chinese">我的头撞在了一个低树杈…</span><span class="english">I bumped my head on a low branch.</span></p>
 
 <p><span class="chinese">我蹲在树杈上，树枝抽打着我。</span><span class="english">I crouched down in the fork of the tree.</span></p>

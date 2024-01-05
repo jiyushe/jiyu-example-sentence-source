@@ -1,5 +1,7 @@
 # 小资产阶级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozichanjieji.md)
+
 <p><span class="chinese">小资产阶级家庭。</span><span class="english">He came from a petty-bourgeois family.</span></p>
 
 <p><span class="chinese">要抛弃小资产阶级的伤感情调。</span><span class="english">Petty-bourgeois sentiment should be done away with.</span></p>

@@ -1,5 +1,7 @@
 # quantum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantum.md)
+
 <p><span class="chinese">正量霍耳效应。</span><span class="english">Plus the quantum Hall effect.</span></p>
 
 <p><span class="chinese">量子化学仍处于发展初期。</span><span class="english">Quantum chemistry is in its infancy.</span></p>

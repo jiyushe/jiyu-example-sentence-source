@@ -1,5 +1,7 @@
 # dwarfism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dwarfism.md)
+
 <p><span class="chinese">而在人类社会中，人们普遍称拥有此特征的人为侏儒。</span><span class="english">In people the condition is known vulgarly as dwarfism.</span></p>
 
 <p><span class="chinese">许多遗体还很年轻或是有点残疾，例如矮化。</span><span class="english">Many of the remains were young or had deformities, such as dwarfism.</span></p>

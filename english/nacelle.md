@@ -1,5 +1,7 @@
 # nacelle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nacelle.md)
+
 <p><span class="chinese">飞机发动机短舱挠性管道。</span><span class="english">Aircraft engine Nacelle flexible ducts.</span></p>
 
 <p><span class="chinese">在左侧可看见部分的发动机短舱和排气顶针。</span><span class="english">Part of an engine nacelle and an exhaust ejector are visible at left.</span></p>

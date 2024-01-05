@@ -1,5 +1,7 @@
 # 器皿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qimin.md)
+
 <p><span class="chinese">把这些器皿拿过来给神。</span><span class="english">Bring these vessels to God.</span></p>
 
 <p><span class="chinese">玻璃器皿必须轻拿轻放。</span><span class="english">Glassware must be handled with care.</span></p>

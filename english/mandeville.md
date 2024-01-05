@@ -1,5 +1,7 @@
 # mandeville
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mandeville.md)
+
 <p><span class="chinese">“曼德维尔”则受到白金汉郡的斯托克曼德维尔的启发。</span><span class="english">Mandeville's name is inspired by Stoke Mandeville in Buckinghamshire.</span></p>
 
 <p><span class="chinese">在其他年份，残疾人奥运会仍在斯特克曼德威尔举行。</span><span class="english">In other years Games for the Disabled are still held at Stoke Mandeville.</span></p>

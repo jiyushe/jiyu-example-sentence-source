@@ -1,5 +1,7 @@
 # squirm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squirm.md)
+
 <p><span class="chinese">公司使人烦躁、愤怒、花代价并挣扎着成为“行业领先”。</span><span class="english">Companies fret and fume, spend and squirm to be “industry leaders.</span></p>
 
 <p><span class="chinese">对于这种轻率鲁莽，当地人会因尴尬而战战兢兢。坐立不安。</span><span class="english">Natives will cringe and squirm with embarrassment at such brashness.</span></p>

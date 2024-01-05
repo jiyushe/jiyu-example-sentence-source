@@ -1,5 +1,7 @@
 # 名酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingjiu.md)
+
 <p><span class="chinese">茅台是一种中国的名酒。</span><span class="english">Mao-tai is a famous Chinese liquor.</span></p>
 
 <p><span class="chinese">您能帮我们推荐一些中国名酒么？</span><span class="english">Could you recommend some famous Chinese liquors?</span></p>

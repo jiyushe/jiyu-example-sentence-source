@@ -1,5 +1,7 @@
 # poinsettia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poinsettia.md)
+
 <p><span class="chinese">硬水显著抑制一品红生长。</span><span class="english">Hard water inhibited significantly the growth of poinsettia.</span></p>
 
 <p><span class="chinese">圣诞红的颜色越来越多变化了。</span><span class="english">The colour of the Poinsettia is getting more and more varied.</span></p>

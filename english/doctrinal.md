@@ -1,5 +1,7 @@
 # doctrinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doctrinal.md)
+
 <p><span class="chinese">那么，我们如何与教义上的背道作战呢？</span><span class="english">How, then, do we fight against doctrinal apostasy?</span></p>
 
 <p><span class="chinese">教令全基督教会议的教义或纪律法令。</span><span class="english">A doctrinal or disciplinary act of an ecumenical council.</span></p>

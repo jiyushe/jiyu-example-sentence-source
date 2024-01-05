@@ -1,5 +1,7 @@
 # 运动场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yundongchang.md)
+
 <p><span class="chinese">运动场。</span><span class="english">The playground.</span></p>
 
 <p><span class="chinese">不要在运动场运转！</span><span class="english">Don't run in the playground!</span></p>

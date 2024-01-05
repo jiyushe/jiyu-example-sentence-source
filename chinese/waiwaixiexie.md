@@ -1,5 +1,7 @@
 # 歪歪斜斜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiwaixiexie.md)
+
 <p><span class="chinese">一棵杨柳歪歪斜斜长在一条小溪边。</span><span class="english">There is a willow grows aslant a brook.</span></p>
 
 <p><span class="chinese">家俱摆得歪歪斜斜。</span><span class="english">The furniture in the room was placed askew.</span></p>

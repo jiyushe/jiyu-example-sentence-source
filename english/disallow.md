@@ -1,5 +1,7 @@
 # disallow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disallow.md)
+
 <p><span class="chinese">在学校不允许做下流动作，推推搡搡。</span><span class="english">Disallow to do the mean action at school.</span></p>
 
 <p><span class="chinese">这个中心文档允许您方便地为所有服务器启用或禁用该功能。</span><span class="english">This central location lets you easily allow or disallow it for all servers.</span></p>

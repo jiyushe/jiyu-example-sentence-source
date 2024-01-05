@@ -1,5 +1,7 @@
 # debauchery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debauchery.md)
+
 <p><span class="chinese">放荡的尾巴属于缺陷。</span><span class="english">Debauchery of the tail of defects.</span></p>
 
 <p><span class="chinese">然后我看到了斯米尔诺娃的脸还是没有声色。</span><span class="english">Then I saw the face Smirnova debauchery or not.</span></p>

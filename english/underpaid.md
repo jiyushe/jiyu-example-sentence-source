@@ -1,5 +1,7 @@
 # underpaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underpaid.md)
+
 <p><span class="chinese">是的，我知道你挣的很少。</span><span class="english">Yes, I know you’re all underpaid.</span></p>
 
 <p><span class="chinese">我被少发工资太长时间了。</span><span class="english">I have been being underpaid ? too long.</span></p>

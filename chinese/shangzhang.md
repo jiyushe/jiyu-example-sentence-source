@@ -1,5 +1,7 @@
 # 上涨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangzhang.md)
+
 <p><span class="chinese">工资已经上涨。</span><span class="english">Wages have gone up.</span></p>
 
 <p><span class="chinese">镨钕氧化物的价格随之上涨。</span><span class="english">The oxide prices rose.</span></p>

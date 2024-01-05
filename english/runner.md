@@ -1,5 +1,7 @@
 # runner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/runner.md)
+
 <p><span class="chinese">你是个晨跑者吗？</span><span class="english">Are you a morning runner?</span></p>
 
 <p><span class="chinese">如果你跑步，你就是个跑步者。</span><span class="english">If you run, you are a runner.</span></p>

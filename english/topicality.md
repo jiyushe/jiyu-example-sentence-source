@@ -1,5 +1,7 @@
 # topicality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topicality.md)
+
 <p><span class="chinese">王宁德即没有给过去一个准确的轮廓，也没有给现实一个明确的话题。</span><span class="english">Wang Ningde gives neither a precise contour to his past nor an explicit topicality to reality.</span></p>
 
 <p><span class="chinese">但句末名词性词语在语义期待值上占优势，也有一定的话题性。</span><span class="english">But the sentence-final noun phrases have advantage on the semantic expectation, but also a certain topicality.</span></p>

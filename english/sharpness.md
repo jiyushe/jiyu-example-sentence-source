@@ -1,5 +1,7 @@
 # sharpness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sharpness.md)
+
 <p><span class="chinese">不完善的边对边锐利度。</span><span class="english">Imperfect edge-to-edge sharpness.</span></p>
 
 <p><span class="chinese">这些镜头有着令人惊讶的清晰度。</span><span class="english">The sharpness of these lenses are amazing.</span></p>

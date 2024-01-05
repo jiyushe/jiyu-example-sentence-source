@@ -1,5 +1,7 @@
 # phrenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phrenic.md)
+
 <p><span class="chinese">对膈神经放电的影响。</span><span class="english">C on phrenic nerve discharges.</span></p>
 
 <p><span class="chinese">膈神经全部移位至肌皮神经。</span><span class="english">All these phrenic nerves were sutured to musculocutaneous nerves.</span></p>

@@ -1,5 +1,7 @@
 # cushion 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cushion.md)
+
 <p><span class="chinese">已定购新鲜椅垫。</span><span class="english">Fresh seat cushion on order.</span></p>
 
 <p><span class="chinese">一个大抱枕或者什么？</span><span class="english">Is it a big cushion or what?</span></p>

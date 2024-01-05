@@ -1,5 +1,7 @@
 # 街谈巷议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jietanxiangyi.md)
+
 <p><span class="chinese">她的突然结婚成了街谈巷议的话题。</span><span class="english">Her sudden marriage is the talk of the street.</span></p>
 
 <p><span class="chinese">最近，硬件加速成为人们街谈巷议的一个主要话题。</span><span class="english">Hardware Acceleration is a major topic these days.</span></p>

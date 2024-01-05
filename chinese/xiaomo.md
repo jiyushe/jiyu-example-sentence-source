@@ -1,5 +1,7 @@
 # 消磨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaomo.md)
+
 <p><span class="chinese">你如何消磨你的时间呢？</span><span class="english">How do you spend your time?</span></p>
 
 <p><span class="chinese">我说，“我在这儿消磨了许多光阴。”</span><span class="english">I spend a lot of time here.</span></p>

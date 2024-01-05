@@ -1,5 +1,7 @@
 # thereabouts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thereabouts.md)
+
 <p><span class="chinese">我猜她五十五岁左右。</span><span class="english">I guess she is fifty-five or thereabouts.</span></p>
 
 <p><span class="chinese">他想看看那一带地区发展得怎么样了。</span><span class="english">He wondered how the territory thereabouts was growing.</span></p>

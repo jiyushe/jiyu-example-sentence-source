@@ -1,5 +1,7 @@
 # lactobacillus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lactobacillus.md)
+
 <p><span class="chinese">例如，乳酸菌，乳链球菌。</span><span class="english">Lactobacillus spp. , Streptococcus lactis.</span></p>
 
 <p><span class="chinese">结论乳酸杆菌对机体未见明显毒性作用。</span><span class="english">Conclusion Lactobacillus wasn t toxic to body.</span></p>

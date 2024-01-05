@@ -1,5 +1,7 @@
 # 放哨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangshao.md)
+
 <p><span class="chinese">我替你放哨。</span><span class="english">I sentry for you.</span></p>
 
 <p><span class="chinese">他们常常在雪夜放哨。</span><span class="english">They often stood sentry on snowy nights.</span></p>

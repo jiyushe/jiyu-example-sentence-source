@@ -1,5 +1,7 @@
 # weed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weed.md)
+
 <p><span class="chinese">我在庭院中除杂草。</span><span class="english">I weed the yard.</span></p>
 
 <p><span class="chinese">是你把大麻藏在我的屋子里的吧？</span><span class="english">I know you don't smoke weed.</span></p>

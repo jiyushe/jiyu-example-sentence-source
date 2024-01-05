@@ -1,5 +1,7 @@
 # unconquered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconquered.md)
+
 <p><span class="chinese">技艺与信心，无往而不胜。</span><span class="english">Skill and confidence is an unconquered army.</span></p>
 
 <p><span class="chinese">和信心是不可克服的军队。</span><span class="english">Skill and confidence are an unconquered army.</span></p>

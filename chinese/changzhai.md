@@ -1,5 +1,7 @@
 # 偿债
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changzhai.md)
+
 <p><span class="chinese">为可预见的事准备好偿债基金。</span><span class="english">Sinking funds for foreseeable events.</span></p>
 
 <p><span class="chinese">你是一个无力偿债的破产者?。</span><span class="english">Are you an unrehabilitated insolvent ?</span></p>

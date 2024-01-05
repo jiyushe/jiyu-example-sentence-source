@@ -1,5 +1,7 @@
 # dalian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dalian.md)
+
 <p><span class="chinese">这破船开往大连。</span><span class="english">The ship was for Dalian.</span></p>
 
 <p><span class="chinese">这部影片是在大连拍的。</span><span class="english">This film was shot in Dalian.</span></p>

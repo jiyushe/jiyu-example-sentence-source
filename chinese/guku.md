@@ -1,5 +1,7 @@
 # 孤苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guku.md)
+
 <p><span class="chinese">她现在不仍然是孤苦零仃吗？</span><span class="english">Was not she at this very moment quite alone?</span></p>
 
 <p><span class="chinese">当他来时，孤苦之地必成欢愉。</span><span class="english">When he cometh the solitary places shall be glad.</span></p>

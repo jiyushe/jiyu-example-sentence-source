@@ -1,5 +1,7 @@
 # tetrarch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetrarch.md)
+
 <p><span class="chinese">主公送了他一枚戒指。</span><span class="english">The Tetrarch sent him the ring.</span></p>
 
 <p><span class="chinese">他就是希罗底畏惧的人吗？</span><span class="english">He of whom the Tetrarch is afraid?</span></p>

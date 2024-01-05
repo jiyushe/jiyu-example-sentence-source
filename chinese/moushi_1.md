@@ -1,5 +1,7 @@
 # 谋士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moushi_1.md)
+
 <p><span class="chinese">亚希多弗也作王的谋士。</span><span class="english">Ahithophel was the king's counselor.</span></p>
 
 <p><span class="chinese">谋士多，保安全。</span><span class="english">In the multitude of counsellors there is safety.</span></p>

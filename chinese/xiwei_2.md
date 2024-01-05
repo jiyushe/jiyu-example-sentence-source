@@ -1,5 +1,7 @@
 # 细微
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiwei_2.md)
+
 <p><span class="chinese">这里听起来有点细微差别。</span><span class="english">This is a nuance.</span></p>
 
 <p><span class="chinese">挑染是非常细微的。</span><span class="english">The highlights are very subtle.</span></p>

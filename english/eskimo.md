@@ -1,5 +1,7 @@
 # eskimo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eskimo.md)
+
 <p><span class="chinese">那就是“爱斯基摩雪靴”。</span><span class="english">It's the "Eskimo Boot."</span></p>
 
 <p><span class="chinese">我没有用爱斯基摩口吻顶撞你。</span><span class="english">I'm not sassing you in Eskimo talk.</span></p>

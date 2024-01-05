@@ -1,5 +1,7 @@
 # roboticized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roboticized.md)
+
 <p><span class="chinese">送料器自动送料，实现送料、压制自动化。</span><span class="english">It is auto feed, and realized roboticized feeding and pressing.</span></p>
 
 <p><span class="chinese">C3I系统的出现是指挥自动化的重大进展。</span><span class="english">The appearance of C3I system is great evolvement of command roboticized.</span></p>

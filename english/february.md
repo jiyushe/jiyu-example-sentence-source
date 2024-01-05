@@ -1,5 +1,7 @@
 # february
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/february.md)
+
 <p><span class="chinese">一九二九年二月再版。</span><span class="english">In February 1929 reprint.</span></p>
 
 <p><span class="chinese">二月二十六日。</span><span class="english">It's February twenty-sixth.</span></p>

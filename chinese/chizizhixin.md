@@ -1,5 +1,7 @@
 # 赤子之心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chizizhixin.md)
+
 <p><span class="chinese">保持赤子之心。</span><span class="english">Stay young at heart.</span></p>
 
 <p><span class="chinese">我要怎样才能更冲动、更有赤子之心呢？</span><span class="english">How can I become more impulsive and childlike?</span></p>

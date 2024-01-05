@@ -1,5 +1,7 @@
 # noisy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noisy.md)
+
 <p><span class="chinese">这儿太吵了。</span><span class="english">It's too noisy.</span></p>
 
 <p><span class="chinese">我的车好吵！</span><span class="english">My car is noisy.</span></p>

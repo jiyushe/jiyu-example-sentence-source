@@ -1,5 +1,7 @@
 # honourably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honourably.md)
+
 <p><span class="chinese">她行为光明磊落。</span><span class="english">She conducts herself honourably.</span></p>
 
 <p><span class="chinese">你赢得很不体面啊。</span><span class="english">You did not win very honourably.</span></p>

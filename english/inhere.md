@@ -1,5 +1,7 @@
 # inhere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhere.md)
+
 <p><span class="chinese">在这的每一个人都有痛苦但我们会处理它！</span><span class="english">Everyone inhere has pain but we deal with it!</span></p>
 
 <p><span class="chinese">健康价值是内在价值与工具价值的统一。</span><span class="english">Vaule of health is the unity of inhere vaule and tool vaule.</span></p>

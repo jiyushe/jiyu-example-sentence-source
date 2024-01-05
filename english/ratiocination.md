@@ -1,5 +1,7 @@
 # ratiocination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ratiocination.md)
+
 <p><span class="chinese">你的论文缺少能证明你的论点的正确推理。</span><span class="english">Your thesis is short for the accurate ratiocination to suppose your argument.</span></p>
 
 <p><span class="chinese">文章组织的顺序与逻辑推理的链条是一致的。</span><span class="english">We organize the dissertation in order according to the sequence of logic ratiocination.</span></p>

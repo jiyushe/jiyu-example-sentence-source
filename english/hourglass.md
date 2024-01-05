@@ -1,5 +1,7 @@
 # hourglass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hourglass.md)
+
 <p><span class="chinese">今天晚上我们把沙漏倒回去不？</span><span class="english">Do we turn the hourglass back tonight?</span></p>
 
 <p><span class="chinese">一个沙漏，指示一个未处理的预订请求。</span><span class="english">An hourglass to indicate an unprocessed reservation request.</span></p>

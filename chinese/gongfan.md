@@ -1,5 +1,7 @@
 # 共犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfan.md)
+
 <p><span class="chinese">在刑法理论中，通常将教唆犯作为共犯的一种类型加以探究。</span><span class="english">It is not a and differs from instigator in nature.</span></p>
 
 <p><span class="chinese">在抢劫银行一案中他是布戈图的共犯。</span><span class="english">He was an accomplice with Bugotu in the bank robbery.</span></p>

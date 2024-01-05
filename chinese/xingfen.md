@@ -1,5 +1,7 @@
 # 兴奋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingfen.md)
+
 <p><span class="chinese">你使我兴奋！</span><span class="english">You excite me!</span></p>
 
 <p><span class="chinese">你焦灼、兴奋。</span><span class="english">You're excited.</span></p>

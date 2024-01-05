@@ -1,5 +1,7 @@
 # 清爽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshuang.md)
+
 <p><span class="chinese">你清爽我的旨趣吗？</span><span class="english">You know what I meany good?</span></p>
 
 <p><span class="chinese">今天的空气是凉爽且清爽的。</span><span class="english">The air is cool and crisp today.</span></p>

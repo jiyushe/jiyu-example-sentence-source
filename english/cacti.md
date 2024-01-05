@@ -1,5 +1,7 @@
 # cacti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cacti.md)
+
 <p><span class="chinese">刺猬和仙人掌都有刺。</span><span class="english">Hedgehogs and cacti have spines.</span></p>
 
 <p><span class="chinese">将植株较大的仙人掌种在花园的后部。</span><span class="english">Plant large cacti at the back of the garden.</span></p>

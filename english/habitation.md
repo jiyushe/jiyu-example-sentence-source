@@ -1,5 +1,7 @@
 # habitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habitation.md)
+
 <p><span class="chinese">他住在用藤条和茅草搭成的单薄房子里。</span><span class="english">His habitation is flimsy affair of canes and thatch.</span></p>
 
 <p><span class="chinese">我们的新住所是一处挖空的地洞。</span><span class="english">Our new habitation was an excavation made in the earth.</span></p>

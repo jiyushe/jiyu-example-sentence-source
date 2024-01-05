@@ -1,5 +1,7 @@
 # ineffectively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ineffectively.md)
+
 <p><span class="chinese">经我们人思考效率不高是因为我们的观点太受限制。</span><span class="english">Often we think ineffectively because we take too limited a view.</span></p>
 
 <p><span class="chinese">然后你就能弄明白在什么地方你没有很有效的利用你的时间了。</span><span class="english">Then you should study it to see where you're spending time ineffectively.</span></p>

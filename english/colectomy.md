@@ -1,5 +1,7 @@
 # colectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colectomy.md)
+
 <p><span class="chinese">结肠切除术采用标准式完成。</span><span class="english">The colectomy was completed in standard fashion.</span></p>
 
 <p><span class="chinese">腹腔镜手术治疗结直肠癌安全性的临床研究。</span><span class="english">A comparison of laparoscopically assisted and open colectomy for colon cancer.</span></p>

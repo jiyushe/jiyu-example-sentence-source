@@ -1,5 +1,7 @@
 # 着陆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuolu.md)
+
 <p><span class="chinese">你的航班什么时候着陆？</span><span class="english">When does your flight land?</span></p>
 
 <p><span class="chinese">第1095号航班马上要着陆了。</span><span class="english">Flight 1095 is landing soon.</span></p>

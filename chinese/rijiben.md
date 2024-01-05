@@ -1,5 +1,7 @@
 # 日记本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rijiben.md)
+
 <p><span class="chinese">有人动了我的日记本。</span><span class="english">Some one tampers with my diary.</span></p>
 
 <p><span class="chinese">哦，桑蒂，一个日记本！太好了。</span><span class="english">Oh, Sandy, a diary! It's perfect!</span></p>

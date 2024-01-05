@@ -1,5 +1,7 @@
 # sinewy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinewy.md)
+
 <p><span class="chinese">那男子有着强壮有力的肌肉。</span><span class="english">The man has sinewy muscles.</span></p>
 
 <p><span class="chinese">钦佩她那强劲有力的散文风格。</span><span class="english">I admire her sinewy prose style.</span></p>

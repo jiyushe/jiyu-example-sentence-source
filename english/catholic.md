@@ -1,5 +1,7 @@
 # catholic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catholic.md)
+
 <p><span class="chinese">小狗是人主教徒吗?。</span><span class="english">Was The Dog Catholic?</span></p>
 
 <p><span class="chinese">他从小就是天主教徒。</span><span class="english">He was raised Catholic.</span></p>

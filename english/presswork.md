@@ -1,5 +1,7 @@
 # presswork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presswork.md)
+
 <p><span class="chinese">广泛用于各种印刷品的折页。</span><span class="english">It is broadly used for folding various kinds of presswork.</span></p>
 
 <p><span class="chinese">为印刷品质量评价提供了一种有效的方法。</span><span class="english">An effective way was offered for the presswork quality evaluation.</span></p>

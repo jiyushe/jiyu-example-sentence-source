@@ -1,5 +1,7 @@
 # 猎取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liequ.md)
+
 <p><span class="chinese">这是鹈鹕在水面上猎取鱼类的画面。</span><span class="english">In this case, the poopers are pelicans.</span></p>
 
 <p><span class="chinese">当你在俄亥俄州非法猎取奖榜级鹿的时候。</span><span class="english">When you illegally take a trophy deer in Ohio.</span></p>

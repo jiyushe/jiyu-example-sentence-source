@@ -1,5 +1,7 @@
 # 词人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciren.md)
+
 <p><span class="chinese">因为他是一个自成一家的词人。</span><span class="english">Because he is a poet of independent.</span></p>
 
 <p><span class="chinese">李清照是中国最伟大的女词人。</span><span class="english">Li chingchao was the greatest poetess of China.</span></p>

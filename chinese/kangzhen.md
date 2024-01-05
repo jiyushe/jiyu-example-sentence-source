@@ -1,5 +1,7 @@
 # 抗震
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangzhen.md)
+
 <p><span class="chinese">即使抗震树脂铁酸盐也无法容下。</span><span class="english">There's no space even for a shock-resistant resin ferrite.</span></p>
 
 <p><span class="chinese">建筑物抗震、抗风性能好。</span><span class="english">Construction got good performance in aseismic and wind resistance.</span></p>

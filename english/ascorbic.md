@@ -1,5 +1,7 @@
 # ascorbic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascorbic.md)
+
 <p><span class="chinese">维他命C，又名抗坏血酸，是一种水溶性维生素。</span><span class="english">Vitamin C, also known as ascorbic acid, is a water-soluble vitamin.</span></p>
 
 <p><span class="chinese">过量750倍的抗坏血酸不干扰尿酸的测定。</span><span class="english">Ascorbic acid in 750-fold excess does not interfere with the determination of UA.</span></p>

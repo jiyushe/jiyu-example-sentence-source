@@ -1,5 +1,7 @@
 # lettered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lettered.md)
+
 <p><span class="chinese">“字母词”是一个合适的名称。</span><span class="english">Lettered words is an appropriate name.</span></p>
 
 <p><span class="chinese">她写了一句格言挂在教室的墙上。</span><span class="english">She lettered a motto for the wall of the classroom.</span></p>

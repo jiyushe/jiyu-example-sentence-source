@@ -1,5 +1,7 @@
 # boston
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boston.md)
+
 <p><span class="chinese">爬山虎在墙上蔓延。</span><span class="english">Boston ivies crawl along the wall.</span></p>
 
 <p><span class="chinese">船在直布罗陀上煤。</span><span class="english">The ship called at Boston to coal.</span></p>

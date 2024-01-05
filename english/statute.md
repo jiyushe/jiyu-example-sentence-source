@@ -1,5 +1,7 @@
 # statute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statute.md)
+
 <p><span class="chinese">法令违宪了吗？</span><span class="english">Is the statute unconstitutional?</span></p>
 
 <p><span class="chinese">在1847年，澳门已有赌博合法化的法令。</span><span class="english">The statute legalizing lottery existed as early as 1847.</span></p>

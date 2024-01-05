@@ -1,5 +1,7 @@
 # atony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atony.md)
+
 <p><span class="chinese">宫缩乏力导致的产科出血是子宫切除的首要原因。</span><span class="english">Uterine atony with obstetric bleeding was the primary cause of obstetric hysterectomy.</span></p>
 
 <p><span class="chinese">子宫切除术主要指征是胎盘因素、子宫收缩乏力。</span><span class="english">The main indications of obstetrical hysterectomy were plancta factors and uterine atony.</span></p>

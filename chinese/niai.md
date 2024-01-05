@@ -1,5 +1,7 @@
 # 溺爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niai.md)
+
 <p><span class="chinese">溺爱我直到永久。</span><span class="english">To dote upon me ever.</span></p>
 
 <p><span class="chinese">如果我溺爱，我将极其过去的饥饿。</span><span class="english">I will think of past hungers.</span></p>
